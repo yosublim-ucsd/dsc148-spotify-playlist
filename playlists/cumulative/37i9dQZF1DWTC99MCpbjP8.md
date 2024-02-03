@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-542 songs - 23 hr 31 min
+548 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Emergence](https://open.spotify.com/track/31euvr3EhfWo8GbsVVsQjy) | [Cai Harrington](https://open.spotify.com/artist/1Uf7osa9yPgNWu1JrAU3Iu) | [Emergence](https://open.spotify.com/album/1PDA8OAoJh0JIuVmuoxWuC) | 2:06 | 2023-03-06 |  |
 | [Emotion](https://open.spotify.com/track/3Erp4addg6gNsxONhzMTff) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Emotion](https://open.spotify.com/album/5qBzrhSYA2oc8GUJgty2Pp) | 3:24 | 2022-04-22 |  |
 | [Endless Summer](https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Endless Summer](https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ) | 2:45 | 2022-04-22 |  |
+| [Eridani](https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Eridani](https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV) | 2:32 | 2024-02-02 |  |
 | [erinna](https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [erinna](https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X) | 2:08 | 2022-04-22 |  |
 | [Estebania](https://open.spotify.com/track/7JovgYye2faHH2pvnV0EY4) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Estebania](https://open.spotify.com/album/1wNGh4oE2iPQ7CgnPrbq4K) | 2:51 | 2022-04-22 |  |
 | [Eternal Light](https://open.spotify.com/track/0utTxlkXq7mv67jgyL7XEg) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Eternal Light](https://open.spotify.com/album/0kKtZbnc8mRAEz6VMdhIZg) | 2:18 | 2022-04-22 |  |
@@ -143,6 +144,7 @@
 | [Fairy Wings](https://open.spotify.com/track/6CMNS6pnhXrNMVIaySBaMY) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Fairy Wings](https://open.spotify.com/album/0AVeV4v7mhaOW7Okhxk7Yb) | 2:05 | 2023-06-19 |  |
 | [Faith](https://open.spotify.com/track/6rMKRMeW8iGPRGaAA3g8ZJ) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Faith](https://open.spotify.com/album/6KFLVb3LM2asbF4FbGdN99) | 2:13 | 2023-09-18 |  |
 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 | 2022-04-22 |  |
+| [Falling Leaves](https://open.spotify.com/track/1rzC7unFOnmkvhJ8f9hKvn) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Falling Leaves](https://open.spotify.com/album/030THEgwacYaV1XQ2jumYh) | 2:48 | 2024-02-02 |  |
 | [Fantasifull](https://open.spotify.com/track/7JxnwtrmZVwIt4jEsVlRHT) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Fantasifull](https://open.spotify.com/album/40bwSaWIycZ7vLnn8xtl7u) | 2:35 | 2023-11-13 |  |
 | [Fascination](https://open.spotify.com/track/7aUvdK4ijMLLm29HAeuQzm) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Fascination](https://open.spotify.com/album/693GKAkPxQiKJtVQ8X7GRg) | 2:15 | 2022-07-27 |  |
 | [Feeling Free](https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Feeling Free](https://open.spotify.com/album/6GsuHsBee1V5VZLEQMRMaB) | 2:06 | 2022-04-22 | 2023-01-27 |
@@ -180,6 +182,7 @@
 | [Heure d'or](https://open.spotify.com/track/37FY79ZJkHEGLSCHNKi8T3) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Heure d'or](https://open.spotify.com/album/5SM1Rol3fSZoByy60uUwjv) | 2:35 | 2022-04-22 | 2023-05-04 |
 | [Hideaway](https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Hideaway](https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765) | 2:39 | 2022-04-22 | 2022-05-28 |
 | [Hideaway](https://open.spotify.com/track/3poVmAGCtZCM3Y0iRO1zWA) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Deep Blue Sea](https://open.spotify.com/album/0i5XbMBrhhikBCn2ExEWSt) | 2:56 | 2022-04-22 |  |
+| [Highlands](https://open.spotify.com/track/23PYmOs15gQXHPEGQXJP8O) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Highlands](https://open.spotify.com/album/4fGBjm0G7Cr5tXeo2aHkn7) | 3:00 | 2024-02-02 |  |
 | [Hillfar](https://open.spotify.com/track/3ecgnF1yzvtGZfs9YjkC0P) | [Vegard](https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ) | [Hillfar](https://open.spotify.com/album/0cUUgnC9tdps4Py9l2FKIQ) | 2:46 | 2023-10-09 |  |
 | [Hindsight](https://open.spotify.com/track/0k8MgafLdbRrQaqPbklNtN) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Hindsight](https://open.spotify.com/album/6kioGbNjNtqk7fmhcDBleD) | 1:50 | 2022-04-22 | 2022-07-28 |
 | [Homecoming](https://open.spotify.com/track/3m2AfO2MVWB1hgrEwFnwpA) | [Matthew Paull](https://open.spotify.com/artist/1SCYbA8Dz2FbWaVt6nVQo3) | [Homecoming](https://open.spotify.com/album/6TWSSCJhQUJcyLPanQJcgC) | 2:57 | 2022-04-22 | 2022-09-16 |
@@ -271,6 +274,7 @@
 | [Minuit](https://open.spotify.com/track/7GzMpKkrr5zwsmtTIQk2EC) | [Clémentine Poirier](https://open.spotify.com/artist/0v781ChRVv7d2YR1zDUQOQ) | [Minuit](https://open.spotify.com/album/5gdYsIHo29QR7eX30KZosN) | 2:16 | 2022-04-22 | 2023-01-27 |
 | [Minute By Minute](https://open.spotify.com/track/5FeKYp26uQ93jj361VH7mr) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Final Feliz](https://open.spotify.com/album/6h74nF5jtOcrYaJwc7YDat) | 3:08 | 2022-04-22 | 2022-07-28 |
 | [Missing You](https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Missing You](https://open.spotify.com/album/4ZzrBDTL49OisnhEp2DL5c) | 2:28 | 2023-06-19 |  |
+| [Mistral](https://open.spotify.com/track/0dLhSZLgoYp6npEjBB7Nzl) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Mistral](https://open.spotify.com/album/1Zu2cOCqnnquBuOlma6gim) | 2:50 | 2024-02-02 |  |
 | [momente](https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [momente](https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7) | 2:06 | 2022-04-22 |  |
 | [Momentum](https://open.spotify.com/track/3dTGRSCi9Zw7fT5lA2mDnV) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Momentum](https://open.spotify.com/album/2unepZAwGZ41hI7ZRHxH8f) | 2:27 | 2022-04-22 | 2023-01-27 |
 | [mondaufgang](https://open.spotify.com/track/6iqbDeuRi4WJ3fYJc9WWGg) | [Albert Puck](https://open.spotify.com/artist/5hjnkdeCMBf3w7lMyHSDQd) | [silhouette](https://open.spotify.com/album/1aVDfgfybCKvosSxwokRlh) | 2:49 | 2022-04-22 | 2023-08-08 |
@@ -478,6 +482,7 @@
 | [The Toska](https://open.spotify.com/track/3B00y1wVSCix4zUW7tDCZx) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [The Toska](https://open.spotify.com/album/3jyhzzpsA1ijejYGA3N3V2) | 2:35 | 2022-07-27 |  |
 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 | 2022-04-22 |  |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-04-22 |  |
+| [The Whitening Fields](https://open.spotify.com/track/4MOy0eZpw1xoveN5S8stBC) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [The Whitening Fields](https://open.spotify.com/album/5m4Wj9vFbucH4Iq7pLapu2) | 2:33 | 2024-02-02 |  |
 | [Thinking Back](https://open.spotify.com/track/2EnuM63zw10S0dKTbvDmhk) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Mind Flow](https://open.spotify.com/album/0XeqcbOgWxwY3cYk7MFF1H) | 3:03 | 2022-04-22 | 2023-05-04 |
 | [This Tender Appeal](https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [This Tender Appeal](https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH) | 2:48 | 2023-03-28 |  |
 | [Three Small Steps](https://open.spotify.com/track/7pYPoG1pds3ZaoZt5tVGe6) | [Flore Habendum](https://open.spotify.com/artist/3CdIKTNMspWKu4RFaWPihl) | [Three Small Steps](https://open.spotify.com/album/71PNbuZGjoFXdjJ818Nv8q) | 3:03 | 2024-01-09 |  |
@@ -530,6 +535,7 @@
 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 | 2022-11-14 | 2023-03-29 |
 | [Weightless](https://open.spotify.com/track/3yXQyJLMVElujd88Gt4fAf) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Weightless](https://open.spotify.com/album/7xkqit6sN8sKvCfT62uw3s) | 2:18 | 2022-04-22 | 2023-01-27 |
 | [What We Hope For](https://open.spotify.com/track/7onCPDRFcCglFj03sdUhf9) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [What We Hope For](https://open.spotify.com/album/7t0oZryHJJnYR2lwQCLDiY) | 3:16 | 2022-04-22 |  |
+| [Whatever is left](https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Whatever is left](https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q) | 2:03 | 2024-02-02 |  |
 | [Whatever Will Be](https://open.spotify.com/track/6adM0QgyKfIaCnPos6OXX6) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Whatever Will Be](https://open.spotify.com/album/1lQs3tvAI1Sqh2kPAnCR56) | 1:52 | 2023-06-26 | 2023-08-15 |
 | [When Everything Is Calm](https://open.spotify.com/track/4haSmVvaqE5H7bHoH5Ji4N) | [Jon Thebur](https://open.spotify.com/artist/2Bhpy04Xbt9Vj0siuMXx3n) | [When Everything Is Calm](https://open.spotify.com/album/0x7gVCtQ16DwBB2G9GuKrD) | 2:44 | 2023-12-12 |  |
 | [When It Rains It Pours](https://open.spotify.com/track/2Dasbncj88VgX5FKh2ZVzs) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [A Drop in the Ocean](https://open.spotify.com/album/0ZQQAZfQcQEU171lBODhZM) | 2:28 | 2022-04-22 | 2023-04-19 |

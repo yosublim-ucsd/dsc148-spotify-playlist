@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 79748,
+  "2024-02-03": 79777,
   "date_first_scraped": "2022-10-01",
-  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Joyce Olong",
+  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Asa",
   "name": "Afro Indie",
   "tracks": [
     {
@@ -188,6 +188,28 @@
     },
     {
       "album": {
+        "name": "Amahoro (Don't Get Angry)",
+        "url": "https://open.spotify.com/album/4bLHcLCYm3WKPCoBn7om7s"
+      },
+      "artists": [
+        {
+          "name": "Les Amazones d'Afrique",
+          "url": "https://open.spotify.com/artist/6dHMq5KZ8ScqdzsCKGagdo"
+        },
+        {
+          "name": "Alvie Bitemo",
+          "url": "https://open.spotify.com/artist/66GN1X6jfmFfcGgYh68PxO"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220117,
+      "name": "Amahoro (Don't Get Angry)",
+      "url": "https://open.spotify.com/track/05IGFVx5ibUiq4lsPwdcPn"
+    },
+    {
+      "album": {
         "name": "Conversations We Should Have Had",
         "url": "https://open.spotify.com/album/2ZZPghzV2pVyrtFVRv7rkU"
       },
@@ -341,6 +363,24 @@
       "duration_ms": 212947,
       "name": "Bossi Labome",
       "url": "https://open.spotify.com/track/1jOqAWKpxvfntPNAQMdoEK"
+    },
+    {
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/0Ab7XpBlcL0qdZq8oqvIi7"
+      },
+      "artists": [
+        {
+          "name": "Paapa Versa",
+          "url": "https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182770,
+      "name": "Bouquet",
+      "url": "https://open.spotify.com/track/4wb0iKaIklho8XLLvN3LlN"
     },
     {
       "album": {
@@ -833,6 +873,28 @@
       "duration_ms": 195265,
       "name": "Good",
       "url": "https://open.spotify.com/track/4Gur4FdxkmXH8x3DCmYmz0"
+    },
+    {
+      "album": {
+        "name": "Good Problem",
+        "url": "https://open.spotify.com/album/4SofMhHpBJ5vX9QoH6WuiL"
+      },
+      "artists": [
+        {
+          "name": "Clay and Friends",
+          "url": "https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm"
+        },
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203688,
+      "name": "Good Problem",
+      "url": "https://open.spotify.com/track/4vvTr4HtaAIMyPAZzruWeB"
     },
     {
       "album": {
@@ -1982,6 +2044,24 @@
     },
     {
       "album": {
+        "name": "ODO",
+        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "ODO",
+      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
+    },
+    {
+      "album": {
         "name": "Oh Shoot",
         "url": "https://open.spotify.com/album/5Hq2dnXCD2b5HVhy8wwP9U"
       },
@@ -2203,7 +2283,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 168000,
       "name": "Present",
       "url": "https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE"
@@ -2399,7 +2479,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 157740,
       "name": "Save My Soul (Who Will Remain?)",
       "url": "https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN"
@@ -2979,7 +3059,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 187906,
       "name": "Tinko Tinko (Don't Play Me for a Fool)",
       "url": "https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6"
@@ -3059,7 +3139,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 224986,
       "name": "Try",
       "url": "https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia"

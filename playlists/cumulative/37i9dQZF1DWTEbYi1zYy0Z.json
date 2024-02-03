@@ -7549,6 +7549,24 @@
     },
     {
       "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/4V5KFA6bg3Aol3eqt6bnsI"
+      },
+      "artists": [
+        {
+          "name": "Adam Hawley",
+          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252190,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/0BVGP7P6x7MoxOFqdJcU6U"
+    },
+    {
+      "album": {
         "name": "Up All Night (feat. Boney James)",
         "url": "https://open.spotify.com/album/3MgeZPkZbPAN2cdTKiVzMs"
       },
@@ -7582,7 +7600,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 260996,
       "name": "Uptop",
       "url": "https://open.spotify.com/track/2dVePyjsLCrWmu6ICDm8cF"

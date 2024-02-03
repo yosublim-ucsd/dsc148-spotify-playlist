@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,368 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,398 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 34 | [Breaking News](https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:32 |
 | 35 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 |
 | 36 | [WELCOME 2 MY STRIP \(Feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Before the Smoke](https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9) | 2:23 |
-| 37 | [No Regrets](https://open.spotify.com/track/1Bi8XmQs9vNPPkMQ3wyOux) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No Regrets](https://open.spotify.com/album/7nmxATrQKN8u04O0IASv0b) | 2:25 |
-| 38 | [STRIPPERS ANTHEM \(feat\. Teezee and PsychoYP\)](https://open.spotify.com/track/0cueK8brhqzJnXLutvzmvq) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:50 |
+| 37 | [STRIPPERS ANTHEM \(feat\. Teezee and PsychoYP\)](https://open.spotify.com/track/0cueK8brhqzJnXLutvzmvq) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:50 |
+| 38 | [No Regrets](https://open.spotify.com/track/1Bi8XmQs9vNPPkMQ3wyOux) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No Regrets](https://open.spotify.com/album/7nmxATrQKN8u04O0IASv0b) | 2:25 |
 | 39 | [James Bond \(With Harley\)](https://open.spotify.com/track/3BOP1rsMQA0q5QV5obyNG2) | [Jujuboy](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5) | [James Bond \(With Harley\)](https://open.spotify.com/album/0ZjPpZefOqsc9v26PZa4cg) | 2:41 |
 | 40 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 |
 | 41 | [Back Into It](https://open.spotify.com/track/3Kyr9vr7VP2NLc9lBqxQFZ) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Back Into It](https://open.spotify.com/album/2p3kYxinqZYCrQaHWiF4gT) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 49 | [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 |
 | 50 | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/album/4REcDrYHUkwAsyFH51SbOi) | 2:53 |
 
-Snapshot ID: `MCw1Zjc5ZmNlZjVlZGZhZTVmM2NiNGM3NDFmY2UzZTQyNDg1NjU0NDlj`
+Snapshot ID: `MCxkZGJlODJjYzAwMTJjOWJkYWQyMTY4YWVmN2FmZjA5MzkwYTMwNDk4`

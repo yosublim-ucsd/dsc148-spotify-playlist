@@ -4,7 +4,7 @@
 
 > The songs that defined Nigeria's Alté era
 
-111 songs - 5 hr 55 min
+113 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Happy Hour \(feat\. Okuntakinte\)](https://open.spotify.com/track/37PhY5sfXk1yiIdHquMrn5) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Økuntakinte](https://open.spotify.com/artist/0o8UK8VeLVZdOYyb04klZ9) | [Happy Hour \(feat\. Okuntakinte\)](https://open.spotify.com/album/2Jedf85FITOVIpd8VzGc4J) | 4:20 | 2022-07-27 |  |
 | [Ice Cream](https://open.spotify.com/track/3ecnAvBthA0oRBoUSQIZrP) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Ice Cream](https://open.spotify.com/album/5Ih3Xx5N1q5o9AibsvIQqB) | 3:28 | 2022-07-27 |  |
 | [Icy \(feat\. Izzy, Maison2500 & Odunsi\)](https://open.spotify.com/track/3LPQFl6X9oi7aniP2oDeI4) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Izzy](https://open.spotify.com/artist/76jfnDc7m3BrrcFORVEcdK), [Maison2500](https://open.spotify.com/artist/4LM7PNYtQtrHXnfQYr16mx), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Icy](https://open.spotify.com/album/4PzJtM0vWVz6OvRozs6J2Y) | 4:00 | 2022-07-27 |  |
+| [In A Loop](https://open.spotify.com/track/4n1SykKn2Da29B4riTa41U) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:13 | 2024-02-02 |  |
 | [In The Morning](https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [In The Morning](https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW) | 3:07 | 2022-07-27 |  |
 | [In The Night](https://open.spotify.com/track/5G6qUca8Er653hnwIE7Bwe) | [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [In The Night](https://open.spotify.com/album/15MaGSCTIq6lnBoz8QIdt8) | 2:47 | 2022-07-27 |  |
 | [Island Girl](https://open.spotify.com/track/2AKrYKKu9uRyuBj4vdvGmY) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Honest Conversations](https://open.spotify.com/album/765Vx7c9387ugWmKFFksbT) | 2:16 | 2023-02-16 | 2023-11-02 |
@@ -75,6 +76,7 @@
 | [Radio](https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Radio](https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0) | 3:10 | 2022-07-27 |  |
 | [Rapid Fire](https://open.spotify.com/track/1RHFgbaMxkM3dVYHBrg7Me) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:12 | 2022-07-27 |  |
 | [Reason You](https://open.spotify.com/track/3IG4kHTN6zIFODRL1TFOni) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:26 | 2023-12-15 |  |
+| [SARO](https://open.spotify.com/track/6PnGYVp7RwB5m3qMoD7ldp) | [Jinmi Abduls](https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W) | [SARO](https://open.spotify.com/album/1JdN8S4EfHgISO3mx9medU) | 3:02 | 2024-02-02 |  |
 | [Shaken](https://open.spotify.com/track/1MGQJITgxRkZITT6aqcqfo) | [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Shaken](https://open.spotify.com/album/2teAt8iFXCBkjdiEuNqJgF) | 3:33 | 2022-07-27 |  |
 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 | 2024-01-26 |  |
 | [Siamese](https://open.spotify.com/track/2LI7jT5sSpUGeJHUsnDtC9) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Spacely](https://open.spotify.com/artist/3VD8HpkZWjn5HnDRyunLs5) | [Siamese](https://open.spotify.com/album/2biM1kK3imQ4Oggjl1VuGn) | 4:06 | 2022-07-27 |  |

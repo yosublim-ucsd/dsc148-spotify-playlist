@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8Add2I5thC.md) - [plain]
 
 > the golden era of the 𝚒𝚗𝚝𝚎𝚛𝚗𝚎𝚝
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,653 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,677 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8Add2I5thC.md) - [plain]
 | 24 | [Lose Yourself to Dance \(feat\. Pharrell Williams\)](https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:53 |
 | 25 | [Houdini](https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:22 |
 | 26 | [Tennis Court](https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:18 |
-| 27 | [Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr) | [White Town](https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM) | [Women in Technology](https://open.spotify.com/album/6z6qZbY7mDuyzstPSCy5Xq) | 4:19 |
-| 28 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 |
+| 27 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 |
+| 28 | [Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr) | [White Town](https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM) | [Women in Technology](https://open.spotify.com/album/6z6qZbY7mDuyzstPSCy5Xq) | 4:19 |
 | 29 | [Day 'N' Nite \(nightmare\)](https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon: The End Of Day](https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0) | 3:41 |
-| 30 | [Little Bit](https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 4:33 |
+| 30 | [Crimewave](https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 4:18 |
 | 31 | [A Milli](https://open.spotify.com/track/1xPW9rS8dkuJP46WBTqU2C) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III \(MTV Bonus Version\)](https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4) | 3:41 |
-| 32 | [Crimewave](https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 4:18 |
+| 32 | [Little Bit](https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 4:33 |
 | 33 | [I Will Follow You into the Dark](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:09 |
 | 34 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
 | 35 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/0uVyZywUNOp6S0dU5r8TS8) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer](https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr) | 3:09 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8Add2I5thC.md) - [plain]
 | 80 | [Nighttiming](https://open.spotify.com/track/1jbrKpiTZ5jSblBypybUmV) | [Coconut Records](https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y) | [Nighttiming](https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg) | 2:48 |
 | 81 | [Polish Girl](https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Era Extraña](https://open.spotify.com/album/1S23RKAbHcn3AF2F7ns3sN) | 4:24 |
 | 82 | [Lights & Music](https://open.spotify.com/track/0FezhHZVmDYXvk8jAr2fpU) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours \(UK Version Delux\)](https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS) | 4:39 |
-| 83 | [Fences](https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:44 |
-| 84 | [Get Free](https://open.spotify.com/track/56hYeuutlZO5Pkm99FzLCW) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/5QhUiW8r836IZ7avv9A5L8) | 4:49 |
+| 83 | [Get Free](https://open.spotify.com/track/56hYeuutlZO5Pkm99FzLCW) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/5QhUiW8r836IZ7avv9A5L8) | 4:49 |
+| 84 | [Fences](https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:44 |
 | 85 | [Psychic City \- Classixx Remix](https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ) | [YACHT](https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [See Mystery Lights: Remixes & B\-Sides](https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb) | 4:11 |
 | 86 | [One Time](https://open.spotify.com/track/1Z4UKak2eNteHFZkwiYPNz) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5) | [Sway](https://open.spotify.com/album/4GgwHp794AzZkv2hh8geZu) | 3:37 |
 | 87 | [Paris, Tokyo](https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8Add2I5thC.md) - [plain]
 | 99 | [We Are Your Friends \- Justice Vs\. Simian Edit](https://open.spotify.com/track/596KUmMbTifuYdDC14lQdD) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk) | 2:44 |
 | 100 | [Paris \- Aeroplane Remix](https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Friendly Fires](https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK) | 7:45 |
 
-Snapshot ID: `MCw2NWQ0ZWJlYzEzNTE0ZjY1ODllNTc0YWYyYjU2YzQ4ZTQwYWMwZDVh`
+Snapshot ID: `MCxjZjJkZmZjZmExZWU2YjI4MDllYWZmZjJhNzFlNzFlZTliYjdlNzIz`

@@ -2,7 +2,7 @@
 
 ### [Rap Latte](https://open.spotify.com/playlist/37i9dQZF1DX4O0AdBo80OE)
 
-> Rimas cremosas, tan necesarias como tu café\. Santa Fe Klan en portada.
+> Rimas cremosas, tan necesarias como tu café\. Tino el Pingüino en portada.
 
 138 songs - 7 hr 46 min
 

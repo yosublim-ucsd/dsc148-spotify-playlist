@@ -6,7 +6,7 @@
     "name": "Houseium Playlists",
     "url": "https://open.spotify.com/user/jayke0108"
   },
-  "snapshot_id": "NjE0Niw0ZjlhYzIyY2QwNGI5NjVjM2VjNTA0NDE3ZmFiZGMxZjRlNDg3ZGU4",
+  "snapshot_id": "NjE0NyxlMjUzZThhMTYyYjQ4ZGIwNWQyOTliNmIzNTc0MzM5YjAwZDQwYjMz",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:37",
@@ -1007,6 +1007,26 @@
       "duration_ms": 171904,
       "name": "Control",
       "url": "https://open.spotify.com/track/4NLF0XgMRCT6ARMhuSIL1y"
+    },
+    {
+      "added_at": "2024-02-02 16:37:24",
+      "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/3wQhNBJyysFXnNeEnTZPC5"
+      },
+      "artists": [
+        {
+          "name": "NUVZ",
+          "url": "https://open.spotify.com/artist/4fpIbSptfUs03L8woqtSPE"
+        },
+        {
+          "name": "NETWERK",
+          "url": "https://open.spotify.com/artist/5NcQH0KEEAwdMYKZr6o7Go"
+        }
+      ],
+      "duration_ms": 230848,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/47tijquLiTrK9e88AqncdG"
     }
   ],
   "unique_name": "HOUSEIUM // BANGIN HOUSE",

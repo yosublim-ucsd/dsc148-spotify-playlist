@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-260 songs - 17 hr 54 min
+261 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Everybody's Inn](https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY) | [Funky Destination](https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK) | [We Are All Shining Stars](https://open.spotify.com/album/3kTEb0hcYGBRtOFIadpjXK) | 3:18 | 2020-11-13 |  |
 | [F.F.F.](https://open.spotify.com/track/78uML92CuXsqQ8u0Tx2JNG) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [F.F.F.](https://open.spotify.com/album/4wJUCSwfl9g1HW930heEoh) | 3:11 | 2021-12-24 |  |
 | [False Prophets](https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [False Prophets](https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO) | 5:52 | 2020-11-13 |  |
+| [Fat Nap](https://open.spotify.com/track/4INxpyygHSWT4EF5YHfacG) | [Sam Fribush](https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Calvin Napper](https://open.spotify.com/artist/2PPOE2P2KXO3TdVOFluIzz) | [Fat Nap](https://open.spotify.com/album/2mJPMPqe29y3BtXOGTPkbe) | 3:46 | 2024-02-02 |  |
 | [Feel Good Inc.](https://open.spotify.com/track/06Niu5WzBT4H3f382pTjdT) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX) | 4:35 | 2020-11-13 |  |
 | [Feel Good Inc.](https://open.spotify.com/track/3uxkqDTkdJA11KYWdWOgQJ) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/2eOtn7tcVtGHgk7JsTnGAy) | 4:35 | 2020-11-13 | 2022-04-21 |
 | [Feel Good Inc.](https://open.spotify.com/track/4GVx7oT2KnKCN9Ia0YDGau) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/5TB3O4gATp2KZ9R65dsDuN) | 4:35 | 2020-11-13 | 2022-10-15 |
@@ -207,7 +208,7 @@
 | [Sleep Depraved](https://open.spotify.com/track/4VDIqajjzfienIbv3zuu6o) | [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw) | [Sleep Depraved](https://open.spotify.com/album/5lZJfhuQGHwDcRJfktfRQK) | 4:17 | 2020-11-27 | 2023-11-04 |
 | [Sleep Depraved](https://open.spotify.com/track/4KGPk8tcnfjwCGkyDDaVvp) | [WRD Trio](https://open.spotify.com/artist/3X7BXKZNdJxqDhkIxgwzCM), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER) | [The Hit](https://open.spotify.com/album/1dzSCG6nov0zLtT0Bckdl1) | 4:17 | 2023-08-04 |  |
 | [Smokeshow](https://open.spotify.com/track/0XLakrxjjKxuKzgCiSiggV) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Smokeshow](https://open.spotify.com/album/41lISa0NJIZ5ftQ36VmZs3) | 4:02 | 2021-12-10 | 2023-06-16 |
-| [Smooth Move](https://open.spotify.com/track/6WFwC46XQapcmnToEcromu) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Smooth Move](https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa) | 5:16 | 2020-11-13 |  |
+| [Smooth Move](https://open.spotify.com/track/6WFwC46XQapcmnToEcromu) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Smooth Move](https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa) | 5:16 | 2020-11-13 | 2024-02-03 |
 | [Soliloquy](https://open.spotify.com/track/1tfq45tFyHgq2ImK88yopM) | [Krispy & the Pooch](https://open.spotify.com/artist/2Aibp4rRO4mHmvBRkfK33Z) | [Soliloquy](https://open.spotify.com/album/5o1gURd5wKaniLghxjeyKd) | 2:50 | 2023-08-04 |  |
 | [Soul Power \(Lack Of Afro Remix\)](https://open.spotify.com/track/4Un2ZyWdM67NkVOd0v1mQI) | [Kokolo](https://open.spotify.com/artist/3PoRjUIi2x27P0OgROPgQ4) | [Soul Power](https://open.spotify.com/album/0sJOqMY6CrmKvAlIU3O155) | 3:33 | 2020-11-13 | 2022-04-21 |
 | [Soul Power \- Lack of Afro Remix](https://open.spotify.com/track/3tRDCUaZdesAfB0GD1NCua) | [Kokolo](https://open.spotify.com/artist/3PoRjUIi2x27P0OgROPgQ4), [Lack Of Afro](https://open.spotify.com/artist/5e3Z7HYpiVcP3TlU0a4yap) | [Record Kicks Remixes & B\-Sides](https://open.spotify.com/album/7fIY22gHGMf8KcxBnjabUJ) | 3:33 | 2023-08-04 |  |

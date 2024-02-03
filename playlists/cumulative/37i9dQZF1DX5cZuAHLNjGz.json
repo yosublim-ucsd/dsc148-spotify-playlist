@@ -459,6 +459,28 @@
     },
     {
       "album": {
+        "name": "Twenty Two",
+        "url": "https://open.spotify.com/album/34nk7eSVjDXZOvLQy8M8n5"
+      },
+      "artists": [
+        {
+          "name": "HRJXT",
+          "url": "https://open.spotify.com/artist/4s5P33ladNMi7gcBMHwp9a"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204545,
+      "name": "angels",
+      "url": "https://open.spotify.com/track/1tzMa1ma7O05lIgr4XKia8"
+    },
+    {
+      "album": {
         "name": "Arjan Vailly (From \"ANIMAL\")",
         "url": "https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K"
       },
@@ -1557,6 +1579,32 @@
     },
     {
       "album": {
+        "name": "Drippy",
+        "url": "https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        },
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Drippy",
+      "url": "https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF"
+    },
+    {
+      "album": {
         "name": "Jalwa",
         "url": "https://open.spotify.com/album/5zOoQe3sBQ6o2EUead1B3h"
       },
@@ -2280,6 +2328,24 @@
       "duration_ms": 176170,
       "name": "Hood Famous",
       "url": "https://open.spotify.com/track/5iVYMQKl3OZi0ULxeKAkho"
+    },
+    {
+      "album": {
+        "name": "Chobar",
+        "url": "https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163298,
+      "name": "Hot Shit",
+      "url": "https://open.spotify.com/track/5olluo8Xh733gDwhmchDlp"
     },
     {
       "album": {
@@ -3116,7 +3182,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 150000,
       "name": "Love & Lies",
       "url": "https://open.spotify.com/track/7y0hZYQN2xad34bW9tIVsc"
@@ -4407,6 +4473,36 @@
     },
     {
       "album": {
+        "name": "Rang Kala",
+        "url": "https://open.spotify.com/album/40VbZACJYmgtAb1vCB1ct7"
+      },
+      "artists": [
+        {
+          "name": "Bob.B Randhawa",
+          "url": "https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC"
+        },
+        {
+          "name": "Mukhtar Sahota",
+          "url": "https://open.spotify.com/artist/5SxQsyAuCp6fIqF3eGoirU"
+        },
+        {
+          "name": "Pappi Gill",
+          "url": "https://open.spotify.com/artist/0y9VHWrQQ9y8WKYdBB3bc1"
+        },
+        {
+          "name": "Inder D Last Level",
+          "url": "https://open.spotify.com/artist/5mHnBqe0ORanNO0oeIWX2d"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Rang Kala",
+      "url": "https://open.spotify.com/track/28nV777UfgMKXkvP4b9szK"
+    },
+    {
+      "album": {
         "name": "Jordan Sandhu Hits",
         "url": "https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq"
       },
@@ -5020,7 +5116,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 156292,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/6TJ8etbh8uFFLuVbLj25lz"
@@ -5302,7 +5398,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 132978,
       "name": "SWITCHIN' LANES",
       "url": "https://open.spotify.com/track/0o6IjbwmqxiDZPE5TvNKoJ"
@@ -5514,7 +5610,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 262247,
       "name": "The Last Ride",
       "url": "https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann"

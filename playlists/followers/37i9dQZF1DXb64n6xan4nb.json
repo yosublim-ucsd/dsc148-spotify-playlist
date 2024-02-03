@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 28744,
+  "2024-02-03": 28761,
   "date_first_scraped": "2023-02-21",
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
   "name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
@@ -183,6 +183,24 @@
       "duration_ms": 255844,
       "name": "All For You",
       "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
+    },
+    {
+      "album": {
+        "name": "An Ordinary Day",
+        "url": "https://open.spotify.com/album/14OsUvgjRtVL8oGOjwvxgM"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212546,
+      "name": "An Ordinary",
+      "url": "https://open.spotify.com/track/2phRcDceIli8JDmUZXh2SF"
     },
     {
       "album": {
@@ -2349,7 +2367,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 239933,
       "name": "\uc548\ubd80",
       "url": "https://open.spotify.com/track/7J630PtbTxF2cg0WQ0BhZF"

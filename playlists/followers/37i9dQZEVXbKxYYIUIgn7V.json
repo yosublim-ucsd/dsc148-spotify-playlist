@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 12362,
+  "2024-02-03": 12361,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Austria.",
   "name": "Viral 50 - Austria",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
@@ -321,7 +321,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 187133,
       "name": "Free",
       "url": "https://open.spotify.com/track/2C0IvokSio8N7UyHwuB638"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
@@ -1124,6 +1124,24 @@
     },
     {
       "album": {
+        "name": "Soaked",
+        "url": "https://open.spotify.com/album/3KlEcBtJhRhsqC13wbASjd"
+      },
+      "artists": [
+        {
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179449,
+      "name": "Soaked",
+      "url": "https://open.spotify.com/track/3nGIGnJd7jFZaPFdfyQLF2"
+    },
+    {
+      "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
       },
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 210000,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/1OowIk5KiP8vTOR1vVzCLG"
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 208524,
       "name": "You & Me - Rivo Remix",
       "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"

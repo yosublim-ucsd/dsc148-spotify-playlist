@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Zeeshan Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,622 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,625 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 74 | [Ghar agya main](https://open.spotify.com/track/0MZn47xb5MW7Ampv6cbTbv) | [Armaghan Saif](https://open.spotify.com/artist/5ggFPpZHswvNkWcgCUqEx6) | [Ghar agya main](https://open.spotify.com/album/47HaoQ183IYU9ajXzMdihI) | 4:17 |
 | 75 | [Yaaden](https://open.spotify.com/track/0hTrRRWATfIHjJ9OSMlsDI) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [Hussain Ajani](https://open.spotify.com/artist/4TZi2SKhuNXEyRa7sOLa9H) | [Yaaden](https://open.spotify.com/album/7G26cHP8uiJb7Dy9B6llJA) | 2:38 |
 
-Snapshot ID: `MCwyYTBmMTM5YTEyNzg1OTg1MmEyMjczZmExZDAwNTY4NTZkNTE2YmE5`
+Snapshot ID: `MCwxOGY4YjM4MDQzMGIyMWNhODEwZTE4ZDc1Njk4MTVlMjRjMDlkNmU5`

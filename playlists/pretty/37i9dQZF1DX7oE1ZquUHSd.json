@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 174373,
+  "num_followers": 174426,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTdkMDczNzUwZjk3MTJjMzFhNmRmYjM3ZDE1Y2U5OTdhZDIzNTU1",
+  "snapshot_id": "MCxiZDk4OTU4MGEzYmEyOWFiN2Q4YWVlMWMzYTAwNWFhMmE2ZTdjNjdk",
   "tracks": [
     {
       "added_at": "2023-08-08 02:05:58",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 213560,
+      "name": "Si Nunca Va a Amanecer",
+      "url": "https://open.spotify.com/track/1WhJWRZt4yHGtICCRZaJsb"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "Mucho Barato",
         "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
       },
@@ -415,22 +431,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "El Arte del Enga\u00f1o",
-      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Muerte",
         "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
       },
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
       },
       "artists": [
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         }
       ],
-      "duration_ms": 213560,
-      "name": "Si Nunca Va a Amanecer",
-      "url": "https://open.spotify.com/track/1WhJWRZt4yHGtICCRZaJsb"
+      "duration_ms": 262746,
+      "name": "El Arte del Enga\u00f1o",
+      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 199213,
-      "name": "Tararea",
-      "url": "https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 242680,
       "name": "Con el Coco Rapado",
       "url": "https://open.spotify.com/track/3dvbimQJp4NyG6X6WBnW5X"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 199213,
+      "name": "Tararea",
+      "url": "https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T"
+      },
+      "artists": [
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "We Don\u00b4t Play",
         "url": "https://open.spotify.com/album/013m9uu0v5Lur1lOdohitX"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 297657,
       "name": "Cantidad y Quality (feat. Cancerbero)",
       "url": "https://open.spotify.com/track/2ZtwyLSmuCO1QGXINW2aOC"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T"
-      },
-      "artists": [
-        {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E"
     },
     {
       "added_at": "2023-08-08 02:05:58",

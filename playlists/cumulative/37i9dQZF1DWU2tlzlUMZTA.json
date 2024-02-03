@@ -1195,6 +1195,28 @@
     },
     {
       "album": {
+        "name": "Rom Rom (From \"Crakk - Jeetegaa Toh Jiyegaa\")",
+        "url": "https://open.spotify.com/album/3lKO3kvZ1oBviolCjsl5UL"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206154,
+      "name": "Rom Rom (From \"Crakk - Jeetegaa Toh Jiyegaa\")",
+      "url": "https://open.spotify.com/track/5aOeMCFcmQPQM2GOH2MLp6"
+    },
+    {
+      "album": {
         "name": "Humpty Sharma Ki Dulhania (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5jqOPaSXkGQv3IH62dHoUE"
       },

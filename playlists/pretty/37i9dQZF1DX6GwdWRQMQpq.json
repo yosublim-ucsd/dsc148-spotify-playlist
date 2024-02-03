@@ -1,15 +1,15 @@
 {
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Ice Spice",
-  "num_followers": 3051801,
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Megan Thee Stallion",
+  "num_followers": 3052890,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGRhMWIyNWMwMjhjMjYzODdmMzJjNzAxMjI5ZTlmMGQ4NTZlNDEy",
+  "snapshot_id": "MCw3YTIzNzEzNGRiZWRkYjI5NTJjY2RhMjEzZjEyMzQzMTNhMTQ5ODc1",
   "tracks": [
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Think U The Shit (Fart)",
         "url": "https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO"
@@ -25,55 +25,7 @@
       "url": "https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Never Lose Me",
-        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 125901,
-      "name": "Never Lose Me",
-      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "Agora Hills",
-      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "FTCU",
-      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "HISS",
         "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
@@ -89,7 +41,55 @@
       "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Never Lose Me",
+        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "FTCU",
+      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Hood Hottest Princess",
         "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
@@ -105,7 +105,23 @@
       "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/5epUQc2VXbfbSuzjWHWyjQ"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 124307,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/5FwhprNsUarRkLXqBE8tK8"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Like..? (Deluxe)",
         "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
@@ -121,7 +137,39 @@
       "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Don Who Leo",
+        "url": "https://open.spotify.com/album/4DkigH1XDNwEBW3WHcdoEK"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 138495,
+      "name": "Don Who Leo",
+      "url": "https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Bonnet",
+        "url": "https://open.spotify.com/album/55bLssbfx1SFuMIWn6085s"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "duration_ms": 129007,
+      "name": "Bonnet",
+      "url": "https://open.spotify.com/track/5qSpFu6V7hBZHNw4dN6t2S"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Cobra",
         "url": "https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl"
@@ -137,7 +185,7 @@
       "url": "https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
@@ -157,47 +205,39 @@
       "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Wanna Come Thru",
-        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
+        "name": "Now You See Me",
+        "url": "https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
         }
       ],
-      "duration_ms": 131900,
-      "name": "Wanna Come Thru",
-      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
+      "duration_ms": 115725,
+      "name": "Ick",
+      "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Do It For The Bay",
-        "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
+        "name": "IT GIRL",
+        "url": "https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH"
       },
       "artists": [
         {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
         }
       ],
-      "duration_ms": 118551,
-      "name": "Do It For The Bay",
-      "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
+      "duration_ms": 161760,
+      "name": "IT GIRL",
+      "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Bongos (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
@@ -217,39 +257,27 @@
       "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Now You See Me",
-        "url": "https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T"
+        "name": "Wanna Come Thru",
+        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
       },
       "artists": [
         {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 115725,
-      "name": "Ick",
-      "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "IT GIRL",
-        "url": "https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH"
-      },
-      "artists": [
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
         {
-          "name": "Aliyah's Interlude",
-          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
         }
       ],
-      "duration_ms": 161760,
-      "name": "IT GIRL",
-      "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
+      "duration_ms": 131900,
+      "name": "Wanna Come Thru",
+      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Baby Tate Presents - Sexploration: The Musical",
         "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
@@ -265,7 +293,7 @@
       "url": "https://open.spotify.com/track/1tHYeRTwPlHkKV3uOY0uSm"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
@@ -281,7 +309,7 @@
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Put It On Da Floor Again (feat. Cardi B)",
         "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
@@ -301,7 +329,27 @@
       "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Do It For The Bay",
+        "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 118551,
+      "name": "Do It For The Bay",
+      "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Paint The Town Red",
         "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
@@ -317,7 +365,7 @@
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "You (feat. Bryson Tiller)",
         "url": "https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl"
@@ -337,7 +385,7 @@
       "url": "https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "MY HOUSE",
         "url": "https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs"
@@ -353,7 +401,7 @@
       "url": "https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Hood Hottest Princess (Deluxe)",
         "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
@@ -369,7 +417,7 @@
       "url": "https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Area Codes",
         "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
@@ -385,7 +433,7 @@
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Point Me 2 (with Cardi B)",
         "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
@@ -405,7 +453,7 @@
       "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "On My Mama",
         "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
@@ -421,7 +469,7 @@
       "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Princess Diana (with Nicki Minaj)",
         "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
@@ -441,7 +489,7 @@
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Snooze",
         "url": "https://open.spotify.com/album/0L632gxhMbscW5mY9ewbOq"
@@ -457,7 +505,7 @@
       "url": "https://open.spotify.com/track/24yrJJkmVUMkJHvCaR85BN"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Booty Drop",
         "url": "https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30"
@@ -473,7 +521,7 @@
       "url": "https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Sloppy Seconds (Ick Pt. 2)",
         "url": "https://open.spotify.com/album/4tl8geDZIbp8ZZNTwpwzDc"
@@ -489,7 +537,7 @@
       "url": "https://open.spotify.com/track/00WnaHagi3KLsrbs20OFVt"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Hey, Mickey!",
         "url": "https://open.spotify.com/album/1Qpd1fT9Vgp2uuuZ533By0"
@@ -509,7 +557,7 @@
       "url": "https://open.spotify.com/track/7r6uppLBApzJPMpDmdFoi4"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
         "url": "https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN"
@@ -529,7 +577,7 @@
       "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Back To 304'n",
         "url": "https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg"
@@ -545,7 +593,7 @@
       "url": "https://open.spotify.com/track/63bY2syFfehnI3Po2TaXL7"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Keep Dat Nigga (Part 2) (feat. GloRilla, Kali & Big Boss Vette)",
         "url": "https://open.spotify.com/album/3WVAejN3gu5YJuH7OcGtr0"
@@ -573,7 +621,7 @@
       "url": "https://open.spotify.com/track/4pgeI9ohPGzSDeKE1D4dYf"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "RAW",
         "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
@@ -589,7 +637,7 @@
       "url": "https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
         "url": "https://open.spotify.com/album/7GfHTwHGoDzOEDInYlnR25"
@@ -613,7 +661,7 @@
       "url": "https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "What It Is (Versions)",
         "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
@@ -629,7 +677,7 @@
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "You Wish (with Missy Elliott & Kaliii) \u2013 Remix",
         "url": "https://open.spotify.com/album/5VUeDa4FENhqT8o2fuFdjK"
@@ -653,7 +701,7 @@
       "url": "https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Na Na Na",
         "url": "https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0"
@@ -669,7 +717,7 @@
       "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "ISSA PARTY (feat. BabyDrill)",
         "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
@@ -689,7 +737,7 @@
       "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "K Toven",
         "url": "https://open.spotify.com/album/5vj3vuWumdZW2kOsBc9oXA"
@@ -709,7 +757,7 @@
       "url": "https://open.spotify.com/track/0iCsRcu5mugWVlCMpD7wb1"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
@@ -725,7 +773,7 @@
       "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
@@ -749,27 +797,7 @@
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Yung Joc (feat. Luh Tyler)",
-        "url": "https://open.spotify.com/album/555Jn3qacCtSCx2kMk40nB"
-      },
-      "artists": [
-        {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
-        },
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 130493,
-      "name": "Yung Joc (feat. Luh Tyler)",
-      "url": "https://open.spotify.com/track/38f9cuHs7dmGcyRCXAHxy5"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py"
@@ -785,7 +813,7 @@
       "url": "https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
@@ -801,7 +829,7 @@
       "url": "https://open.spotify.com/track/44L2bY93uD65CEHWbozpx4"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "BGC",
         "url": "https://open.spotify.com/album/6Cc9Uzkovy0wEyUiazE5qR"
@@ -817,7 +845,7 @@
       "url": "https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "SHOT O' CLOCK",
         "url": "https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ"
@@ -833,7 +861,7 @@
       "url": "https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1"
@@ -849,7 +877,7 @@
       "url": "https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "FCK GIRL SZN",
         "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
@@ -867,50 +895,6 @@
       "duration_ms": 193426,
       "name": "Say Too Much",
       "url": "https://open.spotify.com/track/3ivlOgTCKS7zk1lXlZsebF"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Lick Or Sum",
-        "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 141604,
-      "name": "Lick Or Sum",
-      "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "RAP SH!T: The Mixtape (From the Max Original Series, S2)",
-        "url": "https://open.spotify.com/album/2WhkGLUX16VzmOjr6KSqRX"
-      },
-      "artists": [
-        {
-          "name": "Raedio",
-          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "NCognita",
-          "url": "https://open.spotify.com/artist/5cbFRX9vfBg6rtjN1V0VTI"
-        },
-        {
-          "name": "Simon Said.",
-          "url": "https://open.spotify.com/artist/1ZoJcQjLukYdKLfOcoEVn9"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Lackin",
-      "url": "https://open.spotify.com/track/6lasIWLndqFchulQMIH5Cm"
     }
   ],
   "unique_name": "Feelin' Myself",

@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic techno and tech house.",
-  "num_followers": 486202,
+  "num_followers": 486277,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWYyN2VmM2UyZWY5N2JjNTE1NTM4OWMzZmE2ZmYxOTM5NDdjODdm",
+  "snapshot_id": "MCxjZjAyNDU5YmRjZTgyMWFmOGZmNGU5MWFmZmYwZjNlNmE4NGY4NDRi",
   "tracks": [
     {
       "added_at": "2023-11-27 19:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "In A Blurry World",
-        "url": "https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g"
-      },
-      "artists": [
-        {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
-        }
-      ],
-      "duration_ms": 347680,
-      "name": "In A Blurry World",
-      "url": "https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Boavista Remixes",
         "url": "https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 408003,
       "name": "Boavista - Innellea's Arp Attachement",
       "url": "https://open.spotify.com/track/0h467C8iLWdgfW58aj0X0o"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "In A Blurry World",
+        "url": "https://open.spotify.com/album/4lfQqESSeqD0m6W2VSN23g"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "duration_ms": 347680,
+      "name": "In A Blurry World",
+      "url": "https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
-      },
-      "artists": [
-        {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
-        }
-      ],
-      "duration_ms": 413658,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Minister",
         "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 240020,
       "name": "Minister",
       "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
+      },
+      "artists": [
+        {
+          "name": "Galexis",
+          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+        }
+      ],
+      "duration_ms": 413658,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 257903,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Meertraum",
         "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 394418,
       "name": "Meertraum",
       "url": "https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 257903,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Someone Else",
-        "url": "https://open.spotify.com/album/0Id2ImUT5LaJT29DLnX9qE"
-      },
-      "artists": [
-        {
-          "name": "Carlo Whale",
-          "url": "https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj"
-        }
-      ],
-      "duration_ms": 378000,
-      "name": "Someone Else",
-      "url": "https://open.spotify.com/track/4CiVKhMTI6767xO40Tas0c"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 192476,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/0Id2ImUT5LaJT29DLnX9qE"
+      },
+      "artists": [
+        {
+          "name": "Carlo Whale",
+          "url": "https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj"
+        }
+      ],
+      "duration_ms": 378000,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/4CiVKhMTI6767xO40Tas0c"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Planet Earth | March of the Giants",
-        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
-      },
-      "artists": [
-        {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
-        }
-      ],
-      "duration_ms": 457080,
-      "name": "March of the giants",
-      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Dea Dia",
         "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 530979,
       "name": "Dea Dia",
       "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Planet Earth | March of the Giants",
+        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "duration_ms": 457080,
+      "name": "March of the giants",
+      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
+      },
+      "artists": [
+        {
+          "name": "Mainterm",
+          "url": "https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI"
+        }
+      ],
+      "duration_ms": 358144,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
         "name": "Thrust",
         "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
       },
       "artists": [
         {
-          "name": "Mainterm",
-          "url": "https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI"
+          "name": "Rafael Osmo",
+          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
         }
       ],
-      "duration_ms": 358144,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
+      "duration_ms": 210731,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "The Mood",
-        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp"
       },
       "artists": [
         {
-          "name": "Rafael Osmo",
-          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
+          "name": "GHEIST",
+          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
         }
       ],
-      "duration_ms": 210731,
-      "name": "The Mood",
-      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
+      "duration_ms": 377419,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp"
+        "name": "Bird EP",
+        "url": "https://open.spotify.com/album/2ySh3YsHqiObkiSSfNPyMG"
       },
       "artists": [
         {
-          "name": "GHEIST",
-          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
+          "name": "Recondite",
+          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
         }
       ],
-      "duration_ms": 377419,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P"
+      "duration_ms": 350047,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/19lR15h6LPtw8oiAIt601v"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1227,22 +1243,6 @@
       "duration_ms": 249120,
       "name": "Landing in Halifax",
       "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
-        "name": "Bird EP",
-        "url": "https://open.spotify.com/album/2ySh3YsHqiObkiSSfNPyMG"
-      },
-      "artists": [
-        {
-          "name": "Recondite",
-          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
-        }
-      ],
-      "duration_ms": 350047,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/19lR15h6LPtw8oiAIt601v"
     },
     {
       "added_at": "2023-11-27 19:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-11-27 19:00:00",
       "album": {
-        "name": "Proper Time",
-        "url": "https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9"
-      },
-      "artists": [
-        {
-          "name": "Vakabular",
-          "url": "https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt"
-        }
-      ],
-      "duration_ms": 301935,
-      "name": "Proper Time",
-      "url": "https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps"
-    },
-    {
-      "added_at": "2023-11-27 19:00:00",
-      "album": {
         "name": "Glitter and Litter",
         "url": "https://open.spotify.com/album/5mUQFI4lOx2CdZtkseari2"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 446106,
       "name": "Glitter and Litter",
       "url": "https://open.spotify.com/track/7zwYmpLrtDNxID8sRvlePp"
+    },
+    {
+      "added_at": "2023-11-27 19:00:00",
+      "album": {
+        "name": "Proper Time",
+        "url": "https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9"
+      },
+      "artists": [
+        {
+          "name": "Vakabular",
+          "url": "https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt"
+        }
+      ],
+      "duration_ms": 301935,
+      "name": "Proper Time",
+      "url": "https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps"
     },
     {
       "added_at": "2023-11-27 19:00:00",

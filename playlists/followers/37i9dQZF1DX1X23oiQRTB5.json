@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 1476455,
+  "2024-02-03": 1476559,
   "date_first_scraped": "2022-01-10",
-  "description": "Werenoi au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "Gazo x Tiakola au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -659,6 +659,24 @@
     {
       "album": {
         "name": "ALPHA (Parties 1&2)",
+        "url": "https://open.spotify.com/album/1NTYNLaNEoAiZwT3mcNuP5"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155920,
+      "name": "Capitaine",
+      "url": "https://open.spotify.com/track/4Kd21ylDbBQftU0rljK28X"
+    },
+    {
+      "album": {
+        "name": "ALPHA (Parties 1&2)",
         "url": "https://open.spotify.com/album/2P0rDh5cLuiMGBYNSxpX5u"
       },
       "artists": [
@@ -669,7 +687,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 155920,
       "name": "Capitaine",
       "url": "https://open.spotify.com/track/4XqIETfiZBZ9lrx4Nn44Et"
@@ -3919,7 +3937,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 176086,
       "name": "Roule un autre - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich"
@@ -4395,6 +4413,28 @@
       "duration_ms": 168087,
       "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
       "url": "https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u"
+    },
+    {
+      "album": {
+        "name": "Du peu que j'ai eu, Du mieux que j'ai pu",
+        "url": "https://open.spotify.com/album/3MfrrJMMFJKkn1HCeelBM7"
+      },
+      "artists": [
+        {
+          "name": "Lesram",
+          "url": "https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205560,
+      "name": "Triste m\u00e9lancolie (feat. Josman)",
+      "url": "https://open.spotify.com/track/2Xbeuuuba5orpOWIBlXoKi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Damares
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,990 likes - 70 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,147 likes - 70 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 40 | [Abraça\-Me](https://open.spotify.com/track/05fZNpkAeHQoQNFB7tFVMa) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Adoração](https://open.spotify.com/album/6VefFSAIlIhtQppFh78rpC) | 4:49 |
 | 41 | [Primeiro Amor](https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 3:28 |
 | 42 | [Aclame ao Senhor \- Ao Vivo](https://open.spotify.com/track/0dhpQeQ8LR4UEp9gugrITU) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Diante do Trono \(Ao Vivo\)](https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS) | 7:35 |
-| 43 | [Pai](https://open.spotify.com/track/6M1mIjeq2kNvT8F2dHNugk) | [Marcos Antônio](https://open.spotify.com/artist/328rxNpbUC1zFPojNBnKj4) | [Eterno Dependente](https://open.spotify.com/album/7EfEHHMC3rsLcrcpoIrSl5) | 5:30 |
-| 44 | [Ouço Deus Me Chamar](https://open.spotify.com/track/2IAkyzxYd9QPnWRhHsWMO2) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD) | 7:19 |
+| 43 | [Ouço Deus Me Chamar](https://open.spotify.com/track/2IAkyzxYd9QPnWRhHsWMO2) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD) | 7:19 |
+| 44 | [Pai](https://open.spotify.com/track/6M1mIjeq2kNvT8F2dHNugk) | [Marcos Antônio](https://open.spotify.com/artist/328rxNpbUC1zFPojNBnKj4) | [Eterno Dependente](https://open.spotify.com/album/7EfEHHMC3rsLcrcpoIrSl5) | 5:30 |
 | 45 | [Fiel a Mim](https://open.spotify.com/track/45BbvslR0kdNkO79pDhAhM) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 7:22 |
 | 46 | [Abra os Olhos do Meu Coração \- Ao Vivo em Curitiba](https://open.spotify.com/track/308mpl3G2FseXxGEjtyLIW) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Fogo e Glória \(Ao Vivo em Curitiba\)](https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq) | 8:31 |
 | 47 | [Descansarei \- Ao Vivo](https://open.spotify.com/track/44PXCOuQXQIq40BiTBjVW6) | [Ronaldo Medeiros](https://open.spotify.com/artist/6RMUphSh8PJC2llQHlFARe) | [Promessas](https://open.spotify.com/album/58uhE9XLy6EojFpJ6UQKA2) | 6:27 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 69 | [Me Rendo](https://open.spotify.com/track/2XyR41aQULwd1ZZxh1ajxY) | [Hillsong Global Project](https://open.spotify.com/artist/15QEMU8TfJ3jEJjV5dRfCi), [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Global Project Português](https://open.spotify.com/album/6TXjIiTV3QPLymgQj3ABtv) | 6:10 |
 | 70 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
 
-Snapshot ID: `MCwxOGUzOTU0ZDNlOGUzN2M1YzFhMjMyYmY5OWVmZjFhYTRiZWVmN2Iw`
+Snapshot ID: `MCxlZWQ1MDk0ZTgyOTg5NGFlNTkwZThjOTNlMzVkNTRjY2FmYTIwMzc3`

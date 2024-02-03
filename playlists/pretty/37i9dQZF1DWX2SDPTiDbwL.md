@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,076 likes - 61 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,094 likes - 61 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 10 | [I Still Need You](https://open.spotify.com/track/5quviriYlmlsNQ1mkJv1fC) | [Dan Sistos](https://open.spotify.com/artist/19Aad89RQqALXtLkaHt7Hh) | [The Road To Euphoria](https://open.spotify.com/album/3yzy9L2iOAzBBdqVC8TwVW) | 2:37 |
 | 11 | [Soleil](https://open.spotify.com/track/0k4Y2TqLUPNJ8euMibKQ4z) | [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco](https://open.spotify.com/album/6VmYzpmaaEJe66Sy9ZK4qO) | 4:36 |
 | 12 | [Beyond The Mirage](https://open.spotify.com/track/1RDkmgfjWsK7J9xlDS3PkX) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Paco De Lucia, Al Di Meola, John McLaughlin](https://open.spotify.com/album/3S83H2RAz4qYHibsrEKfm7) | 6:10 |
-| 13 | [Torero](https://open.spotify.com/track/6Ql5ovfv38vALEkP00TMzJ) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/4l6MESQt1Y9UVmF0ugDOOI) | 5:07 |
+| 13 | [Torero](https://open.spotify.com/track/28wsuYdlvWeUDQCxJDbo5r) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/4pVKGwZmlCJAj87KgN48KW) | 5:06 |
 | 14 | [Solea](https://open.spotify.com/track/1tv8agBVvSOPZ6cHcADpGr) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/64ydWqsSid08IPBocvpOvp) | 4:37 |
 | 15 | [Evening Embrace](https://open.spotify.com/track/2pvYHngjUT2Gg9hQtMUSjb) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Mediterranea](https://open.spotify.com/album/6sxRxfaqxOLUq6YffLmoak) | 4:25 |
 | 16 | [7 Spanish songs \(7 Canciones Sefaradies\): No\. 3\. En la mar ay una torre](https://open.spotify.com/track/0AMFKtEaub06bUVgzyW6AM) | [Oscar Roberto Casares](https://open.spotify.com/artist/4L9F4RTVEkqzY8wDEyor9r), [Flavio Cucchi](https://open.spotify.com/artist/2YJcIfhIWamtbWZkSxj4x5) | [Cucchi, Flavio: American Portraits](https://open.spotify.com/album/1NL9JuaGb5u8EgVerSuFmA) | 2:14 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 60 | [Flowers of Genzano](https://open.spotify.com/track/4WnBckNWhg7a5kgbfWPGCr) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Flowers of Genzano](https://open.spotify.com/album/3HONE0pDNjCMtRwA5lZU9M) | 3:32 |
 | 61 | [Bulerias](https://open.spotify.com/track/4ceIfkeFDxkmPF7uwcsd41) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC) | 3:03 |
 
-Snapshot ID: `MCw0ZTMyNmYwMDQ5NmU4YTA1YTBlMzAwZTdjYzM2MzQyMWJkY2QwM2Vh`
+Snapshot ID: `MCw4OGJmMDc0N2U0NmI2NDU2ODg1YmQ3MGYyOGJiMWMwYzg3NzlhZWM3`

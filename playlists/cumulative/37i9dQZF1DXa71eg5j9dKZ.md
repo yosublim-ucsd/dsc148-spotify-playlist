@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Bicep
 
-892 songs - 2 day 15 hr 6 min
+893 songs - 2 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Chaotic NRG](https://open.spotify.com/track/5FKmQG3seap8bwPjbmQc5a) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt), [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS) | [Chaotic NRG](https://open.spotify.com/album/4FCtpzPYcNWouVVI3crsdV) | 4:40 | 2023-01-20 | 2023-09-01 |
 | [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 | 2022-05-25 | 2022-08-02 |
 | [Cherubim](https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Cherubim](https://open.spotify.com/album/3WlyBAG8AbL6E9C09KGU4w) | 3:22 | 2022-11-11 | 2023-05-19 |
-| [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 | 2024-02-02 |  |
+| [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 | 2024-02-02 |  |
 | [Cicada \(feat\. Arca\)](https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 3:53 | 2021-11-24\* | 2022-01-29 |
 | [Circle Back Around](https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Circle Back Around](https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33) | 3:15 | 2023-02-24 | 2023-04-28 |
 | [Circle of Light](https://open.spotify.com/track/6a6ui28fBRRlc0TcdXoIbM) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Circle of Light](https://open.spotify.com/album/1XJIRwvgrc6roiNKphMRHr) | 3:40 | 2023-02-17 | 2023-09-01 |
@@ -333,7 +333,7 @@
 | [Got Me \(feat\. Julia Stone\)](https://open.spotify.com/track/1EBDX2eMMsaUwLjWAde0Cm) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Got Me \(feat\. Julia Stone\)](https://open.spotify.com/album/1qG2RXV02DXzZ4k0i4a69R) | 4:23 | 2021-11-24\* | 2022-01-29 |
 | [Got to Live](https://open.spotify.com/track/361wEfBaZKkW3HKm6wHJyw) | [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [High Tide](https://open.spotify.com/album/5H0lqSYBAGUG9ZZKN5IrRM) | 4:14 | 2021-12-10 | 2022-05-13 |
 | [Gotta Do This, Gurl](https://open.spotify.com/track/1fiwPnzU3b50IhhhgDVorQ) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Gotta Do This, Gurl](https://open.spotify.com/album/5e2bl6tZIjQogNIy34S7c3) | 3:45 | 2022-08-11 | 2023-01-13 |
-| [gr etiquette](https://open.spotify.com/track/44pX2G3zFb5rvsqy6uaDeF) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [archive 09\-10](https://open.spotify.com/album/7CfTDwpSa8cWyk6GYIERv3) | 5:00 | 2023-09-28 |  |
+| [gr etiquette](https://open.spotify.com/track/44pX2G3zFb5rvsqy6uaDeF) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [archive 09\-10](https://open.spotify.com/album/7CfTDwpSa8cWyk6GYIERv3) | 5:00 | 2023-09-28 | 2024-02-03 |
 | [Grammar](https://open.spotify.com/track/4wgE9XKaHBl9E42jK7AgVu) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Grammar](https://open.spotify.com/album/5UNPHRM6OIx2ePeHbP3MOi) | 7:41 | 2022-04-08 | 2022-08-05 |
 | [Gunk](https://open.spotify.com/track/5jHzYWfxlXhQyTa8mM0eO2) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Gunk](https://open.spotify.com/album/5o1iZA91oDEL122dimCIDh) | 5:14 | 2022-03-11 | 2022-07-15 |
 | [Habla Con Ella](https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:24 | 2023-10-27 |  |
@@ -354,6 +354,7 @@
 | [Heaven Hanging Low](https://open.spotify.com/track/0XyBzQ0hOpfmXSjG2CwIqk) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Heaven Hanging Low](https://open.spotify.com/album/0C15Fq2phrRsuF38ny28Hk) | 3:40 | 2023-05-18 | 2023-06-30 |
 | [Heavy Like Lead](https://open.spotify.com/track/7xLFFvpk9ntQRNzQnflX5X) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [Est\. 2003](https://open.spotify.com/album/56w3xaz6QTSez2nbQ9x9uZ) | 3:21 | 2022-09-22 | 2023-02-24 |
 | [Here We Go Again \(feat\. Fela.Mi\)](https://open.spotify.com/track/7KShpllUQ6A4TzH4QwYBBQ) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap), [FELA.Mi](https://open.spotify.com/artist/62SbLKzwbFxonjM9Qz8zqF) | [Here We Go Again / So I Just](https://open.spotify.com/album/7AGNncMVuU6QSplrudRgKU) | 2:37 | 2021-11-24\* | 2022-03-05 |
+| [Here With Me](https://open.spotify.com/track/0XVGaKdfstcpMvqe15Yozv) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Here With Me](https://open.spotify.com/album/3sQfEqsPOKPAnW9hUIILSC) | 3:13 | 2024-02-02 |  |
 | [Heroes](https://open.spotify.com/track/1BX7vT2Pc6FNFblmhnp6ke) | [Ibibio Sound Machine](https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c) | [Heroes](https://open.spotify.com/album/3IdiYTu8F4WtlWHSydLB6p) | 3:31 | 2022-09-08 | 2022-12-10 |
 | [Hey Baby \- Edit](https://open.spotify.com/track/7MndqEJo8v79ZzT0dfkVdE) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Hey Baby](https://open.spotify.com/album/5SFR0BM59foRYgSloVXkWI) | 3:20 | 2022-09-22 | 2022-11-18 |
 | [High Tide](https://open.spotify.com/track/7suw12rQZwkno8lhmIGE1y) | [VONDA7](https://open.spotify.com/artist/0Glk45UpQ9Tz1yp6GvhUBM) | [High Tide EP](https://open.spotify.com/album/4Ms1cZbeR20b8v4rkl0PZQ) | 3:44 | 2022-03-08 | 2022-03-10 |

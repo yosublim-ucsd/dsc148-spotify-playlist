@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 229647,
+  "num_followers": 229755,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjUzZmZjYjRiZjYyOGE3MTc3MGNmMDA5MTNiNTFhYjNiOTM4OWUy",
+  "snapshot_id": "MCwzMDBiYzIyYzJjYmUwMDU3ZGY3YzRiNzhkNmU0NjdkNjA0YmM3ODFl",
   "tracks": [
     {
       "added_at": "2024-01-12 07:49:20",
@@ -355,18 +355,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Get to Me",
-        "url": "https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y"
+        "name": "Till It Kills Me",
+        "url": "https://open.spotify.com/album/2LEBSDEECtxcoot8F0Cs8z"
       },
       "artists": [
         {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+          "name": "Trulah",
+          "url": "https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR"
+        },
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
         }
       ],
-      "duration_ms": 198373,
-      "name": "Get to Me",
-      "url": "https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT"
+      "duration_ms": 234500,
+      "name": "Till It Kills Me",
+      "url": "https://open.spotify.com/track/6bEIHsUn9pcJAzWK99YeAq"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -387,22 +391,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Till It Kills Me",
-        "url": "https://open.spotify.com/album/2LEBSDEECtxcoot8F0Cs8z"
+        "name": "Get to Me",
+        "url": "https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y"
       },
       "artists": [
         {
-          "name": "Trulah",
-          "url": "https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR"
-        },
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 234500,
-      "name": "Till It Kills Me",
-      "url": "https://open.spotify.com/track/6bEIHsUn9pcJAzWK99YeAq"
+      "duration_ms": 198373,
+      "name": "Get to Me",
+      "url": "https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "God Be Praised",
-        "url": "https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Yes I Do",
-      "url": "https://open.spotify.com/track/5Hq0aYRj1p1vD6w6JTe2sy"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Belongs To You (Remix Pack)",
         "url": "https://open.spotify.com/album/4JFyOepnA6LzoCMgDc8T7X"
       },
@@ -579,6 +563,54 @@
       "duration_ms": 158479,
       "name": "Belongs To You - Lofi Remix",
       "url": "https://open.spotify.com/track/4niYuESanlUNSn9m9v16P0"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "God Be Praised",
+        "url": "https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Yes I Do",
+      "url": "https://open.spotify.com/track/5Hq0aYRj1p1vD6w6JTe2sy"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6SkRXBtGo21ClW0TXIE5FD"
+      },
+      "artists": [
+        {
+          "name": "Franchesca",
+          "url": "https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/0Yv88gXq362a9oTSeC7J67"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Deliver Me",
+        "url": "https://open.spotify.com/album/5wIblLd3K3NNQ1PCAsEjV7"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "duration_ms": 216352,
+      "name": "Deliver Me",
+      "url": "https://open.spotify.com/track/5frHrrS1f3fLccLtJNw7Xv"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -603,22 +635,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Deliver Me",
-        "url": "https://open.spotify.com/album/5wIblLd3K3NNQ1PCAsEjV7"
-      },
-      "artists": [
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        }
-      ],
-      "duration_ms": 216352,
-      "name": "Deliver Me",
-      "url": "https://open.spotify.com/track/5frHrrS1f3fLccLtJNw7Xv"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "So Much To Say (Pt. III)",
         "url": "https://open.spotify.com/album/6HaymVQhgMhb6UyFqk3VHY"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 164542,
       "name": "Amen",
       "url": "https://open.spotify.com/track/6wU5FbAJrRcZUvDfpP0XxR"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6SkRXBtGo21ClW0TXIE5FD"
-      },
-      "artists": [
-        {
-          "name": "Franchesca",
-          "url": "https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/0Yv88gXq362a9oTSeC7J67"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Freedom Dance",
+        "url": "https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Freedom Dance",
+      "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Pray For Me",
         "url": "https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 143439,
       "name": "pillow soft",
       "url": "https://open.spotify.com/track/0t8fKvRdEPoDf7995BN5gX"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Freedom Dance",
-        "url": "https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH"
-      },
-      "artists": [
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Freedom Dance",
-      "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Thousands of Years",
+        "url": "https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS"
+      },
+      "artists": [
+        {
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+        }
+      ],
+      "duration_ms": 181352,
+      "name": "Thousands of Years",
+      "url": "https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "HOMIE",
         "url": "https://open.spotify.com/album/76LraBETj4zBYpsAmtJDtY"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 153083,
       "name": "HOMIE",
       "url": "https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Thousands of Years",
-        "url": "https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS"
-      },
-      "artists": [
-        {
-          "name": "Daphne Richardson",
-          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
-        }
-      ],
-      "duration_ms": 181352,
-      "name": "Thousands of Years",
-      "url": "https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Clouds II",
+        "url": "https://open.spotify.com/album/1gKvdAwzaQBaOkm1j2FOQG"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        }
+      ],
+      "duration_ms": 235275,
+      "name": "Clouds II",
+      "url": "https://open.spotify.com/track/4cWaqqvy5itUbOHj6C3AyW"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "I Surrender All (Allt till Jesus)",
         "url": "https://open.spotify.com/album/6ipfGbwsNXM67WKpoyN3EG"
       },
@@ -1151,38 +1167,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Clouds II",
-        "url": "https://open.spotify.com/album/1gKvdAwzaQBaOkm1j2FOQG"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        }
-      ],
-      "duration_ms": 235275,
-      "name": "Clouds II",
-      "url": "https://open.spotify.com/track/4cWaqqvy5itUbOHj6C3AyW"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "More In Seconds",
-        "url": "https://open.spotify.com/album/6D8jfseyzo6aID0WbA5pgj"
-      },
-      "artists": [
-        {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
-        }
-      ],
-      "duration_ms": 244493,
-      "name": "More In Seconds",
-      "url": "https://open.spotify.com/track/6Jiyh1uhwo7q2I8Yx9vgsT"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Perfect Love",
         "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 180375,
       "name": "You're The One",
       "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "More In Seconds",
+        "url": "https://open.spotify.com/album/6D8jfseyzo6aID0WbA5pgj"
+      },
+      "artists": [
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "duration_ms": 244493,
+      "name": "More In Seconds",
+      "url": "https://open.spotify.com/track/6Jiyh1uhwo7q2I8Yx9vgsT"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "JUST BE US",
-        "url": "https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7"
+        "name": "Cornerstone",
+        "url": "https://open.spotify.com/album/4C2ROejT301KgDkPakUU0R"
       },
       "artists": [
         {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+          "name": "Keyondra Lockett",
+          "url": "https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7"
         }
       ],
-      "duration_ms": 142889,
-      "name": "JUST BE US",
-      "url": "https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb"
+      "duration_ms": 214736,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/4kKP41Wo6UVb2rZpKZEgyg"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Cornerstone",
-        "url": "https://open.spotify.com/album/4C2ROejT301KgDkPakUU0R"
+        "name": "JUST BE US",
+        "url": "https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7"
       },
       "artists": [
         {
-          "name": "Keyondra Lockett",
-          "url": "https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7"
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
         }
       ],
-      "duration_ms": 214736,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/4kKP41Wo6UVb2rZpKZEgyg"
+      "duration_ms": 142889,
+      "name": "JUST BE US",
+      "url": "https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Surrender The Will",
-        "url": "https://open.spotify.com/album/1uOucKRNyuXWk7ywMF1JqJ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
-        }
-      ],
-      "duration_ms": 168834,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/5mkosFaeklJwnN7NNjxzI3"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Like Yours",
         "url": "https://open.spotify.com/album/5azmENYG8KnyBBhX2zGADH"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 207529,
       "name": "Like Yours",
       "url": "https://open.spotify.com/track/2GxOocpI0dqAdjbqQUkb4l"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Surrender The Will",
+        "url": "https://open.spotify.com/album/1uOucKRNyuXWk7ywMF1JqJ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "duration_ms": 168834,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/5mkosFaeklJwnN7NNjxzI3"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 222918,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "SURREAL",
         "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Sun Son",
-        "url": "https://open.spotify.com/album/0ftye6YVCqWInEykok7IJt"
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
       },
       "artists": [
         {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
         }
       ],
-      "duration_ms": 252800,
-      "name": "Sun Son",
-      "url": "https://open.spotify.com/track/57Rq8hVJ3rZIS4LoHE2kBb"
+      "duration_ms": 222918,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1511,6 +1495,22 @@
       "duration_ms": 218948,
       "name": "Awesome",
       "url": "https://open.spotify.com/track/1CCi2rldOo75tHL5kau6WA"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Sun Son",
+        "url": "https://open.spotify.com/album/0ftye6YVCqWInEykok7IJt"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Sun Son",
+      "url": "https://open.spotify.com/track/57Rq8hVJ3rZIS4LoHE2kBb"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/6TJwvt9HrcnOLQXx8OOq7X"
+      },
+      "artists": [
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        },
+        {
+          "name": "Wes Harris",
+          "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/3brUbKvNipUN7T6Nl8Wbbj"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/4pGAeO6sOgQZ9r79XBnZw0"
       },
@@ -1679,22 +1699,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/6TJwvt9HrcnOLQXx8OOq7X"
+        "name": "Keep me",
+        "url": "https://open.spotify.com/album/5RM33r3cYmWgSZCxwIyT0G"
       },
       "artists": [
         {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+          "name": "Stephen Willo",
+          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
         },
         {
-          "name": "Wes Harris",
-          "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/3brUbKvNipUN7T6Nl8Wbbj"
+      "duration_ms": 248999,
+      "name": "Keep me",
+      "url": "https://open.spotify.com/track/6VNixtccaXI23rKht6kQQg"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1735,26 +1755,6 @@
       "duration_ms": 242181,
       "name": "Joy",
       "url": "https://open.spotify.com/track/5Ta0V7LXXNnfgl2RRxqG9u"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Keep me",
-        "url": "https://open.spotify.com/album/5RM33r3cYmWgSZCxwIyT0G"
-      },
-      "artists": [
-        {
-          "name": "Stephen Willo",
-          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
-        },
-        {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
-        }
-      ],
-      "duration_ms": 248999,
-      "name": "Keep me",
-      "url": "https://open.spotify.com/track/6VNixtccaXI23rKht6kQQg"
     }
   ],
   "unique_name": "Rhythm & Praise",

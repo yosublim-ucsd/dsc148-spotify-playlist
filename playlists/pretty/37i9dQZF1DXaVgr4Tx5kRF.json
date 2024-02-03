@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 639650,
+  "num_followers": 639664,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODMwNGUyMGYyYjgzYzEyNmJjOTc1Y2FlODg2ODQ4YjlmMDM0NzE0",
+  "snapshot_id": "MCwzOTMyNzdjZmU3YWU2NDFjNTllYzIwZDRhYmFlMmYyMzdlZjQ3ZGY0",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
+        "name": "The Greatest Hits: Why Try Harder",
+        "url": "https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ"
+      },
+      "artists": [
+        {
+          "name": "Cornershop",
+          "url": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "Brimful Of Asha - Norman Cook Remix Single Version",
+      "url": "https://open.spotify.com/track/6gbdLLUhocAjThL3GvV6Lx"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
         "name": "All Change",
         "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "K",
-        "url": "https://open.spotify.com/album/29l6MzHPuJ0KrMDRiM7u56"
-      },
-      "artists": [
-        {
-          "name": "Kula Shaker",
-          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "Tattva",
-      "url": "https://open.spotify.com/track/4FH658GYnS4g5u0eI9dUcS"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Jollification",
         "url": "https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 259666,
       "name": "Lucky You",
       "url": "https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "K",
+        "url": "https://open.spotify.com/album/29l6MzHPuJ0KrMDRiM7u56"
+      },
+      "artists": [
+        {
+          "name": "Kula Shaker",
+          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "Tattva",
+      "url": "https://open.spotify.com/track/4FH658GYnS4g5u0eI9dUcS"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -779,26 +795,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Brimful Of Asha (Norman Cook Remix)",
-        "url": "https://open.spotify.com/album/6SRcSN9aHcfh99CfPzCfGJ"
+        "name": "Smart",
+        "url": "https://open.spotify.com/album/4b6QlQpazyHULH2nmJTPcT"
       },
       "artists": [
         {
-          "name": "Shamoryo",
-          "url": "https://open.spotify.com/artist/5ypoEsxvCfwoM8dWqpRQhq"
-        },
-        {
-          "name": "krmd",
-          "url": "https://open.spotify.com/artist/33hKWOTTkOaDrINMAlQtht"
-        },
-        {
-          "name": "Retrib",
-          "url": "https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I"
+          "name": "Sleeper",
+          "url": "https://open.spotify.com/artist/0NbfEPYRgMczimdfM3skmH"
         }
       ],
-      "duration_ms": 243693,
-      "name": "Brimful of Asha - Norman Cook Remix",
-      "url": "https://open.spotify.com/track/3ufPAjcwTb7YLTw9OcJJJv"
+      "duration_ms": 199493,
+      "name": "Inbetweener",
+      "url": "https://open.spotify.com/track/4GoqaAdOZqS1lyYODRwxlO"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -815,22 +823,6 @@
       "duration_ms": 366266,
       "name": "All You Good Good People",
       "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "Smart",
-        "url": "https://open.spotify.com/album/4b6QlQpazyHULH2nmJTPcT"
-      },
-      "artists": [
-        {
-          "name": "Sleeper",
-          "url": "https://open.spotify.com/artist/0NbfEPYRgMczimdfM3skmH"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "Inbetweener",
-      "url": "https://open.spotify.com/track/4GoqaAdOZqS1lyYODRwxlO"
     },
     {
       "added_at": "2022-05-04 17:11:49",

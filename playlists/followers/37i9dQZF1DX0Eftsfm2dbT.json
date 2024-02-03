@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 130026,
+  "2024-02-03": 130030,
   "date_first_scraped": "2023-09-23",
   "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: JJJ",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
@@ -326,7 +326,7 @@
         },
         {
           "name": "Foux",
-          "url": "https://open.spotify.com/artist/4z8fe4lPDIMVz7vzLRjmZl"
+          "url": "https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7"
         }
       ],
       "date_added": "2024-01-30",
@@ -4471,7 +4471,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 133953,
       "name": "Kick Back",
       "url": "https://open.spotify.com/track/0R3cKyL7lSmV1AIMf5IvGC"
@@ -8517,7 +8517,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 158774,
       "name": "TREMOR",
       "url": "https://open.spotify.com/track/30TyTrYGlr7YYcHkgYQz7p"
@@ -9017,6 +9017,28 @@
       "duration_ms": 135058,
       "name": "WANGAN",
       "url": "https://open.spotify.com/track/7bOpKzbWmvLoK4Kk9KQc1J"
+    },
+    {
+      "album": {
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/59ArA4migkYQtlzAvKE7aM"
+      },
+      "artists": [
+        {
+          "name": "audiot909",
+          "url": "https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2"
+        },
+        {
+          "name": "ONJUICY",
+          "url": "https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191612,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/0ROR97a9Q9SeEkDCON5fmd"
     },
     {
       "album": {

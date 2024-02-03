@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 45195,
+  "2024-02-03": 45198,
   "date_first_scraped": "2022-10-24",
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
   "name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 291022,
       "name": "1126",
       "url": "https://open.spotify.com/track/4UjRdab3VIoem7l4725Yki"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 182073,
       "name": "anatomy",
       "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
@@ -2804,6 +2804,28 @@
     },
     {
       "album": {
+        "name": "Love Is",
+        "url": "https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        },
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155270,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN"
+    },
+    {
+      "album": {
         "name": "Lovely",
         "url": "https://open.spotify.com/album/1PQne7OIZ2eaukaLc3NhC1"
       },
@@ -3645,6 +3667,24 @@
       "duration_ms": 185133,
       "name": "Sashiiro",
       "url": "https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5"
+    },
+    {
+      "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
       "album": {

@@ -1,13 +1,33 @@
 {
   "description": "Ease into the day",
-  "num_followers": 638122,
+  "num_followers": 638049,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDNjYWJmZjJmNDcxZjA4YzA2OTAwNjg5MjU0ZTg1MGY5Yjk2ZGQ4",
+  "snapshot_id": "MCxlYTc5ODRjZTAxYzk0MzZjYTg1ZmQ3ZTYzYTQ4OTU3NmE0YzMzM2Zj",
   "tracks": [
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Love Is",
+        "url": "https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        },
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 155270,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN"
+    },
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
@@ -492,7 +512,7 @@
       },
       "artists": [
         {
-          "name": "The War and Treaty",
+          "name": "The War And Treaty",
           "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
@@ -1571,22 +1591,6 @@
       "duration_ms": 205956,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/18hPvq4l7aiolR6NenxBz6"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Something/Anything",
-        "url": "https://open.spotify.com/album/5ckacfPD0itaUMnzrzceZX"
-      },
-      "artists": [
-        {
-          "name": "Hayden Calnin",
-          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
-        }
-      ],
-      "duration_ms": 260660,
-      "name": "Underneath",
-      "url": "https://open.spotify.com/track/3n93ndjS1jPBLRByWlOSnq"
     },
     {
       "added_at": "2023-09-01 04:00:00",

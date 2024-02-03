@@ -4,7 +4,7 @@
 
 > The shape of noise to come.
 
-528 songs - 1 day 6 hr 20 min
+531 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Can't Deny It](https://open.spotify.com/track/0tgTrj69uTFZaRK669acBF) | [Honeycub](https://open.spotify.com/artist/6PJo5CTDbwSKa9Pph1Desc) | [Can't Deny It](https://open.spotify.com/album/6iPxylWvEfxFqJoTlVOZV2) | 3:58 | 2022-11-04 | 2023-03-03 |
 | [Can't Deny It](https://open.spotify.com/track/3wJ7DkVyjux3jCNTakOahw) | [Honeycub](https://open.spotify.com/artist/6PJo5CTDbwSKa9Pph1Desc) | [Can't Deny It](https://open.spotify.com/album/7jcDqi4m5XF2q4DVMYSDcF) | 3:58 | 2022-09-30 | 2022-11-09 |
 | [Can't Wait](https://open.spotify.com/track/1hhBAsb37DIoVQAgOgjVd1) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Can't Wait](https://open.spotify.com/album/6i5SB6LiZyHouxLdnqTJmT) | 3:34 | 2022-12-15 | 2023-02-03 |
-| [Cardinals](https://open.spotify.com/track/723vVxxNycnmucEWfpvarT) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Cardinals](https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW) | 3:11 | 2024-01-12 |  |
+| [Cardinals](https://open.spotify.com/track/723vVxxNycnmucEWfpvarT) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Cardinals](https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW) | 3:11 | 2024-01-12 | 2024-02-03 |
 | [Care About You](https://open.spotify.com/track/5EdKpHVNlOuoQIf8rjvRrc) | [Columbus](https://open.spotify.com/artist/3hyTRrdgrNuAExA3tNS8CA) | [Driving In The Dark](https://open.spotify.com/album/44szdul4P7C2lcdgyscfcR) | 2:51 | 2022-04-05 | 2022-09-07 |
 | [Caroline](https://open.spotify.com/track/3OW0jmq5jeDiDnYKI0apJJ) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Caroline](https://open.spotify.com/album/2yTkGlRAiUEZLxdqOR2ejq) | 3:32 | 2023-01-20 | 2023-03-18 |
 | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/track/5AzFP6taTTCZp0SU18jxpc) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/album/1dVLmx7MeskNv1bwe6MY8Y) | 3:56 | 2023-10-13 | 2023-10-21 |
@@ -107,6 +107,7 @@
 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 | 2022-03-21 | 2022-09-07 |
 | [Cold Sweats](https://open.spotify.com/track/12tsMXFxuVQo1eTECMaoSu) | [Crossing i's Dotting t's](https://open.spotify.com/artist/7eNA56CKDh8uHvdk3Dsdbc) | [Cold Sweats](https://open.spotify.com/album/3qaP9Ek4EgIhr12uMi36TN) | 3:34 | 2024-01-19 | 2024-01-27 |
 | [Cold Walks To The Liquor Store](https://open.spotify.com/track/0yLiQkBUW3KpIVgbv0v9T3) | [Tarnish](https://open.spotify.com/artist/2THrbWtOoqb3LNA0fiBfnW) | [Cold Walks To The Liquor Store](https://open.spotify.com/album/3273DDylYFy8ltZLtpCqjK) | 2:56 | 2023-07-28 | 2023-11-11 |
+| [Cold World](https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/4OMrhNt4uDO7k44AlkqLJb) | 3:17 | 2024-02-02 |  |
 | [Comatose](https://open.spotify.com/track/1nrY9vaRGbSu8Oyp5Wlyu1) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [Comatose](https://open.spotify.com/album/699HPxSGvoihD45uGQbBYv) | 3:48 | 2023-08-21 | 2023-11-11 |
 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 | 2022-07-31 | 2023-02-10 |
 | [Coming Home](https://open.spotify.com/track/0Ezo65AK5eoUg6CZl75X0Q) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Coming Home](https://open.spotify.com/album/6oZrOIZ4g01FSJkbWoxrKZ) | 3:24 | 2022-04-28 | 2022-07-29 |
@@ -238,7 +239,7 @@
 | [Humbug](https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:14 | 2024-01-12 |  |
 | [Hung Up](https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Hung Up](https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN) | 3:24 | 2021-12-16 | 2022-03-11 |
 | [Hush](https://open.spotify.com/track/366FR61dXAk66bzHbYHPOw) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Hush](https://open.spotify.com/album/6XNHKQT5WfmVlDJAIWJ7M7) | 6:29 | 2021-12-16 | 2022-01-28 |
-| [Hyper Trophy](https://open.spotify.com/track/3kHSUwpxqdXaKONV3ECNL8) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Hyper Trophy](https://open.spotify.com/album/0Pt5wGMaHSrmNSjzHVag6e) | 2:55 | 2023-08-25 |  |
+| [Hyper Trophy](https://open.spotify.com/track/3kHSUwpxqdXaKONV3ECNL8) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Hyper Trophy](https://open.spotify.com/album/0Pt5wGMaHSrmNSjzHVag6e) | 2:55 | 2023-08-25 | 2024-02-03 |
 | [Hypernormalisation](https://open.spotify.com/track/2J0rZv5OT6Sop5M52ezhwO) | [Crime In Stereo](https://open.spotify.com/artist/4ijffQAqzpGyaWDXuIZZI7) | [Hypernormalisation](https://open.spotify.com/album/2Meh2es5kGWqM1CcqgLt3i) | 3:27 | 2023-08-31 | 2024-01-04 |
 | [Hypodermic Sunshine](https://open.spotify.com/track/6XSEyo3CebbQCnUW5TJqC5) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [Hypodermic Sunshine](https://open.spotify.com/album/6Gq2CGxhh8aEojqRgUbBfY) | 3:15 | 2023-08-31 | 2023-10-14 |
 | [I Don't Need a Rocket to Find My Own Space](https://open.spotify.com/track/0WeFSW2vxAJ94y0EXWcTkt) | [LostAlone](https://open.spotify.com/artist/0rAOPs8hf2bB7KECYDdaMC) | [The Warring Twenties](https://open.spotify.com/album/4773GkUhoAhblhtYXxX9Sb) | 2:47 | 2022-09-30 | 2022-10-15 |
@@ -253,7 +254,7 @@
 | [Imaginary Fire \- feat\. Greg Puciato](https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi) | [Imaginary Fire](https://open.spotify.com/album/0ZpAiTmi2EpqUqKYlWkfAx) | 4:21 | 2022-02-03 | 2022-04-29 |
 | [In the shadow of your former self.](https://open.spotify.com/track/7icAw1EcEfXRpOxkhB3HZw) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [In the shadow of your former self.](https://open.spotify.com/album/2L3ASLYdsXsrombwNJVyAG) | 4:21 | 2023-05-19 | 2024-01-04 |
 | [In Your Way](https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Here at All](https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU) | 3:54 | 2022-09-06 | 2023-02-22 |
-| [Insultiment](https://open.spotify.com/track/1BWbOD4CoE451SffL8Kj3W) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU) | 3:46 | 2024-01-26 |  |
+| [Insultiment](https://open.spotify.com/track/1BWbOD4CoE451SffL8Kj3W) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU) | 3:46 | 2024-01-26 | 2024-02-03 |
 | [Into the Trap](https://open.spotify.com/track/6wQenOUgfgP9ioeWc6vH0E) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Into the Trap](https://open.spotify.com/album/43ZIULcetVrO3ieqLnrjoE) | 3:52 | 2023-01-13 | 2023-03-11 |
 | [INVU](https://open.spotify.com/track/2gly2apzeebU6R2ynrKjR3) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [High Horse](https://open.spotify.com/album/0O925AVmQdYEUyjd5M2Qfh) | 2:55 | 2021-12-16 | 2022-03-11 |
 | [Is It Really You?](https://open.spotify.com/track/4ndmsvcCgLZH2hZwVw8cuJ) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd), [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Is It Really You?](https://open.spotify.com/album/3ECdQKxcDWZGwN4dSBVdoH) | 4:42 | 2022-01-20 | 2022-04-29 |
@@ -333,6 +334,7 @@
 | [no one is truly cool](https://open.spotify.com/track/3Wuvh6YDTQE1vsOCiHOkxQ) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [no one is truly cool](https://open.spotify.com/album/1kor0saoI4U16mP7LDzdan) | 2:16 | 2023-03-02 | 2023-06-03 |
 | [Normal People](https://open.spotify.com/track/5fHTf9ZTdBkN3HTT3qLr4c) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal People](https://open.spotify.com/album/6HEPp8hIR1ax1cLTMDBLbL) | 2:58 | 2021-12-16 | 2022-01-21 |
 | [Not a Friend](https://open.spotify.com/track/13iuIktdvv32Xz9P8GO5Mq) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Not A Friend](https://open.spotify.com/album/4lu2cHvOHdrtlTH0RSOS8f) | 3:19 | 2023-06-02 | 2023-07-04 |
+| [Not It](https://open.spotify.com/track/6d8mGiqcBGivmQ0B5BH9Wi) | [Salt+](https://open.spotify.com/artist/4wP8CdpcWu2NoEzqp2fape) | [Not It](https://open.spotify.com/album/0ep6SynYuRntszr0mv2U2W) | 2:32 | 2024-02-02 |  |
 | [Nothing](https://open.spotify.com/track/1xtm5LyLJsOcCqyGY0qnTn) | [bloodmoon](https://open.spotify.com/artist/26hXUBuoVEiECCwpSCEYPB) | [Nothing](https://open.spotify.com/album/1SqK00QPYl2QcZe3HD1pel) | 3:59 | 2022-06-16 | 2022-09-23 |
 | [Nothing Is Real](https://open.spotify.com/track/3XWIRyN53ELqIgJJFsB7Vx) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nothing Is Real](https://open.spotify.com/album/4O8ZUAxWtfxWxxkGqRaAbZ) | 4:33 | 2022-07-31 | 2022-09-07 |
 | [Nothing Is Real](https://open.spotify.com/track/63QGDqeDMOdQe9j06GYLRd) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nothing Is Real](https://open.spotify.com/album/3Zvib0aCBmAwaJIeAQu4mb) | 4:33 | 2022-03-31 | 2022-08-11 |
@@ -406,6 +408,7 @@
 | [Separate Ways](https://open.spotify.com/track/2Aj29eavK4DmnduCE8UXsA) | [Phantom Bay](https://open.spotify.com/artist/5WyFLIEQF4woWGUmgfyg7v) | [Separate Ways](https://open.spotify.com/album/2YYRNRiW5C1FZiET3a1UVq) | 1:57 | 2021-12-16 | 2022-04-15 |
 | [Seventh Hell](https://open.spotify.com/track/0K134na0zJBSypTieFgNlN) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Feel It All Around](https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy) | 2:22 | 2023-10-06 | 2023-10-14 |
 | [SEX DOPE GOLD](https://open.spotify.com/track/3jxOhd8XKXjNjV84USrER4) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [SEX DOPE GOLD](https://open.spotify.com/album/1eu5Cb1GTFJjTGOABSKjsI) | 2:57 | 2022-02-24 | 2022-05-27 |
+| [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 | 2024-02-02 |  |
 | [Shoulders](https://open.spotify.com/track/0rTLdT65nXUA04EY0jEF6L) | [Giveaway](https://open.spotify.com/artist/4kwtZRR88YHWOMWhvb5M5A) | [Shoulders](https://open.spotify.com/album/0kT8xYHpoDyAbBfjrtuvwX) | 2:33 | 2023-04-21 | 2023-06-10 |
 | [Show You My Pain](https://open.spotify.com/track/6hcmMf722qybIx8OoyXvQd) | [all under heaven](https://open.spotify.com/artist/0RzwdSzh3shHCYdE36Fizn) | [Split](https://open.spotify.com/album/3G7HgD4vxg04rSF1WXYTFM) | 3:51 | 2022-11-25 | 2023-05-13 |
 | [Sick Sense](https://open.spotify.com/track/40IJY0iAD4811y5IpurcgI) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Sick Sense](https://open.spotify.com/album/1tc5s64PT6zqHnW5TvPhu0) | 3:32 | 2022-11-04 | 2023-03-25 |

@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-267 songs - 21 hr 50 min
+268 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Femme](https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:22 | 2022-07-08 | 2023-05-27 |
 | [Fia](https://open.spotify.com/track/5TREoPShL4tfACMEbHxuzL) | [Dario D'Attis](https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX), [Markus Homm](https://open.spotify.com/artist/6lU2Le0VfhyLnb8x0bOqil) | [Fia](https://open.spotify.com/album/7DgEWcG8Ra9VtejKVfxw7t) | 8:03 | 2022-06-03 | 2022-07-29 |
 | [Flashback feat\. Forrest](https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q) | [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Hush Hush EP](https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ) | 4:03 | 2022-07-08 | 2023-11-04 |
-| [Flimmerlicht](https://open.spotify.com/track/3FFiXXnu93YSE7wnWJJd9b) | [Vossberg](https://open.spotify.com/artist/2aztkMjmS8uRYHVejM5QhD) | [Flimmerlicht](https://open.spotify.com/album/1W3okC2t5kZbS5iMrTaIIg) | 5:02 | 2024-01-12 |  |
+| [Flimmerlicht](https://open.spotify.com/track/3FFiXXnu93YSE7wnWJJd9b) | [Vossberg](https://open.spotify.com/artist/2aztkMjmS8uRYHVejM5QhD) | [Flimmerlicht](https://open.spotify.com/album/1W3okC2t5kZbS5iMrTaIIg) | 5:02 | 2024-01-12 | 2024-02-03 |
 | [Free](https://open.spotify.com/track/07JlZ8E9U8l1nH41vAIPSu) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Free / Love Me](https://open.spotify.com/album/7tlGEEHcWktB2dgYH1CzEB) | 7:01 | 2022-06-03 | 2022-07-29 |
 | [Free \- Bruno Furlan Remix](https://open.spotify.com/track/668AmdAkV6kzQIGs1iMWxS) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Uncle Chucc](https://open.spotify.com/artist/0qmUElN0l9LfpXv3i4qIyR) | [Free \(Ferreck Dawn Remix\)](https://open.spotify.com/album/5trwxpbZkRZRB3t1q3ehZT) | 3:49 | 2023-03-17 | 2023-04-29 |
 | [Fuck The Regs](https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Fuck The Regs EP](https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy) | 3:24 | 2022-07-29 | 2024-01-26 |
@@ -225,6 +225,7 @@
 | [Targa \- Logic1000 Remix](https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Targa \(Logic1000 Remix\)](https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo) | 3:35 | 2023-08-11 |  |
 | [Te Voy A Dar](https://open.spotify.com/track/4eIsRh7sfRf94s4TtE4UWx) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc) | [Te Voy A Dar](https://open.spotify.com/album/0PQX0fBA76hR7jcrvzpRZX) | 3:05 | 2023-03-17 | 2023-04-03 |
 | [Tears In Berghain](https://open.spotify.com/track/0DJQZ0od70Z6SkuoEeOYAa) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI), [Kuldaboli](https://open.spotify.com/artist/3iqkQOfaf7oQtPfmGaMl4W) | [Tears In Berghain EP](https://open.spotify.com/album/7ez8S0rG2f4hec5NIJOaWY) | 4:27 | 2023-09-22 | 2023-11-13 |
+| [Teki Teki](https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR) | [Ishimaru](https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n) | [Teki Teki](https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n) | 3:20 | 2024-02-02 |  |
 | [Testimony](https://open.spotify.com/track/702TT2q83VQlC75h807I1J) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Testimony](https://open.spotify.com/album/000z99zZbT9Gfabqyw1THb) | 6:41 | 2022-06-03 | 2023-03-26 |
 | [That's Right](https://open.spotify.com/track/4DQQw8ILU9DUpkXhfVJYtQ) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [That's Right / The Maze](https://open.spotify.com/album/4Ea6xrbMghxpsECU18mqBS) | 5:58 | 2022-06-03 | 2022-07-28 |
 | [The Attention Deficit Track \- Edit](https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW) | [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [The Attention Deficit Track](https://open.spotify.com/album/45KWFCVez0XRbv74zCYSTc) | 3:48 | 2023-11-06 |  |

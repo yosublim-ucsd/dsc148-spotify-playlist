@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4MGjsC9FFb2SlwoNuSdI9d.md) - [plain]
 
 > Shake up your day at the office with this mix\. Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_OfficeMusic\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 31,924 likes - 122 songs - 6 hr 30 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 31,935 likes - 122 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/4MGjsC9FFb2SlwoNuSdI9d.md) - [plain]
 | 2 | [Mourning](https://open.spotify.com/track/03VEWFuke6NBTcwZR1rykF) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Mourning](https://open.spotify.com/album/7nMVEzxsULtU5bodJ5vw6v) | 2:27 |
 | 3 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 |
 | 4 | [vampire](https://open.spotify.com/track/4OC6qCqVMscZLBMnLTsVyg) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5Z30mAi4dtJ642OLgiKm55) | 3:39 |
-| 5 | [Seven \(feat\. Latto\) \(Clean Ver.\)](https://open.spotify.com/track/5Avril3IZ26DPVFHbJX8o6) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
+| 5 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/5Avril3IZ26DPVFHbJX8o6) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 6 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
 | 7 | [Dance Alone](https://open.spotify.com/track/5BnL7i0syYE3KK8RgbK6hn) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Dance Alone](https://open.spotify.com/album/1CJFY6yBSHhos1JkjSVBK8) | 3:04 |
 | 8 | [Feather](https://open.spotify.com/track/2ESbXlYrHN88KwqcIjsljW) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/6a55CzD7q7fcHz9B8IGO0p) | 3:05 |

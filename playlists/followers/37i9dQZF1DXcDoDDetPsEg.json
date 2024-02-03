@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 766219,
+  "2024-02-03": 766220,
   "date_first_scraped": "2022-02-25",
   "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. ",
   "name": "Who We Be",
@@ -21,7 +21,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 159111,
       "name": "#skeptacore pt.3",
       "url": "https://open.spotify.com/track/1HAW56e0zz05phUnzuHF9E"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 135792,
       "name": "Abena",
       "url": "https://open.spotify.com/track/6DxtuK3Jy8Fll23EHrO1wo"
@@ -1392,6 +1392,24 @@
     },
     {
       "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147746,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+    },
+    {
+      "album": {
         "name": "Barbie",
         "url": "https://open.spotify.com/album/6lkmWmRKFbC8LZlC7RxoIl"
       },
@@ -1487,7 +1505,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 188235,
       "name": "BE A HOE (LUTON TING) [feat. Lancey Foux]",
       "url": "https://open.spotify.com/track/3eKuGFKP4U615jDc83lNLZ"
@@ -2573,7 +2591,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 152773,
       "name": "Can\u2019t Dun (feat. M24)",
       "url": "https://open.spotify.com/track/1TonfBDVXhfCNjeXQxnlod"
@@ -4281,7 +4299,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 166000,
       "name": "DND",
       "url": "https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS"
@@ -4575,6 +4593,24 @@
       "duration_ms": 166285,
       "name": "Doubted Me",
       "url": "https://open.spotify.com/track/6UtbpIkvZkL3eODRJ8QuHQ"
+    },
+    {
+      "album": {
+        "name": "downtime",
+        "url": "https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va"
+      },
+      "artists": [
+        {
+          "name": "Tyler Lewis",
+          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192336,
+      "name": "downtime",
+      "url": "https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU"
     },
     {
       "album": {
@@ -4999,7 +5035,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 180869,
       "name": "Everybody (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
@@ -5604,6 +5640,24 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/4tqY8h40coBdUHvDbpAYBm"
+      },
+      "artists": [
+        {
+          "name": "BenjiFlow",
+          "url": "https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164206,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3XQSWSQhwqrbXHwCQDNpYC"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/1NYpfhFgpcoMmADUQsaYQm"
       },
@@ -6033,6 +6087,28 @@
       "duration_ms": 181290,
       "name": "Gave You My All",
       "url": "https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX"
+    },
+    {
+      "album": {
+        "name": "GEEKIN (feat. AJ Tracey)",
+        "url": "https://open.spotify.com/album/4Aq9PhYsSQU4N6mUyXA2kV"
+      },
+      "artists": [
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "GEEKIN (feat. AJ Tracey)",
+      "url": "https://open.spotify.com/track/3R9AZOrnO20E5MVMBiofqH"
     },
     {
       "album": {
@@ -6535,7 +6611,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 147951,
       "name": "Grandma's Kitchen",
       "url": "https://open.spotify.com/track/2BU9FTy2ctWdTjiPiXLZZr"
@@ -6935,7 +7011,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 144710,
       "name": "Hennessy (feat. Blxst)",
       "url": "https://open.spotify.com/track/61mRlOaLDoj6dhSuM81t3t"
@@ -7147,7 +7223,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 184080,
       "name": "Hollows",
       "url": "https://open.spotify.com/track/3S5QlSVPAatCWNnVaAI102"
@@ -8143,7 +8219,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 212000,
       "name": "INTOXYCATED (feat. Dave)",
       "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
@@ -8858,6 +8934,24 @@
     },
     {
       "album": {
+        "name": "L's",
+        "url": "https://open.spotify.com/album/6K1JXpnMjEoak85BbmZypZ"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117200,
+      "name": "L's",
+      "url": "https://open.spotify.com/track/1n0uo2A19rtZn5L2bcvOtu"
+    },
+    {
+      "album": {
         "name": "La La (feat. Suarez)",
         "url": "https://open.spotify.com/album/0WFGzRgEzfhQ6RDDkowkXc"
       },
@@ -9039,7 +9133,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 180640,
       "name": "Lean",
       "url": "https://open.spotify.com/track/4gioGwFuDOfkNuDPflzjad"
@@ -10511,7 +10605,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 122253,
       "name": "MONEY AND VIBES",
       "url": "https://open.spotify.com/track/6XH5Uqo3d0cvBv0dv9Jwh8"
@@ -12093,7 +12187,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 159310,
       "name": "Only Me",
       "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
@@ -14236,6 +14330,54 @@
     },
     {
       "album": {
+        "name": "Ruin",
+        "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181646,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
+    },
+    {
+      "album": {
+        "name": "Ruin",
+        "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Soa Mattrix",
+          "url": "https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323981,
+      "name": "Ruin - Soa Mattrix Remix",
+      "url": "https://open.spotify.com/track/34HeKDXjkxhqvBxmiMuY0K"
+    },
+    {
+      "album": {
         "name": "Run It Up",
         "url": "https://open.spotify.com/album/0sTMa5g20KXJCg3t0Z0jay"
       },
@@ -14965,6 +15107,24 @@
       "duration_ms": 168126,
       "name": "SIN CITY (FEAT. WRETCH 32)",
       "url": "https://open.spotify.com/track/6n9FXwIQSUxzfVx94EwInm"
+    },
+    {
+      "album": {
+        "name": "Sinaloa Cartel",
+        "url": "https://open.spotify.com/album/3KT8vaCpSvW72EU29sEwP6"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124443,
+      "name": "Sinaloa Cartel",
+      "url": "https://open.spotify.com/track/4ghWlp4c86QF3ANBtPYZO7"
     },
     {
       "album": {
@@ -16076,6 +16236,28 @@
     },
     {
       "album": {
+        "name": "Tekken 8 (The Anthem)",
+        "url": "https://open.spotify.com/album/3AgCWoFQBO5Ye2o1tztOdi"
+      },
+      "artists": [
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Fumez The Engineer",
+          "url": "https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Tekken 8 (The Anthem)",
+      "url": "https://open.spotify.com/track/0fiqWtmPgBiS9PZIE0FJjl"
+    },
+    {
+      "album": {
         "name": "Tekky",
         "url": "https://open.spotify.com/album/1gaRBGSStyywg8GHVSeIvA"
       },
@@ -16223,7 +16405,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 133150,
       "name": "The Game",
       "url": "https://open.spotify.com/track/5y6mmcrK3rWoh3iIlsVGMP"
@@ -16967,6 +17149,24 @@
       "duration_ms": 213933,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz"
+    },
+    {
+      "album": {
+        "name": "Tumbi",
+        "url": "https://open.spotify.com/album/0FdPmXzKxRGsuKqt2o1Fx4"
+      },
+      "artists": [
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166880,
+      "name": "Tumbi",
+      "url": "https://open.spotify.com/track/4BeDb8ZEawOvJ3sYdoKgPu"
     },
     {
       "album": {
@@ -17807,6 +18007,24 @@
       "duration_ms": 143692,
       "name": "WELCOME 2 MY STRIP (FT. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/5LtoEVXMgxJPrXEncdUlFU"
+    },
+    {
+      "album": {
+        "name": "Welcome to E9",
+        "url": "https://open.spotify.com/album/2YBanvnPKrTGAIXZMa9NGk"
+      },
+      "artists": [
+        {
+          "name": "Jimmy",
+          "url": "https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Welcome to E9",
+      "url": "https://open.spotify.com/track/2ro147cSsJeFgdjBjOGGLZ"
     },
     {
       "album": {

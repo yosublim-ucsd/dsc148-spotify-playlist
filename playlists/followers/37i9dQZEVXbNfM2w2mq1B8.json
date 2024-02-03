@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 14881,
+  "2024-02-03": 14882,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
   "name": "Top 50 - Bulgaria",
@@ -15835,7 +15835,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
@@ -26547,6 +26547,24 @@
       "duration_ms": 217617,
       "name": "\u041c\u044a\u0436\u0435 \u043c\u0438\u043b\u0438\u0430\u0440\u0434\u0438",
       "url": "https://open.spotify.com/track/1ocox9xxBvjSXVjoBFaxYh"
+    },
+    {
+      "album": {
+        "name": "\u041c\u044a\u043a\u043e \u043c\u043e\u044f",
+        "url": "https://open.spotify.com/album/4LgcFdEJ2XctgFkQnJq6px"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "\u041c\u044a\u043a\u043e \u043c\u043e\u044f",
+      "url": "https://open.spotify.com/track/4ztl8aq18Bs0EayLVB1Zvk"
     },
     {
       "album": {

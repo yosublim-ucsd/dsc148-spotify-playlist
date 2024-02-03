@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,750 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,757 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 9 | [Seven Seas](https://open.spotify.com/track/2pLD65NMnE6XuuTy4tId65) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:02 |
 | 10 | [Slow Jams](https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Portrait](https://open.spotify.com/artist/08fM8wx6uuEwagFsUvQp35), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 7:30 |
 | 11 | [Roller Coaster](https://open.spotify.com/track/5o1Trj52mQcOfgiFfNEzAz) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:23 |
-| 12 | [Whip Appeal](https://open.spotify.com/track/3KwBXx4v79jKrITc0WBw6H) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:31 |
+| 12 | [What If \- Urban Mix](https://open.spotify.com/track/4AFhkn04YASMuvUxVMJKmW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 4:06 |
 | 13 | [How Come, How Long \(feat\. Stevie Wonder\)](https://open.spotify.com/track/6kTakcO9wwXh8tEqmJSV8h) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 5:15 |
-| 14 | [What If \- Urban Mix](https://open.spotify.com/track/4AFhkn04YASMuvUxVMJKmW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 4:06 |
+| 14 | [Whip Appeal](https://open.spotify.com/track/3KwBXx4v79jKrITc0WBw6H) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:31 |
 | 15 | [Where Did We Go Wrong?](https://open.spotify.com/track/3aefZfkE1vgF4utcNTKi04) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 3:36 |
 | 16 | [I Care About You](https://open.spotify.com/track/0u5NhbNEcSxSA5wjmOfJyq) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Babyface Unplugged NYC 1997](https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs) | 5:05 |
 | 17 | [This Is for the Lover In You \(feat\. LL Cool J, Howard Hewett, Jody Watley & Jeffrey Daniels\)](https://open.spotify.com/track/1blZP5x1XQSqQFpTy12rFh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Howard Hewett](https://open.spotify.com/artist/3S78Gzhp1D01i1x2KGXrnh), [Jody Watley](https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ), [Jeffrey Daniels](https://open.spotify.com/artist/4LJ9G2mHQIu6z4NFvg5EhJ) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 49 | [Sunshine](https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:11 |
 | 50 | [Say Less \(with Tiana Major9\)](https://open.spotify.com/track/6tEHDchyWDsI7vRlcNTWVY) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 2:56 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDA3YWQ0MDgyNTY5MmU5Zjc5NzgwZGRmY2NiNzEyOTMwZA==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDAzMmYwOGYwZTZiODYyNDg3N2FlYTI1OWI1Y2ZiZGVmYg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 
 > Stripped back recordings like nothing you’ve heard before\.  Cover: FINNEAS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,537 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,555 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 67 | [Hold Your Head Up High \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1e57DutOjV5KXlNjqWOC61) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Spotify Singles](https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD) | 3:34 |
 | 68 | [I'm Goin' Down \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Spotify Singles](https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA) | 3:27 |
 | 69 | [Lost \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5wjdouk5wQxXkmTeyOC12M) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Spotify Singles](https://open.spotify.com/album/2kQ1EcVFOp70CML1HYjRzn) | 3:54 |
-| 70 | [Goodpain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ykyMoNbNq1oBjyDxlVeAY) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 4:21 |
-| 71 | [Burning \- Recorded At RAK Studios, London](https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 3:51 |
+| 70 | [Burning \- Recorded At RAK Studios, London](https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 3:51 |
+| 71 | [Goodpain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ykyMoNbNq1oBjyDxlVeAY) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 4:21 |
 | 72 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 |
 | 73 | [Shape of You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5RMmI12HWgdBYtJHE1wEgY) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Spotify Singles](https://open.spotify.com/album/4QJIFDBNjpQ8ozKMym1nBT) | 4:07 |
 | 74 | [We Know Who U R \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/670QRS1t9T5bzDpOUT16UF) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/2S7OvlJZZdUxc33ZynZAvb) | 3:42 |
 | 75 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 |
 | 76 | [Silver Lining \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7kqnoZSZUifYDyR5jzJN6v) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Spotify Singles](https://open.spotify.com/album/1MYx7vFrwhV4aTwFFmJFeQ) | 3:29 |
 | 77 | [Kathy’s Song \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5VTAeRB21LBZHqk6qKBQXz) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Spotify Singles](https://open.spotify.com/album/2BCVpECjDXm3bfpbU88AGO) | 2:44 |
-| 78 | [Lucid Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0wvfD7NmJ73vdBdFgPBEy6) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Spotify Singles](https://open.spotify.com/album/5Hh5BX1UpNACzemVSz78Y1) | 2:45 |
-| 79 | [Wish I Didn't Miss You \- Recorded At RAK Studios, London](https://open.spotify.com/track/3MBQiGSAdV3tHlAAHsajvE) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Spotify Singles](https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0) | 3:24 |
+| 78 | [Wish I Didn't Miss You \- Recorded At RAK Studios, London](https://open.spotify.com/track/3MBQiGSAdV3tHlAAHsajvE) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Spotify Singles](https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0) | 3:24 |
+| 79 | [Lucid Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0wvfD7NmJ73vdBdFgPBEy6) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Spotify Singles](https://open.spotify.com/album/5Hh5BX1UpNACzemVSz78Y1) | 2:45 |
 | 80 | [Stay \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38) | 4:04 |
 | 81 | [I Won't Back Down \- Live](https://open.spotify.com/track/0xmbLELG8S9b49SrdnOj7A) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & The Lion \(Live\)](https://open.spotify.com/album/67GBzlYsDzYVJvdQ9l5HXy) | 3:47 |
 | 82 | [Rhythm Inside \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Spotify Singles](https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 99 | [Think About You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:29 |
 | 100 | [mars \- Spotify Singles](https://open.spotify.com/track/3hmjsmXPsfUrQZwFhGemGd) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Spotify Singles](https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci) | 3:26 |
 
-Snapshot ID: `MCw4YmIwMTdmZTQxNTM1Nzc1ZmZmN2U2YTk3ZmYzNzdkODI2M2UyMDZj`
+Snapshot ID: `MCw4OTRlMmFhNTAwMDY3ZGJhMGFiNzA1N2ZlYWE1NTIzMzYwNzM0NDVk`

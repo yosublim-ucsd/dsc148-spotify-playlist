@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "o melhor do trap d\u00e1 o play e aumenta! Foto: Tz da Coronel",
+  "description": "o melhor do trap d\u00e1 o play e aumenta! Foto: Teto",
   "name": "Trapperz Brasil",
   "tracks": [
     {
@@ -970,7 +970,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 216000,
       "name": "Alma",
       "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
@@ -3386,7 +3386,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 164874,
       "name": "Disposi\u00e7\u00e3o e Atividade",
       "url": "https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ"
@@ -4522,7 +4522,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 190529,
       "name": "flashbacks",
       "url": "https://open.spotify.com/track/0NBIGAt94TcyjQygI8YmDL"
@@ -7437,6 +7437,32 @@
     },
     {
       "album": {
+        "name": "My Boo",
+        "url": "https://open.spotify.com/album/0IvpAd8VMNzoPfKp0SUL5F"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "Yokame",
+          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165520,
+      "name": "My Boo",
+      "url": "https://open.spotify.com/track/57XMBBf2cBh4H6bp1aHdmL"
+    },
+    {
+      "album": {
         "name": "Um Toque de Malandragem",
         "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
       },
@@ -7498,6 +7524,44 @@
       "duration_ms": 166874,
       "name": "M\u00e3o na Gola",
       "url": "https://open.spotify.com/track/7cTrcQpkHXGk393pyQ2HuY"
+    },
+    {
+      "album": {
+        "name": "Na Minha Blunt",
+        "url": "https://open.spotify.com/album/57lNHVtrf0nAijRYg9KRdp"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "Ayo Th",
+          "url": "https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty"
+        },
+        {
+          "name": "MATHINVOKER",
+          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Na Minha Blunt",
+      "url": "https://open.spotify.com/track/22c34TVqA1nkCZrjtPLjmJ"
     },
     {
       "album": {
@@ -11898,6 +11962,24 @@
       "duration_ms": 174545,
       "name": "Zidane",
       "url": "https://open.spotify.com/track/1Byvv0RuG4JaJwRzdNoWqn"
+    },
+    {
+      "album": {
+        "name": "zumzumzum",
+        "url": "https://open.spotify.com/album/11NxigNYgrmmNMBXcqjJyx"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "zumzumzum",
+      "url": "https://open.spotify.com/track/6cRyy0XvzIdbSNzjYAOoFf"
     },
     {
       "album": {

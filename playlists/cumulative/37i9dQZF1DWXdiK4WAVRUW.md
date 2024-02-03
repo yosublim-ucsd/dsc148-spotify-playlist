@@ -2,9 +2,9 @@
 
 ### [2010s Country](https://open.spotify.com/playlist/37i9dQZF1DWXdiK4WAVRUW)
 
-> We're celebrating the 10th anniversary of Keith Urban's hit album "Fuse" on 2010s Country!
+> We're celebrating the 10th anniversary of Eric Church's hit album "The Outsiders" on 2010s Country!
 
-261 songs - 15 hr 32 min
+262 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Leave The Night On](https://open.spotify.com/track/3wx2kQWPn9p5UppQbNhPAk) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:12 | 2021-06-07 |  |
 | [Let It Rain](https://open.spotify.com/track/0DAjiINHQTnPnnY939Qyhw) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6), [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Let It Rain](https://open.spotify.com/album/0sHqVmVxBi8pF8k3OhqQfp) | 3:42 | 2021-05-12 | 2023-11-21 |
 | [Life Changes](https://open.spotify.com/track/4Vxu50qVrQcycjRyJQaZLC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 3:10 | 2021-05-12 | 2022-10-13 |
+| [Like A Wrecking Ball](https://open.spotify.com/track/6hr4weuSidHy2LNMw8UVJ2) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 3:18 | 2024-02-02 |  |
 | [Living](https://open.spotify.com/track/54K7AZoGpQklpygKrxZlKN) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 3:42 | 2021-05-12 |  |
 | [Lonely Eyes](https://open.spotify.com/track/2j79NtwxoWDmkiH4MGwdLq) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [A.M.](https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3) | 3:37 | 2021-05-12 |  |
 | [Long Hot Summer](https://open.spotify.com/track/3PY88239tYBnAv5LQoU2oY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 4:33 | 2021-06-07 |  |
@@ -256,7 +257,7 @@
 | [When It Rains It Pours](https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 4:00 | 2021-05-12 |  |
 | [When She Says Baby](https://open.spotify.com/track/3gVRILe7XCyNakb6sy5umX) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Night Train](https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu) | 2:51 | 2021-05-12 | 2023-11-17 |
 | [When She Says Baby](https://open.spotify.com/track/7bQKR4QQCIlX0RoHlaKiIn) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Night Train](https://open.spotify.com/album/1WYrLHpLwOSCQ4n5kNeZa6) | 2:51 | 2023-10-28 |  |
-| [Where I Come From](https://open.spotify.com/track/10ps1I1sIMRNZW11eceN7W) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Rebels on the Run](https://open.spotify.com/album/5Fyd02GgT2LAvd812dZ0Lm) | 3:21 | 2021-06-07 |  |
+| [Where I Come From](https://open.spotify.com/track/10ps1I1sIMRNZW11eceN7W) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Rebels on the Run](https://open.spotify.com/album/5Fyd02GgT2LAvd812dZ0Lm) | 3:21 | 2021-06-07 | 2024-02-03 |
 | [Where It's At](https://open.spotify.com/track/3IQu6EQqPlYN3pk0xQz9zK) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Where It's At](https://open.spotify.com/album/07XUTuKWtYd8LCWOPirKE5) | 3:24 | 2023-10-28 |  |
 | [Where It's At](https://open.spotify.com/track/4whYDpJ5XVQpmvecbEHP5Q) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Where It's At](https://open.spotify.com/album/4ZSQEnZOGWEW3XQOAzt477) | 3:24 | 2021-06-07 | 2023-11-04 |
 | [Whiskey Glasses](https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:54 | 2021-05-12 |  |

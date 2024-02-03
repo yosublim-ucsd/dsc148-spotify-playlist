@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 139721,
+  "2024-02-03": 139852,
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Figoshin",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Stormy",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -365,7 +365,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 155227,
       "name": "Before Iceberg",
       "url": "https://open.spotify.com/track/1FY6b78b0u4GRhY1a3RAuL"
@@ -2637,6 +2637,24 @@
       "duration_ms": 252758,
       "name": "Plainte Alli\u00e9es",
       "url": "https://open.spotify.com/track/7zDFZo9soX5TuNNTDEqlzw"
+    },
+    {
+      "album": {
+        "name": "POPO",
+        "url": "https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "POPO",
+      "url": "https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 5622706,
+  "2024-02-03": 5623913,
   "date_first_scraped": "2022-01-09",
   "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Belinda en portada. ",
   "name": "\u00c9xitos M\u00e9xico",
@@ -311,6 +311,28 @@
       "duration_ms": 170785,
       "name": "Acr\u00f3stico",
       "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
+    },
+    {
+      "album": {
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/2BvDucJawFOjYW93odCdow"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150974,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
     },
     {
       "album": {
@@ -4453,7 +4475,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 153031,
       "name": "LA PEOPLE",
       "url": "https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx"
@@ -4501,6 +4523,28 @@
       "duration_ms": 198529,
       "name": "La Sinverg\u00fcenza",
       "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+    },
+    {
+      "album": {
+        "name": "La Suma",
+        "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Lupe Borbon y su Blindaje 7",
+          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198976,
+      "name": "La Suma",
+      "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
     },
     {
       "album": {
@@ -5386,6 +5430,28 @@
     },
     {
       "album": {
+        "name": "MAMI CHAKALOSA",
+        "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136843,
+      "name": "MAMI CHAKALOSA",
+      "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
+    },
+    {
+      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -6013,7 +6079,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
@@ -10045,7 +10111,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 179013,
       "name": "Y LLORO",
       "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"

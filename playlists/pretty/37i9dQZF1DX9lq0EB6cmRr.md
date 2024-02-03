@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: Forestella\(포레스텔라\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,151 likes - 96 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,152 likes - 96 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 | 95 | [Suite No\. 2 in F Major, HWV 427: I\. Adagio](https://open.spotify.com/track/76PT3Wp1xEYDkMFeLj5H8d) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Handel: Suite No\. 2 in F Major, HWV 427: I\. Adagio](https://open.spotify.com/album/4mlFghKBM97vHU1O1ij0XI) | 2:36 |
 | 96 | [Cello Sonata for Cello and Piano in g minor, op.19 : I\. Lento \- Allegro moderato](https://open.spotify.com/track/5GhyoZUW9XdWQOrbOODnD2) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Yoosin Park](https://open.spotify.com/artist/0d06TjR29UBzbk5QaHRsBI), [Ilya Rashkovskiy](https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB) | [White Night](https://open.spotify.com/album/7FB6YKYscqNfDvvJrDJtom) | 12:21 |
 
-Snapshot ID: `MCw3OWNlYmIyOTM4YWEzNDJkZGMwYmZhYTgxMzdlNWU1NTU1MWQ1OGYw`
+Snapshot ID: `MCw5MTVhN2ZjZGQwZjVkNjAxZjE4MTc3NTU5ZDJjNDVmMzgxNTQ0ZTdl`

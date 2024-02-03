@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,725 likes - 50 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,729 likes - 50 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 16 | [Tantas Historias](https://open.spotify.com/track/6f1jhlNzYyUvK2XwxCk2pT) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Stories On Stories](https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr) | 4:00 |
 | 17 | [Admirable](https://open.spotify.com/track/2ImRcOX7kKBGsqF0BvdVI5) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 10:32 |
 | 18 | [Lugar Secreto \- Español](https://open.spotify.com/track/2ZtyevyY9zXjSICcCfBdM2) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Lugar Secreto \(Español\)](https://open.spotify.com/album/4Q56BcFRQXYiNMDuAYenpV) | 5:34 |
-| 19 | [Donde Está El Espíritu de Dios](https://open.spotify.com/track/0zXTW0J4XLhqsNSrmwk9sp) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Donde Está El Espíritu de Dios](https://open.spotify.com/album/3Yi2UipOGBlp03eUNT6tpj) | 4:05 |
-| 20 | [Fidelidad \(Grande Es Tu Fidelidad\)](https://open.spotify.com/track/1ybRNixD4WbiPwGOKbRtCh) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 4:56 |
+| 19 | [Fidelidad \(Grande Es Tu Fidelidad\)](https://open.spotify.com/track/1ybRNixD4WbiPwGOKbRtCh) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 4:56 |
+| 20 | [Donde Está El Espíritu de Dios](https://open.spotify.com/track/0zXTW0J4XLhqsNSrmwk9sp) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Donde Está El Espíritu de Dios](https://open.spotify.com/album/3Yi2UipOGBlp03eUNT6tpj) | 4:05 |
 | 21 | [Stories On Stories](https://open.spotify.com/track/3GLialPfon3PHfwNjZvgi2) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Stories On Stories](https://open.spotify.com/album/7rqxrTJYrTRSszKiqn6VXK) | 4:00 |
 | 22 | [Hasta poder ver](https://open.spotify.com/track/3MH2bwGyeqHBAefP8UDj6x) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta poder ver](https://open.spotify.com/album/5g5Vcw8n4yjZHNhFIruR9J) | 5:09 |
 | 23 | [Loco Amor \(Spanish Version\)](https://open.spotify.com/track/4ycyCxaQyVOA0hOELiU8wf) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Loco Amor \(Spanish Version\)](https://open.spotify.com/album/0fdRBSdw56pU3F5F3TJORK) | 5:03 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 25 | [Dios De Maravillas](https://open.spotify.com/track/6JP6aiZrbthavbl8pd9oI7) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 8:33 |
 | 26 | [Solo Tu](https://open.spotify.com/track/6yxDTsYge75Eka9yeXnHuN) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo Tu...Lo Unico Que Quiero](https://open.spotify.com/album/1bohZwfenuWFIuFrUETFuq) | 3:39 |
 | 27 | [Redención \(Redenção\)](https://open.spotify.com/track/7xICC4cuIDw6p8fMk4ltdo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Redención](https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5) | 4:33 |
-| 28 | [Ancla](https://open.spotify.com/track/6snr2DTNX0Ar2wPxNkuU2R) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ancla](https://open.spotify.com/album/5quXdbYBxYKxcYjz2QLWSM) | 8:19 |
+| 28 | [Tu Presencia Es El Cielo](https://open.spotify.com/track/1vEsPuI13xrlJQlbdytUFT) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 4:53 |
 | 29 | [Incontrolable Amor](https://open.spotify.com/track/3RmjJnvvUxSFor3G5x5yca) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 5:39 |
-| 30 | [Tu Presencia Es El Cielo](https://open.spotify.com/track/1vEsPuI13xrlJQlbdytUFT) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 4:53 |
+| 30 | [Ancla](https://open.spotify.com/track/6snr2DTNX0Ar2wPxNkuU2R) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ancla](https://open.spotify.com/album/5quXdbYBxYKxcYjz2QLWSM) | 8:19 |
 | 31 | [En El Trono Está](https://open.spotify.com/track/1N4f82oSvIKZa0hlwpO7Qi) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 5:59 |
 | 32 | [Incomparable Dios](https://open.spotify.com/track/5RtBlXN184A8ipdyDzpLU4) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 5:48 |
 | 33 | [Corriente / Un Día A La Vez \(Medley\) \- En Vivo](https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Corriente / Un Día A La Vez \(Medley\) \[En Vivo\]](https://open.spotify.com/album/4wCFnTWliu6Zv0UwweEl3F) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 49 | [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 |
 | 50 | [Famous For \(I Believe\) \[Spanish/English Version\]](https://open.spotify.com/track/5ZO6LwgpjWDqLjK54kO4EB) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Famous For \(I Believe\) \- Collection](https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu) | 4:02 |
 
-Snapshot ID: `Mjg0NDY1MTQsMDAwMDAwMDA1MzdkMjBmNzhmMzY1ODMxNTU4NTQxMTc1N2QzN2IyOA==`
+Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDA3OTVjY2RkNTE5M2Q5YmRkMTZkZTZjMDEwMDMzODUxOQ==`

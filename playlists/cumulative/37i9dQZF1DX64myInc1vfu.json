@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Kali Uchis",
+  "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: \u00c1ngela Aguilar",
   "name": "Lento.",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 84558,
       "name": "Aunque Me Cueste La Vida",
       "url": "https://open.spotify.com/track/4CyyyUAuUaNbR5v2nRtwMz"
@@ -616,6 +616,24 @@
       "duration_ms": 260147,
       "name": "Desahogo",
       "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
+    },
+    {
+      "album": {
+        "name": "Diablo",
+        "url": "https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP"
+      },
+      "artists": [
+        {
+          "name": "MIA",
+          "url": "https://open.spotify.com/artist/364nwDA1paIChosKjuNMV3"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191750,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6"
     },
     {
       "album": {
@@ -2051,6 +2069,28 @@
     },
     {
       "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180986,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k"
+    },
+    {
+      "album": {
         "name": "Imagina Ser",
         "url": "https://open.spotify.com/album/1UI1aIgqOUBTOHZUzo71Av"
       },
@@ -2138,7 +2178,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 206546,
       "name": "Tengo Algo Que Decirte",
       "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"

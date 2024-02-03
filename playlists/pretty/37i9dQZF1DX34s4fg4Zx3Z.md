@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Puppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,505 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,510 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 83 | [Nhà Là](https://open.spotify.com/track/5AvRGexnnUw4pKc0yvWyuJ) | [Marr D](https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE) | [Nhà Là](https://open.spotify.com/album/0ec0y0iEHDqeEsKNMXLNug) | 5:08 |
 | 84 | [Khi Nào Em Có Thể](https://open.spotify.com/track/0DsQGKfc4neTG60Ssz2zYG) | [Thiên Thanh Azura](https://open.spotify.com/artist/5JdusihgVMCGKFSzNMMgvT), [Czee](https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd) | [Khi Nào Em Có Thể](https://open.spotify.com/album/0fOxEtZ1TJvZIC2bf6aXdH) | 3:46 |
 | 85 | [Tình Đầu Bỏ Lỡ](https://open.spotify.com/track/5tV7vaCQXcl7TISuEmmPph) | [VAnh](https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Tình Đầu Bỏ Lỡ](https://open.spotify.com/album/6ytVH2yuODlnpatPDyzQrd) | 4:00 |
-| 86 | [Nhìn Theo Bóng Em \(feat\. Đức Duy & Đỏ\)](https://open.spotify.com/track/40VSxpF8g5sToquWQPkaue) | [Tony Hoàng Anh](https://open.spotify.com/artist/055tKHSCudU5z9QjDbxUox), [Đức Duy](https://open.spotify.com/artist/3MZmokiIjkEBQ6uAb0NRDo), [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Nhìn Theo Bóng Em \(feat\. Đức Duy & Đỏ\)](https://open.spotify.com/album/5xWMJ9Ab4MfSI7xg5YoPgK) | 3:30 |
+| 86 | [Nhìn Theo Bóng Em \(feat\. Đức Duy & Đỏ\)](https://open.spotify.com/track/40VSxpF8g5sToquWQPkaue) | [Tony Hoàng Anh](https://open.spotify.com/artist/055tKHSCudU5z9QjDbxUox), [Đức Duy](https://open.spotify.com/artist/3MZmokiIjkEBQ6uAb0NRDo), [Đỏ](https://open.spotify.com/artist/4JtTYZGwlaDGXKlAHPVDGk) | [Nhìn Theo Bóng Em \(feat\. Đức Duy & Đỏ\)](https://open.spotify.com/album/5xWMJ9Ab4MfSI7xg5YoPgK) | 3:30 |
 | 87 | [SECOND](https://open.spotify.com/track/18jDoe7DVuR4pWEa2Df8Bz) | [Nguyên Newin](https://open.spotify.com/artist/3etJVaUy2ifwOSySSxTrZt) | [SECOND](https://open.spotify.com/album/5uJiGzxrxRbRJJOo9VNwAc) | 3:25 |
 | 88 | [Mắt Mơ Màng](https://open.spotify.com/track/6xPI3LGKGCCjZnuQsFRWh3) | [Leo.1](https://open.spotify.com/artist/22Mtl6ngzJFggCu9WuXsLp) | [Mắt Mơ Màng](https://open.spotify.com/album/7zJj1BjYB7FkEaXArzx145) | 3:00 |
 | 89 | [Demons](https://open.spotify.com/track/6N5g8SXjmcB4JZq8Gz2jro) | [TYO Ly ](https://open.spotify.com/artist/3AnK8Vk9ShlL5osVmpAKKx) | [LET'S TAKE A TRIP](https://open.spotify.com/album/6MHVhuErme6OuzQeqIfPuQ) | 4:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [ĐÔI KHI](https://open.spotify.com/track/2fDOwtydvGtWNMXHwxLh8k) | [Tony D.](https://open.spotify.com/artist/0XqppHVqDhLwMDOUmE4rRK) | [RÃ ĐÔNG](https://open.spotify.com/album/69ojRgTcg8fCl18KxaPoGm) | 2:15 |
 | 100 | [Đón Xuân Sang](https://open.spotify.com/track/41EC5V76UvHzCskD60jefT) | [Sóc Nâu](https://open.spotify.com/artist/3bFCDFiTz8uVUhdaepE5Mo), [Tina Trang](https://open.spotify.com/artist/7jv6hci1anjena0fmOAvhy) | [Đón Xuân Sang](https://open.spotify.com/album/6hE1pfjFFGwIBUAhAYmDrJ) | 3:22 |
 
-Snapshot ID: `MCxmMDJlOWNhMjM1ZDliYmNmYTIxMDhlZDU5OWMxMzhlZDMxZTNhNjU4`
+Snapshot ID: `MCw3YzE0NDA0ZjhlZDQzNzhmNTgxODk1M2MyODJlNGJjYzMyMTQ0Mzgx`

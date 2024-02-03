@@ -4,7 +4,7 @@
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-369 songs - 19 hr 40 min
+370 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [AMANTES](https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [AMANTES](https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF) | 3:00 | 2022-09-23 | 2023-12-22 |
 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 | 2023-05-26 | 2023-12-22 |
 | [Amor Pasajero](https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Amor Pasajero](https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls) | 2:32 | 2022-01-22 |  |
+| [Anoche](https://open.spotify.com/track/5cVzHV40StU3nmMBMKR4n6) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Anoche](https://open.spotify.com/album/4f5F0rs3ENsaJP3QGcVaQb) | 3:16 | 2024-02-01 |  |
 | [Antónimos](https://open.spotify.com/track/66mA8bN15swKsFoeyHLJTT) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Antónimos](https://open.spotify.com/album/1awxHDaPvY65gcHl8JBx6B) | 2:59 | 2022-04-01 | 2022-09-24 |
 | [Apartamento](https://open.spotify.com/track/1Ht332hgVG71HLepGgKJnE) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Apartamento](https://open.spotify.com/album/5RI35bX96qTZHa111QcI44) | 2:43 | 2021-12-16 | 2022-05-28 |
 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 | 2022-05-27 | 2023-06-13 |
@@ -133,7 +134,7 @@
 | [Felices x Siempre](https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Felices x Siempre](https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2) | 3:19 | 2022-04-01 | 2023-12-22 |
 | [Feriado](https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Feriado](https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet) | 2:46 | 2023-12-21 |  |
 | [Fiesta](https://open.spotify.com/track/3PMbcW1Rap6Uyy2Ysk75qs) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Fiesta](https://open.spotify.com/album/6lBcWzcBdPmgl6IUtM4Naz) | 2:56 | 2022-05-27 | 2022-12-27 |
-| [Fino](https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 3:25 | 2023-12-21 |  |
+| [Fino](https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 3:25 | 2023-12-21 | 2024-02-03 |
 | [Forever My Love](https://open.spotify.com/track/6TYuTMfBTU4hpXrhLsjIiV) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 3:10 | 2023-12-21 |  |
 | [Fuego](https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Fuego](https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3) | 3:19 | 2023-12-21 |  |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2023-12-21 |  |

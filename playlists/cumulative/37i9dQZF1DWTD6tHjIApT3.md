@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover:milet
 
-2,146 songs - 5 day 18 hr 20 min
+2,147 songs - 5 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -882,6 +882,7 @@
 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 | 2022-12-27 | 2023-01-04 |
 | [Resonantia](https://open.spotify.com/track/6JxGX21hLq96CSMgwCWDmr) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Resonantia](https://open.spotify.com/album/1QscnAgLAhBuG5TlF3dvHH) | 3:49 | 2023-07-11 | 2023-10-12 |
 | [Respect Me](https://open.spotify.com/track/1X6pJqf4GXgLLambeuHJun) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [Respect Me](https://open.spotify.com/album/6O2yKyUdHSvRnYbH0enuL1) | 3:04 | 2023-03-21 | 2023-03-29 |
+| [rhythm 64](https://open.spotify.com/track/4KWMnXGQ4wCiDU1vP8uGVb) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [rhythm 64](https://open.spotify.com/album/0dqofszfjI1qN76jWqFiyp) | 4:28 | 2024-02-01 |  |
 | [ride on](https://open.spotify.com/track/7AawKQ42s5gjNXTjFYkXYL) | [Miyuu](https://open.spotify.com/artist/6r5DBRzP1cJGTHrnptDrSR) | [ride on](https://open.spotify.com/album/05IL3ynMadtHGQ46kHonfZ) | 3:40 | 2022-06-16 | 2022-06-18 |
 | [RIDE ON TIME](https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1) | [BENI](https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI) | [RIDE ON TIME](https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3) | 4:04 | 2023-06-06 | 2023-11-16 |
 | [RIDE ON TIME](https://open.spotify.com/track/7maVDaBJBOofiWVjfeJtsD) | [May J.](https://open.spotify.com/artist/7sJzR6n8Buyv45FKrLvZIS) | [May J\. W BEST 2 \-Original & Covers\-](https://open.spotify.com/album/7y8gRNSZB7CrwzTw2deROL) | 5:18 | 2022-11-08 | 2022-11-16 |
@@ -1630,7 +1631,7 @@
 | [リアルディスタンス](https://open.spotify.com/track/7rQSyVr9jdG06KPE9HYnDl) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [うつくしい日々](https://open.spotify.com/album/51F50ysyDdAVJi4srOHxpc) | 2:59 | 2022-05-29 | 2022-07-19 |
 | [リサイズ](https://open.spotify.com/track/2FHkVE7Bhkiy09O0lG4jyc) | [CYNHN](https://open.spotify.com/artist/4zvPQPSgKeFCeHup4yu4Dg) | [リサイズ](https://open.spotify.com/album/6Dvtg05JkUCHHXvfdo5lKT) | 3:11 | 2023-06-27 | 2023-07-05 |
 | [リスペクト](https://open.spotify.com/track/2KeMTeulC5A6oArHuzDx1i) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [リスペクト](https://open.spotify.com/album/6bQWeVnqqK9UqahXmKt1Ub) | 2:58 | 2023-05-23 | 2023-06-07 |
-| [リズム64](https://open.spotify.com/track/74GJbmNHys47ZfdoQCySpM) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [リズム64](https://open.spotify.com/album/5ItDzD0v8osJxkUrUCPLJs) | 4:28 | 2024-02-01 |  |
+| [リズム64](https://open.spotify.com/track/74GJbmNHys47ZfdoQCySpM) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [リズム64](https://open.spotify.com/album/5ItDzD0v8osJxkUrUCPLJs) | 4:28 | 2024-02-01 | 2024-02-03 |
 | [リップル](https://open.spotify.com/track/3ovSCyUHXi2QUlwgyOC3zx) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [リップル](https://open.spotify.com/album/5OYTQcR3aufuIJZ9Z0AJJb) | 2:44 | 2022-06-07 | 2022-07-29 |
 | [リフレイン](https://open.spotify.com/track/5vARWP1nPU2DLbroly91Ld) | [Akiko Wada](https://open.spotify.com/artist/5UqBtyWeZ51GzS7pL9o5u5) | [WADASOUL 2](https://open.spotify.com/album/321BB9qci90NSd5DNDyLu0) | 4:07 | 2022-07-21 | 2022-07-27 |
 | [ルビー](https://open.spotify.com/track/61dKPB7KS5K0ydinagQy4U) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [ルビー](https://open.spotify.com/album/4XH4mGDiIMfSsr0peqj5F0) | 4:30 | 2023-11-30 | 2023-12-06 |

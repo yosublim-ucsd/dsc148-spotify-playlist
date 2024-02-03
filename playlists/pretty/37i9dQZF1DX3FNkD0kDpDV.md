@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Discover the Sound of ADE 2023! Bringing every form and shape of electronic music together, ADE offers a glimpse into some of the best of the 2,500+ artists and 1.000+ events coming your way this October.
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,120 likes - 27 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,982 likes - 27 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 12 | [You Make Me Feel \(Mighty Real\) \- Gerd Janson Remix](https://open.spotify.com/track/2zfucZzMKhSTIelk0APsaE) | [Jimmy Somerville](https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [You Make Me Feel \(Mighty Real\) \[Gerd Janson Remix\]](https://open.spotify.com/album/4P4fjw5ya3q04r2mo06xlF) | 6:52 |
 | 13 | [GOLDEN SZN](https://open.spotify.com/track/7n24EOW7ElKwtz5wXkzynQ) | [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v), [Nyctonian](https://open.spotify.com/artist/7LexKs9s1tG7Ktkd7lMHBp) | [GOLDEN SZN](https://open.spotify.com/album/3qXVu7ROSjZ5YEdOwsK1FN) | 4:54 |
 | 14 | [Gamer Girl](https://open.spotify.com/track/3TZMYPeQG8Iv3sriAAIvZ4) | [Afra](https://open.spotify.com/artist/0W8zqwhXojqKEmmp48ySJ7) | [Surreal Times](https://open.spotify.com/album/22TAVySdhSj47ADcUGsns3) | 3:24 |
-| 15 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
+| 15 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
 | 16 | [Senegal \- Original Mix](https://open.spotify.com/track/088FiVVXeMtQvyHHlVOBFG) | [Philou Louzolo](https://open.spotify.com/artist/4zCYbkxFSNb6T2D2vFSg6C) | [African Gold](https://open.spotify.com/album/4B6gL4H4uX7TUVcONDVytl) | 6:15 |
 | 17 | [My Barn My Rules](https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 4:26 |
 | 18 | [Zin In De Zomer Man](https://open.spotify.com/track/7MmAM3JjAekFdmuY7p2SMV) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [FOUR JUNO](https://open.spotify.com/album/0nbHgLf8m1peS94gicQQVJ) | 2:15 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 26 | [92 Thing](https://open.spotify.com/track/4jUPCu3hRfCkYBExW3ryU8) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Come Together EP](https://open.spotify.com/album/2GQSeIQvbRFeiQHTv0QdG7) | 5:38 |
 | 27 | [Hop On \- FJAAK Remix](https://open.spotify.com/track/1BNF2g4QdSFN4TE4SAQpVk) | [Sterac](https://open.spotify.com/artist/2QFnCeEbTqsb0YUYpFl08v), [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [CROWD001: Raving Wasps](https://open.spotify.com/album/61uqowB1dOuBnGN0V1NQGs) | 4:22 |
 
-Snapshot ID: `MCwxM2VjYTFhMWMxNDBiZjAyY2Q4NDJiMTE1MDU5MWYxMTJjZWFiMGFh`
+Snapshot ID: `MCxlZDVjOWU3ZTUyNDlkMWEyNGRiZjRmNzk1MjAyNTRiYmE0NzUzZGVm`

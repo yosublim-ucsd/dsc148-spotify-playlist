@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,746 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,045 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [LIKE THAT \(feat\. Oxlade\)](https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:12 |
 | 50 | [Jalouse](https://open.spotify.com/track/1eTc0w4sRlkV0qz9hkbqMj) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [Jalouse](https://open.spotify.com/album/3d4ONFiZsEZfGPfvWz2OM9) | 3:13 |
 
-Snapshot ID: `MCw4ZWQ0NjE2ZGRkY2ZjN2ZjMmVmY2VhNzhkYmYyNjg0YTViN2Y0YjA3`
+Snapshot ID: `MCw1NWM5NGFlZWM0YmM4OGI0NGMzNTI5NjQ0NmE0YTI4MDk0NGQ5NDQ4`

@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "hom'ea'ge",
+        "url": "https://open.spotify.com/album/3GZ2bTWjX8d4L4rvtWcagA"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Like We Turn the pages (Remaster)",
+      "url": "https://open.spotify.com/track/4W7MrbhSg8o2v5lBz0wLBV"
+    },
+    {
+      "album": {
         "name": "THE BOYZ 2ND ALBUM [PHANTASY] Pt.1 Christmas In August",
         "url": "https://open.spotify.com/album/6j0bF8s6Kptbr4y8tuIhOY"
       },
@@ -2390,7 +2408,7 @@
     {
       "album": {
         "name": "\uc778\uc0ac",
-        "url": "https://open.spotify.com/album/1gVCySPJoAjV90BcLL3i29"
+        "url": "https://open.spotify.com/album/1aRzCmpmffVSKWl9L8SJ9Q"
       },
       "artists": [
         {
@@ -2405,6 +2423,28 @@
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230346,
+      "name": "\uac10\uc0ac (FEAT. \uc18c\ud5a5)",
+      "url": "https://open.spotify.com/track/1F8Z48JxxB4Diz1HMEUbb6"
+    },
+    {
+      "album": {
+        "name": "\uc778\uc0ac",
+        "url": "https://open.spotify.com/album/1gVCySPJoAjV90BcLL3i29"
+      },
+      "artists": [
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        },
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-03",
       "duration_ms": 230346,
       "name": "\uac10\uc0ac (FEAT. \uc18c\ud5a5)",
       "url": "https://open.spotify.com/track/339ONbEchBensZnESqghNW"
@@ -2462,7 +2502,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 255266,
       "name": "\uadf8\ub300\ub97c \uc0ac\ub791\ud558\ub294 10\uac00\uc9c0 \uc774\uc720",
       "url": "https://open.spotify.com/track/5QXRbVoCLqnN5jfaqcmwYk"
@@ -2779,6 +2819,24 @@
     },
     {
       "album": {
+        "name": "\uc778\uc0ac",
+        "url": "https://open.spotify.com/album/1aRzCmpmffVSKWl9L8SJ9Q"
+      },
+      "artists": [
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215360,
+      "name": "\uc815\uac70\uc7a5",
+      "url": "https://open.spotify.com/track/00BbsELDIsK2mQeeB8EJD7"
+    },
+    {
+      "album": {
         "name": "\ucc45\uc744 \ub118\uae30\ub294 \ub4ef\ud55c \ub9c8\uc74c\uc73c\ub85c",
         "url": "https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE"
       },
@@ -2790,7 +2848,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 192857,
       "name": "\ucc45\uc744 \ub118\uae30\ub294 \ub4ef\ud55c \ub9c8\uc74c\uc73c\ub85c",
       "url": "https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk"

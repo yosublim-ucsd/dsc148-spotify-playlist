@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan & Salim Sulaiman
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,001 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,026 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 3 | [Challa \- Spotify Singles](https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Challa \- Spotify Singles](https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J) | 4:43 |
 | 4 | [Kut Kut Bajra](https://open.spotify.com/track/6fmbKu5CWedYNefsiT9CcE) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kut Kut Bajra](https://open.spotify.com/album/0jsdirkN0wv9O1DFb5xp93) | 2:35 |
 | 5 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 |
-| 6 | [Punjabi Folk Boliyan](https://open.spotify.com/track/4KVJYdubRM0owXUyZabLTR) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Punjabi Folk Boliyan](https://open.spotify.com/album/6tTzfqYgGphqYBAu1y3ijP) | 3:05 |
+| 6 | [Punjabi Folk Boliyan](https://open.spotify.com/track/76ZQane540KveAtPYr8g3O) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Punjabi Folk Boliyan](https://open.spotify.com/album/3ktqMoWRoAxzCXvuH76B4A) | 3:05 |
 | 7 | [Din Shagna](https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Din Shagna](https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm) | 3:49 |
 | 8 | [Wanga Satrangiyan](https://open.spotify.com/track/5cYxayct1FIWABUGxZTrrW) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Wanga Satrangiyan](https://open.spotify.com/album/4Q9YmHhaGHPhyaSuNipCzI) | 3:26 |
 | 9 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [The Best of Hans Raj Hans](https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK) | 8:52 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 20 | [Heere Heere](https://open.spotify.com/track/2stPaiSWbATmVxci9KFxzq) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Heere Heere](https://open.spotify.com/album/3XVXeXlPM2nTGIcdo7YFz2) | 3:21 |
 | 21 | [Kale Rang Da Paranda \- Folk Recreation](https://open.spotify.com/track/039Oq1RHJnoD0kwq91qjha) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Kale Rang Da Paranda \(Folk Recreation\)](https://open.spotify.com/album/5YkV1sIY7bgXJGLhiXtTUb) | 3:22 |
 | 22 | [Pher Auna Hai](https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR) | [Sumira Thakur](https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup) | [Pher Auna Hai](https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN) | 8:26 |
-| 23 | [Kala Sha Kala](https://open.spotify.com/track/401L9cuL8my61jXIMZDV0t) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kala Sha Kala](https://open.spotify.com/album/0T7GZkw5POnYikelmZTA1g) | 3:15 |
+| 23 | [Kala Sha Kala](https://open.spotify.com/track/5WlEghZayE7SbG5QJi4knC) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kala Sha Kala](https://open.spotify.com/album/3ghfzOtkMqb3XI19cn8zO6) | 3:15 |
 | 24 | [Challa Mera Jee Dhola](https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt) | [Annie Ahluwalia](https://open.spotify.com/artist/05K8h7cidaFrQ33vhu6IZ0) | [Challa Mera Jee Dhola](https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j) | 3:38 |
 | 25 | [Jugni](https://open.spotify.com/track/7GxCu2nL6ODGO2K9cAo0wl) | [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam) | [Jugni](https://open.spotify.com/album/3D783nXYZzw8b0snc5dz9e) | 5:01 |
 | 26 | [Chidiya Da Chamba](https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Chidiya Da Chamba](https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl) | 4:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 49 | [Kala Dooria](https://open.spotify.com/track/2IvSrdat1OK4xMArwWEWyt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Virasat\-E\-Punjab, Vol\. 1](https://open.spotify.com/album/7BLztbcJkDA2UvmCsrU7fW) | 2:59 |
 | 50 | [Ek Meri Akk Kaashni](https://open.spotify.com/track/3DdCB4DFq9m6vzU2mtI6CM) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Asa Singh Mastana](https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA), [Hazara Singh Ramta](https://open.spotify.com/artist/7LbnqdejlXAPj3k6T7rY4b) | [Folk Music of Punjab, Vol\. 1](https://open.spotify.com/album/71vtvcxf58EwWSv8Nnpzf9) | 3:22 |
 
-Snapshot ID: `MCw1MmJiOGU2Mzk3ZmI0ODRkYTllMWI4NGM3ZWNiMDc0MzBkZGExODI4`
+Snapshot ID: `MCxjNmI2MTJkN2FmMGMwYWEzYzg0N2RlYmE1YzI3ZjI1OTMwOGFiM2M4`

@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 3394,
+  "2024-02-03": 3403,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl\">Ryan Tedder</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Ryan Tedder",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 243033,
       "name": "#1Nite (One Night) [feat. My Name Is Kay]",
       "url": "https://open.spotify.com/track/4ei5vteb0kzjfOrDOW9h59"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 245098,
       "name": "Angels Like You",
       "url": "https://open.spotify.com/track/2WpUhVtOOBjnCv3u95JASR"
@@ -497,10 +497,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 233066,
       "name": "Battlefield",
       "url": "https://open.spotify.com/track/75SkmJcEDaUQ7338kQY3Hn"
+    },
+    {
+      "album": {
+        "name": "Battlefield",
+        "url": "https://open.spotify.com/album/493cZBXesSA3z8UBKkwjQi"
+      },
+      "artists": [
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241920,
+      "name": "Battlefield",
+      "url": "https://open.spotify.com/track/0wGPUxi4tuxfSeR0DtHFSp"
     },
     {
       "album": {
@@ -751,7 +769,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 171840,
       "name": "Bigger Love",
       "url": "https://open.spotify.com/track/1L0YvpBf1vX4n4euXD6dnL"
@@ -787,7 +805,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 278911,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/5dfwTy30kZ0VIWg9FgJMei"
@@ -867,7 +885,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 238000,
       "name": "Bonfire Heart",
       "url": "https://open.spotify.com/track/2N0volXQpwsvjDorTTxBAU"
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 238440,
       "name": "Burn",
       "url": "https://open.spotify.com/track/7z8ezLeU9WL7kjAjJWprNN"
@@ -1813,7 +1831,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 197930,
       "name": "Do It Well",
       "url": "https://open.spotify.com/track/4jDiw06shcqwNM7Gn1TAqJ"
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 226026,
       "name": "Doing It for the Money",
       "url": "https://open.spotify.com/track/6APnYxfLzIg2cejA3v2ljy"
@@ -1893,6 +1911,24 @@
     {
       "album": {
         "name": "Don\u2019t Stay",
+        "url": "https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189800,
+      "name": "Don't Stay",
+      "url": "https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Stay",
         "url": "https://open.spotify.com/album/6vQFNDMeMUQJJ8SVgm35MZ"
       },
       "artists": [
@@ -1903,7 +1939,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 218301,
       "name": "Don't Stay",
       "url": "https://open.spotify.com/track/6bAg2UMsWtNB9lc7riAjHK"
@@ -2599,7 +2635,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 237248,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4O9bzeRoxVpoVY22EQ3MPH"
@@ -2791,7 +2827,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -2809,7 +2845,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 154133,
       "name": "greedy",
       "url": "https://open.spotify.com/track/2hBbSTlbdMHeb9fOvyGRy1"
@@ -3177,7 +3213,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 185388,
       "name": "Higher",
       "url": "https://open.spotify.com/track/4bEpL49l4f0r8GtsjUFUqL"
@@ -3195,7 +3231,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 192150,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7q28ELkHmbl1nddyRhUnLK"
@@ -3361,7 +3397,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 148120,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -3379,7 +3415,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 154287,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/1bNapzbrWh3wI8gqd06ejG"
@@ -3509,7 +3545,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 197500,
       "name": "I Want Love",
       "url": "https://open.spotify.com/track/4DqXhYryASlQ2W6IAZF8Un"
@@ -4233,7 +4269,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 221226,
       "name": "Lose Somebody",
       "url": "https://open.spotify.com/track/2NjFhrJdAvrLT0as8b8Wvt"
@@ -4295,7 +4331,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 203285,
       "name": "Love Don't Die",
       "url": "https://open.spotify.com/track/2ZHhW57aMxXZnuY1hOYlTT"
@@ -4357,7 +4393,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 234048,
       "name": "Love Like This (feat. Sean Kingston)",
       "url": "https://open.spotify.com/track/7Km9aEjz9EctUT4o3WayCe"
@@ -4465,7 +4501,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 229973,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/5H0ajL4EHsrcAEGESo2Lzx"
@@ -4483,7 +4519,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 239280,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/03YlpHoTSPFiuJKPznChAT"
@@ -4634,6 +4670,24 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189960,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
+    },
+    {
+      "album": {
         "name": "Maps",
         "url": "https://open.spotify.com/album/3GDlhdkW6XbeblaLJ9NQlj"
       },
@@ -4645,7 +4699,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 209042,
       "name": "Maps",
       "url": "https://open.spotify.com/track/2ed071mpqqcL1vZf0A9bnP"
@@ -4881,7 +4935,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 161028,
       "name": "Navy Blue",
       "url": "https://open.spotify.com/track/2V5YXks1lzRLR4qx4NTADJ"
@@ -4899,7 +4953,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 178553,
       "name": "Navy Blue",
       "url": "https://open.spotify.com/track/1rSJgBXnaM90unzHMd8mrU"
@@ -4975,7 +5029,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 233173,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT"
@@ -5127,7 +5181,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 197760,
       "name": "Nights With You",
       "url": "https://open.spotify.com/track/1m1IL33LEp61DGGqXL3wBr"
@@ -5319,7 +5373,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 194152,
       "name": "Older",
       "url": "https://open.spotify.com/track/4DsOhl0XLVUUkehUNIjVD0"
@@ -5705,7 +5759,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 183406,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/6LbAhaBQ5yAifQuNIPlQsR"
@@ -6117,7 +6171,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 217258,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/6TW2OHata91dIc99MZehcT"
@@ -6182,6 +6236,24 @@
     },
     {
       "album": {
+        "name": "Glasshouse",
+        "url": "https://open.spotify.com/album/4dCYurAtpYbC77cBWt2uIH"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237533,
+      "name": "Selfish Love",
+      "url": "https://open.spotify.com/track/6KgoUHakjLYPf7VrAVRfyS"
+    },
+    {
+      "album": {
         "name": "Selfish Love",
         "url": "https://open.spotify.com/album/1hMIokmOF2zvEtmz67J45h"
       },
@@ -6193,7 +6265,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 257920,
       "name": "Selfish Love",
       "url": "https://open.spotify.com/track/7bNHZKt5yrbIGY9XRZhXCr"
@@ -6393,7 +6465,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 214080,
       "name": "So Far Gone",
       "url": "https://open.spotify.com/track/2HZC51gX9Ml1IT2rIbaCxD"
@@ -6667,7 +6739,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 230058,
       "name": "Stay the Night",
       "url": "https://open.spotify.com/track/4xehFId93Nx6T7l6V9duDW"
@@ -6899,7 +6971,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 181026,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
@@ -6917,7 +6989,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 199741,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/7Mv9xyVPvrnoV3fKIWYoyo"
@@ -6989,7 +7061,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 203650,
       "name": "Super Far",
       "url": "https://open.spotify.com/track/15ahYSiHAIMxAnujlXVtta"
@@ -7119,7 +7191,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 166840,
       "name": "Take It Home",
       "url": "https://open.spotify.com/track/45RspXN5oWquKcWiiScmkR"
@@ -7137,7 +7209,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 201130,
       "name": "Take It Home",
       "url": "https://open.spotify.com/track/5KfrTMh85q8Hf0qqZsURYk"
@@ -7983,7 +8055,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 220428,
       "name": "What A Man Gotta Do",
       "url": "https://open.spotify.com/track/5vQVysdj5NreqHmjaYnOgS"
@@ -8333,7 +8405,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 233280,
       "name": "Words as Weapons",
       "url": "https://open.spotify.com/track/5dhVen8NZSxwjQuZAqU7Sa"
@@ -8351,7 +8423,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 211920,
       "name": "Worst Nites",
       "url": "https://open.spotify.com/track/1f4tvi37ABO60upCvtm5Cl"
@@ -8369,7 +8441,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 281216,
       "name": "Worst Nites",
       "url": "https://open.spotify.com/track/7lTiTSBoEZfJF9UwDFNoes"

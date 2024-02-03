@@ -4,7 +4,7 @@
 
 > The most streamed Ambient X tracks in 2023\. ANNA on cover\. \#spotifywrapped
 
-209 songs - 16 hr 10 min
+210 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [We Wave From Our Boats](https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 3:50 | 2023-01-01 | 2023-11-30 |
 | [Welcome](https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [7RAYS](https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx) | [Music For Psychedelic Therapy](https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH) | 6:22 | 2023-01-01 | 2023-11-30 |
 | [Westwind](https://open.spotify.com/track/0mEgHC8L8LkgnX9PADMq5z) | [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [illi mel](https://open.spotify.com/artist/2cpa8rq1DM4WGuFdNHWUnP) | [Westwind](https://open.spotify.com/album/54QBiA3s2a0taeJvZo0h8j) | 2:22 | 2023-11-29 |  |
-| [Where Did We Go?](https://open.spotify.com/track/1LMCUvM0QJP8lzzuCOCGBb) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU) | [Where Did We Go?](https://open.spotify.com/album/1eycPAV7f2n0KDy7hIx6mY) | 2:20 | 2023-11-29 |  |
+| [Where Did We Go?](https://open.spotify.com/track/1LMCUvM0QJP8lzzuCOCGBb) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU) | [Where Did We Go?](https://open.spotify.com/album/1eycPAV7f2n0KDy7hIx6mY) | 2:20 | 2023-11-29 | 2024-02-03 |
+| [Where Did We Go?](https://open.spotify.com/track/1ah8VQQ7R2C4VmQZxkpJZi) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU) | [Where Did We Go?](https://open.spotify.com/album/4zspzKiLqxBvTECwcFZrRN) | 2:20 | 2023-11-29 |  |
 | [World of Dew](https://open.spotify.com/track/4myWgVzxRUJ6c2BYPgIsnv) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [World of Dew](https://open.spotify.com/album/5Z44LgLlQLSFtVBYG7Iwut) | 2:08 | 2023-11-29 |  |
 | [Yield](https://open.spotify.com/track/4tlQhk4lU7x9Jz0I1lEVtl) | [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Yield](https://open.spotify.com/album/4VGGAsrsGcHt5Kh7MKLPF4) | 3:26 | 2023-01-01 | 2023-11-30 |
 | [you're not alone](https://open.spotify.com/track/3BDNaH01PE6gJ9LwNe97Ya) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [you're not alone](https://open.spotify.com/album/6FsgtZ55Th99hbLori1oW0) | 2:52 | 2023-01-01 | 2023-11-30 |

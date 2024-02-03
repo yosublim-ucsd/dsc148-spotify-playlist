@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Le\u00f3n Leiden, DannyLux en portada. ",
+  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Delilah en portada. ",
   "name": "sad sierre\u00f1o",
   "tracks": [
     {
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 292317,
       "name": "Dices me Extra\u00f1as",
       "url": "https://open.spotify.com/track/1WzaBfhfVLDLqAEYf3pfrH"
@@ -2673,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "LEALTAD",
+        "url": "https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217875,
+      "name": "Mi Universo Entero",
+      "url": "https://open.spotify.com/track/6OPFaShW3TEnLcYWSZxt67"
+    },
+    {
+      "album": {
         "name": "Mientras Duermes",
         "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
       },
@@ -3649,6 +3667,24 @@
     },
     {
       "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/4fUNL9z52KcUKr5vBn3Uw8"
+      },
+      "artists": [
+        {
+          "name": "Angel Montoya",
+          "url": "https://open.spotify.com/artist/2z176UA0TCYX0tghkNY5rH"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200440,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/3mxudxSkGLflWoHbQ1vFb7"
+    },
+    {
+      "album": {
         "name": "Sanar\u00e9",
         "url": "https://open.spotify.com/album/4oFd2PuZH8JemEU6PkVHri"
       },
@@ -4184,7 +4220,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 173374,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/29FsuKnbCrHD9JChkrpK9W"
@@ -4976,6 +5012,28 @@
       "duration_ms": 182380,
       "name": "Una Mentirosa",
       "url": "https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4"
+    },
+    {
+      "album": {
+        "name": "Una Noche En Miami",
+        "url": "https://open.spotify.com/album/0H0QKdt4RkDRRPi4EYofRp"
+      },
+      "artists": [
+        {
+          "name": "Martinsito",
+          "url": "https://open.spotify.com/artist/0lGwR7cZwTuIOpeiagR5uf"
+        },
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162096,
+      "name": "Una Noche En Miami",
+      "url": "https://open.spotify.com/track/5TM1G08OEZjLu70YaSbYe2"
     },
     {
       "album": {

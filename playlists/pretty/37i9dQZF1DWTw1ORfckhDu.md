@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Jami Faltin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,985 likes - 63 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,003 likes - 63 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 2 | [Ikoni](https://open.spotify.com/track/4uu7Xart3eGoK0KOdatnTk) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Ikoni](https://open.spotify.com/album/0hCe8V1hHnQye0LYwzgzcr) | 2:23 |
 | 3 | [Love Song](https://open.spotify.com/track/6bPCYlgOrobxmSSNMAIUdW) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Love Song](https://open.spotify.com/album/4A9rrxbyaLqJsyzjuB72UW) | 2:26 |
 | 4 | [elefantti huonees](https://open.spotify.com/track/37C9Fj3TRrVJp2a738Hbcj) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [eläintarha](https://open.spotify.com/album/5LoBxhRNcAfLUBvQWUEuhL) | 2:42 |
-| 5 | [Lately](https://open.spotify.com/track/7zTCmhbQXfHW1GSozf0GWq) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Fabe](https://open.spotify.com/artist/2aJXo88ijoabz0v29IjyvA) | [Lately](https://open.spotify.com/album/5D0pdqxE2fgm2KDKkOPMju) | 2:29 |
+| 5 | [Lately](https://open.spotify.com/track/7zTCmhbQXfHW1GSozf0GWq) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Lately](https://open.spotify.com/album/5D0pdqxE2fgm2KDKkOPMju) | 2:29 |
 | 6 | [Kysyinksmä? \(feat\. Turisti\)](https://open.spotify.com/track/4Ml7ORJpmgcpRD8kuh5czt) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Kysyinksmä? \(feat\. Turisti\)](https://open.spotify.com/album/5Bw3Ahu1G2Gdkm49zYaZ15) | 2:34 |
 | 7 | [Sinusta](https://open.spotify.com/track/6YChmZDCt5k63y7podqjKH) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Sinusta](https://open.spotify.com/album/21a06F4CGo8HMw0NnPFyrl) | 2:57 |
 | 8 | [Hautajaiset](https://open.spotify.com/track/3DaL9LNmDqVyE4RiqDIGj4) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Hautajaiset](https://open.spotify.com/album/09bwleTFRG6VZ8FKcAV8nH) | 3:23 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 62 | [Just sillee](https://open.spotify.com/track/1qmWhud8dSCh1WxZnwaR2P) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Just sillee](https://open.spotify.com/album/2Dw5jml0SGkxUES45CrUFk) | 2:38 |
 | 63 | [Viimeinen ilta](https://open.spotify.com/track/1gAtV9FOe3LDju7KrQIEHn) | [Horse Attack Sqwad](https://open.spotify.com/artist/24LKxLWbV018hPbn5YQ34K) | [Viimeinen ilta](https://open.spotify.com/album/49aD6tSHjyoHEZwXGhale6) | 2:59 |
 
-Snapshot ID: `MCwzNjNiMTZlZDMwNjU1MjEzYTgwMWZjZGE1MWE2Y2Q1NmQzZjI5YWIy`
+Snapshot ID: `MCxkNGNjZjBhZTZkMjcxZWEwYjE1YmIxY2ZmMDYyODdmOTU1MDRhNmFj`

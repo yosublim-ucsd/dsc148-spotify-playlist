@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 
 > Rock out while you work out! Follow for updates!
 
-[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 60,570 likes - 184 songs - 11 hr 41 min
+[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 60,565 likes - 184 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 | 7 | [Mad World](https://open.spotify.com/track/6ga5MQ9qQUlwOJpVIYFqft) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Sounds From Beyond The Abyss \(Vol\. 1\)](https://open.spotify.com/album/3MBwzr71e3WZL0gCa5wt5v) | 3:35 |
 | 8 | [The Boom Went The Boom \(feat\. Phil Collen\)](https://open.spotify.com/track/5kC045Ohl32Sn4a2vOjsUt) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd), [Phil Collen](https://open.spotify.com/artist/5ZedcFUHfB6ejLwD668YpN) | [The Boom Went The Boom \(feat\. Phil Collen\)](https://open.spotify.com/album/5V36Ru7RN4gc8bAWEnKODF) | 3:39 |
 | 9 | [Let Go](https://open.spotify.com/track/5QzEl5meby6CHMwERcZEHV) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 4:13 |
-| 10 | [Barely Breathing](https://open.spotify.com/track/2EIgrHayJ6eJrJVT5ZcwcC) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:08 |
+| 10 | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6) | 3:10 |
 | 11 | [Legends Never Die](https://open.spotify.com/track/6jvrbttMyyBQuauXB6b7zy) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Legends Never Die](https://open.spotify.com/album/7nDKLEaD3NhoIWwlRblMuW) | 2:57 |
 | 12 | [Devil In Disguise](https://open.spotify.com/track/6sVfpovShmOm7JD1Mt55ES) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Love, Drugs & Misery \(Deluxe\)](https://open.spotify.com/album/5kEvgtnNQ2KtGBIa91NCTO) | 3:10 |
 | 13 | [Dark Thoughts](https://open.spotify.com/track/7aSFYakNWB9xQGDEZtoBDH) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Dark Thoughts](https://open.spotify.com/album/4hZRZ9Mwu9NAIeB73uI2JT) | 4:08 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 | 183 | [Judith](https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Mer De Noms](https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO) | 4:07 |
 | 184 | [Savior](https://open.spotify.com/track/6BwmYF0DqrrX6OkaOJphQH) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Die About It](https://open.spotify.com/album/7vL9sQj9AGhuBRHn969A9X) | 2:59 |
 
-Snapshot ID: `MjA5Miw5NzhhMmYyOGNlYWJjMGFhNzU0NDQwZGYwOWY2MDNkNTE3OTMyNDE4`
+Snapshot ID: `MjA5NSxmNGEyNjhjYjJlNjFiMzBjN2RlNDczZjk2YTg5ZWMwNzBkYjJlYjUw`

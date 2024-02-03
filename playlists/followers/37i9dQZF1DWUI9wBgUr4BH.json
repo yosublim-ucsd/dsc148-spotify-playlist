@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 287286,
+  "2024-02-03": 287357,
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Kungs x David Guetta",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : P!nk",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -265,7 +265,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 195066,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR"
@@ -388,6 +388,32 @@
     },
     {
       "album": {
+        "name": "Bam Bam (Ma Jolie)",
+        "url": "https://open.spotify.com/album/3XdVsdE1LETgzTufgIpvnP"
+      },
+      "artists": [
+        {
+          "name": "King Serenity",
+          "url": "https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        },
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143400,
+      "name": "Bam Bam (Ma Jolie)",
+      "url": "https://open.spotify.com/track/3MgDEWy7SXqSftFvovNOnv"
+    },
+    {
+      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -447,10 +473,28 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 176653,
       "name": "Beau (feat. Julien Dor\u00e9)",
       "url": "https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk"
+    },
+    {
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
       "album": {
@@ -849,7 +893,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 174819,
       "name": "Cabeza",
       "url": "https://open.spotify.com/track/0KsAixZGfxIHIt4evkBkit"
@@ -1227,6 +1271,28 @@
       "duration_ms": 144648,
       "name": "Deep In Your Love",
       "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
+    },
+    {
+      "album": {
+        "name": "Derni\u00e8re danse (Techno Mix)",
+        "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
+      },
+      "artists": [
+        {
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        },
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Derni\u00e8re danse - Techno Mix",
+      "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
     },
     {
       "album": {
@@ -2103,7 +2169,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 173586,
       "name": "J'fais que danser",
       "url": "https://open.spotify.com/track/0SqLN8ZqucYOGZH7SD4HGC"
@@ -2471,7 +2537,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 230867,
       "name": "Lo Que Queda de M\u00ed",
       "url": "https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6"
@@ -2522,6 +2588,28 @@
     },
     {
       "album": {
+        "name": "LOCO",
+        "url": "https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
       },
@@ -2537,6 +2625,24 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "album": {
+        "name": "Lose It All",
+        "url": "https://open.spotify.com/album/7My868BCSFXFo0JpoyJ6MM"
+      },
+      "artists": [
+        {
+          "name": "Josiane",
+          "url": "https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174608,
+      "name": "Lose It All",
+      "url": "https://open.spotify.com/track/7g0Fo1jbQfEEFIUXAYnbrm"
     },
     {
       "album": {
@@ -2653,6 +2759,24 @@
       "duration_ms": 178115,
       "name": "Ma muse",
       "url": "https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p"
+    },
+    {
+      "album": {
+        "name": "Madrid City",
+        "url": "https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172727,
+      "name": "Madrid City",
+      "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
     },
     {
       "album": {
@@ -3242,6 +3366,28 @@
     },
     {
       "album": {
+        "name": "One Night/All Night",
+        "url": "https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276066,
+      "name": "One Night/All Night",
+      "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
+    },
+    {
+      "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
       },
@@ -3663,7 +3809,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 123351,
       "name": "QUE CHIMBA DE VIDA",
       "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
@@ -3721,6 +3867,24 @@
       "duration_ms": 144026,
       "name": "Rhythm & Blues",
       "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
+    },
+    {
+      "album": {
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST"
+      },
+      "artists": [
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161213,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX"
     },
     {
       "album": {
@@ -4371,10 +4535,28 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
+    },
+    {
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
       "album": {
@@ -4455,6 +4637,36 @@
       "duration_ms": 154551,
       "name": "TUYA",
       "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
+    },
+    {
+      "album": {
+        "name": "T\u2019\u00e9tais o\u00f9 ?",
+        "url": "https://open.spotify.com/album/4YzgzJggoHU1azpDoUMMf5"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        },
+        {
+          "name": "Zaho",
+          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "T\u2019\u00e9tais o\u00f9 ?",
+      "url": "https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4"
     },
     {
       "album": {
@@ -4545,7 +4757,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 216997,
       "name": "VALENTINE",
       "url": "https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E"
@@ -4723,7 +4935,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
@@ -4781,7 +4993,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"

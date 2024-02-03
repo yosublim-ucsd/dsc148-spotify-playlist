@@ -1150,10 +1150,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 151730,
       "name": "P\u00f4r Do Sol",
       "url": "https://open.spotify.com/track/5qTFpdZGb94SFWQ7AFqYPt"
+    },
+    {
+      "album": {
+        "name": "Quando acordar",
+        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200316,
+      "name": "Quando acordar",
+      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
     },
     {
       "album": {
@@ -1437,7 +1455,7 @@
       "artists": [
         {
           "name": "idontcare",
-          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
+          "url": "https://open.spotify.com/artist/3sXDqkz0u2n7NXAPb3H7jV"
         },
         {
           "name": "Juniper",

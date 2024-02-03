@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 45110,
+  "2024-02-03": 45155,
   "date_first_scraped": "2022-06-20",
   "description": "Iconic instrumentals from the history of Blues.",
   "name": "Classic Instrumental Blues",
@@ -183,7 +183,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 175968,
       "name": "Blind Willie",
       "url": "https://open.spotify.com/track/7Dc0GqiXeIqiQaTngeBcod"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 153250,
       "name": "Little Walter's Boogie",
       "url": "https://open.spotify.com/track/2MvDrcDCQl3bAqO065bRX2"

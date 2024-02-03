@@ -1,12 +1,12 @@
 {
   "description": "Hit the road to the soundtrack of these seventies classics.",
-  "num_followers": 3016800,
+  "num_followers": 3017231,
   "original_name": "70s Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzljODFkZTc2NTAzMTVlNzA1NDgyMTc2MGQwYzI2MjllOTVkYTEz",
+  "snapshot_id": "MCw4MTk3OWMzYjIyMzRhZmYwMjIzY2FhNWVkNjA3MDNhOTI2NmFiMGRj",
   "tracks": [
     {
       "added_at": "2021-02-10 18:00:33",
@@ -255,6 +255,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 254293,
+      "name": "Starman - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "Madman Across The Water",
         "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
       },
@@ -271,18 +287,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
-        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
         }
       ],
-      "duration_ms": 254293,
-      "name": "Starman - 2012 Remaster",
-      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2022-04-14 15:08:02",
@@ -299,22 +315,6 @@
       "duration_ms": 208946,
       "name": "Stuck In The Middle With You",
       "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're So Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2022-04-14 15:08:02",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "\"Heroes\" (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 371413,
-      "name": "Heroes - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Who Loves You",
         "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 197146,
       "name": "December, 1963 (Oh What a Night!)",
       "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "\"Heroes\" (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 371413,
+      "name": "Heroes - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
-      },
-      "artists": [
-        {
-          "name": "Looking Glass",
-          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Brandy (You're a Fine Girl)",
-      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Dancing in the Moonlight",
         "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 181133,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
+      },
+      "artists": [
+        {
+          "name": "Looking Glass",
+          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Brandy (You're a Fine Girl)",
+      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Jailbreak (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "The Boys Are Back In Town",
-      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Can't Buy A Thrill",
         "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 174826,
       "name": "Cecilia",
       "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Jailbreak (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "The Boys Are Back In Town",
+      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Dance Vault Mixes - Copacabana (At The Copa)",
-        "url": "https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
-        }
-      ],
-      "duration_ms": 236760,
-      "name": "Copacabana (At the Copa)",
-      "url": "https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Band On The Run (Standard)",
         "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "Dance Vault Mixes - Copacabana (At The Copa)",
+        "url": "https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 236760,
+      "name": "Copacabana (At the Copa)",
+      "url": "https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "Ram Jam",
         "url": "https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 283360,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Baby I'm-a Want You",
         "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 187000,
       "name": "Everything I Own",
       "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 283360,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -867,22 +867,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "A New World Record",
-        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "Livin' Thing",
-      "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Hotel California (2013 Remaster)",
         "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 286219,
       "name": "Life in the Fast Lane - 2013 Remaster",
       "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "A New World Record",
+        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Livin' Thing",
+      "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
     },
     {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
-    },
-    {
       "added_at": "2022-04-14 15:08:02",
       "album": {
         "name": "Still Crazy After All These Years",
@@ -943,6 +927,22 @@
       "duration_ms": 217346,
       "name": "50 Ways to Leave Your Lover",
       "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "Life & Times",
+        "url": "https://open.spotify.com/album/25K3YPiFx7Yb7ms10m58Vt"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Bad, Bad Leroy Brown",
+      "url": "https://open.spotify.com/track/2r3XNMon9K7bl2KTtHsaQO"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "Paul Simon",
         "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 189386,
       "name": "Get Back - Remastered 2009",
       "url": "https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "Life & Times",
-        "url": "https://open.spotify.com/album/25K3YPiFx7Yb7ms10m58Vt"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Bad, Bad Leroy Brown",
-      "url": "https://open.spotify.com/track/2r3XNMon9K7bl2KTtHsaQO"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "I Can See Clearly Now",
         "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 357041,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Ooh La La",
-        "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
-      },
-      "artists": [
-        {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Distant Light (1999 Remaster)",
         "url": "https://open.spotify.com/album/6b5osVLAcVTBvnqwDaPV4w"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 199200,
       "name": "Long Cool Woman (In a Black Dress) - 1999 Remaster",
       "url": "https://open.spotify.com/track/5UwbnHhjnbinJH8TefuQfN"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Ooh La La",
+        "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
+      },
+      "artists": [
+        {
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Dire Straits",
-        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 350400,
-      "name": "Sultans of Swing",
-      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Sleeper Catcher (Remastered 2022)",
         "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 257868,
       "name": "Reminiscing - Remastered 2010",
       "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Dire Straits",
+        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 350400,
+      "name": "Sultans of Swing",
+      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Frampton",
         "url": "https://open.spotify.com/album/0mRXKbepKXO0Il8H1uMaaX"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 243266,
       "name": "Show Me The Way",
       "url": "https://open.spotify.com/track/6BD1X1PeV5UzYUdiVaD2yL"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY"
     },
     {
       "added_at": "2021-02-10 18:00:33",

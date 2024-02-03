@@ -9063,6 +9063,48 @@
     },
     {
       "album": {
+        "name": "WEATHERTEC",
+        "url": "https://open.spotify.com/album/5danpSUvfdLUQuEGEQszrD"
+      },
+      "artists": [
+        {
+          "name": "Tha Jointz",
+          "url": "https://open.spotify.com/artist/0J7djFMwBhnbgAN11Gggvg"
+        },
+        {
+          "name": "GOTU",
+          "url": "https://open.spotify.com/artist/14UuKo9McStiWxcOOPvczh"
+        },
+        {
+          "name": "JNK",
+          "url": "https://open.spotify.com/artist/7HYvkJOGJLSVOsyIxCJ4lY"
+        },
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/5qH4hGRUWoLtBVgMD0alcb"
+        },
+        {
+          "name": "JASS",
+          "url": "https://open.spotify.com/artist/4c25QyMjYv7MSQV24Qhofv"
+        },
+        {
+          "name": "WELL-DONE",
+          "url": "https://open.spotify.com/artist/5pBvGEECNZdaPCXcZGe8hQ"
+        },
+        {
+          "name": "KOH",
+          "url": "https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "WEATHERTEC",
+      "url": "https://open.spotify.com/track/0bfQxDoay4S828CTlELHLr"
+    },
+    {
+      "album": {
         "name": "WHAT'S LOVE",
         "url": "https://open.spotify.com/album/580v4C06eooVarwvKIVinB"
       },

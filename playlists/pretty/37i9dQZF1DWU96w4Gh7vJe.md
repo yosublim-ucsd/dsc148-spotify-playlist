@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,571 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,589 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 16 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
 | 17 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
 | 18 | [Bulong](https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 4:30 |
-| 19 | [Buwan](https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Buwan](https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1) | 5:43 |
-| 20 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 |
+| 19 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 |
+| 20 | [Buwan](https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Buwan](https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1) | 5:43 |
 | 21 | [Pasensya Ka Na](https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Langit\. Luha.](https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn) | 4:01 |
 | 22 | [Gitara](https://open.spotify.com/track/7nbIGbDitZIYoMrMsXunAu) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Halina Sa Parokya](https://open.spotify.com/album/7g5RBMWC3jvPVmytLEZLZL) | 4:02 |
 | 23 | [Ikaw Lang](https://open.spotify.com/track/5y6BAZxYtjqyAz4AiuQxTp) | [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [HARANASA](https://open.spotify.com/album/1m5UTDEtgN3wGvr6huasDE) | 4:01 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 43 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 |
 | 44 | [Huwag Na Lang Kaya](https://open.spotify.com/track/6v5gynE8gZcLwipN1UjCaD) | [True Faith](https://open.spotify.com/artist/6RV3CKY0UJIPKXyGs85Thm) | [Beyond Doubt](https://open.spotify.com/album/7AetQy7fe8Nt13bSJCELXH) | 3:31 |
 | 45 | [Balang Araw \- Single Version](https://open.spotify.com/track/2f0Z6I0fDfgDI3htl2RoTd) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Balang Araw](https://open.spotify.com/album/1WTaHQ1ulKruduEtwyRLDD) | 4:48 |
-| 46 | [With a Smile \(feat\. Kelly Badon\)](https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv), [Kelly Badon](https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26) | [Ultraelectromagnetic Jam](https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o) | 4:24 |
-| 47 | [Nagbabakasakali](https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Nagbabakasakali](https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ) | 3:22 |
-| 48 | [Tulog Na](https://open.spotify.com/track/5ZPlhCh8KnB0bEnElxm1Et) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Dramachine](https://open.spotify.com/album/6eQSE3asJwkxro63orNwjk) | 4:00 |
-| 49 | [Ngiti](https://open.spotify.com/track/2086mMaH4riDyU13MSYzzx) | [Ronnie Liang](https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0) | [Ang Aking Awitin](https://open.spotify.com/album/04kUFHCYtia8N4oqq0XeVJ) | 3:32 |
-| 50 | [Kursunada](https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Kursunada](https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA) | 2:59 |
+| 46 | [Nagbabakasakali](https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Nagbabakasakali](https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ) | 3:22 |
+| 47 | [With a Smile \(feat\. Kelly Badon\)](https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv), [Kelly Badon](https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26) | [Ultraelectromagnetic Jam](https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o) | 4:24 |
+| 48 | [Ngiti](https://open.spotify.com/track/2086mMaH4riDyU13MSYzzx) | [Ronnie Liang](https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0) | [Ang Aking Awitin](https://open.spotify.com/album/04kUFHCYtia8N4oqq0XeVJ) | 3:32 |
+| 49 | [Tulog Na](https://open.spotify.com/track/5ZPlhCh8KnB0bEnElxm1Et) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Dramachine](https://open.spotify.com/album/6eQSE3asJwkxro63orNwjk) | 4:00 |
+| 50 | [Ex](https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Ex](https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA) | 4:39 |
 
-Snapshot ID: `MCw5MDc5YTZmY2U1NmVjMzUxZmQyMGMwNjZhNjg1NTFjYWRiZTBkNzY1`
+Snapshot ID: `MCwyNmVmMWJkMmNmZjQ2ZmYzMGM1OTBiOTQ2YzRhODBiMjQ0NGM0Mzk1`

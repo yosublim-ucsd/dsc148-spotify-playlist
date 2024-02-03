@@ -4,7 +4,7 @@
 
 > Ambient Indian sounds for your daily Yoga practise.
 
-55 songs - 5 hr 53 min
+56 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Darashan Maago](https://open.spotify.com/track/2ZjPWpIuoNRT2NY1D0n6vr) | [Snatam Kaur](https://open.spotify.com/artist/6NvMFz8onERoCM6bKjTASJ) | [Beloved](https://open.spotify.com/album/075EtImHqtDYPvYcypAGNQ) | 12:55 | 2023-06-30 |  |
 | [Dharawi Nights](https://open.spotify.com/track/7J0ZO7IO5rcPG5cbTWoRuF) | [Secretpath](https://open.spotify.com/artist/3CgMjC9kBPZPgUZEmcjsnU) | [Dharawi Nights](https://open.spotify.com/album/1ZVSgPi74n655eUn8cXdGI) | 3:57 | 2023-06-30 |  |
 | [Earth in Space](https://open.spotify.com/track/3d4lrPfdFxvtONXc0fbRec) | [Raajeev V Bhalla](https://open.spotify.com/artist/3M3uBX6WMgpjbX3Z8mPMax) | [Healing \(Vol 1\)](https://open.spotify.com/album/49vsK5SdsNgFzg73orXx7Z) | 10:17 | 2023-06-30 |  |
-| [Echoes of Shiva](https://open.spotify.com/track/5bLg8nvysvHou7vDjAUwrX) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub) | 6:01 | 2023-06-30 |  |
+| [Echoes of Shiva](https://open.spotify.com/track/5bLg8nvysvHou7vDjAUwrX) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub) | 6:01 | 2023-06-30 | 2024-02-03 |
+| [Echoes of Shiva](https://open.spotify.com/track/7GdMQZxsylLkx3VEJDbeWD) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/3JXXSLswIpf1GNoptaXXvx) | 6:01 | 2023-12-20 |  |
 | [Endless Nights](https://open.spotify.com/track/1khJhtT78fpUbjiZCH1rLV) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Endless Nights](https://open.spotify.com/album/39G4Sh25irfylUiwli0abu) | 2:58 | 2023-06-30 |  |
 | [Evening Meditation](https://open.spotify.com/track/2Ao32nF0lHXSrF4wjj2wpO) | [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY) | [Cosmic Meditation](https://open.spotify.com/album/3Fz75bL5JPz1UopPGGUbIu) | 7:57 | 2023-06-30 |  |
 | [Ever So Lonely / Eyes / Ocean](https://open.spotify.com/track/6PeTYB1Wiv5ijg46xkPBdE) | [Sheila Chandra](https://open.spotify.com/artist/7eYoqLpLD211aYrxb64AzN) | [Weaving My Ancestors' Voices \(Real World Gold\)](https://open.spotify.com/album/18xHLkID2nZIjqAGCrKVs6) | 3:24 | 2023-06-30 |  |

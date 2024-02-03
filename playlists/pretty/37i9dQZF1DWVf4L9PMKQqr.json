@@ -1,12 +1,12 @@
 {
   "description": "Enam\u00f3rate con las interpretaciones m\u00e1s rom\u00e1nticas de El Flaco de Oro.",
-  "num_followers": 20251,
+  "num_followers": 20266,
   "original_name": "Cancionero Agust\u00edn Lara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjMxYzNjNjhmMmQ0YjM5MjA5MDY0Njg3YjQ1NTQxNTFhNzE1NmM0",
+  "snapshot_id": "MCwwMmE3M2VhODdiMzBhODNjNTQ3OWRhMmFlNDY4Y2VmZjQwMDY2NDIx",
   "tracks": [
     {
       "added_at": "2021-05-07 15:30:08",
@@ -383,18 +383,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Agustin Lara Y Sus Interpretes Vol. II",
-        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
+        "name": "M\u00fasica y Piano",
+        "url": "https://open.spotify.com/album/5ANYSvLVpHLjUAd9gPcSXV"
       },
       "artists": [
         {
-          "name": "Elvira Rios",
-          "url": "https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g"
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
         }
       ],
-      "duration_ms": 159843,
-      "name": "Ausencia",
-      "url": "https://open.spotify.com/track/6VTbnVX8IH9CN99QgMrH3g"
+      "duration_ms": 210666,
+      "name": "Talisman / Mujer - Instrumental",
+      "url": "https://open.spotify.com/track/5HlfgoxX2Xonf8cPZMh6r0"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -415,18 +415,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "M\u00fasica y Piano",
-        "url": "https://open.spotify.com/album/5ANYSvLVpHLjUAd9gPcSXV"
+        "name": "Agustin Lara Y Sus Interpretes Vol. II",
+        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
       },
       "artists": [
         {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+          "name": "Elvira Rios",
+          "url": "https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g"
         }
       ],
-      "duration_ms": 210666,
-      "name": "Talisman / Mujer - Instrumental",
-      "url": "https://open.spotify.com/track/5HlfgoxX2Xonf8cPZMh6r0"
+      "duration_ms": 159843,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/6VTbnVX8IH9CN99QgMrH3g"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -447,22 +447,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Agust\u00edn Lara a 50 A\u00f1os",
-        "url": "https://open.spotify.com/album/3dDiABLvKP28Msoy8cZzCx"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Aventurera",
-      "url": "https://open.spotify.com/track/1cUUVJNo1ipmJlCZYvpRZG"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Canciones de Agust\u00edn Lara, Vol. 1",
         "url": "https://open.spotify.com/album/0v97jidgGLOtuKRDajEKHX"
       },
@@ -479,6 +463,38 @@
       "duration_ms": 182804,
       "name": "Mar\u00eda Bonita",
       "url": "https://open.spotify.com/track/5kfdjZptfBuLriEyOhPer9"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Agust\u00edn Lara a 50 A\u00f1os",
+        "url": "https://open.spotify.com/album/3dDiABLvKP28Msoy8cZzCx"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Aventurera",
+      "url": "https://open.spotify.com/track/1cUUVJNo1ipmJlCZYvpRZG"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "M\u00fasica y Piano",
+        "url": "https://open.spotify.com/album/5ANYSvLVpHLjUAd9gPcSXV"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 160106,
+      "name": "Flor de Lis - Instrumental",
+      "url": "https://open.spotify.com/track/5K2u2m8kl7i9E82QFp90Lg"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -547,22 +563,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "M\u00fasica y Piano",
-        "url": "https://open.spotify.com/album/5ANYSvLVpHLjUAd9gPcSXV"
-      },
-      "artists": [
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 160106,
-      "name": "Flor de Lis - Instrumental",
-      "url": "https://open.spotify.com/track/5K2u2m8kl7i9E82QFp90Lg"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Fantasia Espanola",
         "url": "https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na"
       },
@@ -599,38 +599,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "La Sonora Santanera Y La Inspiraci\u00f3n de Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/0PB2j6MxJasgBw89UXkKA8"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Petici\u00f3n",
-      "url": "https://open.spotify.com/track/58MGtA6o5yQ9cp23jb4x3r"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
-        "name": "Suite Mexicana de Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon"
-      },
-      "artists": [
-        {
-          "name": "Aida Cuevas",
-          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
-        }
-      ],
-      "duration_ms": 135266,
-      "name": "Se Me Hizo Facil",
-      "url": "https://open.spotify.com/track/4wOebic3MNZxa4fGPifDpC"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "M\u00fasica de Agust\u00edn Lar\u00e1 Con los Tres Caballeros",
         "url": "https://open.spotify.com/album/1Fr1bDJkcGGgQt7nO83HIq"
       },
@@ -647,18 +615,18 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Fantasia Espanola",
-        "url": "https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na"
+        "name": "La Sonora Santanera Y La Inspiraci\u00f3n de Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/0PB2j6MxJasgBw89UXkKA8"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 173400,
-      "name": "Cuerdas de Mi Guitarra",
-      "url": "https://open.spotify.com/track/1Bdc9V1HIBlOryRL5Sa8RW"
+      "duration_ms": 157333,
+      "name": "Petici\u00f3n",
+      "url": "https://open.spotify.com/track/58MGtA6o5yQ9cp23jb4x3r"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -679,18 +647,34 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Agustin Lara Y Sus Interpretes Vol. II",
-        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
+        "name": "Fantasia Espanola",
+        "url": "https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na"
       },
       "artists": [
         {
-          "name": "Alejandro Algara",
-          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 134008,
-      "name": "Espanolerias",
-      "url": "https://open.spotify.com/track/1YGt4KGi65q8TD0znunBXI"
+      "duration_ms": 173400,
+      "name": "Cuerdas de Mi Guitarra",
+      "url": "https://open.spotify.com/track/1Bdc9V1HIBlOryRL5Sa8RW"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Suite Mexicana de Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon"
+      },
+      "artists": [
+        {
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+        }
+      ],
+      "duration_ms": 135266,
+      "name": "Se Me Hizo Facil",
+      "url": "https://open.spotify.com/track/4wOebic3MNZxa4fGPifDpC"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -731,6 +715,22 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
+        "name": "Agustin Lara Y Sus Interpretes Vol. II",
+        "url": "https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Algara",
+          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
+        }
+      ],
+      "duration_ms": 134008,
+      "name": "Espanolerias",
+      "url": "https://open.spotify.com/track/1YGt4KGi65q8TD0znunBXI"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
         "name": "Mar\u00eda F\u00e9lix Interpreta a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/67ujgRmapP8x3YaCSYb1IG"
       },
@@ -743,38 +743,6 @@
       "duration_ms": 159880,
       "name": "Por Qu\u00e9 Negar",
       "url": "https://open.spotify.com/track/47kfWkwDKh1L5UepjO2oWZ"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
-        "name": "La Sonora Santanera Y La Inspiraci\u00f3n de Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/0PB2j6MxJasgBw89UXkKA8"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 195813,
-      "name": "Escarcha",
-      "url": "https://open.spotify.com/track/3eRQss3hfgY7Zvge8lK7iq"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
-        "name": "Interpretan a Agust\u00edn Lara / De Puerto en Puerto",
-        "url": "https://open.spotify.com/album/5inx7F0E85jiFDX2LPwy9x"
-      },
-      "artists": [
-        {
-          "name": "Hermanas Huerta",
-          "url": "https://open.spotify.com/artist/1hU5wdiWeIWv4fBklDgta1"
-        }
-      ],
-      "duration_ms": 169520,
-      "name": "M\u00eda Nomas",
-      "url": "https://open.spotify.com/track/0V3DjnQpumvPGsg6U5hNuF"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -795,18 +763,34 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Lo Mejor de La Sonora Matancera (Remastered)",
-        "url": "https://open.spotify.com/album/5oPiWYPNFLc9z0h6D4l6iJ"
+        "name": "Interpretan a Agust\u00edn Lara / De Puerto en Puerto",
+        "url": "https://open.spotify.com/album/5inx7F0E85jiFDX2LPwy9x"
       },
       "artists": [
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+          "name": "Hermanas Huerta",
+          "url": "https://open.spotify.com/artist/1hU5wdiWeIWv4fBklDgta1"
         }
       ],
-      "duration_ms": 227960,
-      "name": "Pecadora - Remastered",
-      "url": "https://open.spotify.com/track/2yw1yNIQ761kWGS0RQmaER"
+      "duration_ms": 169520,
+      "name": "M\u00eda Nomas",
+      "url": "https://open.spotify.com/track/0V3DjnQpumvPGsg6U5hNuF"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "La Sonora Santanera Y La Inspiraci\u00f3n de Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/0PB2j6MxJasgBw89UXkKA8"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "Escarcha",
+      "url": "https://open.spotify.com/track/3eRQss3hfgY7Zvge8lK7iq"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -823,6 +807,22 @@
       "duration_ms": 159164,
       "name": "Noche Criolla",
       "url": "https://open.spotify.com/track/5Zrdtd4UC1ESsSFgyc0jqg"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Lo Mejor de La Sonora Matancera (Remastered)",
+        "url": "https://open.spotify.com/album/5oPiWYPNFLc9z0h6D4l6iJ"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 227960,
+      "name": "Pecadora - Remastered",
+      "url": "https://open.spotify.com/track/2yw1yNIQ761kWGS0RQmaER"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Tesoros de Colecci\u00f3n - Las Estrellas de la Hora Azul",
-        "url": "https://open.spotify.com/album/5BOUGL5DKea3WtnFxX93YP"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "Naufragio",
-      "url": "https://open.spotify.com/track/7vTmlPkU3BGipqzeStpqSw"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "COLECCION Volumen 5",
         "url": "https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 211252,
       "name": "Caballera Blanca",
       "url": "https://open.spotify.com/track/1ZH12n8wnw19KSkKZFuvIP"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Tesoros de Colecci\u00f3n - Las Estrellas de la Hora Azul",
+        "url": "https://open.spotify.com/album/5BOUGL5DKea3WtnFxX93YP"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "Naufragio",
+      "url": "https://open.spotify.com/track/7vTmlPkU3BGipqzeStpqSw"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
+        "name": "5 Decadas de Boleros: Boleros de los 20's",
+        "url": "https://open.spotify.com/album/5GWxERu84RmaBfSWE1zhTy"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Algara",
+          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
+        }
+      ],
+      "duration_ms": 244662,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/4bYzJf4CpXi70LphnRvdqk"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
         "name": "Pedazos del Coraz\u00f3n (Homenaje a \u00c1lvaro Carrillo y Agust\u00edn Lara)",
         "url": "https://open.spotify.com/album/29bsAv77byqczgo4Yho2aq"
       },
@@ -1067,38 +1083,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Bugambilia",
-        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 309678,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/1Bofzr1DgVTPc9DHDhg7pF"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
-        "name": "5 Decadas de Boleros: Boleros de los 20's",
-        "url": "https://open.spotify.com/album/5GWxERu84RmaBfSWE1zhTy"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Algara",
-          "url": "https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB"
-        }
-      ],
-      "duration_ms": 244662,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/4bYzJf4CpXi70LphnRvdqk"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Coleccion Original RCA",
         "url": "https://open.spotify.com/album/2m2FaE4G9ZmdyokmG9fELn"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 252880,
       "name": "Nadie",
       "url": "https://open.spotify.com/track/62roN8U8Lum4zpo2t8HYgH"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Bugambilia",
+        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 309678,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/1Bofzr1DgVTPc9DHDhg7pF"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "Lo Esencial de Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/22qbHVM27JpbLBWxIf8Nqx"
-      },
-      "artists": [
-        {
-          "name": "Hugo Avenda\u00f1o",
-          "url": "https://open.spotify.com/artist/5t2eo8t8t6DwSA7goQgxpq"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Pr\u00edncipe Vals",
-      "url": "https://open.spotify.com/track/3KFSfOMYV1eAR2jLascuRo"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "Mar\u00eda F\u00e9lix Interpreta a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/67ujgRmapP8x3YaCSYb1IG"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 142946,
       "name": "Imposible - Remastered",
       "url": "https://open.spotify.com/track/5wI8dYA9YRtuvKWVDrkduw"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "Lo Esencial de Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/22qbHVM27JpbLBWxIf8Nqx"
+      },
+      "artists": [
+        {
+          "name": "Hugo Avenda\u00f1o",
+          "url": "https://open.spotify.com/artist/5t2eo8t8t6DwSA7goQgxpq"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Pr\u00edncipe Vals",
+      "url": "https://open.spotify.com/track/3KFSfOMYV1eAR2jLascuRo"
     },
     {
       "added_at": "2021-05-07 15:30:08",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2021-05-07 15:30:08",
       "album": {
-        "name": "La Coleccion Del Siglo",
-        "url": "https://open.spotify.com/album/0K44c2pTRwvLo24xyknbpb"
-      },
-      "artists": [
-        {
-          "name": "Genaro Salinas",
-          "url": "https://open.spotify.com/artist/306IiRW9xKTqahOyzCI2jD"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "Cuerdas de Mi Guitarra",
-      "url": "https://open.spotify.com/track/4lWUMFgf3gIrS2A05trqI9"
-    },
-    {
-      "added_at": "2021-05-07 15:30:08",
-      "album": {
         "name": "David Reynoso y la M\u00fasica de Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/4VnXBg6RqDKAZhkPB5YjHL"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 138293,
       "name": "Concha Nacar",
       "url": "https://open.spotify.com/track/2NYZ1itaWAy8jOAjeQVNjc"
+    },
+    {
+      "added_at": "2021-05-07 15:30:08",
+      "album": {
+        "name": "La Coleccion Del Siglo",
+        "url": "https://open.spotify.com/album/0K44c2pTRwvLo24xyknbpb"
+      },
+      "artists": [
+        {
+          "name": "Genaro Salinas",
+          "url": "https://open.spotify.com/artist/306IiRW9xKTqahOyzCI2jD"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "Cuerdas de Mi Guitarra",
+      "url": "https://open.spotify.com/track/4lWUMFgf3gIrS2A05trqI9"
     },
     {
       "added_at": "2021-05-07 15:30:08",

@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 4584,
+  "2024-02-03": 4775,
   "date_first_scraped": "2023-10-19",
-  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s?si=BWbKg03qSfmmppEGaW-ArQ\">Joepraize</a>",
+  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=SjvNJWYbT-KTxeInoXu7kg\">Ebuka Songs</a>",
   "name": "Redeemed",
   "tracks": [
     {
@@ -846,6 +846,28 @@
     },
     {
       "album": {
+        "name": "New Generation",
+        "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 648235,
+      "name": "New Generation",
+      "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
+    },
+    {
+      "album": {
         "name": "No Longer Bound (I'm Free)",
         "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
       },
@@ -887,7 +909,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 390967,
       "name": "No Turning Back",
       "url": "https://open.spotify.com/track/1HvmrH54shSA0a1bwK91R0"

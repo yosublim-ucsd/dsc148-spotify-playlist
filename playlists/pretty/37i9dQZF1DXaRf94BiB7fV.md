@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Alchemy, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,305 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,311 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 34 | [Everything at once](https://open.spotify.com/track/4WkUY1fMYyXijiqFZpSy6f) | [Roshni.S](https://open.spotify.com/artist/5AOcXmc5vA2MkKOtOsiFEm) | [Everything at once](https://open.spotify.com/album/1sA0oHfN3JowBCUXhqs3dx) | 3:20 |
 | 35 | [Peace](https://open.spotify.com/track/51XJgxc4jML9Tqjr1Sj4c8) | [Shivi](https://open.spotify.com/artist/7CoZkWIMHrAfVllUrTNRvE), [Maanuni](https://open.spotify.com/artist/0RAKDApsLaVDbTPbtlLReP), [Yoki](https://open.spotify.com/artist/4XKqcsAJmeJ3rVC9Oy2OBG) | [Peace](https://open.spotify.com/album/4PtU9NJ1xgx0fcDMUo8oPE) | 1:24 |
 | 36 | [Hawa Bhi Chalti Rahe](https://open.spotify.com/track/4kHkypmlG2oiGeNuRdVGIY) | [babyface](https://open.spotify.com/artist/5MTT0dvjp1BmpEwF1xEZZi), [Mc Snub](https://open.spotify.com/artist/2IdXqCYvlFFcpoiggkJEiX), [Jay](https://open.spotify.com/artist/2pZ4pbtHoKM1pAOukhnMqC) | [Hawa Bhi Chalti Rahe](https://open.spotify.com/album/0FzG5ABfG25tvso4taLWUk) | 2:17 |
-| 37 | [Out of My Miseries](https://open.spotify.com/track/7470OmWPjvlA3djSI6YfAt) | [Christina Andrew](https://open.spotify.com/artist/6hcmtgDkLhVZ9YuCNMEWRK) | [Out of My Miseries](https://open.spotify.com/album/74Hx7ED0TgaT7mGagwKvoe) | 3:05 |
+| 37 | [Out Of My Miseries](https://open.spotify.com/track/7470OmWPjvlA3djSI6YfAt) | [Christina Andrew](https://open.spotify.com/artist/6hcmtgDkLhVZ9YuCNMEWRK) | [Out Of My Miseries](https://open.spotify.com/album/74Hx7ED0TgaT7mGagwKvoe) | 3:05 |
 | 38 | [Zaai Go?](https://open.spotify.com/track/7D4ANCfZ9XG2lZynrZUYCz) | [Joanne Fernandes](https://open.spotify.com/artist/5hGAuNl8gBn5A3OkOh0nah), [Dhi Harmony](https://open.spotify.com/artist/3Thq0cpi3FinFQhr2d8EqY) | [Zaai Go?](https://open.spotify.com/album/5g1RmspRqUpjOWOJAcJg8p) | 2:58 |
 | 39 | [Masoomiyan](https://open.spotify.com/track/6btBf4Dc2Y5VoubtkhQh50) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [Masoomiyan](https://open.spotify.com/album/0sj1Th9Cb8VEvUKHb2g8mk) | 3:10 |
 | 40 | [Changing Seasons](https://open.spotify.com/track/7B2qzrFyGPEGWlCliYrWpv) | [Heeya Tikku](https://open.spotify.com/artist/15pU1H32bqltxTPozA60YM) | [Changing Seasons](https://open.spotify.com/album/0iitSNwci0nBwfsqTKO5UM) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Kho Na Jau](https://open.spotify.com/track/0ZOkSHrdY7KQl9gzAp1gul) | [Shubham Sarita](https://open.spotify.com/artist/2M2UjSgx193L2gOGZ8lEkw) | [Kho Na Jau](https://open.spotify.com/album/5RcROEiAF3IFVKf90WDc1M) | 2:13 |
 | 100 | [Kahin Door \(Raw\)](https://open.spotify.com/track/48Ffp7BhtGsmxsz1b8YDlw) | [Sajid Rizvi](https://open.spotify.com/artist/4GQ5xNBHVVO8UkUZ7IufKo) | [Kahin Door \(Raw\)](https://open.spotify.com/album/0lSZjrFUdgpM6RZCppSYDO) | 2:48 |
 
-Snapshot ID: `MCwyNmI2Nzk0NzRlOWViOTA5YTI3MjIzZmFmODBlOWI1MGU3N2UyMjMy`
+Snapshot ID: `MCxhM2VlOTI2ODkyYWE3ZGEzNjc2YTI1YTdjNDdiOWU2YzhjYTA4NDVk`

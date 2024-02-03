@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\.  Cover: Paul Russell
 
-288 songs - 14 hr 35 min
+290 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,11 +49,13 @@
 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 | 2023-06-16 | 2023-10-22 |
 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/2APWeDZZLBBwAmVVECtgMr) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [IRL \(Deluxe\)](https://open.spotify.com/album/76G7P45A56sBfsNXj2yZyD) | 3:22 | 2023-10-17 |  |
 | [Chosen \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [No Love Lost \(Deluxe\)](https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr) | 2:41 | 2022-02-04 | 2022-02-26 |
+| [Clarity](https://open.spotify.com/track/54fIT6FB4H6z3BJXQai1hm) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Clarity](https://open.spotify.com/album/49WXECyPBx84Kw0E33sjCY) | 2:17 | 2024-02-02 |  |
 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1j4hUdpOJd5qIXN3LJeHjj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/3nQQifh95U988ME5zJMSyi) | 2:48 | 2022-02-11 | 2023-01-28 |
 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2022-02-04 | 2022-02-12 |
 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 | 2023-06-30 |  |
 | [Come Through \(feat\. Chris Brown\)](https://open.spotify.com/track/3krZxyBsWEHfEfJegYaWTd) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Come Through \(feat\. Chris Brown\)](https://open.spotify.com/album/7qKY8n8wPUizIo2bfSWUEB) | 3:34 | 2022-02-04 | 2022-02-26 |
 | [Comfortable](https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Comfortable](https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s) | 3:48 | 2024-01-12 |  |
+| [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 | 2024-02-02 |  |
 | [Company](https://open.spotify.com/track/1W8Ip7MHOwAg0nCMQ4tQos) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Company](https://open.spotify.com/album/16HYUeWDdsIYunousi5lG1) | 2:08 | 2023-01-27 | 2023-04-01 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2023-01-27 | 2023-11-18 |
 | [Crying](https://open.spotify.com/track/3lpLpwUF7KTJVj9yoySNwM) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Crying](https://open.spotify.com/album/5wvfwEFmnrUsbmVi9mRT9N) | 2:53 | 2024-01-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > 🇵🇭 vibin' 🥶 🔥 Cover: Felip, PLAYERTWO
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,580 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,672 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 | 49 | [SEEN](https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [SEEN](https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n) | 2:52 |
 | 50 | [Aminin](https://open.spotify.com/track/58Y3alAZ4Z2zJGFJiyT9CX) | [Pricetagg](https://open.spotify.com/artist/1UvsiRB2EarPibq6XRl9Sv), [Zae](https://open.spotify.com/artist/4Flrlc0Sf1QaWLbDLdvU3L) | [Aminin](https://open.spotify.com/album/1nxQSlG58nXJJextcAoTzy) | 3:37 |
 
-Snapshot ID: `MCwzM2I1Y2ZmYWY3NWU4ZDc0ZTZkNDM2ZDM1ZDBiMjJhODRmOTU3OTBj`
+Snapshot ID: `MCxjZGE0MDE1MDlmMzNmMWIxMzU4N2U3YWMzNjFmOTAwZGIyZWM5YWRm`

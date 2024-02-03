@@ -4,7 +4,7 @@
 
 > Country hits that will have you singing every word\. Cover: Luke Combs
 
-289 songs - 15 hr 40 min
+291 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Down To The Honkytonk](https://open.spotify.com/track/5g0XcG0apQTlO3X8r38vGf) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:06 | 2022-07-21 | 2022-11-16 |
 | [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/1b8TpvCFqmJTd2xz9xE9s1) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [The Album](https://open.spotify.com/album/49DERKtzOTKNT7T0O4l6m4) | 2:40 | 2022-11-15 | 2023-10-21 |
 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 | 2022-07-21 | 2023-10-21 |
-| [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 | 2023-05-04 |  |
+| [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 | 2023-05-04 | 2024-02-03 |
 | [Eyes On You](https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd) | 3:02 | 2022-07-21 | 2022-11-16 |
 | [Fall In Love](https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:52 | 2023-06-02 | 2023-10-21 |
 | [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2022-07-21 | 2023-06-08 |
@@ -136,6 +136,7 @@
 | [Keith](https://open.spotify.com/track/7pcekwb2T8L4MIc29f9GXB) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Keith](https://open.spotify.com/album/7dWCUs7VGjsopOEB6VoQYv) | 2:51 | 2022-11-17 | 2023-10-21 |
 | [Ladies In The '90s](https://open.spotify.com/track/4Whem9s6OoP7yFT60m2tU9) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Ladies In The '90s](https://open.spotify.com/album/6lAF0PP107eAeqzRKXCmKb) | 3:45 | 2022-11-15 | 2022-11-22 |
 | [Lady](https://open.spotify.com/track/2fSuoIlA1uTERXunbshSWh) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Different These Days](https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX) | 3:14 | 2022-07-21 | 2023-08-19 |
+| [Last Night](https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:43 | 2024-02-02 |  |
 | [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 | 2022-07-21 | 2023-11-11 |
 | [Leave Her Wild](https://open.spotify.com/track/4oFAJvXFB2W9FWgaww9cQo) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Two Thousand Miles](https://open.spotify.com/album/1k2268Pzqb4R3WTlLd6qDP) | 3:19 | 2022-07-21 | 2023-03-27 |
 | [Life](https://open.spotify.com/track/5ta8NyQiixodcCinI6jjS6) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life](https://open.spotify.com/album/4zRPTUJpjsQ9j4wEA4z9wB) | 3:52 | 2022-11-11 | 2022-11-13 |
@@ -143,7 +144,7 @@
 | [Little Songs](https://open.spotify.com/track/6C6MuaafmC8YwS6rjYdz6u) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Little Songs](https://open.spotify.com/album/4l1JW9aV2fmAxnH9TeeK82) | 2:25 | 2023-09-22 | 2023-11-25 |
 | [Long Live](https://open.spotify.com/track/0YfRAYTNTNszGg8VARrSIH) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:33 | 2022-07-21 | 2023-08-19 |
 | [Long Way Home](https://open.spotify.com/track/1cfIq5AIU43TVwwEONe2n8) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Long Way Home](https://open.spotify.com/album/4oTgs7iS9gty8setMf2ljq) | 2:37 | 2023-12-15 |  |
-| [Looking for You](https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Looking for You + All Dogs Go to Heaven](https://open.spotify.com/album/1Z9asNGoCrbamQYIoR9Q6j) | 2:59 | 2023-05-25 |  |
+| [Looking for You](https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Looking for You + All Dogs Go to Heaven](https://open.spotify.com/album/1Z9asNGoCrbamQYIoR9Q6j) | 2:59 | 2023-05-25 | 2024-02-03 |
 | [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 | 2023-03-17 |  |
 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 | 2022-07-21 | 2023-08-26 |
 | [Man Of Constant Sorrow](https://open.spotify.com/track/4CYckHP3FnrXCysqEavOd5) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Man Of Constant Sorrow](https://open.spotify.com/album/7jlzOCM6wAcFjOn0sQvrKj) | 3:34 | 2023-10-06 |  |
@@ -282,6 +283,7 @@
 | [Who Says You Can't Have Everything](https://open.spotify.com/track/4KbLhLnwnhbHk0Aa13BeYD) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH) | 3:08 | 2023-10-20 |  |
 | [Why We Drink](https://open.spotify.com/track/4lSfhHd5Knwl8yQw2cVjAD) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Late Nights And Longnecks](https://open.spotify.com/album/6k7PNoooJpFHVVd2ZE9t2K) | 3:31 | 2022-10-07 | 2022-11-16 |
 | [Wide Open](https://open.spotify.com/track/5TUpyqeMd2q1rC2xDHN1JE) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Wide Open](https://open.spotify.com/album/3aWShipEiKPgssWlGxFY0x) | 3:09 | 2023-09-08 |  |
+| [Wild as Her](https://open.spotify.com/track/3kXH9BQq0TyNliiP1MIE6N) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Blacktop](https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi) | 3:21 | 2024-02-02 |  |
 | [Wild Hearts](https://open.spotify.com/track/0BQpyaFrb78b9uobWNheqx) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Wild Hearts](https://open.spotify.com/album/4zxsqQuLQMHfG48BZI3A2Y) | 3:02 | 2022-07-21 | 2022-11-16 |
 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2022-07-21 | 2023-10-21 |
 | [Without You \(feat\. Elle King\)](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You \(feat\. Elle King\)](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 | 2023-12-15 |  |

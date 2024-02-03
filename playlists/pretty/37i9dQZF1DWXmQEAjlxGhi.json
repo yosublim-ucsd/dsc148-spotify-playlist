@@ -1,12 +1,12 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1387325,
+  "num_followers": 1387218,
   "original_name": "Latin Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGM2MWFkZmE2MTE1ODJlNzNlZmVhYjJjMjQ4ZjEyMmU0MDAxOGYy",
+  "snapshot_id": "MCxlNzgzNTliOGZlMmYwZTEzZWQ1MTgwZmNiYWVkYzQ1OGZmMGNiYzVi",
   "tracks": [
     {
       "added_at": "2024-02-01 22:51:02",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-02-01 22:51:02",
       "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
-    },
-    {
-      "added_at": "2024-02-01 22:51:02",
-      "album": {
         "name": "Con Calma",
         "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 193226,
       "name": "Con Calma",
       "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
+    },
+    {
+      "added_at": "2024-02-01 22:51:02",
+      "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2024-02-01 22:51:02",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2024-02-01 22:51:02",
       "album": {
+        "name": "Gafas Negras",
+        "url": "https://open.spotify.com/album/3nfeL4QZ0GZfkJbr8FHyHn"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "Gafas Negras",
+      "url": "https://open.spotify.com/track/4s7hIsoRpnmaSvdETaIOSe"
+    },
+    {
+      "added_at": "2024-02-01 22:51:02",
+      "album": {
         "name": "DI LETRA",
         "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 148644,
       "name": "Hombres y Mujeres",
       "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
-    },
-    {
-      "added_at": "2024-02-01 22:51:02",
-      "album": {
-        "name": "Gafas Negras",
-        "url": "https://open.spotify.com/album/3nfeL4QZ0GZfkJbr8FHyHn"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "Gafas Negras",
-      "url": "https://open.spotify.com/track/4s7hIsoRpnmaSvdETaIOSe"
     },
     {
       "added_at": "2024-02-01 22:51:02",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2024-02-01 22:51:02",
       "album": {
-        "name": "Esta Vida",
-        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 209135,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
-    },
-    {
-      "added_at": "2024-02-01 22:51:02",
-      "album": {
         "name": "LACONE",
         "url": "https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2"
       },
@@ -1379,6 +1359,26 @@
     {
       "added_at": "2024-02-01 22:51:02",
       "album": {
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 209135,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
+    },
+    {
+      "added_at": "2024-02-01 22:51:02",
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -1391,26 +1391,6 @@
       "duration_ms": 109120,
       "name": "BIZCOCHITO",
       "url": "https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B"
-    },
-    {
-      "added_at": "2024-02-01 22:51:02",
-      "album": {
-        "name": "SABIDURIA",
-        "url": "https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        }
-      ],
-      "duration_ms": 173389,
-      "name": "Gogo Dance",
-      "url": "https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY"
     },
     {
       "added_at": "2024-02-01 22:51:02",
@@ -1431,6 +1411,26 @@
       "duration_ms": 161897,
       "name": "Cosas de la Peda (feat. Gabito Ballesteros)",
       "url": "https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc"
+    },
+    {
+      "added_at": "2024-02-01 22:51:02",
+      "album": {
+        "name": "SABIDURIA",
+        "url": "https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "duration_ms": 173389,
+      "name": "Gogo Dance",
+      "url": "https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY"
     },
     {
       "added_at": "2024-02-01 22:51:02",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2024-02-01 22:51:02",
       "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 246787,
+      "name": "Pa'lla Voy",
+      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
+    },
+    {
+      "added_at": "2024-02-01 22:51:02",
+      "album": {
         "name": "Wow Wow (feat. Becky G)",
         "url": "https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86"
       },
@@ -2239,22 +2255,6 @@
     {
       "added_at": "2024-02-01 22:51:02",
       "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 246787,
-      "name": "Pa'lla Voy",
-      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
-    },
-    {
-      "added_at": "2024-02-01 22:51:02",
-      "album": {
         "name": "Junio",
         "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
       },
@@ -2267,22 +2267,6 @@
       "duration_ms": 168601,
       "name": "Junio",
       "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
-    },
-    {
-      "added_at": "2024-02-01 22:51:02",
-      "album": {
-        "name": "BAIL\u00c9 CON MI EX",
-        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "BAIL\u00c9 CON MI EX",
-      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
     },
     {
       "added_at": "2024-02-01 22:51:02",
@@ -2315,6 +2299,22 @@
     {
       "added_at": "2024-02-01 22:51:02",
       "album": {
+        "name": "BAIL\u00c9 CON MI EX",
+        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "BAIL\u00c9 CON MI EX",
+      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
+    },
+    {
+      "added_at": "2024-02-01 22:51:02",
+      "album": {
         "name": "CALENT\u00d3N",
         "url": "https://open.spotify.com/album/3H1b3UUzaCAqLSvDzjowjB"
       },
@@ -2327,6 +2327,22 @@
       "duration_ms": 202967,
       "name": "CALENT\u00d3N",
       "url": "https://open.spotify.com/track/5dtNrI6WMGCTBbK8499242"
+    },
+    {
+      "added_at": "2024-02-01 22:51:02",
+      "album": {
+        "name": "Sensual Beb\u00e9",
+        "url": "https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 209146,
+      "name": "Sensual Beb\u00e9",
+      "url": "https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt"
     },
     {
       "added_at": "2024-02-01 22:51:02",
@@ -2347,22 +2363,6 @@
       "duration_ms": 221121,
       "name": "IMPOSIBLE - REMIX",
       "url": "https://open.spotify.com/track/5eaLGyPrVG7FbZ5vVnBm93"
-    },
-    {
-      "added_at": "2024-02-01 22:51:02",
-      "album": {
-        "name": "Sensual Beb\u00e9",
-        "url": "https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 209146,
-      "name": "Sensual Beb\u00e9",
-      "url": "https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt"
     },
     {
       "added_at": "2024-02-01 22:51:02",

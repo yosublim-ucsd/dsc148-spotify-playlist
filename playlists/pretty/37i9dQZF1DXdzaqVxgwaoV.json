@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica que enciende las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia.",
-  "num_followers": 110263,
+  "num_followers": 110257,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzdhZTg2M2NhNWZmYzJmZDVlM2IxYTMwNjY3NjAzMDU2M2E5ODVi",
+  "snapshot_id": "MCw3MzA5NGE2OWM2MmIxZTQ0OGUwNTg2ZDJkZTdhYjg3ODYxYjQ1MzM5",
   "tracks": [
     {
       "added_at": "2023-12-20 18:46:33",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Sin Medir Distancia",
-        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Era Mentira",
-      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "El Binomio De Oro",
         "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 182453,
       "name": "La creciente",
       "url": "https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Sin Medir Distancia",
+        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Era Mentira",
+      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Discos de Oro: Pastor L\u00f3pez y Su Combo Volume 3",
-        "url": "https://open.spotify.com/album/4f99jZmWiZEGRTlmBFfNgk"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez Y Su Combo",
-          "url": "https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Las Cale\u00f1as",
-      "url": "https://open.spotify.com/track/3ti0XBQOyhgSRI4Ulqj5As"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "17 \u00c9xitos",
         "url": "https://open.spotify.com/album/3TWu5whCfUMJbbzaNXqved"
       },
@@ -447,22 +431,34 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Billos Caracas Boys Fin de A\u00f1o",
-        "url": "https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R"
+        "name": "Discos de Oro: Pastor L\u00f3pez y Su Combo Volume 3",
+        "url": "https://open.spotify.com/album/4f99jZmWiZEGRTlmBFfNgk"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez Y Su Combo",
+          "url": "https://open.spotify.com/artist/1OaJc4r2SBZ7Iokg2Gkwde"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Las Cale\u00f1as",
+      "url": "https://open.spotify.com/track/3ti0XBQOyhgSRI4Ulqj5As"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Por Las Buenas",
+        "url": "https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1"
       },
       "artists": [
         {
           "name": "Billo's Caracas Boys",
           "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        },
-        {
-          "name": "Cheo Garcia",
-          "url": "https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR"
         }
       ],
-      "duration_ms": 171990,
-      "name": "A\u00f1o Nuevo",
-      "url": "https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb"
+      "duration_ms": 155538,
+      "name": "Por Las Buenas",
+      "url": "https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -627,18 +623,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Por Las Buenas",
-        "url": "https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1"
+        "name": "Billos Caracas Boys Fin de A\u00f1o",
+        "url": "https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R"
       },
       "artists": [
         {
           "name": "Billo's Caracas Boys",
           "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        },
+        {
+          "name": "Cheo Garcia",
+          "url": "https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR"
         }
       ],
-      "duration_ms": 155538,
-      "name": "Por Las Buenas",
-      "url": "https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj"
+      "duration_ms": 171990,
+      "name": "A\u00f1o Nuevo",
+      "url": "https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Mano A Mano",
-        "url": "https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys Vs. Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/65gL397VToxBjWk3kfPTpV"
-        }
-      ],
-      "duration_ms": 121893,
-      "name": "Apagame La Vela",
-      "url": "https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Greatest Cumbia Classics Of Colombia, Vol. 1",
         "url": "https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV"
       },
@@ -811,22 +795,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Felices Pascuas",
-        "url": "https://open.spotify.com/album/5ZfFl3nLmKSGdN3pKrVBQ6"
+        "name": "Mano A Mano",
+        "url": "https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr"
       },
       "artists": [
         {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
-        },
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+          "name": "Billo's Caracas Boys Vs. Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/65gL397VToxBjWk3kfPTpV"
         }
       ],
-      "duration_ms": 306760,
-      "name": "Bomba en Navidad",
-      "url": "https://open.spotify.com/track/2kIawdmEzVhR9F0Z8EsOns"
+      "duration_ms": 121893,
+      "name": "Apagame La Vela",
+      "url": "https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -847,6 +827,26 @@
       "duration_ms": 378373,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Felices Pascuas",
+        "url": "https://open.spotify.com/album/5ZfFl3nLmKSGdN3pKrVBQ6"
+      },
+      "artists": [
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 306760,
+      "name": "Bomba en Navidad",
+      "url": "https://open.spotify.com/track/2kIawdmEzVhR9F0Z8EsOns"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -919,58 +919,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 162298,
-      "name": "El Ron de Vinola",
-      "url": "https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
-        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "El Ausente",
-      "url": "https://open.spotify.com/track/4CO9UNnLewlBcthMau8Ipj"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Estrellas Corraleras - Fundadores de la Cumbia Colombiana",
-        "url": "https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99"
-      },
-      "artists": [
-        {
-          "name": "Los Corraleros De Majagual",
-          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
-        },
-        {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
-        }
-      ],
-      "duration_ms": 162826,
-      "name": "Los Sabanales",
-      "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "M\u00e1s Rom\u00e1nticos",
         "url": "https://open.spotify.com/album/7pG9FNDuH1ExtPjOGOJ7MK"
       },
@@ -987,6 +935,22 @@
       "duration_ms": 311213,
       "name": "La Due\u00f1a de Mi Suerte",
       "url": "https://open.spotify.com/track/6d2ZhAW3xzDwI5fDVbas02"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
+        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "El Ausente",
+      "url": "https://open.spotify.com/track/4CO9UNnLewlBcthMau8Ipj"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1011,18 +975,38 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "18 Exitos",
-        "url": "https://open.spotify.com/album/0sfbPBLonQ1r0neZUgyVsK"
+        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
       },
       "artists": [
         {
-          "name": "Hernan Hernandez",
-          "url": "https://open.spotify.com/artist/49UMX5QVC2PaTG6CNjLQDH"
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
         }
       ],
-      "duration_ms": 211882,
-      "name": "El Tren del Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1XDpISWlSZ8VR2sXE15sCQ"
+      "duration_ms": 162298,
+      "name": "El Ron de Vinola",
+      "url": "https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Estrellas Corraleras - Fundadores de la Cumbia Colombiana",
+        "url": "https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99"
+      },
+      "artists": [
+        {
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+        },
+        {
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+        }
+      ],
+      "duration_ms": 162826,
+      "name": "Los Sabanales",
+      "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "18 Exitos",
+        "url": "https://open.spotify.com/album/0sfbPBLonQ1r0neZUgyVsK"
+      },
+      "artists": [
+        {
+          "name": "Hernan Hernandez",
+          "url": "https://open.spotify.com/artist/49UMX5QVC2PaTG6CNjLQDH"
+        }
+      ],
+      "duration_ms": 211882,
+      "name": "El Tren del Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1XDpISWlSZ8VR2sXE15sCQ"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "16 Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/70JxU1qy1jYkh6EfSFDOv1"
       },
@@ -1059,22 +1059,6 @@
       "duration_ms": 173386,
       "name": "El Hijo Ausente",
       "url": "https://open.spotify.com/track/0MylXcqKagwOrtMNQDyj1B"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Super Buenonas de Parranda y el Gitano Groser\u00f3n",
-        "url": "https://open.spotify.com/album/2I4PIVfDOl7qTwbAKzEzdl"
-      },
-      "artists": [
-        {
-          "name": "Gildardo Montoya",
-          "url": "https://open.spotify.com/artist/3eyhtBUxcN1VopDo3UCUg6"
-        }
-      ],
-      "duration_ms": 162933,
-      "name": "El Arruinao",
-      "url": "https://open.spotify.com/track/2ECNhpxm22jpykDObxrfe1"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1115,22 +1099,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "El Mejor Int\u00e9rprete Tropical - 16 Exitos",
-        "url": "https://open.spotify.com/album/5Hix3j0dTfiiRIcgGBp7yD"
+        "name": "Super Buenonas de Parranda y el Gitano Groser\u00f3n",
+        "url": "https://open.spotify.com/album/2I4PIVfDOl7qTwbAKzEzdl"
       },
       "artists": [
         {
-          "name": "Armando Hernandez",
-          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
-        },
-        {
-          "name": "El Combo Caribe",
-          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
+          "name": "Gildardo Montoya",
+          "url": "https://open.spotify.com/artist/3eyhtBUxcN1VopDo3UCUg6"
         }
       ],
-      "duration_ms": 287146,
-      "name": "Loquito por Ti",
-      "url": "https://open.spotify.com/track/1pCNUXYpoEzI4eA38NgHcz"
+      "duration_ms": 162933,
+      "name": "El Arruinao",
+      "url": "https://open.spotify.com/track/2ECNhpxm22jpykDObxrfe1"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1151,6 +1131,26 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "El Mejor Int\u00e9rprete Tropical - 16 Exitos",
+        "url": "https://open.spotify.com/album/5Hix3j0dTfiiRIcgGBp7yD"
+      },
+      "artists": [
+        {
+          "name": "Armando Hernandez",
+          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
+        },
+        {
+          "name": "El Combo Caribe",
+          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
+        }
+      ],
+      "duration_ms": 287146,
+      "name": "Loquito por Ti",
+      "url": "https://open.spotify.com/track/1pCNUXYpoEzI4eA38NgHcz"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Como en un Baile",
         "url": "https://open.spotify.com/album/03DBkQ5y8LzsLfXj8zbKvo"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 364617,
       "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
       "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        }
+      ],
+      "duration_ms": 257642,
+      "name": "Muchacha Encantadora",
+      "url": "https://open.spotify.com/track/5KKPgPdbnERMiiQgFw4dJl"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Leyenda",
-        "url": "https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+          "name": "El Rey de los Diciembres",
+          "url": "https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y"
         }
       ],
-      "duration_ms": 257642,
-      "name": "Muchacha Encantadora",
-      "url": "https://open.spotify.com/track/5KKPgPdbnERMiiQgFw4dJl"
+      "duration_ms": 187144,
+      "name": "Adonay (Live)",
+      "url": "https://open.spotify.com/track/7ihWacHx8eKbglkhI7vikt"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1212,9 +1228,9 @@
           "url": "https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN"
         }
       ],
-      "duration_ms": 234293,
-      "name": "Confundido",
-      "url": "https://open.spotify.com/track/6rr0rn4s13gh6ZgfSlen9n"
+      "duration_ms": 273200,
+      "name": "Te Conquistar\u00e9",
+      "url": "https://open.spotify.com/track/7foHMi7PH6etn80ZS32Meq"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1235,18 +1251,34 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF"
       },
       "artists": [
         {
-          "name": "El Rey de los Diciembres",
-          "url": "https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         }
       ],
-      "duration_ms": 187144,
-      "name": "Adonay (Live)",
-      "url": "https://open.spotify.com/track/7ihWacHx8eKbglkhI7vikt"
+      "duration_ms": 241297,
+      "name": "Ceniza Fria",
+      "url": "https://open.spotify.com/track/2fxEsrGDk2ZcFxFUfmoolY"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
+        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 211133,
+      "name": "Sorbito De Champagne",
+      "url": "https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1283,34 +1315,34 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
-        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
+        "name": "Recuerdos Vol. 1",
+        "url": "https://open.spotify.com/album/7b4tYADHIVP4G5NSfMNP02"
       },
       "artists": [
         {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+          "name": "Richie Ray & Bobby Cruz",
+          "url": "https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq"
         }
       ],
-      "duration_ms": 211133,
-      "name": "Sorbito De Champagne",
-      "url": "https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42"
+      "duration_ms": 289733,
+      "name": "Los Fariseos",
+      "url": "https://open.spotify.com/track/56FnzYd9Ms90sKVCBZ3g1q"
     },
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Leyenda",
-        "url": "https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+          "name": "El Rey de los Diciembres",
+          "url": "https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y"
         }
       ],
-      "duration_ms": 241297,
-      "name": "Ceniza Fria",
-      "url": "https://open.spotify.com/track/2fxEsrGDk2ZcFxFUfmoolY"
+      "duration_ms": 220504,
+      "name": "Ojitos Hechiceros (Live)",
+      "url": "https://open.spotify.com/track/5ux1midcVSDCZCuOTlU5Uy"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1331,6 +1363,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/6lkHxEey00QbomsLj9h0Q3"
+      },
+      "artists": [
+        {
+          "name": "La Sabrosura",
+          "url": "https://open.spotify.com/artist/2W3ROz699xenrLLblfUq5i"
+        }
+      ],
+      "duration_ms": 285120,
+      "name": "Tu Amigo o Tu Amante",
+      "url": "https://open.spotify.com/track/2GgBL5RYZafPzqfHJjn4p6"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Esto Si Es Amor",
         "url": "https://open.spotify.com/album/2sEZ34KEWPujwcWlNwdwI0"
       },
@@ -1340,57 +1388,9 @@
           "url": "https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN"
         }
       ],
-      "duration_ms": 273200,
-      "name": "Te Conquistar\u00e9",
-      "url": "https://open.spotify.com/track/7foHMi7PH6etn80ZS32Meq"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Recuerdos Vol. 1",
-        "url": "https://open.spotify.com/album/7b4tYADHIVP4G5NSfMNP02"
-      },
-      "artists": [
-        {
-          "name": "Richie Ray & Bobby Cruz",
-          "url": "https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq"
-        }
-      ],
-      "duration_ms": 289733,
-      "name": "Los Fariseos",
-      "url": "https://open.spotify.com/track/56FnzYd9Ms90sKVCBZ3g1q"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "El Arenal",
-        "url": "https://open.spotify.com/album/11EOgFqgtSZwStG3ryasgR"
-      },
-      "artists": [
-        {
-          "name": "Super Combo Los Tropicales",
-          "url": "https://open.spotify.com/artist/7413EGw2gPpKWZoC32oQ2D"
-        }
-      ],
-      "duration_ms": 163761,
-      "name": "Caim\u00e1n Y Gallinazos",
-      "url": "https://open.spotify.com/track/45YxbUt9qwYzXZtMg3MrL8"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
-      },
-      "artists": [
-        {
-          "name": "El Rey de los Diciembres",
-          "url": "https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y"
-        }
-      ],
-      "duration_ms": 220504,
-      "name": "Ojitos Hechiceros (Live)",
-      "url": "https://open.spotify.com/track/5ux1midcVSDCZCuOTlU5Uy"
+      "duration_ms": 234293,
+      "name": "Confundido",
+      "url": "https://open.spotify.com/track/6rr0rn4s13gh6ZgfSlen9n"
     }
   ],
   "unique_name": "M\u00fasica Decembrina",

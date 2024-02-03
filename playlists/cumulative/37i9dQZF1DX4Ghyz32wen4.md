@@ -2,14 +2,14 @@
 
 ### [sentimiento.](https://open.spotify.com/playlist/37i9dQZF1DX4Ghyz32wen4)
 
-> Una selección de temas de amor y desamor, con mucho feeling\. María Becerra, Chencho Corleone y Ovy On The Drums en portada.
+> Una selección de temas de amor y desamor, con mucho feeling\. Rels B en portada.
 
-143 songs - 7 hr 39 min
+145 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [19 HORAS](https://open.spotify.com/track/0TQ7ZzUutFsbyWPehDLdkG) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [19 HORAS](https://open.spotify.com/album/0I8diZN920PZQawwNu2Iud) | 2:54 | 2023-03-10 |  |
-| [</3](https://open.spotify.com/track/1yzYIMbZkBKcTEBuveW0fX) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [:\( EP](https://open.spotify.com/album/4RR4nrldxJkqfcPJTPxm75) | 3:32 | 2023-11-10 |  |
+| [</3](https://open.spotify.com/track/1yzYIMbZkBKcTEBuveW0fX) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [:\( EP](https://open.spotify.com/album/4RR4nrldxJkqfcPJTPxm75) | 3:32 | 2023-11-10 | 2024-02-03 |
 | [</3](https://open.spotify.com/track/3zJelOfPDV2RG1VGrt6zF7) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [:\( EP](https://open.spotify.com/album/5acfrPOtHQxBSS7WUGl2hV) | 3:32 | 2022-04-25 | 2023-12-14 |
 | [A Mí](https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO) | 3:29 | 2022-04-25 |  |
 | [Algo Mágico](https://open.spotify.com/track/7D93pJcwymzaZx8WgBo2zG) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 4:21 | 2022-04-25 |  |
@@ -61,6 +61,7 @@
 | [Gracias](https://open.spotify.com/track/1aIJvWbKGJYzGqE1Y2Q1N6) | [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Gracias](https://open.spotify.com/album/6faJS4UNFHTcJ1LkPPuGbL) | 2:46 | 2023-09-04 | 2023-09-09 |
 | [GRACIAS POR NADA](https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GRACIAS POR NADA](https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr) | 3:39 | 2022-04-25 |  |
 | [Hablando De Love](https://open.spotify.com/track/74aGIoQo8pokxzylUTw603) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hablando De Love](https://open.spotify.com/album/45Uc1E3MBmk84QvHES0Zn5) | 2:36 | 2022-04-25 |  |
+| [Hora y Cuarto](https://open.spotify.com/track/0FBxeN2bXaWtKBnCEibsYk) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [Hora y Cuarto](https://open.spotify.com/album/1xUIdCd4oUAi4RfRCiEDSS) | 2:57 | 2024-02-02 |  |
 | [Házmelo](https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Házmelo](https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky) | 2:54 | 2022-04-25 |  |
 | [La Faca](https://open.spotify.com/track/1JpecUG8sPntakN0orOpgN) | [Ángel Strife](https://open.spotify.com/artist/3Lse4fAlOchY8msotsYMA6), [Carol Villagrán](https://open.spotify.com/artist/2t97Z9KUuhtctWUlsmrt4Q) | [La Faca \(Feat\. Carol Villagrán\)](https://open.spotify.com/album/66A465PEibTC3MjkOI4Nvw) | 3:18 | 2022-04-25 | 2023-12-16 |
 | [LA MEMORIA](https://open.spotify.com/track/3JntXMPlPPrr9mEeIcwsWO) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US+](https://open.spotify.com/album/6TtJmwgLMiPLePBuso4vay) | 3:17 | 2022-04-25 | 2023-07-22 |
@@ -83,6 +84,7 @@
 | [Nadie Más](https://open.spotify.com/track/0BvzoZ5Ybl1Rq9MFWiJWZp) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Nadie Más](https://open.spotify.com/album/1AW4bjxaKeBCT2eYCqHy0d) | 3:23 | 2022-07-23 |  |
 | [Nadie más](https://open.spotify.com/track/6HkbUFn3tdjubNlDacokMx) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Nadie más](https://open.spotify.com/album/11jo3NbufxnUqsoY4eG77m) | 3:07 | 2022-04-25 |  |
 | [Nadie Más](https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:35 | 2022-07-23 |  |
+| [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 | 2024-02-02 |  |
 | [NI VIVO NI MUERTO](https://open.spotify.com/track/5icFOuhDm1Fp0L2J216Weo) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 4:01 | 2022-04-25 |  |
 | [Niña Bonita](https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Niña Bonita](https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB) | 3:07 | 2023-04-21 |  |
 | [No Eres Tú](https://open.spotify.com/track/3vd1rLbxCxDTGbxazgW91I) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [No Eres Tú](https://open.spotify.com/album/5vi7SsbnspDHTMthxaVQh4) | 3:02 | 2022-04-25 |  |
@@ -144,7 +146,7 @@
 | [Un Beso Más](https://open.spotify.com/track/2jZYhg9J0Oaupnqv9BcBlZ) | [Laranda](https://open.spotify.com/artist/7bE5OUC0Qr3LgqXBjvZPLO) | [Un Beso Más](https://open.spotify.com/album/79aNv7GinziKqhd89hgsQz) | 2:52 | 2022-04-25 |  |
 | [UNDOSTRES](https://open.spotify.com/track/3U0DLCsgve2tFyrVNJJ21U) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [UNDOSTRES](https://open.spotify.com/album/0uinxnauQiaTu8QySpjkrC) | 3:28 | 2022-04-25 |  |
 | [Verte](https://open.spotify.com/track/58eWb1SrncuILvCQgSrQPl) | [Juan Fe Pulido](https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Verte](https://open.spotify.com/album/0lR6GCdnyfY3kela8SCWdS) | 3:35 | 2022-04-25 |  |
-| [Volando a Ti](https://open.spotify.com/track/1O65SV67NMFiQDzM33tyGk) | [Jezreel](https://open.spotify.com/artist/7iGFvtUk5Aq6Tb5GVisMvx) | [Volando a Ti](https://open.spotify.com/album/3BPKMfndun4bLRrRRo3NBl) | 4:18 | 2022-04-25 |  |
+| [Volando a Ti](https://open.spotify.com/track/1O65SV67NMFiQDzM33tyGk) | [Jezreel](https://open.spotify.com/artist/7iGFvtUk5Aq6Tb5GVisMvx) | [Volando a Ti](https://open.spotify.com/album/3BPKMfndun4bLRrRRo3NBl) | 4:18 | 2022-04-25 | 2024-02-03 |
 | [Volvernos a Amar](https://open.spotify.com/track/1gtYYvvXluyVxS6HNXefco) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Volvernos a Amar](https://open.spotify.com/album/1Rr0AMdbX6fBn19rKrxo60) | 3:09 | 2023-02-10 | 2023-07-22 |
 | [Vuelves A Llamar](https://open.spotify.com/track/6FBG0d4cNJUqp0JpXAf0S8) | [PPMARI](https://open.spotify.com/artist/6FA353e9NUHzoa0z1r9bbq), [Jozue](https://open.spotify.com/artist/4xfZnRMSGaNr3zZ9VG4oGG), [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR) | [Vuelves A Llamar](https://open.spotify.com/album/4RObhJeSMtfft3ALBO4Pwg) | 3:19 | 2023-04-07 | 2023-09-23 |
 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 | 2023-06-09 |  |

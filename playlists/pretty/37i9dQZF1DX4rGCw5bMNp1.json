@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 136580,
+  "num_followers": 136627,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGRlNDZkNzJiYTliYTE5ZTFhODdiZjMwMmQwMjc2YTVjOWQ3OWVh",
+  "snapshot_id": "MCw1MWEyODgwNjQ4Yzg2NDA3YjVmMTgwMjcwOTNiNzU2OGQwZTQxN2U1",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
     },
     {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
-        "name": "Masters Of Modern Blues",
-        "url": "https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O"
-      },
-      "artists": [
-        {
-          "name": "Floyd Jones",
-          "url": "https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Dark Road",
-      "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
-    },
-    {
       "added_at": "2018-02-27 18:08:29",
       "album": {
         "name": "Hot Wire 81 (feat. Richard Kirch, Sylvester Boines, Jimmy Schutte) [Blues Power]",
@@ -455,6 +439,22 @@
       "duration_ms": 437573,
       "name": "Kold Actions",
       "url": "https://open.spotify.com/track/0VQqkF65MjElD99dsky0hi"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "Masters Of Modern Blues",
+        "url": "https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O"
+      },
+      "artists": [
+        {
+          "name": "Floyd Jones",
+          "url": "https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Dark Road",
+      "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -523,22 +523,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "West Side Strut",
-        "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
-      },
-      "artists": [
-        {
-          "name": "Eddy Clearwater",
-          "url": "https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS"
-        }
-      ],
-      "duration_ms": 280440,
-      "name": "Gotta Move On",
-      "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "They call me the snake",
         "url": "https://open.spotify.com/album/6iWOfKBUyJjqc0kAx20DuU"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 337600,
       "name": "They call me the snake",
       "url": "https://open.spotify.com/track/7lbC5pd1ahrDiIf9gLUhxx"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "West Side Strut",
+        "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
+      },
+      "artists": [
+        {
+          "name": "Eddy Clearwater",
+          "url": "https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS"
+        }
+      ],
+      "duration_ms": 280440,
+      "name": "Gotta Move On",
+      "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
     },
     {
       "added_at": "2018-02-27 18:08:29",

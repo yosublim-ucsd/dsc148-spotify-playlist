@@ -4,7 +4,7 @@
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-294 songs - 18 hr 38 min
+295 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2023-08-08 |  |
 | [Feathers](https://open.spotify.com/track/4r6Njn1o84F1BuIG67wZVb) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Feathers](https://open.spotify.com/album/0YjVz2eN5Bawz8c8Dx1b99) | 4:31 | 2023-09-28 |  |
 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 | 2022-09-23 |  |
-| [First Class](https://open.spotify.com/track/6oOFa5QkmIUzgS0ikbgJqK) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/05WJ8XAD4QWV6mrM5NoguG) | 5:43 | 2023-08-08 |  |
+| [First Class](https://open.spotify.com/track/0uQxV7ysuBPhbfUkW1WOCp) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/5krQbJqzCCOxCGOQ3W8Tr6) | 5:43 | 2023-09-21 |  |
+| [First Class](https://open.spotify.com/track/6oOFa5QkmIUzgS0ikbgJqK) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/05WJ8XAD4QWV6mrM5NoguG) | 5:43 | 2023-08-08 | 2024-02-03 |
 | [Fisher Island Sound](https://open.spotify.com/track/5F16DqcQbTuBTpzKjt5LCO) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Fisher Island Sound](https://open.spotify.com/album/7m9fOQhCj0noSv92E2XT9s) | 2:44 | 2021-12-03 | 2022-09-17 |
 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 | 2021-12-03 | 2022-08-16 |
 | [Follaton Wood](https://open.spotify.com/track/1bVlFkO4UyfNYWurqCghT7) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Old Pine E.P.](https://open.spotify.com/album/0k58WX5uI2CNJ0BlH1cKXA) | 4:49 | 2021-12-03 | 2022-08-27 |

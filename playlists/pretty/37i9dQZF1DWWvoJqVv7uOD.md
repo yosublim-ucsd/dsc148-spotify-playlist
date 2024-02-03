@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,540 likes - 88 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,745 likes - 88 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 | 56 | [Twice](https://open.spotify.com/track/2UHnJzIiyNqPTufzxHdTQx) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 2:22 |
 | 57 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 |
 | 58 | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/track/56arqTWhgLtut9Ii9r3CiL) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/album/5fFkNwu56uYC6CB7Td6Rns) | 2:36 |
-| 59 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
+| 59 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
 | 60 | [Guilt Trip](https://open.spotify.com/track/4HJVEuX0FP2BbRM9NbEBUC) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Guilt Trip](https://open.spotify.com/album/6tm4o7aC0NDNsdADWRT0N7) | 3:09 |
 | 61 | [Galileo Galilei](https://open.spotify.com/track/3Ox5iyqF3SeTC2bqOA9V9u) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0) | 3:19 |
 | 62 | [Before You](https://open.spotify.com/track/5WqkT4vHzLRsVvKCKUd8Pv) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 2:57 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 | 87 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
 | 88 | [Kissing Strangers](https://open.spotify.com/track/0HDT8RYiXpvc5G1u3RG9vL) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Kissing Strangers](https://open.spotify.com/album/1DYhbM9VgjsIRigZLF5iLe) | 2:27 |
 
-Snapshot ID: `MCwxZDIyNWVjZTNmM2VhZWQyYjViNWZlNDkxOWIwMjA1MTdlNzMxNWVh`
+Snapshot ID: `MCwyNWFhMjE4NDlkMzg4OWUwZWQyMjNmZGU2YjNjNzNmZGQ4NmE2NDc2`

@@ -1,12 +1,12 @@
 {
   "description": "Who order Azul?",
-  "num_followers": 3074,
+  "num_followers": 3085,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDAxNTEzZWM1NmIxMzU4YWU5NmQ2OWU4ZWRhMTYyMDJmNDQwZmEw",
+  "snapshot_id": "MCxmZWM2NGQxZDI3ODAwNmNlMmZhOWE3NTUxZDMzYTFhMzlmMDA3Mzk2",
   "tracks": [
     {
       "added_at": "2023-12-08 08:55:17",
@@ -951,66 +951,6 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Wiase (Y3d3 Remix)",
-        "url": "https://open.spotify.com/album/5iKIckXV57WUQ3LC6Ejd5x"
-      },
-      "artists": [
-        {
-          "name": "Quamina Mp",
-          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "Yung C",
-          "url": "https://open.spotify.com/artist/4AmyHrK5ftoTr4qYrFGTlW"
-        }
-      ],
-      "duration_ms": 276401,
-      "name": "Wiase (Y3d3 Remix)",
-      "url": "https://open.spotify.com/track/4eGieXDwiQ1RL980VAcQ5p"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Omo Ada (Dem Sleep)",
-        "url": "https://open.spotify.com/album/16m64JfCcW9cgPVXsIkM1f"
-      },
-      "artists": [
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Omo Ada (Dem Sleep)",
-      "url": "https://open.spotify.com/track/5Bj2UfTbE1NI3ZSpYl8Wbh"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Don't Keep Me Waiting",
-        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 227864,
-      "name": "Don't Keep Me Waiting",
-      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
         "name": "AKWAABA",
         "url": "https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj"
       },
@@ -1035,6 +975,66 @@
       "duration_ms": 206829,
       "name": "AKWAABA",
       "url": "https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Wiase (Y3d3 Remix)",
+        "url": "https://open.spotify.com/album/5iKIckXV57WUQ3LC6Ejd5x"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Yung C",
+          "url": "https://open.spotify.com/artist/4AmyHrK5ftoTr4qYrFGTlW"
+        }
+      ],
+      "duration_ms": 276401,
+      "name": "Wiase (Y3d3 Remix)",
+      "url": "https://open.spotify.com/track/4eGieXDwiQ1RL980VAcQ5p"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Don't Keep Me Waiting",
+        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 227864,
+      "name": "Don't Keep Me Waiting",
+      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Omo Ada (Dem Sleep)",
+        "url": "https://open.spotify.com/album/16m64JfCcW9cgPVXsIkM1f"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Omo Ada (Dem Sleep)",
+      "url": "https://open.spotify.com/track/5Bj2UfTbE1NI3ZSpYl8Wbh"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Grind",
+        "url": "https://open.spotify.com/album/59IqtbSMonpFQaM1WngQig"
+      },
+      "artists": [
+        {
+          "name": "Ayisi",
+          "url": "https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU"
+        }
+      ],
+      "duration_ms": 227134,
+      "name": "Grind",
+      "url": "https://open.spotify.com/track/2wN5MOqC1C9UeUjw4Z4DPo"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Amanfuor Girls",
         "url": "https://open.spotify.com/album/1NU6M9KwNpddbZGa1xqlBi"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 240157,
       "name": "Too Risky (feat. Sister Deborah)",
       "url": "https://open.spotify.com/track/6yksWuhZ3s7KH7sfZp50x4"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Grind",
-        "url": "https://open.spotify.com/album/59IqtbSMonpFQaM1WngQig"
-      },
-      "artists": [
-        {
-          "name": "Ayisi",
-          "url": "https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU"
-        }
-      ],
-      "duration_ms": 227134,
-      "name": "Grind",
-      "url": "https://open.spotify.com/track/2wN5MOqC1C9UeUjw4Z4DPo"
     },
     {
       "added_at": "2023-12-08 08:55:17",

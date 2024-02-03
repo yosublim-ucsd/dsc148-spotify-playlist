@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 326478,
+  "num_followers": 326871,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmIxNGIzYjNiYzczNTRhMTdjMzNjMDU1OWYyZGFkZjEzN2IwMmM5",
+  "snapshot_id": "MCwyYmY1NmRlZTM3ZWI1YTQyYTc5YWFlZjljYWNiNjFhYmE5ZWFhMmMz",
   "tracks": [
     {
       "added_at": "2024-01-29 16:20:38",
@@ -403,6 +403,26 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
+        "name": "V.A.N",
+        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 274098,
+      "name": "V.A.N",
+      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
         "name": "Rammstein",
         "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 219575,
       "name": "Seeing Red",
       "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
-        "name": "V.A.N",
-        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        },
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 274098,
-      "name": "V.A.N",
-      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+        "name": "on the verge",
+        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
         }
       ],
-      "duration_ms": 262631,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+      "duration_ms": 134400,
+      "name": "on the verge",
+      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "on the verge",
-        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
       },
       "artists": [
         {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 134400,
-      "name": "on the verge",
-      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "Meliora (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+        "name": "Wisconsin Death Trip",
+        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
       "artists": [
         {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 239293,
-      "name": "Square Hammer",
-      "url": "https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70"
+      "duration_ms": 154906,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "Wisconsin Death Trip",
-        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
       },
       "artists": [
         {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 154906,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
+      "duration_ms": 239293,
+      "name": "Square Hammer",
+      "url": "https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "Piece of Mind (2015 Remaster)",
-        "url": "https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "The Trooper (2015 Remaster)",
-      "url": "https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
         "name": "Mutter",
         "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 188600,
       "name": "Feuer frei!",
       "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "The Trooper (2015 Remaster)",
+      "url": "https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "Got Your Six",
-        "url": "https://open.spotify.com/album/77OD5Mo3PzbEsi3ySuOGb0"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 225705,
-      "name": "Wash It All Away",
-      "url": "https://open.spotify.com/track/5k0KjsgX1ETIAQWVBRHzq3"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 202158,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/77OD5Mo3PzbEsi3ySuOGb0"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 225705,
+      "name": "Wash It All Away",
+      "url": "https://open.spotify.com/track/5k0KjsgX1ETIAQWVBRHzq3"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "From Hell With Love",
-        "url": "https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr"
-      },
-      "artists": [
-        {
-          "name": "Beast In Black",
-          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
-        }
-      ],
-      "duration_ms": 206563,
-      "name": "Sweet True Lies",
-      "url": "https://open.spotify.com/track/2cyJkqB2OYHwWWvKGtrJ0r"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
         "name": "Blessed & Possessed",
         "url": "https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
+        "name": "From Hell With Love",
+        "url": "https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr"
+      },
+      "artists": [
+        {
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
+        }
+      ],
+      "duration_ms": 206563,
+      "name": "Sweet True Lies",
+      "url": "https://open.spotify.com/track/2cyJkqB2OYHwWWvKGtrJ0r"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
         "name": "Fatalism",
         "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 268269,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 253317,
+      "name": "My Own Grave",
+      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -1135,22 +1151,6 @@
       "duration_ms": 254613,
       "name": "You Want a Battle? (Here's a War)",
       "url": "https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 253317,
-      "name": "My Own Grave",
-      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
+        "name": "Sleepless Deathbed",
+        "url": "https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ"
+      },
+      "artists": [
+        {
+          "name": "Invent Animate",
+          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Sleepless Deathbed",
+      "url": "https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
         "name": "Silence in the Snow (Special Edition)",
         "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
       },
@@ -1531,18 +1547,18 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "Sleepless Deathbed",
-        "url": "https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ"
+        "name": "Gravity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
       },
       "artists": [
         {
-          "name": "Invent Animate",
-          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Sleepless Deathbed",
-      "url": "https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC"
+      "duration_ms": 223653,
+      "name": "Letting You Go",
+      "url": "https://open.spotify.com/track/4h7Sc2UWOxz07UmQ60kQNQ"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -1559,22 +1575,6 @@
       "duration_ms": 197653,
       "name": "Digital World",
       "url": "https://open.spotify.com/track/49LqVZtGnVkRNgT4ymmq9j"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
-        "name": "Gravity (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 223653,
-      "name": "Letting You Go",
-      "url": "https://open.spotify.com/track/4h7Sc2UWOxz07UmQ60kQNQ"
     },
     {
       "added_at": "2024-01-29 16:20:38",

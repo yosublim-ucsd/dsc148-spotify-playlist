@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-410 songs - 22 hr 10 min
+411 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [The Horizon \(With You\)](https://open.spotify.com/track/0TO3DquQQvJDchx14UOKBF) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [The Horizon \(With You\)](https://open.spotify.com/album/4GO1A8lXlVrAqy0It5up3Q) | 3:07 | 2023-08-31 | 2024-01-06 |
 | [The Pace \- niina Remix](https://open.spotify.com/track/4yI1ZlRHKK5oUkcbdunYpJ) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18), [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [Guiding Hand Remixes](https://open.spotify.com/album/7C0IjpdbCnfygW5Kp7mZQn) | 3:43 | 2023-12-08 |  |
 | [the search](https://open.spotify.com/track/6YGQnwuKcbKIMkDwjwLBWA) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [the search](https://open.spotify.com/album/1s1PoYSfV17Cu2Ee1qvbG1) | 3:07 | 2023-12-14 | 2024-01-06 |
+| [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 | 2024-02-01 |  |
 | [The Way It Goes](https://open.spotify.com/track/2xAESeNiNvdIELcUJO5Wre) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [The Way It Goes](https://open.spotify.com/album/5dDNHYyo4OBkyKEJAHkrlA) | 3:04 | 2023-12-08 | 2024-01-25 |
 | [The Way It Goes](https://open.spotify.com/track/5aSo90L5qKIwdTDBO1YWJ2) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [The Way It Goes](https://open.spotify.com/album/1kQlSA0X2r5RRa4WPTGjdw) | 3:04 | 2023-12-21 |  |
 | [then i run :/](https://open.spotify.com/track/5EYKxUeaetAdCefb5UV6JK) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [then i run :/](https://open.spotify.com/album/3iAokiWChaHbgOzMil9WUm) | 3:15 | 2023-08-03 | 2024-01-06 |

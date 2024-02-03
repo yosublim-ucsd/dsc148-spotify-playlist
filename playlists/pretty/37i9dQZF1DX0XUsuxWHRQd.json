@@ -1,15 +1,31 @@
 {
-  "description": "Music from Drake, 21 Savage, Kid Cudi and Travis Scott. ",
-  "num_followers": 15626092,
+  "description": "New music from Don Toliver and YNW Melly.",
+  "num_followers": 15626135,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2Y5YjUzZTY0MzUxNGI2NjZjNmIyMDQwZWI4MmRmYTZkZDEyZDBi",
+  "snapshot_id": "MCxlOTBhMTA4ODA5ZjZkMWYzNzRlYWQ1MGMzMDYwZmJkOTlhMzNkOGQz",
   "tracks": [
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
+      "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 147746,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+    },
+    {
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
@@ -69,7 +85,7 @@
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "Glockoma 2 (Deluxe)",
         "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
@@ -85,7 +101,87 @@
       "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 198292,
+      "name": "all of me",
+      "url": "https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3"
+    },
+    {
+      "added_at": "2024-02-03 00:33:17",
+      "album": {
+        "name": "772 Love Pt. 3 (Your Love)",
+        "url": "https://open.spotify.com/album/3iHCxu9aeXcaqa65jpYWAa"
+      },
+      "artists": [
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        },
+        {
+          "name": "YNW BSlime",
+          "url": "https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu"
+        },
+        {
+          "name": "Ynw4L",
+          "url": "https://open.spotify.com/artist/2dJ7qCfsYlwiI1vDpImybL"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "772 Love Pt. 3 (Your Love)",
+      "url": "https://open.spotify.com/track/1MscIf89IpZW9N9SUtBpsE"
+    },
+    {
+      "added_at": "2024-02-03 00:33:17",
+      "album": {
+        "name": "INSANO",
+        "url": "https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 215240,
+      "name": "GET OFF ME (with Travis Scott)",
+      "url": "https://open.spotify.com/track/2Adxpr1j5lSihOCsmIfflJ"
+    },
+    {
+      "added_at": "2024-02-03 00:33:17",
+      "album": {
+        "name": "Tee's Coney Island",
+        "url": "https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 151182,
+      "name": "Loop Hole (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/5gzEL5O1ubbtIHUhLkSMTz"
+    },
+    {
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
@@ -109,95 +205,23 @@
       "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
-        "name": "Tee's Coney Island",
-        "url": "https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP"
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
       },
       "artists": [
         {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 151182,
-      "name": "Loop Hole (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/5gzEL5O1ubbtIHUhLkSMTz"
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
-      "album": {
-        "name": "INSANO",
-        "url": "https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 215240,
-      "name": "GET OFF ME (with Travis Scott)",
-      "url": "https://open.spotify.com/track/2Adxpr1j5lSihOCsmIfflJ"
-    },
-    {
-      "added_at": "2024-01-30 21:47:20",
-      "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 198292,
-      "name": "all of me",
-      "url": "https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3"
-    },
-    {
-      "added_at": "2024-01-30 21:47:20",
-      "album": {
-        "name": "Mmhmm",
-        "url": "https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 119015,
-      "name": "Mmhmm",
-      "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
-    },
-    {
-      "added_at": "2024-02-01 05:00:00",
-      "album": {
-        "name": "Kamikaze",
-        "url": "https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb"
-      },
-      "artists": [
-        {
-          "name": "Twista",
-          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Overnight Celebrity",
-      "url": "https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj"
-    },
-    {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "lottery pick",
         "url": "https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw"
@@ -213,7 +237,23 @@
       "url": "https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
+      "album": {
+        "name": "Mmhmm",
+        "url": "https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 119015,
+      "name": "Mmhmm",
+      "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
+    },
+    {
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
@@ -233,7 +273,7 @@
       "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "Never Lose Me",
         "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
@@ -249,23 +289,23 @@
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
-        "name": "HISS",
-        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 192818,
-      "name": "HISS",
-      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
+      "duration_ms": 172137,
+      "name": "FTCU",
+      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -285,43 +325,39 @@
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
-        "name": "Ghetto Fabulous",
-        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
+        "name": "Free Me",
+        "url": "https://open.spotify.com/album/0qa9bbSW0zI1yXocm1g4AP"
       },
       "artists": [
         {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
         }
       ],
-      "duration_ms": 121399,
-      "name": "ONE CALL",
-      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+      "duration_ms": 190592,
+      "name": "Free Me",
+      "url": "https://open.spotify.com/track/32b06ZO97e3B1XmAiSzzBw"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
-        "name": "THE BIGGEST",
-        "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
       "artists": [
         {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 170106,
-      "name": "Climate (feat. Offset)",
-      "url": "https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x"
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "Cottonwood 2 (Deluxe 2.0)",
         "url": "https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ"
@@ -341,23 +377,7 @@
       "url": "https://open.spotify.com/track/3ScMs95OaNlkrZuRe7gyYa"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
-      "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
-    },
-    {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "Bent",
         "url": "https://open.spotify.com/album/1lzWtPTZrL3ZE1oagDJgvL"
@@ -385,59 +405,23 @@
       "url": "https://open.spotify.com/track/6ulEymrJ2Azx1uo3YHSE5w"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
-        "name": "Shotta Flow 7",
-        "url": "https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d"
+        "name": "Ghetto Fabulous",
+        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
       },
       "artists": [
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
         }
       ],
-      "duration_ms": 165433,
-      "name": "Shotta Flow 7",
-      "url": "https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa"
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
-      "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "FTCU",
-      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
-    },
-    {
-      "added_at": "2024-01-30 21:47:20",
-      "album": {
-        "name": "RNS",
-        "url": "https://open.spotify.com/album/7CRZBxNtX0t4bD3w5zQY78"
-      },
-      "artists": [
-        {
-          "name": "ATL Jacob",
-          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 138856,
-      "name": "RNS",
-      "url": "https://open.spotify.com/track/4b8zFITxLmN0rIbhuj5wub"
-    },
-    {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "Think U The Shit (Fart)",
         "url": "https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO"
@@ -453,7 +437,7 @@
       "url": "https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "HVN ON EARTH",
         "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
@@ -473,7 +457,27 @@
       "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
+      "album": {
+        "name": "THE BIGGEST",
+        "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "Climate (feat. Offset)",
+      "url": "https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x"
+    },
+    {
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -497,63 +501,7 @@
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
-      "album": {
-        "name": "Bachelor",
-        "url": "https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk"
-      },
-      "artists": [
-        {
-          "name": "Turbo",
-          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "Bachelor",
-      "url": "https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y"
-    },
-    {
-      "added_at": "2024-01-30 21:47:20",
-      "album": {
-        "name": "Big Dog",
-        "url": "https://open.spotify.com/album/5N1Y4h6H1fiS7tIL0fPivM"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Big Dog (with Lil Wayne)",
-      "url": "https://open.spotify.com/track/4EKfEZ89t2DzU41RbsyFC6"
-    },
-    {
-      "added_at": "2024-01-30 21:47:20",
-      "album": {
-        "name": "Red Moon",
-        "url": "https://open.spotify.com/album/1Qps54HR7OJ8GJsmoRl6ob"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 171827,
-      "name": "Red Moon",
-      "url": "https://open.spotify.com/track/6odqveUIgvpWWvtANLcZpH"
-    },
-    {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -569,23 +517,35 @@
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
-        "name": "500lbs",
-        "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
+        "name": "All Is Yellow",
+        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
       },
       "artists": [
         {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Lil Skies",
+          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
         }
       ],
-      "duration_ms": 144390,
-      "name": "500lbs",
-      "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
+      "duration_ms": 169014,
+      "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
+      "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/5kj4uRtKgpR9PKnQaMYqZU"
@@ -601,7 +561,7 @@
       "url": "https://open.spotify.com/track/73f5rpLgydSRIvHzRLcJFF"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
@@ -621,31 +581,43 @@
       "url": "https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
-        "name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
-        "url": "https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF"
+        "name": "500lbs",
+        "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "BabyDrill",
-          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 199547,
-      "name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
-      "url": "https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck"
+      "duration_ms": 144390,
+      "name": "500lbs",
+      "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
+      "album": {
+        "name": "Bachelor",
+        "url": "https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk"
+      },
+      "artists": [
+        {
+          "name": "Turbo",
+          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 241533,
+      "name": "Bachelor",
+      "url": "https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y"
+    },
+    {
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
@@ -665,7 +637,7 @@
       "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "Glizock & Wizop (feat. Key Glock)",
         "url": "https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj"
@@ -685,27 +657,43 @@
       "url": "https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+        "name": "Long Story Short",
+        "url": "https://open.spotify.com/album/5Nzk5vGBrgjl9Ll8vk8m2q"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         },
         {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+      "duration_ms": 210338,
+      "name": "Long Story Short (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/2jmdxJ60YfV3fVemuLz7pD"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
+      "album": {
+        "name": "Down With Me",
+        "url": "https://open.spotify.com/album/6qXPKqlxpKnDqYYrFDKnsx"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 120034,
+      "name": "Down With Me",
+      "url": "https://open.spotify.com/track/5ZDIwpR2JMwuRM8xumtmxn"
+    },
+    {
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/4gCmNrnuUeWSj06B2gdsFc"
@@ -729,27 +717,63 @@
       "url": "https://open.spotify.com/track/0VJXWgw0GWsprapvlpbuyu"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
-        "name": "Long Story Short",
-        "url": "https://open.spotify.com/album/5Nzk5vGBrgjl9Ll8vk8m2q"
+        "name": "Shotta Flow 7",
+        "url": "https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d"
       },
       "artists": [
         {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         }
       ],
-      "duration_ms": 210338,
-      "name": "Long Story Short (with Lil Wayne)",
-      "url": "https://open.spotify.com/track/2jmdxJ60YfV3fVemuLz7pD"
+      "duration_ms": 165433,
+      "name": "Shotta Flow 7",
+      "url": "https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
+      "album": {
+        "name": "RNS",
+        "url": "https://open.spotify.com/album/7CRZBxNtX0t4bD3w5zQY78"
+      },
+      "artists": [
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 138856,
+      "name": "RNS",
+      "url": "https://open.spotify.com/track/4b8zFITxLmN0rIbhuj5wub"
+    },
+    {
+      "added_at": "2024-02-03 00:33:17",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
@@ -769,75 +793,7 @@
       "url": "https://open.spotify.com/track/6Qc90FMwNUjJ2M893RdYUg"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
-      "album": {
-        "name": "Down With Me",
-        "url": "https://open.spotify.com/album/6qXPKqlxpKnDqYYrFDKnsx"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 120034,
-      "name": "Down With Me",
-      "url": "https://open.spotify.com/track/5ZDIwpR2JMwuRM8xumtmxn"
-    },
-    {
-      "added_at": "2024-01-30 21:47:20",
-      "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 180869,
-      "name": "Everybody (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
-    },
-    {
-      "added_at": "2024-01-30 21:47:20",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 146751,
-      "name": "Great Gatsby",
-      "url": "https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS"
-    },
-    {
-      "added_at": "2024-01-30 21:47:20",
-      "album": {
-        "name": "When I Was Dead",
-        "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 165765,
-      "name": "Lemme See",
-      "url": "https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1"
-    },
-    {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "Presha",
         "url": "https://open.spotify.com/album/2tnjYrSajrt2nlv2Acf1DP"
@@ -857,7 +813,59 @@
       "url": "https://open.spotify.com/track/6N7TGPYfGP2oxiy9Cpaz9G"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 180869,
+      "name": "Everybody (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
+    },
+    {
+      "added_at": "2024-02-03 00:33:17",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 146751,
+      "name": "Great Gatsby",
+      "url": "https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS"
+    },
+    {
+      "added_at": "2024-02-03 00:33:17",
+      "album": {
+        "name": "When I Was Dead",
+        "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 165765,
+      "name": "Lemme See",
+      "url": "https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1"
+    },
+    {
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/5kj4uRtKgpR9PKnQaMYqZU"
@@ -873,7 +881,7 @@
       "url": "https://open.spotify.com/track/42TFM7pxF8mRUJTWJdGMeS"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "Baller",
         "url": "https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs"
@@ -889,7 +897,7 @@
       "url": "https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "Lace It (with Eminem & benny blanco)",
         "url": "https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt"
@@ -913,7 +921,23 @@
       "url": "https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP"
     },
     {
-      "added_at": "2024-01-30 21:47:20",
+      "added_at": "2024-02-03 00:33:17",
+      "album": {
+        "name": "Red Moon",
+        "url": "https://open.spotify.com/album/1Qps54HR7OJ8GJsmoRl6ob"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 171827,
+      "name": "Red Moon",
+      "url": "https://open.spotify.com/track/6odqveUIgvpWWvtANLcZpH"
+    },
+    {
+      "added_at": "2024-02-03 00:33:17",
       "album": {
         "name": "Beep Beep",
         "url": "https://open.spotify.com/album/5R6AzRUZMA5j38lpgrQ388"
@@ -931,46 +955,6 @@
       "duration_ms": 147469,
       "name": "Beep Beep (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/6Hn4RAq9DerZedTzgyCgvC"
-    },
-    {
-      "added_at": "2024-01-30 21:47:20",
-      "album": {
-        "name": "Paint The Town Red",
-        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 231750,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
-    },
-    {
-      "added_at": "2024-01-30 21:47:20",
-      "album": {
-        "name": "Guitar In My Room",
-        "url": "https://open.spotify.com/album/2BgCZFN0tmSrb2deTawr5h"
-      },
-      "artists": [
-        {
-          "name": "Lyrical Lemonade",
-          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 227647,
-      "name": "Guitar In My Room (with Lil Durk & Kid Cudi)",
-      "url": "https://open.spotify.com/track/4LPIwB4gtPzuB0YKHjOldj"
     }
   ],
   "unique_name": "RapCaviar",

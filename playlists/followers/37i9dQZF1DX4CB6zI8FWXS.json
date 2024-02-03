@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 87332,
+  "2024-02-03": 87353,
   "date_first_scraped": "2023-03-19",
-  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Justin Timberlake",
+  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Ayra Starr",
   "name": "Groovin' R&B",
   "tracks": [
     {
@@ -605,7 +605,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 226740,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1"
@@ -806,6 +806,24 @@
     },
     {
       "album": {
+        "name": "chasing the bus",
+        "url": "https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188550,
+      "name": "chasing the bus",
+      "url": "https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z"
+    },
+    {
+      "album": {
         "name": "Cheat (feat. JoJo)",
         "url": "https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw"
       },
@@ -913,6 +931,24 @@
       "duration_ms": 235066,
       "name": "Closer",
       "url": "https://open.spotify.com/track/3ZG7FzfuejHiekD67PtGb7"
+    },
+    {
+      "album": {
+        "name": "Commas",
+        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Commas",
+      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
     },
     {
       "album": {
@@ -2952,6 +2988,28 @@
     },
     {
       "album": {
+        "name": "Leave Me In The Dust",
+        "url": "https://open.spotify.com/album/7pONG8xzaMBk8QR5yEYp4T"
+      },
+      "artists": [
+        {
+          "name": "01sail",
+          "url": "https://open.spotify.com/artist/4x3WVAIQvl8zMeg6WCvGAC"
+        },
+        {
+          "name": "ZIN",
+          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275294,
+      "name": "Leave Me In The Dust",
+      "url": "https://open.spotify.com/track/5wGPvxoxp4dWRkdbB7YDxe"
+    },
+    {
+      "album": {
         "name": "LEFT RIGHT REMIXX (FEAT. CIARA & JACKSON WANG // PROD BY JAKOPS)",
         "url": "https://open.spotify.com/album/6BYq4jicnLns37lj7By6NX"
       },
@@ -3893,7 +3951,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 223480,
       "name": "No One Else (feat. Fridayy)",
       "url": "https://open.spotify.com/track/6PpJ215wBUqB31xLLWKq66"
@@ -4383,7 +4441,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 177357,
       "name": "Pink Hair",
       "url": "https://open.spotify.com/track/62ZXOrUNBpa5DAiP3tE19s"
@@ -4709,6 +4767,28 @@
       "duration_ms": 194400,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
+    },
+    {
+      "album": {
+        "name": "Ruin",
+        "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181646,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
     },
     {
       "album": {
@@ -6813,7 +6893,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 172950,
       "name": "\u604b\u3092\u3057\u3066 - Acoustic Version",
       "url": "https://open.spotify.com/track/0fS8cXptl4Y2uWtkMEGBee"

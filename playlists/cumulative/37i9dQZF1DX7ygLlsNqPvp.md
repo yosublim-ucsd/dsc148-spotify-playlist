@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL?si=44ypFljwS7KHqFvdra2eFg"> Medikal</a>
 
-144 songs - 7 hr 19 min
+145 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Distance Relationship](https://open.spotify.com/track/3Z3SiQSFuLfK1HmJ2N8eqS) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Distance Relationship](https://open.spotify.com/album/3HVhY4icGBNGqWxhSJbBro) | 3:29 | 2022-06-09 | 2023-02-25 |
 | [Distance Relationship](https://open.spotify.com/track/7GUtv7iZxcGtCfeEtinfKm) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Distance Relationship](https://open.spotify.com/album/4pKumGgMv2SoaOi1X9WNbg) | 3:29 | 2023-01-13 |  |
 | [Donkomi \- Remix](https://open.spotify.com/track/5c802IbmurF2U8AMLGxgYt) | [Uncle Rich](https://open.spotify.com/artist/7B1cOpsjjQEadmCo3psX4l), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT) | [Last Days Are Dangerous](https://open.spotify.com/album/6euaF0PPbfuSgNNa7znaOm) | 3:44 | 2023-11-24 | 2024-01-05 |
-| [Ekorso](https://open.spotify.com/track/04qEuAt4TR3p2KQlJecNsu) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Ekorso](https://open.spotify.com/album/52WRXL8Z5JeODCqBU39Ork) | 3:44 | 2022-06-09 |  |
+| [Ekorso](https://open.spotify.com/track/04qEuAt4TR3p2KQlJecNsu) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Ekorso](https://open.spotify.com/album/52WRXL8Z5JeODCqBU39Ork) | 3:44 | 2022-06-09 | 2024-02-03 |
 | [Feelingx](https://open.spotify.com/track/5xYLT71o8zWLyyiwIraq9v) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [2 TIMES A GUY](https://open.spotify.com/album/5rpbWF8MqB3At9rdJN9ZUs) | 2:02 | 2022-06-09 | 2023-10-27 |
 | [Fikyiri Fikyiri](https://open.spotify.com/track/4nUvkgJxD0UZin5tDUvjlG) | [Richmiller](https://open.spotify.com/artist/5d1wHzwYfeFjOvUZLSQDDA), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Fikyiri Fikyiri](https://open.spotify.com/album/3fOC2lNZ0h3mApUD3ZwUiK) | 2:40 | 2023-08-10 | 2023-09-10 |
 | [Fire \- Remix](https://open.spotify.com/track/27413RLXJwf8qnCuJynC66) | [Kwame Vybz](https://open.spotify.com/artist/16MxvE6X1uGG7ddY3XLgdY), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Fire \(Remix\)](https://open.spotify.com/album/3rex4m0MhEg1FzcUPcyT0K) | 3:28 | 2022-08-12 | 2022-10-31 |
@@ -152,5 +152,6 @@
 | [Yaa Baby](https://open.spotify.com/track/4qSEMCwQCvv2BTsMQN6Wyv) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Yaa Baby](https://open.spotify.com/album/2HW2hdH3U2Be05Ispz7Fyb) | 3:27 | 2023-03-29 |  |
 | [YAYE KOOM](https://open.spotify.com/track/3QQ223XEeXQWtRUeY9GC9O) | [KAAMA](https://open.spotify.com/artist/13YntzDxz3y0OHnqTJ5Tek), [Kwame Yogot](https://open.spotify.com/artist/11HL9RVs0dNFEwOgvrUYFY) | [YAYE KOOM](https://open.spotify.com/album/46JfgWLpufanPHS4kJBtM4) | 3:27 | 2023-06-16 | 2023-08-04 |
 | [Yenda](https://open.spotify.com/track/1abFIyT0fh4LV15Wsa9mFo) | [Kay T](https://open.spotify.com/artist/65KHsymx2SxbuY1uaFZ2Rr), [MEDIKAL](https://open.spotify.com/artist/1HCBjtUbCVE4NasMBXZwuE), [Qv](https://open.spotify.com/artist/4RCEQmuBR1ZdMNJjZrNMl8) | [Yenda](https://open.spotify.com/album/1baZLRUcO2HmEXWrxoG5Mp) | 3:51 | 2022-09-30 | 2023-01-14 |
+| [Zongo](https://open.spotify.com/track/5snX4aH3FyF3sAdoUJFJfc) | [Dj Adwoa](https://open.spotify.com/artist/3JfFJpaSpXYHQKivBzJhZ1), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Sasco Gh](https://open.spotify.com/artist/3d4sCBA9tFXhzzA7nUDYKT) | [Zongo](https://open.spotify.com/album/3WPdsRkKEDmgwp2qmwkXjV) | 3:10 | 2024-02-02 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

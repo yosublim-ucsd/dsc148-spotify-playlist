@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Music from Drake, 21 Savage, Kid Cudi and Travis Scott. ",
+  "description": "New music from Don Toliver and YNW Melly.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -836,6 +836,32 @@
       "duration_ms": 196146,
       "name": "734",
       "url": "https://open.spotify.com/track/6vB8bdQCCTDDIH8fhRfuXA"
+    },
+    {
+      "album": {
+        "name": "772 Love Pt. 3 (Your Love)",
+        "url": "https://open.spotify.com/album/3iHCxu9aeXcaqa65jpYWAa"
+      },
+      "artists": [
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        },
+        {
+          "name": "YNW BSlime",
+          "url": "https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu"
+        },
+        {
+          "name": "Ynw4L",
+          "url": "https://open.spotify.com/artist/2dJ7qCfsYlwiI1vDpImybL"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "772 Love Pt. 3 (Your Love)",
+      "url": "https://open.spotify.com/track/1MscIf89IpZW9N9SUtBpsE"
     },
     {
       "album": {
@@ -3183,6 +3209,24 @@
     },
     {
       "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147746,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+    },
+    {
+      "album": {
         "name": "Bandit (with YoungBoy Never Broke Again)",
         "url": "https://open.spotify.com/album/3t6Z2qoBVCS4NHNI25XECH"
       },
@@ -4176,7 +4220,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 253760,
       "name": "Big Dog (with Lil Wayne)",
       "url": "https://open.spotify.com/track/4EKfEZ89t2DzU41RbsyFC6"
@@ -11871,6 +11915,24 @@
     },
     {
       "album": {
+        "name": "Free Me",
+        "url": "https://open.spotify.com/album/0qa9bbSW0zI1yXocm1g4AP"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190592,
+      "name": "Free Me",
+      "url": "https://open.spotify.com/track/32b06ZO97e3B1XmAiSzzBw"
+    },
+    {
+      "album": {
         "name": "A Gangsta\u2019s Pain",
         "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
@@ -13802,7 +13864,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 227647,
       "name": "Guitar In My Room (with Lil Durk & Kid Cudi)",
       "url": "https://open.spotify.com/track/4LPIwB4gtPzuB0YKHjOldj"
@@ -25124,7 +25186,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 233360,
       "name": "Overnight Celebrity",
       "url": "https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj"
@@ -25332,7 +25394,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -35301,6 +35363,36 @@
     },
     {
       "album": {
+        "name": "All Is Yellow",
+        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Lil Skies",
+          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
+      "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
+    },
+    {
+      "album": {
         "name": "This Summer",
         "url": "https://open.spotify.com/album/6EGh6ELzd8b0gM9V3KH8XC"
       },
@@ -38788,7 +38880,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 199547,
       "name": "WHAT'S THE MOVE? (feat. Future and BabyDrill)",
       "url": "https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck"

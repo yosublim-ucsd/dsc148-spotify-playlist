@@ -4,7 +4,7 @@
 
 > 150%
 
-294 songs - 12 hr 45 min
+295 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [people pleaser \- higher & faster](https://open.spotify.com/track/4ujYFnZw9B8lUQG4W305HP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [people pleaser \(higher & faster\)](https://open.spotify.com/album/6JKimNcUW0lsJze5e61SXX) | 1:58 | 2023-02-03 | 2023-02-18 |
 | [Perfect Night \(Sped Up ver.\)](https://open.spotify.com/track/2pCcl9FB4KCqYXYzloAMRK) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night \(Remix\)](https://open.spotify.com/album/4soeaXzvqJurX5Flkh6ZD1) | 2:08 | 2023-11-16 |  |
 | [Pink \(Freak\) \- sped up](https://open.spotify.com/track/6Z0jVWnJLzPd0zHerbOuQ1) | [Elliot Lee](https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5), [Eel Smiles](https://open.spotify.com/artist/77FCuQcl7IdDlaRtFIJ3Sy) | [Pink \(Freak\)](https://open.spotify.com/album/2jLyQ6Re3QbmuvoPhUzlzR) | 3:29 | 2022-12-16 | 2023-01-28 |
-| [Price Tag \- Sped Up](https://open.spotify.com/track/7wBOjV4TIq2YzPFDc3mFmA) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Kuya Magik](https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb) | [Price Tag \(Sped Up\)](https://open.spotify.com/album/6ITJMaP8RALYKlF1zYr8kx) | 3:17 | 2023-08-22 |  |
+| [Popular \(Sped Up\) \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/7H3cuCPaX9WHZXQ0Q9RlxH) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [Popular](https://open.spotify.com/album/0p0FGxiCrl3afABenvtWbQ) | 3:07 | 2024-02-02 |  |
+| [Price Tag \- Sped Up](https://open.spotify.com/track/7wBOjV4TIq2YzPFDc3mFmA) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Kuya Magik](https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb) | [Price Tag \(Sped Up\)](https://open.spotify.com/album/6ITJMaP8RALYKlF1zYr8kx) | 3:17 | 2023-08-22 | 2024-02-03 |
 | [Private Landing \(Sped Up\) \[feat\. Justin Bieber & Future\]](https://open.spotify.com/track/0Ntea3SB1jJ0SxRNt5MvjM) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Private Landing \(Sped Up\) \[feat\. Justin Bieber & Future\]](https://open.spotify.com/album/6ZrzrK6Fn0AIQtuV9CqXzs) | 3:37 | 2023-04-03 | 2023-06-10 |
 | [prolly my spookiest beat \(sped up\)](https://open.spotify.com/track/3TK0rB4H4oKHjf1l3Dteop) | [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [prolly my spookiest beat \(sped up\)](https://open.spotify.com/album/5EJjM6oFkw0bdnCchn5BRV) | 2:00 | 2022-06-09 | 2023-03-22 |
 | [psilocybin \(sped up\)](https://open.spotify.com/track/1CwFuRSP9dB2HvbmXBSEDS) | [YKARE](https://open.spotify.com/artist/1p9c4UC7cX15y830hNHwm1) | [psilocybin \(sped up\)](https://open.spotify.com/album/2WGURTSIVqDOm6r0Srrxti) | 1:52 | 2022-11-25 | 2023-02-25 |

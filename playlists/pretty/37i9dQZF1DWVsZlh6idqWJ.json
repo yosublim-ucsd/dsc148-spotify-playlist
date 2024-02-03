@@ -1,12 +1,12 @@
 {
   "description": "Holiday bangers + pop bangers = a perfect holiday party!",
-  "num_followers": 24168,
+  "num_followers": 24156,
   "original_name": "Holiday Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWM1OTQwOTJhZDkwNTgwMjQ1MWI3OTk4YmI5OGYwZWRhMDYwMDg1",
+  "snapshot_id": "MCxlYTdhZjg3ZGYwOWMyOTcwOTE3MWJkY2Q1YzAzMTU3ZmNjZjMxNTNh",
   "tracks": [
     {
       "added_at": "2023-12-22 23:13:51",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-12-22 23:13:51",
       "album": {
+        "name": "Kiss (Deluxe)",
+        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
+    },
+    {
+      "added_at": "2023-12-22 23:13:51",
+      "album": {
         "name": "Christmas, With Love",
         "url": "https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 239586,
       "name": "One More Sleep",
       "url": "https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d"
-    },
-    {
-      "added_at": "2023-12-22 23:13:51",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "DJ Play A Christmas Song",
-      "url": "https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy"
     },
     {
       "added_at": "2023-12-22 23:13:51",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-12-22 23:13:51",
       "album": {
-        "name": "Kiss (Deluxe)",
-        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
         }
       ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
+      "duration_ms": 209106,
+      "name": "DJ Play A Christmas Song",
+      "url": "https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy"
     },
     {
       "added_at": "2023-12-22 23:13:51",

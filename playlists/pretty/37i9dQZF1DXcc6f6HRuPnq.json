@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 150668,
+  "num_followers": 150739,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTI0ZTczYTU1M2MyNzNhMmMxYjA3NDZhNzQyNDkwOTBhMmQwNzYz",
+  "snapshot_id": "MCwyYjZlMzQ3MjE4MWUwZGU4ODJmMGU1MDc4YThhYTRhNGI4ODMyN2Nk",
   "tracks": [
     {
       "added_at": "2023-10-05 08:53:30",
@@ -411,18 +411,22 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "People Get Ready",
-        "url": "https://open.spotify.com/album/5wlHOc1Ek2knIEu5D662MV"
+        "name": "Roll Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0IShhCcX0GjjkTGGq6BoCa"
       },
       "artists": [
         {
-          "name": "Joe Robinson",
-          "url": "https://open.spotify.com/artist/73V471Pu2mWBqqodpLh6PV"
+          "name": "Back Door Slam",
+          "url": "https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34"
+        },
+        {
+          "name": "Davy Knowles",
+          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
         }
       ],
-      "duration_ms": 274560,
-      "name": "People Get Ready",
-      "url": "https://open.spotify.com/track/1nUtE7LNXLGFEJk8kG8gE6"
+      "duration_ms": 349893,
+      "name": "Gotta Leave",
+      "url": "https://open.spotify.com/track/6Wz65CyzyH5lY3AjJNIqZZ"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -443,22 +447,18 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Roll Away (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0IShhCcX0GjjkTGGq6BoCa"
+        "name": "People Get Ready",
+        "url": "https://open.spotify.com/album/5wlHOc1Ek2knIEu5D662MV"
       },
       "artists": [
         {
-          "name": "Back Door Slam",
-          "url": "https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34"
-        },
-        {
-          "name": "Davy Knowles",
-          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
+          "name": "Joe Robinson",
+          "url": "https://open.spotify.com/artist/73V471Pu2mWBqqodpLh6PV"
         }
       ],
-      "duration_ms": 349893,
-      "name": "Gotta Leave",
-      "url": "https://open.spotify.com/track/6Wz65CyzyH5lY3AjJNIqZZ"
+      "duration_ms": 274560,
+      "name": "People Get Ready",
+      "url": "https://open.spotify.com/track/1nUtE7LNXLGFEJk8kG8gE6"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Gee Baby Ain't I Good To You",
-        "url": "https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Gee Baby Ain't I Good To You",
-      "url": "https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
         "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Put In a Little Time",
-        "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
+        "name": "Gee Baby Ain't I Good To You",
+        "url": "https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk"
       },
       "artists": [
         {
-          "name": "James Cooke",
-          "url": "https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 280062,
-      "name": "Don't Worry",
-      "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
+      "duration_ms": 231333,
+      "name": "Gee Baby Ain't I Good To You",
+      "url": "https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -899,6 +883,22 @@
       "duration_ms": 301733,
       "name": "Mystery Woman",
       "url": "https://open.spotify.com/track/4rEUWLQh9vofv3x9377uUR"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Put In a Little Time",
+        "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
+      },
+      "artists": [
+        {
+          "name": "James Cooke",
+          "url": "https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U"
+        }
+      ],
+      "duration_ms": 280062,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Packing My Bags",
-        "url": "https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb"
-      },
-      "artists": [
-        {
-          "name": "Errol Linton",
-          "url": "https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW"
-        }
-      ],
-      "duration_ms": 294595,
-      "name": "Hoodoo Man",
-      "url": "https://open.spotify.com/track/5S06MjT5dOy7nLDmHqnqic"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "In Europe",
         "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 330733,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/14DtWZA10VU7PZLxM5vO6g"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Packing My Bags",
+        "url": "https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb"
+      },
+      "artists": [
+        {
+          "name": "Errol Linton",
+          "url": "https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW"
+        }
+      ],
+      "duration_ms": 294595,
+      "name": "Hoodoo Man",
+      "url": "https://open.spotify.com/track/5S06MjT5dOy7nLDmHqnqic"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Wish Her Well",
-        "url": "https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c"
-      },
-      "artists": [
-        {
-          "name": "Emma Wilson",
-          "url": "https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2"
-        }
-      ],
-      "duration_ms": 263037,
-      "name": "Wish Her Well",
-      "url": "https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Old Bones, New Fire",
         "url": "https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 187524,
       "name": "I Know I've Been Changed",
       "url": "https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Wish Her Well",
+        "url": "https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c"
+      },
+      "artists": [
+        {
+          "name": "Emma Wilson",
+          "url": "https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2"
+        }
+      ],
+      "duration_ms": 263037,
+      "name": "Wish Her Well",
+      "url": "https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB"
     },
     {
       "added_at": "2023-10-05 08:53:30",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
-  "num_followers": 667956,
+  "num_followers": 667950,
   "original_name": "Vibra Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDhlODJmMmI1ZTdlZjg1M2ZhZTI4OTZhZjIxNmNjODVlNTAyOGU4",
+  "snapshot_id": "MCxjYjBiZWFkNTY2NjY5YTUyYzZmMjQzYTBmNWQxNTNkZGNmNGRjZDRh",
   "tracks": [
     {
       "added_at": "2021-10-20 20:06:54",
@@ -249,10 +249,10 @@
       "url": "https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL"
     },
     {
-      "added_at": "2023-04-12 01:16:22",
+      "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Binikini",
-        "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
+        "name": "RawayanaLand",
+        "url": "https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD"
       },
       "artists": [
         {
@@ -260,13 +260,13 @@
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 183253,
-      "name": "Binikini",
-      "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
+      "duration_ms": 267200,
+      "name": "Mamita (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/4YU0xHroexMt4ohhPVbKla"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -357,10 +357,10 @@
       "url": "https://open.spotify.com/track/69gBnFLDtc2lub6xL0sfi9"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
+      "added_at": "2023-04-12 01:16:22",
       "album": {
-        "name": "RawayanaLand",
-        "url": "https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD"
+        "name": "Binikini",
+        "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
       },
       "artists": [
         {
@@ -368,13 +368,13 @@
           "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         },
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 267200,
-      "name": "Mamita (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/4YU0xHroexMt4ohhPVbKla"
+      "duration_ms": 183253,
+      "name": "Binikini",
+      "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -885,6 +885,22 @@
       "url": "https://open.spotify.com/track/0GARcbxLIOmzrs0lHpuvmi"
     },
     {
+      "added_at": "2023-02-09 18:14:43",
+      "album": {
+        "name": "costas de coral",
+        "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 188841,
+      "name": "costas de coral",
+      "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
+    },
+    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Ojitos de Aceituna",
@@ -903,42 +919,6 @@
       "duration_ms": 167221,
       "name": "Ojitos de Aceituna",
       "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
-    },
-    {
-      "added_at": "2022-02-11 02:34:16",
-      "album": {
-        "name": "Pupilas Lejanas",
-        "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Pupilas Lejanas",
-      "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
-    },
-    {
-      "added_at": "2023-02-09 18:14:43",
-      "album": {
-        "name": "costas de coral",
-        "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 188841,
-      "name": "costas de coral",
-      "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -961,20 +941,24 @@
       "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
     },
     {
-      "added_at": "2022-04-01 06:20:39",
+      "added_at": "2022-02-11 02:34:16",
       "album": {
-        "name": "La Distancia",
-        "url": "https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi"
+        "name": "Pupilas Lejanas",
+        "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 227143,
-      "name": "La Distancia",
-      "url": "https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562"
+      "duration_ms": 226000,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -991,6 +975,22 @@
       "duration_ms": 203807,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV"
+    },
+    {
+      "added_at": "2022-04-01 06:20:39",
+      "album": {
+        "name": "La Distancia",
+        "url": "https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 227143,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562"
     },
     {
       "added_at": "2022-02-25 03:00:34",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd"
     },
     {
-      "added_at": "2022-07-01 02:47:32",
-      "album": {
-        "name": "Sacatela",
-        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Tres",
@@ -1063,6 +1047,22 @@
       "duration_ms": 194981,
       "name": "Ay, Ay",
       "url": "https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd"
+    },
+    {
+      "added_at": "2022-07-01 02:47:32",
+      "album": {
+        "name": "Sacatela",
+        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
     },
     {
       "added_at": "2023-07-21 19:48:53",
@@ -1269,20 +1269,28 @@
       "url": "https://open.spotify.com/track/5cymR1aelP1UGn0wSsLLcq"
     },
     {
-      "added_at": "2022-09-30 05:00:00",
+      "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Post Qu\u00edmica",
-        "url": "https://open.spotify.com/album/6ofvehgD9KHjywtwgIy7nR"
+        "name": "Shulaguapa",
+        "url": "https://open.spotify.com/album/5uXS2XeWDDHbWeB3lfmTzi"
       },
       "artists": [
         {
           "name": "Caloncho",
           "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Gabacho",
+          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
         }
       ],
-      "duration_ms": 188320,
-      "name": "Post Qu\u00edmica",
-      "url": "https://open.spotify.com/track/0NhUS4oQ8vQNaLgdQU6nRI"
+      "duration_ms": 187253,
+      "name": "Shulaguapa",
+      "url": "https://open.spotify.com/track/5rIFFt6LclUTS5xIRnA7cR"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1517,44 +1525,20 @@
       "url": "https://open.spotify.com/track/6BKJgPiy3tYKnW7bIWiDej"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
+      "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "Shulaguapa",
-        "url": "https://open.spotify.com/album/5uXS2XeWDDHbWeB3lfmTzi"
+        "name": "Post Qu\u00edmica",
+        "url": "https://open.spotify.com/album/6ofvehgD9KHjywtwgIy7nR"
       },
       "artists": [
         {
           "name": "Caloncho",
           "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Gabacho",
-          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
         }
       ],
-      "duration_ms": 187253,
-      "name": "Shulaguapa",
-      "url": "https://open.spotify.com/track/5rIFFt6LclUTS5xIRnA7cR"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
-      },
-      "artists": [
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
-        }
-      ],
-      "duration_ms": 310216,
-      "name": "Nariz Con Ra\u00edz",
-      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
+      "duration_ms": 188320,
+      "name": "Post Qu\u00edmica",
+      "url": "https://open.spotify.com/track/0NhUS4oQ8vQNaLgdQU6nRI"
     },
     {
       "added_at": "2023-11-16 17:08:42",
@@ -1571,6 +1555,22 @@
       "duration_ms": 203494,
       "name": "Ya Va Pasar",
       "url": "https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "TEMPLO KOMODO",
+        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 310216,
+      "name": "Nariz Con Ra\u00edz",
+      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Como Fuego",
+        "url": "https://open.spotify.com/album/2cob5a2IGcGDa0CuYS3jLi"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 184925,
+      "name": "Como Fuego",
+      "url": "https://open.spotify.com/track/44E4aMwLp8EosJDp8WyQe4"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
       },
@@ -1705,22 +1721,6 @@
       "url": "https://open.spotify.com/track/3IJX2DqFm8G6joQQsbQrqC"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Como Fuego",
-        "url": "https://open.spotify.com/album/2cob5a2IGcGDa0CuYS3jLi"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 184925,
-      "name": "Como Fuego",
-      "url": "https://open.spotify.com/track/44E4aMwLp8EosJDp8WyQe4"
-    },
-    {
       "added_at": "2023-02-03 04:48:46",
       "album": {
         "name": "Porque Yo",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "El Af\u00e1n",
         "url": "https://open.spotify.com/album/3KNX1cziZujwIVFNU6YsyG"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 259613,
       "name": "Me Pierdo Contigo",
       "url": "https://open.spotify.com/track/4KRIHFy34UpHs8RauCwjWg"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2021-10-20 20:06:54",

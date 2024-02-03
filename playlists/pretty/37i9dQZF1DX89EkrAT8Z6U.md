@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > A mixtape for the perfect anime fight scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,725 likes - 75 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,362 likes - 75 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 20 | [CODE MISTAKE](https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [CODE MISTAKE](https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl) | 2:45 |
 | 21 | [GOSHA](https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [\- TRAGEDY +](https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE) | 2:00 |
 | 22 | [Bombs Away](https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Bombs Away](https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL) | 2:26 |
-| 23 | [vampire heart](https://open.spotify.com/track/6Ql2mpc1EbGp0GI6CbaGT4) | [Isak Roen](https://open.spotify.com/artist/5QMXdarD6sqSoapAEX51x8), [Key Kelly](https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss) | [vampire heart](https://open.spotify.com/album/778RLWDdeeU7mudGxRLyQV) | 2:24 |
-| 24 | [RAHHHH](https://open.spotify.com/track/5NLnV0krXXSIOqL1PyAd1Q) | [alt!](https://open.spotify.com/artist/2JUbvars1Q5hnkRa8IglAa) | [RAHHHH](https://open.spotify.com/album/0kBzlWRuGqJCKTLU453Hoa) | 1:00 |
-| 25 | [PUNK TACTICS](https://open.spotify.com/track/2jQ1P0aGT4WkNyJCeoQnb9) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [PUNK TACTICS](https://open.spotify.com/album/5L1RkN1nh5m18ZuXCktUbc) | 2:23 |
+| 23 | [PUNK TACTICS](https://open.spotify.com/track/2jQ1P0aGT4WkNyJCeoQnb9) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [PUNK TACTICS](https://open.spotify.com/album/5L1RkN1nh5m18ZuXCktUbc) | 2:23 |
+| 24 | [vampire heart](https://open.spotify.com/track/6Ql2mpc1EbGp0GI6CbaGT4) | [Isak Roen](https://open.spotify.com/artist/5QMXdarD6sqSoapAEX51x8), [Key Kelly](https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss) | [vampire heart](https://open.spotify.com/album/778RLWDdeeU7mudGxRLyQV) | 2:24 |
+| 25 | [RAHHHH](https://open.spotify.com/track/5NLnV0krXXSIOqL1PyAd1Q) | [alt!](https://open.spotify.com/artist/2JUbvars1Q5hnkRa8IglAa) | [RAHHHH](https://open.spotify.com/album/0kBzlWRuGqJCKTLU453Hoa) | 1:00 |
 | 26 | [Shakira!](https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [EGOVERT](https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp) | [Shakira!](https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM) | 2:29 |
 | 27 | [MARCELINE](https://open.spotify.com/track/17zEBtrjKKa2hwk9CxWIkX) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [MARCELINE](https://open.spotify.com/album/0NBvXFLdqzROOO4O5KhhNf) | 2:35 |
 | 28 | [By the Sword](https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [By the Sword](https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa) | 2:05 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 35 | [E\-GIRLS ARE RUINING MY LIFE!](https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [E\-GIRLS ARE RUINING MY LIFE!](https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT) | 1:45 |
 | 36 | [She Bad](https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [She Bad](https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7) | 1:45 |
 | 37 | [WTH](https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Suffer](https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou) | 1:39 |
-| 38 | [die](https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Key Kelly](https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss) | [die](https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY) | 1:39 |
-| 39 | [LED](https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS) | 2:14 |
+| 38 | [LED](https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS) | 2:14 |
+| 39 | [die](https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Key Kelly](https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss) | [die](https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY) | 1:39 |
 | 40 | [Death Lotto](https://open.spotify.com/track/1fd3XY9w5SzDPT40K92Bch) | [ovg!](https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt) | [Death Lotto](https://open.spotify.com/album/64YJodXZbiqUpwg9lkaYoE) | 2:13 |
 | 41 | [XO EViL LiF3 \(.DEMON.\)](https://open.spotify.com/track/0oUmiDcH2jBUEgiSnob5JW) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [XO EViL LiF3 \(.DEMON.\)](https://open.spotify.com/album/6bGikVVE4O3ZEHmmbhCkMm) | 2:03 |
 | 42 | [Riders](https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW) | [onimanxd](https://open.spotify.com/artist/6LsSeFRnEOLIJHCpIhlP9b) | [Riders](https://open.spotify.com/album/4wYMrn6j9KBrYtek968NoK) | 1:47 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 54 | [EXORCIST](https://open.spotify.com/track/6qwEeAl6Cl32odNr2GIMjm) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [KILL!](https://open.spotify.com/album/2Bk3pomO5BGIJrNhwjzqRE) | 1:34 |
 | 55 | [Young Kid](https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Young Kid](https://open.spotify.com/album/4v61ZFQT5pnNrmvpO9DFLz) | 3:29 |
 | 56 | [50k](https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [50k](https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe) | 2:09 |
-| 57 | [Cult Classic](https://open.spotify.com/track/4Gyevf6hfKBzh69K79twjP) | [ta2cute](https://open.spotify.com/artist/4ffPkIlhB0oEmGr30n8tJj) | [Cult Classic](https://open.spotify.com/album/2NZN7qaSZeikj7HTXdnkfT) | 1:47 |
-| 58 | [2077](https://open.spotify.com/track/4Gr9pPieF9ZVUxBB8vF1gy) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [2077](https://open.spotify.com/album/4aGax9S99B53Pm8oxwzHR0) | 2:15 |
+| 57 | [2077](https://open.spotify.com/track/4Gr9pPieF9ZVUxBB8vF1gy) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [2077](https://open.spotify.com/album/4aGax9S99B53Pm8oxwzHR0) | 2:15 |
+| 58 | [Cult Classic](https://open.spotify.com/track/4Gyevf6hfKBzh69K79twjP) | [ta2cute](https://open.spotify.com/artist/4ffPkIlhB0oEmGr30n8tJj) | [Cult Classic](https://open.spotify.com/album/2NZN7qaSZeikj7HTXdnkfT) | 1:47 |
 | 59 | [Trap Anthem](https://open.spotify.com/track/5Bj8OQClC6mEkSiQ8LgGi2) | [MC Virgins](https://open.spotify.com/artist/3iNL7rw7fpmysjZvhB8vi7), [Yun Head](https://open.spotify.com/artist/3nIuVGstklsvoHOIvULcCe) | [Trap Anthem](https://open.spotify.com/album/0RO9UmZ98gMjiqKL69Afca) | 2:12 |
 | 60 | [Dalai Lama](https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Dalai Lama](https://open.spotify.com/album/78gNxj2hj39is15hwP82IC) | 2:15 |
 | 61 | [JoJo Pose](https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW) | [Apollo Fresh](https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ) | [JoJo Pose](https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ) | 1:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 74 | [Speak Up](https://open.spotify.com/track/5uZB4RTZcrI6l7j3n7SjqN) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/1ClM2j1wfA7qNIAtIGtpqJ) | 1:44 |
 | 75 | [Kujo Freestyle](https://open.spotify.com/track/50wSSOhJIC80JyDblxaDIu) | [Sinoda](https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b) | [Kujo Freestyle](https://open.spotify.com/album/1K5NQ3uYpYENDGyt84BhYV) | 1:55 |
 
-Snapshot ID: `MCwxYTcwM2NhOWJmYjMzNTRlNDBmMTA4ZWQ2MTE3MGM3ZjAyNmRjYjIz`
+Snapshot ID: `MCxmYmI2YWY4NjdmNWQ3ZDZjOGYyNmZlMDk5OGQ1ZTgxZTA1YTIxMGE2`

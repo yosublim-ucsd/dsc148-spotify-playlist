@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzUxNmVlZTJkYzI0MTEzMzJlYTNlNGY1ZDIxNDBkYjFjMWJmOTA0",
+  "snapshot_id": "MCw1NDZmNWViNWFjM2IxNDBlZTA5OTdlN2Q5YWQ1NGFlNWJjYTJkZWUw",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Rotl\u00f6sa Singlar",
+        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
+      },
+      "artists": [
+        {
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
+        }
+      ],
+      "duration_ms": 233934,
+      "name": "Bida Din Tid",
+      "url": "https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "SELFMADE",
         "url": "https://open.spotify.com/album/7bDdwOEcIAfemtJecLkP5g"
       },
@@ -851,26 +867,6 @@
       "duration_ms": 240062,
       "name": "Onda \u00f6gat",
       "url": "https://open.spotify.com/track/2308zhPgcLzR1xKMhI5naC"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Som Salomos S\u00e5ng",
-        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
-      },
-      "artists": [
-        {
-          "name": "Governor Andy",
-          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
-        },
-        {
-          "name": "Jr Erik",
-          "url": "https://open.spotify.com/artist/6tabmZkqzTHQs2iSrMFp89"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "Reggaeprofil",
-      "url": "https://open.spotify.com/track/0kDQRF7cCp5ZZ2tbtbjzK8"
     },
     {
       "added_at": "2023-10-12 22:00:00",

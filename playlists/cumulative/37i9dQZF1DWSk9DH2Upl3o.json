@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-28",
-  "description": "The jam scene is alive and well. Cover: Kendall Street Company",
+  "description": "The jam scene is alive and well. Cover: SunSquabi",
   "name": "Modern Jam Band",
   "tracks": [
     {
@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Hard Pass",
+        "url": "https://open.spotify.com/album/6gAU4TmksTNEDGzXzNTgQb"
+      },
+      "artists": [
+        {
+          "name": "SunSquabi",
+          "url": "https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252988,
+      "name": "Hard Pass",
+      "url": "https://open.spotify.com/track/22PBp11W9lqbdO5XwYk0f7"
+    },
+    {
+      "album": {
         "name": "Hell Yeah Everyday (Live from The Compound Long Beach)",
         "url": "https://open.spotify.com/album/18E8ovQ9opDnN1wqBIDG8N"
       },
@@ -1186,7 +1204,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 426602,
       "name": "Hungersite",
       "url": "https://open.spotify.com/track/5FKKjiUjOXu9Kinlkc1VzA"
@@ -1348,7 +1366,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 370666,
       "name": "Just A Little",
       "url": "https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM"
@@ -1568,6 +1586,24 @@
       "duration_ms": 297153,
       "name": "Lily's Tiger",
       "url": "https://open.spotify.com/track/1wEt9nM5wq2U5RNuWBxnyA"
+    },
+    {
+      "album": {
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/4Kr5LWl79sxFjdamzHjriN"
+      },
+      "artists": [
+        {
+          "name": "Dizgo",
+          "url": "https://open.spotify.com/artist/5yHeuBSsacgKk0X6fzDfHj"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480848,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/1Qm0MBLj93hLQMZOpNTQHB"
     },
     {
       "album": {
@@ -1904,7 +1940,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 250335,
       "name": "Playing With My Emotions",
       "url": "https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf"
@@ -2320,6 +2356,24 @@
       "duration_ms": 353103,
       "name": "Stuck in Between",
       "url": "https://open.spotify.com/track/2OX0jfmSfFFIk9rFTzivZU"
+    },
+    {
+      "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/5piDzyf0KFonTHK3vrl8k5"
+      },
+      "artists": [
+        {
+          "name": "The Moon City Masters",
+          "url": "https://open.spotify.com/artist/5ds1ng1NKpr4Bv0VbgHyAr"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213786,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/2eqVjqpmCjB904Cw2cUPLe"
     },
     {
       "album": {

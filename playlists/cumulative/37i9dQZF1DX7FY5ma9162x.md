@@ -2,9 +2,9 @@
 
 ### [R&B Favourites](https://open.spotify.com/playlist/37i9dQZF1DX7FY5ma9162x)
 
-> The tracks you can put on repeat all day\. Cover: SZA
+> The tracks you can put on repeat all day\. Discover more Black artists and their contributions <a href="spotify:genre:0JQ5DAqbMKFF9bY76LXmfI">here</a>\. Cover: <a href="spotify:artist:23zg3TcAtWQy7J6upgbUnj">Usher</a>
 
-587 songs - 1 day 8 hr 46 min
+589 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Deflect](https://open.spotify.com/track/3GfpcEdZ4kRTgy8XC2hCdI) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Deflect](https://open.spotify.com/album/3dpTqZYzAogVHL0Vt913w4) | 2:06 | 2022-03-11 | 2022-06-18 |
 | [DELRESTO \(ECHOES\) \(feat\. Beyoncé\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 | 2023-12-15 | 2024-01-18 |
 | [Deserve It](https://open.spotify.com/track/0rLfMI04PHRfoaGLcCh816) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Deserve It](https://open.spotify.com/album/3nWY1AeTNK5WvAhVcQYvSO) | 3:13 | 2022-05-13 | 2022-07-29 |
-| [Deserve Me \(with Summer Walker\)](https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 4:25 | 2023-09-29 |  |
+| [Deserve Me \(with Summer Walker\)](https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 4:25 | 2023-09-29 | 2024-02-03 |
 | [DFMU](https://open.spotify.com/track/3la7i4yJUIqcXPoRoo3w8d) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [DFMU](https://open.spotify.com/album/4QyarUpVRUQ2NCsf7NBO3k) | 3:17 | 2022-05-06 | 2022-07-29 |
 | [DFMU](https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:17 | 2022-07-28 |  |
 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 | 2022-07-08 |  |
@@ -203,6 +203,7 @@
 | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub) | 3:55 | 2022-04-01 | 2022-04-26 |
 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 | 2023-04-27 |  |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2022-03-11 |  |
+| [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 | 2024-02-02 |  |
 | [Good Love \(feat\. Tory Lanez\)](https://open.spotify.com/track/0MET90crciVlxlE07ub7Rn) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Good Love](https://open.spotify.com/album/7pzJo7BRoSanlNNHUWHU0M) | 3:12 | 2022-04-01 | 2022-04-20 |
 | [Good Morning Gorgeous](https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc) | 2:54 | 2022-04-01 | 2022-04-21 |
 | [Goodbyes \(Feat\. Young Thug\)](https://open.spotify.com/track/6vBdBCoOhKHiYDDOcorfNo) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Goodbyes \(Feat\. Young Thug\)](https://open.spotify.com/album/4FFBjcmX06VmazABtpRMyv) | 2:54 | 2022-04-01 | 2022-04-16 |
@@ -222,6 +223,7 @@
 | [Heartbroke](https://open.spotify.com/track/3xk3MlYPuH6m6ej03PmC9N) | [Jake Hope](https://open.spotify.com/artist/44PkBtAQLIQ45IDNop6d78) | [Icare2much](https://open.spotify.com/album/3AB3p52BoQwnETEUgr5JSM) | 2:43 | 2022-04-01 | 2022-04-21 |
 | [Heaven](https://open.spotify.com/track/4ejQlM2w2X2AJqWYcMyNVm) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:49 | 2022-03-11 | 2022-07-29 |
 | [Held Me Down](https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 3:48 | 2022-04-01 | 2022-04-21 |
+| [Hello](https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Hello](https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK) | 3:15 | 2024-02-02 |  |
 | [Her Old Friends](https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Old Friends](https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5) | 4:16 | 2023-05-26 | 2023-09-30 |
 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 | 2023-02-24 |  |
 | [Higher](https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 3:16 | 2022-07-01 |  |
@@ -238,7 +240,7 @@
 | [hot girl bummer](https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [hot girl bummer](https://open.spotify.com/album/37CqAwxTungNxKpIK5vSgE) | 3:05 | 2022-04-01 | 2022-04-17 |
 | [hot girl bummer](https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 3:08 | 2022-07-28 | 2022-08-12 |
 | [Hours In Silence](https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 6:39 | 2023-09-29 | 2024-01-27 |
-| [How \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:38 | 2023-01-31 |  |
+| [How \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:38 | 2023-01-31 | 2024-02-03 |
 | [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 | 2023-03-31 | 2023-09-29 |
 | [How You Want It?](https://open.spotify.com/track/0rbnYyj0Zq2pNJSzWqtf4g) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda) | [How You Want It?](https://open.spotify.com/album/3dPk7WASa1GmL7vluAP4ff) | 3:42 | 2022-04-01 | 2022-04-21 |
 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-07-28 | 2022-11-06 |

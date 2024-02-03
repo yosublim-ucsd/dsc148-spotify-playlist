@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 291765,
+  "num_followers": 291809,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODZlMTQ4ZWRiZTM4ODBiNjVjYzMxOGQ1ZTNjOGM1MWU3YWRmMTc3",
+  "snapshot_id": "MCxlMDExNTQyNjVlNzEwMmIwZjNlMmE2YzdjOTQxYWU4ZDZlN2QwMmQ4",
   "tracks": [
     {
       "added_at": "2023-08-21 19:26:53",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Every Which Way but Loose - 2009 Remaster",
-      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "In Search Of A Song",
         "url": "https://open.spotify.com/album/7896HKNHKgVnuiOh401iX2"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 164720,
       "name": "The Year That Clayton Delaney Died",
       "url": "https://open.spotify.com/track/1sfXFEpGVK5s5i8eHEtNPj"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Every Which Way but Loose - 2009 Remaster",
+      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Rocky Mountain Music",
-        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 142773,
-      "name": "Two Dollars in the Jukebox - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Pure Love",
         "url": "https://open.spotify.com/album/1CYDyOq4idlMXcqqxiJ1A5"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 141040,
       "name": "Pure Love",
       "url": "https://open.spotify.com/track/4LE5mk1mDDn0TX7669wVvg"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Rocky Mountain Music",
+        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 142773,
+      "name": "Two Dollars in the Jukebox - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -947,18 +947,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Best Of Billy Swan",
-        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
+        "name": "Hello, I'm Johnny Cash",
+        "url": "https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE"
       },
       "artists": [
         {
-          "name": "Billy Swan",
-          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "June Carter Cash",
+          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
         }
       ],
-      "duration_ms": 238333,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
+      "duration_ms": 180573,
+      "name": "If I Were a Carpenter",
+      "url": "https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -979,22 +983,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Hello, I'm Johnny Cash",
-        "url": "https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE"
+        "name": "The Best Of Billy Swan",
+        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "June Carter Cash",
-          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
+          "name": "Billy Swan",
+          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
         }
       ],
-      "duration_ms": 180573,
-      "name": "If I Were a Carpenter",
-      "url": "https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ"
+      "duration_ms": 238333,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Winners",
-        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
+        "name": "The Essential Johnny Duncan",
+        "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
       },
       "artists": [
         {
-          "name": "Donna Fargo",
-          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
+          "name": "Johnny Duncan",
+          "url": "https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm"
+        },
+        {
+          "name": "Janie Fricke",
+          "url": "https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV"
         }
       ],
-      "duration_ms": 151306,
-      "name": "The Happiest Girl In The Whole U.S.A.",
-      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
+      "duration_ms": 189786,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1115,22 +1119,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Essential Johnny Duncan",
-        "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
+        "name": "Winners",
+        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
       },
       "artists": [
         {
-          "name": "Johnny Duncan",
-          "url": "https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm"
-        },
-        {
-          "name": "Janie Fricke",
-          "url": "https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV"
+          "name": "Donna Fargo",
+          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
         }
       ],
-      "duration_ms": 189786,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
+      "duration_ms": 151306,
+      "name": "The Happiest Girl In The Whole U.S.A.",
+      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
-      },
-      "artists": [
-        {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
-        }
-      ],
-      "duration_ms": 139760,
-      "name": "Amos Moses",
-      "url": "https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Let Me Be There",
         "url": "https://open.spotify.com/album/6WXUSQLuAYtoVRSWOFCBnx"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 181733,
       "name": "Let Me Be There",
       "url": "https://open.spotify.com/track/0E4HRDc8ReRr7Fy59eW2bX"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "The Essential Jerry Reed",
+        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
+      },
+      "artists": [
+        {
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+        }
+      ],
+      "duration_ms": 139760,
+      "name": "Amos Moses",
+      "url": "https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Freddy Fender Collection",
-        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
       "artists": [
         {
-          "name": "Freddy Fender",
-          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 158306,
-      "name": "Before the Next Teardrop Falls",
-      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
+      "duration_ms": 192800,
+      "name": "Tulsa Time",
+      "url": "https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+        "name": "The Freddy Fender Collection",
+        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
       },
       "artists": [
         {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+          "name": "Freddy Fender",
+          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Tulsa Time",
-      "url": "https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS"
+      "duration_ms": 158306,
+      "name": "Before the Next Teardrop Falls",
+      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1419,6 +1419,22 @@
       "duration_ms": 186333,
       "name": "Two More Bottles of Wine - 2003 Remaster",
       "url": "https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Ramblin' Fever",
+        "url": "https://open.spotify.com/album/4gny1TLw5OtuAceGWhQIHX"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "If We're Not Back In Love By Monday",
+      "url": "https://open.spotify.com/track/3jghFUSMqVsvbIqxW6VIdM"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Ramblin' Fever",
-        "url": "https://open.spotify.com/album/4gny1TLw5OtuAceGWhQIHX"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "If We're Not Back In Love By Monday",
-      "url": "https://open.spotify.com/track/3jghFUSMqVsvbIqxW6VIdM"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Best Of The Bellamy Brothers",
         "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
       },
@@ -1471,22 +1471,6 @@
       "duration_ms": 192040,
       "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
       "url": "https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
-        "name": "Johnny Paycheck - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7EcDMC33XvuCEWwLTwc8N5"
-      },
-      "artists": [
-        {
-          "name": "Johnny Paycheck",
-          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Take This Job and Shove It",
-      "url": "https://open.spotify.com/track/6yT7kcpsXNW7QS9xunPaox"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
+        "name": "Johnny Paycheck - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7EcDMC33XvuCEWwLTwc8N5"
+      },
+      "artists": [
+        {
+          "name": "Johnny Paycheck",
+          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Take This Job and Shove It",
+      "url": "https://open.spotify.com/track/6yT7kcpsXNW7QS9xunPaox"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
         "name": "When I Dream",
         "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 176200,
       "name": "Why Have You Left The One You Left Me For",
       "url": "https://open.spotify.com/track/4u2Fcnbsf2KtH7gE86vxM0"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "HAG: The Hits Volume 2",
+        "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 169346,
+      "name": "The Fightin' Side Of Me",
+      "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Anniversary (Ten Years Of Hits)",
-        "url": "https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 138800,
-      "name": "Her Name Is...",
-      "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "The Essential Tammy Wynette",
         "url": "https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7"
       },
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+        "name": "Anniversary (Ten Years Of Hits)",
+        "url": "https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb"
       },
       "artists": [
         {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 168360,
-      "name": "Some Broken Hearts Never Mend - Single Version",
-      "url": "https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw"
+      "duration_ms": 138800,
+      "name": "Her Name Is...",
+      "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "HAG: The Hits Volume 2",
-        "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 169346,
-      "name": "The Fightin' Side Of Me",
-      "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Phases And Stages",
         "url": "https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 168933,
       "name": "Bloody Mary Morning",
       "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 168360,
+      "name": "Some Broken Hearts Never Mend - Single Version",
+      "url": "https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw"
     }
   ],
   "unique_name": "70s Country",

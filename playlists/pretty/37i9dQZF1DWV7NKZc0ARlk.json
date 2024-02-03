@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 153465,
+  "num_followers": 153693,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTgwY2ZmYWQ1N2UzZTQ5ODNmZjU0YzkwMzhkMzY5ZjJjNGM0OWQx",
+  "snapshot_id": "MCxhMmNhMGZjMmJjZDNhNWZlMmY1Mjg3Y2RmNGU1MjE3ZDU5ZTNkMTY2",
   "tracks": [
     {
       "added_at": "2023-08-11 13:33:49",
@@ -199,6 +199,42 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
+        "name": "MTV Unplugged. El Libro De Las Mutaciones",
+        "url": "https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        },
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 291117,
+      "name": "La chispa adecuada (feat. Le\u00f3n Larregui) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
       },
@@ -223,38 +259,18 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+        "name": "La Guzm\u00e1n en Primera Fila",
+        "url": "https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6"
       },
       "artists": [
         {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
         }
       ],
-      "duration_ms": 218760,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
-        "name": "MTV Unplugged. El Libro De Las Mutaciones",
-        "url": "https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        },
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 291117,
-      "name": "La chispa adecuada (feat. Le\u00f3n Larregui) - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH"
+      "duration_ms": 245400,
+      "name": "Mi Peor Error - Primera Fila [En Vivo]",
+      "url": "https://open.spotify.com/track/4eRSrpFOgXugLRH0odKDej"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -275,22 +291,6 @@
       "duration_ms": 195800,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor (En Vivo) (feat. Rub\u00e9n Albarr\u00e1n)",
       "url": "https://open.spotify.com/track/4KTSH9v9nm4e2oiXa699aC"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
-        "name": "La Guzm\u00e1n en Primera Fila",
-        "url": "https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Mi Peor Error - Primera Fila [En Vivo]",
-      "url": "https://open.spotify.com/track/4eRSrpFOgXugLRH0odKDej"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
+        "name": "MTV Unplugged (En Vivo)",
+        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
       },
       "artists": [
         {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 333253,
-      "name": "Te amar\u00e9 - MTV Unplugged",
-      "url": "https://open.spotify.com/track/1cRNYYuGsB59ymqi6wvTbU"
+      "duration_ms": 362320,
+      "name": "Mi Credo (En Vivo)",
+      "url": "https://open.spotify.com/track/2K5XrnXHgV7r71gbQjxoUo"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "MTV Unplugged (En Vivo)",
-        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
         }
       ],
-      "duration_ms": 362320,
-      "name": "Mi Credo (En Vivo)",
-      "url": "https://open.spotify.com/track/2K5XrnXHgV7r71gbQjxoUo"
+      "duration_ms": 333253,
+      "name": "Te amar\u00e9 - MTV Unplugged",
+      "url": "https://open.spotify.com/track/1cRNYYuGsB59ymqi6wvTbU"
     },
     {
       "added_at": "2023-08-11 13:33:49",

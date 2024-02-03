@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj?si=UC5GokWQQZObai5SqjeeTA">Sinmidele</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,884 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,935 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 46 | [Inumidun](https://open.spotify.com/track/4EOl9JwjmLZdoOiG77H44l) | [Marc Odiba](https://open.spotify.com/artist/68Qg2lgmOoVAXCVSrB2H0T), [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [Inumidun](https://open.spotify.com/album/1kSdrPqNHtHiMHd1YrQu1K) | 2:55 |
 | 47 | [Darling Jesus](https://open.spotify.com/track/7umCBlz9pHwRn8TGyhGXKN) | [Dr\. Ossom](https://open.spotify.com/artist/0TV9CRHK0mIwaqUNLDDg2W), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Darling Jesus](https://open.spotify.com/album/5Xeh4clJo0rM9WHRb7CGXy) | 2:53 |
 | 48 | [Halle](https://open.spotify.com/track/4GWt6P16WBQQFK4VXsPbX8) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Kris Grant](https://open.spotify.com/artist/3ohMd9D8nMYIxHbV9eS0AQ) | [Shepherd](https://open.spotify.com/album/2mf6TRndLJ9XqBGAHfd1vp) | 2:44 |
-| 49 | [What's up](https://open.spotify.com/track/26g3lvoV0OsDqhSdharPMX) | [Naem](https://open.spotify.com/artist/2OCzKgKZzN30diUNr3IvWO), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t) | [What's up](https://open.spotify.com/album/2Fb6bo9CDTUpaWc57ttVJa) | 2:50 |
+| 49 | [What's up](https://open.spotify.com/track/26g3lvoV0OsDqhSdharPMX) | [Naem](https://open.spotify.com/artist/2OCzKgKZzN30diUNr3IvWO), [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [What's up](https://open.spotify.com/album/2Fb6bo9CDTUpaWc57ttVJa) | 2:50 |
 | 50 | [Be Like](https://open.spotify.com/track/0UhB8mb32yNSrlO4c3tohX) | [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1), [GIDYON](https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2) | [Be Like](https://open.spotify.com/album/4ZCWEaEuUr17UM1j7zlzdU) | 2:41 |
 | 51 | [Nazarene](https://open.spotify.com/track/0Xgfoy0VTeCaR7jy8mzpQj) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Decagon](https://open.spotify.com/album/5zcepYAcGr8m0YEmd9k3kl) | 2:51 |
 | 52 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 69 | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9) | 2:53 |
 | 70 | [Able](https://open.spotify.com/track/6ke0delRcd6LPpRb1yxY3G) | [JhonforChrist](https://open.spotify.com/artist/3nuMqFQqdHeM5cldILRXDR), [HartlhaD](https://open.spotify.com/artist/6Yk7U5v34wKHuGQFdT0aAy) | [Able](https://open.spotify.com/album/1fDflEHY7Tc8MSJClipYmQ) | 2:45 |
 
-Snapshot ID: `MCw3NTRmMzI0MjQ3ZGYzOGIwMjY5MTlhZGM3ZmRhNmUxNjQzZWMzY2M0`
+Snapshot ID: `MCxlMWVlZGE2MjE0MWMyMTE4N2RiZWFmNGI2MTQ5YTJiYWQ5MDM2N2E2`

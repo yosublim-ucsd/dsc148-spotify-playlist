@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 33485,
+  "2024-02-03": 33492,
   "date_first_scraped": "2023-12-01",
   "description": "Best of the EDM scene in India. Cover- Ritviz",
   "name": "EDM in India",
@@ -259,10 +259,32 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 230645,
       "name": "Desire",
       "url": "https://open.spotify.com/track/3ksugse2MMQvb5RwILo8gL"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/6BGrMSEHdcrc8tvs5BVqW7"
+      },
+      "artists": [
+        {
+          "name": "Rukhsar Bandhukia",
+          "url": "https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC"
+        },
+        {
+          "name": "Ampresi",
+          "url": "https://open.spotify.com/artist/5Fn1hBOpMl6EGasVkGAZ1P"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230645,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/5jxoaTAMBZvZpN547gsF0e"
     },
     {
       "album": {

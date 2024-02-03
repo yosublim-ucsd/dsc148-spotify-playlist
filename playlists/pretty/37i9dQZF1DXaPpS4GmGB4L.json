@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 58077,
+  "num_followers": 58101,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjk3Y2ZjMGFlMjVhOTUzODI0MTNmM2UwMWQ5MGQyZGI1YzgwZjI0",
+  "snapshot_id": "MCxmNjM3MGM4NDI1MTNjM2NkYzYyY2Y1YzkxNDc5MTM3MDY3YTY2ZTA1",
   "tracks": [
     {
       "added_at": "2023-11-24 19:21:59",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Rock 'N' Roll Rarities",
-        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Nadine - Stereo Remix",
-      "url": "https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Essential Recordings: One Bourbon, One Scotch, One Beer",
         "url": "https://open.spotify.com/album/0LkSSubbJHoVeDNh7GEkLi"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 260426,
       "name": "Move It On Over",
       "url": "https://open.spotify.com/track/5iaBfR3xQnausmGgulSoJE"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Rock 'N' Roll Rarities",
+        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Nadine - Stereo Remix",
+      "url": "https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "Sings Raining In My Heart",
+        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 132173,
+      "name": "Don't Start Crying Now",
+      "url": "https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "Blues Breakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 147560,
       "name": "Steppin' Out - Mono",
       "url": "https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "Sings Raining In My Heart",
-        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 132173,
-      "name": "Don't Start Crying Now",
-      "url": "https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Adobe",
-        "url": "https://open.spotify.com/album/33VPdpWrSixDtnb4xRCQsT"
-      },
-      "artists": [
-        {
-          "name": "Greyhounds",
-          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
-        }
-      ],
-      "duration_ms": 146653,
-      "name": "West Texas",
-      "url": "https://open.spotify.com/track/2kuzkVRpOyQntaeTR2OOPG"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Down The Road Apiece -The Best Of Amos Milburn",
         "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 179893,
       "name": "Down The Road Apiece",
       "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Adobe",
+        "url": "https://open.spotify.com/album/33VPdpWrSixDtnb4xRCQsT"
+      },
+      "artists": [
+        {
+          "name": "Greyhounds",
+          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
+        }
+      ],
+      "duration_ms": 146653,
+      "name": "West Texas",
+      "url": "https://open.spotify.com/track/2kuzkVRpOyQntaeTR2OOPG"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Back to the Blues (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0oy6FL21rdqKFlGEmJfuZp"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Cold Black Night (Live at VH1)",
-      "url": "https://open.spotify.com/track/4YTn5VVoRwySkVvlHOgTU1"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "No Mercy In This Land (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 181979,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/1iET7rB2cxydcGvfDz2jGo"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Back to the Blues (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0oy6FL21rdqKFlGEmJfuZp"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Cold Black Night (Live at VH1)",
+      "url": "https://open.spotify.com/track/4YTn5VVoRwySkVvlHOgTU1"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Flying High",
-        "url": "https://open.spotify.com/album/4JMqOQEwutakJ4kLg1eyt6"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 150616,
-      "name": "Flying High",
-      "url": "https://open.spotify.com/track/79w4w08Q8Rn9uu9bPO3OFr"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Proud Disturber of the Peace",
         "url": "https://open.spotify.com/album/2cIAXqoRWFfKAZxfR5ervI"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 221373,
       "name": "Mind Keeps Changing",
       "url": "https://open.spotify.com/track/5LmnECs0CjogD3qLbMNUf9"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/4JMqOQEwutakJ4kLg1eyt6"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 150616,
+      "name": "Flying High",
+      "url": "https://open.spotify.com/track/79w4w08Q8Rn9uu9bPO3OFr"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/2udPmoj4l0rBZ6HlsxQpY6"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Tyler",
+          "url": "https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU"
+        }
+      ],
+      "duration_ms": 227498,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/5pVzFUkzm4MSTNwlvyaNbu"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "Ain't No Good (But It's Good Enough For Me)",
         "url": "https://open.spotify.com/album/1cXisOYjn31sHHxnEldlbY"
       },
@@ -2215,22 +2231,6 @@
       "duration_ms": 172653,
       "name": "Ain't No Good (But It's Good Enough for Me)",
       "url": "https://open.spotify.com/track/3VUAKOTROGVzwpPFalb70O"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "Movin' On",
-        "url": "https://open.spotify.com/album/2udPmoj4l0rBZ6HlsxQpY6"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Tyler",
-          "url": "https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU"
-        }
-      ],
-      "duration_ms": 227498,
-      "name": "Movin' On",
-      "url": "https://open.spotify.com/track/5pVzFUkzm4MSTNwlvyaNbu"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2267,18 +2267,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Statesboro Blues",
-        "url": "https://open.spotify.com/album/0k5k73GOmLNnVlEpsMklQU"
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
       },
       "artists": [
         {
-          "name": "Sunjay",
-          "url": "https://open.spotify.com/artist/3p62DWI8KdlfX4lNTMNXeu"
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
         }
       ],
-      "duration_ms": 239826,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/0s1KrZNQlczWBv2B6iBFuQ"
+      "duration_ms": 159613,
+      "name": "Kansas City Blues",
+      "url": "https://open.spotify.com/track/3MyWr3R6eiUDDJiTpaFurG"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2299,18 +2299,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+        "name": "Statesboro Blues",
+        "url": "https://open.spotify.com/album/0k5k73GOmLNnVlEpsMklQU"
       },
       "artists": [
         {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+          "name": "Sunjay",
+          "url": "https://open.spotify.com/artist/3p62DWI8KdlfX4lNTMNXeu"
         }
       ],
-      "duration_ms": 159613,
-      "name": "Kansas City Blues",
-      "url": "https://open.spotify.com/track/3MyWr3R6eiUDDJiTpaFurG"
+      "duration_ms": 239826,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/0s1KrZNQlczWBv2B6iBFuQ"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2327,22 +2327,6 @@
       "duration_ms": 196754,
       "name": "RED DRESS",
       "url": "https://open.spotify.com/track/7piAoG8DsUIsXzahToJ5Yb"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "Trouble in Mind",
-        "url": "https://open.spotify.com/album/6qTzLaPhAN34FgEaaqEber"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 130866,
-      "name": "Trouble in Mind",
-      "url": "https://open.spotify.com/track/3aQg5uOkMfakHOcxrUsMf1"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2379,6 +2363,22 @@
       "duration_ms": 180320,
       "name": "The Bait In The Snare",
       "url": "https://open.spotify.com/track/2jk8ZBsS18w67UjQO8u3qK"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Trouble in Mind",
+        "url": "https://open.spotify.com/album/6qTzLaPhAN34FgEaaqEber"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "duration_ms": 130866,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/3aQg5uOkMfakHOcxrUsMf1"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Down At The Railway",
-        "url": "https://open.spotify.com/album/2HvqgtyVEJX3G3eZxkfonX"
-      },
-      "artists": [
-        {
-          "name": "Smokestack Blues Band",
-          "url": "https://open.spotify.com/artist/0ImMr2pKH8DaYvhB6gtV5s"
-        }
-      ],
-      "duration_ms": 196115,
-      "name": "Pack Fair and Square",
-      "url": "https://open.spotify.com/track/3QhDPahbCLsXCNXwjrsySw"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "The Imperial Recordings",
         "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
       },
@@ -2467,18 +2451,38 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Easy / Before Long",
-        "url": "https://open.spotify.com/album/69z9bVNIBVsYOB2tNIVXJt"
+        "name": "Down At The Railway",
+        "url": "https://open.spotify.com/album/2HvqgtyVEJX3G3eZxkfonX"
       },
       "artists": [
         {
-          "name": "Jimmy & Walter",
-          "url": "https://open.spotify.com/artist/4gWn6kCmkp7tqmWkCO59Kb"
+          "name": "Smokestack Blues Band",
+          "url": "https://open.spotify.com/artist/0ImMr2pKH8DaYvhB6gtV5s"
         }
       ],
-      "duration_ms": 177831,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2l9uaFZ6qLT51iuuzCgYIk"
+      "duration_ms": 196115,
+      "name": "Pack Fair and Square",
+      "url": "https://open.spotify.com/track/3QhDPahbCLsXCNXwjrsySw"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Get Your Back Into It!",
+        "url": "https://open.spotify.com/album/4M7Rt8MwypcTSVhG56zYB2"
+      },
+      "artists": [
+        {
+          "name": "Nick Moss Band",
+          "url": "https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM"
+        },
+        {
+          "name": "Dennis Gruenling",
+          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
+        }
+      ],
+      "duration_ms": 244386,
+      "name": "Choose Wisely",
+      "url": "https://open.spotify.com/track/3e8FtZefLisPiLXh6MCSS6"
     },
     {
       "added_at": "2023-11-24 19:21:59",

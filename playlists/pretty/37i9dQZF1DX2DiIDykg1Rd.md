@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/jujubballin/">Juju Watkins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 414 likes - 43 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 415 likes - 43 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 | 24 | [hooligan](https://open.spotify.com/track/3diZz7nVRbyuvAXSW7hzI7) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 2:36 |
 | 25 | [Paint The Sky Red](https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:16 |
 | 26 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 |
-| 27 | [Krank](https://open.spotify.com/track/6vddKOUj2Fx4LEAYxmsT8p) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:55 |
-| 28 | [Confident](https://open.spotify.com/track/5Isz0twJeFdduOQEFQLezv) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Journals](https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml) | 4:08 |
+| 27 | [Confident](https://open.spotify.com/track/5Isz0twJeFdduOQEFQLezv) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Journals](https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml) | 4:08 |
+| 28 | [Krank](https://open.spotify.com/track/6vddKOUj2Fx4LEAYxmsT8p) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:55 |
 | 29 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
 | 30 | [U\-Digg \(feat\. 42 Dugg & Veeze\)](https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [U\-Digg \(feat\. 42 Dugg & Veeze\)](https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ) | 3:55 |
 | 31 | [Ghetto Angels](https://open.spotify.com/track/0T6DHuLI3NANOAFPgE8AXR) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [The Backend Child](https://open.spotify.com/album/5Qg5XiK1Ovgen4JBztGbPr) | 3:55 |
 | 32 | [Girl Like Me \(feat\. H.E.R.\)](https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:44 |
 | 33 | [Canceled](https://open.spotify.com/track/3TOfcOKNuu6ZPZXJie5msH) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Canceled](https://open.spotify.com/album/4KaiF5ihKW95stXJ8XIR22) | 3:03 |
-| 34 | [Chinatown](https://open.spotify.com/track/4XLCFFvRG1qQ8kT4uzwYZC) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:52 |
+| 34 | [Make It Out](https://open.spotify.com/track/4bAPAjc4EmL7YNndqg7AMv) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 0:30 |
 | 35 | [Time \(feat\. Meek Mill\)](https://open.spotify.com/track/1Szfm2XAx3Kgl55dyl8sTU) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:02 |
-| 36 | [Make It Out](https://open.spotify.com/track/4bAPAjc4EmL7YNndqg7AMv) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 0:30 |
+| 36 | [Chinatown](https://open.spotify.com/track/4XLCFFvRG1qQ8kT4uzwYZC) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:52 |
 | 37 | [IN THE MOMENT feat\. Tyler, The Creator](https://open.spotify.com/track/1tXWUIFKPPHLAth1zCGfmj) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:34 |
 | 38 | [Bacc Home](https://open.spotify.com/track/79zXkvfi2y5VsqJMcD3TAP) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Sixtape](https://open.spotify.com/album/75BeQjQ3BwrcWPwf6RCS7P) | 3:02 |
 | 39 | [A1 Since Day 1](https://open.spotify.com/track/3nVp8DQIQU9ow8W0kg6OmO) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [FACE \(Deluxe Edition\)](https://open.spotify.com/album/4GZSso90oXNVv0OdzXGjth) | 3:05 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 | 42 | [Same Thing](https://open.spotify.com/track/2XEsbmynS9dLSzNSuZzfXF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:42 |
 | 43 | [VIOLET SKIES](https://open.spotify.com/track/50mNDRWNIKysdc8v07H8iu) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:04 |
 
-Snapshot ID: `MCw1YWFhOWEwNjk0ZTBmNGJmNGIxZWY2YWUxNTBmMDQ1NmRmM2U0YzU0`
+Snapshot ID: `MCwwZjUxNDVjN2NhZDQyM2MxYjAyZDM5MDY3MGJkNmE5YWEyNWNhNjky`

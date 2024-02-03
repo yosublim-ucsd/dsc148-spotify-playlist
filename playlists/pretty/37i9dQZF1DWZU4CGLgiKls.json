@@ -1,12 +1,12 @@
 {
   "description": "Se viene el partido, la previa es con m\u00fasica!",
-  "num_followers": 564099,
+  "num_followers": 563998,
   "original_name": "Previa Futbolera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDA1NDM4NTk1ZDNkYzNiOTM4OWI4ZGY0ZGY4NDgwMTkwZWY0MDJm",
+  "snapshot_id": "MCwzNjVmZjY1YzkwMGFmYWZhMjdiMDkzNmE2ZDE1MjEwNDBkYzA1YjFk",
   "tracks": [
     {
       "added_at": "2022-11-29 20:21:38",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-11-29 20:21:38",
       "album": {
+        "name": "Motivando a la Yal",
+        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 232019,
+      "name": "Yo Voy (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
+    },
+    {
+      "added_at": "2022-11-29 20:21:38",
+      "album": {
         "name": "Mon Amour (Remix)",
         "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 179940,
       "name": "Mon Amour - Remix",
       "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
-    },
-    {
-      "added_at": "2022-11-29 20:21:38",
-      "album": {
-        "name": "Motivando a la Yal",
-        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 232019,
-      "name": "Yo Voy (feat. Daddy Yankee)",
-      "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
     },
     {
       "added_at": "2022-11-29 20:21:38",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-11-29 20:21:38",
       "album": {
-        "name": "pa quererte",
-        "url": "https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "pa quererte",
-      "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
-    },
-    {
-      "added_at": "2022-11-29 20:21:38",
-      "album": {
         "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
         "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 260000,
       "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
       "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
+    },
+    {
+      "added_at": "2022-11-29 20:21:38",
+      "album": {
+        "name": "pa quererte",
+        "url": "https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "pa quererte",
+      "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
     },
     {
       "added_at": "2022-11-29 20:21:38",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-11-29 20:21:38",
       "album": {
-        "name": "ARRANCARMELO",
-        "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 183547,
-      "name": "ARRANCARMELO",
-      "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
-    },
-    {
-      "added_at": "2022-11-29 20:21:38",
-      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -803,22 +787,18 @@
     {
       "added_at": "2022-11-29 20:21:38",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
+        "name": "ARRANCARMELO",
+        "url": "https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+      "duration_ms": 183547,
+      "name": "ARRANCARMELO",
+      "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
     },
     {
       "added_at": "2022-11-29 20:21:38",
@@ -835,6 +815,26 @@
       "duration_ms": 184666,
       "name": "Segundos Platos",
       "url": "https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM"
+    },
+    {
+      "added_at": "2022-11-29 20:21:38",
+      "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
     },
     {
       "added_at": "2022-11-29 20:21:38",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-11-29 20:21:38",
       "album": {
-        "name": "PUNTO G",
-        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 151324,
-      "name": "PUNTO G",
-      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
-    },
-    {
-      "added_at": "2022-11-29 20:21:38",
-      "album": {
         "name": "Libertad",
         "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 283884,
       "name": "Por Mil Noches",
       "url": "https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62"
+    },
+    {
+      "added_at": "2022-11-29 20:21:38",
+      "album": {
+        "name": "PUNTO G",
+        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 151324,
+      "name": "PUNTO G",
+      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
     },
     {
       "added_at": "2022-11-29 20:21:38",
@@ -1027,22 +1027,6 @@
       "duration_ms": 171000,
       "name": "Los Tragos",
       "url": "https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP"
-    },
-    {
-      "added_at": "2022-11-29 20:21:38",
-      "album": {
-        "name": "Magos, Espadas Y Rosas",
-        "url": "https://open.spotify.com/album/3wNTH6hg5KKjRtLJZHxhB9"
-      },
-      "artists": [
-        {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
-        }
-      ],
-      "duration_ms": 363120,
-      "name": "Mujer Amante",
-      "url": "https://open.spotify.com/track/4eCrF1FgVL4se3AkHOnLDL"
     },
     {
       "added_at": "2022-11-29 20:21:38",
@@ -1187,6 +1171,22 @@
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
+    },
+    {
+      "added_at": "2022-11-29 20:21:38",
+      "album": {
+        "name": "Mystic Love",
+        "url": "https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
     }
   ],
   "unique_name": "Previa Futbolera",

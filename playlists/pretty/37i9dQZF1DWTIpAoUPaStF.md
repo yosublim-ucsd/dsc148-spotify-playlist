@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 
 > Música para ver llover, con buen cobijo y una taza de té entre las manos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,092 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,105 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 | 46 | [Take Me To Church](https://open.spotify.com/track/2zaaF3DvabHfFQPnIYVVUG) | [Tomas Lee](https://open.spotify.com/artist/4gAbYtySCDOGOXHEUjrQVe) | [Take me to Church](https://open.spotify.com/album/2R23J1fwtVsyB0kSW00dAp) | 3:45 |
 | 47 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/0AlgkqrQnGTXJ0Onk2Ok95) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 2:52 |
 | 48 | [Lydia Wears A Cross](https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 4:01 |
-| 49 | [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 |
-| 50 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 |
+| 49 | [Cuckoo Song](https://open.spotify.com/track/5zqCzVj317vQkwVHqQcvZA) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/74ExKX0TXhIQE30UrTiPlD) | 3:05 |
+| 50 | [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 |
 
-Snapshot ID: `MCxhOTA5ZmVmOTE2NmJjNDE3NmZmOWQyZDA5M2I3MTUyZTc2NGVkOWY0`
+Snapshot ID: `MCw2YTQ3YTk4YWI0ZDE5ZDU1ZDIzN2Y2MjIzNmUwMTdkM2U4ZGI0MGJl`

@@ -2,9 +2,9 @@
 
 ### [Proper Belters](https://open.spotify.com/playlist/37i9dQZF1DWWjDnew1mOxr)
 
-> Boss music for boss people\. Cover: Red Rum Club
+> Boss music for boss people\. Cover: JAMIE WEBSTER
 
-212 songs - 12 hr 7 min
+214 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Back to the Light](https://open.spotify.com/track/3DbbslE3KZNVQ2aCsjcF40) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Back to the Light](https://open.spotify.com/album/5HsJ8jtEXFxujuleSECHng) | 3:06 | 2023-09-19 | 2023-09-25 |
 | [Baggio](https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Baggio](https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg) | 3:41 | 2023-05-19 |  |
 | [Be Someone](https://open.spotify.com/track/3cZejV8KMlKPA4hWBNkBVM) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 3:50 | 2023-03-31 | 2023-09-17 |
+| [Better Day](https://open.spotify.com/track/0UG7NIRTR70z5rd7Nii1tl) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS), [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [10 For The People](https://open.spotify.com/album/79ARqZZ3ciUJVsJaIqh4N2) | 4:12 | 2024-02-02 |  |
 | [Better Luck Next Time](https://open.spotify.com/track/7emXHhr2yFGO7mSVZnNHjB) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Better Luck Next Time](https://open.spotify.com/album/7LRaEYO1IbbqjIm8hyxmLu) | 3:53 | 2023-10-27 |  |
 | [Big Deal](https://open.spotify.com/track/71V2WDbjwMTVPhbKzX8r0j) | [Cortney Dixon](https://open.spotify.com/artist/1KyaMEHOakwjwLlLYorYYp) | [Big Deal](https://open.spotify.com/album/5aX2YO1amh4g9A20dlnT3T) | 3:45 | 2023-01-10 | 2023-06-08 |
 | [Big Fish, Small Pond](https://open.spotify.com/track/54x9jwJU7a0xUjT1hbFtDi) | [Afflecks Palace](https://open.spotify.com/artist/4IPPxhNko81s8pZsgyYhYW) | [Big Fish, Small Pond](https://open.spotify.com/album/3Z9XtwBfGd68EAyKBGZDao) | 3:31 | 2023-01-10 | 2023-04-19 |
@@ -47,6 +48,7 @@
 | [Cherophobe](https://open.spotify.com/track/08VN91L0UaY6B2wcSd4ojR) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [The Deep End](https://open.spotify.com/album/5rpid48frWQDEjW1vrxgk8) | 4:16 | 2023-05-11 | 2023-09-20 |
 | [Come Over](https://open.spotify.com/track/18ZevcdeL1RTvZ17JXJpO3) | [Dirty Blonde](https://open.spotify.com/artist/2DgztFhlbYMAJ5JNxTjuhc) | [Come Over](https://open.spotify.com/album/19Q2mYMVQ6hRZRBcmb27jw) | 3:26 | 2023-02-24 | 2023-06-10 |
 | [Come Over](https://open.spotify.com/track/3fyIwr5p1pZ4uPpUrGETLN) | [Dirty Blonde](https://open.spotify.com/artist/2DgztFhlbYMAJ5JNxTjuhc) | [Come Over](https://open.spotify.com/album/6UzUGO9oaMhbekhTHgsw2Q) | 3:26 | 2023-07-28 | 2023-09-20 |
+| [Cool](https://open.spotify.com/track/4VXp7nrIktWwSQCsHtJdw5) | [Joely June](https://open.spotify.com/artist/3Zjp1y6YgPwFDX3PlTJd1j) | [Cool](https://open.spotify.com/album/4MwJeWVLpONURioQjiV3mr) | 3:55 | 2024-02-02 |  |
 | [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 | 2024-01-26 |  |
 | [Day Glow](https://open.spotify.com/track/6re1o3rJ5vUZ97HqArXQLa) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Sick Moon](https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd) | 4:31 | 2023-01-10 | 2023-06-08 |
 | [days like these](https://open.spotify.com/track/3HGBDwd7WgDb5B2Arr30fV) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [days like these](https://open.spotify.com/album/205F9vWMOP9BqDHjwhSZ6d) | 2:14 | 2023-10-20 | 2023-12-14 |
@@ -85,7 +87,7 @@
 | [Godless](https://open.spotify.com/track/2i5hj65DeRRQFaI2Rv5rrw) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Godless](https://open.spotify.com/album/5tQEXsq6dauitENEbbcqPs) | 3:19 | 2023-10-20 |  |
 | [Going Nowhere](https://open.spotify.com/track/07PfgizN70SFfSP134eAU2) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [People Like Me & You](https://open.spotify.com/album/5CctSFDfkZCmQOp5vMfGA4) | 3:56 | 2023-08-04 |  |
 | [Good Luck Charm](https://open.spotify.com/track/68eOhyvEU7MFO0xBQr9xCP) | [THE GOA EXPRESS](https://open.spotify.com/artist/0uuWKORLosOJB3L6D7zplX) | [Good Luck Charm](https://open.spotify.com/album/19JgrZnZm3m5jEhinTcltf) | 3:07 | 2023-04-18 | 2023-12-16 |
-| [Good Luck Charm](https://open.spotify.com/track/7vhoCbeVYwycZ0bMc3Vviy) | [THE GOA EXPRESS](https://open.spotify.com/artist/0uuWKORLosOJB3L6D7zplX) | [The Goa Express](https://open.spotify.com/album/1PmtNSFs3k1KcKUdR6LLZx) | 3:08 | 2023-10-20 |  |
+| [Good Luck Charm](https://open.spotify.com/track/7vhoCbeVYwycZ0bMc3Vviy) | [THE GOA EXPRESS](https://open.spotify.com/artist/0uuWKORLosOJB3L6D7zplX) | [The Goa Express](https://open.spotify.com/album/1PmtNSFs3k1KcKUdR6LLZx) | 3:08 | 2023-10-20 | 2024-02-03 |
 | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/track/38HNASK1K4hAuLD1BRIQan) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Goonies \(I Only Tolerate You\)](https://open.spotify.com/album/53R61BIJ4taXnBztmuLVNH) | 2:18 | 2023-01-10 | 2023-12-22 |
 | [Happy Cars](https://open.spotify.com/track/00yseVGAUk5VMh9OD4BSRv) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Happy Cars](https://open.spotify.com/album/0GMlRNkhMhknJZ8oVLpEXw) | 3:17 | 2023-10-27 |  |
 | [Hard To Love](https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0) | [Better Joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Hard To Love](https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd) | 2:48 | 2023-10-20 |  |
@@ -136,7 +138,7 @@
 | [Lap Around The Sun](https://open.spotify.com/track/7iC546xP2SSf2Ws3fKeG9X) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Lap Around The Sun](https://open.spotify.com/album/4H7EQv3aw3XFT3cODg7TWQ) | 3:04 | 2023-12-22 | 2024-01-27 |
 | [Lazy Brain](https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Deepest Blue](https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl) | 3:38 | 2023-07-28 | 2023-12-22 |
 | [Leader of the Pack](https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:03 | 2023-03-13 |  |
-| [Lets Stay out Tonight](https://open.spotify.com/track/6EN2izjvx1QpyM7JTz7mij) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Emergency \(15 Year Anniversary Version\)](https://open.spotify.com/album/56nvxwuP4qL4GhO6ZgKjGS) | 2:34 | 2023-02-24 |  |
+| [Lets Stay out Tonight](https://open.spotify.com/track/6EN2izjvx1QpyM7JTz7mij) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Emergency \(15 Year Anniversary Version\)](https://open.spotify.com/album/56nvxwuP4qL4GhO6ZgKjGS) | 2:34 | 2023-02-24 | 2024-02-03 |
 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 | 2023-01-10 |  |
 | [little victories](https://open.spotify.com/track/18YO4r2xH4uayIv4qKwsTl) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [nothing's on but everyone's watching](https://open.spotify.com/album/2kj0LkKUt9DRZl4dn3nfVd) | 2:54 | 2023-01-10 | 2024-01-27 |
 | [Lost Without You](https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Lost Without You](https://open.spotify.com/album/6bjbaKvxQUftREKm8amxOe) | 3:47 | 2023-01-10 | 2024-01-27 |

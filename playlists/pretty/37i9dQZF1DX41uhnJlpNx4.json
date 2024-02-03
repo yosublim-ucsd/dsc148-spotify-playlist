@@ -1,12 +1,12 @@
 {
   "description": "los tenis bien limpios y la bocina retumbando",
-  "num_followers": 57326,
+  "num_followers": 57367,
   "original_name": "sneakerhead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWNhNzM0MzM4MTJhMjMwYTVmNTM3ZTE2MzAyNzQ1YmY3NTA0MmM2",
+  "snapshot_id": "MCw3YWExNjVkZDcxNmZkN2FiOGQ1YzU3OWQ4MjIxNmU1MmJmOTQ0OTZk",
   "tracks": [
     {
       "added_at": "2023-07-04 18:26:10",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-07-04 18:26:10",
       "album": {
-        "name": "SABOR FRESA",
-        "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "SABOR FRESA",
-      "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
-    },
-    {
-      "added_at": "2023-07-04 18:26:10",
-      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -263,6 +247,22 @@
     {
       "added_at": "2023-07-04 18:26:10",
       "album": {
+        "name": "SABOR FRESA",
+        "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "SABOR FRESA",
+      "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
+    },
+    {
+      "added_at": "2023-07-04 18:26:10",
+      "album": {
         "name": "Por las Noches",
         "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
       },
@@ -275,38 +275,6 @@
       "duration_ms": 239845,
       "name": "Por las Noches",
       "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
-    },
-    {
-      "added_at": "2023-07-04 18:26:10",
-      "album": {
-        "name": "WHERE SHE GOES",
-        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 231704,
-      "name": "WHERE SHE GOES",
-      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
-    },
-    {
-      "added_at": "2023-07-04 18:26:10",
-      "album": {
-        "name": "SIXDO",
-        "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 168133,
-      "name": "CHORRITO PA LAS ANIMAS",
-      "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
     },
     {
       "added_at": "2023-07-04 18:26:10",
@@ -331,6 +299,38 @@
     {
       "added_at": "2023-07-04 18:26:10",
       "album": {
+        "name": "SIXDO",
+        "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 168133,
+      "name": "CHORRITO PA LAS ANIMAS",
+      "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
+    },
+    {
+      "added_at": "2023-07-04 18:26:10",
+      "album": {
+        "name": "WHERE SHE GOES",
+        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 231704,
+      "name": "WHERE SHE GOES",
+      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
+    },
+    {
+      "added_at": "2023-07-04 18:26:10",
+      "album": {
         "name": "A M\u00ed",
         "url": "https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO"
       },
@@ -343,6 +343,26 @@
       "duration_ms": 209680,
       "name": "A M\u00ed",
       "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
+    },
+    {
+      "added_at": "2023-07-04 18:26:10",
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 232131,
+      "name": "MOJABI GHOST",
+      "url": "https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e"
     },
     {
       "added_at": "2023-07-04 18:26:10",
@@ -375,22 +395,6 @@
     {
       "added_at": "2023-07-04 18:26:10",
       "album": {
-        "name": "TQM",
-        "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 158965,
-      "name": "TQM",
-      "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
-    },
-    {
-      "added_at": "2023-07-04 18:26:10",
-      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -407,26 +411,6 @@
     {
       "added_at": "2023-07-04 18:26:10",
       "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 232131,
-      "name": "MOJABI GHOST",
-      "url": "https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e"
-    },
-    {
-      "added_at": "2023-07-04 18:26:10",
-      "album": {
         "name": "Jordan",
         "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 176142,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
+    },
+    {
+      "added_at": "2023-07-04 18:26:10",
+      "album": {
+        "name": "TQM",
+        "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 158965,
+      "name": "TQM",
+      "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
     },
     {
       "added_at": "2023-07-04 18:26:10",
@@ -555,22 +555,22 @@
     {
       "added_at": "2023-07-04 18:26:10",
       "album": {
-        "name": "Pa Que Hablen",
-        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
           "name": "Peso Pluma",
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 166821,
-      "name": "Igualito a Mi Ap\u00e1",
-      "url": "https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd"
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
       "added_at": "2023-07-04 18:26:10",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-07-04 18:26:10",
       "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
-    },
-    {
-      "added_at": "2023-07-04 18:26:10",
-      "album": {
         "name": "El Gavil\u00e1n",
         "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 175295,
       "name": "El Gavil\u00e1n",
       "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
+    },
+    {
+      "added_at": "2023-07-04 18:26:10",
+      "album": {
+        "name": "Pa Que Hablen",
+        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 166821,
+      "name": "Igualito a Mi Ap\u00e1",
+      "url": "https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd"
     },
     {
       "added_at": "2023-07-04 18:26:10",
@@ -1027,8 +1027,8 @@
     {
       "added_at": "2023-07-04 18:26:10",
       "album": {
-        "name": "Vamos Para Arriba",
-        "url": "https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37"
+        "name": "CONTINGENTE",
+        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
       },
       "artists": [
         {
@@ -1036,13 +1036,13 @@
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
         }
       ],
-      "duration_ms": 172227,
-      "name": "Vamos Para Arriba",
-      "url": "https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH"
+      "duration_ms": 225306,
+      "name": "COLOGNE",
+      "url": "https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD"
     },
     {
       "added_at": "2023-07-04 18:26:10",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-07-04 18:26:10",
       "album": {
-        "name": "El Rescate",
-        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 160897,
-      "name": "El Rescate",
-      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
-    },
-    {
-      "added_at": "2023-07-04 18:26:10",
-      "album": {
         "name": "La Mamoncita del Insta",
         "url": "https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 193193,
       "name": "La Mamoncita del Insta",
       "url": "https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV"
+    },
+    {
+      "added_at": "2023-07-04 18:26:10",
+      "album": {
+        "name": "El Rescate",
+        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 160897,
+      "name": "El Rescate",
+      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
     },
     {
       "added_at": "2023-07-04 18:26:10",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-07-04 18:26:10",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 174272,
-      "name": "El Fat Tony",
-      "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
-    },
-    {
-      "added_at": "2023-07-04 18:26:10",
-      "album": {
         "name": "Sincopa",
         "url": "https://open.spotify.com/album/4u16vv7jUXm8XTdvd2szGH"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 292160,
       "name": "Bombos y Tarolas",
       "url": "https://open.spotify.com/track/5HxcRTUT0X0X7WzwPoj0cm"
+    },
+    {
+      "added_at": "2023-07-04 18:26:10",
+      "album": {
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 174272,
+      "name": "El Fat Tony",
+      "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
     },
     {
       "added_at": "2023-07-04 18:26:10",
@@ -1699,8 +1699,8 @@
     {
       "added_at": "2023-07-04 18:26:10",
       "album": {
-        "name": "CONTINGENTE",
-        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
+        "name": "Vamos Para Arriba",
+        "url": "https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37"
       },
       "artists": [
         {
@@ -1708,13 +1708,13 @@
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         },
         {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 225306,
-      "name": "COLOGNE",
-      "url": "https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD"
+      "duration_ms": 172227,
+      "name": "Vamos Para Arriba",
+      "url": "https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH"
     },
     {
       "added_at": "2023-07-04 18:26:10",

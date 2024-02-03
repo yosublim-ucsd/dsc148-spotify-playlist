@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 11585,
+  "num_followers": 11592,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTE5N2YzNGEzMGYyZjJiYmU0YzFmZWFmZWExODE2MzU3YzFkODc1",
+  "snapshot_id": "MCw4MTFhNWRmNDYzNjk1MzVlODJmOTBiODc4N2E2YmY1OWVlNWVjMzEw",
   "tracks": [
     {
       "added_at": "2021-03-11 16:28:13",
@@ -347,18 +347,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\ub178.\ub77c.\ubcf4.\uc138.",
-        "url": "https://open.spotify.com/album/1tuwThsZGSZiqNxM03e4li"
+        "name": "2016 Re-ALBUM",
+        "url": "https://open.spotify.com/album/3RLZMnWVAtvQPy0G4FvRGs"
       },
       "artists": [
         {
-          "name": "JINUSEAN",
-          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
+          "name": "SECHSKIES",
+          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Phone Number",
-      "url": "https://open.spotify.com/track/7IErrQn4dPUf5ch0EQVEPp"
+      "duration_ms": 246486,
+      "name": "COUPLE (2016)",
+      "url": "https://open.spotify.com/track/5sklZGhk3p0jrVSZ6zUfQ6"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -379,18 +379,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "2016 Re-ALBUM",
-        "url": "https://open.spotify.com/album/3RLZMnWVAtvQPy0G4FvRGs"
+        "name": "\ub178.\ub77c.\ubcf4.\uc138.",
+        "url": "https://open.spotify.com/album/1tuwThsZGSZiqNxM03e4li"
       },
       "artists": [
         {
-          "name": "SECHSKIES",
-          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
+          "name": "JINUSEAN",
+          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
         }
       ],
-      "duration_ms": 246486,
-      "name": "COUPLE (2016)",
-      "url": "https://open.spotify.com/track/5sklZGhk3p0jrVSZ6zUfQ6"
+      "duration_ms": 212306,
+      "name": "Phone Number",
+      "url": "https://open.spotify.com/track/7IErrQn4dPUf5ch0EQVEPp"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\ud654\uc0b0",
-        "url": "https://open.spotify.com/album/05cmrYERspfIVBw3Hx57DV"
-      },
-      "artists": [
-        {
-          "name": "Park Sang Min",
-          "url": "https://open.spotify.com/artist/7nbE2lMt1tbp5y3Uivn0bu"
-        }
-      ],
-      "duration_ms": 265508,
-      "name": "\ubb34\uae30\uc5ec \uc798 \uc788\uac70\ub77c",
-      "url": "https://open.spotify.com/track/2r6mL74mX7G7BMAPqXBPsF"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
         "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 226667,
       "name": "\ud504\ub85c\uc640 \uc544\ub9c8\uce04\uc5b4",
       "url": "https://open.spotify.com/track/4iYW28u7mpxEokJT2zPGmp"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "\ud654\uc0b0",
+        "url": "https://open.spotify.com/album/05cmrYERspfIVBw3Hx57DV"
+      },
+      "artists": [
+        {
+          "name": "Park Sang Min",
+          "url": "https://open.spotify.com/artist/7nbE2lMt1tbp5y3Uivn0bu"
+        }
+      ],
+      "duration_ms": 265508,
+      "name": "\ubb34\uae30\uc5ec \uc798 \uc788\uac70\ub77c",
+      "url": "https://open.spotify.com/track/2r6mL74mX7G7BMAPqXBPsF"
     },
     {
       "added_at": "2021-03-11 16:28:13",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Yvnnis
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,051 likes - 46 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,042 likes - 46 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rome](https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome](https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST) | 2:41 |
 | 2 | [12HEURES MINUIT](https://open.spotify.com/track/3xSi7D0gRrcPMV89JbxkBp) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz) | [RECHERCHE&DESTRUCTION](https://open.spotify.com/album/7KbUIt8qVNwQK8WFze3nS4) | 3:47 |
-| 3 | [j'en ai marre](https://open.spotify.com/track/4jmLCAQXdVuQmtODq9mMEA) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [premiers chocs](https://open.spotify.com/album/5jUJHvqGAbvklfgPy9z2gy) | 2:29 |
+| 3 | [j'en ai marre \- bonus](https://open.spotify.com/track/4jmLCAQXdVuQmtODq9mMEA) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [premiers chocs](https://open.spotify.com/album/5jUJHvqGAbvklfgPy9z2gy) | 2:29 |
 | 4 | [GARE DU NORD](https://open.spotify.com/track/2KjPE7Km3e8ILfin60DEFF) | [Yvnnis](https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb) | [L'AFRO OU LES TRESSES](https://open.spotify.com/album/5GaFutbilpzWUYP0kkoVPP) | 3:11 |
 | 5 | [Bécane](https://open.spotify.com/track/424utU9OlUcB7j2LRU9l6f) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ELOWI](https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2) | 3:03 |
 | 6 | [J'aimerais danser avec toi](https://open.spotify.com/track/1fWvBuZBG7AomF8Qk27vMM) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [J'aimerais danser avec toi](https://open.spotify.com/album/5V5TGyamn7lRkTfnoYM8vO) | 2:39 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 45 | [Docteur](https://open.spotify.com/track/0WoXJsM5EKwhYURKx3p1p2) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [La fin de la nuit](https://open.spotify.com/album/61B9Jgp1u9U46CUNIFOJfb) | 2:57 |
 | 46 | [Alcool Alcool](https://open.spotify.com/track/6wriPlx1qGGI7yOrtSGNvY) | [Gargäntua](https://open.spotify.com/artist/1ScFJG5ccOnTPPUin8cPFu) | [Immoral & Illégal](https://open.spotify.com/album/0KKgZIUwkhKV82olpr3QIU) | 3:53 |
 
-Snapshot ID: `MCw5NDNiNmU0MGY4M2NkMjk0NTk0ZWQzZWY0OTNmNjc0OTA1NzM0N2Vk`
+Snapshot ID: `MCxlOTA2YWE4MmZmNDI3ZGNmZmY0ZTg5NGUzOTM5NTkzNWM5YWZjMDU2`

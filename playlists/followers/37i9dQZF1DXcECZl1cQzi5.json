@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 14106,
+  "2024-02-03": 14210,
   "date_first_scraped": "2023-10-24",
   "description": "Ocean sounds and calming music to float away on. Breathe with the ebb and flow of the sea. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores. ",
   "name": "Island of Serenity",
@@ -179,7 +179,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 163291,
       "name": "Breezing",
       "url": "https://open.spotify.com/track/6pvbXU9Iop7E38IDOR269J"
@@ -615,6 +615,24 @@
       "duration_ms": 181750,
       "name": "Lumen At The Beach",
       "url": "https://open.spotify.com/track/5wvyUoWHUim7nBqYfqhOfp"
+    },
+    {
+      "album": {
+        "name": "Lunar Light",
+        "url": "https://open.spotify.com/album/6R8vfuIg3yjiwI4wH9P2L9"
+      },
+      "artists": [
+        {
+          "name": "J. Cartwright",
+          "url": "https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152441,
+      "name": "Lunar Light",
+      "url": "https://open.spotify.com/track/0dmBrC4r1VWnGusD26usj1"
     },
     {
       "album": {

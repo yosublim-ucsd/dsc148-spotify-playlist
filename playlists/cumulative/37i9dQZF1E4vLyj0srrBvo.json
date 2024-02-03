@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 191466,
       "name": "180db_ [130]",
       "url": "https://open.spotify.com/track/5oKbtirX6EbMMOgD2fMJ6E"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 157973,
       "name": "Advice",
       "url": "https://open.spotify.com/track/3poJLRLGViMX3gicX9UYtD"
@@ -972,7 +972,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 224417,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/0FLFE8mxBn1yWAX8s2L8ru"
@@ -4426,7 +4426,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Brian is the Most Beautiful",
       "url": "https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX"
@@ -5626,7 +5626,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 198960,
       "name": "Cigarettes out the Window",
       "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO"
@@ -6588,7 +6588,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 126663,
       "name": "Cry (feat. Grimes)",
       "url": "https://open.spotify.com/track/1jR9XTpUeT6a82Yz4GNCCo"
@@ -8068,7 +8068,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
@@ -8490,7 +8490,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 211226,
       "name": "Elephant",
       "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
@@ -9858,7 +9858,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 177093,
       "name": "Flim",
       "url": "https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7"
@@ -10480,6 +10480,28 @@
       "duration_ms": 161000,
       "name": "GECKO",
       "url": "https://open.spotify.com/track/6wEdrAyiVEj6ltiwnMW9Bu"
+    },
+    {
+      "album": {
+        "name": "Geneis (Reverb, Slowed)",
+        "url": "https://open.spotify.com/album/0vZ6rqCNOdyCS4And6fC2Z"
+      },
+      "artists": [
+        {
+          "name": "spinning.ages",
+          "url": "https://open.spotify.com/artist/4QhUfSyKfmoAuijHpLv3iO"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274038,
+      "name": "Geneis - Reverb, Slowed",
+      "url": "https://open.spotify.com/track/4KzZinOmTzdDYz7QHtNLLd"
     },
     {
       "album": {
@@ -11136,7 +11158,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 283053,
       "name": "Golden Light",
       "url": "https://open.spotify.com/track/1rPYEWQfIRo5A4fvLgFbBe"
@@ -11606,7 +11628,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 126616,
       "name": "hand crushed by a mallet",
       "url": "https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS"
@@ -13446,7 +13468,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 161462,
       "name": "i was all over her",
       "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"
@@ -13916,7 +13938,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 249208,
       "name": "Illest Alive",
       "url": "https://open.spotify.com/track/6OsAdrgNaI7yeXVccv0Cq3"
@@ -16148,7 +16170,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 207986,
       "name": "Lithium",
       "url": "https://open.spotify.com/track/3ofiQMPt5OZZTzzsCewZBU"
@@ -17144,7 +17166,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 197733,
       "name": "Mary",
       "url": "https://open.spotify.com/track/4p9iQNEmsIGkB6eG8Val8n"
@@ -17625,6 +17647,24 @@
     },
     {
       "album": {
+        "name": "Wlfgrl",
+        "url": "https://open.spotify.com/album/1GezMTE4OA4tikMDBQK5u3"
+      },
+      "artists": [
+        {
+          "name": "Machine Girl",
+          "url": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46086,
+      "name": "Mg1",
+      "url": "https://open.spotify.com/track/7uk7aG1O2lYLbIt4hE7p5d"
+    },
+    {
+      "album": {
         "name": "Tommy Genesis",
         "url": "https://open.spotify.com/album/5c5i8rgLzFHNI5Y3Wc1C39"
       },
@@ -17954,7 +17994,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 147355,
       "name": "Mitosis",
       "url": "https://open.spotify.com/track/4H97Ldkl4dvkGbcfqZxUhJ"
@@ -18582,7 +18622,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 187506,
       "name": "Navy Light",
       "url": "https://open.spotify.com/track/6o43Gi1cX7Nyi6koSkwIBc"
@@ -19970,7 +20010,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 170893,
       "name": "Only in My Dreams",
       "url": "https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz"
@@ -21014,7 +21054,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 185278,
       "name": "Play Destroy",
       "url": "https://open.spotify.com/track/3X3FzrA32EbYvu3n3526w4"
@@ -22616,7 +22656,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 106102,
       "name": "Romanticist",
       "url": "https://open.spotify.com/track/3nRhH5u3TE6HtvBH6mNwzY"
@@ -24548,7 +24588,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 109280,
       "name": "Smells Blood",
       "url": "https://open.spotify.com/track/6ZRxnIHvjN0qTVRwz3PLtO"
@@ -25262,7 +25302,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 148955,
       "name": "Sour Switchblade",
       "url": "https://open.spotify.com/track/4wFeMmJDlgkAxlQ07PbdGZ"
@@ -25298,7 +25338,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
@@ -27042,7 +27082,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 216320,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
@@ -28164,7 +28204,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 228800,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/6d67Xv8ms2noA8wWFLiPDN"
@@ -30446,7 +30486,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 124285,
       "name": "XXX",
       "url": "https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT"

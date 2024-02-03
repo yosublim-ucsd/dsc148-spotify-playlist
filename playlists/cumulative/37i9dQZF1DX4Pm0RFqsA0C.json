@@ -1291,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "Hong Kyung Min 3",
+        "url": "https://open.spotify.com/album/6FbXUjkxvD1eJKmKQCkhUO"
+      },
+      "artists": [
+        {
+          "name": "Hong Kyung-min",
+          "url": "https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy"
+        }
+      ],
+      "date_added": "2021-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "Shaky Friendship (Euro Remix)",
+      "url": "https://open.spotify.com/track/166EkT4NRwEFtikmBubyJm"
+    },
+    {
+      "album": {
         "name": "\ud64d\uacbd\ubbfc Vol. 3",
         "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
       },
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 243200,
       "name": "Shaky Friendship - Euru Remix Version",
       "url": "https://open.spotify.com/track/2XfDYBZioldmlLDb2EfWPC"

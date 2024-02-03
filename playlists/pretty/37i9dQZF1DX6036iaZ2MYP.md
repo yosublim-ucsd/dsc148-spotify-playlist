@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Zlatan
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,733 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,833 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 17 | [Faaji](https://open.spotify.com/track/1I1UC0ljqNUEHTfVsZNJCU) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Lazy Girl](https://open.spotify.com/album/79qFfx2Gmq4UAotRx6V0AW) | 2:32 |
 | 18 | [Kristy](https://open.spotify.com/track/6GWqhQrOMHdyHxwSNdctaf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Kristy](https://open.spotify.com/album/4b0c1lr72jmvi93sJFKYq1) | 4:20 |
 | 19 | [Mauvais choix](https://open.spotify.com/track/6fZlsJQubW1EkVRdn3PUKN) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG), [Gtnn](https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk) | [Mauvais choix](https://open.spotify.com/album/3nem9uxRb5gTgxFi5KvmML) | 3:00 |
-| 20 | [I Dey Slide](https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [I Dey Slide](https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo) | 3:23 |
+| 20 | [I Dey Slide](https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [I Dey Slide](https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo) | 3:22 |
 | 21 | [KUPE](https://open.spotify.com/track/7fUY7l9bzrVALFIlO5UwgD) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [KUPE](https://open.spotify.com/album/2FoYINaJqu5rL58c90P25U) | 2:17 |
 | 22 | [Let You Down](https://open.spotify.com/track/3apziXJWNWQPmpTceYJSZZ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X), [Kemena](https://open.spotify.com/artist/0SGTAjot9GShYwCQ69DfG2) | [Let You Down](https://open.spotify.com/album/6Up0QUA4FZV8K4xXvtzDom) | 3:25 |
 | 23 | [KATIGORI](https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [DND](https://open.spotify.com/track/7rq2a8EUvg6GCRjXu7TboU) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [DND](https://open.spotify.com/album/6Ueh5KmW1CldZQyTubccOZ) | 2:44 |
 | 50 | [Nouveau Dossier](https://open.spotify.com/track/0FnkamDeASFZ49DlYzQXFF) | [C\-lina](https://open.spotify.com/artist/4UkywnuqJOUz6YuvuCEyLm) | [Nouveau Dossier](https://open.spotify.com/album/5dfYD2dYiRYQVYLmjryGop) | 2:19 |
 
-Snapshot ID: `MCwxMzFjZmRmNWMyOTE1YmU4ZmM4YjY2ZmYwNzBiYjc2ZmE0YzJlOWVi`
+Snapshot ID: `MCw2YmQ3ZjhlZWNjODFhMGQyZTM1OTdkYzRlYWY5NmRhMDEzZjhhMTRk`

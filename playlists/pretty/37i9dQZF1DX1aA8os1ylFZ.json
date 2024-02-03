@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 240933,
+  "num_followers": 240936,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjcyNzk2ODM5NTk2ZWEwMjhjMDM5MGYxNDA1NDdjZGI4YTg0NGUz",
+  "snapshot_id": "MCxlZmE4OTA1ZDg2NmZmZDg1Njc2NGE2ZjFmNWEwOGM4Y2ZiN2U1ZDM0",
   "tracks": [
     {
       "added_at": "2024-01-25 23:01:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Tasty",
-        "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
-      },
-      "artists": [
-        {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
-        }
-      ],
-      "duration_ms": 150799,
-      "name": "Tasty",
-      "url": "https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "FIRST PLACE",
         "url": "https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 121211,
       "name": "FIRST PLACE",
       "url": "https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        }
+      ],
+      "duration_ms": 150799,
+      "name": "Tasty",
+      "url": "https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
+        "name": "Unfiltered",
+        "url": "https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT"
+      },
+      "artists": [
+        {
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
+        }
+      ],
+      "duration_ms": 109270,
+      "name": "Solutions",
+      "url": "https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 221502,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Unfiltered",
-        "url": "https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT"
-      },
-      "artists": [
-        {
-          "name": "[ K S R ]",
-          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
-        }
-      ],
-      "duration_ms": 109270,
-      "name": "Solutions",
-      "url": "https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "SOLO",
-      "url": "https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "Just Expectationz",
         "url": "https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 228877,
       "name": "Just Expectationz",
       "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp"
-      },
-      "artists": [
-        {
-          "name": "Carlos Abril",
-          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
-        },
-        {
-          "name": "Amelia Rose",
-          "url": "https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl"
-        }
-      ],
-      "duration_ms": 258530,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/0rUmvpKfigC5jL0jnIcYTB"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "Emotionally Unavailable",
         "url": "https://open.spotify.com/album/6GTubdptJMyDY8WBuWH7ws"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 142857,
       "name": "Emotionally Unavailable",
       "url": "https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp"
+      },
+      "artists": [
+        {
+          "name": "Carlos Abril",
+          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
+        },
+        {
+          "name": "Amelia Rose",
+          "url": "https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl"
+        }
+      ],
+      "duration_ms": 258530,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/0rUmvpKfigC5jL0jnIcYTB"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
+        "name": "Do They Know",
+        "url": "https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        }
+      ],
+      "duration_ms": 122400,
+      "name": "Do They Know",
+      "url": "https://open.spotify.com/track/2duXRr3V3koJ0w6WsEDOAU"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
         "name": "Private",
         "url": "https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 158901,
       "name": "Private",
       "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Do They Know",
-        "url": "https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM"
-      },
-      "artists": [
-        {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        }
-      ],
-      "duration_ms": 122400,
-      "name": "Do They Know",
-      "url": "https://open.spotify.com/track/2duXRr3V3koJ0w6WsEDOAU"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "City Girl",
-        "url": "https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn"
-      },
-      "artists": [
-        {
-          "name": "Quessswho",
-          "url": "https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ"
-        }
-      ],
-      "duration_ms": 121263,
-      "name": "City Girl",
-      "url": "https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 181422,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "City Girl",
+        "url": "https://open.spotify.com/album/6p0O1QjQAqtFvY3s1tLYLn"
+      },
+      "artists": [
+        {
+          "name": "Quessswho",
+          "url": "https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ"
+        }
+      ],
+      "duration_ms": 121263,
+      "name": "City Girl",
+      "url": "https://open.spotify.com/track/1uuCG9rNTnjI7hljkFlGFO"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
+        "name": "Whatever I Guess?",
+        "url": "https://open.spotify.com/album/4fkxCVh692oxovALJrl1iu"
+      },
+      "artists": [
+        {
+          "name": "Ashia Vu",
+          "url": "https://open.spotify.com/artist/7hZljhtRZAvfjAskOUmKU4"
+        }
+      ],
+      "duration_ms": 213383,
+      "name": "Whatever I Guess?",
+      "url": "https://open.spotify.com/track/0oiTps85hBha6oKXqSU9Kz"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
         "name": "Essence",
         "url": "https://open.spotify.com/album/113oIbTJ2PlFjNOw6xyMrF"
       },
@@ -1663,34 +1679,18 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Whatever I Guess?",
-        "url": "https://open.spotify.com/album/4fkxCVh692oxovALJrl1iu"
+        "name": "Flexible",
+        "url": "https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI"
       },
       "artists": [
         {
-          "name": "Ashia Vu",
-          "url": "https://open.spotify.com/artist/7hZljhtRZAvfjAskOUmKU4"
+          "name": "Jazz Carta",
+          "url": "https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif"
         }
       ],
-      "duration_ms": 213383,
-      "name": "Whatever I Guess?",
-      "url": "https://open.spotify.com/track/0oiTps85hBha6oKXqSU9Kz"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Fierce",
-        "url": "https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY"
-      },
-      "artists": [
-        {
-          "name": "Romy Dya",
-          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
-        }
-      ],
-      "duration_ms": 142615,
-      "name": "Fierce",
-      "url": "https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT"
+      "duration_ms": 141176,
+      "name": "Flexible",
+      "url": "https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "Flexible",
-        "url": "https://open.spotify.com/album/1a3tYzPmrBmAPXQEEegBTI"
+        "name": "Fierce",
+        "url": "https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY"
       },
       "artists": [
         {
-          "name": "Jazz Carta",
-          "url": "https://open.spotify.com/artist/2fsmNXzoUW0KzBWIwNgzif"
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
         }
       ],
-      "duration_ms": 141176,
-      "name": "Flexible",
-      "url": "https://open.spotify.com/track/159K76vGQ2yVz9RSjtRagM"
+      "duration_ms": 142615,
+      "name": "Fierce",
+      "url": "https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT"
     },
     {
       "added_at": "2024-01-25 23:01:00",

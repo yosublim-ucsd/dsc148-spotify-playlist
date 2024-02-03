@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "Airplane Mode",
       "url": "https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 128666,
       "name": "AMEN",
       "url": "https://open.spotify.com/track/3GGqmMO9i3fS3kONWUsSxE"
@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/0Ab7XpBlcL0qdZq8oqvIi7"
+      },
+      "artists": [
+        {
+          "name": "Paapa Versa",
+          "url": "https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182770,
+      "name": "Bouquet",
+      "url": "https://open.spotify.com/track/4wb0iKaIklho8XLLvN3LlN"
+    },
+    {
+      "album": {
         "name": "Call (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/36dJIS4m6wElWShKw7chwJ"
       },
@@ -772,7 +790,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 171428,
       "name": "Cincinatti Pumpin!!",
       "url": "https://open.spotify.com/track/2tsmBwTvtJ0pU1IViRvsWJ"
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 161666,
       "name": "Fine",
       "url": "https://open.spotify.com/track/5NcUF8EKTsWbhhRkhCAiR9"
@@ -1646,7 +1664,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 164557,
       "name": "For Days",
       "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 207473,
       "name": "FYN",
       "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 236966,
       "name": "GRA GRA",
       "url": "https://open.spotify.com/track/78oMXP9n43ojXsFNOP2M9p"
@@ -2826,7 +2844,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 167142,
       "name": "Loyalty",
       "url": "https://open.spotify.com/track/64jt46zpWwImMcxRIj8GVY"
@@ -3158,7 +3176,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 178579,
       "name": "MOTO",
       "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
@@ -3308,7 +3326,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 155276,
       "name": "Nazama - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2YX0cRQN7xSMpEhyokEUXM"
@@ -3446,7 +3464,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 183267,
       "name": "Nobody (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/7rsF6JHMItNOu6qwupYA2a"
@@ -3518,7 +3536,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 195943,
       "name": "NWTG",
       "url": "https://open.spotify.com/track/1gqNVP1KADI1vyce4Yb72r"
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 171624,
       "name": "Paper",
       "url": "https://open.spotify.com/track/5iDL1aQUFK6FKZwe6DZGgB"
@@ -3860,7 +3878,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 143762,
       "name": "Rora",
       "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
@@ -4150,6 +4168,24 @@
       "duration_ms": 212639,
       "name": "SHOWING OFF HER BODY (with Davido)",
       "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
+    },
+    {
+      "album": {
+        "name": "SINK OR SWIM",
+        "url": "https://open.spotify.com/album/34Db2WinZb68Nk0cvWirdt"
+      },
+      "artists": [
+        {
+          "name": "SOLU",
+          "url": "https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190933,
+      "name": "SINK OR SWIM",
+      "url": "https://open.spotify.com/track/6fB5xCqHjkLGud3ZPyNbq4"
     },
     {
       "album": {
@@ -4488,7 +4524,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 203026,
       "name": "Steady",
       "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
@@ -4524,7 +4560,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 139534,
       "name": "sunsets in sao paolo",
       "url": "https://open.spotify.com/track/0UdBYMjHLlaHfGQZWKnWZk"
@@ -4752,7 +4788,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 210000,
       "name": "Tighter",
       "url": "https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX"
@@ -5040,7 +5076,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 205191,
       "name": "Want You",
       "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"
@@ -5096,7 +5132,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 149457,
       "name": "Water",
       "url": "https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH"
@@ -5278,7 +5314,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 192475,
       "name": "WITH YOU",
       "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"

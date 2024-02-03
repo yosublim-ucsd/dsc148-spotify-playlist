@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\.  الغلاف: <a href="https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj?si=aixR9sNdTbS4SInFysL33A">  هيفاء وهبي<br/> </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,167 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,531 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [هيجيلي موجوع](https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [هيجيلي موجوع](https://open.spotify.com/album/0pSmKTjNF9e51ZUGXRVDWI) | 3:30 |
-| 2 | [Woseltelha](https://open.spotify.com/track/1oh3WIRKgoNi60o9SMykwS) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Woseltelha](https://open.spotify.com/album/6RrDEMqADohA3DYvWkulNB) | 4:08 |
+| 1 | [Woseltelha](https://open.spotify.com/track/1oh3WIRKgoNi60o9SMykwS) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Woseltelha](https://open.spotify.com/album/6RrDEMqADohA3DYvWkulNB) | 4:08 |
+| 2 | [هيجيلي موجوع](https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [هيجيلي موجوع](https://open.spotify.com/album/0pSmKTjNF9e51ZUGXRVDWI) | 3:30 |
 | 3 | [Fouq](https://open.spotify.com/track/1CQzS4IBMOHRYGgEg3eZrz) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy](https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq) | 3:12 |
 | 4 | [كلام عينيه](https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 3:55 |
 | 5 | [Tab Aoulak \- Karkouba](https://open.spotify.com/track/10kAWGJi58siX7qOKFt2uY) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [Tab Aoulak \- Karkouba](https://open.spotify.com/album/2dNRGgO2tkZiaVLOPcgDjP) | 3:46 |
 | 6 | [جيت متأخر](https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [جيت متأخر](https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L) | 3:18 |
 | 7 | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/track/7a4fFS88i5CiAn3zCkfoGk) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Bosy](https://open.spotify.com/artist/3wREoMa2oI5qs6NsmQcsKb), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/album/3wYZey6tv0VrSgpYUkCLQs) | 3:42 |
 | 8 | [يمكن خير](https://open.spotify.com/track/4Guq7XrO1FjduwFBsVbr0E) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:36 |
-| 9 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 |
-| 10 | [ظروف معنداني](https://open.spotify.com/track/0TnD2vJ9M91YXbBQqhK8lU) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Omry Wzekrayatoh](https://open.spotify.com/album/2relDIBiXiNOFAnQmdFoQt) | 4:05 |
-| 11 | [Kolo Falso](https://open.spotify.com/track/1il1wNIj3ful9IlWgxLRmX) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Esaad Younis](https://open.spotify.com/artist/2VtjN9mCdwy6DBkms1ujiQ) | [Kolo Falso](https://open.spotify.com/album/7mbfcm8CXhfUEJVf2ioUwF) | 2:58 |
-| 12 | [Diva](https://open.spotify.com/track/45IUYdyKVvCpS7qKykpUpL) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Caravan](https://open.spotify.com/album/21gO4m2HfPPZgWiGYPlB69) | 2:52 |
+| 9 | [ظروف معنداني](https://open.spotify.com/track/0TnD2vJ9M91YXbBQqhK8lU) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Omry Wzekrayatoh](https://open.spotify.com/album/2relDIBiXiNOFAnQmdFoQt) | 4:05 |
+| 10 | [Kolo Falso](https://open.spotify.com/track/1il1wNIj3ful9IlWgxLRmX) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Esaad Younis](https://open.spotify.com/artist/2VtjN9mCdwy6DBkms1ujiQ) | [Kolo Falso](https://open.spotify.com/album/7mbfcm8CXhfUEJVf2ioUwF) | 2:58 |
+| 11 | [Diva](https://open.spotify.com/track/45IUYdyKVvCpS7qKykpUpL) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Caravan](https://open.spotify.com/album/21gO4m2HfPPZgWiGYPlB69) | 2:52 |
+| 12 | [معلش](https://open.spotify.com/track/0XbZAACv4UZAU5mKOCLa9T) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv) | [معلش](https://open.spotify.com/album/1g4TNTbMuiYAwCngqj36h1) | 3:57 |
 | 13 | [Reyah El Hayah](https://open.spotify.com/track/1ZuHXbFUhAb3SHOn4TzQbW) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Reyah El Hayah](https://open.spotify.com/album/0pyY1M7TsYkpXll7BpjI4i) | 3:49 |
 | 14 | [El Dalaa](https://open.spotify.com/track/7wue5LasVYYkXBBmblfavk) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [El Dalaa](https://open.spotify.com/album/2FdayiAJ0mgrFNERd5AOx5) | 2:46 |
 | 15 | [Baad El Kalam](https://open.spotify.com/track/0Oz1kaka4qeWhjntOZTRFv) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Baad Montasaf Al Leil](https://open.spotify.com/album/1Ssez3FFutWFtAvENJ3WDH) | 3:52 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 37 | [Ya Layaly](https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ya Layaly](https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7) | 3:10 |
 | 38 | [Ew3a](https://open.spotify.com/track/1LN3baoelgQTeK6XIb80q1) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Ew3a](https://open.spotify.com/album/6olbtWuufnTDpFBJ5IiWFS) | 3:13 |
 | 39 | [مسا مني ليكوا](https://open.spotify.com/track/7qnR06N2Ekj9iBOQHiFqdq) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [مسا منى ليكوا](https://open.spotify.com/album/7xJews3EUUzYDq1Ycez0Kq) | 3:39 |
-| 40 | [هرمون السعادة \- من فيلم تاج](https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [هرمون السعادة \(من فيلم تاج\)](https://open.spotify.com/album/6uXSbOjm2YQbn1JfUMuig1) | 2:47 |
-| 41 | [مخصماك](https://open.spotify.com/track/2YMwxis2lMtraN0CW8IaaD) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/7j5g1nljPtCwJHftBXIZUU) | 3:14 |
+| 40 | [مخصماك](https://open.spotify.com/track/2YMwxis2lMtraN0CW8IaaD) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/7j5g1nljPtCwJHftBXIZUU) | 3:14 |
+| 41 | [هرمون السعادة \- من فيلم تاج](https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [هرمون السعادة \(من فيلم تاج\)](https://open.spotify.com/album/6uXSbOjm2YQbn1JfUMuig1) | 2:47 |
 | 42 | [بنت ابويا](https://open.spotify.com/track/5mHgUdUiaLYXyCLzbOfhfD) | [هناء يسري](https://open.spotify.com/artist/21mycRtvhUO077yAXgb9H3) | [بنت ابويا](https://open.spotify.com/album/7b3HsBstujKBNDT9tJQQRc) | 3:57 |
 | 43 | [On Fire](https://open.spotify.com/track/4gQ6fFX5GwpUc7TdthnnKw) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [On Fire](https://open.spotify.com/album/5slczLOKT1ESCYUN6CNBQc) | 2:37 |
 | 44 | [Salt El Zein \- صلاة الزين](https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Salt El Zein \- صلاة الزين](https://open.spotify.com/album/2FLoi19Rf5ejnlHfPYF4zp) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [اللي جاي بتاعنا](https://open.spotify.com/track/1BNhn1lZF39HCgaO1afuE4) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [اللي جاي بتاعنا](https://open.spotify.com/album/5Qcj7F2YKWE8hWEm8ryAPR) | 2:40 |
 | 50 | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/track/7GdTv7oq8wMIEHm6ZO3C5w) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/album/4ZrbdcI2JPDlkInji4FlaV) | 3:51 |
 
-Snapshot ID: `MCw0ZGU4YTQ2MzJlM2E4NmYzZWU5NGU1OGE4OTgzODYyNWZmYmI4YTA4`
+Snapshot ID: `MCxhOTc5ZmRiOThkNGE0NDkxMTE3ZmFmOWY4MWFkODE3Mjc2OTI2MDAw`

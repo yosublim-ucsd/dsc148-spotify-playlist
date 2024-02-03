@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 77428,
+  "num_followers": 77482,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWRlMjkyMmU5Njk4ZGMzYWNiZmZmOTBkNDBlZmMyYjU4MjJkM2Fi",
+  "snapshot_id": "MCxiZjkwYjc3MjRlOTc2OTk1ZjJiNzVmMDk2MTU3M2UxNmU5MWIyZDU2",
   "tracks": [
     {
       "added_at": "2021-12-16 01:11:32",
@@ -67,6 +67,22 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 219586,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/71iAechwVKGu26pahzFL0k"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 231848,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 219586,
-      "name": "Cuando Nadie Ve",
-      "url": "https://open.spotify.com/track/71iAechwVKGu26pahzFL0k"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -235,22 +235,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Te Bot\u00e9 (Remix)",
         "url": "https://open.spotify.com/album/42wLKnuGyBLGWwH89lnimL"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 417920,
       "name": "Te Bot\u00e9 - Remix",
       "url": "https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -523,26 +523,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Len\u00e7ol Dobrado",
-        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gustavo e Murilo",
-          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
-        },
-        {
-          "name": "Analaga",
-          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
-        }
-      ],
-      "duration_ms": 179164,
-      "name": "Len\u00e7ol Dobrado",
-      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Cr\u00e9eme",
         "url": "https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 212493,
       "name": "Cr\u00e9eme",
       "url": "https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Len\u00e7ol Dobrado",
+        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Analaga",
+          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
+        }
+      ],
+      "duration_ms": 179164,
+      "name": "Len\u00e7ol Dobrado",
+      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -907,26 +907,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Valiente",
-        "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 217653,
-      "name": "No Me Acuerdo",
-      "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Cuando Te Bes\u00e9",
         "url": "https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 254383,
       "name": "Cuando Te Bes\u00e9",
       "url": "https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 217653,
+      "name": "No Me Acuerdo",
+      "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -999,18 +999,22 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Rebota",
-        "url": "https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM"
+        "name": "Sin Pijama",
+        "url": "https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB"
       },
       "artists": [
         {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         }
       ],
-      "duration_ms": 204630,
-      "name": "Rebota",
-      "url": "https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx"
+      "duration_ms": 188560,
+      "name": "Sin Pijama",
+      "url": "https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww"
     }
   ],
   "unique_name": "Latin Hits 2018",

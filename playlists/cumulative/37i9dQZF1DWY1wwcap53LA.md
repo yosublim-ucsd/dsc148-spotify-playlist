@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Blanco Brown
 
-190 songs - 9 hr 49 min
+191 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Just Say I Love You](https://open.spotify.com/track/4iVi2YeSzYut5CgMu9WBu3) | [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [Just Say I Love You](https://open.spotify.com/album/2HCLaqqb00O9PPNy4aYXx3) | 4:00 | 2021-12-03 |  |
 | [Just the Way](https://open.spotify.com/track/2GtnQgG3Vj8n7sTzRNTHzS) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You 2](https://open.spotify.com/album/3DCaVitYJk2RhE2QxpXKnm) | 3:13 | 2023-10-27 | 2023-11-05 |
 | [Just the Way](https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 3:13 | 2022-07-22 | 2023-11-03 |
-| [Just the Way](https://open.spotify.com/track/4h5OVQQbeqw3lNaFIbmlzG) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You](https://open.spotify.com/album/0BYiDyfOOhzFrX9ENunvbk) | 3:13 | 2023-11-03 |  |
+| [Just the Way](https://open.spotify.com/track/4h5OVQQbeqw3lNaFIbmlzG) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You](https://open.spotify.com/album/0BYiDyfOOhzFrX9ENunvbk) | 3:13 | 2023-11-03 | 2024-02-03 |
 | [Just the Way](https://open.spotify.com/track/5PAvFGse5jjDH9ke8Mae7D) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Just the Way](https://open.spotify.com/album/3BwXeSOrCEZNWEPqxxh7yE) | 3:13 | 2021-12-03 | 2022-07-29 |
 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2021-12-03 |  |
 | [Leave Right Now](https://open.spotify.com/track/2IxqiVtNPokQ2klL2tQr2p) | [The Kentucky Gentlemen](https://open.spotify.com/artist/5Jyxuj6Ho7xmNPrDub1U86) | [Leave Right Now](https://open.spotify.com/album/0WLh4sClyd5u3UuRxXRf5x) | 2:52 | 2023-12-08 |  |
@@ -156,6 +156,7 @@
 | [Stuck In The Middle](https://open.spotify.com/track/4Tz1V1PaksTofLYLZVoaVr) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Blood Harmony](https://open.spotify.com/album/1qWvMwDIbDa9Qt5cuHFLRy) | 2:49 | 2023-08-11 |  |
 | [Stuck in the Middle](https://open.spotify.com/track/3FSdVIxZumTuPv5zqQCsdb) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Stuck in the Middle](https://open.spotify.com/album/2GL3TmPmdA91fxYq3UCtrr) | 2:49 | 2022-06-17 | 2023-03-02 |
 | [Sunday Toasted](https://open.spotify.com/track/7trnSmH2rP4Dz9EWCigzhz) | [Zinn](https://open.spotify.com/artist/5mGMpDd5gyYAXp9Goofy6D) | [Sunday Toasted](https://open.spotify.com/album/7FtqnNR1z6z0nqEyinGd5F) | 2:43 | 2022-08-26 |  |
+| [Sunshine Shine](https://open.spotify.com/track/2467Nxi5K1DUUj7eRg1i64) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Sunshine Shine](https://open.spotify.com/album/7u7pAvJ12lZqTHFhyOaKml) | 3:01 | 2024-02-02 |  |
 | [Take Me As I Am](https://open.spotify.com/track/6SDwDQ6p0pBs6W00qt3Zix) | [Chuck Adams](https://open.spotify.com/artist/6GLO5F72p0eTCcumR6Ac5a) | [Take Me As I Am](https://open.spotify.com/album/78WF3uDO2YnUTar5ujTsDO) | 3:40 | 2021-12-03 |  |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/2h5LAoOPMnDhQQkUuOFUGf) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Take Me Home, Country Roads](https://open.spotify.com/album/4PJxSZQAoTaPW8Rcnp9gN5) | 3:03 | 2023-11-03 |  |
 | [Tall Boy](https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Tall Boy](https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w) | 2:20 | 2021-12-03 |  |
@@ -169,7 +170,7 @@
 | [Til You Called My Name](https://open.spotify.com/track/444pHKlH7CHUCi75vyDoei) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Til You Called My Name](https://open.spotify.com/album/59rs4oWLLugzgkJGMs63P9) | 3:22 | 2023-06-16 | 2023-09-17 |
 | [Til You Called My Name](https://open.spotify.com/track/4WywFqh2R5dFCZiB2FRrp8) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Blood Harmony](https://open.spotify.com/album/1qWvMwDIbDa9Qt5cuHFLRy) | 3:22 | 2023-09-15 |  |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/2w955aKTkdFKlW2Wr5kNr8) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Too Much Of A Good Thing](https://open.spotify.com/album/74VL9ygpZMxUSA2PiHhnll) | 3:14 | 2022-10-07 |  |
-| [Trap Still Bumpin](https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Still Bumpin](https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g) | 2:44 | 2022-11-18 |  |
+| [Trap Still Bumpin](https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Still Bumpin](https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g) | 2:44 | 2022-11-18 | 2024-02-03 |
 | [Un\-Break My Heart \(Spotify Singles\)](https://open.spotify.com/track/2ypb4O6v2rZgmqxw8lPF2W) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/7MLuSEV3k7u4rAHq3L8z8h) | 4:16 | 2023-11-03 |  |
 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 | 2022-04-01 | 2023-11-04 |
 | [Used to Love That Song](https://open.spotify.com/track/6uSKxEhO9JKYkrPUhPBSa9) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Sink with the Sun](https://open.spotify.com/album/1CI87J6036yNvbzyksedMH) | 2:59 | 2022-08-12 | 2023-02-18 |

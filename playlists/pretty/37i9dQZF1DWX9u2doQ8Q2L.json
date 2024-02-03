@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 384702,
+  "num_followers": 384685,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGIxYWVkZDcwYmVkZGYyNGIzNGNmYTNlOGVjNmY4NzI0MDkxMTE3",
+  "snapshot_id": "MCwyYTA1MWI3OTI4MjdhY2M0YzkzNzI1NmNjNTlkNGVhNTY4MmYzZTQ1",
   "tracks": [
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+      },
+      "artists": [
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "duration_ms": 266693,
+      "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3067\u3088\u308d\u3057\u304f",
+      "url": "https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
         "name": "DEBUT",
         "url": "https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 318762,
       "name": "\u30ad\u30ea\u30a8\u30fb\u6190\u308c\u307f\u306e\u8b83\u6b4c",
       "url": "https://open.spotify.com/track/2lyFs3iMvfNi6bfHi3mJKj"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
-        "name": "snow love",
-        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "snow love",
-      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
+        "name": "snow love",
+        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 206461,
+      "name": "snow love",
+      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
         "name": "Losing Game",
         "url": "https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 151836,
       "name": "Losing Game",
       "url": "https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
-        "name": "\u3089\u3093\u3069",
-        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
-      },
-      "artists": [
-        {
-          "name": "ZAZEN BOYS",
-          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
-        }
-      ],
-      "duration_ms": 266693,
-      "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3067\u3088\u308d\u3057\u304f",
-      "url": "https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "WE'LL DIE THIS WAY",
-        "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
-      },
-      "artists": [
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "PRO",
-      "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "Flashback feat. Daichi Yamamoto",
         "url": "https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7"
       },
@@ -1531,6 +1515,38 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
+        "name": "WE'LL DIE THIS WAY",
+        "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "PRO",
+      "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "OKACHIMACHI FRIDAY NIGHT",
+        "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 198088,
+      "name": "OKACHIMACHI FRIDAY NIGHT",
+      "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
         "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
         "url": "https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 235814,
       "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
       "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
-        "name": "\u3057\u3087\u3046\u3082\u306a\u3044\u591c",
-        "url": "https://open.spotify.com/album/31zPEVkCWiYlzMKJF2FvGc"
-      },
-      "artists": [
-        {
-          "name": "Soushi Sakiyama",
-          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
-        }
-      ],
-      "duration_ms": 212798,
-      "name": "\u3057\u3087\u3046\u3082\u306a\u3044\u591c",
-      "url": "https://open.spotify.com/track/1mSDhkET9Qecp1EuPWX7Er"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1579,18 +1579,22 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "OKACHIMACHI FRIDAY NIGHT",
-        "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
+        "name": "6 Years In The Game (feat. Awich)",
+        "url": "https://open.spotify.com/album/1KvJrTQgijVXODRXF59v6K"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "VannDa",
+          "url": "https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
         }
       ],
-      "duration_ms": 198088,
-      "name": "OKACHIMACHI FRIDAY NIGHT",
-      "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
+      "duration_ms": 253718,
+      "name": "6 Years In The Game (feat. Awich)",
+      "url": "https://open.spotify.com/track/5Xdkl9fc87XMF17yspWsdj"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1619,6 +1623,22 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
+        "name": "\u3057\u3087\u3046\u3082\u306a\u3044\u591c",
+        "url": "https://open.spotify.com/album/31zPEVkCWiYlzMKJF2FvGc"
+      },
+      "artists": [
+        {
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+        }
+      ],
+      "duration_ms": 212798,
+      "name": "\u3057\u3087\u3046\u3082\u306a\u3044\u591c",
+      "url": "https://open.spotify.com/track/1mSDhkET9Qecp1EuPWX7Er"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
         "name": "RUN FOR YOU",
         "url": "https://open.spotify.com/album/4pyPXipdnMSHxekhwuJNJG"
       },
@@ -1635,22 +1655,22 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "6 Years In The Game (feat. Awich)",
-        "url": "https://open.spotify.com/album/1KvJrTQgijVXODRXF59v6K"
+        "name": "Sometimes (Japanese Version)",
+        "url": "https://open.spotify.com/album/1IVZonSHa5osQ8hexgUrZH"
       },
       "artists": [
         {
-          "name": "VannDa",
-          "url": "https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL"
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
         },
         {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+          "name": "Sincere",
+          "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
         }
       ],
-      "duration_ms": 253718,
-      "name": "6 Years In The Game (feat. Awich)",
-      "url": "https://open.spotify.com/track/5Xdkl9fc87XMF17yspWsdj"
+      "duration_ms": 148727,
+      "name": "Sometimes - Japanese Version",
+      "url": "https://open.spotify.com/track/2eidpEU0z0adLL3l0cxWsh"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1683,26 +1703,6 @@
       "duration_ms": 226843,
       "name": "Around the Corner",
       "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
-        "name": "Sometimes (Japanese Version)",
-        "url": "https://open.spotify.com/album/1IVZonSHa5osQ8hexgUrZH"
-      },
-      "artists": [
-        {
-          "name": "Fly By Midnight",
-          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
-        },
-        {
-          "name": "Sincere",
-          "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
-        }
-      ],
-      "duration_ms": 148727,
-      "name": "Sometimes - Japanese Version",
-      "url": "https://open.spotify.com/track/2eidpEU0z0adLL3l0cxWsh"
     },
     {
       "added_at": "2024-02-01 15:00:00",

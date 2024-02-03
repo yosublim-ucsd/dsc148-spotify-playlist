@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,301 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,302 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 49 | [More Than Enough](https://open.spotify.com/track/6ZH9FOxVmrA0Cmmrszh0jx) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 3:42 |
 | 50 | [Oxygen](https://open.spotify.com/track/1KoQHGlqulrXXSoYRJv98N) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 3:15 |
 
-Snapshot ID: `Mjg0NDY1MTQsMDAwMDAwMDBhZThkZjQzYTE3MzkwMWQ4OWJiNzYwYjQ1NzIwNmJkOA==`
+Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDBjYWNkOTUwMDFjNWY0Mzc4ZjI5NmY2MTYzNzNiNzcwMA==`

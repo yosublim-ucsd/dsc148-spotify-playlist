@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Tizzo, Shreez, Le Ice, Salgrimo, Peeda",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Loud, EDGE",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 163404,
       "name": "City",
       "url": "https://open.spotify.com/track/52bqJdZWUV9HsL2Na2vOD3"
@@ -3162,6 +3162,24 @@
       "duration_ms": 171492,
       "name": "Darling",
       "url": "https://open.spotify.com/track/0FQdlms2IMvx0p3AFN9ABg"
+    },
+    {
+      "album": {
+        "name": "DBD",
+        "url": "https://open.spotify.com/album/2hbQVixIQE1V4kashw9Q2P"
+      },
+      "artists": [
+        {
+          "name": "Guessmi",
+          "url": "https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125714,
+      "name": "DBD",
+      "url": "https://open.spotify.com/track/56w3BkZjlr0KXzCqJiQkfm"
     },
     {
       "album": {
@@ -4872,6 +4890,24 @@
       "duration_ms": 149315,
       "name": "Ghini",
       "url": "https://open.spotify.com/track/00FJ5yEF2dIPNfU1HsYrc7"
+    },
+    {
+      "album": {
+        "name": "Give It Up",
+        "url": "https://open.spotify.com/album/0Mzb4ZfQ20WBClaXY3rkmx"
+      },
+      "artists": [
+        {
+          "name": "20Some",
+          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183094,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/7i80uzQZleCTVD7231iWTk"
     },
     {
       "album": {
@@ -8033,6 +8069,24 @@
     },
     {
       "album": {
+        "name": "NRNTB_XC40",
+        "url": "https://open.spotify.com/album/1U8DHe7YStB6cZIj5cIYXU"
+      },
+      "artists": [
+        {
+          "name": "Dope.Gng",
+          "url": "https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118517,
+      "name": "NRNTB_XC40",
+      "url": "https://open.spotify.com/track/2irF6A4W7Dqv4jObPXFHdw"
+    },
+    {
+      "album": {
         "name": "Misstape",
         "url": "https://open.spotify.com/album/3xYE1CdN7wBFHQgo5SGJL8"
       },
@@ -9684,7 +9738,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 128283,
       "name": "RING RING",
       "url": "https://open.spotify.com/track/6Ya5EWkJfiCdwzEnl2K1kk"
@@ -10814,7 +10868,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 211486,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3uznH3H5AMYT9HzziGXcUy"

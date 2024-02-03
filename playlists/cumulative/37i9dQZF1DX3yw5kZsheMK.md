@@ -4,7 +4,7 @@
 
 > Lyrical lullabies for your bedtime routine.
 
-120 songs - 5 hr 29 min
+121 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [De Colores](https://open.spotify.com/track/7J9ypEO9kgPoEUOkKpUoqs) | [The Lucky Band](https://open.spotify.com/artist/4cYmyYabyJSvdIOsTweQMz) | [Paseo Lunar](https://open.spotify.com/album/5PX2YJFNfAEBrgj8GfzaIs) | 3:04 | 2022-03-11 |  |
 | [Dormite Ninito](https://open.spotify.com/track/3cjwj8u9bPYqQtS6MjhFzW) | [Hap Palmer](https://open.spotify.com/artist/69mxXDPodcz1qr9p68AqsJ) | [A Child's World Of Lullabies\-Multicultural Songs For Quiet Times](https://open.spotify.com/album/49YLwPm7UlhCNUFLU1vgah) | 3:46 | 2022-03-11 |  |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/1Bcvf1B43yNT9liL8ajutf) | [Dala](https://open.spotify.com/artist/1CvhwMuHPz3oLJEOv66fOg) | [Sing Me to Sleep: Indie Lullabies](https://open.spotify.com/album/47c5bpI6VYdwMAMb24rSi6) | 2:05 | 2022-03-11 |  |
+| [Dream Darling Dream](https://open.spotify.com/track/1EtmOcJ9ZARnQp95maFOyf) | [Gamma Skies](https://open.spotify.com/artist/4mXOrMPAOxaPL9v8AGhcYA) | [Dream Darling Dream](https://open.spotify.com/album/5HMZNpMKt5CcNQlwqvTVYi) | 3:18 | 2024-02-02 |  |
 | [Dream Sweetly](https://open.spotify.com/track/3YfneEUM11WLG9v6rgS65e) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Dream Sweetly](https://open.spotify.com/album/548YLG0w2vC7tV3ZJ4bDsU) | 3:34 | 2022-03-11 |  |
 | [Dreamland](https://open.spotify.com/track/000LoWv5N8SDvgew8im38f) | [The Tambourine Social](https://open.spotify.com/artist/5nHEzEXgMjDsR58ZMG4aHq) | [Dreamland](https://open.spotify.com/album/5JlaVgkkQ5YHrHEpxRfUrR) | 2:16 | 2024-01-05 |  |
 | [Dreamland](https://open.spotify.com/track/344BEyYv1Cl55zOBYI2HFI) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Colour the World](https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb) | 3:45 | 2022-03-11 |  |

@@ -4,7 +4,7 @@
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-161 songs - 12 hr 5 min
+163 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 3:54 | 2023-02-17 |  |
 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 | 2023-08-29 |  |
 | [Faux savage](https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Miniatures de auto rhythm](https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn) | 2:23 | 2023-02-17 |  |
+| [Ferrari Rocher](https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf) | [The Golden Age of Wrestling](https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp) | [Scorpion Deathlock](https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF) | 2:53 | 2024-02-02 |  |
 | [Fertilized](https://open.spotify.com/track/25INV7gnl2B502qCvxrluh) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f), [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [21 Again Collaborations, Pt\. 1](https://open.spotify.com/album/3bPdgAKQZRbPa9ESQGUsqr) | 2:50 | 2023-02-17 |  |
 | [Fine Life](https://open.spotify.com/track/01ZnisNETzHvTe8xr2hWP4) | [Yoshihiro Sawasaki](https://open.spotify.com/artist/5AX6UPab3nPPyoK9cdUjSV) | [Naturally Gushing vol.2](https://open.spotify.com/album/5RzuwWt2lWqkJZY7efjM0x) | 6:01 | 2023-02-17 |  |
 | [Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:48 | 2023-02-17 |  |
@@ -84,7 +85,7 @@
 | [Kid For Today](https://open.spotify.com/track/5jRkJXPo4SiPaTCNzn01X8) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:23 | 2023-02-17 |  |
 | [Kodomotachi](https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:06 | 2023-02-17 |  |
 | [Kompod](https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Iaora Tahiti](https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii) | 4:10 | 2023-02-17 |  |
-| [Krautzig](https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f), [Drumno](https://open.spotify.com/artist/7FRYe3XueljQJFNtEWcOqC) | [Krautzig](https://open.spotify.com/album/5RQWpx0iEPdXkvInyzBkW0) | 4:07 | 2023-02-17 |  |
+| [Krautzig](https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f), [Drumno](https://open.spotify.com/artist/7FRYe3XueljQJFNtEWcOqC) | [Krautzig](https://open.spotify.com/album/5RQWpx0iEPdXkvInyzBkW0) | 4:07 | 2023-02-17 | 2024-02-03 |
 | [Lagoon](https://open.spotify.com/track/7oYOdF7lpYvwYNLk3BWNpD) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Lagoon](https://open.spotify.com/album/6WJxRoJgFPTxi9odNrGKKp) | 3:10 | 2023-02-17 |  |
 | [Lambent Rag](https://open.spotify.com/track/3U8DW25FSajJzQXgApAJ0B) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Playground In A Lake](https://open.spotify.com/album/6r3sWdrXNAhqOgGlM5ZKNY) | 3:24 | 2023-02-17 |  |
 | [lux\_](https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM), [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy) | [lux\_](https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs) | 3:15 | 2023-02-17 |  |
@@ -109,7 +110,7 @@
 | [Outlook for the Future](https://open.spotify.com/track/0nMswZQeNQF96yypz93dwE) | [Inventions](https://open.spotify.com/artist/356y23wKxVdd7IowNVCSlW) | [Continuous Portrait](https://open.spotify.com/album/51QtuRQyWyidnzs3ZNVue7) | 3:30 | 2023-02-17 |  |
 | [Parallel 6](https://open.spotify.com/track/3rI6J22xq3t8RDpxIOBo1C) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 5:06 | 2023-02-17 |  |
 | [People On Sunday](https://open.spotify.com/track/5GY0OnbXEa7rMivlDo13Xl) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4) | 3:45 | 2023-02-17 |  |
-| [Plaything](https://open.spotify.com/track/0VEU0lalfqxjwezz7M1YaI) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [We Are Reasonable People](https://open.spotify.com/album/3uuoa0fvvb93KoORCTpPko) | 4:14 | 2023-02-17 |  |
+| [Plaything](https://open.spotify.com/track/0VEU0lalfqxjwezz7M1YaI) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [We Are Reasonable People](https://open.spotify.com/album/3uuoa0fvvb93KoORCTpPko) | 4:14 | 2023-02-17 | 2024-02-03 |
 | [Plock](https://open.spotify.com/track/1Oq3hZjG2WWIR2MEqASnNd) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [For Beginner Piano](https://open.spotify.com/album/2mdkf39z60lelr7zulBMky) | 3:57 | 2023-02-17 |  |
 | [Polyghost](https://open.spotify.com/track/0JL9dXZ2tjMabWjVjeutKH) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 1:48 | 2023-02-17 |  |
 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 | 2023-02-17 |  |
@@ -166,6 +167,7 @@
 | [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/album/3PGnyvLbxElUQ6wx30UBG0) | 5:04 | 2023-02-17 |  |
 | [Wondergan](https://open.spotify.com/track/0z5sKnDYAGBm5DyZlr4wc1) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 4:21 | 2023-02-17 |  |
 | [Years and Elements](https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [Puzzlewood](https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq) | 2:30 | 2023-02-17 |  |
+| [Z](https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb) | [Entele](https://open.spotify.com/artist/5S4KGrV1TY9Dqi8dS5LbPo) | [Z](https://open.spotify.com/album/1V3eYXwUbFiGsdLrFp8efN) | 3:55 | 2024-02-02 |  |
 | [Zero to Sixty](https://open.spotify.com/track/0WSMGjQGf1WJvAPpbx1Efn) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub), [Sarah Jaffe](https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS) | [Zero to Sixty](https://open.spotify.com/album/4LSkUOsye6mMhUOVVkUG7f) | 4:48 | 2023-07-28 |  |
 | [؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ](https://open.spotify.com/track/0v2kIE5dfrMxQWhfRXWKPp) | [△▃△▓](https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8) | [؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ](https://open.spotify.com/album/5rO7uUV7bvnFYmHPc8QemY) | 2:24 | 2023-02-17 |  |
 | [❍⊁❍⊁❍⊁❍⊁❍⊁❍⊁❍⊁❍⊁❍⊁](https://open.spotify.com/track/2HvrDBDvUg3GD6f1z6OTAG) | [△▃△▓](https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8) | [؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ؞ৢ؞ؖ](https://open.spotify.com/album/5rO7uUV7bvnFYmHPc8QemY) | 5:00 | 2023-02-17 |  |

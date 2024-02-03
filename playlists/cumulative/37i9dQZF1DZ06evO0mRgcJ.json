@@ -245,6 +245,24 @@
     },
     {
       "album": {
+        "name": "Corridos Underground 3",
+        "url": "https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157512,
+      "name": "Crit\u00edquenme",
+      "url": "https://open.spotify.com/track/5y35zXJMQ53ebkJGm8ZlSJ"
+    },
+    {
+      "album": {
         "name": "Dash",
         "url": "https://open.spotify.com/album/6yPZzcF4xp64gOdDB7lxfI"
       },

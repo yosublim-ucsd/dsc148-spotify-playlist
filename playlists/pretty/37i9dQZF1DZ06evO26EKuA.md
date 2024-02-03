@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 
 > This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,509 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,617 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 19 | [Esta Cobardia](https://open.spotify.com/track/17TL9yOtBcUaq4dwq4WBa8) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Ebrio de Amor](https://open.spotify.com/album/7zaRBfzLrYisxc5092BkLj) | 2:29 |
 | 20 | [El Hijo Del Pueblo](https://open.spotify.com/track/1Ccnqnx2Rp9msuOCudiqwg) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [3 Grandes De La Banda En Homenaje A José Alfredo Jiménez](https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u) | 3:07 |
 | 21 | [Amor Prisionero \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/5XhsSUVmOHvPIrGn7safdH) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 2:41 |
-| 22 | [El Sinaloense](https://open.spotify.com/track/64s6BmkogWiJCeFyzSveiM) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [En Vivo Desde Villa Juarez Sonora](https://open.spotify.com/album/0QkFGha0sQ1mFhuUEOKlxy) | 3:52 |
-| 23 | [La Suavecita](https://open.spotify.com/track/2hHIB7iJW9Pj7sDNqZ2S3g) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [17 Exitos en Honor a Mi Padre](https://open.spotify.com/album/2BzMoa1U74hHKVgLlzKVoU) | 3:15 |
+| 22 | [La Suavecita](https://open.spotify.com/track/2hHIB7iJW9Pj7sDNqZ2S3g) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [17 Exitos en Honor a Mi Padre](https://open.spotify.com/album/2BzMoa1U74hHKVgLlzKVoU) | 3:15 |
+| 23 | [El Sinaloense](https://open.spotify.com/track/64s6BmkogWiJCeFyzSveiM) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [En Vivo Desde Villa Juarez Sonora](https://open.spotify.com/album/0QkFGha0sQ1mFhuUEOKlxy) | 3:52 |
 | 24 | [Para Que Olvidar](https://open.spotify.com/track/3hxkmCgl3XdDfWkyRfjkWh) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3) | 3:13 |
 | 25 | [Vete Con Él](https://open.spotify.com/track/11GMhNq5s4B2FTPzi0ahZL) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Las Bandas Románticas](https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd) | 3:06 |
 | 26 | [La Tambora Va A Sonar](https://open.spotify.com/track/1cp26SwLH6r7mPFvT4KmDP) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Vale Por Siempre](https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN) | 2:39 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 42 | [La Yaquesita](https://open.spotify.com/track/4COFVKhvXA3LecFReH6D2v) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Se Les Pelo Baltazar](https://open.spotify.com/album/6u1WedqeupmhpAlkyNU7XW) | 3:58 |
 | 43 | [El Huizache](https://open.spotify.com/track/6GYRz31A9T4PaUbrO5Kprz) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Exitos De Valentín Elizalde](https://open.spotify.com/album/40Uw1siLm23gdzJGgzpJkB) | 3:55 |
 | 44 | [Así Que Te Vas](https://open.spotify.com/track/50ipI7duYwyQYw79guJRP8) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Vale Por Siempre](https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN) | 3:02 |
-| 45 | [Hola Y Adios](https://open.spotify.com/track/7eF430WJ46ij8TOEYzyIor) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 3:27 |
-| 46 | [La Papa](https://open.spotify.com/track/0vpd52xfWmxpRTZeeQ9gkQ) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Corridos Y Algo Mas](https://open.spotify.com/album/27gnrHBeKww4XnaEAV5ifr) | 3:28 |
+| 45 | [La Papa](https://open.spotify.com/track/0vpd52xfWmxpRTZeeQ9gkQ) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Corridos Y Algo Mas](https://open.spotify.com/album/27gnrHBeKww4XnaEAV5ifr) | 3:28 |
+| 46 | [Hola Y Adios](https://open.spotify.com/track/7eF430WJ46ij8TOEYzyIor) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 3:27 |
 | 47 | [El M Grande](https://open.spotify.com/track/4DMuDJisndgBlDGsvx5yG8) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El M Grande](https://open.spotify.com/album/3mtVCsqcqQ9N56rIeLbO5y) | 3:00 |
 | 48 | [Amor Que Muere \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/2NHZp87Eo4QbgSTYwcFAcs) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 2:52 |
-| 49 | [Mi Virgencita](https://open.spotify.com/track/2uKWSWKk9Mi7tCFgDg7Tui) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:25 |
-| 50 | [Flor de Capomo](https://open.spotify.com/track/4tjXsHj3H4RYPd0vGHmACg) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Flor de Capomo](https://open.spotify.com/album/0TBSLDwB9LUUUwKLdWdHjf) | 2:35 |
+| 49 | [Flor de Capomo](https://open.spotify.com/track/4tjXsHj3H4RYPd0vGHmACg) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Flor de Capomo](https://open.spotify.com/album/0TBSLDwB9LUUUwKLdWdHjf) | 2:35 |
+| 50 | [Mi Virgencita](https://open.spotify.com/track/2uKWSWKk9Mi7tCFgDg7Tui) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:25 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDBlZWE0YmFkMzE4Mjg3YmMxY2U1NTJiY2Y0YzhiMjRiOA==`
+Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDBhZjliMjMzMmZlZjkxMWFkMTgxMTFkZjlhMzlkZjY3NQ==`

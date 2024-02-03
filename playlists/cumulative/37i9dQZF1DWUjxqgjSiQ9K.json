@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:6slyJwua5e5GuhuP82sTHR\">Alex Campos</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:4UGA0TDpRVVt2SCz8FZOMm\">Un Coraz\u00f3n</a> y <a href=\"spotify:artist:5njxJJEEXE6Kxkr4yiFeJi\">Kim Richards</a> ",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -1187,6 +1187,28 @@
     },
     {
       "album": {
+        "name": "Babel",
+        "url": "https://open.spotify.com/album/1qHXweu3uNnAuutwrhn0ZK"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302425,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/2JS2IF2YLPe4oLSIXpzZOK"
+    },
+    {
+      "album": {
         "name": "MOMENTUM",
         "url": "https://open.spotify.com/album/0cPrYAzyCpQ07WrVmE3AFM"
       },
@@ -2060,7 +2082,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 216428,
       "name": "Construir\u00e9 Mi Vida // Digno De Adorar",
       "url": "https://open.spotify.com/track/2Fjo0giimkpqgSdTOCwyRS"

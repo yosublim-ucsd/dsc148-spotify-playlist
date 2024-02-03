@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 6122,
+  "2024-02-03": 6153,
   "date_first_scraped": "2023-04-05",
   "description": "The future of African Indie and Alternative. Cover: Digital Sangoma",
   "name": "ALTER-native",
@@ -339,6 +339,24 @@
     {
       "album": {
         "name": "Care For You",
+        "url": "https://open.spotify.com/album/0N3BdFnOZ0SV2OMPb8GjiV"
+      },
+      "artists": [
+        {
+          "name": "BuDu",
+          "url": "https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232163,
+      "name": "Care For You",
+      "url": "https://open.spotify.com/track/1csqrGvXuxW1jU5TGWSolF"
+    },
+    {
+      "album": {
+        "name": "Care For You",
         "url": "https://open.spotify.com/album/3hYqlV8cBdFnwy4dSR3elT"
       },
       "artists": [
@@ -349,7 +367,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 232163,
       "name": "Care For You",
       "url": "https://open.spotify.com/track/7tcp0h2ypx4PKJaw1Sn1je"

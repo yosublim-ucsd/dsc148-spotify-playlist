@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 30492,
+  "2024-02-03": 30493,
   "date_first_scraped": "2022-12-01",
   "description": "Best Anime Songs in 2023! 2023\u5e74\u306e<a href=\"spotify:user:spotify:playlist:37i9dQZF1DWT8aqnwgRt92\">Anime Now</a>\u7dcf\u307e\u3068\u3081\uff01\u4eca\u5e74Anime Now\u3067\u518d\u751f\u3055\u308c\u305f\u697d\u66f2\u30d9\u30b9\u30c8100! <a href=\"https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag_click\">#Spotify\u307e\u3068\u3081</a> cover: milet + MAN WITH A MISSION",
   "name": "Best of Anime Now 2023",
@@ -187,6 +187,24 @@
       "duration_ms": 208626,
       "name": "Dance In The Game",
       "url": "https://open.spotify.com/track/7kSYwyMv5dnc5aORNwZb15"
+    },
+    {
+      "album": {
+        "name": "[TENGOKU-DAIMAKYO THE ANIMATION]Ending Theme [Daremo Karemo Dokomo Nanimo Shiranai]",
+        "url": "https://open.spotify.com/album/7xxbz031bSDhiAzTgDHgyv"
+      },
+      "artists": [
+        {
+          "name": "ASOBI\u540c\u76df",
+          "url": "https://open.spotify.com/artist/4J0zXugKZIlVBUxoM2DrRE"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220017,
+      "name": "Daremo Karemo Dokomo Nanimo Shiranai",
+      "url": "https://open.spotify.com/track/1EmpPhhzLfzpRWV8hy3z07"
     },
     {
       "album": {
@@ -2685,7 +2703,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 220017,
       "name": "\u8ab0\u3082\u5f7c\u3082\u4f55\u51e6\u3082\u4f55\u3082\u77e5\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/4HXLOgMIVNTfiuWiMBoRa4"

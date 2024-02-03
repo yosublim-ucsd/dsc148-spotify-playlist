@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,818 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,866 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 31 | [Ay, Ay](https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:14 |
 | 32 | [Cuando Pienso en Ti](https://open.spotify.com/track/6d49mKNcJT2426oYiC09gJ) | [Lion Reggae](https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko) | [Tierra](https://open.spotify.com/album/4mbl2aKs7pes6EKvInIsLL) | 5:19 |
 | 33 | [Pensando En Ti](https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Eleven](https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt) | 4:09 |
-| 34 | [Conexión](https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Conexión](https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4) | 3:32 |
-| 35 | [Armonia de Amor](https://open.spotify.com/track/0FGiRaJJoao1C1pNrqpxQA) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [RAS Portraits](https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9) | 3:55 |
+| 34 | [Armonia de Amor](https://open.spotify.com/track/0FGiRaJJoao1C1pNrqpxQA) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [RAS Portraits](https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9) | 3:55 |
+| 35 | [Conexión](https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Conexión](https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4) | 3:32 |
 | 36 | [Señorita](https://open.spotify.com/track/7gbNeM27pOcRrXOjl49ZyN) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3) | [Pasajeros](https://open.spotify.com/album/7wPX6dyFYxKhSpszngQfhJ) | 4:20 |
 | 37 | [Puedo esperarte](https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Buenas Noticias](https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n) | 4:11 |
 | 38 | [Te Regalo una Promesa](https://open.spotify.com/track/0OEWFr9nOhfuHaeLcuQaHe) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [Mucha Cosa Buena](https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH) | 3:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 59 | [Prende](https://open.spotify.com/track/5SAPEts9WtHjBgsMUx51pq) | [Providencia](https://open.spotify.com/artist/5Jfv3Fh8E4Gb8AYLwl4OCv) | [Prende](https://open.spotify.com/album/04MfLrwrB2ts8uHInFBWS1) | 3:51 |
 | 60 | [Sensación](https://open.spotify.com/track/6LbMjdYpQvJxDTgAVqNM0T) | [Contravos](https://open.spotify.com/artist/0q6mxrr4ww5O7gewXHIFMC), [BlackDali](https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B) | [Actor Espectador](https://open.spotify.com/album/1ZHhYDXil7KaimaJkRa3CF) | 3:49 |
 
-Snapshot ID: `MCwzY2Y5NTg2OGY0NjhlYjY0YjFhMmI4YjM2MjJkZmNiMmZmZDdjMDE1`
+Snapshot ID: `MCxhNzZhZGI4MTJjM2NhY2I4YWM4OWZhMzEzZGQ4NWMyNGFjOWFiOTNh`

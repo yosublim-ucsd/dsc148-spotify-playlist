@@ -2,9 +2,9 @@
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: Mumford & Sons
+> A laid\-back trip in the folk scene\. Cover: Norah Jones, Remi Wolf
 
-699 songs - 1 day 18 hr 40 min
+702 songs - 1 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Along The Mountain Road](https://open.spotify.com/track/6TVW5i43p21luN4n1UQu7c) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Along The Mountain Road](https://open.spotify.com/album/3HppCqUpLtQbo84j76LR4t) | 5:10 | 2023-10-20 |  |
 | [Already There](https://open.spotify.com/track/4eQgIa4i3nr4ReoujolhCc) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [Already There](https://open.spotify.com/album/0bCJEYkhGu463eI5jGfEVn) | 4:18 | 2023-05-19 | 2023-11-18 |
 | [American Band](https://open.spotify.com/track/6Jko7ujfOIdrICLC3po34e) | [Slow Leaves](https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8) | [American Band](https://open.spotify.com/album/4mBrjs3kdxzgtWCfGQvD6g) | 3:44 | 2023-04-14 | 2023-05-27 |
-| [Amy](https://open.spotify.com/track/3owz5csR9o9BTxkaHWa4MP) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Amy](https://open.spotify.com/album/3St5d6fnFu6CkkWOiN4pCv) | 3:36 | 2023-09-08 |  |
+| [Amy](https://open.spotify.com/track/3owz5csR9o9BTxkaHWa4MP) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Amy](https://open.spotify.com/album/3St5d6fnFu6CkkWOiN4pCv) | 3:36 | 2023-09-08 | 2024-02-03 |
 | [an ode to what could be](https://open.spotify.com/track/6240BN4Mg4ZEmqtDH6SJAD) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [an ode to what could be](https://open.spotify.com/album/7bV3VuSIZuMd7ZeYc3thmI) | 4:40 | 2024-01-05 |  |
 | [Anchored](https://open.spotify.com/track/2kNsGj6pRhA6MfHsk9WDp8) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Anchored](https://open.spotify.com/album/1JFzFl3R3za0aJ4YJKZf77) | 3:59 | 2022-10-07 | 2023-01-28 |
 | [And \(Sam Sarty's Version\)](https://open.spotify.com/track/4NAYWrsA9caIZOXxb6hvIY) | [Michael Bernard Fitzgerald](https://open.spotify.com/artist/7qugSH6OA23DE6I5v4kpdv), [Sam Sarty](https://open.spotify.com/artist/3GhrR3d8MxwPRiGjJUOLDb) | [And \(Sam Sarty's Version\)](https://open.spotify.com/album/28DI3Mg5t9QXqIopQrvrHO) | 3:45 | 2022-06-17 | 2023-02-18 |
@@ -65,7 +65,7 @@
 | [Begin Again](https://open.spotify.com/track/02TKEQYD6jLEB0cYpBflFE) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Begin Again](https://open.spotify.com/album/5XSgaLPBoAAno2FwKhaIHl) | 3:19 | 2022-05-13 | 2022-08-27 |
 | [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-01-06 | 2023-02-04 |
 | [Better](https://open.spotify.com/track/0JHKOlL6X1BG2nigAlfI45) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Better](https://open.spotify.com/album/0lEAuFnxxO1j2umUmgrz5h) | 2:35 | 2022-09-02 | 2023-04-01 |
-| [Better Days](https://open.spotify.com/track/1uMazr2OwFSC4SHqfkoY7h) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [If This Is The End](https://open.spotify.com/album/0PnDs1aZvcco3PihWmrQ9n) | 6:02 | 2023-09-08 |  |
+| [Better Days](https://open.spotify.com/track/1uMazr2OwFSC4SHqfkoY7h) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [If This Is The End](https://open.spotify.com/album/0PnDs1aZvcco3PihWmrQ9n) | 6:02 | 2023-09-08 | 2024-02-03 |
 | [Better Part of Me](https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Better Part of Me](https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw) | 3:46 | 2022-11-25 | 2023-01-06 |
 | [Better Somehow](https://open.spotify.com/track/2XOiVanXYsxeYy9eYtb9nX) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Better Somehow](https://open.spotify.com/album/2PB1n9ej3Ib53qDVmVpeXT) | 3:58 | 2023-06-02 | 2023-07-08 |
 | [Bird Without Wings](https://open.spotify.com/track/04anQtHIm8VdSINRrpijHq) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Rarities](https://open.spotify.com/album/7dHICPrlwTqefBtmCIkwpv) | 4:01 | 2022-11-25 | 2022-12-10 |
@@ -104,9 +104,11 @@
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-01-06 | 2023-04-09 |
 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 | 2022-07-22 | 2022-11-12 |
 | [Change](https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Change](https://open.spotify.com/album/1IQ1ZGGttsawfbItibsBHj) | 4:55 | 2022-05-13 | 2022-07-29 |
+| [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 | 2024-02-02 |  |
 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 | 2023-02-17 | 2023-04-22 |
 | [Charioteer](https://open.spotify.com/track/2xY3s8F9xrCuSufGjODYok) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Charioteer](https://open.spotify.com/album/4xcXXjKXcm8FaoNwCGMBzP) | 4:19 | 2022-12-02 | 2023-01-06 |
 | [christian scientist](https://open.spotify.com/track/1JCSCizyaMq8FlGzLu2Axw) | [summersets](https://open.spotify.com/artist/56UCNajlvDjMgHedDlPr6v) | [christian scientist](https://open.spotify.com/album/46olos43yORnxof94frLRG) | 3:23 | 2023-04-14 | 2023-09-16 |
+| [Cincinnati Heart](https://open.spotify.com/track/4yqzPEy3QxniyBzWPm35WO) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Cincinnati Heart](https://open.spotify.com/album/7q4GSv2PuFyj0m7viXGEfS) | 2:51 | 2024-02-02 |  |
 | [Circles](https://open.spotify.com/track/6XiJbAvbBrJtO5GBEOhiiy) | [Sandrine St\-Laurent](https://open.spotify.com/artist/2yHC0qy3VEXWdzYInARdP1) | [Circles](https://open.spotify.com/album/0KGo67duy49imsulmXi8MM) | 4:04 | 2022-11-11 | 2023-04-29 |
 | [Clayton](https://open.spotify.com/track/6bbz9WrejDWcAMSLFkKnFD) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Clayton](https://open.spotify.com/album/2jm0bAiRJgFRV8WPDsirpj) | 4:17 | 2022-06-10 | 2023-02-18 |
 | [Coal](https://open.spotify.com/track/2M6MUNGK2VZEb7WQWt8tUY) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Beneath Oak Trees](https://open.spotify.com/album/5rxcUws1sdLRSVBLbQw6JK) | 3:14 | 2023-10-27 |  |
@@ -163,7 +165,7 @@
 | [East Coast](https://open.spotify.com/track/6bgw8JsLN2d5Ku8u9aVob9) | [Hayden](https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp) | [East Coast](https://open.spotify.com/album/5MuhSLmBPXFjYyf3LWRtFm) | 4:52 | 2022-10-14 | 2023-02-11 |
 | [Easy](https://open.spotify.com/track/4Db3Xcq70L7Zcdb8sFqGVL) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Being Somewhere](https://open.spotify.com/album/6dJZLn3DKkPDAobni0ZatR) | 3:53 | 2022-10-28 | 2023-04-22 |
 | [Easy](https://open.spotify.com/track/2FAPyVLdvuNTnlEgTx9k78) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Easy](https://open.spotify.com/album/6wBxcddQvFejYqWw4LQXEI) | 4:21 | 2023-02-24 | 2023-03-25 |
-| [Easy Violence](https://open.spotify.com/track/5ej9MfgSDNbc1qiPfrtIP2) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Easy Violence / John Prine](https://open.spotify.com/album/2N8s58tXG6YWPYSDYMyRWM) | 2:21 | 2023-09-08 |  |
+| [Easy Violence](https://open.spotify.com/track/5ej9MfgSDNbc1qiPfrtIP2) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Easy Violence / John Prine](https://open.spotify.com/album/2N8s58tXG6YWPYSDYMyRWM) | 2:21 | 2023-09-08 | 2024-02-03 |
 | [EC](https://open.spotify.com/track/1tcHeyygqS0RkNh6hq6j9W) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F) | 1:53 | 2023-04-28 | 2023-07-22 |
 | [EC](https://open.spotify.com/track/4ara6WrjgXw8brIIigyRNR) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [EC](https://open.spotify.com/album/58gMbwi6r3hOpkbcBsqVcO) | 1:53 | 2023-03-24 | 2023-04-30 |
 | [Echo](https://open.spotify.com/track/0XuSeDzApPW3VEeMM2G4ei) | [Alysha Brilla](https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q) | [Echo](https://open.spotify.com/album/4IF5F9A68n96gZd9uJTY7A) | 2:34 | 2022-06-10 | 2022-08-27 |
@@ -515,6 +517,7 @@
 | [Sailors](https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE), [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Sailors](https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7) | 4:01 | 2022-05-13 | 2022-10-15 |
 | [Salt & Pepper](https://open.spotify.com/track/3lqXBXZl8JZsFzceeAuzJn) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Salt & Pepper](https://open.spotify.com/album/0tLC2AAYAcWDcVCemIO7vM) | 3:19 | 2023-10-06 | 2023-11-11 |
 | [Salt Circle](https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Salt Circle](https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs) | 4:20 | 2022-12-02 | 2023-05-06 |
+| [Same Old Me](https://open.spotify.com/track/5gwNVbApnuJODGSQuEC997) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Same Old Me](https://open.spotify.com/album/0Ew9EKV0vC9lHqf0RHH5Rv) | 4:22 | 2024-02-02 |  |
 | [Same Sun](https://open.spotify.com/track/6MEoQa6jl59PrxnItrOJGY) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Same Sun](https://open.spotify.com/album/0iDJ1kQZNuXhilxTTCwAHA) | 3:05 | 2023-02-17 | 2023-03-25 |
 | [Sandy Cove](https://open.spotify.com/track/7sYmOR1QIkJfphSlu2Kg2K) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Sandy Cove](https://open.spotify.com/album/7J2tE4b1tYFEiwnaLoUpqF) | 5:35 | 2023-03-17 | 2023-03-25 |
 | [Sapling](https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 4:17 | 2022-05-13 | 2022-09-10 |

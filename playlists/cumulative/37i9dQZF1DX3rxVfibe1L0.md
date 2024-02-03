@@ -4,7 +4,7 @@
 
 > Get happy with today's dose of feel\-good songs!
 
-462 songs - 1 day 0 hr 21 min
+463 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2019-08-30 |  |
 | [Cry \(with John Martin\)](https://open.spotify.com/track/1TF8rXy87zrnpBlS9TLykA) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Cry \(with John Martin\)](https://open.spotify.com/album/4GlaRJyGOcHqTSxOJf7efu) | 3:38 | 2020-08-08 | 2020-09-18 |
 | [Cry About It Later](https://open.spotify.com/track/1RsD951uUUlJx0MRioZfev) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/38hfmutL8qSnflpigbMoLw) | 3:09 | 2020-08-30 | 2020-09-11 |
-| [CUFF IT](https://open.spotify.com/track/3IHaiorYWOcr8Kzs85PWF7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV) | 3:45 | 2023-01-06 |  |
+| [CUFF IT](https://open.spotify.com/track/3IHaiorYWOcr8Kzs85PWF7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV) | 3:45 | 2023-01-06 | 2024-02-03 |
 | [Cynic](https://open.spotify.com/track/6IW6mD0OrfYXXkTgdLBQ83) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:28 | 2019-07-29\* | 2019-09-06 |
 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 | 2020-05-15 | 2021-03-14 |
 | [Dance Monkey](https://open.spotify.com/track/5ZULALImTm80tzUbYQYM9d) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Kids Are Coming](https://open.spotify.com/album/2pJXQvY0YeDvVJ9gMU9G7j) | 3:29 | 2019-10-25 | 2020-05-08 |
@@ -344,6 +344,7 @@
 | [Say So \(feat\. Nicki Minaj\)](https://open.spotify.com/track/11VApNQCWLJdzxWrlmwzUa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Say So \(feat\. Nicki Minaj\)](https://open.spotify.com/album/2cpCmPs5Efp7w7Cv0LKcuG) | 3:26 | 2020-05-01 | 2020-06-12 |
 | [seaside\_demo](https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT) | 2:12 | 2022-07-15 | 2022-08-06 |
 | [seaside\_demo](https://open.spotify.com/track/73M0rMVx5CWE8M4uATSsto) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/4FzvipXCsh9Ho8aujaOkLs) | 2:12 | 2021-07-04 | 2022-07-29 |
+| [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 | 2024-02-02 |  |
 | [Selfish](https://open.spotify.com/track/18isufzGFuXQGmwX5hP5Mp) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Spaceman \(Deluxe\)](https://open.spotify.com/album/5Zktm8iOk8gKrQazrc9Uzh) | 3:07 | 2021-03-19 | 2021-04-03 |
 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 | 2019-07-29\* | 2020-02-07 |
 | [Share That Love \(feat\. G\-Eazy\)](https://open.spotify.com/track/44l9nnCVvOQBbWG6tDViKl) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Share That Love \(feat\. G\-Eazy\)](https://open.spotify.com/album/1zTCnLSvIx3DjsKDV1xcmO) | 2:52 | 2020-08-21 | 2022-07-16 |

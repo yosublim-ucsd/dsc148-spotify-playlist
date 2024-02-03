@@ -1,12 +1,12 @@
 {
   "description": "The best alternative songs of the decade. Cover: Glass Animals",
-  "num_followers": 906884,
+  "num_followers": 906864,
   "original_name": "Alternative 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDNiMjc3NTVmZmRkNWZlN2Y2OWQ5ZmRiMTkwOTA5MmQyODk0YjJl",
+  "snapshot_id": "MCxhMGIyNWM2NmZhZGNmNjBhY2RiOTFmNDg0Y2UxMGZkZjM4N2M5ZGZm",
   "tracks": [
     {
       "added_at": "2023-04-28 10:51:34",
@@ -287,18 +287,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
       "artists": [
         {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
         }
       ],
-      "duration_ms": 218106,
-      "name": "Electric Love",
-      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
+      "duration_ms": 218013,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -319,18 +319,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
       "artists": [
         {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+      "duration_ms": 218106,
+      "name": "Electric Love",
+      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -527,18 +527,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
       },
       "artists": [
         {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "kai",
+          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
         }
       ],
-      "duration_ms": 277653,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
+      "duration_ms": 234909,
+      "name": "Never Be Like You (feat. Kai)",
+      "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -559,6 +563,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
         "name": "Sadnecessary (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 313626,
       "name": "Stolen Dance",
       "url": "https://open.spotify.com/track/0ZfByLXCeKchuj7zi1CJ0S"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "kai",
-          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
-        }
-      ],
-      "duration_ms": 234909,
-      "name": "Never Be Like You (feat. Kai)",
-      "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 209273,
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 234652,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 209273,
-      "name": "SLOW DANCING IN THE DARK",
-      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 222044,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D"
+      "duration_ms": 162600,
+      "name": "Will We Talk?",
+      "url": "https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 162600,
-      "name": "Will We Talk?",
-      "url": "https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i"
+      "duration_ms": 222044,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D"
     },
     {
       "added_at": "2022-09-29 15:30:40",

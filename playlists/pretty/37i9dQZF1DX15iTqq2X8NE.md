@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,913 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,918 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 5 | [يا نجوم](https://open.spotify.com/track/1Y84d8A6RpteKamrSWGQ04) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [يا نجوم](https://open.spotify.com/album/67C5e9zAewNQXryva01OR8) | 2:42 |
 | 6 | [mOth](https://open.spotify.com/track/3UV2laHcnxTSLMZiSXoDDX) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [mOth](https://open.spotify.com/album/3vq470zfgc6AyX2jecQyl8) | 2:48 |
 | 7 | [أهل العمار \(feat\. Ali Naseraldeen\)](https://open.spotify.com/track/1poqei4HbPw5lN3UL1rWKv) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أهل العمار \(feat\. Ali Naseraldeen\)](https://open.spotify.com/album/2OUH1uzap9sVVbo9D5DBpS) | 3:47 |
-| 8 | [Fantastic](https://open.spotify.com/track/6RjS6MPgwJZF46uIZ42xKo) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Fantastic](https://open.spotify.com/album/2kwi1bM3Xh3vIV0AlMoQvH) | 2:32 |
+| 8 | [Bringi](https://open.spotify.com/track/6j6RB7ohZG8vPwornVd5KO) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Bringi](https://open.spotify.com/album/1wDrVmraB9J80VV0X7JBWq) | 2:19 |
 | 9 | [Bader Khol3a](https://open.spotify.com/track/2O4fl7UvPHbledhgyHjTio) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Bader Khol3a](https://open.spotify.com/album/5XhXrx2BTXQqIndy969kez) | 2:12 |
 | 10 | [Dead Body](https://open.spotify.com/track/3uoCwqVCa7AjnHZHHliRxp) | [The C!rcle](https://open.spotify.com/artist/0O2a7rwD6h8c5atrT84A5F), [AKA Keyz](https://open.spotify.com/artist/4JrLK4tGHTmLkof4Gn6gMT), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [A 249 Experience, Vol\. 1](https://open.spotify.com/album/5aPoFtmnkmYctV1f1vlVfI) | 3:27 |
 | 11 | [تسجيل دخول](https://open.spotify.com/track/6d3kzCWQESvrsDJkItIMzS) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [Dj Aloo](https://open.spotify.com/artist/6IxTrmFoKAlamtTxTKUzkH) | [تسجيل دخول](https://open.spotify.com/album/0tAkfOwyGCWjR2iLrhbVHI) | 2:56 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 14 | [MaMuhim](https://open.spotify.com/track/7fUlWvzlUIr3ijziHXtnlM) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [MaMuhim](https://open.spotify.com/album/2Dc6X5SdB6Bl5dCaGAAve1) | 3:43 |
 | 15 | [Warm Pants](https://open.spotify.com/track/11ZY9wPKm72osWrXBPYoSc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Warm Pants](https://open.spotify.com/album/7Aa1y7FVfTeMlcToaq2HoN) | 5:14 |
 | 16 | [Habibi Taal](https://open.spotify.com/track/4YNoMqHMhY4HYFVNbDKfUU) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Silt](https://open.spotify.com/album/6V4ed5KMWm6F5lYNhQxH9W) | 3:18 |
-| 17 | [Bringi](https://open.spotify.com/track/6j6RB7ohZG8vPwornVd5KO) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Bringi](https://open.spotify.com/album/1wDrVmraB9J80VV0X7JBWq) | 2:19 |
+| 17 | [Fantastic](https://open.spotify.com/track/6RjS6MPgwJZF46uIZ42xKo) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Fantastic](https://open.spotify.com/album/2kwi1bM3Xh3vIV0AlMoQvH) | 2:32 |
 | 18 | [Fawda \| فوضي](https://open.spotify.com/track/09anZUksJfj5f1BbphM5lV) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [Dj Reo](https://open.spotify.com/artist/2wNCR677docA3slrerB4Bl) | [Fawda \| فوضي](https://open.spotify.com/album/3nvEPbZmYCfINY95gXb5xr) | 4:15 |
 | 19 | [النار ولعت \(feat\. Ali Naseraldeen\)](https://open.spotify.com/track/0tSLeFVhJ7zfXzJJpFhoI7) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [النار ولعت \(feat\. Ali Naseraldeen\)](https://open.spotify.com/album/5Qm9D2Cgs5yKNuSReeLvTw) | 1:19 |
 | 20 | [DOPAMINE](https://open.spotify.com/track/2mX3Udxyayq72cbJhlpaho) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [DOPAMINE](https://open.spotify.com/album/29yH3NTWxPeFUpZTfHm0nA) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 49 | [Ganay Albreedo](https://open.spotify.com/track/0S45re7HsNZYqlktnE9niZ) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [Ganay Albreedo](https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q) | 5:35 |
 | 50 | [Picasso \(Outro\)](https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk) | [Picasso \(Outro\)](https://open.spotify.com/album/5FHpioMLjDuoJMvCg8GWQw) | 4:00 |
 
-Snapshot ID: `MCxmZjgwMDMzZWViNWRmZjc2YjRhYjllODQxZmNkZGQyZGZkOWY0NWE0`
+Snapshot ID: `MCxjYmU2Y2YxM2UzMzg3NzJiY2U5NWM1NmJmM2M3ZDhmZDBhMjRkNjBj`

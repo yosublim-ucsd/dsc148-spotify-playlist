@@ -1,12 +1,12 @@
 {
-  "description": "Fresh releases from your future favorite artists. Cover: Darlene Artwork: Isu Kim\n",
-  "num_followers": 58774,
+  "description": "Fresh releases from your future favorite artists. Cover: No Lore Artwork: Isu Kim\n",
+  "num_followers": 58810,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGY0MzYwMjY3YmZhNThiYTY2NWM4MDA1NzViZWQwNTlhNTM4MWNh",
+  "snapshot_id": "MCw3NDkwZWIxZGM1ZjZkNDY1YTliMjdiMWIwMDE2NWNlZTIxN2YyNjli",
   "tracks": [
     {
       "added_at": "2024-02-01 16:00:00",
@@ -57,20 +57,20 @@
       "url": "https://open.spotify.com/track/6sEou6d20Y6ckzht82CTsO"
     },
     {
-      "added_at": "2024-02-01 16:00:00",
+      "added_at": "2024-01-25 16:00:00",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/1jtIntpJlo26sHOcNlBoLD"
+        "name": "Malilimutin",
+        "url": "https://open.spotify.com/album/3IAPO7lZqLBbzYQNejhK79"
       },
       "artists": [
         {
-          "name": "Darlene",
-          "url": "https://open.spotify.com/artist/7B1vvIi6vy0g3iyVjWDmen"
+          "name": "No Lore",
+          "url": "https://open.spotify.com/artist/1dflKYBqIcK3KClERQfXtB"
         }
       ],
-      "duration_ms": 183333,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/1W8rCE5z36BZlZKztaXLDa"
+      "duration_ms": 259821,
+      "name": "Malilimutin",
+      "url": "https://open.spotify.com/track/0p3sBsa1nrReMy0o77piKk"
     },
     {
       "added_at": "2024-02-01 16:00:00",
@@ -435,22 +435,6 @@
       "duration_ms": 167227,
       "name": "Clock",
       "url": "https://open.spotify.com/track/22GsJvgJT5tbJxICIYVY7s"
-    },
-    {
-      "added_at": "2024-01-25 16:00:00",
-      "album": {
-        "name": "Malilimutin",
-        "url": "https://open.spotify.com/album/3IAPO7lZqLBbzYQNejhK79"
-      },
-      "artists": [
-        {
-          "name": "No Lore",
-          "url": "https://open.spotify.com/artist/1dflKYBqIcK3KClERQfXtB"
-        }
-      ],
-      "duration_ms": 259821,
-      "name": "Malilimutin",
-      "url": "https://open.spotify.com/track/0p3sBsa1nrReMy0o77piKk"
     },
     {
       "added_at": "2024-01-25 16:00:00",

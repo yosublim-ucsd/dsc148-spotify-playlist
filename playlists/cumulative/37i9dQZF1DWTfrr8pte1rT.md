@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Steve Aoki and Yellowcard \\m/
 
-364 songs - 20 hr 47 min
+365 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,8 @@
 | [Nothing For Free](https://open.spotify.com/track/7eJqLdEQ96D5Xzc406xkeZ) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Nothing For Free](https://open.spotify.com/album/2C5pOup7ksQ7YFutOlP6nA) | 3:03 | 2021-12-10 | 2023-06-01 |
 | [Nothing's Perfect](https://open.spotify.com/track/6mpK1E4JUAoAuoEDoaenYL) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Nothing's Perfect](https://open.spotify.com/album/1VKOrnp0rc9mXok6POKq6B) | 3:06 | 2022-09-09 | 2023-08-19 |
 | [Obsolete \- Sullivan King Remix](https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Echo \(Deluxe Version\)](https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG) | 3:05 | 2022-12-12 |  |
-| [Ocean Avenue](https://open.spotify.com/track/7MmpWpWAHFYGBnm2NkOR7E) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/2ZCysCyAAnuFMC8xsaKQ0o) | 3:46 | 2023-12-15 |  |
+| [Ocean Avenue](https://open.spotify.com/track/5OHr0CXtKhicd7NHgRm6TB) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/2BeW2kujqEAJ7yx5nKdcc2) | 3:46 | 2024-01-26 |  |
+| [Ocean Avenue](https://open.spotify.com/track/7MmpWpWAHFYGBnm2NkOR7E) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/2ZCysCyAAnuFMC8xsaKQ0o) | 3:46 | 2023-12-15 | 2024-02-03 |
 | [Ohio is for Lovers](https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Ohio is for Lovers](https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331) | 3:52 | 2021-12-10 | 2024-01-27 |
 | [On My Own](https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [On My Own](https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO) | 4:15 | 2022-09-30 |  |
 | [One More Time](https://open.spotify.com/track/7isayXQEPtwsmuAqq7tZoM) | [Finnet](https://open.spotify.com/artist/083SNs2t2ngrAeHw1M8sPw), [Stay up Late](https://open.spotify.com/artist/5iOsQV7xht5LcNOqxkTFw0) | [One More Time](https://open.spotify.com/album/4J2xMk08UWQ6Rp8OjyRTF1) | 2:55 | 2021-12-10 | 2022-06-24 |

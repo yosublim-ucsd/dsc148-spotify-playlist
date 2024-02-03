@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Gary Clark Jr.
 
-260 songs - 15 hr 10 min
+261 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Lemonades \(feat\. Cam Kimbrough, Luther Dickinson & Chuck Treece\)](https://open.spotify.com/track/72jNvtgMO1NuNFu37h9019) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Cam Kimbrough](https://open.spotify.com/artist/5iAM7x8kZR3VvaO2FMDaFq), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk), [Chuck Treece](https://open.spotify.com/artist/1eqVSNP9MMcDjki4dMIfeV) | [Philadelphia Mississippi](https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3) | 3:08 | 2022-06-24 |  |
 | [Let Me Go](https://open.spotify.com/track/1UCRy4AZi5T4gfRDQwel5t) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Let Me Go](https://open.spotify.com/album/571dTEZ64Z49fi7EdlknZp) | 2:15 | 2022-02-18 | 2022-11-23 |
 | [Let Me Go](https://open.spotify.com/track/7n8mE3JYsbwrcJf0hr6Xo1) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 2:15 | 2022-02-18 | 2023-09-30 |
+| [Life Without You](https://open.spotify.com/track/4krJzncHajIIGhnBuZw2iD) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Life Without You](https://open.spotify.com/album/7rCMCsTF26e3y78bosY8GT) | 3:10 | 2024-02-02 |  |
 | [Light Shine In](https://open.spotify.com/track/3azPwNPD36yMmg4gYRtuJ4) | [Conor Gains](https://open.spotify.com/artist/3v56uAiWA52So80mU5pBy2) | [Light Shine In](https://open.spotify.com/album/5SgySlto0nQI5P38u7Cvw0) | 3:27 | 2021-04-02 | 2022-03-26 |
 | [Like A Dove](https://open.spotify.com/track/1br8OkIlBEJjhcAdZ44UUC) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Like A Dove](https://open.spotify.com/album/2iQ9N9PXfVaHF3t5xNIwVl) | 5:50 | 2023-08-25 |  |
 | [Like You Mean It](https://open.spotify.com/track/27qo8wD02bPb4tbunUm8w8) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Like You Mean It](https://open.spotify.com/album/3qKgpfBcTIztyYMxoRzwFz) | 2:38 | 2023-03-17 | 2023-05-27 |
@@ -132,7 +133,7 @@
 | [Love on the Rocks](https://open.spotify.com/track/6paMAWG7CCn967OkrIILty) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q) | 3:42 | 2021-10-19 | 2023-06-17 |
 | [Love One Another](https://open.spotify.com/track/56pU90MrM2CTr19neVoZCg) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Marlon Jackson](https://open.spotify.com/artist/5DG9htBpiEo5W6jUmYgbKF), [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Love One Another](https://open.spotify.com/album/5sIKiUbccZ7A2zp5fNQLGE) | 3:03 | 2021-07-09 | 2022-07-29 |
 | [Love One Another](https://open.spotify.com/track/64eBuqWRATkq4dtgMtzGq0) | [Tito Jackson](https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi), [Marlon Jackson](https://open.spotify.com/artist/5DG9htBpiEo5W6jUmYgbKF) | [Under Your Spell](https://open.spotify.com/album/18U447Ip4CM4yoQc26DJ1i) | 3:03 | 2021-07-09 | 2022-08-27 |
-| [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 | 2023-03-10 |  |
+| [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 | 2023-03-10 |  |
 | [M.O.N.E.Y](https://open.spotify.com/track/6zGItl8BOQZJBSlQkks3nL) | [Bette Smith](https://open.spotify.com/artist/3hFYJXV9rGaHMAPkvP4YZ3) | [M.O.N.E.Y](https://open.spotify.com/album/3R7gMiAzVSFHnIWChw9wAB) | 3:06 | 2024-01-26 |  |
 | [Make a Move](https://open.spotify.com/track/4GOm5E75Wqq3e3SzlbsGvr) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Make a Move](https://open.spotify.com/album/2xx4wUH6WUi7JqAZORwSQZ) | 2:26 | 2021-07-26 | 2022-08-27 |
 | [Maktub](https://open.spotify.com/track/4ne40SWAvqOQu0HD2fwgWd) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [JPEG RAW Sampler](https://open.spotify.com/album/26YWRzY4wSeA4QL4QDGNGS) | 4:13 | 2024-01-26 |  |
@@ -201,7 +202,7 @@
 | [Stay away from me](https://open.spotify.com/track/77iBCaVqdOSmXtHk5OcwUg) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/443tvXMsfPqlt82b5VmyzT) | 2:42 | 2022-04-08 | 2023-08-21 |
 | [Stay away from me](https://open.spotify.com/track/7EaZMdAtVy23yoa8HELJgF) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/2B1YbPhjd2tp1KAcwM26Ra) | 2:42 | 2022-04-08 | 2022-08-05 |
 | [Stay away from me](https://open.spotify.com/track/4FOGtKxxRYSPXDc9zqtmuI) | [Xerts](https://open.spotify.com/artist/0o6Qu4jP243MCBTMyODXOQ) | [Stay away from me](https://open.spotify.com/album/6F1sfezZ5OV9EXIvYaDj74) | 2:42 | 2022-04-08 |  |
-| [Storms from My Eyes](https://open.spotify.com/track/5ZWk8lQd6PHrJUCEQJkFGj) | [Angelique Francis](https://open.spotify.com/artist/3AoZtg3XjzbONsDfAXCene) | [Long River](https://open.spotify.com/album/5i3kWvr8Yj4iETRXlrQNVN) | 4:54 | 2022-03-11 |  |
+| [Storms from My Eyes](https://open.spotify.com/track/5ZWk8lQd6PHrJUCEQJkFGj) | [Angelique Francis](https://open.spotify.com/artist/3AoZtg3XjzbONsDfAXCene) | [Long River](https://open.spotify.com/album/5i3kWvr8Yj4iETRXlrQNVN) | 4:54 | 2022-03-11 | 2024-02-03 |
 | [Strike Gold](https://open.spotify.com/track/3g3vayoe4Y10leAHdrvTnM) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Strike Gold](https://open.spotify.com/album/5M6sqKBlKeBTACwzWexteZ) | 3:20 | 2022-10-07 | 2022-11-14 |
 | [Strike Gold](https://open.spotify.com/track/4vuqP2NPI5QaxvBJll1kCO) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:20 | 2022-10-07 |  |
 | [Sugar Man](https://open.spotify.com/track/0fxPI5BMCQYo0nPV7ysef4) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Sugar Man](https://open.spotify.com/album/2EzBNH4CaSRJRL8fUjovip) | 3:29 | 2023-12-01 |  |

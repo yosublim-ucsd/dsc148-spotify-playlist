@@ -4,7 +4,7 @@
 
 > Best VOCALOID Songs in 2023! 2023年の<a href="https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU?si=eeff84f267c74f49">君が生きてなくてよかった</a>総まとめ！今年君が生きてなくてよかったで再生された楽曲別ベスト100 ! <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a> cover: Kanaria
 
-129 songs - 6 hr 57 min
+130 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [ラビットホール](https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ラビットホール](https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS) | 2:39 | 2023-11-29 |  |
 | [リレイアウター](https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [リレイアウター](https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV) | 3:09 | 2023-11-29 |  |
 | [ロキ](https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 3:50 | 2022-11-30 |  |
-| [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 | 2023-11-29 |  |
+| [乙女解剖](https://open.spotify.com/track/1otg7FUDBkXTWGjputlbxR) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/7gxXuvmdsCaoM4Li1GR9gB) | 3:43 | 2023-11-29 |  |
+| [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 | 2023-11-29 | 2024-02-03 |
 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 | 2022-11-30 |  |
 | [夜もすがら君想ふ](https://open.spotify.com/track/3mH5bQJk2zCuV2aH0V6TPC) | [TOKOTOKO](https://open.spotify.com/artist/4D6R9IkfxEFHtLrm7D2LUH) | [ぼくの魔法使い](https://open.spotify.com/album/0oEVuplSruIOKKiHRtSqj0) | 4:00 | 2022-11-30 | 2023-11-30 |
 | [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 | 2023-11-29 |  |

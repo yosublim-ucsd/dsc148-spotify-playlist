@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > the soundtrack for your vitamin d fix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,048,994 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,048,962 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 74 | [Little Green Bag](https://open.spotify.com/track/4DR5MStkWtDYf17jBUOo0V) | [George Baker Selection](https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn) | [The Tarantino Connection](https://open.spotify.com/album/1pP3xpjOLQILI99rwfSi9q) | 3:15 |
 | 75 | [The Dumb Song](https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Dumb Song](https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5) | 3:45 |
 
-Snapshot ID: `MCxmOWEwNWI4ODIwNjlhNzM5YzUxNzg0ODE3ZWYwZjUzYjljODk3MmNk`
+Snapshot ID: `MCxiMDZhNGVkNjYxZjgzMGQ1M2E1ZDQ2MzVhMjdmMWM1YzBhMjcxYWQ1`

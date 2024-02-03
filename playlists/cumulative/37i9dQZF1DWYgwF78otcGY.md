@@ -2,9 +2,9 @@
 
 ### [Mellofest! ](https://open.spotify.com/playlist/37i9dQZF1DWYgwF78otcGY)
 
-> Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
+> Nuuu kööör vi! A\*Teens återförenas och fjäderboan är framme \- nu är det mellofest! 🪩✨💜
 
-172 songs - 8 hr 40 min
+175 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Anropar försvunnen](https://open.spotify.com/track/1eVSgfj4JN9T5RE5seKYXN) | [Hanna Hedlund](https://open.spotify.com/artist/5Czd0MlWc1v6blcW7zVwGq) | [Anropar försvunnen](https://open.spotify.com/album/4DoyEIDnWaLICWCzlH5fLv) | 2:53 | 2019-02-28 | 2022-07-29 |
 | [As I Lay Me Down](https://open.spotify.com/track/1RNAAIqorcSpk3nY2dxLRB) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [As I Lay Me Down](https://open.spotify.com/album/3aLrYDY9T8OObu2IY3sC90) | 3:09 | 2019-02-28 | 2022-08-25 |
 | [As I Lay Me Down](https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [As I Lay Me Down](https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT) | 3:09 | 2019-02-28 | 2024-01-20 |
-| [Ashes To Ashes](https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Ashes To Ashes](https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR) | 3:00 | 2019-02-28 |  |
+| [Ashes To Ashes](https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Ashes To Ashes](https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR) | 3:00 | 2019-02-28 | 2024-02-03 |
 | [Avundsjuk](https://open.spotify.com/track/0cH3Fk2FKjblnoSwAaB1Mw) | [Nanne](https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi) | [I natt är jag din](https://open.spotify.com/album/5i0Hnlj1Hc6peFWOf2rMyg) | 3:59 | 2019-02-28 | 2022-11-13 |
 | [Baby Goodbye](https://open.spotify.com/track/4Vg4aicJ6wzbhdpDh1Nq8L) | [E.M.D.](https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg) | [A State Of Mind](https://open.spotify.com/album/0XvSVC13iyxSoYuyExO3B0) | 2:54 | 2019-02-28 | 2022-07-09 |
 | [Bada nakna](https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6) | [Bada Nakna](https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas) | 3:11 | 2019-02-28 |  |
@@ -53,10 +53,11 @@
 | [Euphoria \- Single Version](https://open.spotify.com/track/2I0NkzwRH4Onzzg5UbmcpE) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria \(The Alternative Mixes\)](https://open.spotify.com/album/6gWEIUmtUGPbLMbEcTCDxu) | 3:01 | 2023-02-26 |  |
 | [Euphoria \- Single Version](https://open.spotify.com/track/7tY2meg4csUMUjPXgFBRKk) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/75aUQwIa504ehmWDDkXMXi) | 3:01 | 2023-02-26 | 2023-06-07 |
 | [Everyday](https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c) | [Mendez](https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL) | [Everyday](https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW) | 3:05 | 2019-02-28 | 2023-12-02 |
-| [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 | 2019-02-28 |  |
+| [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 | 2019-02-28 | 2024-02-03 |
 | [Fairytale](https://open.spotify.com/track/3MnAsEBBsEj86d03RgO4EM) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytale](https://open.spotify.com/album/6EWWmTEOXI58PL13vNk67S) | 3:02 | 2019-02-28 | 2022-11-13 |
 | [Fairytale](https://open.spotify.com/track/6NgYIETQ8U72CVfkzYhK30) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytales](https://open.spotify.com/album/7k1b8wzjRsSTmIBuRlBrxp) | 3:03 | 2019-02-28 |  |
 | [Fairytale \- e\-single version](https://open.spotify.com/track/4ijrqnZcTEs9eMA3vFsMES) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Fairytales](https://open.spotify.com/album/4kVOoW9r8UQydrASSXauSP) | 3:05 | 2019-02-28 | 2022-07-12 |
+| [Floorfiller](https://open.spotify.com/track/5BfUdzWYfhnH9MLsCxpQRw) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Pop 'Til You Drop](https://open.spotify.com/album/2O8rJagr5rJnMCiSfnU4Nn) | 3:14 | 2024-02-02 |  |
 | [For You](https://open.spotify.com/track/7zZ3ZIEOoZ5CDVQdmNWSzD) | [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [For You](https://open.spotify.com/album/763f3RSCbk1oXn8F79A35Z) | 2:58 | 2019-02-28 | 2023-03-05 |
 | [Främling](https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Främling 25 år](https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv) | 2:57 | 2019-02-28 | 2022-07-29 |
 | [Främling](https://open.spotify.com/track/1FndLKa7Gs9S8WKVZuq4RL) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Hits](https://open.spotify.com/album/1UAZLLyBwoQB9T5CIG0VSE) | 2:58 | 2019-02-28 | 2022-12-29 |
@@ -88,8 +89,8 @@
 | [I Do](https://open.spotify.com/track/2RNvjHLcUl1ft5v5szLP5U) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [I Do](https://open.spotify.com/album/54kDqOtVNM0bafxqbeKROT) | 3:04 | 2019-02-28 | 2022-07-29 |
 | [I Do Me](https://open.spotify.com/track/3dlu81sbakUxdtEHFnTJmz) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [I Do Me](https://open.spotify.com/album/3PHMXQB20FRJ8GGqBFIi5M) | 2:43 | 2019-02-28 | 2022-11-13 |
 | [If I Were Sorry](https://open.spotify.com/track/6oDkCmfVcSd9NXAKk1b4Ll) | [Frans](https://open.spotify.com/artist/1y5T3Prq30eW5RkpaUWNOQ) | [If I Were Sorry](https://open.spotify.com/album/7e5vrZ4iPy74CmBgbIpQKX) | 3:04 | 2019-02-28 |  |
-| [In i dimman](https://open.spotify.com/track/3zNUWltBz3xrZhXkoSMgJX) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Tropicalisera](https://open.spotify.com/album/0UQp20m1BlovpSh9zIowVB) | 2:53 | 2023-02-26 | 2024-01-19 |
-| [In i dimman](https://open.spotify.com/track/5v5cNnwvtntSGSDR3BSVwq) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/6S7FvJ1tWSh7rqo8wey1Tm) | 2:53 | 2023-02-26 |  |
+| [In i dimman](https://open.spotify.com/track/3zNUWltBz3xrZhXkoSMgJX) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Tropicalisera](https://open.spotify.com/album/0UQp20m1BlovpSh9zIowVB) | 2:53 | 2023-02-26 |  |
+| [In i dimman](https://open.spotify.com/track/5v5cNnwvtntSGSDR3BSVwq) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/6S7FvJ1tWSh7rqo8wey1Tm) | 2:53 | 2023-02-26 | 2024-02-03 |
 | [In My Cabana](https://open.spotify.com/track/4QQNLEpCHjwovArZsDIUD6) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [In My Cabana](https://open.spotify.com/album/117MLkbXJnYCcN1lNxDm8k) | 2:52 | 2019-02-28 | 2023-02-13 |
 | [In The Club](https://open.spotify.com/track/3GbgOBpbw71zpy7lCnU6N6) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [In The Club](https://open.spotify.com/album/50ofW35oBO5mhrZTHnOBMt) | 2:46 | 2019-02-28 | 2022-11-13 |
 | [Jag ljuger så bra](https://open.spotify.com/track/4IV8dOSLi26stONnuQg8Kf) | [Linda Bengtzing](https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV) | [Ingenting att förlora](https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l) | 3:04 | 2019-02-28 |  |
@@ -122,6 +123,7 @@
 | [Live Forever](https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Live Forever \- The Album \(Deluxe Edition\)](https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x) | 3:02 | 2019-02-28 | 2023-09-14 |
 | [Lyssna till ditt hjärta](https://open.spotify.com/track/3G9HeRXCvEmn0KIjnbjWVO) | [Friends](https://open.spotify.com/artist/5mHoZyR5qy4zrCSAetmwnX) | [Best Of Friends](https://open.spotify.com/album/5Cdt8HUprN9C38pCaLHoEH) | 3:05 | 2019-02-28 | 2022-07-29 |
 | [Lyssna till ditt hjärta](https://open.spotify.com/track/4BhEDrbVxPgu13SQFwoDCV) | [Friends](https://open.spotify.com/artist/5mHoZyR5qy4zrCSAetmwnX) | [Lyssna till ditt hjärta](https://open.spotify.com/album/1jWedFgADqAwwe3nP3RZlA) | 3:05 | 2019-02-28 | 2024-01-19 |
+| [Mamma Mia](https://open.spotify.com/track/1mfyJ0YLhJwbFLzeE7f4ZR) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [The Abba Generation](https://open.spotify.com/album/7yThsnF2X40rQDxZl1lRoB) | 3:43 | 2024-02-02 |  |
 | [Manboy](https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Masquerade](https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp) | 3:00 | 2019-02-28 |  |
 | [Mer av dig](https://open.spotify.com/track/7xzgJNufqvox5oQQa1dP1O) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Mer av dig](https://open.spotify.com/album/3waGWjneO6tOSEAzfHusNp) | 2:44 | 2023-12-01 |  |
 | [Mera mera mera](https://open.spotify.com/track/0dLe7y9Pil9ETtYuDWyrpP) | [EMIL HENROHN](https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH) | [Mera mera mera](https://open.spotify.com/album/2sjbpLcx2MTRtq72RoytQw) | 2:58 | 2024-01-18 |  |
@@ -137,7 +139,7 @@
 | [Never Give Up](https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Never Give Up](https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP) | 2:59 | 2023-12-01 |  |
 | [Never Let It Go](https://open.spotify.com/track/28ihA2Fp5zRmcmi8hpfWiC) | [Afro\-Dite](https://open.spotify.com/artist/0oO1vycfLbA7I18jfy2eWe) | [Never Let It Go](https://open.spotify.com/album/7nbwgaAlzIqneeDFjoxxL4) | 3:02 | 2019-02-28 | 2023-02-12 |
 | [Not A Sinner Nor A Saint](https://open.spotify.com/track/1mDmJ95y1W5UarAAJij5VK) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Alcazarized](https://open.spotify.com/album/1g1irSdBq3tFBISnB2ou8C) | 3:01 | 2019-02-28 | 2022-07-29 |
-| [Now I Know](https://open.spotify.com/track/591qy56kcfBuNgj1kregOM) | [Tennessee Tears](https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp) | [Now I Know](https://open.spotify.com/album/1uap95G6btqs1OZLmkN1Gc) | 3:01 | 2023-12-01 |  |
+| [Now I Know](https://open.spotify.com/track/591qy56kcfBuNgj1kregOM) | [Tennessee Tears](https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp) | [Now I Know](https://open.spotify.com/album/1uap95G6btqs1OZLmkN1Gc) | 3:01 | 2023-12-01 | 2024-02-03 |
 | [När vindarna viskar mitt namn](https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7) | [Roger Pontare](https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG) | [När vindarna viskar mitt namn \- Single](https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H) | 3:04 | 2019-02-28 |  |
 | [Oh My God!](https://open.spotify.com/track/1Uy045RBKXiMRDzE5jysip) | [The Moniker](https://open.spotify.com/artist/3lh0txPGRzXwKDsgMAtixi) | [Maktub \(Exclusive Version\)](https://open.spotify.com/album/6cH6bGlADVDv7U1k62fUeh) | 3:01 | 2019-02-28 | 2022-07-24 |
 | [Olé olé](https://open.spotify.com/track/1A6HigdQfxxgFGyRPOvFml) | [Andrés Esteche](https://open.spotify.com/artist/0ANmJ8SDuDQTQiIyYUyzlZ) | [Olé Olé](https://open.spotify.com/album/59Olu5Z2kiPHVMr2yOw4zQ) | 2:45 | 2019-02-28 | 2022-05-08 |
@@ -167,6 +169,7 @@
 | [Tusen och en natt](https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y) | 3:02 | 2019-02-28 |  |
 | [Underbart](https://open.spotify.com/track/5Tbc2O2q1NCux8F0lYiEo0) | [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW), [Orsa Spelmän](https://open.spotify.com/artist/2XmqtWcNsjq5XxlE6p5WrT) | [Underbart](https://open.spotify.com/album/1RXvOiBHUXPHqMfNZYohGQ) | 3:08 | 2019-02-28 | 2022-07-28 |
 | [Upp över mina öron](https://open.spotify.com/track/2LeECxc9pVxuHPTxkcSU6f) | [Eriksson Glenmark](https://open.spotify.com/artist/5LQ1P7IYESUDM9ebSiIlcj) | [Upp över mina öron](https://open.spotify.com/album/2IoJ4qn6yzQH5nmqwlUnvd) | 2:57 | 2019-02-28 | 2022-07-25 |
+| [Upside Down](https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Teen Spirit](https://open.spotify.com/album/4Puwtzbl10V90RTsk8XzWF) | 3:17 | 2024-02-02 |  |
 | [Vem e som oss](https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Vem e som oss](https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb) | 2:55 | 2023-02-26 |  |
 | [Vem e' de' du vill ha](https://open.spotify.com/track/3447n2pfsGlxLSO3GYwIye) | [Kikki Bettan Lotta](https://open.spotify.com/artist/3NMtS6Cb9aNvV6Gv0aXZXM) | [Hi\-Five: Svenska Schlagerhits 4](https://open.spotify.com/album/2HkdYpctqta9B3feerwZ5D) | 3:05 | 2019-02-28 | 2022-07-08 |
 | [Vi kan gunga](https://open.spotify.com/track/6YqOnvZDRj1GwaYhsdqA9E) | [Jimmy Jansson](https://open.spotify.com/artist/3i7yhYt2s1AK269jue0DDs) | [Som en blixt](https://open.spotify.com/album/2skSGMGgfNbmTK0sZemRQL) | 3:02 | 2019-02-28 | 2022-07-28 |

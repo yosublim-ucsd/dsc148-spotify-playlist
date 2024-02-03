@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Nothing but the best in modern country music. Cover: Wyatt Flores",
+  "description": "This month, we\u2019re celebrating the essence of Black culture across the world. Discover more Black artists and their contributions <a href=\"spotify:genre:0JQ5DAqbMKFF9bY76LXmfI\">here.</a> Cover: Dax",
   "name": "All About Country",
   "tracks": [
     {
@@ -5126,7 +5126,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 163854,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
@@ -8684,7 +8684,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 183680,
       "name": "Something's Gonna Kill Me",
       "url": "https://open.spotify.com/track/2VrxL3FS3m7KLzfOHUPqOx"
@@ -8906,6 +8906,24 @@
       "duration_ms": 187493,
       "name": "Southern and Slow",
       "url": "https://open.spotify.com/track/5tAoi3TfoWB4esWc5hlLJ8"
+    },
+    {
+      "album": {
+        "name": "Spin You Around (1/24)",
+        "url": "https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209427,
+      "name": "Spin You Around (1/24)",
+      "url": "https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE"
     },
     {
       "album": {
@@ -9886,6 +9904,24 @@
       "duration_ms": 182000,
       "name": "This Fire",
       "url": "https://open.spotify.com/track/4chRIgxhQTCpVkSY0a7nDX"
+    },
+    {
+      "album": {
+        "name": "This Heart",
+        "url": "https://open.spotify.com/album/1AEpYbXIt9lp2hRK7Qqk9F"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "This Heart",
+      "url": "https://open.spotify.com/track/1KtQmheytoTI6kOM8yCowf"
     },
     {
       "album": {

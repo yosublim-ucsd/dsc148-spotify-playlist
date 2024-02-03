@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: Brittany Howard",
+  "description": "The best indie dance tracks of the moment. Cover: Wavedash, Madeon and Toro y Moi",
   "name": "metropolis",
   "tracks": [
     {
@@ -88,10 +88,32 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 164114,
       "name": "*69",
       "url": "https://open.spotify.com/track/25y8mFqpFmhHTma6f0LEW1"
+    },
+    {
+      "album": {
+        "name": "*69 (Patrick Holland Remix)",
+        "url": "https://open.spotify.com/album/6LUGEdjWYZtWsEWV4JstWi"
+      },
+      "artists": [
+        {
+          "name": "Born At Midnite",
+          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
+        },
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242442,
+      "name": "*69 - Patrick Holland Remix",
+      "url": "https://open.spotify.com/track/2XqY7iq9sAFBkOlARKqPED"
     },
     {
       "album": {
@@ -784,7 +806,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 187897,
       "name": "All My Friends Are Taking Drugs",
       "url": "https://open.spotify.com/track/0ahdQLJh3jakCHUIfQxofO"
@@ -962,6 +984,32 @@
       "duration_ms": 231105,
       "name": "All The Things We Say",
       "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
+    },
+    {
+      "album": {
+        "name": "All Ur Luv",
+        "url": "https://open.spotify.com/album/1KrS7daFwtHSyT5aPsI0so"
+      },
+      "artists": [
+        {
+          "name": "Wavedash",
+          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
+        },
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161771,
+      "name": "All Ur Luv",
+      "url": "https://open.spotify.com/track/3K1RnBxBkrMwoBE8gC63eY"
     },
     {
       "album": {
@@ -1154,6 +1202,24 @@
       "duration_ms": 152309,
       "name": "Antibodies - Tensnake Disco Mix",
       "url": "https://open.spotify.com/track/716rMfkfLQZzjKfheBYwml"
+    },
+    {
+      "album": {
+        "name": "anywhere but here",
+        "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
+      },
+      "artists": [
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131612,
+      "name": "anywhere but here",
+      "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
     },
     {
       "album": {
@@ -1938,7 +2004,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 262427,
       "name": "Best of Me",
       "url": "https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl"
@@ -2992,7 +3058,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 175806,
       "name": "c u never",
       "url": "https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf"
@@ -5016,6 +5082,24 @@
       "duration_ms": 165461,
       "name": "dopamine - Version Fran\u00e7aise",
       "url": "https://open.spotify.com/track/4B6eD1nzrz6PNOLMgtT7VX"
+    },
+    {
+      "album": {
+        "name": "This Is A Reminder That You Are Not Behind Your Face",
+        "url": "https://open.spotify.com/album/3VcbVj4rqE1ICcd14Hp3La"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186800,
+      "name": "Dopamine Detox",
+      "url": "https://open.spotify.com/track/1L1EKS4V4fXLuXfOduyZ9t"
     },
     {
       "album": {
@@ -7858,7 +7942,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 237288,
       "name": "Got The Love",
       "url": "https://open.spotify.com/track/7DAwKG0lJlzkBuP4EfAk0v"
@@ -8382,6 +8466,24 @@
       "duration_ms": 220324,
       "name": "Here I Go Again",
       "url": "https://open.spotify.com/track/2ZYHsRsl1E3FGKaZgTUMF1"
+    },
+    {
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/3sQfEqsPOKPAnW9hUIILSC"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193426,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/0XVGaKdfstcpMvqe15Yozv"
     },
     {
       "album": {
@@ -10845,6 +10947,24 @@
     },
     {
       "album": {
+        "name": "KEEP ON DANCING",
+        "url": "https://open.spotify.com/album/5Ond4kY9Iz5gicmS1OHZZs"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "KEEP ON DANCING",
+      "url": "https://open.spotify.com/track/7F9UV48FIy6qXwWoPCCClb"
+    },
+    {
+      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
       },
@@ -11366,7 +11486,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 139354,
       "name": "let me go*",
       "url": "https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0"
@@ -12584,7 +12704,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 204826,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0MuGa3SwwVYIeOpOzTOxzj"
@@ -16612,7 +16732,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 253304,
       "name": "Ride With You - Mindchatter Remix",
       "url": "https://open.spotify.com/track/2lQRpiMcCLjniQbhfEjViY"
@@ -18113,6 +18233,28 @@
     },
     {
       "album": {
+        "name": "somethingsgonnaworkout",
+        "url": "https://open.spotify.com/album/212Wc6xZwyy95uzPM91W7b"
+      },
+      "artists": [
+        {
+          "name": "Jai Piccone",
+          "url": "https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC"
+        },
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244554,
+      "name": "somethingsgonnaworkout",
+      "url": "https://open.spotify.com/track/130GRQ2WBu5v7xG2hfWNBM"
+    },
+    {
+      "album": {
         "name": "More Content",
         "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
       },
@@ -18164,6 +18306,24 @@
       "duration_ms": 176613,
       "name": "soshy",
       "url": "https://open.spotify.com/track/77ThGWtKLzRLtcLUxJ8ONd"
+    },
+    {
+      "album": {
+        "name": "SPEAKING OUT LOUD",
+        "url": "https://open.spotify.com/album/5uO8W71W2Zabn4wBtC7d5o"
+      },
+      "artists": [
+        {
+          "name": "JEV",
+          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173648,
+      "name": "SPEAKING OUT LOUD",
+      "url": "https://open.spotify.com/track/68O9CSbx1oZ4nuRSYxPBmn"
     },
     {
       "album": {
@@ -19326,10 +19486,36 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 300122,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy"
+    },
+    {
+      "album": {
+        "name": "tell me",
+        "url": "https://open.spotify.com/album/2R3RQcOjyKQQUBb91Qv0bR"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        },
+        {
+          "name": "Nimstarr",
+          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162291,
+      "name": "tell me",
+      "url": "https://open.spotify.com/track/6CI16mxAWyzW1pMpCV4Qfw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Kungs, David Guetta, Izzy Bizu
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,240 likes - 86 songs - 4 hr 29 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,236 likes - 87 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,5 +94,6 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 | 84 | [Jet Plane](https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j) | [Gusted](https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ) | [Jet Plane](https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV) | 3:02 |
 | 85 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 |
 | 86 | [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 |
+| 87 | [If U Need It](https://open.spotify.com/track/0xfaCHwtlu4xXZO9x3Axen) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Moonlight](https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE) | 2:59 |
 
-Snapshot ID: `NzQ2OSxiMjhlYmI4Y2JkYjcxNWYxMTE1M2Y4YTA5Njg2MTllMzQ3YWE3YzIw`
+Snapshot ID: `NzQ3MCxhODdjYWIyYjc4NDE4NzA3YjFhMDQ4MjU3ZTc4ODRhMzYyYjU5MDUy`

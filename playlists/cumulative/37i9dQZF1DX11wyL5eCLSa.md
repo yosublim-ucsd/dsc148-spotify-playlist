@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Bersuit Vergarabat en Portada.
 
-390 songs - 23 hr 36 min
+392 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,9 +121,9 @@
 | [El Universo](https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 2:16 | 2023-07-07 | 2023-10-21 |
 | [Empezar de Cero](https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Empezar de Cero](https://open.spotify.com/album/6YTctBcS8WvoeqiU6C6UCh) | 4:30 | 2021-12-17 |  |
 | [En Años Luz](https://open.spotify.com/track/2HtmGWcpIJBgO8GVpjfbl2) | [Rock And Lovers](https://open.spotify.com/artist/18f0fAWI5vioFhhwzz3UEF) | [En Años Luz](https://open.spotify.com/album/1FELRgnG6G1igkp59ooXEe) | 3:45 | 2022-03-18 | 2022-07-21 |
-| [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 | 2022-08-19 |  |
+| [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 | 2022-08-19 | 2024-02-03 |
 | [Enamorado](https://open.spotify.com/track/0kfkBm7Or6FivlmnMsI7Oq) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino](https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV) | 3:07 | 2022-08-19 | 2023-03-04 |
-| [Enemigo \(Acústico\)](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo \(Acústico\)](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 | 2023-05-29 |  |
+| [Enemigo \(Acústico\)](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo \(Acústico\)](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 | 2023-05-29 | 2024-02-03 |
 | [Esa Estrella](https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Esa Estrella](https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo) | 3:58 | 2023-05-12 | 2023-07-08 |
 | [Escúpeme En La Cara](https://open.spotify.com/track/3Wsvw8v3czfWGliziA9BCI) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Escúpeme En La Cara](https://open.spotify.com/album/02hnUWAP3zAetHmbm5q2gf) | 3:21 | 2023-02-24 | 2023-04-22 |
 | [Espacio Pequeño](https://open.spotify.com/track/0A0zDB4nPLy6HyfX4yix3J) | [princesa cereza](https://open.spotify.com/artist/607kbpXirULyTo1jdRtooo) | [Espacio Pequeño](https://open.spotify.com/album/2heNAEQnKqh1K7ITQqcgbx) | 4:46 | 2022-07-01 | 2022-07-15 |
@@ -254,6 +254,7 @@
 | [Máscaras](https://open.spotify.com/track/1m2mPStUPdyQSDnoHVYNwd) | [Rey Rata](https://open.spotify.com/artist/0DiBgHVIgP7uCL4ivSIFsA) | [Máscaras](https://open.spotify.com/album/2NtQlfrOXJLWiQL3EpvX7v) | 2:39 | 2022-09-03 | 2022-09-07 |
 | [México Máxico](https://open.spotify.com/track/6boL4NwK8v6n2JFXOhxPjO) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [México Máxico](https://open.spotify.com/album/2hS6iPoJyOp8xQxGiV2jBZ) | 4:08 | 2023-05-26 | 2023-06-24 |
 | [Nada Es Real](https://open.spotify.com/track/4R1okSTH8zqxtfZMgyx7cr) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Nada Es Real](https://open.spotify.com/album/2Qi9MlTtbvoaoSxn5EvZmd) | 3:29 | 2022-07-29 | 2022-08-10 |
+| [Nada que perder](https://open.spotify.com/track/5hemFV7r667VHvm0mrQPWV) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Nada que perder](https://open.spotify.com/album/7HcGohAEZob2YPzhcJzk4u) | 3:17 | 2024-02-02 |  |
 | [Nada Te Lastima](https://open.spotify.com/track/6XEEI8Fepn9n99SYwPTy95) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/7bINF9zY5uRXEssR7PKvhM) | 4:08 | 2022-07-14 | 2022-07-29 |
 | [Nada Te Lastima](https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2) | 4:08 | 2022-07-22 |  |
 | [Nada!](https://open.spotify.com/track/372LZYHS42RiVwJa5IyoGN) | [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ), [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f) | [Nada!](https://open.spotify.com/album/2VI2bGOJPQEL67GUURaUse) | 2:44 | 2022-09-02 | 2022-09-28 |
@@ -313,6 +314,7 @@
 | [Ricos](https://open.spotify.com/track/1EnZ3INXgu2fnfQhqGWHDt) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Ricos](https://open.spotify.com/album/2tg6afES7ci3iXpktgcmKi) | 2:54 | 2022-08-09 | 2022-11-17 |
 | [Rock rápido](https://open.spotify.com/track/0yCnKUP85AQ91lu93B3wTb) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [Rock rápido](https://open.spotify.com/album/3bRANklVDUxYslTWJu1egh) | 2:54 | 2023-09-08 | 2023-09-30 |
 | [Rotura](https://open.spotify.com/track/4MNwrAigvEocVgWDGxkS10) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Rotura](https://open.spotify.com/album/7hBTPDVJPbi2Igtfv9dphz) | 3:36 | 2023-06-16 | 2023-09-02 |
+| [S!CK](https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [S!CK](https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs) | 3:12 | 2024-02-02 |  |
 | [Sabinal](https://open.spotify.com/track/6GdjcejLIYstjDTS111tKR) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/2VW2Arzox2JddtDvguuUU1) | 2:16 | 2023-06-23 |  |
 | [Sabor Cayena](https://open.spotify.com/track/7AeeynF7fkV4aFFwR9KeiA) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Sabor Cayena](https://open.spotify.com/album/5LiWn17rIUI0oqxfOyxVaP) | 4:16 | 2022-02-09 | 2022-05-04 |
 | [Sasha, Sissi y el Círculo de Baba \- EADDA9223 \(feat\. Mon Laferte\)](https://open.spotify.com/track/0HdRf23VtIRpUdHH3mZc3L) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 3:58 | 2023-06-02 | 2023-06-24 |

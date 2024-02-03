@@ -4,11 +4,12 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   KJ Spio, Sarkodie & Oxlade
 
-291 songs - 15 hr 27 min
+293 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 | 2022-11-04 |  |
+| [11:11](https://open.spotify.com/track/13wo2NiCVw2tAq3SJ2pYSX) | [Alorman](https://open.spotify.com/artist/3OelS3yY60GFusvCkaFJv8), [Cool Paul](https://open.spotify.com/artist/5s1Xo4HmiGN7i4Fi2rlvlX), [big joel](https://open.spotify.com/artist/1GTtMVktPRELgfbyoFGlpl) | [11:11](https://open.spotify.com/album/0a9HYXK0BcK9umVvyMirwc) | 3:09 | 2024-02-02 |  |
 | [2 Shots](https://open.spotify.com/track/7D5teOLgUBiDS4LrKIVNGe) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [2 Shots](https://open.spotify.com/album/3swkn0bH9u7TWbO9Jfe0YD) | 2:43 | 2022-11-04 | 2023-11-09 |
 | [4LYFE](https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [4LYFE](https://open.spotify.com/album/3UEA2UkF8k5Nf3o6X3UK4m) | 2:47 | 2023-10-27 |  |
 | [A B C D](https://open.spotify.com/track/5iqTS5Ge7PwRaM0E09Cu1H) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [PHOTO ALBUM](https://open.spotify.com/album/6zPEkNndmfR4MGU1N8kyVH) | 2:52 | 2023-03-17 | 2023-05-05 |
@@ -181,6 +182,7 @@
 | [NEED ME](https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [NEED ME](https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e) | 3:12 | 2022-11-04 |  |
 | [Nika](https://open.spotify.com/track/61XOkNNVUQGqNjtrtIIxZ8) | [Dr Cryme](https://open.spotify.com/artist/26HlCKbXpF27gFP3AEsVhk) | [Unexpected 2](https://open.spotify.com/album/2gFQctL1EfPUzeVtYaXFVe) | 3:06 | 2023-11-24 | 2023-12-02 |
 | [No Fugazy](https://open.spotify.com/track/5CtmMSLSf9Y6JCc9RJLxSa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Fugazy](https://open.spotify.com/album/25mKwZuJQ0eD1Rl9BJ1WME) | 2:58 | 2022-11-04 | 2023-05-13 |
+| [No Jaga](https://open.spotify.com/track/2jH9UBM8TM14xd15dK8KsI) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [No Jaga](https://open.spotify.com/album/7uNIq0SPnpAIj6pi6mQEY1) | 3:12 | 2024-02-02 |  |
 | [No Money](https://open.spotify.com/track/2wS10dgPSZ3EmQdYCbwSsy) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [OmoAkin](https://open.spotify.com/artist/1JNn0khn6hvlOZacF7VVUh) | [Global Party](https://open.spotify.com/album/1NJRIStQQb5jBuoQVdcJ6y) | 2:57 | 2023-03-24 | 2023-03-31 |
 | [No More](https://open.spotify.com/track/7eClgSPyjnbANZYbogtZNE) | [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [No More Tears](https://open.spotify.com/album/6A62r1F4Sn29IBUI9zHjM7) | 2:40 | 2023-11-03 |  |
 | [Nobody](https://open.spotify.com/track/0wNnw5wgzLUBo8unHciXpD) | [Deri](https://open.spotify.com/artist/4cjiX7KQiC1QrmjD0kJWKR), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Without A Map](https://open.spotify.com/album/16kGxp8kthCYyV5PbnYHe1) | 2:50 | 2023-09-14 | 2023-10-13 |
@@ -269,7 +271,7 @@
 | [Tornado](https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Tornado](https://open.spotify.com/album/339rnWvetNqZTAZzxrlv35) | 2:38 | 2023-04-27 | 2023-05-20 |
 | [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Touch It](https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c) | 2:45 | 2022-11-04 | 2023-08-18 |
 | [Try Again](https://open.spotify.com/track/37VzqohsKYJMTN9yS5iSt1) | [Banzy Banero](https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN) | [Try Again](https://open.spotify.com/album/4vGY5krrhuhWRNbO1Fd3Xd) | 3:23 | 2023-11-17 |  |
-| [Tupac](https://open.spotify.com/track/2WA0ROd9Vxjb83hTFah5CK) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Tupac](https://open.spotify.com/album/1uLVlQFylIj6Fl2zi6r4Hs) | 3:34 | 2023-12-01 |  |
+| [Tupac](https://open.spotify.com/track/2WA0ROd9Vxjb83hTFah5CK) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Tupac](https://open.spotify.com/album/1uLVlQFylIj6Fl2zi6r4Hs) | 3:34 | 2023-12-01 | 2024-02-03 |
 | [Unfortunately](https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 4:00 | 2023-09-14 |  |
 | [Vacation](https://open.spotify.com/track/6f5EzS0nN8J68LjqM5yIiE) | [Boijake](https://open.spotify.com/artist/7JwNO91xnzO8mqTn1LYS9h) | [Confetti \(EP\)](https://open.spotify.com/album/5dyccxpFr0zuazUQoF7haw) | 2:28 | 2023-11-24 | 2023-12-02 |
 | [Vero](https://open.spotify.com/track/0yjxAenLJwPCCcn19XSYG3) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Vero](https://open.spotify.com/album/7fshzXhS2s2VwC9bvzBFiC) | 2:04 | 2023-06-16 |  |
@@ -298,6 +300,6 @@
 | [You dey feel the vibe \- Live](https://open.spotify.com/track/7t1x7kxQgYlivT80SB2vtr) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN), [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [You dey feel the vibe \(Live\)](https://open.spotify.com/album/4UqYudwW3SPIDtsWoHTcPa) | 5:02 | 2023-02-09 | 2023-03-04 |
 | [Your Love](https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Your Love](https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc) | 3:14 | 2023-08-10 |  |
 | [Your Love](https://open.spotify.com/track/3XneWWuWUAVFX1eORrKGsX) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Your Love](https://open.spotify.com/album/1onYHTZJIWJzD53WBWD1W8) | 3:12 | 2023-02-23 | 2023-03-18 |
-| [Zero 2 Hero](https://open.spotify.com/track/0q7STqnfVgqOLZAxUiY18l) | [Stay Jay](https://open.spotify.com/artist/5y43lOR941Xj5lwV2JQwGW), [Yaa Pono](https://open.spotify.com/artist/1oqHoNJGPx78BetdO5jMFs), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Zero 2 Hero](https://open.spotify.com/album/3xsbqb7t5LxchPsDS5cejq) | 2:57 | 2023-12-22 |  |
+| [Zero 2 Hero](https://open.spotify.com/track/0q7STqnfVgqOLZAxUiY18l) | [Stay Jay](https://open.spotify.com/artist/5y43lOR941Xj5lwV2JQwGW), [Yaa Pono](https://open.spotify.com/artist/1oqHoNJGPx78BetdO5jMFs), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Zero 2 Hero](https://open.spotify.com/album/3xsbqb7t5LxchPsDS5cejq) | 2:57 | 2023-12-22 | 2024-02-03 |
 
 \*This playlist was first scraped on 2022-12-01. Prior content cannot be recovered.

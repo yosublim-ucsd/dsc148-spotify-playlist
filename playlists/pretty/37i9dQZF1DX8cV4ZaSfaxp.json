@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: KWON EUNBI(\uad8c\uc740\ube44)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 50155,
+  "num_followers": 50186,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWRjMzIzNjc0ZWZlMjM5ZjY0MWExNGQxMGExNGU3ZGFlZDcyMDlj",
+  "snapshot_id": "MCxjNmI2M2YzOTFhN2I1YzE2ZmRjNGIzYjQ4NDJhMmZhMWZjNTQzYmZm",
   "tracks": [
     {
       "added_at": "2023-11-02 08:20:42",
@@ -547,6 +547,30 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "Head In The Clouds II",
+        "url": "https://open.spotify.com/album/5n6lYfPddk0bNY8eW6O1ds"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 223006,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/4C3cXopfT2rbKGYgYfoHrK"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy"
       },
@@ -575,30 +599,6 @@
       "duration_ms": 220526,
       "name": "Where are you?",
       "url": "https://open.spotify.com/track/6MSfAJiEQjJvia4dsWhO93"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "Head In The Clouds II",
-        "url": "https://open.spotify.com/album/5n6lYfPddk0bNY8eW6O1ds"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        },
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 223006,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/4C3cXopfT2rbKGYgYfoHrK"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki"
-      },
-      "artists": [
-        {
-          "name": "Eyedi",
-          "url": "https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "\u2018The ReVe Festival\u2019 Day 2",
         "url": "https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 236746,
       "name": "Ladies Night",
       "url": "https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki"
+      },
+      "artists": [
+        {
+          "name": "Eyedi",
+          "url": "https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
-      },
-      "artists": [
-        {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
-        }
-      ],
-      "duration_ms": 221875,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
         "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
       },
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Sparkling",
-        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
       },
       "artists": [
         {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
         }
       ],
-      "duration_ms": 231294,
-      "name": "Sparkling",
-      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
+      "duration_ms": 221875,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1311,6 +1295,22 @@
       "duration_ms": 214490,
       "name": "TALK",
       "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Sparkling",
+        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 231294,
+      "name": "Sparkling",
+      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1343,6 +1343,22 @@
       "duration_ms": 212137,
       "name": "Venus",
       "url": "https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "\ud658\uc0c1 Fantasy",
+        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "duration_ms": 210136,
+      "name": "\ud658\uc0c1 Fantasy",
+      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "\ud658\uc0c1 Fantasy",
-        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
+        "name": "\uc120\ub370\uc774\uc11c\uc6b8 Ep.1 Sunday Seoul Ep.1",
+        "url": "https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V"
       },
       "artists": [
         {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+          "name": "uju",
+          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
         }
       ],
-      "duration_ms": 210136,
-      "name": "\ud658\uc0c1 Fantasy",
-      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
+      "duration_ms": 190363,
+      "name": "\ubd88\uc744 \ubc1d\ud600\uc918 Give Me The Light",
+      "url": "https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1423,22 +1439,6 @@
       "duration_ms": 216106,
       "name": "Myspace",
       "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "\uc120\ub370\uc774\uc11c\uc6b8 Ep.1 Sunday Seoul Ep.1",
-        "url": "https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V"
-      },
-      "artists": [
-        {
-          "name": "uju",
-          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
-        }
-      ],
-      "duration_ms": 190363,
-      "name": "\ubd88\uc744 \ubc1d\ud600\uc918 Give Me The Light",
-      "url": "https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "When My Loneliness Calls You (From the Original TV Show \"Live On\")",
+        "url": "https://open.spotify.com/album/2xpPQeBzdd2ovQpBnAYV37"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        },
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        }
+      ],
+      "duration_ms": 257031,
+      "name": "When My Loneliness Calls You",
+      "url": "https://open.spotify.com/track/2HHs3WKouTsJ3pGo5gex3N"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "Afterlife (Feat. OOHYO)",
         "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
       },
@@ -1547,22 +1567,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "SEOUL CITY POP [A-Side]",
-        "url": "https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23"
-      },
-      "artists": [
-        {
-          "name": "IHYA",
-          "url": "https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh"
-        }
-      ],
-      "duration_ms": 202218,
-      "name": "SEOUL CITY POP",
-      "url": "https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "RE_vive",
         "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
       },
@@ -1579,18 +1583,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "THE PARK IN THE NIGHT part three",
-        "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
+        "name": "SEOUL CITY POP [A-Side]",
+        "url": "https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23"
       },
       "artists": [
         {
-          "name": "GWSN",
-          "url": "https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF"
+          "name": "IHYA",
+          "url": "https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh"
         }
       ],
-      "duration_ms": 213150,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
+      "duration_ms": 202218,
+      "name": "SEOUL CITY POP",
+      "url": "https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1619,22 +1623,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "When My Loneliness Calls You (From the Original TV Show \"Live On\")",
-        "url": "https://open.spotify.com/album/2xpPQeBzdd2ovQpBnAYV37"
+        "name": "THE PARK IN THE NIGHT part three",
+        "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
       },
       "artists": [
         {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        },
-        {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+          "name": "GWSN",
+          "url": "https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF"
         }
       ],
-      "duration_ms": 257031,
-      "name": "When My Loneliness Calls You",
-      "url": "https://open.spotify.com/track/2HHs3WKouTsJ3pGo5gex3N"
+      "duration_ms": 213150,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
     },
     {
       "added_at": "2023-11-02 08:20:42",

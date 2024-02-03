@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,463 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,469 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 35 | [No Hay Vacante](https://open.spotify.com/track/1dLLZZ5dt0YfSHjIQ24rB1) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 2:37 |
 | 36 | [Popotitos \- En Vivo](https://open.spotify.com/track/0Pgt6d2p8pc53Qg7iwaqDg) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:43 |
 | 37 | [Oh Gran Dios](https://open.spotify.com/track/3ThVhCjqErJsuajFsMLn3H) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 2:50 |
-| 38 | [No Vas a Creer/Te Preguntaras \- En Vivo](https://open.spotify.com/track/3puernBYuD2jnlq3732oG0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! , Vol.2 \(En Vivo\)](https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI) | 4:30 |
+| 38 | [Se Termino Lo Nuestro](https://open.spotify.com/track/6VNEA24QBwFvuDIZw6zrYH) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:21 |
 | 39 | [Ambicion](https://open.spotify.com/track/4Y4SYABTqT3YwOnmybIvU8) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 2:45 |
 | 40 | [Frios Enemigos/noche de Banda \- En Vivo](https://open.spotify.com/track/3awZnjk2w7QRDXYudcvBA3) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 5:57 |
 | 41 | [Mi Amor Bendito](https://open.spotify.com/track/5gIPwxhkCDameLVPiykU8n) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 3:04 |
-| 42 | [Se Termino Lo Nuestro](https://open.spotify.com/track/6VNEA24QBwFvuDIZw6zrYH) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:21 |
+| 42 | [No Vas a Creer/Te Preguntaras \- En Vivo](https://open.spotify.com/track/3puernBYuD2jnlq3732oG0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! , Vol.2 \(En Vivo\)](https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI) | 4:30 |
 | 43 | [Mismo Nivel](https://open.spotify.com/track/7xixj6x39YYlW2LjuRH2hl) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lagrimas Del Corazon](https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo) | 2:53 |
 | 44 | [Quiero Que Me Vuelas Queder \- En Vivo](https://open.spotify.com/track/2DooiJlsHLN4pUnxHgAkqK) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 2:55 |
 | 45 | [Para Ellas](https://open.spotify.com/track/0NB5GkAROV33z5pDY7GGpu) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 49 | [Anhelo](https://open.spotify.com/track/27O9E19mmoq8vzMmju1cYi) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 2:58 |
 | 50 | [Miel Amarga / Amigo \- En Vivo](https://open.spotify.com/track/1XFm3pC9ppFaQJUG663K8k) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Desde Pico Rivera!](https://open.spotify.com/album/757G9Xm99Wt6DrdgTusxhU) | 4:46 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDBkZDNiMTg4ZDI0YzQ5ZWRlYzFlMmVjYzcyM2Q3MWM0YQ==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDAxZjdmMWViMWYwODc1ZGVkYTZkNDcwNzUxYWM2OGVlMg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 離婚伝説 \*👉 <a href="https://spice.eplus.jp/articles/325945?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,902 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,941 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 15 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 |
 | 16 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 |
 | 17 | [mad cooking machine](https://open.spotify.com/track/0vVoIRnqi0JMvFjc95ewxK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [mad cooking machine](https://open.spotify.com/album/0wgB5VGk6FdMTkZtK1X3mU) | 3:05 |
-| 18 | [RainRain](https://open.spotify.com/track/5X3cQ46Ekm50vcdjpokdEC) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [RainRain](https://open.spotify.com/album/0gAGsoAIdUK5i1iGQWhoud) | 4:50 |
+| 18 | [RainRain](https://open.spotify.com/track/30bOjGU8xpB1zvccSN9udZ) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Hold You Again](https://open.spotify.com/album/1ffToXM1wZRTerYmAiIu5g) | 4:50 |
 | 19 | [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 |
 | 20 | [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 |
 | 21 | [bugs](https://open.spotify.com/track/7dWR8gcf2kS2iQJB0NNV7v) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [bugs](https://open.spotify.com/album/4ARUfp2z7XyXChD9fUVdR7) | 3:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [スイカ](https://open.spotify.com/track/0E9kvZOvFBKfZFxSVa6hnu) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ), [Uri Nakayama](https://open.spotify.com/artist/2sF48SGYclMSUiGNj8x34b) | [SONORAS](https://open.spotify.com/album/3TIyWiEiWdbRPdgNsqoa4H) | 3:45 |
 | 80 | [Long Night out \- アツムワンダフル Recreation](https://open.spotify.com/track/0iyJmh8QdhR0ChB97XjH7k) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6), [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW) | [Long Night out \(アツムワンダフル Recreation\)](https://open.spotify.com/album/0OxxY99Tn9n5Miz4ZQZR36) | 4:20 |
 
-Snapshot ID: `MCxmNDI1MGMxNGNhMTJlYTFiNDVkODUwYjY5MmQ3NGM5N2RmZTYwYzgy`
+Snapshot ID: `MCxlMjk4ZTU2ZWJhMzc2YWFkNWIzODBjZjk4ZDVmZmMzMmMzOGRmNzY0`

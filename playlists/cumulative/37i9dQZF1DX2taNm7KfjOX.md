@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Marika Hackman
 
-564 songs - 1 day 11 hr 8 min
+565 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,13 +360,14 @@
 | [Oh, Shadowless](https://open.spotify.com/track/7zSs0FBaSqrrxDQjWoYKd3) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Wild Creatures](https://open.spotify.com/album/0KGcCenSL9QAN9mhonWfx5) | 2:26 | 2022-04-25 | 2022-07-29 |
 | [On the Other Side](https://open.spotify.com/track/68lPk9jC7nTpiZgH7Zc2ik) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/5MXz23mZjMutPdhGGb9jc7) | 4:57 | 2022-04-13 | 2022-04-21 |
 | [One With The Birds](https://open.spotify.com/track/3V435gJhrhScmr8P3m9hBV) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV), [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [eighth blackbird](https://open.spotify.com/artist/08JsND1KfYyI41gWdAOOwz) | [One With The Birds](https://open.spotify.com/album/4KL3IiUFDS7z4ZIkXVJf8S) | 6:07 | 2021-10-22 | 2022-07-28 |
-| [Orlando](https://open.spotify.com/track/5eqNWg31aG8wKNbpJxCpCg) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Orlando](https://open.spotify.com/album/2bUlcn67avN5E46GifoXYl) | 4:35 | 2023-05-19 |  |
+| [Orlando](https://open.spotify.com/track/5eqNWg31aG8wKNbpJxCpCg) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Orlando](https://open.spotify.com/album/2bUlcn67avN5E46GifoXYl) | 4:35 | 2023-05-19 | 2024-02-03 |
 | [Other You](https://open.spotify.com/track/1IQEtgj49aI8FEMsEEyqGA) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Other You](https://open.spotify.com/album/3d2UzCjk937w5fsDODT5qx) | 5:43 | 2021-10-22 | 2022-07-29 |
 | [Other’s Melodies](https://open.spotify.com/track/2XpiUG08IAJThd0MLsH0AB) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [Other’s Melodies](https://open.spotify.com/album/3rkUjM57mjVjnqr2f2nvtA) | 3:07 | 2023-03-24 |  |
 | [Pain Shifter](https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf) | [W\. B\. Wooten](https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk) | [Pain Shifter](https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt) | 3:44 | 2021-10-22 | 2022-07-16 |
 | [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 | 2023-03-24 |  |
 | [Partner in Crime \- Spotify Singles](https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 3:53 | 2022-07-29 |  |
 | [Paula Collins](https://open.spotify.com/track/3haHJcTZKjxgnMT9XfCU3D) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/7mcl8oaboZdSJQKq7mFX7r) | 3:15 | 2021-10-22 | 2022-04-20 |
+| [Pelican Canyon](https://open.spotify.com/track/49qJvUShIV2XKLvp4KvcBa) | [Du Blonde](https://open.spotify.com/artist/46MOKAqmDsUILZl3iXyPmw), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Pelican Canyon](https://open.spotify.com/album/6x9fbiMJmJKBqM3Pz94yiR) | 3:47 | 2024-01-05 |  |
 | [Phoenix](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 | 2022-06-24 | 2023-09-23 |
 | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/track/5fwabfmJtYmNbcNd2ISl3x) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/album/3hzBgKpVyownETEhtDeuMS) | 4:15 | 2021-10-22 | 2022-07-29 |
 | [Pick](https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Big Picture](https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr) | 2:45 | 2023-04-14 | 2024-01-18 |

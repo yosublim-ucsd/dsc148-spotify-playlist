@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Dana Salah
 
-625 songs - 1 day 12 hr 1 min
+626 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,6 +564,7 @@
 | [سولفت لأمي](https://open.spotify.com/track/6BfRyMh46F5cA3gkgyfh5u) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سولفت لأمي](https://open.spotify.com/album/4i19VcPBc8ufEIsIyFwY5j) | 2:29 | 2021-12-30 | 2022-03-01 |
 | [شغّل موسيقى](https://open.spotify.com/track/2mf2n0TebeVbejaizJQkD6) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [كاريزما](https://open.spotify.com/album/2t1c4iLNS8hbADJe8baJBF) | 3:54 | 2023-06-02 | 2024-01-30 |
 | [شغّل موسيقى](https://open.spotify.com/track/7JZedq4x8vGRrBnPvYJFMB) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [شغّل موسيقى](https://open.spotify.com/album/3yjvgfbHJLaGmiAwLS4hOh) | 3:54 | 2023-05-08 | 2023-05-26 |
+| [شوك وسكاكين](https://open.spotify.com/track/3la9cbwDp7bzi64axwDU8g) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k) | [شوك وسكاكين](https://open.spotify.com/album/5pbhGZ3MNHexAwVf17NquK) | 3:41 | 2024-02-02 |  |
 | [شي غريب](https://open.spotify.com/track/2g9r6JlYkVkppNQycOLm1X) | [Nour Helou](https://open.spotify.com/artist/2XBpyKrz8Ys34tU7baEoxO) | [Shi Ghareeb](https://open.spotify.com/album/5Bo1XegJIZ7Ixclp6HS7Do) | 2:44 | 2022-12-09 | 2023-02-10 |
 | [شيجيلا](https://open.spotify.com/track/4W166RiFWcUJXZgAVC2NRZ) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [شيجيلا](https://open.spotify.com/album/4GGynpOymFrlcEu07M1PjA) | 3:32 | 2021-12-23 | 2022-03-01 |
 | [صرتلكم شمس](https://open.spotify.com/track/3LStpDeZgBqK2O8sU7NP77) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [صرتلكم شمس](https://open.spotify.com/album/7tUqc0LPVpGb1VIBVvs3mE) | 4:31 | 2021-12-23 | 2022-03-02 |

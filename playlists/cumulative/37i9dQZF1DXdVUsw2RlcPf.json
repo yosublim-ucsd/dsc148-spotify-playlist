@@ -691,6 +691,138 @@
     },
     {
       "album": {
+        "name": "Seven (Weekend Ver.)",
+        "url": "https://open.spotify.com/album/6fJthISWarQBICiU2wncp6"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184160,
+      "name": "Seven (feat. Latto)",
+      "url": "https://open.spotify.com/track/4yk9mD1iZpUg2HE3z9HhdP"
+    },
+    {
+      "album": {
+        "name": "Seven (Weekday Ver.)",
+        "url": "https://open.spotify.com/album/7pPaEvQFccrBU1VXhUWBI7"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184160,
+      "name": "Seven (feat. Latto)",
+      "url": "https://open.spotify.com/track/50Af7YTMHGNbYyvgofTAGf"
+    },
+    {
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184160,
+      "name": "Seven (feat. Latto)",
+      "url": "https://open.spotify.com/track/5Avril3IZ26DPVFHbJX8o6"
+    },
+    {
+      "album": {
+        "name": "Seven (Weekend Ver.)",
+        "url": "https://open.spotify.com/album/6fJthISWarQBICiU2wncp6"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto)",
+      "url": "https://open.spotify.com/track/39mR7R6oZOa1K9deHnOKqE"
+    },
+    {
+      "album": {
+        "name": "Seven (Weekday Ver.)",
+        "url": "https://open.spotify.com/album/7pPaEvQFccrBU1VXhUWBI7"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto)",
+      "url": "https://open.spotify.com/track/3t1TAfnoXfnMclelI70UaX"
+    },
+    {
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+    },
+    {
+      "album": {
         "name": "Seven (Weekday Ver.)",
         "url": "https://open.spotify.com/album/7pPaEvQFccrBU1VXhUWBI7"
       },
@@ -735,72 +867,6 @@
     },
     {
       "album": {
-        "name": "Seven (Weekend Ver.)",
-        "url": "https://open.spotify.com/album/6fJthISWarQBICiU2wncp6"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184160,
-      "name": "Seven (feat. Latto) (Clean Ver.)",
-      "url": "https://open.spotify.com/track/4yk9mD1iZpUg2HE3z9HhdP"
-    },
-    {
-      "album": {
-        "name": "Seven (Weekday Ver.)",
-        "url": "https://open.spotify.com/album/7pPaEvQFccrBU1VXhUWBI7"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "date_added": "2023-07-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184160,
-      "name": "Seven (feat. Latto) (Clean Ver.)",
-      "url": "https://open.spotify.com/track/50Af7YTMHGNbYyvgofTAGf"
-    },
-    {
-      "album": {
-        "name": "Seven (feat. Latto)",
-        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "date_added": "2023-09-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184160,
-      "name": "Seven (feat. Latto) (Clean Ver.)",
-      "url": "https://open.spotify.com/track/5Avril3IZ26DPVFHbJX8o6"
-    },
-    {
-      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
@@ -820,72 +886,6 @@
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
-    },
-    {
-      "album": {
-        "name": "Seven (Weekend Ver.)",
-        "url": "https://open.spotify.com/album/6fJthISWarQBICiU2wncp6"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184400,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/39mR7R6oZOa1K9deHnOKqE"
-    },
-    {
-      "album": {
-        "name": "Seven (Weekday Ver.)",
-        "url": "https://open.spotify.com/album/7pPaEvQFccrBU1VXhUWBI7"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "date_added": "2023-07-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184400,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/3t1TAfnoXfnMclelI70UaX"
-    },
-    {
-      "album": {
-        "name": "Seven (feat. Latto)",
-        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "date_added": "2023-07-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184400,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
       "album": {

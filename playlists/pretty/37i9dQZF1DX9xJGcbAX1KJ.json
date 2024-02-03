@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 16969,
+  "num_followers": 16973,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTk1MGFhZjA2N2E3ODIyMmE0YjFmODkyZTAzN2FjZjExNjNjMTc0",
+  "snapshot_id": "MCxlNTVlNDI2Y2Q1OTEwMGEzY2RkMjk4Y2FmMTM2NjZhYzgzNTdjZDQ5",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -543,6 +543,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 247816,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
         "name": "If I Was (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 346373,
       "name": "Harvest Moon - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 247816,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -795,22 +795,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/6RFSLPW06Z3yjzewDi6oiA"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 234135,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/3TiWLK8KWhklkau2hVxBif"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
       },
@@ -827,22 +811,38 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Stolen Dance",
-        "url": "https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5"
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/6RFSLPW06Z3yjzewDi6oiA"
       },
       "artists": [
         {
-          "name": "Twin Bandit",
-          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
-        },
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
         }
       ],
-      "duration_ms": 235466,
-      "name": "Stolen Dance",
-      "url": "https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ"
+      "duration_ms": 234135,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/3TiWLK8KWhklkau2hVxBif"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Every Breath You Take",
+        "url": "https://open.spotify.com/album/4RkkQtMpaSid30o3fieIlH"
+      },
+      "artists": [
+        {
+          "name": "Aaron Krause",
+          "url": "https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a"
+        },
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/5xvAGovFqj41SyAinwvwVV"
     }
   ],
   "unique_name": "Under the Covers",

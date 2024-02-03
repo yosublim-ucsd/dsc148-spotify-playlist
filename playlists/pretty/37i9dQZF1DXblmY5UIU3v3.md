@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,458 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,780 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 18 | [Hey Mama](https://open.spotify.com/track/2bYKTzh5TZ8iFRinHIz5vO) | [Mosees](https://open.spotify.com/artist/1Bff29cYcg0JkyYiyhFguD), [Ozlig](https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L), [NVSV](https://open.spotify.com/artist/1ZoBPI6LQ3gSXuU2BRPyUD), [Ely May](https://open.spotify.com/artist/4bGLLUNFXUnAbfnvpUnXHg) | [Hey Mama](https://open.spotify.com/album/2VW6poqvjOWN1LOFAQcphV) | 3:01 |
 | 19 | [Cradles](https://open.spotify.com/track/7dlxpBzEYEt7XUHWQS0ZUW) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Cradles](https://open.spotify.com/album/5rinK7CxL3x2mc8VxWsiyq) | 3:04 |
 | 20 | [All The Way Up](https://open.spotify.com/track/289pQ5lNESfucuiv1BAgEO) | [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Peter Piffen](https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK) | [All The Way Up](https://open.spotify.com/album/7G5LMLw8wnH6Y5vzZRVNor) | 2:55 |
-| 21 | [Balenciaga](https://open.spotify.com/track/3Wn2LERRfDw8N6CAi1auJZ) | [Ozlig](https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L) | [Balenciaga](https://open.spotify.com/album/5nWn90op5We3SUN8Jeuy8q) | 2:31 |
+| 21 | [Get Low](https://open.spotify.com/track/5KFBAzmzTkacQj5Qt02AAb) | [Murdbrain](https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn), [Junior Charles](https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO) | [Get Low](https://open.spotify.com/album/4bmkg3DOj8rdX6OzmWfmLE) | 2:26 |
 | 22 | [Ni\*\*as in Paris \- HEDEGAARD & Matt Hawk Remix](https://open.spotify.com/track/5MnY5YCv552pFeSwNdCqZw) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [Ni\*\*as in Paris \(HEDEGAARD & Matt Hawk Remix\)](https://open.spotify.com/album/6oazaMjIfrJiNU2HLKtqzs) | 4:06 |
-| 23 | [Get Low](https://open.spotify.com/track/5KFBAzmzTkacQj5Qt02AAb) | [Murdbrain](https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn), [Junior Charles](https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO) | [Get Low](https://open.spotify.com/album/4bmkg3DOj8rdX6OzmWfmLE) | 2:26 |
+| 23 | [Balenciaga](https://open.spotify.com/track/3Wn2LERRfDw8N6CAi1auJZ) | [Ozlig](https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L) | [Balenciaga](https://open.spotify.com/album/5nWn90op5We3SUN8Jeuy8q) | 2:31 |
 | 24 | [Die Slow](https://open.spotify.com/track/5N3miUm4C10nb8CXEFfmLZ) | [Soda](https://open.spotify.com/artist/3hnbNJJnN1jFk3MmBvcn9Z), [Voyage](https://open.spotify.com/artist/3Ruev6M4tYJtGSInO2xkSt) | [Die Slow](https://open.spotify.com/album/1c9f0oKHV367vgBypmYQoV) | 2:22 |
 | 25 | [Gangsta's Paradise](https://open.spotify.com/track/0LrL7mzCA0iOYGKl12OxvF) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Gangsta's Paradise](https://open.spotify.com/album/38FYUgLqzuJH0gUUpy29zx) | 3:17 |
 | 26 | [Sztoj Pa Moru](https://open.spotify.com/track/3BHe1jnaW3hocrfMqytTP2) | [BROHM](https://open.spotify.com/artist/33cjmfhkyHbulkQwkuxe3i), [Thingstad](https://open.spotify.com/artist/4nl0BnCSRpuneTf0d7fV3G) | [Sztoj Pa Moru](https://open.spotify.com/album/6jqIGpQn1A00DdYut4vCNs) | 2:18 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 30 | [Close Ya](https://open.spotify.com/track/3KK71qLRNq9A0H3Zoj2jY3) | [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM) | [Close Ya](https://open.spotify.com/album/6cQ3bvLmo96impgeIfqkqX) | 2:50 |
 | 31 | [Solovey](https://open.spotify.com/track/29ofWO96svTbZaVWB9reSb) | [Dj Quba](https://open.spotify.com/artist/3jKI2rCmeJNIwW4duG0sQJ), [Sandra K](https://open.spotify.com/artist/4hq99FkPtYKcdc2RQ6QDDx) | [Solovey](https://open.spotify.com/album/2e27TfVReB4lDRAtzlVbW2) | 2:05 |
 | 32 | [Jump Up](https://open.spotify.com/track/0oDRLwXOjJ0B879sOkEDoO) | [Ad Voca](https://open.spotify.com/artist/04LFpk0NPwhUVezsZDcdkx) | [Jump Up](https://open.spotify.com/album/5rjVS6Aaus2JOw5Mc9FzmJ) | 2:46 |
-| 33 | [Look at Me](https://open.spotify.com/track/4lkBJU3iKwpO0dJiBZ5wAj) | [OQTAN](https://open.spotify.com/artist/0sW5E8JJy5gBqGZxDAlS4s), [Ginga](https://open.spotify.com/artist/3Ht6LI9tAjInNAosJnYZSU) | [Look at Me](https://open.spotify.com/album/2QNjFtr2gEXQOmKIn5maJq) | 2:19 |
-| 34 | [Spaceship](https://open.spotify.com/track/7GWXjklWJA0kjWWf9sNw1k) | [OLZXVS](https://open.spotify.com/artist/1tqvR13suC3SB24Ngd0zVI) | [Spaceship](https://open.spotify.com/album/6s22PosumlZIKoqu2pjyzy) | 2:54 |
+| 33 | [Spaceship](https://open.spotify.com/track/7GWXjklWJA0kjWWf9sNw1k) | [OLZXVS](https://open.spotify.com/artist/1tqvR13suC3SB24Ngd0zVI) | [Spaceship](https://open.spotify.com/album/6s22PosumlZIKoqu2pjyzy) | 2:54 |
+| 34 | [Look at Me](https://open.spotify.com/track/4lkBJU3iKwpO0dJiBZ5wAj) | [OQTAN](https://open.spotify.com/artist/0sW5E8JJy5gBqGZxDAlS4s), [Ginga](https://open.spotify.com/artist/3Ht6LI9tAjInNAosJnYZSU) | [Look at Me](https://open.spotify.com/album/2QNjFtr2gEXQOmKIn5maJq) | 2:19 |
 | 35 | [Okay](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX) | [Okay](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 2:50 |
 | 36 | [E S C O B a R](https://open.spotify.com/track/75BDGJuV727Qx2qkSqx5Fy) | [Şevket Öndaş](https://open.spotify.com/artist/5acooQjRlNtjcI4cHSOlki), [Egemen Kızıltekin](https://open.spotify.com/artist/7qcEBm8FydNYp8jZagSq2W) | [E S C O B a R](https://open.spotify.com/album/3Km6AfOXnr94jZbOWVyhPa) | 3:05 |
 | 37 | [Ha Mer](https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [ZL](https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA) | [Ha Mer](https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 49 | [Ethnic](https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [Ethnic](https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj) | 3:37 |
 | 50 | [Night Tales](https://open.spotify.com/track/2Xc6xRbyiBpVCgShumtXpV) | [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM), [WONGA](https://open.spotify.com/artist/4xq4vuvsEgo8UzaAn8HlIY) | [Night Tales](https://open.spotify.com/album/0ByvoTP8BJwZG3P09gaKMO) | 2:34 |
 
-Snapshot ID: `MCw5ZTY5NmYyNjkwNjU4M2M3NjQwNDFlZjc3MmM4NmExZjc5NDFkYzM1`
+Snapshot ID: `MCwxOWVkZDdlZWJhODVkMmYyOTNjNTBhY2U0Zjg2NWJmMjEyZmI1ZDg5`

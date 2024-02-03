@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 381536,
+  "num_followers": 382217,
   "original_name": "Summer Dance Hits 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2Q3MDk5NWY0MWE4ZmUxODkyZjAwNTAyMjUzMzI5NDg1YzRhZjhk",
+  "snapshot_id": "MCw4MGMzNjJkNWRhOTZkNjUyYjI5ZWFkOWYyNGExNDY2M2QxNmM4MjAz",
   "tracks": [
     {
       "added_at": "2024-01-31 15:09:14",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-01-31 15:09:14",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2024-01-31 15:09:14",
-      "album": {
         "name": "Head Down",
         "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 173888,
       "name": "Head Down",
       "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
+    },
+    {
+      "added_at": "2024-01-31 15:09:14",
+      "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2024-01-31 15:09:14",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-01-31 15:09:14",
       "album": {
+        "name": "Sunshine (My Girl)",
+        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Sunshine (My Girl)",
+      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
+    },
+    {
+      "added_at": "2024-01-31 15:09:14",
+      "album": {
         "name": "Marea (we\u2019ve lost dancing)",
         "url": "https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 285375,
       "name": "Marea (we\u2019ve lost dancing)",
       "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
-    },
-    {
-      "added_at": "2024-01-31 15:09:14",
-      "album": {
-        "name": "Sunshine (My Girl)",
-        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Sunshine (My Girl)",
-      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
     },
     {
       "added_at": "2024-01-31 15:09:14",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-01-31 15:09:14",
       "album": {
-        "name": "Never Going Home",
-        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 169944,
-      "name": "Never Going Home",
-      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
-    },
-    {
-      "added_at": "2024-01-31 15:09:14",
-      "album": {
         "name": "My Heart Goes (La Di Da)",
         "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 148960,
       "name": "My Heart Goes (La Di Da)",
       "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
+    },
+    {
+      "added_at": "2024-01-31 15:09:14",
+      "album": {
+        "name": "Never Going Home",
+        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 169944,
+      "name": "Never Going Home",
+      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
     },
     {
       "added_at": "2024-01-31 15:09:14",
@@ -2031,26 +2031,6 @@
     {
       "added_at": "2024-01-31 15:09:14",
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
-    },
-    {
-      "added_at": "2024-01-31 15:09:14",
-      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
       },
@@ -2067,6 +2047,26 @@
       "duration_ms": 187286,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
+    },
+    {
+      "added_at": "2024-01-31 15:09:14",
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
     },
     {
       "added_at": "2024-01-31 15:09:14",
@@ -2151,6 +2151,26 @@
     {
       "added_at": "2024-01-31 15:09:14",
       "album": {
+        "name": "Levi Don't Do It",
+        "url": "https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t"
+    },
+    {
+      "added_at": "2024-01-31 15:09:14",
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
       },
@@ -2187,26 +2207,6 @@
       "duration_ms": 203946,
       "name": "Stop This Flame - Celeste x MK",
       "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
-    },
-    {
-      "added_at": "2024-01-31 15:09:14",
-      "album": {
-        "name": "Levi Don't Do It",
-        "url": "https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t"
     },
     {
       "added_at": "2024-01-31 15:09:14",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2024-01-31 15:09:14",
       "album": {
-        "name": "Behind These Hazel Eyes",
-        "url": "https://open.spotify.com/album/38t6RciouD0GiLWdGz30bq"
-      },
-      "artists": [
-        {
-          "name": "Bounce Projectz",
-          "url": "https://open.spotify.com/artist/3nQthw8h6ExuXWB7E6c3PQ"
-        }
-      ],
-      "duration_ms": 197147,
-      "name": "Behind These Hazel Eyes",
-      "url": "https://open.spotify.com/track/1snwbIFzhiPvpodAbvNJpi"
-    },
-    {
-      "added_at": "2024-01-31 15:09:14",
-      "album": {
         "name": "3 Malas",
         "url": "https://open.spotify.com/album/4mPEpJuDTFsPoZhgZkQ6mm"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 95039,
       "name": "3 Malas",
       "url": "https://open.spotify.com/track/7hcsfB62NBGaBHdin3V2o5"
+    },
+    {
+      "added_at": "2024-01-31 15:09:14",
+      "album": {
+        "name": "Behind These Hazel Eyes",
+        "url": "https://open.spotify.com/album/38t6RciouD0GiLWdGz30bq"
+      },
+      "artists": [
+        {
+          "name": "Bounce Projectz",
+          "url": "https://open.spotify.com/artist/3nQthw8h6ExuXWB7E6c3PQ"
+        }
+      ],
+      "duration_ms": 197147,
+      "name": "Behind These Hazel Eyes",
+      "url": "https://open.spotify.com/track/1snwbIFzhiPvpodAbvNJpi"
     }
   ],
   "unique_name": "Summer Dance Hits 2024",

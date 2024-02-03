@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 413752,
+  "2024-02-03": 413837,
   "date_first_scraped": "2023-02-03",
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: ENNIO",
   "name": "Wilde Herzen",
@@ -111,6 +111,24 @@
       "duration_ms": 126589,
       "name": "16. Etage",
       "url": "https://open.spotify.com/track/0Au8OwQu8FtlEQAPYoiDVR"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/2xPTxfLnobXeRMtwX4KRrt"
+      },
+      "artists": [
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185015,
+      "name": "17",
+      "url": "https://open.spotify.com/track/1wAJLsPc9pNO2yzFAuFk2m"
     },
     {
       "album": {
@@ -486,6 +504,24 @@
     },
     {
       "album": {
+        "name": "alle traurig",
+        "url": "https://open.spotify.com/album/4ekiYwc6DBHlwysZT3IlBh"
+      },
+      "artists": [
+        {
+          "name": "Trille",
+          "url": "https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181288,
+      "name": "alle traurig",
+      "url": "https://open.spotify.com/track/2fKPXu3OIKmpfIC5R7rrgB"
+    },
+    {
+      "album": {
         "name": "Wie Fr\u00fchling Nach Dem Winter",
         "url": "https://open.spotify.com/album/0Z1Q9Og7qDEJ07SWadjj7G"
       },
@@ -537,7 +573,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 141454,
       "name": "Alles In Mir",
       "url": "https://open.spotify.com/track/7MmFcP5x6RcPmAWKKjvY5n"
@@ -1375,7 +1411,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 139016,
       "name": "CEO",
       "url": "https://open.spotify.com/track/6FrpQXdyndAHT64KlhwHPD"
@@ -2465,7 +2501,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 194746,
       "name": "Es regnet Hirn (feat. Paula Carolina)",
       "url": "https://open.spotify.com/track/02Y7L1qY9Z771QO2w3ubgk"
@@ -2953,6 +2989,24 @@
       "duration_ms": 203613,
       "name": "F\u00fcr immer",
       "url": "https://open.spotify.com/track/4YCs039j51sP9kEw5AJILe"
+    },
+    {
+      "album": {
+        "name": "F\u00fcr immer Fr\u00fchling",
+        "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
+      },
+      "artists": [
+        {
+          "name": "soffie",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "F\u00fcr immer Fr\u00fchling",
+      "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
     },
     {
       "album": {
@@ -3611,6 +3665,24 @@
       "duration_ms": 120000,
       "name": "Hoffe du hasst mich",
       "url": "https://open.spotify.com/track/5XhQAJuecAGN1jNKy3ypTp"
+    },
+    {
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/6tlYjPagPWMf0RGOYahLk2"
+      },
+      "artists": [
+        {
+          "name": "Peter aus der Mozartstrasse",
+          "url": "https://open.spotify.com/artist/2d0hWUrMLEnczPs4u8zTmm"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/6brmfuVZINiB8VHuEgnDGk"
     },
     {
       "album": {
@@ -4669,7 +4741,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 186506,
       "name": "Langeweile",
       "url": "https://open.spotify.com/track/0DCHensg4uLBFwuIOdulOh"
@@ -5321,7 +5393,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 143786,
       "name": "mir geht es gut",
       "url": "https://open.spotify.com/track/08RtIVSkaKZWvFaGJqKb9o"
@@ -8917,7 +8989,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 221760,
       "name": "Wenn wir gro\u00df sind",
       "url": "https://open.spotify.com/track/1EIviVazDK4zTaRHaU280S"
@@ -8957,6 +9029,28 @@
       "duration_ms": 190210,
       "name": "wie gewohnt",
       "url": "https://open.spotify.com/track/3CqVlTbDzynkn00LO5PgM7"
+    },
+    {
+      "album": {
+        "name": "Wie ich es sag",
+        "url": "https://open.spotify.com/album/0kroYRJo2kAGSrilmVkTJ9"
+      },
+      "artists": [
+        {
+          "name": "Jante",
+          "url": "https://open.spotify.com/artist/5HKZFz9gyymN1JTB7jbadX"
+        },
+        {
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183670,
+      "name": "Wie ich es sag",
+      "url": "https://open.spotify.com/track/6FtJu1XmUSjRtlUAugl1Qu"
     },
     {
       "album": {
@@ -9291,6 +9385,24 @@
       "duration_ms": 159672,
       "name": "zwischen allem und nichts",
       "url": "https://open.spotify.com/track/5UvTDAr7oqTU7e3Rm8hcjn"
+    },
+    {
+      "album": {
+        "name": "\u00dcberdosis Mensch",
+        "url": "https://open.spotify.com/album/0PF2ijCRI6Cs2Q5cD80nMe"
+      },
+      "artists": [
+        {
+          "name": "JUDI&COCHO",
+          "url": "https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214093,
+      "name": "\u00dcberdosis Mensch",
+      "url": "https://open.spotify.com/track/6y9gcJktZF6brsR4pz5eVM"
     },
     {
       "album": {

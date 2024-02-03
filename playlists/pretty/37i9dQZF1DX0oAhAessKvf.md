@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,317 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,349 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 8 | [Me Acuerdo](https://open.spotify.com/track/5P67DwLI2wtCIIXD80o5zk) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [VICO\-C Digital Collection 1987\-2007](https://open.spotify.com/album/7aRR72pN3uae5Lb22Etxwi) | 5:59 |
 | 9 | [Go Pato](https://open.spotify.com/track/3aHjc7Ib2aXtfz23bCPz7j) | [Pato Banton](https://open.spotify.com/artist/0cpt0xebTXatYk3KvnrU9m) | [Universal Love](https://open.spotify.com/album/4poltWgc6sylGnlpgxEZ3c) | 4:37 |
 | 10 | [Vacilon](https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Boricua Reggaeton Clasicos de Barrio, Vol\. 1](https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl) | 2:30 |
-| 11 | [Amor Con la Ropa](https://open.spotify.com/track/3zxswdYHKQKV9SA8E6eEFH) | [Sir Speedy](https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s) | [Nueva Generación](https://open.spotify.com/album/218z2P2Cl8TWrE3P3lOJDl) | 2:11 |
-| 12 | [Me La Explota Feat\. Yankee](https://open.spotify.com/track/2cH8koRSDXBsvfEbeKcs9N) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [El Mundo De Plan B](https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT) | 3:18 |
+| 11 | [Me La Explota Feat\. Yankee](https://open.spotify.com/track/2cH8koRSDXBsvfEbeKcs9N) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [El Mundo De Plan B](https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT) | 3:18 |
+| 12 | [Amor Con la Ropa](https://open.spotify.com/track/3zxswdYHKQKV9SA8E6eEFH) | [Sir Speedy](https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s) | [Nueva Generación](https://open.spotify.com/album/218z2P2Cl8TWrE3P3lOJDl) | 2:11 |
 | 13 | [Pase Lo Que Pase](https://open.spotify.com/track/0ey8pKC4acPGI7pLEq4txU) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG), [Jeanette](https://open.spotify.com/artist/2RR3ftPVbWXhmczgCr0kpX) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 3:43 |
 | 14 | [Quieren](https://open.spotify.com/track/43TErmq7idspaUOjRvaBDH) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Aquel Que Habia Muerto](https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G) | 3:42 |
 | 15 | [Latigazo](https://open.spotify.com/track/3c5sB8wjUpxJKKDaRrdGAH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cangri.com](https://open.spotify.com/album/1u6jqoJEVYSDlpDduLlXYk) | 2:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 74 | [Marijuana](https://open.spotify.com/track/0fqj5uqf5iYvEFo6gyM1Ju) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Prime Underground 1](https://open.spotify.com/album/3UGPRfGaIVrdMhqWZYSCuv) | 2:51 |
 | 75 | [Alza la Mano Si Te Gusta Fumar](https://open.spotify.com/track/0m6giBF179ViIADfkXcLkQ) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Baby J](https://open.spotify.com/artist/0CXKthoKqF82onOw8RB6pA) | [The Beginning](https://open.spotify.com/album/3nqohzl5qqylbTrIu3PIB7) | 3:10 |
 
-Snapshot ID: `MCwzM2Q4MDk3ZTYwMTBmZjgxNDJkZWM4NWU3YTY1N2ZlOGVlMjU2NDRl`
+Snapshot ID: `MCw4ZTcyNDMxMTJmOTllZWRmODk2ZDQzOGRkNWZlODQwNTIxYjgyNTUz`

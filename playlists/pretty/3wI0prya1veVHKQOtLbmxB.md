@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 
 > Uh oh! Feeling all the butterflies in your stomach? Constantly checking your phone to see if they texted back? Feel all the feels with this playlist\. You might be in love.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 141,428 likes - 81 songs - 4 hr 49 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 141,383 likes - 81 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 | 80 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
 | 81 | [Baby I'm Yours](https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy) | 2:32 |
 
-Snapshot ID: `MjI4OCw3Zjk5ZGIyMTQyY2YwYWEzMjYyMTZhMzA5YzVlMDU3NjlkYmIzMjAw`
+Snapshot ID: `MjI4OSxmNmU5YmUyYjRjMTYwY2Q4ODM3MTljOGNiYzY5ZTQ3ZWZkN2ZhMjQw`

@@ -4,7 +4,7 @@
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-153 songs - 9 hr 52 min
+154 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Koopa\-Cabras](https://open.spotify.com/track/6d5AaCw2EUE654ngx9K5RA) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Koopa\-Cabras](https://open.spotify.com/album/5DSgYvrQvCGxgyVB6W8eHM) | 4:07 | 2021-09-10 | 2022-07-27 |
 | [La Espuela de la Mojarra](https://open.spotify.com/track/1O2OMTu840bOwRg0dr7y0K) | [Mojarra Electrica](https://open.spotify.com/artist/3B60XaU4JlyOP1kHkRnFo4) | [Raza](https://open.spotify.com/album/6urAtbEkdzYTSNWtlGQHOA) | 4:09 | 2021-09-10 | 2022-07-29 |
 | [LA FIESTA DE LAS COCHINILLAS](https://open.spotify.com/track/3ZQNWLhOED50ONN29goNto) | [La Pingos Orquesta](https://open.spotify.com/artist/77vszhtfhOdb1wk9V8RqB8) | [PEREGRINO](https://open.spotify.com/album/2344pgoHYhgvjNqmyIKLVi) | 4:31 | 2021-09-10 | 2022-07-29 |
+| [La Gran Alianza del Norte](https://open.spotify.com/track/3q8E4v1do4oENB7CYg9rkR) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Piloncillo y Bacanora](https://open.spotify.com/album/1uliriDJ6RM4F7xUq049Zd) | 2:47 | 2024-02-02 |  |
 | [La Luna y El Mar](https://open.spotify.com/track/1Xp4D3FQIg1nhTDnWBJTeR) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:08 | 2021-09-10 | 2022-07-29 |
 | [La Muerte](https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn) | 4:16 | 2021-09-10 |  |
 | [La Muerte](https://open.spotify.com/track/3dgZNbjOrViSoRuczcC61v) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/0HLPr4c2d1vlhIA3yOZqtS) | 4:17 | 2021-09-10 | 2022-07-29 |
@@ -123,7 +124,7 @@
 | [One Step Beyond \- 2009 \- Remaster](https://open.spotify.com/track/0bAYJxEe6ate8gL0G2qj1B) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond](https://open.spotify.com/album/62PbN36OHqQHZjys7VAAwL) | 2:18 | 2021-09-10 | 2022-07-28 |
 | [Opa Cupa](https://open.spotify.com/track/1ramTBkEuNstQWIP6hIgDv) | [Slavic Soul Party!](https://open.spotify.com/artist/0WqRUsyv5vUBAKwznogKrE) | [BalkanBeats](https://open.spotify.com/album/5MjkNUydPIUTg8EW4bXOsi) | 4:40 | 2023-01-07 |  |
 | [Opa!](https://open.spotify.com/track/4uOrTnqokSd74ro5FOUx0U) | [La Internacional Sonora Balkanera](https://open.spotify.com/artist/7zBN4dVulSEiunuM8jw98C) | [La Internacional Sonora Balkanera](https://open.spotify.com/album/13TzcCIce0xn2dxyuCpghF) | 3:44 | 2021-09-10 | 2022-07-24 |
-| [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/33bj2sNF5xk3oeFnyMfc0s) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 3:37 | 2021-09-10 |  |
+| [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/33bj2sNF5xk3oeFnyMfc0s) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 3:37 | 2021-09-10 | 2024-02-03 |
 | [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/701VW4sjPM6NNyvgQiAUDX) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Pa' Bailar](https://open.spotify.com/album/5s5UhYWKiVH8o5GLmCVKDF) | 3:38 | 2021-09-10 | 2022-07-29 |
 | [Padam Padam](https://open.spotify.com/track/4LMjiB1lKCOwVMwMw9ecXe) | [Carte Blanche](https://open.spotify.com/artist/4gOHHRs5KgFVxwZBW0sZK7) | [Carte Blanche](https://open.spotify.com/album/5r10XYBTlosImiqo24TP7X) | 2:59 | 2021-09-10 | 2022-07-29 |
 | [Palinka](https://open.spotify.com/track/5A4bNWDzBFd6cfGrREE2Fo) | [Lemon Bucket Orkestra](https://open.spotify.com/artist/6GWO9W0sGGhCFEXPNt1w21), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [If I Had The Strength](https://open.spotify.com/album/27oG7yQMyxzz5p40ZwDjgb) | 4:16 | 2021-09-10 | 2022-07-29 |

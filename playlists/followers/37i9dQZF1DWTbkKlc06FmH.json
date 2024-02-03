@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 126467,
+  "2024-02-03": 126522,
   "date_first_scraped": "2022-10-24",
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
   "name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
@@ -3725,7 +3725,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 254291,
       "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
       "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
@@ -7004,6 +7004,24 @@
     },
     {
       "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
+    },
+    {
+      "album": {
         "name": "Funk Wav Bounces Vol. 2",
         "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
       },
@@ -9087,6 +9105,32 @@
       "duration_ms": 149002,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft"
+    },
+    {
+      "album": {
+        "name": "STeAKFACe** \u1559(\u21c0\u2038\u21bc\u2036)\u1557",
+        "url": "https://open.spotify.com/album/5VySVRfSsU377GubJd5Sfy"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        },
+        {
+          "name": "Masiwei",
+          "url": "https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195268,
+      "name": "STeAKFACe** \u1559(\u21c0\u2038\u21bc\u2036)\u1557",
+      "url": "https://open.spotify.com/track/7KATT8Q9RnpLz8w7n6oJdG"
     },
     {
       "album": {
@@ -11869,7 +11913,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 272319,
       "name": "\u306f\u306a\u306b\u3042\u3089\u3057",
       "url": "https://open.spotify.com/track/1Y8oe7ucxNjQXTiWOIMSfz"

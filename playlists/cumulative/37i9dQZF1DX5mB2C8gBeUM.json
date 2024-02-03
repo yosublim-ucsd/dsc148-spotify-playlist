@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "After We Broke Up (feat. Frawley)",
+        "url": "https://open.spotify.com/album/21s4j5umh7ZV1wbldlMO3n"
+      },
+      "artists": [
+        {
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
+        },
+        {
+          "name": "Frawley",
+          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169453,
+      "name": "After We Broke Up - feat. Frawley",
+      "url": "https://open.spotify.com/track/6Mb4ChyGxYAfVtXz9ia0DN"
+    },
+    {
+      "album": {
         "name": "Don't Give Away The Ending",
         "url": "https://open.spotify.com/album/44zy1dzJbG7A0HMlrk4PZa"
       },
@@ -4230,6 +4252,28 @@
       "duration_ms": 194444,
       "name": "Islands To Nashville",
       "url": "https://open.spotify.com/track/59tIjrUIE6bdBfn0QRzmAs"
+    },
+    {
+      "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/313CwbceayWkGkp8G97ciF"
+      },
+      "artists": [
+        {
+          "name": "Justin Champagne",
+          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+        },
+        {
+          "name": "VK",
+          "url": "https://open.spotify.com/artist/4CYxG1N5jv7OtBX8Ql2wly"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201999,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/6IaU01HjdIQimBmOdAjdcf"
     },
     {
       "album": {

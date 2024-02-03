@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : mademoiselle lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,686 likes - 39 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,669 likes - 39 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LES VOIX](https://open.spotify.com/track/1huSfoDNZogC8dA2WSJGRA) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N), [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [LES VOIX](https://open.spotify.com/album/69qjY0Ei6IyvCXW4BdWc4O) | 2:37 |
-| 2 | [J'connais](https://open.spotify.com/track/30XqjaNJxeglrqz79AQWwo) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA \(Parties 1&2\)](https://open.spotify.com/album/2P0rDh5cLuiMGBYNSxpX5u) | 2:27 |
+| 2 | [J'connais](https://open.spotify.com/track/1aZVHOARM5FLgfAlHBtntr) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA \(Parties 1&2\)](https://open.spotify.com/album/1NTYNLaNEoAiZwT3mcNuP5) | 2:27 |
 | 3 | [Mélancolie criminelle \- A COLORS SHOW](https://open.spotify.com/track/6MF5rZ57E3tDYY5KR36QMd) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Mélancolie criminelle \- A COLORS SHOW](https://open.spotify.com/album/4tJVAb99fGJ7NmwnJBhB1H) | 2:49 |
 | 4 | [Quali](https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Quali](https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF) | 3:01 |
 | 5 | [BOTTEGA](https://open.spotify.com/track/4N3H6Pe1BHEKGMx2U3vIjB) | [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [23 \-](https://open.spotify.com/album/5ncfRnCt3xSTJMnoAgplCI) | 3:07 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 38 | [SUR MOI](https://open.spotify.com/track/5Sgg3gfCdVxcDZGooilVYk) | [TLZ Clan](https://open.spotify.com/artist/6rl2UnIXbg1TcusvFlPzWp) | [WEARELOCKED](https://open.spotify.com/album/2cY3RGh1nN2yU4NtjTV6pn) | 2:53 |
 | 39 | [Loin](https://open.spotify.com/track/2QjuqvJRPxx4Bs6CNFi2Zz) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Karma \(Extended\)](https://open.spotify.com/album/5Rx2hiXG1JTKJFIhjkitd2) | 3:13 |
 
-Snapshot ID: `MCxmMDkxZmQ3YTJhMmZjYTQ2MDdjYWU1YWRjMzViMGIxYWJhY2QwZjY1`
+Snapshot ID: `MCwwODg4NWVlNDY2MjYxNmE3YzE5NWJkZmU3YTlhMzQzYWJkYjBkYmRj`

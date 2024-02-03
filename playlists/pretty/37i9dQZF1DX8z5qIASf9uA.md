@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > Honramos la memoria de las leyendas de nuestra Música Mexicana\. Valentín Elizalde en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,143 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,334 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 53 | [Millonario De Amor](https://open.spotify.com/track/7LCymER3kimMSSMBnuyEub) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 3:42 |
 | 54 | [Y Aquí Estoy](https://open.spotify.com/track/2fKimbKY2cu68b63kYODbB) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359), [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Conquistando Corazones](https://open.spotify.com/album/2sVo3Q8BIKVwRtgplt6YYP) | 3:44 |
 | 55 | [Eres Divina](https://open.spotify.com/track/54dx7PURUtHjoxgIbCDRce) | [Patrulla 81](https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN) | [Divinas](https://open.spotify.com/album/10PJEl20JyA5vSPt4mOaga) | 3:14 |
-| 56 | [No Eres Tu Soy Yo](https://open.spotify.com/track/3pv9FKoXObVTMcS8gpLof4) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7) | [No Eres Tu Ahora Soy Yo](https://open.spotify.com/album/6dkhRkJFqd5PFVRiDEYIck) | 2:34 |
-| 57 | [Fallaste Corazón](https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera: Pedro Infante](https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC) | 3:46 |
+| 56 | [Fallaste Corazón](https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera: Pedro Infante](https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC) | 3:46 |
+| 57 | [No Eres Tu Soy Yo](https://open.spotify.com/track/3pv9FKoXObVTMcS8gpLof4) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7) | [No Eres Tu Ahora Soy Yo](https://open.spotify.com/album/6dkhRkJFqd5PFVRiDEYIck) | 2:34 |
 | 58 | [Si Nos Dejan](https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:24 |
 | 59 | [En Tu Pelo](https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Vida De Bohemio](https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi) | 3:00 |
 | 60 | [La Cita](https://open.spotify.com/track/75IgGouGFoepWfj2N6bQb6) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [20 Canciones Banda y Norteno](https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 74 | [Cuatro Cirios](https://open.spotify.com/track/27fFEQ1xSjRaSPJ4JUPDg7) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Los Boleros Morunos Solis](https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq) | 2:47 |
 | 75 | [Que Me Entierren Cantando](https://open.spotify.com/track/5GaIwab0GIWICCSVzldmUY) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Borracho de Primera](https://open.spotify.com/album/1cjt1zBdNmoD4qi3s2meCy) | 3:51 |
 
-Snapshot ID: `MCwwYjI1MjZjNGQwZjhlMGQ4NjY0NWRiN2I2MDMwMzI3NjUyMjc0MjM5`
+Snapshot ID: `MCw2MWFlOWFmMTllNWI5OTViNmNjYmNkZjYwNzI3YTFhZDM4MjFkMDAw`

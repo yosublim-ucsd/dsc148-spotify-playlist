@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 145232,
+  "2024-02-03": 145218,
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e08\u0e31\u0e14\u0e43\u0e2b\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: D Gerrard",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e08\u0e31\u0e14\u0e43\u0e2b\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: POKMINDSET, URBOYTJ",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b \u0e02\u0e2d\u0e07\u0e21\u0e31\u0e19\u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07",
   "tracks": [
     {
@@ -338,6 +338,36 @@
     },
     {
       "album": {
+        "name": "BOMBAKILL",
+        "url": "https://open.spotify.com/album/6cExkcErtk5B4POoLoew9q"
+      },
+      "artists": [
+        {
+          "name": "UROLL",
+          "url": "https://open.spotify.com/artist/6e65BI7r91s1pU7JbMr41t"
+        },
+        {
+          "name": "KMJ THXRTY.K",
+          "url": "https://open.spotify.com/artist/5QzIfgWv3wC4LSDnrxfUqd"
+        },
+        {
+          "name": "XSAIL",
+          "url": "https://open.spotify.com/artist/6oa4EShUTW01ENFj7j1SnB"
+        },
+        {
+          "name": "KMJ JOZIM",
+          "url": "https://open.spotify.com/artist/1cRVmPQ30kRp6BwVeeGrpN"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115542,
+      "name": "BOMBAKILL",
+      "url": "https://open.spotify.com/track/0F7nOyjgNCdRv3RvT5YNUL"
+    },
+    {
+      "album": {
         "name": "BONG",
         "url": "https://open.spotify.com/album/20fOOAZJGEDymwuWrImgL7"
       },
@@ -423,6 +453,28 @@
       "duration_ms": 256915,
       "name": "Change our life",
       "url": "https://open.spotify.com/track/543nieBIyNTLGi7SSSAYkj"
+    },
+    {
+      "album": {
+        "name": "ChaseEmDown",
+        "url": "https://open.spotify.com/album/0JQe9Hehn3y0PkaLjYsMs9"
+      },
+      "artists": [
+        {
+          "name": "1MILL",
+          "url": "https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco"
+        },
+        {
+          "name": "Lite Fortunato",
+          "url": "https://open.spotify.com/artist/1u6pg7JgRnNX5g91p6BD1w"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150747,
+      "name": "ChaseEmDown",
+      "url": "https://open.spotify.com/track/5BCcxeJq6Xo56w3sV1XYw1"
     },
     {
       "album": {
@@ -1057,7 +1109,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 195692,
       "name": "Ice",
       "url": "https://open.spotify.com/track/0O3WUJpR0DgIvHYzy0L8bN"
@@ -1101,6 +1153,24 @@
       "duration_ms": 84687,
       "name": "INTRO [BABY FOREVER]",
       "url": "https://open.spotify.com/track/7ajmjB7vQlhQi8bmGGD2C1"
+    },
+    {
+      "album": {
+        "name": "IOS",
+        "url": "https://open.spotify.com/album/1KYCgrmUFOsDytDgx0U8WA"
+      },
+      "artists": [
+        {
+          "name": "4BANG",
+          "url": "https://open.spotify.com/artist/79jZrupKGTRsyOsJV1OwGK"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114555,
+      "name": "IOS",
+      "url": "https://open.spotify.com/track/3KlA2l3A8acuOEXYVFr7h7"
     },
     {
       "album": {
@@ -1271,7 +1341,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 286829,
       "name": "Level up",
       "url": "https://open.spotify.com/track/4Ekx9su9WXju5eXl1BrPPS"
@@ -2431,7 +2501,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 165957,
       "name": "T-POP",
       "url": "https://open.spotify.com/track/7kZIBhicoafPMzwAvFTZMS"
@@ -2533,6 +2603,24 @@
       "duration_ms": 156122,
       "name": "Tiger Cry Freestyle",
       "url": "https://open.spotify.com/track/5fGBZ6UPDnaqey4jTxYxcK"
+    },
+    {
+      "album": {
+        "name": "TWIN TAIL",
+        "url": "https://open.spotify.com/album/7gdv2nyLMtT1mPfiZtUGe6"
+      },
+      "artists": [
+        {
+          "name": "SDV SCARLET",
+          "url": "https://open.spotify.com/artist/67N3nOGjpjbDphEhDG2lCe"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166936,
+      "name": "TWIN TAIL",
+      "url": "https://open.spotify.com/track/35CuL9gY2roiaDXYEfkcDN"
     },
     {
       "album": {
@@ -2694,6 +2782,24 @@
     },
     {
       "album": {
+        "name": "You Are My Type",
+        "url": "https://open.spotify.com/album/6lZzjj2kYOfhuVkgFTFzb6"
+      },
+      "artists": [
+        {
+          "name": "2Venti",
+          "url": "https://open.spotify.com/artist/5d7iV0ruM9GPNgZGwyV34u"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182951,
+      "name": "You Are My Type",
+      "url": "https://open.spotify.com/track/0GYtyikRBdKSLVvwbniZaK"
+    },
+    {
+      "album": {
         "name": "You Mine",
         "url": "https://open.spotify.com/album/6Zlud6yyGDGLUgQlGlXJhQ"
       },
@@ -2763,7 +2869,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 162000,
       "name": "Zodiacign",
       "url": "https://open.spotify.com/track/1raRER7VFdYeQPfMVrdNuq"
@@ -3076,6 +3182,24 @@
     },
     {
       "album": {
+        "name": "BABY FOREVER",
+        "url": "https://open.spotify.com/album/38r7DGn4B2cIH9ET1pAkAq"
+      },
+      "artists": [
+        {
+          "name": "BABY ROCKY",
+          "url": "https://open.spotify.com/artist/3ANMzDN6QHTKp9yr6eYxDX"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184322,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e25\u0e31\u0e07",
+      "url": "https://open.spotify.com/track/6mQU70t4039XMcQPYST6Gv"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e33\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/4XwppT6zNSApnKAPzRwIo8"
       },
@@ -3205,6 +3329,28 @@
       "duration_ms": 156352,
       "name": "\u0e08\u0e32\u0e01",
       "url": "https://open.spotify.com/track/6wo4Xmf5BjoOQjgts3OgTn"
+    },
+    {
+      "album": {
+        "name": "\u0e08\u0e36\u0e49\u0e07",
+        "url": "https://open.spotify.com/album/6ZEAo86UbWLy2EoxPH6ulS"
+      },
+      "artists": [
+        {
+          "name": "POKMINDSET",
+          "url": "https://open.spotify.com/artist/18twEd2PtcY8Nz2v6oKyNP"
+        },
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191833,
+      "name": "\u0e08\u0e36\u0e49\u0e07",
+      "url": "https://open.spotify.com/track/0lHcKNdctFTW0gusUxmA2u"
     },
     {
       "album": {
@@ -3396,6 +3542,24 @@
     },
     {
       "album": {
+        "name": "\u0e0a\u0e2d\u0e1a\u0e1c\u0e21\u0e44\u0e2b\u0e21? (Do u like hair?)",
+        "url": "https://open.spotify.com/album/50xgr31D00Aak4Zqipi4aY"
+      },
+      "artists": [
+        {
+          "name": "spingy",
+          "url": "https://open.spotify.com/artist/65IgDP0KdfVt1klR6BzPl6"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148275,
+      "name": "\u0e0a\u0e2d\u0e1a\u0e1c\u0e21\u0e44\u0e2b\u0e21? (Do u like hair?)",
+      "url": "https://open.spotify.com/track/54F7OE2UAlSXHNx3TasRBJ"
+    },
+    {
+      "album": {
         "name": "\u0e0a\u0e48\u0e27\u0e07\u0e40\u0e27\u0e25\u0e32\u0e17\u0e35\u0e48\u0e21\u0e35\u0e04\u0e48\u0e32",
         "url": "https://open.spotify.com/album/0WypZRjgbu5BcWQIcmYVkA"
       },
@@ -3425,7 +3589,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 200347,
       "name": "\u0e0a\u0e48\u0e27\u0e22\u0e40\u0e25\u0e34\u0e01\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e2a\u0e31\u0e01\u0e27\u0e34\u0e19\u0e32\u0e17\u0e35",
       "url": "https://open.spotify.com/track/0A7WIDaopCgpEDaKQNvmqO"
@@ -3955,10 +4119,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 206250,
       "name": "\u0e1a\u0e32\u0e14\u0e41\u0e1c\u0e25 - Traumatic",
       "url": "https://open.spotify.com/track/4mmidgKRM3NcRPhnP5PGi2"
+    },
+    {
+      "album": {
+        "name": "\u0e1a\u0e32\u0e1a\u0e34\u0e14\u0e35\u0e49",
+        "url": "https://open.spotify.com/album/6CX2Yoorwvb7UlGsLoIGyl"
+      },
+      "artists": [
+        {
+          "name": "365DGANGBANG",
+          "url": "https://open.spotify.com/artist/4pJji3LVnL9nSMXKICNMd2"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227370,
+      "name": "\u0e1a\u0e32\u0e1a\u0e34\u0e14\u0e35\u0e49",
+      "url": "https://open.spotify.com/track/30XzMliMxaiYBjfjOa2b4L"
     },
     {
       "album": {
@@ -4249,6 +4431,24 @@
       "duration_ms": 189333,
       "name": "\u0e21\u0e36\u0e07\u0e43\u0e2b\u0e49\u0e01\u0e39\u0e40\u0e01\u0e34\u0e14\u0e1a\u0e49\u0e32\u0e07",
       "url": "https://open.spotify.com/track/0kf8E8cNnIeESrH87G9weL"
+    },
+    {
+      "album": {
+        "name": "\u0e22\u0e2d\u0e14\u0e04\u0e49\u0e32\u0e07\u0e0a\u0e33\u0e40\u0e25\u0e34\u0e1f",
+        "url": "https://open.spotify.com/album/0c891qc9ulsyA0dxeAAL6V"
+      },
+      "artists": [
+        {
+          "name": "YELLOWSKRT",
+          "url": "https://open.spotify.com/artist/7oT2RbAN0PLOf9GqIAYnmj"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160493,
+      "name": "\u0e22\u0e2d\u0e14\u0e04\u0e49\u0e32\u0e07\u0e0a\u0e33\u0e40\u0e25\u0e34\u0e1f",
+      "url": "https://open.spotify.com/track/35v3xFjRD9w5qC2DC0OGgX"
     },
     {
       "album": {
@@ -4558,6 +4758,50 @@
     },
     {
       "album": {
+        "name": "\u0e25\u0e39\u0e01\u0e1a\u0e49\u0e32\u0e17\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e1e\u0e34\u0e0a\u0e34\u0e15\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/3zOXM4szpTvIdo2BFLtqLF"
+      },
+      "artists": [
+        {
+          "name": "Sleep Flowz",
+          "url": "https://open.spotify.com/artist/3JfJqkCtvNJ3RsegBLbRTQ"
+        },
+        {
+          "name": "PY-1",
+          "url": "https://open.spotify.com/artist/1ZCpAWyRv4FdWf3Qwwbmoh"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "\u0e25\u0e39\u0e01\u0e1a\u0e49\u0e32\u0e17\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e1e\u0e34\u0e0a\u0e34\u0e15\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/0BWU06vTxUpvgbDqTF7vsH"
+    },
+    {
+      "album": {
+        "name": "\u0e25\u0e48\u0e2d\u0e0b\u0e37\u0e49\u0e2d",
+        "url": "https://open.spotify.com/album/7nQthPvHMzp6dnHEcMDnJP"
+      },
+      "artists": [
+        {
+          "name": "Soloist",
+          "url": "https://open.spotify.com/artist/69QjaBrg8ihcyQ1fULynQz"
+        },
+        {
+          "name": "OWEN",
+          "url": "https://open.spotify.com/artist/1a9lQ8ZZ8ABEBGJ7XWCENw"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203919,
+      "name": "\u0e25\u0e48\u0e2d\u0e0b\u0e37\u0e49\u0e2d",
+      "url": "https://open.spotify.com/track/7t8bDb2WAxBJ2RXPpUu8Td"
+    },
+    {
+      "album": {
         "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e1b\u0e35\u0e17\u0e35\u0e48\u0e41\u0e25\u0e49\u0e27",
         "url": "https://open.spotify.com/album/7sFbpmKTsNCptfRIqXWTk1"
       },
@@ -4793,7 +5037,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 151673,
       "name": "\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e1e\u0e32\u0e40\u0e18\u0e2d\u0e44\u0e1b\u0e14\u0e39\u0e04\u0e2d\u0e19\u0e40\u0e2a\u0e34\u0e23\u0e4c\u0e15\u0e27\u0e31\u0e19\u0e21\u0e34\u0e25",
       "url": "https://open.spotify.com/track/5wC0pEdfBw4ugv41doWRWh"
@@ -5087,7 +5331,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 169000,
       "name": "\u0e40\u0e0a\u0e49\u0e32 5 \u0e40\u0e22\u0e47\u0e19 5",
       "url": "https://open.spotify.com/track/08WcvPwFMCEV15XtLwTIb2"
@@ -5443,7 +5687,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 164791,
       "name": "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e23\u0e32\u0e27\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e25\u0e37\u0e21",
       "url": "https://open.spotify.com/track/56IJQ9HAa5l8aqLGHadljD"
@@ -5540,6 +5784,36 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e17\u0e07\u0e43\u0e08\u0e14\u0e33",
+        "url": "https://open.spotify.com/album/2hij8dSRMpyfFSqpBbe2Vn"
+      },
+      "artists": [
+        {
+          "name": "The BESTS",
+          "url": "https://open.spotify.com/artist/6e8TDjcAEEGD0yhbhKocWE"
+        },
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        },
+        {
+          "name": "2T FLOW",
+          "url": "https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ"
+        },
+        {
+          "name": "BlackHeart",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286896,
+      "name": "\u0e41\u0e17\u0e07\u0e43\u0e08\u0e14\u0e33",
+      "url": "https://open.spotify.com/track/2vjSDGzsgO5GMNTrDjYBB9"
+    },
+    {
+      "album": {
         "name": "\u0e41\u0e1f\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e2b\u0e19\u0e49\u0e32\u0e04\u0e38\u0e49\u0e19",
         "url": "https://open.spotify.com/album/6QQTFhzZZ9aruyijHIPogD"
       },
@@ -5589,6 +5863,24 @@
       "duration_ms": 190663,
       "name": "\u0e41\u0e25\u0e49\u0e27\u0e40\u0e23\u0e32\u0e04\u0e48\u0e2d\u0e22\u0e1e\u0e1a\u0e01\u0e31\u0e19\u0e2d\u0e35\u0e01\u0e17\u0e35\u0e19\u0e36\u0e07",
       "url": "https://open.spotify.com/track/7qDUfxBfgWUqNnO1F1Jdta"
+    },
+    {
+      "album": {
+        "name": "BABY FOREVER",
+        "url": "https://open.spotify.com/album/38r7DGn4B2cIH9ET1pAkAq"
+      },
+      "artists": [
+        {
+          "name": "BABY ROCKY",
+          "url": "https://open.spotify.com/artist/3ANMzDN6QHTKp9yr6eYxDX"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153351,
+      "name": "\u0e41\u0e2a\u0e19\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32",
+      "url": "https://open.spotify.com/track/1zBOvpESC8RhATghMlkDLf"
     },
     {
       "album": {

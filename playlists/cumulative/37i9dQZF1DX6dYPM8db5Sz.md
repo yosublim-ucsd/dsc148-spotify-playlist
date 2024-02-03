@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv?si=Wh2Epm11RL6HFz7jB5DQ0A">Stereo Club</a>
 
-636 songs - 1 day 12 hr 36 min
+637 songs - 1 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Give You My Sun](https://open.spotify.com/track/7xL4IucL4wueiPNkSZuHcx) | [Isla Sutherland](https://open.spotify.com/artist/123Fymzy8c82Cy05n3d08R) | [Give You My Sun](https://open.spotify.com/album/4BmJDQ07i0Vphd0T7SaENh) | 3:52 | 2023-12-14 | 2024-01-12 |
 | [Giving My Love](https://open.spotify.com/track/74dwHoS4dUx7QHElINW0a0) | [Lokaly](https://open.spotify.com/artist/2xMgbeCaxqn40elRsuLMf4) | [Giving My Love](https://open.spotify.com/album/7ke8MXeH1DwX1C9lGJdP8o) | 4:03 | 2022-10-31 | 2023-01-13 |
 | [God Complex](https://open.spotify.com/track/3ecSL8AUu6r0yIOrbABTdL) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Revel](https://open.spotify.com/album/6T2vXhcPF7ZFxJl5rSlelZ) | 3:07 | 2023-06-15 | 2023-07-14 |
+| [Goes To Show](https://open.spotify.com/track/3XzVQKt06W3s43Vvs07wzg) | [Stereo Club](https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv) | [Goes To Show](https://open.spotify.com/album/05JTEh0B7YFchrQX40BXh6) | 3:41 | 2024-02-01 |  |
 | [Going Home](https://open.spotify.com/track/79nvFhgWdJqI238YcO7cLo) | [Monark](https://open.spotify.com/artist/4fWc4RmQhx0vz05EQV8ekC) | [Going Home](https://open.spotify.com/album/1OrzAjh77eizHTD3m4pAuQ) | 3:29 | 2023-03-30 | 2023-06-09 |
 | [Gold Mine](https://open.spotify.com/track/2qPH0TDd5bVnIaPA7yoV7t) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Gold Mine](https://open.spotify.com/album/1gZ6GbTfp1Cvuwp0tK00Xf) | 2:35 | 2023-10-26 | 2023-12-22 |
 | [Golden](https://open.spotify.com/track/5MztgDmgTL0mDCXOZR5aJ0) | [Senna\-Marie](https://open.spotify.com/artist/3PlSwDe9Gb6aJDuFhEZSKW), [Ryan Schultze](https://open.spotify.com/artist/5H7kc18IXWo03weqplDFPX) | [Golden](https://open.spotify.com/album/6UDVIOMw5Bd6z7dpmpn5ZW) | 5:11 | 2023-04-27 | 2023-07-07 |

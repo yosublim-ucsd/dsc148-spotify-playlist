@@ -1,13 +1,29 @@
 {
-  "description": "Open that sh*t up! ",
-  "num_followers": 51550,
+  "description": "Open that sh*t up! Cover: Rich Amiri",
+  "num_followers": 51618,
   "original_name": "RAGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDEwZTA5NTA2Zjg0NmFlYzZiZDgyNTk0MGIzY2YwMmZiZTZjMDE3",
+  "snapshot_id": "MCw4YzFhNTYwY2I0YjEzMzZjNjUzOGYxOWE2ODg1ZDBmYjFlNWQ1ZTU5",
   "tracks": [
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Ghetto Fabulous",
+        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+    },
     {
       "added_at": "2024-01-05 16:31:42",
       "album": {
@@ -31,6 +47,22 @@
       "duration_ms": 130136,
       "name": "RICK OWENS (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Osama Season",
+        "url": "https://open.spotify.com/album/1gbR6hQTGdJ8PH3BXgmcdg"
+      },
+      "artists": [
+        {
+          "name": "OsamaSon",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
+        }
+      ],
+      "duration_ms": 57029,
+      "name": "X & Sex",
+      "url": "https://open.spotify.com/track/4EwwfFCckvI9uM0nEVVDa0"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -141,6 +173,22 @@
       "url": "https://open.spotify.com/track/46NzAxDzsE443IsyZndZfP"
     },
     {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "kingtut",
+        "url": "https://open.spotify.com/album/77nZkr98snqK9S5KN7gxiA"
+      },
+      "artists": [
+        {
+          "name": "Hardrock",
+          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
+        }
+      ],
+      "duration_ms": 172878,
+      "name": "kingtut",
+      "url": "https://open.spotify.com/track/5o3hsfebCXZUBb5OzsFqyK"
+    },
+    {
       "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "If Looks Could Kill",
@@ -223,6 +271,22 @@
       "duration_ms": 175716,
       "name": "Lyfe",
       "url": "https://open.spotify.com/track/5GT6tY36LQwQdPfE25NaBA"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "lonely boy",
+        "url": "https://open.spotify.com/album/6KPDJJLnlulWdsy5pENApB"
+      },
+      "artists": [
+        {
+          "name": "Scrim",
+          "url": "https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy"
+        }
+      ],
+      "duration_ms": 143108,
+      "name": "maserati slick",
+      "url": "https://open.spotify.com/track/3pE08q8PvdFDikPA5oMToS"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -399,54 +463,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Osama Season",
-        "url": "https://open.spotify.com/album/1gbR6hQTGdJ8PH3BXgmcdg"
-      },
-      "artists": [
-        {
-          "name": "OsamaSon",
-          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
-        }
-      ],
-      "duration_ms": 57029,
-      "name": "X & Sex",
-      "url": "https://open.spotify.com/track/4EwwfFCckvI9uM0nEVVDa0"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "ONE CALL",
-        "url": "https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi"
-      },
-      "artists": [
-        {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
-        }
-      ],
-      "duration_ms": 121399,
-      "name": "ONE CALL",
-      "url": "https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Way Up!",
-        "url": "https://open.spotify.com/album/6c36BqvLIyeL5NEGt4o0EP"
-      },
-      "artists": [
-        {
-          "name": "Dina Ayada",
-          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
-        }
-      ],
-      "duration_ms": 146905,
-      "name": "Way Up!",
-      "url": "https://open.spotify.com/track/7mj1prKBTEisjBlahW1PSK"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "REAL RAW!",
         "url": "https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 105954,
       "name": "Uzi Work",
       "url": "https://open.spotify.com/track/4wBaBLQcSSzjdcEC93YxPG"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "1of1",
-        "url": "https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi"
-      },
-      "artists": [
-        {
-          "name": "Hardrock",
-          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
-        }
-      ],
-      "duration_ms": 146750,
-      "name": "bleh",
-      "url": "https://open.spotify.com/track/5jhI9kdseTMJQYvjIm5MVU"
     },
     {
       "added_at": "2023-12-01 03:00:00",

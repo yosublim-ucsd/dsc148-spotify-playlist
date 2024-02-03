@@ -1,12 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 259698,
+  "num_followers": 259685,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTYzYzE0MWZmNzVkM2YxMWUwMDZhNTFjZGEzNWMwMTU0MzUxNGYw",
+  "snapshot_id": "MCwyODVkMjQ1ZTc0OTlhMGUzMjIyZTdkNmFkZGI2ZjFlMWUxMDZlNTU2",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Little Bit More",
         "url": "https://open.spotify.com/album/0Fb8tXgVncpgZgUeuOiDlF"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 189671,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Freaking Out",
         "url": "https://open.spotify.com/album/5W8V1AccTsiBMWueM4bLTl"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 243266,
       "name": "Best Part of Me (feat. YEBBA)",
       "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
-        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
-      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Have A Little Faith In Me",
-        "url": "https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 197079,
-      "name": "Have A Little Faith In Me",
-      "url": "https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 176386,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/7xbXQeepclfQNqI3mLPb3c"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Have A Little Faith In Me",
+        "url": "https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 197079,
+      "name": "Have A Little Faith In Me",
+      "url": "https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Regardless",
         "url": "https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 189257,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b"
     },
     {
       "added_at": "2024-01-26 05:00:00",

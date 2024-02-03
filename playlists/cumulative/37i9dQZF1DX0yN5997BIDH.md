@@ -4,7 +4,7 @@
 
 > ¡Deja que la música te inspire para acabar con tu tarea!
 
-252 songs - 13 hr 47 min
+253 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,9 @@
 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 | 2022-02-01 | 2022-10-02 |
 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2022-02-01 |  |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-04-18 | 2022-06-25 |
-| [American Cliché](https://open.spotify.com/track/18HE341ScgOOPOLWx1DSjG) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [American Cliché](https://open.spotify.com/album/7fsCxUt2YH5ZcfQL2RWY1g) | 3:23 | 2022-10-01 |  |
+| [American Cliché](https://open.spotify.com/track/18HE341ScgOOPOLWx1DSjG) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [American Cliché](https://open.spotify.com/album/7fsCxUt2YH5ZcfQL2RWY1g) | 3:23 | 2022-10-01 | 2024-02-03 |
 | [American Cliché](https://open.spotify.com/track/2IFioAFD8QEIq17UwOaSFb) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [American Cliché](https://open.spotify.com/album/2LNj7phPxqxUhn05s0itfQ) | 3:23 | 2022-02-01 | 2022-10-13 |
+| [American Cliché](https://open.spotify.com/track/5jxZBO1efg52vMEmiSjGXy) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [American Cliché](https://open.spotify.com/album/7B4QizmRASlZ4cq3rjADc2) | 3:23 | 2023-01-13 |  |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-11-25 |  |
 | [anxiety.](https://open.spotify.com/track/4UN1cxXIlQhmOWXhEkrBqu) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [anxiety.](https://open.spotify.com/album/4jQXsSUMXkFzUBdUs1nRxa) | 2:36 | 2022-02-01 | 2022-06-25 |
 | [Anyone](https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9) | [Reason](https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6) | [Anyone](https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg) | 3:08 | 2022-02-01 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Talib Kweli",
+  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Immortal Technique",
   "name": "I Love My Underground Classics",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 252400,
       "name": "3 Tha Hard Way",
       "url": "https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 283600,
       "name": "Answers",
       "url": "https://open.spotify.com/track/62XG3j3pMiIkHZxybltx4g"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 311480,
       "name": "Body Rock",
       "url": "https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij"
@@ -660,6 +660,24 @@
       "duration_ms": 321293,
       "name": "Concrete Schoolyard",
       "url": "https://open.spotify.com/track/37pnnS4zO9s6xzeblq9Jrd"
+    },
+    {
+      "album": {
+        "name": "Revolutionary, Vol. 1",
+        "url": "https://open.spotify.com/album/5oSeZDMpbXW5E9v13kDicA"
+      },
+      "artists": [
+        {
+          "name": "Immortal Technique",
+          "url": "https://open.spotify.com/artist/7h8ja4JSORo2sXJPmCXRxa"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 579293,
+      "name": "Dance With The Devil",
+      "url": "https://open.spotify.com/track/4LCzEYKPFcd2FCOmZdVDnM"
     },
     {
       "album": {
@@ -1719,6 +1737,48 @@
     },
     {
       "album": {
+        "name": "Revolutionary Vol. 2",
+        "url": "https://open.spotify.com/album/5xtkb5z9PgR0dmIf8WkNT0"
+      },
+      "artists": [
+        {
+          "name": "Immortal Technique",
+          "url": "https://open.spotify.com/artist/7h8ja4JSORo2sXJPmCXRxa"
+        },
+        {
+          "name": "Tonedeff",
+          "url": "https://open.spotify.com/artist/6tJRz44hifa2rNseM7RoTt"
+        },
+        {
+          "name": "Pumpkinhead",
+          "url": "https://open.spotify.com/artist/6DlRKPBLhSYo0KbxVPljBk"
+        },
+        {
+          "name": "Poison Pen",
+          "url": "https://open.spotify.com/artist/5Pm1ivc6SEmNCl6Z8oXVGi"
+        },
+        {
+          "name": "Loucipher",
+          "url": "https://open.spotify.com/artist/54rUhWtGTfR3GMKNyGXyRW"
+        },
+        {
+          "name": "Diabolic",
+          "url": "https://open.spotify.com/artist/32syImTOvzksQre9uRT2L8"
+        },
+        {
+          "name": "C-Rayz Walz",
+          "url": "https://open.spotify.com/artist/1l4hfWLBSaYjCO8E0lzASA"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288666,
+      "name": "Peruvian Cocaine",
+      "url": "https://open.spotify.com/track/3UFQM2oW4KXP3ZZ3jtBx2P"
+    },
+    {
+      "album": {
         "name": "Fan-Tas-Tic, Vol. 2",
         "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
       },
@@ -1734,6 +1794,24 @@
       "duration_ms": 146279,
       "name": "Players",
       "url": "https://open.spotify.com/track/42il7TuY2vBP0QnWnjpxnI"
+    },
+    {
+      "album": {
+        "name": "Revolutionary Vol. 2",
+        "url": "https://open.spotify.com/album/5xtkb5z9PgR0dmIf8WkNT0"
+      },
+      "artists": [
+        {
+          "name": "Immortal Technique",
+          "url": "https://open.spotify.com/artist/7h8ja4JSORo2sXJPmCXRxa"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241826,
+      "name": "Point Of No Return",
+      "url": "https://open.spotify.com/track/3qDpYCA6FoVvODVaZWScXO"
     },
     {
       "album": {

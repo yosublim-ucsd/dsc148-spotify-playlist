@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 45 | [Mi Amor](https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Mi Amor](https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD) | 3:42 |
 | 46 | [Dunya](https://open.spotify.com/track/5N5CCm7QFaZaqYlmZOAU0i) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Reggaestrerad](https://open.spotify.com/album/13DfA1T9VKqtBD5xQwgvhG) | 3:43 |
 | 47 | [Aina Älskar Reggae](https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb) | [LöstFolk](https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [The Tomtations Show](https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q) | 4:42 |
-| 48 | [Onda ögat](https://open.spotify.com/track/2308zhPgcLzR1xKMhI5naC) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [SELFMADE](https://open.spotify.com/album/7bDdwOEcIAfemtJecLkP5g) | 4:00 |
-| 49 | [Reggaeprofil](https://open.spotify.com/track/0kDQRF7cCp5ZZ2tbtbjzK8) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx), [Jr Erik](https://open.spotify.com/artist/6tabmZkqzTHQs2iSrMFp89) | [Som Salomos Sång](https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP) | 3:47 |
+| 48 | [Bida Din Tid](https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Rotlösa Singlar](https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH) | 3:53 |
+| 49 | [Onda ögat](https://open.spotify.com/track/2308zhPgcLzR1xKMhI5naC) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [SELFMADE](https://open.spotify.com/album/7bDdwOEcIAfemtJecLkP5g) | 4:00 |
 | 50 | [Bulleribock](https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Bråda dagar](https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR) | 4:14 |
 
-Snapshot ID: `MCxhYzUxNmVlZTJkYzI0MTEzMzJlYTNlNGY1ZDIxNDBkYjFjMWJmOTA0`
+Snapshot ID: `MCw1NDZmNWViNWFjM2IxNDBlZTA5OTdlN2Q5YWQ1NGFlNWJjYTJkZWUw`

@@ -1,12 +1,12 @@
 {
   "description": "Pinches cumbiones bien locos para bailar.",
-  "num_followers": 146632,
+  "num_followers": 146676,
   "original_name": "50 Cumbiones Bien Locos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzg0ZmRhYWUwNWVlNjg4MTM0YWQ1MTM4N2JmODYxYTY5NTZkYzJm",
+  "snapshot_id": "MCw4NjNlNTZmMzE0NmQ4ZDgyZWUyZDNiNzk0MTU3YzI5NGVjYmY1YjAx",
   "tracks": [
     {
       "added_at": "2023-01-17 14:46:17",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Yo Tomo Licor",
-      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "Los Yaguaru",
         "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
@@ -415,22 +399,18 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "No Te Creas Tan Importante (En Vivo)",
-        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 239760,
-      "name": "No Te Creas Tan Importante - En Vivo",
-      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -467,6 +447,26 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
+        "name": "No Te Creas Tan Importante (En Vivo)",
+        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "No Te Creas Tan Importante - En Vivo",
+      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
         "name": "Donde Estaras",
         "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 223503,
       "name": "Donde Estaras",
       "url": "https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -503,18 +519,18 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+        "name": "El Poder De La Cumbia",
+        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
       "artists": [
         {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
         }
       ],
-      "duration_ms": 217586,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
+      "duration_ms": 283240,
+      "name": "Rumba Cha-Cha-Cha",
+      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -531,42 +547,6 @@
       "duration_ms": 267415,
       "name": "No Me Llames Mas",
       "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
-        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
-        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 238528,
-      "name": "Me Vas a Extra\u00f1ar - En Vivo",
-      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
-        "name": "El Poder De La Cumbia",
-        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 283240,
-      "name": "Rumba Cha-Cha-Cha",
-      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -603,22 +583,22 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Messirve Mix 5",
-        "url": "https://open.spotify.com/album/4RftZP7sXCsFIADpppavzS"
+        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
+        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
       },
       "artists": [
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         },
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
         }
       ],
-      "duration_ms": 312737,
-      "name": "Messirve Mix 5",
-      "url": "https://open.spotify.com/track/41VOCbJ4ronoGiRg4bWvV6"
+      "duration_ms": 238528,
+      "name": "Me Vas a Extra\u00f1ar - En Vivo",
+      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -635,6 +615,26 @@
       "duration_ms": 225333,
       "name": "Gritar\u00eda",
       "url": "https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Messirve Mix 5",
+        "url": "https://open.spotify.com/album/4RftZP7sXCsFIADpppavzS"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 312737,
+      "name": "Messirve Mix 5",
+      "url": "https://open.spotify.com/track/41VOCbJ4ronoGiRg4bWvV6"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
+        "name": "Oye Mujer",
+        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "\u00bfD\u00f3nde Estar\u00e1s?",
+      "url": "https://open.spotify.com/track/55fNwvY5YPrQgndjwBywM8"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 280895,
       "name": "Perrito Malvado",
       "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
-        "name": "Oye Mujer",
-        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "\u00bfD\u00f3nde Estar\u00e1s?",
-      "url": "https://open.spotify.com/track/55fNwvY5YPrQgndjwBywM8"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1"
+      },
+      "artists": [
+        {
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Yo Soy Tu Maestro",
+      "url": "https://open.spotify.com/track/23EzYG5WcweDqh5RX9nFaW"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
         "name": "100% Negro Cumbiero",
         "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 212253,
       "name": "El humo de mi fasito",
       "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
-        "name": "Inimitable",
-        "url": "https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 254333,
-      "name": "Vienes y Te Vas - En Vivo",
-      "url": "https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1"
+        "name": "Inimitable",
+        "url": "https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU"
       },
       "artists": [
         {
-          "name": "Los Telez",
-          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 276880,
-      "name": "Yo Soy Tu Maestro",
-      "url": "https://open.spotify.com/track/23EzYG5WcweDqh5RX9nFaW"
+      "duration_ms": 254333,
+      "name": "Vienes y Te Vas - En Vivo",
+      "url": "https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Tonto Cari\u00f1o",
-        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
-      },
-      "artists": [
-        {
-          "name": "Los Papis RA7",
-          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
-        }
-      ],
-      "duration_ms": 299284,
-      "name": "Estupido",
-      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "Parulo",
         "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
       },
@@ -1195,22 +1179,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Como un Dulce Poema, Vol. 3",
-        "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
-      },
-      "artists": [
-        {
-          "name": "Rossy War y Su Banda Kaliente",
-          "url": "https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ"
-        }
-      ],
-      "duration_ms": 249773,
-      "name": "Nunca Pense Llorar",
-      "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "El Angel Del Amor",
         "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
       },
@@ -1223,6 +1191,38 @@
       "duration_ms": 281861,
       "name": "Te Vas Con El O Te Vas Conmigo",
       "url": "https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Tonto Cari\u00f1o",
+        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
+      },
+      "artists": [
+        {
+          "name": "Los Papis RA7",
+          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
+        }
+      ],
+      "duration_ms": 299284,
+      "name": "Estupido",
+      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Como un Dulce Poema, Vol. 3",
+        "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
+      },
+      "artists": [
+        {
+          "name": "Rossy War y Su Banda Kaliente",
+          "url": "https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ"
+        }
+      ],
+      "duration_ms": 249773,
+      "name": "Nunca Pense Llorar",
+      "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Rompiendo las Reglas de la Cumbia",
-        "url": "https://open.spotify.com/album/57D5brwOIybIORt38FflIh"
-      },
-      "artists": [
-        {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        }
-      ],
-      "duration_ms": 266396,
-      "name": "Te Tengo Que Olvidar",
-      "url": "https://open.spotify.com/track/1cFTuzXLHT6XS4PlT9wvZR"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "No Puedo Olvidarte",
         "url": "https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 331000,
       "name": "No Puedo Olvidarte",
       "url": "https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Rompiendo las Reglas de la Cumbia",
+        "url": "https://open.spotify.com/album/57D5brwOIybIORt38FflIh"
+      },
+      "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        }
+      ],
+      "duration_ms": 266396,
+      "name": "Te Tengo Que Olvidar",
+      "url": "https://open.spotify.com/track/1cFTuzXLHT6XS4PlT9wvZR"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "Soy Soltero",
-      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "Nuestra Historia Termino",
         "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 234140,
       "name": "Nuestra Historia Termino",
       "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "Soy Soltero",
+      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Tirate un paso",
-        "url": "https://open.spotify.com/album/5zoumKpJSJKb9efipfFxPm"
-      },
-      "artists": [
-        {
-          "name": "Los Wachiturros",
-          "url": "https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Tirate un paso",
-      "url": "https://open.spotify.com/track/4Bb0zvyxchESHX1gNyAfWN"
-    },
-    {
-      "added_at": "2023-01-17 14:46:17",
-      "album": {
         "name": "No Puedo Olvidarte Cumbia Rosa",
         "url": "https://open.spotify.com/album/5PV24BwsDo7SxdKpgJUn5n"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 285799,
       "name": "No Puedo Olvidarte Cumbia Rosa",
       "url": "https://open.spotify.com/track/5LU3NW5RIL1k2OCXwGNTrd"
+    },
+    {
+      "added_at": "2023-01-17 14:46:17",
+      "album": {
+        "name": "Tirate un paso",
+        "url": "https://open.spotify.com/album/5zoumKpJSJKb9efipfFxPm"
+      },
+      "artists": [
+        {
+          "name": "Los Wachiturros",
+          "url": "https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Tirate un paso",
+      "url": "https://open.spotify.com/track/4Bb0zvyxchESHX1gNyAfWN"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "Par-Tusa",
-        "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
+        "name": "CUMBIA DE BARRIO",
+        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
       },
       "artists": [
         {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
         }
       ],
-      "duration_ms": 190850,
-      "name": "Par-Tusa",
-      "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
+      "duration_ms": 181354,
+      "name": "CUMBIA DE BARRIO",
+      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
     },
     {
       "added_at": "2023-01-17 14:46:17",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-01-17 14:46:17",
       "album": {
-        "name": "CUMBIA DE BARRIO",
-        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
+        "name": "Par-Tusa",
+        "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
       },
       "artists": [
         {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
         }
       ],
-      "duration_ms": 181354,
-      "name": "CUMBIA DE BARRIO",
-      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
+      "duration_ms": 190850,
+      "name": "Par-Tusa",
+      "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
     },
     {
       "added_at": "2023-01-17 14:46:17",

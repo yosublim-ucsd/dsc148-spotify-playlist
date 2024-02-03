@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,134 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,133 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 33 | [The Lucky Ones](https://open.spotify.com/track/0htOaNZzBUZFd31Puajgbz) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Ice Queen](https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe) | 3:43 |
 | 34 | [I Feel so Good](https://open.spotify.com/track/1P7QsV7OG46lyLy85Mmd2v) | [Lurrie Bell](https://open.spotify.com/artist/4l8tDkcTwCBeLrQPk5lEU3) | [Blues in My Soul](https://open.spotify.com/album/6DnRYbXM7x4vBFcaAS8NWU) | 4:14 |
 | 35 | [Best in Town](https://open.spotify.com/track/5sPZH5scVV63witIumgJIa) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:55 |
-| 36 | [Show Me](https://open.spotify.com/track/4hNETR2geBfWVzGDe6Qmvn) | [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI), [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Times Have Changed](https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx) | 3:59 |
-| 37 | [Got Soul](https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL) | 3:32 |
+| 36 | [Got Soul](https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL) | 3:32 |
+| 37 | [Show Me](https://open.spotify.com/track/4hNETR2geBfWVzGDe6Qmvn) | [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI), [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Times Have Changed](https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx) | 3:59 |
 | 38 | [Good Time](https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 2:52 |
 | 39 | [Whoop And Holler](https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Stronger For It](https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA) | 2:36 |
 | 40 | [Outlaw Angel](https://open.spotify.com/track/6sxkNpFtNuK5q8ctf626Z1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Dirty Truth](https://open.spotify.com/album/0kzodLdXKTl9mbyAr5hFXW) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 49 | [Big Mama's Soul Food](https://open.spotify.com/track/2QWfbg05cUgoOBKHSZ5MeC) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Spider in My Stew](https://open.spotify.com/album/3ETwjRS1dAVbWVW39gm4ws) | 4:09 |
 | 50 | [Let The Good Time Party Begin](https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5), [Danielia Cotton](https://open.spotify.com/artist/50miJwBy3aOhmUFpyewX5t), [Sugar Blue](https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE) | [50 \- Just warming up !](https://open.spotify.com/album/25DudAOE7STeKctgnHdrvt) | 4:35 |
 
-Snapshot ID: `MCw2NzhkMWNkNzcxM2NhNDhlYzY2MTA3ZjRlM2M0ZmZlNDVkNzJlNTA2`
+Snapshot ID: `MCwzMDY3MjA5NWUzMTg1ZjJiMDJiN2U0NjExYTM4ZjhlYTBhYTc2NzE5`

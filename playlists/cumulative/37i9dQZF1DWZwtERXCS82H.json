@@ -700,7 +700,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 151000,
       "name": "Arabesque",
       "url": "https://open.spotify.com/track/5g5N4ckpykUenMgllmi4KD"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 172135,
       "name": "Caliesa",
       "url": "https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 156906,
       "name": "Close",
       "url": "https://open.spotify.com/track/5tUoI7u3zsCo9KCx5s3GQh"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 170991,
       "name": "Colorado Nights",
       "url": "https://open.spotify.com/track/6CTYTP3Kb3TKDLurnsPcOP"
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 139374,
       "name": "Dazzling Sun",
       "url": "https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo"
@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 159139,
       "name": "Dijon",
       "url": "https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB"
@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 128750,
       "name": "Egy ma\u0301sik nap",
       "url": "https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s"
@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 152000,
       "name": "En Croix",
       "url": "https://open.spotify.com/track/654q2B3IISzqGLze0GR9oC"
@@ -2876,7 +2876,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 135765,
       "name": "Eskilso",
       "url": "https://open.spotify.com/track/5Wn4IspBj6auYHTwsEKanx"
@@ -3045,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "Fading Memories",
+        "url": "https://open.spotify.com/album/7oGS56kXMWPPHV0wslzNPc"
+      },
+      "artists": [
+        {
+          "name": "Halgeir Nielsen",
+          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140977,
+      "name": "Fading Memories",
+      "url": "https://open.spotify.com/track/2Wl7eARO5COsvP4dNYDV9Q"
+    },
+    {
+      "album": {
         "name": "Fairfield",
         "url": "https://open.spotify.com/album/0OPzIpVpQ6uYoIOnB7Mwv8"
       },
@@ -3204,6 +3222,24 @@
       "duration_ms": 126374,
       "name": "Feeling Free",
       "url": "https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe"
+    },
+    {
+      "album": {
+        "name": "Felt Improvisations",
+        "url": "https://open.spotify.com/album/4hjtToG3IRrxVpfo6BiQaX"
+      },
+      "artists": [
+        {
+          "name": "Elias Kiefer",
+          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163812,
+      "name": "Felt Improv No. 10",
+      "url": "https://open.spotify.com/track/67821VRXVngHwGDcs2IKy3"
     },
     {
       "album": {
@@ -5656,7 +5692,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 161250,
       "name": "Lifting",
       "url": "https://open.spotify.com/track/2AjAdJGA7cdxtJwmTzWhqf"
@@ -6200,6 +6236,24 @@
       "duration_ms": 197710,
       "name": "Melancholic Waltz",
       "url": "https://open.spotify.com/track/0ViBAXDmsIDXIdCCClUwEJ"
+    },
+    {
+      "album": {
+        "name": "Mellow Moonlit Melody",
+        "url": "https://open.spotify.com/album/66C59BnUX617aAMbRux3Nu"
+      },
+      "artists": [
+        {
+          "name": "Giovanna Petrini",
+          "url": "https://open.spotify.com/artist/25Bpq4sqHbHT853VsYM9wb"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161391,
+      "name": "Mellow Moonlit Melody",
+      "url": "https://open.spotify.com/track/3f0kAErxdkQiZpXmTufdLd"
     },
     {
       "album": {
@@ -7964,7 +8018,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 147000,
       "name": "Purity",
       "url": "https://open.spotify.com/track/3nfhbwdfbK19V3vwRTAcoo"
@@ -8277,6 +8331,24 @@
     },
     {
       "album": {
+        "name": "Regarde les flammes danser",
+        "url": "https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131960,
+      "name": "Regarde les flammes danser",
+      "url": "https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi"
+    },
+    {
+      "album": {
         "name": "Seeme",
         "url": "https://open.spotify.com/album/5kvsE2Ojo0YkXeOa0A35bI"
       },
@@ -8450,7 +8522,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 167500,
       "name": "Rest",
       "url": "https://open.spotify.com/track/6qetTUm5h5LvvHCsALacJt"
@@ -8756,7 +8828,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 179500,
       "name": "Sanctum",
       "url": "https://open.spotify.com/track/35liU7bs2YbA1udhkERMok"
@@ -8936,7 +9008,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 127125,
       "name": "Seeds Of Life",
       "url": "https://open.spotify.com/track/5SGDHySVUTpk4fdjRvYGqB"
@@ -9224,7 +9296,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 170208,
       "name": "Shoreland",
       "url": "https://open.spotify.com/track/13jcWPcMR0plz1TlIaqqSR"
@@ -9344,6 +9416,24 @@
       "duration_ms": 162777,
       "name": "Silent Side",
       "url": "https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL"
+    },
+    {
+      "album": {
+        "name": "Silent Waltz",
+        "url": "https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg"
+      },
+      "artists": [
+        {
+          "name": "Alix Claude",
+          "url": "https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162968,
+      "name": "Silent Waltz",
+      "url": "https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys"
     },
     {
       "album": {
@@ -10773,6 +10863,24 @@
     },
     {
       "album": {
+        "name": "The Seventh Wave",
+        "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
+      },
+      "artists": [
+        {
+          "name": "Colias Fieldii",
+          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128088,
+      "name": "The Seventh Wave",
+      "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
+    },
+    {
+      "album": {
         "name": "The Slow Down",
         "url": "https://open.spotify.com/album/1SWBVisYgwJoj0e3Xiu0Db"
       },
@@ -11169,6 +11277,24 @@
     },
     {
       "album": {
+        "name": "Tranquil Landscape",
+        "url": "https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta"
+      },
+      "artists": [
+        {
+          "name": "Ametrine Skies",
+          "url": "https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Tranquil Landscape",
+      "url": "https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG"
+    },
+    {
+      "album": {
         "name": "Transnistria",
         "url": "https://open.spotify.com/album/7nEu7TPJYmOmvOvhG1mUf2"
       },
@@ -11342,7 +11468,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 136000,
       "name": "Tu me donne de la force",
       "url": "https://open.spotify.com/track/69ZVTxad3rNnwZPwMOk9yX"
@@ -11558,7 +11684,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 136548,
       "name": "Unsaid",
       "url": "https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc"
@@ -11774,7 +11900,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 195997,
       "name": "Verses",
       "url": "https://open.spotify.com/track/6t1T3fMWfv5svT4ZTsBnBY"
@@ -11990,7 +12116,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 188025,
       "name": "Water Lilly Pond",
       "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"

@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 11021625,
+  "2024-02-03": 11023317,
   "date_first_scraped": "2019-05-26",
   "description": "The biggest songs of the 2000s. ",
   "name": "All Out 2000s",
@@ -4831,7 +4831,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 245373,
       "name": "Human",
       "url": "https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"
@@ -6233,7 +6233,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 242053,
       "name": "L'Amour Toujours",
       "url": "https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE"

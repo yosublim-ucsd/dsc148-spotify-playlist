@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 
 > Músicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Dafé
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,127 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,148 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 66 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
 | 67 | [I'm Back for More](https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs) | [Al Johnson](https://open.spotify.com/artist/4FkXsXGJUTP1J32k3ZYiOA), [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Back for More](https://open.spotify.com/album/4QshQgkwrqisn6j9yJZ1qb) | 5:09 |
 | 68 | [Vidigal](https://open.spotify.com/track/4y2Va0sLjrmSb0iAovAkmP) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Gafieira Universal](https://open.spotify.com/album/38pRkmDsvQHMvkqIgvJyo3) | 3:37 |
-| 69 | [A Banda do Zé Pretinho](https://open.spotify.com/track/4jSiAZQpsA1mAS3RE0UHCo) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Banda do Zé Pretinho](https://open.spotify.com/album/2C94EAIFBPnTcq7z8Xj7oe) | 3:59 |
-| 70 | [Check My Machine \- Edit / Remastered 2011](https://open.spotify.com/track/6dtZuW3qCqBvY7oeKCzQF7) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 5:50 |
+| 69 | [Check My Machine \- Edit / Remastered 2011](https://open.spotify.com/track/6dtZuW3qCqBvY7oeKCzQF7) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 5:50 |
+| 70 | [A Banda do Zé Pretinho](https://open.spotify.com/track/4jSiAZQpsA1mAS3RE0UHCo) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Banda do Zé Pretinho](https://open.spotify.com/album/2C94EAIFBPnTcq7z8Xj7oe) | 3:59 |
 | 71 | [Got My Mojo Workin'](https://open.spotify.com/track/7i8YfqTfMuGrADrOQTigrb) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Got My Mojo Workin'](https://open.spotify.com/album/7M0FL4rB8lWBzMQXzyhuiO) | 8:02 |
 | 72 | [Congênito](https://open.spotify.com/track/7Kiw2eWnLpXmnKXKxpCcq0) | [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Maravilhas Contemporâneas](https://open.spotify.com/album/5xPNrY6HwxlqlLvpx0S9EA) | 3:32 |
 | 73 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 88 | [Central Do Brasil](https://open.spotify.com/track/6Cy5en1wAlQmvORoWYiWWK) | [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [Cuban Soul: 18 Kilates](https://open.spotify.com/album/2DTcOvJhcTPDoI0LU7zE18) | 3:41 |
 | 89 | [Attitudes](https://open.spotify.com/track/2wQHAiXNc8bDYppw0LQPMF) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [Greatest Hits](https://open.spotify.com/album/7vBTwTT9MZ2JLzY4yahWDS) | 3:30 |
 | 90 | [Guanabara](https://open.spotify.com/track/1by3i1h2a8G3trGaM8rh9M) | [Dom Salvador & Abolição](https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6) | [Série Samba Soul](https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A) | 3:11 |
-| 91 | [A Night to Remember \- Single Version](https://open.spotify.com/track/3LDefGtx6L0wV6u8zckjUu) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [A Night to Remember](https://open.spotify.com/album/3OYXhFsRdeQZHuFbL7amMc) | 3:31 |
-| 92 | [Be By My Side](https://open.spotify.com/track/4O4x7pnmLN6FuL0URk93Te) | [Dom Salvador](https://open.spotify.com/artist/2ETJpexAxlTPCT6BXHJG1w) | [Dom Salvador](https://open.spotify.com/album/3PQLOoW13TdcNDz8fECE9Q) | 2:47 |
+| 91 | [Be By My Side](https://open.spotify.com/track/4O4x7pnmLN6FuL0URk93Te) | [Dom Salvador](https://open.spotify.com/artist/2ETJpexAxlTPCT6BXHJG1w) | [Dom Salvador](https://open.spotify.com/album/3PQLOoW13TdcNDz8fECE9Q) | 2:47 |
+| 92 | [A Night to Remember \- Single Version](https://open.spotify.com/track/3LDefGtx6L0wV6u8zckjUu) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [A Night to Remember](https://open.spotify.com/album/3OYXhFsRdeQZHuFbL7amMc) | 3:31 |
 | 93 | [Next Time](https://open.spotify.com/track/6K0vaoIHGOY4o4UyvLTELW) | [Cricet](https://open.spotify.com/artist/5gFuCspg9TdorHHQwphjH2) | [The Best of Cricet Features, Vol\. 1](https://open.spotify.com/album/1pcUkw4u7GRNawJkW6whL1) | 4:32 |
 | 94 | [You Get Me Hot](https://open.spotify.com/track/1XUn3A0PDLqsJmP60U4cX6) | [Jimmy "Bo" Horne](https://open.spotify.com/artist/6jcPHv7qVfqysvBT7Jmn7K) | [Miami Soul, Funk & Disco Classics](https://open.spotify.com/album/6bK9iOVHZLQs2TEY6qZWLc) | 7:02 |
 | 95 | [Saltei De Banda](https://open.spotify.com/track/3mCVL0rQNg9MPVYVz5L1D7) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Talento](https://open.spotify.com/album/4WkoEpBTQaGUdtUHk1gOif) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 99 | [Ngiculela\-Es Una Historia\-I Am Singing](https://open.spotify.com/track/49jWPMEvoGPNRYSd4vEXSo) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:48 |
 | 100 | [Jhony](https://open.spotify.com/track/2w6y4oJAWTzoLuG7GnIlyb) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Disco Club](https://open.spotify.com/album/5D5OGW1c4enqcI9fqs1XWt) | 2:19 |
 
-Snapshot ID: `MCxlMzgyY2E3ZWI2ZmVmMzY5ODY0MTgwM2IwMzJhZmZkYmFjYTZlNzZm`
+Snapshot ID: `MCw4N2MxNzYzZGQzZWU1ZWMzYmMyYTAwMTQxYTA5OTdjZWIwMTdhMzNh`

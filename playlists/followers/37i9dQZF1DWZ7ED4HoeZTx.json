@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 117877,
+  "2024-02-03": 117932,
   "date_first_scraped": "2023-01-06",
   "description": "Your chill anime soundtrack. ",
   "name": "Slice of Life ",
@@ -111,6 +111,24 @@
       "duration_ms": 226843,
       "name": "Around the Corner",
       "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
+    },
+    {
+      "album": {
+        "name": "because",
+        "url": "https://open.spotify.com/album/3X5S24GPW8hFTfmR8QVyRG"
+      },
+      "artists": [
+        {
+          "name": "Tei",
+          "url": "https://open.spotify.com/artist/3TNWTnnvYHRFd4AwlX44s2"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272405,
+      "name": "because",
+      "url": "https://open.spotify.com/track/6A7ApLuakiDmKHtVn6Alpi"
     },
     {
       "album": {
@@ -309,7 +327,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 243600,
       "name": "Gaze",
       "url": "https://open.spotify.com/track/4Sn8gwLNyvWdVKANAOLEPU"
@@ -397,7 +415,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 224056,
       "name": "hikari no toriru",
       "url": "https://open.spotify.com/track/17kTyDRlOY3gLl1qNCC9B4"
@@ -473,7 +491,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 210612,
       "name": "know me...",
       "url": "https://open.spotify.com/track/2E5ysbHpbYGmJvwyhQubaG"
@@ -651,6 +669,24 @@
       "duration_ms": 213230,
       "name": "Next to you - from Parasyte",
       "url": "https://open.spotify.com/track/3iVvQHWCLGjfY3iFEwV9lO"
+    },
+    {
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
     },
     {
       "album": {
@@ -1055,6 +1091,24 @@
       "duration_ms": 272466,
       "name": "Where the Wind Blows",
       "url": "https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6"
+    },
+    {
+      "album": {
+        "name": "Why / Life",
+        "url": "https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250333,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0"
     },
     {
       "album": {

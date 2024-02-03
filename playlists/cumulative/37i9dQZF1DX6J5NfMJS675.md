@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-628 songs - 2 day 13 hr 27 min
+629 songs - 2 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Latex](https://open.spotify.com/track/7Lp0NobaOnTfqcHPjVXzA6) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Latex](https://open.spotify.com/album/3kjWRIgz8s6hTVx2PmvpI9) | 7:19 | 2021-07-10 | 2022-02-26 |
 | [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 | 2023-10-20 |  |
 | [Lehmann Club](https://open.spotify.com/track/0VkDJuw8fCuaLFRk8L7O3w) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [SYS01LEHMANNCLUB](https://open.spotify.com/album/3QiooDugj3219S5ftxD7L4) | 4:52 | 2020-06-30 | 2021-01-30 |
+| [Let's Begin](https://open.spotify.com/track/008Q1wg8oH594VO9XkolM8) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Let's Begin](https://open.spotify.com/album/3G95YugyYcr8ty6fIM1P5P) | 4:10 | 2024-02-02 |  |
 | [Liberty](https://open.spotify.com/track/7ACHeIO3dmqiR2NrD3oTzF) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Liberty](https://open.spotify.com/album/5X3xCHpz9IYIbvbaFbRYs6) | 5:17 | 2023-04-21 | 2023-06-24 |
 | [Life](https://open.spotify.com/track/1GYp3kFHxoFrtcLw3xP5Kb) | [Torsten Kanzler](https://open.spotify.com/artist/6ivd3NhMvn9EIN64Q3lqik) | [Life](https://open.spotify.com/album/3oFWAEjZo0ibl98n12NH2d) | 6:01 | 2023-12-22 | 2024-01-23 |
 | [Life Moves Fast](https://open.spotify.com/track/2qnLd7v8htk8uHQaoUecLs) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Life Moves Fast](https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW) | 3:53 | 2023-03-10 | 2023-07-16 |

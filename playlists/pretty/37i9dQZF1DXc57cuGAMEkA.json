@@ -1,18 +1,18 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002\u3042\u3044\u307f\u3087\u3093, USHER, Daniel Ceasar, Billy Joel and more! Cover: \u3042\u3044\u307f\u3087\u3093",
-  "num_followers": 101295,
+  "num_followers": 101355,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTRmZjA5Y2FjZDk2ZTIzNWNmOGZiNTA2ODYzYzgzODM2NjM4MmQ0",
+  "snapshot_id": "MCw0NzdlODhhMzY5YzM2MDcyMzAzOWZlZDZmN2ZjNGVlZjRjNDc1OTE5",
   "tracks": [
     {
       "added_at": "2024-02-02 01:41:07",
       "album": {
-        "name": "\u30ea\u30ba\u30e064",
-        "url": "https://open.spotify.com/album/5ItDzD0v8osJxkUrUCPLJs"
+        "name": "rhythm 64",
+        "url": "https://open.spotify.com/album/0dqofszfjI1qN76jWqFiyp"
       },
       "artists": [
         {
@@ -21,8 +21,8 @@
         }
       ],
       "duration_ms": 268980,
-      "name": "\u30ea\u30ba\u30e064",
-      "url": "https://open.spotify.com/track/74GJbmNHys47ZfdoQCySpM"
+      "name": "rhythm 64",
+      "url": "https://open.spotify.com/track/4KWMnXGQ4wCiDU1vP8uGVb"
     },
     {
       "added_at": "2024-02-02 01:41:07",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-02-02 01:41:07",
       "album": {
+        "name": "I GOT YOU",
+        "url": "https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 173240,
+      "name": "I GOT YOU",
+      "url": "https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx"
+    },
+    {
+      "added_at": "2024-02-02 01:41:07",
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
       },
@@ -291,6 +307,22 @@
       "duration_ms": 133983,
       "name": "Point Em Out (with DaBaby)",
       "url": "https://open.spotify.com/track/1oaV97SzklGWVLi9LdW4Hf"
+    },
+    {
+      "added_at": "2024-02-02 01:41:07",
+      "album": {
+        "name": "Sensei",
+        "url": "https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 118973,
+      "name": "Sensei",
+      "url": "https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi"
     },
     {
       "added_at": "2024-02-02 01:41:07",
@@ -1019,6 +1051,46 @@
     {
       "added_at": "2024-02-02 01:41:07",
       "album": {
+        "name": "WEATHERTEC",
+        "url": "https://open.spotify.com/album/5danpSUvfdLUQuEGEQszrD"
+      },
+      "artists": [
+        {
+          "name": "Tha Jointz",
+          "url": "https://open.spotify.com/artist/0J7djFMwBhnbgAN11Gggvg"
+        },
+        {
+          "name": "GOTU",
+          "url": "https://open.spotify.com/artist/14UuKo9McStiWxcOOPvczh"
+        },
+        {
+          "name": "JNK",
+          "url": "https://open.spotify.com/artist/7HYvkJOGJLSVOsyIxCJ4lY"
+        },
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/5qH4hGRUWoLtBVgMD0alcb"
+        },
+        {
+          "name": "JASS",
+          "url": "https://open.spotify.com/artist/4c25QyMjYv7MSQV24Qhofv"
+        },
+        {
+          "name": "WELL-DONE",
+          "url": "https://open.spotify.com/artist/5pBvGEECNZdaPCXcZGe8hQ"
+        },
+        {
+          "name": "KOH",
+          "url": "https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "WEATHERTEC",
+      "url": "https://open.spotify.com/track/0bfQxDoay4S828CTlELHLr"
+    },
+    {
+      "added_at": "2024-02-02 01:41:07",
+      "album": {
         "name": "This Is A Reminder That You Are Not Behind Your Face",
         "url": "https://open.spotify.com/album/3VcbVj4rqE1ICcd14Hp3La"
       },
@@ -1031,6 +1103,26 @@
       "duration_ms": 186800,
       "name": "Dopamine Detox",
       "url": "https://open.spotify.com/track/1L1EKS4V4fXLuXfOduyZ9t"
+    },
+    {
+      "added_at": "2024-02-02 01:41:07",
+      "album": {
+        "name": "KINEMA",
+        "url": "https://open.spotify.com/album/5bikiolrxKPQiFfPt7bdv8"
+      },
+      "artists": [
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        },
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Do or Die (ft. DPR IAN)",
+      "url": "https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo"
     },
     {
       "added_at": "2024-02-02 01:41:07",
@@ -1096,7 +1188,7 @@
       },
       "artists": [
         {
-          "name": "Bicep",
+          "name": "BICEP",
           "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],

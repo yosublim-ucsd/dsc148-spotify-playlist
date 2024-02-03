@@ -4,7 +4,7 @@
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 7 min
+55 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Be Free](https://open.spotify.com/track/3vm7gmgWsXY2e6UsVwSbZh) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:33 | 2023-11-10 |  |
 | [Bella Traicion](https://open.spotify.com/track/5eIsMbKPT1IJ0b0rdvgtlZ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:45 | 2023-11-10 |  |
 | [Boba Niña Nice \- Teenage Superstar](https://open.spotify.com/track/7oIXQNqGfaijrHJdyW52J1) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:00 | 2023-11-10 |  |
+| [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 | 2024-02-02 |  |
 | [Colorblind](https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Colorblind](https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw) | 3:25 | 2023-11-10 |  |
 | [Constantemente Mía](https://open.spotify.com/track/5UdcpI2rTqFz0xmATiXMXg) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Más Que Amor](https://open.spotify.com/album/3QaqLzZFTHXfIREgiHM4FX) | 4:05 | 2023-11-10 |  |
 | [Contigo Siempre](https://open.spotify.com/track/4hrKrgSeEil3uXvgouZLhd) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Laura Flores](https://open.spotify.com/artist/7HcfNDsEN1QvF3zUvf03OF) | [Silvana \- Cómplices Al Rescate](https://open.spotify.com/album/7Mn2dBHL97jRe7zyuAXcgc) | 2:54 | 2023-12-13 |  |

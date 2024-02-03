@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 
 > Toutes les nouveautés préférées de vos enfants\. Découvrez les nouvelles chansons favorites de la famille!
 
-[Spotify](https://open.spotify.com/user/spotify) - 570 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 570 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 32 | [La chouchou](https://open.spotify.com/track/5tK6HcRvSBjaV9DHnuOb8r) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 3:16 |
 | 33 | [Tout simplement](https://open.spotify.com/track/0PBk93EyJBctNlOTV7DZ2R) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Enfantillages 4 \(nouvelle édition\)](https://open.spotify.com/album/1ZWPMvFYSX5OPAuo06Sn0u) | 3:00 |
 | 34 | [C'est bon mais c'est pas bon](https://open.spotify.com/track/3mICivmX1jTJczvkBzMA4E) | [Zut](https://open.spotify.com/artist/6co5KIJVQRz4rE3MICmM1O) | [J'aime quand tu souris](https://open.spotify.com/album/0wxpkwIYmNr7G2JGMqBeBk) | 3:03 |
-| 35 | [Qu'est\-ce qu'on dit ?](https://open.spotify.com/track/5Sk8N81JHTtZRMtu3zmPJb) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 0:45 |
+| 35 | [Behhh !](https://open.spotify.com/track/0mIDfkO3ECnK3Hb7kDoFZl) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 2:44 |
 | 36 | [Différents](https://open.spotify.com/track/2lDC0u4QVDrNTEXMsfeh0T) | [BAB et les chats](https://open.spotify.com/artist/3LlW5HV7PUrapO8Zi41hKG) | [Au bonheur des mômes](https://open.spotify.com/album/7HriK4Z1qbySsEGtoRT9YS) | 2:37 |
 | 37 | [Même pas mal](https://open.spotify.com/track/3eQ7o1gJqfTkd6GgrlX0Kw) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:20 |
 | 38 | [C'est qui qui ?](https://open.spotify.com/track/17KU29ddpFt7Pz9ptp9KAD) | [Ego le cachalot](https://open.spotify.com/artist/1NUbfVDGaCGn7076nftqsX), [David Delabrosse](https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs) | [Super ego](https://open.spotify.com/album/4W0zJt6SU9faWpR7wB4UT2) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 49 | [J'ai trop la honte](https://open.spotify.com/track/2rWVBC9PyK87FScIXkVfWj) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:15 |
 | 50 | [J'm'aime pas comme papa](https://open.spotify.com/track/2I7yUaYJjpwLbuCzCwCsf6) | [David Delabrosse](https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs) | [Le modèle réduit de nos pensées](https://open.spotify.com/album/4uGe4qThtLqR6IZ3BYZKW3) | 3:09 |
 
-Snapshot ID: `MCw3YWI1MTQ3N2IzMTNlZmZhYTg4MTNlNzU3NmY1Y2FmYWY1NThlM2I4`
+Snapshot ID: `MCxjODUzMDAyNDdmNDFjZTkwMGRlZjExYzNlNjRmOTZiZGZmMTRjNDI4`

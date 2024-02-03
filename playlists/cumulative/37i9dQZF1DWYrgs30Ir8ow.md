@@ -4,7 +4,7 @@
 
 > Altijd fris in Fresh Hits\. Cover: Bilal Wahib & Zoë Tauran
 
-448 songs - 21 hr 32 min
+449 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Trust](https://open.spotify.com/track/309wfX4hjhywRlyknsgm8N) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Trust](https://open.spotify.com/album/6tsNIdt0wilaoDitknpvC7) | 2:52 | 2023-04-27 | 2023-05-26 |
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-02-23 | 2023-03-28 |
 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2023-12-08 | 2024-01-30 |
+| [Tuesday](https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Tuesday](https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn) | 2:54 | 2024-02-02 |  |
 | [U & Me \(feat\. Jonna Fraser & Spanker\)](https://open.spotify.com/track/0LivPTalooilNZTbxjlUzT) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Spanker](https://open.spotify.com/artist/6wMnkPepu5AcV3w9rtIw09) | [U & Me \(feat\. Jonna Fraser & Spanker\)](https://open.spotify.com/album/7kYkilr18uS2GmYW7ek4Ju) | 2:39 | 2023-10-16 | 2023-11-10 |
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-06-22 | 2023-08-04 |
 | [Undecided](https://open.spotify.com/track/67HfJMTt2jley2uzWzocKe) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Undecided](https://open.spotify.com/album/4rOBvkbMvjHEtQByHEUx4V) | 2:40 | 2024-01-29 |  |

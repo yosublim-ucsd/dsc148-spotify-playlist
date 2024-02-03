@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 
 > ¡Bienvenidos a La Tierra del Corrido! Historias que hacen historia\. Eden Muñoz, Los Tucanes de Tijuana y Fuerza Regida en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,964 likes - 152 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,170 likes - 152 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 | 151 | [Pescadores De Ensenada](https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:54 |
 | 152 | [El Corrido de Milo Vela](https://open.spotify.com/track/3zwBVTTefiTWLRerxC2fts) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [El Corrido de Milo Vela](https://open.spotify.com/album/0TkqWGLLhKA7Izw3sPpIq8) | 3:30 |
 
-Snapshot ID: `MCw2Mjc0ZjkwZjhiZDUyZmYwNTRkZDUwYmFlYzkzYzQ4YTAxNTk4ZDJi`
+Snapshot ID: `MCxiODNlMWYwMTcwM2NlNjdiMjc0ZTAzOTQ0ZDZlYzQwODgwNjYzNDg5`

@@ -1795,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "LA COLORADA",
+        "url": "https://open.spotify.com/album/6AcR4JanfYZfbneCfpNYG9"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "LA COLORADA",
+      "url": "https://open.spotify.com/track/7MGOmc1KMZvV0o8iuT8CgE"
+    },
+    {
+      "album": {
         "name": "Cumbia Villera",
         "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 193772,
       "name": "LA VICIOSA",
       "url": "https://open.spotify.com/track/6a6DGp3YBXG099asUf4yw5"
@@ -2496,7 +2514,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 193290,
       "name": "No Me Vuelvo a Enamorar - Remix",
       "url": "https://open.spotify.com/track/3UIGtbFXyXuGFZZrZtZvP0"
@@ -3054,7 +3072,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 193989,
       "name": "ROMPE",
       "url": "https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e"

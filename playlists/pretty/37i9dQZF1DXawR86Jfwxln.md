@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 
 > Our editors' picks for the best Folk & Americana songs this year\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,114 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,112 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 | 48 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:25 |
 | 49 | [Haunted Mountain](https://open.spotify.com/track/30wdssXWFKxYdG5KGZGRT9) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/0Dw5lEKTJgSULnuv7iYBKg) | 5:11 |
 | 50 | [Where My Wild Things Are](https://open.spotify.com/track/00iW38NhWmfTJ6oEDRhmEe) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Watch Out for the Wolf](https://open.spotify.com/album/65IhXgviKunwZuTCnb2UOY) | 3:57 |
-| 51 | [Lover's Game](https://open.spotify.com/track/6wUBlJVmVzIXbOsfJgd7Oh) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 2:49 |
+| 51 | [Lover's Game](https://open.spotify.com/track/6wUBlJVmVzIXbOsfJgd7Oh) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 2:49 |
 | 52 | [Georgia Walks](https://open.spotify.com/track/46ewa3Cu9oEqxNnh0LRWxs) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Georgia Walks](https://open.spotify.com/album/5NQ5yCqEPIP4BW3BPKXAmU) | 4:07 |
 | 53 | [Stay \(ft\. Gary Clark Jr.\)](https://open.spotify.com/track/7r2YYco2YLVoFzDhWEN1jx) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [SEA/SONS](https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ) | 3:51 |
 | 54 | [I've Got Me](https://open.spotify.com/track/4IUPYB1d0CDKWKNYQtl6g3) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [I've Got Me](https://open.spotify.com/album/3l3xPtGZXUcnQaNlpbjvR0) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 | 99 | [Go Down, Appalachia](https://open.spotify.com/track/5o4FPf6PxgN6HriyRdsY9h) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [North Georgia Rounder](https://open.spotify.com/album/5WD3kJqvqnnEGl3B2pVh2U) | 3:10 |
 | 100 | [Elsewhere](https://open.spotify.com/track/4YAtKBCcxo3GRoph3gg8rQ) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [The Happiest Times I Ever Ignored](https://open.spotify.com/album/11XMyarEmUmkEW1FabtEi9) | 5:28 |
 
-Snapshot ID: `MCwyODcyMmU2ZDk5ODRkNjcyYzAzOTVlYjFlZmY2YTQ5ZWEwOTcxODY0`
+Snapshot ID: `MCw4OTc3ZjY4Mjc2MjYxNmIxNjdkOTA2MWQxMWU2ODAwZGQ3MzdlYWY0`

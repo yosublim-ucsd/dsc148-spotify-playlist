@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Warren Zeiders
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,444 likes - 85 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,555 likes - 85 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 46 | [Hold On Hope \(with Eric Church\)](https://open.spotify.com/track/5wXfwmtAOe8Rv0WiSgFUW0) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hold On Hope \(with Eric Church\)](https://open.spotify.com/album/6B5cFxr38RU2w3FlAMRIhs) | 3:32 |
 | 47 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
 | 48 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 |
-| 49 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
+| 49 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
 | 50 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/6Y54zhe1RF8fbNGgX670Kg) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/3hDGygu7fiVEjuf04f2rz4) | 4:03 |
 | 51 | [Little More Country](https://open.spotify.com/track/33LP5EPvWMtjRGG2wn4NJf) | [Max Jackson](https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe) | [Little More Country](https://open.spotify.com/album/5BdwfjzRMHWaz3l0ZmXDXh) | 3:19 |
 | 52 | [Runnin' Outta Love](https://open.spotify.com/track/2P1uTsmeAdTBy1fl1cdYB8) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Poet’s Resumé](https://open.spotify.com/album/575dPLrl892d2TGGeZHDj8) | 2:54 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 84 | [This Town](https://open.spotify.com/track/0UaE4ZxrfU5TGpe4Luzf7W) | [Brittany Maggs](https://open.spotify.com/artist/7nhHQaEhJJWxz51Eey1hQ0) | [This Town](https://open.spotify.com/album/0JujBFz9ERfluY6AFqVkI9) | 3:05 |
 | 85 | [Somewhere In Mexico](https://open.spotify.com/track/6V1Lz4fHzpeQPkyA1OAVXs) | [Tori Darke](https://open.spotify.com/artist/2HzkV2TeZkSlipQVSHbzAj) | [Somewhere In Mexico](https://open.spotify.com/album/6epWsRvTYtr8LouzE0CLck) | 2:32 |
 
-Snapshot ID: `MCxlNjFmODA2ODNmZDJlNWQ2ZTJhYzRiZjM5ZDRmMzgxM2QwM2ZhYWZk`
+Snapshot ID: `MCxkZWVhZDA2NzkxY2E2MDAzMTc4MTk0ODk4ZDNhNGI0MTRlNzFlZTk4`

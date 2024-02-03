@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,447 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,450 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 47 | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/track/1tTzJnFVZVuGJyFWDXFdE2) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Don't Let Him Say Goodbye \- Demo](https://open.spotify.com/album/3h8zMEpUS5xqCMloCaTRuc) | 2:41 |
 | 48 | [Silver Lining](https://open.spotify.com/track/3aT88But3JPrDE5y7r7YQA) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Silver Lining](https://open.spotify.com/album/6kRzZnRbdKcnjozCn9S0B9) | 2:42 |
 | 49 | [Just In Time](https://open.spotify.com/track/0eNmYT9DInoQ5PvsYbbGjE) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Just In Time / Ahhhh \(This Isn’t Ideal\)](https://open.spotify.com/album/1362eyW4jUYS2f1S7euiGa) | 4:52 |
-| 50 | [daydream](https://open.spotify.com/track/00QssnWjPr673yUTv18Rth) | [Kwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [daydream](https://open.spotify.com/album/29zx5mG7UmY2D6azEQ3OIJ) | 3:01 |
+| 50 | [daydream](https://open.spotify.com/track/00QssnWjPr673yUTv18Rth) | [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [daydream](https://open.spotify.com/album/29zx5mG7UmY2D6azEQ3OIJ) | 3:01 |
 | 51 | [Movies](https://open.spotify.com/track/6MVpC6ETNiNj6CNtpO4BCz) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Movies](https://open.spotify.com/album/4KnDMKPK9lA84JHcRR5uR0) | 2:54 |
 | 52 | [Good Time](https://open.spotify.com/track/3xUJCZCQaCR6DxaTBSY8Go) | [Joan & the Giants](https://open.spotify.com/artist/3qO9p8T3FpAu5OhHV5P0G4) | [Good Time](https://open.spotify.com/album/67f2xHz3r2OOYXnl9l8vcg) | 3:28 |
 | 53 | [Motion Picture Soundtrack](https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Motion Picture Soundtrack](https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh) | 4:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [On The Way](https://open.spotify.com/track/0TvxrH69oDuV4k9NZAvs3l) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [On The Way](https://open.spotify.com/album/3H2v38YigQUXP24Yhq49YA) | 3:12 |
 | 80 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 
-Snapshot ID: `MCxmYjZjOTExZGYxOTMxMzc2ZTM1OTg1MjcxZjk1NDE3M2VmZjBkMDlm`
+Snapshot ID: `MCw5ZDRmYmJmYzM3ZTIwMDc4OWMzYWQ5OTY2M2IxNWQ3MTFiMmZkNzc5`

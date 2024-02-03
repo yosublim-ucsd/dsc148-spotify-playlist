@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Tizzo, Shreez, Le Ice, Salgrimo, Peeda
+> Le meilleur du hip\-hop québécois\. Photo: Loud, EDGE
 
-606 songs - 1 day 7 hr 10 min
+609 songs - 1 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Ciao](https://open.spotify.com/track/0aZLOxHw1ZeGYH3xDDywaO) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [O.Z](https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc) | [Ciao](https://open.spotify.com/album/61sqiWB2Mjp38tQYvwVg5B) | 3:57 | 2022-01-07 | 2022-04-16 |
 | [Ciao](https://open.spotify.com/track/25akJEUvfU5BrlpcEGn0Gl) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [O.Z](https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc) | [Dixque d'art](https://open.spotify.com/album/5fvUcupi73B843UBlMcRxS) | 3:57 | 2023-11-03 | 2023-11-13 |
 | [Cinq à sept](https://open.spotify.com/track/6XS5Qi2wUMgj88QdBXx69B) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [La Nuit des Longs Couteaux](https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX) | 3:28 | 2023-11-03 | 2023-11-13 |
-| [City](https://open.spotify.com/track/52bqJdZWUV9HsL2Na2vOD3) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [On frap la route?](https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE) | 2:43 | 2023-11-12 |  |
+| [City](https://open.spotify.com/track/52bqJdZWUV9HsL2Na2vOD3) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [On frap la route?](https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE) | 2:43 | 2023-11-12 | 2024-02-03 |
 | [COBAYE](https://open.spotify.com/track/2dqaIgv4BedNGfQZmYBtfc) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ), [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS) | [COBAYE](https://open.spotify.com/album/0VzpDVglsn7PAAc7A6QtzW) | 4:47 | 2022-05-27 | 2022-06-11 |
 | [Cobra Kai](https://open.spotify.com/track/7wfpL51ZlfBQ4nC0ynnLx7) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c), [Houdini Greatness](https://open.spotify.com/artist/7nCIEHWyuL1oX0jkgS0eqa) | [Cobra Kai](https://open.spotify.com/album/2kJ7GhSSi25OEz47vlioU6) | 3:05 | 2022-01-07 | 2022-05-14 |
 | [Coke Cowboys](https://open.spotify.com/track/4XNqghsgYsDRdODWHE7CBB) | [Dolfa](https://open.spotify.com/artist/4tYq6yvHUighhKUCd2WyUw), [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE), [Marlon](https://open.spotify.com/artist/7aG0VPVMhKj73bFRjNgAWr) | [Coke Cowboys](https://open.spotify.com/album/1eDel5luSCKr12uxQ2On2N) | 3:39 | 2022-01-28 | 2022-02-05 |
@@ -162,6 +162,7 @@
 | [Dans le futur](https://open.spotify.com/track/6XTgW6NZDwECU4ZMgEyoto) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Dans Le Futur](https://open.spotify.com/album/4EvjCGOF7KhSbYhO99H3qG) | 3:35 | 2022-12-23 | 2023-08-26 |
 | [Dans Mon Prime](https://open.spotify.com/track/0KfUo1t8ua38q9PNKEwRId) | [White Migz](https://open.spotify.com/artist/2HLKLDXuuQlYM5YxZ21rN8) | [Dans Mon Prime](https://open.spotify.com/album/4NiIcLGYk7ej0l1M2eKEEI) | 2:22 | 2022-09-30 | 2022-12-03 |
 | [Darling](https://open.spotify.com/track/0FQdlms2IMvx0p3AFN9ABg) | [Anglesh Major](https://open.spotify.com/artist/694TqKBJmHyxenLH517cwZ) | [Ephemere](https://open.spotify.com/album/1CYqUHOrM4xOlysWVtqqRl) | 2:51 | 2023-11-03 | 2023-11-13 |
+| [DBD](https://open.spotify.com/track/56w3BkZjlr0KXzCqJiQkfm) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [DBD](https://open.spotify.com/album/2hbQVixIQE1V4kashw9Q2P) | 2:05 | 2024-02-02 |  |
 | [De l'autre côté](https://open.spotify.com/track/2Z0ObzjhgPxZ3UwNgCCCxb) | [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA) | [De l'autre côté](https://open.spotify.com/album/1Vlp18zkHHRi1q85BBAnKb) | 2:49 | 2022-03-25 | 2022-04-23 |
 | [Death Note](https://open.spotify.com/track/5lK58jbXWVRXQ9EYvAWPse) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Death Note](https://open.spotify.com/album/2AVGEBmOIgBFwdtFLzARi4) | 2:47 | 2023-09-22 | 2023-12-09 |
 | [DEEP DAYS](https://open.spotify.com/track/6CuwozV7dcu1enmRuOIsTT) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [MMS 2.0](https://open.spotify.com/album/1frw85H7pUOeM2irhAhXaA) | 3:31 | 2022-11-25 | 2022-12-17 |
@@ -247,6 +248,7 @@
 | [Get that Thang](https://open.spotify.com/track/0mgVIOwMXlEKfCZ7W3vtt9) | [St\-Prince](https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC) | [Get that Thang](https://open.spotify.com/album/6b99vKjwOnTWLRHMuHsesG) | 1:52 | 2023-03-10 | 2023-07-15 |
 | [Ghetto génétik \(tome 5\)](https://open.spotify.com/track/0PBiAGRQoDkKj5yhaDwYOG) | [Dramatik](https://open.spotify.com/artist/5emIiPIHrSU5eP2dOd8Ksi) | [Le phénix, il était plusieurs fois](https://open.spotify.com/album/2kYY5eecpmLWrhsG6MRcIQ) | 2:30 | 2023-11-03 | 2023-11-13 |
 | [Ghini](https://open.spotify.com/track/00FJ5yEF2dIPNfU1HsYrc7) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Ghini](https://open.spotify.com/album/5OXJX7joS4bXunacsHcTTu) | 2:29 | 2023-03-10 | 2023-07-08 |
+| [Give It Up](https://open.spotify.com/track/7i80uzQZleCTVD7231iWTk) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Give It Up](https://open.spotify.com/album/0Mzb4ZfQ20WBClaXY3rkmx) | 3:03 | 2024-02-02 |  |
 | [GMM](https://open.spotify.com/track/11k61hv8iYNiOORNBR1AlH) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [GMM](https://open.spotify.com/album/533UTz0dq2rUvEXVjNMOhs) | 2:26 | 2023-05-12 | 2023-06-03 |
 | [GOD COMPLEX](https://open.spotify.com/track/7hKwyP2IULHzLwOildJdSo) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [GOD COMPLEX](https://open.spotify.com/album/3yeSTn4jXhZL7A27aZY4Eo) | 1:58 | 2023-11-12 | 2023-12-02 |
 | [GOD COMPLEX](https://open.spotify.com/track/0zkWMIIyfZWPOXnjZyKqR7) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [MAELSTRÖM](https://open.spotify.com/album/6EpLt7pH9qtQMxT3nmTEAl) | 1:59 | 2023-12-01 | 2023-12-09 |
@@ -406,6 +408,7 @@
 | [Nouvelle vague](https://open.spotify.com/track/0ifRyZfj9oysmVpXgKmlxT) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Nouvelle vague](https://open.spotify.com/album/0dEXddYdz0yGTLQjtH6TfM) | 3:47 | 2022-01-07 | 2022-06-04 |
 | [Nova](https://open.spotify.com/track/7upNugBM6AfbM77jKLgk95) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Nova](https://open.spotify.com/album/36y502QiSN08zEiF1ZQ7b5) | 2:31 | 2022-01-07 | 2022-04-16 |
 | [Noyé](https://open.spotify.com/track/6Q2UmYEhrFyQSe9PcKOz5b) | [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [Noyé](https://open.spotify.com/album/41qjVmiRONGjHzAnNBHaFW) | 3:34 | 2023-03-31 | 2024-01-27 |
+| [NRNTB\_XC40](https://open.spotify.com/track/2irF6A4W7Dqv4jObPXFHdw) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [NRNTB\_XC40](https://open.spotify.com/album/1U8DHe7YStB6cZIj5cIYXU) | 1:58 | 2024-02-02 |  |
 | [Numb](https://open.spotify.com/track/52MEjxii1qmETVwh17slLP) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O) | [Misstape](https://open.spotify.com/album/3xYE1CdN7wBFHQgo5SGJL8) | 1:50 | 2023-11-03 | 2023-11-13 |
 | [Né pour briller](https://open.spotify.com/track/0baAzE9vvmyskTXLLJZwBF) | [Ô\-lit](https://open.spotify.com/artist/5lo3DSr7YufiuRYqbazv0O), [Sammas](https://open.spotify.com/artist/66FI9N92GnfwesvrkYSsH0) | [Né pour briller](https://open.spotify.com/album/41QLCXAfO2q2gXssjBljpl) | 2:56 | 2023-08-25 |  |
 | [Ocean](https://open.spotify.com/track/1va4RVJYJkob1UzawrRciE) | [Ghostkid](https://open.spotify.com/artist/0gp1IzGVD4GH2jcQDLBjI5), [Wesbroom](https://open.spotify.com/artist/4dwK51pcchYNJULMvnhi0J) | [Ocean](https://open.spotify.com/album/4HjzruRhr5NzVakqcoCnSG) | 2:39 | 2022-01-07 | 2022-01-15 |
@@ -484,7 +487,7 @@
 | [Rien de moins](https://open.spotify.com/track/5o2DRtfBYlufpEgKrVJewh) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Rien de moins](https://open.spotify.com/album/29zusoGlreGGCT2f5wrjUG) | 2:54 | 2022-03-18 | 2022-05-20 |
 | [Rien à faire](https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:48 | 2023-07-14 | 2023-10-21 |
 | [Ring 3x](https://open.spotify.com/track/6w8joIVK7Bh4vD3QFq0959) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Ring 3x](https://open.spotify.com/album/16SrMJEC3LX9OJ3xZTbNCG) | 2:44 | 2022-09-02 | 2022-10-01 |
-| [RING RING](https://open.spotify.com/track/6Ya5EWkJfiCdwzEnl2K1kk) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [NRNTB\_ROSE](https://open.spotify.com/album/58fzZ8IZk3JZbxKcVeUZbk) | 2:08 | 2023-09-15 |  |
+| [RING RING](https://open.spotify.com/track/6Ya5EWkJfiCdwzEnl2K1kk) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [NRNTB\_ROSE](https://open.spotify.com/album/58fzZ8IZk3JZbxKcVeUZbk) | 2:08 | 2023-09-15 | 2024-02-03 |
 | [Risque](https://open.spotify.com/track/4jH3ztl0lHmltux05WwZTy) | [Jeekay](https://open.spotify.com/artist/38POyyW13rAIhFtElJXFwJ), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Risque](https://open.spotify.com/album/3fUq3cuqBk7NPJROi9XzHo) | 3:03 | 2022-05-13 | 2022-11-26 |
 | [Risques & Hustle](https://open.spotify.com/track/7nuQktBOm9j5mRox45CRKu) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Toujours pas mort \- E.P.](https://open.spotify.com/album/5Nr5o553FALmH6SQLmGCCe) | 3:47 | 2023-06-16 |  |
 | [Risqué](https://open.spotify.com/track/5jtT4TQqdgBUTHuM9zPuAr) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Risqué](https://open.spotify.com/album/4NCssbQeT9blbPPK05AYX5) | 2:39 | 2022-05-20 | 2022-12-24 |
@@ -541,7 +544,7 @@
 | [Tempête](https://open.spotify.com/track/2rqlwmRWHm56vpLboDAp6Y) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Tempête](https://open.spotify.com/album/5w1rhzcy6S7mXfEVSM6PtS) | 2:54 | 2023-04-21 | 2023-05-06 |
 | [Tension S](https://open.spotify.com/track/7mlAW4B88oQLCDLJfnMT09) | [Dextee](https://open.spotify.com/artist/2T0593JGcrLxhxTwHXaWiE) | [Tension S](https://open.spotify.com/album/2HAn3B2dgk6bkj3rHfOBQg) | 2:36 | 2023-06-02 | 2023-07-08 |
 | [Thank God](https://open.spotify.com/track/1G5HR5KwSAOdACXPGZOoCo) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Hood Olympics](https://open.spotify.com/album/0iqGtWPjeNmqJgSSMb6EG5) | 2:15 | 2023-08-11 |  |
-| [Thank You](https://open.spotify.com/track/3uznH3H5AMYT9HzziGXcUy) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Thank You](https://open.spotify.com/album/2nlFmpKBjFIlRbaJh5SLX8) | 3:31 | 2023-12-22 |  |
+| [Thank You](https://open.spotify.com/track/3uznH3H5AMYT9HzziGXcUy) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Thank You](https://open.spotify.com/album/2nlFmpKBjFIlRbaJh5SLX8) | 3:31 | 2023-12-22 | 2024-02-03 |
 | [The Top](https://open.spotify.com/track/0CGDrIdIsKucUtnkUFSK7b) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [TPL](https://open.spotify.com/album/3xASLbzCdazOv4wGh3oHmZ) | 3:02 | 2023-09-22 |  |
 | [Thème](https://open.spotify.com/track/1fhyZmvBwVrHZjRMlc6Rh1) | [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Thème](https://open.spotify.com/album/5xcBdCm3sYvoBRBf6Q6WPQ) | 2:18 | 2023-04-14 | 2023-06-17 |
 | [Tiffany](https://open.spotify.com/track/3bKLR7Mc0SNBTBuN8OYPrj) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Tiffany](https://open.spotify.com/album/3Dy3beQddT9J0cTFje1uay) | 3:37 | 2023-10-20 |  |

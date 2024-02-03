@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: S.H.E
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,774 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,837 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 49 | [身騎白馬](https://open.spotify.com/track/5ocA068mvMpA2GFPYQo670) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [徐佳瑩LaLa首張創作專輯](https://open.spotify.com/album/3swRaeU1n5aidOutReHHcO) | 5:13 |
 | 50 | [痴心絕對](https://open.spotify.com/track/0D0n4q2o54VTOmDJdL6ikY) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [痴心絕對](https://open.spotify.com/album/4QujlUn9OTLG4qFxMja90M) | 4:22 |
 
-Snapshot ID: `MCwxNzgyNjRjZjhjZjljYzVkZTMwNmM1ZGMwNTQ5Y2M0MGFmYjhjMTg5`
+Snapshot ID: `MCw4YWVhMThmOTFiY2FhMzA4OTk4OWQyNTc4ZjQ3MjQyZjg2MzAxNGRk`

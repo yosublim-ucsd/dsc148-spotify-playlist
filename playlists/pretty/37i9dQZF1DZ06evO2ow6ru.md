@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 
 > This is All Time Low\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,729 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,753 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 35 | [Ghost Story \(with All Time Low\)](https://open.spotify.com/track/2zgYAaDIic9iTLujB3FARq) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [HELLRAISERS, Part 2](https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb) | 2:47 |
 | 36 | [Dark Side of Your Room](https://open.spotify.com/track/0ergYUxazsLy0qWK3h0YJd) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Last Young Renegade](https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH) | 3:26 |
 | 37 | [Sleeping In](https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:00 |
-| 38 | [Crashed The Wedding 2.0](https://open.spotify.com/track/17vZdUGKVSMpg3pvi4Tmtn) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Greatest Hits 2.0 \(Guest Features Edition\)](https://open.spotify.com/album/2XWO1jEuigClyJgkMvk3rx) | 2:40 |
-| 39 | [Blinding Lights](https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Blinding Lights](https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm) | 3:13 |
+| 38 | [Blinding Lights](https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Blinding Lights](https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm) | 3:13 |
+| 39 | [Crashed The Wedding 2.0](https://open.spotify.com/track/17vZdUGKVSMpg3pvi4Tmtn) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Greatest Hits 2.0 \(Guest Features Edition\)](https://open.spotify.com/album/2XWO1jEuigClyJgkMvk3rx) | 2:40 |
 | 40 | [Dirty Laundry](https://open.spotify.com/track/7GZKme55JpmLq3alBDQm11) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Last Young Renegade](https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH) | 3:17 |
 | 41 | [Melancholy Kaleidoscope](https://open.spotify.com/track/1wQsTZ4AxGoXB9FmD9Nf4o) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 2:54 |
 | 42 | [Painting Flowers](https://open.spotify.com/track/5wlgcfDW3RLyGmiUr2S4Ld) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Painting Flowers](https://open.spotify.com/album/4CBEmsDLziXAfYtngeM8kz) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 49 | [Jasey Rae \(Acoustic\)](https://open.spotify.com/track/1LrjSX2lQ7CeLb611nmqi7) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Put Up or Shut Up \(Deluxe Version\)](https://open.spotify.com/album/3xuCwUsfeMX6roY0s9SSmJ) | 3:33 |
 | 50 | [Jenny I’m Sorry \(feat\. Alex Gaskarth From All Time Low\)](https://open.spotify.com/track/7gWkVS9Ku0zuzysPhFgK3w) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Alex Gaskarth](https://open.spotify.com/artist/5X0hXpGcJDZiGTpnGPWEm5), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Jenny I’m Sorry \(feat\. Alex Gaskarth From All Time Low\)](https://open.spotify.com/album/0ZXvlRSS2w4jN1t0JD1BJ8) | 2:51 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDA0ZDhjOTZhOGMxZjMwNzg0Njc1MDA4NTFmYzdlMTVhNA==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDA3ZGYzZjEwZGRmNTBjZWM4MjY2MDdiZDMyMjIzYTcwNw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/justinlaboy/">Justin LaBoy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,554 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,575 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 10 | [Back in Blood \(feat\. Lil Durk\)](https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5) | 3:04 |
 | 11 | [I Need a Girl \(Pt\. 2\) \[feat\. Loon, Ginuwine, Mario Winans\]](https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT), [Mario Winans](https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 4:45 |
 | 12 | [Act Up](https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:38 |
-| 13 | [Masterpiece](https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Masterpiece](https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby) | 3:01 |
-| 14 | [Cry Baby \(feat\. DaBaby\)](https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:17 |
+| 13 | [Cry Baby \(feat\. DaBaby\)](https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:17 |
+| 14 | [Masterpiece](https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Masterpiece](https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby) | 3:01 |
 | 15 | [Said Sum](https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Code Red](https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv) | 2:35 |
 | 16 | [Lemon Pepper Freestyle \(feat\. Rick Ross\)](https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 6:23 |
 | 17 | [One Wish](https://open.spotify.com/track/2TFsx3B0hLSSTambrudXs3) | [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0) | [Raydiation](https://open.spotify.com/album/6ZLE8nIut6t3CXt1dIpSh6) | 5:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 49 | [Black Men Don't Cheat \(feat\. Charlamagne tha God\)](https://open.spotify.com/track/07qrV60yRqp8ckQaI1jKfp) | [Lil Duval](https://open.spotify.com/artist/6YiHht3u7FFszle72kpbdQ), [Charlamagne Tha God](https://open.spotify.com/artist/6xWbtkHMXCQkmvYqSK8TZv) | [Black Men Don't Cheat \(feat\. Charlamagne tha God\)](https://open.spotify.com/album/71HFkoLVwaoO8eFaf0t7UG) | 2:51 |
 | 50 | [Stay Down \(with 6LACK & Young Thug\)](https://open.spotify.com/track/5PrUgp50eMSlL8oCF1tkQX) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Stay Down \(with 6LACK & Young Thug\)](https://open.spotify.com/album/6sj2rIjEotPclHMD1w3pZU) | 2:49 |
 
-Snapshot ID: `MCxkMGJiOWVlM2MzYzZiNTNlMWE0YjgyOWYwMWM3NDBlMDE0MjUxZGNk`
+Snapshot ID: `MCxlOTIwY2EzNTIwOGY3YTNiMjA0N2U0MWYwYjI2OTNhMDRmNmY3Zjdh`

@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195733,
+      "name": "Kaya",
+      "url": "https://open.spotify.com/track/2rahWhhubhQMhG6coo7Vu9"
+    },
+    {
+      "album": {
         "name": "Catch A Fire",
         "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
       },

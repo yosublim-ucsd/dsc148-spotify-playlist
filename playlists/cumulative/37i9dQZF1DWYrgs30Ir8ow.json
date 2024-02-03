@@ -8383,6 +8383,24 @@
     },
     {
       "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174433,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh"
+    },
+    {
+      "album": {
         "name": "U & Me (feat. Jonna Fraser & Spanker)",
         "url": "https://open.spotify.com/album/7kYkilr18uS2GmYW7ek4Ju"
       },

@@ -340,7 +340,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 132234,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/3w5U0L7t320RdJnkO2gZU5"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 263000,
       "name": "Construction In The Rain",
       "url": "https://open.spotify.com/track/69wCguC1RADMeZ0wB03JKy"
@@ -937,6 +937,24 @@
     },
     {
       "album": {
+        "name": "Far from Home",
+        "url": "https://open.spotify.com/album/7kzDzbLW70uIRk9ghYzJY6"
+      },
+      "artists": [
+        {
+          "name": "Gagdropers",
+          "url": "https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Far from Home",
+      "url": "https://open.spotify.com/track/5XoMpkkOf8BtXCQgjAVfOM"
+    },
+    {
+      "album": {
         "name": "find me",
         "url": "https://open.spotify.com/album/4fax9eSjZUijcXqMDfCxEd"
       },
@@ -952,6 +970,28 @@
       "duration_ms": 128118,
       "name": "find me",
       "url": "https://open.spotify.com/track/5qI8YB7bbbWkTh65Jh70vX"
+    },
+    {
+      "album": {
+        "name": "Free Soul",
+        "url": "https://open.spotify.com/album/6V2Its6p93Xm6ebPjox16s"
+      },
+      "artists": [
+        {
+          "name": "MoonCreek",
+          "url": "https://open.spotify.com/artist/5vojozk9HWm8gMdBoitA8F"
+        },
+        {
+          "name": "brass.beats",
+          "url": "https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Free Soul",
+      "url": "https://open.spotify.com/track/0XCN15yrRrPnyru5fGxmDI"
     },
     {
       "album": {
@@ -1932,7 +1972,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 133686,
       "name": "nefelibata",
       "url": "https://open.spotify.com/track/2kQkOf9qQ7s3Kp1FvIJrUH"
@@ -2309,6 +2349,42 @@
     },
     {
       "album": {
+        "name": "Cosmic Solitude",
+        "url": "https://open.spotify.com/album/1Kk2IqjOcR77jrGr2J1ThX"
+      },
+      "artists": [
+        {
+          "name": "Gagdropers",
+          "url": "https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "Stellar Explorer",
+      "url": "https://open.spotify.com/track/0DokpRqlN4t9zbLiYDWKei"
+    },
+    {
+      "album": {
+        "name": "Summer Purr",
+        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
+      },
+      "artists": [
+        {
+          "name": "Kissa Kat",
+          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Summer Purr",
+      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
+    },
+    {
+      "album": {
         "name": "Sundown Reflections",
         "url": "https://open.spotify.com/album/51g8wnW8XG4LcrsUYLuO9v"
       },
@@ -2612,7 +2688,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 144283,
       "name": "Waves",
       "url": "https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP"

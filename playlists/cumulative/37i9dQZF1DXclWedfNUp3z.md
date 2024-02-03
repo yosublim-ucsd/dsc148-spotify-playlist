@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-394 songs - 1 day 3 hr 0 min
+395 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Lost in Buenos Aires](https://open.spotify.com/track/3Q3sGHjw1FHPiIV5aNyAuX) | [TATSURO MURAKAMI](https://open.spotify.com/artist/0LFWj0uI5FspWoS9XiTxO1) | [The Sound of Living Things](https://open.spotify.com/album/63KvbVADYi7wwExsu2lUxe) | 4:25 | 2022-03-30 | 2022-07-19 |
 | [Lotus](https://open.spotify.com/track/3NZl1oPmj7RIJ3YeS5OLTF) | [Language of Lyrics](https://open.spotify.com/artist/7l76D4b9qcmJjIO5Me5tlC) | [Lotus](https://open.spotify.com/album/6Pff2efDPEKIOFn53REldJ) | 3:05 | 2021-10-20 | 2022-04-21 |
 | [Luna](https://open.spotify.com/track/2MEhiY4t1uYcq1MpkNzvWd) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [Luna](https://open.spotify.com/album/03VL92zMZKklDDcd5Js06l) | 6:06 | 2022-03-11 | 2024-01-05 |
+| [Make Me Feel Loved](https://open.spotify.com/track/1OgVtsBf3NDG1XvOpDaAWx) | [Juan Pablo Garcia Garcia](https://open.spotify.com/artist/2PjNvegzUcfzzUZjAOzRbA), [Juan Pablo Garcia](https://open.spotify.com/artist/7cjb7yHEV4SCYohr9q48Xd) | [Infinite Present](https://open.spotify.com/album/6Gx1dNtc2JOmqio0hi3f9q) | 3:47 | 2024-02-02 |  |
 | [Making Gardens Out of Silence](https://open.spotify.com/track/1WqVCOMjOOWjamob3A2DsK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 8:21 | 2022-11-12 | 2023-04-15 |
 | [Management Of Sorrows](https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6) | [Before Flags](https://open.spotify.com/artist/6qZr5jzAGYYWSWVvC4IBBN), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Chrys Jones](https://open.spotify.com/artist/4CHYSMGosrDC0PvydWgTO2), [Dylan Ellicott](https://open.spotify.com/artist/6D27nHBCZzRy7AOydwkonK), [Patrick Spatz](https://open.spotify.com/artist/7pwGeErkrXg5N40Cw8ytid) | [Mountains, Go](https://open.spotify.com/album/3ynwXohmbMQN0bhDPWw5U9) | 8:39 | 2022-01-07 | 2022-07-16 |
 | [Mandragora](https://open.spotify.com/track/2HNdhyCuwK8co2WJh5VvHT) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Vegetalia](https://open.spotify.com/album/4pbymaEC9lqpbnLoLvNspG) | 3:53 | 2021-10-20 | 2022-07-27 |
@@ -273,7 +274,7 @@
 | [Pure Water](https://open.spotify.com/track/7jrLokdbNspz0vKkSHqiJx) | [INFINITY](https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg) | [Relax](https://open.spotify.com/album/3OGKt5r1ic5lyflrEdtBVX) | 11:28 | 2021-10-20 | 2022-07-28 |
 | [Purpose.](https://open.spotify.com/track/7AQGxFft7GGhqWGCnQXtMq) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Purpose.](https://open.spotify.com/album/3iUUBlbgj5U6FaIwOkImoB) | 3:12 | 2022-04-07 | 2022-10-10 |
 | [rain scene pt\. 2](https://open.spotify.com/track/09lYsK8NUcKuaVtYJQ0gYo) | [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8) | [Image Tapes Vol\. 1](https://open.spotify.com/album/3yTXYqamF5Kq1FiGjPph0J) | 2:08 | 2021-10-20 | 2022-07-28 |
-| [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/1mYTnzuhrlxkfcqea2KEQp) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/1xLQFwcxKjXh0uEKeYCPBN) | 2:12 | 2021-10-20 |  |
+| [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/1mYTnzuhrlxkfcqea2KEQp) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/1xLQFwcxKjXh0uEKeYCPBN) | 2:12 | 2021-10-20 | 2024-02-03 |
 | [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/6f4acBjqPs80P0Ttnp1rN1) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/64eSZojU3zsDIdJGPbaR8M) | 2:12 | 2021-10-20 | 2022-07-08 |
 | [Redder Than The Moon](https://open.spotify.com/track/0BBpFwknocf5z2ydAkTjDd) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/2SmSHjiG0ri6sOSHUkhdWV) | 4:27 | 2021-10-20 | 2023-10-24 |
 | [Redder Than The Moon](https://open.spotify.com/track/0BaMCfGFqKWdy1twJsYueE) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/7r0xrhFh0z7HYziylKYSya) | 4:27 | 2021-10-20 | 2023-05-14 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 420870,
+  "2024-02-03": 420975,
   "date_first_scraped": "2022-01-01",
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
   "name": "Smooth Jazz",
@@ -3281,7 +3281,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 289356,
       "name": "Romance The Rain",
       "url": "https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW"
@@ -4183,7 +4183,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 241480,
       "name": "Three Dee",
       "url": "https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77"

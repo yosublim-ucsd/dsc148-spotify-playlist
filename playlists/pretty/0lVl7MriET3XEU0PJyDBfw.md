@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Houseium&\#x27;s BANGIN HOUSE is full of high energy house music! 📲 TikTok &amp; IG: @houseium \[dm for inquiries\]
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,124 likes - 55 songs - 2 hr 52 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,124 likes - 56 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,6 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 53 | [Rhythm Machine](https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Rhythm Machine](https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV) | 3:07 |
 | 54 | [Cat Walk](https://open.spotify.com/track/6XFtkaLDZ2bfM1E3ZRlXlV) | [GREEDO](https://open.spotify.com/artist/3yu7ddRCRTmHlxmz7NWO0c) | [Closer](https://open.spotify.com/album/7j2qe7cR8GY1MGzJPsUo4S) | 5:30 |
 | 55 | [Control](https://open.spotify.com/track/4NLF0XgMRCT6ARMhuSIL1y) | [Pavarino](https://open.spotify.com/artist/2Fpae9iRbR4yJa3hScKIO2) | [Control](https://open.spotify.com/album/4zhVHvYUGAuyZnsSzZmtr2) | 2:51 |
+| 56 | [Nonstop](https://open.spotify.com/track/47tijquLiTrK9e88AqncdG) | [NUVZ](https://open.spotify.com/artist/4fpIbSptfUs03L8woqtSPE), [NETWERK](https://open.spotify.com/artist/5NcQH0KEEAwdMYKZr6o7Go) | [Nonstop](https://open.spotify.com/album/3wQhNBJyysFXnNeEnTZPC5) | 3:50 |
 
-Snapshot ID: `NjE0Niw0ZjlhYzIyY2QwNGI5NjVjM2VjNTA0NDE3ZmFiZGMxZjRlNDg3ZGU4`
+Snapshot ID: `NjE0NyxlMjUzZThhMTYyYjQ4ZGIwNWQyOTliNmIzNTc0MzM5YjAwZDQwYjMz`

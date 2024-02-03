@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 77602,
+  "2024-02-03": 77716,
   "date_first_scraped": "2023-03-30",
   "description": "New Hip Hop from India.",
   "name": "Taaza hai bro!",
@@ -3444,6 +3444,24 @@
     },
     {
       "album": {
+        "name": "OK Report",
+        "url": "https://open.spotify.com/album/1HEcrEyGSgO0mh2OFgBtTI"
+      },
+      "artists": [
+        {
+          "name": "Fotty Seven",
+          "url": "https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141795,
+      "name": "OK Report",
+      "url": "https://open.spotify.com/track/1zX6pzlaHvuxnBxGfJqUi1"
+    },
+    {
+      "album": {
         "name": "Online",
         "url": "https://open.spotify.com/album/4ujgEUB3UANgxVK9LF7Ib9"
       },
@@ -4385,7 +4403,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 174327,
       "name": "Trapstar",
       "url": "https://open.spotify.com/track/5lRhFabauMO4fKoNk7wkoW"

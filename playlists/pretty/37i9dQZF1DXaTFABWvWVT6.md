@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,790 likes - 44 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,815 likes - 44 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 25 | [You Never Take Me Dancing](https://open.spotify.com/track/4pUen16NDnHuTTwhFKnRDM) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [You Never Take Me Dancing](https://open.spotify.com/album/4aEINAY37QrEjuUM0xxGVP) | 5:46 |
 | 26 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4) | 3:34 |
 | 27 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 |
-| 28 | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 |
-| 29 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
+| 28 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
+| 29 | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 |
 | 30 | [On & On](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [On & On](https://open.spotify.com/album/1HaIedqKyxg6wI24PEQfHi) | 2:35 |
 | 31 | [Ya Just Need 2 Believe in Yaself](https://open.spotify.com/track/3u1hU4L9HLGBjcj1nQekIv) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [4MYPPL\#1](https://open.spotify.com/album/3jHf5zZ8d5MQg03YyfTa2I) | 7:02 |
 | 32 | [So U Kno](https://open.spotify.com/track/1YGxSgWIWqxKuLLocPVxhC) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 5:43 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 43 | [Midtown Playground](https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Midtown Playground](https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K) | 3:42 |
 | 44 | [Fingerprints](https://open.spotify.com/track/15oT4PGAtcWflYCVUCtkug) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Fingerprints](https://open.spotify.com/album/4ABIVST2di5nUzxsT0EZtb) | 3:48 |
 
-Snapshot ID: `MCxiNzEzNjE1N2VjYTg4Yzk0MmUyODAzMjQ0NmQ3MzNjN2RiMWViODA5`
+Snapshot ID: `MCw3MjhmYTk4MDNmYjI0MGNjMzMzN2VhYTg0MzQwNDJjM2YwNWZjZjY0`

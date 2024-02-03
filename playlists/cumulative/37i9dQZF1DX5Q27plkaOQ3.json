@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 196713,
       "name": "24/7",
       "url": "https://open.spotify.com/track/252xDqb6Td8BCFqvX3QmM7"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 133714,
       "name": "A Brief Tutorial On Dubstep Production - Kayzo Remix",
       "url": "https://open.spotify.com/track/2mHY0y8Gw7dtsTYHX7fjvy"
@@ -126,7 +126,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 169663,
       "name": "ABRACADABRA",
       "url": "https://open.spotify.com/track/6Xdh9gHP0JJAEFQbz60PKf"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 198400,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/5ejKUS1gyCQlizpaYYk7uO"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 152275,
       "name": "Ballistic",
       "url": "https://open.spotify.com/track/7e2jCNE483Zu2CVOTw8Yhy"
@@ -1700,6 +1700,28 @@
       "duration_ms": 180800,
       "name": "Catchin A Vibe - Original Mix",
       "url": "https://open.spotify.com/track/6LtPtA337boR9e4bBDuBht"
+    },
+    {
+      "album": {
+        "name": "Ceremony",
+        "url": "https://open.spotify.com/album/4zgCfMqcRlSSYBd6hABwlm"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/6kPi7wWjP3OCnLrolHJeHQ"
     },
     {
       "album": {
@@ -2559,6 +2581,28 @@
     },
     {
       "album": {
+        "name": "Dinosaurs From Outer Space",
+        "url": "https://open.spotify.com/album/5TY2VVHA8ocgtxYZWnrkeD"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164714,
+      "name": "Dinosaurs From Outer Space",
+      "url": "https://open.spotify.com/track/2WiYG2Dgfqft21PBbF4Lxm"
+    },
+    {
+      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/4zPaHY0Q3lKzH151iHPL9A"
       },
@@ -2596,6 +2640,28 @@
       "duration_ms": 156431,
       "name": "Disobey",
       "url": "https://open.spotify.com/track/6woe2jQjDfEpFK2JhC4rLk"
+    },
+    {
+      "album": {
+        "name": "DISSOCIATED",
+        "url": "https://open.spotify.com/album/4VjxrtZum6Xgd0oaKCVbEh"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "Tima Dee",
+          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174620,
+      "name": "DISSOCIATED",
+      "url": "https://open.spotify.com/track/6cDohxbH1DdNeBQpDnRs2T"
     },
     {
       "album": {
@@ -3054,7 +3120,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 233141,
       "name": "Elite",
       "url": "https://open.spotify.com/track/3At9iZJpHFkIsVFO4IKe4u"
@@ -3330,7 +3396,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 320853,
       "name": "Fall Apart",
       "url": "https://open.spotify.com/track/0o4nOUsrcHCKMu74kUlxDS"
@@ -4660,7 +4726,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 240000,
       "name": "Human",
       "url": "https://open.spotify.com/track/04zVcQYcV9iPQVsQVVDkKD"
@@ -4704,7 +4770,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 189342,
       "name": "Hyperdrive",
       "url": "https://open.spotify.com/track/0MAz9ic5HYosDQIjdKUDjX"
@@ -5330,7 +5396,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 355364,
       "name": "Kill to Feel",
       "url": "https://open.spotify.com/track/4hSCaNNtzVlek62PCmsti5"
@@ -5596,7 +5662,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 231724,
       "name": "Let That Go",
       "url": "https://open.spotify.com/track/2NX8NP9hZ0Cl97jrmgxJh6"
@@ -5782,7 +5848,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 258775,
       "name": "Love You Like That - Hekler Remix",
       "url": "https://open.spotify.com/track/1fcnrUWCAs9hTflVrnJYs4"
@@ -5898,7 +5964,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 259150,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/6647nIIdCk4bIhgAowggN3"
@@ -5942,7 +6008,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 214285,
       "name": "Meant To Be Lonely",
       "url": "https://open.spotify.com/track/2VaOJEHR9U3Q6SlG8TZN5j"
@@ -6410,7 +6476,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 230425,
       "name": "Never Be The Same (feat. Sara Benyo)",
       "url": "https://open.spotify.com/track/14wlTKn3ZZoIO1jk3OHDWH"
@@ -6542,6 +6608,28 @@
       "duration_ms": 202285,
       "name": "NO LOVE",
       "url": "https://open.spotify.com/track/3x9RokAqos6LqGni4E0TyB"
+    },
+    {
+      "album": {
+        "name": "No Man's Land",
+        "url": "https://open.spotify.com/album/3GXvMlbnXFqM8TwtWmQlr8"
+      },
+      "artists": [
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        },
+        {
+          "name": "HURTBOX",
+          "url": "https://open.spotify.com/artist/7rGhKsxlC6oLrCZmvh9rX6"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "No Man's Land",
+      "url": "https://open.spotify.com/track/3nALdbtF15cI6X8BC4b1vP"
     },
     {
       "album": {
@@ -6861,6 +6949,28 @@
     },
     {
       "album": {
+        "name": "Open Up The Pit",
+        "url": "https://open.spotify.com/album/1spoWWUkfqNTdZwiVwvV0a"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "OG Nixin",
+          "url": "https://open.spotify.com/artist/6AzehpPyhn3Qrwg6pQfPXz"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Open Up The Pit",
+      "url": "https://open.spotify.com/track/3MkqqXYys0qI4dMuHnSYXa"
+    },
+    {
+      "album": {
         "name": "The Archives",
         "url": "https://open.spotify.com/album/4zCDRA2KaDa8UdX8GgeOil"
       },
@@ -6916,7 +7026,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 316734,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/0UNpHzs0Sm29tiIl6Wq6RN"
@@ -7238,7 +7348,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 280123,
       "name": "POETIC PIT",
       "url": "https://open.spotify.com/track/2vvpJ7CJ80THGG8gLDGxug"
@@ -8102,7 +8212,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 186625,
       "name": "Riot - Kompany Remix",
       "url": "https://open.spotify.com/track/74tFYoNHmTSQ9z3rhGKD0X"
@@ -8146,7 +8256,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 160271,
       "name": "ROBOTS",
       "url": "https://open.spotify.com/track/4vlTbBs0C5Q0oqRMz2UZqa"
@@ -10026,7 +10136,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 276800,
       "name": "The Blood (VIP)",
       "url": "https://open.spotify.com/track/4QwU0k7uWf4yG104CAEsCv"
@@ -10254,7 +10364,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "The Uncrowned King",
       "url": "https://open.spotify.com/track/6S0HcckkiDavLekQGotRSM"
@@ -10324,6 +10434,28 @@
       "duration_ms": 225600,
       "name": "Thermos",
       "url": "https://open.spotify.com/track/7rRMDmpE2mafOZwMtIyEe4"
+    },
+    {
+      "album": {
+        "name": "Thicc Boi Mega VIP",
+        "url": "https://open.spotify.com/album/5EMXlmp3WKweMXx43ikNFL"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212686,
+      "name": "Thicc Boi Mega VIP",
+      "url": "https://open.spotify.com/track/7DIzQTojGTUqP7cxwZnp48"
     },
     {
       "album": {
@@ -10438,6 +10570,28 @@
       "duration_ms": 156800,
       "name": "TILL I DIE (feat. Kanin)",
       "url": "https://open.spotify.com/track/7l0isAHLcKGHnEuHblcyvx"
+    },
+    {
+      "album": {
+        "name": "TIMES UP",
+        "url": "https://open.spotify.com/album/51OOuBBeusgoB5bfPD9TxC"
+      },
+      "artists": [
+        {
+          "name": "Chassi",
+          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
+        },
+        {
+          "name": "VLCN",
+          "url": "https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "TIMES UP",
+      "url": "https://open.spotify.com/track/1Hg1K7h5qzi35JlijZSF4A"
     },
     {
       "album": {

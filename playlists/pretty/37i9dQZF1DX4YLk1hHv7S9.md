@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YLk1hHv7S9.md) - [plain]
 
 > Sweet acoustic love songs for the perfect day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,972 likes - 86 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,986 likes - 86 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YLk1hHv7S9.md) - [plain]
 | 37 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 |
 | 38 | [La Vie En Rose](https://open.spotify.com/track/3PV8uIQnxD4Qiimn3x6PVr) | [Emily Watts](https://open.spotify.com/artist/2xlXhojRv11o5sWDjOx8lp) | [La Vie En Rose](https://open.spotify.com/album/3J0bVl3H4NtLL64ghrER4r) | 2:37 |
 | 39 | [Lucky](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 3:09 |
-| 40 | [A Thousand Years](https://open.spotify.com/track/1QUpqu8865jfasDr8M3IKN) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP) | 4:45 |
+| 40 | [a thousand years](https://open.spotify.com/track/1QUpqu8865jfasDr8M3IKN) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP) | 4:45 |
 | 41 | [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 |
 | 42 | [Hold You in My Arms](https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 5:06 |
 | 43 | [Shake the Frost \(Live\)](https://open.spotify.com/track/19MkwMrRjO7773zpuGss1o) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Live on Red Barn Radio I & II](https://open.spotify.com/album/7lf0m3iNU59X4r8udCQcB6) | 2:55 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YLk1hHv7S9.md) - [plain]
 | 85 | [Come Rain or Come Shine](https://open.spotify.com/track/0EXNymkEOQIjd8ycSUT8yH) | [David Francey](https://open.spotify.com/artist/11NyMIq0N1ozgqhwdAdWIK) | [Skating Rink](https://open.spotify.com/album/0p8hnqZ7s7G3amuwO18hMY) | 3:00 |
 | 86 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 |
 
-Snapshot ID: `MCwzMmFhYjk1ODMxZWQ3NmI1ZjA3NTcyNThkZGZiN2Q5ZTMzMjZjMDhj`
+Snapshot ID: `MCw5MTQ3MmRmYmU4MDU0NTAzZWIxZmIxNDQyOGQ4ZDI2Mzc5MTEyMDU0`

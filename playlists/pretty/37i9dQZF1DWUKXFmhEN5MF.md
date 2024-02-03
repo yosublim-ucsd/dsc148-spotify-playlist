@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKXFmhEN5MF.md) - [plain]
 
 > Songs to make your Zumba workout extra fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,947 likes - 50 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,953 likes - 50 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKXFmhEN5MF.md) - [plain]
 | 49 | [Garmi Non Stop Dance Mix](https://open.spotify.com/track/4mPjS5YqJUgOEnTnvFpxEt) | [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Vishal](https://open.spotify.com/artist/1xX0K9yaCUHVyVLCVfUAnw), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Nitin Mukesh](https://open.spotify.com/artist/4ec676jWgAuvEZZg0y7dBy), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Mehul Vyas](https://open.spotify.com/artist/4kTETBi8QdOwlpIuPHdSAj), [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Bombay Rockers](https://open.spotify.com/artist/1bLQBuSop3ekE5Qustj5nP), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Kedrock](https://open.spotify.com/artist/7D2MUg2cnFbZnHzedomxwb), [Sd Style](https://open.spotify.com/artist/64DWU48XFNJjT0wZ7xyl1X) | [Garmi Non Stop Dance Mix](https://open.spotify.com/album/1oc4SRv18XW3av2cppOLtq) | 1:00:00 |
 | 50 | [Proper Patola](https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Namaste England \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qokplIH6RyEbm9Q2DiBQB) | 2:58 |
 
-Snapshot ID: `MCw2ZDAyYTc2MGEyYWM3ZTA1MThiZGE3NDQ3NzYwYzQ4MjdmYzg5ODdk`
+Snapshot ID: `MCwxOTVjZDFlNWEwYWFjZjQ4MDJiZWNhNzEzMzQyMDYzODIyODFhYzhi`

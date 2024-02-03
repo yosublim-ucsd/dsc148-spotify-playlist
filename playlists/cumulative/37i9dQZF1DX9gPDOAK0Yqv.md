@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-436 songs - 1 day 12 hr 33 min
+437 songs - 1 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Head In The Ocean](https://open.spotify.com/track/77jAFxvaAYalxQsAjegc0i) | [FoundSound](https://open.spotify.com/artist/4kcQyzzr1khNtD4LhXmUBp) | [Head In The Ocean](https://open.spotify.com/album/4swIW4PM47efBmMIxm9oGa) | 4:04 | 2023-07-21 |  |
 | [Head Over \- Diode Eins & David Hasert Remix](https://open.spotify.com/track/4ow8LhtX2K6h54ZgGBIgJ4) | [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk), [Diode Eins](https://open.spotify.com/artist/6SDn6pAFOILXizOex6vrRr), [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d) | [Head Over \(Diode Eins & David Hasert Remix\)](https://open.spotify.com/album/3VIgQXLAvIkhLx7USVsJlQ) | 5:54 | 2023-06-09 | 2023-07-09 |
 | [Hear you calling](https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Vintage Culture & Friends, Vol\. 5](https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI) | 3:34 | 2023-05-12 |  |
+| [Hera \- Radio Edit](https://open.spotify.com/track/0jKXCKiiW0HBsWVJSrg713) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Hera](https://open.spotify.com/album/6jY3lRLOJoWlCV6LCHjY5y) | 3:25 | 2024-02-01 |  |
 | [Hera \- Radio Edit](https://open.spotify.com/track/3vvI4AgjiuPerFxIkhLxXy) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Hera](https://open.spotify.com/album/7zCZCLV0eO0TPCxl3iFobd) | 3:25 | 2023-10-13 | 2024-01-21 |
 | [Herasphere](https://open.spotify.com/track/2Rfw4Uk6CWclegfJZXgNx0) | [Product of us](https://open.spotify.com/artist/3i96K8H7eWV10ieGS2I6w6) | [Herasphere](https://open.spotify.com/album/5PaHjPzBfVsLTNAuaywDhJ) | 3:46 | 2022-12-28 | 2023-01-06 |
 | [Here To There](https://open.spotify.com/track/3IXXrC5AFX7YWTbt39WHZn) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Here to There](https://open.spotify.com/album/7wReVYJJ4QR2gldrWDkzAJ) | 5:59 | 2022-11-24 | 2022-12-07 |
@@ -198,7 +199,7 @@
 | [It's All Good](https://open.spotify.com/track/6QqWR8fmdwG6rfgxwFHcrI) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [It's All Good](https://open.spotify.com/album/2auTyTFkBTYDIQwQKLz8l4) | 3:31 | 2023-12-08 | 2024-02-02 |
 | [Jai](https://open.spotify.com/track/0I2SMryhYP1uu2RyGW8Egs) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [N1RVAAN](https://open.spotify.com/artist/1LhuBvyi63MWrNF5aBG9lA) | [Jai](https://open.spotify.com/album/4VoSGRyNmId6BOgNF6wcEE) | 5:39 | 2023-12-08 | 2024-01-13 |
 | [Katania](https://open.spotify.com/track/1RkMowNCyx8JDl2NAzmSOl) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Katania](https://open.spotify.com/album/6jaUFnMIk0TI6DaF1AoIEn) | 3:27 | 2023-08-04 | 2023-10-15 |
-| [Katania](https://open.spotify.com/track/6Q9KTkBgjAPBuUmvUYcVDK) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Katania](https://open.spotify.com/album/0F3M1uo7uOGNvxtRx9OudU) | 3:27 | 2023-10-27 |  |
+| [Katania](https://open.spotify.com/track/6Q9KTkBgjAPBuUmvUYcVDK) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Katania](https://open.spotify.com/album/0F3M1uo7uOGNvxtRx9OudU) | 3:27 | 2023-10-27 | 2024-02-03 |
 | [KEEP ME IN YOUR MIND \- Einmusik Remix](https://open.spotify.com/track/1M3CJIRObczFPT529PyzMy) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [KEEP ME IN YOUR MIND \(Einmusik Remix\)](https://open.spotify.com/album/7uJQ17FKSVFfty0wsa4AMb) | 6:29 | 2023-03-10 | 2023-05-13 |
 | [Ketuvim \- Ae:ther Remix](https://open.spotify.com/track/2JSxvwyyxTh2c1YKa0kuTe) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Ketuvim \(Ae:ther Remix\)](https://open.spotify.com/album/1xPCM1ml3ZePp58ard2AQV) | 8:23 | 2022-11-23 | 2022-12-21 |
 | [KIDS](https://open.spotify.com/track/4Io7cOXbdkbFBXlPD79IjX) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh) | [KIDS](https://open.spotify.com/album/7D98JwctKq2YRCuYXyEjql) | 2:48 | 2023-03-21 | 2023-04-09 |

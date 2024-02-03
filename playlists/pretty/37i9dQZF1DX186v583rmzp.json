@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8342659,
+  "num_followers": 8344815,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjZmMTcxOGY1M2NlNDQ3MDRjZmEyNjI4ODdlZDU1Njg5YTQzODE4",
+  "snapshot_id": "MCxhODBlOWYzMWFhNTcxNDE1M2QxNDRhMGJkY2NkOWFiMzdiNTJkZmYy",
   "tracks": [
     {
       "added_at": "2024-01-26 08:36:28",
@@ -419,30 +419,18 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
-        "name": "The Score (Expanded Edition)",
-        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
+        "name": "Illmatic",
+        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
       },
       "artists": [
         {
-          "name": "Fugees",
-          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        },
-        {
-          "name": "Pras",
-          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 226986,
-      "name": "Ready or Not",
-      "url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp"
+      "duration_ms": 293973,
+      "name": "N.Y. State of Mind",
+      "url": "https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo"
     },
     {
       "added_at": "2024-01-26 08:36:28",
@@ -491,18 +479,30 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
-        "name": "Illmatic",
-        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
+        "name": "The Score (Expanded Edition)",
+        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Pras",
+          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
         }
       ],
-      "duration_ms": 293973,
-      "name": "N.Y. State of Mind",
-      "url": "https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo"
+      "duration_ms": 226986,
+      "name": "Ready or Not",
+      "url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp"
     },
     {
       "added_at": "2024-01-26 08:36:28",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Ruff Ryders' Anthem",
+      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
+    },
+    {
+      "added_at": "2024-01-26 08:36:28",
+      "album": {
         "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 236800,
       "name": "Still Not a Player (feat. Joe) - Radio Version",
       "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
-    },
-    {
-      "added_at": "2024-01-26 08:36:28",
-      "album": {
-        "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Ruff Ryders' Anthem",
-      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
     },
     {
       "added_at": "2024-01-26 08:36:28",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
-        "name": "Me Against The World",
-        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Dear Mama",
-      "url": "https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9"
-    },
-    {
-      "added_at": "2024-01-26 08:36:28",
-      "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 224533,
       "name": "Survival of the Fittest",
       "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
+    },
+    {
+      "added_at": "2024-01-26 08:36:28",
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Dear Mama",
+      "url": "https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9"
     },
     {
       "added_at": "2024-01-26 08:36:28",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
-        "name": "Strictly 4 My N.I.G.G.A.Z...",
-        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 262506,
-      "name": "Keep Ya Head Up",
-      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
-    },
-    {
-      "added_at": "2024-01-26 08:36:28",
-      "album": {
         "name": "Hello Nasty (Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
+        "name": "Strictly 4 My N.I.G.G.A.Z...",
+        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 262506,
+      "name": "Keep Ya Head Up",
+      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
+    },
+    {
+      "added_at": "2024-01-26 08:36:28",
+      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
-        "name": "Vol.2... Hard Knock Life",
-        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "Hard Knock Life (Ghetto Anthem)",
-      "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
-    },
-    {
-      "added_at": "2024-01-26 08:36:28",
-      "album": {
         "name": "Blackout!",
         "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 136093,
       "name": "Da Rockwilder",
       "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
+    },
+    {
+      "added_at": "2024-01-26 08:36:28",
+      "album": {
+        "name": "Vol.2... Hard Knock Life",
+        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "Hard Knock Life (Ghetto Anthem)",
+      "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
     },
     {
       "added_at": "2024-01-26 08:36:28",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
-      },
-      "artists": [
-        {
-          "name": "Skee-Lo",
-          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
-        }
-      ],
-      "duration_ms": 249293,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
-    },
-    {
-      "added_at": "2024-01-26 08:36:28",
-      "album": {
         "name": "Internal Affairs",
         "url": "https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 173373,
       "name": "Simon Says",
       "url": "https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6"
+    },
+    {
+      "added_at": "2024-01-26 08:36:28",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
+      },
+      "artists": [
+        {
+          "name": "Skee-Lo",
+          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
     },
     {
       "added_at": "2024-01-26 08:36:28",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
-        "name": "Return of the Boom Bap",
-        "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
-      },
-      "artists": [
-        {
-          "name": "KRS-One",
-          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
-        }
-      ],
-      "duration_ms": 258506,
-      "name": "Sound of da Police",
-      "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
-    },
-    {
-      "added_at": "2024-01-26 08:36:28",
-      "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 289866,
       "name": "N 2 Gether Now",
       "url": "https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb"
+    },
+    {
+      "added_at": "2024-01-26 08:36:28",
+      "album": {
+        "name": "Return of the Boom Bap",
+        "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
+      },
+      "artists": [
+        {
+          "name": "KRS-One",
+          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        }
+      ],
+      "duration_ms": 258506,
+      "name": "Sound of da Police",
+      "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
     },
     {
       "added_at": "2024-01-26 08:36:28",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2024-01-26 08:36:28",
       "album": {
-        "name": "Let's Get Free",
-        "url": "https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8"
+        "name": "Mecca And The Soul Brother",
+        "url": "https://open.spotify.com/album/2AgTKAULjbHpqqtyI53hdp"
       },
       "artists": [
         {
-          "name": "Dead Prez",
-          "url": "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
+          "name": "Pete Rock & C.L. Smooth",
+          "url": "https://open.spotify.com/artist/3fJ60AcIgLzQkVitEvA7uq"
         }
       ],
-      "duration_ms": 214066,
-      "name": "Hip-Hop",
-      "url": "https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy"
+      "duration_ms": 286693,
+      "name": "They Reminisce Over You (T.R.O.Y.)",
+      "url": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy"
     }
   ],
   "unique_name": "I Love My '90s Hip-Hop",

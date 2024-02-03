@@ -4,7 +4,7 @@
 
 > This is Bob Marley & The Wailers\. The essential tracks, all in one playlist.
 
-48 songs - 3 hr 4 min
+49 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Iron Lion Zion \- 7" Mix](https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Iron Lion Zion](https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK) | 3:22 | 2024-02-01 |  |
 | [Is This Love](https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:52 | 2024-02-01 |  |
 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2024-02-01 |  |
+| [Kaya](https://open.spotify.com/track/2rahWhhubhQMhG6coo7Vu9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:15 | 2024-02-02 |  |
 | [Kinky Reggae \- Jamaican Version](https://open.spotify.com/track/3nVveBWPxK3A65Wj6caJ1W) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 3:42 | 2024-02-01 |  |
 | [Lively Up Yourself](https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 5:10 | 2024-02-01 |  |
 | [Misty Morning](https://open.spotify.com/track/7e7kLujXF3G5IcHoskemSI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:33 | 2024-02-01 |  |

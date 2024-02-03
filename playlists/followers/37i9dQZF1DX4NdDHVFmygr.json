@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 241038,
+  "2024-02-03": 241213,
   "date_first_scraped": "2021-12-28",
   "description": "Les hits marocains du moment. Cover: Dada",
   "name": "Maroc Hits",
@@ -3483,7 +3483,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 165200,
       "name": "LGHERBAL",
       "url": "https://open.spotify.com/track/2qNvrq2gmzl7dwReVWLdpD"
@@ -4905,6 +4905,24 @@
       "duration_ms": 170442,
       "name": "Pardon Ma belle",
       "url": "https://open.spotify.com/track/3OcSOFjCWs1zJl2zwopAZL"
+    },
+    {
+      "album": {
+        "name": "POPO",
+        "url": "https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "POPO",
+      "url": "https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU"
     },
     {
       "album": {

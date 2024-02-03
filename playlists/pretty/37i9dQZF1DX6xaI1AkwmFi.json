@@ -1,12 +1,12 @@
 {
   "description": "\u30b9\u30c8\u30ed\u30dc\u30e9\u30a4\u30c8\u306e\u3088\u3046\u306b\u5149\u308a\u8f1d\u304f\u697d\u66f2\u3067\u3001\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092\u30b9\u30bf\u30fc\u30c8\u3057\u3088\u3046\u3002 Cover art painted by <a href=\"spotify:artist:2IUl3m1H1EQ7QfNbNWvgru\">Vaundy</a>",
-  "num_followers": 23085,
+  "num_followers": 23096,
   "original_name": "\u30b9\u30c8\u30ed\u30dc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTM3YzMwMTQyODdhY2VmNjIzMDYyNTMyNDZjNTg3ODNhNjJjOGZi",
+  "snapshot_id": "MCw4MTQzYjYxZmY5NWY1M2VjNmE2ZjQwNWMwM2Q3NDBhZTdiOWJhYzI3",
   "tracks": [
     {
       "added_at": "2024-02-01 15:17:26",
@@ -27,8 +27,8 @@
     {
       "added_at": "2024-02-01 15:17:26",
       "album": {
-        "name": "\u30ea\u30ba\u30e064",
-        "url": "https://open.spotify.com/album/5ItDzD0v8osJxkUrUCPLJs"
+        "name": "rhythm 64",
+        "url": "https://open.spotify.com/album/0dqofszfjI1qN76jWqFiyp"
       },
       "artists": [
         {
@@ -37,8 +37,8 @@
         }
       ],
       "duration_ms": 268980,
-      "name": "\u30ea\u30ba\u30e064",
-      "url": "https://open.spotify.com/track/74GJbmNHys47ZfdoQCySpM"
+      "name": "rhythm 64",
+      "url": "https://open.spotify.com/track/4KWMnXGQ4wCiDU1vP8uGVb"
     },
     {
       "added_at": "2024-02-01 15:17:26",
@@ -415,18 +415,18 @@
     {
       "added_at": "2024-02-01 15:17:26",
       "album": {
-        "name": "\u6700\u9ad8\u5230\u9054\u70b9",
-        "url": "https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN"
+        "name": "\u6674\u308b",
+        "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
       },
       "artists": [
         {
-          "name": "SEKAI NO OWARI",
-          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 227469,
-      "name": "\u6700\u9ad8\u5230\u9054\u70b9",
-      "url": "https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN"
+      "duration_ms": 270705,
+      "name": "\u6674\u308b",
+      "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
     },
     {
       "added_at": "2024-02-01 15:17:26",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-02-01 15:17:26",
       "album": {
-        "name": "\u6674\u308b",
-        "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
+        "name": "\u6700\u9ad8\u5230\u9054\u70b9",
+        "url": "https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "SEKAI NO OWARI",
+          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
         }
       ],
-      "duration_ms": 270705,
-      "name": "\u6674\u308b",
-      "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
+      "duration_ms": 227469,
+      "name": "\u6700\u9ad8\u5230\u9054\u70b9",
+      "url": "https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN"
     },
     {
       "added_at": "2024-02-01 15:17:26",

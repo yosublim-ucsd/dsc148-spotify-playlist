@@ -4,7 +4,7 @@
 
 > all cruise, no breaks
 
-112 songs - 7 hr 24 min
+113 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Odd Look](https://open.spotify.com/track/3Q6mwJseOFYBJ10d5CXp4o) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Odd Look](https://open.spotify.com/album/3FHMLI0Vz2t0gdypH1yImX) | 4:13 | 2022-05-05 | 2023-09-06 |
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2023-10-27 |  |
 | [Otra Era](https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Otra Era](https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah) | 4:04 | 2022-05-05 | 2023-08-12 |
-| [Ozone Scraper](https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Ozone Scraper](https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI) | 3:31 | 2023-10-27 |  |
+| [Ozone Scraper](https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Ozone Scraper](https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI) | 3:31 | 2023-10-27 | 2024-02-03 |
 | [Playing Games \(with Bryson Tiller\) \- Extended Version](https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:23 | 2023-09-05 |  |
 | [Polish Girl](https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Era Extraña](https://open.spotify.com/album/1S23RKAbHcn3AF2F7ns3sN) | 4:24 | 2022-05-05 | 2023-09-06 |
 | [Power Trip \(feat\. Miguel\)](https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:01 | 2023-09-05 |  |
@@ -100,6 +100,7 @@
 | [Sunflower](https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Sunflower](https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl) | 4:00 | 2023-03-29 | 2023-08-25 |
 | [Swallowed By The Ocean](https://open.spotify.com/track/6ukCPd1kbqTzMXJeh0Jrwi) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Afterlife](https://open.spotify.com/album/0TfLNPaI76u8QwRNDiowSt) | 4:25 | 2023-02-28 | 2023-09-06 |
 | [Teenage Fever](https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:39 | 2023-09-05 |  |
+| [tell me](https://open.spotify.com/track/6CI16mxAWyzW1pMpCV4Qfw) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [tell me](https://open.spotify.com/album/2R3RQcOjyKQQUBb91Qv0bR) | 2:42 | 2024-02-02 |  |
 | [The Moon Above](https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF) | [Soul Goodman](https://open.spotify.com/artist/3tgq4OwTuVZOpeipKDMpgi), [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [Patrizia Ferrara](https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM) | [20 Years Dope Noir \- Oranje Album](https://open.spotify.com/album/0sZdCLGEGLayVCJaNgMnW6) | 3:05 | 2023-01-04 | 2023-09-06 |
 | [This City is a Graveyard](https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [This City is a Graveyard](https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH) | 3:07 | 2023-06-30 | 2023-09-06 |
 | [This World Couldn’t See Us](https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [This World Couldn’t See Us](https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz) | 3:39 | 2023-03-29 | 2023-09-06 |

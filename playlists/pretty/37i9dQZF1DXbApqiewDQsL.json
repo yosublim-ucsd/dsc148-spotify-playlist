@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Mau y Ricky, Eden Mu\u00f1oz",
-  "num_followers": 28534,
+  "num_followers": 28547,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWY5MzIwZDViZDA1N2UzNDEwOGE4YmM4YzEwNmNmY2NjYTFlODlk",
+  "snapshot_id": "MCwyOTE3MGVjNjg0MDVkYzg4YWFiM2JiMjk1NWFiODBiNGM1ZWU5MDg0",
   "tracks": [
     {
       "added_at": "2024-01-12 05:20:19",
@@ -487,6 +487,26 @@
     {
       "added_at": "2024-01-12 05:20:19",
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 183890,
+      "name": "UNA BALA",
+      "url": "https://open.spotify.com/track/6Rz80wUWSUbGGVHvkH7NpU"
+    },
+    {
+      "added_at": "2024-01-12 05:20:19",
+      "album": {
         "name": "DE LUNES A LUNES",
         "url": "https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 177791,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
-    },
-    {
-      "added_at": "2024-01-12 05:20:19",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 183890,
-      "name": "UNA BALA",
-      "url": "https://open.spotify.com/track/6Rz80wUWSUbGGVHvkH7NpU"
     },
     {
       "added_at": "2024-01-12 05:20:19",
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-01-12 05:20:19",
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 153153,
+      "name": "TE FUI A SEGUIR",
+      "url": "https://open.spotify.com/track/2WSf3P0Uk3AfGPqkBPI0Qh"
+    },
+    {
+      "added_at": "2024-01-12 05:20:19",
+      "album": {
         "name": "ONTAS BB",
         "url": "https://open.spotify.com/album/2sbHi7VQ7U7uohlhAo0gax"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 207804,
       "name": "ONTAS BB",
       "url": "https://open.spotify.com/track/3IHSOgqSplOCtN2NiGlp0q"
-    },
-    {
-      "added_at": "2024-01-12 05:20:19",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        },
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 153153,
-      "name": "TE FUI A SEGUIR",
-      "url": "https://open.spotify.com/track/2WSf3P0Uk3AfGPqkBPI0Qh"
     },
     {
       "added_at": "2024-01-12 05:20:19",
@@ -987,26 +987,6 @@
     {
       "added_at": "2024-01-12 05:20:19",
       "album": {
-        "name": "Que Triste",
-        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 226339,
-      "name": "Que Triste",
-      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
-    },
-    {
-      "added_at": "2024-01-12 05:20:19",
-      "album": {
         "name": "\u00bfQui\u00e9n Te Crees?",
         "url": "https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 185493,
       "name": "\u00bfQui\u00e9n Te Crees?",
       "url": "https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz"
+    },
+    {
+      "added_at": "2024-01-12 05:20:19",
+      "album": {
+        "name": "Que Triste",
+        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 226339,
+      "name": "Que Triste",
+      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
     },
     {
       "added_at": "2024-01-12 05:20:19",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2024-01-12 05:20:19",
       "album": {
-        "name": "3 de la Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/1LxvD7UdloYCTIamKIPlNm"
+        "name": "El Chivo",
+        "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
         },
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 182465,
-      "name": "3 de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/24cS53gOoCh9grgAj8Cfig"
+      "duration_ms": 275400,
+      "name": "El Chivo (feat. T3r Elemento)",
+      "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
     },
     {
       "added_at": "2024-01-12 05:20:19",
@@ -1087,22 +1087,22 @@
     {
       "added_at": "2024-01-12 05:20:19",
       "album": {
-        "name": "El Chivo",
-        "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
+        "name": "3 de la Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1LxvD7UdloYCTIamKIPlNm"
       },
       "artists": [
         {
-          "name": "Berner",
-          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         },
         {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 275400,
-      "name": "El Chivo (feat. T3r Elemento)",
-      "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
+      "duration_ms": 182465,
+      "name": "3 de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/24cS53gOoCh9grgAj8Cfig"
     },
     {
       "added_at": "2024-01-12 05:20:19",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2024-01-12 05:20:19",
       "album": {
+        "name": "$ad Boyz 4 Life",
+        "url": "https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 314000,
+      "name": "Por Dentro",
+      "url": "https://open.spotify.com/track/59Z1qb7vX4nMksBQ9vIkRr"
+    },
+    {
+      "added_at": "2024-01-12 05:20:19",
+      "album": {
         "name": "Rockport Espacial 2",
         "url": "https://open.spotify.com/album/7eIU95LtCeZ3Ud3Lg5z4k6"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 222831,
       "name": "Corrido Espacial",
       "url": "https://open.spotify.com/track/2kArNwB6naa7LrKBlEe65P"
-    },
-    {
-      "added_at": "2024-01-12 05:20:19",
-      "album": {
-        "name": "$ad Boyz 4 Life",
-        "url": "https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "Por Dentro",
-      "url": "https://open.spotify.com/track/59Z1qb7vX4nMksBQ9vIkRr"
     },
     {
       "added_at": "2024-01-12 05:20:19",

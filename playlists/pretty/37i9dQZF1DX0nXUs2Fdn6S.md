@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,485 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,492 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 59 | [Uncomplicated](https://open.spotify.com/track/1xn3ESNRR5wbpZwEU3xlBv) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Matthew Steeper](https://open.spotify.com/artist/5BCqO5LyLTOvo7etwfgQ7b) | [Uncomplicated](https://open.spotify.com/album/0vZhZVruxqC8HEGc1Wdwtr) | 3:25 |
 | 60 | [Roshni](https://open.spotify.com/track/0MZ6NFEV7oQSDMzuXBVS5E) | [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ), [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Roshni](https://open.spotify.com/album/27KyEgaluOMGNdtKud8Axt) | 2:54 |
 
-Snapshot ID: `MCwyNzM0YzNkNDY1YWZmM2IxYzAwNmI0OWNhNjZlYzMyNTc2MDlhNDhl`
+Snapshot ID: `MCw0ZTE5NGExNGJjNDQ2MjIyZWY4NDJjZmQ4MTEzMTNhOWNmZDNkMTg5`

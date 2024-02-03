@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: SPOOKYPBL
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,686 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,671 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv) | 2:38 |
+| 1 | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv) | 2:38 |
 | 2 | [Medico \(128bpm \- C\#min\)](https://open.spotify.com/track/1zelXhcUYHJlgO0Zt8eaOM) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [EXPORT](https://open.spotify.com/album/30Dl1ii75LPbTc0LqXBo2s) | 3:15 |
 | 3 | [7UP](https://open.spotify.com/track/4s8ZTHaLXl96NxjVy8qSjT) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [7UP](https://open.spotify.com/album/5IyMgAKUtFV7yHH8owqypb) | 2:39 |
 | 4 | [Passa Il Tempo \(feat\. Nabi\)](https://open.spotify.com/track/2eVBudzixqw5GDDXy7D9H7) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [OFFLINE](https://open.spotify.com/album/4QjJhfVACjKRN34TYYSDAE) | 3:26 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 26 | [Valentino Rossi](https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Valentino Rossi](https://open.spotify.com/album/6EwyAqpWB0x93nzVeiiqTQ) | 1:59 |
 | 27 | [Havana](https://open.spotify.com/track/3ir3hut1UUri2IaTLVr63g) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [MEZZA PAROLA](https://open.spotify.com/album/6GosI4zndYwzR1ht3SOi8H) | 3:00 |
 | 28 | [Emotions \(feat\. Tony Boy\)](https://open.spotify.com/track/61hq3p5SiEuYUxNgKF93zq) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Emotions \(feat\. Tony Boy\)](https://open.spotify.com/album/5W4SVDrLe6pUIznOOxVTAb) | 2:46 |
-| 29 | [Tommaso](https://open.spotify.com/track/1jbEcjGF1iIcUbenA52p6L) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Tommaso](https://open.spotify.com/album/3lKtPHBErq335eCjtTaeFT) | 1:51 |
+| 29 | [Tommaso](https://open.spotify.com/track/1jbEcjGF1iIcUbenA52p6L) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Tommaso](https://open.spotify.com/album/3lKtPHBErq335eCjtTaeFT) | 1:51 |
 | 30 | [BOUGIE](https://open.spotify.com/track/2YMwrPboAWRL4Vc8PvTK9a) | [Frittella](https://open.spotify.com/artist/0ROrQHmIQbC9sfBkVwkYxm) | [BOUGIE](https://open.spotify.com/album/2UOmVVBsrML5CIxX8c3BH3) | 1:43 |
 | 31 | [No Pit Stop \(feat\. Kid Yugi\)](https://open.spotify.com/track/7j5nQHnFsiIn4sGpNMISht) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Identità](https://open.spotify.com/album/5nxW9sJlywI1NGdLfaXMAN) | 2:35 |
 | 32 | [LE BAMBINE FANNO OH \(feat\. Nerissima Serpe, ANNA, Papa V, Artie 5ive\)](https://open.spotify.com/track/0bB8hmswtN9WvOQXV159CC) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC](https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Mediaset](https://open.spotify.com/track/1WTvu7hnPnWayJfg6qB5V8) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [Mediaset](https://open.spotify.com/album/1SsWKaUceW83r2Z4yA5Ax5) | 2:21 |
 | 50 | [Bicrave](https://open.spotify.com/track/57NOAYZEQVxUcQvAYL6pwd) | [Kalash247](https://open.spotify.com/artist/0uWqSeCUMHjnUwa3Ia3ZcL) | [Bicrave](https://open.spotify.com/album/7rYb6F4EJMOyF64Aqve4Aa) | 2:59 |
 
-Snapshot ID: `MCxlYjg5OWQzNzg5MGViNmU5OThiZDBhOTQ5MmQ4NjA0YTg5ODQ3YjA0`
+Snapshot ID: `MCw3NzBlNjdmMTgyZGE4M2UxOTlmY2NhNzY3MTAzOGJkY2I2YTZmMjQz`

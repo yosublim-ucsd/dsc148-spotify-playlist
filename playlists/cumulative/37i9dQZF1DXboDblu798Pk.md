@@ -4,7 +4,7 @@
 
 > Pop hits in the making! Cover: Jazzy
 
-372 songs - 19 hr 41 min
+373 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Don't Say Love](https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Don't Say Love](https://open.spotify.com/album/6XvWGtXvrMdVsFNExEBCDC) | 3:00 | 2023-06-20 | 2023-08-07 |
 | [Don't Stop the Car](https://open.spotify.com/track/72OrO3uJtMEGRlPyKLogvk) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [You'll Get It When You're Older](https://open.spotify.com/album/3Cyholll5qarrrlnIlxiCu) | 2:39 | 2023-06-15 | 2023-06-23 |
 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 4:28 | 2023-06-15 | 2023-06-21 |
-| [Dreaming](https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/3uoFn9YXRikta2GkvMXoR7) | 3:28 | 2024-02-01 |  |
+| [Dreaming](https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/3uoFn9YXRikta2GkvMXoR7) | 3:28 | 2024-02-01 | 2024-02-03 |
+| [Dreaming](https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs) | 3:28 | 2024-02-01 |  |
 | [ELECTROWAVEBABY](https://open.spotify.com/track/7iwBRiipMHOz0sApVqZBRF) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:25 | 2024-01-11 |  |
 | [Elevator Eyes](https://open.spotify.com/track/1xaI8BC30DDf9RDQSWyonb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Elevator Eyes](https://open.spotify.com/album/3EV8D8ljJf9bxlWCbpzmTJ) | 2:58 | 2023-08-10 | 2023-11-02 |
 | [Enchanted \(Taylor's Version\)](https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:53 | 2023-07-07 | 2023-09-21 |

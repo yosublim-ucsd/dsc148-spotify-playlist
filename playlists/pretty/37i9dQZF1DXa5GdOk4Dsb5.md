@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,189 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,262 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 62 | [OK](https://open.spotify.com/track/6ZpPLJ3wck4X1eOhUGCWPx) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [OK](https://open.spotify.com/album/7jKr5d7pxSFzxo8bkM0Y3G) | 2:21 |
 | 63 | [Mátalas](https://open.spotify.com/track/2uZX6rf2otrXvGx8vby7Xd) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 2:54 |
 | 64 | [No discutamos](https://open.spotify.com/track/4LOoLsXcPdAHzPwSznpq3Y) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:22 |
-| 65 | [Adicta al Dolor](https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [Adicta al Dolor](https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL) | 2:53 |
-| 66 | [Que Te Lo Crea Tu Madre](https://open.spotify.com/track/0Z0pPhqm32Caybjnozf0Vk) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse Para Ti](https://open.spotify.com/album/0Jdt8JXPRa2iu5DL356US6) | 3:20 |
+| 65 | [Que Te Lo Crea Tu Madre](https://open.spotify.com/track/0Z0pPhqm32Caybjnozf0Vk) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse Para Ti](https://open.spotify.com/album/0Jdt8JXPRa2iu5DL356US6) | 3:20 |
+| 66 | [Adicta al Dolor](https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [Adicta al Dolor](https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL) | 2:53 |
 | 67 | [La Culpa](https://open.spotify.com/track/5G4ZDg8qtObwMXt0F8Sw4A) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Culpa](https://open.spotify.com/album/6Kq8jaRneZMqYi3YkMvKqb) | 2:37 |
 | 68 | [En Tu Pelo](https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Vida De Bohemio](https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi) | 3:00 |
 | 69 | [Como Si Nada](https://open.spotify.com/track/6fxct5RZKGNgRMcXULezMW) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:09 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 71 | [Sobreviviré](https://open.spotify.com/track/7q5aOEf299r3G9Xj27UE0H) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0) | 3:39 |
 | 72 | [Cupido Falló](https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Cupido Falló](https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0) | 3:17 |
 | 73 | [Voy a Conquistarte](https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Voy a Conquistarte](https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ) | 2:55 |
-| 74 | [Debí Suponerlo \- Versión Mariachi](https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Debí Suponerlo \(Versión Mariachi\)](https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM) | 2:40 |
-| 75 | [Olvido Intencional](https://open.spotify.com/track/0JzYkEJXG3GhIHI6pJ32aS) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk) | 3:36 |
+| 74 | [Olvido Intencional](https://open.spotify.com/track/0JzYkEJXG3GhIHI6pJ32aS) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk) | 3:36 |
+| 75 | [Debí Suponerlo \- Versión Mariachi](https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Debí Suponerlo \(Versión Mariachi\)](https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM) | 2:40 |
 | 76 | [Murió El Amor](https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:00 |
 | 77 | [Entre Comillas](https://open.spotify.com/track/4EllcwhWBlSSbwEsZKu1eG) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0) | 3:16 |
 | 78 | [Alma Enamorada](https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:55 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 88 | [Usted No Me Olvida \- Remix](https://open.spotify.com/track/32rbG1BymfjSBFASdLzxem) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Usted No Me Olvida \(Remix\)](https://open.spotify.com/album/3xbDrC4sy53XbHzDn3BFGB) | 3:13 |
 | 89 | [Si Se Fue, Se Fue](https://open.spotify.com/track/6WTF798e9hxNDWj95ISu5e) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [La Voz Popular de América](https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ) | 3:34 |
 | 90 | [Pa' las Que Sea](https://open.spotify.com/track/52tnYQ8WVvTAfSE14QfP26) | [Jimmy Gutierrez](https://open.spotify.com/artist/7syZwIuF9tAkKQxNQLCosV) | [Pa' las Que Sea](https://open.spotify.com/album/4mimxigIakTiCKteQndKk5) | 4:19 |
-| 91 | [Nadie Es Eterno](https://open.spotify.com/track/5CdoDsEbox20TjnmyGpZmF) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0) | 3:28 |
-| 92 | [Ahora Que Puedo](https://open.spotify.com/track/5ydlSsuMpaqmEg2wKPBe9E) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/7fae9p1hEjCjUiY7P6VZBS) | 3:31 |
+| 91 | [Ahora Que Puedo](https://open.spotify.com/track/5ydlSsuMpaqmEg2wKPBe9E) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/7fae9p1hEjCjUiY7P6VZBS) | 3:31 |
+| 92 | [Nadie Es Eterno](https://open.spotify.com/track/5CdoDsEbox20TjnmyGpZmF) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0) | 3:28 |
 | 93 | [No Voy a Morir](https://open.spotify.com/track/065oNRBiRGIAm6nSYuWtNQ) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Pipe Bueno](https://open.spotify.com/album/2aBsywXae4Hp7D622KfOIY) | 3:31 |
 | 94 | [En Este Amor](https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [En Este Amor](https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y) | 2:46 |
 | 95 | [Bendecida](https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Bendecida](https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 99 | [Empecemos de Cero \(Nueva Versión\)](https://open.spotify.com/track/0Wf3yEjUOKzdxMeOlxGfzC) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Lady Yuliana](https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2) | [Empecemos de Cero \(Nueva Versión\)](https://open.spotify.com/album/1BZLPRfhdCTyb4zg0BNzTC) | 3:14 |
 | 100 | [El Alumno](https://open.spotify.com/track/7yy3yQQ9oKCilGJtreLcSe) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [El Alumno](https://open.spotify.com/album/4rHTyJISches0y7efQTJbW) | 3:08 |
 
-Snapshot ID: `MCxhZTUzMzlkZDNjYzEzYzY3YTczODg2MjY5MTBiMjBhZjRiOGI0NzYz`
+Snapshot ID: `MCxmYWVmMzk0ZDJmMDg1ZjM2YzY0NzM5MDdmMzUzNWIxMjZmNDU5ZDQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3TurM2x1HaeNEztqBnomV6.md) - [plain]
 
 > Get through your workday with 8 hours of singer\-songwriter tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,170 likes - 123 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,167 likes - 123 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/3TurM2x1HaeNEztqBnomV6.md) - [plain]
 | 110 | [OK, It's Alright with Me](https://open.spotify.com/track/0sKAZF2T0hD3SfEr0U0rqX) | [Eric Hutchinson](https://open.spotify.com/artist/39x8gyJjTHiBQklFgVJSV4) | [Sounds Like This](https://open.spotify.com/album/5XEF3r3rrj8lxoEWKSBnke) | 2:31 |
 | 111 | [100 Years](https://open.spotify.com/track/64qxxqjUynL5vjkXP104I9) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [The Battle For Everything](https://open.spotify.com/album/5slsMjglNY6IB1HecW9c1I) | 4:04 |
 | 112 | [Superman](https://open.spotify.com/track/236fBfnp2YrycOoGFtwjbb) | [Joe Brooks](https://open.spotify.com/artist/6Z8D437D8u4IdirS4Jc58d) | [Superman](https://open.spotify.com/album/6RUV6x6HZ7WRdgCxBqRntx) | 3:27 |
-| 113 | [A Thousand Years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
+| 113 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
 | 114 | [A Drop In The Ocean](https://open.spotify.com/track/1kXceEJIe0pgdnsTFmiYTp) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [A Drop In The Ocean](https://open.spotify.com/album/08BPi1gduyPFUESpc8DUSZ) | 3:41 |
 | 115 | [Hold My Heart](https://open.spotify.com/track/7hH5avUeUDnGMV8j1TR9kb) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Kaleidoscope Heart](https://open.spotify.com/album/52LsxyQb7h9ysCp14ZbE30) | 4:32 |
 | 116 | [I'll Be](https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Misguided Roses](https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319) | 4:26 |

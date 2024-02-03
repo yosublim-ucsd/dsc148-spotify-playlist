@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,507 likes - 86 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,511 likes - 86 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 6 | [最果てのスーパースター](https://open.spotify.com/track/2LFuq0tLY45nizYFHFpeT7) | [Gero×天月×FAKE TYPE.](https://open.spotify.com/artist/6jD8iEr7TX9hRAQOgcrncM) | [THE ORIGIN](https://open.spotify.com/album/6WJxW7FvMwPXkh27Yus0VB) | 2:43 |
 | 7 | [Ogon Koro](https://open.spotify.com/track/6NKTXbkkPNBtqNMXUXgOfj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Ogon Koro](https://open.spotify.com/album/6D5OUhDJ00zkuHe2Xk2WsH) | 3:21 |
 | 8 | [Shinda!](https://open.spotify.com/track/2wLuWWfrOHnPjbC3CUuuZ9) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Shinda!](https://open.spotify.com/album/2VQMSyKrXpA0m6PECjU8sm) | 3:40 |
-| 9 | [Ahatte Teppen'](https://open.spotify.com/track/1Ahd8RIuzNBZFwkH2AhYlR) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Ahatte Teppen’](https://open.spotify.com/album/44dpI1riKMZ1mSMFS8RWAA) | 3:29 |
+| 9 | [AHATTE TEPPEN](https://open.spotify.com/track/3CJF0sc6OrgAHnPUG1bWEI) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Prismverse](https://open.spotify.com/album/0QImbhzOSVS3RfMwArx8jK) | 3:30 |
 | 10 | [Onegai Muscle \- from CrosSing](https://open.spotify.com/track/4mqOfJPqfhkznL4UZuEiOj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Onegai Muscle \- from CrosSing](https://open.spotify.com/album/5Bt7BoV1R7s5Ihkv5D7Cf5) | 3:42 |
 | 11 | [KIMIJA NAKYA DAME MITAI](https://open.spotify.com/track/6JZDfs7qE1T17qjRiPNCxa) | [オーイシマサヨシ](https://open.spotify.com/artist/5fuEw5UqrTkW8hVAbBClv2) | [OPENING THEME FROM TV SERIES ”MONTHLY GIRLS' NOZAKI\-KUN” KIMIJA NAKYA DAME MITAI](https://open.spotify.com/album/4Ej6rwZApgp2ob8EnIbizR) | 3:52 |
 | 12 | [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 85 | [Moratorium Dance Floor \- Live](https://open.spotify.com/track/6YImKwLnSElvNSeMVbWixk) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:54 |
 | 86 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 |
 
-Snapshot ID: `MCwyZmQxYzI2MGM3ZjQwN2VjYjhkYmMzMTE5YmZhZTRjZWZmYmFiOTg0`
+Snapshot ID: `MCw4Mjk1Y2NmOWM1MDVmMDUyMDU5OTVmMzZlNTlmZGU1YTM4N2QxYzNi`

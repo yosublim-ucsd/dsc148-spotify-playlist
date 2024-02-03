@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 386039,
+  "2024-02-03": 386899,
   "date_first_scraped": "2022-01-24",
-  "description": "Somos una fusi\u00f3n que nunca termina... MEXCLA somos. Michelle Maciel en portada.",
+  "description": "Somos una fusi\u00f3n que nunca termina... MEXCLA somos. Belinda en portada.",
   "name": "MEXCLA",
   "tracks": [
     {
@@ -1183,6 +1183,24 @@
       "duration_ms": 187833,
       "name": "Cabr\u00f3n Yo Puedo",
       "url": "https://open.spotify.com/track/2HsBez6K2kkqzkxHQqRusL"
+    },
+    {
+      "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
     },
     {
       "album": {
@@ -6585,7 +6603,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 159170,
       "name": "Reggaeton Champagne",
       "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"

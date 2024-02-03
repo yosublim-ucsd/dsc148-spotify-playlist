@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas icónicas del 2023 a todo volumen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,577 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,574 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 14 | [Canción Para Olvidarte](https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Canción Para Olvidarte](https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm) | 2:44 |
 | 15 | [Todo Todo](https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Todo Todo](https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD) | 3:14 |
 | 16 | [Me Da Igual](https://open.spotify.com/track/5pHF7d6LQ6xnufKwVDvolP) | [Majo Rivas](https://open.spotify.com/artist/3S4muLLIYiYK4P9ApjyLbY) | [Me Da Igual](https://open.spotify.com/album/22J47RhJw1dOtPOG9kdyY2) | 2:29 |
-| 17 | [Mismo Amor](https://open.spotify.com/track/7stAazwZr0UUVRd5glymAz) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:18 |
-| 18 | [Me Caga Tu Novia](https://open.spotify.com/track/1xBFsxUw84BMgEClaw09z4) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Me Caga Tu Novia](https://open.spotify.com/album/2uPxcGS41IV2ZH9ie4JWov) | 2:50 |
+| 17 | [Me Caga Tu Novia](https://open.spotify.com/track/1xBFsxUw84BMgEClaw09z4) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Me Caga Tu Novia](https://open.spotify.com/album/2uPxcGS41IV2ZH9ie4JWov) | 2:50 |
+| 18 | [Mismo Amor](https://open.spotify.com/track/7stAazwZr0UUVRd5glymAz) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:18 |
 | 19 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
 | 20 | [Dejarte Me Lo Debo A Mí](https://open.spotify.com/track/6B0ljoP8hAMVAnrpTs72vp) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:47 |
 | 21 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 49 | [El Espejo Y El Oro](https://open.spotify.com/track/2ntloEnUxFOFgQ6lh6Xlob) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Bungalo Dub](https://open.spotify.com/artist/69JPOTvYfcr3R57sMZdJU0), [Bhajan](https://open.spotify.com/artist/03gjTMhvuxszNbXMxwYJmv) | [Ruta Mexicolombia](https://open.spotify.com/album/6c2d10wfbQZuV7zCCfqLCy) | 4:09 |
 | 50 | [Calor](https://open.spotify.com/track/1tjwpYaTif4HRMUADJzzgf) | [Herbolaria](https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW) | [Calor](https://open.spotify.com/album/50HwL1s1yIlbECtQ3SznIs) | 3:23 |
 
-Snapshot ID: `MCwwNGI0NWE5ZTIxNmI0NzIwZGU4OTRjYTQ1MGJlMjQ5YWZkNTcxMDc4`
+Snapshot ID: `MCxkMDI3YjczM2ZkNjZhOWM3OTI1MDBlNzRkOGFmMWEyODgzZTBiMzgz`

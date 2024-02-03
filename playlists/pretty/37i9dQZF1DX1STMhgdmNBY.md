@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,764 likes - 70 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,834 likes - 70 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,15 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 27 | [A Man And The Blues](https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 6:23 |
 | 28 | [Friendship](https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y) | [Pops Staples](https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3) | [Don't Lose This](https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1) | 4:06 |
 | 29 | [Three O'clock Blues](https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 3:03 |
-| 30 | [Get Back To The Land](https://open.spotify.com/track/1oBCIuFxyHqutsnQhSuqlk) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh), [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs) | [Get Back To The Land](https://open.spotify.com/album/7oj7EsiZB17a22MqGmWO0W) | 4:26 |
-| 31 | [Long Way Home](https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Long Way Home](https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha) | 5:38 |
+| 30 | [Long Way Home](https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Long Way Home](https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha) | 5:38 |
+| 31 | [Get Back To The Land](https://open.spotify.com/track/1oBCIuFxyHqutsnQhSuqlk) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh), [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs) | [Get Back To The Land](https://open.spotify.com/album/7oj7EsiZB17a22MqGmWO0W) | 4:26 |
 | 32 | [She Caught the Katy and Left Me a Mule to Ride](https://open.spotify.com/track/2B8TnS5nJijlzuORGs3RKy) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Natch'l Blues](https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2) | 3:28 |
 | 33 | [Gospel Groove](https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Here Comes Shuggie Otis](https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd) | 4:15 |
 | 34 | [Blue Jean Blues](https://open.spotify.com/track/2YRF157SH4KOtDlaVjHoaB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rancho Texicano: The Very Best of ZZ Top](https://open.spotify.com/album/6ti1HC6R2Op1enYiuCDf6k) | 4:39 |
 | 35 | [Dust My Broom](https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Blues To The Bone](https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ) | 3:35 |
 | 36 | [Trouble In Mind](https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk) | [Big Walter Horton](https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX) | [Big Walter Horton w/ Carey Bell](https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5) | 4:38 |
-| 37 | [I Just Want To Make Love To You \- Single Version](https://open.spotify.com/track/1OhUmE8Wkw1KBXx2gQcOo9) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 2:50 |
-| 38 | [Givin' Up On Love](https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR), [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [Blues Knights\-Chicago Blues Festival 1985 \(Blues Reference\)](https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc) | 5:47 |
+| 37 | [Givin' Up On Love](https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR), [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [Blues Knights\-Chicago Blues Festival 1985 \(Blues Reference\)](https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc) | 5:47 |
+| 38 | [I Just Want To Make Love To You \- Single Version](https://open.spotify.com/track/1OhUmE8Wkw1KBXx2gQcOo9) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 2:50 |
 | 39 | [12:15 Slow Goonbash Blues](https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 9:26 |
 | 40 | [I Can't Quit You Baby](https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [An Introduction To Otis Rush](https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO) | 3:39 |
 | 41 | [So Easy To Love You](https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15) | [Magic Slim & The Teardrops](https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat) | [Chicago Blues Session Volume 3](https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8) | 7:22 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 69 | [Today I Sing the Blues](https://open.spotify.com/track/6NxdgHR3lebLG7CyZ9EtK5) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:25 |
 | 70 | [Anyhow](https://open.spotify.com/track/13SV6q70zRxTJR3yEAqh2C) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 6:54 |
 
-Snapshot ID: `MCxkNDRkYTNmOGI3NmJkM2ZhMjg0NDRlOGFhYmY0Mzc2NjEwYmRiZWRk`
+Snapshot ID: `MCwxNDBkYWZlMWU4NmUyOTJiZWM3NmQxMzRkMTQ1NzYyMzEzMmNhOTZl`

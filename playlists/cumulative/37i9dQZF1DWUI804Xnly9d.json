@@ -2046,7 +2046,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 134693,
       "name": "Kaayar",
       "url": "https://open.spotify.com/track/6cbxJhOuZWDP8kEeM6QWYe"
@@ -2838,6 +2838,24 @@
       "duration_ms": 212530,
       "name": "Kya Tum Naraaz Ho? (Raw)",
       "url": "https://open.spotify.com/track/2rjCLFdX8n9xLoMZgdMMxt"
+    },
+    {
+      "album": {
+        "name": "Kya Yeh Hua",
+        "url": "https://open.spotify.com/album/4zIAI6ZeWXhIYMPfQcOeHI"
+      },
+      "artists": [
+        {
+          "name": "Karigar",
+          "url": "https://open.spotify.com/artist/6BSvdM5bDjeGF7dAaprE5k"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "Kya Yeh Hua",
+      "url": "https://open.spotify.com/track/5J5Ad1UWIGCZgFX1H0qbdl"
     },
     {
       "album": {

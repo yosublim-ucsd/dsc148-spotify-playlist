@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on. Cover: Saltburn",
-  "num_followers": 305545,
+  "num_followers": 305720,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjBlNDRjMmZlNjAxMTY4MGNhMTFlN2UyNzhiYTViYTA2MDI3MGM1",
+  "snapshot_id": "MCw4ZDg0NTMzNTBkY2M3NWNhYTczNTU1YmVlYjMwYzQxOGRmZTYxMjM3",
   "tracks": [
     {
       "added_at": "2023-12-27 20:39:24",
@@ -285,6 +285,22 @@
       "url": "https://open.spotify.com/track/3nLSxpwZrU4ugAMVxYOHJe"
     },
     {
+      "added_at": "2024-01-25 20:23:45",
+      "album": {
+        "name": "Dance You Outta My Head",
+        "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
+      },
+      "artists": [
+        {
+          "name": "Cat Janice",
+          "url": "https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz"
+        }
+      ],
+      "duration_ms": 202508,
+      "name": "Dance You Outta My Head",
+      "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
+    },
+    {
       "added_at": "2023-09-29 19:53:20",
       "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
@@ -311,22 +327,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Something About You",
-        "url": "https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        }
-      ],
-      "duration_ms": 225181,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 227706,
       "name": "YOU'RE THE ONE",
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        }
+      ],
+      "duration_ms": 225181,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -379,22 +395,6 @@
       "duration_ms": 183861,
       "name": "So Hot You're Hurting My Feelings",
       "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
-    },
-    {
-      "added_at": "2024-01-25 20:23:45",
-      "album": {
-        "name": "Dance You Outta My Head",
-        "url": "https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG"
-      },
-      "artists": [
-        {
-          "name": "Cat Janice",
-          "url": "https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz"
-        }
-      ],
-      "duration_ms": 202508,
-      "name": "Dance You Outta My Head",
-      "url": "https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Drive and Disconnect",
-      "url": "https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "Loretta",
         "url": "https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 190153,
       "name": "Loretta",
       "url": "https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Drive and Disconnect",
+      "url": "https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
+        "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
+        "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Rocky",
+      "url": "https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
         "name": "\u00bfT\u00e9o?",
         "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 170125,
       "name": "Uno Dos",
       "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
-        "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
-        "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Rocky",
-      "url": "https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR"
     }
   ],
   "unique_name": "Soir\u00e9e",

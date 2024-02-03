@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Hotelo
 
-114 songs - 6 hr 56 min
+115 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Adormecendo](https://open.spotify.com/track/44bcg7n1OAR75lSsN8beqZ) | [Cogumelo Plutão](https://open.spotify.com/artist/4qjNCru4YbPvA6FOUDi1ee) | [Adormecendo](https://open.spotify.com/album/43jkcPvacrtGm26JjE6QCb) | 4:09 | 2023-09-08 | 2023-09-30 |
 | [Alquimia](https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1) | [Dnaipes](https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae) | [Alquimia](https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt) | 3:46 | 2024-01-12 |  |
 | [Amor Em Vão](https://open.spotify.com/track/3VwcqHviDaCwvMNtFnfLUv) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Amor Em Vão](https://open.spotify.com/album/4LlYjI3enukiq7vCAHRY65) | 3:31 | 2023-07-21 |  |
-| [Antes do Nada](https://open.spotify.com/track/1VSBy96DsRTiv7c44dJtdH) | [Cadu Pereira](https://open.spotify.com/artist/3dboP9Qt8tTyuLkpGOpenP) | [Antes do Nada](https://open.spotify.com/album/4DqZL9kZ0FyueNdj0KhYNa) | 3:45 | 2023-07-21 |  |
+| [Antes do Nada](https://open.spotify.com/track/1VSBy96DsRTiv7c44dJtdH) | [Cadu Pereira](https://open.spotify.com/artist/3dboP9Qt8tTyuLkpGOpenP) | [Antes do Nada](https://open.spotify.com/album/4DqZL9kZ0FyueNdj0KhYNa) | 3:45 | 2023-07-21 | 2024-02-03 |
 | [Aonde Quer Que Eu Vá](https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Arquivo II 1991 \- 2000](https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6) | 4:17 | 2023-07-21 |  |
 | [Assunto Nós Dois](https://open.spotify.com/track/1YjxRhcSs3W3lglTFJQbeg) | [Luca Latorre](https://open.spotify.com/artist/2gaH37knCSLMyqd0owKdP6) | [Assunto Nós Dois](https://open.spotify.com/album/45EnE3sSlQMHqtBPpsQNln) | 2:57 | 2023-07-21 |  |
 | [Bate Coração](https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk), [Lucas Sfair](https://open.spotify.com/artist/7shKx1EfxkHU1nDqBzQQaq) | [Bate Coração](https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE) | 2:57 | 2023-07-21 |  |
@@ -109,6 +109,7 @@
 | [Sós \- Acústico](https://open.spotify.com/track/3iaY9cVudnqLKDunk7YPbY) | [Âncora](https://open.spotify.com/artist/1CWYeo1UZcuAf5hvqVnCxb) | [acústico em casa](https://open.spotify.com/album/29EtFTtJg6BOWRYlfjAwUu) | 2:58 | 2023-07-21 | 2023-09-02 |
 | [Te Ver Superar](https://open.spotify.com/track/6jv4iTAifiW8IQfWQkBAjK) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Te Ver Superar](https://open.spotify.com/album/4gYeHMeI7uSLxlNpCUifvO) | 3:44 | 2023-07-21 |  |
 | [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 | 2023-07-21 | 2023-10-21 |
+| [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 | 2024-02-02 |  |
 | [The Glass](https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:49 | 2023-11-17 |  |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2023-07-21 | 2023-12-09 |
 | [The Luck You Had](https://open.spotify.com/track/1JwNYCTj60VuK5WK18PkTb) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [The Luck You Had](https://open.spotify.com/album/5ys6y6yA21dn4kIZ5ud0T2) | 4:24 | 2023-07-21 | 2023-08-26 |

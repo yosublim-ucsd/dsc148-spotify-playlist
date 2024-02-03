@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 443278,
+  "2024-02-03": 444059,
   "date_first_scraped": "2023-03-26",
   "description": "I really wish your real name is my last name \ud83e\udd21",
   "name": "membadut",
@@ -1329,6 +1329,24 @@
       "duration_ms": 131957,
       "name": "I Can't Wait",
       "url": "https://open.spotify.com/track/0X6urbVPZcWoeb68fTsmV3"
+    },
+    {
+      "album": {
+        "name": "Live in Peter's Attic",
+        "url": "https://open.spotify.com/album/0jGd0wCQBaOe5IPeIn43H5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Burg",
+          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243796,
+      "name": "I Don't Wanna Be Okay Without You",
+      "url": "https://open.spotify.com/track/5cJZPy9Tad2aT3ZMnN6yvd"
     },
     {
       "album": {

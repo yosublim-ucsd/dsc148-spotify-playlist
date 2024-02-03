@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Christian Nodal, Peso Pluma. ",
+  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Gabito Ballesteros, Natanael Cano.",
   "name": "La Reina: \u00c9xitos de la M\u00fasica Mexicana",
   "tracks": [
     {
@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 153953,
       "name": "Alch Si",
       "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
@@ -2859,6 +2859,24 @@
     },
     {
       "album": {
+        "name": "Empat\u00eda",
+        "url": "https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244219,
+      "name": "Empat\u00eda",
+      "url": "https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh"
+    },
+    {
+      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -4666,7 +4684,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 170237,
       "name": "Mafiosa",
       "url": "https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb"
@@ -6446,6 +6464,28 @@
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
+    },
+    {
+      "album": {
+        "name": "Proyecto X",
+        "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158036,
+      "name": "Proyecto X",
+      "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
     },
     {
       "album": {

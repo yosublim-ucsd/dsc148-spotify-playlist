@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,658 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,691 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 45 | [We Don't Ever Stop](https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [We Don’t Ever Stop](https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV) | 2:40 |
 | 46 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
 | 47 | [Changes \- Timmy Trumpet Remix](https://open.spotify.com/track/5JZMjnhb3rcAJXn9L1xTIU) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Changes \(Timmy Trumpet Remix\)](https://open.spotify.com/album/57YOijzcUtmTsqIDoKuT2J) | 2:26 |
-| 48 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 |
-| 49 | [XTC](https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [XTC](https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g) | 3:04 |
+| 48 | [XTC](https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [XTC](https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g) | 3:04 |
+| 49 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 |
 | 50 | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I) | 3:45 |
 | 51 | [Waiting For Nothing](https://open.spotify.com/track/2BSWidCfy0WZ7fkpwc7rAD) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [LIFTED](https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV) | 4:08 |
 | 52 | [Patience](https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 59 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 |
 | 60 | [Gravity](https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:29 |
 
-Snapshot ID: `MCxmZTg2NTU2Y2MzMGFmNzQ2NTk5Yjg1ZTQ3MzI2M2Q4YzJmMzhhODVm`
+Snapshot ID: `MCxlNTg5MWNkODAxMzI4M2MzMzJhYzE4ZjMzMjdlNDNhNDZmMTk4OTI4`

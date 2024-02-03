@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 19224,
+  "2024-02-03": 19234,
   "date_first_scraped": "2021-12-28",
   "description": "Listen to Arab women, at full volume. Cover: Dana Salah\n\n\n",
   "name": "EQUAL Arabia",
@@ -1762,6 +1762,24 @@
     },
     {
       "album": {
+        "name": "Bahki Annak",
+        "url": "https://open.spotify.com/album/0rE6jaJiZYOKePt6H6f2VX"
+      },
+      "artists": [
+        {
+          "name": "Nawal Al Zoghbi",
+          "url": "https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213428,
+      "name": "Bahki Annak",
+      "url": "https://open.spotify.com/track/7MqKFhAg2hHT4ek4bqonoJ"
+    },
+    {
+      "album": {
         "name": "Baktom",
         "url": "https://open.spotify.com/album/3ewFQuhWCrQteYGg41IHez"
       },
@@ -1777,6 +1795,24 @@
       "duration_ms": 190450,
       "name": "Baktom",
       "url": "https://open.spotify.com/track/00RZAphqszZAEbYc4iZIvv"
+    },
+    {
+      "album": {
+        "name": "Bala ma nehess",
+        "url": "https://open.spotify.com/album/47NHl1um8LKz4Aczk6kkhf"
+      },
+      "artists": [
+        {
+          "name": "May Abd El Aziz",
+          "url": "https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124999,
+      "name": "Bala ma nehess",
+      "url": "https://open.spotify.com/track/7gMTanziirD9trMsg6ya1x"
     },
     {
       "album": {
@@ -7934,6 +7970,24 @@
     },
     {
       "album": {
+        "name": "Ta3ala Wefrah",
+        "url": "https://open.spotify.com/album/15Q2tVLsA3e7LBK5d3kcA6"
+      },
+      "artists": [
+        {
+          "name": "Maya Diab",
+          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216709,
+      "name": "Ta3ala Wefrah",
+      "url": "https://open.spotify.com/track/6qAzmWlNTpJAzw2nwNdO2t"
+    },
+    {
+      "album": {
         "name": "Taahod Lel Bachariyye",
         "url": "https://open.spotify.com/album/5YkA9Rs1FyzoDXrhjkNMFJ"
       },
@@ -8385,6 +8439,24 @@
       "duration_ms": 219428,
       "name": "Wana",
       "url": "https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss"
+    },
+    {
+      "album": {
+        "name": "Wana Lewahdy",
+        "url": "https://open.spotify.com/album/7zRBh6T6ogJr1bK6cy1oky"
+      },
+      "artists": [
+        {
+          "name": "Wafaa",
+          "url": "https://open.spotify.com/artist/4VgYG6D2QMDpKm1h81NQaf"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238269,
+      "name": "Wana Lewahdy",
+      "url": "https://open.spotify.com/track/70z2Zrg6oDt0oDWOhUMB5m"
     },
     {
       "album": {

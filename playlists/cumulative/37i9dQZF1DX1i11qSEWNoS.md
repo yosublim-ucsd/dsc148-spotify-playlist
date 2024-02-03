@@ -4,7 +4,7 @@
 
 > und macht laune
 
-172 songs - 8 hr 25 min
+173 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Cooler Than Me](https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Cooler Than Me](https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP) | 2:59 | 2023-07-21 |  |
 | [Crying at the Discoteque \- Radio Edit](https://open.spotify.com/track/7gQAFGUyHPcY0cQNPsjMf0) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Casino](https://open.spotify.com/album/5FWRzWPvOHCxOoo0ibUfI5) | 3:51 | 2023-12-28 | 2024-01-02 |
 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K) | 2:27 | 2023-10-28 |  |
+| [Dernière danse \- Techno Mix](https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Dernière danse \(Techno Mix\)](https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q) | 3:17 | 2024-02-01 |  |
 | [Ding](https://open.spotify.com/track/5LH1z4ma2TN2aVeESXthj9) | [Seeed](https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV) | [Next!](https://open.spotify.com/album/3BKfDiq9KWSmbV7NHoCGlt) | 3:26 | 2023-07-21 |  |
 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R) | 2:44 | 2023-09-08 | 2023-10-04 |
 | [Do You Want Me?](https://open.spotify.com/track/6pRoaBsWuUgPe95HsDQcy9) | [DJ Hyperdrive](https://open.spotify.com/artist/4SpabttFpFvc0lqr5gYPen), [HEISSS Berlin](https://open.spotify.com/artist/4WGG9x0FqlRRkdKixyddHK) | [Do You Want Me?](https://open.spotify.com/album/6eMT501Dhb2HahE3ml3uZV) | 6:31 | 2023-12-28 | 2024-01-02 |
@@ -154,7 +155,7 @@
 | [TABU.](https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [TABU.](https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom) | 2:15 | 2023-07-21 |  |
 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 | 2023-07-21 | 2023-08-26 |
 | [Tempo](https://open.spotify.com/track/4U4wfzEfxCHCiAdPg3oage) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Tempo](https://open.spotify.com/album/1xQnVy9txnqnRnbr2nlJf2) | 2:11 | 2023-07-21 | 2023-11-27 |
-| [Thank You \(Not So Bad\)](https://open.spotify.com/track/6a39HPcHKbPD536syYsRra) | [RobxDan](https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01), [Consilium](https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/3SmoOc6Jcej35ioy9xpB7j) | 2:28 | 2023-11-17 |  |
+| [Thank You \(Not So Bad\)](https://open.spotify.com/track/6a39HPcHKbPD536syYsRra) | [RobxDan](https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01), [Consilium](https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/3SmoOc6Jcej35ioy9xpB7j) | 2:28 | 2023-11-17 | 2024-02-03 |
 | [The Bad Touch 2k20](https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Empyre One](https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22) | [The Bad Touch 2k20](https://open.spotify.com/album/66mM7VqKVfvV9dhZpj0Hat) | 2:40 | 2023-07-21 |  |
 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 | 2023-07-21 |  |
 | [The Way I Are \- Techno Remix](https://open.spotify.com/track/2HaHE0atvHTRKvIzrAnUCD) | [Consilium](https://open.spotify.com/artist/6qNTW3XIYFh6xV9V6Ymcgo), [RobxDan](https://open.spotify.com/artist/3LCCYKMCRF8ckGSHbhVS01) | [The Way I Are \(Techno Remix\)](https://open.spotify.com/album/0fPS05JQwPESOcZGcS0Qqk) | 2:26 | 2024-01-05 |  |

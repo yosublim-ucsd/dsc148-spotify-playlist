@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Exai",
+        "url": "https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 739494,
+      "name": "bladelores",
+      "url": "https://open.spotify.com/track/31vEhUEiOYgGoDW95wyPpi"
+    },
+    {
+      "album": {
         "name": "Incunabula",
         "url": "https://open.spotify.com/album/4KROnLN6Didp0F97RXaW7a"
       },
@@ -2720,7 +2738,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 249800,
       "name": "pt2ph8",
       "url": "https://open.spotify.com/track/5bGWqRBnxTj3gxsjpOiuxc"

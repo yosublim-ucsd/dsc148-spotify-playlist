@@ -4,11 +4,12 @@
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-230 songs - 16 hr 41 min
+231 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Beautiful Farewell](https://open.spotify.com/track/2dekdGGBynn4GIAJE1sIa5) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [잘못된 만남](https://open.spotify.com/album/0eqAutoBmz9KUKovFlv7Qg) | 4:10 | 2021-04-21 |  |
+| [A Beautiful Farewell](https://open.spotify.com/track/4uYt1qSWwaXnPttPgDdEfZ) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Kim Gun Mo 3](https://open.spotify.com/album/7MC1rUuYaRivDt9xHwxyPO) | 4:10 | 2021-04-21 |  |
 | [A Daily Song](https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be ordinary](https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe) | 4:18 | 2021-04-21 |  |
 | [After You’ve Gone](https://open.spotify.com/track/6MbO4CpHNgsdV4dn2cGKWp) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Circular](https://open.spotify.com/album/4lRCZxpFrnsWWdeT0T0qVn) | 4:06 | 2021-04-21 |  |
 | [All For You](https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:15 | 2021-04-21 |  |

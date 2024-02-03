@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 100670,
+  "2024-02-03": 100719,
   "date_first_scraped": "2023-02-15",
   "description": "The best soundtrack to relax and stretch your body before or after training!",
   "name": "Stretching",
@@ -204,6 +204,24 @@
     },
     {
       "album": {
+        "name": "Behind Blue Eyes",
+        "url": "https://open.spotify.com/album/7yHOE5W3lfTf3c2K8gorFm"
+      },
+      "artists": [
+        {
+          "name": "Brassfield",
+          "url": "https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/4bjwOaC6YzQAnbSNaWTJ7a"
+    },
+    {
+      "album": {
         "name": "L\u00fac EP",
         "url": "https://open.spotify.com/album/4TUtNswdfx1J2kt0eKQqE2"
       },
@@ -291,6 +309,24 @@
       "duration_ms": 213883,
       "name": "Blanket On The Ground",
       "url": "https://open.spotify.com/track/1OisioJjA7Y2pM19yBf4jl"
+    },
+    {
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1"
+      },
+      "artists": [
+        {
+          "name": "Demi Femme",
+          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206819,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF"
     },
     {
       "album": {
@@ -939,6 +975,24 @@
       "duration_ms": 163414,
       "name": "Hallelujah I Love Her So",
       "url": "https://open.spotify.com/track/4Fuyarf5fHo2zJ6GoYC48N"
+    },
+    {
+      "album": {
+        "name": "Hands To Myself",
+        "url": "https://open.spotify.com/album/22F8uvXf7OYOoWxa2zKJdI"
+      },
+      "artists": [
+        {
+          "name": "Kim & Otto",
+          "url": "https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Hands To Myself",
+      "url": "https://open.spotify.com/track/3pZmWRdZfUMGgxQrEhTRKG"
     },
     {
       "album": {
@@ -1865,7 +1919,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 163833,
       "name": "Sex is on fire",
       "url": "https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1"
@@ -2079,6 +2133,24 @@
       "duration_ms": 181125,
       "name": "Sure Thing - Acoustic",
       "url": "https://open.spotify.com/track/0NjllBNctm9XrsGOYF87jS"
+    },
+    {
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/0diqsjfEEOC1n4LVVLSMgr"
+      },
+      "artists": [
+        {
+          "name": "Von Allen",
+          "url": "https://open.spotify.com/artist/6XzdZwXu9yspPxr3u2DnBG"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217078,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/1cskeMwfKX1G0mV1T0ypHf"
     },
     {
       "album": {
@@ -2369,6 +2441,24 @@
       "duration_ms": 173250,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491"
+    },
+    {
+      "album": {
+        "name": "You're Losing Me",
+        "url": "https://open.spotify.com/album/4jFe1w3b0ovGoiXjJ3lL7i"
+      },
+      "artists": [
+        {
+          "name": "Kody Ternes",
+          "url": "https://open.spotify.com/artist/3kcZRvJW10HzHleumOMgTc"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200153,
+      "name": "You're Losing Me",
+      "url": "https://open.spotify.com/track/5ScpcdugUeOQTbVxYCBiuy"
     },
     {
       "album": {

@@ -1,32 +1,36 @@
 {
-  "description": "Music from the most memorable halftime shows. Cover: Rihanna",
-  "num_followers": 89979,
+  "description": "Music from the most memorable halftime shows. Cover: Usher",
+  "num_followers": 90003,
   "original_name": "Halftime Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDMxODMwOTFmOTg4YTcxNmQyN2FmM2Y4MGRhM2I0NzY2NzU4ZGI2",
+  "snapshot_id": "MCw0NjYxZDZkNGMyMjFhNzQ1NDg3ODVmNTNkODM4Yjc5MzQ4MWQ0ZjBm",
   "tracks": [
     {
-      "added_at": "2023-01-28 00:44:44",
+      "added_at": "2024-02-02 20:46:23",
       "album": {
-        "name": "Good Girl Gone Bad",
-        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         },
         {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         }
       ],
-      "duration_ms": 275986,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV"
+      "duration_ms": 250373,
+      "name": "Yeah! (feat. Lil Jon & Ludacris)",
+      "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -49,24 +53,24 @@
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
     },
     {
-      "added_at": "2023-01-28 00:44:44",
+      "added_at": "2024-02-02 20:46:23",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+        "name": "Here I Stand",
+        "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
+      "duration_ms": 259720,
+      "name": "Love in This Club (feat. Young Jeezy)",
+      "url": "https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -85,24 +89,24 @@
       "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
     },
     {
-      "added_at": "2023-01-28 00:44:44",
+      "added_at": "2024-02-02 20:46:23",
       "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
+        "name": "Raymond v Raymond (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         },
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
         }
       ],
-      "duration_ms": 215226,
-      "name": "We Found Love",
-      "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
+      "duration_ms": 269493,
+      "name": "OMG (feat. will.i.am)",
+      "url": "https://open.spotify.com/track/1bM50INir8voAkVoKuvEUI"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -123,22 +127,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Loud (Japan Version)",
-        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Only Girl (In The World)",
-      "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "ASTROWORLD",
         "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
       },
@@ -153,20 +141,24 @@
       "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
     },
     {
-      "added_at": "2023-01-28 00:44:44",
+      "added_at": "2024-02-02 20:46:23",
       "album": {
-        "name": "Unapologetic (Edited Version)",
-        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
+        "name": "Raymond v Raymond (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
-      "duration_ms": 225146,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
+      "duration_ms": 220800,
+      "name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+      "url": "https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -205,6 +197,22 @@
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
     },
     {
+      "added_at": "2024-02-02 20:46:23",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Confessions Part II",
+      "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
+    },
+    {
       "added_at": "2023-01-28 00:44:44",
       "album": {
         "name": "After Hours",
@@ -221,6 +229,22 @@
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
+      "added_at": "2024-02-02 20:46:23",
+      "album": {
+        "name": "Looking 4 Myself (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/12eMQUn2GzfsfsQLH53M19"
+    },
+    {
       "added_at": "2023-01-28 00:44:44",
       "album": {
         "name": "The Fame Monster (Deluxe Edition)",
@@ -235,6 +259,22 @@
       "duration_ms": 294573,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "Loud (Japan Version)",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Only Girl (In The World)",
+      "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -275,6 +315,22 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -291,22 +347,6 @@
       "duration_ms": 270586,
       "name": "Still D.R.E.",
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -367,22 +407,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "She Will Be Loved - Radio Mix",
-      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "Justified",
         "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
@@ -395,6 +419,58 @@
       "duration_ms": 267266,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
+    },
+    {
+      "added_at": "2024-02-02 20:46:23",
+      "album": {
+        "name": "Loud (Japan Version)",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "S&M",
+      "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 161506,
+      "name": "The Next Episode",
+      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 259453,
+      "name": "She Will Be Loved - Radio Mix",
+      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -447,26 +523,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 161506,
-      "name": "The Next Episode",
-      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -483,38 +539,6 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "Poker Face",
-      "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -555,6 +579,26 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -575,6 +619,22 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
         "name": "Out Of Our Heads",
         "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
       },
@@ -587,6 +647,22 @@
       "duration_ms": 222813,
       "name": "(I Can't Get No) Satisfaction - Mono Version",
       "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Poker Face",
+      "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -659,22 +735,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 178360,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
@@ -707,18 +767,18 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
       "artists": [
         {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 200400,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+      "duration_ms": 178360,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -735,6 +795,22 @@
       "duration_ms": 209200,
       "name": "Just A Girl",
       "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -911,6 +987,22 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
+        "name": "Ain't Your Mama",
+        "url": "https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 218234,
+      "name": "Ain't Your Mama",
+      "url": "https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
         "name": "Under Construction",
         "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
       },
@@ -955,22 +1047,6 @@
       "duration_ms": 206080,
       "name": "Formation",
       "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
-        "name": "Ain't Your Mama",
-        "url": "https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 218234,
-      "name": "Ain't Your Mama",
-      "url": "https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -1059,6 +1135,22 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG"
       },
@@ -1127,22 +1219,6 @@
       "duration_ms": 381626,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "Let's Get Loud",
-      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -1475,6 +1551,22 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
+        "name": "Best Of Number Ones",
+        "url": "https://open.spotify.com/album/7qxMrD1a1AEWPmTiiltWda"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 272386,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/28IZUzBnFsBxyrgdsdlQPg"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
         "name": "Merry, Merry Christmas",
         "url": "https://open.spotify.com/album/0Ttc1BQu1k3SfU02vn2cM5"
       },
@@ -1507,22 +1599,6 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Best Of Number Ones",
-        "url": "https://open.spotify.com/album/7qxMrD1a1AEWPmTiiltWda"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 272386,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/28IZUzBnFsBxyrgdsdlQPg"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
         "name": "Throwback Party",
         "url": "https://open.spotify.com/album/1FVXIAyitK6wgpiKMSqc40"
       },
@@ -1535,6 +1611,22 @@
       "duration_ms": 289493,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/3w01lhgzYV8BHPqwC9BOte"
+    },
+    {
+      "added_at": "2023-01-28 00:44:44",
+      "album": {
+        "name": "Cuts Both Ways",
+        "url": "https://open.spotify.com/album/4rPsV2qfjewaH9tAidFVv9"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Get on Your Feet",
+      "url": "https://open.spotify.com/track/7awBgmQ3B0YscMXPBwE1gQ"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -1567,86 +1659,6 @@
       "duration_ms": 159066,
       "name": "It's A Little Too Late",
       "url": "https://open.spotify.com/track/0j3Ly6UYhwEgAiXeCERVJM"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
-        "name": "Cuts Both Ways",
-        "url": "https://open.spotify.com/album/4rPsV2qfjewaH9tAidFVv9"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Get on Your Feet",
-      "url": "https://open.spotify.com/track/7awBgmQ3B0YscMXPBwE1gQ"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
-        "name": "Order In The Court",
-        "url": "https://open.spotify.com/album/6CUx1FX3ctnbXGieFT7inL"
-      },
-      "artists": [
-        {
-          "name": "Queen Latifah",
-          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "Paper",
-      "url": "https://open.spotify.com/track/5wOFLFoIhXBaKGtgCc62wW"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/7IAaeP93y9SgYQ6MKWA0hL"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Release Yourself",
-      "url": "https://open.spotify.com/track/24JnivykEgycnelmeyvZNl"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
-        "name": "Bennett Sings Ellington / Hot And Cool",
-        "url": "https://open.spotify.com/album/7uRqIpnqW1nI0d3fkamMa9"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 276400,
-      "name": "Caravan",
-      "url": "https://open.spotify.com/track/3yQKTiqSp2tnEarIw5WhuR"
-    },
-    {
-      "added_at": "2023-01-28 00:44:44",
-      "album": {
-        "name": "Elephunk",
-        "url": "https://open.spotify.com/album/0XZkDl6U3R1gdTvTIpZKL7"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 452546,
-      "name": "Let's Get It Started",
-      "url": "https://open.spotify.com/track/50w5mfnGoJMFQwlf3yq98v"
     }
   ],
   "unique_name": "Halftime Hits",

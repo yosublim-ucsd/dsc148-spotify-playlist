@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie. Cover: Ramona & Ximena Sari\u00f1ana",
+  "description": "Fresh Latin Indie. Cover: J\u00f3sean Log",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -750,6 +750,28 @@
       "duration_ms": 226595,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/7rLozI09IOepDfaF5umbK8"
+    },
+    {
+      "album": {
+        "name": "Antes De Partir",
+        "url": "https://open.spotify.com/album/5vcN3zxTsyTPZcIlVDNhOq"
+      },
+      "artists": [
+        {
+          "name": "Moncho Berry",
+          "url": "https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC"
+        },
+        {
+          "name": "Julian Carrion",
+          "url": "https://open.spotify.com/artist/6A9coo36yFEB0cfxZT8cih"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327064,
+      "name": "Antes De Partir",
+      "url": "https://open.spotify.com/track/2mbxifzlODJWwSG5O6LMuY"
     },
     {
       "album": {
@@ -2587,6 +2609,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Normal De Lo N... (83%)",
+        "url": "https://open.spotify.com/album/6PC2b8OigqaVPbTZMMENQW"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262593,
+      "name": "En Vez de Huir",
+      "url": "https://open.spotify.com/track/4mB1OMRN8CnaAmWoW1wjba"
+    },
+    {
+      "album": {
         "name": "2 A.M.",
         "url": "https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU"
       },
@@ -3250,6 +3290,24 @@
       "duration_ms": 218400,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1Dj3xVHKPQIxh1nRX1lN75"
+    },
+    {
+      "album": {
+        "name": "Hablando a tu coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239500,
+      "name": "Hablando a tu coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay"
     },
     {
       "album": {
@@ -7774,7 +7832,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 220285,
       "name": "Saico",
       "url": "https://open.spotify.com/track/1O6C6BFlZQ9QLzn8yY8uHG"
@@ -9732,7 +9790,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 206594,
       "name": "veo luces",
       "url": "https://open.spotify.com/track/63wvx0oN5gandg86x2FSup"
@@ -10104,7 +10162,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 182296,
       "name": "Ya no sigo esperando por ti",
       "url": "https://open.spotify.com/track/1MGtxp2QVsI2DDAeGaAqpg"

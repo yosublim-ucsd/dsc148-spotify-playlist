@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 46305,
+  "num_followers": 46342,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWMwYjEwZmZhMjNkZTAzYTI1M2JjOWY4NTM5MTc4NmVkODE4NzM1",
+  "snapshot_id": "MCw5MDU3ZjVlNzYwODFjZWM1NDVkNDRmMWU0MmEzZTBhMDQ2MWFhN2Fi",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:58",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Stop Rockin' That Train",
-        "url": "https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan",
-          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
-        }
-      ],
-      "duration_ms": 163480,
-      "name": "Choo Choo Ch' Boogie",
-      "url": "https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Blues Kingpin",
         "url": "https://open.spotify.com/album/2X3vE9Ha8prWqWl4rIzaD3"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 139626,
       "name": "Boogie Woogie Baby",
       "url": "https://open.spotify.com/track/4fiD2HdUWxJFhZ6uViHDze"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Stop Rockin' That Train",
+        "url": "https://open.spotify.com/album/5JeKB4kKhvVNzCpdtrNSCl"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan",
+          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+        }
+      ],
+      "duration_ms": 163480,
+      "name": "Choo Choo Ch' Boogie",
+      "url": "https://open.spotify.com/track/0OYqsVfVDX9uCcU90Xnzp2"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "Return Of The Boogie Man",
+        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
+      },
+      "artists": [
+        {
+          "name": "Preacher Jack",
+          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Jessie's Boogie Woogie",
+      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "Boogie Stomp",
         "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 287190,
       "name": "Boogie Stomp",
       "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
-        "name": "Return Of The Boogie Man",
-        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
-      },
-      "artists": [
-        {
-          "name": "Preacher Jack",
-          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Jessie's Boogie Woogie",
-      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Omniboogie 2012",
-        "url": "https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9"
+        "name": "New Orleans Piano (Mono)",
+        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
       },
       "artists": [
         {
-          "name": "Rob Rio",
-          "url": "https://open.spotify.com/artist/5M5IKdQXLYVpdYnJ2Mi54K"
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
         }
       ],
-      "duration_ms": 115582,
-      "name": "Quarter Bass Boogie",
-      "url": "https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet"
+      "duration_ms": 160795,
+      "name": "Boogie Woogie - Mono",
+      "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -831,34 +831,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "New Orleans Piano (Mono)",
-        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
+        "name": "Omniboogie 2012",
+        "url": "https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9"
       },
       "artists": [
         {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+          "name": "Rob Rio",
+          "url": "https://open.spotify.com/artist/5M5IKdQXLYVpdYnJ2Mi54K"
         }
       ],
-      "duration_ms": 160795,
-      "name": "Boogie Woogie - Mono",
-      "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
-        "name": "Plays Mac Rebennack",
-        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 238315,
-      "name": "Mac's Boogie",
-      "url": "https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI"
+      "duration_ms": 115582,
+      "name": "Quarter Bass Boogie",
+      "url": "https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -895,6 +879,22 @@
       "duration_ms": 221657,
       "name": "Memphis Blues",
       "url": "https://open.spotify.com/track/0wX7APzteSLd07TL8St7iY"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Plays Mac Rebennack",
+        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 238315,
+      "name": "Mac's Boogie",
+      "url": "https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Boogie Woogie 50",
-        "url": "https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann's South Side Piano",
-          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Sun Records Originals: You Are My Sunshine",
         "url": "https://open.spotify.com/album/0P5c0KZez2nVq9G3kbw83m"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 143000,
       "name": "Born To Lose",
       "url": "https://open.spotify.com/track/7bgCLSHEbtndUh7YHPS4fI"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Boogie Woogie 50",
+        "url": "https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann's South Side Piano",
+          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
+        }
+      ],
+      "duration_ms": 150973,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Boogie Woogie Gals",
-        "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
-      },
-      "artists": [
-        {
-          "name": "Anisteen Allen",
-          "url": "https://open.spotify.com/artist/5H7GMEfLmgBJlLlEltL1wF"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Bongo Boogie",
-      "url": "https://open.spotify.com/track/0z54FzJQpU4t2qV1zGYrCj"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "St. Louis Blues Piano Man",
         "url": "https://open.spotify.com/album/1tFDjvUI4XarpDcZQLZOoX"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 248226,
       "name": "Piggly Wiggly Blues",
       "url": "https://open.spotify.com/track/1OuMSahqxZ8dEmWJzzwFQ5"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Boogie Woogie Gals",
+        "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
+      },
+      "artists": [
+        {
+          "name": "Anisteen Allen",
+          "url": "https://open.spotify.com/artist/5H7GMEfLmgBJlLlEltL1wF"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Bongo Boogie",
+      "url": "https://open.spotify.com/track/0z54FzJQpU4t2qV1zGYrCj"
     },
     {
       "added_at": "2023-09-15 11:42:58",

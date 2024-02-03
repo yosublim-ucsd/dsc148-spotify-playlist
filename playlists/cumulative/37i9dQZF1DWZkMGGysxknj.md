@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-279 songs - 15 hr 54 min
+280 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Goodbyes](https://open.spotify.com/track/6Qa0pmGUAcl2TA0ZD3b448) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Goodbyes](https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik) | 2:05 | 2021-07-16 | 2023-12-07 |
 | [Graveyard \- Acoustic](https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Graveyard](https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1) | 4:14 | 2021-07-16 |  |
 | [Grow](https://open.spotify.com/track/0CqM6zDR0TCug8F4XFSVK3) | [M w S](https://open.spotify.com/artist/6YvmHs9jWcXOHZ6SDtDeS8) | [Grow](https://open.spotify.com/album/2BkwfdtFYuxTEU9Tv4eoUm) | 3:31 | 2021-07-16 | 2022-07-29 |
+| [Hablando a tu corazón](https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Hablando a tu corazón](https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh) | 3:59 | 2024-02-02 |  |
 | [Hacia El Amor \- Acústico](https://open.spotify.com/track/1a8JXGNz4a9gmiAdEKUpks) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Hacia El Amor \(Acústico\)](https://open.spotify.com/album/0sVRD9qXjjQIy9E6GY6XIY) | 3:40 | 2021-07-16 | 2022-07-29 |
 | [Happy Now \- Acoustic](https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Happy Now \(Acoustic Version\)](https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm) | 3:33 | 2021-07-16 |  |
 | [Havana](https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb) | [LHITNEY](https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog) | [Havana](https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp) | 3:05 | 2021-07-16 |  |
@@ -121,7 +122,7 @@
 | [I Make Sparks](https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [I Make Sparks](https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm) | 3:38 | 2021-07-16 |  |
 | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh) | [Raye Mills](https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe) | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3) | 4:13 | 2021-07-16 |  |
 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/10e8OyV77FnTWvWhO1x6n6) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/4gQm0leB5zXLbAfqXWMhCp) | 3:31 | 2021-07-16 | 2023-01-03 |
-| [I Want It That Way \- Acoustic](https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp) | [de$ mondo](https://open.spotify.com/artist/0rsEBXnTEhYcnYnewKXhSS), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [I Want It That Way \(Acoustic\)](https://open.spotify.com/album/7dWe7q05jeTrOsSr8mAIP2) | 3:05 | 2021-07-16 |  |
+| [I Want It That Way \- Acoustic](https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp) | [de$ mondo](https://open.spotify.com/artist/0rsEBXnTEhYcnYnewKXhSS), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [I Want It That Way \(Acoustic\)](https://open.spotify.com/album/7dWe7q05jeTrOsSr8mAIP2) | 3:05 | 2021-07-16 | 2024-02-03 |
 | [I'll Sleep When I'm Older](https://open.spotify.com/track/1NPW2NXMFicYNlIEoQRrht) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:40 | 2021-07-16 |  |
 | [I'll Sleep When I'm Older](https://open.spotify.com/track/1siqwUNydX8aQjUIVvJ6Pz) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 3:40 | 2021-07-16 | 2022-10-14 |
 | [I'm a Mess \- Acoustic](https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm a Mess \(Acoustic\)](https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn) | 2:33 | 2021-07-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 
 > The most streamed Ambient X tracks in 2023\. ANNA on cover\. \#spotifywrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,169 likes - 99 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,179 likes - 99 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 | 80 | [Shifting Winds](https://open.spotify.com/track/0DYxc3BTSpWmzuayjWTlMM) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [We All Have Places That We Miss](https://open.spotify.com/album/6fkKyjBBqmc7gmEGqshSAa) | 4:12 |
 | 81 | [Two Chambers](https://open.spotify.com/track/442mGdH9pCBKByOuC6z0V5) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Two Chambers](https://open.spotify.com/album/4viTrVrcTVzwKkij5M2Ma4) | 3:43 |
 | 82 | [Ascending Journy](https://open.spotify.com/track/0Dudid2JOAtq9Nt0Dg0OfT) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF) | [Ascending Journey](https://open.spotify.com/album/0MGjvTelcOSXHZ7RhIQzWW) | 3:22 |
-| 83 | [Where Did We Go?](https://open.spotify.com/track/1LMCUvM0QJP8lzzuCOCGBb) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU) | [Where Did We Go?](https://open.spotify.com/album/1eycPAV7f2n0KDy7hIx6mY) | 2:20 |
+| 83 | [Where Did We Go?](https://open.spotify.com/track/1ah8VQQ7R2C4VmQZxkpJZi) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU) | [Where Did We Go?](https://open.spotify.com/album/4zspzKiLqxBvTECwcFZrRN) | 2:20 |
 | 84 | [Epilogo](https://open.spotify.com/track/41vNN3r7UWsyLWGSwJQR5W) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 2:28 |
 | 85 | [Afterglow](https://open.spotify.com/track/6WCKd0zx7GsMHPufGt8rzG) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Dustlight / 光の塵 / Afterglow](https://open.spotify.com/album/577opext6ZuqRDwowBmMdc) | 3:48 |
 | 86 | [Pause \- Reimagined by Hinako Omori](https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd), [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [Pause \(Reimagined by Hinako Omori\)](https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU) | 3:20 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 | 98 | [Velvet Shield](https://open.spotify.com/track/7s5SFX1uW9cvecsLQ5tRGf) | [Preslav Literary School](https://open.spotify.com/artist/2i5ykOuXu6SytWoJw7MFJY) | [Mycelium](https://open.spotify.com/album/2YncKGBm21QkOrfWnterb9) | 3:56 |
 | 99 | [Kuware Uta \- Intro](https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 2:09 |
 
-Snapshot ID: `MCwwZTkyMjY2MDY1Mjg2YzBkOGU3ODAyOTk2Zjc2NWVlZjYwMzI5OTM5`
+Snapshot ID: `MCxiMGE4ZjlhODA3ZDQzMzFmNTQ2YzZjNjViMDE2MjQ0MWY1ZDQxZGMw`

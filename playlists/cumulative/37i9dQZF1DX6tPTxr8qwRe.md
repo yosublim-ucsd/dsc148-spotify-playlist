@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Charlotte Sands
 
-580 songs - 1 day 2 hr 36 min
+585 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [heartbreak in the hamptons](https://open.spotify.com/track/447l6JfZdDYsmHjrJLRvEh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [hell is a teenage girl](https://open.spotify.com/album/2xhb39yawrcKkdIPvL2VJ4) | 2:35 | 2023-07-14 |  |
 | [heartless](https://open.spotify.com/track/4tmcCFi4mCUlGFyeedR8vN) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [heartless](https://open.spotify.com/album/3ZrblKKFAH9jahmgdqMR1g) | 2:53 | 2023-06-30 | 2023-09-09 |
 | [Heaven](https://open.spotify.com/track/0GLEKwNRP5cW30x0WTNfoX) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Heaven](https://open.spotify.com/album/6yeOGs3rN9il6xHVcERw59) | 2:25 | 2023-12-01 |  |
+| [HIGH BY THE BEACH \- SIRENCORE Version](https://open.spotify.com/track/1bLROPTSiepDvid3Q0CzH5) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [HIGH BY THE BEACH \(SIRENCORE Version\)](https://open.spotify.com/album/2KvPr9Ewd7RSC4r2fwd28Z) | 3:10 | 2024-02-02 |  |
 | [High Enough](https://open.spotify.com/track/1D9HQactbJoUudf9B119Y5) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/5ddpf5pxYjw9ob4DjPLuiz) | 3:51 | 2021-11-16 | 2022-02-19 |
 | [Hold Me Down](https://open.spotify.com/track/3nfC5ikuvw3mxDEE10c7EA) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Hold Me Down](https://open.spotify.com/album/2L7xcRtVXalWzgyT76W2Xj) | 2:42 | 2022-01-14 | 2022-03-18 |
 | [hold the applause](https://open.spotify.com/track/7mlFKsO1PVfH0nz1dH7RhZ) | [Mira Housey](https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg) | [hold the applause](https://open.spotify.com/album/51s5xPogZxdN5Eqs3mJLE1) | 2:29 | 2022-06-24 | 2022-10-01 |
@@ -280,6 +281,7 @@
 | [In My Head \(ft\. Josh Dun\)](https://open.spotify.com/track/06EkBgJuvf0zIPCeYwx3vP) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Josh Dun](https://open.spotify.com/artist/1DTwvOULHkUfXGwfJybYga) | [In My Head](https://open.spotify.com/album/0IuGpDVzTsxVpgXyc7qhJR) | 3:08 | 2022-03-18 | 2022-04-02 |
 | [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 | 2022-08-12 | 2022-09-17 |
 | [INFERNO](https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [INFERNO](https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab) | 2:13 | 2021-09-10 | 2022-04-09 |
+| [insane](https://open.spotify.com/track/3wl7mM4pGdw46wpteRJYQS) | [KINGS](https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3) | [mess & a half](https://open.spotify.com/album/6kXyrVr53ipInyenK6EZeL) | 1:59 | 2024-02-02 |  |
 | [Into My Body](https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Into My Body](https://open.spotify.com/album/0fFbuKhFl6pk44s5mETFz6) | 2:24 | 2022-10-28 | 2022-12-16 |
 | [Into My Body](https://open.spotify.com/track/6Idi0H5TS4PwVW91ReBK7z) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:24 | 2022-10-28 | 2023-05-06 |
 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 | 2023-05-26 | 2023-08-19 |
@@ -324,6 +326,7 @@
 | [Love Me Till U Hate Me](https://open.spotify.com/track/0f72jNvO6UORzL8J51jPIW) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Love Me Till U Hate Me](https://open.spotify.com/album/6OB6AKoC7SXypIT5j8mViB) | 3:32 | 2022-05-13 | 2022-11-19 |
 | [luv starved](https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:40 | 2022-03-18 | 2022-05-20 |
 | [madhouse](https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [madhouse](https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U) | 2:05 | 2022-09-09 | 2022-10-29 |
+| [MAGIC](https://open.spotify.com/track/4DtvQH0FFDHAqHrM8tTS5s) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [RECOVER \(Deluxe\)](https://open.spotify.com/album/41KBxe5xPK4LvoivmxhP5T) | 3:33 | 2024-02-02 |  |
 | [Make A Wish](https://open.spotify.com/track/4zuYVAvlOW5rxDjyEzii6N) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Make A Wish](https://open.spotify.com/album/7nUfxVkgiGGaPddm8Y4ojp) | 2:38 | 2022-02-25 | 2022-05-07 |
 | [Make Me Cry \(feat\. Deadbeat Girl\)](https://open.spotify.com/track/2iv9L7pBxfuGIRbJx7ip1D) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U), [Deadbeat Girl](https://open.spotify.com/artist/6V267iCF72e4eP1L3ZkKQt) | [Make Me Cry \(feat\. Deadbeat Girl\)](https://open.spotify.com/album/2DiEV6hfnGqeCud4kf5gyK) | 3:30 | 2023-08-04 | 2023-09-16 |
 | [Man On The Moon](https://open.spotify.com/track/0OnON3yLi4ZSzqhgyFxwdi) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [Man On The Moon](https://open.spotify.com/album/5Okndjg5uas9PGvm8SIRAl) | 2:47 | 2023-06-30 | 2023-09-09 |
@@ -476,6 +479,7 @@
 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 | 2023-10-13 | 2023-10-21 |
 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 | 2024-01-26 |  |
 | [SPOOKED](https://open.spotify.com/track/5z7WYNGTHyrJEPweEuSotD) | [XTINA GG](https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril) | [SPOOKED](https://open.spotify.com/album/1QDMoJMquUqbvL6VmWKffu) | 2:32 | 2023-10-27 |  |
+| [STEPHEN KING](https://open.spotify.com/track/0G5VxInG6PoZuSnBisMXei) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Wasting My Nights](https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF) | 2:59 | 2024-02-02 |  |
 | [STFU](https://open.spotify.com/track/7KDs1jdpDww170OCpPsjV4) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [STFU](https://open.spotify.com/album/13xF7dlZO7Y8wUM1g4Hvrl) | 2:21 | 2022-07-22 | 2022-09-24 |
 | [Still Alive \- From the Original Motion Picture Scream VI](https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Alive \(From the Original Motion Picture Scream VI\)](https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q) | 3:05 | 2023-03-03 | 2023-03-18 |
 | [Strongly Worded Letter](https://open.spotify.com/track/0ZuQFjhs929dxImCpeomRE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:18 | 2023-10-06 | 2023-12-09 |
@@ -561,6 +565,7 @@
 | [WEIRDO](https://open.spotify.com/track/4q0l0eybNVn3ae13cj4OBw) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [WEIRDO](https://open.spotify.com/album/6rDokynybvQJty9nxAAGVh) | 2:30 | 2023-10-13 | 2023-11-25 |
 | [Welcome To The Real World](https://open.spotify.com/track/1qqFDzFd2AZTKP542DsJOZ) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [Welcome To The Real World](https://open.spotify.com/album/1o4IxSYAQM3FIzRfPoSEIT) | 3:02 | 2023-05-19 | 2023-08-05 |
 | [WET WHITE TEE SHIRT \(SIDE A\)](https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES V2](https://open.spotify.com/album/00YldAKY4lZ1LNjb4qyVJ9) | 2:14 | 2023-06-09 | 2023-09-09 |
+| [WHAT IS MY LIFE?](https://open.spotify.com/track/1jIST0E07yOGirz773STTZ) | [Kat Leon](https://open.spotify.com/artist/6YC0XXr4qPMwz3lCpRhWzF) | [WHAT IS MY LIFE?](https://open.spotify.com/album/4st3CiDbPegVzLop0gXYlI) | 2:44 | 2024-02-02 |  |
 | [what it means to be a girl](https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [what it means to be a girl / this is how i learn to say no](https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA) | 2:48 | 2021-12-03 | 2022-04-02 |
 | [what would you do?](https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [what would you do?](https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs) | 2:46 | 2022-05-13 | 2023-02-18 |
 | [What You Need](https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [What You Need](https://open.spotify.com/album/2YWW63Kn9RPJehvYaXEUJV) | 3:16 | 2023-01-06 | 2023-04-29 |

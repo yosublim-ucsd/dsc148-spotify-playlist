@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,905 likes - 32 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,910 likes - 32 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 31 | [Mayfair \- Cambridge Version](https://open.spotify.com/track/6istaDvCXRRswqM4tJRzmE) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 2:11 |
 | 32 | [Black Eyed Dog](https://open.spotify.com/track/1ORNDo58BSH2uP0nNXJTT1) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:27 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDAzZWZlMjJkNjJiY2YwOTYxNDk2NTAxMjU2MmJmNzMzZg==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDAxODc4ZGU3OTcwZTU1OGUxYmVhM2Q0ZjFlODg4ZjNhOQ==`

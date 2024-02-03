@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7yaR5d7FkNX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7yaR5d7FkNX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7yaR5d7FkNX)
 
-### [Rocanlovers](https://open.spotify.com/playlist/37i9dQZF1DX7yaR5d7FkNX)
+### [Brillas](https://open.spotify.com/playlist/37i9dQZF1DX7yaR5d7FkNX)
 
-> Disfrutemos del amor en los tiempos del rock.
+> ✨❤️🌹
 
 208 songs - 12 hr 47 min
 
@@ -205,7 +205,7 @@
 | [Vicio](https://open.spotify.com/track/6YyeAJrK1IECGERP6OMEvI) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Óleos](https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z) | 4:37 | 2022-01-28 |  |
 | [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 | 2022-01-28 |  |
 | [VOID](https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [VOID](https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V) | 3:19 | 2023-05-19 |  |
-| [Volverás](https://open.spotify.com/track/65peiUbnSBGUxhxkRPJBSm) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Volverás](https://open.spotify.com/album/5wKABXihyPEA2YGNnfDttk) | 3:48 | 2023-10-23 |  |
+| [Volverás](https://open.spotify.com/track/65peiUbnSBGUxhxkRPJBSm) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Volverás](https://open.spotify.com/album/5wKABXihyPEA2YGNnfDttk) | 3:48 | 2023-10-23 | 2024-02-03 |
 | [Vorágine](https://open.spotify.com/track/2MWTbzD8Sy4sRgMjuAazkJ) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Orbitando](https://open.spotify.com/album/2WX8hAKuu55kXM3xxYAbPL) | 5:27 | 2022-11-25 | 2023-02-18 |
 | [Vueltas](https://open.spotify.com/track/27yF4FbBzJ2vy65aqNdCTm) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Vueltas](https://open.spotify.com/album/4yK2y4i9chYEAEwzn1fzSx) | 3:32 | 2023-07-07 | 2023-09-30 |
 | [Vuelve a Querer](https://open.spotify.com/track/1WxGvAfNFESFwjrBpSEk7I) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Vuelve a Querer](https://open.spotify.com/album/5ePVvhh7X6TpFuYhXQaODp) | 3:57 | 2022-03-11 | 2023-02-18 |

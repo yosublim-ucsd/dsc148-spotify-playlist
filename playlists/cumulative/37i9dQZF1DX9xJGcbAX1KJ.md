@@ -4,7 +4,7 @@
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-316 songs - 19 hr 43 min
+317 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Electric Feel](https://open.spotify.com/track/4ImkB7exKgLcZ8sYH4K9oW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Electric Feel](https://open.spotify.com/album/1lki2iEbNgVFSq0VgH8C7L) | 3:19 | 2019-02-22 |  |
 | [Eventually](https://open.spotify.com/track/7JAnAvHXbXSTRnEPKu0Jkg) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Eventually](https://open.spotify.com/album/3PmJUkXa708U9rBVaxz1hY) | 3:46 | 2019-02-22 | 2022-07-05 |
 | [Everlasting Light](https://open.spotify.com/track/4btqwzSNvAcOi2cryL3Not) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Everlasting Light](https://open.spotify.com/album/0DBdj53b2HJSfb66PQelX9) | 2:44 | 2019-02-22 | 2022-07-22 |
+| [Every Breath You Take](https://open.spotify.com/track/5xvAGovFqj41SyAinwvwVV) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take](https://open.spotify.com/album/4RkkQtMpaSid30o3fieIlH) | 3:43 | 2019-02-22 |  |
 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 | 2019-02-22 | 2024-01-14 |
 | [Everybody Hurts \- MTV Unplugged Live Version](https://open.spotify.com/track/3HHTF12zYLGtLsZbBaLMhk) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [The Corrs Unplugged](https://open.spotify.com/album/68QpU7XGT0RIX4NNkPLXzx) | 5:49 | 2019-02-22 | 2022-10-10 |
 | [Everybody Wants to Rule the World](https://open.spotify.com/track/6lDTR2JakgO4nyaqASdtIT) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits Vol\. 2](https://open.spotify.com/album/2WcSVdRwyvMHAnZKq0FvdE) | 4:25 | 2019-02-22 | 2022-07-22 |
@@ -251,7 +252,7 @@
 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ) | 3:03 | 2019-02-22 | 2023-06-23 |
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 | 2019-02-22 |  |
 | [Stitches](https://open.spotify.com/track/3Jy394MtpM2xciRBTzxBlg) | [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Stitches](https://open.spotify.com/album/0SHdoaGuQV2EjhQ6HEX9K2) | 4:06 | 2019-02-22 | 2022-06-16 |
-| [Stolen Dance](https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5) | 3:55 | 2019-02-22 |  |
+| [Stolen Dance](https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5) | 3:55 | 2019-02-22 | 2024-02-03 |
 | [Strangers](https://open.spotify.com/track/1ndN2xj0c486fDmilERzSg) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief \(Deluxe Edition\)](https://open.spotify.com/album/5YUPhKtmR093OVGI4StTMx) | 3:14 | 2019-02-22 | 2022-07-29 |
 | [Strangers \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1XoEPRV7lGokoqQsLcywhN) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Spotify Singles](https://open.spotify.com/album/5BsbcvlsOIHEYIgACGDUFU) | 3:32 | 2019-02-22 | 2022-07-11 |
 | [Strangers \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2OODSSTxWK2i6LQvQJD557) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Spotify Singles](https://open.spotify.com/album/2LRvMxrP2MbJATWGkCJ3Y2) | 3:32 | 2019-02-22 | 2022-07-29 |

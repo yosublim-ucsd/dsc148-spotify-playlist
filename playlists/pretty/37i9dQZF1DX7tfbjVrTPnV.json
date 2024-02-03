@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Lori McKenna",
-  "num_followers": 201226,
+  "num_followers": 201280,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDc3MzU3YmIzNGQzM2UxYTg5ZjFlYmQ3OTMzYTk2ZDBkNWQ1ZWJj",
+  "snapshot_id": "MCxmMjJjNTk0YjgwYTU3NTY0YzFkY2U5ODlkYzYzMTBkNTIyYjBkYzRh",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "My Favorite Picture Of You",
+        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "Hell Bent On A Heartache",
+      "url": "https://open.spotify.com/track/5DLtHTvMX7q8eN8ZVJGqL9"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Southern Family",
         "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "My Favorite Picture Of You",
-        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "Hell Bent On A Heartache",
-      "url": "https://open.spotify.com/track/5DLtHTvMX7q8eN8ZVJGqL9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Black Roses",
+        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
+      },
+      "artists": [
+        {
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "No Later than Soon",
+      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Patty Griffin",
         "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 365440,
       "name": "You're Everything",
       "url": "https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Black Roses",
-        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
-      },
-      "artists": [
-        {
-          "name": "Jim Lauderdale",
-          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "No Later than Soon",
-      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Shine a Light: Field Recordings from the Great American Railroad",
-        "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
-      },
-      "artists": [
-        {
-          "name": "Billy Bragg",
-          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
-        },
-        {
-          "name": "Joe Henry",
-          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
-        }
-      ],
-      "duration_ms": 214949,
-      "name": "The Midnight Special",
-      "url": "https://open.spotify.com/track/0JIUcjcQTRTmxl0jIP9fHW"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Django and Jimmie",
         "url": "https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG"
       },
@@ -1707,18 +1687,38 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Jerusalem",
-        "url": "https://open.spotify.com/album/2alDoMx3PMJpXAnWAfRLrs"
+        "name": "I'm A Song",
+        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
       },
       "artists": [
         {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
         }
       ],
-      "duration_ms": 236186,
-      "name": "Jerusalem",
-      "url": "https://open.spotify.com/track/3r01IuS9w8YHXg75zlKBu5"
+      "duration_ms": 129077,
+      "name": "Let's Have A Good Thing Together",
+      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Shine a Light: Field Recordings from the Great American Railroad",
+        "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
+      },
+      "artists": [
+        {
+          "name": "Billy Bragg",
+          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
+        },
+        {
+          "name": "Joe Henry",
+          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
+        }
+      ],
+      "duration_ms": 214949,
+      "name": "The Midnight Special",
+      "url": "https://open.spotify.com/track/0JIUcjcQTRTmxl0jIP9fHW"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Jerusalem",
+        "url": "https://open.spotify.com/album/2alDoMx3PMJpXAnWAfRLrs"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 236186,
+      "name": "Jerusalem",
+      "url": "https://open.spotify.com/track/3r01IuS9w8YHXg75zlKBu5"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Triage",
         "url": "https://open.spotify.com/album/0DiHlymiDZO7XeIFCC7iMY"
       },
@@ -1755,18 +1771,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "I'm A Song",
-        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
+        "name": "Stitch of the World",
+        "url": "https://open.spotify.com/album/3COhbKE23L3W24wLnLQToD"
       },
       "artists": [
         {
-          "name": "Jim Lauderdale",
-          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
         }
       ],
-      "duration_ms": 129077,
-      "name": "Let's Have A Good Thing Together",
-      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
+      "duration_ms": 227226,
+      "name": "Dusty Old Man",
+      "url": "https://open.spotify.com/track/73TqDe29PdDaqW0ftPLFvA"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1803,22 +1819,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Stitch of the World",
-        "url": "https://open.spotify.com/album/3COhbKE23L3W24wLnLQToD"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 227226,
-      "name": "Dusty Old Man",
-      "url": "https://open.spotify.com/track/73TqDe29PdDaqW0ftPLFvA"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "God's Problem Child",
         "url": "https://open.spotify.com/album/1wzKjL078JEEv3weMFOGa7"
       },
@@ -1851,18 +1851,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Love Calling",
-        "url": "https://open.spotify.com/album/60H0TY0XqRGEsXKovVOHAY"
+        "name": "It Ain't Over Yet",
+        "url": "https://open.spotify.com/album/4mb6UF8cOjSY9pEB3gB1EL"
       },
       "artists": [
         {
-          "name": "Darden Smith",
-          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        },
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        },
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
         }
       ],
-      "duration_ms": 239266,
-      "name": "Angel Flight",
-      "url": "https://open.spotify.com/track/5HXIx1TnpLAJtWS9O10kls"
+      "duration_ms": 314080,
+      "name": "It Ain't Over Yet",
+      "url": "https://open.spotify.com/track/1fB28ISF5QwsPu2nqAPRSV"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1891,6 +1899,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Love Calling",
+        "url": "https://open.spotify.com/album/60H0TY0XqRGEsXKovVOHAY"
+      },
+      "artists": [
+        {
+          "name": "Darden Smith",
+          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Angel Flight",
+      "url": "https://open.spotify.com/track/5HXIx1TnpLAJtWS9O10kls"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Big Day in a Small Town",
         "url": "https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl"
       },
@@ -1903,30 +1927,6 @@
       "duration_ms": 177560,
       "name": "Drinkin' Smokin' Cheatin'",
       "url": "https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "It Ain't Over Yet",
-        "url": "https://open.spotify.com/album/4mb6UF8cOjSY9pEB3gB1EL"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        },
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        },
-        {
-          "name": "John Paul White",
-          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
-        }
-      ],
-      "duration_ms": 314080,
-      "name": "It Ain't Over Yet",
-      "url": "https://open.spotify.com/track/1fB28ISF5QwsPu2nqAPRSV"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2259,6 +2259,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Night Surfer",
+        "url": "https://open.spotify.com/album/1E3Cb8Xor2dqNBnAGU1idb"
+      },
+      "artists": [
+        {
+          "name": "Chuck Prophet",
+          "url": "https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT"
+        }
+      ],
+      "duration_ms": 202541,
+      "name": "Tell Me Anything (Turn to Gold)",
+      "url": "https://open.spotify.com/track/5p44y6jXREhxuh3rpxaNjg"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Picture In a Frame (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
       },
@@ -2275,22 +2291,6 @@
       "duration_ms": 286069,
       "name": "Love & Happiness",
       "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Night Surfer",
-        "url": "https://open.spotify.com/album/1E3Cb8Xor2dqNBnAGU1idb"
-      },
-      "artists": [
-        {
-          "name": "Chuck Prophet",
-          "url": "https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT"
-        }
-      ],
-      "duration_ms": 202541,
-      "name": "Tell Me Anything (Turn to Gold)",
-      "url": "https://open.spotify.com/track/5p44y6jXREhxuh3rpxaNjg"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2315,26 +2315,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Healing Tide",
-        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 260333,
-      "name": "Here is Where the Loving is at (feat. Emmylou Harris)",
-      "url": "https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Old Yellow Moon",
         "url": "https://open.spotify.com/album/33CP9PApYibgmRsx7ux6sE"
       },
@@ -2351,6 +2331,26 @@
       "duration_ms": 172813,
       "name": "Hanging up My Heart",
       "url": "https://open.spotify.com/track/1odrnCw1RmUcevfJz25NJS"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Healing Tide",
+        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 260333,
+      "name": "Here is Where the Loving is at (feat. Emmylou Harris)",
+      "url": "https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "I'll Meet You Here",
-        "url": "https://open.spotify.com/album/6AI6ShkiZ38Kstnh84ulj8"
-      },
-      "artists": [
-        {
-          "name": "Dar Williams",
-          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
-        }
-      ],
-      "duration_ms": 167340,
-      "name": "You Give it All Away",
-      "url": "https://open.spotify.com/track/2ymRmQ051S7rENvEuXJFW3"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "The Lonely, The Lonesome & The Gone",
         "url": "https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP"
       },
@@ -2555,18 +2539,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Invisible Hour",
-        "url": "https://open.spotify.com/album/39RUJggKYbPF85mppr8jJy"
+        "name": "I'll Meet You Here",
+        "url": "https://open.spotify.com/album/6AI6ShkiZ38Kstnh84ulj8"
       },
       "artists": [
         {
-          "name": "Joe Henry",
-          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
+          "name": "Dar Williams",
+          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
         }
       ],
-      "duration_ms": 331013,
-      "name": "Grave Angels",
-      "url": "https://open.spotify.com/track/1tOe4416Cr15amXc5rqpal"
+      "duration_ms": 167340,
+      "name": "You Give it All Away",
+      "url": "https://open.spotify.com/track/2ymRmQ051S7rENvEuXJFW3"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2583,6 +2567,22 @@
       "duration_ms": 236266,
       "name": "Taxes on the Farmer Feeds Us All",
       "url": "https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Invisible Hour",
+        "url": "https://open.spotify.com/album/39RUJggKYbPF85mppr8jJy"
+      },
+      "artists": [
+        {
+          "name": "Joe Henry",
+          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
+        }
+      ],
+      "duration_ms": 331013,
+      "name": "Grave Angels",
+      "url": "https://open.spotify.com/track/1tOe4416Cr15amXc5rqpal"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2671,22 +2671,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/3pOyPju6tohsVyMsnkyyQ2"
-      },
-      "artists": [
-        {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
-        }
-      ],
-      "duration_ms": 165884,
-      "name": "Sweet Lucinda",
-      "url": "https://open.spotify.com/track/6EMOrIVN27rTNUYn7z15OG"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Good Luck Charm",
         "url": "https://open.spotify.com/album/2dREaKg1P5fT3tGTQskANP"
       },
@@ -2699,6 +2683,22 @@
       "duration_ms": 228186,
       "name": "Closer to You",
       "url": "https://open.spotify.com/track/3cv5ztdkBxly1hhZGWTcLW"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/3pOyPju6tohsVyMsnkyyQ2"
+      },
+      "artists": [
+        {
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
+        }
+      ],
+      "duration_ms": 165884,
+      "name": "Sweet Lucinda",
+      "url": "https://open.spotify.com/track/6EMOrIVN27rTNUYn7z15OG"
     }
   ],
   "unique_name": "Americana Icons",

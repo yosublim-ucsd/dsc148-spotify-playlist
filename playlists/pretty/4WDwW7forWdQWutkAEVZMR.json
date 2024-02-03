@@ -1,13 +1,93 @@
 {
-  "description": "Your go-to playlist for this week's hottest music featuring The Kid LAROI, Beyonc\u00e9, Harry Styles &amp; more! Cover: The Kid LAROI",
-  "num_followers": 8251,
+  "description": "Your go-to playlist for this week's hottest music featuring Billy Joel, Beyonc\u00e9, Harry Styles &amp; more! Cover: Billy Joel",
+  "num_followers": 8250,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NjcwMiw1ZjlhMjRiMzJkMTMwMGJmMTZmODZhM2JhOTQwMGExMDA3MTM4OGM0",
+  "snapshot_id": "NjcxMiw3ZmM3ZDYxYTQ1ZTI0YTNlYjljMzEzOWQwZTE0NjZlZWYxNjMwNGY1",
   "tracks": [
+    {
+      "added_at": "2024-02-02 05:38:33",
+      "album": {
+        "name": "Turn the Lights Back On",
+        "url": "https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 238939,
+      "name": "Turn the Lights Back On",
+      "url": "https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw"
+    },
+    {
+      "added_at": "2024-02-02 05:39:13",
+      "album": {
+        "name": "Sweet Boy Pt. 1",
+        "url": "https://open.spotify.com/album/038wFBV1FT6Q90Wpd3S4zm"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Rodrick Rules",
+      "url": "https://open.spotify.com/track/4AZIMn4UHW2TcpIAiUrMWF"
+    },
+    {
+      "added_at": "2024-02-02 05:39:35",
+      "album": {
+        "name": "FACETIME",
+        "url": "https://open.spotify.com/album/5pZq3XZDSKXQahKz9eCiTS"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "FACETIME",
+      "url": "https://open.spotify.com/track/2Yj6z7338KEuVa2YxU2vqk"
+    },
+    {
+      "added_at": "2024-02-02 05:39:47",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/49WXECyPBx84Kw0E33sjCY"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 137813,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/54fIT6FB4H6z3BJXQai1hm"
+    },
+    {
+      "added_at": "2024-02-02 05:39:59",
+      "album": {
+        "name": "Can't Be a Friend",
+        "url": "https://open.spotify.com/album/2x0OZkL3g1sQpMcGu3JCMB"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        }
+      ],
+      "duration_ms": 157808,
+      "name": "Can't Be a Friend",
+      "url": "https://open.spotify.com/track/1cDJRRbIJAf0pF3pIzEWq7"
+    },
     {
       "added_at": "2024-01-26 07:24:38",
       "album": {
@@ -87,58 +167,6 @@
       "duration_ms": 210400,
       "name": "4Me 4Me",
       "url": "https://open.spotify.com/track/07oVB2BTnBp1RBQ5gdbWLA"
-    },
-    {
-      "added_at": "2024-01-26 07:26:12",
-      "album": {
-        "name": "Bet on Bayto",
-        "url": "https://open.spotify.com/album/0yJXpdYUmMzENstgKIGmAs"
-      },
-      "artists": [
-        {
-          "name": "FBG Murda",
-          "url": "https://open.spotify.com/artist/7epN7rM4Hg4WRdl9e4Rsr5"
-        },
-        {
-          "name": "Li Rye",
-          "url": "https://open.spotify.com/artist/1QudwWfbchyvkMXva3wdqn"
-        }
-      ],
-      "duration_ms": 157611,
-      "name": "Im Tryna See",
-      "url": "https://open.spotify.com/track/6ntXoOIVaAUFSTklcewvNO"
-    },
-    {
-      "added_at": "2024-01-26 07:26:41",
-      "album": {
-        "name": "Babytron Flow",
-        "url": "https://open.spotify.com/album/09DIJUnZe9kDEysqy20leY"
-      },
-      "artists": [
-        {
-          "name": "Certified Trapper",
-          "url": "https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13"
-        }
-      ],
-      "duration_ms": 132728,
-      "name": "Babytron Flow",
-      "url": "https://open.spotify.com/track/5D105Zm9e2zdIMDjn3loFf"
-    },
-    {
-      "added_at": "2024-01-26 07:26:58",
-      "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/634aXD7xwDD250l0dKxE91"
-      },
-      "artists": [
-        {
-          "name": "Nino Paid",
-          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
-        }
-      ],
-      "duration_ms": 137120,
-      "name": "My Turn",
-      "url": "https://open.spotify.com/track/0L2r0QdFhDnGBqXXDWibmg"
     },
     {
       "added_at": "2024-01-20 02:06:07",

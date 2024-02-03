@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 975456,
+  "2024-02-03": 975343,
   "date_first_scraped": "2021-12-21",
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
   "name": "Morning Commute",
@@ -7451,7 +7451,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 204455,
       "name": "Lily",
       "url": "https://open.spotify.com/track/70CCOxFTtRj6yfAt0dXzGx"
@@ -12619,6 +12619,24 @@
       "duration_ms": 223311,
       "name": "Turn off the Sky",
       "url": "https://open.spotify.com/track/1woBBFHSYO1TBkAUj3e07Y"
+    },
+    {
+      "album": {
+        "name": "Turn the Lights Back On",
+        "url": "https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238939,
+      "name": "Turn the Lights Back On",
+      "url": "https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw"
     },
     {
       "album": {

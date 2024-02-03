@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Meet the future. New artists on the horizon. Cover: Yam\u00ea.",
+  "description": "Meet the future. New artists on the horizon. Cover: Blusher.",
   "name": "RADAR Global ",
   "tracks": [
     {
@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Sensible",
+        "url": "https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216389,
+      "name": "Acto Final",
+      "url": "https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6"
+    },
+    {
+      "album": {
         "name": "After School Sad Session",
         "url": "https://open.spotify.com/album/547GIcLRF21KNd9SnoBWfQ"
       },
@@ -1124,7 +1142,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 158677,
       "name": "An Art Gallery Could Never Be As Unique As You",
       "url": "https://open.spotify.com/track/22Nd3GuO7sHopPjdKccRcq"
@@ -2410,7 +2428,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 241179,
       "name": "BONG",
       "url": "https://open.spotify.com/track/7BalknaAGYtzUjIGOSkGBr"
@@ -2432,6 +2450,24 @@
       "duration_ms": 196956,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/3N6SFaFJWGirRC5nWIDLvD"
+    },
+    {
+      "album": {
+        "name": "Born To Lose",
+        "url": "https://open.spotify.com/album/679rxVMirZMcrWgELFMwyW"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180812,
+      "name": "Born To Lose",
+      "url": "https://open.spotify.com/track/0ukkgNJHrRYAFHfRSuxe6X"
     },
     {
       "album": {
@@ -4758,6 +4794,24 @@
       "duration_ms": 150133,
       "name": "Downgrade",
       "url": "https://open.spotify.com/track/46yBpFu9lmZt2aowHN9oG9"
+    },
+    {
+      "album": {
+        "name": "downtime",
+        "url": "https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va"
+      },
+      "artists": [
+        {
+          "name": "Tyler Lewis",
+          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192336,
+      "name": "downtime",
+      "url": "https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU"
     },
     {
       "album": {
@@ -8956,7 +9010,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 217758,
       "name": "Jakarta Hari Ini",
       "url": "https://open.spotify.com/track/3OarBmsAVPJG42EVPWkTwh"
@@ -9342,7 +9396,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 136800,
       "name": "KAWASAKI",
       "url": "https://open.spotify.com/track/1E5gT3cRA3WuH9XDgVIPau"
@@ -9840,6 +9894,24 @@
       "duration_ms": 176842,
       "name": "La \u00daltima Vez",
       "url": "https://open.spotify.com/track/20W0OpyiYwSk82pSfa9TlN"
+    },
+    {
+      "album": {
+        "name": "Lady",
+        "url": "https://open.spotify.com/album/5xIZBRs7rEDPBUfESk3vra"
+      },
+      "artists": [
+        {
+          "name": "Hari",
+          "url": "https://open.spotify.com/artist/3CXoOW72D46eDQgIQIPxfU"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166726,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/3Ka0qovqCzxFRT0ygJLQAW"
     },
     {
       "album": {
@@ -10444,7 +10516,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 193000,
       "name": "LOOK AT ME",
       "url": "https://open.spotify.com/track/0q0J04NigVLzVEtTJ43Gtx"
@@ -11100,6 +11172,24 @@
       "duration_ms": 277359,
       "name": "Meant 2 Be",
       "url": "https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4"
+    },
+    {
+      "album": {
+        "name": "MELEK M\u0130Y\u0130M",
+        "url": "https://open.spotify.com/album/6UCpFr6aaLjtHSX3GpKCKb"
+      },
+      "artists": [
+        {
+          "name": "Sena \u015eahin",
+          "url": "https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "MELEK M\u0130Y\u0130M",
+      "url": "https://open.spotify.com/track/0HSj4XkXceHcSiwKcWxc1V"
     },
     {
       "album": {
@@ -11772,7 +11862,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 207274,
       "name": "MUSE",
       "url": "https://open.spotify.com/track/7bRSjYVqEPeAvKG1KrlPtI"
@@ -12856,6 +12946,24 @@
       "duration_ms": 158446,
       "name": "Noor",
       "url": "https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc"
+    },
+    {
+      "album": {
+        "name": "Normalde",
+        "url": "https://open.spotify.com/album/2IXnb0005FkTtvxvpZNiYs"
+      },
+      "artists": [
+        {
+          "name": "Ege Can Sal",
+          "url": "https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Normalde",
+      "url": "https://open.spotify.com/track/6wLrvbWwQI3o5gpWEnJTFw"
     },
     {
       "album": {
@@ -14102,7 +14210,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 203093,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/1yBLm463DXwQaXnQMaiMw7"
@@ -16642,7 +16750,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 222000,
       "name": "Something About You and Me",
       "url": "https://open.spotify.com/track/6ZqGNMqd1fjv6NDOETJui8"
@@ -17310,6 +17418,24 @@
       "duration_ms": 282000,
       "name": "Tapu Te Po",
       "url": "https://open.spotify.com/track/1327O2x1SfFA5wMTag96ou"
+    },
+    {
+      "album": {
+        "name": "Teaser",
+        "url": "https://open.spotify.com/album/67BgP8ggs4tkB0hR90ehXA"
+      },
+      "artists": [
+        {
+          "name": "Nancy Kwai",
+          "url": "https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172508,
+      "name": "Teaser",
+      "url": "https://open.spotify.com/track/6cVTmFLm9hhu5KIKvlThQX"
     },
     {
       "album": {
@@ -18391,6 +18517,24 @@
     },
     {
       "album": {
+        "name": "i told you we're going home",
+        "url": "https://open.spotify.com/album/7lQFXgZOtx6qbPT6Wg0SQW"
+      },
+      "artists": [
+        {
+          "name": "jupiterkid",
+          "url": "https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202541,
+      "name": "twentyfour",
+      "url": "https://open.spotify.com/track/09xiz53qcvPDl1j2TqzS80"
+    },
+    {
+      "album": {
         "name": "Twin Flames",
         "url": "https://open.spotify.com/album/3fgOfjLn4w1J9fmVUJdNEp"
       },
@@ -19250,6 +19394,24 @@
       "duration_ms": 218533,
       "name": "Watershed",
       "url": "https://open.spotify.com/track/2CfWHcw3H18SdyX4PcwJV2"
+    },
+    {
+      "album": {
+        "name": "We Are The River",
+        "url": "https://open.spotify.com/album/09Co4NYXyYwAUEncVniSiY"
+      },
+      "artists": [
+        {
+          "name": "Calum Bowie",
+          "url": "https://open.spotify.com/artist/0BjKESiuU8dT323VIL8SqG"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190129,
+      "name": "We Are The River",
+      "url": "https://open.spotify.com/track/3FZqWp03yzNcYqXICOiT2c"
     },
     {
       "album": {
@@ -20892,7 +21054,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 317656,
       "name": "\u0e2b\u0e32\u0e01\u0e08\u0e30\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e02\u0e2d(Sincare)",
       "url": "https://open.spotify.com/track/3v5g7khNHS9726iyuI1iUs"
@@ -21316,7 +21478,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 197942,
       "name": "\u4e0d\u5c48\u306b\u82b1",
       "url": "https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM"
@@ -22060,7 +22222,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 215853,
       "name": "\u6669\u9910\u6b4c",
       "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
@@ -22186,7 +22348,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 295290,
       "name": "\u706b\u6d77",
       "url": "https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73"

@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 60856,
+  "num_followers": 60922,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjExM2EwZDdmYTM2MWQ5OTdjOGY0MDlhZTk0ZWZhYWFkMjQzNTc2",
+  "snapshot_id": "MCxmZDViMTk2YTVmZjA4NWEzNGJlNzI3N2JiMzg5ZDRjYzUxNmRkYjMz",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Awesome (Remixes)",
-        "url": "https://open.spotify.com/album/32vZndDj0nQMdWrUESU0eF"
-      },
-      "artists": [
-        {
-          "name": "Charles Jenkins & Fellowship Chicago",
-          "url": "https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU"
-        }
-      ],
-      "duration_ms": 348773,
-      "name": "Awesome",
-      "url": "https://open.spotify.com/track/6b1RS3RtYHYbZK1DQUjpvB"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Best Days",
         "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 287573,
       "name": "Take Me to the King (feat. Kirk Franklin)",
       "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Awesome (Remixes)",
+        "url": "https://open.spotify.com/album/32vZndDj0nQMdWrUESU0eF"
+      },
+      "artists": [
+        {
+          "name": "Charles Jenkins & Fellowship Chicago",
+          "url": "https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU"
+        }
+      ],
+      "duration_ms": 348773,
+      "name": "Awesome",
+      "url": "https://open.spotify.com/track/6b1RS3RtYHYbZK1DQUjpvB"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -715,26 +715,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Daily",
-        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
+        "name": "These Same Skies (Live)",
+        "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
       },
       "artists": [
         {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
-      "duration_ms": 176571,
-      "name": "Daily",
-      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
+      "duration_ms": 274534,
+      "name": "That's The Power - Live",
+      "url": "https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -759,22 +755,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "These Same Skies (Live)",
-        "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
+        "name": "Daily",
+        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
         },
         {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
         }
       ],
-      "duration_ms": 274534,
-      "name": "That's The Power - Live",
-      "url": "https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY"
+      "duration_ms": 176571,
+      "name": "Daily",
+      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -807,6 +807,26 @@
       "duration_ms": 502333,
       "name": "Believe For It - Live",
       "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Emperor of the Universe",
+        "url": "https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
+        }
+      ],
+      "duration_ms": 965565,
+      "name": "Emperor of the Universe",
+      "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -843,22 +863,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Ebenezeri",
         "url": "https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03"
       },
@@ -879,70 +883,6 @@
       "duration_ms": 293782,
       "name": "Ebenezeri",
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Daddy wey dey Pamper",
-        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Lyrical HI",
-          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
-        }
-      ],
-      "duration_ms": 760597,
-      "name": "Daddy wey dey Pamper",
-      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Frankincense",
-        "url": "https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        },
-        {
-          "name": "Don Moen",
-          "url": "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
-        }
-      ],
-      "duration_ms": 209653,
-      "name": "Ka Anyi Bulie (feat. Don Moen)",
-      "url": "https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "My Matter",
-        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
-        }
-      ],
-      "duration_ms": 173290,
-      "name": "My Matter",
-      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -971,6 +911,70 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Daddy wey dey Pamper",
+        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+        }
+      ],
+      "duration_ms": 760597,
+      "name": "Daddy wey dey Pamper",
+      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "My Matter",
+        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "duration_ms": 173290,
+      "name": "My Matter",
+      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Frankincense",
+        "url": "https://open.spotify.com/album/1ZqWUeo5E20hT8nTmtoOSh"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        },
+        {
+          "name": "Don Moen",
+          "url": "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
+        }
+      ],
+      "duration_ms": 209653,
+      "name": "Ka Anyi Bulie (feat. Don Moen)",
+      "url": "https://open.spotify.com/track/74fhHgYL2WMei6KW7kbcze"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Elijah Level (with Limoblaze)",
         "url": "https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9"
       },
@@ -987,6 +991,22 @@
       "duration_ms": 173262,
       "name": "Elijah Level (with Limoblaze)",
       "url": "https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1037,26 +1057,6 @@
       "url": "https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r"
     },
     {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Emperor of the Universe",
-        "url": "https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
-        }
-      ],
-      "duration_ms": 965565,
-      "name": "Emperor of the Universe",
-      "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Talk & Do",
@@ -1099,6 +1099,30 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "The King Is Coming",
+        "url": "https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "NWANDO OMOSEBI",
+          "url": "https://open.spotify.com/artist/5ftf7GXanOTLGnGgTZTzkT"
+        },
+        {
+          "name": "IFIOK EZENWA",
+          "url": "https://open.spotify.com/artist/1VzNx9xyunmQBsCP1d8xPz"
+        }
+      ],
+      "duration_ms": 466666,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/466dosccGHgyox0Wr3hdea"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "HEAVEN HAS COME",
         "url": "https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz"
       },
@@ -1125,28 +1149,20 @@
       "url": "https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "The King Is Coming",
-        "url": "https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG"
+        "name": "Blast (tongues)",
+        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
       },
       "artists": [
         {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "NWANDO OMOSEBI",
-          "url": "https://open.spotify.com/artist/5ftf7GXanOTLGnGgTZTzkT"
-        },
-        {
-          "name": "IFIOK EZENWA",
-          "url": "https://open.spotify.com/artist/1VzNx9xyunmQBsCP1d8xPz"
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
         }
       ],
-      "duration_ms": 466666,
-      "name": "Emmanuel",
-      "url": "https://open.spotify.com/track/466dosccGHgyox0Wr3hdea"
+      "duration_ms": 204841,
+      "name": "Blast - tongues",
+      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1185,22 +1201,6 @@
       "url": "https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe"
     },
     {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Blast (tongues)",
-        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 204841,
-      "name": "Blast - tongues",
-      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Better Me",
@@ -1231,6 +1231,30 @@
       "duration_ms": 364762,
       "name": "Kadosh",
       "url": "https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Working In Me",
+        "url": "https://open.spotify.com/album/7FJ8xTlTt5uLkZMLrIc7ZK"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Working In Me",
+      "url": "https://open.spotify.com/track/4NrPDnJAh7oM2dQ1qcFYkJ"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1267,30 +1291,6 @@
       "duration_ms": 405840,
       "name": "You Are Worthy",
       "url": "https://open.spotify.com/track/3agNg2Dsn2LpHO9i0M112R"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Working In Me",
-        "url": "https://open.spotify.com/album/7FJ8xTlTt5uLkZMLrIc7ZK"
-      },
-      "artists": [
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        },
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Working In Me",
-      "url": "https://open.spotify.com/track/4NrPDnJAh7oM2dQ1qcFYkJ"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1357,6 +1357,22 @@
       "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
     },
     {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Worship SZN",
+        "url": "https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI"
+      },
+      "artists": [
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "duration_ms": 449142,
+      "name": "Holy Spirit",
+      "url": "https://open.spotify.com/track/0vdwSEcvTdrbfa58Q9RR7r"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Yesu (Jesus)",
@@ -1407,26 +1423,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Apostolos (Sounds of Transition)",
-        "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
-      },
-      "artists": [
-        {
-          "name": "Pastor Emmanuel Iren",
-          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
-        },
-        {
-          "name": "Nosa",
-          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
-        }
-      ],
-      "duration_ms": 382499,
-      "name": "Prophetic Chant (Live)",
-      "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Hallelujah (feat. Dunsin Oyekan) [Live]",
         "url": "https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV"
       },
@@ -1447,38 +1443,38 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Yhwh",
-        "url": "https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a"
+        "name": "Apostolos (Sounds of Transition)",
+        "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
+      },
+      "artists": [
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        },
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+        }
+      ],
+      "duration_ms": 382499,
+      "name": "Prophetic Chant (Live)",
+      "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
       },
       "artists": [
         {
           "name": "Dunsin Oyekan",
           "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
         }
       ],
-      "duration_ms": 583858,
-      "name": "Yhwh",
-      "url": "https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Worship SZN",
-        "url": "https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI"
-      },
-      "artists": [
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
-        }
-      ],
-      "duration_ms": 449142,
-      "name": "Holy Spirit",
-      "url": "https://open.spotify.com/track/0vdwSEcvTdrbfa58Q9RR7r"
+      "duration_ms": 395810,
+      "name": "Maranatha",
+      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1543,22 +1539,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 395810,
-      "name": "Maranatha",
-      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Blessing Now",
         "url": "https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM"
       },
@@ -1591,6 +1571,22 @@
       "duration_ms": 190000,
       "name": "Watching All over Me",
       "url": "https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Journey To The Deep (Prayer Chants)",
+        "url": "https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag"
+      },
+      "artists": [
+        {
+          "name": "Praiz Singz",
+          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
+        }
+      ],
+      "duration_ms": 131640,
+      "name": "Eyes of The Spirit Chant (Prayer Chant)",
+      "url": "https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B"
     }
   ],
   "unique_name": "Be Lifted ",

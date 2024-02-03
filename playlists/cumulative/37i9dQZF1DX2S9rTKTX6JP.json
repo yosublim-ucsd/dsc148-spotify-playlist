@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The very best rock covers. Cover: Dolly Parton",
+  "description": "killer rock & alternative covers. Cover: Paramore",
   "name": "Rock Covers",
   "tracks": [
     {
@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205146,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
+    },
+    {
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -656,7 +674,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 276013,
       "name": "Blinded By The Light - From \"Super Troopers 2\" Soundtrack",
       "url": "https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9"
@@ -777,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Suicide Squad: The Album",
+        "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363114,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/2YSbHu9XF4bNYWt3MnIhgE"
+    },
+    {
+      "album": {
         "name": "Breakdown / A Face In The Crowd (Live)",
         "url": "https://open.spotify.com/album/6AmTuwJu8STQrIcPfMBPKN"
       },
@@ -828,6 +864,24 @@
       "duration_ms": 272093,
       "name": "Bullet With Butterfly Wings",
       "url": "https://open.spotify.com/track/16n71mglu9h8xQjsF6SAWv"
+    },
+    {
+      "album": {
+        "name": "Burning Down the House",
+        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
     },
     {
       "album": {
@@ -972,7 +1026,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 182000,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/7uYwtxCDbqPEmhX0UyHq5d"
@@ -1106,7 +1160,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 212240,
       "name": "Crawling",
       "url": "https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby"
@@ -2315,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/38ff67UQftBcR3DnBMSsyW"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218354,
+      "name": "How To Save A Life",
+      "url": "https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp"
+    },
+    {
+      "album": {
         "name": "Hunger Strike (feat. Lajon Witherspoon)",
         "url": "https://open.spotify.com/album/35lNonLplYB6UFw8nLheRk"
       },
@@ -2593,6 +2665,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262826,
+      "name": "I Wanna Dance With Somebody (Who Loves Me) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq"
+    },
+    {
+      "album": {
         "name": "I Wanna Get High",
         "url": "https://open.spotify.com/album/5CHHUIKjSivGcBWusTmKLe"
       },
@@ -2694,7 +2784,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 274055,
       "name": "If I Ever Lose My Faith in You",
       "url": "https://open.spotify.com/track/4wozhA7ftHx3QQPBKCCL9d"
@@ -3190,7 +3280,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 193950,
       "name": "Life's Been Good",
       "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
@@ -3680,7 +3770,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 330653,
       "name": "No Ordinary Love - 2005 Remaster",
       "url": "https://open.spotify.com/track/2lwkf3MVqTYmo5NoAoWFqN"
@@ -4050,7 +4140,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 199240,
       "name": "Personal Jesus",
       "url": "https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV"
@@ -4574,7 +4664,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 300698,
       "name": "Separate Ways",
       "url": "https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM"
@@ -4994,7 +5084,7 @@
       ],
       "date_added": "2021-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 204960,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/3TJYSrFUkSSd95XXdMNgmY"
@@ -5030,7 +5120,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 223560,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
@@ -5182,7 +5272,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 275146,
       "name": "The Chain",
       "url": "https://open.spotify.com/track/6Y3AzfzJP4NswhfLOpd8aY"
@@ -5240,6 +5330,24 @@
       "duration_ms": 183157,
       "name": "The Chain - Cover",
       "url": "https://open.spotify.com/track/24Z6f7iN56nFDY4VYylcMm"
+    },
+    {
+      "album": {
+        "name": "Blood & Stone",
+        "url": "https://open.spotify.com/album/12PgC7GyO8zgKeFh5PqLbH"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295967,
+      "name": "The Day I Tried To Live",
+      "url": "https://open.spotify.com/track/0f2WUZ0v6N4kcxwhapZC4r"
     },
     {
       "album": {
@@ -5712,7 +5820,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 465933,
       "name": "War Pigs",
       "url": "https://open.spotify.com/track/2vCnEuoc65PXAdx33Y7syW"

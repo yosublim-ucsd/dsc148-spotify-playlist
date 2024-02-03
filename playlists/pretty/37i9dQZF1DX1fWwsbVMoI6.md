@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Grupo 5, Joey Montana
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,564 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,605 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,17 +18,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 8 | [Te Juro Que Te Amo](https://open.spotify.com/track/122MuCOG99PHG2mpnWeJrj) | [Claveles de la Cumbia](https://open.spotify.com/artist/6xONmQbNz6KhUEabbxPb6S) | [Te Vas Te Vas](https://open.spotify.com/album/2GWUqR8sZM4hjcMM5LddRx) | 6:03 |
 | 9 | [Pensando en Ti](https://open.spotify.com/track/6ZRWmk8bYmHCcseZqyykWR) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Directo al Corazón, Vol\. 18](https://open.spotify.com/album/7qMhIUFDDzM9uEIlhT5mnE) | 3:33 |
 | 10 | [La Duda](https://open.spotify.com/track/1euvZCoC0ETg1aiK0tfkEs) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Una Cualquiera](https://open.spotify.com/album/1ShwZyhoqhWGaZkQg6yVfS) | 4:24 |
-| 11 | [Quiero Amanecer](https://open.spotify.com/track/7FxnHDy0ew0aDygCSo6vYH) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Quiero Amanecer](https://open.spotify.com/album/1ccXrhxirn0DN7sqHNO9jO) | 2:52 |
+| 11 | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/track/5LynHpyyaUj5xh8lFg1I0s) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ) | 5:44 |
 | 12 | [Déjame Amarte/ Sentada en un Bar \(Mix En Vivo\)](https://open.spotify.com/track/5oY8cWKPJdRUpPBIYi1fFS) | [Azucena Calvay y Orquesta](https://open.spotify.com/artist/7yQurz9Di595INUnLmoO4G) | [Déjame Amarte/ Sentada en un Bar \(Mix En Vivo\)](https://open.spotify.com/album/1NtVozfDK1aWVGxIQ2q4oh) | 6:34 |
-| 13 | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/track/5LynHpyyaUj5xh8lFg1I0s) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ) | 5:44 |
+| 13 | [Quiero Amanecer](https://open.spotify.com/track/7FxnHDy0ew0aDygCSo6vYH) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Quiero Amanecer](https://open.spotify.com/album/1ccXrhxirn0DN7sqHNO9jO) | 2:52 |
 | 14 | [Cual Adiós](https://open.spotify.com/track/5bivFU6gebehzoGKdslN3F) | [Orquesta La Única Tropical](https://open.spotify.com/artist/38B1gZEOqKD3hG1YJJqTwK) | [Sin Fronteras](https://open.spotify.com/album/2CEK6jQBdbmko7H3Y5JGAx) | 3:25 |
 | 15 | [El Ritmo de Mi Corazón](https://open.spotify.com/track/3SQRqRJ4xl2FZ8B5eswvvU) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [El Ritmo de Mi Corazón](https://open.spotify.com/album/55mg4qE79gK6ZYCyihWYo6) | 3:40 |
 | 16 | [Serpiente](https://open.spotify.com/track/2OXYYCVlDZfiVtktj00ul5) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Primicias y Éxitos](https://open.spotify.com/album/5pzyQ9Ytd01DXdhZUCmgQ2) | 2:01 |
 | 17 | [Lárgate](https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg) | [A Llorar a Otra Parte](https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc) | 3:53 |
 | 18 | [Tu Amor Fue una Mentira](https://open.spotify.com/track/6BnqTZLQNh3bLSuGOHqLoa) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Tu Amor Fue una Mentira, Vol\. 11](https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26) | 3:36 |
 | 19 | [El Arbolito](https://open.spotify.com/track/51juO8se7WGQrjpdOJCB1B) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Nectar Internacional](https://open.spotify.com/album/65yxZdbls1LPG8Lw4lRiy2) | 3:30 |
-| 20 | [Esta Noche](https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU) | [Solo Éxitos](https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD) | 3:57 |
-| 21 | [Días Felices](https://open.spotify.com/track/1WCujjpVcPacQ40RCNtXUg) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:20 |
+| 20 | [Días Felices](https://open.spotify.com/track/1WCujjpVcPacQ40RCNtXUg) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:20 |
+| 21 | [Esta Noche](https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU) | [Solo Éxitos](https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD) | 3:57 |
 | 22 | [Por Que un Hombre No Llora](https://open.spotify.com/track/3WXuIhwbCGYvzLEfyvGYOU) | [Los Tigres de la Cumbia](https://open.spotify.com/artist/044y0XSznUpOIzgp61qwT1) | [Porque un Hombre No Llora](https://open.spotify.com/album/5yuZLJjoc41D8Di7y2nlbW) | 4:30 |
 | 23 | [Por Qué Te Fuiste](https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Por Qué Te Fuiste](https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd) | 3:05 |
 | 24 | [Puro Corazón](https://open.spotify.com/track/2mEVUW5UL7iDK5DnomVvOy) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Puro Corazón](https://open.spotify.com/album/6J6p32z5lFri9g2K1iwGjo) | 3:09 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 28 | [Muchahita](https://open.spotify.com/track/5yGFm9tvElzhY4DkEl45h5) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Embriágame Suavecito/Los Reyes De La Cumbia](https://open.spotify.com/album/37Vtar7W83nFn6pfFbVu0s) | 3:24 |
 | 29 | [Cervecero](https://open.spotify.com/track/3HfZfxi1UWSK0GssEUgM1R) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Historia Musical](https://open.spotify.com/album/13kU9mfnrPRqd0TPjk0Sms) | 5:30 |
 | 30 | [Asesina de Amor](https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sentimiento y Estilo](https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs) | 3:16 |
-| 31 | [La Chismosa](https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D) | 6:05 |
-| 32 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 |
+| 31 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 |
+| 32 | [La Chismosa](https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D) | 6:05 |
 | 33 | [Falso Amor](https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Falso Amor](https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl) | 4:06 |
 | 34 | [Recuerdos](https://open.spotify.com/track/4NHGTE6SN0a10VTPDLmMe3) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:36 |
 | 35 | [Júrame](https://open.spotify.com/track/4mrVuyJeb9kjJ41F3tWhE0) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [El Romántico](https://open.spotify.com/album/3lKvieM97oOsFEz8ZpC9zZ) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 49 | [Dolor y Lagrimas](https://open.spotify.com/track/5iu23EuTrwZtZdJt7DWUlS) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Desierto](https://open.spotify.com/album/17kNwp6zAftLn7MzlqT8hz) | 4:48 |
 | 50 | [Tu Traición Se Acabó \- En Vivo](https://open.spotify.com/track/71TGkSfNH1jNEEdSvm3AmS) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Domingos de Fiesta \(En Vivo\)](https://open.spotify.com/album/5LHsfpJNae4RgShOL8GGLy) | 4:07 |
 
-Snapshot ID: `MCw5YmYwOWIzNTVkYTljZDRkZDIyMWY5YzkwOWJkOTJkYmExMTY4MmE4`
+Snapshot ID: `MCwxODVmMDQ3Yjc0NjlkOWViZGZmMGNhZGMxYTVhNGRlNWQzYzE5YTY0`

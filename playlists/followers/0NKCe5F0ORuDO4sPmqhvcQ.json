@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 20830,
+  "2024-02-03": 20830,
   "date_first_scraped": "2021-12-21",
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
   "name": "Moving Castle Monthly",
@@ -455,6 +455,32 @@
       "duration_ms": 147753,
       "name": "All This Motion (with Louis the Child)",
       "url": "https://open.spotify.com/track/1wMyUceyWBh1VVsmeQtPnj"
+    },
+    {
+      "album": {
+        "name": "All Ur Luv",
+        "url": "https://open.spotify.com/album/1KrS7daFwtHSyT5aPsI0so"
+      },
+      "artists": [
+        {
+          "name": "Wavedash",
+          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
+        },
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161771,
+      "name": "All Ur Luv",
+      "url": "https://open.spotify.com/track/3K1RnBxBkrMwoBE8gC63eY"
     },
     {
       "album": {
@@ -9283,6 +9309,28 @@
       "duration_ms": 210857,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1HvHz2LzxoG8FRrbWQaqqg"
+    },
+    {
+      "album": {
+        "name": "Stay (feat. Lyrah)",
+        "url": "https://open.spotify.com/album/3weaHHvf6IcRNNYO9O9Tff"
+      },
+      "artists": [
+        {
+          "name": "CHROMEBODIES",
+          "url": "https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI"
+        },
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Stay (feat. Lyrah)",
+      "url": "https://open.spotify.com/track/7JCUET0Po7EzBz7PwlQf2J"
     },
     {
       "album": {

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,404 likes - 48 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,462 likes - 48 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [500lbs](https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:24 |
 | 2 | [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 |
 | 3 | [Our Time](https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 1:38 |
-| 4 | [Down With Me](https://open.spotify.com/track/5ZDIwpR2JMwuRM8xumtmxn) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Down With Me](https://open.spotify.com/album/6qXPKqlxpKnDqYYrFDKnsx) | 2:00 |
-| 5 | [LOT OF ME](https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:03 |
+| 4 | [LOT OF ME](https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:03 |
+| 5 | [Down With Me](https://open.spotify.com/track/5ZDIwpR2JMwuRM8xumtmxn) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Down With Me](https://open.spotify.com/album/6qXPKqlxpKnDqYYrFDKnsx) | 2:00 |
 | 6 | [Did It Again](https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:56 |
 | 7 | [Out Of Love \(feat\. Internet Money\)](https://open.spotify.com/track/0IJA9KP6rT55jrP1YpTdhx) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:33 |
 | 8 | [HVN ON EARTH \(with Kodak Black\)](https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HVN ON EARTH](https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify) | 3:08 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 47 | [SHOOTERS](https://open.spotify.com/track/5Pm5aqS8l2fytzhix5Pucu) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:05 |
 | 48 | [She Want Some More \(feat\. Ken Carson\)](https://open.spotify.com/track/6MXlAZuSUsbKAN68ErtWj5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/6BURJsrwD35kYYZlpMw2Xs) | [She Want Some More \(feat\. Ken Carson\)](https://open.spotify.com/album/2MNgdTVRIyedTK7n3Ej46C) | 3:04 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDBjOWZkYmYwMmM4ZWJlMTM3MGE1Nzg2Y2FiNDMwMjI4YQ==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDBhMTc4NTI2MDVhYWNiMmI1ZjZjOGI5OTIyODA3MmZmNQ==`

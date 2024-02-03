@@ -4,7 +4,7 @@
 
 > a fresh & mellow mix from some of today's best singer\-songwriters\. Cover: Bre Kennedy
 
-100 songs - 5 hr 48 min
+101 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,13 +56,14 @@
 | [Just Yet](https://open.spotify.com/track/62mXJsL3y9QUJnIuRzdaNT) | [BIZZY](https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk) | [Just Yet](https://open.spotify.com/album/74Y0oxEAALKC2zARRBREAI) | 3:23 | 2023-12-08 |  |
 | [Lay Down](https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:48 | 2023-12-08 |  |
 | [Let Me Hurt \(Acoustic\)](https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Crying in Cars](https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf) | 3:42 | 2023-12-08 |  |
-| [letting go](https://open.spotify.com/track/30a5DDL7xq347S143EoOPp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:26 | 2023-12-08 |  |
+| [letting go](https://open.spotify.com/track/30a5DDL7xq347S143EoOPp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:26 | 2023-12-08 | 2024-02-03 |
 | [Light \- Edit](https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Light \(Edit\)](https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz) | 3:05 | 2023-12-08 |  |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2023-12-08 |  |
 | [London](https://open.spotify.com/track/6ffvsCiyxNdxPzsjxP5q16) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2) | [London](https://open.spotify.com/album/6ztopxq8V8PtZpwULj1tss) | 3:16 | 2023-12-08 |  |
 | [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 | 2023-12-08 |  |
 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 | 2023-12-08 |  |
 | [Love Like That \(Words from Her\)](https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Love Like That \(Words from Her\)](https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy) | 2:54 | 2023-12-08 |  |
+| [Low Rising](https://open.spotify.com/track/3JCmCB7e1dazCO2hTEHL6a) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx), [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074) | [Strict Joy \(Deluxe Edition\)](https://open.spotify.com/album/6VuvqpeSGgdtJrrmPJFxld) | 4:47 | 2023-12-08 |  |
 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2023-12-08 |  |
 | [Made Up My Mind](https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Made Up My Mind](https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI) | 2:50 | 2023-12-08 |  |
 | [Minimum](https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ) | 3:14 | 2023-12-08 |  |

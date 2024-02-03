@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 610854,
+  "num_followers": 610725,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjJkMmY0MGY0ZjkyMzJkYzExNTA4ZDg4MzEyMmZmYTVjYzU3ZDQx",
+  "snapshot_id": "MCxjM2FjMzlkOTA2YTJlY2NlY2YwZjg2MDNiZjczODZjNmJlMDM2ZWM4",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -139,18 +139,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+        "name": "Con Calma",
+        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
         }
       ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+      "duration_ms": 193226,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -171,22 +175,18 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Con Calma",
-        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 193226,
-      "name": "Con Calma",
-      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1723,30 +1723,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Silent Sun",
-        "url": "https://open.spotify.com/album/4vJs9flHsFfTPNxzoEwuG3"
-      },
-      "artists": [
-        {
-          "name": "WOAK",
-          "url": "https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb"
-        },
-        {
-          "name": "Sillaz",
-          "url": "https://open.spotify.com/artist/7EroDVPELCYcB8zyB2XN9F"
-        },
-        {
-          "name": "RodMac",
-          "url": "https://open.spotify.com/artist/7dbe4S6XKgCPQrZ5YtWOyP"
-        }
-      ],
-      "duration_ms": 171245,
-      "name": "Silent Sun",
-      "url": "https://open.spotify.com/track/6goDGZwcLI6jGJ6qr01Wsq"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Marea (feat. legallyrxx)",
         "url": "https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R"
       },
@@ -1771,6 +1747,30 @@
       "duration_ms": 166036,
       "name": "Marea (feat. legallyrxx)",
       "url": "https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Silent Sun",
+        "url": "https://open.spotify.com/album/4vJs9flHsFfTPNxzoEwuG3"
+      },
+      "artists": [
+        {
+          "name": "WOAK",
+          "url": "https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb"
+        },
+        {
+          "name": "Sillaz",
+          "url": "https://open.spotify.com/artist/7EroDVPELCYcB8zyB2XN9F"
+        },
+        {
+          "name": "RodMac",
+          "url": "https://open.spotify.com/artist/7dbe4S6XKgCPQrZ5YtWOyP"
+        }
+      ],
+      "duration_ms": 171245,
+      "name": "Silent Sun",
+      "url": "https://open.spotify.com/track/6goDGZwcLI6jGJ6qr01Wsq"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/1dhJH0kVx35B16EBuaDPSt"
+      },
+      "artists": [
+        {
+          "name": "FTampa",
+          "url": "https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO"
+        }
+      ],
+      "duration_ms": 190819,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/1u0MAhOBrWIkAKOf8ssiaU"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Para",
         "url": "https://open.spotify.com/album/3EaB8p7k7eVnFrbfqWOFyN"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 177000,
       "name": "Para",
       "url": "https://open.spotify.com/track/2VsMPBlyoaMMPyeT90DNBL"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/1dhJH0kVx35B16EBuaDPSt"
-      },
-      "artists": [
-        {
-          "name": "FTampa",
-          "url": "https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO"
-        }
-      ],
-      "duration_ms": 190819,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/1u0MAhOBrWIkAKOf8ssiaU"
     },
     {
       "added_at": "2023-02-17 03:00:00",

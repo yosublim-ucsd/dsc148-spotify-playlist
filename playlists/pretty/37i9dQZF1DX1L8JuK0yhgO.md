@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,407 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,409 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 14 | [Want You](https://open.spotify.com/track/0B5nYnsBWhY0jbRfmLSEkz) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [Want You](https://open.spotify.com/album/54R2ThpsU1VTmA98bneuJz) | 2:31 |
 | 15 | [Burn The Hard Drive \(feat\. Mura Masa\)](https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Burn The Hard Drive \(feat\. Mura Masa\)](https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi) | 3:12 |
 | 16 | [外は小雨](https://open.spotify.com/track/3yEakENu76GoCipRd4Kjvl) | [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ), [サム・アミドン](https://open.spotify.com/artist/3cdncibrJAeUy6cXs98WUz) | [Contact](https://open.spotify.com/album/3mVkAa9KXbNmpuofycXBBf) | 5:43 |
-| 17 | [多摩ナンバー](https://open.spotify.com/track/5d0pbo32LMqR2iQQQRf7Ea) | [有元キイチ](https://open.spotify.com/artist/4mXPdNMeJL46dJWUEdYwW8) | [Tama,Tokyo](https://open.spotify.com/album/4aXMpRhKLcI3OEUDD0mp6m) | 4:16 |
+| 17 | [多摩ナンバー](https://open.spotify.com/track/5d0pbo32LMqR2iQQQRf7Ea) | [Keach Arimoto](https://open.spotify.com/artist/2cwNtDJKPSK4Q3nP2Q6Tjo) | [Tama,Tokyo](https://open.spotify.com/album/4aXMpRhKLcI3OEUDD0mp6m) | 4:16 |
 | 18 | [I’m falling for you](https://open.spotify.com/track/4pxDypYQKnvqYPpKQYeXUN) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [I’m falling for you](https://open.spotify.com/album/5PZi9Ctf2visPdtQRYRkbP) | 3:03 |
 | 19 | [が、当時](https://open.spotify.com/track/3NdDfVJTMOxUg2pZpDUpDO) | [Yohei](https://open.spotify.com/artist/0zR1Bj4ntgsjDXQAuexdQ6) | [Echo You Know](https://open.spotify.com/album/6nwz73HmrWbgLdMXVx2OpN) | 2:12 |
 | 20 | [west la](https://open.spotify.com/track/54DjVrBlBtH00VTdXlqZxX) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [west la](https://open.spotify.com/album/3uejvF0vbT3lZE1Zj2LU9T) | 4:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [Holier \- JD\. REID Remix feat\. Shygirl](https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Holier \(JD\. REID Remix feat\. Shygirl\)](https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh) | 3:35 |
 | 70 | [I'm a bee you're a flower \- The Bug remix](https://open.spotify.com/track/4iqrBlOyCkCDjpwRkhv2V4) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ), [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw) | [Gateway](https://open.spotify.com/album/7xWbzfGRjJpzrkQ6kONF2w) | 3:45 |
 
-Snapshot ID: `MCxlMWI1ODI3OThhODVmZGQyY2VkMWM4ZTU0OGFmY2IzOTY0OWQ0ZThh`
+Snapshot ID: `MCxjMTM4NzU1YzA0MGQ3ZGVlNmI0MzUwZWZiZjk0NmE0ZTNhZjJhNjk4`

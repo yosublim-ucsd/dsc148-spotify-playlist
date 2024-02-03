@@ -1,12 +1,12 @@
 {
   "description": "Mzansi's musical wealth and heritage in one playlist.",
-  "num_followers": 51371,
+  "num_followers": 51418,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODY2Mzk3YjVjODI0YTQzZjc1MTJlZGZmZDAwZDA1Y2FkYzExZTg4",
+  "snapshot_id": "MCw4NDE0OTg0MWZmM2RkZDZlYTQ1YWIxNDdhMzhmMDE0NGZhNTFiOTRh",
   "tracks": [
     {
       "added_at": "2023-01-23 13:10:38",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Uit Die Diepte Van My Hart",
-        "url": "https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp"
-      },
-      "artists": [
-        {
-          "name": "Kurt Darren",
-          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "Kaptein",
-      "url": "https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Sondelani",
         "url": "https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 330573,
       "name": "Sondela",
       "url": "https://open.spotify.com/track/43VwFP9q5lOrfLPfBvPtsg"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Uit Die Diepte Van My Hart",
+        "url": "https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp"
+      },
+      "artists": [
+        {
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "Kaptein",
+      "url": "https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "The Ultimate Collection: Mbongeni Ngema",
-        "url": "https://open.spotify.com/album/6pFattd30V5QtQimALPrdH"
-      },
-      "artists": [
-        {
-          "name": "Mbongeni Ngema",
-          "url": "https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1"
-        }
-      ],
-      "duration_ms": 310236,
-      "name": "Stimela SaseZola",
-      "url": "https://open.spotify.com/track/4sgQGJhzo5kLMCCa9vaRil"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "DaKAR II",
         "url": "https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 271186,
       "name": "Ngud' (feat. Cassper Nyovest)",
       "url": "https://open.spotify.com/track/0i2EASYXRiIMjKmExaOk6v"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "The Ultimate Collection: Mbongeni Ngema",
+        "url": "https://open.spotify.com/album/6pFattd30V5QtQimALPrdH"
+      },
+      "artists": [
+        {
+          "name": "Mbongeni Ngema",
+          "url": "https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1"
+        }
+      ],
+      "duration_ms": 310236,
+      "name": "Stimela SaseZola",
+      "url": "https://open.spotify.com/track/4sgQGJhzo5kLMCCa9vaRil"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Sister Bethina",
-        "url": "https://open.spotify.com/album/0PyDqci989gKaLtGzrmjk8"
-      },
-      "artists": [
-        {
-          "name": "Mgarimbe",
-          "url": "https://open.spotify.com/artist/375le8C5ntGjYVNl3dGYgY"
-        }
-      ],
-      "duration_ms": 261946,
-      "name": "Sister Bethina",
-      "url": "https://open.spotify.com/track/6MRc3b6gqj916Q2Jjfnswf"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Mi Casa",
         "url": "https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 394677,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/6jSsEnwJ0LlKqxLYtDVj1U"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Sister Bethina",
+        "url": "https://open.spotify.com/album/0PyDqci989gKaLtGzrmjk8"
+      },
+      "artists": [
+        {
+          "name": "Mgarimbe",
+          "url": "https://open.spotify.com/artist/375le8C5ntGjYVNl3dGYgY"
+        }
+      ],
+      "duration_ms": 261946,
+      "name": "Sister Bethina",
+      "url": "https://open.spotify.com/track/6MRc3b6gqj916Q2Jjfnswf"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Mango Groove",
-        "url": "https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl"
-      },
-      "artists": [
-        {
-          "name": "Mango Groove",
-          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
-        }
-      ],
-      "duration_ms": 353266,
-      "name": "Special Star",
-      "url": "https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Mi Casa",
         "url": "https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 387500,
       "name": "Heavenly Sent",
       "url": "https://open.spotify.com/track/4IHHoEIPtje2WsYhIeHKD2"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Mango Groove",
+        "url": "https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl"
+      },
+      "artists": [
+        {
+          "name": "Mango Groove",
+          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
+        }
+      ],
+      "duration_ms": 353266,
+      "name": "Special Star",
+      "url": "https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "House Player",
-        "url": "https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6"
+        "name": "Jack Parow",
+        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
       },
       "artists": [
         {
-          "name": "DJ Mbuso",
-          "url": "https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3"
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
         }
       ],
-      "duration_ms": 370906,
-      "name": "Mbuso's Revenge",
-      "url": "https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2"
+      "duration_ms": 248933,
+      "name": "Cooler as Ekke",
+      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Jack Parow",
-        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
-      },
-      "artists": [
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        }
-      ],
-      "duration_ms": 248933,
-      "name": "Cooler as Ekke",
-      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Waar Was Jy?",
         "url": "https://open.spotify.com/album/51b8gK2d2z0KUHtsnhMbY7"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 229066,
       "name": "Waar Was Jy?",
       "url": "https://open.spotify.com/track/4tdjxGy4a54Hi1fXaDl7Xz"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "House Player",
+        "url": "https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6"
+      },
+      "artists": [
+        {
+          "name": "DJ Mbuso",
+          "url": "https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3"
+        }
+      ],
+      "duration_ms": 370906,
+      "name": "Mbuso's Revenge",
+      "url": "https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2"
     },
     {
       "added_at": "2023-01-23 13:10:38",

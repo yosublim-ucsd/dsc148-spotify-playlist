@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 73342,
+  "2024-02-03": 73458,
   "date_first_scraped": "2022-11-25",
   "description": "A hypnotic journey through Melodic Techno.",
   "name": "Tunnel Vision",
@@ -647,6 +647,24 @@
       "duration_ms": 371976,
       "name": "Back Up",
       "url": "https://open.spotify.com/track/28tiVC1tvvPwG4jajq63pJ"
+    },
+    {
+      "album": {
+        "name": "BE ARTIST OF YOUR LIFE",
+        "url": "https://open.spotify.com/album/4ZqEV0pL6IxmnIq3dguj4g"
+      },
+      "artists": [
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372682,
+      "name": "BE ARTIST OF YOUR LIFE",
+      "url": "https://open.spotify.com/track/2UXz0Tcg2THbgbYTvXqSEF"
     },
     {
       "album": {
@@ -1671,7 +1689,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 398268,
       "name": "Devon - Oliver Huntemann Remix",
       "url": "https://open.spotify.com/track/0f7ifN4vXV4z2C52POeDQT"
@@ -1697,6 +1715,28 @@
       "duration_ms": 452682,
       "name": "Dialogue",
       "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
+    },
+    {
+      "album": {
+        "name": "Digital Dream",
+        "url": "https://open.spotify.com/album/5Ndn8wz5skx5j1vBkN5WVr"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        },
+        {
+          "name": "Ella Balinska",
+          "url": "https://open.spotify.com/artist/2hMRVW8ZuKpftAZBtEbGCf"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194881,
+      "name": "Digital Dream",
+      "url": "https://open.spotify.com/track/4JnQpysntdJZsSvPwu67b5"
     },
     {
       "album": {
@@ -2327,6 +2367,32 @@
       "duration_ms": 387196,
       "name": "Fade In To You",
       "url": "https://open.spotify.com/track/22tFXsl4XmedYLNMU88qlx"
+    },
+    {
+      "album": {
+        "name": "Falling Down (Chris Avantgarde Remix)",
+        "url": "https://open.spotify.com/album/4pKPeSXMW3INZJwViHYN88"
+      },
+      "artists": [
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        },
+        {
+          "name": "8Kays",
+          "url": "https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ"
+        },
+        {
+          "name": "Juan Hansen",
+          "url": "https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293935,
+      "name": "Falling Down - Chris Avantgarde Remix",
+      "url": "https://open.spotify.com/track/1g4W5F9wq09292xrsfS5y6"
     },
     {
       "album": {
@@ -3769,7 +3835,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 211428,
       "name": "It's All Good",
       "url": "https://open.spotify.com/track/6QqWR8fmdwG6rfgxwFHcrI"
@@ -5052,6 +5118,32 @@
     },
     {
       "album": {
+        "name": "Nightshapes",
+        "url": "https://open.spotify.com/album/5pRg1T6q3JHehMmVAP8afy"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "MotherEarth",
+          "url": "https://open.spotify.com/artist/2o2pBVmNUXW9LZvjVvKC0x"
+        },
+        {
+          "name": "Tyoz",
+          "url": "https://open.spotify.com/artist/5KR5DO4Ezn0QPcM5N9Ioms"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205779,
+      "name": "Nightshapes",
+      "url": "https://open.spotify.com/track/20Mb3OEO2GYuhvQ7mDmTXe"
+    },
+    {
+      "album": {
         "name": "No Tomorrow",
         "url": "https://open.spotify.com/album/78OyyeUJyyoYRHDLtBzsqi"
       },
@@ -6137,7 +6229,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 222594,
       "name": "Ringo - Miss Monique Remix",
       "url": "https://open.spotify.com/track/0fRLU02X1H2RqWPWKKaJ5c"
@@ -6173,7 +6265,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 425927,
       "name": "Rise Of The 2nd Sun",
       "url": "https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5"
@@ -6257,6 +6349,24 @@
       "duration_ms": 422000,
       "name": "Run & Hide - Ae:ther Remix",
       "url": "https://open.spotify.com/track/1vPsTGsRfdTRhzUHG7kTLF"
+    },
+    {
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/0qpTdZu8Wd1kTdHzYfk5cK"
+      },
+      "artists": [
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406451,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1UK6MLsIj7Ioj0BlXl2T8f"
     },
     {
       "album": {
@@ -6493,7 +6603,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 227555,
       "name": "Shiva",
       "url": "https://open.spotify.com/track/6Dfu2Fp8vVV9DFRQHnXe5c"

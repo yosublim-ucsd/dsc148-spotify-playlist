@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,828 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,844 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 10 | [El Rock De La Cárcel](https://open.spotify.com/track/43ciCW4nNa2x17L8Ts3Csf) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock \- Lo Mejor De Los Locos Del Ritmo \- Pioneros Del Rock En México](https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK) | 1:54 |
 | 11 | [Edi, Edi](https://open.spotify.com/track/0a59DGdqkzBNuVYVpI5Mx7) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [15 Éxitos](https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z) | 2:27 |
 | 12 | [Adiós a Jamaica \(Jamaica Farewell\)](https://open.spotify.com/track/1th6iTXKtTtIrVbGPD3J3Z) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 2:13 |
-| 13 | [Se Fue](https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrion 50 Años, Vol\. 1](https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH) | 2:42 |
-| 14 | [Despeinada](https://open.spotify.com/track/1ZvgM8b9safTcoERQmeKnh) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Éxitos de Manolo Muñoz](https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY) | 2:55 |
+| 13 | [Despeinada](https://open.spotify.com/track/1ZvgM8b9safTcoERQmeKnh) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Éxitos de Manolo Muñoz](https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY) | 2:55 |
+| 14 | [Se Fue](https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrion 50 Años, Vol\. 1](https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH) | 2:42 |
 | 15 | [Melodía de Amor](https://open.spotify.com/track/0PeWOm50vIoOCwp9MljmDk) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Historia Musical de Mis Exitos](https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP) | 2:26 |
 | 16 | [Lagrimas De Cristal](https://open.spotify.com/track/16UEXcWy0r21FNGDxiMbgv) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [Discos Del Millón](https://open.spotify.com/album/6UdmTdJKNARrt4QGRURZ8k) | 2:56 |
 | 17 | [Olvídalo](https://open.spotify.com/track/4OxlguwUtqjNU0zkAueh9o) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 2:36 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 33 | [San Antonio Twist](https://open.spotify.com/track/4DjixhdAyHASyjcyNP7cUn) | [Hermanas Jimenez](https://open.spotify.com/artist/0GDo46nR3Fh3NYto2h4FUN) | [La Epoca de Oro del Twist](https://open.spotify.com/album/69tIhcn1Qd1heyIurhEkHt) | 2:44 |
 | 34 | [Quiero Estrechar Tu Mano](https://open.spotify.com/track/2zs7QiCmkIxEeW1E1HZ8bP) | [Los Angeles](https://open.spotify.com/artist/58rX3i2Zf0NwRgJdfdrpMK) | [Baile Monkey](https://open.spotify.com/album/3aUqJ6GL8zcG5bQutw7u5Q) | 2:17 |
 | 35 | [Popotitos \(Bonie Moroni\)](https://open.spotify.com/track/70dBmROatI6VWV7HoWayte) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Teen Tops](https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q) | 2:51 |
-| 36 | [Nena Baila Twist](https://open.spotify.com/track/5LNIT1cjnkIkPpZZIUQnCf) | [Los Freneticos Del Ritmo](https://open.spotify.com/artist/64k6Wy7EbxzKOC7jeN3287) | [Ritmo Frenético](https://open.spotify.com/album/3TL7eaDOfW3cDGF8AjtJwD) | 2:09 |
-| 37 | [Aburrida y Sola \(Si Je Chante\)](https://open.spotify.com/track/3Lk23aMjEWyoALysLnQmjz) | [Pyly Gaos](https://open.spotify.com/artist/39E1vtdf8r9TasRfcE7jkb) | [RCA 100 Años De Musica](https://open.spotify.com/album/2eEwURlPtjbdcA9z4Peru1) | 1:54 |
+| 36 | [Aburrida y Sola \(Si Je Chante\)](https://open.spotify.com/track/3Lk23aMjEWyoALysLnQmjz) | [Pyly Gaos](https://open.spotify.com/artist/39E1vtdf8r9TasRfcE7jkb) | [RCA 100 Años De Musica](https://open.spotify.com/album/2eEwURlPtjbdcA9z4Peru1) | 1:54 |
+| 37 | [Nena Baila Twist](https://open.spotify.com/track/5LNIT1cjnkIkPpZZIUQnCf) | [Los Freneticos Del Ritmo](https://open.spotify.com/artist/64k6Wy7EbxzKOC7jeN3287) | [Ritmo Frenético](https://open.spotify.com/album/3TL7eaDOfW3cDGF8AjtJwD) | 2:09 |
 | 38 | [Boogie Twist](https://open.spotify.com/track/10NGZL2P7ZJ7C3vwUlyqOG) | [Los Jet Twisters](https://open.spotify.com/artist/6XUuzErwNvJpr5jlSEtCdS) | [Twist](https://open.spotify.com/album/16LnvfnTHvoqxczpRjRk4a) | 2:15 |
 | 39 | [Barba azul \- Let's Do The limbo](https://open.spotify.com/track/2ko3qA1QJZ7nla7XDImYHv) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/6FS5v5fmOjAjsMKriFMLqe) | 2:50 |
 | 40 | [El Hombre Del Brazo De Oro](https://open.spotify.com/track/29VGVvgsb7MvMc87aKK794) | [Los Reyes del Twist \(Los Seven Teens\)](https://open.spotify.com/artist/1HIFXcPtGj3PHMiDocMQ2H) | [Los Seven Teens](https://open.spotify.com/album/4rkOWiDCIicFuzuXmgPs1J) | 2:29 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 47 | [Oh! No](https://open.spotify.com/track/7dQWZ2EEodVh3WrMCiT99m) | [Los Camisas Negras](https://open.spotify.com/artist/3gQTdlAGp7BHmp6wLzvC3i) | [El Tigre](https://open.spotify.com/album/1ze4aTvIn0RGW61jEhWEGh) | 1:38 |
 | 48 | [Chica ye yé](https://open.spotify.com/track/2KPj9qiGpjmFHcczbHOXuf) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Legado de Mujeres Latinas](https://open.spotify.com/album/2pilz2V8vMaHaS7hDFuSU5) | 2:13 |
 | 49 | [El Rock Del Bebe](https://open.spotify.com/track/2ltEsQejGiTtpHLrasrkVd) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:40 |
-| 50 | [Sospecha](https://open.spotify.com/track/17R4EXVlGqwQCevhoqY79U) | [Los Seven Days](https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp) | [Mexican Garage Rock '66](https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY) | 2:29 |
+| 50 | [Muevanse Todos](https://open.spotify.com/track/43aYQsdCbQ6kMg4PjCGwu5) | [Vianey Valdez](https://open.spotify.com/artist/0JIg0Ml1RCN9v57Ht9Wfd5) | [Como Lo Bailaron Tus Padres, Vol\. 1](https://open.spotify.com/album/57ZelIquhSX9pu9B4PYGmu) | 2:23 |
 
-Snapshot ID: `MCw3NDg0Yjc2NjdkYmViZjYwNjQxYmUzN2JmNjYwNmFiNzQ2YjM2ZmRh`
+Snapshot ID: `MCwzMjIxMmQ3MmZiNzczMDJmMWU1MThkNjhlN2FkNWJjYWYyZDdlZDBi`

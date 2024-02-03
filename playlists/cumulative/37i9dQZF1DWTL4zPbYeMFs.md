@@ -4,7 +4,7 @@
 
 > A perfect mix for your Mehendi ceremony.
 
-84 songs - 6 hr 7 min
+85 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Genda Phool](https://open.spotify.com/track/15Vuw407y6UWIPUfGrpJ1e) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 2:48 | 2022-03-14 |  |
 | [Gulabi Paani](https://open.spotify.com/track/6GANda34t7RcWY6j1WWOrQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Muklawa](https://open.spotify.com/album/3RkmYz0TWTINSueISYjQ2a) | 2:39 | 2022-03-14 |  |
 | [Iski Uski](https://open.spotify.com/track/0ON0JdGgRTVcCInt8j6eod) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 4:14 | 2022-03-14 |  |
+| [It Is What It Is \(Madhaniya\)](https://open.spotify.com/track/1c6GS8OK74Xkl6vlg7Rj6r) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Love Like That](https://open.spotify.com/album/3Y4Bd81VEusw5Hhrp42huC) | 3:27 | 2024-02-02 |  |
 | [Jhalla Wallah](https://open.spotify.com/track/1y8Ck6jFOyxNC59SrQJIn6) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Ishaqzaade](https://open.spotify.com/album/7bJe5O77rwuYETK4zEp9Vu) | 5:51 | 2022-03-14 |  |
 | [Kabira \(Encore\)](https://open.spotify.com/track/3jJ5HgLRNydtLRghjWVaCG) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 4:30 | 2022-03-14 |  |
 | [Kala Sha Kala](https://open.spotify.com/track/48QEqHpLNEBpzW2Ef4LryG) | [Annamika](https://open.spotify.com/artist/4nRfn9j9OQZh1DXwmP3iA4) | [Bollywood to Bhangra](https://open.spotify.com/album/7zDbRVfHFjw7RqSIOedXWM) | 4:10 | 2022-03-14 | 2023-06-09 |
@@ -54,7 +55,7 @@
 | [Madhaniya](https://open.spotify.com/track/1PJjB3p65wjdCbMTObhPxv) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Madhaniya \- Single](https://open.spotify.com/album/23eYpUkPcWs2ooPZNeVfTy) | 4:15 | 2022-03-14 | 2023-09-03 |
 | [Madhaniyan](https://open.spotify.com/track/6y3jAgOVnzVuq75OdlNUqy) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Madhaniyan](https://open.spotify.com/album/2qSzP3ckFfhXMUpzDGY3T4) | 4:15 | 2023-08-08 |  |
 | [Mahiya](https://open.spotify.com/track/5f6v7J2ifXZZijn0AGd0Bz) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mahiya](https://open.spotify.com/album/7DvAu6vwzu1iZEe5kHszLz) | 5:02 | 2022-03-14 | 2023-06-04 |
-| [Mahiya](https://open.spotify.com/track/7LeNFQku9FhmMqMvsMk7Zq) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mahiya](https://open.spotify.com/album/51DD5zCQbbTEXLKCt2tYK5) | 5:02 | 2023-05-23 |  |
+| [Mahiya](https://open.spotify.com/track/7LeNFQku9FhmMqMvsMk7Zq) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mahiya](https://open.spotify.com/album/51DD5zCQbbTEXLKCt2tYK5) | 5:02 | 2023-05-23 | 2024-02-03 |
 | [Maine Payal Hai Chhankai](https://open.spotify.com/track/51EUKH2M1QGN50iGUlnxmU) | [Falguni Pathak](https://open.spotify.com/artist/6nAVJkZZ55jorZmO5bpezv) | [Maine Payal Hai Chhankai & Other Hits](https://open.spotify.com/album/4qahs4ZSSw4yVX6HIghALw) | 4:39 | 2023-05-23 |  |
 | [Mehendi Wale Haath](https://open.spotify.com/track/3H4H5AuUK3t28rJNo1Pbfl) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjana Sanghi](https://open.spotify.com/artist/0nFIPa2qOn5ODHEWi3Ywan) | [Mehendi Wale Haath](https://open.spotify.com/album/27tWgZZCTAUBHTS7h2sBhQ) | 3:30 | 2022-03-14 |  |
 | [Mehndi](https://open.spotify.com/track/7GnO1WjNfc0BjHwwbkmsAn) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [DJ KSR](https://open.spotify.com/artist/5Vo22DmP2xVFg9dwnAZapU) | [Mehndi](https://open.spotify.com/album/5GbJKpHQ3UIKqZLSUZlj0x) | 2:52 | 2022-03-14 | 2023-02-24 |

@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now!  Cover: ドミコ
 
-950 songs - 2 day 14 hr 55 min
+951 songs - 2 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -651,7 +651,7 @@
 | [アイデンティティ](https://open.spotify.com/track/3Fki7feUIjOBqclsgHsDhL) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [DocumentaLy](https://open.spotify.com/album/27S5Z17E6ZJNNuPoKddhGb) | 4:06 | 2023-09-05 |  |
 | [アイムリアル](https://open.spotify.com/track/2ILWgaW2fK1IzShTZdOhqe) | [Yoshiharu Shiina](https://open.spotify.com/artist/2YoEsDFl4XsjRk3j22YfbH) | [アイムリアル](https://open.spotify.com/album/0BcbumwHjdJ1fEa7m9vH56) | 3:23 | 2022-05-12 | 2022-07-27 |
 | [アカシア](https://open.spotify.com/track/0tvPnYDLySJL9g7OHNJeyb) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [アカシア](https://open.spotify.com/album/68QVVJIcIoem5brTfzbSlo) | 4:22 | 2023-08-15 | 2023-08-23 |
-| [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 | 2023-06-27 |  |
+| [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 | 2023-06-27 | 2024-02-03 |
 | [アフターダーク](https://open.spotify.com/track/6XsJTpZwPKMcG8QK8k14Z6) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ワールド ワールド ワールド](https://open.spotify.com/album/6ZcU0MGlWn9oc4dEhY1TEI) | 3:12 | 2023-06-27 |  |
 | [アポフェニア](https://open.spotify.com/track/2LMMdR5vkNpm6v1AwXg7l9) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [ANTHEMICS](https://open.spotify.com/album/5ft76H4MMIeRPiWF50v9VW) | 4:06 | 2022-08-30 | 2022-09-01 |
 | [アマリリス](https://open.spotify.com/track/4eIDKBcRJnlZmrRLNdlbgX) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [アマリリス](https://open.spotify.com/album/5Tdq4ftTKRVA2FYE4kc0QT) | 3:53 | 2023-07-11 | 2023-10-11 |
@@ -787,6 +787,7 @@
 | [冬ノ道ノセイ](https://open.spotify.com/track/4lEYmCpjjVG9hBVc6rlmUN) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [冬ノ道ノセイ](https://open.spotify.com/album/1wGa63zrjAufDCd7zA4wCs) | 4:31 | 2023-02-21 | 2023-05-10 |
 | [出町柳パラレルユニバース](https://open.spotify.com/track/7wRI6losvhjrbPlpsx1tXZ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [出町柳パラレルユニバース](https://open.spotify.com/album/7esEraxgPxV0BlLBjaP8Gs) | 4:04 | 2022-09-20 | 2022-11-02 |
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2022-11-01 |  |
+| [切手のないおくりもの](https://open.spotify.com/track/1kVL0b3nQfoFhClBCuKFM5) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [JUICE UP!!](https://open.spotify.com/album/37KhIsdSPhactF4XrvJyds) | 1:57 | 2024-02-01 |  |
 | [勃](https://open.spotify.com/track/3X5FxxEUNq1tExNUZXgcEc) | [ENDRECHERI](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [勃](https://open.spotify.com/album/2nmxQfw5q7YIZ7EHsb2bwQ) | 3:22 | 2022-05-22 | 2022-06-09 |
 | [北極星のメロディー](https://open.spotify.com/track/1no67Xem769Zp65uuD3D8z) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [北極星のメロディー](https://open.spotify.com/album/4ei1drG1Zg6yhDwRlGwwPZ) | 4:28 | 2022-05-24 | 2022-06-17 |
 | [十匹の熊 \- ZERO TAKES Ver.](https://open.spotify.com/track/5FDAp7KH8l9CYlpD7gImdm) | [THE PINBALLS](https://open.spotify.com/artist/2Y0WFXb0NqTAv5DpLaUR4M) | [ZERO TAKES](https://open.spotify.com/album/64oIZKL8yH08Uh11YD5DJM) | 3:29 | 2022-05-19 | 2022-07-29 |

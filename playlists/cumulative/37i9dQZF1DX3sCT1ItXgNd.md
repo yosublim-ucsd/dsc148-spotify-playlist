@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Saiko, Lola Indigo
 
-379 songs - 19 hr 1 min
+380 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [ALICANTINA](https://open.spotify.com/track/13BMKkLZZj9wD7rCnrKHMn) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [ALICANTINA](https://open.spotify.com/album/2J18PEqkyz32M2ZzM6CS8p) | 2:38 | 2023-12-18 |  |
 | [alto ahí](https://open.spotify.com/track/1kAwAe6ubWffQwjucRnqy0) | [Alex Wall](https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [alto ahí](https://open.spotify.com/album/4aWWKkZEUd2zqGYHX6lYYE) | 2:46 | 2023-03-21 | 2023-04-04 |
 | [amor de verano](https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [amor de verano](https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG) | 2:56 | 2023-12-18 |  |
-| [AQYNE](https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:01 | 2023-09-25 |  |
+| [AQYNE](https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:01 | 2023-09-25 | 2024-02-03 |
 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 | 2023-03-13 | 2023-09-19 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2023-07-10 | 2023-08-02 |
 | [ASI ES LA VIDA](https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ASI ES LA VIDA](https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5) | 2:52 | 2023-09-28 |  |
@@ -142,6 +142,7 @@
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-08-01 | 2023-08-22 |
 | [Frases de Taza](https://open.spotify.com/track/51cRvcZsjGoghxQajL3c38) | [De Rancho](https://open.spotify.com/artist/5CvFmofsJbfkYoGOFryI2k), [H Roto](https://open.spotify.com/artist/5Q7VQ40wSh0GOm1CaNOIHL), [GARZI](https://open.spotify.com/artist/0sAHZQtvqLdcBvIrEAYo4m) | [Frases de Taza](https://open.spotify.com/album/23pMTEWByeeckQXeXuPqFd) | 2:58 | 2023-03-13 | 2023-03-29 |
 | [Frenesí](https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex) | [Danny Romero](https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM), [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Frenesí](https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ) | 3:24 | 2023-06-26 |  |
+| [Fría](https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Fría](https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ) | 2:56 | 2024-02-02 |  |
 | [Física o Química \(feat\. Enol, Hens, Walls\)](https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Física o Química \(feat\. Enol, Hens, Walls\)](https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU) | 3:35 | 2024-01-11 |  |
 | [GALGO](https://open.spotify.com/track/5zfUKIkOzlbzPNOsQD9VGC) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [GALGO](https://open.spotify.com/album/6XWYIRTIA3FwVWPMCQpiBi) | 2:52 | 2023-03-13 | 2023-03-22 |
 | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk) | 2:44 | 2023-10-27 |  |

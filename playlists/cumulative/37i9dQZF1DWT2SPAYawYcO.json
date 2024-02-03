@@ -3915,6 +3915,24 @@
     },
     {
       "album": {
+        "name": "Bad Dream",
+        "url": "https://open.spotify.com/album/1LzOVFDUgs1iKxxUYvoeBz"
+      },
+      "artists": [
+        {
+          "name": "Mason & Julez",
+          "url": "https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181104,
+      "name": "Bad Dream",
+      "url": "https://open.spotify.com/track/1SmJVleSfqkfh1z32azOYN"
+    },
+    {
+      "album": {
         "name": "Bad Gyalz",
         "url": "https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb"
       },
@@ -9084,7 +9102,7 @@
       },
       "artists": [
         {
-          "name": "Bicep",
+          "name": "BICEP",
           "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],
@@ -9250,7 +9268,7 @@
     {
       "album": {
         "name": "Clean Cut",
-        "url": "https://open.spotify.com/album/2M3FaOtl5YS8EhfT2cVV6L"
+        "url": "https://open.spotify.com/album/5MTtsV1XLkI3lxFn1M4aWc"
       },
       "artists": [
         {
@@ -9261,6 +9279,24 @@
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 214760,
+      "name": "Clean Cut",
+      "url": "https://open.spotify.com/track/2exzpcAhjJmnw4clYVLmkp"
+    },
+    {
+      "album": {
+        "name": "Clean Cut",
+        "url": "https://open.spotify.com/album/2M3FaOtl5YS8EhfT2cVV6L"
+      },
+      "artists": [
+        {
+          "name": "Charm of Finches",
+          "url": "https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-03",
       "duration_ms": 214760,
       "name": "Clean Cut",
       "url": "https://open.spotify.com/track/40W2EkXwPyI3spqM4BdFz9"
@@ -12331,6 +12367,28 @@
     },
     {
       "album": {
+        "name": "KINEMA",
+        "url": "https://open.spotify.com/album/5bikiolrxKPQiFfPt7bdv8"
+      },
+      "artists": [
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        },
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214226,
+      "name": "Do or Die (ft. DPR IAN)",
+      "url": "https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo"
+    },
+    {
+      "album": {
         "name": "Do You",
         "url": "https://open.spotify.com/album/3TA7Hh96OwARzUgw71ZcaO"
       },
@@ -13288,10 +13346,28 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 208253,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha"
+    },
+    {
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208253,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb"
     },
     {
       "album": {
@@ -22858,6 +22934,24 @@
       "duration_ms": 203540,
       "name": "I Got Nothing",
       "url": "https://open.spotify.com/track/4yagkb6nJCRcfjUhaOVHTw"
+    },
+    {
+      "album": {
+        "name": "I GOT YOU",
+        "url": "https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173240,
+      "name": "I GOT YOU",
+      "url": "https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx"
     },
     {
       "album": {
@@ -42336,6 +42430,24 @@
       "duration_ms": 205546,
       "name": "Sidelines",
       "url": "https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW"
+    },
+    {
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/5epUQc2VXbfbSuzjWHWyjQ"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124307,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/5FwhprNsUarRkLXqBE8tK8"
     },
     {
       "album": {

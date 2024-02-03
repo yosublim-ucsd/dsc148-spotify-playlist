@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. YUNGBLUD & Lil Yachty
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,315 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,314 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 84 | [ballad of a homeschooled girl](https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:23 |
 | 85 | [BLACK HEARSE](https://open.spotify.com/track/2TcdALHDcTIeaKhqJDaej1) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Family Drama](https://open.spotify.com/album/2FlBZwnnKhHR2fYleJY3de) | 2:28 |
 
-Snapshot ID: `MCw0Y2M4ZDkwOTNhZWZiYmE5NGNjYmJmZmQ4ZWY0M2JiMjJkYTAyMDQw`
+Snapshot ID: `MCxjMzAxZmEyMDkwZDczN2U3NTUyMDQ5NDk2ZWI1ZDNkYjBkOTA2MGZk`

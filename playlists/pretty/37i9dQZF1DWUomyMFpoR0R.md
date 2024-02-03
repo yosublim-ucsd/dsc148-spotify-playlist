@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUomyMFpoR0R.md) - [plain]
 
 > <a href="spotify:artist:3TXQ1ddouwQAI78hV4hXDjj">Maceo Plex</a> shares his favorite tracks and new ones from his 3rd album this week\. "My newest album, ’93, is a fusion of diverse influences throughout my musical career—from techno to drum and bass, rap to pop, and beyond\. Dive into it"\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,626 likes - 35 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,637 likes - 35 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUomyMFpoR0R.md) - [plain]
 | 34 | [Conjure Superstar](https://open.spotify.com/track/5pYsZ4LY6LU4wEEDUGmsaB) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Conjure Superstar](https://open.spotify.com/album/4h0c2JJkJAw8spNfQ2XG8P) | 7:40 |
 | 35 | [When the Lights Are Out](https://open.spotify.com/track/2BIe0r0ghtyoeinWcBgQky) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [When the Lights Are Out](https://open.spotify.com/album/28eezLT3nxoLghPoLKaduu) | 7:24 |
 
-Snapshot ID: `MCw4Yzk5MDI0NzRmZWU2ZjYyYjJiOGZlOGQyMDNjMjJhOTZkNTY2ZjNl`
+Snapshot ID: `MCw3YzAxMWYwZDA5NTg4ZThiZjA5MWNkMmQyMDRkYzFhNzRiOWNmYzgz`

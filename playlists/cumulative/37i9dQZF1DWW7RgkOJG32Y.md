@@ -4,7 +4,7 @@
 
 > Top trending country tracks from the last few months\. Cover: The War and Treaty
 
-359 songs - 19 hr 11 min
+360 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Heartbroken \- Jessie Version](https://open.spotify.com/track/60bbiP93CSxmLibuwvxay9) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:17 | 2023-08-04 | 2023-10-21 |
 | [Heaven By Then](https://open.spotify.com/track/4GVVc4W9u4ZXemCmru5orO) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [So Help Me God](https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL) | 3:02 | 2023-06-09 | 2024-01-27 |
 | [Hell Yeah](https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Hell Yeah](https://open.spotify.com/album/0IqcqqXBaXwUx1IV2jHb6I) | 2:55 | 2022-07-29 | 2022-12-03 |
-| [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-08 |  |
+| [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-08 |  |
 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 | 2022-02-04 | 2022-10-08 |
 | [Hope It's Hot Out](https://open.spotify.com/track/4CH3ynSZbUWlQO9n1P8j3V) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out](https://open.spotify.com/album/7ovAaBOHPb0MhiefUZ9E8D) | 2:47 | 2022-08-12 | 2023-01-14 |
 | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/album/0QikezpLsccyG7W7oNwQ8D) | 4:30 | 2023-10-06 | 2024-01-20 |
@@ -171,7 +171,7 @@
 | [Keeping Me Up All Night](https://open.spotify.com/track/3IjDghaXh385kOYVTQJ7rr) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Keeping Me Up All Night](https://open.spotify.com/album/4q3MfAPYMT68yrthrSD68x) | 3:29 | 2022-10-07 | 2023-06-24 |
 | [Key to Life](https://open.spotify.com/track/2Mt1eUJXN4QMeH6hh0rpUr) | [BEXAR](https://open.spotify.com/artist/1GXBaX5YUjOrrXch1sGepn) | [Pronounced BEAR](https://open.spotify.com/album/7cNdBHLEbwYGakUYG6GbUa) | 3:15 | 2022-01-21 | 2022-05-14 |
 | [Key West & Colorado](https://open.spotify.com/track/0K9q7Z82z3BygBWznLCqXL) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Key West & Colorado](https://open.spotify.com/album/0FDFEgqvnVxMw84e9xgNEL) | 3:26 | 2022-08-19 | 2023-06-24 |
-| [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2023-02-24 |  |
+| [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2023-02-24 | 2024-02-03 |
 | [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 | 2022-02-25 | 2022-06-04 |
 | [Last Rodeo](https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES) | 3:15 | 2023-06-23 | 2023-10-07 |
 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2021-12-17 | 2022-09-03 |
@@ -274,6 +274,7 @@
 | [Sounds Like Something I'd Do](https://open.spotify.com/track/30zqn4YASRhqyUymwMNzkI) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Dallas/Fort Worth](https://open.spotify.com/album/6JDmMjsVmSWoWJ3yCG2Fq7) | 2:26 | 2023-06-09 | 2023-11-04 |
 | [Sounds Like Something I'd Do](https://open.spotify.com/track/5QAwDaUIcFOEYfsepGk0Fd) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Drake Milligan \- EP](https://open.spotify.com/album/0Dwtk61QlV7qErBqsFTm8u) | 2:26 | 2023-05-19 | 2023-06-11 |
 | [Sounds Like Something I’d Do](https://open.spotify.com/track/767hNt8JatQqBsJYdZWjAO) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Dallas/Fort Worth](https://open.spotify.com/album/1WxqjSLqeYJaWXvbKaql5w) | 2:26 | 2023-10-27 |  |
+| [Spin You Around \(1/24\)](https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Spin You Around \(1/24\)](https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It) | 3:29 | 2024-02-02 |  |
 | [Stars Like Confetti](https://open.spotify.com/track/5wtPc1OQ7g1H8FBkwWqbhh) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 3:14 | 2023-01-13 | 2023-04-01 |
 | [Start Nowhere](https://open.spotify.com/track/33bMASZzuBL82YERsMyozx) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Start Nowhere](https://open.spotify.com/album/2T1qRB6zSSGdNgcTD3Dg8H) | 3:13 | 2023-01-06 | 2023-06-24 |
 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 | 2022-01-28 | 2022-03-12 |

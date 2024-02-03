@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeis6l3TaSE.md) - [plain]
 
 > Seize the day...Maybe? Listen to the music from and inspired by Everything Now, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,610 likes - 83 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,616 likes - 83 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeis6l3TaSE.md) - [plain]
 | 54 | [Listen](https://open.spotify.com/track/43XYH7WAYWBy8J2CmIboYs) | [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [Est 1999](https://open.spotify.com/album/36mtu0M6Sk8BSFAb9UM7lL) | 3:53 |
 | 55 | [Crow \- DJ\-Kicks](https://open.spotify.com/track/5kC8W931UhwuKFJ86UOsab) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Crow \(DJ\-Kicks\)](https://open.spotify.com/album/75ovB77VkciixUi6jp8R1b) | 3:37 |
 | 56 | [Home](https://open.spotify.com/track/6ekLy1OsrYdLMbcqc0KZ8G) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nobody Is Not Loved](https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk) | 3:41 |
-| 57 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 |
+| 57 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 |
 | 58 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 |
 | 59 | [Heirloom](https://open.spotify.com/track/0OYUp11ElGJsLWqxQNXBE3) | [KISLO](https://open.spotify.com/artist/3VXFXDKTNev0EWuXOvozh6) | [Heirloom](https://open.spotify.com/album/2FjjBjJLjsmvRv3SzhRqyK) | 4:43 |
 | 60 | [Ghostkeeper](https://open.spotify.com/track/0qHD5pzpp1zSPa5Ud74WDC) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Ghostkeeper](https://open.spotify.com/album/0ZoNlJeutDZYpf1rSzGInO) | 5:31 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeis6l3TaSE.md) - [plain]
 | 82 | [This Is Living](https://open.spotify.com/track/2TlK5vVReniSfMUFwIIqyA) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [Everything Now \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1fdsa2x1cRV7eGnpsfj7MD) | 1:52 |
 | 83 | [Best Day Of My Life](https://open.spotify.com/track/74oekHCIp8VXbp8Xmnef92) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [Everything Now \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1fdsa2x1cRV7eGnpsfj7MD) | 2:33 |
 
-Snapshot ID: `MCwwYjU0NTFhNzNiNjRhMzRiZmEwYzFiZmQzMTAxN2Y4ZGY4MmVkMWUy`
+Snapshot ID: `MCxmMzlkNmFjYWIzNTQ4MDY5ZjMwM2ZhNDM0Y2YyNzZiZWJkZTY0MDFl`

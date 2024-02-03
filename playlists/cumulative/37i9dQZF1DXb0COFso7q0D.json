@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The playlist sin fronteras. Cover: Peso Pluma, Christian Nodal",
+  "description": "The playlist sin fronteras. Cover: Marca MP",
   "name": "Los Que Mandan - M\u00fasica Mexicana",
   "tracks": [
     {
@@ -246,6 +246,28 @@
       "duration_ms": 220650,
       "name": "Abcdario",
       "url": "https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns"
+    },
+    {
+      "album": {
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/2BvDucJawFOjYW93odCdow"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150974,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
     },
     {
       "album": {
@@ -939,6 +961,28 @@
     },
     {
       "album": {
+        "name": "Bien Tony Montana",
+        "url": "https://open.spotify.com/album/1sv4ITV71Vv0ph7CKYLqlu"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166127,
+      "name": "Bien Tony Montana",
+      "url": "https://open.spotify.com/track/5FK2Ee6xXBspGF8nllIRKM"
+    },
+    {
+      "album": {
         "name": "Billete Grande (En Vivo)",
         "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
       },
@@ -1179,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+    },
+    {
+      "album": {
         "name": "Cada Quien",
         "url": "https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p"
       },
@@ -1340,7 +1402,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 147877,
       "name": "CCC - Remix",
       "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
@@ -3545,6 +3607,24 @@
     },
     {
       "album": {
+        "name": "Empat\u00eda",
+        "url": "https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244219,
+      "name": "Empat\u00eda",
+      "url": "https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh"
+    },
+    {
+      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -5377,6 +5457,24 @@
     },
     {
       "album": {
+        "name": "LEALTAD",
+        "url": "https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137750,
+      "name": "Lealtad",
+      "url": "https://open.spotify.com/track/5HG6bnHO89RRqiqxAVr20B"
+    },
+    {
+      "album": {
         "name": "Forajido EP 1",
         "url": "https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR"
       },
@@ -5702,7 +5800,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 170237,
       "name": "Mafiosa",
       "url": "https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb"
@@ -5764,7 +5862,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 193333,
       "name": "Mas Altas Que Bajadas",
       "url": "https://open.spotify.com/track/4Zx0yrZwW4uNpd1FhIrOV5"
@@ -6890,7 +6988,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 190680,
       "name": "NUEVA VIDA",
       "url": "https://open.spotify.com/track/4Nf5EZ40JenjMUKXOiyRU5"
@@ -7040,7 +7138,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 201916,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/5aUcRdeMllzipglMOSi5JX"
@@ -7510,7 +7608,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 185207,
       "name": "POR EL CONTRARIO (with Angela Aguilar & Leonardo Aguilar)",
       "url": "https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J"
@@ -7754,6 +7852,28 @@
       "duration_ms": 130263,
       "name": "Prot\u00e9geme Se\u00f1or",
       "url": "https://open.spotify.com/track/32Pc5zvlNn2dxdMxlY9G76"
+    },
+    {
+      "album": {
+        "name": "Proyecto X",
+        "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158036,
+      "name": "Proyecto X",
+      "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
     },
     {
       "album": {

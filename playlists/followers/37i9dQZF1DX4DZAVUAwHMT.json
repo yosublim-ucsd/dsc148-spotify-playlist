@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 580276,
+  "2024-02-03": 580232,
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Cassyette",
+  "description": "The UK's biggest rock playlist. Cover: Nothing But Thieves",
   "name": "The Rock List",
   "tracks": [
     {
@@ -201,7 +201,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 201480,
       "name": "999",
       "url": "https://open.spotify.com/track/3X6kv6zO5IP2rSTYuUOFJi"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 188895,
       "name": "AI (Save Yourself)",
       "url": "https://open.spotify.com/track/2MrnJVZSGAzz1IobfPEwHv"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 193607,
       "name": "Am I Even A Man",
       "url": "https://open.spotify.com/track/203aZkz0i3swvunzfGlUbe"
@@ -1300,6 +1300,24 @@
     },
     {
       "album": {
+        "name": "Burning Down the House",
+        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
+    },
+    {
+      "album": {
         "name": "Welcome To My House",
         "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
       },
@@ -1839,6 +1857,24 @@
       "duration_ms": 170571,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
+    },
+    {
+      "album": {
+        "name": "Cathexis",
+        "url": "https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183741,
+      "name": "Doomsday Blue",
+      "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
     },
     {
       "album": {
@@ -2535,6 +2571,24 @@
       "duration_ms": 148053,
       "name": "GASLIGHT!",
       "url": "https://open.spotify.com/track/6OCbBpYhFHbBbfdnaoEsZ1"
+    },
+    {
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219720,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
     },
     {
       "album": {
@@ -4300,6 +4354,24 @@
     },
     {
       "album": {
+        "name": "London (Love to Hate)",
+        "url": "https://open.spotify.com/album/7dVKNEaY2ScakAlYj9Ff9q"
+      },
+      "artists": [
+        {
+          "name": "Indoor Pets",
+          "url": "https://open.spotify.com/artist/5abBw7CgjR22S31JWg0g84"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244076,
+      "name": "London (Love to Hate)",
+      "url": "https://open.spotify.com/track/5EO7Imd5V2EZFUIOh9rtT6"
+    },
+    {
+      "album": {
         "name": "Long Way",
         "url": "https://open.spotify.com/album/2DfwEF4SRYhYRfZNxX3Z2K"
       },
@@ -5022,6 +5094,24 @@
     },
     {
       "album": {
+        "name": "Oh No :: He Said What?",
+        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228138,
+      "name": "Oh No :: He Said What?",
+      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
+    },
+    {
+      "album": {
         "name": "Oh!",
         "url": "https://open.spotify.com/album/13YVOGugpbcH7MZCwDEWnE"
       },
@@ -5195,7 +5285,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 204800,
       "name": "Only This Could Happen To Me",
       "url": "https://open.spotify.com/track/4tkNRCnN7TGV1ukMfIXuaU"
@@ -5303,7 +5393,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 225360,
       "name": "OVER YOUR DEAD BODY",
       "url": "https://open.spotify.com/track/33SO5use9IdF2g0lrcSj3l"
@@ -6204,6 +6294,24 @@
     },
     {
       "album": {
+        "name": "Shortest Fuse",
+        "url": "https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220649,
+      "name": "Shortest Fuse",
+      "url": "https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c"
+    },
+    {
+      "album": {
         "name": "Should I",
         "url": "https://open.spotify.com/album/17tq1FC1vDQJkTRNCNYcXc"
       },
@@ -6929,7 +7037,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 262776,
       "name": "The General",
       "url": "https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv"

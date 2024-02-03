@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13kFuGnInkY.md) - [plain]
 
 > Congratulations to all of the ACM Awards nominees! Cover: ACM Awards hosts Garth Brooks and Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,801 likes - 61 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,896 likes - 61 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13kFuGnInkY.md) - [plain]
 | 56 | [Rich Man](https://open.spotify.com/track/2QUqxiiYJw4cg2HUCnfYLa) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:30 |
 | 57 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
 | 58 | [Last Night Lonely](https://open.spotify.com/track/0k11c8vwyeNSGQex6UMa1v) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 3:02 |
-| 59 | [That's How Love Is Made](https://open.spotify.com/track/241mj8aXPCfElHc72HsZlP) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 3:46 |
+| 59 | [That's How Love Is Made](https://open.spotify.com/track/241mj8aXPCfElHc72HsZlP) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 3:46 |
 | 60 | [Summer State Of Mind](https://open.spotify.com/track/6bFTHHpjZJWrJHzFvRheLg) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Summer State Of Mind](https://open.spotify.com/album/0aRJ1xrnmJnP7RAm1qKo3g) | 2:58 |
 | 61 | ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 |
 
-Snapshot ID: `MCxkYzZiMzIxNWNlNWUwNjU5NzM1YjlmYWE5MjMzYzgyYmRlNTE3MmY4`
+Snapshot ID: `MCw5OWI0NmM1ZDUwYmZhMWZmNmI4YmYwODVjZjQ0YTVmYjkyN2RhNmFi`

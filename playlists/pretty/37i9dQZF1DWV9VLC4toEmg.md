@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 
 > Spa treatment role\-play and ASMR massage sounds to give you tingles and help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,597 likes - 47 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,615 likes - 47 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 | 46 | [Hailey and the Lotion Bottle](https://open.spotify.com/track/6gEn9TUf8GLboqCnEsb7qy) | [My ASMR Room](https://open.spotify.com/artist/74ewzpfsEL70CLM2hU9K4B) | [Playing with Scissors](https://open.spotify.com/album/1Xl8Mtft1lQkVB4bt8HEIW) | 3:16 |
 | 47 | [Lotion Ear Massage Pt\. 1](https://open.spotify.com/track/2JNIfNuAYm33btPUXwSTvx) | [fastASMR](https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v) | [Lotion Ear Massage](https://open.spotify.com/album/3ZFuo0KXX55NKDWPrw8qZf) | 6:07 |
 
-Snapshot ID: `MCw3M2ViY2I0MjY1Mzc2ZDk3OTAyNDRjOTQ5ZWNlZTc1MzdjNDBjMzBi`
+Snapshot ID: `MCxhZjdlNWJmMzIyODYxYTFiNGNkYzllNmY1MTY0ZGY5ODQ5NzU4YjVl`

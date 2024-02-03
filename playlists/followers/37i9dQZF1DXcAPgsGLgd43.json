@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 3867,
+  "2024-02-03": 3869,
   "date_first_scraped": "2022-05-13",
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
   "name": "Alma",
@@ -869,7 +869,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 322501,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6"
@@ -2519,7 +2519,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 126707,
       "name": "Quema Quema",
       "url": "https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau"

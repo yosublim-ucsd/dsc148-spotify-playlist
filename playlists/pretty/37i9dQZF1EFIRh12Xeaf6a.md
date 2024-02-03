@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,586 likes - 271 songs - 14 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,593 likes - 271 songs - 14 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 102 | [2 L8](https://open.spotify.com/track/69eyNEmESnyqiqS89PQyPO) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [time machine](https://open.spotify.com/album/6TPeuDAS4Bo24rgZTE0go6) | 3:07 |
 | 103 | [I Think I Can Hear You](https://open.spotify.com/track/6VQYB9tMPzBQrHWhrEdTlC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:25 |
 | 104 | [Please Hurt Me](https://open.spotify.com/track/6cEhla9GaxwIL31U2SYZSd) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:14 |
-| 105 | [What Am I Gonna Do \- Live](https://open.spotify.com/track/6pxA0inqPsdEzM0jCAf3f7) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Church Street Station Presents: Merle Haggard \(Live\)](https://open.spotify.com/album/3vz3Cqc8r9LPHTYL6sSdOV) | 4:00 |
-| 106 | [Stand Behind Me](https://open.spotify.com/track/2vAhTyIJP5LessHhtVyEuI) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:28 |
+| 105 | [Stand Behind Me](https://open.spotify.com/track/2vAhTyIJP5LessHhtVyEuI) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:28 |
+| 106 | [What Am I Gonna Do \- Live](https://open.spotify.com/track/6pxA0inqPsdEzM0jCAf3f7) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Church Street Station Presents: Merle Haggard \(Live\)](https://open.spotify.com/album/3vz3Cqc8r9LPHTYL6sSdOV) | 4:00 |
 | 107 | [I Can't Say Goodbye to You](https://open.spotify.com/track/24TtjVPpY6uuWxKKmosG28) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The New Album](https://open.spotify.com/album/7JqDnsWOUOEQ8tnxgxKMvW) | 2:12 |
 | 108 | [I Think It's Gonna Work out Fine \(with James Taylor\)](https://open.spotify.com/track/2cz5aUnfZpxK7Pp9D9vuew) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Get Closer](https://open.spotify.com/album/5WMzxTzHkHVXaleVFWNcfB) | 4:01 |
 | 109 | [I Didn't Have Any Summer Romance](https://open.spotify.com/track/17F1e95eSGGcJq275iMNWQ) | [Simone White](https://open.spotify.com/artist/1qFOfghPhItJzIUt1iD1ty) | [I Am the Man](https://open.spotify.com/album/0bdgA41D4kZaO87Esq5wZU) | 3:26 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 270 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 271 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Mjg0NDczMzAsMDAwMDAwMDAxYjhjYmUzOWI2MzA5Zjc0MDM2ZmNiYTg5YTczYzhkNg==`
+Snapshot ID: `Mjg0NDg3NzAsMDAwMDAwMDBhOTIxNWJkNjNkNGM0NGNjMDFhNTg5NzE4ZjllOWMwNQ==`

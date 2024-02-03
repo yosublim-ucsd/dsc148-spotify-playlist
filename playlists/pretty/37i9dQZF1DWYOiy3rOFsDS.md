@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance antigüito en voz de tus artistas pop con Kali Uchis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,913 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,876 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 41 | [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 |
 | 42 | [Adoro](https://open.spotify.com/track/57HVjcV6s7ppmZJXhNHchy) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 3:27 |
 | 43 | [Cada Vez Te Extraño Menos](https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Cada Vez Te Extraño Menos](https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is) | 2:42 |
-| 44 | [Adoracion](https://open.spotify.com/track/6W9Q073oJTne3KQedw1f73) | [Los Tri\-O](https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC) | [Nuestro Primer Disco / Nuestro Amor](https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG) | 4:28 |
-| 45 | [Para No Romperme](https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Para No Romperme](https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh) | 2:51 |
+| 44 | [Para No Romperme](https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Para No Romperme](https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh) | 2:51 |
+| 45 | [Adoracion](https://open.spotify.com/track/6W9Q073oJTne3KQedw1f73) | [Los Tri\-O](https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC) | [Nuestro Primer Disco / Nuestro Amor](https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG) | 4:28 |
 | 46 | [Y \- En vivo](https://open.spotify.com/track/6QbEENozheS46xQY56acH9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:42 |
 | 47 | [No Dejes de Quererme](https://open.spotify.com/track/7mAOonpkjMsDwUAuXmm4pj) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [Ome](https://open.spotify.com/album/69ecmGWs76wJyI23HLNfjh) | 2:57 |
 | 48 | [Somos Algo](https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Somos Algo](https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k) | 3:54 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 93 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |
 | 94 | [Noche No Te Vayas](https://open.spotify.com/track/6qUvXLmgxFLxWpK4zitltx) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Éxitos de Manolo Muñoz](https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY) | 2:50 |
 | 95 | [Preso](https://open.spotify.com/track/1HbrJm8GebgXE24ixji0hR) | [Paco de María](https://open.spotify.com/artist/2mbskxBaHE1KFkmul4slY2) | [Una Buena Señal](https://open.spotify.com/album/7K4Skg7SyLMzLhgSXAcoYC) | 3:47 |
-| 96 | [Drume Negrita \- En Vivo Desde Fonobox](https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Drume Negrita \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r) | 2:44 |
-| 97 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
-| 98 | [Jacaranda](https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Triología](https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL) | 3:11 |
-| 99 | [En las Noches](https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [En las Noches](https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e) | 3:59 |
-| 100 | [Sabor a Mi \- En Vivo](https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Andrés Cepeda Big Band \(En Vivo\)](https://open.spotify.com/album/0Gpm0iuK5BKbrbX8FJKz1y) | 2:18 |
+| 96 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
+| 97 | [Sabor a Mi \- En Vivo](https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Andrés Cepeda Big Band \(En Vivo\)](https://open.spotify.com/album/0Gpm0iuK5BKbrbX8FJKz1y) | 2:18 |
+| 98 | [Drume Negrita \- En Vivo Desde Fonobox](https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Drume Negrita \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r) | 2:44 |
+| 99 | [Jacaranda](https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Triología](https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL) | 3:11 |
+| 100 | [En las Noches](https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [En las Noches](https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e) | 3:59 |
 
-Snapshot ID: `MCxiOGQ3Yjk4OGJkMzI4ZGMxOGY3MjczNDhiM2FlZWE1YWY2NGQ0MjE3`
+Snapshot ID: `MCw0ZTYwNjdhZTJhNjAxMzk2YzhiMWFiNTQ0ODBhYjYwMjRiZWYxYzhj`

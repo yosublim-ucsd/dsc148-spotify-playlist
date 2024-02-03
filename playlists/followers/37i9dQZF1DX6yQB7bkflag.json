@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 116341,
+  "2024-02-03": 116349,
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Nadhif Basalamah",
+  "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Rizky Febian",
   "name": "Pop Rising Indonesia",
   "tracks": [
     {
@@ -97,7 +97,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 212306,
       "name": "All Out Of Fight",
       "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
@@ -119,7 +119,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 285426,
       "name": "Alley (with SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC"
@@ -180,6 +180,28 @@
     },
     {
       "album": {
+        "name": "Beraksi",
+        "url": "https://open.spotify.com/album/4heQ0fU30FAFK7ulTT74ai"
+      },
+      "artists": [
+        {
+          "name": "Kotak",
+          "url": "https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu"
+        },
+        {
+          "name": "Feel Koplo",
+          "url": "https://open.spotify.com/artist/1I7J7ZNNQne6VhffsSECR4"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217924,
+      "name": "Beraksi",
+      "url": "https://open.spotify.com/track/5cK3mgNdHGlua1IKezMscn"
+    },
+    {
+      "album": {
         "name": "Bercanda (Original Soundtrack Bandelnya Judith)",
         "url": "https://open.spotify.com/album/7qfAolwdBXIeV9bewwMCeA"
       },
@@ -213,6 +235,24 @@
       "duration_ms": 199266,
       "name": "Berdalih",
       "url": "https://open.spotify.com/track/2YVjWDiJ81I0xcKbgyNRZJ"
+    },
+    {
+      "album": {
+        "name": "Berharap Kau Kembali",
+        "url": "https://open.spotify.com/album/1PjtBnzBSScqyw9ZWaDaBV"
+      },
+      "artists": [
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258700,
+      "name": "Berharap Kau Kembali",
+      "url": "https://open.spotify.com/track/39KLpL6U90nMI1GzaBuv1s"
     },
     {
       "album": {
@@ -419,7 +459,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 223302,
       "name": "Closer Than This",
       "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
@@ -896,6 +936,28 @@
     },
     {
       "album": {
+        "name": "Istimewa (Acoustic)",
+        "url": "https://open.spotify.com/album/5135k6hokpOicmNzobFzKZ"
+      },
+      "artists": [
+        {
+          "name": "Good Morning Everyone",
+          "url": "https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK"
+        },
+        {
+          "name": "Uan Kaisar",
+          "url": "https://open.spotify.com/artist/0o8cmGK9dAnIFmWAuXi3bl"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259157,
+      "name": "Istimewa - Acoustic",
+      "url": "https://open.spotify.com/track/2xDSj5bg69YUEthIIlAYLW"
+    },
+    {
+      "album": {
         "name": "Itu Aku - Spotify Singles",
         "url": "https://open.spotify.com/album/3GH0U5r0qeSrQeTzgDE89j"
       },
@@ -925,7 +987,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 206632,
       "name": "Jam Satu",
       "url": "https://open.spotify.com/track/6EZnOxLN0ccGA7U7YYtQ6F"
@@ -1004,6 +1066,42 @@
     },
     {
       "album": {
+        "name": "Kata",
+        "url": "https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220083,
+      "name": "Kata",
+      "url": "https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y"
+    },
+    {
+      "album": {
+        "name": "Kata Mereka Ini Berlebihan",
+        "url": "https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191141,
+      "name": "Kata Mereka Ini Berlebihan",
+      "url": "https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7"
+    },
+    {
+      "album": {
         "name": "semua, semua.",
         "url": "https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49"
       },
@@ -1073,6 +1171,28 @@
       "duration_ms": 255813,
       "name": "Kutunggu Jawabmu",
       "url": "https://open.spotify.com/track/4iXD81fOYfaK2NWYuXxUJd"
+    },
+    {
+      "album": {
+        "name": "Lagu Pernikahan Kita",
+        "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "Arsy Widianto",
+          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261476,
+      "name": "Lagu Pernikahan Kita",
+      "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
     },
     {
       "album": {
@@ -1247,10 +1367,28 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 297525,
       "name": "Melepas Pelukan Ibu",
       "url": "https://open.spotify.com/track/0vmUWMyUr6EMic1ddlQWIX"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179534,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
     },
     {
       "album": {
@@ -1269,7 +1407,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 166595,
       "name": "Money",
       "url": "https://open.spotify.com/track/25hHWt2QvRIfbFF5Y9291N"
@@ -1407,7 +1545,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 188000,
       "name": "Pulang",
       "url": "https://open.spotify.com/track/4969iA4QPXb7R4mEPjW0RK"
@@ -1465,7 +1603,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 143940,
       "name": "run for the hills",
       "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
@@ -1646,6 +1784,24 @@
     },
     {
       "album": {
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/6vxwXV8w20fsU50YID7cKI"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163700,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/3Uf7CHxUovGESEK2YvcGAY"
+    },
+    {
+      "album": {
         "name": "Si Perkasa",
         "url": "https://open.spotify.com/album/2K61NA2gvT0cdjSJYPQKtI"
       },
@@ -1737,7 +1893,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 175921,
       "name": "spirit",
       "url": "https://open.spotify.com/track/1pdtUzQ8AtIxKjWCs2JzRk"
@@ -1762,6 +1918,24 @@
     },
     {
       "album": {
+        "name": "BABYMONSTER Pre-Release Single [Stuck In The Middle]",
+        "url": "https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246236,
+      "name": "Stuck In The Middle",
+      "url": "https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg"
+    },
+    {
+      "album": {
         "name": "Sun/Son",
         "url": "https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24"
       },
@@ -1777,6 +1951,24 @@
       "duration_ms": 176197,
       "name": "Sun/Son",
       "url": "https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB"
+    },
+    {
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152186,
+      "name": "Super Lady",
+      "url": "https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U"
     },
     {
       "album": {
@@ -2120,6 +2312,24 @@
     },
     {
       "album": {
+        "name": "Turn the Lights Back On",
+        "url": "https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238939,
+      "name": "Turn the Lights Back On",
+      "url": "https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw"
+    },
+    {
+      "album": {
         "name": "BORN TO BE",
         "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
       },
@@ -2135,6 +2345,24 @@
       "duration_ms": 194093,
       "name": "UNTOUCHABLE",
       "url": "https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w"
+    },
+    {
+      "album": {
+        "name": "Waiting In Vain (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/6ZKGdyXuM5z1nYuCx6YjWP"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301466,
+      "name": "Waiting In Vain - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/66TTutUCqCpAzGCBcsBuYy"
     },
     {
       "album": {

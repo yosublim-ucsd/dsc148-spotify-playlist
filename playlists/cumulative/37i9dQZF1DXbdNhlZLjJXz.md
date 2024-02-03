@@ -2,7 +2,7 @@
 
 ### [hot girl walk](https://open.spotify.com/playlist/37i9dQZF1DXbdNhlZLjJXz)
 
-> leggings, walking pads, water tumblers \- that's hot
+> unboxing your treadmill desk? that's hot
 
 211 songs - 12 hr 2 min
 

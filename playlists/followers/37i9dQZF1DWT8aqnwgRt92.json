@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 1412439,
+  "2024-02-03": 1412967,
   "date_first_scraped": "2022-05-30",
   "description": "Hottest Anime tracks & best new sounds for all Anime fans! \u6700\u65b0\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\uff01Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a>",
   "name": "Anime Now",
@@ -3393,6 +3393,24 @@
       "duration_ms": 256090,
       "name": "FIRST GREETING",
       "url": "https://open.spotify.com/track/3A2N0YMWbk7mG0Hc748nur"
+    },
+    {
+      "album": {
+        "name": "Fixer",
+        "url": "https://open.spotify.com/album/1hlrglBu9F6A3Wai9VeT3m"
+      },
+      "artists": [
+        {
+          "name": "Yui Ninomiya",
+          "url": "https://open.spotify.com/artist/7HCJJr9kZs3qiKJVxjRXsk"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216566,
+      "name": "Fixer",
+      "url": "https://open.spotify.com/track/1YbKeP9f10A8cDmHHIugwI"
     },
     {
       "album": {
@@ -18877,7 +18895,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 273437,
       "name": "\u5730\u7403\u5100 - Spinning Globe",
       "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
@@ -19020,7 +19038,7 @@
       "artists": [
         {
           "name": "KEIKO",
-          "url": "https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe"
+          "url": "https://open.spotify.com/artist/2wN2axCnXxq2QuVzySGCb5"
         }
       ],
       "date_added": "2024-01-23",

@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 201048,
       "name": "Abobi",
       "url": "https://open.spotify.com/track/7echDVorySYxnup1HrR15b"
@@ -1985,6 +1985,28 @@
     },
     {
       "album": {
+        "name": "Good Problem",
+        "url": "https://open.spotify.com/album/4SofMhHpBJ5vX9QoH6WuiL"
+      },
+      "artists": [
+        {
+          "name": "Clay and Friends",
+          "url": "https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm"
+        },
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203688,
+      "name": "Good Problem",
+      "url": "https://open.spotify.com/track/4vvTr4HtaAIMyPAZzruWeB"
+    },
+    {
+      "album": {
         "name": "Guava Rose",
         "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
       },
@@ -3308,7 +3330,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 173571,
       "name": "Mumu",
       "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
@@ -3694,6 +3716,24 @@
       "duration_ms": 233870,
       "name": "Obim",
       "url": "https://open.spotify.com/track/4O3AQrBYTZczhClmQK2tlC"
+    },
+    {
+      "album": {
+        "name": "ODO",
+        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "ODO",
+      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
     },
     {
       "album": {

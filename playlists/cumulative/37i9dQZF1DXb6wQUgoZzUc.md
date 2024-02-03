@@ -4,7 +4,7 @@
 
 > Un perreito en la pared...
 
-408 songs - 22 hr 45 min
+409 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Piedritas En Los Dientes](https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Piedritas En Los Dientes](https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A) | 2:36 | 2023-08-04 | 2023-10-21 |
 | [Poblado](https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Poblado](https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR) | 3:21 | 2022-10-12 |  |
 | [Poblado](https://open.spotify.com/track/7xT1n5JKpB0bMPh6FL589e) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Poblado](https://open.spotify.com/album/4VZz15JGgc4DT0TTI9pPaz) | 3:21 | 2021-12-31 | 2022-07-29 |
-| [Podemos Repetirlo](https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Podemos Repetirlo](https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX) | 3:31 | 2023-06-30 |  |
+| [Podemos Repetirlo](https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Podemos Repetirlo](https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX) | 3:31 | 2023-06-30 | 2024-02-03 |
 | [Poderosa](https://open.spotify.com/track/1Hs0fpydWBjawdgCocPaC7) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Poderosa](https://open.spotify.com/album/2uHtmuxFlU05JMjiM5EsjQ) | 3:42 | 2021-12-31 | 2022-06-27 |
 | [Poderoso](https://open.spotify.com/track/4tyfYQrYdLvZq3aEWmQ9YJ) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [El Principe 2](https://open.spotify.com/album/5U3A4CCnKzp3vtWbIqAzNO) | 3:16 | 2023-12-22 | 2024-01-13 |
 | [Polvo](https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Polvo](https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB) | 3:31 | 2021-12-31 | 2023-03-04 |
@@ -352,6 +352,7 @@
 | [TE MUDASTE](https://open.spotify.com/track/5RubKOuDoPn5Kj5TLVxSxY) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:10 | 2021-12-31 | 2023-02-18 |
 | [Te Mueves](https://open.spotify.com/track/23MEeQTkSmsDS6NjL8k6I8) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Te Mueves](https://open.spotify.com/album/7bXAW0bJlKegj77HgbRJm8) | 3:52 | 2022-03-25 | 2022-04-17 |
 | [Te Olvido](https://open.spotify.com/track/1ycIhjQ4fQp2WqNFpSDEcX) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Te Olvido](https://open.spotify.com/album/670aQBkW0Vvjz8GFVOVRJT) | 3:31 | 2021-12-31 | 2023-12-23 |
+| [Te Rajo](https://open.spotify.com/track/4JubdX9RoAAlxjEO9szU9x) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Noiss](https://open.spotify.com/artist/5nhjhOrmCpnfUR6GHyU9ca) | [Te Rajo](https://open.spotify.com/album/6jRsmljUOnljdA1xEpd5Sr) | 2:51 | 2024-02-02 |  |
 | [Te Robaré](https://open.spotify.com/track/6v0lAdFF4haL8xjBIUjtOw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Te Robaré](https://open.spotify.com/album/4ykGcrqJO8PcTePuNOFMxa) | 3:21 | 2022-03-25 | 2022-07-02 |
 | [Te Ves Buena](https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:25 | 2022-03-25 | 2022-04-18 |
 | [Ten Cuidado](https://open.spotify.com/track/7HctR6dqgzdU9v3LYfDElj) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Ten Cuidado](https://open.spotify.com/album/23JpPGYxFaXVcuZABPm7JI) | 3:33 | 2021-12-31 | 2022-04-21 |

@@ -1,12 +1,12 @@
 {
   "description": "Diese Beats machen garantiert gute Laune!",
-  "num_followers": 975811,
+  "num_followers": 975775,
   "original_name": "Happy Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzdkYTFlOTMwOWJkMzljZjgzOTYzZWI1NTU3ODIzZjAyZGE1NTA1",
+  "snapshot_id": "MCw3NjA0ZWRiNTVkMmI5NmNmOWRmNzkxNDZkODIyODE4MDJkNTM0M2Y3",
   "tracks": [
     {
       "added_at": "2023-12-01 11:04:10",
@@ -1203,22 +1203,26 @@
     {
       "added_at": "2023-12-01 11:04:10",
       "album": {
-        "name": "One to Make Her Happy",
-        "url": "https://open.spotify.com/album/2jehLd2YXhvP1k8R7BiqK7"
+        "name": "Three Little Birds",
+        "url": "https://open.spotify.com/album/7AulSlkspgPvEqJmjsUqXD"
       },
       "artists": [
         {
-          "name": "Pulsedriver",
-          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "Tiscore",
-          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        },
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
         }
       ],
-      "duration_ms": 162000,
-      "name": "One to Make Her Happy",
-      "url": "https://open.spotify.com/track/3U0qZ6OQl4YbPYa6Ks48oD"
+      "duration_ms": 156630,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/1EytZ5aKjaGDsk8ujrFWoV"
     }
   ],
   "unique_name": "Happy Dance",

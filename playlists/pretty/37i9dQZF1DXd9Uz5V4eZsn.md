@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 
 > Ambient Indian sounds for your daily Yoga practise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,614 likes - 52 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,658 likes - 52 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 | 35 | [The Ice Altar at 432 Hz](https://open.spotify.com/track/1TjqRmnci7VwcdtIKEqouo) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [Reiki Healing Music \- at 432 Hz](https://open.spotify.com/album/7rLbPLK82F44CHtVwhV5uT) | 9:21 |
 | 36 | [Shiva's Meditation](https://open.spotify.com/track/2PIOLxy5u0q2KzbAE2gG2b) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je) | 5:09 |
 | 37 | [Om Shanti Shanti \(Edit\) \[Chant for Yoga Class\] \[feat\. Adham Shaikh\]](https://open.spotify.com/track/4wjYQMw7dg2oB9mrO8fQsl) | [The Yoga Mantra and Chant Music Project](https://open.spotify.com/artist/0zjett5LduAKxk0NfLC3NZ) | [Yoga Music Mantras & Chants](https://open.spotify.com/album/55qbMjcJd92Po54nkLmukm) | 3:58 |
-| 38 | [Echoes of Shiva](https://open.spotify.com/track/5bLg8nvysvHou7vDjAUwrX) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub) | 6:01 |
+| 38 | [Echoes of Shiva](https://open.spotify.com/track/7GdMQZxsylLkx3VEJDbeWD) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/3JXXSLswIpf1GNoptaXXvx) | 6:01 |
 | 39 | [Shiv Asana](https://open.spotify.com/track/0fSRXguhChTtZ68pl66LCT) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Yoga on Sacred Ground](https://open.spotify.com/album/5zPONdtOFrXjhFWBlwezCs) | 6:16 |
 | 40 | [Hope](https://open.spotify.com/track/0UcmCmfs4dwM2d931pgyjy) | [The Sinis Spirit](https://open.spotify.com/artist/4FQayJgrEjwuTnwghtmrE9) | [Hope](https://open.spotify.com/album/56Is3vrKgrVrgEyLXwyAed) | 3:42 |
 | 41 | [The Golden Path](https://open.spotify.com/track/4Yfx8KnmfYaNr58SVLV4QY) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Healing Memories](https://open.spotify.com/album/4TdhUIpSL4UeYpSIoCw7my) | 2:58 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 | 51 | [Surrender To The Supreme](https://open.spotify.com/track/6thuYcDe02vdRQIIuY4g3g) | [Vamanan](https://open.spotify.com/artist/50D5QNIcqU50fStd2PrZ7y) | [Meditation Music](https://open.spotify.com/album/4XUESTVzfg5sEj7DjPCuZL) | 17:22 |
 | 52 | [Earth in Space](https://open.spotify.com/track/3d4lrPfdFxvtONXc0fbRec) | [Raajeev V Bhalla](https://open.spotify.com/artist/3M3uBX6WMgpjbX3Z8mPMax) | [Healing \(Vol 1\)](https://open.spotify.com/album/49vsK5SdsNgFzg73orXx7Z) | 10:17 |
 
-Snapshot ID: `MCxjODA0ZGExYmQwZGM0YTQ4YTA1MjYwZjZjYWE5MmNlMjUyOTY0Nzk2`
+Snapshot ID: `MCxmYWU4N2VhZGYwZjJlNjE4MzFhZGRlMTNhYmY5MTY4ODliMjFkMTA5`

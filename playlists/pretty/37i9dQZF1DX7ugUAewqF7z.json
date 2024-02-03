@@ -1,12 +1,12 @@
 {
   "description": "\u2018Ssuply\u2019 makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation. (\uc138\uc0c1\uc758 \ub2e4\uc591\ud55c \uc774\uc57c\uae30\ub97c \ub4e3\uace0, \uc0c1\ud669\uc5d0 \ub531 \ub9de\ub294 \uc74c\uc545\uc744 \ucd94\ucc9c\ubc1b\uc544, \uc6b0\ub9ac\ub9cc\uc758 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub97c \ub9cc\ub4dc\ub294 \u2018\uc370\ud50c\ub9ac\u2019\uc785\ub2c8\ub2e4.)",
-  "num_followers": 13778,
+  "num_followers": 13795,
   "original_name": "Ssuply (\uc370\ud50c\ub9ac)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzhlN2FkOTgxNmIyMGJlMDE5MzdkNGVlNGJmYTg2NmNkNTllNDk4",
+  "snapshot_id": "MCw4YTA4ZjE5ZTE5ZDBjMjc3MGM5YjM4MTg1ZDU4NDBlZWM1YmJhMjM3",
   "tracks": [
     {
       "added_at": "2024-01-05 03:58:54",
@@ -780,21 +780,17 @@
       "added_at": "2024-01-05 03:58:54",
       "album": {
         "name": "\uc778\uc0ac",
-        "url": "https://open.spotify.com/album/1gVCySPJoAjV90BcLL3i29"
+        "url": "https://open.spotify.com/album/1aRzCmpmffVSKWl9L8SJ9Q"
       },
       "artists": [
         {
           "name": "Lee Seok Hoon",
           "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
-        },
-        {
-          "name": "Sohyang",
-          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
         }
       ],
-      "duration_ms": 230346,
-      "name": "\uac10\uc0ac (FEAT. \uc18c\ud5a5)",
-      "url": "https://open.spotify.com/track/339ONbEchBensZnESqghNW"
+      "duration_ms": 215360,
+      "name": "\uc815\uac70\uc7a5",
+      "url": "https://open.spotify.com/track/00BbsELDIsK2mQeeB8EJD7"
     },
     {
       "added_at": "2024-01-05 03:58:54",
@@ -1140,17 +1136,21 @@
       "added_at": "2024-01-05 03:58:54",
       "album": {
         "name": "\uc778\uc0ac",
-        "url": "https://open.spotify.com/album/1gVCySPJoAjV90BcLL3i29"
+        "url": "https://open.spotify.com/album/1aRzCmpmffVSKWl9L8SJ9Q"
       },
       "artists": [
         {
           "name": "Lee Seok Hoon",
           "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        },
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
         }
       ],
-      "duration_ms": 255266,
-      "name": "\uadf8\ub300\ub97c \uc0ac\ub791\ud558\ub294 10\uac00\uc9c0 \uc774\uc720",
-      "url": "https://open.spotify.com/track/5QXRbVoCLqnN5jfaqcmwYk"
+      "duration_ms": 230346,
+      "name": "\uac10\uc0ac (FEAT. \uc18c\ud5a5)",
+      "url": "https://open.spotify.com/track/1F8Z48JxxB4Diz1HMEUbb6"
     },
     {
       "added_at": "2024-01-05 03:58:54",
@@ -2315,8 +2315,8 @@
     {
       "added_at": "2024-01-05 03:58:54",
       "album": {
-        "name": "\ucc45\uc744 \ub118\uae30\ub294 \ub4ef\ud55c \ub9c8\uc74c\uc73c\ub85c",
-        "url": "https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE"
+        "name": "hom'ea'ge",
+        "url": "https://open.spotify.com/album/3GZ2bTWjX8d4L4rvtWcagA"
       },
       "artists": [
         {
@@ -2325,8 +2325,8 @@
         }
       ],
       "duration_ms": 192857,
-      "name": "\ucc45\uc744 \ub118\uae30\ub294 \ub4ef\ud55c \ub9c8\uc74c\uc73c\ub85c",
-      "url": "https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk"
+      "name": "Like We Turn the pages (Remaster)",
+      "url": "https://open.spotify.com/track/4W7MrbhSg8o2v5lBz0wLBV"
     },
     {
       "added_at": "2024-01-05 03:58:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,296 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,319 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 17 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 |
 | 18 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 |
 | 19 | [Perfume a Tus Pies](https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM) | [Christian Ray](https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig) | [Enamorarme Mas](https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa) | 4:35 |
-| 20 | [Vuelvo a Nacer](https://open.spotify.com/track/6adDoj00wwGzZwj9mY9Jma) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Soy Sonero \- Concierto en Vivo](https://open.spotify.com/album/0BDopJiR33PUsLRU1z6Ybf) | 4:22 |
-| 21 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 |
+| 20 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 |
+| 21 | [Vuelvo a Nacer](https://open.spotify.com/track/6adDoj00wwGzZwj9mY9Jma) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Soy Sonero \- Concierto en Vivo](https://open.spotify.com/album/0BDopJiR33PUsLRU1z6Ybf) | 4:22 |
 | 22 | [Me Llevas Más Alto \(feat\. Alex Campos & Redimi2\)](https://open.spotify.com/track/0KyNEJfDrKHOGSxsxCDM7v) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Me Llevas Más Alto](https://open.spotify.com/album/6ZOw1bQKJpRWnAmyKkVhe2) | 3:19 |
 | 23 | [Camino Al Cielo \(Versión Merengue\)](https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 3:24 |
 | 24 | [TRAPCHATA](https://open.spotify.com/track/0sFvANVCB08GDLjjUx7NDm) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 4:43 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 43 | [Diez Mil Razones](https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b) | [Zander](https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN) | [Diez Mil Razones](https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H) | 3:00 |
 | 44 | [Te Entrego Mi Corazón](https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Te Entrego Mi Corazón](https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT) | 3:27 |
 | 45 | [La Fe Que Dios Me Dió](https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB) | [Cesar Roncallo](https://open.spotify.com/artist/0XiaBeWLxRwCckee0NN9zK) | [La Fe Que Dios Me Dió](https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K) | 3:18 |
-| 46 | [Ritmo del Cielo](https://open.spotify.com/track/1rYUm7oOLJcJW5dSnJTem5) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Michael Pratts](https://open.spotify.com/artist/0zdgPYpK8lYxpW8g5uNlxp) | [United Kingdom 2 \(Volumen 2\)](https://open.spotify.com/album/0R4nAHSxTLLMqfbdnAoYSE) | 3:51 |
+| 46 | [Hermoso Nombre](https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Ven Te Estado Esperando](https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d) | 5:49 |
 | 47 | [Yo Te Prometo](https://open.spotify.com/track/3BmjG2rfCuZcgJ4szVLFHO) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [Niko La Fábrica](https://open.spotify.com/artist/77gpdl9ket58wQczszbrno) | [Corazón](https://open.spotify.com/album/0j2n0aqjlCAK2Ym6dt2TOr) | 3:44 |
-| 48 | [Hermoso Nombre](https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Ven Te Estado Esperando](https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d) | 5:49 |
+| 48 | [Ritmo del Cielo](https://open.spotify.com/track/1rYUm7oOLJcJW5dSnJTem5) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Michael Pratts](https://open.spotify.com/artist/0zdgPYpK8lYxpW8g5uNlxp) | [United Kingdom 2 \(Volumen 2\)](https://open.spotify.com/album/0R4nAHSxTLLMqfbdnAoYSE) | 3:51 |
 | 49 | [Va Cae](https://open.spotify.com/track/6VnM8awfWWcXF37qbU2DHF) | [Ariel Kelly](https://open.spotify.com/artist/4BYn8aKDAf0keMvw8k28Kb) | [Quinto Elemento](https://open.spotify.com/album/73QDJ8kDJT0SbWQJJab2Zf) | 3:10 |
 | 50 | [No Vaya a Ser](https://open.spotify.com/track/4cxZYv0KJvw6MNHjuz8tOk) | [Britt](https://open.spotify.com/artist/0HwCaUS8htBIGIlRABaZIv) | [No Vaya a Ser](https://open.spotify.com/album/4LUCoUs4hhd16D350FiZ6G) | 3:10 |
 
-Snapshot ID: `MCwxMmY3YWM4YjBhNGVkMDE1NWIxY2M4NTE3NzIxOGE2ODFmMTU4ZTdh`
+Snapshot ID: `MCxlOWRjOGQyMDc1YjMxZDdlYmI2MmNhYzU2MDdhM2EzYWQ3ODM2MTIy`

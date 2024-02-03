@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-277 songs - 11 hr 13 min
+278 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [cat's meow](https://open.spotify.com/track/21SuoiM0AgOCdQmt2umHuP) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [tenpō](https://open.spotify.com/artist/2sKh4UHPc6IkW0OTdBavfS) | [sidewalk safari](https://open.spotify.com/album/6tSQljcscqaCqsCBetZbHP) | 1:33 | 2020-11-12 | 2022-07-29 |
 | [cat's meow](https://open.spotify.com/track/47I0dFqnJ6V5P04YW1u96z) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [tenpō](https://open.spotify.com/artist/2sKh4UHPc6IkW0OTdBavfS) | [sidewalk safari](https://open.spotify.com/album/6NsmYIRCoHNEo6bVx89K0E) | 1:33 | 2020-11-12 | 2023-10-29 |
 | [cat's meow](https://open.spotify.com/track/7bfwBbrYKFEreVQnFwbWPs) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA), [tenpō](https://open.spotify.com/artist/2sKh4UHPc6IkW0OTdBavfS) | [sidewalk safari](https://open.spotify.com/album/7ycvSoIBz8FRbnbcVlTJFM) | 1:33 | 2020-11-12 | 2022-12-15 |
-| [cellular](https://open.spotify.com/track/4PeBAw8arxHxoMH6T1g0VU) | [dueday](https://open.spotify.com/artist/2yLP0IwAa0JkNWr6OMHM0i) | [cellular](https://open.spotify.com/album/06O45DFgRdWkvaR10inL1C) | 1:54 | 2024-02-02 |  |
+| [cellular](https://open.spotify.com/track/4PeBAw8arxHxoMH6T1g0VU) | [dueday](https://open.spotify.com/artist/2yLP0IwAa0JkNWr6OMHM0i) | [cellular](https://open.spotify.com/album/06O45DFgRdWkvaR10inL1C) | 1:54 | 2024-02-02 | 2024-02-03 |
 | [Cleaning Trees](https://open.spotify.com/track/6oi2BvK22qXzEJntVqB1Gh) | [Stekt](https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD) | [Cleaning Trees](https://open.spotify.com/album/3ShMpTZnv3QU7r3q6b17IQ) | 2:26 | 2024-01-05 |  |
 | [Cloud Dance](https://open.spotify.com/track/4DIQbr7iqFaHsw8KkKl47l) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [The Great Escape](https://open.spotify.com/album/2Y3eYq0lYHd3VdiuFuAUOb) | 2:58 | 2020-11-12 | 2022-07-29 |
 | [Cloud Dance](https://open.spotify.com/track/7cq4lZVXYxv9HsjhF62AZt) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [The Great Escape](https://open.spotify.com/album/5wtHowEK9MeJW7dqzGdWrm) | 2:58 | 2020-11-12 |  |
@@ -185,6 +185,7 @@
 | [Open Sea](https://open.spotify.com/track/2U6agF4eXkclFkvVH6vipD) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Blocks EP](https://open.spotify.com/album/191XhtmTNCKVKH9qEgbhgx) | 2:33 | 2023-10-27 |  |
 | [Oracle Night](https://open.spotify.com/track/1tNpRWu5tHylrVuMAhzvNz) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2ZV5zCY2tJBRn0EtLOj3gr) | 2:30 | 2020-11-12 | 2022-07-28 |
 | [Oracle Night](https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM) | 2:30 | 2020-11-12 |  |
+| [over my head](https://open.spotify.com/track/1uX1mPdWxiACdx3QWOqbk6) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [over my head](https://open.spotify.com/album/2KpCazUYEmepSLcsL3fMeg) | 2:13 | 2024-02-02 |  |
 | [path of the wind](https://open.spotify.com/track/0ovVhnQz8l1HfVl94qxtuC) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 3:35 | 2020-11-12 | 2023-11-24 |
 | [peaceful](https://open.spotify.com/track/2I10CGsTmyf7Tr6CHPJSxe) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [peaceful](https://open.spotify.com/album/6qmArcn5bbGUpjGvqd2LH2) | 2:07 | 2023-12-15 |  |
 | [Pillow](https://open.spotify.com/track/5oCP76iSvjGdnMXJik0Cy3) | [Hickah](https://open.spotify.com/artist/16RKxwQxzkB7vEX6TdJz2V) | [Pillow](https://open.spotify.com/album/5hFTcd1iDgzTiXUli1lkCf) | 2:03 | 2023-12-15 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 395396,
+  "2024-02-03": 395378,
   "date_first_scraped": "2021-12-28",
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
   "name": "Latin Dinner",
@@ -1393,6 +1393,28 @@
       "duration_ms": 225080,
       "name": "El Amor Despu\u00e9s Del Amor",
       "url": "https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1"
+    },
+    {
+      "album": {
+        "name": "El Barrio",
+        "url": "https://open.spotify.com/album/2O4CUtzU5HwDfLhtwyHfv5"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        },
+        {
+          "name": "BITA",
+          "url": "https://open.spotify.com/artist/0eVKCSDfAQbvznCYHmqjki"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180648,
+      "name": "El Barrio",
+      "url": "https://open.spotify.com/track/77UYRQsKWcspsz2pnh47kD"
     },
     {
       "album": {
@@ -3845,7 +3867,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 179856,
       "name": "Solterona",
       "url": "https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ"

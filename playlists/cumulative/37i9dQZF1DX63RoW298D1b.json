@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 160250,
       "name": "A bed of tulips",
       "url": "https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 117610,
       "name": "A Part Of Us",
       "url": "https://open.spotify.com/track/5aC8nrtrXpYfnhnRyG9LgI"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 119234,
       "name": "Aquiver",
       "url": "https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 115704,
       "name": "Calme et Contenance",
       "url": "https://open.spotify.com/track/4gAmmCM6bhlVe4KVI98ASM"
@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Eridani",
+        "url": "https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV"
+      },
+      "artists": [
+        {
+          "name": "Flori Vivea",
+          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Eridani",
+      "url": "https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0"
+    },
+    {
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/2WNuCKp18G5ZvkIiTH0Sj8"
       },
@@ -844,7 +862,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 113062,
       "name": "Follow the Light",
       "url": "https://open.spotify.com/track/5ZBKGYQu4Z0U69UE2MNNMN"
@@ -880,7 +898,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 107730,
       "name": "For the Love of You",
       "url": "https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk"
@@ -996,10 +1014,28 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 116750,
       "name": "Hemma \u00c4r D\u00e4r Hj\u00e4rtat Bor",
       "url": "https://open.spotify.com/track/13MvoF7XbeyuvUkYFdcTsR"
+    },
+    {
+      "album": {
+        "name": "Highlands",
+        "url": "https://open.spotify.com/album/4fGBjm0G7Cr5tXeo2aHkn7"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 D\u00edvou",
+          "url": "https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180562,
+      "name": "Highlands",
+      "url": "https://open.spotify.com/track/23PYmOs15gQXHPEGQXJP8O"
     },
     {
       "album": {
@@ -1032,7 +1068,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 110086,
       "name": "Humble",
       "url": "https://open.spotify.com/track/2NAxjo2ZpDVCoVZ22h3es4"
@@ -1068,7 +1104,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 133000,
       "name": "I Belong Here",
       "url": "https://open.spotify.com/track/1sJlo3mVGO7kcbEJRKfeKy"
@@ -1284,7 +1320,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 131698,
       "name": "Lemon Drops",
       "url": "https://open.spotify.com/track/7DOdOzLWTowPBXMCHpR3mq"
@@ -1544,7 +1580,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 117897,
       "name": "New Joy",
       "url": "https://open.spotify.com/track/434bUY0izo0oDWZgs9QEb7"
@@ -1670,7 +1706,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 137692,
       "name": "Peace flow",
       "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
@@ -2102,7 +2138,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 108500,
       "name": "Suns Go Down",
       "url": "https://open.spotify.com/track/26hm73J3T1dxvzGq80KJz0"
@@ -2142,7 +2178,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 113342,
       "name": "Thaw",
       "url": "https://open.spotify.com/track/4uDMx10yG5CQgJTxR3dK66"
@@ -2236,6 +2272,24 @@
       "duration_ms": 166956,
       "name": "The Way Home",
       "url": "https://open.spotify.com/track/3EviaQw7x1Wn6wxVbjvNRs"
+    },
+    {
+      "album": {
+        "name": "The Whitening Fields",
+        "url": "https://open.spotify.com/album/5m4Wj9vFbucH4Iq7pLapu2"
+      },
+      "artists": [
+        {
+          "name": "Dean Caplan",
+          "url": "https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153374,
+      "name": "The Whitening Fields",
+      "url": "https://open.spotify.com/track/4MOy0eZpw1xoveN5S8stBC"
     },
     {
       "album": {
@@ -2394,7 +2448,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 109768,
       "name": "Una Flor",
       "url": "https://open.spotify.com/track/2NDa9A2bztLx2utRxtRyzd"
@@ -2412,7 +2466,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 108730,
       "name": "Us",
       "url": "https://open.spotify.com/track/7tPR6ChfHJvkYPK0Zy5zkK"

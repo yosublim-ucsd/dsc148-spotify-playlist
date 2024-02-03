@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1257279,
+  "num_followers": 1257453,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTYwNzMzMWQ5ZDdiZmYzYWE3NjU1OGE4NzcwMDc0NTVhMTJiZjcy",
+  "snapshot_id": "MCxjMWNhZjlmZjI5ZGVkOTcwNWY1MTRiZTdlMjFiNjMxMzkzNjkxYzgx",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
+        "name": "With Teeth",
+        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "The Hand That Feeds",
+      "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
         "name": "Worlds Collide",
         "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 237346,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "With Teeth",
-        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "The Hand That Feeds",
-      "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "L.D. 50",
-        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Dig",
-      "url": "https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Results May Vary",
         "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 236333,
       "name": "Eat You Alive",
       "url": "https://open.spotify.com/track/0EtzpDX05udzfLcGntGbGU"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "L.D. 50",
+        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Take A Look In The Mirror",
-        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Guitar Gangsters & Cadillac Blood",
         "url": "https://open.spotify.com/album/4BzHvHsnYTIEmrhh6zLDmt"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 188853,
       "name": "Guitar Gangsters & Cadillac Blood",
       "url": "https://open.spotify.com/track/5CLQ70QLoefhq3VMfoDl4w"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "The Strength / The Sound / The Songs",
-        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "I Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Horizons (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 285962,
       "name": "Omerta",
       "url": "https://open.spotify.com/track/4Vb5Y6RQztThqqqFre24wL"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "The Strength / The Sound / The Songs",
+        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "I Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Doomsday Machine",
-        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 252280,
-      "name": "Nemesis",
-      "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Rock The Rebel / Metal The Devil",
         "url": "https://open.spotify.com/album/14MqYITYLVQ8LJcWwvJEcy"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 185826,
       "name": "Sad Man's Tongue",
       "url": "https://open.spotify.com/track/7BbrlQk1YHVjHVyoGEpDV2"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Doomsday Machine",
+        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 252280,
+      "name": "Nemesis",
+      "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Two",
-        "url": "https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe"
-      },
-      "artists": [
-        {
-          "name": "Earshot",
-          "url": "https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Perseverance",
         "url": "https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 178666,
       "name": "I Will Be Heard",
       "url": "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe"
+      },
+      "artists": [
+        {
+          "name": "Earshot",
+          "url": "https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
     },
     {
       "added_at": "2023-02-08 17:32:03",

@@ -1,12 +1,12 @@
 {
-  "description": "The best in folk & acoustic today featuring music from Tom Odell",
-  "num_followers": 1837594,
+  "description": "The best in folk & acoustic today featuring music from Prateek Kuhad",
+  "num_followers": 1837189,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTVjNTlkMTYyNzg5YzllNDM3NjQzNjQ1ZGRjZDg4ZjAyMjZlMzFl",
+  "snapshot_id": "MCw1MWY1ZTAzNmQ4Y2NiZDMzZGQxNTA4MzJhNWMzNGU4MGExMjkxMTEz",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -87,6 +87,22 @@
       "duration_ms": 290632,
       "name": "That Golden Time",
       "url": "https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "No Complaints",
+        "url": "https://open.spotify.com/album/42xj07uXecDQBFGUcEVfwx"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 187089,
+      "name": "No Complaints",
+      "url": "https://open.spotify.com/track/2D2rLS5IBt2EzDajhtuHZR"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -363,22 +379,6 @@
       "duration_ms": 219507,
       "name": "Bright Green Vibrant Gray",
       "url": "https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/5hJtcqGwi9lmFElCqPRnlS"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 164227,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/7hVZJGsh5fxFtwaqgJq1nf"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 259592,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Younger & Dumber",
         "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
       },
@@ -1695,22 +1679,6 @@
       "duration_ms": 288026,
       "name": "How I Love",
       "url": "https://open.spotify.com/track/2XBmrWOsPavSy6YnwbG7f8"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox"
-      },
-      "artists": [
-        {
-          "name": "Elliot Greer",
-          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
-        }
-      ],
-      "duration_ms": 190216,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b"
     }
   ],
   "unique_name": "Roots Rising",

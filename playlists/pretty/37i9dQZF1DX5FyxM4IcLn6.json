@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 125702,
+  "num_followers": 125800,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjJiYmYzNzJiOWVlNmE3MDkxZWYxMDk5OTgwY2FhYTZmMGUxNzY0",
+  "snapshot_id": "MCwyNmM2ZjRmODQ1ODkxNmZiZjc2ZDE2NDg0YjE1YzNmNTZkOTBkODFh",
   "tracks": [
     {
       "added_at": "2023-11-10 16:50:05",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 207626,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 207626,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 314520,
       "name": "Candy Necklace (feat. Jon Batiste)",
       "url": "https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 262631,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "The End, So Far",
-        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 315906,
-      "name": "Hive Mind",
-      "url": "https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Actual Life 3 (January 1 - September 9 2022)",
         "url": "https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 250702,
       "name": "Delilah (pull me out of this)",
       "url": "https://open.spotify.com/track/3wJrBiiTIRRfKSL2TQWR60"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 315906,
+      "name": "Hive Mind",
+      "url": "https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "Lover's Game",
+        "url": "https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 169560,
+      "name": "Lover's Game",
+      "url": "https://open.spotify.com/track/6wUBlJVmVzIXbOsfJgd7Oh"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "Dear Insecurity (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/5vLQakn5RIIinS715tqgjI"
       },
@@ -2159,22 +2175,6 @@
       "duration_ms": 276146,
       "name": "Dear Insecurity (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/53KC9qJL3wxqbKQ7dkdR7E"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "Lover's Game",
-        "url": "https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 169560,
-      "name": "Lover's Game",
-      "url": "https://open.spotify.com/track/6wUBlJVmVzIXbOsfJgd7Oh"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "Brandy Clark",
+        "url": "https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        }
+      ],
+      "duration_ms": 185746,
+      "name": "Buried",
+      "url": "https://open.spotify.com/track/2TX7653Pn8n6g0PI6zZh2t"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "A Ciegas",
         "url": "https://open.spotify.com/album/6iLktFdW6hFXyDKh7RSDuA"
       },
@@ -2343,22 +2359,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Brandy Clark",
-        "url": "https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg"
-      },
-      "artists": [
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        }
-      ],
-      "duration_ms": 185746,
-      "name": "Buried",
-      "url": "https://open.spotify.com/track/2TX7653Pn8n6g0PI6zZh2t"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Alive at the Village Vanguard",
         "url": "https://open.spotify.com/album/0ZtyPgjVZsMzwxeDYYgllf"
       },
@@ -2395,6 +2395,26 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
+        "name": "Kissing Your Picture (Is So Cold)",
+        "url": "https://open.spotify.com/album/1cx9p0adZ9GVMOsWs1UIhC"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        },
+        {
+          "name": "Paul Franklin",
+          "url": "https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Kissing Your Picture (Is So Cold)",
+      "url": "https://open.spotify.com/track/2ghjBzkF9XwqBt9nw1GjlO"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
         "name": "The Last Thing on My Mind",
         "url": "https://open.spotify.com/album/67mKNjrlHBEFZ4mnl28DUQ"
       },
@@ -2427,26 +2447,6 @@
       "duration_ms": 253706,
       "name": "Grey Hair",
       "url": "https://open.spotify.com/track/780cTIllynxIpZsU8LpAJu"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
-        "name": "Kissing Your Picture (Is So Cold)",
-        "url": "https://open.spotify.com/album/1cx9p0adZ9GVMOsWs1UIhC"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        },
-        {
-          "name": "Paul Franklin",
-          "url": "https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Kissing Your Picture (Is So Cold)",
-      "url": "https://open.spotify.com/track/2ghjBzkF9XwqBt9nw1GjlO"
     },
     {
       "added_at": "2023-11-10 16:50:05",

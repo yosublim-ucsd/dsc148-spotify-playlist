@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-29",
-  "description": "An eclectic mix of past & current indie favourites. Cover: Big Thief",
+  "description": "An eclectic mix of past & current indie favourites. Cover: The Last Dinner Party",
   "name": "Indie Favourites",
   "tracks": [
     {
@@ -190,6 +190,28 @@
       "duration_ms": 336092,
       "name": "6000 Ft.",
       "url": "https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1"
+    },
+    {
+      "album": {
+        "name": "A Night To Remember",
+        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233388,
+      "name": "A Night To Remember",
+      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
     },
     {
       "album": {
@@ -3434,7 +3456,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 255875,
       "name": "Dying Star (feat. Ethel Cain)",
       "url": "https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9"
@@ -4454,7 +4476,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 183506,
       "name": "god's chariots",
       "url": "https://open.spotify.com/track/0ffiD4SYlHEifVwzBdPqd7"
@@ -5723,6 +5745,28 @@
     },
     {
       "album": {
+        "name": "I'm Sorry (ft. Lous and The Yakuza)",
+        "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187282,
+      "name": "I'm Sorry (ft. Lous and The Yakuza)",
+      "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
+    },
+    {
+      "album": {
         "name": "Fix Yourself, Not the World",
         "url": "https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1"
       },
@@ -6656,7 +6700,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 286000,
       "name": "Little Bit",
       "url": "https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ"
@@ -7757,6 +7801,24 @@
     },
     {
       "album": {
+        "name": "Name of God",
+        "url": "https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208837,
+      "name": "Name of God",
+      "url": "https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB"
+    },
+    {
+      "album": {
         "name": "Naoko",
         "url": "https://open.spotify.com/album/7MZeUpZOcGNI03TZdShTgp"
       },
@@ -8137,6 +8199,24 @@
     },
     {
       "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "album": {
         "name": "Notion",
         "url": "https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx"
       },
@@ -8220,7 +8300,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 194666,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/6OhkOasd2Mume69b87jwbN"
@@ -9844,7 +9924,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 182426,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
@@ -10754,7 +10834,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 181372,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"

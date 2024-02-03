@@ -1,12 +1,12 @@
 {
   "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: (G)I-DLE",
-  "num_followers": 842410,
+  "num_followers": 842699,
   "original_name": "Girl Krush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzQ4N2IwNzdkMjcyY2NhZDY5OWE1OWVmZTA4MTFjODIzY2I1NWVk",
+  "snapshot_id": "MCxlY2YxMzYzOWY4NzM0ODQ2YWRmYzI2ZjQzNjFhM2U5NTUwMmY1YzY3",
   "tracks": [
     {
       "added_at": "2024-01-29 09:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-01-29 09:00:00",
       "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
-      },
-      "artists": [
-        {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Killin\u2019 Me Good",
-      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
-    },
-    {
-      "added_at": "2024-01-29 09:00:00",
-      "album": {
         "name": "READY TO BE",
         "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 181680,
       "name": "SET ME FREE",
       "url": "https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1"
+    },
+    {
+      "added_at": "2024-01-29 09:00:00",
+      "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Killin\u2019 Me Good",
+      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
     },
     {
       "added_at": "2024-01-29 09:00:00",

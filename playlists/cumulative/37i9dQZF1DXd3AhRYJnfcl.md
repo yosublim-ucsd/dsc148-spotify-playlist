@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\.  الغلاف: <a href="https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj?si=aixR9sNdTbS4SInFysL33A">  هيفاء وهبي<br/> </a>
 
-255 songs - 14 hr 51 min
+256 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Zee3](https://open.spotify.com/track/5CTXFh5o4qpiXZeM1jxTBk) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [Star](https://open.spotify.com/album/7knqeOrwUe1idz6IZoD2hJ) | 2:41 | 2022-10-24 | 2023-01-03 |
 | [اختياراتي \- من فيلم مستر إكس](https://open.spotify.com/track/3ilp9U50Ak4CKkS7jdCY4L) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [اختياراتي \(من فيلم مستر إكس\)](https://open.spotify.com/album/1RJUtPJMzR9NYADVQwStNT) | 2:50 | 2023-06-23 |  |
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-04-13 | 2023-01-03 |
-| [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-04-13 |  |
+| [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-04-13 | 2024-02-03 |
 | [الدنيا ايه](https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [الدنيا ايه](https://open.spotify.com/album/3JqkIHvNZMoWe06n3oQKza) | 3:38 | 2023-06-26 |  |
 | [السر](https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Seif](https://open.spotify.com/artist/5pEMAuF7RVXLCCiIkqVC0q) | [السر](https://open.spotify.com/album/7rPpGIJZZl3RsPeWEksCoW) | 4:32 | 2022-09-26 | 2023-01-17 |
 | [السهر و الإنبساط](https://open.spotify.com/track/1GQxXFBrOx8KYIFcpBlZPe) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT), [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [السهر و الإنبساط](https://open.spotify.com/album/4mKwxA8nkxUg5VThfazP4g) | 2:16 | 2023-01-03 | 2023-02-24 |
@@ -252,6 +252,7 @@
 | [مش كفاية فراق](https://open.spotify.com/track/75Ca7I3xIHLqG1S0izGV02) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [مش كفاية فراق](https://open.spotify.com/album/6pUq5K38plrNVoJ7shbzb5) | 4:34 | 2023-08-18 | 2023-09-02 |
 | [معايا هتبدع](https://open.spotify.com/track/3aJ2ThvzAgQiOsFAdtRopt) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/3uLR3lR7rHwoN2drz0k8B2) | 3:16 | 2022-12-23 | 2023-01-14 |
 | [معايا هتبدع](https://open.spotify.com/track/5j45BEfUuIKCZ2eQvkTlTV) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:16 | 2023-01-12 | 2023-02-23 |
+| [معلش](https://open.spotify.com/track/0XbZAACv4UZAU5mKOCLa9T) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv) | [معلش](https://open.spotify.com/album/1g4TNTbMuiYAwCngqj36h1) | 3:57 | 2024-02-02 |  |
 | [نحنوح](https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [نحنوح](https://open.spotify.com/album/7KNPArvrYE01FNciIiERE0) | 3:25 | 2022-09-20 | 2022-10-25 |
 | [نص سيطو مني \( احنا صحاب بلادنا \)](https://open.spotify.com/track/7FhwM9XJeuVHbmpOcuZxxs) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [نص سيطو مني \( احنا صحاب بلدنا \)](https://open.spotify.com/album/1HQLxlzb8omGEwF5CreomA) | 3:04 | 2023-06-21 | 2023-09-02 |
 | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/track/3Ab2U2Yvs9kM0IuXxC1HmT) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/album/4UuC0L72EoVpiUo02fjolL) | 4:44 | 2022-10-25 | 2023-01-01 |

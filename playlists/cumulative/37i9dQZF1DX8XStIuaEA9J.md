@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 緑黄色社会
 
-211 songs - 12 hr 40 min
+213 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [HEARTRIS](https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Press Play](https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6) | 3:00 | 2023-11-23 | 2023-12-13 |
 | [Hontowane,](https://open.spotify.com/track/1p24ocb4bvCRId4cquDUHl) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:21 | 2023-11-23 | 2024-01-11 |
 | [hot lemon \- Remix](https://open.spotify.com/track/0KjOGXAd5j5rbjGSnBiolt) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [hot lemon \(Remix\)](https://open.spotify.com/album/6MNsyAUtnCzLnuo1dJQBMB) | 2:33 | 2023-12-05 | 2023-12-13 |
+| [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 | 2024-02-01 |  |
 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 | 2024-01-18 | 2024-01-26 |
 | [jya\-ji](https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 2:35 | 2024-01-10 |  |
 | [KANPAI FUNK](https://open.spotify.com/track/1Hc3rIP0VvUAcrZZKazxXo) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9), [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [KANPAI FUNK](https://open.spotify.com/album/2DRH6H1Ux7IfCDJRkOmHSG) | 3:34 | 2023-11-23 | 2023-12-13 |
@@ -86,6 +87,7 @@
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-11-23 | 2024-01-10 |
 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 | 2023-11-23 | 2023-12-13 |
 | [rendez\-vous](https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [kidnapping / rendez\-vous](https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP) | 3:57 | 2023-11-23 | 2024-01-10 |
+| [rhythm 64](https://open.spotify.com/track/4KWMnXGQ4wCiDU1vP8uGVb) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [rhythm 64](https://open.spotify.com/album/0dqofszfjI1qN76jWqFiyp) | 4:28 | 2024-02-01 |  |
 | [Rocketeer](https://open.spotify.com/track/5ONAE8kbnpU9roroXScbcm) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [A \(Special Edition\)](https://open.spotify.com/album/51NB4PIC5vgboVu6RaLoa2) | 3:07 | 2023-11-23 | 2023-11-29 |
 | [Seishin Rock](https://open.spotify.com/track/5oeOH2PtEyy43MvchoWx34) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Seishin Rock](https://open.spotify.com/album/4HxqIkte7i4FzBusMxYykW) | 2:53 | 2023-12-12 | 2024-01-11 |
 | [SF東京](https://open.spotify.com/track/4PfVeeAi7n8eOt8CbW8tfy) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SF東京](https://open.spotify.com/album/3tFtbRkAUERFNH9qlM5CZT) | 3:14 | 2024-01-18 |  |
@@ -163,7 +165,7 @@
 | [ホムンクルス](https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ホムンクルス](https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw) | 3:23 | 2023-11-23 | 2023-12-01 |
 | [ミッドナイトガール](https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ミッドナイトガール](https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw) | 3:22 | 2024-01-16 |  |
 | [ラブドランカー](https://open.spotify.com/track/5HCCjLQ7RLQHjHPBNljQ5l) | [BAK](https://open.spotify.com/artist/1WmnQSoQxUa4x14IWgHCiD) | [ラブドランカー](https://open.spotify.com/album/03Q6Xk1M9x1rHCXZRRp2gF) | 3:52 | 2023-11-29 | 2023-12-13 |
-| [リズム64](https://open.spotify.com/track/74GJbmNHys47ZfdoQCySpM) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [リズム64](https://open.spotify.com/album/5ItDzD0v8osJxkUrUCPLJs) | 4:28 | 2024-02-01 |  |
+| [リズム64](https://open.spotify.com/track/74GJbmNHys47ZfdoQCySpM) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [リズム64](https://open.spotify.com/album/5ItDzD0v8osJxkUrUCPLJs) | 4:28 | 2024-02-01 | 2024-02-03 |
 | [ルビー](https://open.spotify.com/track/61dKPB7KS5K0ydinagQy4U) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [ルビー](https://open.spotify.com/album/4XH4mGDiIMfSsr0peqj5F0) | 4:30 | 2023-11-30 | 2023-12-15 |
 | [一輪花](https://open.spotify.com/track/456rgV2smcOpAhhSlQVPK8) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [一輪花](https://open.spotify.com/album/2ozJ1C7HXquEWd8Fv8azgY) | 3:44 | 2023-11-29 |  |
 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 | 2024-01-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Os destaques de 2023! Simone Mendes e mais mulheres poderosas para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,233 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,279 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 25 | [Meu Paraíso Sou Eu](https://open.spotify.com/track/0vzum63gEJ458xzIiaXCZY) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 1:57 |
 | 26 | [PLAYLIST DE SEXO](https://open.spotify.com/track/4lxDwxNxvod11PZzYMPcmw) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 2:38 |
 | 27 | [Ciclone](https://open.spotify.com/track/2J4nJffXU569d2ld9yxH6D) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Ciclone](https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v) | 2:54 |
-| 28 | [que mal que tem?](https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [que mal que tem?](https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY) | 2:37 |
-| 29 | [Perigo](https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 2:38 |
+| 28 | [Perigo](https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 2:38 |
+| 29 | [que mal que tem?](https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [que mal que tem?](https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY) | 2:37 |
 | 30 | [Pausa](https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Pausa](https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H) | 3:39 |
 | 31 | [AEIOU](https://open.spotify.com/track/49QWN3Hq99FriZqIWEISYQ) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [AEIOU](https://open.spotify.com/album/6SeOld4CS4Le8JuxMmkfXP) | 2:46 |
 | 32 | [Desfruta](https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Desfruta](https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Pimenta De Cheiro](https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:27 |
 | 50 | [Homenagem](https://open.spotify.com/track/2EzZnXR3UgkoX92WHgoNYD) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 3:26 |
 
-Snapshot ID: `MCxhMzJiODQwNGUwZDE2OTZiZDVjMmYzNjc1Mjc5YWQ4MmNhZjYzYmUz`
+Snapshot ID: `MCwyOGU2ODA3MjY4N2QyNDA1ZjBiZGI4MjJmNzAwYTY2MTI4MGRkMDY0`

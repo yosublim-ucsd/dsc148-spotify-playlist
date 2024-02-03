@@ -1413,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "Crescent Moon",
+        "url": "https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226750,
+      "name": "Crescent Moon",
+      "url": "https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK"
+    },
+    {
+      "album": {
         "name": "darker area",
         "url": "https://open.spotify.com/album/2BsZnscrvvgIvlqHWyCjf7"
       },
@@ -5571,6 +5589,24 @@
     },
     {
       "album": {
+        "name": "Sublime Worlds",
+        "url": "https://open.spotify.com/album/4VsUbjQBypb4C6XF1iq73o"
+      },
+      "artists": [
+        {
+          "name": "Lofty Escape",
+          "url": "https://open.spotify.com/artist/3VlqOVcIiqnACv20YHvqZe"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Sublime Worlds",
+      "url": "https://open.spotify.com/track/4STFgLLAdhMBPeDv3FlnQA"
+    },
+    {
+      "album": {
         "name": "Liquid Universe",
         "url": "https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq"
       },
@@ -6144,6 +6180,24 @@
       "duration_ms": 178228,
       "name": "Vaikne",
       "url": "https://open.spotify.com/track/2vu8kAPw2W0gVKrK68YR5P"
+    },
+    {
+      "album": {
+        "name": "Velvet Stills",
+        "url": "https://open.spotify.com/album/0HgmMD6baTPinbd8pwifBC"
+      },
+      "artists": [
+        {
+          "name": "Ana Costa",
+          "url": "https://open.spotify.com/artist/3PXd3y6WyVDbpmIUHtrTbu"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Velvet Stills",
+      "url": "https://open.spotify.com/track/1gUN01HfuzSG2OZpbuQ4be"
     },
     {
       "album": {

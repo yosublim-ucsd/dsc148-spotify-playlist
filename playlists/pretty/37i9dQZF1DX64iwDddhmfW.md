@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iwDddhmfW.md) - [plain]
 
 > ❄️ we could leave the christmas lights up til..\. february? ❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,990 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,158 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iwDddhmfW.md) - [plain]
 | 47 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 |
 | 48 | [What If](https://open.spotify.com/track/1EK5Z3jnZh1nHXPUXpaLhK) | [Kate Winslet](https://open.spotify.com/artist/7q6ozanpOpFUoe6jPQ0jVK) | [What If](https://open.spotify.com/album/6Z0009JVnJQlOU3aiZCozL) | 4:03 |
 | 49 | [I'm Ready to Move On / Wild Heart Reprise](https://open.spotify.com/track/1PpztPgGhKciEqfjjvL4Ld) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL) | [Terrible Thrills, Vol\. 2](https://open.spotify.com/album/3dDJdCf37ggndgAng53yHC) | 4:18 |
-| 50 | [A Thousand Years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
+| 50 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
 | 51 | [A Million Dreams](https://open.spotify.com/track/0RoA7ObU6phWpqhlC9zH4Z) | [Ziv Zaifman](https://open.spotify.com/artist/2cQr2KbzdRtIFlfbHGnNsL), [Hugh Jackman](https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2), [Michelle Williams](https://open.spotify.com/artist/2LAqcqAQ8KPTsl1HBgBrqM) | [The Greatest Showman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F) | 4:29 |
 | 52 | [colorado](https://open.spotify.com/track/2udMhlgGrYaezGQeBw0tSt) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 2:32 |
 | 53 | [Safe & Sound \(feat\. Joy Williams and John Paul White\) \(Taylor’s Version\)](https://open.spotify.com/track/2RJnNdu4pb3MypbBroHU0T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Safe & Sound \(Taylor's Version\)](https://open.spotify.com/album/4eZKjfeKPSwd6NYsmlKjuR) | 3:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iwDddhmfW.md) - [plain]
 | 74 | [Darling](https://open.spotify.com/track/39nc7C7C7iIJtVAlNznst7) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:02 |
 | 75 | [New Year’s Day](https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:55 |
 
-Snapshot ID: `MCwyOTM5YmQwNjIxODM1Y2RlOGFlN2I1ODU2MzA5Y2ExZTljOWMwMDM4`
+Snapshot ID: `MCw4MjE2YTEzM2I2NjkxZTZmMDk4YjhlYjY3MDY2ZTViOWU3NWZlZjdl`

@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2014. Cover: Romeo Santos",
-  "num_followers": 30058,
+  "num_followers": 30108,
   "original_name": "Latin Hits 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTI2OTkyOWMzODQ0ZmI0NWNkODFmYTk0YjlmMjg2YWRjYWUyODBl",
+  "snapshot_id": "MCwyN2MyMTQxNWU3ODcwYjZlZTc2ZDY1ZDFiMmVkMDUyZDlkMmUwNzZk",
   "tracks": [
     {
       "added_at": "2021-12-16 01:15:04",
@@ -451,22 +451,6 @@
     {
       "added_at": "2021-12-16 01:15:04",
       "album": {
-        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "Madre Tierra (Oye)",
-      "url": "https://open.spotify.com/track/2wlptOJ1g5fvLdu6ruKCKU"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
         "name": "Travesuras",
         "url": "https://open.spotify.com/album/0bHiWhnjri1A0PSLEQE0He"
       },
@@ -483,18 +467,18 @@
     {
       "added_at": "2021-12-16 01:15:04",
       "album": {
-        "name": "Love And Sex",
-        "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
+        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
       },
       "artists": [
         {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Mi Vecinita",
-      "url": "https://open.spotify.com/track/18DmZ510OB9XATcFbQ8vDZ"
+      "duration_ms": 205920,
+      "name": "Madre Tierra (Oye)",
+      "url": "https://open.spotify.com/track/2wlptOJ1g5fvLdu6ruKCKU"
     },
     {
       "added_at": "2021-12-16 01:15:04",
@@ -515,6 +499,22 @@
       "duration_ms": 285013,
       "name": "Suena Mamal***",
       "url": "https://open.spotify.com/track/3qTatqQ0vzzztgYdaQGEmV"
+    },
+    {
+      "added_at": "2021-12-16 01:15:04",
+      "album": {
+        "name": "Love And Sex",
+        "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Mi Vecinita",
+      "url": "https://open.spotify.com/track/18DmZ510OB9XATcFbQ8vDZ"
     },
     {
       "added_at": "2021-12-16 01:15:04",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-12-16 01:15:04",
       "album": {
-        "name": "Creo en Mi",
-        "url": "https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 229786,
-      "name": "Qu\u00e9date Con Ella",
-      "url": "https://open.spotify.com/track/0BTBoi7AeMBrMP6cwOLNR0"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
         "name": "El Vuelo del Pez",
         "url": "https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD"
       },
@@ -779,18 +763,34 @@
     {
       "added_at": "2021-12-16 01:15:04",
       "album": {
-        "name": "Habla Tu Espejo",
-        "url": "https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf"
+        "name": "Creo en Mi",
+        "url": "https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1"
       },
       "artists": [
         {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
         }
       ],
-      "duration_ms": 259839,
-      "name": "No llora",
-      "url": "https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT"
+      "duration_ms": 229786,
+      "name": "Qu\u00e9date Con Ella",
+      "url": "https://open.spotify.com/track/0BTBoi7AeMBrMP6cwOLNR0"
+    },
+    {
+      "added_at": "2021-12-16 01:15:04",
+      "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 287733,
+      "name": "Recu\u00e9rdame",
+      "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
     },
     {
       "added_at": "2021-12-16 01:15:04",
@@ -815,18 +815,18 @@
     {
       "added_at": "2021-12-16 01:15:04",
       "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+        "name": "Habla Tu Espejo",
+        "url": "https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
         }
       ],
-      "duration_ms": 287733,
-      "name": "Recu\u00e9rdame",
-      "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
+      "duration_ms": 259839,
+      "name": "No llora",
+      "url": "https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT"
     },
     {
       "added_at": "2021-12-16 01:15:04",
@@ -863,22 +863,6 @@
     {
       "added_at": "2021-12-16 01:15:04",
       "album": {
-        "name": "Un alumno m\u00e1s",
-        "url": "https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Tocado y hundido",
-      "url": "https://open.spotify.com/track/4lN533ecUjcnqTkdxaYoP2"
-    },
-    {
-      "added_at": "2021-12-16 01:15:04",
-      "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/1sBA4WniS6cBvvSDAsCgrV"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 216000,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/4HLGAcqh05iAqsCCs8ayrq"
+    },
+    {
+      "added_at": "2021-12-16 01:15:04",
+      "album": {
+        "name": "Un alumno m\u00e1s",
+        "url": "https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "duration_ms": 211586,
+      "name": "Tocado y hundido",
+      "url": "https://open.spotify.com/track/4lN533ecUjcnqTkdxaYoP2"
     }
   ],
   "unique_name": "Latin Hits 2014",

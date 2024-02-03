@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 174380,
+  "2024-02-03": 174427,
   "date_first_scraped": "2022-04-20",
   "description": "Come alive with this progressive & melodic house selection.",
   "name": "Melodic & Euphoric",
@@ -510,6 +510,24 @@
     },
     {
       "album": {
+        "name": "Demons In The Dark",
+        "url": "https://open.spotify.com/album/5kXaT7K2PHV3Ei67nH5qpK"
+      },
+      "artists": [
+        {
+          "name": "Tommy Farrow",
+          "url": "https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212260,
+      "name": "Demons In The Dark",
+      "url": "https://open.spotify.com/track/633abaOgQ4YpKWreyqyRPp"
+    },
+    {
+      "album": {
         "name": "Elements Of A New Life",
         "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
       },
@@ -917,7 +935,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 278796,
       "name": "Hope In Balance",
       "url": "https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o"
@@ -986,6 +1004,28 @@
     },
     {
       "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Another Life",
+          "url": "https://open.spotify.com/artist/7fMAxXqd5hhcwbC1d0VkLQ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333750,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP"
+    },
+    {
+      "album": {
         "name": "Influence",
         "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
       },
@@ -997,7 +1037,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 259364,
       "name": "Influence - Edit",
       "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"

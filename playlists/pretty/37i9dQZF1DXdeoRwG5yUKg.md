@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,361 likes - 101 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,384 likes - 101 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 4 | [Born To Be Loved](https://open.spotify.com/track/5fkfgB7MGOtX8A83SSXdB6) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Honeysuckle Switches: The Songs of Lucinda Williams](https://open.spotify.com/album/1jUwbZwLVILK3ALGQev5ZG) | 4:26 |
 | 5 | [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 |
 | 6 | [Wrong Kind of Right](https://open.spotify.com/track/4c22tbNUTkhfIxiUPQucf3) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 4:39 |
-| 7 | [Have You A Heart](https://open.spotify.com/track/7AhVjOemVKsEiLSXvo9PHU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 4:20 |
+| 7 | [Have You A Heart](https://open.spotify.com/track/7AhVjOemVKsEiLSXvo9PHU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 4:20 |
 | 8 | [I'm Leaving \- The Circle Session, 2023](https://open.spotify.com/track/6f1OkhQzergSERbJT4IIbe) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [I'm Leaving \(The Circle Session, 2023\)](https://open.spotify.com/album/0cQqT0QeuqNC52MPYhpwTv) | 5:19 |
 | 9 | [Fool \(Live\)](https://open.spotify.com/track/60TAAGvOtUcY95dHgvluSw) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Fool \(Live\)](https://open.spotify.com/album/4ybMTnHNIQcBzVCFRRHuZZ) | 4:48 |
 | 10 | [I Found A Place In My Heart](https://open.spotify.com/track/2JMcnVo0GurJvj5BF6APuY) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [I Found A Place In My Heart](https://open.spotify.com/album/6gQRIuxmGLeFzNCbJF4kM5) | 3:05 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 16 | [Souled Out On You](https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:33 |
 | 17 | [Forget Yourself](https://open.spotify.com/track/3fWcRT65iy7FIIEjitgfJ6) | [Natalia M\. King](https://open.spotify.com/artist/3fCXXnMGhzvgXkWwerk4hg) | [Forget Yourself](https://open.spotify.com/album/35jiIi7b9WKbmxXfVcT0ai) | 3:38 |
 | 18 | [Don't Bury Our Love](https://open.spotify.com/track/7Ja98hUS6HfvQN5UOIQCMh) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 5:19 |
-| 19 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 |
+| 19 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 |
 | 20 | [How Many Times?](https://open.spotify.com/track/3dzG0Hd5xXFgFIiB9lMSzq) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [How Many Times?](https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK) | 4:45 |
 | 21 | [Tears Run Dry](https://open.spotify.com/track/4nNQHLhhjwAAmcm9Zcrebd) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Tears Run Dry](https://open.spotify.com/album/6tOPyaHFIOa9zXDQr5m4cJ) | 4:14 |
 | 22 | [Our Love](https://open.spotify.com/track/5cfGJHxNcS1S2qyZj9xH6z) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 4:11 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 100 | [All Gone](https://open.spotify.com/track/55NkVwvITV119DkY4zhKEx) | [Micatone](https://open.spotify.com/artist/7yQjOE5dpqtfPCBXaHtrEj) | [The Crack](https://open.spotify.com/album/3VafpZNlfkUkYflCaCukUw) | 4:17 |
 | 101 | [Gemini Heart](https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 6:10 |
 
-Snapshot ID: `MCxjZjMyN2RjOTYzYWE4ZTlkMjgwZGE0ZmJiMzZjYzZhNTc3NGE5OWVm`
+Snapshot ID: `MCw2ZDZjNThiZjcxM2ZiMjliOGM2ODA5MGM0ODkzYzA2YTFjZjg0ZTM3`

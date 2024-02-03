@@ -2,9 +2,9 @@
 
 ### [Rock Now](https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41)
 
-> The biggest songs in today's Rock scene\. Cover: EKKSTACY, The Kid LAROI
+> This month, we’re celebrating the essence of Black culture across the world\. Discover more Black artists and their contributions <a href="spotify:genre:0JQ5DAqbMKFF9bY76LXmfI">here.</a> Cover: EKKSTACY, The Kid LAROI
 
-754 songs - 1 day 18 hr 48 min
+755 songs - 1 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Nowhere To Go](https://open.spotify.com/track/0jvNCLA1OcJzhBzNyFzyhr) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX), [Jake Clemons](https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ) | [Blink Twice](https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe) | 3:41 | 2022-12-16 | 2023-05-20 |
 | [Nowhere To Go](https://open.spotify.com/track/1luO7FPnPq0tlpxPoZtaKR) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX), [Jake Clemons](https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ) | [Blink Twice](https://open.spotify.com/album/2XlHq9JtWucrS9qrwMGeOF) | 3:41 | 2022-09-23 | 2022-12-17 |
 | [O\-zone](https://open.spotify.com/track/1ynjBf2AZaHlTvmzTMnJ93) | [Single Mothers](https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq) | [Everything You Need](https://open.spotify.com/album/4c00zGr7m0f7TgWUPiCfzS) | 2:54 | 2022-10-28 | 2023-01-14 |
+| [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 | 2024-02-02 |  |
 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 | 2022-08-26 | 2022-09-24 |
 | [omg](https://open.spotify.com/track/4wQlMwDDOxTY91kk5B7Y77) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [omg](https://open.spotify.com/album/3EjgHtmVkvOdn2OM5vAOQm) | 2:34 | 2023-05-12 | 2023-07-22 |
 | [One By One](https://open.spotify.com/track/6nMpQ1jQ5y1AvNok4PwuSa) | [Birds of Bellwoods](https://open.spotify.com/artist/3ZtRAJvBArlocyjPbm4Lvr) | [One By One](https://open.spotify.com/album/0aiVSysWw5WGJx5ufv6k9H) | 3:05 | 2022-05-27 | 2022-06-25 |
@@ -636,7 +637,7 @@
 | [The Garden of Eden](https://open.spotify.com/track/2iDnZkKM40F9u9b44Y6Zc7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Spring](https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6) | 3:15 | 2022-03-25 | 2022-04-16 |
 | [The Glass](https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:49 | 2023-06-02 |  |
 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 | 2023-07-21 | 2023-07-29 |
-| [The King](https://open.spotify.com/track/0Uz8mMqszbxBELP66p4s94) | [The Guess Who](https://open.spotify.com/artist/1hBJqrRfGjNiNfx3OL6sh8) | [The King](https://open.spotify.com/album/3mKSUd5qmhRQJJfteYYsj6) | 5:34 | 2023-02-10 |  |
+| [The King](https://open.spotify.com/track/0Uz8mMqszbxBELP66p4s94) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [The King](https://open.spotify.com/album/3mKSUd5qmhRQJJfteYYsj6) | 5:34 | 2023-02-10 |  |
 | [The Liars Club](https://open.spotify.com/track/3cgasmbjpM2TMfsH0plAwt) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Liars Club](https://open.spotify.com/album/6wHX6aYsulKyZ4sj7gQ9se) | 3:48 | 2022-02-25 | 2022-03-05 |
 | [The Lightning II](https://open.spotify.com/track/4hgobGfWedCMII3bdualzM) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Lightning I, II](https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr) | 2:34 | 2022-04-15 | 2022-05-07 |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-10-07 | 2023-01-14 |
@@ -722,7 +723,7 @@
 | [We Strive for Excellence](https://open.spotify.com/track/7Kjxo3ZGH9s2OzvxQIIhQ2) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [We Strive for Excellence](https://open.spotify.com/album/1IntXQlFhAc2KcA2dWuPxG) | 2:55 | 2022-06-17 | 2022-07-02 |
 | [We Will Meet in a Hurricane](https://open.spotify.com/track/0ptgwpIUXqm43ZXyJQHOd1) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh) | [We Will Meet in a Hurricane](https://open.spotify.com/album/6gemVAAwxUNRukrLtwOEeC) | 3:22 | 2022-10-21 | 2022-12-10 |
 | [Welcome To The Circus](https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Welcome To The Circus](https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw) | 4:16 | 2022-06-10 | 2022-11-26 |
-| [Welcome to the DCC](https://open.spotify.com/track/1eivMnftGIAIeTDUfTssVX) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:17 | 2023-08-18 |  |
+| [Welcome to the DCC](https://open.spotify.com/track/1eivMnftGIAIeTDUfTssVX) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:17 | 2023-08-18 | 2024-02-03 |
 | [Welcome to the DCC](https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Welcome to the DCC](https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE) | 3:18 | 2023-03-17 | 2023-05-13 |
 | [What a Ride](https://open.spotify.com/track/4FVUFfcE4XZv8FW9LJwiL8) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [What a Ride](https://open.spotify.com/album/3WITfyz7MJFwJtAi3ojCbC) | 3:07 | 2022-09-16 | 2022-10-29 |
 | [What Doesn't Kill You Makes You Paranoid](https://open.spotify.com/track/1na4kP9vFyaXHq8ZOGOC16) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [What Doesn't Kill You Makes You Paranoid](https://open.spotify.com/album/6XAKGZmFNNij9L9dYTAznJ) | 3:51 | 2023-08-25 | 2023-09-16 |

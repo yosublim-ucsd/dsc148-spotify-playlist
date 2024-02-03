@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: Elmiene
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,207 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,243 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [Bad Company](https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Bad Company](https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230) | 3:38 |
 | 80 | [Sweet Distraction](https://open.spotify.com/track/6YaQQnajGqFsly2ckrZmw7) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Sweet Distraction](https://open.spotify.com/album/05EE5Cuom9zgpxbs07xeRE) | 2:51 |
 
-Snapshot ID: `MCxjNDhhNzZjYjE1NmI5MGYyMGM0YjIwMThkMjRmMDMxYmI5ODJlZTdi`
+Snapshot ID: `MCxjMGYzNDQxZjFkZjY4YTllNzlmNzM0MzU4YzJhNzYzNzdmZjRjNTQ4`

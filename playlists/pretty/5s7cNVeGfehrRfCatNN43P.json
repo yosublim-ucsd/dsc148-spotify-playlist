@@ -1,264 +1,312 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10611,
+  "num_followers": 10614,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjY2NSwyZjg3OGY4NDM4ODFiNTVkMjJmZDNiYzVjNzkzODdmNWI3NjQzZWZj",
+  "snapshot_id": "MjY3MCwyZWY4ZWFiZGQ4MTQyZjk0MGJjOWEzYjk0MDY2ZmM3YmViMGNiNzk2",
   "tracks": [
     {
-      "added_at": "2024-01-26 12:21:27",
+      "added_at": "2024-02-02 13:28:42",
       "album": {
-        "name": "One Night/All Night",
-        "url": "https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK"
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/0Lxcnu23IVYAYTUw5oHkeY"
       },
       "artists": [
         {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 337473,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/6fSFZusee1TtCLfxz3BuQ2"
+    },
+    {
+      "added_at": "2024-02-02 13:28:42",
+      "album": {
+        "name": "SHADES ON (feat. Kreayshawn)",
+        "url": "https://open.spotify.com/album/1lwoeImjSk4zUeXVElnYq5"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
         },
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Kreayshawn",
+          "url": "https://open.spotify.com/artist/51xJF4OqJPHWop1fv0VVyd"
         }
       ],
-      "duration_ms": 276066,
-      "name": "One Night/All Night",
-      "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
+      "duration_ms": 125317,
+      "name": "SHADES ON (feat. Kreayshawn)",
+      "url": "https://open.spotify.com/track/2D1wT4mfte0LcOvzSagA9H"
     },
     {
-      "added_at": "2024-01-26 12:21:27",
+      "added_at": "2024-02-02 13:28:42",
       "album": {
-        "name": "What's Love (feat. MUNA)",
-        "url": "https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z"
+        "name": "downtime",
+        "url": "https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va"
       },
       "artists": [
         {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+          "name": "Tyler Lewis",
+          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
+        }
+      ],
+      "duration_ms": 192336,
+      "name": "downtime",
+      "url": "https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU"
+    },
+    {
+      "added_at": "2024-02-02 13:28:42",
+      "album": {
+        "name": "The Thrill Of It",
+        "url": "https://open.spotify.com/album/6FpdWwlJLpBq2cViZH5HVd"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        }
+      ],
+      "duration_ms": 196491,
+      "name": "The Thrill Of It",
+      "url": "https://open.spotify.com/track/3kGIAI6oq9ArkwEdbN1VJR"
+    },
+    {
+      "added_at": "2024-02-02 13:28:42",
+      "album": {
+        "name": "Make It Better (Forever)",
+        "url": "https://open.spotify.com/album/0cTzaPNkX2h0FgsziGcLii"
+      },
+      "artists": [
+        {
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        }
+      ],
+      "duration_ms": 236065,
+      "name": "Make It Better (Forever)",
+      "url": "https://open.spotify.com/track/6byF2hiezKTIqw7ONyKnew"
+    },
+    {
+      "added_at": "2024-02-02 13:28:42",
+      "album": {
+        "name": "Apollo & His Unfortunate Love Affairs",
+        "url": "https://open.spotify.com/album/6L9TymDFvh3aGKWwXjwzSv"
+      },
+      "artists": [
+        {
+          "name": "Leif Coffield",
+          "url": "https://open.spotify.com/artist/1WE7m8KGhnIBIbuaMH50Cm"
+        }
+      ],
+      "duration_ms": 149750,
+      "name": "Fire It Up",
+      "url": "https://open.spotify.com/track/56zbELnC0VcZRwHPPsDrwH"
+    },
+    {
+      "added_at": "2024-02-02 13:28:42",
+      "album": {
+        "name": "Ring of Fire",
+        "url": "https://open.spotify.com/album/3InbOoiiYeS0KH7bpNONWm"
+      },
+      "artists": [
+        {
+          "name": "Nicola H\u00f8ie",
+          "url": "https://open.spotify.com/artist/0shFBysGw18zUHjV934zn3"
+        }
+      ],
+      "duration_ms": 185175,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/6TIcjf4AzSU3rihSPI91Rz"
+    },
+    {
+      "added_at": "2024-02-02 13:28:42",
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/3Fm13iU479MJh6ePRdYU35"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 158500,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/4pDMigVe00CtmHeqSD0Yvy"
+    },
+    {
+      "added_at": "2024-02-02 13:28:42",
+      "album": {
+        "name": "Body Go (feat. Sophie Stray)",
+        "url": "https://open.spotify.com/album/7a8kbOg8hoBzvdeNOW7ujv"
+      },
+      "artists": [
+        {
+          "name": "Richello",
+          "url": "https://open.spotify.com/artist/6DWVgFfHyhUISYq0lzYYu6"
         },
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "Sophie Stray",
+          "url": "https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X"
         }
       ],
-      "duration_ms": 189720,
-      "name": "What's Love (feat. MUNA)",
-      "url": "https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy"
+      "duration_ms": 130320,
+      "name": "Body Go (feat. Sophie Stray)",
+      "url": "https://open.spotify.com/track/1BGTVySDixRJqppRTb479s"
     },
     {
-      "added_at": "2024-01-26 12:21:27",
+      "added_at": "2024-02-02 13:28:42",
       "album": {
-        "name": "Ego Rush",
-        "url": "https://open.spotify.com/album/6PUUdGSQCZs1bu30g5fUac"
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/7jddk2JXxlq6w6mreUU5kY"
       },
       "artists": [
         {
-          "name": "evi",
-          "url": "https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH"
+          "name": "Oda Loves You",
+          "url": "https://open.spotify.com/artist/1SPo0Gb7MLOZRbrpnj4ybr"
         }
       ],
-      "duration_ms": 159806,
-      "name": "Ego Rush",
-      "url": "https://open.spotify.com/track/5405yu0tbDmDA1iSJNbrta"
+      "duration_ms": 179208,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/3gUUCRTLaLhbwkIOsTUTzq"
     },
     {
-      "added_at": "2024-01-26 12:21:27",
+      "added_at": "2024-02-02 13:28:42",
       "album": {
-        "name": "Lead Me On",
-        "url": "https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb"
+        "name": "Journey (feat. Mysie)",
+        "url": "https://open.spotify.com/album/7ctNCieIMcJdrHIgdLmJKW"
       },
       "artists": [
         {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Lead Me On",
-      "url": "https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn"
-    },
-    {
-      "added_at": "2024-01-26 12:21:27",
-      "album": {
-        "name": "TROLL",
-        "url": "https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx"
-      },
-      "artists": [
-        {
-          "name": "Elliphant",
-          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
-        }
-      ],
-      "duration_ms": 160421,
-      "name": "DUST",
-      "url": "https://open.spotify.com/track/6fz5hmuApTOplf5Oam5Ith"
-    },
-    {
-      "added_at": "2024-01-26 12:21:27",
-      "album": {
-        "name": "eat me alive",
-        "url": "https://open.spotify.com/album/5hbB0FUNpayoGS3vRaMdnF"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 159946,
-      "name": "eat me alive",
-      "url": "https://open.spotify.com/track/6AYNmsHwCWmfYrniipNAWe"
-    },
-    {
-      "added_at": "2024-01-26 12:21:27",
-      "album": {
-        "name": "Life Is Tough (But So Am I)",
-        "url": "https://open.spotify.com/album/4IWrXa3u5YCQ1tVdGn7epT"
-      },
-      "artists": [
-        {
-          "name": "Kaylee Bell",
-          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
         },
         {
-          "name": "Navvy",
-          "url": "https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24"
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
         }
       ],
-      "duration_ms": 199757,
-      "name": "Life Is Tough (But So Am I)",
-      "url": "https://open.spotify.com/track/53zYH64CbS2SxcNDFJxlC5"
+      "duration_ms": 300000,
+      "name": "Journey (feat. Mysie)",
+      "url": "https://open.spotify.com/track/3aZ8RfhiOdUJEP6h2H17y6"
     },
     {
-      "added_at": "2024-01-26 12:21:27",
+      "added_at": "2024-02-02 13:28:42",
       "album": {
-        "name": "Know Nothing",
-        "url": "https://open.spotify.com/album/0LKI6YjvjvuZADyW4uz9bP"
+        "name": "I'm Trying",
+        "url": "https://open.spotify.com/album/5KnD1N7X7C354kUSpgPmEO"
       },
       "artists": [
         {
-          "name": "Amanda Cy",
-          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
+          "name": "M\u00f6rmaid",
+          "url": "https://open.spotify.com/artist/2JIx9WZoZX8BE9yJW560x5"
         }
       ],
-      "duration_ms": 180466,
-      "name": "Know Nothing",
-      "url": "https://open.spotify.com/track/04h7ReoZ0gxfgGUMM68Lzy"
+      "duration_ms": 282661,
+      "name": "I'm Trying",
+      "url": "https://open.spotify.com/track/2oAEkesjJB7QtX9GjdmEil"
     },
     {
-      "added_at": "2024-01-26 12:21:27",
+      "added_at": "2024-02-02 13:28:42",
       "album": {
-        "name": "Shape of Me (feat. Keith Urban)",
-        "url": "https://open.spotify.com/album/297EN4H5vStS80LqMdG9pV"
+        "name": "Digital Heartifacts",
+        "url": "https://open.spotify.com/album/1DzhKoFw6wH2f0SUQXy4Gz"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "L Devine",
+          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
         }
       ],
-      "duration_ms": 168986,
-      "name": "Shape of Me (feat. Keith Urban)",
-      "url": "https://open.spotify.com/track/6xm5pE5LehFMPUaSDdxpDp"
+      "duration_ms": 183879,
+      "name": "Eaten Alive",
+      "url": "https://open.spotify.com/track/35faJo4BXu9qVFOiCVIOyr"
     },
     {
-      "added_at": "2024-01-26 12:21:27",
+      "added_at": "2024-02-02 13:28:42",
       "album": {
-        "name": "my mind (now)",
-        "url": "https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg"
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/1DyEIWeTtsnvgYUbRNtii5"
       },
       "artists": [
         {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+          "name": "Edel",
+          "url": "https://open.spotify.com/artist/5iiMfOxrhf7zPwB0quYvgW"
         }
       ],
-      "duration_ms": 176418,
-      "name": "my mind (now)",
-      "url": "https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F"
+      "duration_ms": 141975,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/3A3hxddp7lKOnHhVD1oLhI"
     },
     {
-      "added_at": "2024-01-26 12:21:27",
+      "added_at": "2024-02-02 13:28:42",
       "album": {
-        "name": "Faster",
-        "url": "https://open.spotify.com/album/3u0SfcaJb189Qph3CIMgEs"
+        "name": "langt avsted",
+        "url": "https://open.spotify.com/album/087s039UG6w58Ikf5qr35s"
       },
       "artists": [
         {
-          "name": "YES YES",
-          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
-        },
-        {
-          "name": "Sirena",
-          "url": "https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw"
+          "name": "L.U:N.A",
+          "url": "https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk"
         }
       ],
-      "duration_ms": 128307,
-      "name": "Faster",
-      "url": "https://open.spotify.com/track/6rNDRkdg6B4ZyL8OleyLXW"
+      "duration_ms": 196640,
+      "name": "langt avsted",
+      "url": "https://open.spotify.com/track/7oPEmz14GqJrLPPWM2MrUt"
     },
     {
-      "added_at": "2024-01-26 12:21:27",
+      "added_at": "2024-02-02 13:28:42",
       "album": {
-        "name": "Sunglasses at Night",
-        "url": "https://open.spotify.com/album/2WL25jOF2CEzuH1D7oJIYM"
+        "name": "Kiss of Life",
+        "url": "https://open.spotify.com/album/41nNKXQpTQG2pYmoarJZwt"
       },
       "artists": [
         {
-          "name": "Heidi Klum",
-          "url": "https://open.spotify.com/artist/7gmNO7Sv6EFNtxJ7JTgeaC"
+          "name": "Shaznay Lewis",
+          "url": "https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2"
         }
       ],
-      "duration_ms": 170624,
-      "name": "Sunglasses at Night",
-      "url": "https://open.spotify.com/track/1LiMNzbo4XYzsZ0Odg3OW7"
+      "duration_ms": 177873,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/4uAdlTvlNFUapQ4muzBh24"
     },
     {
-      "added_at": "2024-01-26 12:21:27",
+      "added_at": "2024-02-02 13:28:42",
       "album": {
-        "name": "California Lover",
-        "url": "https://open.spotify.com/album/07fYJ01cntYss2ihjfz64x"
+        "name": "I GOT YOU",
+        "url": "https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL"
       },
       "artists": [
         {
-          "name": "Moss Kena",
-          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 141386,
-      "name": "California Lover",
-      "url": "https://open.spotify.com/track/6sOUBEr73j84UAotmBDqRD"
+      "duration_ms": 173240,
+      "name": "I GOT YOU",
+      "url": "https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx"
     },
     {
-      "added_at": "2024-01-26 12:21:27",
+      "added_at": "2024-02-02 13:28:42",
       "album": {
-        "name": "Waterslides",
-        "url": "https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i"
+        "name": "Oh No :: He Said What?",
+        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 158174,
-      "name": "Waterslides",
-      "url": "https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP"
+      "duration_ms": 228138,
+      "name": "Oh No :: He Said What?",
+      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 
 > Don't worry, be happy :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,638 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,757 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 | 72 | [I Will Survive \- Rerecorded](https://open.spotify.com/track/2a1MrtxYybqFV1Ow8VJ1dW) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \(Rerecorded\)](https://open.spotify.com/album/0EvxRMIJySiL1ges38c753) | 4:25 |
 | 73 | [Don't Be so Hard on Yourself](https://open.spotify.com/track/6jF1nHIMESqft9p33tQYPn) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 3:31 |
 | 74 | [Ain't Got No \- I Got Life \(From the musical production "Hair"\)](https://open.spotify.com/track/5VgcM58bybW45T2WgTdbeY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | ['Nuff Said \(Expanded Edition\)](https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg) | 2:07 |
-| 75 | [Lovely Day](https://open.spotify.com/track/1QQRBPMzXbL4z26mnIvgZD) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Essential Bill Withers](https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ) | 4:14 |
-| 76 | [Volare](https://open.spotify.com/track/06UAZUY5qyFy50poO0nLBY) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Mosaique](https://open.spotify.com/album/6prKtGIdYwaR9rhNElZEWt) | 3:38 |
-| 77 | [Eso Que Tú Me Das](https://open.spotify.com/track/6cRvHL1jwsAktcEcukPYmp) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Eso Que Tú Me Das](https://open.spotify.com/album/14AGxQitvL1hZOTtb0uiIZ) | 3:34 |
-| 78 | [You Can Get It If You Really Want](https://open.spotify.com/track/1Vwvlg5av6Bfp9yjmu05yJ) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [You Can Get It If You Really Want](https://open.spotify.com/album/2Vp41y8ITDPQv4lEDlc8Gw) | 2:38 |
-| 79 | [Love Generation \- Radio Edit](https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Gary Pine](https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd) | [Love Generation \(Radio Edit\)](https://open.spotify.com/album/65crznT6OSNgS5riyglAKu) | 3:24 |
+| 75 | [Love Generation \- Radio Edit](https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Gary Pine](https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd) | [Love Generation \(Radio Edit\)](https://open.spotify.com/album/65crznT6OSNgS5riyglAKu) | 3:24 |
+| 76 | [Lovely Day](https://open.spotify.com/track/1QQRBPMzXbL4z26mnIvgZD) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Essential Bill Withers](https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ) | 4:14 |
+| 77 | [Volare](https://open.spotify.com/track/06UAZUY5qyFy50poO0nLBY) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Mosaique](https://open.spotify.com/album/6prKtGIdYwaR9rhNElZEWt) | 3:38 |
+| 78 | [Eso Que Tú Me Das](https://open.spotify.com/track/6cRvHL1jwsAktcEcukPYmp) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Eso Que Tú Me Das](https://open.spotify.com/album/14AGxQitvL1hZOTtb0uiIZ) | 3:34 |
+| 79 | [You Can Get It If You Really Want](https://open.spotify.com/track/1Vwvlg5av6Bfp9yjmu05yJ) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [You Can Get It If You Really Want](https://open.spotify.com/album/2Vp41y8ITDPQv4lEDlc8Gw) | 2:38 |
 | 80 | [Move on Up \- Single Edit](https://open.spotify.com/track/1DxjLSO8tQHRzfgrZB8Ggi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Playlist: The Best of Curtis Mayfield](https://open.spotify.com/album/0wZH0vyxgzyGmlc8JDfRvH) | 2:45 |
 
-Snapshot ID: `MCxkMTZkNjAxNzJjMWFlNmVhMDRjZDU0ZTQxODYxY2EzOWJkNzYwMDRj`
+Snapshot ID: `MCw3NzkwZTRiNTdlYTcyMDI1YTVkNGY4YjJjMGNlZWMyODYzNGU3OTEx`

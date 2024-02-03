@@ -4,7 +4,7 @@
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 18 min
+51 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Looking](https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:21 | 2024-02-01 |  |
 | [Love](https://open.spotify.com/track/5mo9cqdFYQDHDBaYT3rYZe) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Surfers Paradise \(Expanded\)](https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH) | 3:10 | 2024-02-01 |  |
 | [Love for Love City \(with Ziggy Marley\)](https://open.spotify.com/track/6wrzvEu8Sk7sDf6W9ESVui) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Songs for the Saints](https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY) | 3:49 | 2024-02-01 |  |
-| [Love Is My Religion](https://open.spotify.com/track/1HH9AYnSKZaPKgZUGuiDRf) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 3:48 | 2024-02-01 |  |
+| [Love Is My Religion](https://open.spotify.com/track/1HH9AYnSKZaPKgZUGuiDRf) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 3:48 | 2024-02-01 | 2024-02-03 |
 | [Love Is My Religion \(Live\)](https://open.spotify.com/track/1d1z4TzhHtzRIsCmoHDeCu) | [Playing For Change](https://open.spotify.com/artist/645m90txZTycwJGdZTWscc), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Playing for Change \(Live\)](https://open.spotify.com/album/1xvTR4a0kOkL0Z0pBGYXV5) | 4:10 | 2024-02-01 |  |
 | [Madanite](https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 3:55 | 2024-02-01 |  |
 | [Mmmm Mmmm](https://open.spotify.com/track/1rVLXkHg9a2w6A8qGigwsN) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild And Free](https://open.spotify.com/album/3JhnFg804zHUlIRjByYytY) | 3:30 | 2024-02-01 |  |
@@ -47,6 +47,7 @@
 | [See Dem Fake Leaders](https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO) | 3:58 | 2024-02-01 |  |
 | [Shalom Salaam](https://open.spotify.com/track/3nnE2tL23dx1mTiUH1T2R3) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 5:04 | 2024-02-01 |  |
 | [Spin It Faster](https://open.spotify.com/track/65kIGQ8TIXVLKxcZahctVO) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Spin It Faster](https://open.spotify.com/album/1T6SLtqelpeRnPQAG2ehKI) | 3:56 | 2024-02-01 |  |
+| [Start It Up](https://open.spotify.com/track/0MT9KFAob9TAw1FlMweOGi) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Ziggy Marley](https://open.spotify.com/album/1flAWuCR67R6HOsoLTE4xf) | 3:21 | 2024-02-02 |  |
 | [Still Is Still Moving To Me \- Live at The Hollywood Bowl, Los Angeles, CA \- April 30, 2023](https://open.spotify.com/track/2g8VO3EAsee0UQBukJFuVm) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Long Story Short: Willie Nelson 90 \(Live At The Hollywood Bowl\)](https://open.spotify.com/album/3FSyqiY2cUZTeCoQaJDHBM) | 3:20 | 2024-02-01 |  |
 | [The Chapel](https://open.spotify.com/track/63S7jRVkIHo97J2vgMTbF6) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Revelation Part 1: The Root Of Life](https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73) | 4:52 | 2024-02-01 |  |
 | [the only](https://open.spotify.com/track/0YucjQSidEVFUV722aAvpA) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [the only](https://open.spotify.com/album/0aEFPclRPtQ6Oje18BXfU9) | 4:05 | 2024-02-01 |  |

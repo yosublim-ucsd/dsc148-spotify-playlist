@@ -1,12 +1,12 @@
 {
   "description": "Todo hits veraniegos para la mejor fiesta.",
-  "num_followers": 80587,
+  "num_followers": 80582,
   "original_name": "Verano Mix 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYThhM2U3NTkxNzRjYzgyZjRlMjY2MmRkZDMwMTYwZDZlNWM1NDBi",
+  "snapshot_id": "MCxhMTZmZWU5NThjOGIxYmNmZTdiYjhlNzc5MGVkODljMmJkMWUxNWNj",
   "tracks": [
     {
       "added_at": "2023-07-10 17:59:12",
@@ -983,58 +983,6 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
-        "url": "https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 191254,
-      "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
-      "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "La Player (Bandolera)",
-        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 249608,
-      "name": "La player (Bandolera)",
-      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 226520,
-      "name": "Dile Que Tu Me Quieres",
-      "url": "https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
         "name": "Pa'l Mundo",
         "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
       },
@@ -1087,6 +1035,58 @@
       "duration_ms": 417920,
       "name": "Te Bot\u00e9 - Remix",
       "url": "https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 226520,
+      "name": "Dile Que Tu Me Quieres",
+      "url": "https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
+        "url": "https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 191254,
+      "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
+      "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1239,8 +1239,8 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "Callaita",
-        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
       "artists": [
         {
@@ -1248,13 +1248,13 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         }
       ],
-      "duration_ms": 250533,
-      "name": "Callaita",
-      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
+      "duration_ms": 300579,
+      "name": "La Romana",
+      "url": "https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Dale Don Dale",
+      "url": "https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
         "name": "Con Altura",
         "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
@@ -1447,38 +1463,6 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "The Last Don",
-        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Dale Don Dale",
-      "url": "https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 203186,
       "name": "Mayores",
       "url": "https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1647,6 +1647,46 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
+        "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
+        "url": "https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb"
+      },
+      "artists": [
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Juseph",
+          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
+        },
+        {
+          "name": "Abhir Hathi",
+          "url": "https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0"
+        },
+        {
+          "name": "Bejo",
+          "url": "https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        },
+        {
+          "name": "EL IMA",
+          "url": "https://open.spotify.com/artist/00vsUIEaNHw6qoQnh8DQM2"
+        }
+      ],
+      "duration_ms": 413110,
+      "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
+      "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
         "name": "La Jeepeta (Remix)",
         "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
       },
@@ -1699,46 +1739,6 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
-        "url": "https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb"
-      },
-      "artists": [
-        {
-          "name": "La Pantera",
-          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Juseph",
-          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
-        },
-        {
-          "name": "Abhir Hathi",
-          "url": "https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0"
-        },
-        {
-          "name": "Bejo",
-          "url": "https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u"
-        },
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        },
-        {
-          "name": "EL IMA",
-          "url": "https://open.spotify.com/artist/00vsUIEaNHw6qoQnh8DQM2"
-        }
-      ],
-      "duration_ms": 413110,
-      "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
-      "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
+        "name": "Mala Mujer",
+        "url": "https://open.spotify.com/album/2pWiw92YRmqEpIUs5P1HAe"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 222896,
+      "name": "Mala Mujer",
+      "url": "https://open.spotify.com/track/6puxHBNwu2Nmm7uD3Rd2MP"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
         "name": "Baila Conmigo (feat. Kelly Ruiz)",
         "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
       },
@@ -2091,22 +2107,6 @@
       "duration_ms": 189817,
       "name": "Baila Conmigo (feat. Kelly Ruiz)",
       "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "Mala Mujer",
-        "url": "https://open.spotify.com/album/2pWiw92YRmqEpIUs5P1HAe"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 222896,
-      "name": "Mala Mujer",
-      "url": "https://open.spotify.com/track/6puxHBNwu2Nmm7uD3Rd2MP"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -2467,26 +2467,6 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "Tigini (Remix)",
-        "url": "https://open.spotify.com/album/0Gb4d09a4fJ9Kndgu8OHKe"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Kikimoteleba",
-          "url": "https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo"
-        }
-      ],
-      "duration_ms": 175555,
-      "name": "Tigini (Remix)",
-      "url": "https://open.spotify.com/track/6stWVqWxtPPednHy1mzoOz"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
         "name": "Major Lazer Essentials",
         "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
       },
@@ -2507,6 +2487,26 @@
       "duration_ms": 169997,
       "name": "Que Calor",
       "url": "https://open.spotify.com/track/5dSWNkk66Gez4AM1kpZPiu"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "Tigini (Remix)",
+        "url": "https://open.spotify.com/album/0Gb4d09a4fJ9Kndgu8OHKe"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Kikimoteleba",
+          "url": "https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo"
+        }
+      ],
+      "duration_ms": 175555,
+      "name": "Tigini (Remix)",
+      "url": "https://open.spotify.com/track/6stWVqWxtPPednHy1mzoOz"
     }
   ],
   "unique_name": "Verano Mix 2023",

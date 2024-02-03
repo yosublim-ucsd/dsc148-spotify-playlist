@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Abby Sage
 
-430 songs - 1 day 2 hr 38 min
+433 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [chamomile](https://open.spotify.com/track/2KWrSa9jhJXBU1kKkgpH2R) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [chamomile](https://open.spotify.com/album/4RJ9Jc5Kzxro65JWQzzaDp) | 3:53 | 2022-01-21 | 2022-07-29 |
 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 | 2022-04-29 |  |
 | [Change](https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Change](https://open.spotify.com/album/1IQ1ZGGttsawfbItibsBHj) | 4:55 | 2022-01-21 | 2022-07-29 |
-| [Changes \(feat\. Laura Elliott\)](https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [More Better](https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA) | 4:00 | 2023-06-02 |  |
+| [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 | 2024-02-02 |  |
+| [Changes \(feat\. Laura Elliott\)](https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [More Better](https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA) | 4:00 | 2023-06-02 | 2024-02-03 |
 | [Cheese](https://open.spotify.com/track/1MD78xqTQoIXvZCn0CFyvF) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F) | 2:19 | 2023-05-26 |  |
 | [Cheese](https://open.spotify.com/track/70Ui5PlefBqCOW3uvqNRAa) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/0cJXjTHI3rmuDoeSNb0YeU) | 2:19 | 2023-04-07 | 2023-04-29 |
 | [Cigarette](https://open.spotify.com/track/0mgi4eJrjd0uv0PGIx4MJo) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Cigarette](https://open.spotify.com/album/0Xv7O6PBVUdkdma1Qe5nbK) | 3:16 | 2023-04-14 | 2023-07-29 |
@@ -142,6 +143,7 @@
 | [For Props](https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Sundry Rock Song Stock](https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy) | 3:43 | 2022-04-29 | 2023-05-17 |
 | [For Props](https://open.spotify.com/track/4ONnqJEwXq3RRoQBm2CuYH) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [For Props](https://open.spotify.com/album/37qOG7Mcy601w1oVaLd3Nc) | 3:43 | 2022-01-21 | 2022-07-29 |
 | [foreign language](https://open.spotify.com/track/3Z8NtoBVL4klYukN4xSTK5) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [earlier from '20](https://open.spotify.com/album/2AekUERWbAA27Eyux7Gj9Z) | 3:55 | 2023-09-29 | 2023-11-29 |
+| [Forever](https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Forever](https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt) | 3:28 | 2024-02-02 |  |
 | [Forever \(New Feelings Version\)](https://open.spotify.com/track/0a3XINx8PuXVIwEiQoSdUd) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Same History, New Feelings](https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9) | 4:05 | 2022-04-29 | 2022-07-29 |
 | [Forever You & I](https://open.spotify.com/track/6XBUQjHdbHeLvc45We8UZM) | [Diane Coffee](https://open.spotify.com/artist/3NTbCfTrDL2WFob27hdLTe) | [Forever You & I](https://open.spotify.com/album/1dWmrJhe6iXyMgZ9FjX1oi) | 4:06 | 2022-04-29 | 2022-06-26 |
 | [Friends](https://open.spotify.com/track/32irCtqVudXga5frCUDFVH) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Friends](https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD) | 3:02 | 2022-12-02 | 2023-05-09 |
@@ -153,6 +155,7 @@
 | [Giving Up](https://open.spotify.com/track/20CZyFEt1f9MAikYqM7vjU) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Giving Up](https://open.spotify.com/album/07Bsd2TfdTUXq6DBtKdDuY) | 3:10 | 2022-01-21 | 2022-07-28 |
 | [glacier meadow](https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [glacier meadow](https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD) | 2:46 | 2023-05-19 |  |
 | [Gone](https://open.spotify.com/track/72wXVHnHpgRUYB8d8XhO9A) | [Painted Shrines](https://open.spotify.com/artist/0guseeF8efQNK8hjGacEAU), [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Gone](https://open.spotify.com/album/4TqTNuedy5AfullWj5g09c) | 3:28 | 2022-01-21 | 2022-07-25 |
+| [Good Stuff](https://open.spotify.com/track/1aFPbPKOfsfgdZMmF3PQqt) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Good Stuff](https://open.spotify.com/album/0UaN6Vd5pxhNe44APBIUUu) | 3:03 | 2024-02-02 |  |
 | [Good Thing](https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:12 | 2023-09-15 |  |
 | [Good Thing](https://open.spotify.com/track/3oVPWIRcX4lTde9nMUxTmX) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Good Thing](https://open.spotify.com/album/5zq4azS8yD6fil5tnqr1g5) | 4:12 | 2022-01-21 | 2023-09-22 |
 | [Gossamer](https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Gossamer](https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z) | 3:55 | 2022-09-30 | 2023-06-22 |
@@ -218,7 +221,7 @@
 | [King Street](https://open.spotify.com/track/6jEhp06H3nxblZIyBy7ueE) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [King Street](https://open.spotify.com/album/1EzN2Ajl5JdJ2Pwgz8BxKF) | 3:38 | 2022-01-21 | 2022-07-29 |
 | [Kings & Queens](https://open.spotify.com/track/03SZ2O8n8ngB92Xlnh3urC) | [Harmony Byrne](https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx) | [Kings & Queens](https://open.spotify.com/album/3vgMeqqU1tzZRnq4aMSxA1) | 4:38 | 2022-04-13 | 2022-12-17 |
 | [Lawn](https://open.spotify.com/track/0lwRMQQ6BxVBV0WaokbQ22) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Lawn](https://open.spotify.com/album/18fBg00a9TmorB9yvQwYlq) | 3:37 | 2022-01-21 | 2022-07-29 |
-| [Lawn](https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:37 | 2022-04-29 |  |
+| [Lawn](https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:37 | 2022-04-29 | 2024-02-03 |
 | [lesson](https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 1:37 | 2022-04-13 |  |
 | [Let Go](https://open.spotify.com/track/3C37PWNd6ojQD8OhIp9aKu) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Let Go](https://open.spotify.com/album/6Am8g1lq0cXcOCmv5fwnzk) | 4:00 | 2023-03-03 | 2023-04-12 |
 | [Let Go of the Myth](https://open.spotify.com/track/61KPTGdmcm1PO88DER3OPz) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Let Go of the Myth](https://open.spotify.com/album/4VSYheyF1IVK4x2SiDUmPi) | 2:45 | 2023-01-20 | 2023-02-25 |
@@ -408,7 +411,7 @@
 | [Valley](https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ) | [Racoma](https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0) | [Valley](https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD) | 3:29 | 2022-09-09 | 2023-04-11 |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-07-21 |  |
 | [VBS](https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [VBS](https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu) | 3:56 | 2022-01-21 | 2023-05-08 |
-| [Visions](https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:55 | 2022-04-29 |  |
+| [Visions](https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:55 | 2022-04-29 | 2024-02-03 |
 | [Visions](https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Visions](https://open.spotify.com/album/3HGLigPm8UcqiA0vPAv3Ye) | 3:55 | 2022-01-21 | 2022-07-29 |
 | [Wasted](https://open.spotify.com/track/097mtSzsgYwypHXRae7pNH) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/6GfhbITp0mFMnuGVqzHxlJ) | 2:29 | 2022-01-21 | 2022-07-29 |
 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 | 2022-04-29 |  |

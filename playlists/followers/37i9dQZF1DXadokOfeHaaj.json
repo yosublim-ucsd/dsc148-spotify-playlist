@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 29857,
+  "2024-02-03": 29863,
   "date_first_scraped": "2022-12-29",
   "description": "Are you ready for the floor? Cover: Jessica Winter",
   "name": "Indie Dancefloor",
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 209763,
       "name": "20:30 Matlock",
       "url": "https://open.spotify.com/track/2oaJGdFU48klcIlBgy0hu1"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 245760,
       "name": "D.I.S.C.O. - Edit",
       "url": "https://open.spotify.com/track/6tjYbiZ2wLgp33HMVxkJ9o"
@@ -556,6 +556,24 @@
     },
     {
       "album": {
+        "name": "This Is A Reminder That You Are Not Behind Your Face",
+        "url": "https://open.spotify.com/album/3VcbVj4rqE1ICcd14Hp3La"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186800,
+      "name": "Dopamine Detox",
+      "url": "https://open.spotify.com/track/1L1EKS4V4fXLuXfOduyZ9t"
+    },
+    {
+      "album": {
         "name": "Non Binary Place",
         "url": "https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u"
       },
@@ -567,7 +585,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 229238,
       "name": "Fear",
       "url": "https://open.spotify.com/track/5yIK62xhc1PwxG83kObxZe"
@@ -726,6 +744,28 @@
     },
     {
       "album": {
+        "name": "Journey (feat. Mysie)",
+        "url": "https://open.spotify.com/album/7ctNCieIMcJdrHIgdLmJKW"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        },
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Journey (feat. Mysie)",
+      "url": "https://open.spotify.com/track/3aZ8RfhiOdUJEP6h2H17y6"
+    },
+    {
+      "album": {
         "name": "Lifetime (Planningtorock 'Let It Happen' Remix)",
         "url": "https://open.spotify.com/album/5s9bJNRbfFkJAlxmjJbexn"
       },
@@ -777,7 +817,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 180002,
       "name": "Like A Knife",
       "url": "https://open.spotify.com/track/3KtIEskaAF8eojLEoy9SgN"
@@ -831,7 +871,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 207034,
       "name": "Limousine Lies",
       "url": "https://open.spotify.com/track/6knXoLZCEFx4i9yAIScw56"
@@ -1067,7 +1107,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 239986,
       "name": "Ordinary Boy - Floating Points Remix - Edit",
       "url": "https://open.spotify.com/track/1uo2r22goBzaQdO7BvFxkk"
@@ -1085,7 +1125,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 240177,
       "name": "Perfectly Broken",
       "url": "https://open.spotify.com/track/21RK93h8VJjBKaGgefZ1ro"
@@ -1249,7 +1289,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 206466,
       "name": "Shut My Mouth",
       "url": "https://open.spotify.com/track/5cI4oDkASkMmaXxMVNzqKK"
@@ -1315,6 +1355,24 @@
       "duration_ms": 177240,
       "name": "So Late - Goldteeth Remix",
       "url": "https://open.spotify.com/track/6W8xk66YHob4Yloy8aArZy"
+    },
+    {
+      "album": {
+        "name": "SPEAKING OUT LOUD",
+        "url": "https://open.spotify.com/album/5uO8W71W2Zabn4wBtC7d5o"
+      },
+      "artists": [
+        {
+          "name": "JEV",
+          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173648,
+      "name": "SPEAKING OUT LOUD",
+      "url": "https://open.spotify.com/track/68O9CSbx1oZ4nuRSYxPBmn"
     },
     {
       "album": {
@@ -1456,6 +1514,32 @@
     },
     {
       "album": {
+        "name": "Tonight In Belfast",
+        "url": "https://open.spotify.com/album/46vW0Y9s7hsr231fEZ7uz8"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        },
+        {
+          "name": "David Holmes",
+          "url": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+        },
+        {
+          "name": "Mike Garry",
+          "url": "https://open.spotify.com/artist/2TGg9f0CCX1rAR3S88o9yD"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240492,
+      "name": "Tonight In Belfast - Edit",
+      "url": "https://open.spotify.com/track/3Nc1xUyUx3tAXhylybt1u2"
+    },
+    {
+      "album": {
         "name": "Turn It Into Love",
         "url": "https://open.spotify.com/album/1QsRm8LBLS07AwJzaNZa9v"
       },
@@ -1471,7 +1555,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 236973,
       "name": "Turn It Into Love",
       "url": "https://open.spotify.com/track/0NguAN1GjgnNFXqqu3V3LT"
@@ -1493,7 +1577,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 246879,
       "name": "TV (feat. Pom Pom Squad)",
       "url": "https://open.spotify.com/track/2dy5gd8IRckEx4iweoU6UR"

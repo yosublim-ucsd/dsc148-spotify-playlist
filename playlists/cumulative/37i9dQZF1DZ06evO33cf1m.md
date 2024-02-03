@@ -4,7 +4,7 @@
 
 > This is La Arrolladora Banda El Limón De Rene Camacho\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 38 min
+65 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Como Pez En El Agua](https://open.spotify.com/track/2CpfZ5y47gaY5iGFGdIi6a) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:02 | 2023-08-08 |  |
 | [Compárame](https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [La Otra Cara De La Moneda](https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC) | 3:45 | 2023-08-08 |  |
 | [Confesión](https://open.spotify.com/track/2tth2JJ9zhSGVUj9VQGefc) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 3:41 | 2023-08-08 |  |
+| [Contigo](https://open.spotify.com/track/5jQ1icvyDOmfrJzTc4hmja) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Valió La Pena Equivocarme](https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm) | 3:54 | 2024-02-02 |  |
 | [Cuéntame](https://open.spotify.com/track/7KfNNSQO6UCfvvsppqpD7q) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Lo Esencial De La Arrolladora Banda El Limón](https://open.spotify.com/album/5unIShhqSluah2Bf29YiFs) | 3:28 | 2023-08-08 |  |
 | [De Memoria Me Las Sé](https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [De Memoria Me Las Sé](https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl) | 2:43 | 2023-08-08 | 2023-11-11 |
 | [De Ti Exclusivo](https://open.spotify.com/track/2GQuP8ZrDoi38bwAbsyAtZ) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:14 | 2023-08-08 |  |
@@ -66,7 +67,7 @@
 | [Valió la Pena Equivocarme](https://open.spotify.com/track/3Tg6vd7RNktpxZCqp3sQjA) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Valió La Pena Equivocarme](https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm) | 3:46 | 2023-08-08 |  |
 | [Y Que Quede Claro](https://open.spotify.com/track/4ClMZDRwBmwGJKN6qQLVPY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:09 | 2023-08-08 |  |
 | [Ya Es Muy Tarde](https://open.spotify.com/track/64my6WOkrygcpXKMLxxpi9) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:01 | 2023-08-08 |  |
-| [Ya Me La Debías](https://open.spotify.com/track/2Qr69HxvmlfpxBbnqrEbOa) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ya Me La Debías](https://open.spotify.com/album/4pjscqb5KSeStDFgaQoNra) | 2:59 | 2023-10-10 |  |
+| [Ya Me La Debías](https://open.spotify.com/track/2Qr69HxvmlfpxBbnqrEbOa) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ya Me La Debías](https://open.spotify.com/album/4pjscqb5KSeStDFgaQoNra) | 2:59 | 2023-10-10 | 2024-02-03 |
 | [Ya No Te Buscaré](https://open.spotify.com/track/7LRYw74nztDptYIStswo9K) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:11 | 2023-08-08 |  |
 | [Ya No Volverás](https://open.spotify.com/track/2PPtCuRnzihlobecZDbVZe) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Para Ti Exclusivo \(En Vivo Desde Arandas Jalisco\)](https://open.spotify.com/album/4xZFqokyvpfFKHkHlSeePO) | 4:29 | 2023-11-10 |  |
 | [Ya Te Perdí La Fe](https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 2:27 | 2023-08-08 |  |

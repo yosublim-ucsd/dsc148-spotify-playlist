@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Reik y Ha\*Ash en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,974 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,012 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 74 | [Despeinada](https://open.spotify.com/track/61yj7aoeF4gQvk99auCIWz) | [Bala](https://open.spotify.com/artist/1KSyJ6T61RxbnR3ksp5Ehp) | [Despeinada](https://open.spotify.com/album/4oJTRn5A4d4gBEgRmvLS6A) | 3:29 |
 | 75 | [Una Canción Para Los Dos](https://open.spotify.com/track/17K6zR8IDwtwLhFHIrBYs4) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:33 |
 
-Snapshot ID: `MCxiNDExZTY4ODI5NDQzYTYzN2YyMDc2ZjU3M2QwNjA0NWQ4YWFkNWFl`
+Snapshot ID: `MCw4NTY2OTViODM1ZWM3MjM5MmE3NTM5YzI0MDRjNGE2MWI3ZGQ2MzBm`

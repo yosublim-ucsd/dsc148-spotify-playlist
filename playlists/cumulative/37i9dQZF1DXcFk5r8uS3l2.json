@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Marcus King",
+  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Lizz Wright",
   "name": "Blues Roots",
   "tracks": [
     {
@@ -224,7 +224,7 @@
       },
       "artists": [
         {
-          "name": "The War and Treaty",
+          "name": "The War And Treaty",
           "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 197426,
       "name": "Hands To Myself",
       "url": "https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD"
@@ -3340,7 +3340,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 223834,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/7EVUpwSsr1saF9Vc3lrvYY"
@@ -5545,6 +5545,24 @@
     },
     {
       "album": {
+        "name": "Things Is 'Bout Comin' My Way",
+        "url": "https://open.spotify.com/album/2xmpiYdM4H5iCW54Pw0f00"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216781,
+      "name": "Things Is 'Bout Comin' My Way",
+      "url": "https://open.spotify.com/track/0hankmoITw2Ujkm2YUvqRs"
+    },
+    {
+      "album": {
         "name": "Think I\u2019m In Love With You",
         "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
       },
@@ -6386,6 +6404,32 @@
       "duration_ms": 181546,
       "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
       "url": "https://open.spotify.com/track/4jSCSnMnIXnRbMPM0qLRVX"
+    },
+    {
+      "album": {
+        "name": "Your Love (feat. Meshell Ndegeocello & Brandee Younger)",
+        "url": "https://open.spotify.com/album/7BC4W4KBXXK7oBceZyXzB9"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209026,
+      "name": "Your Love (feat. Meshell Ndegeocello & Brandee Younger)",
+      "url": "https://open.spotify.com/track/7gxUpscvq72a3LTkCbZ4Df"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcFk5r8uS3l2"

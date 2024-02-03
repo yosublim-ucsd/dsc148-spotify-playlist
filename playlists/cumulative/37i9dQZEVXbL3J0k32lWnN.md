@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,363 songs - 2 day 23 hr 14 min
+1,364 songs - 2 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Alting, Altid](https://open.spotify.com/track/544G00CbV8gz0eqpeEAvhg) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [LÆNGE LEVE](https://open.spotify.com/album/1IHiXXZxuoJKJos1bcPTQ7) | 3:06 | 2023-01-28 | 2023-02-05 |
 | [Amen \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0Mrnt1YqVuW2bqmwu4VxDt) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:21 | 2023-10-07 | 2023-10-10 |
 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 | 2023-09-30 | 2023-10-05 |
-| [ANARCHY \- Radio Edit](https://open.spotify.com/track/7yISDabQTwkhyWCDnEJiuh) | [Lavern](https://open.spotify.com/artist/2qPnosDXSvEoVj6tzG7p4h), [Bonfire](https://open.spotify.com/artist/4lhUAM6MXDFVc5Veq225ww), [BABYNAPS](https://open.spotify.com/artist/79Vr18dF6qtEgWvQ5ZIlpQ), [djbasra](https://open.spotify.com/artist/3QWyLTlDBtGXjdCfuXfsZQ), [SWEDISH WIFE MAFFIA](https://open.spotify.com/artist/7aawB46SkOpdtTDK5gFQJe) | [ANARCHY](https://open.spotify.com/album/3HhI41WqIAWkCytVahKyVb) | 1:54 | 2024-02-01 |  |
+| [ANARCHY \- Radio Edit](https://open.spotify.com/track/7yISDabQTwkhyWCDnEJiuh) | [Lavern](https://open.spotify.com/artist/2qPnosDXSvEoVj6tzG7p4h), [Bonfire](https://open.spotify.com/artist/4lhUAM6MXDFVc5Veq225ww), [BABYNAPS](https://open.spotify.com/artist/79Vr18dF6qtEgWvQ5ZIlpQ), [djbasra](https://open.spotify.com/artist/3QWyLTlDBtGXjdCfuXfsZQ), [SWEDISH WIFE MAFFIA](https://open.spotify.com/artist/7aawB46SkOpdtTDK5gFQJe) | [ANARCHY](https://open.spotify.com/album/3HhI41WqIAWkCytVahKyVb) | 1:54 | 2024-02-01 | 2024-02-03 |
 | [Angel Numbers / Ten Toes](https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 5:06 | 2023-12-29 |  |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-03-14 | 2023-03-26 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2023-02-25 |
@@ -983,6 +983,7 @@
 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 | 2022-05-29 | 2022-06-12 |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-08-14 |  |
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2021-08-31 | 2021-09-05 |
+| [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-02-02 |  |
 | [Pray](https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Pray](https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I) | 2:26 | 2022-02-21 | 2022-02-28 |
 | [Privileged Rappers](https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:40 | 2022-11-05 | 2022-11-10 |
 | [Proletar \(Hvor Jeg Står\)](https://open.spotify.com/track/0TUDONwp6VdNqATBXgHZ8f) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg) | [Suspekt Worldwide](https://open.spotify.com/album/5Ng4OnFWSIHykMULfuRXn6) | 3:53 | 2023-09-16 | 2023-09-18 |

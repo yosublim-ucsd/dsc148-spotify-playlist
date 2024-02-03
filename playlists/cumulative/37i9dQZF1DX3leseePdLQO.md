@@ -2,9 +2,9 @@
 
 ### [Crema Pop](https://open.spotify.com/playlist/37i9dQZF1DX3leseePdLQO)
 
-> Pop para refrescarte los días, featuring RENEE.
+> Pop para refrescarte los días, featuring Mariangela.
 
-165 songs - 8 hr 17 min
+166 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A tu Lado](https://open.spotify.com/track/58aNiVH2Df87fuZdiyJFKc) | [Tres Dedos](https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF) | [A tu Lado](https://open.spotify.com/album/6KSyBe93O1zhmNkSqvJhMz) | 2:30 | 2023-09-15 |  |
 | [a tu manera](https://open.spotify.com/track/2AjqXajOx969ANhfnEaFeo) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:57 | 2023-04-28 | 2023-04-30 |
 | [Aceleré](https://open.spotify.com/track/0cZhddkRPufZYBkO4GxjZv) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [DARA](https://open.spotify.com/album/5VGyOaFFu2uXZJybipzjft) | 2:53 | 2023-10-27 |  |
+| [Acto Final](https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Sensible](https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ) | 3:36 | 2024-02-02 |  |
 | [Ajedrez](https://open.spotify.com/track/502C76In6ki3rUo47QP6pA) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ajedrez](https://open.spotify.com/album/0KrZrlCpxZQgw11uvAp3n4) | 3:28 | 2023-04-04 |  |
 | [Alguien Más](https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Alguien Más](https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj) | 2:25 | 2023-04-28 |  |
 | [Alguien Más](https://open.spotify.com/track/2KmMR2NuY9gjDdVXSyUJ9m) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Alguien Más](https://open.spotify.com/album/5sOAl2yXC33MCabAevDQqP) | 2:12 | 2023-08-25 |  |
@@ -63,7 +64,7 @@
 | [Emeycé](https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Emeycé](https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal) | 2:56 | 2023-04-04 |  |
 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 | 2023-09-15 |  |
 | [Espejo](https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Espejo](https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW) | 2:38 | 2023-10-27 |  |
-| [Está Cabron](https://open.spotify.com/track/25lNcYL6NRqbiRHkIlSrjU) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Está Cabron](https://open.spotify.com/album/3W7tjWiBtDIiiqgvnld5L3) | 2:24 | 2023-08-04 |  |
+| [Está Cabron](https://open.spotify.com/track/25lNcYL6NRqbiRHkIlSrjU) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Está Cabron](https://open.spotify.com/album/3W7tjWiBtDIiiqgvnld5L3) | 2:24 | 2023-08-04 | 2024-02-03 |
 | [Eva](https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 4:08 | 2023-04-04 |  |
 | [Fantasi](https://open.spotify.com/track/0r2PZjzpfFne09oljJZEU8) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:38 | 2023-04-04 |  |
 | [Fase De Patán](https://open.spotify.com/track/6zcJSq4x31DHjwIWUzGyjs) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Fase de Patán](https://open.spotify.com/album/1sD67oWrgWt8HTZFDObkbW) | 2:24 | 2023-08-18 | 2023-09-05 |

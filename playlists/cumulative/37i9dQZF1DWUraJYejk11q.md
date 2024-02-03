@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-253 songs - 19 hr 57 min
+254 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Chaos Energy](https://open.spotify.com/track/1ADoaoyKY78CnBvsq6DqFG) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Chaos Energy](https://open.spotify.com/album/2uEgm3sxH1gHPPHGcjvJXc) | 5:13 | 2022-06-08 | 2022-07-16 |
 | [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 | 2022-07-15 | 2022-09-22 |
 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 | 2022-04-29 |  |
+| [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 | 2024-02-02 |  |
 | [Cinétique \- Edit](https://open.spotify.com/track/1jRdRoJqx2s6v4T5VZM41C) | [Jinjé](https://open.spotify.com/artist/59ceK8A6RxzUQZF05aXezk) | [Cinétique](https://open.spotify.com/album/36j2hkJhjKKiGDu6IRT9Vr) | 4:00 | 2021-10-15 | 2022-01-20 |
 | [Circuitous](https://open.spotify.com/track/6vu6oVaFUJkHt49OeoaO3k) | [Afrikan Sciences](https://open.spotify.com/artist/4Ewz395zbkN9YjaRc10t0U) | [Circuitous](https://open.spotify.com/album/2zjSQpLovbXE8bUemBiOby) | 5:34 | 2023-06-01 | 2024-01-05 |
 | [Closer \- Daniel Avery Edit](https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Closer \(Daniel Avery Edit\)](https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G) | 4:06 | 2022-07-08 | 2023-12-24 |
@@ -63,7 +64,7 @@
 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 | 2022-01-11 | 2022-03-12 |
 | [Day By Day](https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC) | [Stack Effect](https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz) | [Pause](https://open.spotify.com/album/2hspcikJXpHWS7xeaKwvgf) | 4:49 | 2022-08-24 | 2023-03-29 |
 | [DAZED](https://open.spotify.com/track/4z4XTugxaVap8Ndp8QI5T7) | [Galaksit](https://open.spotify.com/artist/7xb6guCCpe8BhM0F62ah9X) | [DAZED](https://open.spotify.com/album/1mE4SkBA46imrI1TcLhhN6) | 2:12 | 2022-04-06 | 2022-09-22 |
-| [Desert Viper](https://open.spotify.com/track/07Ee8FQCrmxyseMqszOATP) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [Extensions](https://open.spotify.com/album/4NbNg6wkAtFk0Rv30UUvYN) | 4:12 | 2023-03-28 |  |
+| [Desert Viper](https://open.spotify.com/track/07Ee8FQCrmxyseMqszOATP) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [Extensions](https://open.spotify.com/album/4NbNg6wkAtFk0Rv30UUvYN) | 4:12 | 2023-03-28 | 2024-02-03 |
 | [Diamond Beach](https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Paranormal Phenomena – The Icelandic Expedition](https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup) | 3:04 | 2022-03-30 |  |
 | [Distant Thoughts](https://open.spotify.com/track/3ULyNETw72K1nR6tdRz76w) | [Justin Jet Zorbas](https://open.spotify.com/artist/10G9N5ABjyamTFBEAsquNs), [Inum](https://open.spotify.com/artist/3TAGwIg5m6pwHRuBMvtsup) | [Distant Thoughts](https://open.spotify.com/album/1Y2A4NGnjArQf9DLy3Unv2) | 2:27 | 2023-03-03 | 2023-11-16 |
 | [DKD](https://open.spotify.com/track/3M8CoZcFebNLowVqgYuahA) | [Club Winston](https://open.spotify.com/artist/7dxIJrKyeY2cAKq6ZUCN6r) | [SLUMP DKD TODDLER](https://open.spotify.com/album/0pux06CPiZYv13bDm5f4Iw) | 5:20 | 2021-10-15 | 2022-10-06 |

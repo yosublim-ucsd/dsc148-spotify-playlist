@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,177 likes - 83 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,406 likes - 83 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 10 | [Oh Klahoma](https://open.spotify.com/track/6SZwj6cjc8JQbkrr8cbIUn) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:05 |
 | 11 | [drowning](https://open.spotify.com/track/32xjgqHt76Q8sipEop3Bci) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning](https://open.spotify.com/album/5FNQDzhZFLwzKyEOwDlmTp) | 1:57 |
 | 12 | [I feel like I'm losing you](https://open.spotify.com/track/4aJcJzcgU9popOg5qnsGMX) | [SØINS](https://open.spotify.com/artist/59NQ59Ln72fh95XTQJcWEg) | [I feel like I'm losing you](https://open.spotify.com/album/5qw5BHflKSmlFw6Mr28aXA) | 2:22 |
-| 13 | [Old Doll](https://open.spotify.com/track/4QT4B0CphCD72sGSpEWqSC) | [Bluerra\-sai](https://open.spotify.com/artist/3WciAVM3DxjIWwV3aSugVa) | [Old Doll](https://open.spotify.com/album/6k2iT9zmaXLZ1YDCwxRGzz) | 1:39 |
+| 13 | [Old Doll](https://open.spotify.com/track/0437ehxh1bw3yjVpL8hQ4c) | [Bluerra\-sai](https://open.spotify.com/artist/3WciAVM3DxjIWwV3aSugVa) | [Old Doll](https://open.spotify.com/album/4m2Mq71cJqhWwQT2eJoKZH) | 1:39 |
 | 14 | [Goodnight Dad I Love You](https://open.spotify.com/track/013L1ZodWo9Ax2g9LejC9O) | [Wishing](https://open.spotify.com/artist/4SPlQqq2yxd4ynKRnkWqy7) | [None of This Was Your Fault](https://open.spotify.com/album/4daTdHnYUgzEWuMrOkLvvM) | 2:43 |
 | 15 | [Hidden In the Sand](https://open.spotify.com/track/0RjG5JmdOWXAR68dGlKBA5) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 1:52 |
 | 16 | [Fika](https://open.spotify.com/track/2cMCreuGNlEP5zzxXIMQS2) | [Unjaps](https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi) | [Isolated](https://open.spotify.com/album/2tchNCm4dsnBTu3KaXCQy0) | 3:18 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 82 | [Bye](https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 1:53 |
 | 83 | [Out](https://open.spotify.com/track/3XacRs7DmGzAb8auxz6Wnt) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [What We Do For Others](https://open.spotify.com/album/5k6G0HcMny4OCIIuwuVEJR) | 2:42 |
 
-Snapshot ID: `MCw0NTliODc2ZDEzNjdiNTM5NmE5ZTVhYWQ1MWJhZWI2OGIzZWRmZjY1`
+Snapshot ID: `MCw1NzY3MmIzNDNhZWRlNzBjOThkYzk2YTIwZTAxYmZjMDUyM2Q2ZmEx`

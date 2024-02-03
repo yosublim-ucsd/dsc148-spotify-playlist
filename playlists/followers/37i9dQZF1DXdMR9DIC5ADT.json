@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 5927,
+  "2024-02-03": 5949,
   "date_first_scraped": "2023-03-19",
   "description": "\u30d5\u30a7\u30b9\u95a2\u4fc2\u8005\u306e\u7686\u69d8\u3001Let's book them! \u3044\u307e\u8074\u304d\u305f\u3044\u3001\u6ce8\u76ee\u306e\u6d0b\u697d\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\uff01 cover: Paul Russell",
   "name": "The WISHLIST: \u6ce8\u76ee\u306e\u6d0b\u697d\u7279\u96c6",
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 190525,
       "name": "Coming Home Isn't Easy (feat. Phum Viphurit)",
       "url": "https://open.spotify.com/track/3BcNAUgEbT22O0K0DkUGFi"
@@ -1667,7 +1667,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 150720,
       "name": "eyes don't lie",
       "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
@@ -4721,6 +4721,32 @@
       "duration_ms": 216946,
       "name": "Stay For Something",
       "url": "https://open.spotify.com/track/5tEREzW79U8O3FIkrGyRNW"
+    },
+    {
+      "album": {
+        "name": "STeAKFACe** \u1559(\u21c0\u2038\u21bc\u2036)\u1557",
+        "url": "https://open.spotify.com/album/5VySVRfSsU377GubJd5Sfy"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        },
+        {
+          "name": "Masiwei",
+          "url": "https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195268,
+      "name": "STeAKFACe** \u1559(\u21c0\u2038\u21bc\u2036)\u1557",
+      "url": "https://open.spotify.com/track/7KATT8Q9RnpLz8w7n6oJdG"
     },
     {
       "album": {

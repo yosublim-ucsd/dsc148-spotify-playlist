@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,983 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,857 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 38 | [The Wolves \(Act I and II\)](https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 5:22 |
 | 39 | [Homegrown](https://open.spotify.com/track/574uSIfe7tTBLCFjN38vij) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A) | 4:02 |
 | 40 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 |
-| 41 | [Thirteen](https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Thirteen](https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg) | 3:04 |
-| 42 | [El Búho](https://open.spotify.com/track/0P52wuYOxOXkRioz4hFYzW) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Colder Heavens \- EP](https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA) | 3:51 |
+| 41 | [El Búho](https://open.spotify.com/track/0P52wuYOxOXkRioz4hFYzW) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Colder Heavens \- EP](https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA) | 3:51 |
+| 42 | [Thirteen](https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Thirteen](https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg) | 3:04 |
 | 43 | [Warm Foothills](https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 3:45 |
 | 44 | [Silvery](https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 3:52 |
 | 45 | [Howl](https://open.spotify.com/track/3q0osq156ES7MHz4PjMOBp) | [Jake Houlsby](https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3) | [Howl](https://open.spotify.com/album/4m13DJDEVpxD0emJ0glFyQ) | 3:38 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 69 | [Afterglow](https://open.spotify.com/track/4xRDWaPf1AuMJo9sytQU0w) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS) | [Afterglow](https://open.spotify.com/album/6t1lPagW4j5xy89gEYEyXy) | 3:10 |
 | 70 | [Picture of You](https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Picture of You \(feat\. Hayden Calnin\)](https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4) | 4:21 |
 | 71 | [Bridge](https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [Open Season \(Deluxe Edition\)](https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw) | 2:30 |
-| 72 | [Splintered](https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 4:10 |
-| 73 | [Awake Me](https://open.spotify.com/track/4H9aMftedBe0UEHv0IXYgQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 4:17 |
+| 72 | [Awake Me](https://open.spotify.com/track/4H9aMftedBe0UEHv0IXYgQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 4:17 |
+| 73 | [Splintered](https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 4:10 |
 | 74 | [Hunger Of The Pine \- Jody Wisternoff & James Grant Remix](https://open.spotify.com/track/6jrztnYIBYFo121nj0Oajx) | [Vaults](https://open.spotify.com/artist/0TytASn0kOZkCpjYTrXsBt), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Anjunadeep 08](https://open.spotify.com/album/7ckNwltWINt80QWoGjN5Yy) | 3:34 |
 | 75 | [apathy](https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 3:09 |
 | 76 | [Bones](https://open.spotify.com/track/6GpR9XtEpuKWMA3onpPkOP) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Bones](https://open.spotify.com/album/4FkVOW9SXcaVtok2YecpkU) | 3:50 |
@@ -88,15 +88,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 78 | [Seven Hours](https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [For The Company](https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2) | 3:41 |
 | 79 | [The Grain](https://open.spotify.com/track/24At1pkaBi4P9PsbeeUttf) | [Black Oak](https://open.spotify.com/artist/3PMflYpdvhwPDNea1MW5Wh) | [Equinox](https://open.spotify.com/album/5QQVaIp7B4zABTIaEECseo) | 3:29 |
 | 80 | [Melatonin \(Unplugged\)](https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Melatonin \(Unplugged\)](https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy) | 5:25 |
-| 81 | [Do It All Again](https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Do It All Again](https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1) | 3:19 |
-| 82 | [Never Let Me Go](https://open.spotify.com/track/0GxvJu5SzVMtZIpsUv6NjW) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Never Let Me Go](https://open.spotify.com/album/49K2MThrpYALEgaFoqraaF) | 4:28 |
+| 81 | [Never Let Me Go](https://open.spotify.com/track/0GxvJu5SzVMtZIpsUv6NjW) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Never Let Me Go](https://open.spotify.com/album/49K2MThrpYALEgaFoqraaF) | 4:28 |
+| 82 | [Do It All Again](https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Do It All Again](https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1) | 3:19 |
 | 83 | [Lost Boy](https://open.spotify.com/track/0VSd1i7BKn1dI5cTmpqyEV) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Fall Down \- EP](https://open.spotify.com/album/6vxcAKC5bok8gUQjWO6Ejv) | 0:53 |
 | 84 | [Lost](https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Two](https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ) | 3:56 |
-| 85 | [Up Here North](https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW) | [Lake Jons](https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB) | [Lake Jons](https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1) | 3:04 |
-| 86 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 |
+| 85 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 |
+| 86 | [Up Here North](https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW) | [Lake Jons](https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB) | [Lake Jons](https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1) | 3:04 |
 | 87 | [Branscombe](https://open.spotify.com/track/5BHYShH4OT7lREGxsyYcsP) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx) | [Branscombe](https://open.spotify.com/album/6vO858dUxPCg994jjTGaBP) | 7:19 |
-| 88 | [Poison to You](https://open.spotify.com/track/2gespzBmNAR9mpbenZdPlH) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Grapefruit Season](https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z) | 3:53 |
-| 89 | [Golden](https://open.spotify.com/track/5nL6QICzZuoVfxLBI9UTh5) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Golden](https://open.spotify.com/album/7GpRl4yQJU2xDgOHSy1R9z) | 3:19 |
+| 88 | [Golden](https://open.spotify.com/track/5nL6QICzZuoVfxLBI9UTh5) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Golden](https://open.spotify.com/album/7GpRl4yQJU2xDgOHSy1R9z) | 3:19 |
+| 89 | [Poison to You](https://open.spotify.com/track/2gespzBmNAR9mpbenZdPlH) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Grapefruit Season](https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z) | 3:53 |
 | 90 | [Party Dress](https://open.spotify.com/track/0N2cfvsgB5FiMwHBmheXu9) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/0SO1c2tJd1cdbNlxM2W4sY) | 3:14 |
 | 91 | [The Only Thing I Fear](https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Higher Places](https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK) | 3:30 |
 | 92 | [Pictures](https://open.spotify.com/track/2rahZcwdQ3zQU6AEgXWV6G) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [A Book Of Flying](https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 99 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 |
 | 100 | [Horizons](https://open.spotify.com/track/6q2VGul8D4SqtqoXePuq6j) | [Xavia](https://open.spotify.com/artist/3nryYEIQnCTnBZ8OPmOd6i) | [Mountain Whisper](https://open.spotify.com/album/6ZaqWexNzUOpf4Dn1CXNq0) | 4:34 |
 
-Snapshot ID: `MCxmZmI0YWM0ZGQyOWMxOGUxM2YzMzBjYzk2N2I5YTg5YmVmZTBmOWFj`
+Snapshot ID: `MCwzYjRhMjBmZTQ2YjUxZmMxZTY1ODliMTg0NDQzNDlmZDAyYjgxZWJj`

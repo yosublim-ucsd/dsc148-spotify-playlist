@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 
 > Diese Beats machen garantiert gute Laune!
 
-[Spotify](https://open.spotify.com/user/spotify) - 975,811 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 975,775 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 | 57 | [Weekend \(Party, Sleep, Repeat\)](https://open.spotify.com/track/5066WzFaeJhqmQmKjBmrr6) | [Mark Mendy](https://open.spotify.com/artist/7AgS2ycsLUG0NPTY1AAboT), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [Weekend \(Party, Sleep, Repeat\)](https://open.spotify.com/album/2rBpiaXs2GC7mPr6ckxfi3) | 2:18 |
 | 58 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 |
 | 59 | [Saturday/Sunday](https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Saturday/Sunday](https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas) | 2:46 |
-| 60 | [One to Make Her Happy](https://open.spotify.com/track/3U0qZ6OQl4YbPYa6Ks48oD) | [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI) | [One to Make Her Happy](https://open.spotify.com/album/2jehLd2YXhvP1k8R7BiqK7) | 2:42 |
+| 60 | [Three Little Birds](https://open.spotify.com/track/1EytZ5aKjaGDsk8ujrFWoV) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC) | [Three Little Birds](https://open.spotify.com/album/7AulSlkspgPvEqJmjsUqXD) | 2:36 |
 
-Snapshot ID: `MCwyNzdkYTFlOTMwOWJkMzljZjgzOTYzZWI1NTU3ODIzZjAyZGE1NTA1`
+Snapshot ID: `MCw3NjA0ZWRiNTVkMmI5NmNmOWRmNzkxNDZkODIyODE4MDJkNTM0M2Y3`

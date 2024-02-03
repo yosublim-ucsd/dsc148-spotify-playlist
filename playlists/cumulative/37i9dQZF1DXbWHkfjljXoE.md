@@ -2,7 +2,7 @@
 
 ### [Power To The People](https://open.spotify.com/playlist/37i9dQZF1DXbWHkfjljXoE)
 
-> Remembering the voices that have always spoken truth to power.
+> Melodies of the movement.
 
 104 songs - 8 hr 33 min
 

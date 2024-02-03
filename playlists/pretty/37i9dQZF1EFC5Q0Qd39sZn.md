@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,420 likes - 504 songs - 1 day 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,427 likes - 504 songs - 1 day 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -311,8 +311,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 301 | [Listen With Your Heart](https://open.spotify.com/track/1BsIcp6FTuM8jSt4NYe5TW) | [Casey Donovan](https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X) | [For You](https://open.spotify.com/album/1uNMbDXBQrmYnsVpJYQV2H) | 4:01 |
 | 302 | [You Can't Fight Fate](https://open.spotify.com/track/0AHjC8WFFv0jsEqgiW03Ui) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:41 |
 | 303 | [One Day You Will](https://open.spotify.com/track/40Z7VBIbGq5TBGr8Ueloue) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/6kjhS8hUeK2rPeqZVhdY0M) | 4:13 |
-| 304 | [Lonely Beat Of My Heart](https://open.spotify.com/track/71qwV7NMb0cFnH4Z9oahzb) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [Rock Gems](https://open.spotify.com/album/2eyyZaY5wXNQyzzKMWRIqa) | 4:14 |
-| 305 | [I See You In A Different Light](https://open.spotify.com/track/3ZJSit2Z7fKbtHnNA1Fnqv) | [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo), [Joel Hailey](https://open.spotify.com/artist/6AnUMBsjIzJ5PPXEqE3d0v) | [This Moment Is Mine](https://open.spotify.com/album/3tkdUlOR0x8lYElhaQUUbb) | 4:22 |
+| 304 | [I See You In A Different Light](https://open.spotify.com/track/3ZJSit2Z7fKbtHnNA1Fnqv) | [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo), [Joel Hailey](https://open.spotify.com/artist/6AnUMBsjIzJ5PPXEqE3d0v) | [This Moment Is Mine](https://open.spotify.com/album/3tkdUlOR0x8lYElhaQUUbb) | 4:22 |
+| 305 | [Lonely Beat Of My Heart](https://open.spotify.com/track/71qwV7NMb0cFnH4Z9oahzb) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [Rock Gems](https://open.spotify.com/album/2eyyZaY5wXNQyzzKMWRIqa) | 4:14 |
 | 306 | [What If](https://open.spotify.com/track/6v4Scn32ULlyEw5mwpW6gV) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [What If](https://open.spotify.com/album/03ETxSfODVuegtRagAhI16) | 4:03 |
 | 307 | [It Wouldn't Be Love](https://open.spotify.com/track/4nhEYKDRwJC9klDf1KPEQP) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Rev It Up!](https://open.spotify.com/album/3ojiLMvJpANQKvzSO7Jhuj) | 4:42 |
 | 308 | [My Commitment](https://open.spotify.com/track/7DJlxF3J4wEGyjWdoSOSJp) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [Open Road](https://open.spotify.com/album/5Gw7fOOrsnB0ZeKyghATAX) | 4:47 |
@@ -513,4 +513,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 503 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 504 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `Mjg0NDczMzAsMDAwMDAwMDBjMDVkYzUxZDc5N2I5N2M2MzA3MjU2ZmE0MjhjZjA5YQ==`
+Snapshot ID: `Mjg0NDg3NzAsMDAwMDAwMDAzMTcyZWM1MDYwMzljMDE1NjhkNDMzMDQwMzc1YjFjZQ==`

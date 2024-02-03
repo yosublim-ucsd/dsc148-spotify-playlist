@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 
 > Les plus grands hits français des années 2000\. Photo : Diam's
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,224 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,337 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 | 59 | [Mon coeur, mon amour](https://open.spotify.com/track/0oWAz88alrwkNvnfaRokhn) | [Anaïs](https://open.spotify.com/artist/6uwKWDKLDlM0PXvXQ97sRT) | [The Cheap Show](https://open.spotify.com/album/3JnzpVc0Wx4c46enGLAHi7) | 4:23 |
 | 60 | [Les voyages en train](https://open.spotify.com/track/1fhKFixA1BKke1I2evNUxQ) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [Midi 20](https://open.spotify.com/album/3KLf3aJPySlGsTYGdkWPbP) | 2:51 |
 
-Snapshot ID: `MCxiNjUwZTYzOWQwMzE0ZGQ5MjM3NDBkMmVmMmU3ZDEyZmFhOTUyNjUw`
+Snapshot ID: `MCwxNTZlYzBhYTQ4NTdmOGEzYThjZWUxYjhjMzIzMDdmOThmNDcyZmM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites and new discoveries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,951 likes - 125 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,995 likes - 125 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 42 | [Exscape](https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Exscape](https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b) | 2:22 |
 | 43 | [Pieces](https://open.spotify.com/track/2DHDuADAHoUW6n0z80RLQF) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Black Bear](https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka) | 4:01 |
 | 44 | [We’re All Gonna Die \(with Noah Kahan\)](https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [We’re All Gonna Die](https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4) | 2:59 |
-| 45 | [Easier](https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 4:32 |
-| 46 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 |
+| 45 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 |
+| 46 | [Easier](https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 4:32 |
 | 47 | [Alone in the Mountains](https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Alone in the Mountains](https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4) | 3:16 |
 | 48 | [Electric Indigo](https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [twelvefour](https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t) | 3:43 |
 | 49 | [It Won't Always Be Like This](https://open.spotify.com/track/61YcJKRn2y1si5jGc7LUIN) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/5TCW5XPhG21i4XXfcYJVDg) | 4:04 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 92 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 |
 | 93 | [Darlin'](https://open.spotify.com/track/4Ppc2CyPzXObEOLgDkP5ZR) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Magic Valley](https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL) | 5:00 |
 | 94 | [Just Say When \- Version 2.0](https://open.spotify.com/track/1D1yuEDp0EqvX1yFxWqeuS) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/7LkSukso0Smyx9sMGl8R2d) | 3:44 |
-| 95 | [Something Here](https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Days We Had](https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r) | 4:05 |
-| 96 | [It's Too Much](https://open.spotify.com/track/3kr9H1n5OHezIhj8oA9gOX) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I Don't Think I Can Do This Anymore](https://open.spotify.com/album/2Kq0O56yHIBpLJ0Oc2FjGe) | 3:56 |
+| 95 | [It's Too Much](https://open.spotify.com/track/3kr9H1n5OHezIhj8oA9gOX) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I Don't Think I Can Do This Anymore](https://open.spotify.com/album/2Kq0O56yHIBpLJ0Oc2FjGe) | 3:56 |
+| 96 | [Something Here](https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Days We Had](https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r) | 4:05 |
 | 97 | [Cry Baby](https://open.spotify.com/track/3epaLFj2ClmXnvcuxHsih5) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Never Had to Leave](https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7) | 3:41 |
 | 98 | [Like A Stone \(feat\. Tom Morello\) \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Spotify Singles](https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU) | 4:19 |
 | 99 | [Jungle \(Radio Edit\)](https://open.spotify.com/track/7dEGgbP5Ld5mQfbpiwDjoe) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle \(Radio Edit\)](https://open.spotify.com/album/0O6n01xArsUl4MTRAwTxLX) | 3:56 |
@@ -129,9 +129,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 119 | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4), [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW) | 3:13 |
 | 120 | [Can You Feel The Sun](https://open.spotify.com/track/3kzDhEbPsFlF8xu673UVZr) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Can You Feel The Sun](https://open.spotify.com/album/0P4sHlkN6qkLxWAcEKYqPx) | 4:46 |
 | 121 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 |
-| 122 | [Back In My Head Again](https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0) | [Levi Evans](https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX) | [Back In My Head Again](https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge) | 2:54 |
-| 123 | [Turn Your Love](https://open.spotify.com/track/2lCTLnaQOc73eG5UFls7QE) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Sun Leads Me On](https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK) | 4:01 |
-| 124 | [Smoke](https://open.spotify.com/track/6rTZiRHLPidlAirSd4yNd8) | [Mosa Wild](https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc) | [Talking in Circles](https://open.spotify.com/album/78JA1aRMAnFMj6AyBnp7Kx) | 3:47 |
+| 122 | [Turn Your Love](https://open.spotify.com/track/2lCTLnaQOc73eG5UFls7QE) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Sun Leads Me On](https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK) | 4:01 |
+| 123 | [Smoke](https://open.spotify.com/track/6rTZiRHLPidlAirSd4yNd8) | [Mosa Wild](https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc) | [Talking in Circles](https://open.spotify.com/album/78JA1aRMAnFMj6AyBnp7Kx) | 3:47 |
+| 124 | [Back In My Head Again](https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0) | [Levi Evans](https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX) | [Back In My Head Again](https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge) | 2:54 |
 | 125 | [Better](https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Everything Will Be Ok Eventually](https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA) | 4:54 |
 
-Snapshot ID: `MCw5NWRmYTczZmZmYmU1OTc1ODE2NDRkYmFiN2Q2YzEzZDQwMzllMDk0`
+Snapshot ID: `MCwzZGM0ODZkNDgwN2Q1MDRkYjk3ODQ4OTE5NjcyMGZjMmY5YTIzMDE1`

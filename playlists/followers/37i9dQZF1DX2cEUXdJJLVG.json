@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 74251,
+  "2024-02-03": 74263,
   "date_first_scraped": "2022-09-15",
   "description": "Funky & groovy tunes for poolside chilling.",
   "name": "Poolside Grooves",
@@ -279,6 +279,28 @@
       "duration_ms": 284606,
       "name": "All Along - Kaytranada Remix",
       "url": "https://open.spotify.com/track/7wFcrixaohlV2kn5iDGORv"
+    },
+    {
+      "album": {
+        "name": "All for You",
+        "url": "https://open.spotify.com/album/7Ckd5Akndk0AC2HAhbQgdT"
+      },
+      "artists": [
+        {
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        },
+        {
+          "name": "WAYNE SNOW",
+          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253072,
+      "name": "All for You",
+      "url": "https://open.spotify.com/track/1aHiADbmDJi1ukmZghtvIn"
     },
     {
       "album": {
@@ -1011,7 +1033,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 175837,
       "name": "Chucks (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/3LCZyDlOXrGPzTESP4PqXt"
@@ -1877,7 +1899,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 217774,
       "name": "Free My People (feat. Simmy & Kid Cruise)",
       "url": "https://open.spotify.com/track/4T4YHAdlrEzL5Jsb1XnbGA"
@@ -2135,7 +2157,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 189357,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG"
@@ -2655,7 +2677,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 596157,
       "name": "I'm A Blessed Man",
       "url": "https://open.spotify.com/track/4qJZP0xc9qgitasa1U1AzA"
@@ -3379,7 +3401,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 187745,
       "name": "May (Late Night Version)",
       "url": "https://open.spotify.com/track/0jGESyKIfEIdK34TpDpkJZ"
@@ -3745,7 +3767,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 201308,
       "name": "No Pressure",
       "url": "https://open.spotify.com/track/30YcRhbM8ChTRp9ocwxCQh"
@@ -3833,7 +3855,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 217601,
       "name": "Not so Different - Edit",
       "url": "https://open.spotify.com/track/6UPJtnnTuJz8MJyZTL32xs"
@@ -3997,7 +4019,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 236167,
       "name": "ophelie",
       "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
@@ -4239,7 +4261,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 200000,
       "name": "philadelphia",
       "url": "https://open.spotify.com/track/7n1SLI92zzCUvAdBx6flyU"
@@ -4355,7 +4377,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 161590,
       "name": "POOLSIDE",
       "url": "https://open.spotify.com/track/0xlWwwUYRWSbCRfo2ouHPJ"
@@ -4512,6 +4534,28 @@
     },
     {
       "album": {
+        "name": "Re-Up",
+        "url": "https://open.spotify.com/album/4oGuEHTCrs3ZAAL4yzaQEH"
+      },
+      "artists": [
+        {
+          "name": "Maydien",
+          "url": "https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y"
+        },
+        {
+          "name": "Mitchell Yard",
+          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199792,
+      "name": "Re-Up",
+      "url": "https://open.spotify.com/track/7yThFb95n51KWFbwbfb3P0"
+    },
+    {
+      "album": {
         "name": "Relax My Eyes",
         "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
       },
@@ -4527,7 +4571,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 192150,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
@@ -5115,7 +5159,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 151388,
       "name": "Softly - Cuppy Remix",
       "url": "https://open.spotify.com/track/2APuTWMAHD8Co32wiLciyL"
@@ -5331,7 +5375,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 229765,
       "name": "STAY UP",
       "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
@@ -5665,7 +5709,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 191778,
       "name": "TEOU",
       "url": "https://open.spotify.com/track/1EbHCTTWGsw3ZcAhp6sjSr"

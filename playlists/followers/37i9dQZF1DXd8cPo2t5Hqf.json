@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 341784,
+  "2024-02-03": 341927,
   "date_first_scraped": "2022-06-10",
   "description": "Enjoy 10 years of music from HATSUNE MIKU \"Project DIVA\" series/ \u521d\u97f3\u30df\u30af\"Project DIVA\"\u30b7\u30ea\u30fc\u30ba\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002 \u00a9 SEGA / \u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
   "name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2021-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 178941,
       "name": "Streaming Heart",
       "url": "https://open.spotify.com/track/28DyuhrsEP2mBlAVSTJPBg"
@@ -2417,7 +2417,7 @@
       ],
       "date_added": "2021-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 206440,
       "name": "\u30d2\u30d0\u30ca -Reloaded-",
       "url": "https://open.spotify.com/track/3g2jMbl3XTP0k0cYb5rN6p"

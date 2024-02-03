@@ -3641,6 +3641,24 @@
     },
     {
       "album": {
+        "name": "Oh No :: He Said What?",
+        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228138,
+      "name": "Oh No :: He Said What?",
+      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
+    },
+    {
+      "album": {
         "name": "One + One",
         "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
       },
@@ -4638,7 +4656,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 178318,
       "name": "Take the Ride",
       "url": "https://open.spotify.com/track/2jCiOgOBe4U3OCk3OQXGVC"

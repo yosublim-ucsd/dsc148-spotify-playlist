@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The best and latest rock and alternative. Cover: Aysanabee, Raye Zaragoza",
+  "description": "The best and latest rock and alternative. Cover: The Last Dinner Party",
   "name": "New Rock Music",
   "tracks": [
     {
@@ -378,7 +378,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 213817,
       "name": "Dial Drunk",
       "url": "https://open.spotify.com/track/28iuT1dYxVCazkNrFoSahf"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 245648,
       "name": "I Won\u2019t Run",
       "url": "https://open.spotify.com/track/1HrOEzhY9igRiYqCRQbEyA"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 267906,
       "name": "If You\u2019re Gonna Break My Heart",
       "url": "https://open.spotify.com/track/2UdLLIJygjz2yiOa3GVMV0"
@@ -923,6 +923,28 @@
     },
     {
       "album": {
+        "name": "Northern Attitude (with Hozier)",
+        "url": "https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267256,
+      "name": "Northern Attitude (with Hozier)",
+      "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"
+    },
+    {
+      "album": {
         "name": "Nosebleeds",
         "url": "https://open.spotify.com/album/1OgH6tYqGQ2K7dTFzA0TcN"
       },
@@ -1193,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "S!CK",
+        "url": "https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192734,
+      "name": "S!CK",
+      "url": "https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB"
+    },
+    {
+      "album": {
         "name": "Sad Sugar",
         "url": "https://open.spotify.com/album/5OvMdAdEOoSY2W6OKyjHBn"
       },
@@ -1460,7 +1500,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 186270,
       "name": "The American Dream Is Killing Me",
       "url": "https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s"
@@ -1521,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206571,
+      "name": "The Feminine Urge",
+      "url": "https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc"
+    },
+    {
+      "album": {
         "name": "The Freedom to Fuck Off",
         "url": "https://open.spotify.com/album/2vym6dm3afTUtwAj48681k"
       },
@@ -1550,7 +1608,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 262776,
       "name": "The General",
       "url": "https://open.spotify.com/track/4kXbOjC3XfBpFR3zbWbHZv"
@@ -1705,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "How Have You Been?",
+        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "Under Your Wings",
+      "url": "https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS"
+    },
+    {
+      "album": {
         "name": "Phantom Power (Deluxe)",
         "url": "https://open.spotify.com/album/1HSX49MRRoXiT8DCN2xTet"
       },
@@ -1796,6 +1872,24 @@
       "duration_ms": 300213,
       "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH"
+    },
+    {
+      "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253026,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw"
     },
     {
       "album": {

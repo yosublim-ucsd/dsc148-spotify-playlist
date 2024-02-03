@@ -4,7 +4,7 @@
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-133 songs - 5 hr 19 min
+137 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Ay Cabrón](https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Ay Cabrón](https://open.spotify.com/album/2w9ZD90QY8FBfKVUEQh3X9) | 1:37 | 2023-10-09 |  |
 | [Barrio](https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc) | [BRXWS](https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Barrio](https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS) | 2:05 | 2023-05-05 |  |
 | [being honest](https://open.spotify.com/track/5K4GGvQAgG8vNM0UNCWVBI) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [being honest](https://open.spotify.com/album/6gUJp3K6E84oj4GxS1U43n) | 2:43 | 2023-12-22 |  |
-| [Better Off Alone](https://open.spotify.com/track/3w5U0L7t320RdJnkO2gZU5) | [Lightfoot](https://open.spotify.com/artist/4hKUEllZNA2iRQ8J5P1lpL) | [Terra Incognita](https://open.spotify.com/album/2HE2I2GlIegVhwEMFLgMz5) | 2:12 | 2023-05-05 |  |
+| [Better Off Alone](https://open.spotify.com/track/3w5U0L7t320RdJnkO2gZU5) | [Lightfoot](https://open.spotify.com/artist/4hKUEllZNA2iRQ8J5P1lpL) | [Terra Incognita](https://open.spotify.com/album/2HE2I2GlIegVhwEMFLgMz5) | 2:12 | 2023-05-05 | 2024-02-03 |
 | [Bloom](https://open.spotify.com/track/7nVf8L0WkgqecsJ0BcEj0a) | [Adbeel](https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj) | [Bloom](https://open.spotify.com/album/6DNFbu726NR7u4pWdZoAjf) | 2:15 | 2023-05-05 |  |
 | [Bolerodilla](https://open.spotify.com/track/0NpP5A5umjhW2o8XiclxA9) | [Pere George](https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF) | [El Día Más Corto](https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF) | 3:13 | 2023-05-05 |  |
 | [Breeze](https://open.spotify.com/track/2gQIvqNyPgHhYikdasHcKz) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8) | [Breeze](https://open.spotify.com/album/1wMQXGKSXttqDFcdl89t6U) | 1:53 | 2023-05-05 |  |
@@ -38,7 +38,7 @@
 | [Chupacabras](https://open.spotify.com/track/2nWORwmocK5bMkgwDTPhyd) | [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718), [Suerte Lo\-Fi](https://open.spotify.com/artist/2XZY2dx8EPrdxOXfNj1tfX) | [Chupacabras](https://open.spotify.com/album/2V9cxrxeCsfwFmXydznu2B) | 1:43 | 2023-10-20 |  |
 | [como los niños](https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [como los niños](https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz) | 2:30 | 2023-05-05 |  |
 | [Conchitas](https://open.spotify.com/track/2aNOrwggEgb6fh7cIq51A7) | [Camosmic](https://open.spotify.com/artist/4O3l4yOYCNl3qerZFlsbae) | [Conchitas](https://open.spotify.com/album/6uqdZDw04CVlIQVYal9tK5) | 2:29 | 2023-05-05 |  |
-| [Construction In The Rain](https://open.spotify.com/track/69wCguC1RADMeZ0wB03JKy) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [Oceanside](https://open.spotify.com/album/6uYOyysygXuuwMtE13hftg) | 4:23 | 2023-05-05 |  |
+| [Construction In The Rain](https://open.spotify.com/track/69wCguC1RADMeZ0wB03JKy) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [Oceanside](https://open.spotify.com/album/6uYOyysygXuuwMtE13hftg) | 4:23 | 2023-05-05 | 2024-02-03 |
 | [Copihue](https://open.spotify.com/track/0cx4EjL0G6erSbMOpECbvR) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Copihue](https://open.spotify.com/album/6FY1jYE3Fv2Zwvw8j5XhDR) | 2:37 | 2023-05-05 |  |
 | [crying](https://open.spotify.com/track/2QRnX5AclVqGgZQEjTUJxq) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [crying](https://open.spotify.com/album/25oe50MS3LDAeoix2UdYZZ) | 2:12 | 2023-10-09 | 2024-01-30 |
 | [Cumbia Don Juan](https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Cumbia Don Juan](https://open.spotify.com/album/2MlGXLf3WETeNe9W2xfFX0) | 2:14 | 2023-05-05 |  |
@@ -56,7 +56,9 @@
 | [En el Tianguis Lo\-Fi](https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw) | [Bandido Beat](https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL) | [En el Tianguis Lo\-Fi](https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF) | 5:19 | 2023-05-05 |  |
 | [Erick](https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [Erick](https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL) | 2:52 | 2023-05-05 |  |
 | [Extraños \(Strangers\)](https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Ocaso Sin Fin](https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz) | 1:51 | 2023-05-05 |  |
+| [Far from Home](https://open.spotify.com/track/5XoMpkkOf8BtXCQgjAVfOM) | [Gagdropers](https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf) | [Far from Home](https://open.spotify.com/album/7kzDzbLW70uIRk9ghYzJY6) | 2:00 | 2024-02-02 |  |
 | [find me](https://open.spotify.com/track/5qI8YB7bbbWkTh65Jh70vX) | [Shy Guy](https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR) | [find me](https://open.spotify.com/album/4fax9eSjZUijcXqMDfCxEd) | 2:08 | 2023-11-17 |  |
+| [Free Soul](https://open.spotify.com/track/0XCN15yrRrPnyru5fGxmDI) | [MoonCreek](https://open.spotify.com/artist/5vojozk9HWm8gMdBoitA8F), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Free Soul](https://open.spotify.com/album/6V2Its6p93Xm6ebPjox16s) | 2:27 | 2024-02-02 |  |
 | [garra de leon](https://open.spotify.com/track/4gfdPZgxnRawkEpTDthXOX) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [garra de leon](https://open.spotify.com/album/7CclyjtDDQtLblH4Wxadbw) | 2:49 | 2023-05-16 | 2024-01-12 |
 | [Good things take time](https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Good things take time](https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL) | 1:39 | 2023-05-05 |  |
 | [Géminis](https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Géminis](https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm) | 3:17 | 2023-05-05 |  |
@@ -106,7 +108,7 @@
 | [Mirrors](https://open.spotify.com/track/0oqW0VCHqp7l7w2oxIkXVG) | [Jav Cast](https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj) | [Mirrors](https://open.spotify.com/album/4fbEwFpY5oaFqO8SK5JHuf) | 2:24 | 2024-01-29 |  |
 | [Moonlight Juice](https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX) | [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718), [Shetafacker](https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6) | [Moonlight Juice](https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5) | 2:27 | 2023-05-05 |  |
 | [Nadie sabe nada de nadie](https://open.spotify.com/track/7u5CsOA4Kt5d6W5pcw9wm9) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Nadie sabe nada de nadie](https://open.spotify.com/album/3hF6j49t457n99eKivIoUE) | 2:59 | 2023-05-05 |  |
-| [nefelibata](https://open.spotify.com/track/2kQkOf9qQ7s3Kp1FvIJrUH) | [SUNNO](https://open.spotify.com/artist/54978NQ8Y8mWfh4PEriZtq) | [nefelibata](https://open.spotify.com/album/6ibp9CY7NIxLPWbgSXZGiR) | 2:13 | 2023-05-05 |  |
+| [nefelibata](https://open.spotify.com/track/2kQkOf9qQ7s3Kp1FvIJrUH) | [SUNNO](https://open.spotify.com/artist/54978NQ8Y8mWfh4PEriZtq) | [nefelibata](https://open.spotify.com/album/6ibp9CY7NIxLPWbgSXZGiR) | 2:13 | 2023-05-05 | 2024-02-03 |
 | [New Home](https://open.spotify.com/track/5KKQG2TeOKq7iOEjMkOUVu) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [New Home](https://open.spotify.com/album/0A6MhfkctyoEnqlnkamG18) | 2:12 | 2023-05-05 |  |
 | [Noche En México](https://open.spotify.com/track/0qzQjKgvQHDClS2rs4iRG6) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [El Día Más Largo](https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj) | 1:46 | 2023-05-05 | 2023-10-21 |
 | [Nos Usamos](https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Nos Usamos](https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND) | 4:29 | 2023-05-05 |  |
@@ -126,6 +128,8 @@
 | [Shiny](https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Shiny](https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi) | 2:09 | 2023-05-05 |  |
 | [simbiosis](https://open.spotify.com/track/4jhLp2tTaDgPTpUL0EyNjp) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [simbiosis](https://open.spotify.com/album/1ojXjQt8i318N8LL4lskZK) | 3:36 | 2023-05-05 |  |
 | [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 | 2023-05-05 |  |
+| [Stellar Explorer](https://open.spotify.com/track/0DokpRqlN4t9zbLiYDWKei) | [Gagdropers](https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf) | [Cosmic Solitude](https://open.spotify.com/album/1Kk2IqjOcR77jrGr2J1ThX) | 2:01 | 2024-02-02 |  |
+| [Summer Purr](https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK) | [Kissa Kat](https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL) | [Summer Purr](https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd) | 2:36 | 2024-02-02 |  |
 | [Sundown Reflections](https://open.spotify.com/track/5ss1SSBpwUrhz1ibWzNiJm) | [Lotus Eco](https://open.spotify.com/artist/5YwJLe0MXNm0CFVX7Kzbo6) | [Sundown Reflections](https://open.spotify.com/album/51g8wnW8XG4LcrsUYLuO9v) | 2:15 | 2023-11-24 |  |
 | [Sé Pero No Quiero Saber, Entonces No Sé.](https://open.spotify.com/track/7GJ7ZLLSHmEiveKIGKc5BQ) | [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718) | [Sé Pero No Quiero Saber, Entonces No Sé.](https://open.spotify.com/album/3fBNcy44LTMVJGhPfMTMYZ) | 2:21 | 2023-05-05 |  |
 | [Take Me Home](https://open.spotify.com/track/1h4aLXGfmLVxXUT0IZeTmk) | [Goland](https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA), [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc), [Marc Brave](https://open.spotify.com/artist/5HCI0gwwKsD6eFnyWnycgK) | [Take Me Home](https://open.spotify.com/album/07bZkVxKUmei2L3lRXKKls) | 2:30 | 2023-05-05 |  |
@@ -140,6 +144,6 @@
 | [Viernes Azul](https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Viernes Azul](https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz) | 3:34 | 2023-05-05 |  |
 | [Viscaria Corto](https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Viscaria Corto](https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI) | 2:24 | 2023-05-05 | 2024-01-21 |
 | [wandering](https://open.spotify.com/track/1OLk9LBviwtoDpgzdDwvt9) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [wandering](https://open.spotify.com/album/7DECPk68hAEsO2z7yQpmgl) | 2:02 | 2023-09-22 | 2024-01-21 |
-| [Waves](https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP) | [Outdream](https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I) | [Waves](https://open.spotify.com/album/43bXdzpch1I5OaPOJ5Nnf4) | 2:24 | 2023-05-05 |  |
+| [Waves](https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP) | [Outdream](https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I) | [Waves](https://open.spotify.com/album/43bXdzpch1I5OaPOJ5Nnf4) | 2:24 | 2023-05-05 | 2024-02-03 |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

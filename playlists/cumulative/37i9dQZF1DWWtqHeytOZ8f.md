@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-615 songs - 2 day 7 hr 14 min
+617 songs - 2 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Awakening](https://open.spotify.com/track/2UjCPffVcAT3e2cI4IrLxV) | [Don Slepian](https://open.spotify.com/artist/6nDzanmucFbxVfDdE2EX3h) | [Sea of Bliss](https://open.spotify.com/album/36IJlHRWxsKq5y02YAnnTx) | 24:48 | 2021-10-20 | 2022-04-20 |
 | [B1](https://open.spotify.com/track/19G7YiDJIJZ2ZQmnf6KXkp) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 8:00 | 2022-08-31 | 2022-10-01 |
 | [B2\. ICE 594](https://open.spotify.com/track/3zOARmISn1ir6QM6BKDDJw) | [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [ICE Compositions](https://open.spotify.com/album/58VYC7wiAcPdbRxjXSg5II) | 5:06 | 2021-10-20 | 2022-07-29 |
+| [B4 \- The loves of my entire life](https://open.spotify.com/track/6806PuNd2YyEuzjtBo1yMv) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 4:04 | 2024-02-02 |  |
 | [Back to Hastings](https://open.spotify.com/track/0Pt4TBaEaUmzU5QW2IE7VN) | [Alejandro Morse](https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6) | [Hotel Hastings \(Music by Alejandro Morse for a Book by Eduardo Padilla\)](https://open.spotify.com/album/3huFNw9r8hP0s7SqTRApN0) | 3:55 | 2021-10-20 | 2024-01-07 |
 | [Badwater Psalm \- Khotin Remix](https://open.spotify.com/track/5SekNmby1zOV9m9wB2d7ZO) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0), [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Badwater Psalm \(Khotin Remix\)](https://open.spotify.com/album/2ylpTfBEFSetAZHwTT0jIK) | 6:00 | 2021-10-20 | 2022-07-29 |
 | [Balloon Lossy](https://open.spotify.com/track/1R3VSSRBstotGaecnm4S1S) | [Lee Gamble](https://open.spotify.com/artist/7rAD9Ws0ihREeDmgPS2ZL8) | [Flush Real Pharynx 2019\-2021](https://open.spotify.com/album/2TPpMgNbpfrmnwuOJkQsfo) | 4:09 | 2021-10-20 | 2022-07-25 |
@@ -148,6 +149,7 @@
 | [Dietrofront](https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Esc](https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0) | 6:17 | 2021-10-20 |  |
 | [Digitalized Waves Of Unspoken Distances](https://open.spotify.com/track/2ibz7CAzOKyqgjo7sXeUU0) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Suburban Call For Concrete Dreams](https://open.spotify.com/album/3kFtOGZWe1iJnIOw0Df37m) | 4:06 | 2021-10-20 | 2022-05-20 |
 | [Distance](https://open.spotify.com/track/6dFq2GIyqtquK19sq00et5) | [Rafael Anton Irisarri](https://open.spotify.com/artist/6AdRO941ZEDh4GHcCUdEs4) | [Distance](https://open.spotify.com/album/3jcGIoLA9lHKcmWoImlMu7) | 6:47 | 2021-10-20 | 2022-07-27 |
+| [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 | 2024-02-02 |  |
 | [Don't Forget](https://open.spotify.com/track/5mZ8Uf5FH7Xp6hkolpHK7N) | [Sharp Veins](https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2) | [Die of The Waters](https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf) | 3:06 | 2022-11-17 | 2023-04-16 |
 | [Dragonfly](https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Dragonfly](https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy) | 3:17 | 2023-03-03 |  |
 | [Dream](https://open.spotify.com/track/6cJyLhwbEGa9Ns6brwSEZ0) | [John Cage](https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s), [Fauve! Gegen a Rhino](https://open.spotify.com/artist/2t4vAQ5KEaEeZVRXgoKzPn), [Paolo Tarsi](https://open.spotify.com/artist/55PWrneeqTKInL1WtAZQhT) | [Dream in a Landscape](https://open.spotify.com/album/3zs7MunQxXLWdJauTi7qwb) | 9:25 | 2021-10-20 | 2022-07-29 |
@@ -440,7 +442,7 @@
 | [Sad Alron](https://open.spotify.com/track/4DYgpUB0XeFyWjV6LwYTz5) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Sad Alron](https://open.spotify.com/album/1EUDG2I4DZsV1andpZerph) | 2:36 | 2021-10-20 | 2022-04-21 |
 | [Sankai](https://open.spotify.com/track/6IQoOFscOOZqWTy6Hn6QnC) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kwaidan](https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO) | 4:18 | 2021-10-20 |  |
 | [Santosha](https://open.spotify.com/track/1Lx2eaXNUdvqgO1f70LSrQ) | [Van Sandano](https://open.spotify.com/artist/1ncrVuDd5AG12G0rwAJP8z) | [Yuma](https://open.spotify.com/album/6BIPb7wIRPrkPar5cMawk2) | 2:40 | 2021-10-20 | 2023-10-30 |
-| [Say Something](https://open.spotify.com/track/43rqUnNFGNGZdRXjskdj5Z) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Riven](https://open.spotify.com/album/350aCIe1s5yP9XOoO1ZTZg) | 2:38 | 2021-10-20 |  |
+| [Say Something](https://open.spotify.com/track/43rqUnNFGNGZdRXjskdj5Z) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Riven](https://open.spotify.com/album/350aCIe1s5yP9XOoO1ZTZg) | 2:38 | 2021-10-20 | 2024-02-03 |
 | [See](https://open.spotify.com/track/7KRmNCnkr1h0UnfmHdFaFD) | [TENGGER](https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4) | [Spiritual 2](https://open.spotify.com/album/1GRF6wjrtvSGqPiUgdvuyM) | 5:47 | 2021-10-20 | 2022-07-29 |
 | [Sensi](https://open.spotify.com/track/3skhLjuG4wNU7Szv7MN8MW) | [Verdandi](https://open.spotify.com/artist/1OCPf5fgDsnkOa7ybQlcTQ) | [Sensi](https://open.spotify.com/album/6294tobI7hvroKXhAuBD2O) | 3:13 | 2021-10-20 | 2022-11-13 |
 | [September Remember](https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:09 | 2021-10-20 |  |
@@ -594,7 +596,7 @@
 | [Uqugella](https://open.spotify.com/track/1GC9GHrhIOKCnPDaSA4a8E) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Binaural Beats for Relaxation](https://open.spotify.com/album/3qxbSBbBsBWpCn7LO5I6TZ) | 3:18 | 2021-10-20 |  |
 | [V10](https://open.spotify.com/track/5YdRmDSQuVYLYM7UI7t2yT) | [ADAM TK](https://open.spotify.com/artist/7hauEwIlR9Ca94YCGOCmP1) | [V10](https://open.spotify.com/album/5lCsk2PbLJc0H2VfDuDODU) | 3:01 | 2021-10-20 | 2022-05-23 |
 | [V4.3 pt\. 2](https://open.spotify.com/track/315NEEn9ZZupYATwDKb88G) | [Luca Yupanqui](https://open.spotify.com/artist/3b6IYA5Lih1o84q7gt6KR3) | [V4.3 pt\. 2](https://open.spotify.com/album/2ATPMcZ2PVf5dGTGKtg4mA) | 4:29 | 2021-10-20 | 2022-07-28 |
-| [Vaporware 05](https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Plays Bee Mask](https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc) | 6:03 | 2021-10-20 |  |
+| [Vaporware 05](https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Plays Bee Mask](https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc) | 6:03 | 2021-10-20 | 2024-02-03 |
 | [Variables \- 1976](https://open.spotify.com/track/0aBe5X0U7ZqNh01Hd4SHbB) | [Chris Carter](https://open.spotify.com/artist/4Fw9V88d2NoplsZBOkBWaS) | [Variables \- 1976](https://open.spotify.com/album/3ievgMpSPFMO5uoohGRkP2) | 2:47 | 2021-10-20 | 2022-04-18 |
 | [Variation \#9: Pantelleria](https://open.spotify.com/track/2OdF7JWprGAps570PA57dS) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations For Piano & Tape](https://open.spotify.com/album/3YajhQtcNYZbLooxeVp4KA) | 44:37 | 2022-09-26 | 2023-12-05 |
 | [Variation \#9: Pantelleria](https://open.spotify.com/track/2jlUqwqE1bXbo0Lfd0D8jq) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations For Piano & Tape](https://open.spotify.com/album/6MvIw0T6gV58pmiqxylymi) | 44:37 | 2022-09-26 | 2023-04-29 |

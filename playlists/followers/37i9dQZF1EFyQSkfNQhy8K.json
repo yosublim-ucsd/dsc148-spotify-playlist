@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 3692,
+  "2024-02-03": 3692,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm\">ELENA ROSE</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By ELENA ROSE",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 201106,
       "name": "1TRAGO",
       "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
@@ -42,6 +42,28 @@
     },
     {
       "album": {
+        "name": "5 Estrellas",
+        "url": "https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191094,
+      "name": "5 Estrellas",
+      "url": "https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw"
+    },
+    {
+      "album": {
         "name": "5 Estrellas (Official Video)",
         "url": "https://open.spotify.com/album/7cKyxCWeAxtul23xrUoC6o"
       },
@@ -57,7 +79,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 192298,
       "name": "5 Estrellas",
       "url": "https://open.spotify.com/track/0Sh3aaIM6aQgdWBRFOsr1T"
@@ -119,7 +141,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 164202,
       "name": "Arranca",
       "url": "https://open.spotify.com/track/3WPqtAxAA8znGqNnxBDOvh"
@@ -436,6 +458,24 @@
     },
     {
       "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178309,
+      "name": "Carne y Hueso",
+      "url": "https://open.spotify.com/track/21dCU6wWhGDjrrvgg7g4NM"
+    },
+    {
+      "album": {
         "name": "Carne y Hueso (Video Oficial)",
         "url": "https://open.spotify.com/album/7ECvxMNyVJI15lB3N8dwLb"
       },
@@ -447,7 +487,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 187903,
       "name": "Carne y Hueso",
       "url": "https://open.spotify.com/track/0a80IRu0hisxuELg8YKcsT"
@@ -719,7 +759,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 204226,
       "name": "DOLLAR",
       "url": "https://open.spotify.com/track/2uhMYJq2TODWBuZhHRrdWy"
@@ -927,7 +967,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 159509,
       "name": "Fantasi",
       "url": "https://open.spotify.com/track/5tEPenW0Q6z2d3W2BXQG8f"
@@ -1054,6 +1094,28 @@
     },
     {
       "album": {
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158440,
+      "name": "FULANITO",
+      "url": "https://open.spotify.com/track/3CIl8hlnMcULSIIhUMmB1Z"
+    },
+    {
+      "album": {
         "name": "FULANITO (Official Video)",
         "url": "https://open.spotify.com/album/5CYRO4rRltDSbdDwdCaEf7"
       },
@@ -1069,7 +1131,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 165696,
       "name": "FULANITO",
       "url": "https://open.spotify.com/track/63K3nVLoknqRxXUMsLd2u1"
@@ -1289,7 +1351,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 210005,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/4Rp6i4M1yEYs7H6rHCnOC9"
@@ -1307,7 +1369,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/294ae9GSeG6nYVFlCOljJz"
@@ -1469,7 +1531,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 191040,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/774SI7d64XRYNzpwKf1fds"
@@ -1549,7 +1611,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 167674,
       "name": "La Triple T",
       "url": "https://open.spotify.com/track/1rEsfHhBFTuTPekF8M5O3f"
@@ -1741,7 +1803,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 198314,
       "name": "Mami",
       "url": "https://open.spotify.com/track/4FRYHlrIdFDM2C68gxTW3b"
@@ -1763,7 +1825,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 226093,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
@@ -1887,7 +1949,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 200689,
       "name": "Muchacha",
       "url": "https://open.spotify.com/track/2ITk9SjpYCodNaIRUzqNzR"
@@ -1905,7 +1967,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 177424,
       "name": "My Man",
       "url": "https://open.spotify.com/track/3jLVBJpnTVkBHMWXHZAa3F"
@@ -2197,7 +2259,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 160000,
       "name": "Party En Mi Casa",
       "url": "https://open.spotify.com/track/4zz8TmDnxh74GXdA7oPElH"
@@ -2481,7 +2543,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 269800,
       "name": "Quererte Bonito",
       "url": "https://open.spotify.com/track/65x3nHFf7flZrZTLDA1H7B"
@@ -2503,7 +2565,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 271893,
       "name": "Quererte Bonito",
       "url": "https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb"
@@ -2565,7 +2627,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 219349,
       "name": "Ram Pam Pam",
       "url": "https://open.spotify.com/track/5sXcSQbllmz3lOcNneD1ap"
@@ -2983,7 +3045,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 149471,
       "name": "Underground",
       "url": "https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ"
@@ -3001,7 +3063,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 169706,
       "name": "Underground",
       "url": "https://open.spotify.com/track/1kozvQViNoX67Sx3hc1FvR"

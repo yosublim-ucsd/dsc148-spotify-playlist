@@ -2,9 +2,9 @@
 
 ### [Modern Jam Band](https://open.spotify.com/playlist/37i9dQZF1DWSk9DH2Upl3o)
 
-> The jam scene is alive and well\. Cover: Kendall Street Company
+> The jam scene is alive and well\. Cover: SunSquabi
 
-163 songs - 15 hr 31 min
+166 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,13 +65,14 @@
 | [Ghost In The Machine](https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Ghost In The Machine](https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV) | 6:19 | 2022-07-08 |  |
 | [Green River \(Single Edit\)](https://open.spotify.com/track/1bPxp5gqRJdhMzQQ8kPJWV) | [Tommy Kaelin](https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p) | [Green River \(Single Edit\)](https://open.spotify.com/album/2MYhnWrZZvtBK0DkQ3suxO) | 4:08 | 2022-09-23 | 2023-07-15 |
 | [Growing Your Hands Back](https://open.spotify.com/track/2iQeEYuZvG1j0wVeNJbZtD) | [ALO](https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj) | [Silver Saturdays](https://open.spotify.com/album/3IbrPiWeBaAf3d1S9RX7Oh) | 4:45 | 2023-03-03 |  |
+| [Hard Pass](https://open.spotify.com/track/22PBp11W9lqbdO5XwYk0f7) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Hard Pass](https://open.spotify.com/album/6gAU4TmksTNEDGzXzNTgQb) | 4:12 | 2024-02-02 |  |
 | [Hell Yeah Everyday \(Live from The Compound Long Beach\)](https://open.spotify.com/track/1mRbV4rJY6tZdYF8KAvU6L) | [Manuel the Band](https://open.spotify.com/artist/53QeCVwCAOdxJ3p7BG4ZUn) | [Hell Yeah Everyday \(Live from The Compound Long Beach\)](https://open.spotify.com/album/18E8ovQ9opDnN1wqBIDG8N) | 3:48 | 2023-08-04 |  |
 | [Hiccup](https://open.spotify.com/track/4GXPo6bO1KpGJ0AGZbq75o) | [Umphrey's McGee](https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o) | [Asking For A Friend](https://open.spotify.com/album/6SLMJC96T8b2uADVaiYfOf) | 3:06 | 2022-07-01 |  |
 | [High In The 90’s](https://open.spotify.com/track/77vlcd4Sot8FC2k5HaFppl) | [Stone Wheels](https://open.spotify.com/artist/73F831It0zfAR0efIa12dq) | [High In The 90’s](https://open.spotify.com/album/3U5PdbP4s7RCU9tEbZrrx4) | 4:30 | 2023-06-23 |  |
 | [Hot Damn](https://open.spotify.com/track/4yFararsjQ0deuaZVH8CGb) | [ALO](https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj) | [Hot Damn](https://open.spotify.com/album/2DeHT9aqcZ7KSWvx6sEDVN) | 4:17 | 2023-01-20 | 2023-03-18 |
 | [How Long...](https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 7:31 | 2022-06-23 | 2023-06-17 |
 | [Hungersite](https://open.spotify.com/track/24SSx6gMzDtVB0njwSzChH) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Hungersite](https://open.spotify.com/album/1wETfTNS1qbWxCJ1cxYY3m) | 7:06 | 2022-06-23 | 2022-08-18 |
-| [Hungersite](https://open.spotify.com/track/5FKKjiUjOXu9Kinlkc1VzA) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Dripfield](https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV) | 7:06 | 2022-06-23 |  |
+| [Hungersite](https://open.spotify.com/track/5FKKjiUjOXu9Kinlkc1VzA) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Dripfield](https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV) | 7:06 | 2022-06-23 | 2024-02-03 |
 | [I Go To Work](https://open.spotify.com/track/5JcuGefnbHdsRDCwxa6a2t) | [Kev Rowe](https://open.spotify.com/artist/1hTerDFNMFDQGcwDMJHAVm) | [I Go To Work](https://open.spotify.com/album/0zYl2aLQ8iZ3ZdAlAFf9Hl) | 2:31 | 2023-06-09 |  |
 | [Inside Out](https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Arcade](https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N) | 3:13 | 2022-07-15 |  |
 | [Ishmael](https://open.spotify.com/track/4cXii3eY0wiLiMYXJXHjpc) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Ishmael](https://open.spotify.com/album/1H38Z8Ck6kaSbnghLJ9HxT) | 4:39 | 2023-06-09 |  |
@@ -80,7 +81,7 @@
 | [Joyfell](https://open.spotify.com/track/3Gd2W0XPOcpQdMZ1fMQo0I) | [Underground Springhouse](https://open.spotify.com/artist/4v4aFPF4LTWeZOR5agOPMt) | [Joyfell](https://open.spotify.com/album/3taJMjKeTca6PUkHrcclWj) | 5:08 | 2022-06-23 |  |
 | [Julian](https://open.spotify.com/track/6zf24ssm3oX06086awQlsl) | [Underground Springhouse](https://open.spotify.com/artist/4v4aFPF4LTWeZOR5agOPMt) | [Thanks For Joining Me, Bobby! / Julian](https://open.spotify.com/album/37LtN4oB9SXaAuWvlSaLUw) | 7:56 | 2023-02-03 | 2023-05-06 |
 | [Just a Little](https://open.spotify.com/track/0PixrKu6hDBnpMEWnWaJg9) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Just a Little](https://open.spotify.com/album/3T1ehbNdVLYuXw279GohoO) | 6:10 | 2022-06-23 | 2022-07-29 |
-| [Just A Little](https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Just a Little](https://open.spotify.com/album/1TqY6YxFZdVqwReNRDyEo7) | 6:10 | 2022-06-23 |  |
+| [Just A Little](https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Just a Little](https://open.spotify.com/album/1TqY6YxFZdVqwReNRDyEo7) | 6:10 | 2022-06-23 | 2024-02-03 |
 | [Just Music](https://open.spotify.com/track/4Ixf4fxQiHDcUNgK2KtDXY) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [Just Music](https://open.spotify.com/album/7EB6VqMWgy5CVXMqOVvDGG) | 6:22 | 2023-04-07 |  |
 | [Kangaroo](https://open.spotify.com/track/2iRud7yNC2yYGVFyl8ik0b) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 4:05 | 2022-06-23 |  |
 | [Keep Your Hands to Yourself](https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [Best Kept Secrets](https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s) | 4:19 | 2022-06-23 | 2023-06-24 |
@@ -93,6 +94,7 @@
 | [Lessons](https://open.spotify.com/track/53r7hLGDbGY9Ok5bgnZh7B) | [WIZRD](https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr) | [Seasons](https://open.spotify.com/album/4SEW5rHyUselJMfAvi8GC2) | 4:10 | 2022-09-09 | 2023-04-30 |
 | [Lessons](https://open.spotify.com/track/5iVNIJ2EE9JS7KVLxwWSFC) | [WIZRD](https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr) | [Lessons](https://open.spotify.com/album/3nTwX55ca9E75rrRXjbD27) | 4:10 | 2022-09-02 | 2022-09-17 |
 | [Lily's Tiger](https://open.spotify.com/track/1wEt9nM5wq2U5RNuWBxnyA) | [Great Blue](https://open.spotify.com/artist/1LlkBNUOz29oWc0IeX0lXc) | [Great Blue](https://open.spotify.com/album/3EuzVI8uESnKwlOOdh4wr6) | 4:57 | 2022-06-23 |  |
+| [Livin' It Up](https://open.spotify.com/track/1Qm0MBLj93hLQMZOpNTQHB) | [Dizgo](https://open.spotify.com/artist/5yHeuBSsacgKk0X6fzDfHj) | [Melt](https://open.spotify.com/album/4Kr5LWl79sxFjdamzHjriN) | 8:00 | 2024-02-02 |  |
 | [Madman's Eyes](https://open.spotify.com/track/3f9SxWf7WYKaYywYYejfk1) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Madman's Eyes](https://open.spotify.com/album/1Y8TRP3ChXq8q45QT65ecf) | 4:48 | 2023-01-27 | 2023-05-20 |
 | [Mcmansion](https://open.spotify.com/track/3bFDEWT2lFhBMM6cxcBEGY) | [The Trichomes](https://open.spotify.com/artist/0Z7aFWvcTx8NhWRUfTInfz) | [Jazz Cabbage Soiree](https://open.spotify.com/album/1eBGpVUNZptUK32L7YG2XO) | 7:51 | 2022-06-23 |  |
 | [Mokuba](https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:27 | 2022-06-23 |  |
@@ -110,7 +112,7 @@
 | [One Turn](https://open.spotify.com/track/5wotgIhvk6lJfNCqnUJO6d) | [Mungion](https://open.spotify.com/artist/4qIgyXFMEaFl3HmABtjNfK) | [One Turn](https://open.spotify.com/album/2Axf1fjKFzOqHoesPAKB1t) | 4:57 | 2023-05-05 | 2023-08-12 |
 | [Opelika Yella](https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Out of Line](https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg) | 5:39 | 2022-06-23 |  |
 | [Outer Boroughs](https://open.spotify.com/track/5EzcAEZEjRBT6BplnklT1Y) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH) | [Outer Boroughs](https://open.spotify.com/album/1D31I5VNHglxOfY2QKQCok) | 7:28 | 2022-11-11 | 2023-08-05 |
-| [Playing With My Emotions](https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 4:10 | 2022-07-01 |  |
+| [Playing With My Emotions](https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 4:10 | 2022-07-01 | 2024-02-03 |
 | [Polski Polski](https://open.spotify.com/track/3e0wD9Fsuifkj4xkLGjIdx) | [David Henriksson & Daze Delight](https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV) | [Polski Polski](https://open.spotify.com/album/6UDH5Y5wh9M2b99aarli40) | 5:16 | 2023-02-24 | 2023-04-22 |
 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 | 2022-09-23 |  |
 | [Random Company](https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Best in Show](https://open.spotify.com/album/0CjZ35bc20KXgtOT9dGCWC) | 8:05 | 2022-06-23 |  |
@@ -133,6 +135,7 @@
 | [Stacy's on the Lake](https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 2:19 | 2022-06-23 | 2023-04-01 |
 | [Staircase](https://open.spotify.com/track/4L5BJVlGVFCnd79kRxo2lH) | [Umphrey's McGee](https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o) | [Staircase](https://open.spotify.com/album/1kTFnkAx4RVkjuh1rNtWFD) | 4:30 | 2023-02-17 |  |
 | [Stuck in Between](https://open.spotify.com/track/2OX0jfmSfFFIk9rFTzivZU) | [Chalk Dinosaur](https://open.spotify.com/artist/0nGLnZVTm8IXRb83Rarg6C) | [Stuck in Between](https://open.spotify.com/album/1NZ2SrbhnuY6jLKoq1MU5Z) | 5:53 | 2023-04-21 |  |
+| [Stuck On You](https://open.spotify.com/track/2eqVjqpmCjB904Cw2cUPLe) | [The Moon City Masters](https://open.spotify.com/artist/5ds1ng1NKpr4Bv0VbgHyAr) | [Stuck On You](https://open.spotify.com/album/5piDzyf0KFonTHK3vrl8k5) | 3:33 | 2024-02-02 |  |
 | [Sweater Weather](https://open.spotify.com/track/67PW34NuiTcwvLJzTHJF5k) | [Desmond Jones](https://open.spotify.com/artist/0UU2zglZ7Rk4v2FIY9OMOv) | [Rays of Light and Stardust](https://open.spotify.com/album/4ILXLVxldlo4VkvJNQz09S) | 3:49 | 2022-09-09 |  |
 | [Sweet Spot](https://open.spotify.com/track/5pFjXpxLqr2xJQerNiC4dy) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Believe](https://open.spotify.com/album/1ugwsDgtIFbpiAV3pg1M91) | 5:04 | 2022-06-23 | 2023-06-10 |
 | [Swim](https://open.spotify.com/track/4llsHJDnZvnzi9OLUcPIJV) | [Tand](https://open.spotify.com/artist/6VC6mZuswk6M1p7AJKFdh6) | [Swim](https://open.spotify.com/album/12zUy7CLj75dH3hk8WHXKj) | 7:27 | 2023-06-16 |  |

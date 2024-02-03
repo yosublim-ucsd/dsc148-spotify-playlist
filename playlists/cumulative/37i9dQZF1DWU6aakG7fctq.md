@@ -2,9 +2,9 @@
 
 ### [el nuevo indie](https://open.spotify.com/playlist/37i9dQZF1DWU6aakG7fctq)
 
-> Fresh Latin Indie\. Cover: Ramona & Ximena Sariñana
+> Fresh Latin Indie\. Cover: Jósean Log
 
-535 songs - 1 day 5 hr 39 min
+538 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Another](https://open.spotify.com/track/48FXiQqUJeSVd87PfA1Ln2) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Another](https://open.spotify.com/album/7oyIkEO1eeKjj4gyrYmhmO) | 3:48 | 2022-09-06 | 2022-10-28 |
 | [Ansiedad](https://open.spotify.com/track/0p8tyL3rNbptJgICX2ZVL8) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Ansiedad](https://open.spotify.com/album/7AFYhBkSCHEL0fZs10chz7) | 3:46 | 2021-11-18 | 2022-07-29 |
 | [Ansiedad](https://open.spotify.com/track/7rLozI09IOepDfaF5umbK8) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:46 | 2022-06-29 | 2022-11-25 |
+| [Antes De Partir](https://open.spotify.com/track/2mbxifzlODJWwSG5O6LMuY) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC), [Julian Carrion](https://open.spotify.com/artist/6A9coo36yFEB0cfxZT8cih) | [Antes De Partir](https://open.spotify.com/album/5vcN3zxTsyTPZcIlVDNhOq) | 5:27 | 2024-02-02 |  |
 | [Antifaz](https://open.spotify.com/track/3igeO2twuzFaqvEjWzFjwd) | [Códex Fénix](https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy) | [Antifaz](https://open.spotify.com/album/7oZ8vYdxLY5h5NWGQCksus) | 4:23 | 2022-09-06 | 2022-10-28 |
 | [Aquel Bolero](https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Aquel Bolero](https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG) | 2:52 | 2022-09-06 | 2023-06-24 |
 | [aquí andamos](https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [aquí andamos](https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux) | 2:15 | 2023-11-10 |  |
@@ -143,6 +144,7 @@
 | [En los Huesos](https://open.spotify.com/track/0AFHjjPLUBriFn18A1Ybc4) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [En los Huesos](https://open.spotify.com/album/3EUhJitSG6eDyZMN1PPjuW) | 3:54 | 2023-05-12 | 2023-07-03 |
 | [En Un Instante](https://open.spotify.com/track/4HePjcbUwHlbK94YtB03vo) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [En Un Instante](https://open.spotify.com/album/3Nbmmq4IWNvOEaJo99GUph) | 2:51 | 2023-05-26 | 2023-09-16 |
 | [En una](https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [En una](https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1) | 3:39 | 2022-10-27 | 2022-12-13 |
+| [En Vez de Huir](https://open.spotify.com/track/4mB1OMRN8CnaAmWoW1wjba) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Más Normal De Lo N..\. \(83%\)](https://open.spotify.com/album/6PC2b8OigqaVPbTZMMENQW) | 4:22 | 2024-02-02 |  |
 | [Enculado \- feat\. Nsqk](https://open.spotify.com/track/1ZebsbrSZGn8IopE1g1R0e) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [2 A.M.](https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU) | 2:21 | 2023-03-02 | 2023-08-05 |
 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 | 2022-08-19 | 2023-02-18 |
 | [eres tú](https://open.spotify.com/track/5KCFS6c5GhzM1TgyO6d7sA) | [andremustdie](https://open.spotify.com/artist/6J3J7gELfiEqZIiW7gVNrw) | [eres tú](https://open.spotify.com/album/12Ep09eLbxAdh811FhGitb) | 2:31 | 2022-01-10 | 2022-07-28 |
@@ -178,6 +180,7 @@
 | [Girasol](https://open.spotify.com/track/0BizsPV9e8BDWoKS3hPk3M) | [mi jardín](https://open.spotify.com/artist/2Wurz87TqcSpxiCTGDZPAo) | [Girasol](https://open.spotify.com/album/7Jai8njio3jGUOtrH0fLuI) | 2:14 | 2022-01-10 | 2022-07-29 |
 | [Gobiérname](https://open.spotify.com/track/6Nh3jUe0llv1BsbyGraH5T) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Gobiérname](https://open.spotify.com/album/3cAjgVllvtmZAFN8xodK08) | 3:31 | 2022-09-06 | 2022-10-28 |
 | [Golden](https://open.spotify.com/track/1Dj3xVHKPQIxh1nRX1lN75) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR) | [Golden](https://open.spotify.com/album/3Am1lg4zNAItrrJ9shk9nH) | 3:38 | 2021-11-18 | 2022-11-24 |
+| [Hablando a tu corazón](https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Hablando a tu corazón](https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh) | 3:59 | 2024-02-02 |  |
 | [Hace 10 Años](https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Hace 10 Años](https://open.spotify.com/album/71f277kinxputEU6wff8To) | 3:04 | 2022-10-27 | 2022-12-02 |
 | [Hace Mucho Tiempo](https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 4:16 | 2023-06-23 |  |
 | [Hacedora](https://open.spotify.com/track/3CaqjyISMBli311fJtv44h) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Hacedora](https://open.spotify.com/album/6DhHC7S2KFdOh7yAtawwUk) | 2:07 | 2023-01-20 | 2023-04-29 |
@@ -407,7 +410,7 @@
 | [RQR](https://open.spotify.com/track/0pKMlweNP3DhXkeLQ7EhYD) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [RQR](https://open.spotify.com/album/5kC02orH2sQzlmHoUspIsb) | 2:57 | 2022-05-06 | 2022-12-13 |
 | [s a l u d o s](https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 3:17 | 2021-11-18 | 2022-11-25 |
 | [Sad Lullaby](https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Sad Lullaby](https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd) | 3:25 | 2021-11-18 | 2022-08-12 |
-| [Saico](https://open.spotify.com/track/1O6C6BFlZQ9QLzn8yY8uHG) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Saico](https://open.spotify.com/album/112KC0njtpo0OmNXsqnpUu) | 3:40 | 2023-09-15 |  |
+| [Saico](https://open.spotify.com/track/1O6C6BFlZQ9QLzn8yY8uHG) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Saico](https://open.spotify.com/album/112KC0njtpo0OmNXsqnpUu) | 3:40 | 2023-09-15 | 2024-02-03 |
 | [Salida](https://open.spotify.com/track/3eo777LQagkdPF3iLHUvNm) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Salida](https://open.spotify.com/album/7o8sUWRJmHRPR87vqkQ8vX) | 3:11 | 2023-04-21 | 2023-06-09 |
 | [Salvaje oeste](https://open.spotify.com/track/3Svnj02fGFGjIDACeUFuiI) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Salvaje oeste](https://open.spotify.com/album/5p9ly1x9t3JPuzQlvMXJmT) | 2:48 | 2023-06-23 | 2024-01-27 |
 | [Se Abre el Cielo](https://open.spotify.com/track/6KzAbMlaCOvuC0445fDdZu) | [Circo](https://open.spotify.com/artist/5f4yA5jDkv5z75thk9ZNTc), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Se Abre el Cielo \(feat\. Conociendo Rusia\)](https://open.spotify.com/album/4OxIo8TcZV940owzBuhw7Q) | 4:14 | 2021-11-18 | 2022-07-25 |
@@ -510,7 +513,7 @@
 | [Una Vida](https://open.spotify.com/track/1Q4kVMA8OnbVVuq0kQMYRv) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Una Vida](https://open.spotify.com/album/3adxFEMsq25Adf8bHWX4rL) | 4:04 | 2024-01-05 |  |
 | [Use Me Too](https://open.spotify.com/track/0Pa6YGPTs86gFrEkxAOthL) | [Geo](https://open.spotify.com/artist/2mzrWihYniKXcK0vNi9UUh) | [Use Me Too](https://open.spotify.com/album/77goeeluwLAm2exjXnmUtl) | 1:47 | 2023-11-03 | 2023-12-09 |
 | [Vencimiento](https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Sueño Cítrico](https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf) | 3:22 | 2023-04-21 | 2024-01-27 |
-| [veo luces](https://open.spotify.com/track/63wvx0oN5gandg86x2FSup) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [veo luces](https://open.spotify.com/album/4fscuZRhvbb7O0qgPFODlf) | 3:26 | 2024-01-26 |  |
+| [veo luces](https://open.spotify.com/track/63wvx0oN5gandg86x2FSup) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [veo luces](https://open.spotify.com/album/4fscuZRhvbb7O0qgPFODlf) | 3:26 | 2024-01-26 | 2024-02-03 |
 | [Verbenas](https://open.spotify.com/track/5ryuReLd1ZW0R2BCpgiG0W) | [Eva Ryjlen](https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w) | [Verbenas](https://open.spotify.com/album/7n3EUXlrYCr7fGydlXtRBC) | 4:13 | 2022-09-06 | 2022-12-10 |
 | [Verte Otra Vez](https://open.spotify.com/track/3cDfdnyHHHjjJGifdTaToT) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Verte Otra Vez](https://open.spotify.com/album/0VQOxV4o6TPKxF7oePOIAi) | 3:49 | 2023-02-03 | 2023-08-05 |
 | [vidas](https://open.spotify.com/track/1feOGbkJwLkkv6Y2FUO7CK) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [vidas](https://open.spotify.com/album/0tqR3K0g8GtOFE1rCkIg8U) | 4:13 | 2023-11-10 |  |
@@ -530,7 +533,7 @@
 | [Where We Can't See](https://open.spotify.com/track/612UlRjogF7bkGgVamQhKT) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Where We Can't See](https://open.spotify.com/album/6WLlYL5Pd3H4tQBxcRhTOZ) | 2:45 | 2022-01-10 | 2022-08-20 |
 | [Woke Up Dis Morning](https://open.spotify.com/track/312ixrbrcnAF8Mn0XeDOlX) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Woke Up Dis Morning](https://open.spotify.com/album/3Er14Y7GQXzN9vINCBgVXD) | 2:57 | 2023-11-17 | 2024-01-27 |
 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 | 2022-12-30 | 2023-05-20 |
-| [Ya no sigo esperando por ti](https://open.spotify.com/track/1MGtxp2QVsI2DDAeGaAqpg) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Ya no sigo esperando por ti](https://open.spotify.com/album/08bCpzyhrda2rK5T9LeIyN) | 3:02 | 2023-10-06 |  |
+| [Ya no sigo esperando por ti](https://open.spotify.com/track/1MGtxp2QVsI2DDAeGaAqpg) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Ya no sigo esperando por ti](https://open.spotify.com/album/08bCpzyhrda2rK5T9LeIyN) | 3:02 | 2023-10-06 | 2024-02-03 |
 | [you could at least say goodbye](https://open.spotify.com/track/6ntsguC2A1hOnhWL2Wg1M2) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [you could at least say goodbye](https://open.spotify.com/album/3cHfnOEZwfG00Y3F244NqA) | 3:39 | 2022-05-09 | 2022-08-30 |
 | [You're Thinking Of Me](https://open.spotify.com/track/7ohCuNTyH5vX9wz2aPGO1n) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Principe Azul](https://open.spotify.com/album/5OZV8awIYVFNjbxq0ucMIJ) | 2:41 | 2022-09-06 | 2022-10-28 |
 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 | 2021-11-18 | 2022-11-25 |

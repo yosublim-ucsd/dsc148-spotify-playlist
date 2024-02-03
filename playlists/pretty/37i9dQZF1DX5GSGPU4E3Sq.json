@@ -1,12 +1,12 @@
 {
   "description": "Pi\u00e9rdete en el misterio del bosque y sus poderes sanadores.",
-  "num_followers": 189979,
+  "num_followers": 189959,
   "original_name": "Terapia de Bosque",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjQ1NGI4NTM5ZmIxNmI0NzMzODIyZTZmMmM3NDAyZDMyOTJiZjU3",
+  "snapshot_id": "MCw2OTU4NjQ4MDNjYWY3MTljNDg1ODkzYTUyNjJhNTgzNDlmZjdhZDEx",
   "tracks": [
     {
       "added_at": "2023-11-10 16:30:58",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Forest By Night",
-        "url": "https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9"
-      },
-      "artists": [
-        {
-          "name": "Natural Sound Makers",
-          "url": "https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8"
-        }
-      ],
-      "duration_ms": 150726,
-      "name": "Dark Forest",
-      "url": "https://open.spotify.com/track/2NMA93HoL1DkxNLbnyOOqA"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "A Magic Forest",
         "url": "https://open.spotify.com/album/6DbQ69b3HVphNE7v6a9RQu"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 185854,
       "name": "A Magic Forest",
       "url": "https://open.spotify.com/track/1tibAYEBfrBcPxJIZe2lMJ"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Forest By Night",
+        "url": "https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9"
+      },
+      "artists": [
+        {
+          "name": "Natural Sound Makers",
+          "url": "https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8"
+        }
+      ],
+      "duration_ms": 150726,
+      "name": "Dark Forest",
+      "url": "https://open.spotify.com/track/2NMA93HoL1DkxNLbnyOOqA"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Celtic Chillout",
-        "url": "https://open.spotify.com/album/3dUxLZPlSWVYHgJ8HVmtZH"
-      },
-      "artists": [
-        {
-          "name": "David Arkenstone",
-          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
-        }
-      ],
-      "duration_ms": 300791,
-      "name": "Call Of The Sea",
-      "url": "https://open.spotify.com/track/19eQWCG7R2ue0tdkXoW1zN"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Warm Summer Rain",
         "url": "https://open.spotify.com/album/6fwaLrlXlJT8coA3ysImIH"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 211000,
       "name": "Warm Summer Rain",
       "url": "https://open.spotify.com/track/7J3bfg7BXmToxDWWKglGD5"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Celtic Chillout",
+        "url": "https://open.spotify.com/album/3dUxLZPlSWVYHgJ8HVmtZH"
+      },
+      "artists": [
+        {
+          "name": "David Arkenstone",
+          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+        }
+      ],
+      "duration_ms": 300791,
+      "name": "Call Of The Sea",
+      "url": "https://open.spotify.com/track/19eQWCG7R2ue0tdkXoW1zN"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Meditations",
-        "url": "https://open.spotify.com/album/79EfVLabvmR4nUhpr2rF8s"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 270551,
-      "name": "1/2 Singing Bowl (Ascension) - Excerpt",
-      "url": "https://open.spotify.com/track/4C4Cni4yKvGFthrJ3VRjfM"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/5MtwNMAmnLtfobUTnJm1O9"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 143013,
       "name": "Peace",
       "url": "https://open.spotify.com/track/4JFZbbKcC9HtTgL7NEnbA0"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Meditations",
+        "url": "https://open.spotify.com/album/79EfVLabvmR4nUhpr2rF8s"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 270551,
+      "name": "1/2 Singing Bowl (Ascension) - Excerpt",
+      "url": "https://open.spotify.com/track/4C4Cni4yKvGFthrJ3VRjfM"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Sinharaja Rain Forest",
-        "url": "https://open.spotify.com/album/0cW23AQ5uuPAdP5B7RycMY"
-      },
-      "artists": [
-        {
-          "name": "The Golden Islands",
-          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
-        }
-      ],
-      "duration_ms": 129522,
-      "name": "Sinharaja Rain Forest",
-      "url": "https://open.spotify.com/track/0Mw0pFOPi8bl3XfyifwUvw"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Zentrera",
         "url": "https://open.spotify.com/album/6kwnMcWJVGzf6oRB4Z2W7u"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 172800,
       "name": "Zentrera",
       "url": "https://open.spotify.com/track/6aJTuwVY83SwEmFJxtKXoR"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Sinharaja Rain Forest",
+        "url": "https://open.spotify.com/album/0cW23AQ5uuPAdP5B7RycMY"
+      },
+      "artists": [
+        {
+          "name": "The Golden Islands",
+          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+        }
+      ],
+      "duration_ms": 129522,
+      "name": "Sinharaja Rain Forest",
+      "url": "https://open.spotify.com/track/0Mw0pFOPi8bl3XfyifwUvw"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "The Enigma of Consciousness",
-        "url": "https://open.spotify.com/album/4Qq3VuAueCvOPnopjVZ5dd"
-      },
-      "artists": [
-        {
-          "name": "The Golden Islands",
-          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
-        }
-      ],
-      "duration_ms": 194805,
-      "name": "The Enigma of Consciousness",
-      "url": "https://open.spotify.com/track/4VEbMcdsQV19SFVuwkz9vg"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Brainsugar",
         "url": "https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 229360,
       "name": "Filmic - Original Mix",
       "url": "https://open.spotify.com/track/3UhxZNywlQm37nE7ypOs1t"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "The Enigma of Consciousness",
+        "url": "https://open.spotify.com/album/4Qq3VuAueCvOPnopjVZ5dd"
+      },
+      "artists": [
+        {
+          "name": "The Golden Islands",
+          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+        }
+      ],
+      "duration_ms": 194805,
+      "name": "The Enigma of Consciousness",
+      "url": "https://open.spotify.com/track/4VEbMcdsQV19SFVuwkz9vg"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Relajar",
-        "url": "https://open.spotify.com/album/283nJ3zv17KPWNpzGetwvS"
-      },
-      "artists": [
-        {
-          "name": "Alexandro Sanchez",
-          "url": "https://open.spotify.com/artist/7MykLx9v0X71idSe7pc87a"
-        }
-      ],
-      "duration_ms": 164449,
-      "name": "gay\u0101",
-      "url": "https://open.spotify.com/track/0qh1hvvSPTchiWltyuKG94"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Alpha Phase",
         "url": "https://open.spotify.com/album/4k5lKgapbTFxYPrcGJyymz"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 148181,
       "name": "Beta Phase",
       "url": "https://open.spotify.com/track/0vYqatHNhGwUOUrN7p307h"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Relajar",
+        "url": "https://open.spotify.com/album/283nJ3zv17KPWNpzGetwvS"
+      },
+      "artists": [
+        {
+          "name": "Alexandro Sanchez",
+          "url": "https://open.spotify.com/artist/7MykLx9v0X71idSe7pc87a"
+        }
+      ],
+      "duration_ms": 164449,
+      "name": "gay\u0101",
+      "url": "https://open.spotify.com/track/0qh1hvvSPTchiWltyuKG94"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
+        "name": "Chysis",
+        "url": "https://open.spotify.com/album/0drvxNZQIE3XamUrN7yhA5"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Chysis",
+      "url": "https://open.spotify.com/track/4amtIW0nNo9rCbXaaSjNWq"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
         "name": "Violin Chant",
         "url": "https://open.spotify.com/album/3MyMoLStXeNHxBtjn1xO6v"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Chysis",
-        "url": "https://open.spotify.com/album/0drvxNZQIE3XamUrN7yhA5"
+        "name": "Relajar",
+        "url": "https://open.spotify.com/album/283nJ3zv17KPWNpzGetwvS"
       },
       "artists": [
         {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+          "name": "Alexandro Sanchez",
+          "url": "https://open.spotify.com/artist/7MykLx9v0X71idSe7pc87a"
         }
       ],
-      "duration_ms": 384000,
-      "name": "Chysis",
-      "url": "https://open.spotify.com/track/4amtIW0nNo9rCbXaaSjNWq"
+      "duration_ms": 166677,
+      "name": "pensamiento positivo",
+      "url": "https://open.spotify.com/track/0RaaeawAa794NzQ8vezHIp"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1395,22 +1411,6 @@
       "duration_ms": 678013,
       "name": "PHANTOM BRICKWORKS IV",
       "url": "https://open.spotify.com/track/4e2kZbzHiRIVqkgCrhRacI"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
-        "name": "Relajar",
-        "url": "https://open.spotify.com/album/283nJ3zv17KPWNpzGetwvS"
-      },
-      "artists": [
-        {
-          "name": "Alexandro Sanchez",
-          "url": "https://open.spotify.com/artist/7MykLx9v0X71idSe7pc87a"
-        }
-      ],
-      "duration_ms": 166677,
-      "name": "pensamiento positivo",
-      "url": "https://open.spotify.com/track/0RaaeawAa794NzQ8vezHIp"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Alpha Activity",
-        "url": "https://open.spotify.com/album/1rk53Ct8Sqp6mpUIm0vDvI"
-      },
-      "artists": [
-        {
-          "name": "Neural Oscillations",
-          "url": "https://open.spotify.com/artist/2g4Tp9jhqwF2Z6mC008fBb"
-        }
-      ],
-      "duration_ms": 163783,
-      "name": "Brain Imaging",
-      "url": "https://open.spotify.com/track/2FsZMy3VbsGY2w0FYVPnnK"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Seabed",
         "url": "https://open.spotify.com/album/3Dy9SrqQmXpPqZUGOnhfEm"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 247052,
       "name": "Frozen Tears",
       "url": "https://open.spotify.com/track/3z6tVpfZgPB90WcijPncBQ"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Alpha Activity",
+        "url": "https://open.spotify.com/album/1rk53Ct8Sqp6mpUIm0vDvI"
+      },
+      "artists": [
+        {
+          "name": "Neural Oscillations",
+          "url": "https://open.spotify.com/artist/2g4Tp9jhqwF2Z6mC008fBb"
+        }
+      ],
+      "duration_ms": 163783,
+      "name": "Brain Imaging",
+      "url": "https://open.spotify.com/track/2FsZMy3VbsGY2w0FYVPnnK"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Tranquillity",
-        "url": "https://open.spotify.com/album/0Idd7AHuBso3AghHoahMBs"
-      },
-      "artists": [
-        {
-          "name": "My Wondrous Dream",
-          "url": "https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q"
-        }
-      ],
-      "duration_ms": 201764,
-      "name": "Tranquillity",
-      "url": "https://open.spotify.com/track/34tN9XGSKpJwaP5NM96UTW"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Morning Dew",
         "url": "https://open.spotify.com/album/3g7MWXqLIH5YCzfbbUfRRE"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 184826,
       "name": "Morning Dew",
       "url": "https://open.spotify.com/track/089VNP8Mc6sNi2gGQUCHal"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Tranquillity",
+        "url": "https://open.spotify.com/album/0Idd7AHuBso3AghHoahMBs"
+      },
+      "artists": [
+        {
+          "name": "My Wondrous Dream",
+          "url": "https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q"
+        }
+      ],
+      "duration_ms": 201764,
+      "name": "Tranquillity",
+      "url": "https://open.spotify.com/track/34tN9XGSKpJwaP5NM96UTW"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
+        "name": "The Fog of The Shire",
+        "url": "https://open.spotify.com/album/7KMCmRWsUohVRd1bcANSwz"
+      },
+      "artists": [
+        {
+          "name": "Antuigo",
+          "url": "https://open.spotify.com/artist/0SIxo5o3Jh1i8IjKtZhjcd"
+        }
+      ],
+      "duration_ms": 182030,
+      "name": "The Fog of The Shire",
+      "url": "https://open.spotify.com/track/0Nz8av1JB2HnG35kNljUUL"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
         "name": "Forest Creeks",
         "url": "https://open.spotify.com/album/0v6HrufgzVstSVfet7u6Nf"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 187727,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/3DYp7eXItuMz0ZglmgEgFF"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
-        "name": "The Fog of The Shire",
-        "url": "https://open.spotify.com/album/7KMCmRWsUohVRd1bcANSwz"
-      },
-      "artists": [
-        {
-          "name": "Antuigo",
-          "url": "https://open.spotify.com/artist/0SIxo5o3Jh1i8IjKtZhjcd"
-        }
-      ],
-      "duration_ms": 182030,
-      "name": "The Fog of The Shire",
-      "url": "https://open.spotify.com/track/0Nz8av1JB2HnG35kNljUUL"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Deep Sea",
-        "url": "https://open.spotify.com/album/3jNoHVHicdJJo68ACeppgC"
-      },
-      "artists": [
-        {
-          "name": "Balearic Sea",
-          "url": "https://open.spotify.com/artist/77y7sSZazaAjLRH7ZMaZT6"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Deep Sea",
-      "url": "https://open.spotify.com/track/7uoiqKH36x5Nn2yph78eOz"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Kiruna",
         "url": "https://open.spotify.com/album/5Ikr47faNKpgGamSgALtwk"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 170446,
       "name": "Kiruna",
       "url": "https://open.spotify.com/track/4u9xOtRiPhUhOnBtVuE8MA"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Deep Sea",
+        "url": "https://open.spotify.com/album/3jNoHVHicdJJo68ACeppgC"
+      },
+      "artists": [
+        {
+          "name": "Balearic Sea",
+          "url": "https://open.spotify.com/artist/77y7sSZazaAjLRH7ZMaZT6"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Deep Sea",
+      "url": "https://open.spotify.com/track/7uoiqKH36x5Nn2yph78eOz"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -2083,22 +2083,6 @@
       "duration_ms": 193000,
       "name": "Aura",
       "url": "https://open.spotify.com/track/04zmw3VLwbZjsICoFGEjmv"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
-        "name": "Silviculture",
-        "url": "https://open.spotify.com/album/4RrqHdWv6ISLPFPlF9ap5B"
-      },
-      "artists": [
-        {
-          "name": "Forest Dreams",
-          "url": "https://open.spotify.com/artist/0r8qxlmiAVqsOf1AXGhegp"
-        }
-      ],
-      "duration_ms": 122837,
-      "name": "Silviculture",
-      "url": "https://open.spotify.com/track/6RzY1FdhbgqimxfPft78fB"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -2151,6 +2135,22 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
+        "name": "Silviculture",
+        "url": "https://open.spotify.com/album/4RrqHdWv6ISLPFPlF9ap5B"
+      },
+      "artists": [
+        {
+          "name": "Forest Dreams",
+          "url": "https://open.spotify.com/artist/0r8qxlmiAVqsOf1AXGhegp"
+        }
+      ],
+      "duration_ms": 122837,
+      "name": "Silviculture",
+      "url": "https://open.spotify.com/track/6RzY1FdhbgqimxfPft78fB"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
         "name": "Om mani palme hum",
         "url": "https://open.spotify.com/album/2uiDDNlK6bgzWs1ELV0erj"
       },
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Amplitude",
-        "url": "https://open.spotify.com/album/2sBHOOGlTnp4LhXTq5G6fX"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Blake",
-          "url": "https://open.spotify.com/artist/4vKwzvwZ7y5uB0OIQzdUhv"
-        }
-      ],
-      "duration_ms": 167195,
-      "name": "Amplitude",
-      "url": "https://open.spotify.com/track/0F8nxG2gJ6xXpanrZlfp4D"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "Cosmic Bliss",
         "url": "https://open.spotify.com/album/5s6ila6z4pWVwrnPDVOxzP"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 143333,
       "name": "Human Endeavors",
       "url": "https://open.spotify.com/track/3O2ErLKbR8ClnGgDFmPkZG"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Amplitude",
+        "url": "https://open.spotify.com/album/2sBHOOGlTnp4LhXTq5G6fX"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Blake",
+          "url": "https://open.spotify.com/artist/4vKwzvwZ7y5uB0OIQzdUhv"
+        }
+      ],
+      "duration_ms": 167195,
+      "name": "Amplitude",
+      "url": "https://open.spotify.com/track/0F8nxG2gJ6xXpanrZlfp4D"
     },
     {
       "added_at": "2023-11-10 16:30:58",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2023-11-10 16:30:58",
       "album": {
-        "name": "Love Is All",
-        "url": "https://open.spotify.com/album/10OxP3accmLrouUPnbctPS"
-      },
-      "artists": [
-        {
-          "name": "Filterscape",
-          "url": "https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1"
-        }
-      ],
-      "duration_ms": 159740,
-      "name": "Love Is All",
-      "url": "https://open.spotify.com/track/5fElZorySnJf7AL27hovH6"
-    },
-    {
-      "added_at": "2023-11-10 16:30:58",
-      "album": {
         "name": "into the night",
         "url": "https://open.spotify.com/album/2yZDC8FPSPigJLqhibaMEL"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 211200,
       "name": "into the night.",
       "url": "https://open.spotify.com/track/5HwM3qnT6wOKgeBKeByXQZ"
+    },
+    {
+      "added_at": "2023-11-10 16:30:58",
+      "album": {
+        "name": "Love Is All",
+        "url": "https://open.spotify.com/album/10OxP3accmLrouUPnbctPS"
+      },
+      "artists": [
+        {
+          "name": "Filterscape",
+          "url": "https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1"
+        }
+      ],
+      "duration_ms": 159740,
+      "name": "Love Is All",
+      "url": "https://open.spotify.com/track/5fElZorySnJf7AL27hovH6"
     },
     {
       "added_at": "2023-11-10 16:30:58",

@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 46238,
+  "num_followers": 46250,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjRmNWJkYmM5MjkyMGNhYTFkOTAxMGE3OGVhZGM2MTA2MDNlMWZl",
+  "snapshot_id": "MCxkOGUyMWQ3MjE3ZTgyYWYwZjg4YWY5MjE0ZDU5MTRkNmY2YmJiNzY5",
   "tracks": [
     {
       "added_at": "2024-02-01 12:53:54",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-02-01 12:53:54",
       "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 218253,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
+    },
+    {
+      "added_at": "2024-02-01 12:53:54",
+      "album": {
         "name": "Summer Moon (feat. Kevin Kaarl)",
         "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 177673,
       "name": "Summer Moon (feat. Kevin Kaarl)",
       "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
-    },
-    {
-      "added_at": "2024-02-01 12:53:54",
-      "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 218253,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
     },
     {
       "added_at": "2024-02-01 12:53:54",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-02-01 12:53:54",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 231448,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
-    },
-    {
-      "added_at": "2024-02-01 12:53:54",
-      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/4HUrG51NvntAjcSuC9TPQp"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 165933,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/7bA2I7BtpuuxPwQE91nBUM"
+    },
+    {
+      "added_at": "2024-02-01 12:53:54",
+      "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 231448,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
     },
     {
       "added_at": "2024-02-01 12:53:54",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-02-01 12:53:54",
       "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Finding Peace",
-      "url": "https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG"
-    },
-    {
-      "added_at": "2024-02-01 12:53:54",
-      "album": {
         "name": "Dollar $hort",
         "url": "https://open.spotify.com/album/5AlNt9tbo2tP4KcHP1xIcG"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 195415,
       "name": "Dollar $hort",
       "url": "https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw"
+    },
+    {
+      "added_at": "2024-02-01 12:53:54",
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Finding Peace",
+      "url": "https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG"
     },
     {
       "added_at": "2024-02-01 12:53:54",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-02-01 12:53:54",
       "album": {
-        "name": "TMF",
-        "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 211283,
-      "name": "TMF",
-      "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
-    },
-    {
-      "added_at": "2024-02-01 12:53:54",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 189426,
       "name": "Golden",
       "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
+    },
+    {
+      "added_at": "2024-02-01 12:53:54",
+      "album": {
+        "name": "TMF",
+        "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 211283,
+      "name": "TMF",
+      "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
     },
     {
       "added_at": "2024-02-01 12:53:54",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-02-01 12:53:54",
       "album": {
-        "name": "Chronicles of a Diamond",
-        "url": "https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH"
+        "name": "MARY",
+        "url": "https://open.spotify.com/album/1XlZFlRQgdLrup2RMq4Lol"
       },
       "artists": [
         {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
         }
       ],
-      "duration_ms": 305160,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6"
+      "duration_ms": 206052,
+      "name": "MARY",
+      "url": "https://open.spotify.com/track/6WkvT8SlxAKqQsOLeqIMRB"
     },
     {
       "added_at": "2024-02-01 12:53:54",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-02-01 12:53:54",
       "album": {
-        "name": "MARY",
-        "url": "https://open.spotify.com/album/1XlZFlRQgdLrup2RMq4Lol"
+        "name": "Chronicles of a Diamond",
+        "url": "https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH"
       },
       "artists": [
         {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
         }
       ],
-      "duration_ms": 206052,
-      "name": "MARY",
-      "url": "https://open.spotify.com/track/6WkvT8SlxAKqQsOLeqIMRB"
+      "duration_ms": 305160,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6"
     },
     {
       "added_at": "2024-02-01 12:53:54",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-02-01 12:53:54",
       "album": {
+        "name": "Tomorrow's Gonna Come",
+        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "Falling in Love Again",
+      "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
+    },
+    {
+      "added_at": "2024-02-01 12:53:54",
+      "album": {
         "name": "TRAVELIN'",
         "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
       },
@@ -1115,26 +1131,6 @@
       "duration_ms": 217846,
       "name": "TRAVELIN'",
       "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
-    },
-    {
-      "added_at": "2024-02-01 12:53:54",
-      "album": {
-        "name": "Find My Way",
-        "url": "https://open.spotify.com/album/6NWwBZ308qTBXufqWAboMe"
-      },
-      "artists": [
-        {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "Annalisa Fernandez",
-          "url": "https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f"
-        }
-      ],
-      "duration_ms": 222945,
-      "name": "Find My Way",
-      "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr"
     },
     {
       "added_at": "2024-02-01 12:53:54",
@@ -1171,18 +1167,22 @@
     {
       "added_at": "2024-02-01 12:53:54",
       "album": {
-        "name": "Tomorrow's Gonna Come",
-        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
+        "name": "Find My Way",
+        "url": "https://open.spotify.com/album/6NWwBZ308qTBXufqWAboMe"
       },
       "artists": [
         {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Annalisa Fernandez",
+          "url": "https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f"
         }
       ],
-      "duration_ms": 230920,
-      "name": "Falling in Love Again",
-      "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
+      "duration_ms": 222945,
+      "name": "Find My Way",
+      "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr"
     },
     {
       "added_at": "2024-02-01 12:53:54",

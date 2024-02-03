@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 
 > <a href="spotify:artist:6nxWCVXbOlEVRexSbLsTer">Flume</a>'s favourite tracks\. Updated regularly\. Curated by Flume\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,841 likes - 55 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,872 likes - 55 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Formation \- Otik Remix](https://open.spotify.com/track/4uZwxFVkVq8fxHad28l4eh) | [Louf](https://open.spotify.com/artist/6FuiYA7qfyWvCzyWxepEjy), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Formation \(Otik Remix\)](https://open.spotify.com/album/7olsXD3uHGnExYSKHnW0lf) | 7:16 |
 | 2 | [Muddy Funster](https://open.spotify.com/track/6RYnTnUSj8uTZhIJUoOuC8) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Kurt Wagner](https://open.spotify.com/artist/26Fn0TaiSMe2NjNHWiWcuA) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 5:24 |
-| 3 | [Opal \- Four Tet Remix](https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Opal \(Four Tet Remix\)](https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN) | 8:14 |
+| 3 | [Opal \- Four Tet Remix](https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Opal \(Four Tet Remix\)](https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN) | 8:14 |
 | 4 | [Lesser Speeds](https://open.spotify.com/track/33uN2JE7hjRcbuBPVrQFgk) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Lesser Speeds](https://open.spotify.com/album/62uZeXoUkCz9HkKiSRUrkR) | 5:14 |
 | 5 | [Escalator](https://open.spotify.com/track/0FpsrB0Kivu69LD8TaywhD) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Escalator](https://open.spotify.com/album/15bXChIVRMbSDYDoDoz3bG) | 2:26 |
 | 6 | [NOVV](https://open.spotify.com/track/4XMN5KHIaXHJ0LGdqHHJ8U) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [NOVV/NASDAQ](https://open.spotify.com/album/1P2CbeSXqi0JNmIex5NdDe) | 4:17 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 | 46 | [The Difference \(Willaris\. K Remix\)](https://open.spotify.com/track/45M0L8i5qsBiOr38BEdxYs) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj) | [The Difference \(Willaris\. K Remix\)](https://open.spotify.com/album/0NHoL9C3wr8BArXdT5nApC) | 3:19 |
 | 47 | [Drowning](https://open.spotify.com/track/7rBMPlE0MXMgYLRtqkN8gt) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/2jKzkqQ2Dkam6bKbzUuegq) | 3:45 |
 | 48 | [Petrichor](https://open.spotify.com/track/5e2QHek93FrcaKfH9znqZE) | [Tek Genesis](https://open.spotify.com/artist/1NDC66eYcuc127yFeBYbbs), [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f) | [Temp](https://open.spotify.com/album/3bN8zyo2OS44ePXdNaGv2T) | 3:31 |
-| 49 | [Apricots](https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Apricots](https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc) | 4:06 |
+| 49 | [Apricots](https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Apricots](https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc) | 4:06 |
 | 50 | [Makeup](https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Makeup](https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H) | 3:28 |
 | 51 | [HOME \- Special Request Remix](https://open.spotify.com/track/0LOiXbC3TjKz7EMETW6tXo) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [PLANET'S MAD \(GLOBE'S CRAZY\)](https://open.spotify.com/album/711i9zBEVuGtm2685CBcBG) | 5:20 |
 | 52 | [GO FAST BABY \- Mura Masa Remix](https://open.spotify.com/track/77kwUrhZW5cdteY1tKKXju) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [GO FAST BABY \(Mura Masa Remix\)](https://open.spotify.com/album/4zFWw19tRbQPVrjnWJkZbF) | 2:57 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 | 54 | [Note To Self](https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:17 |
 | 55 | [Pretty](https://open.spotify.com/track/6zt4DdMRYAFHNQj3D6BE0q) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Pretty](https://open.spotify.com/album/6zzEQ9WSwPleia1tlnNZpe) | 2:46 |
 
-Snapshot ID: `MCwzMzAyN2VmMjE1MjY3ZjQ1MjBlZTBiZjYyZjM3ZmIyMjU4ZGI3MTY3`
+Snapshot ID: `MCwyNDU0ODk2MThjOTNhMmU3MTBkMTgzN2VkNmJhNjA2OGZkYzJhNTUy`

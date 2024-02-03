@@ -2,9 +2,9 @@
 
 ### [RAGE](https://open.spotify.com/playlist/37i9dQZF1DX7e6SyPRzzx0)
 
-> Open that sh\*t up!
+> Open that sh\*t up! Cover: Rich Amiri
 
-54 songs - 2 hr 16 min
+56 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Antisocial \(feat\. Slump6s\)](https://open.spotify.com/track/4KBJ6dFxtup8Ku4uQZcPQ8) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [Slump6s](https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j) | [Antisocial](https://open.spotify.com/album/5XOo1c28e4YMxp4uLh70qS) | 2:55 | 2023-12-01 |  |
 | [Bad Man](https://open.spotify.com/track/2IurP1tbU3cozJx5U849zp) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Glokk Files](https://open.spotify.com/album/4AWrZMeLeNpWJoOYTQXRUC) | 2:49 | 2023-12-01 |  |
 | [BE RIGHT BACK](https://open.spotify.com/track/57cLYltn1gF5Dbp0a6te5p) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Glokk Files](https://open.spotify.com/album/4AWrZMeLeNpWJoOYTQXRUC) | 2:47 | 2023-12-01 |  |
-| [bleh](https://open.spotify.com/track/5jhI9kdseTMJQYvjIm5MVU) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:26 | 2023-12-01 |  |
+| [bleh](https://open.spotify.com/track/5jhI9kdseTMJQYvjIm5MVU) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:26 | 2023-12-01 | 2024-02-03 |
 | [buku \(feat\. SoFaygo\)](https://open.spotify.com/track/7wiTIiyRb0dtjCCIm4RMSJ) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [22Joeyy](https://open.spotify.com/album/3rDrOvwAlhgk3xxvsJz0Ja) | 2:17 | 2023-12-01 |  |
 | [DIRTY SPOT](https://open.spotify.com/track/6ojtrd3WzZYuPfoKOU4wjX) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [DIRTY SPOT / 4 to 6](https://open.spotify.com/album/3PEosVTHOA42DbW4OGLlER) | 2:28 | 2023-12-15 |  |
 | [DIVE IN!](https://open.spotify.com/track/4pXChuim76A52lXVvFSozF) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [REAL RAW!](https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk) | 1:40 | 2023-12-01 |  |
@@ -28,10 +28,12 @@
 | [if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:14 | 2023-12-01 |  |
 | [ILoveUIHateU](https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:15 | 2023-12-01 |  |
 | [Jennifer’s Body](https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:38 | 2023-12-01 |  |
+| [kingtut](https://open.spotify.com/track/5o3hsfebCXZUBb5OzsFqyK) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [kingtut](https://open.spotify.com/album/77nZkr98snqK9S5KN7gxiA) | 2:52 | 2024-02-02 |  |
 | [Kome On](https://open.spotify.com/track/4wC7ol2740ZTBMUX8QCA3J) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Mafia Musik](https://open.spotify.com/album/3S9jhXK2F3LMMKFWFs5MEU) | 2:14 | 2023-12-01 |  |
 | [LANCEY OR LANCEY](https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 3:07 | 2023-12-01 |  |
 | [Lifestyle](https://open.spotify.com/track/20v5X5P8guUGTQQ1EAWys4) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle](https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK) | 2:17 | 2023-12-01 |  |
 | [Lyfe](https://open.spotify.com/track/5GT6tY36LQwQdPfE25NaBA) | [teefaygoo](https://open.spotify.com/artist/58KTnqvNCXA8sd6IHAQ5IV), [prodbysky](https://open.spotify.com/artist/4dkg1q2DJECBqjrSMs8ULh) | [Lyfe \- Instrumental](https://open.spotify.com/album/5sIyurLZodpO94l4l2WMG5) | 2:55 | 2024-01-12 |  |
+| [maserati slick](https://open.spotify.com/track/3pE08q8PvdFDikPA5oMToS) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [lonely boy](https://open.spotify.com/album/6KPDJJLnlulWdsy5pENApB) | 2:23 | 2024-02-02 |  |
 | [MBGB2](https://open.spotify.com/track/5NJ4s5Daq5RUNmtNdjQrRv) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [MBGB2](https://open.spotify.com/album/0R9ZaxhsU6Qtb5KrTJ4g6t) | 1:43 | 2023-12-01 |  |
 | [Miss The Rage](https://open.spotify.com/track/46NzAxDzsE443IsyZndZfP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Trip At Knight](https://open.spotify.com/album/4d5LU2n3zJVMuILwMEiQG5) | 3:56 | 2023-12-01 |  |
 | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [MMM HMM \(feat\. Sexyy Red\)](https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI) | 2:38 | 2023-12-01 |  |
@@ -41,8 +43,8 @@
 | [off the leash! \(feat\. yvngxchris and Luisss\)](https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Luisss](https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI) | [off the leash!](https://open.spotify.com/album/2udAdxSFdILUt3vK12F48I) | 3:12 | 2023-12-01 |  |
 | [Off The Map](https://open.spotify.com/track/6GNG0YQixWuLE0M5FtrRxY) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [After Me](https://open.spotify.com/album/3cDBVusNMPK33eaTIE5QQg) | 2:21 | 2023-12-01 |  |
 | [on dat shit](https://open.spotify.com/track/02g10S6jIeoyTgw4qWs00h) | [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [on dat shit](https://open.spotify.com/album/4GA1Wxbvo1S9MBV1HYD5cE) | 2:58 | 2023-12-01 | 2024-01-06 |
-| [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2023-12-18 | 2024-01-13 |
-| [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 | 2023-12-01 |  |
+| [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2023-12-18 |  |
+| [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 | 2023-12-01 | 2024-02-03 |
 | [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 | 2023-12-01 |  |
 | [Penthouse Shordy](https://open.spotify.com/track/0p761VSAObNRJF855bIHRF) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [On My Own](https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo) | 2:06 | 2023-12-01 |  |
 | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [SONY](https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp) | 2:10 | 2024-01-05 |  |
@@ -57,7 +59,7 @@
 | [Vamp Anthem](https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:04 | 2023-12-01 |  |
 | [WA\\VE](https://open.spotify.com/track/1K7Tnhm54msvxefjFMWa6f) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:35 | 2023-12-01 | 2023-12-16 |
 | [Wake Up](https://open.spotify.com/track/7zkM2VrMD0DvAxNrxZCICt) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [On My Own](https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo) | 1:52 | 2023-12-01 |  |
-| [Way Up!](https://open.spotify.com/track/7mj1prKBTEisjBlahW1PSK) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Way Up!](https://open.spotify.com/album/6c36BqvLIyeL5NEGt4o0EP) | 2:26 | 2023-12-01 |  |
+| [Way Up!](https://open.spotify.com/track/7mj1prKBTEisjBlahW1PSK) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Way Up!](https://open.spotify.com/album/6c36BqvLIyeL5NEGt4o0EP) | 2:26 | 2023-12-01 | 2024-02-03 |
 | [What It Is?!](https://open.spotify.com/track/4NgMDPV2mIh6MUkqkyNmP3) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [What It Is?!](https://open.spotify.com/album/2hpdfZUyxtuLLi5PHGC6nJ) | 3:13 | 2023-12-01 |  |
 | [WHAT YOU WANT](https://open.spotify.com/track/6FyTGkolQEgIHp3isy1ZSJ) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [WHAT YOU WANT](https://open.spotify.com/album/5ZZpCvbAPixOpDD6JMPulF) | 2:16 | 2023-12-01 |  |
 | [WISH I COULD TELL YOU](https://open.spotify.com/track/7mAIh2cjeAXId5k6j74mCj) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [GO+](https://open.spotify.com/album/3bBREOGR2MXC5kNkxg3Lsw) | 2:56 | 2023-12-01 |  |

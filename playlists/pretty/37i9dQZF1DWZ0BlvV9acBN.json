@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Thalles Roberto",
-  "num_followers": 134177,
+  "num_followers": 134192,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjU1MGE1ZDdjNmJlMGU1NDUxMjg3ZGZkNmEzMmRiZThkZmI5YTlj",
+  "snapshot_id": "MCxlNjUwYjg3NWNlM2MxNzRhNWEzMzUwNTIwMmVkYmFjNzQzOWVmZTMx",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "HEREGE",
+        "url": "https://open.spotify.com/album/1aZjMqH9pQ0RHhyjxOmEqv"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 249937,
+      "name": "HEREGE",
+      "url": "https://open.spotify.com/track/5yZBk4qrWmgRGcWHtt74ot"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "A Alegria do Senhor (Ao Vivo)",
         "url": "https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 220185,
       "name": "A Alegria do Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "HEREGE",
-        "url": "https://open.spotify.com/album/1aZjMqH9pQ0RHhyjxOmEqv"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 249937,
-      "name": "HEREGE",
-      "url": "https://open.spotify.com/track/5yZBk4qrWmgRGcWHtt74ot"
     },
     {
       "added_at": "2023-12-22 03:00:00",

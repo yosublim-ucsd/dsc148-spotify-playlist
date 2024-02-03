@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,473 likes - 40 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,505 likes - 40 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 37 | [Medo \(feat\. Swanzy B\)](https://open.spotify.com/track/4LQoZgv1Gpt4tXGiVpCena) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP) | [Yeesom Sika](https://open.spotify.com/album/0qqHxYMFjCe0ZpPc3chJsb) | 4:52 |
 | 38 | [Sure Banker](https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:16 |
 | 39 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
-| 40 | [FINGERS](https://open.spotify.com/track/6pGf2XUUNaj6tTkWXR1yJQ) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [FINGERS](https://open.spotify.com/album/4BoK4qfCb8y8rejtjCwf8m) | 3:25 |
+| 40 | [Deeba](https://open.spotify.com/track/6xvQweMHBKFVxgZtmQy7va) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Welcome To Ghana](https://open.spotify.com/album/0WTr5rNM9QFV4Qi3s4B5nA) | 5:06 |
 
-Snapshot ID: `MCw0NDI5OGVhY2ZiN2I2Mzk1OTBkYzhkMDk3OTdlY2I1NjI3ZWZkNjIz`
+Snapshot ID: `MCxlZGMxNDk1NzRhZjkwMDFkNTczODcyOWY4ZDM0NTlhZDk5ODExNDhi`

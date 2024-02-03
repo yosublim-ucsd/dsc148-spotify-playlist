@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 105923,
+  "num_followers": 105926,
   "original_name": "Ver\u00e3o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzk0MzJjN2QxM2JjYjMyZDc0YWQ0ZTczOTg1ODIzZDcxMmExYWU4",
+  "snapshot_id": "MCw1ZTNiOTU1OWIyY2MyNDJhZGNiOTJmNzMyYWNhZjY3NDVlODczMGYz",
   "tracks": [
     {
       "added_at": "2023-08-29 17:00:51",
@@ -843,30 +843,6 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
-        "name": "Duas Tr\u00eas",
-        "url": "https://open.spotify.com/album/3wqvUHnPBKg34UfjlGouEr"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        },
-        {
-          "name": "Adriano Rhod",
-          "url": "https://open.spotify.com/artist/1rzgK16tw9LTPmu6eMFyMF"
-        }
-      ],
-      "duration_ms": 156942,
-      "name": "Duas Tr\u00eas",
-      "url": "https://open.spotify.com/track/0redQHBfejmPUhonR5ppGC"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
+        "name": "Duas Tr\u00eas",
+        "url": "https://open.spotify.com/album/3wqvUHnPBKg34UfjlGouEr"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Adriano Rhod",
+          "url": "https://open.spotify.com/artist/1rzgK16tw9LTPmu6eMFyMF"
+        }
+      ],
+      "duration_ms": 156942,
+      "name": "Duas Tr\u00eas",
+      "url": "https://open.spotify.com/track/0redQHBfejmPUhonR5ppGC"
     },
     {
       "added_at": "2023-08-29 17:00:51",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
+        "name": "Quer Voar",
+        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "Quer Voar",
+      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
         "name": "Vacil\u00e3o",
         "url": "https://open.spotify.com/album/0Q3gwqKjsGoCv0JZGjyNrv"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 130403,
       "name": "Vacil\u00e3o",
       "url": "https://open.spotify.com/track/7CJJ7JC3kj9XdweWTvfVhX"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
-        "name": "Quer Voar",
-        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "Quer Voar",
-      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
     },
     {
       "added_at": "2023-08-29 17:00:51",
@@ -1655,34 +1655,6 @@
     {
       "added_at": "2023-08-29 17:00:51",
       "album": {
-        "name": "Trava na Pose, Chama no Zoom, Da um Close",
-        "url": "https://open.spotify.com/album/5FY0hhzRFgldlHh2U8stHw"
-      },
-      "artists": [
-        {
-          "name": "DJ Patrick Muniz",
-          "url": "https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu"
-        },
-        {
-          "name": "Dj Olliver",
-          "url": "https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd"
-        },
-        {
-          "name": "Mc Topre",
-          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
-        },
-        {
-          "name": "Mc Rennan",
-          "url": "https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS"
-        }
-      ],
-      "duration_ms": 214270,
-      "name": "Trava na Pose, Chama no Zoom, Da um Close (feat. Mc Rennan)",
-      "url": "https://open.spotify.com/track/5aqmWrDgnyQ2OVn6UgBko3"
-    },
-    {
-      "added_at": "2023-08-29 17:00:51",
-      "album": {
         "name": "EUROPA (feat. Gson)",
         "url": "https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q"
       },
@@ -1707,6 +1679,34 @@
       "duration_ms": 216800,
       "name": "EUROPA (feat. Gson)",
       "url": "https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq"
+    },
+    {
+      "added_at": "2023-08-29 17:00:51",
+      "album": {
+        "name": "Trava na Pose, Chama no Zoom, Da um Close",
+        "url": "https://open.spotify.com/album/5FY0hhzRFgldlHh2U8stHw"
+      },
+      "artists": [
+        {
+          "name": "DJ Patrick Muniz",
+          "url": "https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu"
+        },
+        {
+          "name": "Dj Olliver",
+          "url": "https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd"
+        },
+        {
+          "name": "Mc Topre",
+          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
+        },
+        {
+          "name": "Mc Rennan",
+          "url": "https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS"
+        }
+      ],
+      "duration_ms": 214270,
+      "name": "Trava na Pose, Chama no Zoom, Da um Close (feat. Mc Rennan)",
+      "url": "https://open.spotify.com/track/5aqmWrDgnyQ2OVn6UgBko3"
     },
     {
       "added_at": "2023-08-29 17:00:51",

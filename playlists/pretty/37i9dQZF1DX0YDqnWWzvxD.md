@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,717 likes - 105 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,888 likes - 105 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 13 | [Blue Dunes](https://open.spotify.com/track/7p8brxEGCXT8VF4wWphDGI) | [Soulgarden](https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps) | [Blue Dunes](https://open.spotify.com/album/5L1AdJPeUnvRwyEk8OFx6g) | 2:48 |
 | 14 | [Letting Go](https://open.spotify.com/track/2oAy91CfPUhc9J6aiRR0DA) | [Shaman's Dream](https://open.spotify.com/artist/3ohmouyL3xWW70OiC5ATDI), [Bluetech](https://open.spotify.com/artist/5yUtOYdnxxWdcIoZM1dx68) | [Prana Pulse](https://open.spotify.com/album/5O4WzB9mVJobYtlpFILShK) | 9:17 |
 | 15 | [Silhouette](https://open.spotify.com/track/5lRRE3eWhkqgPsaEhz8Fh3) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Silhouette](https://open.spotify.com/album/29yO7eFlCYQ5bRraWemqq9) | 2:49 |
-| 16 | [The Hierophant](https://open.spotify.com/track/4Vw5cNbZiNABO9Dh7dem5o) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX), [Jai Uttal](https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Spirit of Yoga](https://open.spotify.com/album/0uWowf3r9cp0nBhNZX9IsZ) | 15:13 |
+| 16 | [The Hierophant](https://open.spotify.com/track/4nRhynmgCd9vL8Y9gcpuJL) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX), [Jai Uttal](https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Spirit of Yoga](https://open.spotify.com/album/1l3hBKUDwHTodVmr77MIXf) | 15:13 |
 | 17 | [Indian Nights](https://open.spotify.com/track/0tqngYytTrZi44CRIWnVz7) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [OM Yoga Mix](https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P) | 11:26 |
 | 18 | [Savasana](https://open.spotify.com/track/3Vdmlvo70yXOD0z2DSkHGJ) | [Mirabai Ceiba](https://open.spotify.com/artist/2qBg3GRK1U9XCkJ9JabBt3) | [Meditations for Transformation: Cycle of Life](https://open.spotify.com/album/3W9Jqw4DcG9dfZm2Y53eU0) | 6:06 |
 | 19 | [Zen Dream](https://open.spotify.com/track/25XPqvEFcoBRJrOCMWXYyK) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Zen Dream](https://open.spotify.com/album/2i650uiyy3whaLil4v4cGv) | 3:34 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 104 | [Beauty of Hope](https://open.spotify.com/track/2FEewP7EII83tgFLNp6BuV) | [José Ramos](https://open.spotify.com/artist/2vdWaHPPPyxF2y41Pv6xEz) | [Beauty of Hope](https://open.spotify.com/album/3auSnGJcfyEVYm8U60Ch7D) | 2:40 |
 | 105 | [Nature's Bed](https://open.spotify.com/track/5O0F8J3nnm418xPwFlCPpG) | [Soft Sky](https://open.spotify.com/artist/2S1pbxlltIuIDrRypd7zWi) | [Nature's Bed](https://open.spotify.com/album/60aObkIVavhW6QdXVevRT1) | 2:11 |
 
-Snapshot ID: `MCxlMTAyMzUxZjkzMDM2YWE1ZjljYjM5MTNlMWI2MGIwODc1MWI5ZjVj`
+Snapshot ID: `MCwxMjIyZDgxODhjNTI4MzdkNmVmMGJkODc0OTU2MjFiNjY2NDdjZjFh`

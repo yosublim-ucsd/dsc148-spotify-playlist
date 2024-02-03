@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: BAEKHO, Park Ji Won\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,791 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,738 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 30 | [A little bit more](https://open.spotify.com/track/7zQfolCu9NJF1M8rwPOERI) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0), [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Whats wrong with secretary kim OST Part.4](https://open.spotify.com/album/52fLYrQxllSI9fJOp0lS3I) | 3:24 |
 | 31 | [I Wanna Be](https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:13 |
 | 32 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 |
-| 33 | [Sunshine](https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sunshine](https://open.spotify.com/album/4MolsOrmb3pU7jKghkFZyr) | 3:15 |
-| 34 | [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW) | 3:08 |
-| 35 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 |
-| 36 | [PLAY \(feat\. Changmo\)](https://open.spotify.com/track/4gJLkQRcGRJRoHJAavP9iN) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:19 |
+| 33 | [PLAY \(feat\. Changmo\)](https://open.spotify.com/track/4gJLkQRcGRJRoHJAavP9iN) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 3:19 |
+| 34 | [Sunshine](https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Sunshine](https://open.spotify.com/album/4MolsOrmb3pU7jKghkFZyr) | 3:15 |
+| 35 | [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW) | 3:08 |
+| 36 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 |
 | 37 | [Love Virus](https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS), [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [Whats wrong with secretary kim OST Part.1](https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR) | 3:27 |
 | 38 | [Like You](https://open.spotify.com/track/2HrzH60nFePfGF5RqFK5YW) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic), [Kim So\-hee](https://open.spotify.com/artist/3Tu9nOmJPyDU0iMigimme3) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/3nl0nBHYgB06JpPrcsAYXd) | 3:25 |
 | 39 | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 49 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 |
 | 50 | [Freesia](https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:49 |
 
-Snapshot ID: `MCw1OWU3NWZkNDdiMGNlOTYzNzcxMjI2NWFkODUyYjgyNWI2NWJiMjIx`
+Snapshot ID: `MCwwZDI2MDJkYjYwOGYyZTdmYTA2YzYxMTExZTA4OWVjMGFhNTA2Mjli`

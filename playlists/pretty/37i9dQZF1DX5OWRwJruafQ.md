@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,822 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,851 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [.45](https://open.spotify.com/track/4mym4dNc5XPEAXP7Orzq18) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [.45](https://open.spotify.com/album/6vG52FnBHzc61469A3yiBs) | 2:40 |
 | 2 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 |
 | 3 | [Heel](https://open.spotify.com/track/3RjYCv0aBmCzZyLRIHH4o8) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Billo Kehndi](https://open.spotify.com/album/0zufKiU1f4TQOmcpTDpnpW) | 3:22 |
-| 4 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 |
-| 5 | [The Jatts](https://open.spotify.com/track/6OBlaBatU62ohkau4G9vLr) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [The Jatts](https://open.spotify.com/album/64n0oSlEC8c7bgzFjuWqFv) | 2:41 |
-| 6 | [Jalwa](https://open.spotify.com/track/40F1lbxeOINcF2VOC7yt3S) | [Jot Ladhar](https://open.spotify.com/artist/6uB5Rk4rcsvBH3XFjeoBDR), [Kash Ladhar](https://open.spotify.com/artist/5aX4K8tN6Ii8JIGFRcs3uR), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Jalwa](https://open.spotify.com/album/2Lwf3gqTD5n18onGycB4gg) | 3:06 |
-| 7 | [Mind Map](https://open.spotify.com/track/5gYF95v7W7sbKWHLM5VTBj) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Mind Map](https://open.spotify.com/album/0qQ6zM8aN3d3Gqy6w3g3tL) | 2:42 |
-| 8 | [4 Days](https://open.spotify.com/track/4pQbBdYF0Q51WgpDNeYqP7) | [Ammy Gill](https://open.spotify.com/artist/5haYUb5jgBXUG4zVm6lp4Z) | [4 Days](https://open.spotify.com/album/7c9es6ncieiN3y3tGVyxPV) | 3:41 |
-| 9 | [Katal Hai](https://open.spotify.com/track/0ppQ1j4cxF7ASw4wI9xa07) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Inder Dosanjh](https://open.spotify.com/artist/4uhm0dnOES3u20XHR4HTQY), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Katal Hai](https://open.spotify.com/album/2eVE7V73mCGujc6VjBQjKx) | 2:28 |
-| 10 | [33](https://open.spotify.com/track/7JtCTnYXJvn2tcD5MmEjgQ) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [33](https://open.spotify.com/album/055Za6Wlf00WEYJefGjgxL) | 2:49 |
-| 11 | [Executioner](https://open.spotify.com/track/6qCfjN5FG8PznhZK8BQ1Vn) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG) | [Executioner](https://open.spotify.com/album/2LAQrYQv9hTHbJK2jT8iFZ) | 2:57 |
-| 12 | [Solitaire](https://open.spotify.com/track/1n7t90EHOJGQWhiJqo5mYi) | [Baagi Bhangu](https://open.spotify.com/artist/5tzaapcjlO7OKpqyQWoeXM), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [Balwan Brar](https://open.spotify.com/artist/6pWyg1gsUxMEMoQyEQBY2O) | [Solitaire](https://open.spotify.com/album/72sPp1nVzvfG5V9VrJaScH) | 3:08 |
+| 4 | [Hot Shit](https://open.spotify.com/track/5olluo8Xh733gDwhmchDlp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:43 |
+| 5 | [Way Bigger](https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:40 |
+| 6 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 |
+| 7 | [The Jatts](https://open.spotify.com/track/6OBlaBatU62ohkau4G9vLr) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [The Jatts](https://open.spotify.com/album/64n0oSlEC8c7bgzFjuWqFv) | 2:41 |
+| 8 | [Jalwa](https://open.spotify.com/track/40F1lbxeOINcF2VOC7yt3S) | [Jot Ladhar](https://open.spotify.com/artist/6uB5Rk4rcsvBH3XFjeoBDR), [Kash Ladhar](https://open.spotify.com/artist/5aX4K8tN6Ii8JIGFRcs3uR), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Jalwa](https://open.spotify.com/album/2Lwf3gqTD5n18onGycB4gg) | 3:06 |
+| 9 | [Mind Map](https://open.spotify.com/track/5gYF95v7W7sbKWHLM5VTBj) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Mind Map](https://open.spotify.com/album/0qQ6zM8aN3d3Gqy6w3g3tL) | 2:42 |
+| 10 | [4 Days](https://open.spotify.com/track/4pQbBdYF0Q51WgpDNeYqP7) | [Ammy Gill](https://open.spotify.com/artist/5haYUb5jgBXUG4zVm6lp4Z) | [4 Days](https://open.spotify.com/album/7c9es6ncieiN3y3tGVyxPV) | 3:41 |
+| 11 | [33](https://open.spotify.com/track/7JtCTnYXJvn2tcD5MmEjgQ) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [33](https://open.spotify.com/album/055Za6Wlf00WEYJefGjgxL) | 2:49 |
+| 12 | [Executioner](https://open.spotify.com/track/6qCfjN5FG8PznhZK8BQ1Vn) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG) | [Executioner](https://open.spotify.com/album/2LAQrYQv9hTHbJK2jT8iFZ) | 2:57 |
 | 13 | [Top Flame](https://open.spotify.com/track/3u6jK5KR1ijBCUs4CLzV9c) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Top Flame](https://open.spotify.com/album/2DcComXPapapQcGrNSuPkt) | 2:44 |
 | 14 | [Okay](https://open.spotify.com/track/1QfmomQjeg37hIDyLqTABd) | [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Ishan](https://open.spotify.com/artist/5VUpMJVhsIjr7UshFyoWVu), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Okay](https://open.spotify.com/album/0UMoOBB3W3NyzpJx3MUrRu) | 2:40 |
 | 15 | [ARMED](https://open.spotify.com/track/2exH5Jiafijol1Y5toP5xL) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Nah They Can't](https://open.spotify.com/track/5RXc1cmSNl3DSRThl2Ii4W) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:24 |
 | 100 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 |
 
-Snapshot ID: `MCwzMjk3ODE2ZGZkYjRmNmEzN2FkNjAyZDhkYWM4NzczZWIxZDA0OTE5`
+Snapshot ID: `MCw5YjkxNTRjNjg5NmE0ZGYwZTI0MTU4MzEzMjgyMDQyOWFiYjE3ZjAz`

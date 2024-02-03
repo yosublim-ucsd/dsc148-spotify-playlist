@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 70764,
+  "2024-02-03": 70834,
   "date_first_scraped": "2022-05-26",
   "description": "For body and mind, blues straight from the soul.",
   "name": "Healin' Blues",
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 315373,
       "name": "Ain't Nobody's Business",
       "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 280626,
       "name": "I Need Some Air",
       "url": "https://open.spotify.com/track/2AkVirM9aeaGbl3pLX32n4"

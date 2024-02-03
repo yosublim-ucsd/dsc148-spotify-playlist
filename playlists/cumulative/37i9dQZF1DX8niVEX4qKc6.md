@@ -2,9 +2,9 @@
 
 ### [Modo Acústico](https://open.spotify.com/playlist/37i9dQZF1DX8niVEX4qKc6)
 
-> Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: El Zar ft Zoe Gotusso
+> Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Mica Sotera
 
-124 songs - 7 hr 25 min
+125 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Flotando \(Acústico\)](https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Flotando \(Acústico\)](https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh) | 4:16 | 2023-08-18 | 2024-01-01 |
 | [fue mejor // acoustic](https://open.spotify.com/track/2RjrsjKraJjQUYdCYQ30ap) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [sin miedo // acoustic](https://open.spotify.com/album/1E7wN2lvLdZmoAmIXmPtRd) | 3:09 | 2023-08-18 | 2023-10-27 |
 | [Fuji](https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Frontera / Fuji](https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr) | 4:38 | 2023-08-18 |  |
+| [Hablando a tu corazón](https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Hablando a tu corazón](https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh) | 3:59 | 2024-02-02 |  |
 | [Hay Momentos \- Acústico](https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Hay Momentos \(Acústico\)](https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG) | 4:39 | 2023-11-10 |  |
 | [Heridas \- Acoustic Version](https://open.spotify.com/track/2hqgGbTxWK7fToF9QELlgD) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Heridas \(Acoustic Version\)](https://open.spotify.com/album/7FKndOez6kYh87LWvgdB4p) | 3:16 | 2023-09-29 | 2023-12-23 |
 | [INTENSIDAD](https://open.spotify.com/track/3Uxv4vwiTiVFq53vJGtVzJ) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [INTENSIDAD](https://open.spotify.com/album/1YF0w8x0aPfLp8kdWhIhI5) | 2:38 | 2023-08-18 |  |
@@ -93,7 +94,7 @@
 | [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 | 2023-08-18 |  |
 | [Oma](https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Oma](https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX) | 3:18 | 2023-08-18 |  |
 | [Otro Día](https://open.spotify.com/track/6b1w4TmYneGyuyyI9LWorG) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 2:41 | 2023-12-08 | 2024-01-12 |
-| [Paloma \- Romaphonic](https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Romaphonic Sessions](https://open.spotify.com/album/4WBgkA2GTBT6Vc2Eo7hjpl) | 4:39 | 2024-01-11 |  |
+| [Paloma \- Romaphonic](https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Romaphonic Sessions](https://open.spotify.com/album/4WBgkA2GTBT6Vc2Eo7hjpl) | 4:39 | 2024-01-11 | 2024-02-03 |
 | [Pasan las Horas \- En Vivo Acústico](https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:36 | 2023-08-18 |  |
 | [Pasos Al Costado](https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turf](https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV) | 4:31 | 2023-10-26 |  |
 | [PELÍCULA](https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [PELÍCULA](https://open.spotify.com/album/6lT06CuWfp72mTbXZsnN9L) | 2:58 | 2023-12-23 |  |

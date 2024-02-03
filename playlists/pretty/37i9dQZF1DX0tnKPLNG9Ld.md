@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,268 likes - 87 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,319 likes - 87 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 7 | [These Are The Days](https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:21 |
 | 8 | [Days Of Wine And Roses](https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 2:15 |
 | 9 | [All Of You](https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday With Ray Ellis And His Orchestra](https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu) | 2:32 |
-| 10 | [Bye Bye Blackbird](https://open.spotify.com/track/7GBPpRMtLyGA6svXQMNfIN) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:14 |
-| 11 | [The Good Life](https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [I Wanna Be Around](https://open.spotify.com/album/11KbbI91LeZUkXALWALytD) | 2:14 |
+| 10 | [The Good Life](https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [I Wanna Be Around](https://open.spotify.com/album/11KbbI91LeZUkXALWALytD) | 2:14 |
+| 11 | [Bye Bye Blackbird](https://open.spotify.com/track/7GBPpRMtLyGA6svXQMNfIN) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:14 |
 | 12 | [It's A Lovely Day Today](https://open.spotify.com/track/0ApUPYg8ifMJZchhFeFLDs) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Perry Como with the Fontane Sisters \(with The Fontane Sisters\)](https://open.spotify.com/album/3eaYuwaKlw7yb1tjXMjtOD) | 2:40 |
 | 13 | [Sweet Happy Life](https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Guitars A La Lee](https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4) | 2:09 |
 | 14 | [I Could Write A Book](https://open.spotify.com/track/04kFa5D5by0or1IN6bI9N7) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Swings Rodgers And Hart](https://open.spotify.com/album/6LArOC2pxaG9rYlTCIIeXN) | 2:09 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 35 | [Cannonball](https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:14 |
 | 36 | ['S Wonderful](https://open.spotify.com/track/2ijBcYi7FZXt7bvuVb7NQz) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 2:55 |
 | 37 | [Make Someone Happy \- From "Do Re Mi"](https://open.spotify.com/track/0vFP6jMvrIsmxdwVdza7GA) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Broadway, Right Now!](https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw) | 2:12 |
-| 38 | [You're The Top](https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 2:25 |
-| 39 | [Hello Bright Sunflower \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [The Cat Walk](https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm) | 7:33 |
+| 38 | [Hello Bright Sunflower \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [The Cat Walk](https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm) | 7:33 |
+| 39 | [You're The Top](https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 2:25 |
 | 40 | [This Time The Dream's On Me \- Remastered](https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:19 |
 | 41 | [Happy Little Sunbeam](https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn) | [Chet Baker Quartet](https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc) | [Saga Jazz: Easy to Love \(Modern Series\)](https://open.spotify.com/album/4HGoxGmE65LXZgedyupHjY) | 2:47 |
 | 42 | [Lou's Blues](https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:44 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 64 | [Lady Bird](https://open.spotify.com/track/1mnd8k1NXdHuO4IBW54XaK) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker In Milan](https://open.spotify.com/album/799y7nYS7LqsZhwnU7C3Lz) | 4:44 |
 | 65 | [I Remember You](https://open.spotify.com/track/5KlMIo1vS3LQBHNcubfcxc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Desafinado](https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4) | 3:59 |
 | 66 | [Have You Met Miss Jones?](https://open.spotify.com/track/46JqjQRnB54xVejTR7VUUQ) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Swing Along With Me](https://open.spotify.com/album/0n1GnE4WG4suFnOZeBouVT) | 2:31 |
-| 67 | [Give Me The Simple Life](https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie..\. At Home](https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0) | 2:05 |
-| 68 | [I Only Have Eyes For You](https://open.spotify.com/track/6mDS8U8TRHIpAQbjKeb53B) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [When You're Away](https://open.spotify.com/album/0zcp9PFB5tBzLS8V9ZPqgK) | 3:48 |
+| 67 | [I Only Have Eyes For You](https://open.spotify.com/track/6mDS8U8TRHIpAQbjKeb53B) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [When You're Away](https://open.spotify.com/album/0zcp9PFB5tBzLS8V9ZPqgK) | 3:48 |
+| 68 | [Give Me The Simple Life](https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie..\. At Home](https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0) | 2:05 |
 | 69 | [Wishing Well](https://open.spotify.com/track/3Wfs3Gz0mKCkQY318FcUjG) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 2:44 |
 | 70 | [Woman's Got Soul](https://open.spotify.com/track/6EHJcbjjFtukS3aIwnynqM) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra](https://open.spotify.com/album/4tCP6ZGeKDOhlhtl1bcoVA) | 2:22 |
 | 71 | [If I Were a Bell \- 2004 Remaster](https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Shirley / Let's Face the Music](https://open.spotify.com/album/0D5WPntQovwI7mfrteZan6) | 2:54 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 86 | [Lullaby of Birdland](https://open.spotify.com/track/5EnAlrMmygDNpm6ReZC3ED) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Jazz Voices](https://open.spotify.com/album/635hnlkrA2VznGlaSHv4eT) | 2:29 |
 | 87 | [Deed I Do](https://open.spotify.com/track/0RqNcBJILvtCJH82auUnKs) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Buddy Bregman](https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs) | [Bing Sings Whilst Bregman Swings](https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY) | 2:49 |
 
-Snapshot ID: `MCwwN2JkNWZiNjRlMmY5YWUyMDg0ODAyNDE4MWZhMzI4M2UxNmYzZTg5`
+Snapshot ID: `MCw1NzBkMWJhYmZiNDUzNDhiODYyZDE3OThiMzJlNWQ5ODRkNDQ4NjAz`

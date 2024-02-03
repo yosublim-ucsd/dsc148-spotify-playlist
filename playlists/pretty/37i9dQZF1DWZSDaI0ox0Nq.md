@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,471 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,476 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 18 | [Sería Facil Decir](https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 2:34 |
 | 19 | [Arrabalera](https://open.spotify.com/track/3WZakNuKCtJJxh7dTPyT17) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP) | [Tita De Buenos Aires](https://open.spotify.com/album/1GrP6d9082GxRkiXx2gsBP) | 2:16 |
 | 20 | [Haedo Sur](https://open.spotify.com/track/0ZUeTlKIQG0hiTSuaVtRCu) | [Natalia Bazán](https://open.spotify.com/artist/2Wp5c6RzMcfX1LAzu8c1Y6), [Alejandro Aguilar](https://open.spotify.com/artist/4rpWarcBvKroTbc81jgY7n) | [De Barro y Cielo](https://open.spotify.com/album/5NXv9a0Y3eRkFbpiyPTQrQ) | 2:50 |
-| 21 | [Por una Cabeza](https://open.spotify.com/track/0qVDC2Swbbs7VrgZu3fe6P) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Adriana Varela y Piano](https://open.spotify.com/album/7yndjj9dS2GfQzQQiZzWpv) | 3:13 |
-| 22 | [Mujer niña y amiga](https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7) | [Alicia Vignola](https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A) | [Azsulado](https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM) | 3:16 |
+| 21 | [Mujer niña y amiga](https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7) | [Alicia Vignola](https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A) | [Azsulado](https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM) | 3:16 |
+| 22 | [Por una Cabeza](https://open.spotify.com/track/0qVDC2Swbbs7VrgZu3fe6P) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Adriana Varela y Piano](https://open.spotify.com/album/7yndjj9dS2GfQzQQiZzWpv) | 3:13 |
 | 23 | [Siempre Se Vuelve a Bs\. As.](https://open.spotify.com/track/3xjANYsJ2nMZBLr7T6lDcZ) | [Eladia Blázquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [Con las Alas del Alma](https://open.spotify.com/album/1IJDQDltstBfcrxE7IoJii) | 3:01 |
 | 24 | [Naranjo en Flor \(feat\. Mercedes Sosa\)](https://open.spotify.com/track/25NuGWk6dbNy8Eyt6zNlsR) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 3:45 |
 | 25 | [Villa Crespo](https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:03 |
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 27 | [En Ese Ayer/Ventarrón](https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 4:02 |
 | 28 | [Pipistrela](https://open.spotify.com/track/6MZlsIdezdAiBwrZrxweNd) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP), [Francisco Canaro Y Su Orquesta Tipica](https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 1:53 |
 | 29 | [Nada](https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 3:58 |
-| 30 | [Baldosa Floja](https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Canta](https://open.spotify.com/album/6PDbU5wE5nZCAkXVIuvVm8) | 2:10 |
+| 30 | [La Canción y el Poema \(Morir de Amor\)](https://open.spotify.com/track/5FF4C9ZJQdK8vRDiPAy3Nc) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Morir de Amor](https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo) | 3:17 |
 | 31 | [Tango Negro](https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE) | [Libertad Lamarque](https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ) | [Tesoros De Coleccion \- Libertad Lamarque](https://open.spotify.com/album/5MOU8QeUpJ7vCBfVi5sM1p) | 2:58 |
 | 32 | [Fruta Amarga](https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:29 |
 | 33 | [Garganta Con Arena](https://open.spotify.com/track/6BjIumHEDyRxgocfAfwsXL) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Toda Mi Vida](https://open.spotify.com/album/17AJEwOMBmI6xhykdOBCI7) | 4:08 |
 | 34 | [Adios Nonino](https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo) | [Eladia Blázquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [Serie De Oro](https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi) | 4:46 |
 | 35 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 |
 | 36 | [El Corazón al Sur](https://open.spotify.com/track/5t0QIkUpZOoejnKXeZ8z2s) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Eladia Blázquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 4:03 |
-| 37 | [La Canción y el Poema \(Morir de Amor\)](https://open.spotify.com/track/5FF4C9ZJQdK8vRDiPAy3Nc) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Morir de Amor](https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo) | 3:17 |
+| 37 | [Baldosa Floja](https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Canta](https://open.spotify.com/album/6PDbU5wE5nZCAkXVIuvVm8) | 2:10 |
 | 38 | [La Mariposa](https://open.spotify.com/track/17iPZmaID95A2XxcTDBXoh) | [La Chicana](https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ) | [Lejos](https://open.spotify.com/album/3Bejr5wnkAxczzVqZKYfSc) | 4:05 |
 | 39 | [Milonga Sentimental](https://open.spotify.com/track/1uJeHbIPeOKGfEEJujJkP7) | [Mercedes Simone](https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W) | [Presentando a Mercedes Simone](https://open.spotify.com/album/6HNgJ8dZflujytFtS4TUm3) | 2:38 |
 | 40 | [Malena](https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ) | [Vos y yo](https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw) | 3:58 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 54 | [Sur](https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [Tangos Famosos Cantados](https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo) | 3:18 |
 | 55 | [O Mundo](https://open.spotify.com/track/5PcNboFYzIcbgOjNhSzMgX) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Tiempo Mariposa](https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P) | 4:09 |
 
-Snapshot ID: `MCxmZTVkZmIxZjE2MzJmYjIyN2FjMGIzODUxNDAxZTVhZTNjNDAyZjEy`
+Snapshot ID: `MCwwOGY4Njk5ODg1OTZmYTIxNGY3YTg4ZWNmZjQ2ZmQ0MzFiODc0MWEx`

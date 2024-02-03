@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it\. Cover: Knox
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,817 likes - 125 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,872 likes - 125 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,16 +52,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 42 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 |
 | 43 | [Punching Bag](https://open.spotify.com/track/7fudux10sVIxILOocZaHrW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punching Bag](https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS) | 2:59 |
 | 44 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 |
-| 45 | [FELL IN LOVE](https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 2:18 |
-| 46 | [Loud](https://open.spotify.com/track/3MmAHvXormpk5x55Ttb72F) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Loud](https://open.spotify.com/album/5DqyMoEDgQ3Npv2Rp7wTxc) | 3:07 |
+| 45 | [Loud](https://open.spotify.com/track/3MmAHvXormpk5x55Ttb72F) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Loud](https://open.spotify.com/album/5DqyMoEDgQ3Npv2Rp7wTxc) | 3:07 |
+| 46 | [FELL IN LOVE](https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 2:18 |
 | 47 | [Dress](https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:23 |
 | 48 | [Out Of My System](https://open.spotify.com/track/4QU579S6uCG9vWaHUeGnLp) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Faith In The Future \(Deluxe\)](https://open.spotify.com/album/2RMzjdvRjr9gd2XgS5PnEn) | 2:17 |
 | 49 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 |
 | 50 | [I Want To Be With You](https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:59 |
 | 51 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 |
 | 52 | [Cinderella Snapped](https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Cinderella Snapped](https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n) | 2:53 |
-| 53 | [How Do You Love Somebody](https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [How Do You Love Somebody](https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc) | 3:00 |
-| 54 | [In My Head](https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [In My Head](https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm) | 2:52 |
+| 53 | [In My Head](https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [In My Head](https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm) | 2:52 |
+| 54 | [How Do You Love Somebody](https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [How Do You Love Somebody](https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc) | 3:00 |
 | 55 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 |
 | 56 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 |
 | 57 | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK) | 2:29 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 92 | [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 |
 | 93 | [the idea](https://open.spotify.com/track/5DUgpa3TrMXqUy5lvV5XT2) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:24 |
 | 94 | [Everknown](https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Everknown](https://open.spotify.com/album/1Y7aDjyMGak66mefhptdXx) | 4:25 |
-| 95 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 |
-| 96 | [I Hope I'm Not Sick](https://open.spotify.com/track/37QHhhnI5uuYSuJuWskV86) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [I Hope I'm Not Sick](https://open.spotify.com/album/34jYFXH3ybEIklGpPGzJ9D) | 2:31 |
+| 95 | [I Hope I'm Not Sick](https://open.spotify.com/track/37QHhhnI5uuYSuJuWskV86) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [I Hope I'm Not Sick](https://open.spotify.com/album/34jYFXH3ybEIklGpPGzJ9D) | 2:31 |
+| 96 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 |
 | 97 | [Middle Of A Breakup](https://open.spotify.com/track/18Lvxsm4l6noRNjQW8nS4b) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:20 |
 | 98 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 |
 | 99 | [Alive](https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Alive](https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv) | 3:12 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 113 | [30 Somehow](https://open.spotify.com/track/7kr4xACIU9qq0FXnOFVSTZ) | [Nicotine Dolls](https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM) | [How Do You Love Me](https://open.spotify.com/album/2fOuSjF8vzo5dptyMi8o5s) | 4:41 |
 | 114 | [Alive and Unwell](https://open.spotify.com/track/4XFwLmozZe73WYcryOwhoh) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 2:01 |
 | 115 | [Head in the Clouds](https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Head in The Clouds](https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH) | 2:55 |
-| 116 | [Red Lights](https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Red Lights / Ireland](https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR) | 2:27 |
-| 117 | [Never Be Yours](https://open.spotify.com/track/5lSFXnuWpDpOv9unx2gwFr) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Never Be Yours](https://open.spotify.com/album/5kurSw80ftphOZwKYswRGZ) | 3:07 |
+| 116 | [Never Be Yours](https://open.spotify.com/track/5lSFXnuWpDpOv9unx2gwFr) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Never Be Yours](https://open.spotify.com/album/5kurSw80ftphOZwKYswRGZ) | 3:07 |
+| 117 | [Red Lights](https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Red Lights / Ireland](https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR) | 2:27 |
 | 118 | [Day Job](https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN) | [Jayden Seeley](https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy), [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Day Job](https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi) | 2:38 |
 | 119 | [Sonder](https://open.spotify.com/track/75CAy481QzLqCOKggIpsFi) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Sonder](https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20) | 3:20 |
 | 120 | [Habitual](https://open.spotify.com/track/5q8dOqEprhcGuQorkRIWXZ) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f) | 2:45 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 124 | [Already Dead](https://open.spotify.com/track/3AgnnuHliXoWbS3TfCKirV) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Cult Classic](https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3) | 2:39 |
 | 125 | [the feeling](https://open.spotify.com/track/0FZoGTWJNMUYCzcJRXe5ny) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [wear your heart out](https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu) | 3:11 |
 
-Snapshot ID: `MCwwNTQxMTRkYTAwM2RhMmEzNzBiNTZkY2VkYTAwMjI5OTliZmFkMDVk`
+Snapshot ID: `MCw4ODYyYzAwZDM0ZWM2YjAxMmVmYzY2MWM0Y2Q0ZGU5OTk3YTA1ODc4`

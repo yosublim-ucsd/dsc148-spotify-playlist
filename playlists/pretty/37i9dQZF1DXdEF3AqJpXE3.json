@@ -1,12 +1,12 @@
 {
   "description": "The best tracks from the world of music. Cover: Ariana Grande",
-  "num_followers": 172917,
+  "num_followers": 172902,
   "original_name": "Hot Hits Singapore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjA2MmE3NjNkZjZhOTExNTM4YjBiZmUzOTJhYWViNjE3NjVlMWFm",
+  "snapshot_id": "MCw0M2U4NTNjZDAwOWY5ZmM1ZmUwY2FmZGZmNmQ5YWVmY2ZlZmVmYmE3",
   "tracks": [
     {
       "added_at": "2024-02-01 16:00:00",
@@ -309,7 +309,7 @@
         }
       ],
       "duration_ms": 184400,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "name": "Seven (feat. Latto)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {

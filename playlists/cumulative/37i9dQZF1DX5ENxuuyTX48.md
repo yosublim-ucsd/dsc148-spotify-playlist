@@ -4,7 +4,7 @@
 
 > wru? OTW! Cover: Jinan Laetitia
 
-792 songs - 1 day 23 hr 38 min
+794 songs - 1 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [BuruTerBuru \(feat\. Hazama & Boy Clifford\)](https://open.spotify.com/track/7u9WjGbwWS2pXB4bH6pHVp) | [Meet Uncle Hussain](https://open.spotify.com/artist/6DsEf5tVXFxGqG3on83Bm3), [Hazama](https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI), [Boy Clifford](https://open.spotify.com/artist/5QmIFGBBjFDMlFYNnoiZk9) | [BuruTerBuru \(feat\. Hazama & Boy Clifford\)](https://open.spotify.com/album/0zxibpvy3ruINN4iwhlCaH) | 3:29 | 2023-11-17 | 2023-11-25 |
 | [BUTTONS](https://open.spotify.com/track/63KqHfBRWTWo7PkQj5t947) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD), [Kidmeddling](https://open.spotify.com/artist/1Wtp5gxsbuzXJnFOgd3uXZ) | [chapter one](https://open.spotify.com/album/5Pu5aw5SnOz3NljFQowoob) | 2:47 | 2023-07-28 | 2023-08-04 |
 | [Butuh Bertemu](https://open.spotify.com/track/0KdXl1c9HTJAnYiIL4ZOH9) | [JESENN](https://open.spotify.com/artist/3cNQyXzy5m2IL2qplegOSq) | [Butuh Bertemu](https://open.spotify.com/album/6nm1m09lDyHLglbiMgxsD2) | 4:10 | 2023-10-19 | 2023-10-28 |
+| [BY YOUR SIDE](https://open.spotify.com/track/7gG4zvBiCXLSiTi5M6qqhv) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby) | [BY YOUR SIDE](https://open.spotify.com/album/2uuBBXx7DYRQF7jAg06SsT) | 2:41 | 2024-02-02 |  |
 | [Bye](https://open.spotify.com/track/5GoL66KMxK545exM1BR43t) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Bye](https://open.spotify.com/album/6qAjIPCAssJUpYidyXoIXp) | 3:46 | 2023-06-15 | 2023-06-23 |
 | [Cahaya](https://open.spotify.com/track/0Z8RpyoRA6FHqD6ihym0MP) | [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw) | [Cahaya](https://open.spotify.com/album/6ALmw0ZrF36Z7TWLtfzT07) | 2:59 | 2023-04-13 | 2023-05-05 |
 | [CahayaMu](https://open.spotify.com/track/4wUAArkEOiDdq9ZIE3RLnu) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [CahayaMu](https://open.spotify.com/album/1c3nxW9IvpCUpPM8hhaASd) | 3:21 | 2023-03-24 | 2023-05-05 |
@@ -177,7 +178,7 @@
 | [Crush](https://open.spotify.com/track/0Gu3afSvsi2doKPPTKy6Ur) | [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [Crush](https://open.spotify.com/album/6cM3IfZGLJdrq5awnftJfI) | 3:35 | 2023-08-03 | 2023-08-11 |
 | [crying over nothing \(wah wah\)](https://open.spotify.com/track/1pkjS4ml1e7c5n6HNPHdeh) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC) | [cryin over nothin \(wah wah\)](https://open.spotify.com/album/615vh8PeIsnxjxu152zQco) | 2:53 | 2024-01-12 | 2024-01-20 |
 | [Cukup](https://open.spotify.com/track/4ckN01pAGtUBI3hyyieGgz) | [Fieya Julia](https://open.spotify.com/artist/1jSD4QWACN76zckZySJWVA) | [Cukup](https://open.spotify.com/album/3yhx3n2NSZiuRMAj6lJfRW) | 4:09 | 2023-11-17 | 2023-11-25 |
-| [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 | 2023-09-15 |  |
+| [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 | 2023-09-15 | 2024-02-03 |
 | [Cukuplah](https://open.spotify.com/track/67Waz67okfBOlMVpg1UitI) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [A.R](https://open.spotify.com/album/5Jearm6TNWQC1QF2pu7ojR) | 3:34 | 2023-11-24 | 2023-12-02 |
 | [Cyber Ritual](https://open.spotify.com/track/0HWDVGsXnDgrZvLuMQjF8t) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [Cyber Ritual](https://open.spotify.com/album/0kkyz2SNUP7xK0srH2Tl8S) | 2:40 | 2023-12-08 | 2023-12-15 |
 | [Dag Dig Dug](https://open.spotify.com/track/1VbdFxbe3Bt41FGVe4gI8x) | [Alessa](https://open.spotify.com/artist/6KPOKd7taNna1xLsfpalli) | [Alessa](https://open.spotify.com/album/0HH8oiW48EN0Q3z42GKLcS) | 3:52 | 2023-12-21 | 2024-01-13 |
@@ -539,6 +540,7 @@
 | [Para Pencari Mu](https://open.spotify.com/track/74wT64j7qz2LJdR56Bsmst) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Top Hits Religi UNGU](https://open.spotify.com/album/5LUvKmNlUENvnHrqDW4Xqn) | 4:33 | 2023-03-24 | 2023-05-05 |
 | [Parasite](https://open.spotify.com/track/4zEXOewY4f3ITJd43MZ76u) | [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [Eva Celia](https://open.spotify.com/album/5ytIY5JSaLVxOwYWaY7xYx) | 3:20 | 2023-08-24 | 2023-09-01 |
 | [Party Trick](https://open.spotify.com/track/0slTP2DqrsL1bEefemJOjv) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [Party Trick](https://open.spotify.com/album/4r8nfQcmlG5bZhe0c197m2) | 4:16 | 2023-08-18 | 2023-08-25 |
+| [Passion](https://open.spotify.com/track/2b6OKMa6k6wvsoVk5NtDMa) | [HANISA](https://open.spotify.com/artist/12aAsVqTdYv0Tp3bv3g7xk), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [Passion](https://open.spotify.com/album/0jnnt5REE89oV5E5QrV6Au) | 3:03 | 2024-02-02 |  |
 | [Pastikan Riuh Akhiri Malammu](https://open.spotify.com/track/34D2sMturBbWp6DS8MyIBM) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Memorandum](https://open.spotify.com/album/2ZI3XeIrCM1PsOtK3rlMth) | 4:12 | 2023-05-04 | 2023-05-26 |
 | [Payung Pelangi \(feat\. MK K\-Clique\)](https://open.spotify.com/track/53TT3PgtBMoVHHhIPj5WRS) | [Noki](https://open.spotify.com/artist/3O7w6MOsgE4B0oAUcE9RlE), [MK \(K CLIQUE\)](https://open.spotify.com/artist/3pTRm5nZTXy5t6JY4m4HX7) | [Payung Pelangi \(feat\. MK K\-Clique\)](https://open.spotify.com/album/2OyZmp3p8OP0vvcXn77ye7) | 3:10 | 2023-03-24 | 2023-05-05 |
 | [Pejam](https://open.spotify.com/track/70ZVALP5Zdc5RwYmRqcCuJ) | [Khai Bahar](https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq), [Adira Suhaimi](https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF) | [Pejam](https://open.spotify.com/album/5Mx54PHn9cyvTA7MqHIRNb) | 3:45 | 2023-09-22 | 2023-09-29 |
@@ -550,7 +552,7 @@
 | [Penipu \- Malay](https://open.spotify.com/track/0DwWNikijGFLxvzwaktEBh) | [Soo Wincci](https://open.spotify.com/artist/4e4wVXnFUIJ5EbcW9GtL2n) | [Penipu \(Malay\)](https://open.spotify.com/album/2qgC7Vq7HXCaZYXJeCPJH9) | 3:49 | 2023-11-10 | 2023-11-18 |
 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2023-06-22 |  |
 | [Pentas](https://open.spotify.com/track/7qFcJmer7ZjSoML3UMmPIn) | [Bil Musa](https://open.spotify.com/artist/6tWZW3i1byYPxPNW7EZmr9) | [Pentas](https://open.spotify.com/album/1HIqXdcqQbPUZgJIBj06Xe) | 3:11 | 2023-10-19 | 2023-10-28 |
-| [perayaan mati rasa](https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f) | [Umay Shahab](https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [when it all ends HERE](https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL) | 4:45 | 2023-08-31 |  |
+| [perayaan mati rasa](https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f) | [Umay Shahab](https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [when it all ends HERE](https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL) | 4:45 | 2023-08-31 | 2024-02-03 |
 | [Perfect Liar](https://open.spotify.com/track/1IcFzx5ZhBwhJip1uUEutu) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Perfect Liar](https://open.spotify.com/album/13lnSHurw0D0Pri5g6cB7m) | 3:04 | 2023-11-02 | 2023-11-11 |
 | [Performance In a Dream \(feat\. Our Shame\)](https://open.spotify.com/track/1MHSNAn5Y3w8BsfNwqKA73) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [Nightvision \(Love Is God 13/16 Edition\)](https://open.spotify.com/album/4MhBkAPrf0TSioJv7b2Re1) | 4:25 | 2023-11-10 | 2023-11-18 |
 | [Pergilah Cinta](https://open.spotify.com/track/1vfkegBOtAeEz9QL9TPe5q) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Pergilah Cinta](https://open.spotify.com/album/5S531uFkP9huwujuoiif1D) | 3:58 | 2023-06-15 | 2023-09-15 |

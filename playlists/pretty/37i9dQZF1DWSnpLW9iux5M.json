@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.",
-  "num_followers": 61670,
+  "num_followers": 61657,
   "original_name": "Gospel Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWEyNmM1NjM2ZTMxMjFiNDBiZTk5MWU3ODRjYzc0ODNlOGZmMzc4",
+  "snapshot_id": "MCwyNTc1MTE3NzE2Mjc2YzE2YmZkNTA3MDQ4NjExNDYzYWI2N2Q2ZGI3",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "This Christmas (Recorded At Spotify Studios NYC)",
-        "url": "https://open.spotify.com/album/3X3z40mBB0GyMVX3LFRfrg"
-      },
-      "artists": [
-        {
-          "name": "Lalah Hathaway",
-          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
-        }
-      ],
-      "duration_ms": 209604,
-      "name": "This Christmas - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0Kdhb8UqEMYPjUMOXRQWD0"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Psalms, Hymns & Spiritual Songs",
         "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 219480,
       "name": "Agnus Dei",
       "url": "https://open.spotify.com/track/5ebTabNcIlDSVJ4uylOcX3"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "This Christmas (Recorded At Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/3X3z40mBB0GyMVX3LFRfrg"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "duration_ms": 209604,
+      "name": "This Christmas - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0Kdhb8UqEMYPjUMOXRQWD0"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -883,18 +883,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "First Christmas",
-        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
+        "name": "Mothers And Shepherds",
+        "url": "https://open.spotify.com/album/2n28BJpolDoB8VZQ9Wr3Dj"
       },
       "artists": [
         {
-          "name": "Bebe & Cece Winans",
-          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+          "name": "Shel\u00e9a",
+          "url": "https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG"
+        },
+        {
+          "name": "The Aeolians of Oakwood University",
+          "url": "https://open.spotify.com/artist/3k0f1Oq9w18Pd7VFpVbxik"
         }
       ],
-      "duration_ms": 270133,
-      "name": "For Unto Us (A Child Is Born)",
-      "url": "https://open.spotify.com/track/6vCh1sz0DsccWhs5nJHk3q"
+      "duration_ms": 234478,
+      "name": "Mothers And Shepherds",
+      "url": "https://open.spotify.com/track/4dNp6tEx0fcbiFGwF40h3k"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -919,22 +923,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Mothers And Shepherds",
-        "url": "https://open.spotify.com/album/2n28BJpolDoB8VZQ9Wr3Dj"
+        "name": "First Christmas",
+        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
       },
       "artists": [
         {
-          "name": "Shel\u00e9a",
-          "url": "https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG"
-        },
-        {
-          "name": "The Aeolians of Oakwood University",
-          "url": "https://open.spotify.com/artist/3k0f1Oq9w18Pd7VFpVbxik"
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
         }
       ],
-      "duration_ms": 234478,
-      "name": "Mothers And Shepherds",
-      "url": "https://open.spotify.com/track/4dNp6tEx0fcbiFGwF40h3k"
+      "duration_ms": 270133,
+      "name": "For Unto Us (A Child Is Born)",
+      "url": "https://open.spotify.com/track/6vCh1sz0DsccWhs5nJHk3q"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Christmas With Dottie",
+        "url": "https://open.spotify.com/album/6fgwFXYGyJ6XgCtxCjLKJU"
+      },
+      "artists": [
+        {
+          "name": "Dottie Peoples",
+          "url": "https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Jesus What a Wonderful Child",
+      "url": "https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "A Timeless Christmas",
         "url": "https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8"
       },
@@ -1047,34 +1063,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Christmas With Dottie",
-        "url": "https://open.spotify.com/album/6fgwFXYGyJ6XgCtxCjLKJU"
+        "name": "Tell God Thank You",
+        "url": "https://open.spotify.com/album/3h17JxbTHEzTq55RXgA3DZ"
       },
       "artists": [
         {
-          "name": "Dottie Peoples",
-          "url": "https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb"
+          "name": "Chicago Mass Choir",
+          "url": "https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla"
         }
       ],
-      "duration_ms": 255600,
-      "name": "Jesus What a Wonderful Child",
-      "url": "https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Fred Hammond Christmas... Just Remember",
-        "url": "https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "His Name Is Jesus",
-      "url": "https://open.spotify.com/track/2kqPEt1i8GxrBdTC0xpbFL"
+      "duration_ms": 218934,
+      "name": "Tell God Thank You",
+      "url": "https://open.spotify.com/track/0fEHRLNtuI86lLu02JAXY5"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Fred Hammond Christmas... Just Remember",
+        "url": "https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "His Name Is Jesus",
+      "url": "https://open.spotify.com/track/2kqPEt1i8GxrBdTC0xpbFL"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "A Mary Mary Christmas",
         "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 185213,
       "name": "'Tis the Season",
       "url": "https://open.spotify.com/track/2v73c52CSbgGcYnpoGF7Dw"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Tell God Thank You",
-        "url": "https://open.spotify.com/album/3h17JxbTHEzTq55RXgA3DZ"
-      },
-      "artists": [
-        {
-          "name": "Chicago Mass Choir",
-          "url": "https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla"
-        }
-      ],
-      "duration_ms": 218934,
-      "name": "Tell God Thank You",
-      "url": "https://open.spotify.com/track/0fEHRLNtuI86lLu02JAXY5"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Joy to the World",
+        "url": "https://open.spotify.com/album/6Uw2K7lvvXSKZkSO8JCreM"
+      },
+      "artists": [
+        {
+          "name": "Chicago Mass Choir",
+          "url": "https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla"
+        }
+      ],
+      "duration_ms": 244462,
+      "name": "Joy to the World",
+      "url": "https://open.spotify.com/track/5Ta266xo0Lzq5c4Kgm4rot"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Great Christmas",
         "url": "https://open.spotify.com/album/1BBSnDN7zRzoBf4bQncMGw"
       },
@@ -1235,6 +1251,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Warm",
+        "url": "https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC"
+      },
+      "artists": [
+        {
+          "name": "AO1 Collective",
+          "url": "https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5"
+        },
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Home This Christmas",
         "url": "https://open.spotify.com/album/3DPjsXVOAFrgnuujEnJyJc"
       },
@@ -1259,42 +1295,6 @@
       "duration_ms": 189176,
       "name": "Home This Christmas",
       "url": "https://open.spotify.com/track/4xhpkthtZ505fhk39Amx0K"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Joy to the World",
-        "url": "https://open.spotify.com/album/6Uw2K7lvvXSKZkSO8JCreM"
-      },
-      "artists": [
-        {
-          "name": "Chicago Mass Choir",
-          "url": "https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla"
-        }
-      ],
-      "duration_ms": 244462,
-      "name": "Joy to the World",
-      "url": "https://open.spotify.com/track/5Ta266xo0Lzq5c4Kgm4rot"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Warm",
-        "url": "https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC"
-      },
-      "artists": [
-        {
-          "name": "AO1 Collective",
-          "url": "https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5"
-        },
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Warm",
-      "url": "https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Christmas Best",
-        "url": "https://open.spotify.com/album/058tFyVjMZg2AvSfuRpaDR"
-      },
-      "artists": [
-        {
-          "name": "Le'Andria Johnson",
-          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
-        }
-      ],
-      "duration_ms": 160960,
-      "name": "Noel",
-      "url": "https://open.spotify.com/track/1vcmDhNzB2BnmciwE6H6f7"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Mary, Did You Know",
         "url": "https://open.spotify.com/album/7k3Ie50Rg7CSG7qNxNY4xD"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 180684,
       "name": "Mary Did You Know",
       "url": "https://open.spotify.com/track/1bqnnLxHNqNfkrUIGVq1br"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Christmas Best",
+        "url": "https://open.spotify.com/album/058tFyVjMZg2AvSfuRpaDR"
+      },
+      "artists": [
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+        }
+      ],
+      "duration_ms": 160960,
+      "name": "Noel",
+      "url": "https://open.spotify.com/track/1vcmDhNzB2BnmciwE6H6f7"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Family Christmas",
-        "url": "https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh"
-      },
-      "artists": [
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/21vPbghHpjCwafsiFEdJuN"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "I'll Be Thinking of You",
         "url": "https://open.spotify.com/album/1aabBowSBelQ7nPqOSbCe5"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 285069,
       "name": "I'll Be Thinking of You",
       "url": "https://open.spotify.com/track/0qRAekAEOE5cW0EdXKfOYz"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Family Christmas",
+        "url": "https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh"
+      },
+      "artists": [
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/21vPbghHpjCwafsiFEdJuN"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1528,6 +1528,22 @@
       },
       "artists": [
         {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/5Xlqkwclz9W9aW8yeles2Q"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Holiday Love Sounds of Christmas",
+        "url": "https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs"
+      },
+      "artists": [
+        {
           "name": "Joe Pace",
           "url": "https://open.spotify.com/artist/2om6820fe3HJsgcWcC5Zn0"
         },
@@ -1539,22 +1555,6 @@
       "duration_ms": 298680,
       "name": "What a Wonderful Savior",
       "url": "https://open.spotify.com/track/0cbgZxW0vbOVJx1sMgQXVo"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Holiday Love Sounds of Christmas",
-        "url": "https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 166906,
-      "name": "Little Drummer Boy",
-      "url": "https://open.spotify.com/track/5Xlqkwclz9W9aW8yeles2Q"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "A Soulful Holiday",
+        "url": "https://open.spotify.com/album/79IL2APoL7tNBZqrT9dZpT"
+      },
+      "artists": [
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        }
+      ],
+      "duration_ms": 248093,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/5UqCQJC8SM1DJXoGyIXfKk"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "R&B Christmas Songs",
         "url": "https://open.spotify.com/album/5ij3UzfTQaLv6etmkHNjaU"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 158700,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/6JPIOL1YBQxaorbxA9MyN6"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "A Soulful Holiday",
-        "url": "https://open.spotify.com/album/79IL2APoL7tNBZqrT9dZpT"
-      },
-      "artists": [
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "Deck The Halls",
-      "url": "https://open.spotify.com/track/5UqCQJC8SM1DJXoGyIXfKk"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/1oH2Jh8UaBTy8EgQPrW7Gj"
+      },
+      "artists": [
+        {
+          "name": "Mervin Mayo",
+          "url": "https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t"
+        }
+      ],
+      "duration_ms": 235100,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/2EPBlKjnAF8KqRHYGQkIbt"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Maranda Presents A Holy Christmas",
         "url": "https://open.spotify.com/album/0c1zGZMDhb2UNZlmQ8cfKN"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 170707,
       "name": "Holiday Love - Radio Edit",
       "url": "https://open.spotify.com/track/4zo7m7O0dB9oGaqp3Oixqh"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Christmas Time Is Here",
-        "url": "https://open.spotify.com/album/1oH2Jh8UaBTy8EgQPrW7Gj"
-      },
-      "artists": [
-        {
-          "name": "Mervin Mayo",
-          "url": "https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t"
-        }
-      ],
-      "duration_ms": 235100,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/2EPBlKjnAF8KqRHYGQkIbt"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "A Charles Jenkins Christmas",
+        "url": "https://open.spotify.com/album/2cBqPDfPm945PP4fHQ9QDs"
+      },
+      "artists": [
+        {
+          "name": "Charles Jenkins",
+          "url": "https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "It\u2019s Christmas Day",
+      "url": "https://open.spotify.com/track/55HGuPjF900qc1E3nTHPzQ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "For the Love of Christmas",
         "url": "https://open.spotify.com/album/7djfkEeCbJJpf3HLQDjhRC"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 259026,
       "name": "Merry Christ-Mas (feat. Cory Condrey, Vashawn Mitchell, William Mcdowell, Zebulon Ellis, Joann Rosario Condrey & Erica Cumbo)",
       "url": "https://open.spotify.com/track/2m1QvyW8nEGt8lvd460ol1"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "A Charles Jenkins Christmas",
-        "url": "https://open.spotify.com/album/2cBqPDfPm945PP4fHQ9QDs"
-      },
-      "artists": [
-        {
-          "name": "Charles Jenkins",
-          "url": "https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "It\u2019s Christmas Day",
-      "url": "https://open.spotify.com/track/55HGuPjF900qc1E3nTHPzQ"
     },
     {
       "added_at": "2023-12-15 05:00:00",

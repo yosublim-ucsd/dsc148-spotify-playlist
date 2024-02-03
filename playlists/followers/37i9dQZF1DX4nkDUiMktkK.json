@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 10229,
+  "2024-02-03": 10257,
   "date_first_scraped": "2023-06-10",
   "description": "All juice",
   "name": "juice",
@@ -439,6 +439,24 @@
       "duration_ms": 355920,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/7qdthSAP02SdvLGisBEVtI"
+    },
+    {
+      "album": {
+        "name": "CHROMA 001",
+        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287447,
+      "name": "CHROMA 001 HELIUM",
+      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
     },
     {
       "album": {
@@ -1048,6 +1066,24 @@
     },
     {
       "album": {
+        "name": "forget you",
+        "url": "https://open.spotify.com/album/5QquIokU1OAyf4HD0EuxsJ"
+      },
+      "artists": [
+        {
+          "name": "devin",
+          "url": "https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130616,
+      "name": "forget you",
+      "url": "https://open.spotify.com/track/4vi667XVbRUTchDlwk2fA7"
+    },
+    {
+      "album": {
         "name": "Blue Breeze",
         "url": "https://open.spotify.com/album/6V0vITSPGYans9CoyHkkVi"
       },
@@ -1373,6 +1409,24 @@
       "duration_ms": 170096,
       "name": "Heartbreak Repair System",
       "url": "https://open.spotify.com/track/2Vl7tpgcrVNT2FlAFs9oPm"
+    },
+    {
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/3sQfEqsPOKPAnW9hUIILSC"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193426,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/0XVGaKdfstcpMvqe15Yozv"
     },
     {
       "album": {
@@ -2033,6 +2087,24 @@
       "duration_ms": 170434,
       "name": "MISS U - Glimji Remix",
       "url": "https://open.spotify.com/track/10ScB3ISReMgZtTsxhDbyo"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346030,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3gVks4tc3TzqQYdDCPj7f2"
     },
     {
       "album": {
@@ -2986,6 +3058,28 @@
     },
     {
       "album": {
+        "name": "somethingsgonnaworkout",
+        "url": "https://open.spotify.com/album/212Wc6xZwyy95uzPM91W7b"
+      },
+      "artists": [
+        {
+          "name": "Jai Piccone",
+          "url": "https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC"
+        },
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244554,
+      "name": "somethingsgonnaworkout",
+      "url": "https://open.spotify.com/track/130GRQ2WBu5v7xG2hfWNBM"
+    },
+    {
+      "album": {
         "name": "Mosquito Love",
         "url": "https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V"
       },
@@ -3160,6 +3254,28 @@
     },
     {
       "album": {
+        "name": "tell me",
+        "url": "https://open.spotify.com/album/0JScyUkeeX2YaQXUQT9e09"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163532,
+      "name": "tell me",
+      "url": "https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J"
+    },
+    {
+      "album": {
         "name": "That's My Shit",
         "url": "https://open.spotify.com/album/15C7YUmMrXy00kJB4Rlp5V"
       },
@@ -3291,6 +3407,32 @@
       "duration_ms": 160840,
       "name": "Tomorrow Never Comes",
       "url": "https://open.spotify.com/track/3P0Ic1PfrRQJWCNxzGcM2d"
+    },
+    {
+      "album": {
+        "name": "Sisyphus Remixes Pt. 1",
+        "url": "https://open.spotify.com/album/44OfDdAkaGo5wLOAHFTO4a"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Motez",
+          "url": "https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313043,
+      "name": "Touch - Motez Remix",
+      "url": "https://open.spotify.com/track/2K3Z6LLoOyjS9iCli8CcZN"
     },
     {
       "album": {
@@ -3659,6 +3801,24 @@
       "duration_ms": 135959,
       "name": "Wayside",
       "url": "https://open.spotify.com/track/2dKtE3u0ezpNMY8XbxSy1H"
+    },
+    {
+      "album": {
+        "name": "We Are The Risers",
+        "url": "https://open.spotify.com/album/0ZZZhM9g4uJKc50ziSWwPm"
+      },
+      "artists": [
+        {
+          "name": "Eli Mich",
+          "url": "https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204750,
+      "name": "We Are The Risers",
+      "url": "https://open.spotify.com/track/4fmjMZProIFigMcvyOILs6"
     },
     {
       "album": {

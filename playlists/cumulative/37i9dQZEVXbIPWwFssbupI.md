@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,688 songs - 3 day 17 hr 31 min
+1,689 songs - 3 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [25 G](https://open.spotify.com/track/4cW0FXhN81yZ6YHVmFnsyG) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 4:10 | 2023-07-01 | 2023-07-16 |
 | [25 G](https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [25 G](https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP) | 4:10 | 2023-06-09 | 2023-07-02 |
 | [27 \(feat\. Freeze Corleone\)](https://open.spotify.com/track/5zabbpohr451G1sCSECESW) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Vrai 2 vrai](https://open.spotify.com/album/0dzxf2H7rACEaNpta7XjWg) | 3:24 | 2021-07-25 | 2021-07-29 |
+| [3 MAI 2025](https://open.spotify.com/track/4DgjfqlglUMebNAekQ0uQT) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [3 MAI 2025](https://open.spotify.com/album/0d8htTTZxOtwNGLB3wg3KG) | 2:46 | 2024-02-02 |  |
 | [3 singes](https://open.spotify.com/track/57JhjU33uXlZtmr2Dsk8TX) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Telegram](https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ) | 3:02 | 2023-02-11 | 2023-04-16 |
 | [3x filtré](https://open.spotify.com/track/4XwMoPc7s1E2V0Q5eKSzpA) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 3:00 | 2023-09-23 | 2023-10-01 |
 | [4 Juin 2022](https://open.spotify.com/track/0AS7ShmcA2UVxtXHIZEmLV) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Team Jul](https://open.spotify.com/artist/3GVvLlXO3Y9ezKfxpFzqJ5) | [Extraterrestre](https://open.spotify.com/album/4Nagii8jn7jhLZvcqmbnzp) | 3:09 | 2022-06-18 | 2022-06-21 |
@@ -111,7 +112,7 @@
 | [Amérique](https://open.spotify.com/track/1Sb2afBLWWRMgOUm4MAFDW) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 2:42 | 2021-11-14 | 2021-11-14 |
 | [Amérique du sud](https://open.spotify.com/track/4L52lm17SjnpXfhJF9Lixz) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 3:31 | 2023-09-12 | 2023-09-24 |
 | [Amérique du sud](https://open.spotify.com/track/7qfXyOH2IjH4Mv6S3hNVdV) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Amérique du sud](https://open.spotify.com/album/6jU5v7tABdAiiAOD9Rnxaw) | 3:31 | 2023-08-26 | 2023-08-31 |
-| [ANARCHY \- Radio Edit](https://open.spotify.com/track/7yISDabQTwkhyWCDnEJiuh) | [Lavern](https://open.spotify.com/artist/2qPnosDXSvEoVj6tzG7p4h), [Bonfire](https://open.spotify.com/artist/4lhUAM6MXDFVc5Veq225ww), [BABYNAPS](https://open.spotify.com/artist/79Vr18dF6qtEgWvQ5ZIlpQ), [djbasra](https://open.spotify.com/artist/3QWyLTlDBtGXjdCfuXfsZQ), [SWEDISH WIFE MAFFIA](https://open.spotify.com/artist/7aawB46SkOpdtTDK5gFQJe) | [ANARCHY](https://open.spotify.com/album/3HhI41WqIAWkCytVahKyVb) | 1:54 | 2024-02-01 |  |
+| [ANARCHY \- Radio Edit](https://open.spotify.com/track/7yISDabQTwkhyWCDnEJiuh) | [Lavern](https://open.spotify.com/artist/2qPnosDXSvEoVj6tzG7p4h), [Bonfire](https://open.spotify.com/artist/4lhUAM6MXDFVc5Veq225ww), [BABYNAPS](https://open.spotify.com/artist/79Vr18dF6qtEgWvQ5ZIlpQ), [djbasra](https://open.spotify.com/artist/3QWyLTlDBtGXjdCfuXfsZQ), [SWEDISH WIFE MAFFIA](https://open.spotify.com/artist/7aawB46SkOpdtTDK5gFQJe) | [ANARCHY](https://open.spotify.com/album/3HhI41WqIAWkCytVahKyVb) | 1:54 | 2024-02-01 | 2024-02-03 |
 | [Ancelotti](https://open.spotify.com/track/3jBIofMaOimfUgK4E3hBGB) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 3:40 | 2023-09-12 | 2023-10-06 |
 | [Ancolie](https://open.spotify.com/track/4QZ8biWCuhYgQTkRgJF9vo) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 3:10 | 2021-03-27 | 2021-03-29 |
 | [Angle mort](https://open.spotify.com/track/1s5VDexKohgvhplbdpYKBk) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 2:09 | 2022-01-29 | 2022-01-31 |

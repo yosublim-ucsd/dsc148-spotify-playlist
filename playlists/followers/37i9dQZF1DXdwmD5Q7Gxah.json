@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 1134633,
+  "2024-02-03": 1134663,
   "date_first_scraped": "2019-07-30",
-  "description": "it's covers season. Medium Build on the cover. ",
+  "description": "it's covers season, starring Remi Wolf & Norah Jones",
   "name": "Lorem",
   "tracks": [
     {
@@ -13204,6 +13204,24 @@
     },
     {
       "album": {
+        "name": "even when the sun is dead",
+        "url": "https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136771,
+      "name": "even when the sun is dead",
+      "url": "https://open.spotify.com/track/7zH3Qm6lu296i2owAENBLk"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk"
       },
@@ -13237,6 +13255,24 @@
       "duration_ms": 253386,
       "name": "Ever Since New York",
       "url": "https://open.spotify.com/track/5LABCxgmP7DATATIJXOh6n"
+    },
+    {
+      "album": {
+        "name": "everest",
+        "url": "https://open.spotify.com/album/46aPiWLHkwjsEHOnCyGoQ1"
+      },
+      "artists": [
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109246,
+      "name": "everest",
+      "url": "https://open.spotify.com/track/375vzhCsYArHMzT4UG5FgJ"
     },
     {
       "album": {
@@ -24961,6 +24997,24 @@
       "duration_ms": 181057,
       "name": "Lonely and Bored",
       "url": "https://open.spotify.com/track/5kbePc3HrrD2LjuagQEt8I"
+    },
+    {
+      "album": {
+        "name": "loner",
+        "url": "https://open.spotify.com/album/2LXKJVVy28TDvK7yBsENXB"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236720,
+      "name": "loner",
+      "url": "https://open.spotify.com/track/2Dv7yzt7fk6PIj2PRTLx8e"
     },
     {
       "album": {

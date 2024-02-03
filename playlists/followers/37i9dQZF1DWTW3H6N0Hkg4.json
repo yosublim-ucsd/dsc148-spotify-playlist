@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 227456,
+  "2024-02-03": 227626,
   "date_first_scraped": "2022-01-09",
   "description": "Cumbias de anta\u00f1o para bailar.",
   "name": "Cumbias Viejitas",
@@ -3456,24 +3456,6 @@
     },
     {
       "album": {
-        "name": "La Orquesta de Siempre: Volume 1",
-        "url": "https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB"
-      },
-      "artists": [
-        {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "date_added": "2022-12-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 226373,
-      "name": "Pasito Tun, Tun",
-      "url": "https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw"
-    },
-    {
-      "album": {
         "name": "Los A\u00f1os De Oro - La Orquesta De Siempre",
         "url": "https://open.spotify.com/album/4lxclNX6RVc7Fldg82i1tz"
       },
@@ -3489,6 +3471,24 @@
       "duration_ms": 226373,
       "name": "Pasito Tun, Tun",
       "url": "https://open.spotify.com/track/44DJn7xXxlUbTzErTY8DiB"
+    },
+    {
+      "album": {
+        "name": "La Orquesta de Siempre: Volume 1",
+        "url": "https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226373,
+      "name": "Pasito Tun, Tun",
+      "url": "https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw"
     },
     {
       "album": {

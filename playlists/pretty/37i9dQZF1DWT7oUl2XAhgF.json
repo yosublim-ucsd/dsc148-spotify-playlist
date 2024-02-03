@@ -1,13 +1,29 @@
 {
-  "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 208463,
+  "description": "A new take on a classic sound. Cover: Britti",
+  "num_followers": 208512,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2M5NmU4MjBkZjcyNTQ0ZDBlMDk1YjE1ZjExMzM3MzBkM2FhNjU0",
+  "snapshot_id": "MCw3OTk4ODJmMDM5MjhlOWY4NzdlODkzN2RjMjcxNWIzOTRhMjhkNTAw",
   "tracks": [
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Hello, I'm Britti.",
+        "url": "https://open.spotify.com/album/09WQABIo1U9D8H8SO7WK0a"
+      },
+      "artists": [
+        {
+          "name": "Britti",
+          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy"
+    },
     {
       "added_at": "2024-01-26 05:01:00",
       "album": {
@@ -492,7 +508,7 @@
       },
       "artists": [
         {
-          "name": "The War and Treaty",
+          "name": "The War And Treaty",
           "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
@@ -1427,26 +1443,6 @@
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Greyhounds | OurVinyl Sessions",
-        "url": "https://open.spotify.com/album/5i9W52ffNzgpjVOfM6ZfsZ"
-      },
-      "artists": [
-        {
-          "name": "Greyhounds",
-          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
-        },
-        {
-          "name": "OurVinyl",
-          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
-        }
-      ],
-      "duration_ms": 247550,
-      "name": "What's on Your Mind (OurVinyl Sessions)",
-      "url": "https://open.spotify.com/track/5Zon0BSyiQYHD06Yrf57zh"
     },
     {
       "added_at": "2023-09-01 04:00:00",

@@ -1,13 +1,29 @@
 {
   "description": "Featuring that new vintage. Cover: Norah Jones",
-  "num_followers": 413619,
+  "num_followers": 413621,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODRhNjU4ZWU1OTliODI3M2NhY2Y2YzYxZmNkZDU5ZjQzMjNhZTA1",
+  "snapshot_id": "MCwyYjc1NzA5ZjU5MDFkNTExNmMzZDYzNjVkNjIyNGU4MDg4MGMwMjFh",
   "tracks": [
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/0m7jHaP0wjBEqrRncFTLic"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "duration_ms": 187324,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/2q3WnVVXT4xh4GA4O7cHF3"
+    },
     {
       "added_at": "2024-01-19 05:01:00",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 208517,
       "name": "Running",
       "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Sleeptalking",
+        "url": "https://open.spotify.com/album/0XRYj8uyEJMzUKM60gZjAP"
+      },
+      "artists": [
+        {
+          "name": "Brother Zulu",
+          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
+        }
+      ],
+      "duration_ms": 180335,
+      "name": "Sleeptalking",
+      "url": "https://open.spotify.com/track/0e5GmXWvSKnngHSD8X7jir"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "They Don't Come Better",
+        "url": "https://open.spotify.com/album/2AhtPRZUB0Gox517fVb2cC"
+      },
+      "artists": [
+        {
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
+        }
+      ],
+      "duration_ms": 181435,
+      "name": "They Don't Come Better",
+      "url": "https://open.spotify.com/track/2OshKfBMN3KFj7t7stkihZ"
     },
     {
       "added_at": "2023-11-10 05:01:00",
@@ -587,22 +635,6 @@
       "duration_ms": 179426,
       "name": "You",
       "url": "https://open.spotify.com/track/3LNRi4UytUnez6T0hFb4x3"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Fool For You",
-        "url": "https://open.spotify.com/album/3ldC2PLwazUJQTW18DsWLE"
-      },
-      "artists": [
-        {
-          "name": "Lusaint",
-          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
-        }
-      ],
-      "duration_ms": 183214,
-      "name": "Fool For You",
-      "url": "https://open.spotify.com/track/1qJOKVRiiaqSpwB1UFPbnl"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1469,26 +1501,6 @@
       "url": "https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG"
     },
     {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "Slow Song (with Dragonette)",
-        "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
-        }
-      ],
-      "duration_ms": 253723,
-      "name": "Slow Song (with Dragonette)",
-      "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
-    },
-    {
       "added_at": "2023-03-10 05:01:00",
       "album": {
         "name": "Takin' It Back",
@@ -1603,22 +1615,6 @@
       "duration_ms": 240641,
       "name": "Love You Better",
       "url": "https://open.spotify.com/track/0WSmvwsulStgy0hKJetRi4"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "omw",
-        "url": "https://open.spotify.com/album/7gjkHNt9Vc71PPXPp5Pja0"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 171161,
-      "name": "omw",
-      "url": "https://open.spotify.com/track/46b0Hj6XPgIrwKURVsZeVA"
     },
     {
       "added_at": "2022-09-30 04:01:00",

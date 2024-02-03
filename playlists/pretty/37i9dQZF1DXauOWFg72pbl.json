@@ -1,12 +1,12 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 580285,
+  "num_followers": 580327,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjk5MzdkMWEzNmMyYThjZjg3NzAwYTQ0OWQ3OTVhYTEzNjdjNTVj",
+  "snapshot_id": "MCxhYWYzZTczMDhkNGVmZjJkYTNjNDQ4NTAxZmU5NGQwNjhiYjY4YTE5",
   "tracks": [
     {
       "added_at": "2024-01-22 16:26:19",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 331560,
-      "name": "Enter Sandman (Remastered)",
-      "url": "https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 274088,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 331560,
+      "name": "Enter Sandman (Remastered)",
+      "url": "https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 197520,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 197520,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "Threat to Survival",
-        "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "State of My Head",
-      "url": "https://open.spotify.com/track/1fnULsZuORnAgCFFbM8nTZ"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 177768,
       "name": "Lo/Hi",
       "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "Threat to Survival",
+        "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "State of My Head",
+      "url": "https://open.spotify.com/track/1fnULsZuORnAgCFFbM8nTZ"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "hometown",
-        "url": "https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 256071,
-      "name": "hometown",
-      "url": "https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Remastered)",
         "url": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 258466,
       "name": "Bullet With Butterfly Wings - Remastered 2012",
       "url": "https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "hometown",
+        "url": "https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 256071,
+      "name": "hometown",
+      "url": "https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P"
     },
     {
       "added_at": "2024-01-22 16:26:19",

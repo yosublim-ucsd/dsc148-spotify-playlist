@@ -4,7 +4,7 @@
 
 > Are you trapped in some kind of haunted Hell? What is your favorite nightmare?
 
-187 songs - 9 hr 29 min
+189 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Don't Light My Fire](https://open.spotify.com/track/4uuRFwokX9R4hnOWbreDga) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Eclipse](https://open.spotify.com/album/0xdi6wxVs5meuEVWQxQg0Z) | 3:29 | 2022-04-20 |  |
 | [Eclipse](https://open.spotify.com/track/5F5W7RRODrX41Np6M2cK5i) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Eclipse](https://open.spotify.com/album/0xdi6wxVs5meuEVWQxQg0Z) | 3:23 | 2022-04-20 |  |
 | [Eclipse TV Size](https://open.spotify.com/track/1HFaXNYtalbRl8Mc1HBC3Q) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Eclipse TV Size](https://open.spotify.com/album/6eFO2694wosa4kJvgzZ4qG) | 1:32 | 2022-04-20 |  |
-| [Emotion](https://open.spotify.com/track/0dCdQvk03zbYUXpoEEFJCl) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 3:43 | 2022-04-20 |  |
+| [Emotion](https://open.spotify.com/track/0dCdQvk03zbYUXpoEEFJCl) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 3:43 | 2022-04-20 | 2024-02-03 |
+| [Emotion](https://open.spotify.com/track/2CIvNK8ErkogYbGrOi2FhE) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/0H35i31IzpWMrLXSV6h2YN) | 3:43 | 2023-11-03 |  |
 | [Endless Night](https://open.spotify.com/track/1KeMyc0QKlKZ3Ju7DLYodR) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Endless Night](https://open.spotify.com/album/1kbzuQvrTzEe5pOrxgP9df) | 3:18 | 2022-04-20 |  |
 | [Entrancing \(SIYEON SOLO\)](https://open.spotify.com/track/3TIdiPoROIiKpq47Ff0Wgt) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:32 | 2022-04-20 | 2023-07-09 |
 | [Entrancing \(SIYEON SOLO\)](https://open.spotify.com/track/6vNrICaSay0nVstOvj9Qjj) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:32 | 2023-01-14 |  |
@@ -166,7 +167,8 @@
 | [Trap](https://open.spotify.com/track/1IsvB443RMP3WvnlKfvKec) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/5iSHURlCUgmfKhIW4LtJ6e) | 3:10 | 2023-01-14 |  |
 | [Wake up](https://open.spotify.com/track/1sluAZrbKiHqD4bpGPEVXJ) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Prequel](https://open.spotify.com/album/7dwF0tRN3awkAyYEdLJic3) | 3:32 | 2022-04-20 | 2024-02-02 |
 | [Wake up](https://open.spotify.com/track/6IbCHD7jekcfz62KLXh0qy) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Prequel](https://open.spotify.com/album/4AFtuTQMC4tYXwmVw0a80n) | 3:32 | 2023-11-03 |  |
-| [Welcome to Dream](https://open.spotify.com/track/1mMMltAd8i5qyv0nSwae8T) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 0:40 | 2022-04-20 |  |
+| [Welcome to Dream](https://open.spotify.com/track/1mMMltAd8i5qyv0nSwae8T) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 0:40 | 2022-04-20 | 2024-02-03 |
+| [Welcome to Dream \(Intro\)](https://open.spotify.com/track/33ECboskPxMsPzNgVx0WM5) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/0H35i31IzpWMrLXSV6h2YN) | 0:40 | 2023-11-03 |  |
 | [What](https://open.spotify.com/track/4BdpM8bR0nifsaqSz3qphQ) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/68esmTNXocYLPEbLD1c7si) | 3:25 | 2022-04-20 | 2023-08-02 |
 | [What](https://open.spotify.com/track/2U92BoBpLyWchwa224B6pg) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/5iSHURlCUgmfKhIW4LtJ6e) | 3:25 | 2023-01-14 |  |
 | [What \- Japanese Ver.](https://open.spotify.com/track/3H6G5rTVGJ9ksoFi8Rljyx) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 3:27 | 2022-04-20 |  |

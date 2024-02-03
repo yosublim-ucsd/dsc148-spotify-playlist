@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,499 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,492 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 89 | [Christmas Eve](https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:21 |
 | 90 | [Promenade en traîneau](https://open.spotify.com/track/7fwzmmganYLIMBP9rmrAAw) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Joyeux Noël](https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT) | 2:54 |
 | 91 | [Le Père Noël C't'un Québécois](https://open.spotify.com/track/7adJp4379R1irkezIA3zjd) | [Boum Ding Band](https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG) | [Noël, C'est L'amour](https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V) | 2:56 |
-| 92 | [Le petit renne au nez rouge](https://open.spotify.com/track/2Cb63POXAdqsUQX5SBHIZf) | [Renée Martel](https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis) | [Chantons Noël!](https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds) | 2:51 |
-| 93 | [L'enfant au tambour](https://open.spotify.com/track/4jtna43xiyQKSghOBwh0l8) | [Johanne Blouin](https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd) | [Sainte Nuit](https://open.spotify.com/album/3DCGt7eg6TFrAa5tVf9zja) | 2:54 |
-| 94 | [White Christmas](https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 3:03 |
+| 92 | [White Christmas](https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 3:03 |
+| 93 | [Le petit renne au nez rouge](https://open.spotify.com/track/2Cb63POXAdqsUQX5SBHIZf) | [Renée Martel](https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis) | [Chantons Noël!](https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds) | 2:51 |
+| 94 | [L'enfant au tambour](https://open.spotify.com/track/4jtna43xiyQKSghOBwh0l8) | [Johanne Blouin](https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd) | [Sainte Nuit](https://open.spotify.com/album/3DCGt7eg6TFrAa5tVf9zja) | 2:54 |
 | 95 | [Noël à Jérusalem](https://open.spotify.com/track/1Plw3Q3u83XBDH6Z2uSt79) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Noël avec Jireh Gospel Choir](https://open.spotify.com/album/3nR7D8rkYHXIQG80R3EpFf) | 3:53 |
-| 96 | [C'est Noël](https://open.spotify.com/track/4US3M3oVGLNUNvIRAPfQcE) | [Fernand Gignac](https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2) | [Noël en famille avec Fernand Gignac](https://open.spotify.com/album/0nk2eojsQE0RQ3RvfHAadZ) | 2:20 |
-| 97 | [Mon Beau Sapin](https://open.spotify.com/track/11hdqrF9lIy8OaoRxGVuYf) | [Marie Michèle Desrosiers](https://open.spotify.com/artist/6O5owguKnGHHhGE8nLBvTS) | [Marie\-Michèle Desrosiers Chante Les Classiques De Noël](https://open.spotify.com/album/1odCUBL4jmgCOxkK0axxNV) | 3:09 |
-| 98 | [Joyeux noël et bonne année](https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2) | [Villeray](https://open.spotify.com/artist/3TpVDpx6jmUNyU7KqP4nYP) | [Joyeux noël et bonne année](https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC) | 2:27 |
+| 96 | [Angel](https://open.spotify.com/track/4K9fBu5r5xPHc90WXbRiyW) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Angel](https://open.spotify.com/album/0qc2lqhJAhnoCFoLJ70YaK) | 2:31 |
+| 97 | [C'est Noël](https://open.spotify.com/track/4US3M3oVGLNUNvIRAPfQcE) | [Fernand Gignac](https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2) | [Noël en famille avec Fernand Gignac](https://open.spotify.com/album/0nk2eojsQE0RQ3RvfHAadZ) | 2:20 |
+| 98 | [Mon Beau Sapin](https://open.spotify.com/track/11hdqrF9lIy8OaoRxGVuYf) | [Marie Michèle Desrosiers](https://open.spotify.com/artist/6O5owguKnGHHhGE8nLBvTS) | [Marie\-Michèle Desrosiers Chante Les Classiques De Noël](https://open.spotify.com/album/1odCUBL4jmgCOxkK0axxNV) | 3:09 |
 | 99 | [J'ai vu maman](https://open.spotify.com/track/7C2rBix360wLA61Al61APh) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Joyeux Noël](https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT) | 3:13 |
-| 100 | [Angel](https://open.spotify.com/track/4K9fBu5r5xPHc90WXbRiyW) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Angel](https://open.spotify.com/album/0qc2lqhJAhnoCFoLJ70YaK) | 2:31 |
+| 100 | [Joyeux noël et bonne année](https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2) | [Villeray](https://open.spotify.com/artist/3TpVDpx6jmUNyU7KqP4nYP) | [Joyeux noël et bonne année](https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC) | 2:27 |
 
-Snapshot ID: `MCw0YzE1YzFmZDE1ZDdlN2IyNTQxNDkyMWNkMjcyNzFmOTM3OTFmMzc4`
+Snapshot ID: `MCw0ZDNkNWE1OGE2MjViZmUyMmVjYzU5NjZiZDA0YTMwZGNlNmVkNDM3`

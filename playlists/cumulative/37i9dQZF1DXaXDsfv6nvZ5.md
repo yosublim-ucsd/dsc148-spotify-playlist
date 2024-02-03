@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-422 songs - 1 day 1 hr 32 min
+423 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Cocoa](https://open.spotify.com/track/5z4UjNfc0s3mkAR1l8A1cb) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Midnight Microdose, Vol\. 1](https://open.spotify.com/album/3y0aueHT3E9cXsnuRwIaGV) | 2:05 | 2023-05-26 |  |
 | [Coffee in the Morning](https://open.spotify.com/track/1I3hnFXFmco3dUY2AYcvLL) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [HAVE A NICE DAY!](https://open.spotify.com/album/1I9S6JjC6OtSiNXGNiLMLL) | 3:46 | 2023-02-10 |  |
 | [Coffee in the Morning](https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Coffee in the Morning](https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1) | 3:46 | 2023-02-10 | 2024-01-20 |
-| [Cold \(with Vanilla is Black\)](https://open.spotify.com/track/5HH8U04XcktmmusG7YWsT2) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Vanilla is Black](https://open.spotify.com/artist/4s42rA3pdl4zxahEjstXZ5) | [Phases III \- EP](https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO) | 3:19 | 2023-10-20 |  |
+| [Cold \(with Vanilla is Black\)](https://open.spotify.com/track/5HH8U04XcktmmusG7YWsT2) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Vanilla is Black](https://open.spotify.com/artist/4s42rA3pdl4zxahEjstXZ5) | [Phases III \- EP](https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO) | 3:19 | 2023-10-20 | 2024-02-03 |
 | [Collide \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Collide \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A) | 3:25 | 2021-12-03 | 2023-09-09 |
 | [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 | 2023-06-02 |  |
 | [Colour Blind](https://open.spotify.com/track/2MdaZiTCxs3ocA43K0lsgx) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(God\)](https://open.spotify.com/album/106QT3POAohZwyjbesTK5L) | 2:35 | 2022-11-11 |  |
@@ -300,6 +300,7 @@
 | [PATTERNS](https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [PATTERNS](https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4) | 3:44 | 2022-10-21 |  |
 | [Peach Velvet Sky](https://open.spotify.com/track/1r9Xoxz09kMbcIEm7WfjkF) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Peach Velvet Sky](https://open.spotify.com/album/4kaMFxOjrLmf2jEQWJkNW9) | 5:50 | 2023-08-18 | 2023-09-09 |
 | [People Get Ready \- From "I Can't Breathe / Music For the Movement"](https://open.spotify.com/track/3LERAXOWvNVreOnYySWU7U) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [People Get Ready \(From "I Can't Breathe / Music For the Movement"\)](https://open.spotify.com/album/0MmKsaUxCz8XZrwKoLSFDG) | 3:34 | 2021-12-03 | 2022-07-29 |
+| [Perfect Stranger \(feat\. Kenny Lattimore\)](https://open.spotify.com/track/2u2ji0HpSmNJkklMTDwg0i) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [Perfect Stranger \(feat\. Kenny Lattimore\)](https://open.spotify.com/album/4VAxIlO6cvGFgF6SudtKwW) | 3:51 | 2024-02-02 |  |
 | [Perspective](https://open.spotify.com/track/28MAAESOa6h4OgYLBBd9TK) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | ['95 Civic](https://open.spotify.com/album/3h9geYca2KTbsfQIhXoZL3) | 2:57 | 2023-03-10 | 2023-04-09 |
 | [Pineapple Cognac](https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Pineapple Cognac](https://open.spotify.com/album/29R9YV27YP2ZZI7P8x58mM) | 2:14 | 2022-10-03 | 2023-10-16 |
 | [Pineapple Cognac](https://open.spotify.com/track/74mprhwOJDamrTZ69Pz0cE) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Pineapple Cognac](https://open.spotify.com/album/1b4agvuR4YOtlqSP5whuJC) | 2:14 | 2022-10-03 |  |

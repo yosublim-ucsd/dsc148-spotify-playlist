@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,238 likes - 92 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,231 likes - 92 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 57 | [Yth: NAIF](https://open.spotify.com/track/0YuZ7HexTHIw6Dm2n9ZDab) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd), [KawaNAIF](https://open.spotify.com/artist/3VRqVXKE255LdwstWIkl0W) | [Yth: NAIF](https://open.spotify.com/album/4nANc60JTeBPqn2j2ZvJZl) | 4:55 |
 | 58 | [METRO \- XL Middleton Remix](https://open.spotify.com/track/52QdtRrirgHtZJ6JLSbpD8) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [METRO \(XL Middleton Remix\)](https://open.spotify.com/album/4QAelJ3mjmDtK9tkGOblvV) | 3:41 |
 | 59 | [The Midnight Flight](https://open.spotify.com/track/5dkRhWKooE7u39PHvke1i2) | [Namba](https://open.spotify.com/artist/3f6vHFzOFH0pHidakH57Gy), [Chocolate Kit](https://open.spotify.com/artist/4j5XaWuESB6OHy4Eblktqw) | [The Midnight Flight](https://open.spotify.com/album/5h87AL0dOom7DOBgmFkgCK) | 3:55 |
-| 60 | [Virtual World](https://open.spotify.com/track/3GlQyFwsP9SbqDbLws67FO) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Just because of the sudden wind](https://open.spotify.com/album/5xiBNgDcroZnam0CXegDOu) | 3:24 |
+| 60 | [Virtual World](https://open.spotify.com/track/2eKuOevIr05volaJLCs3NO) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Just because of the sudden wind](https://open.spotify.com/album/3sU1srdjbJdz6pGLGtWWuD) | 3:24 |
 | 61 | [Pupus Harapan](https://open.spotify.com/track/1ABvISIP8cNOF3T8krbYC7) | [Groovebox Story](https://open.spotify.com/artist/4bHOW2FNQ5JAEWBAQoVQB5) | [Pop diKota \(SRM 10th Anniversary\)](https://open.spotify.com/album/200pEAgk87ajUpHGty4MDJ) | 3:38 |
 | 62 | [Baby I'm Good \(Wake\-Up Tune\)](https://open.spotify.com/track/0Dhd8t73mR5sqwDOO21ag2) | [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh) | [Still Good](https://open.spotify.com/album/4qBbqh8QtYLOHyRbpQ2nZx) | 4:18 |
 | 63 | [April is a lie \(feat\. salasa\)](https://open.spotify.com/track/0jxdad1Loq437CrfU4jX59) | [sunny after rain](https://open.spotify.com/artist/0h1BKDiSM47e0dNBoExa5N), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [April is a lie](https://open.spotify.com/album/7qzfjQmPpba2duIBdYu9u0) | 3:39 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 91 | [LAVLA](https://open.spotify.com/track/5RiDkhVXWyMlh51wSGV8tU) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [LAYERS](https://open.spotify.com/album/1DS9Xblo2wodlneXD9nXYw) | 3:58 |
 | 92 | [The One](https://open.spotify.com/track/3ToRoy9OQHoiz662kJvTTu) | [Purples n' Oranges](https://open.spotify.com/artist/2TmqQRA5s51zD2C4zbiqPq) | [The One](https://open.spotify.com/album/1mHIev96eFTEdby7dAoT67) | 5:18 |
 
-Snapshot ID: `MCxmYjhhMWM1N2JhODA2OTA3YTcxYmMyNTRmM2M3NTk3NzYxNzViYTcw`
+Snapshot ID: `MCxhNmVjMjBiMDBlNDNhMjE2NTc0MjliMzVkMGRlNjMyZmEwMTc4NTY4`

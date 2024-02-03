@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 14045,
+  "2024-02-03": 14055,
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B?si=Mf0WWcWCRnCBrWwOEWZGTQ\"> Highlyy </a>",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Yugo Szn ",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -841,6 +841,24 @@
       "duration_ms": 164584,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1dGiHUu8vWQmXTPtvvxlPr"
+    },
+    {
+      "album": {
+        "name": "Amazing",
+        "url": "https://open.spotify.com/album/4lUVP97eMZal2dtaJMvtcY"
+      },
+      "artists": [
+        {
+          "name": "Lady Jay",
+          "url": "https://open.spotify.com/artist/0rNTIEZKm4LYPn16AcpTaS"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/3HREDHrvyXwYcIEelACqrS"
     },
     {
       "album": {
@@ -2011,6 +2029,28 @@
       "duration_ms": 133354,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/034stq9rVCj8gaphhNyf6R"
+    },
+    {
+      "album": {
+        "name": "Celine Dion",
+        "url": "https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189701,
+      "name": "Celine Dion",
+      "url": "https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv"
     },
     {
       "album": {
@@ -4738,6 +4778,24 @@
     },
     {
       "album": {
+        "name": "Yugoszn",
+        "url": "https://open.spotify.com/album/5A6wiJErITKfHgQB5rR7ll"
+      },
+      "artists": [
+        {
+          "name": "Yugoszn",
+          "url": "https://open.spotify.com/artist/7yWR3RApVuDFsZ6MqOHyFn"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169419,
+      "name": "Guy Like Me",
+      "url": "https://open.spotify.com/track/1lxVtfGPUZlgInYySB1GcS"
+    },
+    {
+      "album": {
         "name": "Hakuna Siri",
         "url": "https://open.spotify.com/album/59QZQVqovBNDE3377uz7nV"
       },
@@ -5549,6 +5607,24 @@
       "duration_ms": 226000,
       "name": "I Like Him Better",
       "url": "https://open.spotify.com/track/1xUy9tVMSfP6TT5OkTi9FG"
+    },
+    {
+      "album": {
+        "name": "I Might",
+        "url": "https://open.spotify.com/album/0ZTLZgvrz0KhPTiPnS1O32"
+      },
+      "artists": [
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208250,
+      "name": "I Might",
+      "url": "https://open.spotify.com/track/0vUMCgfgcoblVHcz1Qopt9"
     },
     {
       "album": {
@@ -6561,7 +6637,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 170620,
       "name": "Kununu",
       "url": "https://open.spotify.com/track/7sPqJDFeLc3XaHEovPsfGN"
@@ -7461,7 +7537,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 202886,
       "name": "Mad",
       "url": "https://open.spotify.com/track/1XADbL6VwPL1rqXBVOszfG"
@@ -7497,7 +7573,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 161739,
       "name": "Manifest (My Prayer)",
       "url": "https://open.spotify.com/track/5PQPG6LgvLxDuB02z4zSzY"
@@ -7797,7 +7873,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 186500,
       "name": "Messi",
       "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
@@ -9810,6 +9886,24 @@
     },
     {
       "album": {
+        "name": "Pete",
+        "url": "https://open.spotify.com/album/5D4ETjU3vwslf8b6HOLUWx"
+      },
+      "artists": [
+        {
+          "name": "Davy Waweru",
+          "url": "https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124363,
+      "name": "Pete",
+      "url": "https://open.spotify.com/track/2DDM0D8wOXNPxshFgtYIG1"
+    },
+    {
+      "album": {
         "name": "When It Blooms",
         "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
@@ -9879,7 +9973,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 209072,
       "name": "Please Listen",
       "url": "https://open.spotify.com/track/7lxvDIwt3kE2B6Zo3kDMP1"
@@ -10223,7 +10317,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 161632,
       "name": "Quick Question",
       "url": "https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb"
@@ -11218,6 +11312,24 @@
     },
     {
       "album": {
+        "name": "SINK OR SWIM",
+        "url": "https://open.spotify.com/album/34Db2WinZb68Nk0cvWirdt"
+      },
+      "artists": [
+        {
+          "name": "SOLU",
+          "url": "https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190933,
+      "name": "SINK OR SWIM",
+      "url": "https://open.spotify.com/track/6fB5xCqHjkLGud3ZPyNbq4"
+    },
+    {
+      "album": {
         "name": "Sisi Yellow",
         "url": "https://open.spotify.com/album/47fjTDBv9tf0bcQCDAyEUm"
       },
@@ -11850,6 +11962,28 @@
     },
     {
       "album": {
+        "name": "Suleja",
+        "url": "https://open.spotify.com/album/5i4vHD1u0bPDLQ7bhryOxh"
+      },
+      "artists": [
+        {
+          "name": "Tiimie",
+          "url": "https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9"
+        },
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152153,
+      "name": "Suleja",
+      "url": "https://open.spotify.com/track/74dRyGZI4LRrfunus25OJ3"
+    },
+    {
+      "album": {
         "name": "Suma",
         "url": "https://open.spotify.com/album/78R2R0naBOdOkgGPu8SHz8"
       },
@@ -12131,6 +12265,24 @@
       "duration_ms": 144866,
       "name": "Tampico",
       "url": "https://open.spotify.com/track/1QAxGsBmTuOO2WZ7TeClVu"
+    },
+    {
+      "album": {
+        "name": "Tamu",
+        "url": "https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg"
+      },
+      "artists": [
+        {
+          "name": "Zaituni Wambui",
+          "url": "https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Tamu",
+      "url": "https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5"
     },
     {
       "album": {
@@ -12435,7 +12587,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 205214,
       "name": "Think O",
       "url": "https://open.spotify.com/track/5rKrdRnTc2lYasExecRwE3"
@@ -12945,7 +13097,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 240000,
       "name": "Unfortunately",
       "url": "https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP"

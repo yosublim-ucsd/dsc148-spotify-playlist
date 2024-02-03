@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 209310,
       "name": "ANTIFREEZE",
       "url": "https://open.spotify.com/track/6hVwUD1XjVGsX9GBUcoEYc"
@@ -10552,7 +10552,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 170427,
       "name": "KEEP IT COOL!",
       "url": "https://open.spotify.com/track/69ijRst757ROhLoC3dsRYu"
@@ -16563,6 +16563,24 @@
     },
     {
       "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201808,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE"
+    },
+    {
+      "album": {
         "name": "tell me your feelings and i won't tell you mine",
         "url": "https://open.spotify.com/album/0nyUIJbb1bEIRCTpD2sQ2R"
       },
@@ -18208,6 +18226,24 @@
       "duration_ms": 178285,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/2eeOF8wsCKNPmbCqg855TH"
+    },
+    {
+      "album": {
+        "name": "Swallow",
+        "url": "https://open.spotify.com/album/1lF9N8KTJe8rEuCTVRwyV8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179698,
+      "name": "Swallow",
+      "url": "https://open.spotify.com/track/2xtF0pR5YIroM6MzKUhJBy"
     },
     {
       "album": {

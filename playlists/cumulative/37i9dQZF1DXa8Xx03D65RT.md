@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-758 songs - 1 day 7 hr 53 min
+760 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [die kleine Raupe](https://open.spotify.com/track/4x0UFoPofsiqTndmsZpG2h) | [Tristen Longfellow](https://open.spotify.com/artist/7peSX5RUOIXrawTG5Ax3Lv) | [die kleine Raupe](https://open.spotify.com/album/627NSKjlFXyOS3AX801vp3) | 2:37 | 2022-05-27 | 2022-07-21 |
 | [Die Spieluhr](https://open.spotify.com/track/5nhgTDW8J5y8ZsoVm58hGv) | [Sebastian Brehm](https://open.spotify.com/artist/2nateaCtBWxcGrxgNPPjoX) | [Die Spieluhr](https://open.spotify.com/album/4LeNmjBqKBkNNSlUT10knC) | 2:39 | 2022-05-27 | 2022-09-24 |
 | [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2022-05-27 | 2023-12-02 |
-| [Dimman](https://open.spotify.com/track/0VCR5yJWXT3FQHuBFPhTm2) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:31 | 2022-05-27 |  |
+| [Dimman](https://open.spotify.com/track/0VCR5yJWXT3FQHuBFPhTm2) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:31 | 2022-05-27 | 2024-02-03 |
 | [Dinant](https://open.spotify.com/track/6OMDq58l1Aj0NfutF14Kcq) | [Willa Jacobs](https://open.spotify.com/artist/3kC9ly7aDuSfEPXmPIemvc) | [Dinant](https://open.spotify.com/album/2KaWMPt1cekOlzNy3H47fG) | 2:11 | 2022-05-27 | 2023-10-02 |
 | [Distance](https://open.spotify.com/track/3NywRjjYjyrTjCvV1CcPjD) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Distance](https://open.spotify.com/album/3Jal7rGnVgw21HuUs14Knd) | 2:26 | 2022-05-27 | 2022-08-10 |
 | [Divided](https://open.spotify.com/track/6ZsneTepMm115P6isojL6R) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Divided](https://open.spotify.com/album/1s5iJHPOqx0gCVVwwXR82B) | 2:11 | 2022-05-27 | 2022-08-10 |
@@ -372,6 +372,7 @@
 | [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 | 2022-07-20 | 2024-01-07 |
 | [Lillian](https://open.spotify.com/track/6DGMmL7Y0CG0OFEvRepJpq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/0E6zHfeSuibVbeFZQR5v4A) | 2:07 | 2022-05-27 | 2022-07-29 |
 | [Litany](https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9) | [Daniella Babbitt](https://open.spotify.com/artist/11qA90NqXDlLWVji5Vmwct) | [Litany](https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5) | 2:52 | 2022-05-27 | 2023-03-10 |
+| [Littoral](https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Littoral](https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC) | 2:21 | 2024-01-29 |  |
 | [Lizards play](https://open.spotify.com/track/251Nfh1hvBFIUvZHt562NS) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Lizards play](https://open.spotify.com/album/5lPrbJLWMohcRtbX1SDn5p) | 2:26 | 2022-07-20 | 2023-11-18 |
 | [Lobe: The Persistence of Memory](https://open.spotify.com/track/3QSKmjKCMCc8halbvPmwkl) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [The Persistence of Memory](https://open.spotify.com/album/6Bk0HhWSAZfMAioQEc1dl0) | 2:30 | 2022-05-27 | 2023-04-18 |
 | [Longing For Yesterday](https://open.spotify.com/track/6dHlvIZhsp3Ts3MUsyudKa) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Longing For Yesterday](https://open.spotify.com/album/05JFGW1xgW0McGf9EiQl0v) | 3:37 | 2022-05-27 | 2022-08-10 |
@@ -676,7 +677,7 @@
 | [Timeless](https://open.spotify.com/track/2iKJY18ZbvwC6rGIGh1pIE) | [Allister Romans](https://open.spotify.com/artist/2iXh00erHUEAsyIw0s2UGh) | [Timeless](https://open.spotify.com/album/465XayPaIKMC649uN3VNIE) | 2:26 | 2022-05-27 | 2023-03-28 |
 | [Timeless](https://open.spotify.com/track/4A6N096dpRTRlAGSkxsVrh) | [Josephine Scwartz](https://open.spotify.com/artist/1I0Xs30ubj3VqMZ6nS3YDn) | [Timeless](https://open.spotify.com/album/5LSs52IqwKW1p2HTqSU7zX) | 2:22 | 2022-05-27 | 2022-08-10 |
 | [To Brodie](https://open.spotify.com/track/5ByK15THRduWp3LYKJrx5p) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [To Brodie](https://open.spotify.com/album/2q5nbVAbsFkfwvdarg2Da2) | 2:16 | 2022-05-27 | 2022-09-24 |
-| [To You Again](https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [To You Again](https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm) | 2:08 | 2022-05-27 |  |
+| [To You Again](https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [To You Again](https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm) | 2:08 | 2022-05-27 | 2024-02-03 |
 | [Tomorrow](https://open.spotify.com/track/6S3uAaYflAG6653OxyJJ2Y) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Tomorrow](https://open.spotify.com/album/1lXQipR1KhZf5JRUwM5mDg) | 1:46 | 2023-04-12 | 2023-07-25 |
 | [Tournesol](https://open.spotify.com/track/322iMyBTTUhTCGRttDs6CY) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Tournesol](https://open.spotify.com/album/4kGelfnVHpsto9BChtOtXl) | 2:13 | 2022-05-27 | 2023-08-25 |
 | [Tout, sauf mon ombre](https://open.spotify.com/track/18gxWtwvPc7BtLfcL52K9i) | [Corrine Chloé](https://open.spotify.com/artist/1BjYghTaiPxeWiLObrvsyR) | [Tout, sauf mon ombre](https://open.spotify.com/album/3b2kYxC690HiyzFYxcgzYY) | 3:02 | 2022-05-27 | 2022-09-24 |
@@ -743,6 +744,7 @@
 | [Wayfarer](https://open.spotify.com/track/0DfcL73wzcHapZVB95Tm3F) | [Maud Parris](https://open.spotify.com/artist/0hMFv0x1eWo999Ri1wl3iA) | [Wayfarer](https://open.spotify.com/album/5aTfJ7qE0h7uP6IMfmpm9v) | 2:06 | 2022-05-27 | 2024-01-03 |
 | [What if we never met](https://open.spotify.com/track/3yZ9BRpkgqJYtTbz9WZy9j) | [Santo Trevisani](https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ) | [What if we never met](https://open.spotify.com/album/21L56u6AKNUpJYbbW99B7F) | 2:07 | 2022-05-27 | 2022-07-21 |
 | [Whatever Begins, Also Ends](https://open.spotify.com/track/2rPnJ16EtULbPM6c3MeNhP) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Revive](https://open.spotify.com/album/1siXATJWy2U7z27d92lVzW) | 2:43 | 2022-05-27 | 2022-09-24 |
+| [Whatever is left](https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Whatever is left](https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q) | 2:03 | 2024-01-29 |  |
 | [When the evening falls](https://open.spotify.com/track/7r7lC8lRoomYjKzLXobXKL) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [In Bloom](https://open.spotify.com/album/1LEZyMtpTYmJQ6ueummnGv) | 2:41 | 2022-05-27 | 2023-05-17 |
 | [Whenever You're With Me](https://open.spotify.com/track/37svGyFPieAZ9D89ejymzG) | [Maura Huffman](https://open.spotify.com/artist/60HUetND2GEvv5sPhsdujy) | [Whenever You're With Me](https://open.spotify.com/album/6Zi81juw9l7a13KmNMJjQb) | 1:53 | 2022-05-27 | 2022-09-24 |
 | [Where The Clouds Go](https://open.spotify.com/track/1HNMaNRnCVbX3ZtW92QsyZ) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Where The Clouds Go](https://open.spotify.com/album/0qtsQ42NbVrziSnmt8xANe) | 2:28 | 2022-05-27 | 2022-09-24 |

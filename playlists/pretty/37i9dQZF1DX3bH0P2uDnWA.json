@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 378065,
+  "num_followers": 378095,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjM5YjU1OGY4NzNmOTk1OTczOGNlNGU5M2RkMGY2ZDcyNGFhZTFk",
+  "snapshot_id": "MCxjM2ViNzBhZjg5NWQ0ODdkNGM0YzU4NTNlNDA4ZTY5NzQxZTQwZWUw",
   "tracks": [
     {
       "added_at": "2024-01-26 05:01:00",
@@ -39,6 +39,30 @@
       "duration_ms": 180106,
       "name": "Get Down Tonight - Electro Swing Mix",
       "url": "https://open.spotify.com/track/6vAMo6PBPXkDOmTjGBj83J"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Hep Cat Boogie (Atom Smith Remix)",
+        "url": "https://open.spotify.com/album/16PfGNGI4i9eHcM9l2wIUg"
+      },
+      "artists": [
+        {
+          "name": "Balduin",
+          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
+        },
+        {
+          "name": "Atom Smith",
+          "url": "https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2"
+        },
+        {
+          "name": "Kate Thomas",
+          "url": "https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz"
+        }
+      ],
+      "duration_ms": 193170,
+      "name": "Hep Cat Boogie - Atom Smith Remix",
+      "url": "https://open.spotify.com/track/7qnlVQA90dYjO4BcXtaz2W"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -137,24 +161,20 @@
       "url": "https://open.spotify.com/track/37zrAR3yngfTZeWyqMLR1B"
     },
     {
-      "added_at": "2024-01-05 05:00:00",
+      "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Hep Cat Boogie (Lounge Version)",
-        "url": "https://open.spotify.com/album/4h3VdYq6ARCmzbdcffIOR9"
+        "name": "Doin' the Jive (Electro Swing Bot Mix)",
+        "url": "https://open.spotify.com/album/6Fpt2EakjGJv1XgieKXX9p"
       },
       "artists": [
         {
-          "name": "Balduin",
-          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
-        },
-        {
-          "name": "Kate Thomas",
-          "url": "https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz"
+          "name": "The Swing Bot",
+          "url": "https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b"
         }
       ],
-      "duration_ms": 170637,
-      "name": "Hep Cat Boogie - Lounge Version",
-      "url": "https://open.spotify.com/track/1d8Yqf3t0eWYFapcQFhDtB"
+      "duration_ms": 205151,
+      "name": "Doin' the Jive - Electro Swing Bot Mix",
+      "url": "https://open.spotify.com/track/2qbiime4UphiqfrbwOnWly"
     },
     {
       "added_at": "2023-11-06 13:47:16",
@@ -1279,22 +1299,6 @@
       "duration_ms": 163624,
       "name": "When You Go Down",
       "url": "https://open.spotify.com/track/4cG36F0rcNFXucGbMFndMq"
-    },
-    {
-      "added_at": "2023-11-06 13:47:16",
-      "album": {
-        "name": "See You Later",
-        "url": "https://open.spotify.com/album/1TXRrlqxV1m4lxr9J0jgVs"
-      },
-      "artists": [
-        {
-          "name": "Elle & The Pocket Belles",
-          "url": "https://open.spotify.com/artist/0MbDNDhsDB35CyvApzybJt"
-        }
-      ],
-      "duration_ms": 166648,
-      "name": "See You Later",
-      "url": "https://open.spotify.com/track/4j2OB7zz0CgzwS8mOO1Kws"
     },
     {
       "added_at": "2023-11-06 13:47:16",

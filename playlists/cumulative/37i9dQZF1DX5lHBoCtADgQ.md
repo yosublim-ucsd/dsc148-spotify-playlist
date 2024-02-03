@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan & Salim Sulaiman
 
-85 songs - 5 hr 19 min
+87 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Jutti Meri \(Live\)](https://open.spotify.com/track/4RXpYrUS1ARaN3euvGHpTj) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Jutti Meri \(Live\) \- Single](https://open.spotify.com/album/1T18aurspe5ouDMzg9Xaas) | 3:28 | 2021-11-03 | 2023-09-03 |
 | [Jutti Meri \(Live\)](https://open.spotify.com/track/6v4OWxDDulyvjWfRXPjA8Y) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Jutti Meri \(Live\)](https://open.spotify.com/album/3R2cCLXlBCGtV7TKDN1AoE) | 3:28 | 2023-08-17 |  |
 | [Kala Dooria](https://open.spotify.com/track/2IvSrdat1OK4xMArwWEWyt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Virasat\-E\-Punjab, Vol\. 1](https://open.spotify.com/album/7BLztbcJkDA2UvmCsrU7fW) | 2:59 | 2021-11-03 |  |
-| [Kala Sha Kala](https://open.spotify.com/track/401L9cuL8my61jXIMZDV0t) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kala Sha Kala](https://open.spotify.com/album/0T7GZkw5POnYikelmZTA1g) | 3:15 | 2022-11-09 |  |
+| [Kala Sha Kala](https://open.spotify.com/track/401L9cuL8my61jXIMZDV0t) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kala Sha Kala](https://open.spotify.com/album/0T7GZkw5POnYikelmZTA1g) | 3:15 | 2022-11-09 | 2024-02-03 |
+| [Kala Sha Kala](https://open.spotify.com/track/5WlEghZayE7SbG5QJi4knC) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kala Sha Kala](https://open.spotify.com/album/3ghfzOtkMqb3XI19cn8zO6) | 3:15 | 2023-12-21 |  |
 | [Kala Shah Kala](https://open.spotify.com/track/0AsI6bQU0DWpjuotmAnrdR) | [Jasbir Kaur](https://open.spotify.com/artist/2aqqAXlGOXV2WdUxbl4uju) | [Virsa, Vol\. 2](https://open.spotify.com/album/4tvEZ7lQ6w8yeLJV54oOBH) | 2:55 | 2022-07-16 |  |
 | [Kala Shah Kala \- Original](https://open.spotify.com/track/3pBEKZBDGtiwvLURVaAbeO) | [Jasbir Kaur](https://open.spotify.com/artist/2aqqAXlGOXV2WdUxbl4uju) | [Virsa Volume 2](https://open.spotify.com/album/6KP8Y0FU1zfhz5cPMuGjIj) | 2:55 | 2021-11-03 | 2022-07-29 |
 | [Kale Rang Da Paranda](https://open.spotify.com/track/2Ji2Z2siL7qukqNTf7fi1r) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kale Rang Da Paranda](https://open.spotify.com/album/2TfxtYFeoc5yqzGJTZZwWm) | 2:22 | 2022-05-12 | 2023-12-27 |
@@ -81,7 +82,8 @@
 | [Munda Sakhiyo Ni](https://open.spotify.com/track/09Gy3xqh13lw2UoiGQTI9s) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Munda Sakhiyo Ni](https://open.spotify.com/album/4NbRfMn3VX7Xj4nZq9RPgU) | 3:17 | 2021-11-03 |  |
 | [Pher Auna Hai](https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR) | [Sumira Thakur](https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup) | [Pher Auna Hai](https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN) | 8:26 | 2021-11-03 |  |
 | [Pinda Vichon Pind \- Folk Recreation](https://open.spotify.com/track/1jEzFM4KUY7Zi2X7taKiZ8) | [Mickey Singh](https://open.spotify.com/artist/4TytLlhbWaVCpuyATg6syY) | [Pinda Vichon Pind \(Folk Recreation\)](https://open.spotify.com/album/5yFJPxffYbmIqmSdybpk1A) | 2:17 | 2021-11-03 | 2023-10-11 |
-| [Punjabi Folk Boliyan](https://open.spotify.com/track/4KVJYdubRM0owXUyZabLTR) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Punjabi Folk Boliyan](https://open.spotify.com/album/6tTzfqYgGphqYBAu1y3ijP) | 3:05 | 2022-09-15 |  |
+| [Punjabi Folk Boliyan](https://open.spotify.com/track/4KVJYdubRM0owXUyZabLTR) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Punjabi Folk Boliyan](https://open.spotify.com/album/6tTzfqYgGphqYBAu1y3ijP) | 3:05 | 2022-09-15 | 2024-02-03 |
+| [Punjabi Folk Boliyan](https://open.spotify.com/track/76ZQane540KveAtPYr8g3O) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Punjabi Folk Boliyan](https://open.spotify.com/album/3ktqMoWRoAxzCXvuH76B4A) | 3:05 | 2023-12-21 |  |
 | [Raanjha \- Spotify Singles](https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Raanjha \- Spotify Singles](https://open.spotify.com/album/644jvb8ZYS8ySgtUrXM8T0) | 2:23 | 2023-03-18 | 2023-06-06 |
 | [Ranjhana](https://open.spotify.com/track/1upV3GcdtYBdoDwOzUjo60) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Ranjhana](https://open.spotify.com/album/5Nt2hF22SqOBga62QCh5bI) | 2:37 | 2021-11-03 |  |
 | [Sajna Ve Sajna](https://open.spotify.com/track/4eIOdicpfNZq1CHTD6U2BW) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Gurdas Maan Hits](https://open.spotify.com/album/33JWCJhCr7UJMa3UZbeNeJ) | 6:22 | 2021-11-03 | 2022-07-29 |

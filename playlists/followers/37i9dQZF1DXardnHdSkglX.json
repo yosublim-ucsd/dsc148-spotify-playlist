@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 696150,
+  "2024-02-03": 696226,
   "date_first_scraped": "2021-12-30",
   "description": "Some of the world's biggest pop hits in bossa nova versions.",
   "name": "Bossa Nova Covers",
@@ -2179,6 +2179,24 @@
       "duration_ms": 228195,
       "name": "It Ain't over Til It's Over - Bossa Version",
       "url": "https://open.spotify.com/track/76D2rppXQ0UDtKfk9eXLgc"
+    },
+    {
+      "album": {
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/5nhTzqSBGhnEot3V89luGV"
+      },
+      "artists": [
+        {
+          "name": "Senti2",
+          "url": "https://open.spotify.com/artist/3Bae7rEUTuL7Vj4rf853N4"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144427,
+      "name": "It Must Have Been Love",
+      "url": "https://open.spotify.com/track/7f0h3FtS5IIm5PhnnEC2eh"
     },
     {
       "album": {

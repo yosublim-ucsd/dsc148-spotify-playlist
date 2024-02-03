@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Myuk
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,159 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,157 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Tokeru](https://open.spotify.com/track/1Ebi6bpJyPf8iZcvyceTQE) | [Penguinrush](https://open.spotify.com/artist/6EZO3QfDzV0BREKPesx6Io) | [shin zen bi](https://open.spotify.com/album/3auUQy4uLMntgH8F71vHxR) | 5:46 |
 | 80 | [瞼を染めて](https://open.spotify.com/track/2fBn3VyijKi3MpJwtAV7vX) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [瞼を染めて](https://open.spotify.com/album/7n9EYkI7aeTGqS0ZGTAg8b) | 4:50 |
 
-Snapshot ID: `MCxjYmNlNmFjNjJlZDRjNjY3ZmUxOGViNWViMGNjYTIwMzRlMDRhOWQx`
+Snapshot ID: `MCxmN2MyMmFmYzdkNjEwZDg4M2U2YWI3OTEwN2UxZjA1Y2EwNjBjZDBk`

@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 351508,
+  "2024-02-03": 351559,
   "date_first_scraped": "2021-12-30",
   "description": "Need to get your energy level up? This will help!",
   "name": "Energy Booster: Rock",
@@ -43,6 +43,24 @@
     {
       "album": {
         "name": "Era Vulgaris",
+        "url": "https://open.spotify.com/album/1w71aBHYJ1zTOsSsmr2Fca"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214066,
+      "name": "3's & 7's",
+      "url": "https://open.spotify.com/track/44JEbGi3NxptsEuxDNGiAR"
+    },
+    {
+      "album": {
+        "name": "Era Vulgaris",
         "url": "https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL"
       },
       "artists": [
@@ -53,7 +71,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 214066,
       "name": "3's & 7's",
       "url": "https://open.spotify.com/track/63wsuMhok6GgcBRd2strGk"

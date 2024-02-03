@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 105349,
+  "num_followers": 105374,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzIxYTkwM2ZiZjI0ZDg1NjBmZjg3YTM4NmE2NGNiOTdjMDhjYjQ2",
+  "snapshot_id": "MCxlN2YxZThiNmIzN2M2MjQ3YjAzMDFiYjNlZDAwMTIwZGRlMDc3NGY4",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Empty City",
-        "url": "https://open.spotify.com/album/62uP1pylQLNpVpphnniEFh"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
-        }
-      ],
-      "duration_ms": 196523,
-      "name": "Empty City",
-      "url": "https://open.spotify.com/track/1xZRY4Gyj5ffsMkWqLZwj1"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Next Winter",
         "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 234683,
       "name": "Next Winter",
       "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Empty City",
+        "url": "https://open.spotify.com/album/62uP1pylQLNpVpphnniEFh"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+        }
+      ],
+      "duration_ms": 196523,
+      "name": "Empty City",
+      "url": "https://open.spotify.com/track/1xZRY4Gyj5ffsMkWqLZwj1"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Mists Inhabit This Place",
-        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
-      },
-      "artists": [
-        {
-          "name": "Brambles",
-          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Mists Inhabit This Place",
-      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "P\u00e1th\u0113",
         "url": "https://open.spotify.com/album/2QwFSNzyM11u2GCpeY8aX9"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 341013,
       "name": "P\u00e1th\u0113",
       "url": "https://open.spotify.com/track/0bbJefbHetNlo7n26Dq6E0"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Mists Inhabit This Place",
+        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
+      },
+      "artists": [
+        {
+          "name": "Brambles",
+          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Mists Inhabit This Place",
+      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "River Oblivion",
-        "url": "https://open.spotify.com/album/59z2ri75VSFwcpH6tYq1Uy"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 365892,
-      "name": "New Beginning",
-      "url": "https://open.spotify.com/track/0Vpwr05jz86jMAIzMZ7BBE"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Post-Svalbard",
         "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
       },
@@ -751,22 +735,34 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Traveller (Lambert rework)",
-        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
+        "name": "River Oblivion",
+        "url": "https://open.spotify.com/album/59z2ri75VSFwcpH6tYq1Uy"
       },
       "artists": [
         {
-          "name": "Josin",
-          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
-        },
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
         }
       ],
-      "duration_ms": 200259,
-      "name": "Traveller - Lambert rework",
-      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
+      "duration_ms": 365892,
+      "name": "New Beginning",
+      "url": "https://open.spotify.com/track/0Vpwr05jz86jMAIzMZ7BBE"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Unfold (XXIM:EXPO #2)",
+        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
+      },
+      "artists": [
+        {
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+        }
+      ],
+      "duration_ms": 218743,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -791,18 +787,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Unfold (XXIM:EXPO #2)",
-        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
+        "name": "Traveller (Lambert rework)",
+        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
       },
       "artists": [
         {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+          "name": "Josin",
+          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
+        },
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
         }
       ],
-      "duration_ms": 218743,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
+      "duration_ms": 200259,
+      "name": "Traveller - Lambert rework",
+      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/0Ruw6EAFove5eAZrf7cU6l"
-      },
-      "artists": [
-        {
-          "name": "David A. Molina",
-          "url": "https://open.spotify.com/artist/6OmPjTPiNJ2IGNjcgg3Oug"
-        }
-      ],
-      "duration_ms": 238223,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/3l3ahfNRJqe58020fZz10w"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Close To Her",
         "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 209558,
       "name": "Close To Her",
       "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/0Ruw6EAFove5eAZrf7cU6l"
+      },
+      "artists": [
+        {
+          "name": "David A. Molina",
+          "url": "https://open.spotify.com/artist/6OmPjTPiNJ2IGNjcgg3Oug"
+        }
+      ],
+      "duration_ms": 238223,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3l3ahfNRJqe58020fZz10w"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Mishkin & Septuagint",
+        "url": "https://open.spotify.com/album/1CgRejUrIDJCnbAo3VB3nc"
+      },
+      "artists": [
+        {
+          "name": "Paul Haslinger",
+          "url": "https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE"
+        }
+      ],
+      "duration_ms": 195719,
+      "name": "Mishkin",
+      "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0qYHJXm3QgVlZOwTHtGymE"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 153120,
       "name": "Home",
       "url": "https://open.spotify.com/track/3wWixrFAYmJEDGwK7ipu3b"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Mishkin & Septuagint",
-        "url": "https://open.spotify.com/album/1CgRejUrIDJCnbAo3VB3nc"
-      },
-      "artists": [
-        {
-          "name": "Paul Haslinger",
-          "url": "https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE"
-        }
-      ],
-      "duration_ms": 195719,
-      "name": "Mishkin",
-      "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
     },
     {
       "added_at": "2023-10-20 04:00:00",

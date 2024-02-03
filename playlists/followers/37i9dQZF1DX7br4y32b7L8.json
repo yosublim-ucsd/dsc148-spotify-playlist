@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 25995,
+  "2024-02-03": 26032,
   "date_first_scraped": "2023-02-25",
   "description": "songs voor je playlist!",
   "name": "Viral Hits NL",
@@ -1315,6 +1315,32 @@
       "duration_ms": 251840,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+    },
+    {
+      "album": {
+        "name": "Domino (Sped Up)",
+        "url": "https://open.spotify.com/album/2iEVHzP58I3iWZypuLqHqR"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        },
+        {
+          "name": "Kuya Magik",
+          "url": "https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197664,
+      "name": "Domino - Sped Up",
+      "url": "https://open.spotify.com/track/7I53PteWhM2E41k9sIjdRZ"
     },
     {
       "album": {
@@ -6577,6 +6603,24 @@
     {
       "album": {
         "name": "Zakelijke Crush",
+        "url": "https://open.spotify.com/album/3TEH6FaJf2041RKyWC1kpO"
+      },
+      "artists": [
+        {
+          "name": "Eyah",
+          "url": "https://open.spotify.com/artist/2dQhYDhI8IWPGbwgyqMb2E"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191459,
+      "name": "Zakelijke Crush",
+      "url": "https://open.spotify.com/track/3W8JPY2BajmXFaSt273oc6"
+    },
+    {
+      "album": {
+        "name": "Zakelijke Crush",
         "url": "https://open.spotify.com/album/4ICpP4qdD5pQRgasUOWeg2"
       },
       "artists": [
@@ -6587,7 +6631,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 191459,
       "name": "Zakelijke Crush",
       "url": "https://open.spotify.com/track/5LKeUnMZYtoyuonievJHTN"

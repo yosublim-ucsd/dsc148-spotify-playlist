@@ -4,7 +4,7 @@
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-545 songs - 1 day 5 hr 45 min
+546 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,8 @@
 | [Let Them Know](https://open.spotify.com/track/3iEwla99ovgF0Rdla6FZm4) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 2:28 | 2022-08-26 | 2023-07-19 |
 | [Let You Down](https://open.spotify.com/track/54aWi8Afw2HYtKfPHxuGSW) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Black Is Golden](https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK) | 3:35 | 2022-08-26 |  |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/3n5te2xbUAPjzAnhLgA42z) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/1O1Ulu4uuaceAzsNfN7ks0) | 3:10 | 2022-07-15 | 2022-10-13 |
-| [Let's Fall in Love for the Night](https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:10 | 2022-07-15 |  |
+| [Let's Fall in Love for the Night](https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:10 | 2023-09-13 |  |
+| [Let's Fall in Love for the Night](https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:10 | 2022-07-15 | 2024-02-03 |
 | [Light Switch](https://open.spotify.com/track/0F1TxVw4mWkqp9vJrnw65w) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Simply Feelgood](https://open.spotify.com/album/6r5uHLa2JBpivqjVTYZdiT) | 3:05 | 2022-08-26 | 2022-11-12 |
 | [Light Switch](https://open.spotify.com/track/0eXB93GUVd0jhjg8KZJ6af) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [FYP \- Viral Hits](https://open.spotify.com/album/15eWAxGQwHa8jozAYs6Xoc) | 3:05 | 2022-08-26 | 2022-11-13 |
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-08-26 | 2022-10-16 |

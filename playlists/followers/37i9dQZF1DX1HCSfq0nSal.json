@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 804208,
+  "2024-02-03": 804452,
   "date_first_scraped": "2022-01-09",
   "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Eladio Carri\u00f3n",
   "name": "PEGAO",
@@ -4411,7 +4411,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 208000,
       "name": "HIBIKI",
       "url": "https://open.spotify.com/track/4qSEvFGCpde73gqIuq3sho"
@@ -5241,6 +5241,24 @@
       "duration_ms": 136892,
       "name": "La Zona",
       "url": "https://open.spotify.com/track/5kqNIqFjijuzvVLhuY9B8j"
+    },
+    {
+      "album": {
+        "name": "LA \u00daLTIMA",
+        "url": "https://open.spotify.com/album/2VZ9rmzFLZbsMMrmrJF8ur"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "LA \u00daLTIMA",
+      "url": "https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb"
     },
     {
       "album": {

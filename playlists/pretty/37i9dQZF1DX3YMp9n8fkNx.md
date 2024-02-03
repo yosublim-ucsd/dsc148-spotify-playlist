@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 
 > The essential pop rock songs from the 1990s\. Cover: Matchbox Twenty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,297,126 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,297,305 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 99 | [Who's Gonna Ride Your Wild Horses](https://open.spotify.com/track/4SzIZFruLhiAzhuMtAhIRt) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 5:16 |
 | 100 | [Standing Outside a Broken Phone Booth with Money in My Hand](https://open.spotify.com/track/5hcer4MP5GeHqtSjDYx5AC) | [Primitive Radio Gods](https://open.spotify.com/artist/5wTpMQz4RtF6dFX9blvMDc) | [Rocket](https://open.spotify.com/album/0MomEpdhFU5YUXQxr47kxe) | 5:36 |
 
-Snapshot ID: `MCw3MmY2OGFmYmQzNmQ2NzljYWQzOTJhNDRhMzYyNTFhZjJjZDE0ZWNj`
+Snapshot ID: `MCxjOWE4OTcxMmQzMjVmZjlhMTc1NWNjMGE3ZDRkZWQwZWE3Mjg2NWY2`

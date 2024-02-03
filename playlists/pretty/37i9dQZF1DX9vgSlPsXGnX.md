@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,286 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,326 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,16 +20,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 10 | [Ahora y siempre](https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:53 |
 | 11 | [Tres Regalos](https://open.spotify.com/track/0Wui9qdWQt5zhH0ZYXmrVq) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Coleccion Original](https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ) | 2:55 |
 | 12 | [Te Amaré Toda la Vida](https://open.spotify.com/track/60TNuPO8CKIjHstvZ9y5JN) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Vida De Bohemio](https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi) | 2:12 |
-| 13 | [Contigo](https://open.spotify.com/track/2S5ogx9YB1fhCcoKVd4UkQ) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK) | 2:58 |
-| 14 | [Noche No Te Vayas](https://open.spotify.com/track/5PG0KLm66uabwKFWSGNe5U) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0a7XFwltXqVxLHjgYp5rOQ) | 2:58 |
+| 13 | [Noche No Te Vayas](https://open.spotify.com/track/5PG0KLm66uabwKFWSGNe5U) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0a7XFwltXqVxLHjgYp5rOQ) | 2:58 |
+| 14 | [Contigo](https://open.spotify.com/track/2S5ogx9YB1fhCcoKVd4UkQ) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK) | 2:58 |
 | 15 | [Perdon](https://open.spotify.com/track/6Vdz67EdEfB0d7BItvj9kt) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Lamento Borincano](https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl) | 3:12 |
 | 16 | [Perfidia](https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 2:20 |
 | 17 | [La Gloria Eres Tú](https://open.spotify.com/track/79BOX5jI2CAhA8d7GD7FGY) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Boleros In Trío](https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7) | 2:56 |
 | 18 | [Jacarandá](https://open.spotify.com/track/0RIijpTXIM2xf11zcH3eGL) | [Los Santos](https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI) | [Los Santos](https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR) | 2:56 |
-| 19 | [La Barca](https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 3:17 |
+| 19 | [Total](https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:54 |
 | 20 | [Cerca del Mar](https://open.spotify.com/track/0GJ21yUwVykIrHfCzkcXDv) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Coleccion Original](https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ) | 2:55 |
-| 21 | [Total](https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:54 |
-| 22 | [Cerezo Rosa](https://open.spotify.com/track/37Z7PlwDB0OUv2VWHO3tPw) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 3:02 |
+| 21 | [Cerezo Rosa](https://open.spotify.com/track/37Z7PlwDB0OUv2VWHO3tPw) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 3:02 |
+| 22 | [La Barca](https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 3:17 |
 | 23 | [Triunfamos](https://open.spotify.com/track/00FbrAzIR77LQOwe0r0uL5) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [La Absoluta Colección](https://open.spotify.com/album/4T8MOQQIuICQ3Q7VF0JFB7) | 2:13 |
 | 24 | [Cuando Estoy Contigo](https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Todos Mis Amigos](https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A) | 2:26 |
 | 25 | [Aquellos Ojos Verdes](https://open.spotify.com/track/6T8G2zuDFwIV0z5TTx0apb) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI) | 4:54 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 27 | [Loca Pasión](https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ) | [Los Jaibos](https://open.spotify.com/artist/02zZvwbbma78yTdQ1p2tey) | [Loca Pasión](https://open.spotify.com/album/4WVQo2AHNUJ9L0qUfYosjh) | 2:51 |
 | 28 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 |
 | 29 | [Sabor a mi](https://open.spotify.com/track/3qbYOwAWwcvMUx6KPmWFKJ) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Los Tres Ases \- Serenata de Amor](https://open.spotify.com/album/1Ne7t2hsWhafB18i5QCUoI) | 3:12 |
-| 30 | [Nostalgia](https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [El Sentimiento del Latino En Nueva York](https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv) | 5:40 |
-| 31 | [No me platiques](https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Serenata con Pedro Infante](https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7) | 3:18 |
+| 30 | [No me platiques](https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Serenata con Pedro Infante](https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7) | 3:18 |
+| 31 | [Nostalgia](https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [El Sentimiento del Latino En Nueva York](https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv) | 5:40 |
 | 32 | [Dos Gardenias](https://open.spotify.com/track/4faOsdm3wPyhqSgkM9jZ9D) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Éxitos](https://open.spotify.com/album/54BYhUZE62cpwfBlcIYAWs) | 3:03 |
 | 33 | [Novia Mía](https://open.spotify.com/track/5IJ691iklYJBremu40wZLI) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record, Vol\. 1](https://open.spotify.com/album/60IfvvlBBoGXZpCFVS6KSF) | 2:31 |
 | 34 | [Azul](https://open.spotify.com/track/5hhvxPUnjYZzymr58T5E6H) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Homenaje a Agustin Lara \- Toña La Negra](https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L) | 3:17 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 68 | [Mira Que Eres Linda](https://open.spotify.com/track/3QMnlOZnTJtoJwyizN832A) | [Roberto Ledesma](https://open.spotify.com/artist/2Ejmg38PVquSCqD7ijebmY) | [El Estilo de Roberto Ledesma](https://open.spotify.com/album/2cW8xEyy96yugn4JzlSsBM) | 2:54 |
 | 69 | [Besos De Fuego](https://open.spotify.com/track/0gcHTyuJ19PvuDAcaw0uEX) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Canta](https://open.spotify.com/album/34SGNnZ6tCYw7v00Y0H6KZ) | 2:21 |
 | 70 | [Odiame](https://open.spotify.com/track/4p3A63uJHJXU4IRnmH2316) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 3:17 |
-| 71 | [Contigo](https://open.spotify.com/track/0qfpxZwicnDx86tuuWxyNX) | [Los Embajadores](https://open.spotify.com/artist/2EaQjDG7awZDbOx79mN35a) | [Los 100 Mejores Boleros, Vol\. 3](https://open.spotify.com/album/77nPejHN04qkgkISjyX8Nf) | 2:47 |
-| 72 | [Soy Lo Prohibido](https://open.spotify.com/track/3NNehXVkdD040tJURh6Foc) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [16 Exitos De Oro](https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk) | 3:06 |
+| 71 | [Soy Lo Prohibido](https://open.spotify.com/track/3NNehXVkdD040tJURh6Foc) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [16 Exitos De Oro](https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk) | 3:06 |
+| 72 | [Contigo](https://open.spotify.com/track/0qfpxZwicnDx86tuuWxyNX) | [Los Embajadores](https://open.spotify.com/artist/2EaQjDG7awZDbOx79mN35a) | [Los 100 Mejores Boleros, Vol\. 3](https://open.spotify.com/album/77nPejHN04qkgkISjyX8Nf) | 2:47 |
 | 73 | [Amor Mío / Sabrá Dios / Sabor a Mi](https://open.spotify.com/track/1lS7wZgXsADesTLXgWfm3b) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [Los Exitos de Alvaro Carrillo](https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y) | 4:40 |
 | 74 | [Sortilegio](https://open.spotify.com/track/0BErJnxQYdU7BOrwkPbP65) | [Antonio Badu](https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl) | [Antología ...Boleros](https://open.spotify.com/album/7GsjuSOmrNWEt01dcKufNj) | 2:54 |
 | 75 | [Maria Bonita](https://open.spotify.com/track/4997YRP3x3LNG7D81e0mrh) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Maria Bonita](https://open.spotify.com/album/6gO7t964RdRQy59RuoZMzJ) | 3:23 |
 
-Snapshot ID: `MCwwYzk1NjBhMmFkMmVjYTJjZTEzMDU4OGFkODljODNjYjY5ZDNlYjk4`
+Snapshot ID: `MCwyOWI3ZDY3NTAzYjQ5ZDhiZGY2N2QzMmQxZTQ2ZmJkMjMyZDg3Yjcx`

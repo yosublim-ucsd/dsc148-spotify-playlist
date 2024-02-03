@@ -2,7 +2,7 @@
 
 ### [Top Latin Indie](https://open.spotify.com/playlist/37i9dQZF1DX4V5eXk4NKqu)
 
-> The best Latin Indie tracks of today, featuring Andrea Bejar & Danny Schiller.
+> The best Latin Indie tracks of today, featuring Diamante Eléctrico.
 
 308 songs - 17 hr 35 min
 
@@ -188,7 +188,7 @@
 | [Nena <3](https://open.spotify.com/track/1Ss6kJu8otX3v4yV5fBuq2) | [Julienne Ramos](https://open.spotify.com/artist/6pvopC9Vu2mV6rYsXxxnTg) | [Nena <3](https://open.spotify.com/album/5C3T3vpziN6iA4o2SkPjHY) | 3:13 | 2022-03-10 | 2022-12-10 |
 | [Night Moves](https://open.spotify.com/track/1D6Slhg7MMnraZpIEE8pbb) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Night Moves](https://open.spotify.com/album/2bvow9uJrep57G06zuoLjc) | 3:19 | 2022-06-03 | 2023-02-09 |
 | [Night Moves](https://open.spotify.com/track/3itTjtSUO9mC7if5prxrTn) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Night Moves](https://open.spotify.com/album/4ylvwWueTH4ahlgjcbUJsF) | 3:19 | 2022-03-10 | 2022-07-28 |
-| [No Puedo Olvidarte](https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [No Puedo Olvidarte](https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y) | 3:27 | 2023-03-24 | 2024-02-02 |
+| [No Puedo Olvidarte](https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [No Puedo Olvidarte](https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y) | 3:27 | 2023-03-24 |  |
 | [NO TE ALEJES](https://open.spotify.com/track/3x5uBmNaBtm8l843nO15P1) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [TE QUIERO](https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo) | 3:30 | 2023-11-03 |  |
 | [NO TE ALEJES](https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [TE QUIERO](https://open.spotify.com/album/65EzIW9HRqb0a7v8gY3oXJ) | 3:30 | 2023-03-24 | 2023-11-03 |
 | [No Te Vayas with Jane](https://open.spotify.com/track/6dkcbaRHCVqSeWG1cmbZC0) | [Danto](https://open.spotify.com/artist/0L8DGJwLOOu7DePOSdE49v) | [Danto's Inferno](https://open.spotify.com/album/3N9wGucblUYoiCR3uGoIhW) | 2:30 | 2022-03-10 | 2022-12-10 |
@@ -242,7 +242,7 @@
 | [Si Esto Es](https://open.spotify.com/track/4GQsT5TzolkHmgXmMhNiTB) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Si Esto Es](https://open.spotify.com/album/0fw02MOlRu9FJaXmrv0dsM) | 2:43 | 2023-11-10 |  |
 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 | 2023-03-10 |  |
 | [Si Tú Supieras](https://open.spotify.com/track/5UbZkag2EpEKQugkdrUluj) | [Maddy Beyton](https://open.spotify.com/artist/2dOP9NOlS6h7YtuAn2EzVA) | [Si Tú Supieras](https://open.spotify.com/album/6CRpj51c1A3Pbx05JsKGPt) | 3:10 | 2022-03-10 | 2022-12-02 |
-| [Siempre Tendré Mi Voz](https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Siempre Tendré Mi Voz](https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4) | 2:45 | 2023-11-10 |  |
+| [Siempre Tendré Mi Voz](https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Siempre Tendré Mi Voz](https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4) | 2:45 | 2023-11-10 | 2024-02-03 |
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2022-09-06 | 2023-11-11 |
 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 | 2022-09-06 | 2023-03-25 |
 | [Sol](https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:02 | 2023-11-10 |  |

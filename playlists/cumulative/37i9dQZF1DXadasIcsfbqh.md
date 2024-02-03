@@ -2,7 +2,7 @@
 
 ### [Pop Country](https://open.spotify.com/playlist/37i9dQZF1DXadasIcsfbqh)
 
-> Pop country hits of today and tomorrow\. Cover: Ashley Cooke
+> Pop country hits of today and tomorrow\. Cover: Dylan Scott
 
 272 songs - 14 hr 15 min
 
@@ -145,7 +145,7 @@
 | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN) | 3:30 | 2023-05-12 |  |
 | [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 | 2021-12-17 | 2022-01-08 |
 | [Lil Vibe](https://open.spotify.com/track/1eucIrSBntRnPpTvsaHmwE) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Something To Dance To](https://open.spotify.com/album/2o9aZsNGXbBNJvtdfW0eXt) | 2:54 | 2023-06-23 | 2023-07-12 |
-| [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK) | 3:28 | 2021-12-17 | 2024-01-30 |
+| [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK) | 3:28 | 2021-12-17 |  |
 | [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 | 2022-07-22 | 2023-11-08 |
 | [london \(with Cam\)](https://open.spotify.com/track/47EMbOhi8EB7FjLm2OQDln) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [london \(with Cam\)](https://open.spotify.com/album/41rhdJBIvsm2mb7RSPIo3K) | 4:26 | 2021-12-17 | 2022-07-24 |
 | [Look At The Mess I'm In](https://open.spotify.com/track/4wWkQCynfdPWrjIIZZVBOD) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [In Between: The Collection](https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz) | 3:00 | 2022-03-04 | 2022-07-26 |
@@ -203,7 +203,7 @@
 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 | 2021-12-17 |  |
 | [shot in the dark](https://open.spotify.com/track/19KRL4zJknP2EVh4mijlJy) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark \- Sampler](https://open.spotify.com/album/2HubZtBcz9xEfWWaLRqHXi) | 2:53 | 2023-06-30 | 2023-07-23 |
 | [shot in the dark](https://open.spotify.com/track/2tN8xQmQWDongN4JeVTYTt) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark \- Extended Sampler](https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ) | 2:53 | 2023-07-21 | 2023-07-28 |
-| [shot in the dark](https://open.spotify.com/track/3UfPXWIrPs9rZkRAwxRtmN) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 2:53 | 2023-07-21 |  |
+| [shot in the dark](https://open.spotify.com/track/3UfPXWIrPs9rZkRAwxRtmN) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 2:53 | 2023-07-21 | 2024-02-03 |
 | [Should Have Known Better](https://open.spotify.com/track/4lAQRXLmEv38xGzUJYoIJq) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [The Woman I've Become](https://open.spotify.com/album/1BWUybJrDIFyZmrMbZHkyu) | 2:27 | 2021-12-17 | 2022-07-29 |
 | [Single Saturday Night](https://open.spotify.com/track/1irAliF0T8sLIOPJp6n7rU) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Single Saturday Night](https://open.spotify.com/album/1wmVEVgetT1F0Qnu0651Ps) | 3:07 | 2021-12-17 |  |
 | [So Far So Good](https://open.spotify.com/track/3cIiJErQHF9NUcp6DwEOGB) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [So Far So Good](https://open.spotify.com/album/5wx6ZdqqOrQSUUIh6tYRTh) | 2:41 | 2021-12-17 | 2022-01-15 |

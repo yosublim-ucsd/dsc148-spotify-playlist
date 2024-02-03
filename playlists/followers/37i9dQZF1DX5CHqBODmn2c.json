@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 648100,
+  "2024-02-03": 647847,
   "date_first_scraped": "2022-04-20",
   "description": "Top of the top hits from Korean Pop Artists! Cover: <a href=\"spotify:artist:41MozSoPIsD1dJM0CLPjZF\">BLACKPINK</a>",
   "name": "Best of 2018: K-Pop",
@@ -2713,10 +2713,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 195015,
       "name": "YOU AND I",
       "url": "https://open.spotify.com/track/1sS61BTtpJxiw8VARNrD7n"
+    },
+    {
+      "album": {
+        "name": "Nightmare - Escape The ERA",
+        "url": "https://open.spotify.com/album/5Kb4FUQqxS5lcHJQVIxTIF"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195016,
+      "name": "YOU AND I",
+      "url": "https://open.spotify.com/track/4M5HZnLcoHBllOB5OF6UKE"
     },
     {
       "album": {

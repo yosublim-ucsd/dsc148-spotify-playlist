@@ -1,12 +1,12 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 111291,
+  "num_followers": 111283,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2IzM2ExZTYwMzQ2ODFhNDE3M2QwZDc5ZjE1OGQ4NTY3MTJhMjdk",
+  "snapshot_id": "MCxhNGQ0ZDcxMWNlMjlkYzE0Mzc4OTA5ODcyNzJhMGFmMmVlOTk4Nzgz",
   "tracks": [
     {
       "added_at": "2022-04-15 12:09:52",
@@ -351,18 +351,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "I Don't Love You Anymore",
-        "url": "https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl"
+        "name": "honshu island",
+        "url": "https://open.spotify.com/album/5R1Cj9GJ2Ur6AIfzjcdWIm"
       },
       "artists": [
         {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+          "name": "mt. fujitive",
+          "url": "https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d"
         }
       ],
-      "duration_ms": 77600,
-      "name": "I Don't Love You Anymore",
-      "url": "https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW"
+      "duration_ms": 71393,
+      "name": "tequila",
+      "url": "https://open.spotify.com/track/0diOcYSPXO1jhT1XxGKfS3"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -383,18 +383,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "honshu island",
-        "url": "https://open.spotify.com/album/5R1Cj9GJ2Ur6AIfzjcdWIm"
+        "name": "I Don't Love You Anymore",
+        "url": "https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl"
       },
       "artists": [
         {
-          "name": "mt. fujitive",
-          "url": "https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d"
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
         }
       ],
-      "duration_ms": 71393,
-      "name": "tequila",
-      "url": "https://open.spotify.com/track/0diOcYSPXO1jhT1XxGKfS3"
+      "duration_ms": 77600,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Choke",
-        "url": "https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg"
-      },
-      "artists": [
-        {
-          "name": "Sonn",
-          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Choke",
-      "url": "https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Where I Met You",
         "url": "https://open.spotify.com/album/3iynciZnTYz1lMCKBMiXTY"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 141124,
       "name": "Where I Met You",
       "url": "https://open.spotify.com/track/0hohbae2D1GRZxEB51lQOJ"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Choke",
+        "url": "https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg"
+      },
+      "artists": [
+        {
+          "name": "Sonn",
+          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "long ago.",
-        "url": "https://open.spotify.com/album/63BlmEk69qFmjJbO9n4Jb6"
-      },
-      "artists": [
-        {
-          "name": "halberd",
-          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
-        }
-      ],
-      "duration_ms": 126087,
-      "name": "long ago.",
-      "url": "https://open.spotify.com/track/7BdazOnsFvAkQGyrp2djJM"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Sonatina",
         "url": "https://open.spotify.com/album/28sxvPZfJSRNw0yOwZ3pPU"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 165235,
       "name": "Afternoon Calm",
       "url": "https://open.spotify.com/track/48GxDUMiiTQ4e7EvsU5hRq"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "long ago.",
+        "url": "https://open.spotify.com/album/63BlmEk69qFmjJbO9n4Jb6"
+      },
+      "artists": [
+        {
+          "name": "halberd",
+          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
+        }
+      ],
+      "duration_ms": 126087,
+      "name": "long ago.",
+      "url": "https://open.spotify.com/track/7BdazOnsFvAkQGyrp2djJM"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Caliber",
+        "url": "https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK"
+      },
+      "artists": [
+        {
+          "name": "yeyts.",
+          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
+        }
+      ],
+      "duration_ms": 130588,
+      "name": "Caliber",
+      "url": "https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "Directions",
         "url": "https://open.spotify.com/album/1GNYINM8gupBbSdJSPuaud"
       },
@@ -711,18 +727,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Caliber",
-        "url": "https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK"
+        "name": "longing for you",
+        "url": "https://open.spotify.com/album/66uBHTMoJVpedbTq7jyU2M"
       },
       "artists": [
         {
-          "name": "yeyts.",
-          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
+          "name": "Moody.",
+          "url": "https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb"
         }
       ],
-      "duration_ms": 130588,
-      "name": "Caliber",
-      "url": "https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU"
+      "duration_ms": 73846,
+      "name": "jocelyn",
+      "url": "https://open.spotify.com/track/0piDIO7lJLc007jn2DqPcF"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -743,22 +759,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "ep seeds",
-        "url": "https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf"
-      },
-      "artists": [
-        {
-          "name": "eevee",
-          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
-        }
-      ],
-      "duration_ms": 181638,
-      "name": "belas",
-      "url": "https://open.spotify.com/track/6OXNlUd6vv5Kwz5kPezGhD"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "running around dreaming",
         "url": "https://open.spotify.com/album/2yTJ6fdaX9ZYGzdEJyrvna"
       },
@@ -775,18 +775,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "longing for you",
-        "url": "https://open.spotify.com/album/66uBHTMoJVpedbTq7jyU2M"
+        "name": "ep seeds",
+        "url": "https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf"
       },
       "artists": [
         {
-          "name": "Moody.",
-          "url": "https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb"
+          "name": "eevee",
+          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
         }
       ],
-      "duration_ms": 73846,
-      "name": "jocelyn",
-      "url": "https://open.spotify.com/track/0piDIO7lJLc007jn2DqPcF"
+      "duration_ms": 181638,
+      "name": "belas",
+      "url": "https://open.spotify.com/track/6OXNlUd6vv5Kwz5kPezGhD"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
-      },
-      "artists": [
-        {
-          "name": "Barnes Blvd.",
-          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
-        }
-      ],
-      "duration_ms": 178260,
-      "name": "Joan of Arc.",
-      "url": "https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "BODY N SOUL",
         "url": "https://open.spotify.com/album/3ors81EU27PDdPZkxM19xW"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 168000,
       "name": "Mindfulness",
       "url": "https://open.spotify.com/track/5BZ0yIZtKoySiBIMJK0YOP"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+      },
+      "artists": [
+        {
+          "name": "Barnes Blvd.",
+          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+        }
+      ],
+      "duration_ms": 178260,
+      "name": "Joan of Arc.",
+      "url": "https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1007,6 +1007,30 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "crush on you",
+        "url": "https://open.spotify.com/album/2t8wIgXAwnWnfvdat3nXjR"
+      },
+      "artists": [
+        {
+          "name": "Retrib",
+          "url": "https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I"
+        },
+        {
+          "name": "417se",
+          "url": "https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s"
+        },
+        {
+          "name": "racheasf",
+          "url": "https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B"
+        }
+      ],
+      "duration_ms": 84030,
+      "name": "crush on you",
+      "url": "https://open.spotify.com/track/5VcEDw61pCPNiSjqh9cNwN"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "Silience",
         "url": "https://open.spotify.com/album/0Lma145HTquzDLS6tPTtoy"
       },
@@ -1019,22 +1043,6 @@
       "duration_ms": 196923,
       "name": "Silience",
       "url": "https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Setsuna",
-        "url": "https://open.spotify.com/album/7MFvFVNg8VQAar6XjEUj8R"
-      },
-      "artists": [
-        {
-          "name": "Huey Daze",
-          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
-        }
-      ],
-      "duration_ms": 152024,
-      "name": "Take You There",
-      "url": "https://open.spotify.com/track/7pn7E6FglPjV1dDaknCaD8"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1071,6 +1079,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Setsuna",
+        "url": "https://open.spotify.com/album/7MFvFVNg8VQAar6XjEUj8R"
+      },
+      "artists": [
+        {
+          "name": "Huey Daze",
+          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
+        }
+      ],
+      "duration_ms": 152024,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/7pn7E6FglPjV1dDaknCaD8"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "It's Ok",
         "url": "https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek"
       },
@@ -1087,30 +1111,6 @@
       "duration_ms": 168297,
       "name": "It's Ok",
       "url": "https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "crush on you",
-        "url": "https://open.spotify.com/album/2t8wIgXAwnWnfvdat3nXjR"
-      },
-      "artists": [
-        {
-          "name": "Retrib",
-          "url": "https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I"
-        },
-        {
-          "name": "417se",
-          "url": "https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s"
-        },
-        {
-          "name": "racheasf",
-          "url": "https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B"
-        }
-      ],
-      "duration_ms": 84030,
-      "name": "crush on you",
-      "url": "https://open.spotify.com/track/5VcEDw61pCPNiSjqh9cNwN"
     },
     {
       "added_at": "2022-04-15 12:09:52",

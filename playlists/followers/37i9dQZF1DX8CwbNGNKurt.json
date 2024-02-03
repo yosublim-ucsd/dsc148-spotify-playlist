@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 1438043,
+  "2024-02-03": 1438170,
   "date_first_scraped": "2021-12-21",
   "description": "Throw it back to the biggest, best hits of the 2000's.",
   "name": "Throwback Workout",
@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 312986,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/1GLx5tpDdwEFiA7KaikvX2"
@@ -2439,7 +2439,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 254026,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"

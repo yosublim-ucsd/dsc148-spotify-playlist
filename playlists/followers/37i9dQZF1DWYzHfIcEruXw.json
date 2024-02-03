@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 188546,
+  "2024-02-03": 188691,
   "date_first_scraped": "2022-04-19",
   "description": "The hottest Anime hits of the 10s. 2010\u5e74\u4ee3\u306e\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u7279\u96c6\uff01Illustration by <a href=\"https://www.instagram.com/hideyasu_moto/\"> Hideyasu Moto</a>",
   "name": "Anime Rewind '10s",
@@ -1444,6 +1444,24 @@
     },
     {
       "album": {
+        "name": "\u30a8\u30a6\u30a2\u30eb",
+        "url": "https://open.spotify.com/album/0ADHXGbI8ZdgiHQqdpkfVo"
+      },
+      "artists": [
+        {
+          "name": "yanaginagi",
+          "url": "https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268920,
+      "name": "\u30e6\u30ad\u30c8\u30ad",
+      "url": "https://open.spotify.com/track/6mw7e4VZaynKx8syCfS1XQ"
+    },
+    {
+      "album": {
         "name": "\u30e6\u30ad\u30c8\u30ad",
         "url": "https://open.spotify.com/album/1WgQyGoQ6VXI1oSEtYJcik"
       },
@@ -1455,7 +1473,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 269880,
       "name": "\u30e6\u30ad\u30c8\u30ad",
       "url": "https://open.spotify.com/track/2m2HiaiQeTVrLjC4g2KzOz"

@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-636 songs - 1 day 14 hr 28 min
+637 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,8 @@
 | [pure](https://open.spotify.com/track/63TFuwZlCpaK4Y5BTqJFFP) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [pure](https://open.spotify.com/album/69PIhKhUSBwZkJRTP4MSkj) | 3:25 | 2023-11-21 | 2023-11-23 |
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2023-03-16 | 2023-06-28 |
 | [páː](https://open.spotify.com/track/5TwzuauV7SjD00bUeMbWlB) | [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [páː](https://open.spotify.com/album/4u2bc1tj84eBXr6XPe5zOh) | 3:28 | 2022-10-20 | 2022-11-30 |
-| [RainRain](https://open.spotify.com/track/5X3cQ46Ekm50vcdjpokdEC) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [RainRain](https://open.spotify.com/album/0gAGsoAIdUK5i1iGQWhoud) | 4:50 | 2024-01-30 |  |
+| [RainRain](https://open.spotify.com/track/30bOjGU8xpB1zvccSN9udZ) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Hold You Again](https://open.spotify.com/album/1ffToXM1wZRTerYmAiIu5g) | 4:50 | 2024-02-01 |  |
+| [RainRain](https://open.spotify.com/track/5X3cQ46Ekm50vcdjpokdEC) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [RainRain](https://open.spotify.com/album/0gAGsoAIdUK5i1iGQWhoud) | 4:50 | 2024-01-30 | 2024-02-03 |
 | [READY](https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [READY](https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os) | 3:47 | 2022-10-20 | 2022-11-30 |
 | [RECIPE](https://open.spotify.com/track/6zRjzLaCarPcnPUb4Zrh0W) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [The Neighborhood](https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv) | 3:32 | 2022-10-20 | 2022-11-16 |
 | [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 | 2023-09-12 | 2023-12-08 |

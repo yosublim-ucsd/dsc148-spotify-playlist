@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 
 > New folk & americana driving the current, every week\. Cover: Kara Jackson
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,597 likes - 96 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,692 likes - 96 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 | 4 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 |
 | 5 | [Rotting Fruit](https://open.spotify.com/track/0deJ2a71D181hZ6g0x0Rsq) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Rotting Fruit](https://open.spotify.com/album/3xLm8dLpODMvSij3KZngfc) | 3:50 |
 | 6 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
-| 7 | [Have You A Heart](https://open.spotify.com/track/7AhVjOemVKsEiLSXvo9PHU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 4:20 |
+| 7 | [Have You A Heart](https://open.spotify.com/track/7AhVjOemVKsEiLSXvo9PHU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 4:20 |
 | 8 | [Black Leaves](https://open.spotify.com/track/7wTXoVGiDC9jS0oxdfwLKv) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/1TNajOxU7C8rl6ciy5r1Im) | 1:44 |
 | 9 | [one more](https://open.spotify.com/track/6ls5CB8bM1iXIwsOVjwYwN) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [one more](https://open.spotify.com/album/4PmUFaFkjEDpnxJBFca7ua) | 3:43 |
 | 10 | [Keith](https://open.spotify.com/track/17UWPwxNqVNlT1PZ3iTKj3) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Humor](https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR) | 2:23 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 | 39 | [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 |
 | 40 | [Colors](https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:06 |
 | 41 | [Lucid Lucy](https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Simple Syrup](https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF) | 3:37 |
-| 42 | [Take Me In](https://open.spotify.com/track/7j3hoTIsDslReqVcQNVUF6) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 3:47 |
+| 42 | [Take Me In](https://open.spotify.com/track/7j3hoTIsDslReqVcQNVUF6) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 3:47 |
 | 43 | [100 Proof](https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [100 Proof](https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi) | 3:58 |
 | 44 | [Fort Dimanche](https://open.spotify.com/track/47g2cEftywynxNGzZEOepq) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [Fort Dimanche](https://open.spotify.com/album/4BzO8Zbnva52t9BSLtlHRt) | 3:07 |
 | 45 | [Stay Alive](https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:01 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 | 81 | [New Colossus](https://open.spotify.com/track/462nbWwasi5npUIeT79CIx) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Grenades](https://open.spotify.com/album/6Nqb3BPmH4xpzjqJs14W8a) | 4:26 |
 | 82 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 |
 | 83 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/4nNft158MTJ5fbbPt0tb2l) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:43 |
-| 84 | [Jubilee](https://open.spotify.com/track/48fWEET1Ew40JKW9ze9wEY) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 2:22 |
+| 84 | [Jubilee](https://open.spotify.com/track/48fWEET1Ew40JKW9ze9wEY) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 2:22 |
 | 85 | [Sweet Misery](https://open.spotify.com/track/7bg9GsxzCq4pj0wjmCz4Ke) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Sweet Misery](https://open.spotify.com/album/3yLtCH6hQhQ2Q58FMW7JYT) | 3:09 |
 | 86 | [Fear](https://open.spotify.com/track/6BZ9Li2J6wJD5pDVv3K9PL) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Listen](https://open.spotify.com/album/2OhThiJGELO8T0K22TN4lV) | 3:42 |
 | 87 | [Short and Sweet](https://open.spotify.com/track/1fDrmqH34hJ5Lx1w3ketXU) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:44 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 | 95 | [Maniacapella](https://open.spotify.com/track/6MMmDh3aLPj8C3FJ2PGPj8) | [Sweet Honey In The Rock](https://open.spotify.com/artist/3d4KAl1xvEw3akBK6CVCCA) | [The Other Side](https://open.spotify.com/album/5ih1oUrztdhanRibICrlHa) | 4:01 |
 | 96 | [Mountain Top](https://open.spotify.com/track/7rJNvxjt9dXQkRYNrQfjOV) | [Toshi Reagon](https://open.spotify.com/artist/1WUAzIurvlhaWxB7fpcuOM) | [Toshi](https://open.spotify.com/album/127jq1AGPCb3ImjhRJ5K0g) | 5:27 |
 
-Snapshot ID: `MCxiMDcxYzc2NDQxZDYwNGFmYjk4ZGUxNGUwNTQ3MWYwN2JhYjBjODZh`
+Snapshot ID: `MCwzNjlkMjQwNTgwOTE1OWVmZWY4ZmRmOTZmMGRlYzc2M2U4ZDlmOGU4`

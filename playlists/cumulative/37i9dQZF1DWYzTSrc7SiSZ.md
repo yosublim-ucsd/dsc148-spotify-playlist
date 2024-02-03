@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-243 songs - 13 hr 5 min
+244 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 | 2022-05-20 |  |
 | [lovin kind](https://open.spotify.com/track/1KvcOHuYfTIUhe1bYBR4pY) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [the better half of me](https://open.spotify.com/album/3YFDPOp9da0GFHeIHEuOSj) | 3:00 | 2022-05-20 | 2022-10-28 |
 | [Luna](https://open.spotify.com/track/0f2DEUij8dwnb0tRvQDPwM) | [JAY MAX](https://open.spotify.com/artist/5F3YqWoW1LxM0Hf1b9zocr) | [ULTRA MAX](https://open.spotify.com/album/6Uf8IXBieYnJpZkOOIipdK) | 3:38 | 2023-02-10 | 2023-03-27 |
+| [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 | 2024-02-02 |  |
 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 | 2022-05-20 | 2022-10-28 |
 | [malapami](https://open.spotify.com/track/1aWRzqsBsAXrw2SQwWzG6O) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [malapami](https://open.spotify.com/album/1tnRRNp1RHvmVUoZXtFIn5) | 2:58 | 2022-05-20 | 2023-01-07 |
 | [malapami](https://open.spotify.com/track/3R5rnDwx3JYk2xRp7cAMnO) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [malapami](https://open.spotify.com/album/7z2LQKDsR3ZSyIVrvEf9Y2) | 2:58 | 2023-12-15 |  |
@@ -131,7 +132,7 @@
 | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R) | 2:46 | 2022-05-20 |  |
 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 | 2022-05-20 |  |
 | [Mañana](https://open.spotify.com/track/6Rzk7iqpQRMZALiC9yr9Zr) | [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO), [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Mañana](https://open.spotify.com/album/1Bjt5bUlj6nPzsHulKTWpL) | 2:52 | 2022-05-20 |  |
-| [Me Quiere No Me Quiere](https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [La Española](https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64) | 2:50 | 2022-05-20 |  |
+| [Me Quiere No Me Quiere](https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [La Española](https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64) | 2:50 | 2022-05-20 | 2024-02-03 |
 | [Me Rehúso](https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [Me Rehúso](https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR) | 4:21 | 2022-05-20 | 2022-10-28 |
 | [MENTE TREN](https://open.spotify.com/track/6KvP0vPANDvKf9ukERgJI0) | [FE7O](https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL), [ONTiNO!](https://open.spotify.com/artist/1JOzYwryx8bkT2o4RukRJ8) | [OCIO](https://open.spotify.com/album/3v5Dgv8zeXXIX5fRUnC7qV) | 3:25 | 2024-01-29 |  |
 | [Mezcal](https://open.spotify.com/track/3rE8pSJmYtHZ40bnBfZo74) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Mezcal](https://open.spotify.com/album/6ymXnSBGYi75LhL4fn1eWY) | 2:53 | 2022-05-20 | 2022-10-28 |

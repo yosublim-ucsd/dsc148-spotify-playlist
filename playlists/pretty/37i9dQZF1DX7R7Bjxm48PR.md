@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,744 likes - 121 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,759 likes - 121 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,26 +18,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 8 | [Me Donner Un Essai](https://open.spotify.com/track/5BBfQHJVWKxlVEccsELxDI) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Me Donner Un Essai](https://open.spotify.com/album/3QxIGbmQmHIc8lYPETj6ue) | 1:57 |
 | 9 | [Sophrosyne](https://open.spotify.com/track/4sI91Y8cdaaE1cq3ToIhQS) | [Vantrum Quai](https://open.spotify.com/artist/11Cyks3KuPJNfn5U7CIaha) | [Sophrosyne](https://open.spotify.com/album/07lOsQr3RVoTCYkkm9aQ45) | 2:43 |
 | 10 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 |
-| 11 | [Slow Release](https://open.spotify.com/track/0BhIPUDcsFG5fYr9uOSd35) | [Halcyon Fields](https://open.spotify.com/artist/5iDVGLma1wDxCbA5gtS6cN) | [Slow Release](https://open.spotify.com/album/2069wPcp6sTs8ZgS7xoXgQ) | 3:24 |
-| 12 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 |
-| 13 | [Å̊terhämtning](https://open.spotify.com/track/0DytUUbbGsWTgtmu78kDcy) | [Åmliden](https://open.spotify.com/artist/4c9woXzcZH9eO8EqiLbT9M) | [Å̊terhämtning](https://open.spotify.com/album/0kxpEj332lj8WZNtSn5CnU) | 2:27 |
-| 14 | [Waves](https://open.spotify.com/track/4POl5mnK3ZDe6crPzkxW9L) | [Delevski](https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k) | [Waves](https://open.spotify.com/album/0ERpE5TAYb6GSInWr0v6dI) | 2:24 |
-| 15 | [Bei Sogni](https://open.spotify.com/track/4uEy0quzyHhmOolODWrsaI) | [Gennaro Acciaio](https://open.spotify.com/artist/5WJ6nJkEinNxWYIWTou21D) | [Bei Sogni](https://open.spotify.com/album/4D4zNlwymGjT6t0ls03vP6) | 2:44 |
-| 16 | [Märchenstunde](https://open.spotify.com/track/03gwRcFi99kLdGp2qIRmNW) | [Maximilian Faber](https://open.spotify.com/artist/00PcADvHA59mhcgFAREmfM) | [Märchenstunde](https://open.spotify.com/album/0ozeWYKxgTBBYtJRyhsKiw) | 2:46 |
-| 17 | [Beyond The Words](https://open.spotify.com/track/2rcjEdhxMASzFKFMLE0VyK) | [Phoebe Waits](https://open.spotify.com/artist/57E9IfMja5EiaW6JlxxPfF) | [Beyond The Words](https://open.spotify.com/album/2IXXs0F9tteFAxo2M1qUGh) | 2:32 |
-| 18 | [Angeli](https://open.spotify.com/track/4LPVbn0BbA9Fz2V7Gm7Pqb) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Angeli](https://open.spotify.com/album/2osV838DdmREgkfoeaJLQK) | 2:29 |
-| 19 | [Forgotten](https://open.spotify.com/track/7aFVhTwz0DUJPViRHmWg1P) | [Clarico](https://open.spotify.com/artist/4z0z7HVzL9JOn53wLYnBi9) | [Forgotten](https://open.spotify.com/album/3KuGAisKyUL3ubMwaLleZJ) | 2:11 |
-| 20 | [Nattljus](https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Nattljus](https://open.spotify.com/album/7FBCdcXA2coK0EcsDSBN9B) | 3:19 |
-| 21 | [Thoughts](https://open.spotify.com/track/74y6IZku49WOsYlMcnF7oE) | [SomeMan](https://open.spotify.com/artist/764PYoLKyqV2yyiOD8AAGP) | [Thoughts](https://open.spotify.com/album/2oPHDcjLlUIi7mDVwwxysV) | 3:09 |
-| 22 | [Consideration](https://open.spotify.com/track/65lddH3h121XMhXaVkazVG) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Consideration](https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6) | 2:27 |
-| 23 | [The Thread](https://open.spotify.com/track/7jYky4GcDF7yAEi1jDz29Y) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Thread](https://open.spotify.com/album/7zwuCg5viRTfN5xKAYgmSU) | 2:07 |
+| 11 | [Å̊terhämtning](https://open.spotify.com/track/0DytUUbbGsWTgtmu78kDcy) | [Åmliden](https://open.spotify.com/artist/4c9woXzcZH9eO8EqiLbT9M) | [Å̊terhämtning](https://open.spotify.com/album/0kxpEj332lj8WZNtSn5CnU) | 2:27 |
+| 12 | [Waves](https://open.spotify.com/track/4POl5mnK3ZDe6crPzkxW9L) | [Delevski](https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k) | [Waves](https://open.spotify.com/album/0ERpE5TAYb6GSInWr0v6dI) | 2:24 |
+| 13 | [Bei Sogni](https://open.spotify.com/track/4uEy0quzyHhmOolODWrsaI) | [Gennaro Acciaio](https://open.spotify.com/artist/5WJ6nJkEinNxWYIWTou21D) | [Bei Sogni](https://open.spotify.com/album/4D4zNlwymGjT6t0ls03vP6) | 2:44 |
+| 14 | [Märchenstunde](https://open.spotify.com/track/03gwRcFi99kLdGp2qIRmNW) | [Maximilian Faber](https://open.spotify.com/artist/00PcADvHA59mhcgFAREmfM) | [Märchenstunde](https://open.spotify.com/album/0ozeWYKxgTBBYtJRyhsKiw) | 2:46 |
+| 15 | [Beyond The Words](https://open.spotify.com/track/2rcjEdhxMASzFKFMLE0VyK) | [Phoebe Waits](https://open.spotify.com/artist/57E9IfMja5EiaW6JlxxPfF) | [Beyond The Words](https://open.spotify.com/album/2IXXs0F9tteFAxo2M1qUGh) | 2:32 |
+| 16 | [Angeli](https://open.spotify.com/track/4LPVbn0BbA9Fz2V7Gm7Pqb) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Angeli](https://open.spotify.com/album/2osV838DdmREgkfoeaJLQK) | 2:29 |
+| 17 | [Homeward](https://open.spotify.com/track/6p8tAo2HjobS7Me75EJcBq) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Homeward](https://open.spotify.com/album/5bhd7KJdQuJfmpBlWFbQT9) | 2:31 |
+| 18 | [Forgotten](https://open.spotify.com/track/7aFVhTwz0DUJPViRHmWg1P) | [Clarico](https://open.spotify.com/artist/4z0z7HVzL9JOn53wLYnBi9) | [Forgotten](https://open.spotify.com/album/3KuGAisKyUL3ubMwaLleZJ) | 2:11 |
+| 19 | [Nattljus](https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Nattljus](https://open.spotify.com/album/7FBCdcXA2coK0EcsDSBN9B) | 3:19 |
+| 20 | [Thoughts](https://open.spotify.com/track/74y6IZku49WOsYlMcnF7oE) | [SomeMan](https://open.spotify.com/artist/764PYoLKyqV2yyiOD8AAGP) | [Thoughts](https://open.spotify.com/album/2oPHDcjLlUIi7mDVwwxysV) | 3:09 |
+| 21 | [Consideration](https://open.spotify.com/track/65lddH3h121XMhXaVkazVG) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Consideration](https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6) | 2:27 |
+| 22 | [The Thread](https://open.spotify.com/track/7jYky4GcDF7yAEi1jDz29Y) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Thread](https://open.spotify.com/album/7zwuCg5viRTfN5xKAYgmSU) | 2:07 |
+| 23 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 |
 | 24 | [Epiphania](https://open.spotify.com/track/3ZkHsyYw4go5gyXNhTzXB7) | [Lewis Bird](https://open.spotify.com/artist/4McPLMM7aYZPv43M5VPXyp) | [Epiphania](https://open.spotify.com/album/3qouyLfbJvV6Q4rNjgzuc7) | 2:26 |
 | 25 | [Sea Terms](https://open.spotify.com/track/25BD0YQAjKvVqP4G8VhPd5) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Deeper Still](https://open.spotify.com/album/00lmL7tTXFcXRgNcRRHuhk) | 2:56 |
 | 26 | [Empires Luck](https://open.spotify.com/track/3eKndOAWTLzbzqaAdBRwBR) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Empires Luck](https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO) | 3:02 |
 | 27 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 |
 | 28 | [Easy](https://open.spotify.com/track/1OP1Pxj0AeFSkVcqdc9IFQ) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [Easy](https://open.spotify.com/album/4XJPGsxGDxmk8qNylj56gb) | 2:51 |
-| 29 | [Homeward](https://open.spotify.com/track/6p8tAo2HjobS7Me75EJcBq) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Homeward](https://open.spotify.com/album/5bhd7KJdQuJfmpBlWFbQT9) | 2:31 |
-| 30 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 |
+| 29 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 |
+| 30 | [Slow Release](https://open.spotify.com/track/0BhIPUDcsFG5fYr9uOSd35) | [Halcyon Fields](https://open.spotify.com/artist/5iDVGLma1wDxCbA5gtS6cN) | [Slow Release](https://open.spotify.com/album/2069wPcp6sTs8ZgS7xoXgQ) | 3:24 |
 | 31 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 |
 | 32 | [Les Arbres Parlent](https://open.spotify.com/track/5OCUevB2d31fkcQEP56MxQ) | [Edgar Paget](https://open.spotify.com/artist/4j4neGVPluHx8NgYSs31Z8) | [Les Arbres Parlent](https://open.spotify.com/album/2E1scdnYHnHAuYvJ30MGnr) | 2:37 |
 | 33 | [Miho no Matsubara](https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK) | [Miu Hayashi](https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS) | [Miho no Matsubara](https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN) | 2:53 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 120 | [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [S.J Morgan](https://open.spotify.com/artist/4xVRQYeatzgjpb5jQZkLs4) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 2:50 |
 | 121 | [Dunfanaghy Beach](https://open.spotify.com/track/6HzRAiGTMhRBYHJpYBxLDt) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Dunfanaghy Beach](https://open.spotify.com/album/3RrKj0S9sPr9Zhhpz9vFDW) | 2:09 |
 
-Snapshot ID: `MCw5MmNlZTE5ZTk4OGFlODM3NDQ2NjVkNTYzYTQ5M2UyYTQxZTAzMGU2`
+Snapshot ID: `MCw1Zjg1Y2RkNDZlZDBlMTY3MDUyNTkyMmZiNDdhNGZhMWQ5NGQwOGQw`

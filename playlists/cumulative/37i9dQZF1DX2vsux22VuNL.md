@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Ariel Donato, MC Cabelinho, Marina Sena
 
-352 songs - 18 hr 30 min
+353 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Caio em Ti](https://open.spotify.com/track/2Hw1eLrbRhLedmvmcxxsoV) | [Caio Prado](https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Caio em Ti](https://open.spotify.com/album/1TcTGElHC9VMOq5yg5rpuF) | 2:35 | 2024-01-26 |  |
 | [Calma Zé \(versão do mato\)](https://open.spotify.com/track/25j65WWQsSUhgbXGJSbxAi) | [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A) | [Calma Zé \(versão do mato\)](https://open.spotify.com/album/0ZDn9Z3IhB77qcNmM7ZI06) | 4:13 | 2023-09-22 | 2023-10-28 |
 | [Calo na Garganta](https://open.spotify.com/track/74DqyBE9PKIcTEeFNBC3Jy) | [Flerte Flamingo](https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih) | [Calo na Garganta](https://open.spotify.com/album/0Me3dnywxrJaEYJupOKnZv) | 4:28 | 2022-10-14 | 2022-12-03 |
+| [Calor Dobrado](https://open.spotify.com/track/3xzAK3eh6npZsoCybDtKXh) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Calor Dobrado](https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ) | 2:36 | 2024-02-02 |  |
 | [Canto da Sereia](https://open.spotify.com/track/5onALPPboSh4z6cO24tOvW) | [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR) | [Canto da Sereia](https://open.spotify.com/album/6oeLs83jPMK8JodH2bpSyO) | 2:31 | 2022-05-23 | 2022-10-15 |
 | [caos / flor \*\*\*](https://open.spotify.com/track/21XUWkizYGllIRpib9Cq6X) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:31 | 2022-05-23 | 2022-10-15 |
 | [Carona](https://open.spotify.com/track/3JjvlmeaiwnZYzGG99SU20) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa), [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN) | [Carona](https://open.spotify.com/album/21SgYVxGOEd5csSA75Jzpy) | 2:38 | 2022-08-19 | 2022-10-01 |
@@ -78,7 +79,7 @@
 | [Céu Lilás](https://open.spotify.com/track/0FQY7oS0hx70mT66a3473S) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Coisas De Amor](https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v) | 3:29 | 2022-09-02 | 2022-09-21 |
 | [De chinelo havaianas](https://open.spotify.com/track/04uTvWnyJSuWLMmxTbYzic) | [Tristão](https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH), [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Joab Beats](https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh) | [De chinelo havaianas](https://open.spotify.com/album/3B9I1KNYxsXlENVUaOlLiK) | 3:17 | 2023-10-27 | 2023-11-18 |
 | [De Novo](https://open.spotify.com/track/3xra5OMlRc4MQgD8V0aIxq) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [De Novo](https://open.spotify.com/album/0pEgo6T1sl8cNedAREKVS7) | 2:25 | 2022-05-23 | 2022-10-15 |
-| [De Volta Ao Sol](https://open.spotify.com/track/0qEY64txHguJ3DZwSIdXw0) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [De Volta ao Sol](https://open.spotify.com/album/64FJYl6kWLFW3K3Fmjrp0U) | 2:54 | 2024-01-19 |  |
+| [De Volta Ao Sol](https://open.spotify.com/track/0qEY64txHguJ3DZwSIdXw0) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [De Volta ao Sol](https://open.spotify.com/album/64FJYl6kWLFW3K3Fmjrp0U) | 2:54 | 2024-01-19 | 2024-02-03 |
 | [Deixa Acender](https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Deixa Acender](https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8) | 2:35 | 2023-12-01 |  |
 | [Deixar Rolar](https://open.spotify.com/track/7ljVYvTPJZqGzvF55lBU3u) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ) | [Deixar Rolar](https://open.spotify.com/album/5T2vFctlodQMpsqki2ZpwH) | 2:06 | 2023-02-06 | 2023-03-11 |
 | [Deixe\-me Ir](https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Deixe\-me Ir](https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw) | 3:39 | 2023-06-09 |  |

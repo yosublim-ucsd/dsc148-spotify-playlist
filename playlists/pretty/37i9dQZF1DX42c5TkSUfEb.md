@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,482 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,454 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,19 +58,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 48 | [Lately](https://open.spotify.com/track/2WRDu73mfK4aZiVucqs0PZ) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc), [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:04 |
 | 49 | [What He Wrote](https://open.spotify.com/track/2CTOa3CEBts3p1NyTVLTXU) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [I Speak Because I Can](https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1) | 4:07 |
 | 50 | [Mama's Boy](https://open.spotify.com/track/68ZvWR7hhZ6mHtzBknduf6) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Mama's Boy](https://open.spotify.com/album/3NVUYm7edVbzZoDGsusFg9) | 3:16 |
-| 51 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
-| 52 | [The Conflict of the Mind](https://open.spotify.com/track/4BFYRUjuuesHjLTJdvo1XR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Conflict of the Mind](https://open.spotify.com/album/7bGzvyccrDzn32gieBu3tE) | 4:15 |
+| 51 | [The Conflict of the Mind](https://open.spotify.com/track/4BFYRUjuuesHjLTJdvo1XR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Conflict of the Mind](https://open.spotify.com/album/7bGzvyccrDzn32gieBu3tE) | 4:15 |
+| 52 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
 | 53 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 |
-| 54 | [Soon We'll Be Found](https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 4:20 |
-| 55 | [Dis\-moi que tu m'aimes](https://open.spotify.com/track/0bXcmXR5cotPsrFdWF1Rs9) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 4:26 |
+| 54 | [Dis\-moi que tu m'aimes](https://open.spotify.com/track/0bXcmXR5cotPsrFdWF1Rs9) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 4:26 |
+| 55 | [Soon We'll Be Found](https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 4:20 |
 | 56 | [Morning Matters](https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit) | 4:06 |
 | 57 | [Call You Home](https://open.spotify.com/track/13fKofkr63VqPpBCwv5D1j) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Stop the Moment \(Deluxe\)](https://open.spotify.com/album/31up7nR5ex0xB1e3fFvmG4) | 2:54 |
 | 58 | [New Soul](https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 3:45 |
 | 59 | [Chariot](https://open.spotify.com/track/1eOuuW7VHBrIpwQ8drsPQN) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Chariot](https://open.spotify.com/album/4WJwUq7DPoEgmfsR2fAQXl) | 3:36 |
 | 60 | [A Trick of the Light](https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Art Of Pretending To Swim](https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU) | 4:08 |
 | 61 | [Poison & Wine](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:39 |
-| 62 | [Kiss](https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:14 |
-| 63 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
+| 62 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
+| 63 | [Kiss](https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:14 |
 | 64 | [Le coeur nous anime](https://open.spotify.com/track/2ZoTMDhc30xptF6GntTLnC) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Paradis](https://open.spotify.com/album/3TlmlAsJZhteMKH47jkDiL) | 2:44 |
 | 65 | [Black Dog](https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:48 |
 | 66 | [Sunny Road](https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq) | 3:04 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 71 | [Let Her Go \- Acoustic](https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights \(Deluxe Version\)](https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF) | 4:26 |
 | 72 | [Grace](https://open.spotify.com/track/08w1hnWW4GhVm61DoVojsY) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:31 |
 | 73 | [Le bateau coule](https://open.spotify.com/track/5LjlW19V9AQ4pg0ck0uvcO) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments](https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL) | 3:19 |
-| 74 | [Sharpness](https://open.spotify.com/track/2dk5HQv2V6hEVeGGlPvCFA) | [Jamie Woon](https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL) | [Making Time](https://open.spotify.com/album/6ITNDvsL7pS6nv93kwHgwq) | 3:27 |
-| 75 | [A Change Is Gonna Come](https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU) | [Los Coast](https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [A Change Is Gonna Come](https://open.spotify.com/album/4fKOZdl2QP1TNTLbwhpXBp) | 3:23 |
+| 74 | [A Change Is Gonna Come](https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU) | [Los Coast](https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [A Change Is Gonna Come](https://open.spotify.com/album/4fKOZdl2QP1TNTLbwhpXBp) | 3:23 |
+| 75 | [Sharpness](https://open.spotify.com/track/2dk5HQv2V6hEVeGGlPvCFA) | [Jamie Woon](https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL) | [Making Time](https://open.spotify.com/album/6ITNDvsL7pS6nv93kwHgwq) | 3:27 |
 | 76 | [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 |
 | 77 | [Come on By](https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Come on By](https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX) | 3:25 |
 | 78 | [Riverside](https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 99 | [Ensemble](https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:02 |
 | 100 | [Tableau](https://open.spotify.com/track/6d7Nhnnd68Pzdf6Pr476BT) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Joli monde](https://open.spotify.com/album/0ue1oWkvCPf8gAGnJ6m9t6) | 3:48 |
 
-Snapshot ID: `MCw4MDdmMTk5NGM2MTJjZWY4NDVhZDFkOWVmNDQxYjU3MTI3YmMzZjc0`
+Snapshot ID: `MCw5NjU1ZTU3M2EwZDZiOTVkNjE5YmE1YzdmNjU0NzM3ODg2OGEwZmJm`

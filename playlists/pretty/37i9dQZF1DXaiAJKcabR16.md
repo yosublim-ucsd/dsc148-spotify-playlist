@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,010 likes - 65 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,019 likes - 65 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 5 | [Nose On The Grindstone \(OurVinyl Sessions\)](https://open.spotify.com/track/4a2uqVlpRChHj32EjJLu7G) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Tyler Childers \| OurVinyl Sessions](https://open.spotify.com/album/42nsomRaEURVkNt7IF1IFu) | 3:24 |
 | 6 | [Break My Baby \- Stripped Back](https://open.spotify.com/track/136kGRT2lLY01C9i21TURw) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Break My Baby \- Stripped Back](https://open.spotify.com/album/2NI3n21RjO0N66BhNg6G5p) | 3:30 |
 | 7 | [Wish It Was True](https://open.spotify.com/track/1TSCUaX1XkklmuxpuPUxyR) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Once Upon A Time In The West](https://open.spotify.com/album/7f5DOd6CcQAPqxX59ldHEi) | 3:46 |
-| 8 | [Set My Soul on Fire](https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 4:59 |
+| 8 | [Set My Soul on Fire](https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 4:59 |
 | 9 | [Work Song](https://open.spotify.com/track/4Vc3bzFxXdrABa2DxgyCMT) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:49 |
 | 10 | [Methhead](https://open.spotify.com/track/2mLYN7Hz2czFkZugFscrrb) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Off This Mountaintop](https://open.spotify.com/album/5ihcQ3YrAH2Ip9wHUqeQyT) | 3:50 |
 | 11 | [Big Boss Man](https://open.spotify.com/track/6YZm2uEonZWcnOO2Uo2Fyb) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [The Northern South, Vol\. 1](https://open.spotify.com/album/0qvm65mwPYGTQL33VxDJ3X) | 3:45 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 | 64 | [Crazy Woman](https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 2:02 |
 | 65 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
 
-Snapshot ID: `MCw0YzA1YmU1NzNjZWVjNGI2ZmZlMjdlYmJmNzg3Y2E4MzU1NGM0ZGRm`
+Snapshot ID: `MCxlMGU0YTM4ZTc0YTQ0YzFhYWRjOGMxZDEyODYwNGI4MGFlOTk3YmIz`

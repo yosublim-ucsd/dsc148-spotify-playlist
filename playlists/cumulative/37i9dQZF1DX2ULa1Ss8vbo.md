@@ -4,7 +4,7 @@
 
 > Songs from the old country: the essential traditional Irish ballads.
 
-78 songs - 4 hr 52 min
+79 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Danny Boy](https://open.spotify.com/track/2LMeRecVW5d3a1vxZV5jJR) | [Frank Patterson](https://open.spotify.com/artist/3UZc24DOYrUhFnDPNw1L8A) | [Ireland's Golden Tenor \- A Celebration](https://open.spotify.com/album/1gOWpNBuPqI2VILLOT272d) | 4:38 | 2019-03-14 | 2022-07-29 |
 | [Dicey Riley](https://open.spotify.com/track/2jK40Z0sAfpgev1oZw0tO5) | [Dominic Behan](https://open.spotify.com/artist/1sYhVYXHOlKPY1L5LvRrhF) | [Down By The Liffeyside: Irish Street Balads](https://open.spotify.com/album/245YuwE5DWF9LbbDiG4rqx) | 1:05 | 2022-07-13 | 2023-04-29 |
 | [Dicey Riley](https://open.spotify.com/track/5386OSJOhXc7fglba9AUnJ) | [Dominic Behan](https://open.spotify.com/artist/1sYhVYXHOlKPY1L5LvRrhF) | [Down By The Liffeyside: Irish Street Balads](https://open.spotify.com/album/3tF4rec7ebkfNRjvW1nVV8) | 1:05 | 2019-03-14 | 2022-07-29 |
-| [Dicey Riley](https://open.spotify.com/track/5VWOa1qWDVjt2ElhIIJImR) | [Dominic Behan](https://open.spotify.com/artist/1sYhVYXHOlKPY1L5LvRrhF) | [Down By The Liffeyside: Irish Street Balads](https://open.spotify.com/album/0khzZCeOFVjhm4AMry75Jw) | 1:05 | 2023-03-16 |  |
+| [Dicey Riley](https://open.spotify.com/track/5VWOa1qWDVjt2ElhIIJImR) | [Dominic Behan](https://open.spotify.com/artist/1sYhVYXHOlKPY1L5LvRrhF) | [Down By The Liffeyside: Irish Street Balads](https://open.spotify.com/album/0khzZCeOFVjhm4AMry75Jw) | 1:05 | 2023-03-16 | 2024-02-03 |
+| [Dicey Riley](https://open.spotify.com/track/5pxYcaEEXywXBBxxdQVCS4) | [Dominic Behan](https://open.spotify.com/artist/1sYhVYXHOlKPY1L5LvRrhF) | [Down by the Liffeyside: Irish Street Ballads](https://open.spotify.com/album/07NvGxjOsZHGjEYgM4qhpf) | 1:05 | 2023-03-16 |  |
 | [Down by the Sally Gardens](https://open.spotify.com/track/60OEb5MtEmmepJPUJtYvFW) | [Maura O'Connell](https://open.spotify.com/artist/2WkDGNlrAN48YIOi18jpEE) | [Transatlantic Sessions \- Series 2, Vol\. Three](https://open.spotify.com/album/2zviYEJfMBDVtoh9mz5SNq) | 3:45 | 2019-03-14 |  |
 | [Dublin In The Rare Auld Times](https://open.spotify.com/track/6WWLO6aWNAMdtOI6iOL86D) | [Luke Kelly](https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9) | [The Best Ever Collection Of Irish Pub Songs \- Volume 1](https://open.spotify.com/album/03EhSxO0WLA1axY6Nwb1H6) | 4:59 | 2019-03-14 |  |
 | [Erin\-Go\-Bragh / Rakish Paddy](https://open.spotify.com/track/7JoxTFpjZjTbkO0UZV5GkO) | [Kate Burke & Ruth Hazleton](https://open.spotify.com/artist/1TSPyEkn57ocOLWJ2zGk1M) | [The Bee\-Loud Glade](https://open.spotify.com/album/7knf7ebylad5fMw2ofsWno) | 5:41 | 2019-03-14 |  |

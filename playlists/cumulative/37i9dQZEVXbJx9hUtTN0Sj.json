@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 215133,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/4rMCvdNWp9IvvDJYyUfxyl"
@@ -207,6 +207,28 @@
     },
     {
       "album": {
+        "name": "Dire je t'aime",
+        "url": "https://open.spotify.com/album/0UmPcapIPeSln1hGyKL3jb"
+      },
+      "artists": [
+        {
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        },
+        {
+          "name": "Georgio",
+          "url": "https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192869,
+      "name": "Colorier des HLM",
+      "url": "https://open.spotify.com/track/1K8HHzFr0w9wPRtZ26lMuO"
+    },
+    {
+      "album": {
         "name": "Comfortable",
         "url": "https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s"
       },
@@ -218,7 +240,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 228961,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
@@ -503,6 +525,28 @@
     },
     {
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj"
+    },
+    {
+      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
       },
@@ -754,7 +798,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 220584,
       "name": "n\u00e9e-nah",
       "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
@@ -845,6 +889,32 @@
     },
     {
       "album": {
+        "name": "Poison (Hazbin Hotel Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
+      },
+      "artists": [
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127689,
+      "name": "Poison - Hazbin Hotel Original Soundtrack",
+      "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
+    },
+    {
+      "album": {
         "name": "Popcorn Sal\u00e9",
         "url": "https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V"
       },
@@ -856,7 +926,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 238653,
       "name": "Popcorn Sal\u00e9",
       "url": "https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH"
@@ -964,7 +1034,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 422857,
       "name": "Shook Part 3",
       "url": "https://open.spotify.com/track/4pMUnltcUJs5tTqkrwuCYE"
@@ -1082,6 +1152,24 @@
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
+    },
+    {
+      "album": {
+        "name": "The Sound Of Silence",
+        "url": "https://open.spotify.com/album/2mG2BCrq18dPuqyXluFAD5"
+      },
+      "artists": [
+        {
+          "name": "CYREES",
+          "url": "https://open.spotify.com/artist/10bmjPGhgwYvRis3pjAAmL"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133374,
+      "name": "The Sound Of Silence",
+      "url": "https://open.spotify.com/track/5Cw1C3iQUquhH2gehdqqj8"
     },
     {
       "album": {
@@ -1256,7 +1344,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 294321,
       "name": "You Make Me Horny",
       "url": "https://open.spotify.com/track/5S4icN8xrGsSCDgF0wLd4b"

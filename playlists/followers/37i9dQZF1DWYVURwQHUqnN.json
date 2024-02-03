@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 1072827,
+  "2024-02-03": 1072837,
   "date_first_scraped": "2023-09-29",
-  "description": "Photo: Hamza x Kaaris",
+  "description": "Photo: PLK x Jul",
   "name": "Best Life",
   "tracks": [
     {
@@ -343,7 +343,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 160960,
       "name": "Drift\u00e9",
       "url": "https://open.spotify.com/track/2RhLQNIhtQRPU2I2ExxBS3"
@@ -387,6 +387,28 @@
       "duration_ms": 170527,
       "name": "Eh toi",
       "url": "https://open.spotify.com/track/04IKxemPvQl0z76VGhqTQr"
+    },
+    {
+      "album": {
+        "name": "Chambre 140 (Part.3)",
+        "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138933,
+      "name": "Faut pas",
+      "url": "https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts"
     },
     {
       "album": {
@@ -613,7 +635,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 171754,
       "name": "Localis\u00e9",
       "url": "https://open.spotify.com/track/1jJHvMdaI0B3tmiCgFNpeK"
@@ -1149,7 +1171,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 176000,
       "name": "Sans Coeur",
       "url": "https://open.spotify.com/track/0F74FBWgkvXjP3V6tRlCx4"
@@ -1307,6 +1329,28 @@
       "duration_ms": 131633,
       "name": "TESLA (feat. DaChoyce)",
       "url": "https://open.spotify.com/track/4E6tv93xB55kTFRtNKxMo1"
+    },
+    {
+      "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165353,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs"
     },
     {
       "album": {
@@ -1537,6 +1581,28 @@
       "duration_ms": 172750,
       "name": "Z\u00e9ro Soucis",
       "url": "https://open.spotify.com/track/0eDyUBPdPjS5t2IapdVYim"
+    },
+    {
+      "album": {
+        "name": "\u00c7a d\u00e9bite",
+        "url": "https://open.spotify.com/album/5W59ipjIbw7XLeO0Bj4k4c"
+      },
+      "artists": [
+        {
+          "name": "DJ Flash",
+          "url": "https://open.spotify.com/artist/00SMMqx16Zxt7osuqbv3aW"
+        },
+        {
+          "name": "SAF",
+          "url": "https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143560,
+      "name": "\u00c7a d\u00e9bite",
+      "url": "https://open.spotify.com/track/7AYN9igONRrVZoONAshs14"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN"

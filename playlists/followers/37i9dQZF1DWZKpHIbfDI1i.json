@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 633021,
+  "2024-02-03": 633456,
   "date_first_scraped": "2022-02-10",
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Juli\u00f3n \u00c1lvarez en portada.",
   "name": "Top M\u00e9xico",
@@ -2456,6 +2456,24 @@
     },
     {
       "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+    },
+    {
+      "album": {
         "name": "Cada Quien",
         "url": "https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p"
       },
@@ -4889,7 +4907,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 219791,
       "name": "El Bais\u00f3n (feat. Toser One)",
       "url": "https://open.spotify.com/track/6WwCuYWEH32z0tn8mSN3MY"

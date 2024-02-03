@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: HBz
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,346 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,935 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 4 | [Good For You](https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Good For You](https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD) | 2:50 |
 | 5 | [Die For Me](https://open.spotify.com/track/67gYpZ9Kl4EwuQa3hZX6wR) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me](https://open.spotify.com/album/5Spe5tAY7QIn04uSBiGYt9) | 2:43 |
 | 6 | [Crusade](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
-| 7 | [Torn](https://open.spotify.com/track/7D8fpeTI3hLgRnpXvvr8sd) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Torn](https://open.spotify.com/album/15EOXKPsi0ktKdQxs3koVF) | 2:24 |
+| 7 | [Torn](https://open.spotify.com/track/04nyFUuwYgLfrckvk0MIU9) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Torn](https://open.spotify.com/album/5kzC7Vg7h0uVoZIiBT0hFy) | 2:24 |
 | 8 | [Low Again](https://open.spotify.com/track/6WyIu9kPKkyEjmsP4aWJni) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Low Again](https://open.spotify.com/album/45zvKE4yw9Ta4utD8tRWsB) | 3:08 |
 | 9 | [London](https://open.spotify.com/track/1Ne1J7BRqU6cVMD1LNp4qY) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [London](https://open.spotify.com/album/2zDlmYKFbkF87XPHaIvuJQ) | 2:48 |
 | 10 | [La Magia](https://open.spotify.com/track/3A3on77TJ09JWQ8nl3xH7v) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [Max Niklas](https://open.spotify.com/artist/2odc9r3Utp0yWZkPcexIdi), [MeSSy](https://open.spotify.com/artist/2u5KJ1Wbzv2zoSwA611lyP) | [La Magia](https://open.spotify.com/album/4eXQPPw5OsKhNPT9NEAgwO) | 2:13 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 15 | [Silence](https://open.spotify.com/track/3JvijFDDd3fUj4DZxcGw0l) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4), [Sylvie](https://open.spotify.com/artist/65ZxzibB1frczfKSahNg5R) | [Silence](https://open.spotify.com/album/0ZWIMOsnBMBlTihsaKpfn4) | 3:42 |
 | 16 | [Take A Toke](https://open.spotify.com/track/2RSZ6ScpfkCqB1Ucaq4rAJ) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Take A Toke](https://open.spotify.com/album/68AJwyyiECxw27DYW9OW0E) | 2:57 |
 | 17 | [Explode](https://open.spotify.com/track/04ErJiS734u76JgX5JQayC) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Explode](https://open.spotify.com/album/2QryHAeKDPpFc5gww7Of3o) | 2:39 |
-| 18 | [We Ain't Here For Long](https://open.spotify.com/track/7La5MwfZp7t0oKCYbhIMXj) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [We Ain't Here For Long](https://open.spotify.com/album/1Mc6KVLxv3JsxeqfB16jAD) | 2:55 |
+| 18 | [We Ain't Here For Long](https://open.spotify.com/track/427747J57kLmFjqk7PZrpp) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [We Ain't Here For Long](https://open.spotify.com/album/574kAUsaWDdlVm8Fb2HfB9) | 2:55 |
 | 19 | [One By One \(feat\. Oaks\)](https://open.spotify.com/track/2D1P2Y9RUxZW2Ch9A1rwHA) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [One By One \(feat\. Oaks\)](https://open.spotify.com/album/0RkpyjWCTL4fkYUNSSbjwF) | 2:41 |
 | 20 | [Beat Of Your Heart](https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Beat Of Your Heart](https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr) | 3:29 |
 | 21 | [Carousel \(feat\. PLANT\)](https://open.spotify.com/track/3QoYgglulglqNwzONUwe2m) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq) | [Carousel \(feat\. PLANT\)](https://open.spotify.com/album/3Gng5Z2h1LlIMAgjzo6FsC) | 2:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Give It to Me](https://open.spotify.com/track/7GUKliw8tYg2TtzfLpYg1S) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [TRITICUM](https://open.spotify.com/artist/4ZoQmoFXF0JJAMTcgopOjd) | [Give It to Me](https://open.spotify.com/album/6uuKUqOoXBTttANgKXdfHA) | 2:16 |
 | 75 | [Shower](https://open.spotify.com/track/19ThLx9IwEpMG45DlHd7fp) | [Chris El Greco](https://open.spotify.com/artist/3TvatwVBsckmLkhtoaxp3K) | [Shower](https://open.spotify.com/album/48iiBdroLKZOIwoexsRMDH) | 2:18 |
 
-Snapshot ID: `MCxiMGMwYmMxOGM5ZWFiZGNjODA2ZTVjNGQ0NDY3NDM0ZjdlZGJmMmYx`
+Snapshot ID: `MCw2MTM1ZTEzZmNjZWEwYWIzY2ExMDkyMjc1NmRiOGIzMTAyNmVlZWQy`

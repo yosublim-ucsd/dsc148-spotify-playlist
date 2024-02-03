@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,924 likes - 111 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,975 likes - 111 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 27 | [Pull](https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Pull](https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv) | 3:16 |
 | 28 | [Sleep On The Floor](https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:31 |
 | 29 | [BIGTIMEGOODTIME](https://open.spotify.com/track/3ouqN4Q9RO9J01lu8v7jrr) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [BIGTIMEGOODTIME](https://open.spotify.com/album/2GbjyKJhOsBOYxHEs1X48X) | 4:16 |
-| 30 | [First Class](https://open.spotify.com/track/6oOFa5QkmIUzgS0ikbgJqK) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/05WJ8XAD4QWV6mrM5NoguG) | 5:43 |
+| 30 | [First Class](https://open.spotify.com/track/0uQxV7ysuBPhbfUkW1WOCp) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/5krQbJqzCCOxCGOQ3W8Tr6) | 5:43 |
 | 31 | [Wild Winds](https://open.spotify.com/track/1RV6KELv1ZX4BoO2RxF5NS) | [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Wild Winds](https://open.spotify.com/album/2G58RVCdP81L0t60yjJfXN) | 3:33 |
 | 32 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 |
 | 33 | [Uptown Folks](https://open.spotify.com/track/13ZpvzL10nw52uCDY13SkF) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Honey Bones](https://open.spotify.com/album/6Eskc9vh8wniq95JXGFZ1V) | 4:48 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 110 | [In Plain Sight](https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [In Plain Sight](https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0) | 2:36 |
 | 111 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
 
-Snapshot ID: `MCw5YjFmNDQ1ZjQ5ZGQ2NzE0Y2I0NGE1NmNhYjFmY2YzMjRhZGU3ODA0`
+Snapshot ID: `MCxiYjYwNWUyY2EyM2E3YmRhZmE2YTk5ODVmNzJkZTc1MTNhZDMwZjEy`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Los Del Puerto, Herencia de Patrones en portada.",
+  "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 miguel cornejo, Calle 24 en portada.",
   "name": "Trap Corridos",
   "tracks": [
     {
@@ -491,6 +491,28 @@
     },
     {
       "album": {
+        "name": "Bien Tony Montana",
+        "url": "https://open.spotify.com/album/1sv4ITV71Vv0ph7CKYLqlu"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166127,
+      "name": "Bien Tony Montana",
+      "url": "https://open.spotify.com/track/5FK2Ee6xXBspGF8nllIRKM"
+    },
+    {
+      "album": {
         "name": "Bienvenido A La Angelina (feat. Fuerza Regida & Herencia De Patrones)",
         "url": "https://open.spotify.com/album/6d365KQj9cfcEoMvfLmWfM"
       },
@@ -590,7 +612,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 221600,
       "name": "Bueno",
       "url": "https://open.spotify.com/track/0Hw9SdxCFwjhe0qLpBg8v1"
@@ -1212,7 +1234,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 131172,
       "name": "El After",
       "url": "https://open.spotify.com/track/21OxiAu3VXFTrXhUkhryYb"
@@ -2394,7 +2416,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 138500,
       "name": "Intro MMV",
       "url": "https://open.spotify.com/track/6SJFPL3LJk1bkzpxj8u5h2"
@@ -2580,7 +2602,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 155374,
       "name": "Le Gusta",
       "url": "https://open.spotify.com/track/3Z3tUJIewkGw9zSIR9kted"
@@ -2882,7 +2904,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 205309,
       "name": "Mecha Corta",
       "url": "https://open.spotify.com/track/6fMVfi5TK2A5b1gMbWfjOV"
@@ -4368,7 +4390,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 204137,
       "name": "Sobre El Centavo",
       "url": "https://open.spotify.com/track/4eUKO0oNWx9G7njSTYSiM9"
@@ -4430,7 +4452,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 188964,
       "name": "So\u00f1ando",
       "url": "https://open.spotify.com/track/1ZZ2jOHKjKGUGGSOj7LsaD"
@@ -4580,7 +4602,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 146634,
       "name": "Truena La Radio",
       "url": "https://open.spotify.com/track/789lqu9CSLfu5JlqrUAbxm"
@@ -4924,7 +4946,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 126282,
       "name": "Ya La Conect\u00e9",
       "url": "https://open.spotify.com/track/59AOi3dKkTMOD03AKrVSGv"

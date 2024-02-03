@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Boss music for boss people. Cover: Red Rum Club",
+  "description": "Boss music for boss people. Cover: JAMIE WEBSTER",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -254,6 +254,28 @@
       "duration_ms": 230467,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/3cZejV8KMlKPA4hWBNkBVM"
+    },
+    {
+      "album": {
+        "name": "10 For The People",
+        "url": "https://open.spotify.com/album/79ARqZZ3ciUJVsJaIqh4N2"
+      },
+      "artists": [
+        {
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+        },
+        {
+          "name": "Brooke Combe",
+          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252787,
+      "name": "Better Day",
+      "url": "https://open.spotify.com/track/0UG7NIRTR70z5rd7Nii1tl"
     },
     {
       "album": {
@@ -704,6 +726,24 @@
       "duration_ms": 206805,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/3fyIwr5p1pZ4uPpUrGETLN"
+    },
+    {
+      "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/4MwJeWVLpONURioQjiV3mr"
+      },
+      "artists": [
+        {
+          "name": "Joely June",
+          "url": "https://open.spotify.com/artist/3Zjp1y6YgPwFDX3PlTJd1j"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235696,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/4VXp7nrIktWwSQCsHtJdw5"
     },
     {
       "album": {
@@ -1406,7 +1446,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 188466,
       "name": "Good Luck Charm",
       "url": "https://open.spotify.com/track/7vhoCbeVYwycZ0bMc3Vviy"
@@ -2332,7 +2372,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 154453,
       "name": "Lets Stay out Tonight",
       "url": "https://open.spotify.com/track/6EN2izjvx1QpyM7JTz7mij"

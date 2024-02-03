@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,159 songs - 2 day 11 hr 30 min
+1,161 songs - 2 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Angels](https://open.spotify.com/track/7tc04xLTn7fG4IUujpuC9r) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Angels](https://open.spotify.com/album/7on0P5zUPpkedI9EtJ4SGJ) | 2:34 | 2021-01-16 | 2021-03-27 |
 | [Anthony Kiedis](https://open.spotify.com/track/7479TzoEcfeJGhWQe9FlPO) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Anthony Kiedis / Front Tooth](https://open.spotify.com/album/1CcBo1LdiOEub1TElpzPen) | 2:51 | 2021-10-02 | 2022-01-22 |
 | [Antidote](https://open.spotify.com/track/3qF500J2gDAYbxhXAAPO0X) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Antidote](https://open.spotify.com/album/7fGOorLylu4nsKMgjpDjso) | 2:49 | 2023-02-10 | 2023-03-04 |
-| [ANTIFREEZE](https://open.spotify.com/track/6hVwUD1XjVGsX9GBUcoEYc) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [ANTIFREEZE](https://open.spotify.com/album/3Ax7G8PfcjdAS3w9EKqxyY) | 3:29 | 2022-09-16 |  |
+| [ANTIFREEZE](https://open.spotify.com/track/6hVwUD1XjVGsX9GBUcoEYc) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [ANTIFREEZE](https://open.spotify.com/album/3Ax7G8PfcjdAS3w9EKqxyY) | 3:29 | 2022-09-16 | 2024-02-03 |
 | [Anxiety](https://open.spotify.com/track/0nXcfPBGwnkUVpoovpcNKV) | [Julian Daniel](https://open.spotify.com/artist/6pj58pVbAOuTxwJrx4KWHf) | [Anxiety](https://open.spotify.com/album/1vcnqtC9V37HD6jWP94Sk6) | 2:37 | 2021-05-22 | 2021-08-28 |
 | [anxiety attack](https://open.spotify.com/track/2Oj715ybhG38EebNVWWqKJ) | [Marina Lin](https://open.spotify.com/artist/56z9WF9quDfA4U6kcQrfQh) | [anxiety attack](https://open.spotify.com/album/0Pkua5zinGMobGeboWwjlt) | 2:49 | 2021-08-14 | 2021-10-02 |
 | [Anybody Else](https://open.spotify.com/track/3FyNoNgNO6qkdjCD6eFikX) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Anybody Else](https://open.spotify.com/album/6FDZydExiImBtXWfyUNOOS) | 2:10 | 2021-04-30 | 2021-07-17 |
@@ -572,7 +572,7 @@
 | [JUST ME & FRIENDS](https://open.spotify.com/track/110C4JUqwl9bAxr830GaaI) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [JUST ME & FRIENDS](https://open.spotify.com/album/7nsSHLGAccfsmwjIUAIuYk) | 2:48 | 2023-08-25 |  |
 | [Keep Dancing](https://open.spotify.com/track/40MvWovKhWdX9jxbthw62T) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [Keep Dancing](https://open.spotify.com/album/2g1V6cI8hGRPXiyVEDnXYN) | 2:59 | 2022-04-22 | 2023-05-06 |
 | [KEEP IT COOL!](https://open.spotify.com/track/1H4sbFieU2PFUMYugcGNlb) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [KEEP IT COOL!](https://open.spotify.com/album/1H0zkjJIFUVuOPn1Jr6NdF) | 2:50 | 2023-04-07 | 2023-06-03 |
-| [KEEP IT COOL!](https://open.spotify.com/track/69ijRst757ROhLoC3dsRYu) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Downers Grove \(Explained\)](https://open.spotify.com/album/0RuZxzktEnwDwGFhnGOo74) | 2:50 | 2023-06-02 |  |
+| [KEEP IT COOL!](https://open.spotify.com/track/69ijRst757ROhLoC3dsRYu) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Downers Grove \(Explained\)](https://open.spotify.com/album/0RuZxzktEnwDwGFhnGOo74) | 2:50 | 2023-06-02 | 2024-02-03 |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-01-28 | 2022-02-19 |
 | [keep our love alive](https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [keep our love alive](https://open.spotify.com/album/3p8XPhLmoX4DA69jj6kNMN) | 2:56 | 2023-03-03 | 2023-05-07 |
 | [keep our love alive](https://open.spotify.com/track/5Skpe6bbhoZqJMR6pfQLZr) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [tell me your feelings and i won't tell you mine pt\. 2](https://open.spotify.com/album/0hdZmnYgJaxpmZ6rLXTtO2) | 2:56 | 2023-05-05 |  |
@@ -893,6 +893,7 @@
 | [sleeping on the floor](https://open.spotify.com/track/2SaMMF3gwdwTjWuR44LETg) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [sleeping on the floor](https://open.spotify.com/album/4MQRdmpYmA0GZx8XoUJLYi) | 2:33 | 2022-03-04 | 2022-04-09 |
 | [Sleepwalker](https://open.spotify.com/track/6GsHmYdV3mZZA1poF3hEuO) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f) | [Sleepwalker](https://open.spotify.com/album/5LpxCSKfeBH5lsn3R6U5bE) | 3:17 | 2021-07-17 | 2021-10-09 |
 | [Slip Away](https://open.spotify.com/track/5MRQTVKZkDu4vYGRSpq6wM) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Mystic I.](https://open.spotify.com/artist/47FZ69r6ttcVTmVAQa1nOT) | [Slip Away](https://open.spotify.com/album/675mGNtA8j1G2FtrsCB6zb) | 3:33 | 2021-06-19 | 2021-07-04 |
+| [Slow Burn](https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 3:21 | 2024-02-02 |  |
 | [snowflake \(feat\. Jaden & Sarcastic Sounds\)](https://open.spotify.com/track/7KW1AtQKFToSoF1kmyk2wE) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [tell me your feelings and i won't tell you mine](https://open.spotify.com/album/0nyUIJbb1bEIRCTpD2sQ2R) | 3:07 | 2021-10-09 | 2021-11-20 |
 | [so done](https://open.spotify.com/track/0CJujB84MFibxHqxFQVLu1) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [so done \(bye\)](https://open.spotify.com/album/42NA4WjXX7liHHiUiAHQ0l) | 2:54 | 2021-10-09 | 2022-01-29 |
 | [so simple](https://open.spotify.com/track/5b7MYbOXA9FRKvyElEBaLF) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [so simple](https://open.spotify.com/album/1FHFev1IpkEljd1n6T6Qdv) | 2:58 | 2022-07-29 | 2022-09-03 |
@@ -979,6 +980,7 @@
 | [Supertropicali](https://open.spotify.com/track/4wdx5Oodifib3zXzEtbLIg) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Supertropicali](https://open.spotify.com/album/34GSyi8rpeIl2Vxbr9QaX5) | 3:18 | 2021-10-02 | 2022-01-22 |
 | [Surround Me](https://open.spotify.com/track/2VpT2mgMMGOgWsLve3FXQI) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Surround Me](https://open.spotify.com/album/7coxHNA9sfn6xEkTF1IbxW) | 3:37 | 2022-03-18 | 2022-05-20 |
 | [Survivor](https://open.spotify.com/track/2eeOF8wsCKNPmbCqg855TH) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [KULTARGOTBOUNCE](https://open.spotify.com/artist/4AVBIZZuqtat8RReyNdqck) | [Survivor](https://open.spotify.com/album/3oFne2pyrJPuUNXYFISuXs) | 2:58 | 2021-04-10 | 2021-06-12 |
+| [Swallow](https://open.spotify.com/track/2xtF0pR5YIroM6MzKUhJBy) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Swallow](https://open.spotify.com/album/1lF9N8KTJe8rEuCTVRwyV8) | 2:59 | 2024-02-02 |  |
 | [Sweet & Spice](https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Sweet & Spice](https://open.spotify.com/album/4ucJZ3wTSXTZ3YUwzGcWwH) | 2:50 | 2021-08-14 | 2021-11-20 |
 | [sweet taste](https://open.spotify.com/track/5qBkWkzOGMAyqfboaaaNAi) | [sol williams](https://open.spotify.com/artist/2MTS6xN7Q1Bgu93YCL2AsH) | [sweet taste](https://open.spotify.com/album/0g0q7BHDLMZRCVlCmFa7Xf) | 2:24 | 2021-04-24 | 2021-08-14 |
 | [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 | 2022-08-19 | 2023-12-16 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 291603,
+  "2024-02-03": 291604,
   "date_first_scraped": "2021-12-21",
   "description": "Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.",
   "name": "Instrumental Guitar Focus",
@@ -57,6 +57,24 @@
       "duration_ms": 165545,
       "name": "A Quiet Message",
       "url": "https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK"
+    },
+    {
+      "album": {
+        "name": "A Short Walk To Open Fields",
+        "url": "https://open.spotify.com/album/4DB1OJk9eG0vSkybSmHSQ0"
+      },
+      "artists": [
+        {
+          "name": "Miko Yoshida",
+          "url": "https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192925,
+      "name": "A Short Walk To Open Fields",
+      "url": "https://open.spotify.com/track/0AcpMokszr0bPJQ5eoTPvg"
     },
     {
       "album": {
@@ -453,6 +471,24 @@
       "duration_ms": 133516,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/6uWXrNa4zpk4jWM0cDsoLR"
+    },
+    {
+      "album": {
+        "name": "Back at Mills Creek",
+        "url": "https://open.spotify.com/album/04bqEOyyP1MIEe5lCrUgUv"
+      },
+      "artists": [
+        {
+          "name": "Maisy Anderson",
+          "url": "https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138455,
+      "name": "Back at Mills Creek",
+      "url": "https://open.spotify.com/track/1sokyJcoiRdRyjmPYzcQRu"
     },
     {
       "album": {
@@ -990,6 +1026,42 @@
     },
     {
       "album": {
+        "name": "Comfort Me",
+        "url": "https://open.spotify.com/album/1Ub90Zjn7J7amOBicYwUQ2"
+      },
+      "artists": [
+        {
+          "name": "Ceriumidis",
+          "url": "https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132491,
+      "name": "Comfort Me",
+      "url": "https://open.spotify.com/track/3VR78tnaSa1owd7xP9hA2K"
+    },
+    {
+      "album": {
+        "name": "Compelling Voice",
+        "url": "https://open.spotify.com/album/4Ieb0qbrj9v18DW9lHlNir"
+      },
+      "artists": [
+        {
+          "name": "Oma Holt",
+          "url": "https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135948,
+      "name": "Compelling Voice",
+      "url": "https://open.spotify.com/track/26aHSPwNdXTeFe3o9dOFgZ"
+    },
+    {
+      "album": {
         "name": "Simple Guitar Classics",
         "url": "https://open.spotify.com/album/67AHA6cXLgJRX7WgLbp1Ma"
       },
@@ -1422,6 +1494,24 @@
     },
     {
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/526Ra8D1uYLW8XcpT0Tw29"
+      },
+      "artists": [
+        {
+          "name": "Taylor Owen",
+          "url": "https://open.spotify.com/artist/6ZjCGd6OJIo6RTmtY8Kz0v"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/4jsclhn5Q5oYDdV8uFa1DS"
+    },
+    {
+      "album": {
         "name": "Enrejado",
         "url": "https://open.spotify.com/album/7qlWfiqgc8galnEyU9AFO1"
       },
@@ -1455,6 +1545,24 @@
       "duration_ms": 184540,
       "name": "Erwachen der Berge",
       "url": "https://open.spotify.com/track/05VGUOV68jMyJEc2iTRId8"
+    },
+    {
+      "album": {
+        "name": "Ethereal Elegance",
+        "url": "https://open.spotify.com/album/07yC22JfkYTwIu57Ho3ctq"
+      },
+      "artists": [
+        {
+          "name": "Aaron Flemming",
+          "url": "https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Ethereal Elegance",
+      "url": "https://open.spotify.com/track/7fJVWSFwuSzOZKFw08HBTX"
     },
     {
       "album": {
@@ -2088,6 +2196,24 @@
     },
     {
       "album": {
+        "name": "If it wasn\u2019t for you",
+        "url": "https://open.spotify.com/album/43nk5Fya4Uv0kDpR6AiCr9"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130123,
+      "name": "If it wasn\u2019t for you",
+      "url": "https://open.spotify.com/track/16BFqMe9kc6tpkTifDpK2z"
+    },
+    {
+      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/4SkSg2UW1Tvw3sbbBniySM"
       },
@@ -2117,7 +2243,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 145233,
       "name": "In good company",
       "url": "https://open.spotify.com/track/2PmwATbeMAyIullNs55HJN"
@@ -2701,6 +2827,24 @@
       "duration_ms": 142249,
       "name": "Live just one more moment",
       "url": "https://open.spotify.com/track/3a2YKVcHmyXPZvWGofVTZ6"
+    },
+    {
+      "album": {
+        "name": "London Fog",
+        "url": "https://open.spotify.com/album/0832H76yui7UZKuSv6i3ip"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149687,
+      "name": "London Fog",
+      "url": "https://open.spotify.com/track/39PaXHJYKENift4jbT5n8j"
     },
     {
       "album": {
@@ -3410,6 +3554,24 @@
     },
     {
       "album": {
+        "name": "Past encounters",
+        "url": "https://open.spotify.com/album/3CH7PyvDReNm3sKOZxPa3x"
+      },
+      "artists": [
+        {
+          "name": "Alexa Popov",
+          "url": "https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150977,
+      "name": "Past encounters",
+      "url": "https://open.spotify.com/track/3ZHXP7TCdWAcHUOqafq2Cw"
+    },
+    {
+      "album": {
         "name": "Path To Nowhere",
         "url": "https://open.spotify.com/album/6l5u0lxJyTycWNjYsG8lCV"
       },
@@ -3425,6 +3587,24 @@
       "duration_ms": 104939,
       "name": "Path To Nowhere",
       "url": "https://open.spotify.com/track/1ZHAE8T4OUQ9zySQ6B83Qw"
+    },
+    {
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/5zGoefDL4YQlLOkNFkL8PW"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173371,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/6vGf7wIn46MKihhx4SmUP8"
     },
     {
       "album": {
@@ -3778,6 +3958,24 @@
     },
     {
       "album": {
+        "name": "Remaining Link",
+        "url": "https://open.spotify.com/album/0BEE1YWLyPm6kFnVEL9LN9"
+      },
+      "artists": [
+        {
+          "name": "Zinning",
+          "url": "https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138534,
+      "name": "Remaining Link",
+      "url": "https://open.spotify.com/track/3THjDQSoQoBoeqT71CdUeG"
+    },
+    {
+      "album": {
         "name": "Aerial Boundaries",
         "url": "https://open.spotify.com/album/2hgrTinAeHSNaSPzLFoamH"
       },
@@ -3829,6 +4027,24 @@
       "duration_ms": 169000,
       "name": "Rio Segundo",
       "url": "https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL"
+    },
+    {
+      "album": {
+        "name": "Ripples in the sand",
+        "url": "https://open.spotify.com/album/4a6ck1QSXNh1mk1LEyI57L"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186931,
+      "name": "Ripples in the sand",
+      "url": "https://open.spotify.com/track/5QZVpjifzC8k1h4f37ro4B"
     },
     {
       "album": {
@@ -4030,6 +4246,24 @@
     },
     {
       "album": {
+        "name": "Simple Reverie",
+        "url": "https://open.spotify.com/album/3BmX4s69077iF5bueVbl7n"
+      },
+      "artists": [
+        {
+          "name": "Marian Rose",
+          "url": "https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187170,
+      "name": "Simple Reverie",
+      "url": "https://open.spotify.com/track/51cpn2Y6niqb3LnucJXkwH"
+    },
+    {
+      "album": {
         "name": "Childhood",
         "url": "https://open.spotify.com/album/6t2utOCjrCkGnyYGEh6Ygg"
       },
@@ -4192,6 +4426,24 @@
     },
     {
       "album": {
+        "name": "Spanish Steps",
+        "url": "https://open.spotify.com/album/7Ekprz3IY9W6R8LrtS1ZQD"
+      },
+      "artists": [
+        {
+          "name": "Leandra Costa",
+          "url": "https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154820,
+      "name": "Spanish Steps",
+      "url": "https://open.spotify.com/track/37S75qoyg4krilHAbcjXKR"
+    },
+    {
+      "album": {
         "name": "Speak Once More",
         "url": "https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb"
       },
@@ -4207,6 +4459,24 @@
       "duration_ms": 111229,
       "name": "Speak Once More",
       "url": "https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB"
+    },
+    {
+      "album": {
+        "name": "Spitalfields",
+        "url": "https://open.spotify.com/album/1FAKr8DkcxIXk8NXJQAcsA"
+      },
+      "artists": [
+        {
+          "name": "Lee Howard-Taylor",
+          "url": "https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175908,
+      "name": "Spitalfields",
+      "url": "https://open.spotify.com/track/2hrVoFSh9c8FpuYC6KrUlt"
     },
     {
       "album": {
@@ -4459,6 +4729,24 @@
       "duration_ms": 126151,
       "name": "Tall Flowers",
       "url": "https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA"
+    },
+    {
+      "album": {
+        "name": "Tapera",
+        "url": "https://open.spotify.com/album/3aUBs02jKhkYw0aBHZh6fR"
+      },
+      "artists": [
+        {
+          "name": "Oscar Roland",
+          "url": "https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154099,
+      "name": "Tapera",
+      "url": "https://open.spotify.com/track/3QEgrZujYt6cFcmq8VMVK2"
     },
     {
       "album": {
@@ -5082,6 +5370,24 @@
     },
     {
       "album": {
+        "name": "Valsinha",
+        "url": "https://open.spotify.com/album/70fAK6UwN0MsoczIxsH7SL"
+      },
+      "artists": [
+        {
+          "name": "Vita Alexander",
+          "url": "https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144398,
+      "name": "Valsinha",
+      "url": "https://open.spotify.com/track/1jldmlW5DuWoGzwb0Hu7ad"
+    },
+    {
+      "album": {
         "name": "Verano",
         "url": "https://open.spotify.com/album/0nEzBM5pySgrM3ovEI382k"
       },
@@ -5421,6 +5727,24 @@
       "duration_ms": 131074,
       "name": "Winterland",
       "url": "https://open.spotify.com/track/1gW3VKqi9qjRHLyBhg4IZO"
+    },
+    {
+      "album": {
+        "name": "Within",
+        "url": "https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax"
+      },
+      "artists": [
+        {
+          "name": "Michelle Qureshi",
+          "url": "https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199026,
+      "name": "With Languor",
+      "url": "https://open.spotify.com/track/7wcUEnW420sjGIpD5XZTvK"
     },
     {
       "album": {

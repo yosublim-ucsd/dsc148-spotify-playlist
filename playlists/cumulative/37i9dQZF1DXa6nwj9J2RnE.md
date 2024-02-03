@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Naaz
 
-117 songs - 6 hr 28 min
+118 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Lost in a Dream](https://open.spotify.com/track/1BMKskvvqRdE6HfGcj8XbG) | [Gita Buhari](https://open.spotify.com/artist/24BUyCLuFoyt6qsfespK0D), [Fabrik](https://open.spotify.com/artist/0Tf7on9sUYYHevISgz3phb) | [Lost in a Dream](https://open.spotify.com/album/7JAvvJn4k4F9eD2czSDQUp) | 3:19 | 2023-02-23 | 2023-05-27 |
 | [M.I.A.](https://open.spotify.com/track/2k72CgD12K29xCHQrA9ToC) | [Jacin Trill](https://open.spotify.com/artist/4hKoG9QvxsFDLIntc6tZ0g) | [M.I.A.](https://open.spotify.com/album/50E2n5rDpO1uALeezN5M2W) | 2:07 | 2023-02-23 | 2023-04-01 |
 | [Marathon I](https://open.spotify.com/track/5VBT9JcgyoBvM7Uau4X57d) | [Jacht](https://open.spotify.com/artist/6idnmcf67erjR8vE9qLIoO) | [Marathon I](https://open.spotify.com/album/4bvQPPSsD0iGIjqf1OYEu5) | 2:11 | 2023-05-25 |  |
-| [Mayhem](https://open.spotify.com/track/5bwPnJFIx1DdkycTgmtRTM) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2), [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Mayhem](https://open.spotify.com/album/7iEPz4WQ618rjOYC5QYy96) | 3:24 | 2024-01-29 |  |
+| [Mayhem \(feat\. Naaz\)](https://open.spotify.com/track/5bwPnJFIx1DdkycTgmtRTM) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2), [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Mayhem \(feat\. Naaz\)](https://open.spotify.com/album/7iEPz4WQ618rjOYC5QYy96) | 3:24 | 2024-01-29 |  |
 | [MEISJE IN WIT](https://open.spotify.com/track/4HQBvGxtBz3R0C7gcUsVH0) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [MEISJE IN WIT](https://open.spotify.com/album/53Qe59ywnVMSrmOo9ofV3U) | 2:22 | 2023-03-31 |  |
 | [met de tijd](https://open.spotify.com/track/2AqLfjC2r4jBJZ95MqyUGa) | [Sandor Dayala](https://open.spotify.com/artist/34h516CVwMVPYFkeSLSW69), [TJ](https://open.spotify.com/artist/2keg5CqgRIEtw0VUYU7TLu) | [met de tijd](https://open.spotify.com/album/59XkvhOOonvoAZkgnHYCSg) | 2:38 | 2023-12-01 |  |
 | [Nog Steeds Dezelfde](https://open.spotify.com/track/0F4hPNXDZHw79Vxxxklcl6) | [Willem Ardui](https://open.spotify.com/artist/1Erb9tjg91Er5fXHWHUmyY), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Nog Steeds Dezelfde](https://open.spotify.com/album/2BJ4ZpdRnUagLr4xRfNgmQ) | 3:39 | 2023-09-22 |  |
@@ -76,7 +76,8 @@
 | [Paranoid Sleeping \- Single Edit](https://open.spotify.com/track/1asK6lxYBYVJwzavweery9) | [Julia Sole](https://open.spotify.com/artist/12XTlzUHaKvvpxuUcKcWr3) | [Paranoid Sleeping](https://open.spotify.com/album/2g9SWINLRnk2vH0cIJEkqt) | 2:09 | 2023-02-23 |  |
 | [Peachy Free](https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Peachy Free](https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94) | 2:34 | 2023-09-22 |  |
 | [Pelechian](https://open.spotify.com/track/2txPrKoY55bOdb7eO0dxVz) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian](https://open.spotify.com/album/4AlsQL5uhfmbH7uKQvZx4g) | 2:34 | 2023-02-23 |  |
-| [Same Room](https://open.spotify.com/track/50tVoG8Nxgm306HKSiwYZV) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [UI](https://open.spotify.com/album/27cG0rL8gIm1yQekB8ibjL) | 3:22 | 2023-02-23 |  |
+| [Same Room](https://open.spotify.com/track/50tVoG8Nxgm306HKSiwYZV) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [UI](https://open.spotify.com/album/27cG0rL8gIm1yQekB8ibjL) | 3:22 | 2023-02-23 | 2024-02-03 |
+| [Same Room](https://open.spotify.com/track/7JKcsNXSjFVKtA6YT7BNGZ) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/1G0VH29venEyfSgCtMddwo) | 3:22 | 2024-01-29 |  |
 | [Scheef](https://open.spotify.com/track/2vMHhWv9bIS2IpVcwALlKZ) | [THYRZA](https://open.spotify.com/artist/6Y0fFuFrEgAyOD2eIMwUX5) | [Scheef](https://open.spotify.com/album/3KwnniiGH4XmOs5FQgIoSp) | 3:16 | 2023-05-25 |  |
 | [Scherpe Knuffels](https://open.spotify.com/track/6617xQW6elVgqDInCMI1wu) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Scherpe Knuffels](https://open.spotify.com/album/0anx93DQrlfeKHUrghM61f) | 2:40 | 2023-11-17 |  |
 | [Seaside](https://open.spotify.com/track/7qNXY0nLhMoaNINklgqeWf) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 2:50 | 2023-02-23 | 2023-06-09 |

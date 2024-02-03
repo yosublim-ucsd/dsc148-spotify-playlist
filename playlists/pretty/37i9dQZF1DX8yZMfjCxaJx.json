@@ -1,12 +1,12 @@
 {
   "description": "Las favoritas de los patrones. Markitos Toys, Pantera de Culiac\u00e1n en portada.",
-  "num_followers": 209130,
+  "num_followers": 209262,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWJkNDlkMDczZTU0MmMxMzIwZGMyNDFhYjk3OTBlMjI2MjcwZjY5",
+  "snapshot_id": "MCwzNjFiMDFiZDk5YjY5YWZmOWYzOTBiMTk5MWVhMmQ4MTQ0Yjk5NzUx",
   "tracks": [
     {
       "added_at": "2024-01-26 06:00:00",
@@ -275,6 +275,26 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "EL RELOJITO",
+        "url": "https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 189027,
+      "name": "EL RELOJITO",
+      "url": "https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Belico El Asunto (En Vivo)",
         "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 208680,
       "name": "Belico El Asunto (En Vivo)",
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Por Clave El Caiman",
-        "url": "https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Tomas Ballardo",
-          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
-        }
-      ],
-      "duration_ms": 158626,
-      "name": "Por Clave Caiman",
-      "url": "https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -339,6 +339,26 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Por Clave El Caiman",
+        "url": "https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Tomas Ballardo",
+          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
+        }
+      ],
+      "duration_ms": 158626,
+      "name": "Por Clave Caiman",
+      "url": "https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Don Ismael",
         "url": "https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 158938,
       "name": "Don Ismael",
       "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "EL RELOJITO",
-        "url": "https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 189027,
-      "name": "EL RELOJITO",
-      "url": "https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -563,6 +563,30 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Haganse A Un Lado",
+        "url": "https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B"
+      },
+      "artists": [
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 156223,
+      "name": "Haganse A Un Lado",
+      "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "La Firma del Flaquito",
         "url": "https://open.spotify.com/album/6nYtatxhdFZ78HqdWVr3n3"
       },
@@ -619,30 +643,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Haganse A Un Lado",
-        "url": "https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B"
-      },
-      "artists": [
-        {
-          "name": "Legion RG",
-          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 156223,
-      "name": "Haganse A Un Lado",
-      "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Contrato A La Vida",
         "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 183909,
       "name": "Alias Jab\u00f3n",
       "url": "https://open.spotify.com/track/1bpNq8orXbDAn4NALBPFfT"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Fresas De La Capital",
+        "url": "https://open.spotify.com/album/6Zpv9HFhV78xWi58Gi3E8B"
+      },
+      "artists": [
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        },
+        {
+          "name": "Jaque Mate",
+          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
+        }
+      ],
+      "duration_ms": 173397,
+      "name": "Fresas De La Capital",
+      "url": "https://open.spotify.com/track/3HIL8kXH7d56lMcl9wEOpb"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -771,46 +791,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Malas Rachas (En Vivo)",
-        "url": "https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 256754,
-      "name": "Malas Rachas (En Vivo)",
-      "url": "https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Fresas De La Capital",
-        "url": "https://open.spotify.com/album/6Zpv9HFhV78xWi58Gi3E8B"
-      },
-      "artists": [
-        {
-          "name": "Legion RG",
-          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
-        },
-        {
-          "name": "Jaque Mate",
-          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
-        }
-      ],
-      "duration_ms": 173397,
-      "name": "Fresas De La Capital",
-      "url": "https://open.spotify.com/track/3HIL8kXH7d56lMcl9wEOpb"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Casco Negro",
         "url": "https://open.spotify.com/album/1yzh8zVFIwMsgSvwWsAh9L"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 178049,
       "name": "Casco Negro",
       "url": "https://open.spotify.com/track/4d8WGxeUE2qRNUazqzWlJg"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Malas Rachas (En Vivo)",
+        "url": "https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 256754,
+      "name": "Malas Rachas (En Vivo)",
+      "url": "https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Nuevo Mando",
+        "url": "https://open.spotify.com/album/4sTQdTXhs18gLhJxZOnYk2"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "duration_ms": 156650,
+      "name": "Nuevo Mando",
+      "url": "https://open.spotify.com/track/6jbk8wBRezS07OWr9IYjpv"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "El Corrido Del MC",
         "url": "https://open.spotify.com/album/2zhxO2yyAg7TPDZJkyvpXo"
       },
@@ -1191,26 +1211,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Nuevo Mando",
-        "url": "https://open.spotify.com/album/4sTQdTXhs18gLhJxZOnYk2"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        }
-      ],
-      "duration_ms": 156650,
-      "name": "Nuevo Mando",
-      "url": "https://open.spotify.com/track/6jbk8wBRezS07OWr9IYjpv"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Chica La Bola",
         "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
       },
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "El Chavo Felix",
+        "url": "https://open.spotify.com/album/6RQfFsFKkWX0X5Vrz9i6XA"
+      },
+      "artists": [
+        {
+          "name": "Kirri Enigma",
+          "url": "https://open.spotify.com/artist/36nV3psZJft6vV1G7YEz9X"
+        }
+      ],
+      "duration_ms": 167890,
+      "name": "El Chavo Felix",
+      "url": "https://open.spotify.com/track/32n9g4H0H85AzOeiMAbSjE"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "B\u00e9lico X Siempre",
         "url": "https://open.spotify.com/album/1AFs1df7bscMEsh6CEI2Gj"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "El Chavo Felix",
-        "url": "https://open.spotify.com/album/6RQfFsFKkWX0X5Vrz9i6XA"
-      },
-      "artists": [
-        {
-          "name": "Kirri Enigma",
-          "url": "https://open.spotify.com/artist/36nV3psZJft6vV1G7YEz9X"
-        }
-      ],
-      "duration_ms": 167890,
-      "name": "El Chavo Felix",
-      "url": "https://open.spotify.com/track/32n9g4H0H85AzOeiMAbSjE"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "M\u00e1s Vivo Que En Vivo (Vol. 3)",
         "url": "https://open.spotify.com/album/6cPwBTKQHLhBydkcaHRpbs"
       },
@@ -1295,26 +1295,6 @@
       "duration_ms": 208405,
       "name": "Zutano (En Vivo)",
       "url": "https://open.spotify.com/track/4aI8jecrUY2zEbwNHIKmj9"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Somos Gente Del Sombrero (En Vivo)",
-        "url": "https://open.spotify.com/album/2qaSacTJoTXZHZShAIRkZK"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 203504,
-      "name": "Somos Gente Del Sombrero - En Vivo",
-      "url": "https://open.spotify.com/track/5cJUpAtZBY253aPOo0QmId"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1335,6 +1315,26 @@
       "duration_ms": 144426,
       "name": "CHV FLX",
       "url": "https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Somos Gente Del Sombrero (En Vivo)",
+        "url": "https://open.spotify.com/album/2qaSacTJoTXZHZShAIRkZK"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 203504,
+      "name": "Somos Gente Del Sombrero - En Vivo",
+      "url": "https://open.spotify.com/track/5cJUpAtZBY253aPOo0QmId"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "El Gori",
+        "url": "https://open.spotify.com/album/22J5eVxDiCkMMalHqT2jzK"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "duration_ms": 137256,
+      "name": "El Gori",
+      "url": "https://open.spotify.com/track/1HKCPYUanIF67N6vWknABj"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Mi Guitarra Y Yo",
         "url": "https://open.spotify.com/album/5RzfxZNDUrlruKHo1kYGq1"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 181600,
       "name": "El Cinco De Las Cuatro",
       "url": "https://open.spotify.com/track/1TUszLjyHqWjruuOMOv0ro"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "El Gori",
-        "url": "https://open.spotify.com/album/22J5eVxDiCkMMalHqT2jzK"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 137256,
-      "name": "El Gori",
-      "url": "https://open.spotify.com/track/1HKCPYUanIF67N6vWknABj"
     }
   ],
   "unique_name": "Corridos Chakalosos",

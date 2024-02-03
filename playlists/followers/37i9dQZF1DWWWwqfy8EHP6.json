@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 84885,
+  "2024-02-03": 84916,
   "date_first_scraped": "2022-05-30",
   "description": "LeeHi's here for you, Hice Creams!",
   "name": "This is LeeHi",
@@ -1905,7 +1905,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 221767,
       "name": "U Go Girl",
       "url": "https://open.spotify.com/track/3qYgty7NLEqtlp5g3zcaf0"
@@ -1927,6 +1927,24 @@
       "duration_ms": 221780,
       "name": "U Go Girl (Lee hyo ri)",
       "url": "https://open.spotify.com/track/0txg4Pz2HSLfYhHWWLWQ8T"
+    },
+    {
+      "album": {
+        "name": "SBS K-POP Star Top 3",
+        "url": "https://open.spotify.com/album/4TTOBtpXwVNIxzZC83h1Ru"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221780,
+      "name": "U Go Girl (Lee hyo ri)",
+      "url": "https://open.spotify.com/track/3bnSsHGurkr5kTcMKEYmIr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,717 likes - 100 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,775 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 78 | [Disco Illusion](https://open.spotify.com/track/1ROPlnnzLFGZBD4NELKZoa) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 6:44 |
 | 79 | [Today Is the Day \- Linkwood Chop](https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan) | [Frazelle](https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn) | [Watchin Out](https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf) | 5:20 |
 | 80 | [Hold Tight \- Full Length Album Mix](https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Magical Night \(Greatest Hits Special Price\)](https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f) | 4:28 |
-| 81 | [Get It Right \- Single Version](https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right \(Expanded Edition\)](https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH) | 4:19 |
+| 81 | [Heartbeat \(Club Mix\) \(2012 \- Remaster\)](https://open.spotify.com/track/281WOsKoaGN9lMttUL7tjs) | [Taana Gardner](https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF) | [Taana Gardner](https://open.spotify.com/album/3Cry53QsMK0kF7Z59FUml0) | 9:47 |
 | 82 | [Groovin' You \- 12" Version](https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [Groovin' You \(Expanded Edition\)](https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9) | 6:16 |
-| 83 | [Heartbeat \(Club Mix\) \(2012 \- Remaster\)](https://open.spotify.com/track/281WOsKoaGN9lMttUL7tjs) | [Taana Gardner](https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF) | [Taana Gardner](https://open.spotify.com/album/3Cry53QsMK0kF7Z59FUml0) | 9:47 |
+| 83 | [Get It Right \- Single Version](https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right \(Expanded Edition\)](https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH) | 4:19 |
 | 84 | [You're a Melody \- Extended Disco Version](https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX) | [Aged In Harmony](https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL) | [You're a Melody](https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt) | 4:19 |
 | 85 | [Sunny](https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz) | [Yambu](https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY) | [Al Santiago Presents Yambú](https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX) | 4:32 |
 | 86 | [On the Beat \- Full Length Mix](https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o) | [The B\. B\. & Q\. Band](https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb) | [The Brooklyn, Bronx & Queens Band](https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy) | 5:57 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 97 | [Kiss Me Again \- Mix Edit](https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ) | [Dinosaur](https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu) | [Kiss Me Again](https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK) | 3:01 |
 | 98 | [Saturday Jam](https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD) | [Benedek](https://open.spotify.com/artist/0VGUa1xtVL7g1srvyzbY7t), [K\-Maxx](https://open.spotify.com/artist/5RSuS2evjc9IGjLJUt1iZR), [Sasac](https://open.spotify.com/artist/0ZfeJXXkQPkG21bGk3NTLt), [Turquoise Summers](https://open.spotify.com/artist/3m8JJr3ASeNiSHK85P4o4z), [Buscrates 16 Bit Ensemble](https://open.spotify.com/artist/2w04ct5AHBWI3AxA6PbuEb), [East Liberty Quarters](https://open.spotify.com/artist/4vJ4MIyanwJLkDECKh0Dik), [Henning](https://open.spotify.com/artist/5ppN1E00CZsVGCmTlAOtQO), [TONI CLARKE](https://open.spotify.com/artist/6vyhMj9yU8TGz3VfHfzNsB) | [Raw Silk Vol\. 1](https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D) | 4:11 |
 | 99 | [Dancing in Outer Space](https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH) | [Atmosfear](https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF) | [Dancing in Outer Space](https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r) | 9:37 |
-| 100 | [Lypso Illusion](https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 4:44 |
+| 100 | [Put Your Body In It \- 12" Version](https://open.spotify.com/track/5abxwASaBFQDyZVh983qRD) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [The Best Of Disco Funk \(Disco Nights Vol.2\)](https://open.spotify.com/album/58STS86oy7HcgvP6yt6mca) | 6:02 |
 
-Snapshot ID: `MCxmNzY4ZDcwZGQ0ZTFmOWI5M2JlMTFmZjZiNmI4MDAzMGY5OTRhNTkw`
+Snapshot ID: `MCw0MzNhMGVkMGNiYTNhODEwNjQzMDgyMmIxYTI5Mzc4MzUwZDljY2Uy`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 
 > This is Ken Carson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,730 likes - 39 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,765 likes - 39 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yale](https://open.spotify.com/track/0HTIrbUwwFn984RzVZm5Fk) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd) | 1:46 |
 | 2 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 |
-| 3 | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [SONY](https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp) | 2:10 |
-| 4 | [Rock N Roll](https://open.spotify.com/track/7sdHMJvhKib3ReVPsZFbrf) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 2:28 |
+| 3 | [Rock N Roll](https://open.spotify.com/track/7sdHMJvhKib3ReVPsZFbrf) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 2:28 |
+| 4 | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [SONY](https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp) | 2:10 |
 | 5 | [Freestyle 2](https://open.spotify.com/track/28niVl6iodHnHpE1bCeJiV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:18 |
 | 6 | [Jennifer’s Body](https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:38 |
 | 7 | [Fell In Love \(with Ken Carson\)](https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:53 |
@@ -24,17 +24,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 | 14 | [Succubus](https://open.spotify.com/track/2pcv4nUQqaZnJk1kYvCfXV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:29 |
 | 15 | [Hell Yeah](https://open.spotify.com/track/3QHGfxhjexLaMKGHXagfRs) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Pink Heartz](https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU) | 2:48 |
 | 16 | [Freestyle 3](https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:22 |
-| 17 | [Run + Ran](https://open.spotify.com/track/7dZ9oSkQlxo0kHEgyS8WSD) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 4:04 |
+| 17 | [Delinquent \(feat\. Homixide Gang\)](https://open.spotify.com/track/1PUwCOtQUOZrjAp8ljxGhE) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:45 |
 | 18 | [Singapore \(feat\. Destroy Lonely\)](https://open.spotify.com/track/56QNTK715IJeYmJP2grB5f) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:31 |
-| 19 | [Delinquent \(feat\. Homixide Gang\)](https://open.spotify.com/track/1PUwCOtQUOZrjAp8ljxGhE) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:45 |
+| 19 | [Run + Ran](https://open.spotify.com/track/7dZ9oSkQlxo0kHEgyS8WSD) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 4:04 |
 | 20 | [Shoot](https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:46 |
-| 21 | [Hella](https://open.spotify.com/track/4EEX7k5Bo5iBdJC6hZJGo1) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 2:41 |
+| 21 | [Fuk 12](https://open.spotify.com/track/0VhL5q6JhQdD2kmbMbK0cj) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 1:24 |
 | 22 | [Overtime](https://open.spotify.com/track/4hZi9952OTtYQnXo2FJT6C) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 1:46 |
-| 23 | [Fuk 12](https://open.spotify.com/track/0VhL5q6JhQdD2kmbMbK0cj) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 1:24 |
+| 23 | [Hella](https://open.spotify.com/track/4EEX7k5Bo5iBdJC6hZJGo1) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 2:41 |
 | 24 | [Swag Overload](https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:32 |
 | 25 | [High as Sh!T](https://open.spotify.com/track/3CukfJ1zvUEcq84AM89hxj) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:33 |
-| 26 | [Clutch](https://open.spotify.com/track/11GKYHTMZHqIH6wR03pA4t) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 2:11 |
-| 27 | [Gëek high \(feat\. Ken Carson\)](https://open.spotify.com/track/10pKRdCsckIx7jdrR5IFec) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 2:32 |
+| 26 | [Gëek high \(feat\. Ken Carson\)](https://open.spotify.com/track/10pKRdCsckIx7jdrR5IFec) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 2:32 |
+| 27 | [Clutch](https://open.spotify.com/track/11GKYHTMZHqIH6wR03pA4t) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 2:11 |
 | 28 | [Lookbook](https://open.spotify.com/track/240K86W7ysqLlNG9NS7cvQ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:30 |
 | 29 | [Teen X Babe](https://open.spotify.com/track/1HYOCC0xTD7ym5oOmP5AKz) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:56 |
 | 30 | [Go](https://open.spotify.com/track/7cI7i7fXPWFvRf9l4eBGHX) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 1:50 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 | 38 | [Why](https://open.spotify.com/track/6ALDTINxlHOp96KoLWYvqK) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd) | 1:45 |
 | 39 | [On the Low](https://open.spotify.com/track/5dZOZ75mViIFTs3etMFq5d) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:17 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDA5MGViNjFkMzY2ZDkzZjJiYmJjMGJjY2ZkYjVmOTk0Zg==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDA2MGE2ZTdmOWI2ZDBjOWQxYjQzYWIyMWM1N2YyM2YyOQ==`

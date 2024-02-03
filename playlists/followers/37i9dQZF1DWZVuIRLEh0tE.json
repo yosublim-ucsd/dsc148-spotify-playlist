@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 227334,
+  "2024-02-03": 227372,
   "date_first_scraped": "2022-03-22",
   "description": "Porque no to' e' Dembow en RD loco. Portada: Dilon Baby",
   "name": "Flow Dominicano",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 163695,
       "name": "1:00 Am",
       "url": "https://open.spotify.com/track/0lGyrbBoaDY01jJzK7MxVT"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 176801,
       "name": "ADN",
       "url": "https://open.spotify.com/track/0usasRIS8OZSY4eLcFYV1a"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 162466,
       "name": "Alta Gama",
       "url": "https://open.spotify.com/track/2hfeAtMrCUt0F9zlsRT9JJ"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 121469,
       "name": "BAJALE",
       "url": "https://open.spotify.com/track/4ByrXojPhe3MLymta2rjGK"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 169411,
       "name": "Bendiciones",
       "url": "https://open.spotify.com/track/5Zg3Eq4cjcJ98MUADUBwTb"
@@ -701,7 +701,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 197288,
       "name": "Bocina Bom",
       "url": "https://open.spotify.com/track/0kSFS3u3KvnuyaBS9VYJ3p"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 137000,
       "name": "Bu BaBa: La Esencia Del G\u00e9nero",
       "url": "https://open.spotify.com/track/48KxytQOd2pVIqavhsFBpC"
@@ -985,6 +985,80 @@
       "duration_ms": 177000,
       "name": "Chupable",
       "url": "https://open.spotify.com/track/5e9Otk4mv4O0DOoKjjZcG1"
+    },
+    {
+      "album": {
+        "name": "COMO TE MIRO",
+        "url": "https://open.spotify.com/album/75fVBDVW4EfXRgy0L7n4Ty"
+      },
+      "artists": [
+        {
+          "name": "Carlos uzi",
+          "url": "https://open.spotify.com/artist/6Kks7YDYdfbqWrfbWTN8R3"
+        },
+        {
+          "name": "Gaia Chocolate",
+          "url": "https://open.spotify.com/artist/4CgqifY4I5TyoSwxdT2Dhe"
+        },
+        {
+          "name": "Emmcod3",
+          "url": "https://open.spotify.com/artist/1cmEUeZvH2e1rf0MK7bD1K"
+        },
+        {
+          "name": "Aaron Beat",
+          "url": "https://open.spotify.com/artist/6YRuzDo3xb63VeORuerqKR"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166530,
+      "name": "COMO TE MIRO",
+      "url": "https://open.spotify.com/track/72sNp2w2f5WRDwNienlSaH"
+    },
+    {
+      "album": {
+        "name": "Corleon",
+        "url": "https://open.spotify.com/album/0ssE45FEhB3BG8L1JA3mk4"
+      },
+      "artists": [
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        },
+        {
+          "name": "Skinny Flex",
+          "url": "https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131669,
+      "name": "Corleon",
+      "url": "https://open.spotify.com/track/6ho0QePBZ6a3hmry0Y2IhH"
+    },
+    {
+      "album": {
+        "name": "Coronel",
+        "url": "https://open.spotify.com/album/236TrZafPAHLILB1uypQwb"
+      },
+      "artists": [
+        {
+          "name": "Paulus Music",
+          "url": "https://open.spotify.com/artist/6Fs3AKFsg15trpdu92f7WR"
+        },
+        {
+          "name": "Eklectico",
+          "url": "https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91058,
+      "name": "Coronel",
+      "url": "https://open.spotify.com/track/4OcVhyTEo7WkArxR3HLkU6"
     },
     {
       "album": {
@@ -1353,7 +1427,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 191460,
       "name": "Depues De Las 3",
       "url": "https://open.spotify.com/track/06jKQDYkunWZqiyUPln7RY"
@@ -1455,7 +1529,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 98400,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/551Obg2zJDyWg3AigjVyeG"
@@ -1733,7 +1807,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 164761,
       "name": "El Ax Pin Pin",
       "url": "https://open.spotify.com/track/3w2MjS5jc8dOvhuJimSs2C"
@@ -1807,7 +1881,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 164703,
       "name": "El Efecto",
       "url": "https://open.spotify.com/track/4wEu9PWRlA8yaJxP2uKNWW"
@@ -2057,7 +2131,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 235232,
       "name": "En Mi Coro",
       "url": "https://open.spotify.com/track/7rkrrR738jFFDW0aewDVxI"
@@ -2119,7 +2193,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 216651,
       "name": "ESE SI ES MALO",
       "url": "https://open.spotify.com/track/7bYJBYJHduV6gePn4ILKUb"
@@ -2239,7 +2313,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 170086,
       "name": "Gatando la Funda",
       "url": "https://open.spotify.com/track/3eadQDgUDkKCPy2TgfPvuc"
@@ -2535,7 +2609,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 194037,
       "name": "Jovensito",
       "url": "https://open.spotify.com/track/5F7jb3hn1SaLfepPW4Kz4Z"
@@ -2634,6 +2708,28 @@
     },
     {
       "album": {
+        "name": "La Lealtad",
+        "url": "https://open.spotify.com/album/5PLmLC4kuilc7Hb13R4XPW"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Three Seven Music",
+          "url": "https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146562,
+      "name": "La Lealtad",
+      "url": "https://open.spotify.com/track/34lddXLZPmnVKWJN3nqDFX"
+    },
+    {
+      "album": {
         "name": "La Mam\u00e1 de la Mam\u00e1",
         "url": "https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7"
       },
@@ -2675,7 +2771,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 108068,
       "name": "La Muerte",
       "url": "https://open.spotify.com/track/3tKbksvIxi9r2FfybRsZEu"
@@ -2711,7 +2807,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 134000,
       "name": "La Sentite",
       "url": "https://open.spotify.com/track/4eR7dkrKdylRUjofJxiknZ"
@@ -2759,7 +2855,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 178625,
       "name": "Lala Chuki",
       "url": "https://open.spotify.com/track/75t3zlcNASsLQTEGOa2eqO"
@@ -2785,6 +2881,32 @@
       "duration_ms": 173499,
       "name": "LASSIE",
       "url": "https://open.spotify.com/track/5LtoLKd3dyFdzENasw9Hv5"
+    },
+    {
+      "album": {
+        "name": "Like Me",
+        "url": "https://open.spotify.com/album/028UwsmCkMqclHE5p1uAtU"
+      },
+      "artists": [
+        {
+          "name": "Dany Doll",
+          "url": "https://open.spotify.com/artist/4Bxo29WRyYvpL6ZLUL6FvY"
+        },
+        {
+          "name": "Uriel Produce",
+          "url": "https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC"
+        },
+        {
+          "name": "Young Money",
+          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152079,
+      "name": "Like Me",
+      "url": "https://open.spotify.com/track/1shewMdkueIP2YgXYv1Jt3"
     },
     {
       "album": {
@@ -2843,7 +2965,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 100500,
       "name": "Lo Prende Sola",
       "url": "https://open.spotify.com/track/5O7eUbzeG5BYrFrInNZmP3"
@@ -2913,7 +3035,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 118983,
       "name": "Lo Tres Pasos",
       "url": "https://open.spotify.com/track/4e8L3fVKpmHQLRXzcokMol"
@@ -3281,7 +3403,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 163415,
       "name": "Mango Pi\u00f1a",
       "url": "https://open.spotify.com/track/0lvkqN2wPat5dS0geCx2a3"
@@ -3413,7 +3535,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 172500,
       "name": "Mi Componente",
       "url": "https://open.spotify.com/track/0Wl3ADV3TTsg2NfqpcR6mC"
@@ -3675,7 +3797,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 129973,
       "name": "Mira el 30",
       "url": "https://open.spotify.com/track/0jMDFipJeGgbXP36vh4l08"
@@ -3945,7 +4067,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 165581,
       "name": "No Es Lo Mismo",
       "url": "https://open.spotify.com/track/2VZQb01aXXgefwC8YMdYQe"
@@ -4131,7 +4253,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 129119,
       "name": "Ojala Te Meta en Para",
       "url": "https://open.spotify.com/track/2waUqDY3Y3IHrSwm76Lmqa"
@@ -4223,7 +4345,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 102036,
       "name": "Papa Pau",
       "url": "https://open.spotify.com/track/6pep9f3CcUWRU6FskpMUhF"
@@ -4375,7 +4497,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 139159,
       "name": "Por Poquito",
       "url": "https://open.spotify.com/track/5zoJWcsBQQK2t9XlbIcRHJ"
@@ -4423,7 +4545,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 103384,
       "name": "Proyecto #1 - Deluxe",
       "url": "https://open.spotify.com/track/5XJh56KGNY35VNaDjfVARB"
@@ -4891,7 +5013,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 164838,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/6EIInxXOY71ZAB2GrPAPXr"
@@ -5015,7 +5137,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 195699,
       "name": "Tatanita",
       "url": "https://open.spotify.com/track/1YQ0FkvlPz8fDqC1xHxyyb"
@@ -5417,7 +5539,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 192031,
       "name": "Unico",
       "url": "https://open.spotify.com/track/4zFYVWkN4GPexJ6qqGRVWR"
@@ -5611,6 +5733,28 @@
       "duration_ms": 164048,
       "name": "Y Eso?",
       "url": "https://open.spotify.com/track/1Cx2O26LJUjG94LfH6rnyB"
+    },
+    {
+      "album": {
+        "name": "Yo Me Rebele",
+        "url": "https://open.spotify.com/album/47HhdTlzjRoifs3gLgqqg9"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn El Lobo",
+          "url": "https://open.spotify.com/artist/6SstCm8kBdxnbrTcPc9qnP"
+        },
+        {
+          "name": "Tauro.9",
+          "url": "https://open.spotify.com/artist/35yxRc8QZ4fYQdEA7ILeOl"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196552,
+      "name": "Yo Me Rebele",
+      "url": "https://open.spotify.com/track/63Ccbhg38CjqpOAZuU5kQ4"
     },
     {
       "album": {

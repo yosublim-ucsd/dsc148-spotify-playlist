@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,349 songs - 2 day 22 hr 10 min
+1,350 songs - 2 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Bye Bye](https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Bye Bye](https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb) | 1:48 | 2022-10-15 | 2022-10-17 |
 | [C'est La Vie](https://open.spotify.com/track/0OSL7r6DK20SuN2jisulPE) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN) | [C'est La Vie](https://open.spotify.com/album/4eabfK3MgGXtwc54r4psCP) | 2:49 | 2021-09-13 | 2021-09-19 |
 | [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 | 2022-12-29 | 2023-07-11 |
+| [CALL ME](https://open.spotify.com/track/2jIPVp1oVgpKuq3OAEj3xt) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR) | [CALL ME](https://open.spotify.com/album/1tsdEpLlPCSuiK8nNe6mf5) | 2:33 | 2024-02-02 |  |
 | [Calling For You \(feat\. 21 Savage\)](https://open.spotify.com/track/2nibvvDdAQkVraYP00z2RS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:45 | 2023-10-07 | 2023-10-12 |
 | [Calling My Phone](https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:25 | 2021-04-07 | 2021-04-13 |
 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-06-17 | 2023-04-30 |
@@ -381,7 +382,7 @@
 | [Eventjes Weg](https://open.spotify.com/track/26VZUtbArNYO2lyftfhejj) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Selfmade](https://open.spotify.com/album/55afGc64Had70T8GfW2jOt) | 2:53 | 2021-09-05 | 2021-09-06 |
 | [Excuseer](https://open.spotify.com/track/0PrxviwWNPOUJunvL9LkTI) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Excuseer](https://open.spotify.com/album/1GuRi4m4Uo7KTlDTwaezUz) | 2:32 | 2022-05-28 | 2022-06-07 |
 | [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 | 2023-11-18 | 2023-12-10 |
-| [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 | 2023-12-09 |  |
+| [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 | 2023-12-09 | 2024-02-03 |
 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-03-25 | 2023-03-29 |
 | [Eyes Closed](https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:14 | 2023-05-06 | 2023-08-27 |
 | [Eyes Closed](https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 | 2023-03-28 | 2023-05-07 |

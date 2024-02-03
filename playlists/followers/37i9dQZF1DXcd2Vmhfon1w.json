@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 517605,
+  "2024-02-03": 517616,
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Al Safir",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. EZVIT 810",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -277,6 +277,24 @@
       "duration_ms": 230639,
       "name": "A la tumba",
       "url": "https://open.spotify.com/track/5NwMiXLw1SnW4O7SgsaHeo"
+    },
+    {
+      "album": {
+        "name": "A tiempo",
+        "url": "https://open.spotify.com/album/6FSTWHwZEpYCPRCxme59EJ"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258790,
+      "name": "A tiempo",
+      "url": "https://open.spotify.com/track/3zH6SxrBp37Ludmai5Xa3W"
     },
     {
       "album": {
@@ -1141,10 +1159,28 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 201944,
       "name": "Como Siempre",
       "url": "https://open.spotify.com/track/2c3rR7VVjayjVwlGWjuwti"
+    },
+    {
+      "album": {
+        "name": "COMPLICA2",
+        "url": "https://open.spotify.com/album/6njLTYqhcHr2eqqdXhNvdI"
+      },
+      "artists": [
+        {
+          "name": "Enry-K",
+          "url": "https://open.spotify.com/artist/05trgdoIUvlwqNLEPHTdoI"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119577,
+      "name": "COMPLICA2",
+      "url": "https://open.spotify.com/track/4SGNCHzryJ99YlOZx1km6K"
     },
     {
       "album": {
@@ -2540,6 +2576,24 @@
     },
     {
       "album": {
+        "name": "LA \u00daLTIMA",
+        "url": "https://open.spotify.com/album/2VZ9rmzFLZbsMMrmrJF8ur"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "LA \u00daLTIMA",
+      "url": "https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb"
+    },
+    {
+      "album": {
         "name": "LACOSTA",
         "url": "https://open.spotify.com/album/2hSIsDIZTHTaJBpTdYaUh5"
       },
@@ -3254,6 +3308,28 @@
     },
     {
       "album": {
+        "name": "Mizeria",
+        "url": "https://open.spotify.com/album/5p8VxQ343DXSUcYwjQVd9J"
+      },
+      "artists": [
+        {
+          "name": "Moneo",
+          "url": "https://open.spotify.com/artist/6K6iokRdBoOaZiItaX6bYJ"
+        },
+        {
+          "name": "CscBeats",
+          "url": "https://open.spotify.com/artist/3WCcltmiulGQlH4YQU63Gx"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175280,
+      "name": "Mizeria",
+      "url": "https://open.spotify.com/track/2oU4Rsk2CXffpS7w6Ou2KA"
+    },
+    {
+      "album": {
         "name": "Modo Abuso",
         "url": "https://open.spotify.com/album/43V9JJGZFP0eVV9IxEOQIG"
       },
@@ -3899,7 +3975,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 197142,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/7msaM57358aHFozcAswOl2"
@@ -4020,6 +4096,28 @@
     },
     {
       "album": {
+        "name": "Palomas",
+        "url": "https://open.spotify.com/album/0l9b51PHxcES9PAAlzBgh0"
+      },
+      "artists": [
+        {
+          "name": "SWIT EME",
+          "url": "https://open.spotify.com/artist/51UDJfCuXko0jNa0wdN9Cz"
+        },
+        {
+          "name": "DJOKOBEATZ",
+          "url": "https://open.spotify.com/artist/5kzvYAmpWgIAqatz1ULbuU"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Palomas",
+      "url": "https://open.spotify.com/track/6ICEts8QOSnN2DUdq2Z9h4"
+    },
+    {
+      "album": {
         "name": "Pan Duro",
         "url": "https://open.spotify.com/album/7zxrUFncd8TEjtqkkD9r5I"
       },
@@ -4105,6 +4203,28 @@
       "duration_ms": 203366,
       "name": "RAPI\u00d1A | Barracudas #3",
       "url": "https://open.spotify.com/track/4kvp38IVCQgMSuixcPz00L"
+    },
+    {
+      "album": {
+        "name": "Rehabilita2",
+        "url": "https://open.spotify.com/album/5iFMxeLcDM1Y4TPVztxni2"
+      },
+      "artists": [
+        {
+          "name": "Nadal015",
+          "url": "https://open.spotify.com/artist/4XV4e5IqR6DKCJMJWuG7Vi"
+        },
+        {
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187457,
+      "name": "Rehabilita2",
+      "url": "https://open.spotify.com/track/7EXV0ck2yivz2kwYR52rmM"
     },
     {
       "album": {
@@ -4887,6 +5007,24 @@
       "duration_ms": 174529,
       "name": "Tenerte Cerca",
       "url": "https://open.spotify.com/track/4EmdCwn1lk5s1U4lkUT74a"
+    },
+    {
+      "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/4mnAwRH9rHUHCeiVKgpdaO"
+      },
+      "artists": [
+        {
+          "name": "Las Ninyas del Corro",
+          "url": "https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187865,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/3qdtPhFUPKEwOzgcoQg5z4"
     },
     {
       "album": {

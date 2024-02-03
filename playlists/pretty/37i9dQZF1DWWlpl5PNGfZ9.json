@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 90.",
-  "num_followers": 191082,
+  "num_followers": 191258,
   "original_name": "Pop Latino: Los 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTVkZWE1MTViOGQxOTAxNTQyNjE5YWY3ZDMwZDIxNTFjNmYxZWIz",
+  "snapshot_id": "MCxhZWNjYmM4NDU0YjY3ZjVjNzM3MDI5MGMxMjc5ZDlhYjhkZjA1NmEy",
   "tracks": [
     {
       "added_at": "2022-03-29 19:23:51",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-03-29 19:23:51",
       "album": {
-        "name": "Circo Beat",
-        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 222346,
-      "name": "Mariposa tecknicolor",
-      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
-    },
-    {
-      "added_at": "2022-03-29 19:23:51",
-      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 187666,
       "name": "Te Quiero Tanto, Tanto",
       "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
+    },
+    {
+      "added_at": "2022-03-29 19:23:51",
+      "album": {
+        "name": "Circo Beat",
+        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 222346,
+      "name": "Mariposa tecknicolor",
+      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
     },
     {
       "added_at": "2022-03-29 19:23:51",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-03-29 19:23:51",
       "album": {
-        "name": "Qui\u00e9n Dijo Ayer",
-        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
+        "name": "Flor De Piel",
+        "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
         }
       ],
-      "duration_ms": 207013,
-      "name": "Mujeres",
-      "url": "https://open.spotify.com/track/4TR6e2sBy2PzTnfu6MnLFD"
+      "duration_ms": 283133,
+      "name": "Hacer El Amor Con Otro",
+      "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
     },
     {
       "added_at": "2022-03-29 19:23:51",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-03-29 19:23:51",
       "album": {
-        "name": "Flor De Piel",
-        "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
+        "name": "Qui\u00e9n Dijo Ayer",
+        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
       },
       "artists": [
         {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
         }
       ],
-      "duration_ms": 283133,
-      "name": "Hacer El Amor Con Otro",
-      "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
+      "duration_ms": 207013,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/4TR6e2sBy2PzTnfu6MnLFD"
     },
     {
       "added_at": "2022-03-29 19:23:51",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-03-29 19:23:51",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/110rZdMmIjA335CehJJkuk"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 405120,
-      "name": "Historia de Taxi",
-      "url": "https://open.spotify.com/track/005Dlt8Xaz3DkaXiRJgdiS"
-    },
-    {
-      "added_at": "2022-03-29 19:23:51",
-      "album": {
         "name": "Todo Historias",
         "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
       },
@@ -567,22 +551,6 @@
       "duration_ms": 281226,
       "name": "Otra Como Tu",
       "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
-    },
-    {
-      "added_at": "2022-03-29 19:23:51",
-      "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 289600,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
     },
     {
       "added_at": "2022-03-29 19:23:51",
@@ -603,6 +571,22 @@
     {
       "added_at": "2022-03-29 19:23:51",
       "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 289600,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
+    },
+    {
+      "added_at": "2022-03-29 19:23:51",
+      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 291493,
       "name": "Vivir Sin Aire",
       "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
+    },
+    {
+      "added_at": "2022-03-29 19:23:51",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/110rZdMmIjA335CehJJkuk"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 405120,
+      "name": "Historia de Taxi",
+      "url": "https://open.spotify.com/track/005Dlt8Xaz3DkaXiRJgdiS"
     },
     {
       "added_at": "2022-03-29 19:23:51",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-03-29 19:23:51",
       "album": {
-        "name": "El Sapo",
-        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
-      },
-      "artists": [
-        {
-          "name": "Azul Azul",
-          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
-        }
-      ],
-      "duration_ms": 123960,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
-    },
-    {
-      "added_at": "2022-03-29 19:23:51",
-      "album": {
         "name": "Tierna La Noche",
         "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 281520,
       "name": "Az\u00facar Amargo",
       "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
+    },
+    {
+      "added_at": "2022-03-29 19:23:51",
+      "album": {
+        "name": "El Sapo",
+        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
+      },
+      "artists": [
+        {
+          "name": "Azul Azul",
+          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
+        }
+      ],
+      "duration_ms": 123960,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
     },
     {
       "added_at": "2022-03-29 19:23:51",

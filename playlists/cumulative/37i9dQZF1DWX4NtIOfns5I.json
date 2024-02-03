@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-07",
-  "description": "where folk flowers bloom.  cover: Briston Maroney \ud83e\udd8b",
+  "description": "where folk flowers bloom.  cover: Noah Kahan \ud83c\udf42",
   "name": "juniper",
   "tracks": [
     {
@@ -630,6 +630,24 @@
       "duration_ms": 195187,
       "name": "Die Slower",
       "url": "https://open.spotify.com/track/7lwqr6NGpzsYVZK5ovcyRr"
+    },
+    {
+      "album": {
+        "name": "Prequel",
+        "url": "https://open.spotify.com/album/3EkjlTMu4IDVHz759li7FO"
+      },
+      "artists": [
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168352,
+      "name": "Dirty Fire",
+      "url": "https://open.spotify.com/track/7Ktux01az60Et2QeCYu357"
     },
     {
       "album": {
@@ -1499,7 +1517,7 @@
     },
     {
       "album": {
-        "name": "Jesus Song (County Line)",
+        "name": "jesus song (county line)",
         "url": "https://open.spotify.com/album/39a2hRQJCgzJdZFVRQJIR5"
       },
       "artists": [
@@ -1512,7 +1530,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188576,
-      "name": "Jesus Song (County Line)",
+      "name": "jesus song (county line)",
       "url": "https://open.spotify.com/track/0sfqrYeRPs5tJISfVGQscT"
     },
     {
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 167623,
       "name": "silence,",
       "url": "https://open.spotify.com/track/6gIXFyfeHXanwtC5w6Ooz5"

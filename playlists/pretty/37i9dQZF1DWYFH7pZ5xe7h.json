@@ -1,12 +1,12 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 47849,
+  "num_followers": 47866,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWRlOTNiYjdlYzU2YjYxYWJmZjEwZGNjNjRkMGY5Y2FiNGY1OTA3",
+  "snapshot_id": "MCxhY2M5YWU2MTFkMWM5MzVmYTg4M2E5NWI5ODlmZGYwN2YxOGQxNjFh",
   "tracks": [
     {
       "added_at": "2022-06-27 09:16:34",
@@ -951,34 +951,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Orchestral Songs",
-        "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        },
-        {
-          "name": "Kent Nagano",
-          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Lieder eines fahrenden Gesellen: Wenn mein Schatz Hochzeit macht",
-      "url": "https://open.spotify.com/track/0xV23aZ72bfHsiniUjg9o9"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler, G.: Symphony No. 7",
         "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
       },
@@ -1023,6 +995,34 @@
       "duration_ms": 667800,
       "name": "Symphony No. 10 in F sharp (unfinished) - Ed. Deryck Cooke: 2. Scherzo",
       "url": "https://open.spotify.com/track/3t08w44vk6GJ3gttgYQTbc"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Orchestral Songs",
+        "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Lieder eines fahrenden Gesellen: Wenn mein Schatz Hochzeit macht",
+      "url": "https://open.spotify.com/track/0xV23aZ72bfHsiniUjg9o9"
     },
     {
       "added_at": "2022-06-27 09:16:34",

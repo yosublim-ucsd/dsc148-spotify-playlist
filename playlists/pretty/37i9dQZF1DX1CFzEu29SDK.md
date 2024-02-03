@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 
 > <a href="spotify:artist:7kNqXtgeIwFtelmRjWv205">John Summit</a>'s favorite tracks\. Curated by John Summit\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,570 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,628 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 | 26 | [i miss u \- John Summit Remix](https://open.spotify.com/track/34rmUwuihxQqiUAn3iHLvR) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [i miss u \(John Summit Remix\)](https://open.spotify.com/album/462dDIX3QlqM0X6knM7m1A) | 3:23 |
 | 27 | [Chase The Sun \- VIP](https://open.spotify.com/track/5KGDSRODIjVBAN040ovdQw) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Chase The Sun \(VIP\)](https://open.spotify.com/album/162y1Nz7mvmRpChNXHQNwu) | 4:01 |
 | 28 | [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 |
-| 29 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 |
+| 29 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 |
 | 30 | [La Danza](https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [La Danza](https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR) | 2:37 |
 | 31 | [Losing Control](https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Losing Control](https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB) | 2:45 |
 | 32 | [One Time](https://open.spotify.com/track/5Sq0xF5p4Wf8Cma4u8RLkp) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [One Time](https://open.spotify.com/album/4fd1UTfFav8SWtQyIcuUIu) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 | 49 | [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 |
 | 50 | [Fearing Love \- Club Mix](https://open.spotify.com/track/2fxUxJf0mVv7SENsdletUc) | [Damiano C](https://open.spotify.com/artist/1megb3uOaIwwINCguucNbY), [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP), [Camille Safiya](https://open.spotify.com/artist/0njiJOJRIXjXanWDLd586D) | [Fearing Love](https://open.spotify.com/album/6C40PL4H8Mn4pWadW4ZA6u) | 7:28 |
 
-Snapshot ID: `MCxkZmQ4N2Q5MDAwMzgyYTU2MTZlNGU0NDU2OTA4OTFjNzNiYTkzYzcw`
+Snapshot ID: `MCxiN2JiY2M2ODZlMGI1MTQzZTcyY2MxOGQ5YTkxZjkzN2RiYzlhZjkw`

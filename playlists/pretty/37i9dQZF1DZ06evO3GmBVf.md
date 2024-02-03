@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,132 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,337 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 39 | [Quien Te Viera](https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Avion de Papel](https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9) | 3:14 |
 | 40 | [Mi Camino](https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mi Camino](https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v) | 3:37 |
 | 41 | [Voy Por El Oro](https://open.spotify.com/track/5C3siAP7m7PCQgxFaDFYNR) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Voy Por El Oro](https://open.spotify.com/album/758TpUvJbvcx7esTYZZcz9) | 5:10 |
-| 42 | [Soledad](https://open.spotify.com/track/1OAtkMjjiZ46ZXYN0rrCGE) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Soledad](https://open.spotify.com/album/7qjCJhOgyBd9bVyksyDH1z) | 4:08 |
-| 43 | [Sirenas Lloran](https://open.spotify.com/track/5t2ct5VNHfUxIXXBmW7Xl9) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Sirenas Lloran](https://open.spotify.com/album/1rxvqLEQcxnTj1krmAFWC8) | 4:25 |
+| 42 | [Sirenas Lloran](https://open.spotify.com/track/5t2ct5VNHfUxIXXBmW7Xl9) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Sirenas Lloran](https://open.spotify.com/album/1rxvqLEQcxnTj1krmAFWC8) | 4:25 |
+| 43 | [Soledad](https://open.spotify.com/track/1OAtkMjjiZ46ZXYN0rrCGE) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Soledad](https://open.spotify.com/album/7qjCJhOgyBd9bVyksyDH1z) | 4:08 |
 | 44 | [Te Esfumarás](https://open.spotify.com/track/1hLQwcyUVVUlIvsGuCoTmI) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Te Esfumarás](https://open.spotify.com/album/3mmcWVrOrsAKfcgzJ95K8v) | 3:21 |
 | 45 | [Click Clack](https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Chain Trackz](https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM) | [Click Clack](https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE) | 2:58 |
 | 46 | [Soy Mercenario](https://open.spotify.com/track/1YQf6cJ5XXlF7AgvrI8CRr) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:09 |
 | 47 | [Alzypher Vol\. 1](https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv) | [Alzypher Vol\. 1](https://open.spotify.com/album/4DUkuTeI0yoBSvFaj1YKDH) | 4:48 |
-| 48 | [Orgullo Café](https://open.spotify.com/track/6beXs35DoHlGfudHu071EC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Orgullo Café](https://open.spotify.com/album/3pTN4HzDOG1tBzHWKSnvDC) | 3:33 |
-| 49 | [Suena En Mi Barrio](https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suena En Mi Barrio](https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c) | 3:53 |
+| 48 | [Suena En Mi Barrio](https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suena En Mi Barrio](https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c) | 3:53 |
+| 49 | [Orgullo Café](https://open.spotify.com/track/6beXs35DoHlGfudHu071EC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Orgullo Café](https://open.spotify.com/album/3pTN4HzDOG1tBzHWKSnvDC) | 3:33 |
 | 50 | [Pacas](https://open.spotify.com/track/7p79Gg3qf9kEjV6CzQrdzI) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Pacas](https://open.spotify.com/album/4B4NiS8veDy5MdUB0GmBn1) | 3:03 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDBiYzdkZDkwYzY5NDhhOTViYzQyNjk4NjlkZjdmYmIwNQ==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDA4Yzg0ZjkwMzdkNzkyNzA4YjA0MWU1NzgxZjM4ZTczNQ==`

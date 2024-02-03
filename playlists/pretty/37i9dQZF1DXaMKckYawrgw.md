@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > ¡Ska 100% Mexicano, círculos de paz y baile! Out Of Control Army en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,802 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,804 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 20 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 |
 | 21 | [Skápate](https://open.spotify.com/track/1vLn1lpgNJTHLcLSJqLEK0) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Julieta Venegas](https://open.spotify.com/artist/0r0eibQp01HGqJ2G5ZI7ZC), [Cheko Biloba](https://open.spotify.com/artist/15Iv3aQ1jLdyRLvbJ5Vdo2), [Dr\. Shenka](https://open.spotify.com/artist/4y4EPNQdZnWTw0XoNWF7c1) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:37 |
 | 22 | [Tonta Canción](https://open.spotify.com/track/4pDzQqqrKqeB6XewwVo2d3) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Libres Y Locos](https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E) | 3:42 |
-| 23 | [Total](https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:16 |
+| 23 | [Tu Que Pediras](https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 3:44 |
 | 24 | [La Carencia](https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:33 |
-| 25 | [Tu Que Pediras](https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 3:44 |
+| 25 | [Total](https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:16 |
 | 26 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
 | 27 | [War 4 Peace](https://open.spotify.com/track/3beXppvBycZ5qD0ZNpRiXb) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Diego Benlliure](https://open.spotify.com/artist/632hZrvw4igilYgJr25TNF), [José Grela](https://open.spotify.com/artist/6asUVMkGHy6e5CeyRtygEn) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:26 |
 | 28 | [Fantasma de la Rana](https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 3:57 |
@@ -82,13 +82,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 72 | [Psicótico](https://open.spotify.com/track/2UIKtXDPfydvJTQunrum7H) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Psicótico](https://open.spotify.com/album/1EqLEKvEuAyL0oZqYcBHVP) | 2:56 |
 | 73 | [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 |
 | 74 | [Mala](https://open.spotify.com/track/5zXXVxHZdPQwFAh0OQ7VD6) | [El Guato](https://open.spotify.com/artist/4sZOc9lOvHRcL9Zs9lQbFQ) | [Mala](https://open.spotify.com/album/4viAQXKH3Jq3zHMlCS5eIT) | 3:28 |
-| 75 | [Rudy Rude Boy](https://open.spotify.com/track/0knRFhZtR19PH5qteuV778) | [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [Vatos Rudos Forever! \(1994\-2014\)](https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt) | 3:30 |
-| 76 | [Me Amborracho](https://open.spotify.com/track/7akA6GnMQrTGrnUHWokYG7) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Entre Marzo Y Abril](https://open.spotify.com/album/5Pj2lJ790IKbuxXCFRan3h) | 3:17 |
+| 75 | [Me Amborracho](https://open.spotify.com/track/7akA6GnMQrTGrnUHWokYG7) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Entre Marzo Y Abril](https://open.spotify.com/album/5Pj2lJ790IKbuxXCFRan3h) | 3:17 |
+| 76 | [Rudy Rude Boy](https://open.spotify.com/track/0knRFhZtR19PH5qteuV778) | [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [Vatos Rudos Forever! \(1994\-2014\)](https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt) | 3:30 |
 | 77 | [Mi Chica Ideal](https://open.spotify.com/track/4VaIJ0IyODvob50CWAgYiX) | [Baby Aventurero](https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs), [Pepe Grela](https://open.spotify.com/artist/6XENWUH8sbcMMKNf37O1eZ) | [Mi Chica Ideal](https://open.spotify.com/album/0VSazinx299J4PqvRkJZ0S) | 3:39 |
 | 78 | [Tiempos Rudos](https://open.spotify.com/track/5qht8RdY5udwYthby8sgGT) | [Pánico Latino](https://open.spotify.com/artist/4vU814JP2hKv5D3kJD6ozf) | [Panico Latino](https://open.spotify.com/album/7qkoi8d0QgZxt8kzFmg3Zt) | 3:49 |
 | 79 | [Somos](https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr) | [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [Somos](https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA) | 2:25 |
-| 80 | [Tema de la Parranda Magna](https://open.spotify.com/track/5er1BnXaAYIQsbtS9vruUZ) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [Nunca Nos Compusimos](https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up) | 4:00 |
-| 81 | [Sweet Loneliness](https://open.spotify.com/track/2Cn1tMwzh9CIss44E57mwj) | [Travelers All Stars](https://open.spotify.com/artist/7DZB5WWuNnc86cwhzv7Uuj) | [Birth of the Fourth Wave of Ska](https://open.spotify.com/album/2yeVq9vmJ4Xto4Lnqjw6eB) | 4:09 |
+| 80 | [Sweet Loneliness](https://open.spotify.com/track/2Cn1tMwzh9CIss44E57mwj) | [Travelers All Stars](https://open.spotify.com/artist/7DZB5WWuNnc86cwhzv7Uuj) | [Birth of the Fourth Wave of Ska](https://open.spotify.com/album/2yeVq9vmJ4Xto4Lnqjw6eB) | 4:09 |
+| 81 | [Tema de la Parranda Magna](https://open.spotify.com/track/5er1BnXaAYIQsbtS9vruUZ) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [Nunca Nos Compusimos](https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up) | 4:00 |
 | 82 | [Que te vaya bien](https://open.spotify.com/track/6Td4LDJch1EraQYeYN059A) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Que te vaya bien](https://open.spotify.com/album/3kTb1R0C7ENAQdS6ZTbeCp) | 2:54 |
 | 83 | [Jamaica Ska](https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Jamaica Ska](https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq) | 2:15 |
 | 84 | [Gata bajo la lluvia](https://open.spotify.com/track/0J2iP4xkhj6ZlQQ4mKndON) | [Los Tianguis](https://open.spotify.com/artist/1fa3AKOYR1d4MDrnPKoYxG) | [Para Toda la Galaxia vol\. 2](https://open.spotify.com/album/6luxn1l5vG8abhh9whh37a) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 99 | [Lamento Egipcio](https://open.spotify.com/track/1FPDoLtvmAX1bWzuNWKRJG) | [Módulo Ghetto](https://open.spotify.com/artist/7LC3IkN0ds990xsji4GrhM) | [Lamento Egipcio](https://open.spotify.com/album/6UjC13m2EheNOtFdU5ayVd) | 3:53 |
 | 100 | [Felicidad](https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 5:04 |
 
-Snapshot ID: `MCxkOWIzZDZmZWI2ZGNlNmFiZDdkZDE3NmZiZGUwNmIzZjEwMmU0MTlk`
+Snapshot ID: `MCxhMDQyZWE1YmNkYjMzZTAxNWM2MjQyNzAzNTlhMDZjNWI0MDk2YjY4`

@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-359 songs - 18 hr 3 min
+362 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Consciousness](https://open.spotify.com/track/15uIB4knR9Okuy4OBNRNV6) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Mindful Sleep](https://open.spotify.com/album/2kFyWqR5s7lvq8uNYGx6mj) | 4:02 | 2022-07-05 |  |
 | [Consonance](https://open.spotify.com/track/6wumg3aZYgGbInRSN8S9g5) | [Blake Tyber](https://open.spotify.com/artist/4vbBZNG20uRReoBN64izRQ) | [Consonance](https://open.spotify.com/album/0yKguZ6t1oKjlFSDYkDuzF) | 3:02 | 2022-11-11 |  |
 | [Constellation](https://open.spotify.com/track/0HXhHWPuWIPELWMv5eXFaJ) | [Forsintha](https://open.spotify.com/artist/3YPvZWXdCmGaEVkMoCFYML) | [Constellation](https://open.spotify.com/album/4YiORfD4wrMrqLnPqdAU32) | 3:01 | 2023-12-01 |  |
+| [Crescent Moon](https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Crescent Moon](https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD) | 3:46 | 2024-02-02 |  |
 | [darker area](https://open.spotify.com/track/5zIMS6F6nMXAl4Jt1xu39L) | [Fluvis](https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX) | [darker area](https://open.spotify.com/album/2BsZnscrvvgIvlqHWyCjf7) | 3:38 | 2022-08-05 |  |
 | [Daydream In Silver](https://open.spotify.com/track/3YJ1eWImuJhcpDUEIatzy3) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Daydream In Silver](https://open.spotify.com/album/0W2X2Yarkdype9wknwGETD) | 2:36 | 2022-07-05 | 2023-02-10 |
 | [Departure](https://open.spotify.com/track/0bhLghTqOh2BqW8XJlcHTn) | [Vendela Rose](https://open.spotify.com/artist/31fLMu6uyged4QpGx1VqA0) | [Departure](https://open.spotify.com/album/7vJaAQ8mCpUdLpliV5dTWT) | 3:01 | 2022-07-05 |  |
@@ -317,6 +318,7 @@
 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 | 2022-07-05 |  |
 | [Stillness](https://open.spotify.com/track/3HBY9kD6UISZDwjto7e8bh) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Reflections](https://open.spotify.com/album/1z0vCXugB5Wur3hxjCXJOA) | 4:15 | 2022-07-05 |  |
 | [Stressophobic](https://open.spotify.com/track/6O6CClNFRAQ9Y2wB3t2g84) | [Phobic](https://open.spotify.com/artist/4pgvre1wDhGGmEbjevWClj) | [Stressophobic](https://open.spotify.com/album/4viW8FRpQz928WnCqe2NME) | 2:52 | 2023-11-24 |  |
+| [Sublime Worlds](https://open.spotify.com/track/4STFgLLAdhMBPeDv3FlnQA) | [Lofty Escape](https://open.spotify.com/artist/3VlqOVcIiqnACv20YHvqZe) | [Sublime Worlds](https://open.spotify.com/album/4VsUbjQBypb4C6XF1iq73o) | 2:26 | 2024-02-02 |  |
 | [Submerged](https://open.spotify.com/track/0FaCS30JAXH9ntYh3TcF31) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Liquid Universe](https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq) | 3:01 | 2022-07-05 |  |
 | [Sunset.](https://open.spotify.com/track/1af0Bl1E6TP3b6lknIVXVD) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Sunset.](https://open.spotify.com/album/6dFq4LUUF73048fcshZaM3) | 2:24 | 2022-07-05 | 2022-07-29 |
 | [Sunset.](https://open.spotify.com/track/6lRV39qhxzzpDYrS4zAHfl) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Sunset.](https://open.spotify.com/album/5lI7kyTtOIKYNpN7NL9uqa) | 2:24 | 2022-07-05 |  |
@@ -349,6 +351,7 @@
 | [Uspavan](https://open.spotify.com/track/4KTCqhkTkLafpaFgvMrcRO) | [Sasja Lekko](https://open.spotify.com/artist/7ATzYoA7oClSlgx6kyDleF) | [Uspavan](https://open.spotify.com/album/7I35AiZV5zZ2DvisGRw0lg) | 2:33 | 2022-07-05 |  |
 | [Uspokój Się](https://open.spotify.com/track/2z34pTQJgLNiGpRKxmUOMi) | [Idzi Kowalczyk](https://open.spotify.com/artist/5rmln9rtcpJK2jz9QDvmYa) | [Uspokój Się](https://open.spotify.com/album/4PeVjbOTQOkqEAEtMtyG84) | 3:25 | 2022-07-05 |  |
 | [Vaikne](https://open.spotify.com/track/2vu8kAPw2W0gVKrK68YR5P) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Vaikne](https://open.spotify.com/album/0iej0wwEJwhbKyUlYEhv5F) | 2:58 | 2022-07-05 |  |
+| [Velvet Stills](https://open.spotify.com/track/1gUN01HfuzSG2OZpbuQ4be) | [Ana Costa](https://open.spotify.com/artist/3PXd3y6WyVDbpmIUHtrTbu) | [Velvet Stills](https://open.spotify.com/album/0HgmMD6baTPinbd8pwifBC) | 2:26 | 2024-02-02 |  |
 | [Virtue](https://open.spotify.com/track/7Kj3qcUmuEAWb5bMjqoRdm) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Way of Life](https://open.spotify.com/album/2WJ3Et6BMjC0ePyPbsEAQc) | 2:44 | 2022-07-05 | 2022-11-23 |
 | [Walk With Me](https://open.spotify.com/track/3YyKA6exm6z8Y0GgFBefdm) | [Ambient Solle](https://open.spotify.com/artist/34ScNK2ccDxZim8TVcqWXT) | [Walk With Me](https://open.spotify.com/album/1jYIfOGqyznLpCrd2S1noV) | 3:16 | 2022-07-05 | 2023-04-07 |
 | [Waterscape](https://open.spotify.com/track/658YiYn225yaKMIkll7V7o) | [The Glass Arcade](https://open.spotify.com/artist/43ZVxJYgUlWueA0kKDTnoC) | [Waterscape](https://open.spotify.com/album/2TSl3cvh0VOk1ef80PmoYt) | 2:33 | 2022-07-05 | 2022-07-29 |

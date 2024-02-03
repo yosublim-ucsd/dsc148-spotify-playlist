@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Honduras.
 
-1,677 songs - 3 day 21 hr 49 min
+1,679 songs - 3 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-06-08 | 2022-11-16 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-09-20 | 2022-12-20 |
 | [Caminando Por Tegucigalpa](https://open.spotify.com/track/0jkwlTQDffmHaDoHUbwJw1) | [Los Speed](https://open.spotify.com/artist/1ZmDf9SfaL49Efe6oXxUca) | [Musica Hondureña Tradicional](https://open.spotify.com/album/2mMVSbiHI9XCP6GgNYNk4r) | 2:50 | 2022-12-25 | 2024-01-03 |
+| [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 | 2024-02-02 |  |
 | [Can I Call You Tonight?](https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 4:38 | 2022-06-24 | 2022-06-26 |
 | [Can You Hear The Music](https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 1:50 | 2023-08-29 | 2023-08-31 |
 | [Canción Sin Miedo](https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ) | 3:33 | 2022-03-10 | 2023-03-18 |
@@ -356,6 +357,7 @@
 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2022-08-30 | 2022-10-01 |
 | [DAME](https://open.spotify.com/track/5yocaqYG38qpSSxV1t0o3D) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:51 | 2023-02-14 | 2023-03-01 |
 | [Dame Amor](https://open.spotify.com/track/5pzdnCfGS2uz5XjXx6gem3) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Dame Amor](https://open.spotify.com/album/5ahfnUbjVFr0dxwZYJLcHs) | 3:29 | 2023-09-30 | 2023-11-01 |
+| [Dame Beso // Muévete](https://open.spotify.com/track/21RAJfkAbaq85RWJQWoxkx) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:35 | 2024-02-02 |  |
 | [Dame un Beso y Dime Adios \- En Vivo](https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:59 | 2023-01-10 | 2023-02-15 |
 | [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 | 2023-06-04 | 2023-06-21 |
 | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-06-20 | 2023-08-03 |
@@ -566,8 +568,8 @@
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-04-25 | 2023-05-17 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-02-07 | 2023-03-08 |
 | [Fly](https://open.spotify.com/track/11OKVNHtZ142qLNF9rWYNK) | [Angel Zuniga](https://open.spotify.com/artist/5gk6PDVVuqkVKYV48ht9To), [KBP EL ALIEN](https://open.spotify.com/artist/4O6h6daISMFjWaM9xqJxAM) | [Fly](https://open.spotify.com/album/0Ss2Xdc36P9dgXCu0FfglU) | 2:59 | 2023-12-05 | 2023-12-09 |
-| [Fly](https://open.spotify.com/track/17wZYqV156CQfuWqWV3nbb) | [KBP EL ALIEN](https://open.spotify.com/artist/4O6h6daISMFjWaM9xqJxAM) | [Fly](https://open.spotify.com/album/2DQXTmVeFKns0zjhT9OZNC) | 2:43 | 2023-12-12 |  |
-| [FLY HIGHH](https://open.spotify.com/track/0tr4QmSTXDBOrrqkOV26Gt) | [KBP EL ALIEN](https://open.spotify.com/artist/4O6h6daISMFjWaM9xqJxAM) | [FLY HIGHH](https://open.spotify.com/album/0X8Dx0VUpMvB9uB4VOfzbr) | 2:41 | 2023-12-12 |  |
+| [Fly](https://open.spotify.com/track/17wZYqV156CQfuWqWV3nbb) | [KBP EL ALIEN](https://open.spotify.com/artist/4O6h6daISMFjWaM9xqJxAM) | [Fly](https://open.spotify.com/album/2DQXTmVeFKns0zjhT9OZNC) | 2:43 | 2023-12-12 | 2024-02-03 |
+| [FLY HIGHH](https://open.spotify.com/track/0tr4QmSTXDBOrrqkOV26Gt) | [KBP EL ALIEN](https://open.spotify.com/artist/4O6h6daISMFjWaM9xqJxAM) | [FLY HIGHH](https://open.spotify.com/album/0X8Dx0VUpMvB9uB4VOfzbr) | 2:41 | 2023-12-12 | 2024-02-03 |
 | [For Us](https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:51 | 2023-09-28 | 2023-09-30 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-09-09 | 2022-09-11 |
 | [Fornico Rico](https://open.spotify.com/track/1jI71LjN5l5sA03XEMszel) | [ETS cartel](https://open.spotify.com/artist/1IggSGDJR8YsaahJlTluAz) | [Fornico Rico](https://open.spotify.com/album/2Qokhp1LvFz0aJbtYfbPnC) | 2:03 | 2023-06-27 | 2023-07-05 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. ",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Nico Valdi, RUGGERO & Bernardita Sonzini.",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 172429,
       "name": "7 Mares",
       "url": "https://open.spotify.com/track/3easejp1MqvARrN95kQrZI"
@@ -224,7 +224,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 155843,
       "name": "Ahora Que No Te Tengo",
       "url": "https://open.spotify.com/track/59FrYnRQIPpCtnJ7LOxx49"
@@ -520,6 +520,24 @@
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
     },
     {
       "album": {
@@ -3051,6 +3069,50 @@
     },
     {
       "album": {
+        "name": "Ni 1 Complejo",
+        "url": "https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174580,
+      "name": "Ni 1 Complejo",
+      "url": "https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1"
+    },
+    {
+      "album": {
+        "name": "Nico Valdi produciendo a Ruggero y Bernardita",
+        "url": "https://open.spotify.com/album/33ekTyVf1xcrbvEof3WClm"
+      },
+      "artists": [
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        },
+        {
+          "name": "RUGGERO",
+          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
+        },
+        {
+          "name": "Bernardita Sonzini",
+          "url": "https://open.spotify.com/artist/1Sdd0GHzVVAXY9nZOuvsrL"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163124,
+      "name": "Nico Valdi produciendo a Ruggero y Bernardita",
+      "url": "https://open.spotify.com/track/08S5L7YbAGwNxDJJ9yU9ZK"
+    },
+    {
+      "album": {
         "name": "No Llores",
         "url": "https://open.spotify.com/album/6zpDRrBwXyaJLHGW4cApxj"
       },
@@ -3204,7 +3266,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 266840,
       "name": "Obsesionario en La Mayor",
       "url": "https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB"

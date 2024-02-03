@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 30912,
+  "2024-02-03": 30911,
   "date_first_scraped": "2021-12-21",
   "description": "Svensk jazz n\u00e4r den \u00e4r som b\u00e4st.",
   "name": "Svensk jazz",
@@ -1109,6 +1109,24 @@
       "duration_ms": 225340,
       "name": "Hallonsommar",
       "url": "https://open.spotify.com/track/6d28xWKGgk9il20hrmclFy"
+    },
+    {
+      "album": {
+        "name": "Hands Off",
+        "url": "https://open.spotify.com/album/7fRrrDob3OiR8Q8O4IFpFy"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263600,
+      "name": "Hands Off",
+      "url": "https://open.spotify.com/track/2qu8K7kFsLe19yUCVcWfna"
     },
     {
       "album": {

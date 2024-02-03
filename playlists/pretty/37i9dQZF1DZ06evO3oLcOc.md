@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,106 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,135 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 30 | [California \(from Songland\) \(feat\. Tyga\)](https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [California \(from Songland\) \(feat\. Tyga\)](https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf) | 2:55 |
 | 31 | [Main One \(feat\. Tyga\)](https://open.spotify.com/track/2nB44lzuvxp40hNMkT6BZj) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Main One \(feat\. Tyga\)](https://open.spotify.com/album/3poW1IiF8t9MNcrk2CgJWF) | 3:19 |
 | 32 | [Switch Lanes](https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [Hotel California \(Deluxe\)](https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7) | 3:41 |
-| 33 | [Hookah](https://open.spotify.com/track/3qQ6WFhcAx6LOH1UHz1c0U) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hookah](https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG) | 3:22 |
-| 34 | [Lightskin Lil Wayne](https://open.spotify.com/track/1zZEly0sLmyDm75c1pAqYf) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 2:33 |
+| 33 | [Lightskin Lil Wayne](https://open.spotify.com/track/1zZEly0sLmyDm75c1pAqYf) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 2:33 |
+| 34 | [Hookah](https://open.spotify.com/track/3qQ6WFhcAx6LOH1UHz1c0U) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hookah](https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG) | 3:22 |
 | 35 | [West Coast Weekend](https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [West Coast Weekend](https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25) | 3:19 |
 | 36 | [Sheikh Talk](https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sheikh Talk](https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi) | 2:40 |
 | 37 | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 49 | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ) | [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz) | 3:16 |
 | 50 | [Thumpin](https://open.spotify.com/track/5mA0smotoPkiLuXDKOIYDB) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Hit Me When U Leave The Klub: The Playlist](https://open.spotify.com/album/46ewpqal8NF1SSkarlK7FZ) | 2:41 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDA2OWE5ZTQ2ODQ3Y2Q1MmY1ZDdlMTlkNWU3YjQxMDhkZQ==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDA2ZmQ4NWM2ZjEwNzIyMzRkNjYyZTJhNWFiYTRlOTZmZg==`

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 741750,
+  "num_followers": 741949,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTgzNmZlZTRiNjQ4MWQzOGNmMjcyNmQxY2UxMDVlNmUwMTkzNzVl",
+  "snapshot_id": "MCxmZGRkNWMxN2M2N2YzMjI2ZGZiMjVjNjNmY2VkN2FkMDExMTE5Zjk1",
   "tracks": [
     {
       "added_at": "2024-01-12 03:00:00",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "pa quererte",
+        "url": "https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "pa quererte",
+      "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "Cama Incendiada",
         "url": "https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 272576,
       "name": "Mi Verdad (feat. Shakira)",
       "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "pa quererte",
-        "url": "https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "pa quererte",
-      "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Peluson Of Milk",
-        "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Seguir Viviendo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "SHORTY QUE TE VAYA BN <3",
         "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 219681,
       "name": "SHORTY QUE TE VAYA BN <3",
       "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Peluson Of Milk",
+        "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Seguir Viviendo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -407,6 +407,26 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "Nota",
+        "url": "https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 159482,
+      "name": "Nota",
+      "url": "https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "TOCO Y ME VOY",
         "url": "https://open.spotify.com/album/0bvRbFXgJO6qOGTCSP53qj"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 226082,
       "name": "TOCO Y ME VOY",
       "url": "https://open.spotify.com/track/7jiZV8G6LpEGdiPY2zs6BV"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "Nota",
-        "url": "https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 159482,
-      "name": "Nota",
-      "url": "https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 289654,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Comfort Y Musica Para Volar",
         "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 247000,
       "name": "Te Para 3 - MTV Unplugged",
       "url": "https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 289654,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 256190,
-      "name": "M\u00edrenla",
-      "url": "https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 319393,
       "name": "Chau",
       "url": "https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 256190,
+      "name": "M\u00edrenla",
+      "url": "https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
-      },
-      "artists": [
-        {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 273306,
       "name": "Pronta Entrega",
       "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "MORFEO",
-        "url": "https://open.spotify.com/album/2EQEyysFgYJwR1H2XpJDr3"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 233046,
-      "name": "MORFEO",
-      "url": "https://open.spotify.com/track/44fsHeGMWo6WgucLYeyONa"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Clandestino",
         "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 240013,
       "name": "Tan Solo",
       "url": "https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "MORFEO",
+        "url": "https://open.spotify.com/album/2EQEyysFgYJwR1H2XpJDr3"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 233046,
+      "name": "MORFEO",
+      "url": "https://open.spotify.com/track/44fsHeGMWo6WgucLYeyONa"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 250357,
-      "name": "Personalmente",
-      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Lobo Suelto",
         "url": "https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 231533,
       "name": "Un \u00c1ngel para Tu Soledad",
       "url": "https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 250357,
+      "name": "Personalmente",
+      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 202063,
+      "name": "A Las Nueve",
+      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 202063,
-      "name": "A Las Nueve",
-      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Qui\u00e9reme As\u00ed",
-        "url": "https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN"
+        "name": "Mejor Que Nunca",
+        "url": "https://open.spotify.com/album/0MIp2J88uFC5z0y00SmmdT"
       },
       "artists": [
         {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+          "name": "Los Manseros Santiague\u00f1os",
+          "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
         }
       ],
-      "duration_ms": 188193,
-      "name": "Qui\u00e9reme As\u00ed",
-      "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
+      "duration_ms": 221986,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/4fhQ48hixjThGi2za030We"
     },
     {
       "added_at": "2024-01-12 03:00:00",

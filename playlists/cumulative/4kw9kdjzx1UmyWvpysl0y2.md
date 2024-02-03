@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-649 songs - 1 day 13 hr 37 min
+650 songs - 1 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [Rays](https://open.spotify.com/track/72tvo13t5mUarSFhYfU4aG) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Rays](https://open.spotify.com/album/57mAquqvqkTjkPTkpOjAsh) | 2:30 | 2022-05-25 | 2022-08-05 |
 | [Read Your Lips](https://open.spotify.com/track/7Hvefk37fvqZBtnDlp6ux9) | [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Read Your Lips](https://open.spotify.com/album/4a3UmNTVGw42B39bLhKfZb) | 3:27 | 2021-11-19 | 2022-01-25 |
 | [Ready To Love](https://open.spotify.com/track/6RTM82pEYPtRegOTMGz1Ss) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Ready To Love](https://open.spotify.com/album/2OgjdtV1Yx8avKj30CvPpy) | 2:25 | 2023-09-13 | 2024-01-11 |
+| [Real Girls](https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Star City](https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv) | 3:12 | 2024-02-02 |  |
 | [Reason](https://open.spotify.com/track/62BS0SmeL2LGgpiTTcFYQ0) | [Danny Leax](https://open.spotify.com/artist/7LhadozhnDqlnrs6thTnIu), [Reeva](https://open.spotify.com/artist/6O0oqZZ8xqHnFmzdjhZg6r) | [Reason](https://open.spotify.com/album/1j6JOatRilhTi6yfM7ZEnQ) | 2:44 | 2022-09-19 | 2022-11-15 |
 | [Red](https://open.spotify.com/track/2yZDl0edy9OfH2a8W9ynbK) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Red](https://open.spotify.com/album/5NSzBQyB8v5YpVeePihtP2) | 3:26 | 2022-07-15 | 2022-09-29 |
 | [Remedy](https://open.spotify.com/track/1A7abr0cUK9WZRO4AjT0UQ) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Remedy](https://open.spotify.com/album/2RfxoMmdN94qeqmbfSGsaz) | 2:35 | 2022-04-26 | 2022-07-07 |
@@ -477,7 +478,7 @@
 | [roadtrip](https://open.spotify.com/track/3HAYDWCgHiQ0j7RK5qaohM) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 2](https://open.spotify.com/album/5AUfHGT7BVlsxHPQCdlHmG) | 2:28 | 2022-05-13 | 2022-07-23 |
 | [Roots](https://open.spotify.com/track/3jOlncv2CNZ6v1479wYk4z) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Roots](https://open.spotify.com/album/3GC5RAYvVkAAQrYEs1S3sF) | 3:32 | 2023-08-15 | 2023-12-14 |
 | [Royalty](https://open.spotify.com/track/6tHBSeIAH5l9o9MjZLl9MJ) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Royalty](https://open.spotify.com/album/0CEQ62V2Ip0bXpVhhNYiPQ) | 2:57 | 2022-09-01 | 2022-11-05 |
-| [Ruin U](https://open.spotify.com/track/6fvdPHXZnUl9UX2OgoT7Cq) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [Ruin U](https://open.spotify.com/album/0p7pEsAnu9yH75AnwlkMPg) | 3:15 | 2023-10-20 |  |
+| [Ruin U](https://open.spotify.com/track/6fvdPHXZnUl9UX2OgoT7Cq) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [Ruin U](https://open.spotify.com/album/0p7pEsAnu9yH75AnwlkMPg) | 3:15 | 2023-10-20 | 2024-02-03 |
 | [Running Faster](https://open.spotify.com/track/1eJyFR21xkbS6JJIt5PUCH) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr), [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [Running Faster](https://open.spotify.com/album/1XRiyMmGXUtzboy9peGHoe) | 3:51 | 2022-03-02 | 2022-05-13 |
 | [Rush](https://open.spotify.com/track/2CO0oj3F0zhFQwKjKD7H5h) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Rush](https://open.spotify.com/album/4kCmOv70f0zmMMS3rLYhIR) | 2:31 | 2023-06-14 | 2023-09-26 |
 | [Safer Place](https://open.spotify.com/track/3bEcHt8DDUMvK67yrd35Qy) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [LUX](https://open.spotify.com/artist/1xNeaOaf8khvhnxCU4TWcJ) | [Safer Place / Work My Body](https://open.spotify.com/album/473D1rbKmLyh3LtP92FHzs) | 2:52 | 2023-06-21 | 2023-09-26 |

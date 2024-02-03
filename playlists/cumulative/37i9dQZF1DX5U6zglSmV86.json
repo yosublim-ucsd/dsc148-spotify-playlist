@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "Camino Firme",
+        "url": "https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY"
+      },
+      "artists": [
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142417,
+      "name": "Camino Firme",
+      "url": "https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa"
+    },
+    {
+      "album": {
         "name": "Capos de Profesi\u00f3n",
         "url": "https://open.spotify.com/album/2kZW84L12OFSrz0sgcJLWx"
       },
@@ -1091,6 +1109,32 @@
     },
     {
       "album": {
+        "name": "La Pelicula",
+        "url": "https://open.spotify.com/album/1s8hOQjbODn7oVYR9z34eK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Sanchez",
+          "url": "https://open.spotify.com/artist/3k5rImFtCiBe7sgbdQr12B"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169875,
+      "name": "La Pelicula",
+      "url": "https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT"
+    },
+    {
+      "album": {
         "name": "La Sombra",
         "url": "https://open.spotify.com/album/2OEksELjCabVES5tiWoXcN"
       },
@@ -1500,6 +1544,32 @@
       "duration_ms": 330230,
       "name": "No Cambio",
       "url": "https://open.spotify.com/track/4JU0mlUVCsyjAsDU5Y9GdZ"
+    },
+    {
+      "album": {
+        "name": "No la Cuajan",
+        "url": "https://open.spotify.com/album/0ZocA4gh4Md892U4yfffV5"
+      },
+      "artists": [
+        {
+          "name": "Carlos Blanco",
+          "url": "https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod"
+        },
+        {
+          "name": "Deivy Js",
+          "url": "https://open.spotify.com/artist/5xJTchfXd18DmIKirBNjUy"
+        },
+        {
+          "name": "Jauria Santa",
+          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224475,
+      "name": "No la Cuajan",
+      "url": "https://open.spotify.com/track/6el7zTw2nFZn7TxW0IRZGQ"
     },
     {
       "album": {

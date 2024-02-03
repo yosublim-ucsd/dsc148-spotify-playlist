@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258630,
+      "name": "Permanecer\u00e9 En T\u00ed",
+      "url": "https://open.spotify.com/track/1JSo33oU2B2DdC0eFv6TBo"
+    },
+    {
+      "album": {
         "name": "Tu Nos Salvar\u00e1s",
         "url": "https://open.spotify.com/album/6Y9XV3wB6uILdjHfHy6Aat"
       },

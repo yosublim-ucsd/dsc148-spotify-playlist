@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 158868,
+  "2024-02-03": 158947,
   "date_first_scraped": "2022-05-01",
   "description": "Soundtrack your cozy dinner with bossa nova jazz.",
   "name": "Bossa Nova Dinner",
@@ -691,6 +691,24 @@
       "duration_ms": 278100,
       "name": "Cape Cod Stargazing",
       "url": "https://open.spotify.com/track/10U4uhGvjy4Sai2Hfkzuh6"
+    },
+    {
+      "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/16ucl1JzaaDVmMXFqeYnWP"
+      },
+      "artists": [
+        {
+          "name": "Goblin Quartet",
+          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/4iOqSgvp753MBixwpuQFtn"
     },
     {
       "album": {
@@ -2689,6 +2707,24 @@
       "duration_ms": 170418,
       "name": "Strangers in the Night",
       "url": "https://open.spotify.com/track/4oulAJLw1DSMKERkIQDFG8"
+    },
+    {
+      "album": {
+        "name": "Sunny Days",
+        "url": "https://open.spotify.com/album/5hf4XdvIIGdEncCv8VTRC6"
+      },
+      "artists": [
+        {
+          "name": "Nordic Quartet",
+          "url": "https://open.spotify.com/artist/6XhjDLFPmCbhposdUMoJvM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/1Y3KYcdgspQnyHqCPQWbcF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,154 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,161 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 52 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |
 | 53 | [where everything flows](https://open.spotify.com/track/538R9PAQnL8X0HYXI5qkwL) | [soma](https://open.spotify.com/artist/6dNAZOcDVPSzljRFMIwwE0) | [where everything flows](https://open.spotify.com/album/5yRbFKcUudsp4arLIbwlfP) | 2:48 |
 | 54 | [泡 \(ALBUM ver.\)](https://open.spotify.com/track/1RVHkDoAuGib7L8b9c2tBz) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 4:35 |
-| 55 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 |
-| 56 | [Letting Go](https://open.spotify.com/track/5PTZ3ef9lHE6YJqxp9nhh9) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Letting Go](https://open.spotify.com/album/6i9Q0J3gdMhjra2NRrb5B4) | 3:29 |
+| 55 | [Letting Go](https://open.spotify.com/track/5PTZ3ef9lHE6YJqxp9nhh9) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Letting Go](https://open.spotify.com/album/6i9Q0J3gdMhjra2NRrb5B4) | 3:29 |
+| 56 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 |
 | 57 | [黄昏のワルツ](https://open.spotify.com/track/3icP9Lq6SWh3n2Dq0fYBzJ) | [Taro Hakase](https://open.spotify.com/artist/6vJFQLD25Df5uZW77gVv0k) | [My Favorite Songs](https://open.spotify.com/album/0qrZGRDb1jfDjQfNt0CkdX) | 3:29 |
 | 58 | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa) | 4:25 |
 | 59 | [δ](https://open.spotify.com/track/5H6WX29XQMNE4oZVooEGeH) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 0:36 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 95 | [Solaris](https://open.spotify.com/track/3mw4OxKGvEG542yNl5Ypi3) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Solaris](https://open.spotify.com/album/6cBibsodTbuM4xuFfUNcjK) | 3:41 |
 | 96 | [Empty Lake \(feat\. Clara Mann\)](https://open.spotify.com/track/7xmsz7uSxf88gQ1aLtsmqi) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND), [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [Empty Lake \(feat\. Clara Mann\)](https://open.spotify.com/album/7mSgfi9tU0a61heEkhyRJi) | 3:16 |
 | 97 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/59XrtVk0rikGWU6plMniJF) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [J.S\. Bach: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/album/2geJLd7c3hxTvwdlLZT79j) | 4:05 |
-| 98 | [The Fight](https://open.spotify.com/track/5dO7az8K6NveAArJRAGWm0) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Fight](https://open.spotify.com/album/0vm1RScuRpoQy6OwltHDLd) | 4:27 |
+| 98 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 |
 | 99 | [Komorebi no Kioku](https://open.spotify.com/track/0Q72QqA0rLmZMO0Bmy77u2) | [Asuka Noda](https://open.spotify.com/artist/5B5Ip55ekXUdj3wehY9Vnz) | [Komorebi no Kioku](https://open.spotify.com/album/7foPQZ5vYodwAFzigoraxI) | 6:11 |
 | 100 | [Poolgirl, Poolboy](https://open.spotify.com/track/1LTQcQsBIYGMCtmUcBxcjO) | [Cidres](https://open.spotify.com/artist/2bsA35SnFBfEwlbJTykSsO) | [Poolgirl, Poolboy](https://open.spotify.com/album/1KKTiuprfwmoaAQ4NjqK5s) | 3:08 |
 
-Snapshot ID: `MCwwNzAyZjg0Nzg1NzU2YjU0MGRhYzVmOGE1ODc0ZDY5ZDJlZGFiMGZh`
+Snapshot ID: `MCwwZjFkNjM1NmM0NGIzZTQwN2Q3YjVkYTVjOWM3ZTc1OTI2NmY3NDZl`

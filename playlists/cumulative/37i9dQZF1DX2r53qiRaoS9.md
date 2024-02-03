@@ -4,7 +4,7 @@
 
 > Warm Up! Burn! Cooldown! Ready, Steady, move to Bhangra.
 
-57 songs - 2 hr 58 min
+58 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Bombay Dreams \(feat\. Kavita Seth\)](https://open.spotify.com/track/4SlCYFaUQ8GRuwdpgniaGF) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Bombay Dreams \(feat\. Kavita Seth\)](https://open.spotify.com/album/5EyIytU4jYrTCuf8Xy49M3) | 3:18 | 2023-06-05 | 2023-12-19 |
 | [Bottle](https://open.spotify.com/track/40mBzQIpmcxFUzuJMOAHFC) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Bottle](https://open.spotify.com/album/2Ywo4nVpumOk0RgUPJCan0) | 3:15 | 2023-06-05 |  |
 | [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 | 2023-06-05 |  |
-| [Chandigarh](https://open.spotify.com/track/0C3E2mfHDxqrSQjQ5702g4) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf) | [Chandigarh](https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto) | 2:17 | 2023-06-05 |  |
+| [Chandigarh](https://open.spotify.com/track/0C3E2mfHDxqrSQjQ5702g4) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf) | [Chandigarh](https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto) | 2:17 | 2023-06-05 | 2024-02-03 |
 | [Chandigarh Kare Aashiqui Title Track \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/track/1PDnTLpadsuLNSs6LCQtQh) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Jassi Sidhu](https://open.spotify.com/artist/2VXIKojJeuVC7NyOQs4JlE), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG) | [Chandigarh Kare Aashiqui Title Track \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/album/3J0XOvaaEByP4xeGTtYa9Y) | 2:33 | 2023-06-05 |  |
 | [Cheques](https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:03 | 2023-12-18 |  |
 | [Coco](https://open.spotify.com/track/1DwZ3Nl61Fn7MD0DViodkA) | [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ) | [Coco](https://open.spotify.com/album/4kilYTmf9qMwjOcqILEH09) | 2:44 | 2023-06-05 | 2023-12-19 |
@@ -63,6 +63,7 @@
 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 | 2023-06-05 |  |
 | [Trending Nakhra](https://open.spotify.com/track/42NUrjx6cy23vTp2JyUawT) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Ginni Kapoor](https://open.spotify.com/artist/4pQXtUY6y5FYuvuDZtxgSC) | [Trending Nakhra](https://open.spotify.com/album/3Dhlyk7vUAE1FYbak0Xa4O) | 3:54 | 2023-06-05 |  |
 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 | 2023-06-05 |  |
+| [Way Bigger](https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:40 | 2024-02-02 |  |
 | [Wonderland](https://open.spotify.com/track/1C7nptPXHHUbByNpQwcbZX) | [Zora Randhawa](https://open.spotify.com/artist/2dItxVGDw0zhzV4jfFV2V3), [Rupali](https://open.spotify.com/artist/6iGI9AvcDdGMu6lkbxHsOA) | [Lakeeran](https://open.spotify.com/album/0SL2oLXyQ0l3zYW1AMOt8T) | 3:01 | 2023-12-18 |  |
 | [Wonderland](https://open.spotify.com/track/31QGKUEo7ZH8dRbKSWQy25) | [Zora Randhawa](https://open.spotify.com/artist/2dItxVGDw0zhzV4jfFV2V3), [Rupali](https://open.spotify.com/artist/6iGI9AvcDdGMu6lkbxHsOA) | [Lakeeran](https://open.spotify.com/album/0dR5tnSwR7V6wAlXsf7b5e) | 3:01 | 2023-06-05 | 2024-01-03 |
 

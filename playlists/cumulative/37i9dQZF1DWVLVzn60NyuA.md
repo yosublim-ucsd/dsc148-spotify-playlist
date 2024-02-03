@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-445 songs - 23 hr 31 min
+446 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [If](https://open.spotify.com/track/0WeN52xa8nBDBfKsaiKJ0i) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:57 | 2021-12-16 | 2022-06-10 |
 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 | 2023-02-28 |  |
 | [Infinity \(feat\. Omah Lay\)](https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Carpe Diem](https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh) | 2:51 | 2021-12-16 |  |
-| [Irrational \(feat\. Adekunle Gold\) \- Remix](https://open.spotify.com/track/3QF4i1kw1Cs4KsIJvevZ3v) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Irrational \(feat\. Adekunle Gold\) \[Remix\]](https://open.spotify.com/album/5NoFagwdwUNqVESnkP8c1m) | 3:50 | 2022-12-14 |  |
+| [Irrational \(feat\. Adekunle Gold\) \- Remix](https://open.spotify.com/track/3QF4i1kw1Cs4KsIJvevZ3v) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Irrational \(feat\. Adekunle Gold\) \[Remix\]](https://open.spotify.com/album/5NoFagwdwUNqVESnkP8c1m) | 3:50 | 2022-12-14 | 2024-02-03 |
 | [Irrational \(feat\. Adekunle Gold\) \- Remix](https://open.spotify.com/track/5gCImzpv57IJp9oEFrCKQf) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Irrational \(feat\. Adekunle Gold\) \[Remix\]](https://open.spotify.com/album/33poJ8nmV0JbkmgmzTL6sC) | 3:50 | 2021-12-16 | 2022-12-02 |
 | [Iskaba](https://open.spotify.com/track/1GuLgNKd4lrI1vugkxMCAX) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Iskaba](https://open.spotify.com/album/0Xv3hpglXQQXDw1927aJvu) | 3:44 | 2022-07-28 | 2023-03-02 |
 | [Iskaba](https://open.spotify.com/track/1qNz5rynw3I9LU8uQRETsO) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Iskaba](https://open.spotify.com/album/246hi2vlh34PVxpM288Ekc) | 3:44 | 2021-12-16 | 2022-07-29 |
@@ -436,6 +436,7 @@
 | [Wayih](https://open.spotify.com/track/1MwGZStRdMTxJM7SZYanIl) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [Wayih](https://open.spotify.com/album/79GpxYlZSA5n0YP0wizwQu) | 2:19 | 2022-07-18 | 2023-04-21 |
 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 | 2023-01-19 |  |
 | [We Can \(feat\. Tory Lanez\)](https://open.spotify.com/track/7LRJmZ6G5qHQEG2CGeTCji) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [We Can \(feat\. Tory Lanez\)](https://open.spotify.com/album/6MhwOilsUaISxb4VnIuxpl) | 3:14 | 2021-12-16 | 2022-01-26 |
+| [West Indies](https://open.spotify.com/track/2OFvClbKLxtHeVMb3O1pOX) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP) | 3:57 | 2024-01-31 |  |
 | [West Indies](https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [West Indies](https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq) | 3:57 | 2021-12-16 | 2024-01-29 |
 | [When I See You](https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [When I See You](https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0) | 2:39 | 2022-09-23 | 2023-09-08 |
 | [Whine It](https://open.spotify.com/track/0s3aOtZgvBUjQcXLpASza8) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Tsunami](https://open.spotify.com/album/2hsPUsRm1eOGkNxqr2wira) | 2:41 | 2021-12-16 | 2022-01-21 |

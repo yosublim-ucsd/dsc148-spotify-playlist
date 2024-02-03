@@ -2162,6 +2162,24 @@
     {
       "album": {
         "name": "Just because of the sudden wind",
+        "url": "https://open.spotify.com/album/3sU1srdjbJdz6pGLGtWWuD"
+      },
+      "artists": [
+        {
+          "name": "YEGNY",
+          "url": "https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204680,
+      "name": "Virtual World",
+      "url": "https://open.spotify.com/track/2eKuOevIr05volaJLCs3NO"
+    },
+    {
+      "album": {
+        "name": "Just because of the sudden wind",
         "url": "https://open.spotify.com/album/5xiBNgDcroZnam0CXegDOu"
       },
       "artists": [
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 204680,
       "name": "Virtual World",
       "url": "https://open.spotify.com/track/3GlQyFwsP9SbqDbLws67FO"

@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Sister Sadie
 
-518 songs - 1 day 6 hr 59 min
+520 songs - 1 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Highway Side](https://open.spotify.com/track/5bR9tYZZ1gMgF66KnEmMv4) | [Balsam Range](https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU) | [Moxie and Mettle](https://open.spotify.com/album/1kyZS7aXOPfpWbhpv4vRJy) | 2:12 | 2021-12-17 | 2022-01-28 |
 | [Hold On](https://open.spotify.com/track/1ySfSzGtiyRNgnMSe45mvk) | [Frank Solivan and Dirty Kitchen](https://open.spotify.com/artist/6F2mVH32Q9FjHLo6nus0C5) | [Hold On](https://open.spotify.com/album/1SNQgFK8lqxZxkaudwJSqY) | 4:41 | 2022-09-02 | 2023-01-22 |
 | [Holy Ground](https://open.spotify.com/track/1uVNQx93kyNDlBTnXPzKaa) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Holy Ground](https://open.spotify.com/album/1wHctKgZzTJc7FKAv71Xfg) | 4:22 | 2022-03-11 | 2022-10-23 |
+| [Holy Roller \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/3itgPtXSu4I9mr2QD6yrzP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:36 | 2024-02-02 |  |
 | [Home with the Gals / Cider](https://open.spotify.com/track/1AAt90pv87vtlGqpKydWNX) | [Pretty Little Goat](https://open.spotify.com/artist/0S9WaFIgDMqkkWn0H8pGIB) | [Big Storm](https://open.spotify.com/album/1eRifq2mP6LmSV5IluOyxr) | 3:46 | 2022-03-25 | 2022-07-02 |
 | [Homemade Wine](https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7) | [Gibson Brothers](https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV) | [In The Ground](https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde) | 3:11 | 2021-12-17 | 2024-01-04 |
 | [Homemade Wine](https://open.spotify.com/track/6SKFHKROdE9wfAWlpdAD4j) | [Gibson Brothers](https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV) | [In The Ground](https://open.spotify.com/album/6Ag5zf5U06icw6B6pEEAuC) | 3:11 | 2023-11-24 |  |
@@ -268,7 +269,7 @@
 | [Lonesome Old River Blues](https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 2:42 | 2021-12-17 |  |
 | [Lonesome State Of Mind](https://open.spotify.com/track/6Ve06auIooixlCcp145XKp) | [Blue Highway](https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd) | [Lonesome State Of Mind](https://open.spotify.com/album/1sJ8O9hq9wGYQP0jJtb2Xo) | 2:23 | 2023-11-24 |  |
 | [Long Journey Home](https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Long Journey Home / Life To Go](https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C) | 2:57 | 2022-10-07 |  |
-| [Long Violent History](https://open.spotify.com/track/4Bu4aJ7xLdIeRnD69pFBXU) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Long Violent History](https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s) | 3:10 | 2021-12-17 |  |
+| [Long Violent History](https://open.spotify.com/track/4Bu4aJ7xLdIeRnD69pFBXU) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Long Violent History](https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s) | 3:10 | 2021-12-17 | 2024-02-03 |
 | [Lookout Mountain](https://open.spotify.com/track/4z2nsV1z5gQU4UBXtUoOCG) | [Unspoken Tradition](https://open.spotify.com/artist/1ffmxtCun2OgtqJlvlanQv) | [Lookout Mountain](https://open.spotify.com/album/2po8HVjL3Nvvgehs0A8Nlp) | 3:48 | 2022-02-11 | 2022-06-01 |
 | [Love Along the Way](https://open.spotify.com/track/0JKRJhLhtbsZFnyvk17Aid) | [Joe Troop](https://open.spotify.com/artist/6ZEEjgoF57Fa8eh2aXGoNa), [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [Borrowed Time](https://open.spotify.com/album/3kH6Zv3RT7JmoyOtpdcU2X) | 3:05 | 2022-01-21 | 2022-07-27 |
 | [Love Along the Way](https://open.spotify.com/track/6nkEksqMHYkwLQWSduWNMa) | [Joe Troop](https://open.spotify.com/artist/6ZEEjgoF57Fa8eh2aXGoNa), [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [Love Along the Way](https://open.spotify.com/album/3DoWXvOcB9cPd6KsbRQ0am) | 3:05 | 2021-12-17 | 2022-04-21 |
@@ -443,6 +444,7 @@
 | [The Middle](https://open.spotify.com/track/2aku9CbppMvVCbuDe4scTB) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Life Is Good on the Open Road](https://open.spotify.com/album/2U6ejoIDreiVA6Tt0ITxRh) | 4:28 | 2023-04-21 | 2023-08-12 |
 | [The Middle](https://open.spotify.com/track/46X5yC3riaLqYzh8xwf6qm) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [The Middle](https://open.spotify.com/album/1oRVBQBpyqw1nrDROwOmct) | 4:28 | 2021-12-17 | 2023-04-20 |
 | [The More I Learn](https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL) | [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm) | [The More I Learn](https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b) | 4:06 | 2021-12-17 |  |
+| [The North Side](https://open.spotify.com/track/3PaupMyPQ6dKZqED5Ic2ss) | [Blue Highway](https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd) | [The North Side](https://open.spotify.com/album/0O8huJY762BUgfv7VbtnSE) | 3:14 | 2024-02-02 |  |
 | [The Place that I Call Home](https://open.spotify.com/track/39W90PjYGoryz9JaVuIK54) | [Circus No\. 9](https://open.spotify.com/artist/7EajkJlvOR5KiUni4v4xZu) | [Circus No\. 9](https://open.spotify.com/album/18TiTJrpGISf5ALIcr0doS) | 3:32 | 2022-07-08 | 2022-08-23 |
 | [The Seeker](https://open.spotify.com/track/2vIaCDb7ZVDCtcReCMthKP) | [Julie and Dan](https://open.spotify.com/artist/01Pk9rWj3jvIFILsJmXl7c), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Hymns\-Some Of Old, Some Of New](https://open.spotify.com/album/7f5asZCvsayLsxzQtr8aJs) | 3:49 | 2022-05-27 | 2023-05-16 |
 | [The Trailblazer](https://open.spotify.com/track/6XwSoj31OGTt9CjkzyzjOf) | [Mark Grundhoefer](https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w), [David Brimer](https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh) | [The Trailblazer](https://open.spotify.com/album/2sEQOzIpCE5HHqyvZD7xpy) | 2:46 | 2023-09-01 | 2023-09-14 |
@@ -497,7 +499,7 @@
 | [When It All Falls Apart](https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [When It All Falls Apart](https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa) | 3:09 | 2022-07-15 | 2022-08-30 |
 | [Where Can I Go](https://open.spotify.com/track/00LFs2Qlyf3cvxqm9HpsYs) | [The Gage Brothers](https://open.spotify.com/artist/6abvmfOggU7DH2Bw6fVONb) | [The Gage Brothers](https://open.spotify.com/album/2vEpxQdfCWadkoU7AJkyX1) | 3:07 | 2022-01-07 | 2022-02-24 |
 | [Where Do You Go](https://open.spotify.com/track/0m5afvtKSPqeYR9JIsUEmf) | [Flatt Lonesome](https://open.spotify.com/artist/5m7v6OS8omwyHvXARri5Zh) | [Silence In These Walls](https://open.spotify.com/album/3bI1z2FTpSSFrfGtU5Pt3F) | 3:51 | 2021-12-17 | 2022-07-24 |
-| [Where Do You Go](https://open.spotify.com/track/2XAmK0FylCRoxCbFbDEFcR) | [Flatt Lonesome](https://open.spotify.com/artist/5m7v6OS8omwyHvXARri5Zh) | [Silence In These Walls](https://open.spotify.com/album/3BeB7TaifMP0twTfTgZ3jD) | 3:51 | 2024-01-26 |  |
+| [Where Do You Go](https://open.spotify.com/track/2XAmK0FylCRoxCbFbDEFcR) | [Flatt Lonesome](https://open.spotify.com/artist/5m7v6OS8omwyHvXARri5Zh) | [Silence In These Walls](https://open.spotify.com/album/3BeB7TaifMP0twTfTgZ3jD) | 3:51 | 2024-01-26 | 2024-02-03 |
 | [Where I'm From](https://open.spotify.com/track/5JT3ZBXUwNxdoWkeF2Ygv8) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Everyone A Song, Vol\. 2](https://open.spotify.com/album/4VjBvRsHWA0S2a53poAf6P) | 4:29 | 2021-12-17 | 2022-06-23 |
 | [Where the Long Line Leads](https://open.spotify.com/track/11U64nYtfHfPXpKmy8O29c) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Where the Long Line Leads](https://open.spotify.com/album/14lpUo1KioAmaEksNyAyAC) | 3:24 | 2023-03-24 | 2023-10-21 |
 | [Where the Long Line Leads](https://open.spotify.com/track/2nl7VPKy1XQ2NiUrdI5AeY) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:24 | 2023-10-20 |  |

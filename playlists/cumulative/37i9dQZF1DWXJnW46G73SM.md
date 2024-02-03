@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: نانسي عجرم
 
-802 songs - 1 day 21 hr 24 min
+803 songs - 1 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,7 +328,7 @@
 | [Law Betheb](https://open.spotify.com/track/1Y96JTJ72TUKLycJK2fQ3y) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Law Betheb](https://open.spotify.com/album/3XVLSCfmMiA8OxohsgoUpR) | 3:24 | 2021-12-23 | 2022-02-25 |
 | [Law Faker \- لو فاكر](https://open.spotify.com/track/0YvgaPYmXbdYd0brGlZEkI) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Law Faker \(لو فاكر\)](https://open.spotify.com/album/0zLiKpIZUGHJvMDvzjwY78) | 3:26 | 2021-12-23 | 2022-01-21 |
 | [Law Kan](https://open.spotify.com/track/75mZKR14B0oKPdpWNVhbYx) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Law Kan](https://open.spotify.com/album/6FtU7VDfDmKUrS5sxf6V4e) | 4:16 | 2023-07-19 | 2023-08-16 |
-| [Law Nasafni Ez Zaman](https://open.spotify.com/track/01sbp3Job06xunweuDmeP9) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [Law Nasafni Ez Zaman](https://open.spotify.com/album/0gJ7hB8tOSpccIabnVSWd3) | 4:23 | 2023-12-23 |  |
+| [Law Nasafni Ez Zaman](https://open.spotify.com/track/01sbp3Job06xunweuDmeP9) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [Law Nasafni Ez Zaman](https://open.spotify.com/album/0gJ7hB8tOSpccIabnVSWd3) | 4:23 | 2023-12-23 | 2024-02-03 |
 | [Law Tes'aleeny](https://open.spotify.com/track/5ug0O0aWp6ZTNPLwKno7MX) | [Stigma](https://open.spotify.com/artist/19tDakgScrQj3wRGWdj87v) | [Law Tes'aleeny](https://open.spotify.com/album/2ubJvQHuxfAPdbmDpNg5y1) | 3:50 | 2024-02-01 |  |
 | [lawen hayatak](https://open.spotify.com/track/0SlWoAV4uthRhahfVpQk8D) | [Mohamed Adawya](https://open.spotify.com/artist/4isXJBD1o2NfaC5EcotlXN) | [lawen hayatak](https://open.spotify.com/album/0ZAYYAv1gKfSLzIKoUpZk1) | 4:02 | 2023-01-06 | 2023-02-17 |
 | [Layali Taweela](https://open.spotify.com/track/0hA2CXgMOXTAuwV9iDNZEq) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:58 | 2021-12-29 | 2022-03-18 |
@@ -690,6 +690,7 @@
 | [سيرك الحياه](https://open.spotify.com/track/5OortLPZ3VTCDjL01kuya0) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [Serk El Haiah](https://open.spotify.com/album/4rHRrAb9uxWqHVHvHCSfO4) | 3:10 | 2021-12-23 | 2022-02-02 |
 | [شكر خاص](https://open.spotify.com/track/0lSVhIuoo0Qbtqr7xz1Ifs) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [شكر خاص](https://open.spotify.com/album/2QRaqOHlatJV6qrxvLYvav) | 3:34 | 2023-02-23 | 2023-05-04 |
 | [شوفت](https://open.spotify.com/track/11KqopQALDho8OLRARxdcS) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2), [Mirna Hesham](https://open.spotify.com/artist/2XuOGCueot1VkEcd5tQVYB) | [شوفت](https://open.spotify.com/album/21y3qgHakvFl9iRhxMFvu9) | 3:39 | 2023-01-06 | 2023-02-17 |
+| [شوك وسكاكين](https://open.spotify.com/track/3la9cbwDp7bzi64axwDU8g) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k) | [شوك وسكاكين](https://open.spotify.com/album/5pbhGZ3MNHexAwVf17NquK) | 3:41 | 2024-02-02 |  |
 | [صباح اسكندراني](https://open.spotify.com/track/1XhlXdZEXF6gG0lFnq9iTO) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [صباح اسكندراني](https://open.spotify.com/album/2GeZia68kzHFeTZfbe1Bhn) | 3:35 | 2023-05-04 | 2023-06-16 |
 | [صباحك فل](https://open.spotify.com/track/30hyzpcZJhX0EumCQl2mW5) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [صباحك فل](https://open.spotify.com/album/63bYgOsTB5xPlTMfQhXv3V) | 3:00 | 2023-10-11 | 2024-01-19 |
 | [صدقونا](https://open.spotify.com/track/4PnLVm1FmAZtq0IWY5HYsA) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [صدقونا](https://open.spotify.com/album/4SAXz6gJcUj3M0a9eZQbnS) | 3:01 | 2023-02-16 | 2023-04-21 |

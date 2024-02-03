@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,519 likes - 60 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,558 likes - 60 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 14 | [Brighter Day \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/5qFDlKHNb0v68YSghSY4GK) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 5:40 |
 | 15 | [Change Me](https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [One Way](https://open.spotify.com/album/5M8DUTlZa68recDK5RvmBB) | 6:06 |
 | 16 | [Make Room](https://open.spotify.com/track/7Lon0NmVkcUHAxmiPnVwda) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/4BcOKZqejPxCGuQb2ArtXa) | 5:40 |
-| 17 | [I Love The Lord \(with Georgia Mass Choir\)](https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [The Georgia Mass Choir](https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:56 |
-| 18 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 |
+| 17 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 |
+| 18 | [I Love The Lord \(with Georgia Mass Choir\)](https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [The Georgia Mass Choir](https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:56 |
 | 19 | [Put It On The Altar](https://open.spotify.com/track/2QVjnEpvbSeVhs1QZfwDOf) | [Jessica Reedy](https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6) | [From The Heart](https://open.spotify.com/album/4XITBa16CcVUe8klCUpjNV) | 4:06 |
 | 20 | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [The Tri\-City Singers](https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/album/3vP8VfkQVpGJSviXLmk9ls) | 5:44 |
 | 21 | [Your Great Name](https://open.spotify.com/track/6orZOHApXMdR2RHhSq2VGy) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/5ARCX2OA6H343Wvn21Peob) | 6:24 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 47 | [I Am \- Radio Edit](https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [I Am \(Radio Edit\)](https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot) | 4:47 |
 | 48 | [I Made It Out \(Radio Edit\)](https://open.spotify.com/track/2mccRVO7fG5HpOlfCrIjYr) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [I Made It Out](https://open.spotify.com/album/2vW8HKWfqwM0Vin3CuGJor) | 4:58 |
 | 49 | [A Billion People](https://open.spotify.com/track/2RzL4rCsY8aJp4oi0sS76K) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Deitrick Haddon & Hill City Worship Camp](https://open.spotify.com/album/6RxiG7W0vmgkCdx0M2Kre6) | 7:38 |
-| 50 | [Kind God](https://open.spotify.com/track/42lwMiKlH2nVmvnOtVFTHy) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Close](https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H) | 4:09 |
-| 51 | [I Got Out](https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk) | [Bryan Popin](https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz) | [I Got Out](https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke) | 4:57 |
+| 50 | [I Got Out](https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk) | [Bryan Popin](https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz) | [I Got Out](https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke) | 4:57 |
+| 51 | [Kind God](https://open.spotify.com/track/42lwMiKlH2nVmvnOtVFTHy) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Close](https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H) | 4:09 |
 | 52 | [I'm Good](https://open.spotify.com/track/06PTBb12MxQdtgyFIawUOK) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [I'm Good](https://open.spotify.com/album/4L1qVMFTElNgKI8TdRyn77) | 3:45 |
 | 53 | [By Myself](https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Place Called Victory \- EP](https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l) | 6:23 |
-| 54 | [Beyond The Veil \- Live](https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn) | [Daryl Coley](https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01) | [Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII](https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo) | 8:27 |
-| 55 | [Winning](https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [Think About These Things](https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG) | 2:33 |
+| 54 | [Winning](https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [Think About These Things](https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG) | 2:33 |
+| 55 | [Beyond The Veil \- Live](https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn) | [Daryl Coley](https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01) | [Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII](https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo) | 8:27 |
 | 56 | [Anything Can Happen](https://open.spotify.com/track/2GQXnE0fgCeVHKIbC32f4s) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/0VSrwhH3oHazxgrn5It4u3) | 8:05 |
 | 57 | [God Is My Refuge \(Live\)](https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [God Is My Refuge \(Live\)](https://open.spotify.com/album/4eY1uNXXv3QsNr12FYZ0hX) | 9:45 |
 | 58 | [Your Love](https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [Listen](https://open.spotify.com/album/5YChjVISCxpP25SXcAeEQm) | 4:55 |
 | 59 | [Blessings on Blessings](https://open.spotify.com/track/3VBq4uuOxikF23PWXPCuGu) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [Blessings on Blessings](https://open.spotify.com/album/5v2XFpXgYPT7lC9mZf1x9R) | 4:55 |
 | 60 | [Already Getting Better](https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [WOW Gospel 2016](https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV) | 4:02 |
 
-Snapshot ID: `MCwxNWYzZDJlNmE5OGVmNDRiNjE0NTUwMjZlZWIxNjRlNWY0NTg3MGE5`
+Snapshot ID: `MCw5NjBlNjM5NGU2MjcxZGNhZGU4NmRjOTY2NGExMjc3MWVlNzgxMzg2`

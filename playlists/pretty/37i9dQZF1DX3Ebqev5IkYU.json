@@ -1,12 +1,12 @@
 {
   "description": "Schlechte Laune? Dr\u00fcck den Play Button!",
-  "num_followers": 1969495,
+  "num_followers": 1969402,
   "original_name": "Stimmungsmacher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmQwNWJkODEyNmRmMzM4NjUyNTY0ZTYzOWZkMjFmZDc5YzUwZGM1",
+  "snapshot_id": "MCw3ZjlhOGY3MjM4MjUxMWU1YzgxZmIwY2Y3MmU4Y2M0YTFiMWYzYzc0",
   "tracks": [
     {
       "added_at": "2024-02-01 15:47:53",
@@ -487,26 +487,6 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
       "added_at": "2024-02-01 15:47:53",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
+        "name": "Is It Love",
+        "url": "https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 143669,
+      "name": "Is It Love",
+      "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
         "name": "Car Keys (Ayla)",
         "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 147211,
       "name": "Car Keys (Ayla)",
       "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
-        "name": "Is It Love",
-        "url": "https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 143669,
-      "name": "Is It Love",
-      "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
     },
     {
       "added_at": "2024-02-01 15:47:53",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
       },
@@ -667,42 +683,6 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "added_at": "2024-02-01 15:47:53",
@@ -727,6 +707,26 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
         "name": "ITALODISCO",
         "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
-        "name": "Can't Tame Her",
-        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 196939,
-      "name": "Can't Tame Her",
-      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
         "name": "More Than Just a Dream",
         "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 209386,
       "name": "Out of My League",
       "url": "https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
+        "name": "Can't Tame Her",
+        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 196939,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
     },
     {
       "added_at": "2024-02-01 15:47:53",
@@ -843,6 +843,26 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
+        "name": "Whistle (feat. Calum Scott)",
+        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 181957,
+      "name": "Whistle (feat. Calum Scott)",
+      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -907,26 +927,6 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
-        "name": "Whistle (feat. Calum Scott)",
-        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 181957,
-      "name": "Whistle (feat. Calum Scott)",
-      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
         "name": "Heather On The Hill",
         "url": "https://open.spotify.com/album/2beYnTms954gTl7cYEupjN"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 139857,
       "name": "Heather On The Hill",
       "url": "https://open.spotify.com/track/7N3emAP0mWt2OYqxs0XYpc"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
     },
     {
       "added_at": "2024-02-01 15:47:53",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
+        "name": "Spicy Margarita",
+        "url": "https://open.spotify.com/album/0axDmm6r0mlrw4SRIXpIER"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 154376,
+      "name": "Spicy Margarita",
+      "url": "https://open.spotify.com/track/6TFUhEcEsqGVMZeZtAeUzN"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
         "name": "Something On My Mind",
         "url": "https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8"
       },
@@ -1123,26 +1143,6 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
-        "name": "Lionheart (Fearless)",
-        "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 186689,
-      "name": "Lionheart (Fearless)",
-      "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
       },
@@ -1163,6 +1163,26 @@
       "duration_ms": 157252,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
+        "name": "Lionheart (Fearless)",
+        "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 186689,
+      "name": "Lionheart (Fearless)",
+      "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
     },
     {
       "added_at": "2024-02-01 15:47:53",
@@ -1219,26 +1239,6 @@
       "duration_ms": 166632,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
-        "name": "Spicy Margarita",
-        "url": "https://open.spotify.com/album/0axDmm6r0mlrw4SRIXpIER"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 154376,
-      "name": "Spicy Margarita",
-      "url": "https://open.spotify.com/track/6TFUhEcEsqGVMZeZtAeUzN"
     },
     {
       "added_at": "2024-02-01 15:47:53",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
+        "name": "HERZINFUCKED",
+        "url": "https://open.spotify.com/album/4wJVpq8vt31kB9wySZY0WB"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 165476,
+      "name": "Auf & Ab",
+      "url": "https://open.spotify.com/track/2sFsvaMRe8PKo5AFdBE9qC"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
         "name": "Glas",
         "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 192835,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/2toCf2FDbTIdWriPI6kcsY"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
-        "name": "HERZINFUCKED",
-        "url": "https://open.spotify.com/album/4wJVpq8vt31kB9wySZY0WB"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 165476,
-      "name": "Auf & Ab",
-      "url": "https://open.spotify.com/track/2sFsvaMRe8PKo5AFdBE9qC"
     },
     {
       "added_at": "2024-02-01 15:47:53",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-02-01 15:47:53",
       "album": {
-        "name": "people pleaser / sleep at night",
-        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 146654,
-      "name": "people pleaser",
-      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
-    },
-    {
-      "added_at": "2024-02-01 15:47:53",
-      "album": {
         "name": "Wildberry Lillet",
         "url": "https://open.spotify.com/album/1zzkAbY0FKMPjn56qrgxme"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 132000,
       "name": "Wildberry Lillet",
       "url": "https://open.spotify.com/track/6yeZM8gyykjaf8w0GqRfK4"
+    },
+    {
+      "added_at": "2024-02-01 15:47:53",
+      "album": {
+        "name": "people pleaser / sleep at night",
+        "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 146654,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
       "added_at": "2024-02-01 15:47:53",

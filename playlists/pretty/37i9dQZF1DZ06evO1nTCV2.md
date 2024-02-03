@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 47 | [Broken Anyway \(Live\)](https://open.spotify.com/track/70dHBmG5GLYvPyZVtIKmpH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 2:49 |
 | 48 | [True Love](https://open.spotify.com/track/1stB2WWLzp7QIeT82T7ytU) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heatwave](https://open.spotify.com/album/7rHobpFFOUBekYAMIxbfsg) | 2:48 |
 | 49 | [So Alive](https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 3:58 |
-| 50 | [Outbound Train \(Live\)](https://open.spotify.com/track/1rzRw9ldxDDUsSVALuhpX7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 3:54 |
+| 50 | [I See Monsters](https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:54 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDA2MDM0MzdhMDQ5YTNjNGQxYzgxMThhNGNkMzY5Y2E0MQ==`
+Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDAxMmJmN2YzNzA4NmI0Yzg1M2Y2ZTMxYWE2OWYxYjQ0Mw==`

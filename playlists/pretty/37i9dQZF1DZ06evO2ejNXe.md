@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 16 | [Mil cartas.](https://open.spotify.com/track/3DCS7PRExYp8s1xPD2GdwD) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 3:20 |
 | 17 | [Hey Hey Tu](https://open.spotify.com/track/1BgH0sooCdisYKC9om3MGD) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:20 |
 | 18 | [Dale Biberon](https://open.spotify.com/track/4Ld6hcn4xMtetpzPEMD3Jt) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 3:24 |
-| 19 | [A La Sombra De Los Angeles](https://open.spotify.com/track/1kYXUudZoRTZyO6Rf8F7g7) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 3:16 |
-| 20 | [El Pasadisco](https://open.spotify.com/track/5JkoYyOB55thgJcQicOTsm) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [El Reloj De Mi Corazon](https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w) | 3:30 |
+| 19 | [El Pasadisco](https://open.spotify.com/track/5JkoYyOB55thgJcQicOTsm) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [El Reloj De Mi Corazon](https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w) | 3:30 |
+| 20 | [A La Sombra De Los Angeles](https://open.spotify.com/track/1kYXUudZoRTZyO6Rf8F7g7) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 3:16 |
 | 21 | [La Gloria](https://open.spotify.com/track/1kYPGM806I2hx95bQw11GF) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:27 |
 | 22 | [Que Esto Que Lo Otro](https://open.spotify.com/track/5NwNMxpq58Sg2aKCCHJy0o) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 3:32 |
 | 23 | [Hey, Hey](https://open.spotify.com/track/6jaJ4Rc02uvDro3nel8FHm) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 3:12 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 44 | [La Crisis](https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:00 |
 | 45 | [Subete A Mi Moto](https://open.spotify.com/track/7nkvn87viPCecOuKkWI23d) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 2:52 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDA5YjQ1MzI2YjVhNmZmMjRkOWFiNzU0ZGFkNzI1ZjM5MA==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDBiYjQwYTRjMGQwZDhiNzY3MjE0YTA2ZDFjYTU3OWYzZA==`

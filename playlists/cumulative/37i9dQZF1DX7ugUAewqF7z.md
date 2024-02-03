@@ -4,7 +4,7 @@
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-154 songs - 9 hr 39 min
+157 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Lazy Me](https://open.spotify.com/track/7IKiYUKvU394eoRD9TYDfJ) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Lazy Me](https://open.spotify.com/album/6zvdQKxr377crdbVupq7I7) | 3:07 | 2023-06-15 |  |
 | [Let's Do Well](https://open.spotify.com/track/3LC2XvIgfPpJChlceA82qU) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [사랑의 단상 Chapter 5 : The Letter From Nowhere](https://open.spotify.com/album/28KClRRM4IQB7QN204Xkym) | 4:23 | 2023-12-11 |  |
 | [let’s have a drink](https://open.spotify.com/track/6lUoRIE8X05OHNLpsPig5U) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Let's Have a Drink](https://open.spotify.com/album/64VRjD4hEZ1cZUWLORLatL) | 3:30 | 2023-11-02 |  |
+| [Like We Turn the pages \(Remaster\)](https://open.spotify.com/track/4W7MrbhSg8o2v5lBz0wLBV) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [hom'ea'ge](https://open.spotify.com/album/3GZ2bTWjX8d4L4rvtWcagA) | 3:12 | 2024-01-05 |  |
 | [LIP GLOSS](https://open.spotify.com/track/5yREbqEnoqMRuIOQ60t6as) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.1 Christmas In August](https://open.spotify.com/album/6j0bF8s6Kptbr4y8tuIhOY) | 3:32 | 2023-12-11 |  |
 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2023-08-28 |  |
 | [Looking For Love](https://open.spotify.com/track/08z1Wf8QxqDcVcxux3DvGx) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:50 | 2023-09-22 |  |
@@ -134,10 +135,11 @@
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-07-07 |  |
 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 | 2023-09-01 |  |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2023-12-11 |  |
-| [감사 \(FEAT\. 소향\)](https://open.spotify.com/track/339ONbEchBensZnESqghNW) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [인사](https://open.spotify.com/album/1gVCySPJoAjV90BcLL3i29) | 3:50 | 2024-01-05 |  |
+| [감사 \(FEAT\. 소향\)](https://open.spotify.com/track/1F8Z48JxxB4Diz1HMEUbb6) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [인사](https://open.spotify.com/album/1aRzCmpmffVSKWl9L8SJ9Q) | 3:50 | 2024-01-05 |  |
+| [감사 \(FEAT\. 소향\)](https://open.spotify.com/track/339ONbEchBensZnESqghNW) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [인사](https://open.spotify.com/album/1gVCySPJoAjV90BcLL3i29) | 3:50 | 2024-01-05 | 2024-02-03 |
 | [감사 \(FEAT\. 소향\)](https://open.spotify.com/track/4ralviGrgOeBiSCRnH2qcC) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [인사](https://open.spotify.com/album/1LE8WPv3OxH93MXOz0ps3h) | 3:50 | 2023-10-06 | 2024-01-30 |
 | [그대를 사랑하는 10가지 이유](https://open.spotify.com/track/1irsHnzK1oo5x0eWJ3pqKx) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [인사](https://open.spotify.com/album/1LE8WPv3OxH93MXOz0ps3h) | 4:15 | 2023-08-28 | 2024-01-30 |
-| [그대를 사랑하는 10가지 이유](https://open.spotify.com/track/5QXRbVoCLqnN5jfaqcmwYk) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [인사](https://open.spotify.com/album/1gVCySPJoAjV90BcLL3i29) | 4:15 | 2024-01-05 |  |
+| [그대를 사랑하는 10가지 이유](https://open.spotify.com/track/5QXRbVoCLqnN5jfaqcmwYk) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [인사](https://open.spotify.com/album/1gVCySPJoAjV90BcLL3i29) | 4:15 | 2024-01-05 | 2024-02-03 |
 | [기억해줘요 내 모든 날과 그때를](https://open.spotify.com/track/3OqE4AVDie6l1gjoXGAQQR) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Hotel del Luna \(Original Television Soundtrack\) Pt.7](https://open.spotify.com/album/7iM4E3rchIQqTbSFFhcDAR) | 3:48 | 2023-12-11 |  |
 | [냉면](https://open.spotify.com/track/08UZjYR1rZNMFR8HJQslfp) | [명카드라이브](https://open.spotify.com/artist/6UgPbb5cHdroYwW0o7N3Eu) | [무한도전 올림픽대로 듀엣가요제](https://open.spotify.com/album/72fbjyAwK1AYE68QAim59D) | 3:38 | 2024-01-05 |  |
 | [너 때문에 미쳐](https://open.spotify.com/track/5vCXnSlbAEkuJ3w2O0ALan) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Breaking Heart](https://open.spotify.com/album/7C3YPRZQVhmE7TStRdXshF) | 3:14 | 2023-08-04 |  |
@@ -155,7 +157,8 @@
 | [오빠](https://open.spotify.com/track/2BqE61QmxAj3ZKc0xt2mtx) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [엄마의 일기](https://open.spotify.com/album/4CtBSFdCGAiZ5GapzP9J3b) | 3:26 | 2023-08-04 |  |
 | [이별 아닌 이별](https://open.spotify.com/track/6X6ex9jjNkJ3FYoXRDO4hE) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [sg WANNA BE \- Classic Odyssey](https://open.spotify.com/album/6nGXlSP0HjarsA0szIhLnv) | 3:20 | 2023-07-03 |  |
 | [일어나](https://open.spotify.com/track/2LxL8Lq0AD7DzwsqH9sTd0) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 4집 리마스터링앨범](https://open.spotify.com/album/1Yk9jrcx4JQpSmyqpvakvV) | 4:28 | 2023-10-06 |  |
-| [책을 넘기는 듯한 마음으로](https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [책을 넘기는 듯한 마음으로](https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE) | 3:12 | 2023-06-15 |  |
+| [정거장](https://open.spotify.com/track/00BbsELDIsK2mQeeB8EJD7) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [인사](https://open.spotify.com/album/1aRzCmpmffVSKWl9L8SJ9Q) | 3:35 | 2024-01-05 |  |
+| [책을 넘기는 듯한 마음으로](https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [책을 넘기는 듯한 마음으로](https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE) | 3:12 | 2023-06-15 | 2024-02-03 |
 | [첫눈에 뿅!](https://open.spotify.com/track/3I8yVMehwPY6poafWii5Fc) | [바니](https://open.spotify.com/artist/2NHtAhs5l0gcVwp8AcDbD9) | [첫눈에 뿅!](https://open.spotify.com/album/6MnDjLA0vALGHkguvGAu1n) | 3:12 | 2023-06-15 |  |
 | [첫눈이 온다구요](https://open.spotify.com/track/2OJ5ZYqYkArQJFYIHtnWqs) | [이정석](https://open.spotify.com/artist/32R8sZMuoan0Uf19J0mVOS) | [대학가요제 Golden Best](https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0) | 3:54 | 2024-01-05 |  |
 | [체념](https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:59 | 2023-08-28 |  |

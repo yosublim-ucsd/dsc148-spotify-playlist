@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 276319,
+  "num_followers": 276312,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGM2MjRjMmRlNzNhZjUyOWMwYjA0MTk0ZmVmMGI2NjZlNjI4NjUy",
+  "snapshot_id": "MCwyYjQ3NGEwYTU5MzY3NWIyOTZlMjVlNzdmMGNmZjhiODdiNmM4NGY2",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1251,22 +1251,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "The Acoustics",
-        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
+        "name": "Where Are \u00dc Now Live (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4ZnjWNmJbuN2DKc5HLNA8b"
       },
       "artists": [
         {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "BullySongs",
-          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 161724,
-      "name": "Walking With Shadows - Acoustic Version",
-      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
+      "duration_ms": 216339,
+      "name": "Where Are \u00dc Now LIVE (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/1CjiAOoegmUDgbhKzAqSkl"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1299,26 +1303,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Where Are \u00dc Now Live (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4ZnjWNmJbuN2DKc5HLNA8b"
+        "name": "The Acoustics",
+        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
         },
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "BullySongs",
+          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
         }
       ],
-      "duration_ms": 216339,
-      "name": "Where Are \u00dc Now LIVE (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/1CjiAOoegmUDgbhKzAqSkl"
+      "duration_ms": 161724,
+      "name": "Walking With Shadows - Acoustic Version",
+      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1499,22 +1499,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "You Were Loved (with OneRepublic) [Acoustic]",
-        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
+        "name": "Ferrari (Acoustic)",
+        "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
         },
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
         }
       ],
-      "duration_ms": 211967,
-      "name": "You Were Loved (with OneRepublic) - Acoustic",
-      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
+      "duration_ms": 141890,
+      "name": "Ferrari - Acoustic",
+      "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1539,6 +1539,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "You Were Loved (with OneRepublic) [Acoustic]",
+        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 211967,
+      "name": "You Were Loved (with OneRepublic) - Acoustic",
+      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Grabbitz - Friends EP",
         "url": "https://open.spotify.com/album/7eu4Uyj5s88ge7bE56gFbw"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 61711,
       "name": "7.6.14 (Intro)",
       "url": "https://open.spotify.com/track/5a2yGUOkbAMo71lu8lkQ7K"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Ferrari (Acoustic)",
-        "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 141890,
-      "name": "Ferrari - Acoustic",
-      "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1607,22 +1607,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "How to Love (feat. Sofia Reyes) [Spanish & Acoustic]",
-        "url": "https://open.spotify.com/album/3MsD918JVOTgVAAGYw94Uy"
+        "name": "Used To Have It All (Acoustic Version)",
+        "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
       },
       "artists": [
         {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
         },
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 201468,
-      "name": "How to Love (feat. Sofia Reyes) - Acoustic",
-      "url": "https://open.spotify.com/track/52B2TNxEZ7z7ytwLdA99pG"
+      "duration_ms": 181934,
+      "name": "Used To Have It All - Acoustic",
+      "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Used To Have It All (Acoustic Version)",
-        "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
-      },
-      "artists": [
-        {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 181934,
-      "name": "Used To Have It All - Acoustic",
-      "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Kids in Love (Remixes)",
         "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
       },
@@ -1691,6 +1671,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "How to Love (feat. Sofia Reyes) [Spanish & Acoustic]",
+        "url": "https://open.spotify.com/album/3MsD918JVOTgVAAGYw94Uy"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 201468,
+      "name": "How to Love (feat. Sofia Reyes) - Acoustic",
+      "url": "https://open.spotify.com/track/52B2TNxEZ7z7ytwLdA99pG"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Are You With Me (Remixes)",
         "url": "https://open.spotify.com/album/5Lg5cLkEmlq2IN0K0u5KeC"
       },
@@ -1703,26 +1703,6 @@
       "duration_ms": 176518,
       "name": "Are You with Me - Harold Van Lennep Piano Edit",
       "url": "https://open.spotify.com/track/0kcVKQd51mgJdEe3Fgqmas"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Mad World (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4Eq4A8AIi4PvXOEqrK2Iaq"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Jake Reese",
-          "url": "https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Mad World - Acoustic Version",
-      "url": "https://open.spotify.com/track/3uXVW7yEmJvVeslQae2dc3"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1743,6 +1723,26 @@
       "duration_ms": 217043,
       "name": "Another Chance - Don Diablo Chill Mix",
       "url": "https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Mad World (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4Eq4A8AIi4PvXOEqrK2Iaq"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Jake Reese",
+          "url": "https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Mad World - Acoustic Version",
+      "url": "https://open.spotify.com/track/3uXVW7yEmJvVeslQae2dc3"
     },
     {
       "added_at": "2023-10-06 04:01:00",

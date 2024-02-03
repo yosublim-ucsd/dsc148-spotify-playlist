@@ -2,9 +2,9 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Turn on the movement with the latest and greatest in K\-Pop! Cover: \(G\)I\-DLE
+> Turn on the movement with the latest and greatest in K\-Pop! Cover: TWICE
 
-408 songs - 21 hr 48 min
+410 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 | 2021-12-13 | 2022-01-11 |
 | [Alcohol\-Free](https://open.spotify.com/track/6HTwoo4dUOvePNqMsTarPA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Alcohol\-Free](https://open.spotify.com/album/6UIHtz9pSMArPCOEkUkLOp) | 3:30 | 2021-12-13 | 2022-03-09 |
 | [All Night \(feat\. Saweetie\)](https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All Night \(feat\. Saweetie\)](https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP) | 3:17 | 2024-01-19 |  |
-| [AMNESIA](https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [AMNESIA](https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs) | 3:19 | 2023-12-27 |  |
+| [AMNESIA](https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [AMNESIA](https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs) | 3:19 | 2023-12-27 | 2024-02-03 |
 | [Animal Farm](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Animal Farm](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 3:23 | 2022-10-07 | 2023-01-21 |
 | [Anti\-Romantic](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:35 | 2021-12-13 | 2022-01-13 |
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-10-28 |  |
@@ -190,6 +190,7 @@
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-04-10 |  |
 | [I AM SHAMPOO](https://open.spotify.com/track/164rrRJLHNzPKIR82BCDQU) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [I AM SHAMPOO](https://open.spotify.com/album/2MH5K8RTLoLzkpgtIYWFUe) | 2:21 | 2023-04-17 | 2023-05-23 |
 | [I DO](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I DO](https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN) | 3:10 | 2023-07-14 | 2023-12-09 |
+| [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 | 2024-02-02 |  |
 | [I Love My Body](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I Love My Body](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) | 2:30 | 2023-09-06 |  |
 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 | 2022-07-05 | 2022-09-13 |
 | [I Want That](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) | 2:51 | 2023-10-06 | 2023-12-30 |
@@ -325,6 +326,7 @@
 | [SLAY](https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [ALL MY GIRLS](https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0) | 3:40 | 2023-08-23 | 2023-11-05 |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-08 | 2023-11-05 |
 | [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 | 2022-01-26 | 2022-03-04 |
+| [Slowly \(feat\. Heize\)](https://open.spotify.com/track/4Ugf1uFzQx3RT7X0UgZjQv) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Slowly \(feat\. Heize\)](https://open.spotify.com/album/1vmkLxU1BKfTDImiWtAhb9) | 3:15 | 2024-02-02 |  |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-26 | 2022-05-28 |
 | [Smoke \(Prod\. Dynamicduo, Padi\)](https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 3:29 | 2023-09-15 | 2023-12-30 |
 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-03-24 | 2023-05-23 |
@@ -388,7 +390,7 @@
 | [VingleVingle \(Prod\. R.Tee\)](https://open.spotify.com/track/4mSb6RA9eJnXuMWChHLpgn) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [VingleVingle](https://open.spotify.com/album/10Ldh1KXu0ySjpfiX6qLXQ) | 3:00 | 2023-04-17 | 2023-06-06 |
 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 | 2022-01-17 | 2022-10-18 |
 | [Wait](https://open.spotify.com/track/1KkC3Nzxv3OZorm5m1843p) | [DINO](https://open.spotify.com/artist/5YaeXxzvqGNBCguELlKo6G) | [Wait](https://open.spotify.com/album/3D7f39m0ONz8okCm5o9Bxg) | 2:38 | 2023-12-01 | 2024-01-23 |
-| [WATCH IT](https://open.spotify.com/track/3UQw1V8gM5YihFDcnjNkWN) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.2 Sixth Sense](https://open.spotify.com/album/7LmTay8KeH1nl0Kt1BlhMX) | 2:59 | 2023-11-21 |  |
+| [WATCH IT](https://open.spotify.com/track/3UQw1V8gM5YihFDcnjNkWN) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.2 Sixth Sense](https://open.spotify.com/album/7LmTay8KeH1nl0Kt1BlhMX) | 2:59 | 2023-11-21 | 2024-02-03 |
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-01-10 | 2022-03-10 |
 | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/track/6qVqWJxIpsabUKBILG7d6N) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [nævis](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/album/2o35lokKrBVG73xWFDEVsX) | 3:26 | 2023-05-02 | 2023-08-17 |
 | [What are we \(Feat\. PARK JIWON of fromis\_9\)](https://open.spotify.com/track/0obzpcyr6SrKcBcm2oytW3) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf), [PARK JI WON \(fromis\_9\)](https://open.spotify.com/artist/1j9Do4dv7NDwi8GrlTdzzr) | [What are we \(Feat\. PARK JIWON of fromis\_9\)](https://open.spotify.com/album/6FhNOEipXqOY1vjsPTHVAa) | 2:58 | 2023-12-13 | 2024-01-16 |

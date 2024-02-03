@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 
 > Productores latinos underground para bailar con audífonos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,902 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,893 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 23 | [Los muertos no lloran](https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS) | [issuesonissues](https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0) | [Los muertos no lloran](https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG) | 5:40 |
 | 24 | [Koro Kemboro](https://open.spotify.com/track/0WpeystVcDypHRUhfrRBuz) | [Miki Gonzalez](https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Koro Kemboro](https://open.spotify.com/album/2a99LCBq1HLVEym4R7iHYF) | 5:03 |
 | 25 | [In Your Head \- Subxet Remix](https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb), [SUBXET](https://open.spotify.com/artist/2qhMUAZvXDDWWpukApVXwX) | [Dreamy Hamilton \(Remixes\)](https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6) | 4:47 |
-| 26 | [Esta Noche](https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG) | [Rodion](https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe), [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL) | [Esta Noche](https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It) | 5:11 |
+| 26 | [Invierno \(Remix\)](https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Techno Para Dos](https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h), [Alondra Máynez](https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd) | [Invierno \(Remix\)](https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj) | 4:45 |
 | 27 | [Give It To The Music](https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Give It To The Music](https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th) | 4:54 |
-| 28 | [Invierno \(Remix\)](https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Techno Para Dos](https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h), [Alondra Máynez](https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd) | [Invierno \(Remix\)](https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj) | 4:45 |
+| 28 | [Esta Noche](https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG) | [Rodion](https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe), [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL) | [Esta Noche](https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It) | 5:11 |
 | 29 | [Mexico Trance](https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Mexico Trance](https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ) | 6:55 |
-| 30 | [Dancehall, Audubon Ballroom](https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN) | [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Night in Tijuana](https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx) | 2:50 |
-| 31 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 |
+| 30 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 |
+| 31 | [Dancehall, Audubon Ballroom](https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN) | [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Night in Tijuana](https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx) | 2:50 |
 | 32 | [Corrado](https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2) | [Bufi](https://open.spotify.com/artist/0ckrHQgGWuXzYxRM0jLOZZ), [Kubebe](https://open.spotify.com/artist/05EKr75TBeDGYstwAKRMpH) | [Bufebe](https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO) | 5:24 |
 | 33 | [Lejos](https://open.spotify.com/track/4MuqnWkSBc766XPkFhQU1G) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Shika Shika / Botanas](https://open.spotify.com/album/7dejiy33hxqxez4xhOs9Fo) | 3:26 |
 | 34 | [Corazón Lleno de Mil Inviernos](https://open.spotify.com/track/3rE9V4p5WkROR7ud2QG6Yh) | [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Tierra del Fuego](https://open.spotify.com/album/3bM79Y0P0jnhA6Yz8lE2Fa) | 3:54 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 43 | [Si Mami](https://open.spotify.com/track/5FSdcHMNL5oFMrNPC2AWCK) | [Michael Fortvne](https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Si Mami](https://open.spotify.com/album/6389ZeCy0kTooWqyMubJnJ) | 5:08 |
 | 44 | [Pieles](https://open.spotify.com/track/5kh71E46NXD2ub6OcvFVy5) | [Tyu](https://open.spotify.com/artist/5IToOsTYhrDB6BqOxpWTxM) | [Pieles](https://open.spotify.com/album/6wnljTM7txuqv9nCu2sRAu) | 8:20 |
 | 45 | [Cuerpo Que Flota](https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Desire Path](https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V) | 3:35 |
-| 46 | [K Royal Con Las de Harina](https://open.spotify.com/track/08V1tV1HjwZeV04MaV9dpQ) | [Dietscha Jung](https://open.spotify.com/artist/6DYNkp4jACOeI3bn2gmKqg) | [Hola](https://open.spotify.com/album/632kGPMnxUSMHTngCCeb4Z) | 2:21 |
-| 47 | [Collateral](https://open.spotify.com/track/4DZRbYzbMCMpGZMgZDh3Yz) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Collateral](https://open.spotify.com/album/3ZAvSUMAFSxvb9nRekwxQH) | 4:31 |
+| 46 | [Collateral](https://open.spotify.com/track/4DZRbYzbMCMpGZMgZDh3Yz) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Collateral](https://open.spotify.com/album/3ZAvSUMAFSxvb9nRekwxQH) | 4:31 |
+| 47 | [K Royal Con Las de Harina](https://open.spotify.com/track/08V1tV1HjwZeV04MaV9dpQ) | [Dietscha Jung](https://open.spotify.com/artist/6DYNkp4jACOeI3bn2gmKqg) | [Hola](https://open.spotify.com/album/632kGPMnxUSMHTngCCeb4Z) | 2:21 |
 | 48 | [Resistencia](https://open.spotify.com/track/57JZk6IzsVOdSx7U3iAX58) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Resistencia](https://open.spotify.com/album/3TG0EIcV4lRzXY6NQEZD1O) | 4:25 |
 | 49 | [La Nueva Mortalidad](https://open.spotify.com/track/0Mrl7x8w70d4eTm5aaFDMW) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [La Nueva Mortalidad \(Remaster 2021\)](https://open.spotify.com/album/7a2G1S8B3foJ9Ai6U6hOkO) | 5:51 |
 | 50 | [Pebbles Mind Horrors](https://open.spotify.com/track/3FJQL59dUXL0Xq6dJTMXXL) | [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Mijo](https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl), [Rocco Desentis](https://open.spotify.com/artist/6VhNyPvKFaJAzTe5sqPz89) | [Pebbles Mind Horrors](https://open.spotify.com/album/2IwGCkhGFRnn0ojOZRyESl) | 6:10 |
 
-Snapshot ID: `MCw2MWFhZWQ4NjQ0NjEyOWI2YWMzZjBiYWZiNWNhZDcwY2EyN2NmODZm`
+Snapshot ID: `MCxjZTVlMmVjN2JkYjI3MDllMDA3ODc4NWMxNWVkNDZkZGY2OGYyNWM0`

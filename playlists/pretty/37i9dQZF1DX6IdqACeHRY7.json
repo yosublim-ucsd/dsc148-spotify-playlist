@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152437,
+  "num_followers": 152457,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Zjc2OWU2NWVhMjU4ZjM0OGQ4MWJmYjc3MjAzMmE3YzQ2MTBhNjc4",
+  "snapshot_id": "MCwwNjcxOWUxNTE1OGRkN2RiYzVmMGFhNTU0ZDhlNzM2YTFiNDAzN2Mw",
   "tracks": [
     {
       "added_at": "2024-01-12 09:52:44",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Fired Up",
-        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 201086,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Wildflower",
         "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 219967,
       "name": "Corners",
       "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 201086,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 182066,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
     },
     {
       "added_at": "2024-01-12 09:52:44",

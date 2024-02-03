@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: 4batz",
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Lil Tecca",
   "name": "B.A.E.",
   "tracks": [
     {
@@ -268,6 +268,32 @@
       "duration_ms": 132398,
       "name": "5X",
       "url": "https://open.spotify.com/track/2OcbewDrWFNTYRqpSzJBCY"
+    },
+    {
+      "album": {
+        "name": "772 Love Pt. 3 (Your Love)",
+        "url": "https://open.spotify.com/album/3iHCxu9aeXcaqa65jpYWAa"
+      },
+      "artists": [
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        },
+        {
+          "name": "YNW BSlime",
+          "url": "https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu"
+        },
+        {
+          "name": "Ynw4L",
+          "url": "https://open.spotify.com/artist/2dJ7qCfsYlwiI1vDpImybL"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "772 Love Pt. 3 (Your Love)",
+      "url": "https://open.spotify.com/track/1MscIf89IpZW9N9SUtBpsE"
     },
     {
       "album": {
@@ -2852,7 +2878,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 179240,
       "name": "Get Over You (feat. Stunna Gambino)",
       "url": "https://open.spotify.com/track/5frxJmpBBWx1jiRsTHELJl"
@@ -6827,6 +6853,28 @@
     },
     {
       "album": {
+        "name": "She'll Be OK (Remix)",
+        "url": "https://open.spotify.com/album/0dubJTKK4rl13QxRRXhUBa"
+      },
+      "artists": [
+        {
+          "name": "4Fargo",
+          "url": "https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144533,
+      "name": "She'll Be Ok - Remix",
+      "url": "https://open.spotify.com/track/63Vj0fpR8mHtAAWKPwY65C"
+    },
+    {
+      "album": {
         "name": "Lost In Melody (Deluxe)",
         "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
       },
@@ -7825,6 +7873,24 @@
     },
     {
       "album": {
+        "name": "Time Goes By",
+        "url": "https://open.spotify.com/album/7DRjRkSC5t3EJeMiN4Tpc4"
+      },
+      "artists": [
+        {
+          "name": "YK Osiris",
+          "url": "https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "Time Goes By",
+      "url": "https://open.spotify.com/track/55KbAuNeK5FFQEnR9sY1QS"
+    },
+    {
+      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -8114,7 +8180,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 143438,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/3wj55IBTVauAvonKfjRc3b"
@@ -9152,7 +9218,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 182543,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/69b4LVuAneVMRXxpAFBHUB"

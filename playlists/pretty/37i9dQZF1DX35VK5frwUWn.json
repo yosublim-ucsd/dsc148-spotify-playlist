@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTExODk5OGY4MmY4MmIwZmQwNDYzZjcxY2Y2ZTdhNmI5ZGMwZmI1",
+  "snapshot_id": "MCw4MWVmZGJmZDYzMzRkNDBlYjM5MjhjNDA1ZjJkZThiYjhmZDViYzU2",
   "tracks": [
     {
       "added_at": "2022-11-01 04:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 155168,
+      "name": "Said Sum",
+      "url": "https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 143480,
       "name": "Ambition For Cash",
       "url": "https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 155168,
-      "name": "Said Sum",
-      "url": "https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 173186,
+      "name": "712PM",
+      "url": "https://open.spotify.com/track/3FSwpQ9dBZBeBV6UdYHI2R"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "Freddy Krueger (feat. Tee Grizzley)",
         "url": "https://open.spotify.com/album/1RyJuFvHB1mIKGjynj533c"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 244506,
       "name": "Freddy Krueger (feat. Tee Grizzley)",
       "url": "https://open.spotify.com/track/0hwkukpHcBJfGcIUxi1tK2"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 173186,
-      "name": "712PM",
-      "url": "https://open.spotify.com/track/3FSwpQ9dBZBeBV6UdYHI2R"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -771,38 +771,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 271840,
-      "name": "I'M DAT N****",
-      "url": "https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "I Hate YoungBoy",
-        "url": "https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "I Hate YoungBoy",
-      "url": "https://open.spotify.com/track/3itijJswMR7p7RbfqlYf1Z"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Best Friend",
         "url": "https://open.spotify.com/album/4YqXHbPtEXINS3CBtKfCyO"
       },
@@ -835,6 +803,38 @@
       "duration_ms": 246666,
       "name": "2 Of Amerikaz Most Wanted",
       "url": "https://open.spotify.com/track/6S5SJlNXgrUBTLa58NMwGk"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 106133,
+      "name": "MASSAGING ME",
+      "url": "https://open.spotify.com/track/2tzgSUZOUKopYbRqQOVT8X"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "I Hate YoungBoy",
+        "url": "https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "I Hate YoungBoy",
+      "url": "https://open.spotify.com/track/3itijJswMR7p7RbfqlYf1Z"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -879,6 +879,30 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3PO9OtQdvCDJN8zDLtZiYd"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 285026,
+      "name": "California Love - Original Version",
+      "url": "https://open.spotify.com/track/1JClFT74TYSXlzpagbmj0S"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -895,6 +919,26 @@
       "duration_ms": 149568,
       "name": "No Long Talk",
       "url": "https://open.spotify.com/track/6CfrYuD3YRDYdYvH9jNtXY"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "I Am Not A Human Being II (Deluxe)",
+        "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Detail",
+          "url": "https://open.spotify.com/artist/4sglKanXuoU0gqGYP3wiNv"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/6bdFbw9THAMceZtkPWXu8e"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -928,45 +972,9 @@
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 106133,
-      "name": "MASSAGING ME",
-      "url": "https://open.spotify.com/track/2tzgSUZOUKopYbRqQOVT8X"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "I Am Not A Human Being II (Deluxe)",
-        "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Detail",
-          "url": "https://open.spotify.com/artist/4sglKanXuoU0gqGYP3wiNv"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/6bdFbw9THAMceZtkPWXu8e"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "38 Baby 2",
-        "url": "https://open.spotify.com/album/5vjOhA7AkB9WK7I2NnzIex"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 172669,
-      "name": "Ten Talk",
-      "url": "https://open.spotify.com/track/1IeXZVBNGJJExnzNmXcLRX"
+      "duration_ms": 271840,
+      "name": "I'M DAT N****",
+      "url": "https://open.spotify.com/track/0AAVJIN4plafvmNKqRCltG"
     }
   ],
   "unique_name": "RJ Barrett's Taste",

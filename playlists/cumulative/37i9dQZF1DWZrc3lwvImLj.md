@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-393 songs - 17 hr 12 min
+397 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [I Tried](https://open.spotify.com/track/4ZEjWfdhgbV5M90h8XMn8N) | [Rory Campbell](https://open.spotify.com/artist/065g9oYYpGh7AOf7UR2Jr2) | [The Past Hasn't Happened Yet](https://open.spotify.com/album/7LtLQkFRQVMm06t6C9XUZO) | 4:03 | 2022-05-04 |  |
 | [Idyll](https://open.spotify.com/track/6yueQma3A7eYM4LDyR7JtI) | [DeLange](https://open.spotify.com/artist/7HQO1jUh000BYg1FEeV6Wa) | [Idyll](https://open.spotify.com/album/6wp4tJuDKRoHq9f78RwYK3) | 2:29 | 2023-01-19 |  |
 | [If Only I Could Stop the Clock](https://open.spotify.com/track/2Ey5klJpXYZj8Ci9thENWA) | [Maarten Schellekens](https://open.spotify.com/artist/35HKcY4o7vVi5rzJ0gPxis) | [If Only I Could Stop the Clock](https://open.spotify.com/album/5MPk2CIBjpHTo4VKeLCfEE) | 2:31 | 2023-01-19 | 2023-11-16 |
+| [If We Ever Meet](https://open.spotify.com/track/2QVXJu9tVTz8lsQ2Ht3m0s) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [If We Ever Meet](https://open.spotify.com/album/45HfYhWidhCh79nKsklHQL) | 2:20 | 2024-02-02 |  |
 | [Il lago](https://open.spotify.com/track/05HDcU36t1sVPiOzAAolke) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Il lago](https://open.spotify.com/album/1KoFQ5kYI2wyEjvwdkb582) | 2:30 | 2022-02-02 |  |
 | [Illuminate The Night](https://open.spotify.com/track/4xwD2O3xL0aMEI2jfw7mb8) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Illuminate The Night](https://open.spotify.com/album/2fbtqkEVf615YZStDOMGdw) | 2:07 | 2023-08-07 | 2023-11-16 |
 | [Impasse des Bourdonnais](https://open.spotify.com/track/53JV92TTWHIllhui4TkoU2) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Impasse des Bourdonnais](https://open.spotify.com/album/2Kiy7znRPwbZjK1fQvOe0F) | 1:07 | 2021-12-14 | 2022-02-03 |
@@ -188,6 +189,7 @@
 | [Mar De Ardora](https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Aira](https://open.spotify.com/album/0CFCDknzl9INAM2calrwlB) | 3:06 | 2021-12-14 | 2022-05-05 |
 | [Mari](https://open.spotify.com/track/5AsYLazJhOnZaAxfQgTwte) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [Mari](https://open.spotify.com/album/4U1tuF9PINDX3hGsp0OCRg) | 2:01 | 2022-12-21 | 2023-11-16 |
 | [Melancholy](https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Melancholy](https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3) | 3:34 | 2023-05-09 |  |
+| [Mellow Moonlit Melody](https://open.spotify.com/track/3f0kAErxdkQiZpXmTufdLd) | [Giovanna Petrini](https://open.spotify.com/artist/25Bpq4sqHbHT853VsYM9wb) | [Mellow Moonlit Melody](https://open.spotify.com/album/66C59BnUX617aAMbRux3Nu) | 2:41 | 2024-02-02 |  |
 | [Melts Into Air](https://open.spotify.com/track/0N2rkPnpGdWSP9xotxYl2F) | [Jill Corazina](https://open.spotify.com/artist/0j5SBGx8jGWDdJM4Cmth83) | [Melts Into Air](https://open.spotify.com/album/1uRrdwGzAyPUmiS3RRaFDi) | 2:46 | 2021-12-14 | 2023-11-16 |
 | [Mercurio](https://open.spotify.com/track/4ZmKxpk6LQQkhW8mwWiIPP) | [Henry Gadacz](https://open.spotify.com/artist/63iLnJN35mBx2YBZUNf8Sr) | [Mercurio](https://open.spotify.com/album/23r263kaH1Ph9D8vUTgY09) | 2:14 | 2022-08-30 | 2023-04-05 |
 | [Michelle](https://open.spotify.com/track/426m22xIyYxlPJJdWUJVLG) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Michelle](https://open.spotify.com/album/6q7FMxN2FpBotFqLnioQck) | 3:32 | 2022-12-21 |  |
@@ -261,6 +263,7 @@
 | [Reflections](https://open.spotify.com/track/52GgYnigt5XKncqm9sEjHw) | [Illari Palben](https://open.spotify.com/artist/7CqYCedd2MyJOwVDQnXSAq) | [Reflections](https://open.spotify.com/album/3gJ78a3igJbhbBCE5uXeYG) | 2:36 | 2022-08-03 |  |
 | [Reflections](https://open.spotify.com/track/1qXzQi8CxX0Y5JqZ22m1zy) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reflections](https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI) | 2:09 | 2021-12-14 | 2023-08-08 |
 | [Reflective](https://open.spotify.com/track/0qVrRwBeIne9ggGfU31U8V) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Reflective](https://open.spotify.com/album/5Txt4c0EKgZKufA2eanyun) | 2:15 | 2023-01-09 | 2023-02-15 |
+| [Regarde les flammes danser](https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Regarde les flammes danser](https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV) | 2:11 | 2024-02-02 |  |
 | [Reggimi](https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ) | [Natalino Serafin](https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh) | [Reggimi](https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR) | 2:37 | 2021-12-14 | 2023-11-16 |
 | [Relief](https://open.spotify.com/track/3s6CQV3a3fhMOUbEqyqmhb) | [Philipp Hasse](https://open.spotify.com/artist/76Awap7mRTdIk1ACiLdzYX) | [Relief](https://open.spotify.com/album/1d48qGcKGwSmxtsQ2wagp0) | 3:08 | 2023-07-25 |  |
 | [Rely On Me](https://open.spotify.com/track/6K2y1sgp1srCyBn0eboK4L) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Rely On Me](https://open.spotify.com/album/4giThIRIXcIsf2vmIu1QjB) | 2:47 | 2023-07-25 |  |
@@ -284,6 +287,7 @@
 | [Serendipitous Moments](https://open.spotify.com/track/4U5cOQybpKtE5UU3uanEPi) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Serendipitous Moments](https://open.spotify.com/album/5gPa0qiVCOINiP66aBGGie) | 2:55 | 2023-09-05 |  |
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2021-12-14 | 2023-05-10 |
 | [Shadow Lake](https://open.spotify.com/track/670ju7vreYMZdh22AfhQ9N) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Shadow Lake](https://open.spotify.com/album/5ERM8QWfXBDp2ohI01V0Xz) | 2:31 | 2023-12-12 |  |
+| [Silent Waltz](https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys) | [Alix Claude](https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD) | [Silent Waltz](https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg) | 2:42 | 2024-02-02 |  |
 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 | 2021-12-14 |  |
 | [Singularities](https://open.spotify.com/track/0Tkj0zVric1PWv2NVauxdi) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Singularities](https://open.spotify.com/album/6S4hCHy5zVfBy0Ceauipg9) | 2:29 | 2022-08-03 |  |
 | [Slow Retrieve](https://open.spotify.com/track/2Fw8qNX783GsOjRGPF4Diq) | [Joseph Stanley](https://open.spotify.com/artist/1qW4m07516Q5lMSerc7mr9) | [Slow Retrieve](https://open.spotify.com/album/6YsrFsOvySKWa7ye5xyTGl) | 4:03 | 2021-12-14 | 2022-05-21 |

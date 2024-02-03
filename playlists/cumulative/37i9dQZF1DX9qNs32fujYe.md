@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Judas Priest
 
-791 songs - 2 day 10 hr 36 min
+792 songs - 2 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 | 2023-10-27 |  |
 | [Dying Of The Light](https://open.spotify.com/track/3kBsOgVKo2Xy4HtgznGO0U) | [Frozen Land](https://open.spotify.com/artist/3D5YAQD9yRu8ohjM9SW948) | [Out Of The Dark](https://open.spotify.com/album/76bXuxiCtxCW0OIsGOtW2U) | 3:46 | 2023-10-06 | 2023-10-30 |
 | [Dying to Live](https://open.spotify.com/track/0W6SPZVgUEtM34xR0Ap4LI) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone](https://open.spotify.com/album/1IIqfOuXvkV4idBpMQPQQx) | 3:09 | 2022-07-13 | 2023-11-05 |
-| [Dying to Live](https://open.spotify.com/track/6IjwZM7myeMpb8CcZUGEv5) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone](https://open.spotify.com/album/12PgC7GyO8zgKeFh5PqLbH) | 3:09 | 2023-12-06 |  |
+| [Dying to Live](https://open.spotify.com/track/6IjwZM7myeMpb8CcZUGEv5) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone](https://open.spotify.com/album/12PgC7GyO8zgKeFh5PqLbH) | 3:09 | 2023-12-06 | 2024-02-03 |
 | [Eidolon](https://open.spotify.com/track/0bCVKJmPEOP28h41Qrp77w) | [Once Human](https://open.spotify.com/artist/1VhMNOBmLqZr7E7jsVrZLQ) | [Scar Weaver](https://open.spotify.com/album/2drAFA1ZzlXkTZBg4llIb1) | 3:53 | 2022-02-11 | 2022-04-19 |
 | [Embers Fire](https://open.spotify.com/track/2FCPbojm4fFPWRZ9WWQ89x) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Embers Fire](https://open.spotify.com/album/6mOZFO7g6QBtBr5R8fzZZD) | 4:51 | 2023-12-06 | 2023-12-11 |
 | [Embrace The Night](https://open.spotify.com/track/4URwHwvDeDZobzIQvfV3Bb) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Winterbane \(Japan Edition\)](https://open.spotify.com/album/7959qrdIZlcH6ETwW0N5u3) | 5:04 | 2021-12-17 | 2022-07-15 |
@@ -602,6 +602,7 @@
 | [Song to Say Goodbye](https://open.spotify.com/track/1x9jqnd7tU7qRS2Uwt5PIx) | [Harakiri for the Sky](https://open.spotify.com/artist/58KBq6qkQnfWYRqCjffQQq) | [Mære](https://open.spotify.com/album/4c32wkJFuLUKHueu8YlldK) | 5:24 | 2022-07-13 | 2023-12-22 |
 | [Sorcerer's Fate](https://open.spotify.com/track/3dg5pL4eoNNzuWMYrSYcK1) | [Spirit Adrift](https://open.spotify.com/artist/5sW5eR9g4kNibasfrlw4EN) | [Sorcerer's Fate](https://open.spotify.com/album/5aucqaGKQlvoLPkJRQuPj5) | 5:33 | 2022-06-10 | 2022-06-29 |
 | [Souleater](https://open.spotify.com/track/7KWCzqPg2WrritNTlYuQ4t) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [Souleater](https://open.spotify.com/album/0odSFBZLUN9TLasYMArCU6) | 4:56 | 2021-12-17 | 2022-07-29 |
+| [Speaking of the Devil](https://open.spotify.com/track/4GhsSMTgNDpY41NYpCgv5W) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Speaking of the Devil](https://open.spotify.com/album/2vaWy2D9cVuzWBJPNcCgOX) | 3:45 | 2024-01-26 |  |
 | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX) | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91) | 3:19 | 2023-01-27 |  |
 | [Spirit of Daedalus](https://open.spotify.com/track/1vTplXWSRXH8MiyLim4KVd) | [Freedom Call](https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F) | [Spirit of Daedalus](https://open.spotify.com/album/0znEdeMc1Lg16T8ayMqb4d) | 3:49 | 2022-03-22 | 2022-05-01 |
 | [Spotlight](https://open.spotify.com/track/3e9nuswzE0ZLoihvTGuXDk) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Spotlight](https://open.spotify.com/album/3ri2HhfbONcFi8tyZMiUMW) | 4:23 | 2023-10-27 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 0,
+  "2024-02-03": 0,
   "date_first_scraped": "2023-11-18",
   "description": "",
   "name": "Ballads",
@@ -155,6 +155,24 @@
       "duration_ms": 160373,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/1ZEOIhSn6BKErV59bIgn76"
+    },
+    {
+      "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176466,
+      "name": "Campus",
+      "url": "https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb"
     },
     {
       "album": {
@@ -455,6 +473,24 @@
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "Highway to Hell",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
     },
     {
       "album": {

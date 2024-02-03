@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,910 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,914 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 32 | [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 |
 | 33 | [Lasting Memories](https://open.spotify.com/track/7zUsClREgMYQ5GqcnmioIF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Lasting Memories](https://open.spotify.com/album/20k1KmdxOiXyQHhw7QyXby) | 3:34 |
 | 34 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 |
-| 35 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC) | 3:47 |
-| 36 | [Stars](https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Vapor](https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt) | 6:19 |
+| 35 | [Stars](https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Vapor](https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt) | 6:19 |
+| 36 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC) | 3:47 |
 | 37 | [Floating](https://open.spotify.com/track/5Zala3EsVj5ZLpQdvlIX2M) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Floating](https://open.spotify.com/album/6b2Sqwcq4FXgRXLVsbIPdr) | 2:16 |
 | 38 | [Sleepy Eye](https://open.spotify.com/track/0oRADajeX8yslHA6lpASTf) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Grinning Cat](https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH) | 2:44 |
 | 39 | [Light Dance](https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [How My Heart Sings](https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg) | 4:49 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 44 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 |
 | 45 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 |
 | 46 | [Love is a personal thing](https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:13 |
-| 47 | [Monotony](https://open.spotify.com/track/09V60XC2fnZQ69LY6saLt1) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 8:22 |
-| 48 | [One](https://open.spotify.com/track/2PlnuhLHxil9qZrkj7xz1G) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 4:48 |
+| 47 | [One](https://open.spotify.com/track/2PlnuhLHxil9qZrkj7xz1G) | [Nobuto Suda](https://open.spotify.com/artist/3ml3FpzCetshYSyx5ghKGS) | [Transitoriness](https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ) | 4:48 |
+| 48 | [Monotony](https://open.spotify.com/track/09V60XC2fnZQ69LY6saLt1) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 8:22 |
 | 49 | [kokyu](https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 7:53 |
 | 50 | [Stratum](https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [FRKWYS Vol\. 15: serenitatem](https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP) | 7:11 |
 
-Snapshot ID: `MCwyNWEwZTZmOGQyY2ZkNTM2NmE1OTZlNjJhMjI5ZTU0YmExNWEyYTJi`
+Snapshot ID: `MCwyZGZmMDAxZTRlNDdiOTBhYjRiNThkZDc4NjgwOTRhMGM2Yjk1MGFj`

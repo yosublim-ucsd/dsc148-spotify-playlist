@@ -791,6 +791,32 @@
     },
     {
       "album": {
+        "name": "GENESIS",
+        "url": "https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208804,
+      "name": "GENESIS",
+      "url": "https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34"
+    },
+    {
+      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/3d5lmdfqpoCU49lJaI4k8J"
       },
@@ -2066,7 +2092,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 406584,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
@@ -2332,7 +2358,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 203750,
       "name": "SUBMARINE",
       "url": "https://open.spotify.com/track/2ajKYSNnU7l89EJV8job8k"
@@ -2822,7 +2848,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 125856,
       "name": "Waka Waka (Mwaki)",
       "url": "https://open.spotify.com/track/5Idil10mcvgdD2CHbRR2sF"

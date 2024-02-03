@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 55980,
+  "2024-02-03": 55989,
   "date_first_scraped": "2023-10-23",
   "description": "Mergulhe dentro da sua mente com esses sons do mar.",
   "name": "Sons do Mar",
@@ -1338,6 +1338,24 @@
     },
     {
       "album": {
+        "name": "High Tide",
+        "url": "https://open.spotify.com/album/5GSSHqPvOVkmMILwAQFuhS"
+      },
+      "artists": [
+        {
+          "name": "Seas of Dreams",
+          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298783,
+      "name": "High Tide",
+      "url": "https://open.spotify.com/track/2JUUU04a6BU7EYkVA5Mym0"
+    },
+    {
+      "album": {
         "name": "Nature's Beautiful Sounds",
         "url": "https://open.spotify.com/album/1i7Wx47S8juKmqYC8vO7xi"
       },
@@ -2231,7 +2249,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 170000,
       "name": "Peaceful Low Tide",
       "url": "https://open.spotify.com/track/1qDMVYMJEQCTkTVntIhvE9"

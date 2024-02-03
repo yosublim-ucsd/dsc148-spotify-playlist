@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-02",
-  "description": "Open that sh*t up! ",
+  "description": "Open that sh*t up! Cover: Rich Amiri",
   "name": "RAGE",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 146750,
       "name": "bleh",
       "url": "https://open.spotify.com/track/5jhI9kdseTMJQYvjIm5MVU"
@@ -393,6 +393,24 @@
     },
     {
       "album": {
+        "name": "kingtut",
+        "url": "https://open.spotify.com/album/77nZkr98snqK9S5KN7gxiA"
+      },
+      "artists": [
+        {
+          "name": "Hardrock",
+          "url": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172878,
+      "name": "kingtut",
+      "url": "https://open.spotify.com/track/5o3hsfebCXZUBb5OzsFqyK"
+    },
+    {
+      "album": {
         "name": "Mafia Musik",
         "url": "https://open.spotify.com/album/3S9jhXK2F3LMMKFWFs5MEU"
       },
@@ -466,6 +484,24 @@
       "duration_ms": 175716,
       "name": "Lyfe",
       "url": "https://open.spotify.com/track/5GT6tY36LQwQdPfE25NaBA"
+    },
+    {
+      "album": {
+        "name": "lonely boy",
+        "url": "https://open.spotify.com/album/6KPDJJLnlulWdsy5pENApB"
+      },
+      "artists": [
+        {
+          "name": "Scrim",
+          "url": "https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143108,
+      "name": "maserati slick",
+      "url": "https://open.spotify.com/track/3pE08q8PvdFDikPA5oMToS"
     },
     {
       "album": {
@@ -658,7 +694,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 121399,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
@@ -676,7 +712,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 121399,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug"
@@ -962,7 +998,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 146905,
       "name": "Way Up!",
       "url": "https://open.spotify.com/track/7mj1prKBTEisjBlahW1PSK"

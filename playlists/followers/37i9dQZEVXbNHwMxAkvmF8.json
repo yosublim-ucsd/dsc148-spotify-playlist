@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 71436,
+  "2024-02-03": 71428,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Hungary.",
   "name": "Top 50 - Hungary",
@@ -5619,7 +5619,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -6043,7 +6043,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 203529,
       "name": "four moods",
       "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
@@ -6417,6 +6417,24 @@
       "duration_ms": 136286,
       "name": "Gett\u00f3 csirke",
       "url": "https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G"
+    },
+    {
+      "album": {
+        "name": "Gett\u00f3 csirke",
+        "url": "https://open.spotify.com/album/3Uo5pWBZzF9lXwVzr5rG9q"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136286,
+      "name": "Gett\u00f3 csirke",
+      "url": "https://open.spotify.com/track/1n6tyC2tdkD4ZwVas8alR2"
     },
     {
       "album": {
@@ -9687,7 +9705,7 @@
           "url": "https://open.spotify.com/artist/2v7hO7F1AWmS3HEkwvtPaE"
         },
         {
-          "name": "Ekhoe",
+          "name": "ekhoe",
           "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
         },
         {
@@ -9697,7 +9715,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 153650,
       "name": "Latyo \u00e9s haze",
       "url": "https://open.spotify.com/track/0sqbvBbyS2Tke9oQkLJ750"
@@ -11047,7 +11065,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 152619,
       "name": "MENTALITAT",
       "url": "https://open.spotify.com/track/3wQlR2WBPLoKAN6uZgRx54"
@@ -13130,6 +13148,28 @@
     },
     {
       "album": {
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -13159,7 +13199,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
@@ -19641,7 +19681,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"

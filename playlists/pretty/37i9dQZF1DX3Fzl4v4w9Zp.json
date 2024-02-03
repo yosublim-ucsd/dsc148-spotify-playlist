@@ -1,12 +1,12 @@
 {
   "description": "Keep your finger on the pulse of Americana. Cover: The Red Clay Strays",
-  "num_followers": 607019,
+  "num_followers": 606961,
   "original_name": "The Pulse of Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2QwNjMwNGE1MDYxMTc0YmIyMWM3MzQxY2FlMzBlNDJkMzI5YjVm",
+  "snapshot_id": "MCw4MDhjZjgzNWVmYzA1Y2U1MWY5ODQ4MjQ2OGEyNTBkOTIxMjI1MTli",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -73,10 +73,10 @@
       "url": "https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "OUTSIDE",
-        "url": "https://open.spotify.com/album/5QCncBR19XVNeTeIyGJijz"
+        "name": "God And A Girl",
+        "url": "https://open.spotify.com/album/6BFmOJ19FvMs2CEpGEn3Hx"
       },
       "artists": [
         {
@@ -84,25 +84,25 @@
           "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
         }
       ],
-      "duration_ms": 205880,
-      "name": "Burn (Spotify OUTSIDE Version) - Live from Nashville",
-      "url": "https://open.spotify.com/track/7sbC0OC0HQZRzRkzdwi2pe"
+      "duration_ms": 294005,
+      "name": "God And A Girl",
+      "url": "https://open.spotify.com/track/6DDPrs8s0ZtN5LirmGPZSV"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Ahead Of The Game",
-        "url": "https://open.spotify.com/album/6FkxomPxNTWvIPcuau3FN6"
+        "name": "Bitter Winds",
+        "url": "https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg"
       },
       "artists": [
         {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Ahead Of The Game",
-      "url": "https://open.spotify.com/track/0lZHfXYmrWmnemBF3rAorq"
+      "duration_ms": 259440,
+      "name": "Bitter Winds",
+      "url": "https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -119,6 +119,38 @@
       "duration_ms": 180524,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Hello, I'm Britti.",
+        "url": "https://open.spotify.com/album/09WQABIo1U9D8H8SO7WK0a"
+      },
+      "artists": [
+        {
+          "name": "Britti",
+          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Ahead Of The Game",
+        "url": "https://open.spotify.com/album/6FkxomPxNTWvIPcuau3FN6"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Ahead Of The Game",
+      "url": "https://open.spotify.com/track/0lZHfXYmrWmnemBF3rAorq"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -353,6 +385,22 @@
       "url": "https://open.spotify.com/track/3PsgBvZYuDB28d3V7JXNNd"
     },
     {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "OUTSIDE",
+        "url": "https://open.spotify.com/album/5QCncBR19XVNeTeIyGJijz"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 205880,
+      "name": "Burn (Spotify OUTSIDE Version) - Live from Nashville",
+      "url": "https://open.spotify.com/track/7sbC0OC0HQZRzRkzdwi2pe"
+    },
+    {
       "added_at": "2023-12-15 05:00:00",
       "album": {
         "name": "Strangers No More",
@@ -460,7 +508,7 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         },
         {
-          "name": "The War and Treaty",
+          "name": "The War And Treaty",
           "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
@@ -1188,7 +1236,7 @@
       },
       "artists": [
         {
-          "name": "The War and Treaty",
+          "name": "The War And Treaty",
           "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
@@ -2132,7 +2180,7 @@
       },
       "artists": [
         {
-          "name": "The War and Treaty",
+          "name": "The War And Treaty",
           "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
@@ -2403,22 +2451,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "The Misfit",
-        "url": "https://open.spotify.com/album/3RWT4u4jQBDxhhZorAZXLl"
-      },
-      "artists": [
-        {
-          "name": "Rhett Miller",
-          "url": "https://open.spotify.com/artist/0wNZd1CMOsFZ0TiBhlqjD5"
-        }
-      ],
-      "duration_ms": 236458,
-      "name": "Go Through You",
-      "url": "https://open.spotify.com/track/0iJtDX4l9iylfqrR6zwrGi"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Out of My Head",
         "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
       },
@@ -2479,38 +2511,6 @@
       "duration_ms": 177453,
       "name": "Long Journey Home",
       "url": "https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 227224,
-      "name": "Southern Comfort",
-      "url": "https://open.spotify.com/track/17Rlm2i1lChVzLN7aqkqlN"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Lost Lover's Eyes",
-        "url": "https://open.spotify.com/album/1eEqgnT0al5DaAaDHdShsG"
-      },
-      "artists": [
-        {
-          "name": "Vince Herman",
-          "url": "https://open.spotify.com/artist/68y27sv6lj2UUtFw4ckGiG"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Lost Lover's Eyes",
-      "url": "https://open.spotify.com/track/4mrFszdYwKUgN5hlxEAfKK"
     }
   ],
   "unique_name": "The Pulse of Americana",

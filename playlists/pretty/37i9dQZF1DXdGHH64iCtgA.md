@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,942 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,953 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 14 | [oh baby](https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 5:49 |
 | 15 | [La Rua Madureira](https://open.spotify.com/track/2NTZ1nzUqueH7odDcjLq5s) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:41 |
 | 16 | [Bayside](https://open.spotify.com/track/7GhnJwfACNTFXOlyByTWtK) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Bayside](https://open.spotify.com/album/6zkyKkJPiRV3EiAuTg6aQC) | 5:29 |
-| 17 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 |
-| 18 | [Pain](https://open.spotify.com/track/2tpfPi4qSamU9EX5Q8FnNi) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/3A0q6JgJ9jky4VRJnCDxC3) | 7:19 |
+| 17 | [Pain](https://open.spotify.com/track/2tpfPi4qSamU9EX5Q8FnNi) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/3A0q6JgJ9jky4VRJnCDxC3) | 7:19 |
+| 18 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 |
 | 19 | [MADELINE](https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [MADELINE](https://open.spotify.com/album/6hW5N53gZtSPJQWExInjp6) | 3:24 |
 | 20 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 |
 | 21 | [Han Jan \- Edit](https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Han Jan](https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc) | 4:02 |
@@ -92,12 +92,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 82 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
 | 83 | [Electrian](https://open.spotify.com/track/6pErJ8bs3zL996xN0j93RF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Galazy EP](https://open.spotify.com/album/1PULF355Ilwz6D00dFF1cn) | 6:52 |
 | 84 | [Burner](https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Burner](https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl) | 5:08 |
-| 85 | [Animosity \- SOPHIE Remix](https://open.spotify.com/track/3fvl0xzlAeO52HpNUwtSsC) | [Abyss X](https://open.spotify.com/artist/51ndPH5vzgLHvceXP7Ij2l), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Animosity \(SOPHIE Remix\)](https://open.spotify.com/album/6uAEMEeFuJV9n0U8RRcWUh) | 8:06 |
-| 86 | [Beograd \- Edit](https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Thirst](https://open.spotify.com/album/7AoXn0h3P8wtRN36CrA14y) | 3:36 |
+| 85 | [Beograd \- Edit](https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Thirst](https://open.spotify.com/album/7AoXn0h3P8wtRN36CrA14y) | 3:36 |
+| 86 | [Animosity \- SOPHIE Remix](https://open.spotify.com/track/3fvl0xzlAeO52HpNUwtSsC) | [Abyss X](https://open.spotify.com/artist/51ndPH5vzgLHvceXP7Ij2l), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Animosity \(SOPHIE Remix\)](https://open.spotify.com/album/6uAEMEeFuJV9n0U8RRcWUh) | 8:06 |
 | 87 | [Like A Good Old Friend](https://open.spotify.com/track/4Ndo9hhsgkQ171kzuDs1a9) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Like A Good Old Friend](https://open.spotify.com/album/5CkLqjqCvngBklHvkK4QY8) | 3:38 |
 | 88 | [Let It Go](https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i) | [KITTENS](https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM) | [Let It Go](https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ) | 3:07 |
-| 89 | [On Your Mind](https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d) | 4:06 |
-| 90 | [Cirrus](https://open.spotify.com/track/2hNTfrAILBLesbPootV83e) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Cirrus](https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn) | 5:52 |
+| 89 | [Cirrus](https://open.spotify.com/track/2hNTfrAILBLesbPootV83e) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Cirrus](https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn) | 5:52 |
+| 90 | [On Your Mind](https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d) | 4:06 |
 | 91 | [U Wanna?](https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1) | [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Sir JoQ](https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs) | [U Wanna?](https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO) | 4:10 |
 | 92 | [Silhouettes \(I, II, III\)](https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 10:42 |
 | 93 | [The Ghost](https://open.spotify.com/track/2QIYX6ULs33vMBurmcA5Kw) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [U\. \- Junior Sanchez Remix](https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [U\. \(Junior Sanchez Remix\)](https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8) | 2:44 |
 | 100 | [XTASIS CARNAL](https://open.spotify.com/track/1fBeP0UhhvoSBmbC98KV3i) | [SITA](https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI), [Cardopusher](https://open.spotify.com/artist/7de3eunuDjvcwRudXnJEXr) | [XTASIS CARNAL](https://open.spotify.com/album/2oM79LXvjVTRcK3W7eqZID) | 3:51 |
 
-Snapshot ID: `MCxkOGVjOWI0M2M0NGMwOGFjYzMwNzc3NWUxOTI5YTUyOTQwYTM3Yjhi`
+Snapshot ID: `MCwwMGQ4MGQzZjUzOGY2ZGNlNmE3YjJiOTkwNTY0NjNkNDU5MDRkYmU2`

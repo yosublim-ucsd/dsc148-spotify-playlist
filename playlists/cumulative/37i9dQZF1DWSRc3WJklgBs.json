@@ -11884,7 +11884,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 208995,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
@@ -24114,6 +24114,24 @@
       "duration_ms": 182457,
       "name": "Us",
       "url": "https://open.spotify.com/track/0reR3yfMTisKWQUnOmjxkN"
+    },
+    {
+      "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/06PMmkzppZU6YSZVQbHpzy"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229024,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/6b57FDNY52AlFJa81vTijE"
     },
     {
       "album": {

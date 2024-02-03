@@ -4,7 +4,7 @@
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-77 songs - 4 hr 18 min
+78 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Pouco a Pouco](https://open.spotify.com/track/2XpLF91lmKXTduqNIAhsqe) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Os Garotin Session](https://open.spotify.com/album/1TmShjmZqjOqvhCbma8B4s) | 2:51 | 2023-09-15 | 2023-12-16 |
 | [Pulando](https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c) | [Pulando](https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN) | 2:44 | 2023-09-15 |  |
 | [Pânico](https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Pânico](https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5) | 3:03 | 2023-10-27 |  |
-| [Pôr Do Sol](https://open.spotify.com/track/5qTFpdZGb94SFWQ7AFqYPt) | [Carol Olly](https://open.spotify.com/artist/1eOQwXqT0DJ1XbXMdOp1QR), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Pôr Do Sol](https://open.spotify.com/album/1I0fKlFwD13sGC8kHQ77lS) | 2:31 | 2023-12-15 |  |
+| [Pôr Do Sol](https://open.spotify.com/track/5qTFpdZGb94SFWQ7AFqYPt) | [Carol Olly](https://open.spotify.com/artist/1eOQwXqT0DJ1XbXMdOp1QR), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Pôr Do Sol](https://open.spotify.com/album/1I0fKlFwD13sGC8kHQ77lS) | 2:31 | 2023-12-15 | 2024-02-03 |
+| [Quando acordar](https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Quando acordar](https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG) | 3:20 | 2024-02-02 |  |
 | [Quebrados](https://open.spotify.com/track/7gcL9v9OW5iNigeVBL7BB9) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Dinho](https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p), [MANSUR](https://open.spotify.com/artist/3YNBgvlJB70alobYMUDmmO) | [Escuro Brilhante, Último Dia no Orfanato Tia Guga](https://open.spotify.com/album/5Y2p1OcAawojX5XstCxJob) | 3:53 | 2023-12-15 |  |
 | [Quer Saber](https://open.spotify.com/track/71ppt3UJSaN6vKK8QYvncu) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Quer Saber](https://open.spotify.com/album/0dYLcytZcb8EZqTVa0t0r4) | 2:56 | 2023-09-15 | 2023-10-16 |
 | [Química Perfeita](https://open.spotify.com/track/0oIqwGCNw2u7gmL0yF9svI) | [JE$$I](https://open.spotify.com/artist/5dNWhZSPl0VSzZgvChB11Q), [Kadow](https://open.spotify.com/artist/393VRrXwPo9GrGgJd6FeWx) | [Química Perfeita](https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw) | 2:57 | 2023-09-15 |  |
@@ -75,7 +76,7 @@
 | [Sinto a Sua Falta](https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Sinto a Sua Falta](https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL) | 3:21 | 2023-09-15 |  |
 | [só eu sei](https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [só eu sei](https://open.spotify.com/album/64lnpVXtLJjZVA1sScIbGo) | 1:55 | 2023-09-15 |  |
 | [Tempo Pra Pensar](https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V) | [Rosas & Violetas faço um buquê\. Eu quero queimar um \*\*\*\*\*\*\* com você.](https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg) | 3:00 | 2023-09-15 |  |
-| [That's Why I Love You](https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e), [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [That's Why I Love You](https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV) | 3:38 | 2023-11-10 |  |
+| [That's Why I Love You](https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv) | [idontcare](https://open.spotify.com/artist/3sXDqkz0u2n7NXAPb3H7jV), [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [That's Why I Love You](https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV) | 3:38 | 2023-11-10 |  |
 | [Traços](https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC) | [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM) | [Traços](https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L) | 3:19 | 2023-11-10 |  |
 | [TUDO CULPA DO RNB](https://open.spotify.com/track/5vCZJokCi68SStDWFyGG3v) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Unicórnio](https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS) | 4:19 | 2023-11-03 | 2024-01-27 |
 | [Um momento](https://open.spotify.com/track/3ZBvsS1lEFjKc6kUqsAcHY) | [Gray C.](https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS) | [Um momento](https://open.spotify.com/album/07S8GOxygxS3qpgcaU3npE) | 3:00 | 2023-09-15 | 2023-12-16 |

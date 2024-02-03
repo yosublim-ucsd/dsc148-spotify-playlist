@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 235760,
+  "num_followers": 235836,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzgwNGE2MGFmMzczNTU3Njk2MjEzMGExMTNlMzI4ZmIwNjk2Y2Uz",
+  "snapshot_id": "MCxmNWNlNDY4YjMzOGYzYTFkNzg2MDg0NGEyNTZjY2JjYjExMjIwNDgz",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -683,22 +683,18 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Los Amigos",
-        "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
+        "name": "Reina de la Canci\u00f3n Latina",
+        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
       },
       "artists": [
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Hector Casanova",
-          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
         }
       ],
-      "duration_ms": 382360,
-      "name": "Agua De Clavelito",
-      "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
+      "duration_ms": 165213,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -719,18 +715,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Reina de la Canci\u00f3n Latina",
-        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
+        "name": "Los Amigos",
+        "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
       },
       "artists": [
         {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Hector Casanova",
+          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
         }
       ],
-      "duration_ms": 165213,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
+      "duration_ms": 382360,
+      "name": "Agua De Clavelito",
+      "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
     },
     {
       "added_at": "2022-12-30 18:20:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 
 > remember when we were dark and brooding\. Cover: CHVRCHES
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,638 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,666 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 | 31 | [Down](https://open.spotify.com/track/5eCkuGPZNl4mISFNPgr3Dd) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5) | [ACT ONE](https://open.spotify.com/album/5laClXclOn3sCQOWKqFohJ) | 3:17 |
 | 32 | [Gemini Feed](https://open.spotify.com/track/5fdzPMOxUqVJYSzTP5cFP7) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [The Altar](https://open.spotify.com/album/2WzQeYsbrDq1UcVZmY8dVR) | 3:06 |
 | 33 | [Scream Drive Faster](https://open.spotify.com/track/4CBfY6tYGrm6o5wluoPKaT) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Scream Drive Faster](https://open.spotify.com/album/2Sr4PjxeH0SrquSDMPZF7m) | 4:00 |
-| 34 | [Can't Help But Think About You](https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Can't Help But Think About You](https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www) | 3:28 |
-| 35 | [Touch](https://open.spotify.com/track/2ylVfK4pVfeSV4zxieyT2B) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:34 |
+| 34 | [Touch](https://open.spotify.com/track/2ylVfK4pVfeSV4zxieyT2B) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:34 |
+| 35 | [Can't Help But Think About You](https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Can't Help But Think About You](https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www) | 3:28 |
 | 36 | [A Real Hero](https://open.spotify.com/track/53b1icRPhYU9dvy8p1qZkS) | [College](https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6), [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b) | [A Real Hero](https://open.spotify.com/album/73c34KIp08yd4Jp0mkufmV) | 4:27 |
 | 37 | [Hurricane](https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [Secondhand Rapture](https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt) | 3:46 |
 | 38 | [Two Weeks](https://open.spotify.com/track/7E66uxFz2NtHWAyiGXotha) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [LP1](https://open.spotify.com/album/070rEVRV6FWywkncMWLhs6) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 | 49 | [Girls Your Age](https://open.spotify.com/track/3wchQBokK9IDtoYrw14gpK) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Transviolet](https://open.spotify.com/album/6nlhWBxBwgtwH80zCK8djC) | 3:28 |
 | 50 | [i thought i was waiting](https://open.spotify.com/track/7jyfcztRYdl9rjrzVQoUQ2) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [love you forever](https://open.spotify.com/album/5QPDTfgHE0ElC8calQBjtb) | 3:03 |
 
-Snapshot ID: `MCw4ZDYyMGJlNzBhZWFlY2M2MDk0YzdmNmFmYjMxM2UyOGYwYjIyOTYx`
+Snapshot ID: `MCw4ZjAwNDE2ZTZjMTBkMmIzN2EzZDQ4ODE3ODI3MGZkMGFmMWUxMjlm`

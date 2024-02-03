@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,277 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,282 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 12 | [Je dois m'en aller](https://open.spotify.com/track/7fxvGz4A606ADmsAGT5r4Q) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:26 |
 | 13 | [Tout](https://open.spotify.com/track/59qPfUOkd0sboUlhQfR5Rd) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Pure](https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm) | 4:16 |
 | 14 | [Calvaire](https://open.spotify.com/track/74c8FhugaKufekAOeh2dcO) | [La Chicane](https://open.spotify.com/artist/47Jz2n2v5J4DydiDUp3NkI) | [\[en\] catimini](https://open.spotify.com/album/6oQ2Xld7fc3gYT4IRX3xC5) | 4:10 |
-| 15 | [La neige au Sahara](https://open.spotify.com/track/4r9u9QK7KOEXgOmt3hs57g) | [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Au Nom De La Lune](https://open.spotify.com/album/3V6bGCv4wGLpbUsVn4kfMC) | 4:18 |
-| 16 | [Tu ne sauras jamais](https://open.spotify.com/track/78Mu8RKUTFIg4h8921ofVS) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [3](https://open.spotify.com/album/41WX17nVqpkzVp5RKMxD9j) | 4:06 |
+| 15 | [Tu ne sauras jamais](https://open.spotify.com/track/78Mu8RKUTFIg4h8921ofVS) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [3](https://open.spotify.com/album/41WX17nVqpkzVp5RKMxD9j) | 4:06 |
+| 16 | [La neige au Sahara](https://open.spotify.com/track/4r9u9QK7KOEXgOmt3hs57g) | [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Au Nom De La Lune](https://open.spotify.com/album/3V6bGCv4wGLpbUsVn4kfMC) | 4:18 |
 | 17 | [En chantant](https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [En Chantant](https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC) | 3:54 |
 | 18 | [Et si tu n'existais pas](https://open.spotify.com/track/3vIl0TRgS1UpxSTL8a19WF) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 3:27 |
 | 19 | [Un beau grand bateau](https://open.spotify.com/track/153fPAIMxo3FInbJd06MB6) | [Gerry Boulet](https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv) | [Rendez\-vous doux](https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu) | 3:55 |
 | 20 | [Je n'ai que mon âme](https://open.spotify.com/track/1VOjHLyRyIqSnIrT4H1jcd) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [A Chacun Son Histoire](https://open.spotify.com/album/38CgBQufkUucyi195crt9D) | 2:50 |
-| 21 | [Donne\-moi ma chance](https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 4:13 |
-| 22 | [Mon mec à moi](https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Rien ne s'arrête \(1987 \- 2001\)](https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw) | 4:13 |
-| 23 | [C'est zéro](https://open.spotify.com/track/36eHvuluPjSm7HNRLqng7R) | [Julie Masse](https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC) | [Julie Masse](https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE) | 4:02 |
-| 24 | [Aime moi](https://open.spotify.com/track/2EUITdSOgkQvddobT5veE6) | [Claude Barzotti](https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb) | [Aime\-moi](https://open.spotify.com/album/3x5aI6oO3eoUSVzi9XsjMT) | 4:10 |
+| 21 | [Mon mec à moi](https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Rien ne s'arrête \(1987 \- 2001\)](https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw) | 4:13 |
+| 22 | [C'est zéro](https://open.spotify.com/track/36eHvuluPjSm7HNRLqng7R) | [Julie Masse](https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC) | [Julie Masse](https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE) | 4:02 |
+| 23 | [Aime moi](https://open.spotify.com/track/2EUITdSOgkQvddobT5veE6) | [Claude Barzotti](https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb) | [Aime\-moi](https://open.spotify.com/album/3x5aI6oO3eoUSVzi9XsjMT) | 4:10 |
+| 24 | [Donne\-moi ma chance](https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 4:13 |
 | 25 | [Faire la paix avec l'amour](https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b) | [Dany Bédar](https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm) | [Fruit de ma récente nuit blanche](https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5) | 3:45 |
 | 26 | [La bartendresse](https://open.spotify.com/track/6gIGvgL9rcRhldbaVFTaaW) | [Éric Lapointe](https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc) | [Lapointe 1994\-2006 N'importe qui](https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk) | 4:06 |
 | 27 | [Chats sauvages](https://open.spotify.com/track/0clO0QOJszhztY2jKzT1k3) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Celle qui va](https://open.spotify.com/album/5A8miUxbmrkHnXpbCkWKr2) | 4:28 |
@@ -62,19 +62,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 52 | [Corridor](https://open.spotify.com/track/6F3rXgxgLE7UAq0o34YpVn) | [Laurence Jalbert](https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l) | [Corridors](https://open.spotify.com/album/1DxFlq6oCVCZxUuvusxlkV) | 3:58 |
 | 53 | [Si j'étais un homme](https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [Autour de Montréal \(Compilation 1978\-1982\)](https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU) | 4:47 |
 | 54 | [Vivre Avec Celui Qu'on Aime](https://open.spotify.com/track/3QeHjFpa62YmVG4rCVhQ1g) | [Francine Raymond](https://open.spotify.com/artist/4XhSu04KR47kzRHF6esYas) | [Francine Raymond](https://open.spotify.com/album/7yduHV2iKYQgiQHPb9ECkL) | 3:43 |
-| 55 | [Echappé belle \- 2008 Digital Remaster](https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5) | [Beau Dommage](https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp) | [35th Anniversary Collection](https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE) | 4:23 |
-| 56 | [Comment j'pourrais te l'dire](https://open.spotify.com/track/11avfT4rYocfVCuXSD0i3R) | [Marie\-Chantal Toupin](https://open.spotify.com/artist/5uMfnmb3ObrjAIi7pNySQe) | [Marie\-Chantal Toupin](https://open.spotify.com/album/0lNod135VW70QPPSXZEoZs) | 3:52 |
+| 55 | [Comment j'pourrais te l'dire](https://open.spotify.com/track/11avfT4rYocfVCuXSD0i3R) | [Marie\-Chantal Toupin](https://open.spotify.com/artist/5uMfnmb3ObrjAIi7pNySQe) | [Marie\-Chantal Toupin](https://open.spotify.com/album/0lNod135VW70QPPSXZEoZs) | 3:52 |
+| 56 | [Echappé belle \- 2008 Digital Remaster](https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5) | [Beau Dommage](https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp) | [35th Anniversary Collection](https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE) | 4:23 |
 | 57 | [Victoire \- Radio Edit](https://open.spotify.com/track/1O6uYqexF293mZKf9Nmf7x) | [Shy'm](https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B) | [Victoire \(Radio Edit\)](https://open.spotify.com/album/7MoypL7O3vSdhqhbzycqD6) | 3:16 |
-| 58 | [Je vais t'aimer](https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [Coffret 2CD\-3](https://open.spotify.com/album/04E38Naw2fZK4wHwev6gzm) | 5:27 |
-| 59 | [Flagrant délit](https://open.spotify.com/track/0t0zkVay0Nbt9qynMK7C4a) | [Herbert Léonard](https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB) | [Best of Herbert Léonard](https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX) | 4:32 |
+| 58 | [Flagrant délit](https://open.spotify.com/track/0t0zkVay0Nbt9qynMK7C4a) | [Herbert Léonard](https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB) | [Best of Herbert Léonard](https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX) | 4:32 |
+| 59 | [Je vais t'aimer](https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [Coffret 2CD\-3](https://open.spotify.com/album/04E38Naw2fZK4wHwev6gzm) | 5:27 |
 | 60 | [Je sais je sais](https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Tant qu'il y aura des enfants](https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur) | 4:19 |
 | 61 | [Billy](https://open.spotify.com/track/28yEUMWeyu4v6oPsVxF22x) | [Julie Masse](https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC) | [Julie Masse](https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE) | 3:44 |
 | 62 | [Vivre dans la nuit \- Version Microsillon](https://open.spotify.com/track/6dP8GoWxIQtRDJptpgPtkh) | [Nuance](https://open.spotify.com/artist/56EV8wiS6RIrYrNG8uuiDl) | [Vivre dans la nuit](https://open.spotify.com/album/3AqKphs5MQe12H6EHj4lC4) | 4:45 |
 | 63 | [Un souvenir heureux](https://open.spotify.com/track/0uenXaHPfVWwcKHEpLz6kn) | [Diane Dufresne](https://open.spotify.com/artist/7twmPMJL7zIWU2MLkdQpqs) | [Les grands succès de Diane Dufresne](https://open.spotify.com/album/6WS4SEnixyqEIQHZ5TmmPV) | 2:53 |
 | 64 | [Je reviendrai à montréal](https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Volume un](https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd) | 3:24 |
 | 65 | [Aime](https://open.spotify.com/track/4qBxDboTpB6tizWtib6nDe) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Miserere](https://open.spotify.com/album/7bzHZ9axmnjOqNCeBz5GEi) | 4:24 |
-| 66 | [Perdue L'envie D'aimer](https://open.spotify.com/track/1pSIgqNyR8tF8w6PABKlVm) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 3:32 |
-| 67 | [Les bras de satan](https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY) | [Nelson Minville](https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR) | [Premières nuits](https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y) | 4:15 |
+| 66 | [Les bras de satan](https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY) | [Nelson Minville](https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR) | [Premières nuits](https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y) | 4:15 |
+| 67 | [Perdue L'envie D'aimer](https://open.spotify.com/track/1pSIgqNyR8tF8w6PABKlVm) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 3:32 |
 | 68 | [Entre l'ombre et la lumière](https://open.spotify.com/track/4uv1DUeE3qQWDaj0HC9V6b) | [Marie Carmen](https://open.spotify.com/artist/0CB3KcKlqF1EtCu1HHqIZu) | [Les grands succès de Marie Carmen](https://open.spotify.com/album/3Jc4kN9R3qYadp7QSxNc8j) | 4:29 |
 | 69 | [La berceuse du petit diable](https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Double](https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL) | 4:04 |
 | 70 | [Bye Bye Mon Cowboy \- Original Version](https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J) | [Mitsou](https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80) | [La Collection](https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX) | 3:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 74 | [Le ciel est à moi](https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k) | [Marie\-Élaine Thibert](https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH) | [Marie\-Élaine Thibert](https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs) | 4:35 |
 | 75 | [Incognito](https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Incognito](https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4) | 4:39 |
 
-Snapshot ID: `MCxmMTI4ZTg4NmMwNDdjMTQzZTU5MmNmZmI4YWE3NzNjYThhODRhNzQ1`
+Snapshot ID: `MCwxNTIxMjhkYWU0YjFlMjgzOTBiZTdkOTc1NjI4MzhlNmE4NDc4MzI0`

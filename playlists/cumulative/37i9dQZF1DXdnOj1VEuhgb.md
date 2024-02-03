@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Lvbel C5
 
-272 songs - 11 hr 53 min
+273 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Gücüm Yerinde](https://open.spotify.com/track/6uVRxLkozk0qSdqCrdeP3P) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [Gücüm Yerinde](https://open.spotify.com/album/1fXA0oOIxFMO3AmY6galUp) | 2:58 | 2023-04-20 | 2023-05-05 |
 | [Gülşen](https://open.spotify.com/track/3dW8hIO3NKlt6DrLPAVYsx) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Gülşen](https://open.spotify.com/album/7MaxT7zgq2r36MEhTFIvhA) | 2:26 | 2023-01-10 | 2023-01-13 |
 | [Günleri Saydım](https://open.spotify.com/track/3EvnxnwxvUgmXDy75xeoNx) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD) | [Günleri Saydım](https://open.spotify.com/album/41L569Sbr9hSf9KOYtkzqb) | 2:58 | 2023-03-09 | 2023-03-25 |
-| [HAA‼️](https://open.spotify.com/track/2XxcYFvfP2XoLmB7nNULSw) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [HAA‼️](https://open.spotify.com/album/0s2NnsBKbMJIZ3CtJKc2uH) | 1:47 | 2024-02-01 |  |
+| [HAA‼️](https://open.spotify.com/track/2XxcYFvfP2XoLmB7nNULSw) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [HAA‼️](https://open.spotify.com/album/0s2NnsBKbMJIZ3CtJKc2uH) | 1:48 | 2024-02-01 |  |
 | [HAM](https://open.spotify.com/track/7duMMtfNk8IgHDLBh1eMhG) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [HAM](https://open.spotify.com/album/3POP3LZl3qug1RG0mcBHKF) | 2:12 | 2023-10-12 | 2023-11-11 |
 | [HANIMEFENDİ](https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:15 | 2023-06-15 |  |
 | [HANÇER](https://open.spotify.com/track/1HtUpVQAOS8fWcWRYHaCXV) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [HANÇER](https://open.spotify.com/album/5RW7KSlHEC9w1qTTUWadtq) | 2:23 | 2023-03-23 | 2023-04-07 |
@@ -242,6 +242,7 @@
 | [Suçlarımdan Biri](https://open.spotify.com/track/65tIJClJx8fHo6YW4wVDhi) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:51 | 2023-01-10 | 2023-03-18 |
 | [Switch](https://open.spotify.com/track/5Y84RGVc1QVrAh6CKbV6uE) | [Defa](https://open.spotify.com/artist/3kRcmNakORbez29Ms2x40w), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Switch](https://open.spotify.com/album/7GV0frbZRy8KayIzSDV68j) | 3:12 | 2023-01-10 | 2023-01-20 |
 | [SÖYLENEYDİBU?](https://open.spotify.com/track/3Z3R4NcwpanDzsnZccpnoc) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [SÖYLENEYDİBU?](https://open.spotify.com/album/6CC3P0r7TWplXSDtFycHfU) | 2:05 | 2023-05-04 | 2023-05-26 |
+| [Sıra Dışı](https://open.spotify.com/track/56k2LTM6BoRU2lSLOAQTBo) | [Rota](https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB) | [Sıra Dışı](https://open.spotify.com/album/2upDWqVL7PHaS5edRBibIx) | 2:34 | 2024-02-01 |  |
 | [TALIBANA](https://open.spotify.com/track/01KdkKsCC3BkA4nsQQLwOm) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/4wvjyNp47Q9uvY62To3fYq) | 2:36 | 2023-02-16 | 2023-03-16 |
 | [TALIBANA](https://open.spotify.com/track/7wANX4VfTwrZrL6inJrqCM) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/0R6zYJmsszJxtRkEfX1sWz) | 2:38 | 2023-01-10 | 2023-02-04 |
 | [TALIBANA](https://open.spotify.com/track/3HoHBzUrwYNbzXGKfHIRAT) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/7ERpHQRQcxP7UU6S5edJAX) | 2:38 | 2023-04-03 | 2023-07-07 |

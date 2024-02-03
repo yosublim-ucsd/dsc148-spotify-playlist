@@ -2,9 +2,9 @@
 
 ### [lo hice por el punk](https://open.spotify.com/playlist/37i9dQZF1DX3pffHgMaYQp)
 
-> Música para insubordinados\. Sum 41 en portada.
+> Música para insubordinados\. Idles en portada.
 
-145 songs - 7 hr 48 min
+147 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Ardiendo Lento](https://open.spotify.com/track/7G3WYQW7DrFjmm8a4wPleH) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [Ardiendo Lento](https://open.spotify.com/album/6rYACTUC0TXKlu3pc3dbID) | 2:56 | 2023-10-13 |  |
 | [Atari \(Todo Mi Mundo a Color\) \- Original](https://open.spotify.com/track/3v6oyDCU5rB9ze5XdIAmK8) | [Niña ](https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc) | [R.o.c.k.](https://open.spotify.com/album/3FFaVqWKX7AJLoKiSL0v5M) | 3:33 | 2023-09-23 |  |
 | [Año de Mierda](https://open.spotify.com/track/52Gh9CvRUV2BdFo7ywL8IC) | [Artistas Fifí](https://open.spotify.com/artist/7JlaLRHjy1CAcVvIaYFRro) | [Elesplit](https://open.spotify.com/album/1OHKTDWW6BOpRKuKX8ehVB) | 2:51 | 2022-03-25 | 2022-07-29 |
-| [Año de Mierda](https://open.spotify.com/track/7q1ugxgWb8J7kOeDIRbXdd) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4), [Artistas Fifí](https://open.spotify.com/artist/7JlaLRHjy1CAcVvIaYFRro) | [Elesplit](https://open.spotify.com/album/0VwxKnWVX5fKLp2CQN3Yyc) | 2:51 | 2022-03-25 |  |
+| [Año de Mierda](https://open.spotify.com/track/7q1ugxgWb8J7kOeDIRbXdd) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4), [Artistas Fifí](https://open.spotify.com/artist/7JlaLRHjy1CAcVvIaYFRro) | [Elesplit](https://open.spotify.com/album/0VwxKnWVX5fKLp2CQN3Yyc) | 2:51 | 2022-03-25 | 2024-02-03 |
 | [Barrio de Tepito](https://open.spotify.com/track/3lANKbxL65aPuEKl9pt5UK) | [Torso Corso](https://open.spotify.com/artist/4M6TN8LGWYXUoezRTUp8F8) | [Martín Delgado Presenta: La Otra Música X Airelibre​.​fm](https://open.spotify.com/album/1YkOyENGJqZXF92mBE5ThN) | 4:07 | 2022-03-25 | 2023-11-23 |
 | [Barrio de Tepito](https://open.spotify.com/track/6iSpy9OSSGcnIdZ8jdtKVo) | [Torso Corso](https://open.spotify.com/artist/4M6TN8LGWYXUoezRTUp8F8) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 4:07 | 2022-03-25 | 2022-12-11 |
 | [Basura](https://open.spotify.com/track/4gV2xtfv7S0KYShz9Askme) | [Davila 666](https://open.spotify.com/artist/0PQK6BLKbviconz1bx1rlH) | [Davila 666](https://open.spotify.com/album/2SadmcWtefsXenmvK8tfua) | 3:16 | 2023-09-23 |  |
@@ -45,8 +45,8 @@
 | [El Mamado](https://open.spotify.com/track/3XXqSjT0L6zNCZfZgIWyYB) | [NecroMorfo](https://open.spotify.com/artist/6YDoxyvY3LtbFAmafiPEz7) | [1 Soldado en cada Hijo te Dió](https://open.spotify.com/album/5dTcSCSkBzmcDaWENrbe3e) | 2:45 | 2022-03-25 |  |
 | [El Portal](https://open.spotify.com/track/1rB98RLnWBNGlygWG2VOr1) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/0wX8llGdmubMvDSzuWMOJo) | 3:47 | 2022-03-25 |  |
 | [El Portal](https://open.spotify.com/track/61XPcpiy8UrnIrNIMsVhzc) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [El Portal](https://open.spotify.com/album/5fV4C3rqp58MiGrdiUHwzR) | 3:47 | 2022-03-25 | 2022-12-12 |
-| [En Letargo](https://open.spotify.com/track/6d4QZMKcx6BvOwo5EmumxZ) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [En Letargo](https://open.spotify.com/album/36bBecUrinX68SW69nmx1S) | 4:01 | 2022-03-25 |  |
-| [Esqueletos Muertos](https://open.spotify.com/track/14uJk2QtpPjPWv5LLMkVYo) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [La Fortaleza del Sonido](https://open.spotify.com/album/2zt8e2xw1GIw7nZ7w9UI5o) | 4:33 | 2022-03-25 |  |
+| [En Letargo](https://open.spotify.com/track/6d4QZMKcx6BvOwo5EmumxZ) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [En Letargo](https://open.spotify.com/album/36bBecUrinX68SW69nmx1S) | 4:01 | 2022-03-25 | 2024-02-03 |
+| [Esqueletos Muertos](https://open.spotify.com/track/14uJk2QtpPjPWv5LLMkVYo) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [La Fortaleza del Sonido](https://open.spotify.com/album/2zt8e2xw1GIw7nZ7w9UI5o) | 4:33 | 2022-03-25 | 2024-02-03 |
 | [Estrella Antivida](https://open.spotify.com/track/01Ek9zGfuPYnBs5abDWhjK) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [Estrella Antivida](https://open.spotify.com/album/6j80yKNQXqeAE6hH3xpXbg) | 1:50 | 2023-04-07 |  |
 | [Expo Divorcio](https://open.spotify.com/track/2MzOMosHuxJf4EM2rrWg2R) | [jacarandas](https://open.spotify.com/artist/0RudUrUhzYXY7irJKBOrA8) | [Expo Divorcio](https://open.spotify.com/album/5WyIoqQON9lQn3bE83IRsa) | 1:48 | 2023-04-14 |  |
 | [Extrarradio](https://open.spotify.com/track/39KrdTbxCVcTcXNPaEhMWS) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [Extrarradio](https://open.spotify.com/album/2vIVKy10eQXCwBu7B61ZvM) | 4:53 | 2022-03-25 | 2023-09-24 |
@@ -54,12 +54,13 @@
 | [Filosa](https://open.spotify.com/track/4It3yolMmTWgrhQx4S0a4x) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Filosa](https://open.spotify.com/album/2P2nyPyDLuIjt2ED3WBIMP) | 4:19 | 2023-04-07 |  |
 | [Fracasado](https://open.spotify.com/track/5cOTbepCsUrbyB78JDoFMc) | [Jesus Guerrero](https://open.spotify.com/artist/6H5E8TXmeWbQfuhjL1fQVJ) | [Fracasado](https://open.spotify.com/album/6j7ndHK9SKOlS319Lh3200) | 3:33 | 2022-03-25 |  |
 | [Gasolina en las Bocinas \- Molas Mazo](https://open.spotify.com/track/5fBesiOx4Nmqvl8ea0J9qY) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL), [Los Fresones Rebeldes](https://open.spotify.com/artist/7jnDSK1hbbcZdjapo2bHzY) | [Gasolina en las Bocinas \(Molas Mazo\)](https://open.spotify.com/album/4AQ1jslxEgd8qUEK7rCr6L) | 3:51 | 2023-04-07 | 2023-09-24 |
+| [Gift Horse](https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Gift Horse](https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j) | 4:09 | 2024-02-02 |  |
 | [Guilt Trip](https://open.spotify.com/track/6pWwP8xGvZ4HTUbVGgzGMy) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [PUP](https://open.spotify.com/album/2i0sTsyZZGEGcakLqHFcyw) | 3:20 | 2023-09-23 |  |
 | [Harto](https://open.spotify.com/track/0NNLYEiVbJhYaudmD4yCUl) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/0wX8llGdmubMvDSzuWMOJo) | 2:21 | 2022-03-25 |  |
 | [Harto](https://open.spotify.com/track/2Ez1iNcc9Te1XqA3qfTVLH) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Harto](https://open.spotify.com/album/7tcfjeniZB5QKc5iC4zf90) | 2:21 | 2022-03-25 | 2022-12-13 |
 | [Hombre Animal](https://open.spotify.com/track/31mpricQVCFX9EnGmNcJ9L) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [El Refugio](https://open.spotify.com/album/2ArUrVghLI8caKOMlW7mtF) | 3:27 | 2022-03-25 |  |
 | [Hordes of Punks](https://open.spotify.com/track/4rDZC2Pnzjh0Nw887SR2So) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Hordes of Punks](https://open.spotify.com/album/5zGN83v425LfWJEqqM9cTP) | 2:05 | 2023-06-16 | 2023-09-24 |
-| [Hoy No](https://open.spotify.com/track/7z9mN39lIQgPKkGliAQYCt) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Maleza](https://open.spotify.com/album/6HJm0w7q1ockTAIpw53YY7) | 2:07 | 2022-03-25 |  |
+| [Hoy No](https://open.spotify.com/track/7z9mN39lIQgPKkGliAQYCt) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Maleza](https://open.spotify.com/album/6HJm0w7q1ockTAIpw53YY7) | 2:07 | 2022-03-25 | 2024-02-03 |
 | [I Got Heaven](https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l) | 2:58 | 2023-09-08 |  |
 | [I Was a Teenage Anarchist](https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [White Crosses](https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ) | 3:15 | 2023-09-23 |  |
 | [I'm Not Part Of Me](https://open.spotify.com/track/1W2zqQlC9EuCHFVZoLPdLE) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Here And Nowhere Else](https://open.spotify.com/album/5Mk061x9pcfptaPBFlqlgA) | 4:35 | 2023-09-23 |  |
@@ -138,6 +139,7 @@
 | [Todo Puede Ser Mejor \- Fc Chdkf](https://open.spotify.com/track/0ks15BzbVU00CmOo22NRjL) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Todo Puede Ser Mejor \(Fc Chdkf\)](https://open.spotify.com/album/6H9BGnLgJ2dscmN0T4asIJ) | 3:38 | 2022-03-25 | 2023-09-24 |
 | [Tornillo](https://open.spotify.com/track/1mj4y7NHlTq6YfTZOeNqOx) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Tornillo](https://open.spotify.com/album/6MSMis63C7wWLVSSmSl92b) | 1:33 | 2023-11-22 |  |
 | [Tourette's \- 2013 Mix](https://open.spotify.com/track/0Bpqzp7gP3WU0e7ruEY3Ja) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \(Deluxe Edition\)](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 1:36 | 2023-09-23 |  |
+| [Unos Besos](https://open.spotify.com/track/0BLRl7yVw2mmj6q8s3kgGH) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Unos Besos](https://open.spotify.com/album/4QHLKICzhPz1sxgWFxTJ1n) | 1:55 | 2024-02-02 |  |
 | [Vademécum](https://open.spotify.com/track/1t6ce3FryKUksIyCYZMNyQ) | [Chaqueta de Chándal](https://open.spotify.com/artist/5RMGElrEO6UepEfrrn0Qg4) | [Vademécum](https://open.spotify.com/album/5YQBK3VLDzJ8VeSWtvSl5H) | 2:24 | 2022-03-25 |  |
 | [Verde Pastel](https://open.spotify.com/track/1CWFgWVLWJEJ8JM0hBaGd7) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Limonada Rosa](https://open.spotify.com/album/3Gb7PPDBOwE7fXZqKhSVXI) | 2:13 | 2022-03-25 |  |
 | [Vicente Amor](https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Vicente Amor](https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4) | 1:52 | 2022-03-25 |  |

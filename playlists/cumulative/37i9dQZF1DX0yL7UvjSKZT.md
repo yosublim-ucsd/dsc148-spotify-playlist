@@ -2,7 +2,7 @@
 
 ### [Indie Bluegrass](https://open.spotify.com/playlist/37i9dQZF1DX0yL7UvjSKZT)
 
-> Fresh takes on that high lonesome sound\. Cover: Sierra Ferrell
+> Fresh takes on that high lonesome sound\. Cover: Lindsay Lou
 
 379 songs - 23 hr 38 min
 

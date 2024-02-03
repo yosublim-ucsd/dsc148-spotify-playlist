@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 509360,
+  "2024-02-03": 509244,
   "date_first_scraped": "2022-03-22",
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Paloma Mami\n",
   "name": "el nuevo urbano",
@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 128254,
       "name": "AQTLM",
       "url": "https://open.spotify.com/track/7FCiyjiaUnoe7Hvlr85u96"
@@ -2045,7 +2045,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 243913,
       "name": "BARCELONA",
       "url": "https://open.spotify.com/track/10MB5BRNILT229BsnB2oRU"
@@ -3691,7 +3691,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 185750,
       "name": "Complicado",
       "url": "https://open.spotify.com/track/0odJehbwynq5ywdEnnWywx"
@@ -3721,7 +3721,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 132539,
       "name": "Con To (feat. Flow Nasty)",
       "url": "https://open.spotify.com/track/1QFJzim9HBPFW9E1B1333Q"
@@ -5877,7 +5877,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 127659,
       "name": "Ella Mata",
       "url": "https://open.spotify.com/track/7JqgPZVfpwFVPDhb4mSjOJ"
@@ -6243,6 +6243,28 @@
       "duration_ms": 197647,
       "name": "Esa Nena",
       "url": "https://open.spotify.com/track/2uvoAHdthe0bSCD0qIRBta"
+    },
+    {
+      "album": {
+        "name": "escribiendo TKM",
+        "url": "https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145174,
+      "name": "escribiendo TKM",
+      "url": "https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w"
     },
     {
       "album": {
@@ -6737,7 +6759,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 135232,
       "name": "Flight 0012",
       "url": "https://open.spotify.com/track/1BSCXxXQNrneoZmlUwkcmb"
@@ -9769,7 +9791,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 191250,
       "name": "Las Gatas (Dembow)",
       "url": "https://open.spotify.com/track/7pPq4psRxZ0uYKcBfl2ivT"
@@ -9897,7 +9919,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 181137,
       "name": "Linea Del Perreo",
       "url": "https://open.spotify.com/track/1Aa54YEL20kiDPI6f4XGdS"
@@ -15019,7 +15041,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 184164,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/3MjArU94DzHn4xK3OBZtz7"
@@ -17311,7 +17333,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 194968,
       "name": "Suena el Bajo",
       "url": "https://open.spotify.com/track/0BZPshjB0SXlplST6GzpG2"
@@ -17665,7 +17687,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 170695,
       "name": "Te Cambie Por El",
       "url": "https://open.spotify.com/track/20j2PxqYHqamcH6g8vPMSp"

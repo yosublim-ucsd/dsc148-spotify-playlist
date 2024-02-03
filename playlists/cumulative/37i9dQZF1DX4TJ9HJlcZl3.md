@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-99 songs - 6 hr 14 min
+100 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Show You The Way](https://open.spotify.com/track/2ZIHKdsXfOS3cZoGRD2vGL) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:34 | 2022-10-21 |  |
 | [Show You The Way](https://open.spotify.com/track/6LzsF8g3MnyspvcPvlBcC3) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Show You The Way](https://open.spotify.com/album/4BSz8driu2eSZekb2ChJHH) | 3:34 | 2022-10-21 | 2022-11-14 |
 | [Simple Love Songs \- Extended Version](https://open.spotify.com/track/202Ebn3Kj18Ukkr9LQXwol) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Simple Love Songs \- Extended Version](https://open.spotify.com/album/2APkE3JslirvBHQxbz5Iop) | 2:51 | 2023-06-30 | 2023-10-14 |
+| [Sleeptalking](https://open.spotify.com/track/0e5GmXWvSKnngHSD8X7jir) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Sleeptalking](https://open.spotify.com/album/0XRYj8uyEJMzUKM60gZjAP) | 3:00 | 2024-02-02 |  |
 | [Slide Don't Make a Cruise](https://open.spotify.com/track/45UXvdrRBjVorXYCUZvn72) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Slide Don't Make a Cruise](https://open.spotify.com/album/3zvTUVTUxGTQKCOemGmeLP) | 2:28 | 2022-10-21 |  |
 | [Somebody's Watching You](https://open.spotify.com/track/2zPxnWGwRGGwsvG1OSqCqF) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 3:35 | 2022-10-21 | 2023-04-30 |
 | [Somebody's Watching You](https://open.spotify.com/track/2zz7F5w83J4MySb9RX8WWY) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3) | 3:35 | 2022-10-21 |  |
@@ -84,7 +85,7 @@
 | [Strawberry Soju](https://open.spotify.com/track/3Naqjihn2GJjOBZNeenivP) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC) | [Strawberry Soju](https://open.spotify.com/album/5ndnvMs3zF4hOcyT9NFHI9) | 2:51 | 2023-04-07 | 2023-09-09 |
 | [Surrender](https://open.spotify.com/track/2lbfgYWkeW7rQRYlixgkAZ) | [Surahn](https://open.spotify.com/artist/7isf2onROC85pAnUK3wXAb) | [Surrender](https://open.spotify.com/album/2RknVcT1UWgRzNEJyRpLPn) | 4:38 | 2023-05-05 |  |
 | [Sway](https://open.spotify.com/track/0URET1QRXICvNhwgNn5OWD) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [Sway](https://open.spotify.com/album/5j17Q40WrMCERsIFa9WCQh) | 2:40 | 2023-09-01 | 2023-10-14 |
-| [Takeoff](https://open.spotify.com/track/6Rg1H1aIrg99gsOKCEEDjh) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Rachel Mazer](https://open.spotify.com/artist/1gN0EvPI7000a53bw1MXbl) | [Elevator Music for an Elevated Mood](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB) | 4:07 | 2022-10-21 |  |
+| [Takeoff](https://open.spotify.com/track/6Rg1H1aIrg99gsOKCEEDjh) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Rachel Mazer](https://open.spotify.com/artist/1gN0EvPI7000a53bw1MXbl) | [Elevator Music for an Elevated Mood](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB) | 4:07 | 2022-10-21 | 2024-02-03 |
 | [The Dandelion](https://open.spotify.com/track/23JJ79DtsITIxMfcgYvxjY) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [The Dandelion](https://open.spotify.com/album/5vat3mrJgQ9KbusWrt5kOM) | 3:39 | 2022-10-21 | 2023-04-30 |
 | [The Dandelion](https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [The Dandelion](https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG) | 3:39 | 2022-10-21 |  |
 | [The Dandelion](https://open.spotify.com/track/6yTchvmjqKDj4psl8WunJK) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Paris II](https://open.spotify.com/album/3mIkvHphijwLhjlYZPWJN7) | 3:39 | 2022-10-21 | 2022-12-24 |

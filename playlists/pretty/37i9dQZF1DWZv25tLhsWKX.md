@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,889 likes - 71 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,895 likes - 71 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ain't No Harmin' Me](https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Ain't No Harmin' Me](https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9) | 3:50 |
+| 1 | [Ain't No Harmin' Me](https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Ain't No Harmin' Me](https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9) | 3:50 |
 | 2 | [Respect Yourself](https://open.spotify.com/track/4lzTyLYXb3ED01TSLCJ1Hz) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:31 |
 | 3 | [Hold On](https://open.spotify.com/track/2AmvFn1VALA0VM1toWubEN) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14), [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Hold On](https://open.spotify.com/album/5OF5fVkkIWWOvn2Xdat10i) | 3:29 |
 | 4 | [In the Night](https://open.spotify.com/track/0UYz2MYHwUSSquqdDIJc0j) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [In the Night](https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh) | 3:56 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 | 19 | [Warm and Tender Love \- Single Version](https://open.spotify.com/track/0t2f3sMcWoqHDSRM4oj8hH) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [The Best of Percy Sledge](https://open.spotify.com/album/1Nyr1yLuCndptRRMZ0wmlP) | 3:21 |
 | 20 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 |
 | 21 | [I Like What You're Doing \(To Me\)](https://open.spotify.com/track/2fnbljRroXC33HuhgyoApM) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Memphis Queen](https://open.spotify.com/album/6DYynPjnJlfAsK3jqFOdGQ) | 2:58 |
-| 22 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 |
+| 22 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 |
 | 23 | [Seven Spanish Angels \(with Ray Charles\)](https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Friendship](https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g) | 3:51 |
 | 24 | [He Made A Woman Out Of Me](https://open.spotify.com/track/2gMxsK1P5PF65J6q4rsCYl) | [Bobbie Gentry](https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d) | [Fancy](https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6) | 2:37 |
 | 25 | [After Midnight](https://open.spotify.com/track/1PC5GV3OaoXx5em8ttQOMI) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Naturally](https://open.spotify.com/album/3cpNHI7xhNIosF9WjSk8Zh) | 2:23 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 | 32 | [Bright Direction \(You’re a Dark Star Now\)](https://open.spotify.com/track/1uUQSqOtwBUWuyyNYmlQxi) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 4:24 |
 | 33 | [Sun Come Ease Me In](https://open.spotify.com/track/2NmXILVmHTxxBGXy2W1VgM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 2:55 |
 | 34 | [My Love Will Not Change](https://open.spotify.com/track/0UIIgCWdaWgw7MnvHjyWgB) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [My Love Will Not Change](https://open.spotify.com/album/4UzPpqEh0vxcbDNF644Z5u) | 3:35 |
-| 35 | [Are You Ready to Love Me?](https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 3:34 |
+| 35 | [Are You Ready to Love Me?](https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 3:34 |
 | 36 | [Games People Play](https://open.spotify.com/track/50t8gshcAtXiUdk7nHfYDp) | [Joe South](https://open.spotify.com/artist/7s2L0cftC6UBVVxADuyfwS) | [Introspect \(Bonus Track Version\)](https://open.spotify.com/album/0efmkx26DQ4OSiPCdKsQgB) | 3:35 |
 | 37 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
 | 38 | [You Must Go](https://open.spotify.com/track/7zb4BpYdR26dSTGSWkGM6f) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [All Kinds Of People / You Must Go](https://open.spotify.com/album/4rIScWdlTV9CNp2ljgr7PD) | 5:02 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 | 70 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 |
 | 71 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 |
 
-Snapshot ID: `MCwwYzM0ZjhlY2Q4NjNjMWRiNjE5YWRlOWFmYjM4MTJiOTJjMjkyMDQy`
+Snapshot ID: `MCwwZjc3OGFhYzU5NTRmZTZmMDhhYTE2ZDVjM2YxMTg2MDA5M2U4ZjZk`

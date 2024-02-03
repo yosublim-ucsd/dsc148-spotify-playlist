@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,323 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,370 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,16 +78,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 68 | [All My Loving](https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB) | [Los Manolos](https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj) | [Pasión Condal](https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy) | 3:13 |
 | 69 | [Agustito](https://open.spotify.com/track/0CcK0UAwjHSPOGWjupepRF) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [Toma Ketama](https://open.spotify.com/album/4C5MI6q1hEJhweXULCnVpH) | 4:13 |
 | 70 | [Fuera de Mi \- Ya No Quiero Tu Querer \- Version Remix](https://open.spotify.com/track/4GW6K2liIcrKLkKgEMg368) | [José El Francés](https://open.spotify.com/artist/1p2r4UTpZX8aIWktEuvpax) | [Alma](https://open.spotify.com/album/21s9od2SPFfgFjVxeySFoO) | 4:42 |
-| 71 | [Ojalá no te hubiera conocido nunca \(feat\. Muchachito Bombo Infierno\)](https://open.spotify.com/track/3xsPBE62YoXqXdPZwF918R) | [No Me Pises Que Llevo Chanclas](https://open.spotify.com/artist/3ixCNjKCjaRIRP7LOy5GTk), [Muchachito Bombo Infierno](https://open.spotify.com/artist/6529KpSlnP8S0kXhx7ayBb) | [25 años de agropop](https://open.spotify.com/album/7cRpRaqiri5rQWGG1JtOnS) | 4:02 |
-| 72 | [Acuarela](https://open.spotify.com/track/4jIThvkGu7fN4FDSW6LRSk) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [En La Boca Del Volcan](https://open.spotify.com/album/0xzfHtl3jhxX1sDIKx7PSO) | 4:14 |
+| 71 | [Acuarela](https://open.spotify.com/track/4jIThvkGu7fN4FDSW6LRSk) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [En La Boca Del Volcan](https://open.spotify.com/album/0xzfHtl3jhxX1sDIKx7PSO) | 4:14 |
+| 72 | [Ojalá no te hubiera conocido nunca \(feat\. Muchachito Bombo Infierno\)](https://open.spotify.com/track/3xsPBE62YoXqXdPZwF918R) | [No Me Pises Que Llevo Chanclas](https://open.spotify.com/artist/3ixCNjKCjaRIRP7LOy5GTk), [Muchachito Bombo Infierno](https://open.spotify.com/artist/6529KpSlnP8S0kXhx7ayBb) | [25 años de agropop](https://open.spotify.com/album/7cRpRaqiri5rQWGG1JtOnS) | 4:02 |
 | 73 | [Probe Miguel](https://open.spotify.com/track/0Hzq7sPeciHv6l7mfVfdfu) | [Triana Pura](https://open.spotify.com/artist/7suCoxqWwcH7yxF8gbgydg) | [De Triana al Cielo](https://open.spotify.com/album/4sWOyP3HSXKO5omktW61om) | 4:08 |
 | 74 | [Avisa a tu madre \(feat\. Tarque\)](https://open.spotify.com/track/2aj7C3LL3ZrJX2dHiskmaP) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5), [Tarque](https://open.spotify.com/artist/0bbgHE4QN1vDZhkGJw8n9p) | [Adelantando](https://open.spotify.com/album/28LFs98k7cTrXm2S2Xc65I) | 3:13 |
 | 75 | [Hoy Puede Ser un Gran Dia \- Tributo a Serrat](https://open.spotify.com/track/1vcZt7qwR9bgVSh7obMjFd) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [10 Años Around The World](https://open.spotify.com/album/1vXo40YW3uDom5F3OifM1z) | 3:13 |
 | 76 | [Noche En Vela](https://open.spotify.com/track/3PvcPcIj8lh53Zb0FwstTm) | [Guaraná](https://open.spotify.com/artist/14xTevnO8kfFWuP8pXiykn) | [Noche En Vela](https://open.spotify.com/album/0okEU4q3SOHt7DBLEht0EB) | 3:46 |
 | 77 | [Bonito Es](https://open.spotify.com/track/3F7LwUGXeXIm7Br3QCxvd5) | [Los Sencillos](https://open.spotify.com/artist/4tckU58lAHcyNaWWswLubb) | [Doctor Amor](https://open.spotify.com/album/2ll1b7hDO1Js4I9cMukxBx) | 2:59 |
 | 78 | [Una Lagrima](https://open.spotify.com/track/0PoUyBBEghT7ufac3soDiB) | [Peret](https://open.spotify.com/artist/2bhNZ8x8k2VfVhNRKESlcj) | [Orígenes](https://open.spotify.com/album/4moi9DmSUydEzm7N8VbbeT) | 1:54 |
-| 79 | [Aguardiente](https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Con la Fiesta a Cuestas](https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR) | 3:16 |
-| 80 | [La Ultima Carta](https://open.spotify.com/track/0snvfum1KpU3X8DdAvV9bo) | [Los Cucas](https://open.spotify.com/artist/3OWk7QjNjgERkwOAqhZeMW) | [El Ser Humano Es Raro](https://open.spotify.com/album/5fSWHnEpxK10oYZrK7DOTK) | 4:52 |
+| 79 | [La Ultima Carta](https://open.spotify.com/track/0snvfum1KpU3X8DdAvV9bo) | [Los Cucas](https://open.spotify.com/artist/3OWk7QjNjgERkwOAqhZeMW) | [El Ser Humano Es Raro](https://open.spotify.com/album/5fSWHnEpxK10oYZrK7DOTK) | 4:52 |
+| 80 | [Aguardiente](https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Con la Fiesta a Cuestas](https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR) | 3:16 |
 | 81 | [Al Son Del Tambor](https://open.spotify.com/track/6KpEeLn57CE8rw3yg8HtdQ) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Muchas Flores](https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg) | 3:57 |
 | 82 | [Joselito](https://open.spotify.com/track/72Fm5e7KPBEQwCeIcSU33g) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Puro Veneno](https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY) | 3:50 |
 | 83 | [Sarandonga](https://open.spotify.com/track/4ER9YbR8kOke5g2vpanmq7) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Takatá, a toda rumba](https://open.spotify.com/album/5ilGbKanSfk9Q4cOctfe3D) | 4:00 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 89 | [Nada Fue Un Error \- Live In Spain / 2005](https://open.spotify.com/track/15RAXEkBCh62ZB6xddv0wO) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/2uXGAATjtNc6ikrWsy0B1B) | 3:45 |
 | 90 | [No Estamos Lokos \- Kalikeño](https://open.spotify.com/track/6qD5Tep3hEoRDQUpyrrDLK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [De Aki A Ketama](https://open.spotify.com/album/0Gw8HKoLK67806LLeSAJT7) | 4:37 |
 
-Snapshot ID: `MCw3Njg5YmNmZGRhM2RlNDg4ZjQ5NjE4NTcxNGY5MWFiMjBiNGJhZDFi`
+Snapshot ID: `MCxiZDQwOWY2MmY4Y2UyZThlNDQxMjUzOTFkMGYxZjVmNGE2MGQ4NWM5`

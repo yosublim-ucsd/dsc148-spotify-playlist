@@ -4,7 +4,7 @@
 
 > Racikan akustik dalam secangkir kopi.
 
-116 songs - 7 hr 44 min
+117 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [terima kasih](https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ) | 3:24 | 2023-11-07 |  |
 | [terima kasih](https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20) | 3:24 | 2022-12-07 | 2023-11-05 |
 | [Terlintas](https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:55 | 2023-07-14 | 2023-09-14 |
-| [Terpikat Senyummu](https://open.spotify.com/track/5AEHGqE2QT26cWTx8MNJl2) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Terpikat Senyummu](https://open.spotify.com/album/4gl33T1veBY3TeXUgjljmq) | 3:07 | 2023-08-30 |  |
+| [Terpikat Senyummu](https://open.spotify.com/track/4TD6qEtz3KAJ6JWv1nNOCu) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Terpikat Senyummu](https://open.spotify.com/album/2bImEPBpff6jnVIqzPw643) | 3:07 | 2023-12-06 |  |
+| [Terpikat Senyummu](https://open.spotify.com/track/5AEHGqE2QT26cWTx8MNJl2) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Terpikat Senyummu](https://open.spotify.com/album/4gl33T1veBY3TeXUgjljmq) | 3:07 | 2023-08-30 | 2024-02-03 |
 | [The Only Blue I Love The Best](https://open.spotify.com/track/1APWUocHisr5wV4Fr2nH4j) | [Oscar Lolang](https://open.spotify.com/artist/1WxiHeimXMJ6kcNlyczScQ), [Alan Davison](https://open.spotify.com/artist/6ZGyLidTBBdkYploi6dH3C) | [Jalan Sendiri](https://open.spotify.com/album/0QcRc65IOYDd5lA3p7fHqR) | 3:52 | 2022-12-07 | 2023-06-08 |
 | [Tolong](https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tolong](https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47) | 4:10 | 2022-12-07 |  |
 | [Tuhan Sebut Sia\-Sia](https://open.spotify.com/track/5qZRyl3QDa1PbNXuYfBCEP) | [Pendarra](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2) | [Tuhan Sebut Sia\-Sia](https://open.spotify.com/album/4Fo0gJruvAGDIY9j6e4BVJ) | 5:17 | 2022-12-07 |  |

@@ -1,35 +1,291 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: SEVENN x Space Motion",
-  "num_followers": 120860,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Gabry Ponte",
+  "num_followers": 120858,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NzM1NCw0MGZlOGFhYTQ1ZGI4ZGQzOGE4ZjYyZjY5NjNiYmNkYWEwOGRkYWU3",
+  "snapshot_id": "NzM2NSw3OTMzMzc1M2E3MjJkMWJmYTgzZGI5Yzg3MmI1ODJmMmRmMjUyOThk",
   "tracks": [
     {
-      "added_at": "2024-01-26 08:01:50",
+      "added_at": "2024-02-02 08:03:16",
       "album": {
-        "name": "Delete Time",
-        "url": "https://open.spotify.com/album/3Rn97fqjZ6Nj5ECntOaDJB"
+        "name": "Crusade",
+        "url": "https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz"
       },
       "artists": [
         {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        },
-        {
-          "name": "Space Motion",
-          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         }
       ],
-      "duration_ms": 218709,
-      "name": "Delete Time",
-      "url": "https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt"
+      "duration_ms": 179400,
+      "name": "Crusade",
+      "url": "https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK"
     },
     {
-      "added_at": "2024-01-26 08:01:50",
+      "added_at": "2024-02-02 08:03:16",
+      "album": {
+        "name": "If You Don't Like To Party",
+        "url": "https://open.spotify.com/album/55Sr4L5eif0q1mXLZ9LBOf"
+      },
+      "artists": [
+        {
+          "name": "Supafly",
+          "url": "https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV"
+        },
+        {
+          "name": "HVRR",
+          "url": "https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "duration_ms": 118285,
+      "name": "If You Don't Like To Party",
+      "url": "https://open.spotify.com/track/5dBTOZ3Rn6BIlDt470Btne"
+    },
+    {
+      "added_at": "2024-02-02 08:03:16",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/6sD3U3E72UvI8Od8I6QoiA"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 175781,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ"
+    },
+    {
+      "added_at": "2024-02-02 08:08:39",
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
+    },
+    {
+      "added_at": "2024-02-02 08:03:16",
+      "album": {
+        "name": "Club Bizarre (Club Mix)",
+        "url": "https://open.spotify.com/album/1UGAjgkh5blyiJsCScKlNe"
+      },
+      "artists": [
+        {
+          "name": "U96",
+          "url": "https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd"
+        },
+        {
+          "name": "Sunlike Brothers",
+          "url": "https://open.spotify.com/artist/6ag0HxAKmKQFDXVdt6FUVx"
+        },
+        {
+          "name": "ToneNation",
+          "url": "https://open.spotify.com/artist/6vOhTSLHpmIlGK8IeS2caU"
+        }
+      ],
+      "duration_ms": 169376,
+      "name": "Club Bizarre (Club Mix)",
+      "url": "https://open.spotify.com/track/2BguCFLlnybjX8FouFTP4o"
+    },
+    {
+      "added_at": "2024-02-02 08:03:16",
+      "album": {
+        "name": "Vibrate (feat. Jordan Grace)",
+        "url": "https://open.spotify.com/album/1q2glSTenT4fYh12fly4a5"
+      },
+      "artists": [
+        {
+          "name": "Taurus",
+          "url": "https://open.spotify.com/artist/0CuFrDO1gvky7Ozc0pL78K"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "duration_ms": 183111,
+      "name": "Vibrate (feat. Jordan Grace)",
+      "url": "https://open.spotify.com/track/0x8TgNgKoDDESEcO6YsDDZ"
+    },
+    {
+      "added_at": "2024-02-02 08:03:16",
+      "album": {
+        "name": "Call Me Maybe",
+        "url": "https://open.spotify.com/album/1sAkbRVs8vYYHdMv5ZEJip"
+      },
+      "artists": [
+        {
+          "name": "Lenny Pearce",
+          "url": "https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8"
+        },
+        {
+          "name": "Charming Horses",
+          "url": "https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3"
+        },
+        {
+          "name": "Lotus",
+          "url": "https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/5WH44mM5Q3oXGSIanJbTPt"
+    },
+    {
+      "added_at": "2024-02-02 08:03:16",
+      "album": {
+        "name": "Mary Go Wild (Firebeatz Remix)",
+        "url": "https://open.spotify.com/album/32hAkqc2mit3ilzkCgCEWX"
+      },
+      "artists": [
+        {
+          "name": "Grooveyard",
+          "url": "https://open.spotify.com/artist/3LThgBIEhmkTZCJ6q7Jkzf"
+        },
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        }
+      ],
+      "duration_ms": 135111,
+      "name": "Mary Go Wild (Firebeatz Remix)",
+      "url": "https://open.spotify.com/track/51nYwjC41oOgVszBGL6mY8"
+    },
+    {
+      "added_at": "2024-02-02 08:03:16",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/1SEDacAYn94k9H2jUOrosm"
+      },
+      "artists": [
+        {
+          "name": "Zook\u00ebper",
+          "url": "https://open.spotify.com/artist/2XvV82x6Qs0W3GBTkBSjPI"
+        },
+        {
+          "name": "Beachcrimes",
+          "url": "https://open.spotify.com/artist/5xWycgZa4Oul2kU6o1QVo7"
+        },
+        {
+          "name": "Tia Tia",
+          "url": "https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS"
+        }
+      ],
+      "duration_ms": 219245,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/0MPg3EG04vVQED40bMcZ8v"
+    },
+    {
+      "added_at": "2024-02-02 08:08:39",
+      "album": {
+        "name": "Love & Dance EP",
+        "url": "https://open.spotify.com/album/29TaoTMHbabORQ54oH4nXK"
+      },
+      "artists": [
+        {
+          "name": "Little Fritter",
+          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
+        }
+      ],
+      "duration_ms": 208062,
+      "name": "Love & Dance",
+      "url": "https://open.spotify.com/track/3q75So783qdHzJhW77lv1E"
+    },
+    {
+      "added_at": "2024-02-02 08:08:39",
+      "album": {
+        "name": "Love & Dance EP",
+        "url": "https://open.spotify.com/album/29TaoTMHbabORQ54oH4nXK"
+      },
+      "artists": [
+        {
+          "name": "Little Fritter",
+          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
+        }
+      ],
+      "duration_ms": 226110,
+      "name": "Fiiyaa Uppaa",
+      "url": "https://open.spotify.com/track/6XHUVKQnUvE5SuBbvrxUy6"
+    },
+    {
+      "added_at": "2024-02-02 08:08:39",
+      "album": {
+        "name": "Fly Guy",
+        "url": "https://open.spotify.com/album/3Cc9gge8ZBzIsjeqrJ5Ynf"
+      },
+      "artists": [
+        {
+          "name": "SNBRN",
+          "url": "https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI"
+        }
+      ],
+      "duration_ms": 193819,
+      "name": "Fly Guy",
+      "url": "https://open.spotify.com/track/3PkpK6a2TgzgYuxXH4FQi8"
+    },
+    {
+      "added_at": "2024-02-02 08:03:16",
+      "album": {
+        "name": "I Like That",
+        "url": "https://open.spotify.com/album/0RoXiwMsrb8JzH2CkbWMww"
+      },
+      "artists": [
+        {
+          "name": "Fahjah",
+          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
+        },
+        {
+          "name": "Amber Na",
+          "url": "https://open.spotify.com/artist/4Gi7SM27OSfhOHCjiK4Xeo"
+        },
+        {
+          "name": "DJ Mie",
+          "url": "https://open.spotify.com/artist/5WFbYwCCWDArxgBuHonry9"
+        }
+      ],
+      "duration_ms": 154850,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/5pW3Wm5SMKgALdKrjV5T0E"
+    },
+    {
+      "added_at": "2024-02-02 08:03:16",
+      "album": {
+        "name": "They Not Us",
+        "url": "https://open.spotify.com/album/1jaBnYJ6vkb8iNIPNjetTu"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 204651,
+      "name": "They Not Us",
+      "url": "https://open.spotify.com/track/7lmyru1csct3dKD6KD8cpa"
+    },
+    {
+      "added_at": "2024-02-02 08:03:16",
       "album": {
         "name": "When I Wake Up",
         "url": "https://open.spotify.com/album/5pTuebKZdnDlMTRhUidinz"
@@ -49,7 +305,27 @@
       "url": "https://open.spotify.com/track/3YDjGm8NogZVxOp9aHA4MZ"
     },
     {
-      "added_at": "2024-01-26 08:01:50",
+      "added_at": "2024-02-02 08:03:16",
+      "album": {
+        "name": "Delete Time",
+        "url": "https://open.spotify.com/album/3Rn97fqjZ6Nj5ECntOaDJB"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Delete Time",
+      "url": "https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt"
+    },
+    {
+      "added_at": "2024-02-02 08:03:16",
       "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/3FKhVkpnKuHZkNaiEdfFOq"
@@ -69,7 +345,7 @@
       "url": "https://open.spotify.com/track/3t71NTwNK5bjIXYfNZuZND"
     },
     {
-      "added_at": "2024-01-26 08:01:50",
+      "added_at": "2024-02-02 08:03:16",
       "album": {
         "name": "The Godfather",
         "url": "https://open.spotify.com/album/1kgqmG2Y5uOxUnHaIJy1To"
@@ -85,7 +361,7 @@
       "url": "https://open.spotify.com/track/7J6iR4yW6lD0p7e9KJ5hzk"
     },
     {
-      "added_at": "2024-01-26 08:01:50",
+      "added_at": "2024-02-02 08:03:16",
       "album": {
         "name": "Banger AI",
         "url": "https://open.spotify.com/album/5JXzkL1HTMNQFZbJ9LAuwL"
@@ -105,7 +381,7 @@
       "url": "https://open.spotify.com/track/1oHCmnQ9UgPil93CebVNNL"
     },
     {
-      "added_at": "2024-01-26 08:01:50",
+      "added_at": "2024-02-02 08:03:16",
       "album": {
         "name": "Oh",
         "url": "https://open.spotify.com/album/3B8iOjNnDZHxn4J9jo5FMb"
@@ -121,7 +397,7 @@
       "url": "https://open.spotify.com/track/3Fzdo7mEcPpAKXCVg2edP5"
     },
     {
-      "added_at": "2024-01-26 08:01:50",
+      "added_at": "2024-02-02 08:03:16",
       "album": {
         "name": "We Enter",
         "url": "https://open.spotify.com/album/43EyY47jMzKbeq1pHKaGx0"
@@ -137,7 +413,7 @@
       "url": "https://open.spotify.com/track/7qIpx1KiZc6KBY6zeOJe3T"
     },
     {
-      "added_at": "2024-01-26 08:01:50",
+      "added_at": "2024-02-02 08:03:16",
       "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/761EmE26ty1yb1nD9UQSVz"
@@ -153,7 +429,7 @@
       "url": "https://open.spotify.com/track/6jl8gDM9NRcK59MflJP0Qg"
     },
     {
-      "added_at": "2024-01-26 08:01:50",
+      "added_at": "2024-02-02 08:03:16",
       "album": {
         "name": "Mr. Vain (with DJ Terry)",
         "url": "https://open.spotify.com/album/5E9uuqtbdmgcAHtXlHXvCz"
@@ -181,7 +457,7 @@
       "url": "https://open.spotify.com/track/1t7Wpml2HHWE5M1k7JPpYj"
     },
     {
-      "added_at": "2024-01-26 08:01:50",
+      "added_at": "2024-02-02 08:03:16",
       "album": {
         "name": "Confidence",
         "url": "https://open.spotify.com/album/3Sx0g9PG4PSHAGAqWJlgap"
@@ -197,7 +473,7 @@
       "url": "https://open.spotify.com/track/0aA9YW5z1er3G0HQwhb4Ri"
     },
     {
-      "added_at": "2024-01-26 08:01:50",
+      "added_at": "2024-02-02 08:03:16",
       "album": {
         "name": "Left Right",
         "url": "https://open.spotify.com/album/6ty39Pp0W6HlmHJDV8wVky"
@@ -215,270 +491,6 @@
       "duration_ms": 251612,
       "name": "Left Right",
       "url": "https://open.spotify.com/track/2lcxuqUUnRjIwHpzKrHwTC"
-    },
-    {
-      "added_at": "2024-01-26 08:01:50",
-      "album": {
-        "name": "No Limit To Our Love (feat. Jantine)",
-        "url": "https://open.spotify.com/album/2nQ2dpnzdS2pKR6cRHqGR5"
-      },
-      "artists": [
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        },
-        {
-          "name": "Jantine",
-          "url": "https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "No Limit To Our Love (feat. Jantine)",
-      "url": "https://open.spotify.com/track/0T4AEmyVegZkqHw1TOHXkZ"
-    },
-    {
-      "added_at": "2024-01-26 08:01:50",
-      "album": {
-        "name": "Club Bizarre",
-        "url": "https://open.spotify.com/album/7a006nzCmUu6ZfaqKQqQd4"
-      },
-      "artists": [
-        {
-          "name": "U96",
-          "url": "https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd"
-        },
-        {
-          "name": "Sunlike Brothers",
-          "url": "https://open.spotify.com/artist/6ag0HxAKmKQFDXVdt6FUVx"
-        },
-        {
-          "name": "ToneNation",
-          "url": "https://open.spotify.com/artist/6vOhTSLHpmIlGK8IeS2caU"
-        }
-      ],
-      "duration_ms": 131246,
-      "name": "Club Bizarre",
-      "url": "https://open.spotify.com/track/0CSV3CbzC0tlIINQMRhfHw"
-    },
-    {
-      "added_at": "2024-01-26 08:01:50",
-      "album": {
-        "name": "Cry For You",
-        "url": "https://open.spotify.com/album/2eIUTbijLZp5fTb2W5eghF"
-      },
-      "artists": [
-        {
-          "name": "Basstrologe",
-          "url": "https://open.spotify.com/artist/6OMAZu0PYOsl3kONOQV9Zk"
-        },
-        {
-          "name": "D.N.S",
-          "url": "https://open.spotify.com/artist/0a4v4FxuMsYSSc4PXbgKkc"
-        }
-      ],
-      "duration_ms": 152758,
-      "name": "Cry For You",
-      "url": "https://open.spotify.com/track/3rgTtY3yfOtJas1hxTye3x"
-    },
-    {
-      "added_at": "2024-01-26 08:01:50",
-      "album": {
-        "name": "Dance Is The Answer (feat. Raja Ram)",
-        "url": "https://open.spotify.com/album/0mdXH0pJA8KKW8abGrS3o8"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "RUBACK",
-          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
-        },
-        {
-          "name": "Ticon",
-          "url": "https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1"
-        },
-        {
-          "name": "Raja Ram",
-          "url": "https://open.spotify.com/artist/5jBTxtjj3Y3cDgoqWbFJxy"
-        }
-      ],
-      "duration_ms": 329165,
-      "name": "Dance Is The Answer (feat. Raja Ram)",
-      "url": "https://open.spotify.com/track/56rqKeuhAVv2E6RK5BifIS"
-    },
-    {
-      "added_at": "2024-01-26 08:01:50",
-      "album": {
-        "name": "Que Pasa",
-        "url": "https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        },
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Que Pasa",
-      "url": "https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv"
-    },
-    {
-      "added_at": "2024-01-26 08:01:50",
-      "album": {
-        "name": "Combinator",
-        "url": "https://open.spotify.com/album/36mZdz6bGigTDujLhkznrL"
-      },
-      "artists": [
-        {
-          "name": "DESTRO",
-          "url": "https://open.spotify.com/artist/36tENaXXd6WfMiK1slOlEo"
-        },
-        {
-          "name": "Din & Vic",
-          "url": "https://open.spotify.com/artist/6aBFmG3P8qP94uilPUwYBk"
-        }
-      ],
-      "duration_ms": 184765,
-      "name": "Combinator",
-      "url": "https://open.spotify.com/track/1y38XyAHV1MYjjfhBtWd3U"
-    },
-    {
-      "added_at": "2024-01-26 08:01:50",
-      "album": {
-        "name": "Can't Find My Friends (feat. Midian)",
-        "url": "https://open.spotify.com/album/40hddZxqn0C00ATkCx6xio"
-      },
-      "artists": [
-        {
-          "name": "SAYMYNITTI",
-          "url": "https://open.spotify.com/artist/79B3JMeI43ZRJeDvrCtf8d"
-        },
-        {
-          "name": "SAYMYNAME",
-          "url": "https://open.spotify.com/artist/1PP0a3KRZiaqtahgtJ3bdv"
-        },
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        },
-        {
-          "name": "Midian",
-          "url": "https://open.spotify.com/artist/5zTsZXNXAEZ3eir3cvsaBq"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Can't Find My Friends (feat. Midian)",
-      "url": "https://open.spotify.com/track/32cxRQ0zD63AdWFKCqe1Fg"
-    },
-    {
-      "added_at": "2024-01-26 08:01:50",
-      "album": {
-        "name": "In The Weekend",
-        "url": "https://open.spotify.com/album/422FYZRqfIfMaR2YIK0A3V"
-      },
-      "artists": [
-        {
-          "name": "Surya",
-          "url": "https://open.spotify.com/artist/3S9iXX8tMEbBrkMU8PmmjN"
-        }
-      ],
-      "duration_ms": 157619,
-      "name": "In The Weekend",
-      "url": "https://open.spotify.com/track/4o0GYoWybEPL1fTb31rkii"
-    },
-    {
-      "added_at": "2024-01-26 08:01:50",
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/1KVnJQosRymvL1urEH5Wsc"
-      },
-      "artists": [
-        {
-          "name": "Wave Wave",
-          "url": "https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9"
-        },
-        {
-          "name": "Jake Silva",
-          "url": "https://open.spotify.com/artist/5RLODyL9SNX8KYZ0yiiXvL"
-        },
-        {
-          "name": "Bruno Wolff",
-          "url": "https://open.spotify.com/artist/0pn6XJi2YF35lsPYokfM5B"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/02wLZcPEl7xt0L9OpBKpS0"
-    },
-    {
-      "added_at": "2024-01-26 08:01:50",
-      "album": {
-        "name": "OneHundred",
-        "url": "https://open.spotify.com/album/34vgp24d0jYG1SzSkgP3uE"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        },
-        {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
-        },
-        {
-          "name": "Matt Hawk",
-          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
-        }
-      ],
-      "duration_ms": 189376,
-      "name": "OneHundred",
-      "url": "https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP"
-    },
-    {
-      "added_at": "2024-01-26 08:01:50",
-      "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/0QxzLDrb3YKNjWB1F5RfMx"
-      },
-      "artists": [
-        {
-          "name": "The MVI",
-          "url": "https://open.spotify.com/artist/3lNndpXHpx4oVT4rEt5MB4"
-        }
-      ],
-      "duration_ms": 189913,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/6ZVj7rTW2lkgR69LO4OO1r"
-    },
-    {
-      "added_at": "2024-01-26 08:01:50",
-      "album": {
-        "name": "Lost Without You (Tom & Jame Remix)",
-        "url": "https://open.spotify.com/album/1ZBsSC0GElDPegAe58QKih"
-      },
-      "artists": [
-        {
-          "name": "Jack Wins",
-          "url": "https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt"
-        },
-        {
-          "name": "Caitlyn Scarlett",
-          "url": "https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU"
-        },
-        {
-          "name": "Tom & Jame",
-          "url": "https://open.spotify.com/artist/6ZXRsQeAoGPspf8tNeEtPo"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "Lost Without You (Tom & Jame Remix)",
-      "url": "https://open.spotify.com/track/4qlOEEFmKVb9kjfgjjljJ0"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

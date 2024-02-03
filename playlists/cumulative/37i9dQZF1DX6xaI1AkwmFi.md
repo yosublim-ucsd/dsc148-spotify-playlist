@@ -4,7 +4,7 @@
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-134 songs - 7 hr 52 min
+135 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 | 2023-11-23 |  |
 | [Question](https://open.spotify.com/track/4ueD865i4d25gzz3UoDSus) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Question](https://open.spotify.com/album/3ianuamQ5HkgsPLaFGB4H6) | 2:51 | 2023-12-05 | 2024-01-10 |
 | [replica](https://open.spotify.com/track/2ZLdeyeaIQdP4mqcMCB9yR) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:13 | 2023-12-03 | 2023-12-13 |
+| [rhythm 64](https://open.spotify.com/track/4KWMnXGQ4wCiDU1vP8uGVb) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [rhythm 64](https://open.spotify.com/album/0dqofszfjI1qN76jWqFiyp) | 4:28 | 2024-02-01 |  |
 | [RUN](https://open.spotify.com/track/46RQJRbjYT8MqcLDJHM0iX) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [RUN](https://open.spotify.com/album/202o5K14gZ0UQpAHgfPIe8) | 3:09 | 2023-12-21 |  |
 | [SCRAP BOOOO](https://open.spotify.com/track/5fDRSX9xltfEVx3RWAoLYR) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [SCRAP BOOOO](https://open.spotify.com/album/1TV3feeXhBqjJHCrpoLUdv) | 2:44 | 2023-12-12 | 2024-01-10 |
 | [Seishin Rock](https://open.spotify.com/track/5oeOH2PtEyy43MvchoWx34) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Seishin Rock](https://open.spotify.com/album/4HxqIkte7i4FzBusMxYykW) | 2:53 | 2023-12-12 | 2024-01-10 |
@@ -113,7 +114,7 @@
 | [ミッドナイトガール](https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ミッドナイトガール](https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw) | 3:22 | 2024-01-16 |  |
 | [ユナイテッドパンケーキ](https://open.spotify.com/track/35wXqoRa5J448Mi4EcRzWM) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [ユナイテッドパンケーキ](https://open.spotify.com/album/0ws17q0T3CgE9l4KBx4sTW) | 2:41 | 2023-12-14 | 2024-01-10 |
 | [ラジオネーム オフトゥン大好き](https://open.spotify.com/track/1EVIZJsk07MQsb7lgep3Dq) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF), [Hidefumi Kenmochi](https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg) | [ラジオネーム オフトゥン大好き](https://open.spotify.com/album/1cML3PWxFJxOkjnmBbt9Hg) | 3:16 | 2024-01-30 |  |
-| [リズム64](https://open.spotify.com/track/74GJbmNHys47ZfdoQCySpM) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [リズム64](https://open.spotify.com/album/5ItDzD0v8osJxkUrUCPLJs) | 4:28 | 2024-02-01 |  |
+| [リズム64](https://open.spotify.com/track/74GJbmNHys47ZfdoQCySpM) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [リズム64](https://open.spotify.com/album/5ItDzD0v8osJxkUrUCPLJs) | 4:28 | 2024-02-01 | 2024-02-03 |
 | [ルビー](https://open.spotify.com/track/61dKPB7KS5K0ydinagQy4U) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [ルビー](https://open.spotify.com/album/4XH4mGDiIMfSsr0peqj5F0) | 4:30 | 2023-11-30 | 2023-12-22 |
 | [ロックオン](https://open.spotify.com/track/6Ypn0bd1K7IFWPEWHUPk75) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [巡巡](https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl) | [ロックオン](https://open.spotify.com/album/0J8A7J3iEm0umNxT38O7lx) | 2:47 | 2024-01-11 |  |
 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 | 2024-01-10 |  |

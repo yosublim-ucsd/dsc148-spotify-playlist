@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1990s. Cover: Sheryl Crow.",
-  "num_followers": 7960120,
+  "num_followers": 7960642,
   "original_name": "All Out 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDQ2ZWI2N2JkYWM0MjdhZGY2MjY2NjFiMzc2MmE3NTk3ZjlkNzU4",
+  "snapshot_id": "MCw0MDYxY2UxMmQ1NTE4YWI3ZGRkNmJmMTM3ZmJlYmEzODk0MGU3ZDhi",
   "tracks": [
     {
       "added_at": "2024-01-25 04:29:28",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-01-25 04:29:28",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 292580,
-      "name": "Even Flow",
-      "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
-    },
-    {
-      "added_at": "2024-01-25 04:29:28",
-      "album": {
         "name": "Left Of The Middle",
         "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 244666,
       "name": "Torn",
       "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
+    },
+    {
+      "added_at": "2024-01-25 04:29:28",
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 292580,
+      "name": "Even Flow",
+      "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
     },
     {
       "added_at": "2024-01-25 04:29:28",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-01-25 04:29:28",
       "album": {
-        "name": "I Should Coco",
-        "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
-    },
-    {
-      "added_at": "2024-01-25 04:29:28",
-      "album": {
         "name": "Seal",
         "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 288426,
       "name": "Kiss from a Rose",
       "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
+    },
+    {
+      "added_at": "2024-01-25 04:29:28",
+      "album": {
+        "name": "I Should Coco",
+        "url": "https://open.spotify.com/album/4XeQWsW3K9qjfv5FP9Jtcv"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
     },
     {
       "added_at": "2024-01-25 04:29:28",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-01-25 04:29:28",
       "album": {
-        "name": "We See The Same Sun",
-        "url": "https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY"
-      },
-      "artists": [
-        {
-          "name": "Mr. President",
-          "url": "https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Coco Jamboo",
-      "url": "https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d"
-    },
-    {
-      "added_at": "2024-01-25 04:29:28",
-      "album": {
         "name": "Keep The Faith",
         "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 394400,
       "name": "Bed Of Roses",
       "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
+    },
+    {
+      "added_at": "2024-01-25 04:29:28",
+      "album": {
+        "name": "We See The Same Sun",
+        "url": "https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY"
+      },
+      "artists": [
+        {
+          "name": "Mr. President",
+          "url": "https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Coco Jamboo",
+      "url": "https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d"
     },
     {
       "added_at": "2024-01-25 04:29:28",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2024-01-25 04:29:28",
       "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Ironic - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
+    },
+    {
+      "added_at": "2024-01-25 04:29:28",
+      "album": {
         "name": "Black Sunday",
         "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 208266,
       "name": "Insane in the Brain",
       "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
-    },
-    {
-      "added_at": "2024-01-25 04:29:28",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 195080,
-      "name": "Streets of Philadelphia - Single Edit",
-      "url": "https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd"
     },
     {
       "added_at": "2024-01-25 04:29:28",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2024-01-25 04:29:28",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 195080,
+      "name": "Streets of Philadelphia - Single Edit",
+      "url": "https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd"
+    },
+    {
+      "added_at": "2024-01-25 04:29:28",
+      "album": {
         "name": "Please Hammer Don't Hurt 'Em",
         "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 257359,
       "name": "U Can't Touch This",
       "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
-    },
-    {
-      "added_at": "2024-01-25 04:29:28",
-      "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Ironic - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
     },
     {
       "added_at": "2024-01-25 04:29:28",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2024-01-25 04:29:28",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Gettin' Jiggy Wit It",
-      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
-    },
-    {
-      "added_at": "2024-01-25 04:29:28",
-      "album": {
         "name": "Sweat (A La La La La Long)",
         "url": "https://open.spotify.com/album/1WCNEjBtSysAn5AMGWzEqg"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 229000,
       "name": "Sweat (A La La La La Long)",
       "url": "https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J"
+    },
+    {
+      "added_at": "2024-01-25 04:29:28",
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 227933,
+      "name": "Gettin' Jiggy Wit It",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
     },
     {
       "added_at": "2024-01-25 04:29:28",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2024-01-25 04:29:28",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
-    },
-    {
-      "added_at": "2024-01-25 04:29:28",
-      "album": {
         "name": "Yourself or Someone Like You",
         "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 240760,
       "name": "I'll Stand by You",
       "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
+    },
+    {
+      "added_at": "2024-01-25 04:29:28",
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
     },
     {
       "added_at": "2024-01-25 04:29:28",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2024-01-25 04:29:28",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
-      },
-      "artists": [
-        {
-          "name": "Jeff Buckley",
-          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
-        }
-      ],
-      "duration_ms": 413826,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
-    },
-    {
-      "added_at": "2024-01-25 04:29:28",
-      "album": {
         "name": "Hooray For Boobies",
         "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
       },
@@ -2455,18 +2439,18 @@
     {
       "added_at": "2024-01-25 04:29:28",
       "album": {
-        "name": "Sex & Violins",
-        "url": "https://open.spotify.com/album/5DA2dJgKERij9OVWbJDZDj"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
       },
       "artists": [
         {
-          "name": "Rednex",
-          "url": "https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g"
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Cotton Eye Joe",
-      "url": "https://open.spotify.com/track/06hsdMbBxWGqBO0TV0Zrkf"
+      "duration_ms": 413826,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
     },
     {
       "added_at": "2024-01-25 04:29:28",
@@ -2483,6 +2467,22 @@
       "duration_ms": 342400,
       "name": "The Power of Love",
       "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
+    },
+    {
+      "added_at": "2024-01-25 04:29:28",
+      "album": {
+        "name": "Sex & Violins",
+        "url": "https://open.spotify.com/album/5DA2dJgKERij9OVWbJDZDj"
+      },
+      "artists": [
+        {
+          "name": "Rednex",
+          "url": "https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Cotton Eye Joe",
+      "url": "https://open.spotify.com/track/06hsdMbBxWGqBO0TV0Zrkf"
     }
   ],
   "unique_name": "All Out 90s",

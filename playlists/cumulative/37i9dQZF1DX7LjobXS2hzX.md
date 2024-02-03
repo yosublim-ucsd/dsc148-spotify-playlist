@@ -2,7 +2,7 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment\. Photo: Stephen Sanchez
+> Voici les hits du moment\. Photo: Charlotte Cardin
 
 349 songs - 18 hr 27 min
 

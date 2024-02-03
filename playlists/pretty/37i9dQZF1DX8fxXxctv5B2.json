@@ -1,12 +1,12 @@
 {
   "description": "Windows down, volume up. The soundtrack to your road trip.",
-  "num_followers": 166204,
+  "num_followers": 166264,
   "original_name": "Coastal Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTM1ODVhZGFkODQyMWZiZTczNGIzY2QwYmEwNGU0OTkwNTczYjc0",
+  "snapshot_id": "MCxhNWEyYThlZjZjNzM4YTExNjAyYWMwMjI3MTNjYzU5NDA1OTBiZWU1",
   "tracks": [
     {
       "added_at": "2023-11-30 13:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Nothing Matters",
         "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "This Is All Yours",
-        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 173630,
-      "name": "Left Hand Free",
-      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Oysters In My Pocket",
         "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 162338,
       "name": "Oysters In My Pocket",
       "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "This Is All Yours",
+        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 173630,
+      "name": "Left Hand Free",
+      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "You've Got The Love",
-      "url": "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Rose Pink Cadillac",
         "url": "https://open.spotify.com/album/2VaOn32haUapQOYnerK32W"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 261911,
       "name": "Rose Pink Cadillac",
       "url": "https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "You've Got The Love",
+      "url": "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Mrs. Hollywood",
-        "url": "https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59"
-      },
-      "artists": [
-        {
-          "name": "Go-Jo",
-          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
-        }
-      ],
-      "duration_ms": 143840,
-      "name": "Mrs. Hollywood",
-      "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "II (10 Year Anniversary Edition)",
         "url": "https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 230146,
       "name": "So Good at Being in Trouble",
       "url": "https://open.spotify.com/track/3DXHaJzqRCgv3rd5U9EoXU"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Mrs. Hollywood",
+        "url": "https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59"
+      },
+      "artists": [
+        {
+          "name": "Go-Jo",
+          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+        }
+      ],
+      "duration_ms": 143840,
+      "name": "Mrs. Hollywood",
+      "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Kind Reminder",
-        "url": "https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc"
-      },
-      "artists": [
-        {
-          "name": "Pr\u00f3xima Parada",
-          "url": "https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz"
-        }
-      ],
-      "duration_ms": 220096,
-      "name": "Musta Been a Ghost",
-      "url": "https://open.spotify.com/track/0AZTpwagcDe4nH0mPcnYhS"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown)",
         "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Kind Reminder",
+        "url": "https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00f3xima Parada",
+          "url": "https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz"
+        }
+      ],
+      "duration_ms": 220096,
+      "name": "Musta Been a Ghost",
+      "url": "https://open.spotify.com/track/0AZTpwagcDe4nH0mPcnYhS"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Odyssey Number Five",
-        "url": "https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws"
-      },
-      "artists": [
-        {
-          "name": "Powderfinger",
-          "url": "https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6"
-        }
-      ],
-      "duration_ms": 276626,
-      "name": "My Happiness",
-      "url": "https://open.spotify.com/track/2pxxVkNhrRST8fpgA12ru8"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 192621,
       "name": "Solar Power",
       "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Odyssey Number Five",
+        "url": "https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws"
+      },
+      "artists": [
+        {
+          "name": "Powderfinger",
+          "url": "https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6"
+        }
+      ],
+      "duration_ms": 276626,
+      "name": "My Happiness",
+      "url": "https://open.spotify.com/track/2pxxVkNhrRST8fpgA12ru8"
     },
     {
       "added_at": "2023-11-30 13:00:00",

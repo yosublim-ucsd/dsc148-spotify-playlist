@@ -2,9 +2,9 @@
 
 ### [Netflix Kids Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcDZqCc9qf3b)
 
-> Groove to music from your Netflix Kids favorites! Cover: My Dad the Bounty Hunter
+> Groove to music from your Netflix Kids favorites! Cover: Orion and the Dark
 
-123 songs - 5 hr 8 min
+124 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Scientific Method](https://open.spotify.com/track/5SvRpPCx20jXnwIRhaqLtN) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 1:27 | 2022-04-08 |  |
 | [Spirit Rangers Theme Song](https://open.spotify.com/track/55k4Rc5XuIwuF4v4ZFwZJO) | [Spirit Rangers](https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze), [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Spirit Rangers: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/17xy5eOeUcNuJpAyIjKjIF) | 0:55 | 2022-10-12 | 2022-11-17 |
 | [Spirit Rangers Theme Song](https://open.spotify.com/track/5ilCMUE33xFgGMzZGUw0KX) | [Spirit Rangers](https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze), [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Spirit Rangers: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4pTf1x9AErsPd3Dt5FLyPf) | 0:55 | 2022-10-12 |  |
+| [Sunshine](https://open.spotify.com/track/2ElV9rQxJl3IsYalYBYgiY) | [Robert Lydecker](https://open.spotify.com/artist/1BxHOWQjjyVa9gLFZn3AfT), [Kevin Lax](https://open.spotify.com/artist/0vkpJcFIeZZEITGmRyh2US) | [Orion and the Dark \(Original Score\)](https://open.spotify.com/album/4iHSeVEkDv1xRnj1VeQYIX) | 1:05 | 2024-02-03 |  |
 | [The Gratitude Attitude](https://open.spotify.com/track/2BGfPHga1Kr75ew5NDqGKb) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/543rbtvsbqEQY2AIynQQC6) | 2:41 | 2022-04-08 | 2022-07-29 |
 | [The Gratitude Attitude](https://open.spotify.com/track/2DoZ8rKC6xZRfFU9w3EDGJ) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP) | 2:41 | 2022-07-08 | 2022-11-17 |
 | [The Gratitude Attitude](https://open.spotify.com/track/5EwWxvsNIaWI34KsrBTexe) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz) | 2:41 | 2022-10-12 |  |

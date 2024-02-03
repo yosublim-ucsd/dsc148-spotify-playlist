@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 
 > This is Jão\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,091 likes - 32 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,172 likes - 32 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 | 31 | [Fim Do Mundo](https://open.spotify.com/track/3HN4PPMtJP0dEXqxvQgvJG) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS \(Deluxe\)](https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n) | 3:46 |
 | 32 | [fugitivos :\)](https://open.spotify.com/track/0aV9qW7X0msAci4ATkKgBk) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:26 |
 
-Snapshot ID: `Mjg0NDY1MTQsMDAwMDAwMDBiN2IxYzI0YjlmYTk3NmUwODVlYTg4ZDRiYWQwZDk2ZA==`
+Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDAxN2RmZDYxNDk0NzFkZjllNjY4YmUxMzc5MGEwOWQ2MA==`

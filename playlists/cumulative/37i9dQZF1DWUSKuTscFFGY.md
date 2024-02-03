@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés pop\. Photo : Teddy Swims
 
-270 songs - 13 hr 50 min
+272 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Don't Need to Sleep](https://open.spotify.com/track/0CGrKBmgI0jrkt3Qd1PM4t) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Don't Need to Sleep](https://open.spotify.com/album/2VLbmvecrpdXHCGqwD1j3u) | 3:08 | 2023-12-14 | 2024-01-26 |
 | [don’t shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/track/2U2nYZb993yZhtaTJ9sGHl) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [don't shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/album/1SxCpc68MAkp1WbnENuhxq) | 2:20 | 2023-08-17 | 2023-09-01 |
 | [DOUX MÉLANGE](https://open.spotify.com/track/0iL5w6GahrABgOwFD8cYJu) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [DOUX MÉLANGE](https://open.spotify.com/album/4B4WA88glvEEEjFxdujAA0) | 3:10 | 2024-01-04 | 2024-01-19 |
-| [Dreaming](https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/3uoFn9YXRikta2GkvMXoR7) | 3:28 | 2024-02-01 |  |
+| [Dreaming](https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/3uoFn9YXRikta2GkvMXoR7) | 3:28 | 2024-02-01 | 2024-02-03 |
+| [Dreaming](https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs) | 3:28 | 2024-02-01 |  |
 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 | 2023-09-29 | 2023-10-14 |
 | [Elevator Eyes](https://open.spotify.com/track/1xaI8BC30DDf9RDQSWyonb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Elevator Eyes](https://open.spotify.com/album/3EV8D8ljJf9bxlWCbpzmTJ) | 2:58 | 2023-08-10 | 2023-10-14 |
 | [Endless Nights](https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 3:11 | 2023-08-03 | 2023-09-30 |
@@ -120,6 +121,7 @@
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-10 | 2023-12-15 |
 | [I Can See You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:33 | 2023-07-28 | 2023-08-25 |
 | [I Do](https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel \(Deluxe\)](https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf) | 2:39 | 2023-11-23 | 2024-01-13 |
+| [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 | 2024-02-01 |  |
 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 | 2023-07-28 | 2023-08-11 |
 | [i wish you cheated](https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [i wish you cheated](https://open.spotify.com/album/1tf89mHJkN2HVQ4xmdUUqy) | 3:10 | 2023-08-10 | 2023-10-06 |
 | [I'm Good \(feat\. charlieonnafriday\)](https://open.spotify.com/track/3FUbt6McYmAEx3vQusM97c) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I'm Good \(feat\. charlieonnafriday\)](https://open.spotify.com/album/6pRTGGtSp7KcnT7qOo2PLn) | 2:45 | 2023-07-28 | 2023-08-04 |

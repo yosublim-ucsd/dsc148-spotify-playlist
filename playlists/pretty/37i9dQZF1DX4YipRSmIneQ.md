@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > 😈 turn anywhere into a sexy club 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,203 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,252 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 22 | [Asmr](https://open.spotify.com/track/3jPaqo45RVrafP6NnWMBkQ) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN) | [Double Penetration](https://open.spotify.com/album/5RjU9su2m8wyYQQ7cH0kU1) | 2:50 |
 | 23 | [I'm Perfect](https://open.spotify.com/track/3YK1uAScUpCaFNCn004pm6) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [I'm Perfect](https://open.spotify.com/album/4l3Twapn6OepVAOHDPtmT3) | 2:46 |
 | 24 | [Sour Candy \(with BLACKPINK\) \- Shygirl & Mura Masa Remix](https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:45 |
-| 25 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(Remix\)](https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3) | 3:22 |
-| 26 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 |
+| 25 | [BUBBLEGUM](https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [BUBBLEGUM](https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe) | 2:28 |
+| 26 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(Remix\)](https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3) | 3:22 |
 | 27 | [Yoga](https://open.spotify.com/track/0tsYFj9sMgKtCbCaBMbRyv) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Yoga](https://open.spotify.com/album/3jGiYAECmbxAsnF7Z7o8Nw) | 2:59 |
 | 28 | [HMU for a Good Time](https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [333 \(Deluxe\)](https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW) | 4:07 |
 | 29 | [Watch Me](https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj) | 2:56 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 46 | [Mommy](https://open.spotify.com/track/2cTdFq3Cg5w2r3TGMSEHdp) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Mommy](https://open.spotify.com/album/6yv0i2TfhXLcTGIkUSKsIi) | 2:34 |
 | 47 | [Put Cha Back In It](https://open.spotify.com/track/5PYxnArK4wlkX5qYENV5Ac) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Vibrate EP](https://open.spotify.com/album/4Z7nLkNRHfL3RRAqECtTEe) | 2:08 |
 | 48 | [FMU](https://open.spotify.com/track/5iAWOgjcEbgUgBz2MziBXh) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SEXORCISM](https://open.spotify.com/album/0CvWFH9MMcWphYqwBNOUYv) | 2:58 |
-| 49 | [Bunny Is A Rider \- Doss Remix](https://open.spotify.com/track/2F869Vx93KD4Mtfnn1nOqH) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Bunny Is A Rider \(Remix\)](https://open.spotify.com/album/2cWjOKPkOxBKrkWeDyuHua) | 3:57 |
-| 50 | [Grab Dat Ass All Night](https://open.spotify.com/track/6SKDs0q95ZpmiVot0UYPVC) | [Kiddy.Wav](https://open.spotify.com/artist/4a0aeeAMBaJthFkE2A5QBW), [YTP](https://open.spotify.com/artist/1Y7DmQJicuaVo1OeQOWn6S) | [Level up My Skills](https://open.spotify.com/album/3hO7708tej9BhxYRzcsj4x) | 4:29 |
+| 49 | [Grab Dat Ass All Night](https://open.spotify.com/track/6SKDs0q95ZpmiVot0UYPVC) | [Kiddy.Wav](https://open.spotify.com/artist/4a0aeeAMBaJthFkE2A5QBW), [YTP](https://open.spotify.com/artist/1Y7DmQJicuaVo1OeQOWn6S) | [Level up My Skills](https://open.spotify.com/album/3hO7708tej9BhxYRzcsj4x) | 4:29 |
+| 50 | [Bunny Is A Rider \- Doss Remix](https://open.spotify.com/track/2F869Vx93KD4Mtfnn1nOqH) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Bunny Is A Rider \(Remix\)](https://open.spotify.com/album/2cWjOKPkOxBKrkWeDyuHua) | 3:57 |
 
-Snapshot ID: `MCw0MGU2MmI0NjRiNDQ4ZmFmYmMyNTgxYmQzOGE0MWIxMzA1YTMxZjBh`
+Snapshot ID: `MCxmNjUzNmI4NzI5Y2NjYTM0YTUxNThiNDg0NGQ5MWMzYjI5ZjY1YmI5`

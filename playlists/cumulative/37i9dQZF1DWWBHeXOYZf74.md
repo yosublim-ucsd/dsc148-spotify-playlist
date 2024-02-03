@@ -2,9 +2,9 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre\-less\. Quality first always\. Cover: Empress Of
+> Genre\-less\. Quality first always\. Cover: Yaya Bey
 
-2,355 songs - 5 day 12 hr 21 min
+2,360 songs - 5 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [A Bitch Curious \(feat\. Sam Truth\)](https://open.spotify.com/track/1e1HFMTEfxwdJh8cCQmtD4) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Fuck Your Expectations PT\. 1](https://open.spotify.com/album/5M25d4hSmTEN9WM1EtAsfv) | 4:04 | 2021-04-03 | 2022-01-15 |
 | [A Body, A Coffin](https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 2:49 | 2022-07-29 | 2022-08-27 |
 | [A BOY IS A GUN\*](https://open.spotify.com/track/1nXZnTALNXiPlvXotqHm66) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:30 | 2019-10-18 | 2020-02-28 |
+| [A Cold Sunday](https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [A Cold Sunday](https://open.spotify.com/album/4peDphjWdwzhrTEnQbfZ4G) | 1:47 | 2024-02-02 |  |
 | [A Dream I Have](https://open.spotify.com/track/04IEe7T9LrB5tnrydpSHFg) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [A Dream I Have](https://open.spotify.com/album/7cLFGbjbvNSPZO0dDDEKrQ) | 4:33 | 2021-10-15 | 2022-01-22 |
 | [A Gram!](https://open.spotify.com/track/3Mrnphs06NIewF5e4kknB8) | [Jelani Imani](https://open.spotify.com/artist/1sw7TGYqyXeem3njQQQFBM) | [The Shell](https://open.spotify.com/album/6rmV1rsdE5hzF1oRsKIs01) | 2:04 | 2019-10-18 | 2019-11-23 |
 | [A Kiss Goodbye](https://open.spotify.com/track/3FsL491yGtc7Lwq1onHAsn) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [A Kiss Goodbye](https://open.spotify.com/album/3Zc4oDFwuIF662ORTa8WhD) | 3:24 | 2019-07-30\* | 2019-09-18 |
@@ -306,6 +307,7 @@
 | [BOMBAY](https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:06 | 2022-04-29 | 2022-09-03 |
 | [Bon acteur](https://open.spotify.com/track/7HvFxi1R19RxRjLOFmC3TH) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Bon acteur](https://open.spotify.com/album/4VFinoLqAcGUN3JsSXjFRG) | 2:22 | 2020-07-02 | 2020-09-18 |
 | [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 | 2022-11-11 | 2023-02-18 |
+| [Bonnet](https://open.spotify.com/track/5qSpFu6V7hBZHNw4dN6t2S) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Bonnet](https://open.spotify.com/album/55bLssbfx1SFuMIWn6085s) | 2:09 | 2024-02-02 |  |
 | [Borderline](https://open.spotify.com/track/3O8X1DE9btbzy4UH9cSX9a) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Borderline](https://open.spotify.com/album/5zGidcaAvNahQrYhyQwAQn) | 4:34 | 2019-07-30\* | 2019-12-06 |
 | [Borderline \- Blood Orange Remix](https://open.spotify.com/track/7IbGa7PhnXHvUOvhELtGgL) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Borderline \(Blood Orange Remix\)](https://open.spotify.com/album/2twIktE58aJg5kF95rTpch) | 7:17 | 2020-09-26 | 2021-02-19 |
 | [Bordre](https://open.spotify.com/track/1WbMSCLAHjhrgmPTKjn9Cw) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Bordre](https://open.spotify.com/album/55YrflC6VcAHZmmZ1T5ks4) | 5:37 | 2021-04-17 | 2021-09-04 |
@@ -406,6 +408,7 @@
 | [Charge It Remix \(feat\. Smino\)](https://open.spotify.com/track/4GKzznETPVyGoBe6vHr2lS) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Charge It Remix \(feat\. Smino\)](https://open.spotify.com/album/3HC2Rgx0wIcXQNzkVlZOue) | 3:22 | 2023-12-08 | 2023-12-16 |
 | [Charmander](https://open.spotify.com/track/4NP3gHruXgIo4YSJSNDRBz) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Charmander](https://open.spotify.com/album/5Cy8xrlkPh9lR5XolUM0QE) | 2:11 | 2021-10-25 | 2022-01-22 |
 | [Chasing Deer](https://open.spotify.com/track/1WcHoYYPnlVYoaOE24aBL6) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Chasing Deer](https://open.spotify.com/album/2C9iszRDpdnUyMH7js6N17) | 2:52 | 2020-09-03 | 2021-04-30 |
+| [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 | 2024-02-02 |  |
 | [Cheapshot](https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Cheapshot](https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH) | 1:40 | 2023-07-21 | 2023-10-14 |
 | [chem bath](https://open.spotify.com/track/6lqdNLE6pMZ3eFX8TlY1XS) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [chem bath](https://open.spotify.com/album/3XPUkbT1Gz0ce4McTPSJZZ) | 3:50 | 2022-04-29 | 2022-08-27 |
 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 | 2020-11-13 | 2021-05-15 |
@@ -417,6 +420,7 @@
 | [Chivalry Is Not Dead](https://open.spotify.com/track/4nd9kZRsdc1IC9cWYjL2ox) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Chivalry Is Not Dead](https://open.spotify.com/album/6872EZ9OSw9I7JO560E58c) | 3:26 | 2021-06-09 | 2021-09-25 |
 | [Chocolate Hills](https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chocolate Hills](https://open.spotify.com/album/5PwD9RssnZnPRgDuP3s5hY) | 3:10 | 2022-01-21 | 2022-04-29 |
 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 | 2023-03-10 |  |
+| [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 | 2024-02-02 |  |
 | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1) | 2:55 | 2023-02-03 | 2023-03-25 |
 | [Cicada \(feat\. Arca\)](https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 3:53 | 2021-11-12 | 2022-01-29 |
 | [Cig Angel](https://open.spotify.com/track/4AMw3vWRQxJJSCv0WVvofD) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Cig Angel](https://open.spotify.com/album/2UaunxBp4RBJ8gojLPt80d) | 2:50 | 2019-09-27 | 2020-01-16 |
@@ -1386,6 +1390,7 @@
 | [Moments / Tides](https://open.spotify.com/track/7D56acHvA76RlIuebqxWKD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Moments / Tides](https://open.spotify.com/album/2Amx6zNWVblidE5xhCPMXY) | 3:24 | 2020-08-07 | 2021-03-26 |
 | [Monday](https://open.spotify.com/track/6FG3Th7J72vwIfUqVGSQ9z) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Monday](https://open.spotify.com/album/7oH87HOKhW2UDcWFPV8etV) | 2:13 | 2020-02-14 | 2020-07-30 |
 | [Money](https://open.spotify.com/track/114OVh0TxTsEnyMQNAd74t) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Money](https://open.spotify.com/album/6igqszsHOnDaH8Y0HR8z63) | 2:48 | 2021-08-21 | 2021-10-05 |
+| [Money Shows](https://open.spotify.com/track/3g2YmyYPrztnKelA1W5Dv9) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Money Shows](https://open.spotify.com/album/7KwqcMn0sjF72HA7AB1ByY) | 2:11 | 2024-02-02 |  |
 | [mood](https://open.spotify.com/track/74kVM8t4cvfUhct5rb7Hmw) | [Chynna](https://open.spotify.com/artist/41TSOINjztNAFtwuGenWVA) | [mood](https://open.spotify.com/album/1gBdZkx2iKpkcAwEazHuen) | 2:17 | 2019-11-23 | 2020-01-16 |
 | [Mood](https://open.spotify.com/track/67kM8ng5MbvmsilnkcjLGD) | [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Mood](https://open.spotify.com/album/06tCjWV7YTgQJsyyJPBqby) | 4:07 | 2019-10-11 | 2020-03-25 |
 | [Mood \(feat\. Zacari\)](https://open.spotify.com/track/4eULGB0zI7NIdV2KjWbbiZ) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Chasing Summer](https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ) | 3:11 | 2019-08-30 | 2019-11-06 |

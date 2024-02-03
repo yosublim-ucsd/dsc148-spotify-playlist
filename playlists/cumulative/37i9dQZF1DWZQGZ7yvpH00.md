@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 León Leiden, DannyLux en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Delilah en portada.
 
-275 songs - 15 hr 24 min
+278 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Desvelado](https://open.spotify.com/track/2BEVCbf561QZ5I9dWnqXCH) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Desvelado](https://open.spotify.com/album/7zHS91GU59Tlwo4RDkf7qD) | 3:55 | 2023-01-13 | 2023-04-22 |
 | [Diablo](https://open.spotify.com/track/2xmH5KTkTsRWAxxHbXJkoL) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [En Donde Quedo Yo](https://open.spotify.com/album/0fFL3CyMKpIA6OOfjKlDWo) | 2:48 | 2022-05-23 | 2023-01-14 |
 | [Dias Nublados](https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 3:41 | 2022-06-10 | 2023-01-07 |
-| [Dices me Extrañas](https://open.spotify.com/track/1WzaBfhfVLDLqAEYf3pfrH) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Dices me Extrañas](https://open.spotify.com/album/5aa2a3dA2ZfTey8tdefrX0) | 4:52 | 2023-12-08 |  |
+| [Dices me Extrañas](https://open.spotify.com/track/1WzaBfhfVLDLqAEYf3pfrH) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Dices me Extrañas](https://open.spotify.com/album/5aa2a3dA2ZfTey8tdefrX0) | 4:52 | 2023-12-08 | 2024-02-03 |
 | [Dices Que Me Quieres](https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente \(Vol 2\)](https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN) | 3:36 | 2022-11-11 | 2023-01-28 |
 | [Distantes](https://open.spotify.com/track/0o3DbryDgbWANJNZJo8x9R) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Distantes](https://open.spotify.com/album/2bLiF7ZGHwIHco3WGb9vsM) | 3:33 | 2022-06-24 | 2022-08-06 |
 | [DISTRACCIONES](https://open.spotify.com/track/2VfwnBJHhG8Ue4KRL8BjH0) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [DISTRACCIONES](https://open.spotify.com/album/6cJdhE7WbMik7x96Us1lMt) | 3:32 | 2023-12-08 |  |
@@ -146,6 +146,7 @@
 | [Mi Estilo](https://open.spotify.com/track/5Mh7ttqT7eDrAMSDdYLT2m) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Mi Estilo](https://open.spotify.com/album/09hkkkk36xgJfcg8fssPlq) | 4:45 | 2023-06-02 | 2023-07-08 |
 | [Mi Propuesta](https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Mi Propuesta](https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA) | 3:25 | 2023-02-24 | 2023-04-15 |
 | [Mi Soledad](https://open.spotify.com/track/77sMV8IQQb8azd7v3ZAtvC) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:40 | 2022-11-11 | 2023-02-18 |
+| [Mi Universo Entero](https://open.spotify.com/track/6OPFaShW3TEnLcYWSZxt67) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [LEALTAD](https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm) | 3:37 | 2024-02-02 |  |
 | [Mientras Duermes](https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mientras Duermes](https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j) | 3:07 | 2022-05-06 | 2022-07-09 |
 | [Mil Horas](https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:16 | 2022-11-25 | 2023-04-29 |
 | [Mil Pedazos](https://open.spotify.com/track/2Mi5BLsctdUzadFCTbhSQC) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Mil Pedazos](https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF) | 3:01 | 2023-10-06 | 2023-12-23 |
@@ -198,6 +199,7 @@
 | [Qué Te Pasó](https://open.spotify.com/track/7BVHWUOsmn3NcptPMpQ8vo) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Qué Te Pasó](https://open.spotify.com/album/3rqTW2aAuGgzRY4uOUYEMx) | 2:58 | 2022-08-05 | 2023-01-14 |
 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 | 2023-10-13 |  |
 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 | 2022-09-02 | 2023-01-14 |
+| [Rosas](https://open.spotify.com/track/3mxudxSkGLflWoHbQ1vFb7) | [Angel Montoya](https://open.spotify.com/artist/2z176UA0TCYX0tghkNY5rH) | [Rosas](https://open.spotify.com/album/4fUNL9z52KcUKr5vBn3Uw8) | 3:20 | 2024-02-02 |  |
 | [Sanaré](https://open.spotify.com/track/2PsTpCnM7WaPLLqV8kNdVf) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Sanaré](https://open.spotify.com/album/4oFd2PuZH8JemEU6PkVHri) | 2:21 | 2024-01-05 |  |
 | [Se Murió](https://open.spotify.com/track/4QOequf0gyDi53EEoecUp7) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Soy El Nata](https://open.spotify.com/album/7AGkmNOYEjPDNAeoL9K4PN) | 2:26 | 2023-06-09 | 2023-12-02 |
 | [Seca Tus Lagrimas](https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corazon Tumbado](https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc) | 1:56 | 2023-01-13 | 2023-05-13 |
@@ -226,7 +228,7 @@
 | [Sueños Encontrados](https://open.spotify.com/track/4woSlUDnWJQK6fKvGMxnne) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Sueños Encontrados](https://open.spotify.com/album/7dTwMNd9TJrsx4zjpKwKmt) | 3:09 | 2022-03-07 | 2022-05-24 |
 | [Sufro Sin Ti](https://open.spotify.com/track/4GIsUzUtNNZP891PHfnCcD) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Sufro Sin Ti](https://open.spotify.com/album/7vKjcKHK1pziNP4hvDfq9U) | 2:39 | 2022-04-22 | 2022-05-28 |
 | [Superando](https://open.spotify.com/track/1WvLjHq7whnxGrKLjijevB) | [Angel Arevalo](https://open.spotify.com/artist/5M89S2BaLeDuU8URGIdDWV) | [Superando...y Mas](https://open.spotify.com/album/3cCdWCPNIsGDvuAT5pp0D7) | 4:20 | 2023-06-09 | 2023-08-05 |
-| [Tal Vez](https://open.spotify.com/track/29FsuKnbCrHD9JChkrpK9W) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Tal Vez](https://open.spotify.com/album/2TYhUcY7yfCsKr9pUhQ1en) | 2:53 | 2024-01-05 |  |
+| [Tal Vez](https://open.spotify.com/track/29FsuKnbCrHD9JChkrpK9W) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Tal Vez](https://open.spotify.com/album/2TYhUcY7yfCsKr9pUhQ1en) | 2:53 | 2024-01-05 | 2024-02-03 |
 | [Tal Vez Mañana](https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De Norte a Sur](https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm) | 3:33 | 2023-10-27 | 2024-01-16 |
 | [Te Apuesto \- En vivo](https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:48 | 2023-01-13 |  |
 | [Te Creí](https://open.spotify.com/track/4lO8cuxrYtgMGe15RJpm0f) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Te Creí](https://open.spotify.com/album/0yNjMJrt4BgcK3VTp4HUHT) | 3:57 | 2023-06-23 | 2023-09-23 |
@@ -267,6 +269,7 @@
 | [Una en Un Millon](https://open.spotify.com/track/2fuftZ5cJqs2T2lZqDVr5y) | [Amigos De La Cuadra](https://open.spotify.com/artist/5GArqt3wMxHacJWynHFpMY), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Niña Fiel](https://open.spotify.com/album/3KpHEtgSEBgbycuWbZFcCV) | 2:09 | 2022-02-21 | 2022-07-23 |
 | [Una En Un Millon](https://open.spotify.com/track/4PymbhZd20OgKINlAktJ7z) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Dueña De Mi Amor](https://open.spotify.com/album/7w3P9BTyusulTDX5Xi020x) | 2:47 | 2022-05-27 | 2022-06-18 |
 | [Una Mentirosa](https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Una Mentirosa](https://open.spotify.com/album/7Ax5vWCPWDcMqa2gkxATNs) | 3:02 | 2023-02-10 | 2023-04-22 |
+| [Una Noche En Miami](https://open.spotify.com/track/5TM1G08OEZjLu70YaSbYe2) | [Martinsito](https://open.spotify.com/artist/0lGwR7cZwTuIOpeiagR5uf), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Una Noche En Miami](https://open.spotify.com/album/0H0QKdt4RkDRRPi4EYofRp) | 2:42 | 2024-02-02 |  |
 | [Una Peda](https://open.spotify.com/track/4Owj7xIXIFyNYIfHzL1YV8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:56 | 2022-04-08 | 2022-06-25 |
 | [Vas A Olvidarte](https://open.spotify.com/track/3owQ1hV6hn0sQmjRDFmyRe) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [772 </3](https://open.spotify.com/album/2P6TMN431iln4GxB1SlSo0) | 3:47 | 2023-06-02 | 2023-07-08 |
 | [Volveremos](https://open.spotify.com/track/0atD69P4fKr8nBUi1FXBzX) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 5:28 | 2022-04-29 | 2023-01-07 |

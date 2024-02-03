@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Rival Sons
 
-266 songs - 16 hr 48 min
+267 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,9 +264,10 @@
 | [Why Would You Say Such a Thing](https://open.spotify.com/track/2ChjTl6De9oPARng4KS3F3) | [Dustin Douglas & the Electric Gentlemen](https://open.spotify.com/artist/0SCkDFjNZmp2hfT72RVTkm) | [Why Would You Say Such a Thing](https://open.spotify.com/album/5ULXrmyxzAhyzsVBhYsm53) | 2:34 | 2023-04-14 |  |
 | [Wicked Girl](https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN) | [Tyler Boone](https://open.spotify.com/artist/1Rj1i72Y5eJHan2pm2cqKz), [Peter Keys](https://open.spotify.com/artist/4B8ENwGA7LD85G3DiZSPu7) | [Wicked Girl](https://open.spotify.com/album/02wlom1pEz40ngTampIPeU) | 3:28 | 2022-03-18 |  |
 | [Wild](https://open.spotify.com/track/5X32g7xtJOlgmX6hNXebXa) | [Baba Jenkins](https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez) | [Wild](https://open.spotify.com/album/6GvNg6DywdIaWDTLaDFG1e) | 3:39 | 2022-07-22 |  |
-| [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2022-03-11 |  |
+| [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2022-03-11 | 2024-02-03 |
 | [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-11 | 2022-08-18 |
 | [Will We Ever](https://open.spotify.com/track/2hYQpTCX3z4LybxKKRhaBO) | [Willie and the Bandits](https://open.spotify.com/artist/0TBTCmsm3UDvlFvksSiEWD) | [Will We Ever](https://open.spotify.com/album/4Sea3LyXNqJPZ2EH8s0dy6) | 4:25 | 2021-11-12 |  |
+| [With You I Go](https://open.spotify.com/track/7AcxvtAFKqcXeWbr7UVbvU) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [With You I Go](https://open.spotify.com/album/1xFP6uey8FkpaZ1GJZhXiY) | 5:04 | 2024-02-02 |  |
 | [Woman](https://open.spotify.com/track/4qnZ9FXxM1MOoWGY4gQMzJ) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Bad Luck & The Blues](https://open.spotify.com/album/1OxQxV6EUi0D0v0OayR7Is) | 3:29 | 2023-08-25 |  |
 | [Woolamai](https://open.spotify.com/track/0wXOSacytCzfXqt98sEXLe) | [Smoke Stack Rhino](https://open.spotify.com/artist/1aLAvhug01VsqctbbSx5rD) | [Woolamai](https://open.spotify.com/album/6jrGRQ0v0jiECoyiWgMnBQ) | 3:55 | 2022-03-18 | 2024-01-08 |
 | [Woolamai](https://open.spotify.com/track/7bdTFAhATxC9bIxBGGyI3E) | [Smoke Stack Rhino](https://open.spotify.com/artist/1aLAvhug01VsqctbbSx5rD) | [The Mojo Funk](https://open.spotify.com/album/7HAijWOmT4QlIH5BqDn38W) | 3:55 | 2022-03-18 |  |

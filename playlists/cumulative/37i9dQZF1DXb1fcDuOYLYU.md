@@ -2,9 +2,9 @@
 
 ### [Women of Latin](https://open.spotify.com/playlist/37i9dQZF1DXb1fcDuOYLYU)
 
-> Celebrating the powerful voices of Latin music\. Cover: paopao
+> Celebrating the powerful voices of Latin music\. Cover: Belinda
 
-292 songs - 15 hr 52 min
+293 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Bolero Falaz](https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 3:45 | 2023-02-16 |  |
 | [Boys Don't Cry](https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Boys Don't Cry](https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV) | 2:16 | 2022-03-14 | 2023-02-16 |
 | [C14TORCE III](https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [C14TORCE III](https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e) | 2:23 | 2022-03-14 | 2023-02-16 |
+| [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 | 2024-02-02 |  |
 | [Canción Para Olvidarte](https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Canción Para Olvidarte](https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm) | 2:44 | 2023-07-21 |  |
 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 | 2022-03-14 | 2023-02-16 |
 | [Chapón](https://open.spotify.com/track/1cGV0rlZNYereLO600ldK2) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Chapón](https://open.spotify.com/album/54NAVfZaIPHieSe2UHeonK) | 2:33 | 2023-04-14 | 2023-06-10 |
@@ -158,7 +159,7 @@
 | [Los Ángeles](https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Los Ángeles](https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI) | 2:38 | 2023-03-31 |  |
 | [LOVE IN THE DARK](https://open.spotify.com/track/6WrHKidpEVkYKX3vSQhBgL) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [LOVE IN THE DARK](https://open.spotify.com/album/1cotXPn0CcR0ZCQWcTtZe0) | 4:00 | 2022-03-22 | 2023-02-16 |
 | [LUNA](https://open.spotify.com/track/4rejyzjiLkT53w4NWC0Sct) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 2:35 | 2023-02-16 | 2023-12-02 |
-| [Luna](https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Luna](https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf) | 2:28 | 2023-02-16 |  |
+| [Luna](https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Luna](https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf) | 2:28 | 2023-02-16 | 2024-02-03 |
 | [Madluv](https://open.spotify.com/track/09WDXOt4jgIP36HbzxJCrq) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Madluv](https://open.spotify.com/album/2XXGJdyxU0gngUkSmQFbes) | 2:13 | 2022-03-14 | 2023-02-16 |
 | [Magdalena \- Trap Orquesta](https://open.spotify.com/track/6IE4wYupb1yNAmlZy2LLe4) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Magdalena \(Trap Orquesta\)](https://open.spotify.com/album/7fyH2mRFYVHdsvsLAKwZZT) | 2:59 | 2022-03-14 | 2023-02-16 |
 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 | 2022-03-14 | 2023-02-16 |
@@ -221,7 +222,7 @@
 | [Perdón, Perdón \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM) | 3:46 | 2022-03-14 | 2023-02-16 |
 | [Perdóname](https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Nuevas Metas](https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE) | 4:02 | 2023-02-16 |  |
 | [Perreito](https://open.spotify.com/track/5ecJFbbgmywVJkqGQIfcuo) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Normal](https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP) | 2:03 | 2023-02-16 |  |
-| [Piña](https://open.spotify.com/track/6Fdho6pm3GhNyA4TZajC2X) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:24 | 2023-02-16 |  |
+| [Piña](https://open.spotify.com/track/6Fdho6pm3GhNyA4TZajC2X) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:24 | 2023-02-16 | 2024-02-03 |
 | [Policía](https://open.spotify.com/track/6qv6O0VQhXbhzEu4v5ASv5) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Policía](https://open.spotify.com/album/3zvNDd5D18bAtpul2jTyLY) | 2:53 | 2022-03-14 | 2023-02-16 |
 | [Por La Noche](https://open.spotify.com/track/3ecsRxQMTIUZCgf4GBAp41) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Por La Noche \(Remixes\)](https://open.spotify.com/album/7IVKPPu2lvLRs858SMMitY) | 3:44 | 2022-03-14 | 2022-11-13 |
 | [Por Última Vez \(feat\. Franco de Vita\)](https://open.spotify.com/track/0n6jpmetO3fnMM4H8LO54Y) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Soy](https://open.spotify.com/album/0RHpMEN3Xn3nIuJOitlImO) | 4:09 | 2022-03-28 | 2023-02-16 |
@@ -267,7 +268,7 @@
 | [There's No Way](https://open.spotify.com/track/5T56yynriYCiX1Qnas0Cyp) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [There's No Way](https://open.spotify.com/album/3SqoUao1G3gxi9gFuZX2zf) | 2:45 | 2022-03-14 | 2023-02-16 |
 | [Ticket De Salida](https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Ticket De Salida](https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr) | 3:04 | 2022-03-14 | 2023-02-16 |
 | [Tiki Tiki](https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Tiki Tiki](https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ) | 2:11 | 2023-02-16 |  |
-| [TO' ESTO ES TUYO](https://open.spotify.com/track/3sFGJUJ4Dk8WYsahfZaPgM) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [TO' ESTO ES TUYO](https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn) | 3:13 | 2023-02-16 | 2024-02-01 |
+| [TO' ESTO ES TUYO](https://open.spotify.com/track/3sFGJUJ4Dk8WYsahfZaPgM) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [TO' ESTO ES TUYO](https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn) | 3:13 | 2023-02-16 |  |
 | [Toma](https://open.spotify.com/track/48iWXYdWMFNenABULLtopW) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Toma](https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF) | 2:42 | 2023-05-12 | 2023-10-06 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-24 |  |
 | [Tu Falta De Querer](https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:38 | 2022-03-14 |  |

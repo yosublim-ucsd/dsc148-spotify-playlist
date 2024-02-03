@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xEyyndYk10.md) - [plain]
 
 > Que la calle te acompañe al conducir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,793 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,839 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xEyyndYk10.md) - [plain]
 | 27 | [El Arte del Engaño](https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vol\. II](https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x) | 4:22 |
 | 28 | [LQRA Session \#5](https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [LQRA Session \#5](https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a) | 5:08 |
 | 29 | [Grandes Ligas](https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [Grandes Ligas](https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT) | 4:00 |
-| 30 | [Te Marqué Pedo](https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX) | 3:36 |
-| 31 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 |
+| 30 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 |
+| 31 | [Te Marqué Pedo](https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX) | 3:36 |
 | 32 | [hARAkiRi](https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [hARAkiRi](https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D) | 2:49 |
 | 33 | [Ando Al Millón](https://open.spotify.com/track/5CCmSrzQUFq6rvRQ7XyDY9) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Ando Al Millón](https://open.spotify.com/album/29bVXHNrBMnTNXBkEMRVWn) | 3:55 |
 | 34 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 |
-| 35 | [No Hay Manera](https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM) | 4:03 |
-| 36 | [Quiúboles Que](https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Quiúboles Que!](https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK) | 3:41 |
+| 35 | [Quiúboles Que](https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Quiúboles Que!](https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK) | 3:41 |
+| 36 | [No Hay Manera](https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM) | 4:03 |
 | 37 | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/track/4ggrH4V2eKpf2xDfHMuRrq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [Dani Ribba: Bzrp Music Sessions, Vol\. 24](https://open.spotify.com/album/44MB3M5UPDawANWNBaauw0) | 2:53 |
 | 38 | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6) | 3:42 |
 | 39 | [Vaya Vaya](https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vaya Vaya](https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xEyyndYk10.md) - [plain]
 | 49 | [By My Own](https://open.spotify.com/track/1XiptdPHH8raaPDU3gdrWW) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [By My Own](https://open.spotify.com/album/45A5aSPBspEdUdYgWDW0B4) | 3:40 |
 | 50 | [Me Voy a Poner Bien Loco](https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:23 |
 
-Snapshot ID: `MCw4MjUxMWNjMGVmYjM1Y2E5OTQ0Y2ZjZDhiZTU0MWYzMDJiYTVhZTA3`
+Snapshot ID: `MCw0MDkzMWYwNDMyMWNhM2I1YTVkMWU0NDE3N2M3NjI0NmJiMTNlZjM4`

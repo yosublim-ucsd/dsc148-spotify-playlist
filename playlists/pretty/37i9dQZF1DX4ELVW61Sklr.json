@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 189098,
+  "num_followers": 189059,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTY3MWQ4Y2VlZGRmNjljYjNmNzI4Nzc0MGI4YjliYzUzZGU5ZDUx",
+  "snapshot_id": "MCwyM2I4YmNmNmQ2YjQ5MDU3MjczZjdmMzQ3MDdiN2ZiNTAxMjI1OTI3",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Winter Loversland",
-        "url": "https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm"
-      },
-      "artists": [
-        {
-          "name": "Tamar Braxton",
-          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
-        }
-      ],
-      "duration_ms": 117520,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Winter Loversland",
+        "url": "https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm"
+      },
+      "artists": [
+        {
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+        }
+      ],
+      "duration_ms": 117520,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "First Christmas",
         "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
       },
@@ -587,6 +587,26 @@
       "duration_ms": 263866,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Peppermint Tea",
+        "url": "https://open.spotify.com/album/390kChxmDD7GIjAgvbHXfW"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 189412,
+      "name": "Peppermint Tea",
+      "url": "https://open.spotify.com/track/3MR4LAkDi5tY9mYl6QqzUZ"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -625,24 +645,20 @@
       "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
+      "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Peppermint Tea",
-        "url": "https://open.spotify.com/album/390kChxmDD7GIjAgvbHXfW"
+        "name": "The Very Best Of Sounds Of Blackness & Ann Nesby",
+        "url": "https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM"
       },
       "artists": [
         {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "Sounds Of Blackness",
+          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
         }
       ],
-      "duration_ms": 189412,
-      "name": "Peppermint Tea",
-      "url": "https://open.spotify.com/track/3MR4LAkDi5tY9mYl6QqzUZ"
+      "duration_ms": 360133,
+      "name": "Soul Holidays",
+      "url": "https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -681,26 +697,6 @@
       "url": "https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "A Mary Christmas",
-        "url": "https://open.spotify.com/album/54qQgflPZiLpk3YZtQf4Ke"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 264186,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "Christmas Special",
@@ -715,22 +711,6 @@
       "duration_ms": 188533,
       "name": "Christmas Special",
       "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "The Very Best Of Sounds Of Blackness & Ann Nesby",
-        "url": "https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM"
-      },
-      "artists": [
-        {
-          "name": "Sounds Of Blackness",
-          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
-        }
-      ],
-      "duration_ms": 360133,
-      "name": "Soul Holidays",
-      "url": "https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -751,6 +731,26 @@
       "duration_ms": 234466,
       "name": "Joyful, Joyful",
       "url": "https://open.spotify.com/track/671bbzZZlT7tjVUR8CQ5p8"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "A Mary Christmas",
+        "url": "https://open.spotify.com/album/54qQgflPZiLpk3YZtQf4Ke"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 264186,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM"
     },
     {
       "added_at": "2023-11-03 05:45:27",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "A Special Christmas",
-        "url": "https://open.spotify.com/album/2TEbtyEoKR7pwouo6q2ppC"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/43nFa4io3pDfeWEc1NBPel"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Christmas Soul 2020",
@@ -841,40 +825,20 @@
       "url": "https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
+      "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "It's Christmas",
-        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
+        "name": "A Special Christmas",
+        "url": "https://open.spotify.com/album/2TEbtyEoKR7pwouo6q2ppC"
       },
       "artists": [
         {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
         }
       ],
-      "duration_ms": 234560,
+      "duration_ms": 229400,
       "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Home For The Holidays",
-        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 140140,
-      "name": "Santa Baby (with Summer Walker)",
-      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
+      "url": "https://open.spotify.com/track/43nFa4io3pDfeWEc1NBPel"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -893,20 +857,28 @@
       "url": "https://open.spotify.com/track/44P22s5S0ss1ln73uLQBa2"
     },
     {
-      "added_at": "2023-12-08 05:22:39",
+      "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Eazy Christmas",
-        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
+        "name": "Home For The Holidays",
+        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
       },
       "artists": [
         {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 179435,
-      "name": "Kisses On Christmas",
-      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
+      "duration_ms": 155933,
+      "name": "Ghetto Christmas (with 6LACK & Summer Walker)",
+      "url": "https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -927,6 +899,38 @@
       "duration_ms": 267666,
       "name": "Angels We Have Heard On High",
       "url": "https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
+    },
+    {
+      "added_at": "2023-12-08 05:22:39",
+      "album": {
+        "name": "Eazy Christmas",
+        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 179435,
+      "name": "Kisses On Christmas",
+      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1012,17 +1016,13 @@
           "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
         },
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 155933,
-      "name": "Ghetto Christmas (with 6LACK & Summer Walker)",
-      "url": "https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2"
+      "duration_ms": 140140,
+      "name": "Santa Baby (with Summer Walker)",
+      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw"
     },
     {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Star Bright",
+        "url": "https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Williams",
+          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
+        }
+      ],
+      "duration_ms": 232840,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
+    },
+    {
       "added_at": "2023-11-18 05:00:00",
       "album": {
         "name": "The Greatest Gift",
@@ -1087,22 +1103,6 @@
       "duration_ms": 237666,
       "name": "In Love at Christmas",
       "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Star Bright",
-        "url": "https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Williams",
-          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
-        }
-      ],
-      "duration_ms": 232840,
-      "name": "What Child Is This?",
-      "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1231,18 +1231,22 @@
     {
       "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "A Faithful Christmas",
-        "url": "https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX"
+        "name": "Still Home For The Holidays",
+        "url": "https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv"
       },
       "artists": [
         {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
         }
       ],
-      "duration_ms": 186409,
-      "name": "Soulful Christmas",
-      "url": "https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n"
+      "duration_ms": 175347,
+      "name": "Alone for Christmas (feat. Kiana Led\u00e9) - from Still Home For The Holidays (An R&B Christmas Album)",
+      "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1263,22 +1267,34 @@
     {
       "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "Still Home For The Holidays",
-        "url": "https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv"
+        "name": "A Faithful Christmas",
+        "url": "https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX"
       },
       "artists": [
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 175347,
-      "name": "Alone for Christmas (feat. Kiana Led\u00e9) - from Still Home For The Holidays (An R&B Christmas Album)",
-      "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
+      "duration_ms": 186409,
+      "name": "Soulful Christmas",
+      "url": "https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas After Midnight",
+        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1299,22 +1315,6 @@
       "duration_ms": 214373,
       "name": "The Christmas Song (feat. Chaka Khan)",
       "url": "https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Christmas After Midnight",
-        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
     }
   ],
   "unique_name": "R&B Christmas",

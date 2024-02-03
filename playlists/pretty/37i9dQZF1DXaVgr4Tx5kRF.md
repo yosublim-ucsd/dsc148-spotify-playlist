@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,650 likes - 65 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,664 likes - 65 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,17 +48,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 38 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
 | 39 | [Going For Gold](https://open.spotify.com/track/5TBXjIlpKHlVrUVwlpY5e5) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Going For Gold](https://open.spotify.com/album/4LtKB45GXvEsbZV9tKEEn3) | 4:25 |
 | 40 | [Ready to Go](https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y) | [Republica](https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge) | [Ready To Go](https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp) | 5:01 |
-| 41 | [Alright](https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:37 |
-| 42 | [Staying Out For The Summer](https://open.spotify.com/track/0Z8CJq9ntVrA8PHT35ZANv) | [Dodgy](https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W) | [Homegrown](https://open.spotify.com/album/2QsbjNai1nFSl0xFOyV0F7) | 3:12 |
-| 43 | [Come Back To What You Know](https://open.spotify.com/track/2BjvbCwtueWDGi0QKgT3yy) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [The Good Will Out](https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK) | 4:10 |
-| 44 | [She Said](https://open.spotify.com/track/5J7l2wE9wxqod7xIP0jyAB) | [Longpigs](https://open.spotify.com/artist/1o7zIbVAgDDHKijLVuLASg) | [The Sun Is Often Out](https://open.spotify.com/album/1QQKv2Y9uONbj8Dw6GUMB6) | 4:24 |
-| 45 | [Tattva](https://open.spotify.com/track/4FH658GYnS4g5u0eI9dUcS) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [K](https://open.spotify.com/album/29l6MzHPuJ0KrMDRiM7u56) | 3:46 |
+| 41 | [Brimful Of Asha \- Norman Cook Remix Single Version](https://open.spotify.com/track/6gbdLLUhocAjThL3GvV6Lx) | [Cornershop](https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF) | [The Greatest Hits: Why Try Harder](https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ) | 4:00 |
+| 42 | [Alright](https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:37 |
+| 43 | [Staying Out For The Summer](https://open.spotify.com/track/0Z8CJq9ntVrA8PHT35ZANv) | [Dodgy](https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W) | [Homegrown](https://open.spotify.com/album/2QsbjNai1nFSl0xFOyV0F7) | 3:12 |
+| 44 | [Come Back To What You Know](https://open.spotify.com/track/2BjvbCwtueWDGi0QKgT3yy) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [The Good Will Out](https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK) | 4:10 |
+| 45 | [She Said](https://open.spotify.com/track/5J7l2wE9wxqod7xIP0jyAB) | [Longpigs](https://open.spotify.com/artist/1o7zIbVAgDDHKijLVuLASg) | [The Sun Is Often Out](https://open.spotify.com/album/1QQKv2Y9uONbj8Dw6GUMB6) | 4:24 |
 | 46 | [Lucky You](https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Jollification](https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26) | 4:19 |
-| 47 | [Richard III](https://open.spotify.com/track/09rr4TfhpyF6tmaoSt3j4T) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It for the Money](https://open.spotify.com/album/020brgMKGgdPSYjcVNypql) | 3:12 |
-| 48 | [Shine On](https://open.spotify.com/track/0jPprFhDpOfkK3AmgYUCKg) | [The House of Love](https://open.spotify.com/artist/4tfyTbsNNN5xfxKDwG4VfP) | [House Of Love](https://open.spotify.com/album/6dIFn9PVo8zstNxsOCSovJ) | 4:00 |
-| 49 | [Brimful of Asha \- Norman Cook Remix](https://open.spotify.com/track/3ufPAjcwTb7YLTw9OcJJJv) | [Shamoryo](https://open.spotify.com/artist/5ypoEsxvCfwoM8dWqpRQhq), [krmd](https://open.spotify.com/artist/33hKWOTTkOaDrINMAlQtht), [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I) | [Brimful Of Asha \(Norman Cook Remix\)](https://open.spotify.com/album/6SRcSN9aHcfh99CfPzCfGJ) | 4:03 |
-| 50 | [All You Good Good People](https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [The Good Will Out](https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK) | 6:06 |
-| 51 | [Inbetweener](https://open.spotify.com/track/4GoqaAdOZqS1lyYODRwxlO) | [Sleeper](https://open.spotify.com/artist/0NbfEPYRgMczimdfM3skmH) | [Smart](https://open.spotify.com/album/4b6QlQpazyHULH2nmJTPcT) | 3:19 |
+| 47 | [Tattva](https://open.spotify.com/track/4FH658GYnS4g5u0eI9dUcS) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [K](https://open.spotify.com/album/29l6MzHPuJ0KrMDRiM7u56) | 3:46 |
+| 48 | [Richard III](https://open.spotify.com/track/09rr4TfhpyF6tmaoSt3j4T) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It for the Money](https://open.spotify.com/album/020brgMKGgdPSYjcVNypql) | 3:12 |
+| 49 | [Shine On](https://open.spotify.com/track/0jPprFhDpOfkK3AmgYUCKg) | [The House of Love](https://open.spotify.com/artist/4tfyTbsNNN5xfxKDwG4VfP) | [House Of Love](https://open.spotify.com/album/6dIFn9PVo8zstNxsOCSovJ) | 4:00 |
+| 50 | [Inbetweener](https://open.spotify.com/track/4GoqaAdOZqS1lyYODRwxlO) | [Sleeper](https://open.spotify.com/artist/0NbfEPYRgMczimdfM3skmH) | [Smart](https://open.spotify.com/album/4b6QlQpazyHULH2nmJTPcT) | 3:19 |
+| 51 | [All You Good Good People](https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [The Good Will Out](https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK) | 6:06 |
 | 52 | [A Design for Life \- 2016 Remastered Version](https://open.spotify.com/track/7rIoot9qXXs4H3n1kH2V4F) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Everything Must Go 20 \(Remastered\)](https://open.spotify.com/album/0N5NWxZazrftwlXMOgHQrC) | 4:17 |
 | 53 | [Loaded](https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 7:02 |
 | 54 | [What You Do To Me](https://open.spotify.com/track/6DOJgDuUVDaJ98GQxwyLTh) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Bandwagonesque](https://open.spotify.com/album/4M6vPZ4hQdOeH07D0JO2JQ) | 2:00 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 64 | [The Riverboat Song](https://open.spotify.com/track/29cKAB63SRhL2GZdMHmQON) | [Ocean Colour Scene](https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U) | [Moseley Shoals](https://open.spotify.com/album/2z6VxH2NdkmxYpTygmlI0W) | 4:52 |
 | 65 | [Trash](https://open.spotify.com/track/4QJgpPPICeOLx2u1P3C53D) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Coming up \- 20th Anniversary Edition \(Audio Version\)](https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41) | 4:05 |
 
-Snapshot ID: `MCwwODMwNGUyMGYyYjgzYzEyNmJjOTc1Y2FlODg2ODQ4YjlmMDM0NzE0`
+Snapshot ID: `MCwzOTMyNzdjZmU3YWU2NDFjNTllYzIwZDRhYmFlMmYyMzdlZjQ3ZGY0`

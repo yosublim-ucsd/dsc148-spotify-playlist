@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 277049,
+  "num_followers": 277262,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjhlMGQ2MmE4YTBlNDczNzc2YTNhNGI1MGU1OGMyYTQ3Njc1ZWYy",
+  "snapshot_id": "MCw5MTg0ZjA5NjVkZmZlZjY1ZTNlYzg4YTMwNjIyMTYyZWM0ZDM3YTA0",
   "tracks": [
     {
       "added_at": "2023-01-03 15:06:17",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Whenever You Need Somebody",
-        "url": "https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6"
-      },
-      "artists": [
-        {
-          "name": "Rick Astley",
-          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Whenever You Need Somebody",
+        "url": "https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6"
+      },
+      "artists": [
+        {
+          "name": "Rick Astley",
+          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "The Raw & The Cooked",
-        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
-      },
-      "artists": [
-        {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        }
-      ],
-      "duration_ms": 215773,
-      "name": "She Drives Me Crazy",
-      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Greatest Hits: Huey Lewis And The News",
         "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 234333,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 215773,
+      "name": "She Drives Me Crazy",
+      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Celebrate!",
-        "url": "https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 298866,
-      "name": "Celebration",
-      "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 163373,
       "name": "Crazy Little Thing Called Love - Remastered 2011",
       "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Celebrate!",
+        "url": "https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 298866,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/2zjt2hHBbiv5SuxYg8Z7eP"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "No Jacket Required (2016 Remaster)",
         "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 263106,
       "name": "Sussudio - 2016 Remaster",
       "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/2zjt2hHBbiv5SuxYg8Z7eP"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
         "name": "Rhythm Of The Night",
         "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 229106,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
-        "name": "Word Up",
-        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
-      },
-      "artists": [
-        {
-          "name": "Cameo",
-          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Word Up",
-      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1027,18 +1027,34 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+        "name": "Speak & Spell (2006 Remaster)",
+        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 204386,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
+      "duration_ms": 222760,
+      "name": "Just Can't Get Enough - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Word Up",
+        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
+      },
+      "artists": [
+        {
+          "name": "Cameo",
+          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Word Up",
+      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1059,22 +1075,6 @@
       "duration_ms": 189093,
       "name": "I Got You Babe",
       "url": "https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
-        "name": "Speak & Spell (2006 Remaster)",
-        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Just Can't Get Enough - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "The Very Best Of Kool & The Gang (Reissue)",
-        "url": "https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "Get Down On It - Single Version",
-      "url": "https://open.spotify.com/track/4yKZACkuudvfd600H2dQie"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Reel Life (Expanded Edition)",
         "url": "https://open.spotify.com/album/239pbWGvEVRkGAmeiZYwtp"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 270720,
       "name": "Waiting for a Star to Fall",
       "url": "https://open.spotify.com/track/09huOVRryZNV2deKFZLJDC"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "The Very Best Of Kool & The Gang (Reissue)",
+        "url": "https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "Get Down On It - Single Version",
+      "url": "https://open.spotify.com/track/4yKZACkuudvfd600H2dQie"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 274066,
-      "name": "Loco in Acapulco",
-      "url": "https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "PopArt: The Hits",
         "url": "https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 237653,
       "name": "Always on My Mind - 2003 Remaster",
       "url": "https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 274066,
+      "name": "Loco in Acapulco",
+      "url": "https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Shaky",
-        "url": "https://open.spotify.com/album/05rSaDParyh27b5eomSA8P"
-      },
-      "artists": [
-        {
-          "name": "Shakin' Stevens",
-          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
-        }
-      ],
-      "duration_ms": 171720,
-      "name": "You Drive Me Crazy",
-      "url": "https://open.spotify.com/track/2j8bXaOBeEeyoY4ZpCcFIW"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Look Sharp!",
         "url": "https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 237320,
       "name": "The Look",
       "url": "https://open.spotify.com/track/79LdvxXi5JYUjhnO7v9Fi3"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Shaky",
+        "url": "https://open.spotify.com/album/05rSaDParyh27b5eomSA8P"
+      },
+      "artists": [
+        {
+          "name": "Shakin' Stevens",
+          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
+        }
+      ],
+      "duration_ms": 171720,
+      "name": "You Drive Me Crazy",
+      "url": "https://open.spotify.com/track/2j8bXaOBeEeyoY4ZpCcFIW"
     },
     {
       "added_at": "2023-02-28 06:08:31",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "The Final",
-        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 243093,
-      "name": "I'm Your Man",
-      "url": "https://open.spotify.com/track/2gG7E5OZi5D5QLRIctv63z"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Different Light (Expanded Edition)",
         "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 203226,
       "name": "Walk Like an Egyptian",
       "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "The Final",
+        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 243093,
+      "name": "I'm Your Man",
+      "url": "https://open.spotify.com/track/2gG7E5OZi5D5QLRIctv63z"
     },
     {
       "added_at": "2023-01-03 15:06:17",

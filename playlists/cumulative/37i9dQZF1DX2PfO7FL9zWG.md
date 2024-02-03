@@ -2,9 +2,9 @@
 
 ### [Folk Favourites](https://open.spotify.com/playlist/37i9dQZF1DX2PfO7FL9zWG)
 
-> Revisit stand out songs from these singer/songwriters\. Cover: Half Moon Run
+> Revisit stand out songs from these singer/songwriters\. Cover: Mustafa
 
-329 songs - 20 hr 43 min
+330 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Apple Pie](https://open.spotify.com/track/0zLnAV1lYEhVnKk3ITmCym) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 4:19 | 2022-07-27 |  |
 | [Apple Pie](https://open.spotify.com/track/1tL1wrbBwzXpUhjItFytoY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Apple Pie](https://open.spotify.com/album/6GrP5hH95eUDToww5abVsd) | 4:19 | 2022-04-15 | 2022-07-29 |
 | [Apple Pie](https://open.spotify.com/track/5FKNq0lLJnP3iZzBTD0PZj) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 4:19 | 2022-07-27 | 2022-10-14 |
-| [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 | 2023-03-31 |  |
+| [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 | 2023-03-31 | 2024-02-03 |
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2022-04-15 |  |
 | [Aurora](https://open.spotify.com/track/453jiWc3IvEjdxFRT66MTA) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Run to Waters](https://open.spotify.com/album/1v7MBpK6kqQKiZTZ3vpIjZ) | 6:09 | 2022-04-15 | 2022-07-05 |
 | [B61](https://open.spotify.com/track/24jpjPR3hZ1VAQOWr9sd0t) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [B61](https://open.spotify.com/album/5zJLOsXPJ8d8y9pgsNXEt1) | 3:41 | 2022-04-15 | 2023-04-01 |
@@ -203,6 +203,7 @@
 | [Monogamy](https://open.spotify.com/track/6nyltn9zx3VG8Inb3oVREy) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 3:19 | 2022-07-27 | 2023-04-01 |
 | [Motion Sickness](https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:49 | 2023-03-31 |  |
 | [My Silver Lining](https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 3:35 | 2023-03-31 |  |
+| [Name of God](https://open.spotify.com/track/6gOxexvj0mjwnRRrLXT1cB) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai) | 3:28 | 2024-02-02 |  |
 | [Never Look Back](https://open.spotify.com/track/0Y9belsGlq7oWUjDwAOfJw) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Never Look Back](https://open.spotify.com/album/2Fy1SYigOgZpc586CPK7Bq) | 4:19 | 2022-04-15 | 2022-07-28 |
 | [Never Mind The Weather](https://open.spotify.com/track/4vsz52WPo1lXXwCOqjh4Ls) | [Big Little Lions](https://open.spotify.com/artist/1S25eHELHGJo2jLuayK0X3) | [Never Mind The Weather](https://open.spotify.com/album/6pUPzHV9k4B5h1SQicxZfM) | 3:45 | 2022-04-15 | 2022-06-06 |
 | [New House](https://open.spotify.com/track/1wjekflX5IeRt4JhnF4vix) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [You and Me for Now](https://open.spotify.com/album/5KPl7k36JzLxe4bisDG8S4) | 3:33 | 2022-07-27 | 2023-04-01 |

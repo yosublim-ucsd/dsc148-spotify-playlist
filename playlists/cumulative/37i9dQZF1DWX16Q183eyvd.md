@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Mega Ran
 
-121 songs - 5 hr 56 min
+124 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,8 @@
 | [Hey Ya](https://open.spotify.com/track/7qEaSln7DzqWAxVWPJG8hz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Party Hits](https://open.spotify.com/album/7dtTU6GpOYFNwF5hE1o4zE) | 3:55 | 2022-02-04 | 2024-01-31 |
 | [Hiphop\-O\-Potamus \- Feat\. Jabari & Baby Power](https://open.spotify.com/track/0ajAIY2IEOjJ4JFmlAEuvM) | [Mee Wee](https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp) | [Mee Wee: Hip Hop For Kids](https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU) | 2:15 | 2021-11-19 |  |
 | [Hold On To Hope](https://open.spotify.com/track/1LersStKnGeVNUT22jV93Z) | [DJ WILLY WOW!](https://open.spotify.com/artist/1wrWCOgGgDPnyplXzAyphY), [Armand Hutton](https://open.spotify.com/artist/2tTTLk0nX4eKLe7H2o1nAA) | [Hip Hope For Kids!](https://open.spotify.com/album/6EV4fFV1l6P6s43QQSlBCo) | 1:19 | 2024-01-30 |  |
+| [Hope](https://open.spotify.com/track/4YUplkqWWGV9huYJFAKjyY) | [Grey Skye Evans](https://open.spotify.com/artist/0xcZxQPXuEniKbWwUMvPPP) | [Hope](https://open.spotify.com/album/6TyZrOw86JmHZu9TxHW794) | 2:40 | 2024-02-02 |  |
+| [I Am Love, I Am Light](https://open.spotify.com/track/4Pze9m7sM29Q4UfGrH1fox) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY) | [I Am Love, I Am Light](https://open.spotify.com/album/50wyClVSQJXE0MbyDmYwa2) | 3:02 | 2024-02-02 |  |
 | [I Like Fruit](https://open.spotify.com/track/1FgVgbqZG3tZ9vNgymPOVe) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Easy](https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6) | 3:20 | 2021-11-19 | 2024-01-31 |
 | [I'm Coming Out / Mo' Money Mo' Problems](https://open.spotify.com/track/3SUQYLuMqCW7lkMAZ1Bhev) | [Zooey Deschanel](https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [James Corden](https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P), [Walt Dohrn](https://open.spotify.com/artist/4hWc4epxTdb1KC3jRd1wDd), [Ron Funches](https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP), [Caroline Hjelt](https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME), [Aino Jawo](https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV), [Kunal Nayyar](https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 1:01 | 2021-11-19 | 2024-01-31 |
 | [I'm Healthy](https://open.spotify.com/track/7ECdYi17tlPuGg9YVblRPU) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap](https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C) | 2:33 | 2021-11-19 | 2024-01-31 |
@@ -101,6 +103,7 @@
 | [Safari](https://open.spotify.com/track/1Cz147uNA3JuLlaF60TP5K) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Mouse\-A\-Mania](https://open.spotify.com/album/1XHsqic4Jn9koJxkRYwVNw) | 3:25 | 2023-10-10 | 2024-01-31 |
 | [Shake Ya Tailfeather](https://open.spotify.com/track/2t3ZxwOLtpRYxctPbXRRns) | [Giggle Club](https://open.spotify.com/artist/0VXTiAhwelyAgBsxbbinnf) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:58 | 2021-11-19 | 2024-01-31 |
 | [Shine Bright](https://open.spotify.com/track/0vky4YTaxSuGlnSPjpWHt1) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P) | [Shine Bright](https://open.spotify.com/album/7xpTudRq1jnZtbsJKaVxsK) | 1:47 | 2024-01-30 |  |
+| [SUBS](https://open.spotify.com/track/6pwCquNMHo4z4gFJDSPgMd) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [Straight Outta Recess](https://open.spotify.com/album/4Hjyjf2kPHQRQ0GtMaunye) | 2:09 | 2024-02-02 |  |
 | [Take Me to Jamaica](https://open.spotify.com/track/6iRe9TNNsqheEko10IJGCN) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 3:18 | 2022-02-04 | 2023-11-09 |
 | [Take Me to Jamaica](https://open.spotify.com/track/7cvnmohDKpVp825bUOehLr) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT) | 3:18 | 2022-02-04 | 2022-10-13 |
 | [Take Me To Jamaica \(feat\. Toots Hibbert\)](https://open.spotify.com/track/5AEyhmFToITN1n2Wa2zLHI) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/1OreWX3yJbrIozwosO1ELn) | 3:18 | 2021-11-19 | 2022-07-29 |

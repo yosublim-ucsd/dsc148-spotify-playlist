@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "New releases for the kids. Cover: Pj Panda",
+  "description": "New releases for the kids. Cover: The Laurie Berkner Band",
   "name": "New Kids Music",
   "tracks": [
     {
@@ -737,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Dinosaur Roar",
+        "url": "https://open.spotify.com/album/4BVwHVRWrffY9mw0YngevK"
+      },
+      "artists": [
+        {
+          "name": "Ms Moni",
+          "url": "https://open.spotify.com/artist/6MTminw8fMsddWdfMHxMy2"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145533,
+      "name": "Dinosaur Roar",
+      "url": "https://open.spotify.com/track/3rSSoXAQNB6ky9G8c5qhK4"
+    },
+    {
+      "album": {
         "name": "Let It Out!",
         "url": "https://open.spotify.com/album/2SXHp5cFcwno6SDKJ2gL9p"
       },
@@ -974,6 +992,24 @@
       "duration_ms": 149151,
       "name": "Every Day is a Dance",
       "url": "https://open.spotify.com/track/5zcwNyRK3GSlyFnj89cLrM"
+    },
+    {
+      "album": {
+        "name": "Peppa's Cinema Party: The Album",
+        "url": "https://open.spotify.com/album/70Npf2Pam7odgtsT3pUjWX"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200856,
+      "name": "Everybody Party",
+      "url": "https://open.spotify.com/track/42WD6bDL7JlW2G8cWiXFY5"
     },
     {
       "album": {
@@ -1601,6 +1637,46 @@
     },
     {
       "album": {
+        "name": "Songs From Caitie's Classroom, Vol. 3",
+        "url": "https://open.spotify.com/album/3kurzlgzHXBj5u0gYi6zWA"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193692,
+      "name": "Here Comes the Fire Truck (Caitie)",
+      "url": "https://open.spotify.com/track/4P4oY8TvUfbHIsZC5SOGHx"
+    },
+    {
+      "album": {
+        "name": "Here for You",
+        "url": "https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152600,
+      "name": "Here for You",
+      "url": "https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae"
+    },
+    {
+      "album": {
         "name": "Hey Diddle Diddle",
         "url": "https://open.spotify.com/album/2cBnlHDLpjSLoEqtn8phOG"
       },
@@ -1851,6 +1927,24 @@
     },
     {
       "album": {
+        "name": "Icky Sticky Bubble Gum",
+        "url": "https://open.spotify.com/album/2rzHCcsE3vbqSmtxQSLoau"
+      },
+      "artists": [
+        {
+          "name": "Martin and Rose Music",
+          "url": "https://open.spotify.com/artist/61VbOFPL7RIKt0Q1KOykSU"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99257,
+      "name": "Icky Sticky Bubble Gum",
+      "url": "https://open.spotify.com/track/6LXKQqTgF0L51EhtkrlCyJ"
+    },
+    {
+      "album": {
         "name": "Songs for Singin'",
         "url": "https://open.spotify.com/album/6NqD66DThZCoAYP0V6INpB"
       },
@@ -2050,6 +2144,24 @@
       "duration_ms": 176941,
       "name": "Learning To Fly",
       "url": "https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv"
+    },
+    {
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/62Adl6egDrTivn8CY5bD7Y"
+      },
+      "artists": [
+        {
+          "name": "Barbie",
+          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/3KMJq5A49Mpc7bp41KFsxy"
     },
     {
       "album": {
@@ -2553,6 +2665,24 @@
     },
     {
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/5M5WVayiBqfBpjVLbK1rQ1"
+      },
+      "artists": [
+        {
+          "name": "Press Play Picture House",
+          "url": "https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123545,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/1Exwbhd8aIXcL2UKIn0NxG"
+    },
+    {
+      "album": {
         "name": "I Feel",
         "url": "https://open.spotify.com/album/07wSHtFG8Kc2k8Du834TGE"
       },
@@ -2720,6 +2850,24 @@
       "duration_ms": 159424,
       "name": "One Little Finger",
       "url": "https://open.spotify.com/track/3XH8hYYGsj0WJGhdoffsaT"
+    },
+    {
+      "album": {
+        "name": "Onyx The Octopus",
+        "url": "https://open.spotify.com/album/02EN0qGqfEf7n2B6KGVdT5"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117818,
+      "name": "Onyx The Octopus",
+      "url": "https://open.spotify.com/track/5Rju3uC6ltDkSWV08HJKwR"
     },
     {
       "album": {
@@ -3161,6 +3309,24 @@
     },
     {
       "album": {
+        "name": "Slime Song",
+        "url": "https://open.spotify.com/album/4YXdbEwhK7W9JXsJEAWKtZ"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111327,
+      "name": "Slime Song",
+      "url": "https://open.spotify.com/track/3fp5qGSSnfUkiezSv6h2MG"
+    },
+    {
+      "album": {
         "name": "So Glad You're My Friend",
         "url": "https://open.spotify.com/album/7ryqibjyNUEfSiSERlYxfR"
       },
@@ -3352,6 +3518,28 @@
       "duration_ms": 198605,
       "name": "Strong",
       "url": "https://open.spotify.com/track/6In2DRsxT6UKi6bMjlp6sE"
+    },
+    {
+      "album": {
+        "name": "Straight Outta Recess",
+        "url": "https://open.spotify.com/album/4Hjyjf2kPHQRQ0GtMaunye"
+      },
+      "artists": [
+        {
+          "name": "GoNoodle",
+          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
+        },
+        {
+          "name": "Blazer Fresh",
+          "url": "https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129142,
+      "name": "SUBS",
+      "url": "https://open.spotify.com/track/6pwCquNMHo4z4gFJDSPgMd"
     },
     {
       "album": {
@@ -4058,6 +4246,24 @@
       "duration_ms": 170746,
       "name": "We Got This",
       "url": "https://open.spotify.com/track/6WDR423psynPi9xh6DrGAD"
+    },
+    {
+      "album": {
+        "name": "We Totally Rock",
+        "url": "https://open.spotify.com/album/6UjCUIRUSkJMdn6Stfo2rB"
+      },
+      "artists": [
+        {
+          "name": "Imitator Tots",
+          "url": "https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125450,
+      "name": "We Totally Rock",
+      "url": "https://open.spotify.com/track/35JHbcxI8riQGGBfrxJlrp"
     },
     {
       "album": {

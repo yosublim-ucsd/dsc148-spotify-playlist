@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Good Neighbors\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,148 likes - 99 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,234 likes - 99 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 32 | [Let Your Love Run Cold](https://open.spotify.com/track/4lDviyx50ZMALSovCHFo61) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Let Your Love Run Cold](https://open.spotify.com/album/02qqL9B8uYPcrA7yCmMjdS) | 3:43 |
 | 33 | [Cold World](https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/4OMrhNt4uDO7k44AlkqLJb) | 3:17 |
 | 34 | [Whole Lotta Nothing](https://open.spotify.com/track/2fJ8qVt2jxBzbJevlnIEvw) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Whole Lotta Nothing](https://open.spotify.com/album/2pZjqwc0vAhUBINnTmHrd3) | 4:47 |
-| 35 | [On A Grassy Knoll \(We'll Bow Together\)](https://open.spotify.com/track/2w7ytZGD2i3xHXFpy5sJye) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [The Pilgrim, Their God and the King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 4:19 |
+| 35 | [On A Grassy Knoll \(We'll Bow Together\)](https://open.spotify.com/track/2w7ytZGD2i3xHXFpy5sJye) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [The Pilgrim, Their God and The King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 4:19 |
 | 36 | [Divine](https://open.spotify.com/track/0bFjFLAlwvmtmNIU0Hn8kI) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Divine](https://open.spotify.com/album/6NrMHKEEj6bSmrj5QmLEz4) | 2:37 |
 | 37 | [5555](https://open.spotify.com/track/1s2J8T4R7McYkfOXgjQP1q) | [..villa?](https://open.spotify.com/artist/4GNV4dCNqiSvw6sCzSa5nR) | [5555](https://open.spotify.com/album/5BGpC1K1Edhh4X3X8KGUpL) | 3:15 |
 | 38 | [I Don’t Wanna Be Alone](https://open.spotify.com/track/1MyEY1sxdSyBjEqxKEFElw) | [Asal Hazel](https://open.spotify.com/artist/0Qnzp2no3f8GqBNh7Jywtt) | [I Don’t Wanna Be Alone](https://open.spotify.com/album/4Gc1z0fWotafcDL2Osg8wG) | 3:06 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 98 | [Lose Her](https://open.spotify.com/track/3I4QH84TrFPE7Z53He9rg0) | [Sadie Fine](https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc) | [Lose Her](https://open.spotify.com/album/316orttce8f1LBwKgJCOou) | 2:50 |
 | 99 | [Party](https://open.spotify.com/track/7igi6HbHaMAne8Hd67EP6E) | [veronicavon](https://open.spotify.com/artist/6qOWi2uVjil54PGcEfdKVZ) | [Party](https://open.spotify.com/album/2njN9U1kX2FzQ3CjsbcIWe) | 2:58 |
 
-Snapshot ID: `MCw0MmZiNTY4NGMzMjgyZjhiYjI5NWI0N2Y3NGJmYzNjN2FlNzAxNTBh`
+Snapshot ID: `MCwwYmUzNTNmOWM3YjI0NWQ2ZTQ2OWE4NzIwMDAzOTViM2YwMDA0ODVi`

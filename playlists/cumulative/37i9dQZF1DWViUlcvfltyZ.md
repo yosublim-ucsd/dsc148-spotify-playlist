@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: I Segreti
 
-742 songs - 1 day 17 hr 14 min
+743 songs - 1 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -671,7 +671,8 @@
 | [Tipi a posto](https://open.spotify.com/track/7dhM6cmSACQt53M0T7Vnqb) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [Tipi a Posto](https://open.spotify.com/album/0OTDRav72ZKBKSCTORhVnF) | 2:20 | 2023-04-06 | 2023-05-05 |
 | [Topi](https://open.spotify.com/track/5GCBuDynnVjvmxAjqJBEEl) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Topi](https://open.spotify.com/album/68WjLDJML5tpV0wjOuMdjk) | 3:24 | 2023-03-09 | 2023-04-28 |
 | [Torino non è la mia città](https://open.spotify.com/track/3YL6KwcKsIoQ7yLgBR4fUG) | [Scheletri](https://open.spotify.com/artist/5tzlUTfnx5Wp7dRPrJ8nPj) | [Torino non è la mia città](https://open.spotify.com/album/0y0n9AJZaUJ1QefMfIRlKU) | 3:33 | 2023-04-06 | 2023-05-12 |
-| [Touch Me](https://open.spotify.com/track/5xXHDzHyqXvrA3ZI9FGrXJ) | [Puà](https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq) | [Animali](https://open.spotify.com/album/0QyUJdtQoZYZ2TfXCWRagB) | 2:54 | 2024-02-01 |  |
+| [Touch Me](https://open.spotify.com/track/5xXHDzHyqXvrA3ZI9FGrXJ) | [Puà](https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq) | [Animali](https://open.spotify.com/album/0QyUJdtQoZYZ2TfXCWRagB) | 2:54 | 2024-02-01 | 2024-02-03 |
+| [Touch Me](https://open.spotify.com/track/7dMzrhoxYtLXYcZ2TZWPeg) | [Puà](https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq) | [Animali](https://open.spotify.com/album/6miMjVFzV3P93IYRS0oRlV) | 2:54 | 2024-02-01 |  |
 | [Tra chi fugge e chi resta](https://open.spotify.com/track/5YmJTaXU588pytZNYxVWew) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Tra chi fugge e chi resta](https://open.spotify.com/album/6hm4YB2ZEfO02LFQX1rx31) | 2:56 | 2022-05-09 | 2022-06-10 |
 | [TRACCIA](https://open.spotify.com/track/7kYc1qVVzaQU9biiYaMzMY) | [Kalpa](https://open.spotify.com/artist/3lAxLzUBGWRBxuek5rd0F9) | [TRACCIA](https://open.spotify.com/album/65vl4mvwYTCSV8QiTpQZrK) | 3:38 | 2023-10-12 | 2023-11-03 |
 | [TRACCIA 0](https://open.spotify.com/track/70zx9awg1jUxyIRFaCbkXA) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [TRACCIA 0](https://open.spotify.com/album/58p4TduSmi2fRb3YUyaaea) | 2:08 | 2022-11-24 | 2022-12-24 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 233588,
+  "2024-02-03": 233710,
   "date_first_scraped": "2022-05-13",
   "description": "\u0627\u0633\u0645\u0643 \u0641\u0627\u0634\u0644 \u0628\u064a\u0646 \u0627\u0644\u0628\u0631\u0627\u0643\u062a\u0633\u0633\u0633\u060c \u0628\u0644\u0639\u0628 \u0628\u064a\u0647\u0645 \u064a\u0633\u0637\u0649 \u0631\u0643\u062a\u0633\u0633\u0633\u060c \u0628\u0643\u062a\u0641\u0647\u0645 \u0632\u064a \u062c\u0643\u062a\u0633\u0633\u0633 \u063a\u0644\u0627\u0641: \u0623\u0628\u064a\u0648\u0633\u0641 ",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
@@ -671,6 +671,28 @@
       "duration_ms": 153802,
       "name": "BASHA",
       "url": "https://open.spotify.com/track/1fgU43Ln9aByhg4kZpTJnX"
+    },
+    {
+      "album": {
+        "name": "Nemshy Men Hena",
+        "url": "https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Dr. Mo3geza",
+          "url": "https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Begad (Freestyle)",
+      "url": "https://open.spotify.com/track/1qw39Q27vwFzpdic1nQubA"
     },
     {
       "album": {
@@ -1575,6 +1597,24 @@
       "duration_ms": 156990,
       "name": "Fish Wa2t",
       "url": "https://open.spotify.com/track/5CARpixYK1xzYkfTl1cvOJ"
+    },
+    {
+      "album": {
+        "name": "FOKAK MENI",
+        "url": "https://open.spotify.com/album/73HNyxz2RUUZrqCyOZHW32"
+      },
+      "artists": [
+        {
+          "name": "Lella Fadda",
+          "url": "https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113208,
+      "name": "FOKAK MENI",
+      "url": "https://open.spotify.com/track/56ohyUS0aLJpk10OQhleUD"
     },
     {
       "album": {
@@ -4565,7 +4605,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 127512,
       "name": "Ya Reem Estani",
       "url": "https://open.spotify.com/track/4N1GQ6HFwAUwAUsigqYhUM"
@@ -5373,7 +5413,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 192000,
       "name": "\u0643\u0627\u0634\u062d\u0647",
       "url": "https://open.spotify.com/track/4pLH2e0EEPca9BIIx67lNv"

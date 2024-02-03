@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > El futuro está acá\. Conoce a El Frizian en RADAR México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,394 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,436 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 41 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
 | 42 | [Bélica Como Ninguna](https://open.spotify.com/track/1yP0mfJpgXkpwJygR7owzD) | [Los Ejemplares del Rancho](https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY) | [Bélica Como Ninguna](https://open.spotify.com/album/07eczfKQengmSJcbBhUM14) | 2:21 |
 | 43 | [Que Loco Es](https://open.spotify.com/track/21zCMMBtQrkwFwfkrun5Qk) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Que Loco Es](https://open.spotify.com/album/36UY5ZVRoeNMMVBJ9dtIfr) | 3:22 |
-| 44 | [Así Me Enamoré](https://open.spotify.com/track/6MaBIBdKCf1Y4jPrNY7PcA) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [Así Me Enamoré](https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA) | 2:57 |
-| 45 | [Tirando Flow Sesh \#9](https://open.spotify.com/track/1r8mlloMCnHwy40TPrV1U0) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Tirando Flow Sesh \#9](https://open.spotify.com/album/5nS3MisEg8pZROaMSQLyqy) | 3:07 |
+| 44 | [Tirando Flow Sesh \#9](https://open.spotify.com/track/1r8mlloMCnHwy40TPrV1U0) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Tirando Flow Sesh \#9](https://open.spotify.com/album/5nS3MisEg8pZROaMSQLyqy) | 3:07 |
+| 45 | [Así Me Enamoré](https://open.spotify.com/track/6MaBIBdKCf1Y4jPrNY7PcA) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [Así Me Enamoré](https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA) | 2:57 |
 | 46 | [Apenas Es Martes](https://open.spotify.com/track/1RXb99lIyj8RYACt13yg8M) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 3:20 |
 | 47 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Tú Me Llevas a Un Espacio](https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8) | 3:13 |
 | 48 | [Me Voy Pa'l Infierno](https://open.spotify.com/track/2Z4UiHf6vgdoMtoU7FvpMc) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Me Voy Pa'l Infierno](https://open.spotify.com/album/1WGlZO78Xjlb8chgRMLcTJ) | 3:07 |
 | 49 | [Alegre y Positivo](https://open.spotify.com/track/4TFkCeHW7vZO6fI2Dvn97S) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Alegre y Positivo](https://open.spotify.com/album/6334KAMxGu0Xz1QPIn1MkX) | 3:28 |
 | 50 | [Cartier en Mano](https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Cartier en Mano](https://open.spotify.com/album/1nXeA6b9XN2vuMBHX4AdlL) | 2:35 |
 
-Snapshot ID: `MCwxZTUxYzgzYTExNjc0ODkxNGQ0ZDU2ODM3Y2FlYjEzMGJiMTBiMTM5`
+Snapshot ID: `MCxlZjk0MjZjMTI4NDA3NmJiOWFjZDdhOGZhNjdkMzgzMGU4NWFiZWUz`

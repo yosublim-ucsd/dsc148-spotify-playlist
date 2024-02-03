@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
+  "description": "Nuuu k\u00f6\u00f6\u00f6r vi! A*Teens \u00e5terf\u00f6renas och fj\u00e4derboan \u00e4r framme - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
   "name": "Mellofest! ",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 180883,
       "name": "Ashes To Ashes",
       "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
@@ -834,7 +834,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 181493,
       "name": "Evighet",
       "url": "https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp"
@@ -892,6 +892,24 @@
       "duration_ms": 185373,
       "name": "Fairytale - e-single version",
       "url": "https://open.spotify.com/track/4ijrqnZcTEs9eMA3vFsMES"
+    },
+    {
+      "album": {
+        "name": "Pop 'Til You Drop",
+        "url": "https://open.spotify.com/album/2O8rJagr5rJnMCiSfnU4Nn"
+      },
+      "artists": [
+        {
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "Floorfiller",
+      "url": "https://open.spotify.com/track/5BfUdzWYfhnH9MLsCxpQRw"
     },
     {
       "album": {
@@ -1464,7 +1482,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 173692,
       "name": "In i dimman",
       "url": "https://open.spotify.com/track/3zNUWltBz3xrZhXkoSMgJX"
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 173692,
       "name": "In i dimman",
       "url": "https://open.spotify.com/track/5v5cNnwvtntSGSDR3BSVwq"
@@ -2073,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "The Abba Generation",
+        "url": "https://open.spotify.com/album/7yThsnF2X40rQDxZl1lRoB"
+      },
+      "artists": [
+        {
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223426,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/1mfyJ0YLhJwbFLzeE7f4ZR"
+    },
+    {
+      "album": {
         "name": "Masquerade",
         "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
       },
@@ -2358,7 +2394,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 181633,
       "name": "Now I Know",
       "url": "https://open.spotify.com/track/591qy56kcfBuNgj1kregOM"
@@ -2888,6 +2924,24 @@
       "duration_ms": 177400,
       "name": "Upp \u00f6ver mina \u00f6ron",
       "url": "https://open.spotify.com/track/2LeECxc9pVxuHPTxkcSU6f"
+    },
+    {
+      "album": {
+        "name": "Teen Spirit",
+        "url": "https://open.spotify.com/album/4Puwtzbl10V90RTsk8XzWF"
+      },
+      "artists": [
+        {
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197386,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd"
     },
     {
       "album": {

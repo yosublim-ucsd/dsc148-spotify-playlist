@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 477092,
+  "num_followers": 477173,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2Y2ODY4MzhjNWIyY2M2OTVlMDIyMmJiYWZmN2QwZGZiOWZmNjhk",
+  "snapshot_id": "MCw5MzUyNDI2NDNkOTExYzMwMTcwM2JhZThmNWM3YWE0MGIxODk4MDQz",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "To Better Days",
+        "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
+      },
+      "artists": [
+        {
+          "name": "Rain City Drive",
+          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
+        }
+      ],
+      "duration_ms": 196427,
+      "name": "Bury a Lie",
+      "url": "https://open.spotify.com/track/1RNS0ntWy01bZpPkrjJAyt"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 198248,
       "name": "Leave It All Behind",
       "url": "https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "To Better Days",
-        "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
-      },
-      "artists": [
-        {
-          "name": "Rain City Drive",
-          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
-        }
-      ],
-      "duration_ms": 196427,
-      "name": "Bury a Lie",
-      "url": "https://open.spotify.com/track/1RNS0ntWy01bZpPkrjJAyt"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Restless Heart, Keep Running",
+        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Stars Before The Sun",
+      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Anon.",
         "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 173000,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Euthanasia",
-        "url": "https://open.spotify.com/album/10wXXQ3XiLyiCj6W0YMBXy"
-      },
-      "artists": [
-        {
-          "name": "Stray From The Path",
-          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Guillotine",
-      "url": "https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Restless Heart, Keep Running",
-        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
+        "name": "Euthanasia",
+        "url": "https://open.spotify.com/album/10wXXQ3XiLyiCj6W0YMBXy"
       },
       "artists": [
         {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+          "name": "Stray From The Path",
+          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
         }
       ],
-      "duration_ms": 207106,
-      "name": "Stars Before The Sun",
-      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
+      "duration_ms": 216693,
+      "name": "Guillotine",
+      "url": "https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Sick Day",
+        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
+      },
+      "artists": [
+        {
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+        }
+      ],
+      "duration_ms": 123337,
+      "name": "Sick Day",
+      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Baptize",
         "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 185502,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/4I5QCNEbMbeRusKosXgZtK"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Sick Day",
-        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
-      },
-      "artists": [
-        {
-          "name": "Teen Mortgage",
-          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
-        }
-      ],
-      "duration_ms": 123337,
-      "name": "Sick Day",
-      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "It's Over",
-        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "It's Over",
-      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "In Our Wake",
         "url": "https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 193196,
       "name": "In Our Wake",
       "url": "https://open.spotify.com/track/5CSBjkNvlyaDcYlbTuHZHP"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "It's Over",
+        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "The World Is In Your Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 174733,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "LIVING PROOF",
         "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
       },
@@ -1395,38 +1379,6 @@
       "duration_ms": 139000,
       "name": "FTS (KYS)",
       "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Restless Heart, Keep Running",
-        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 227573,
-      "name": "We\u2019ll Always Have Paris",
-      "url": "https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Disease (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Messed Up",
-      "url": "https://open.spotify.com/track/6VyVscmvqF2DvH94Yx8KCd"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1447,6 +1399,54 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "The World Is In Your Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Disease (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Messed Up",
+      "url": "https://open.spotify.com/track/6VyVscmvqF2DvH94Yx8KCd"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Restless Heart, Keep Running",
+        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 227573,
+      "name": "We\u2019ll Always Have Paris",
+      "url": "https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O"
       },
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/41aWOCOKzixf8tmnc79Wdi"
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy"
       },
       "artists": [
         {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
         }
       ],
-      "duration_ms": 226309,
-      "name": "Afterlife - Single Edit",
-      "url": "https://open.spotify.com/track/5EP4iTqknNPDQsbXrc6Ab3"
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1511,6 +1511,38 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Misery Made Me",
+        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Bankrupt",
+      "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/41aWOCOKzixf8tmnc79Wdi"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 226309,
+      "name": "Afterlife - Single Edit",
+      "url": "https://open.spotify.com/track/5EP4iTqknNPDQsbXrc6Ab3"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Familiar Drugs",
         "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
       },
@@ -1523,22 +1555,6 @@
       "duration_ms": 258718,
       "name": "Familiar Drugs",
       "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Brand New Vision",
-        "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "No One's Listening",
-      "url": "https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1559,6 +1575,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Brand New Vision",
+        "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "No One's Listening",
+      "url": "https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Sudden Sky",
         "url": "https://open.spotify.com/album/7f8faOO0gxuG26Qo7GIlkr"
       },
@@ -1575,22 +1607,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Misery Made Me",
-        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Bankrupt",
-      "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Lifeguard",
         "url": "https://open.spotify.com/album/5Kx82DKJqipNxUsBegUQqY"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 192931,
       "name": "Lifeguard",
       "url": "https://open.spotify.com/track/4APrX8rA13avGMevPGxinl"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Gone In Your Wake",
-        "url": "https://open.spotify.com/album/0ypAkNPpFt6jUn6u5Q33CC"
-      },
-      "artists": [
-        {
-          "name": "Thousand Below",
-          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
-        }
-      ],
-      "duration_ms": 191229,
-      "name": "Disassociate",
-      "url": "https://open.spotify.com/track/7f0alEJ3NtU3iqAVrVGAO8"
     },
     {
       "added_at": "2023-06-20 21:21:38",

@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 813932,
+  "2024-02-03": 814072,
   "date_first_scraped": "2022-01-01",
   "description": "Mellow jazz to stay focused or unwind.",
   "name": "Chilled Jazz",
@@ -1282,6 +1282,24 @@
     },
     {
       "album": {
+        "name": "Autumn Memories",
+        "url": "https://open.spotify.com/album/6h7xUNNSruP2FycYPtFu9r"
+      },
+      "artists": [
+        {
+          "name": "Nathan Hill Trio",
+          "url": "https://open.spotify.com/artist/4KDVrZS1ZTq8DvPeEZxbHz"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Autumn Memories",
+      "url": "https://open.spotify.com/track/293Z6MI83NgU15Ky5Gakqc"
+    },
+    {
+      "album": {
         "name": "Autumn Nocturne",
         "url": "https://open.spotify.com/album/7KBFqb2rTLsCdjQz64bf8M"
       },
@@ -1786,6 +1804,24 @@
     },
     {
       "album": {
+        "name": "Blue Serenade",
+        "url": "https://open.spotify.com/album/1d68ZQai2McSWyG26PwOeb"
+      },
+      "artists": [
+        {
+          "name": "Lennie Weston",
+          "url": "https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244504,
+      "name": "Blue Serenade",
+      "url": "https://open.spotify.com/track/0eGYsN0NTCkSptLDyhAazK"
+    },
+    {
+      "album": {
         "name": "Blueprints",
         "url": "https://open.spotify.com/album/6YoJQRDe9i45sSfThsfgKW"
       },
@@ -1876,6 +1912,24 @@
     },
     {
       "album": {
+        "name": "Break from rehearsals",
+        "url": "https://open.spotify.com/album/5YQZlmR5mEc09OghE0Sc0V"
+      },
+      "artists": [
+        {
+          "name": "Newington Green",
+          "url": "https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221701,
+      "name": "Break from rehearsals",
+      "url": "https://open.spotify.com/track/1tXQgPnVbEDKT0j3z6xDTK"
+    },
+    {
+      "album": {
         "name": "Nightcaps",
         "url": "https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja"
       },
@@ -1887,7 +1941,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 225600,
       "name": "Breathe the Air",
       "url": "https://open.spotify.com/track/0w905sAFNxZ4E7M5aEc8YI"
@@ -2485,6 +2539,24 @@
       "duration_ms": 216097,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/2qLTH8o4woaUd81rgUAeZp"
+    },
+    {
+      "album": {
+        "name": "Cloud Gazing with Her",
+        "url": "https://open.spotify.com/album/5qf0OJFsADPqkTNPSUGMGB"
+      },
+      "artists": [
+        {
+          "name": "George Kuntz Four",
+          "url": "https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215494,
+      "name": "Cloud Gazing with Her",
+      "url": "https://open.spotify.com/track/2It5saSY1cKq4b3F9TiEWT"
     },
     {
       "album": {
@@ -4038,6 +4110,24 @@
     },
     {
       "album": {
+        "name": "Fool For Your Love",
+        "url": "https://open.spotify.com/album/5CJpGX6qbkzTpZ6PQxfbdj"
+      },
+      "artists": [
+        {
+          "name": "Paddington St. Group",
+          "url": "https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230085,
+      "name": "Fool For Your Love",
+      "url": "https://open.spotify.com/track/0TZvBsGCrJFg27QAKkScIg"
+    },
+    {
+      "album": {
         "name": "Fools Rush In",
         "url": "https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7"
       },
@@ -4107,6 +4197,24 @@
       "duration_ms": 150000,
       "name": "For Heaven's Sake",
       "url": "https://open.spotify.com/track/4NHxKOtpkDm42J43bJLnVP"
+    },
+    {
+      "album": {
+        "name": "For Jan",
+        "url": "https://open.spotify.com/album/00kBMTEVOjTctQyjaFwRBP"
+      },
+      "artists": [
+        {
+          "name": "Nordic Light Trio",
+          "url": "https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "For Jan",
+      "url": "https://open.spotify.com/track/5NG4mBMnXbStVPm8eWydDy"
     },
     {
       "album": {
@@ -4629,6 +4737,24 @@
       "duration_ms": 175190,
       "name": "Hard and lonely road",
       "url": "https://open.spotify.com/track/2MbAdOCekIB8VJfH8b4zye"
+    },
+    {
+      "album": {
+        "name": "Hay Square Serenade",
+        "url": "https://open.spotify.com/album/3sRv5jrINXZxy4p37o1hgr"
+      },
+      "artists": [
+        {
+          "name": "Gus Anderson",
+          "url": "https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228656,
+      "name": "Hay Square Serenade",
+      "url": "https://open.spotify.com/track/6JCQEwLMwUIOh9Lrt9W7YR"
     },
     {
       "album": {
@@ -5460,6 +5586,24 @@
     },
     {
       "album": {
+        "name": "I'll Never Smile Again",
+        "url": "https://open.spotify.com/album/11ex2SQdtNwOPbxvroSghz"
+      },
+      "artists": [
+        {
+          "name": "Cecil Andrews",
+          "url": "https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166975,
+      "name": "I'll Never Smile Again",
+      "url": "https://open.spotify.com/track/0fFcQSmLNV5oA8zjDzowwr"
+    },
+    {
+      "album": {
         "name": "I'll never stop loving you",
         "url": "https://open.spotify.com/album/7D7IqqcmJPkvbxjQFBxZDk"
       },
@@ -5835,6 +5979,24 @@
       "duration_ms": 273178,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM"
+    },
+    {
+      "album": {
+        "name": "Imogene",
+        "url": "https://open.spotify.com/album/1cLToydVxdvrwNklrhtYXr"
+      },
+      "artists": [
+        {
+          "name": "Sand Quartet",
+          "url": "https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238562,
+      "name": "Imogene",
+      "url": "https://open.spotify.com/track/6py54bF1qKFbA1kjz3rKdG"
     },
     {
       "album": {
@@ -7080,6 +7242,24 @@
     },
     {
       "album": {
+        "name": "Late Nocturne",
+        "url": "https://open.spotify.com/album/6LJBIF7JqtPzQFAgVN6bTK"
+      },
+      "artists": [
+        {
+          "name": "Ted Ross Quartet",
+          "url": "https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235620,
+      "name": "Late Nocturne",
+      "url": "https://open.spotify.com/track/3aIvfacaZq4AUlXcebMnrp"
+    },
+    {
+      "album": {
         "name": "Late Reflections",
         "url": "https://open.spotify.com/album/2iJH0ujIwbtlQ41b3CBcaO"
       },
@@ -7476,6 +7656,24 @@
     },
     {
       "album": {
+        "name": "Lonely Avenue",
+        "url": "https://open.spotify.com/album/3IYk8IZhaNiz2JETes8Cbd"
+      },
+      "artists": [
+        {
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219404,
+      "name": "Lonely Avenue",
+      "url": "https://open.spotify.com/track/7Af5x0oUmCHEpmvSK6U2zS"
+    },
+    {
+      "album": {
         "name": "Lonely Dreams",
         "url": "https://open.spotify.com/album/2PtgmOMUnMDAYLQhsfLck5"
       },
@@ -7674,6 +7872,24 @@
     },
     {
       "album": {
+        "name": "Lost Without You",
+        "url": "https://open.spotify.com/album/1ZqMSWxNRIBk7kqPlu1jeV"
+      },
+      "artists": [
+        {
+          "name": "Joe Wilson Trio",
+          "url": "https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212790,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3ENf7f5t8MoW4R5XDsMEpB"
+    },
+    {
+      "album": {
         "name": "Love by the Shore",
         "url": "https://open.spotify.com/album/04xmsv425l9XJMIhNtKsM0"
       },
@@ -7797,6 +8013,24 @@
       "duration_ms": 215917,
       "name": "Love Will Last Forever",
       "url": "https://open.spotify.com/track/3AqqDd9zm7ZG8AFaveWYIm"
+    },
+    {
+      "album": {
+        "name": "Love's Declaration",
+        "url": "https://open.spotify.com/album/7vCrLBacRaLY8VLcL9hBml"
+      },
+      "artists": [
+        {
+          "name": "Gail Cameron",
+          "url": "https://open.spotify.com/artist/3xmDjA6LY5tG4L7AmNPTXg"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217674,
+      "name": "Love's Declaration",
+      "url": "https://open.spotify.com/track/1Af92SAPa18SSvdcdjJ0xB"
     },
     {
       "album": {
@@ -10576,6 +10810,24 @@
     },
     {
       "album": {
+        "name": "Shadows of You",
+        "url": "https://open.spotify.com/album/2Zk67mWiPQQQiXqhTA95i5"
+      },
+      "artists": [
+        {
+          "name": "Sverrir Audland",
+          "url": "https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202617,
+      "name": "Shadows of You",
+      "url": "https://open.spotify.com/track/75iWzL2HCo4ckYySYIhkar"
+    },
+    {
+      "album": {
         "name": "She Skirts Away",
         "url": "https://open.spotify.com/album/3C88Osqdhy7MjzcUsM5bW8"
       },
@@ -10627,6 +10879,24 @@
       "duration_ms": 226220,
       "name": "She's Funny That Way",
       "url": "https://open.spotify.com/track/4fn0kfdUbc5LlAjTwG4RX4"
+    },
+    {
+      "album": {
+        "name": "Short Intermission",
+        "url": "https://open.spotify.com/album/6bDsTyNw02QSceWcDRmNKd"
+      },
+      "artists": [
+        {
+          "name": "Arto Ferrara",
+          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152285,
+      "name": "Short Intermission",
+      "url": "https://open.spotify.com/track/2RLd480e9nMzuvgds9fSqg"
     },
     {
       "album": {
@@ -10933,6 +11203,24 @@
       "duration_ms": 172823,
       "name": "Sno Peas",
       "url": "https://open.spotify.com/track/0miIOTXulrs7IwTwsstbjG"
+    },
+    {
+      "album": {
+        "name": "Snowdrops",
+        "url": "https://open.spotify.com/album/3PVgdMK1JW7tlRGHP1r6Zp"
+      },
+      "artists": [
+        {
+          "name": "Le Bourget",
+          "url": "https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225328,
+      "name": "Snowdrops",
+      "url": "https://open.spotify.com/track/0yL40qTyxArMV82ufopwdC"
     },
     {
       "album": {
@@ -11692,6 +11980,24 @@
     },
     {
       "album": {
+        "name": "Strong, silent type",
+        "url": "https://open.spotify.com/album/67bsyOc1YTnuKGNF4foSlb"
+      },
+      "artists": [
+        {
+          "name": "Tate Jackson Trio",
+          "url": "https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198438,
+      "name": "Strong, silent type",
+      "url": "https://open.spotify.com/track/01bVdeoXeVupkwzC2kwHsW"
+    },
+    {
+      "album": {
         "name": "Little Branch",
         "url": "https://open.spotify.com/album/0LKmJAfHO1k8nkCBJbM5oJ"
       },
@@ -11797,6 +12103,24 @@
       "duration_ms": 184991,
       "name": "Sweet And Lovely",
       "url": "https://open.spotify.com/track/2CWgW8oWE5Ec1CvMvawwQ6"
+    },
+    {
+      "album": {
+        "name": "Sweet Smile",
+        "url": "https://open.spotify.com/album/0z6Bmefx4SMCYqfRqZfJcH"
+      },
+      "artists": [
+        {
+          "name": "Velvet Groove",
+          "url": "https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234605,
+      "name": "Sweet Smile",
+      "url": "https://open.spotify.com/track/5DghAA2I1vE1jqFOaJRIsv"
     },
     {
       "album": {
@@ -12265,6 +12589,24 @@
       "duration_ms": 183488,
       "name": "The Foolish Heart",
       "url": "https://open.spotify.com/track/1tNLxWFOh4XBS2xnyVyaCQ"
+    },
+    {
+      "album": {
+        "name": "The Golden Hour",
+        "url": "https://open.spotify.com/album/0EjdDvcwBTbnzU84bUdfSS"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188546,
+      "name": "The Golden Hour",
+      "url": "https://open.spotify.com/track/3Oix5aCSmnkLIVZVB63tzm"
     },
     {
       "album": {
@@ -12974,6 +13316,24 @@
     },
     {
       "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6"
+      },
+      "artists": [
+        {
+          "name": "Urban Jazz Junction",
+          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt"
+    },
+    {
+      "album": {
         "name": "Time For Us All",
         "url": "https://open.spotify.com/album/1vDWKR0MtOjAGZkNLxU1IV"
       },
@@ -13190,6 +13550,24 @@
     },
     {
       "album": {
+        "name": "Twilight's Last Waltz",
+        "url": "https://open.spotify.com/album/227MPlCydtMDfLUGQJCRsQ"
+      },
+      "artists": [
+        {
+          "name": "The Manhattan Trio",
+          "url": "https://open.spotify.com/artist/4EIEvwQ689URBkInS6L1r4"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198358,
+      "name": "Twilight's Last Waltz",
+      "url": "https://open.spotify.com/track/5fc8RLe4x7bgwnqZOWZqVt"
+    },
+    {
+      "album": {
         "name": "Underbart \u00c4r Kort",
         "url": "https://open.spotify.com/album/5ONqJB3570jk1QqYEb4X3A"
       },
@@ -13313,6 +13691,24 @@
       "duration_ms": 146020,
       "name": "Vine Street",
       "url": "https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI"
+    },
+    {
+      "album": {
+        "name": "Vinegar replacing honey",
+        "url": "https://open.spotify.com/album/7tCtyUnPDyb1hc6565GfC0"
+      },
+      "artists": [
+        {
+          "name": "Sarah Troedsson",
+          "url": "https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172378,
+      "name": "Vinegar replacing honey",
+      "url": "https://open.spotify.com/track/6GqByymnXRYm8LlGaBHxyy"
     },
     {
       "album": {
@@ -13889,6 +14285,24 @@
       "duration_ms": 259803,
       "name": "Whereabouts",
       "url": "https://open.spotify.com/track/3Rdu91Lo2IV8DGtRxDGLUW"
+    },
+    {
+      "album": {
+        "name": "Whispered Longing",
+        "url": "https://open.spotify.com/album/6ftoPFE6hqUw9fVRbmB6TF"
+      },
+      "artists": [
+        {
+          "name": "Shay Walsh",
+          "url": "https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192034,
+      "name": "Whispered Longing",
+      "url": "https://open.spotify.com/track/6lvJHY1xHZNkbEYMvpYoOp"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Compare, prenda el carb\u00f3n y saque la bocina que ya se arm\u00f3 la carnita.",
-  "num_followers": 356335,
+  "num_followers": 356517,
   "original_name": "Carnita Asada Estilo Norte\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzlhMjMxZDkzYTFiZDc2NDA0Y2M3NWQ2ZTY2YTA1YTIyMGMwZGVi",
+  "snapshot_id": "MCw2NjhhNTNiM2Y5NTEzMTQyYmRjNTQyOTFhY2E5NWQzNDdiYWZhMmEz",
   "tracks": [
     {
       "added_at": "2023-12-20 19:43:27",
@@ -539,18 +539,22 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
+        "name": "Sobran Motivos",
+        "url": "https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        },
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
         }
       ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
+      "duration_ms": 185338,
+      "name": "Sobran Motivos",
+      "url": "https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -571,22 +575,18 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "Sobran Motivos",
-        "url": "https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt"
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
       },
       "artists": [
         {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
-        },
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 185338,
-      "name": "Sobran Motivos",
-      "url": "https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au"
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
         "name": "Se\u00f1alado por Costumbre",
         "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 176000,
       "name": "La Escuela No Me Gust\u00f3",
       "url": "https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "Borrachera Con Los Honorables (En Vivo)",
-        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Los Honorables",
-          "url": "https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL"
-        }
-      ],
-      "duration_ms": 188429,
-      "name": "La Boda del Huitlacoche - En Vivo",
-      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
         "name": "La Tierra del Corrido - Spotify Singles",
         "url": "https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 211472,
       "name": "La Tierra del Corrido - Spotify Singles",
       "url": "https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
+        "name": "Borrachera Con Los Honorables (En Vivo)",
+        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Los Honorables",
+          "url": "https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL"
+        }
+      ],
+      "duration_ms": 188429,
+      "name": "La Boda del Huitlacoche - En Vivo",
+      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "Bodas De Enga\u00f1o",
-        "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
-      },
-      "artists": [
-        {
-          "name": "Vagon Chicano",
-          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Viernes Sin Tu Amor",
-      "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
         "name": "Prueba De Fuego",
         "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 231855,
       "name": "Prueba De Fuego",
       "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
+        "name": "Bodas De Enga\u00f1o",
+        "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
+      },
+      "artists": [
+        {
+          "name": "Vagon Chicano",
+          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Viernes Sin Tu Amor",
+      "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "Situaciones",
-        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
-      },
-      "artists": [
-        {
-          "name": "Palomo",
-          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
-        }
-      ],
-      "duration_ms": 233706,
-      "name": "De Uno y De Todos Los Modos - Version Bolero",
-      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
         "name": "900 Cigarros",
         "url": "https://open.spotify.com/album/4hXZx9NOzBkfTQGmcr9FpS"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 123906,
       "name": "900 Cigarros",
       "url": "https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
+        "name": "Situaciones",
+        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
+      },
+      "artists": [
+        {
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+        }
+      ],
+      "duration_ms": 233706,
+      "name": "De Uno y De Todos Los Modos - Version Bolero",
+      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 175373,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2Y1qcW4b9aVRnX1fHaVvxY"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
         "name": "Perdoname Mi Amor",
         "url": "https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 159373,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/5iCcDXbsM7Sj0kP7h9g60b"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 175373,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2Y1qcW4b9aVRnX1fHaVvxY"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/1zfz2tGhzYXWbe8etA3CAm"
-      },
-      "artists": [
-        {
-          "name": "Costumbre",
-          "url": "https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N"
-        }
-      ],
-      "duration_ms": 155746,
-      "name": "Fantasia",
-      "url": "https://open.spotify.com/track/41rJ9FmSJ2pV5SIitwDvdu"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
         "name": "De Coraz\u00f3n Norte\u00f1o",
         "url": "https://open.spotify.com/album/2OU5N16ujMgsEehujn2eUe"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 203440,
       "name": "Te Quiero Mucho",
       "url": "https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/1zfz2tGhzYXWbe8etA3CAm"
+      },
+      "artists": [
+        {
+          "name": "Costumbre",
+          "url": "https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N"
+        }
+      ],
+      "duration_ms": 155746,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/41rJ9FmSJ2pV5SIitwDvdu"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "Cuando Nadie Ve",
-        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
-      },
-      "artists": [
-        {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Cuando Nadie Ve",
-      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/5OCwrv3QDZ49BpNnhVDu49"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 205738,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/6Rx86i8mwD37V7LB2RJrIl"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
+        "name": "Cuando Nadie Ve",
+        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
+      },
+      "artists": [
+        {
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -2283,6 +2283,22 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
+        "name": "Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/4D51RO8xMpmhLpfIllv6Ws"
+      },
+      "artists": [
+        {
+          "name": "Grupo Toppaz De Reynaldo Flores",
+          "url": "https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY"
+        }
+      ],
+      "duration_ms": 167706,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/0rm05uUozKEMkO14sxSSmJ"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
         "name": "En Cambio No",
         "url": "https://open.spotify.com/album/2hNjG4PRS550kZO1sjj02l"
       },
@@ -2299,22 +2315,6 @@
       "duration_ms": 244583,
       "name": "En Cambio No",
       "url": "https://open.spotify.com/track/6pQAlLDQpmq7vcdbFW7ESj"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
-        "name": "Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/4D51RO8xMpmhLpfIllv6Ws"
-      },
-      "artists": [
-        {
-          "name": "Grupo Toppaz De Reynaldo Flores",
-          "url": "https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY"
-        }
-      ],
-      "duration_ms": 167706,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/0rm05uUozKEMkO14sxSSmJ"
     },
     {
       "added_at": "2023-12-20 19:43:27",

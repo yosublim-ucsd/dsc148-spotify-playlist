@@ -2,9 +2,9 @@
 
 ### [La + Chingona](https://open.spotify.com/playlist/37i9dQZF1DWY7LJpmTFjnp)
 
-> Una dosis con lo más chingón pa'l gusto mexicano\. Molotov en portada.
+> Una dosis con lo más chingón pa'l gusto mexicano\. Zoé en portada.
 
-191 songs - 12 hr 16 min
+193 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Elemento \- Noches De Salón](https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Elemento \(Noches De Salón\)](https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR) | 3:43 | 2023-07-07 |  |
 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 | 2022-01-14 |  |
 | [Embicia2](https://open.spotify.com/track/4oaJqoY1zTYObJzsRkv5bQ) | [RA LA CULEBRA](https://open.spotify.com/artist/1mTHqIdrMZ8UlwFI3CD2EY), [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Embicia2](https://open.spotify.com/album/71s2nblaTatY28pUkpJaZq) | 3:07 | 2023-03-17 | 2023-04-01 |
-| [En la Ciudad de la Furia](https://open.spotify.com/track/27gtnNdE3iEcCA0Uu1IhNg) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Tropiplop](https://open.spotify.com/album/2VFu8zHWiB5VtctWZp8SfG) | 4:24 | 2023-05-12 |  |
+| [En la Ciudad de la Furia](https://open.spotify.com/track/27gtnNdE3iEcCA0Uu1IhNg) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Tropiplop](https://open.spotify.com/album/2VFu8zHWiB5VtctWZp8SfG) | 4:24 | 2023-05-12 | 2024-02-03 |
 | [En la Ciudad de la Furia](https://open.spotify.com/track/4kgiEHf9wf6V5yZmZDtTkA) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [En la Ciudad de la Furia](https://open.spotify.com/album/6RBR4kw6wdOTcSAVLXiXsS) | 4:24 | 2022-01-14 | 2022-04-21 |
 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 | 2022-08-19 | 2023-09-02 |
 | [Escándalo](https://open.spotify.com/track/59extFqV0k1ty8fTinV3jw) | [Julio Andrade](https://open.spotify.com/artist/1WW69I4nXYzMTxkA63WCOe), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [Escándalo](https://open.spotify.com/album/55ZntQVFwdwLKBDvFLmweQ) | 2:58 | 2023-09-08 | 2023-09-30 |
@@ -90,6 +90,7 @@
 | [Incendio de Amor/Carmelita](https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:47 | 2023-05-12 |  |
 | [Instintos Animales](https://open.spotify.com/track/1aZReheYIMalvxMShvPzvg) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Fierrro](https://open.spotify.com/album/0ATTBGNon1S8UvXOAyll9i) | 4:26 | 2022-09-26 | 2024-01-30 |
 | [International Love](https://open.spotify.com/track/6WnHvniJIHbDGe9Re8c591) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [International Love](https://open.spotify.com/album/4BsnVbmnvKel6j1bR3lCeS) | 4:37 | 2022-01-14 | 2022-05-08 |
+| [Karmadame](https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:44 | 2024-02-02 |  |
 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 | 2022-04-19 |  |
 | [La Casa de la Esquina](https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:44 | 2023-10-23 | 2024-01-17 |
 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 | 2022-01-14 | 2022-04-19 |
@@ -193,8 +194,9 @@
 | [Vivo \- Pastel \- En Vivo](https://open.spotify.com/track/55DqQoupm2ZZqqeVdzDik4) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Pastel \(En Vivo\)](https://open.spotify.com/album/08eN1GFr5VWVFcPEJL9TOu) | 5:11 | 2022-04-19 | 2023-09-09 |
 | [Volver a Casa](https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:03 | 2022-05-18 | 2022-08-12 |
 | [Voy a Volver](https://open.spotify.com/track/6OFOeuN0AZ0SER0Hglxi7P) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Voy a Volver](https://open.spotify.com/album/57CJ8jeEFUi6Xh8dS4FzAb) | 3:55 | 2022-01-14 | 2023-07-01 |
+| [Vía Láctea](https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Memo Rex Commander y el Corazón Atómico de la Vía Láctea](https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG) | 4:08 | 2024-02-02 |  |
 | [Víctimas](https://open.spotify.com/track/4FeOc23B21fz3Z1pLnnKo6) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Víctimas](https://open.spotify.com/album/4J21DOgMP48X3i1Bct05ON) | 3:58 | 2023-10-09 | 2023-12-11 |
-| [Yo Tomo](https://open.spotify.com/track/7EFXiU4su2Wrbw395sExAX) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Gustavo Cordera](https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i) | [Yo Tomo](https://open.spotify.com/album/4CvY2laGULuB45gIFmdRR4) | 3:39 | 2023-08-04 |  |
+| [Yo Tomo](https://open.spotify.com/track/7EFXiU4su2Wrbw395sExAX) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Gustavo Cordera](https://open.spotify.com/artist/3dOfwznaY7FEKpF8aw1q9i) | [Yo Tomo](https://open.spotify.com/album/4CvY2laGULuB45gIFmdRR4) | 3:39 | 2023-08-04 | 2024-02-03 |
 | [¿Quién Cuida al Pueblo?](https://open.spotify.com/track/640dyQsLPdiLI4vY16mq3D) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [¿Quién Cuida al Pueblo?](https://open.spotify.com/album/4iJ94Gg6xVt1GDaCWSI6z9) | 4:04 | 2024-01-29 |  |
 | [¿Qué Pasó?](https://open.spotify.com/track/5n5cmFqNVbdEcG6ybPaDOA) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [¿Qué Pasó?](https://open.spotify.com/album/3wru4behR9ntB5BMr9El5W) | 5:25 | 2023-06-09 | 2023-07-01 |
 | [Él No Lo Mató](https://open.spotify.com/track/0HCppMSh838nCgSxskJGzz) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [Él No Lo Mató](https://open.spotify.com/album/0kYHzDHyOWhCjBDAqDgoM8) | 4:38 | 2022-01-14 | 2023-12-20 |

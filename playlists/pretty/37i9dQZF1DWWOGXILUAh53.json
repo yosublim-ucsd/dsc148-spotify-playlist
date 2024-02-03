@@ -1,13 +1,117 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Kygo & Ava Max",
-  "num_followers": 142655,
+  "description": "The hottest new pop with all the drops. Cover: Bella Poarch & 6arleyhuman",
+  "num_followers": 142699,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmQ1YWU5Mjk1MTE1YTY5NTlmMGMxNTY2NDAxYTU3ZjA1NTM0YTE4",
+  "snapshot_id": "MCxhYTk5OTUzM2E5OTdkMjA2YTIxYzA3NjRmNWZmYWE3MjU3OTcxNWYy",
   "tracks": [
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Don't Like Anybody",
+        "url": "https://open.spotify.com/album/3vaIMrgZEsIipXunpjLA4B"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 130612,
+      "name": "Don't Like Anybody",
+      "url": "https://open.spotify.com/track/4DCYG3wov1XGZx2mIVVmnj"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Little Do You Know (feat. Aloe Blacc & Keke Palmer)",
+        "url": "https://open.spotify.com/album/3lIBPMfTKq3eTZTONxtBln"
+      },
+      "artists": [
+        {
+          "name": "Axel Cooper",
+          "url": "https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI"
+        },
+        {
+          "name": "Toby Gad",
+          "url": "https://open.spotify.com/artist/2v4e16xkId2E5YbYEWgPP8"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        },
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        }
+      ],
+      "duration_ms": 169548,
+      "name": "Little Do You Know (feat. Aloe Blacc & Keke Palmer)",
+      "url": "https://open.spotify.com/track/24oz1vwQPB8947PYLZ6lyr"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Cherry Lips",
+        "url": "https://open.spotify.com/album/4MjHMcTvVgqGFuXVejbpXc"
+      },
+      "artists": [
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 171441,
+      "name": "Cherry Lips",
+      "url": "https://open.spotify.com/track/2vfcLK0mU3JhMC6vscawrM"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "If You Don't Like To Party",
+        "url": "https://open.spotify.com/album/55Sr4L5eif0q1mXLZ9LBOf"
+      },
+      "artists": [
+        {
+          "name": "Supafly",
+          "url": "https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV"
+        },
+        {
+          "name": "HVRR",
+          "url": "https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "duration_ms": 118285,
+      "name": "If You Don't Like To Party",
+      "url": "https://open.spotify.com/track/5dBTOZ3Rn6BIlDt470Btne"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Sunglasses at Night",
+        "url": "https://open.spotify.com/album/2WL25jOF2CEzuH1D7oJIYM"
+      },
+      "artists": [
+        {
+          "name": "Heidi Klum",
+          "url": "https://open.spotify.com/artist/7gmNO7Sv6EFNtxJ7JTgeaC"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "Sunglasses at Night",
+      "url": "https://open.spotify.com/track/1LiMNzbo4XYzsZ0Odg3OW7"
+    },
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
@@ -29,6 +133,66 @@
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Thinking 'Bout Us",
+        "url": "https://open.spotify.com/album/2ZmsDNGEAlthhi9HErACpr"
+      },
+      "artists": [
+        {
+          "name": "Dannii Minogue",
+          "url": "https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6"
+        },
+        {
+          "name": "Autone",
+          "url": "https://open.spotify.com/artist/0WGyRlpVIGUFhFxdJI3pue"
+        }
+      ],
+      "duration_ms": 181768,
+      "name": "Thinking 'Bout Us",
+      "url": "https://open.spotify.com/track/5Ud5RWUsSqRqX2jq0phPji"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Alibi (feat. Rudimental)",
+        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 184852,
+      "name": "Alibi (feat. Rudimental)",
+      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Carousel (feat. PLANT)",
+        "url": "https://open.spotify.com/album/3Gng5Z2h1LlIMAgjzo6FsC"
+      },
+      "artists": [
+        {
+          "name": "Wankelmut",
+          "url": "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
+        },
+        {
+          "name": "PLANT",
+          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "Carousel (feat. PLANT)",
+      "url": "https://open.spotify.com/track/3QoYgglulglqNwzONUwe2m"
+    },
+    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "Missing You (feat. Nate Smith)",
@@ -47,6 +211,70 @@
       "duration_ms": 187258,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/0Ae4YMelaM5V6uWa5HNyKw"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Die For Me",
+        "url": "https://open.spotify.com/album/5Spe5tAY7QIn04uSBiGYt9"
+      },
+      "artists": [
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 163137,
+      "name": "Die For Me",
+      "url": "https://open.spotify.com/track/67gYpZ9Kl4EwuQa3hZX6wR"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 178935,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Never Be Alone",
+        "url": "https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        }
+      ],
+      "duration_ms": 189087,
+      "name": "Never Be Alone",
+      "url": "https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -91,62 +319,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Sunglasses at Night",
-        "url": "https://open.spotify.com/album/2WL25jOF2CEzuH1D7oJIYM"
+        "name": "Deep In Your Love",
+        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
       },
       "artists": [
         {
-          "name": "Heidi Klum",
-          "url": "https://open.spotify.com/artist/7gmNO7Sv6EFNtxJ7JTgeaC"
-        }
-      ],
-      "duration_ms": 170624,
-      "name": "Sunglasses at Night",
-      "url": "https://open.spotify.com/track/1LiMNzbo4XYzsZ0Odg3OW7"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Alibi (feat. Rudimental)",
-        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 184852,
-      "name": "Alibi (feat. Rudimental)",
-      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        }
-      ],
-      "duration_ms": 178935,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe"
+      "duration_ms": 144648,
+      "name": "Deep In Your Love",
+      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -175,26 +363,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Deep In Your Love",
-        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 144648,
-      "name": "Deep In Your Love",
-      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Rest Of My Life",
         "url": "https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM"
       },
@@ -219,6 +387,30 @@
       "duration_ms": 205810,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Jet Plane (with VIZE & JP Cooper)",
+        "url": "https://open.spotify.com/album/7iceVLH1NBbwX6Ij7XUBKv"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 178597,
+      "name": "Jet Plane",
+      "url": "https://open.spotify.com/track/71uN50XgLYyAJaSXr0TNsY"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -263,66 +455,6 @@
       "duration_ms": 161276,
       "name": "One By One (feat. Oaks)",
       "url": "https://open.spotify.com/track/2D1P2Y9RUxZW2Ch9A1rwHA"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Never Be Alone",
-        "url": "https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        }
-      ],
-      "duration_ms": 189087,
-      "name": "Never Be Alone",
-      "url": "https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "More Than My Mind",
-        "url": "https://open.spotify.com/album/0x67Gc8pVEGDak5JSAReUd"
-      },
-      "artists": [
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        }
-      ],
-      "duration_ms": 153284,
-      "name": "More Than My Mind",
-      "url": "https://open.spotify.com/track/3R9efKKQ6CcB6BjRguI2m5"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Jet Plane (with VIZE & JP Cooper)",
-        "url": "https://open.spotify.com/album/7iceVLH1NBbwX6Ij7XUBKv"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 178597,
-      "name": "Jet Plane",
-      "url": "https://open.spotify.com/track/71uN50XgLYyAJaSXr0TNsY"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -571,26 +703,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        }
-      ],
-      "duration_ms": 154083,
-      "name": "Waking Up",
-      "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Dizzy",
         "url": "https://open.spotify.com/album/5PG4dJqM18cKtGl0vE5cJk"
       },
@@ -623,26 +735,6 @@
       "duration_ms": 141394,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/6srI919P5sDDfDiW6F60VV"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Sunset",
-        "url": "https://open.spotify.com/album/3yK260qrSv3GNsxtHYjsHd"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        },
-        {
-          "name": "Heleen",
-          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
-        }
-      ],
-      "duration_ms": 157777,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/5DpNSz643RNngHsWSDllkZ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -711,22 +803,6 @@
       "duration_ms": 178983,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/0JV02u17TnRXWDFIgriiPk"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Stop The Time",
-        "url": "https://open.spotify.com/album/6qjOCRqN6sT4gHq2NmNuIG"
-      },
-      "artists": [
-        {
-          "name": "Zombic",
-          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
-        }
-      ],
-      "duration_ms": 168695,
-      "name": "Stop The Time",
-      "url": "https://open.spotify.com/track/21PLu6RKamRrwSj3pOa6Ok"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -951,58 +1027,6 @@
       "duration_ms": 183818,
       "name": "One Of Your Girls - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/2g9QPGMEe9WTAMtvotuD1e"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "POP MUSIC",
-        "url": "https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK"
-      },
-      "artists": [
-        {
-          "name": "Lilyisthatyou",
-          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
-        }
-      ],
-      "duration_ms": 194383,
-      "name": "DANCE",
-      "url": "https://open.spotify.com/track/4LyqcBID3VprlOZhYsB5nW"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5FjrKHMfuMTNnp2SqAUzUN"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 159614,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3D9gig3g2yGheqkpzjnKnN"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Run From You",
-        "url": "https://open.spotify.com/album/5EY4emNooAmEsHDquKD104"
-      },
-      "artists": [
-        {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
-        },
-        {
-          "name": "Grace Grundy",
-          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
-        }
-      ],
-      "duration_ms": 167314,
-      "name": "Run From You",
-      "url": "https://open.spotify.com/track/2ouMNYPXQ6P9epCLmiqRSg"
     },
     {
       "added_at": "2024-01-26 05:00:00",

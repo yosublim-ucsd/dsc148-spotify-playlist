@@ -4,7 +4,7 @@
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-58 songs - 4 hr 12 min
+59 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Atopos](https://open.spotify.com/track/3EdZdybDWDlGC0KumeGrqc) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:46 | 2024-01-28 |  |
 | [Atopos](https://open.spotify.com/track/6CHhrFW3XkOy3UfZnLck2g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL) | 4:46 | 2023-11-10 | 2024-01-29 |
 | [Bachelorette](https://open.spotify.com/track/30j9ij28SJum1lp740MsHS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 5:12 | 2023-11-10 |  |
+| [Batabid](https://open.spotify.com/track/1h2JfIHKYy1zE4oztaWt0M) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Pagan Poetry](https://open.spotify.com/album/6y8qmVF6G3lVjTDztWrNWb) | 2:26 | 2024-02-02 |  |
 | [Beautiful Mother](https://open.spotify.com/track/3shbvAgUyh9nhJa53JN8mB) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 2:16 | 2023-11-10 |  |
 | [Big Time Sensuality](https://open.spotify.com/track/6K0g7J6sKHwvDF6b2KGN3t) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa) | 3:56 | 2023-11-10 |  |
 | [Black Lake](https://open.spotify.com/track/7McqTkJc3laznwCoQXKxFe) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf) | 10:08 | 2024-01-14 |  |
@@ -62,7 +63,7 @@
 | [Triumph Of A Heart](https://open.spotify.com/track/2ZJdtalkNonRqukSTaYTf9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG) | 4:04 | 2023-11-10 |  |
 | [Unravel](https://open.spotify.com/track/7l3AN8XtVIdfc0yxmoQ1Xg) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 3:21 | 2023-11-10 |  |
 | [Venus As A Boy](https://open.spotify.com/track/0NNgY2gc1TUwBQoVp98Fxw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa) | 4:42 | 2023-11-10 |  |
-| [Wave Invocation \- MWO I Inverness Demo](https://open.spotify.com/track/7dtbmyduD0vFe8q5DGA0Tw) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 1:16 | 2023-12-15 |  |
+| [Wave Invocation \- MWO I Inverness Demo](https://open.spotify.com/track/7dtbmyduD0vFe8q5DGA0Tw) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 1:16 | 2023-12-15 | 2024-02-03 |
 | [When the World Comes to an End](https://open.spotify.com/track/09TNNle5fDBPUtLpO6a7BK) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 3:08 | 2023-11-10 |  |
 | [Where Is The Line](https://open.spotify.com/track/6b7MeZUEaRBLix7nfl3aRQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG) | 4:41 | 2024-01-19 |  |
 | [Who Is It \(Carry My Joy On The Left, Carry My Pain On The Right\)](https://open.spotify.com/track/0LyiKRBtKkIaTZKXBcDyb3) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG) | 3:57 | 2023-12-17 |  |

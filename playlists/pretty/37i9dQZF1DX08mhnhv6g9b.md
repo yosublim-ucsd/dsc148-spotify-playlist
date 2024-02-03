@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > Ten years of BTS and beyond\. <a href="https://www.youtube.com/watch?v=QVloM9fOGoU"> \[BTS Monuments: Beyond The Star\] </a> streaming exclusively on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,842,084 likes - 256 songs - 15 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,841,511 likes - 256 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 | 7 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 |
 | 8 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 |
 | 9 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 |
-| 10 | [Seven \(feat\. Latto\) \(Clean Ver.\)](https://open.spotify.com/track/50Af7YTMHGNbYyvgofTAGf) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(Weekday Ver.\)](https://open.spotify.com/album/7pPaEvQFccrBU1VXhUWBI7) | 3:04 |
+| 10 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/50Af7YTMHGNbYyvgofTAGf) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(Weekday Ver.\)](https://open.spotify.com/album/7pPaEvQFccrBU1VXhUWBI7) | 3:04 |
 | 11 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 |
 | 12 | [My You](https://open.spotify.com/track/0pNFrM5L0te1EXGxveeYiR) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [My You](https://open.spotify.com/album/2JtVLn2oCVjOik77fh75uU) | 2:45 |
 | 13 | [Angel Pt\. 2 \(feat\. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack\)](https://open.spotify.com/track/0ApadYqa3GRQkJJ3E7pQDJ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Angel Pt\. 2 \(feat\. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack\)](https://open.spotify.com/album/6I0ZEVomYGoOk218KaAlJk) | 2:56 |
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 | 255 | [Skit: R U Happy Now?](https://open.spotify.com/track/53XrsilgguJmmsEtDsj0yY) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [O!RUL8,2?](https://open.spotify.com/album/6rWmdSJIaGTVtdMJQ35Lvf) | 2:28 |
 | 256 | [Skit: Circle Room Talk](https://open.spotify.com/track/4Ut6UU8Yyihz1jCZWSCQpu) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2 Cool 4 Skool](https://open.spotify.com/album/6egaEe9JaULuUCkihSnYlH) | 2:11 |
 
-Snapshot ID: `MCw2ZTIyNzdiZmYwYTk2YmQ3N2JlYTdmNzdlOTRhN2FiYTk1YzhlZGZl`
+Snapshot ID: `MCxkMjMwNTgyNjY2YzFjYTQ1MDBjOThkNTU5Y2YxYjVjODFiNzM1M2M5`

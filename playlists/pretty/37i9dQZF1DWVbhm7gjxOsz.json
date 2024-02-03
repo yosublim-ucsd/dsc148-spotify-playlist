@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 58968,
+  "num_followers": 59097,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2UyMzQ0NmZlOWE1MTUxNzM0MzFlODY3Yjk0ZjE0Zjc2YTVhZmFm",
+  "snapshot_id": "MCxmZGQyZGFkZmY5N2RhMDJhZGIwNWMzNGExZTBlMmM2Zjk0NDcyYTY2",
   "tracks": [
     {
       "added_at": "2024-01-05 17:02:31",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 141329,
-      "name": "Gimme Little Sign",
-      "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The Fabulous Miracles",
         "url": "https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 177706,
       "name": "You've Really Got A Hold On Me",
       "url": "https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 141329,
+      "name": "Gimme Little Sign",
+      "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 163302,
-      "name": "I Like The Way You Love Me",
-      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The 12\" Collection And More (Funk Essentials)",
         "url": "https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH"
       },
@@ -467,22 +451,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Earth Angel",
-        "url": "https://open.spotify.com/album/42uu50W2ko5aQriXh7naAd"
-      },
-      "artists": [
-        {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "Earth Angel",
-      "url": "https://open.spotify.com/track/7GnMzVWOHLBPcfco4L1GtE"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Keeper Of The Castle",
         "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
       },
@@ -495,6 +463,38 @@
       "duration_ms": 187773,
       "name": "Ain't No Woman (Like The One I've Got)",
       "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 163302,
+      "name": "I Like The Way You Love Me",
+      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Earth Angel",
+        "url": "https://open.spotify.com/album/42uu50W2ko5aQriXh7naAd"
+      },
+      "artists": [
+        {
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "Earth Angel",
+      "url": "https://open.spotify.com/track/7GnMzVWOHLBPcfco4L1GtE"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 184634,
       "name": "I Love You for All Seasons",
       "url": "https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Me And You",
-      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 128546,
+      "name": "Baby You Got It",
+      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "OOO Baby Baby: The Anthlogy",
         "url": "https://open.spotify.com/album/4BIB3esNYszk2DL0E54Cy4"
       },
@@ -723,38 +739,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
-        "url": "https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj"
-      },
-      "artists": [
-        {
-          "name": "The Elgins",
-          "url": "https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "Darling Baby",
-      "url": "https://open.spotify.com/track/10u9028SSfRyIKxV4xrzsg"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 128546,
-      "name": "Baby You Got It",
-      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The Duke Of Earl",
         "url": "https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 147841,
       "name": "Duke of Earl",
       "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
+        "url": "https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj"
+      },
+      "artists": [
+        {
+          "name": "The Elgins",
+          "url": "https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "Darling Baby",
+      "url": "https://open.spotify.com/track/10u9028SSfRyIKxV4xrzsg"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -803,38 +803,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Very Best Of Aaron Neville",
-        "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "James & Bobby Purify",
-        "url": "https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK"
-      },
-      "artists": [
-        {
-          "name": "James & Bobby Purify",
-          "url": "https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7"
-        }
-      ],
-      "duration_ms": 178986,
-      "name": "I'm Your Puppet",
-      "url": "https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The Never Ending Impressions",
         "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
       },
@@ -867,18 +835,34 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Swingsation: Sil Austin",
-        "url": "https://open.spotify.com/album/1rObnFkeZhkF19kA5Z5tJa"
+        "name": "The Very Best Of Aaron Neville",
+        "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
       },
       "artists": [
         {
-          "name": "Sil Austin",
-          "url": "https://open.spotify.com/artist/4ZER6Et93aVvfwzaiwjjbI"
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
         }
       ],
-      "duration_ms": 159973,
-      "name": "Slow Walk",
-      "url": "https://open.spotify.com/track/6FwjZsd1WrdXH4Vy4yTNyg"
+      "duration_ms": 164560,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "James & Bobby Purify",
+        "url": "https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK"
+      },
+      "artists": [
+        {
+          "name": "James & Bobby Purify",
+          "url": "https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7"
+        }
+      ],
+      "duration_ms": 178986,
+      "name": "I'm Your Puppet",
+      "url": "https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -895,6 +879,22 @@
       "duration_ms": 261826,
       "name": "Love...Can Be So Wonderful",
       "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Swingsation: Sil Austin",
+        "url": "https://open.spotify.com/album/1rObnFkeZhkF19kA5Z5tJa"
+      },
+      "artists": [
+        {
+          "name": "Sil Austin",
+          "url": "https://open.spotify.com/artist/4ZER6Et93aVvfwzaiwjjbI"
+        }
+      ],
+      "duration_ms": 159973,
+      "name": "Slow Walk",
+      "url": "https://open.spotify.com/track/6FwjZsd1WrdXH4Vy4yTNyg"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "East Side Story Volume 5",
-        "url": "https://open.spotify.com/album/3uu9QZuucFOoU9ttMO4Kxl"
-      },
-      "artists": [
-        {
-          "name": "Don Julian & The Larks",
-          "url": "https://open.spotify.com/artist/15FPSd4ron3lLiv8A4V97y"
-        }
-      ],
-      "duration_ms": 188626,
-      "name": "I Want You Back - Remastered",
-      "url": "https://open.spotify.com/track/1ZWoj485L6n4QRN0ahm5iY"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Workin' On A Groovy Thing....The Best Of",
         "url": "https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 151453,
       "name": "Tell Him",
       "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "East Side Story Volume 5",
+        "url": "https://open.spotify.com/album/3uu9QZuucFOoU9ttMO4Kxl"
+      },
+      "artists": [
+        {
+          "name": "Don Julian & The Larks",
+          "url": "https://open.spotify.com/artist/15FPSd4ron3lLiv8A4V97y"
+        }
+      ],
+      "duration_ms": 188626,
+      "name": "I Want You Back - Remastered",
+      "url": "https://open.spotify.com/track/1ZWoj485L6n4QRN0ahm5iY"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r"
-      },
-      "artists": [
-        {
-          "name": "Eddie Holman",
-          "url": "https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32"
-        }
-      ],
-      "duration_ms": 216760,
-      "name": "Hey There Lonely Girl",
-      "url": "https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The One Who Really Loves You",
         "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 147466,
       "name": "The One Who Really Loves You - Single Version",
       "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r"
+      },
+      "artists": [
+        {
+          "name": "Eddie Holman",
+          "url": "https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32"
+        }
+      ],
+      "duration_ms": 216760,
+      "name": "Hey There Lonely Girl",
+      "url": "https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Mr. Brown Eyed Soul",
-        "url": "https://open.spotify.com/album/35922ds56CsxFFO1qeCB64"
-      },
-      "artists": [
-        {
-          "name": "Sunny & The Sunliners",
-          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
-        }
-      ],
-      "duration_ms": 119553,
-      "name": "Smile Now, Cry Later",
-      "url": "https://open.spotify.com/track/6eMI5ns9sAaJanSTL3WU4R"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Tangled Up in You",
         "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 240842,
       "name": "Soon Enough",
       "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Mr. Brown Eyed Soul",
+        "url": "https://open.spotify.com/album/35922ds56CsxFFO1qeCB64"
+      },
+      "artists": [
+        {
+          "name": "Sunny & The Sunliners",
+          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
+        }
+      ],
+      "duration_ms": 119553,
+      "name": "Smile Now, Cry Later",
+      "url": "https://open.spotify.com/track/6eMI5ns9sAaJanSTL3WU4R"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Looking Back 1961-1964",
-        "url": "https://open.spotify.com/album/3b9B5jlDpGSwzMVMYKkDGX"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "What Love Has Joined Together - Single Version",
-      "url": "https://open.spotify.com/track/1mEToiltl9clpWzTfVHyCd"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 133693,
       "name": "Strange Feeling",
       "url": "https://open.spotify.com/track/5nEr8XUI4oWHD4VLZ8ec3c"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Looking Back 1961-1964",
+        "url": "https://open.spotify.com/album/3b9B5jlDpGSwzMVMYKkDGX"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "What Love Has Joined Together - Single Version",
+      "url": "https://open.spotify.com/track/1mEToiltl9clpWzTfVHyCd"
     },
     {
       "added_at": "2024-01-05 17:02:31",

@@ -4,7 +4,7 @@
 
 > Music to help you concentrate during your homework.
 
-135 songs - 6 hr 10 min
+136 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Apology](https://open.spotify.com/track/4WuRXkwTMiOy0OuGPqOpD7) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Gloria](https://open.spotify.com/album/1xrFFEPBJp6zGo7WYCBIV1) | 2:55 | 2023-01-26 |  |
 | [As The Crow Flies](https://open.spotify.com/track/3Tny1IsUZeQyXJEwrzSYSp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Ripples on a Pond](https://open.spotify.com/album/2VNrWdvo3fG7HcQPOk5ZmX) | 1:36 | 2023-03-12 |  |
 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2023-01-26 |  |
-| [Azure \- Piano Version](https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Azure \(Piano Version\)](https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5) | 3:42 | 2023-01-26 |  |
+| [Azure \- Piano Version](https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Azure \(Piano Version\)](https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5) | 3:42 | 2023-01-26 | 2024-02-03 |
 | [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 | 2023-01-26 |  |
 | [Beloved](https://open.spotify.com/track/3OLeQWqsXLKFbboNufjc8Z) | [Mark Mintuny](https://open.spotify.com/artist/3gegJAyl43HbhzEFT1Dp8s) | [Beloved](https://open.spotify.com/album/6i5SVdY8ISwT3o3TVyAXF9) | 2:13 | 2023-01-26 |  |
 | [Beyond This Moment](https://open.spotify.com/track/54QFGiOthVqXeJtiXdlLYa) | [Patrick O'Hearn](https://open.spotify.com/artist/6T7JFvP8qvpOia4q43OmbJ) | [So Flows The Current](https://open.spotify.com/album/2G7NJdUQxp6vAO0arTebvj) | 4:49 | 2023-01-26 |  |
@@ -123,6 +123,7 @@
 | [Svanninge Bakker](https://open.spotify.com/track/0rC5Pg1C2ig0OxyaM3Gro3) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Svanninge Bakker](https://open.spotify.com/album/4fuBNKsqvOsvVZRe0rd0XX) | 1:57 | 2023-03-12 | 2023-12-14 |
 | [Synchronicity](https://open.spotify.com/track/5wFGu1dl3Lw08doFu0gVmA) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Synchronicity](https://open.spotify.com/album/5W3dGpqFKJCRZxH0uCaXck) | 3:09 | 2023-01-26 | 2023-03-04 |
 | [The Great Plains Hymn](https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Seasons Changing](https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu) | 1:59 | 2023-03-12 |  |
+| [The Greek](https://open.spotify.com/track/2f9FdNRn2uDnNUxJ7JWXMf) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [The Greek](https://open.spotify.com/album/3XO6cd4LgCDGlNIZFcvaPf) | 2:44 | 2023-03-12 |  |
 | [The Greek](https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [The Greek](https://open.spotify.com/album/5KK54vaBmGiVmnggSiXPgb) | 2:44 | 2023-01-26 | 2024-01-15 |
 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-01-26 |  |
 | [The Winding Paths](https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK) | [Regina Mira](https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C) | [October](https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91) | 1:59 | 2023-01-26 |  |

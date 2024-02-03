@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 189780,
       "name": "5 Foot 9",
       "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 225360,
       "name": "Fires Don't Start Themselves",
       "url": "https://open.spotify.com/track/6Ahy5fItdBfXRVWYOLo7pM"
@@ -2980,6 +2980,24 @@
       "duration_ms": 198688,
       "name": "I Hope You\u2019re Happy Now",
       "url": "https://open.spotify.com/track/1iiehnBysGi59zXYXIuKQD"
+    },
+    {
+      "album": {
+        "name": "Side Effects Of The Heart",
+        "url": "https://open.spotify.com/album/5NyxBYEqQFpOCS4Gn3wNCK"
+      },
+      "artists": [
+        {
+          "name": "Alex Hall",
+          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161103,
+      "name": "I Know A Guy",
+      "url": "https://open.spotify.com/track/6LCY0s8iDoooe8eMkdEQMu"
     },
     {
       "album": {
@@ -4578,7 +4596,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 185681,
       "name": "Over For You",
       "url": "https://open.spotify.com/track/09igKkkm150rRZIxu1gjh3"
@@ -5764,6 +5782,24 @@
       "duration_ms": 212280,
       "name": "Sway",
       "url": "https://open.spotify.com/track/6EUDUDQP5ynE3g5SWCA8sc"
+    },
+    {
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225801,
+      "name": "Tails I Lose",
+      "url": "https://open.spotify.com/track/5H1WgNxf2Fb3EJWn4QgX5E"
     },
     {
       "album": {
@@ -7172,7 +7208,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 195368,
       "name": "Wrong Side of a Sunrise",
       "url": "https://open.spotify.com/track/2iEhrJwK2glWAvqtyuulgq"

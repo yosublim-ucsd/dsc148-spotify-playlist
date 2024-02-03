@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 207864,
+  "2024-02-03": 207852,
   "date_first_scraped": "2022-05-12",
-  "description": "Il rap pi\u00f9 forte del mondo in una sola playlist. Cover: 21 Savage",
+  "description": "Il rap pi\u00f9 forte del mondo in una sola playlist. Cover: Jul",
   "name": "Rap Internazionale",
   "tracks": [
     {
@@ -1215,6 +1215,28 @@
       "duration_ms": 196569,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m"
+    },
+    {
+      "album": {
+        "name": "D\u00e9cennie",
+        "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181240,
+      "name": "Blocco",
+      "url": "https://open.spotify.com/track/53XOl5fbG1dxv8JNB8VkdS"
     },
     {
       "album": {
@@ -2590,6 +2612,28 @@
     },
     {
       "album": {
+        "name": "Do I (Remix)",
+        "url": "https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138069,
+      "name": "Do I - Remix",
+      "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
+    },
+    {
+      "album": {
         "name": "Do It Right",
         "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
       },
@@ -3771,6 +3815,28 @@
       "duration_ms": 171000,
       "name": "Gas Me Up (Diligent)",
       "url": "https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc"
+    },
+    {
+      "album": {
+        "name": "GEEKIN (feat. AJ Tracey)",
+        "url": "https://open.spotify.com/album/4Aq9PhYsSQU4N6mUyXA2kV"
+      },
+      "artists": [
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "GEEKIN (feat. AJ Tracey)",
+      "url": "https://open.spotify.com/track/3R9AZOrnO20E5MVMBiofqH"
     },
     {
       "album": {
@@ -5005,7 +5071,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 174280,
       "name": "JOHN GOTTI (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/0f3DsHmOK9nzTiVU1Vvbil"
@@ -5220,6 +5286,54 @@
     },
     {
       "album": {
+        "name": "Kusuu (feat. Kweku Flick, Abra Cadabra & ODUMODUBLVCK) [Remix]",
+        "url": "https://open.spotify.com/album/5yK3V1kXjfB70UKbXNXsnx"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        },
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206197,
+      "name": "Kusuu (feat. Kweku Flick, Abra Cadabra & ODUMODUBLVCK) - Remix",
+      "url": "https://open.spotify.com/track/3qpiO6n5HBMubcdCQyqKiv"
+    },
+    {
+      "album": {
+        "name": "L's",
+        "url": "https://open.spotify.com/album/6K1JXpnMjEoak85BbmZypZ"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117200,
+      "name": "L's",
+      "url": "https://open.spotify.com/track/1n0uo2A19rtZn5L2bcvOtu"
+    },
+    {
+      "album": {
         "name": "L7ARB (Spotify Singles)",
         "url": "https://open.spotify.com/album/0hrLNERzqFfgqVZbkS9Zmk"
       },
@@ -5371,7 +5485,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 217526,
       "name": "Lace It (with Eminem & benny blanco)",
       "url": "https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP"
@@ -6965,7 +7079,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 175774,
       "name": "Night Away (Dance) (feat. Tion Wayne)",
       "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
@@ -8959,7 +9073,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 176086,
       "name": "Roule un autre - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich"
@@ -9325,7 +9439,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 163013,
       "name": "Shooter",
       "url": "https://open.spotify.com/track/7l8gtKRBrpmHWChkwS0v1z"
@@ -9775,7 +9889,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 110706,
       "name": "Stop Breathing",
       "url": "https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut"
@@ -10695,7 +10809,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 178406,
       "name": "Twirlanta",
       "url": "https://open.spotify.com/track/3DHB4RzX7kWcpjjFtcmWqh"

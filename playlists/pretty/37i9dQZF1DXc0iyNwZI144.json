@@ -1,12 +1,12 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1070497,
+  "num_followers": 1070368,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTdiZDY4NDZlMTBhNjdjMzQwZTFlZDVkNjYxYzEzMWYzMTQ2OGU2",
+  "snapshot_id": "MCwyZjQ0MjViNjgzOTM1NjNkNWMxNGFjZWE1YjE2MTVmMjZmNWUzNjg3",
   "tracks": [
     {
       "added_at": "2022-02-25 03:00:00",
@@ -167,6 +167,22 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
+        "name": "Cheese",
+        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Alors on danse - Radio Edit",
+      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 220454,
       "name": "Glorious (feat. Skylar Grey)",
       "url": "https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
-        "name": "Cheese",
-        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Alors on danse - Radio Edit",
-      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
     },
     {
       "added_at": "2022-02-25 03:00:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
         "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 216408,
       "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2022-02-25 03:00:00",
@@ -903,26 +903,6 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
-        "name": "Agora \u00e9 Tudo Meu",
-        "url": "https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 171998,
-      "name": "Agora \u00e9 Tudo Meu",
-      "url": "https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
         "name": "Gyal You a Party Animal (Remix)",
         "url": "https://open.spotify.com/album/1drLzJJL0Voqt9GfD4cAly"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 223366,
       "name": "Gyal You a Party Animal - Remix",
       "url": "https://open.spotify.com/track/3rK30dzS17JWgft6PIvEjt"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
+        "name": "Agora \u00e9 Tudo Meu",
+        "url": "https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 171998,
+      "name": "Agora \u00e9 Tudo Meu",
+      "url": "https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz"
     },
     {
       "added_at": "2022-02-25 03:00:00",

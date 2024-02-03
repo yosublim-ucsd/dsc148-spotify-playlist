@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Shaboozey
 
-429 songs - 21 hr 28 min
+431 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [AA](https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [AA](https://open.spotify.com/album/7m5hJYb9a0sxNstIKm3PPz) | 3:09 | 2021-12-10 | 2022-07-16 |
 | [Accidentally on Purpose](https://open.spotify.com/track/1aFf7UJwTpI5AV1xfLXlhJ) | [Love and Theft](https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t) | [Accidentally on Purpose](https://open.spotify.com/album/2s4FZW0AtYfV1PTrM2vjKm) | 3:04 | 2021-12-10 | 2023-01-04 |
 | [Actin' Up](https://open.spotify.com/track/6GWfFBDsbGHOSAex90tfXI) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Actin' Up](https://open.spotify.com/album/04yCexTvMFC47BOGeV1qyt) | 3:25 | 2022-04-08 | 2023-08-02 |
+| [After We Broke Up \- feat\. Frawley](https://open.spotify.com/track/6Mb4ChyGxYAfVtXz9ia0DN) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [After We Broke Up \(feat\. Frawley\)](https://open.spotify.com/album/21s4j5umh7ZV1wbldlMO3n) | 2:49 | 2024-02-02 |  |
 | [Ain't Doing Something Right](https://open.spotify.com/track/5lesYQ4UDsSGGFMNf5fLVn) | [After Midtown](https://open.spotify.com/artist/59Idogc5QIefeRoxcro5fs) | [Don't Give Away The Ending](https://open.spotify.com/album/44zy1dzJbG7A0HMlrk4PZa) | 3:32 | 2021-12-10 | 2022-02-26 |
 | [Ain't Enough Cowboy](https://open.spotify.com/track/5nv48Y830DcU2KoreKAXoL) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 2:36 | 2022-04-22 | 2023-11-17 |
 | [Ain't Missin' You](https://open.spotify.com/track/7tthSTXf5hvLdzW8fb2Kzy) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [Ain't Missin' You](https://open.spotify.com/album/023kFfJCSir9ZO6PjS13UB) | 2:56 | 2024-01-26 |  |
@@ -224,6 +225,7 @@
 | [Intertwined](https://open.spotify.com/track/6CEpat1VI4pDz57r9CxVm5) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [Intertwined](https://open.spotify.com/album/5S2n9RJ2VwNFXwHdPJSjQD) | 3:02 | 2021-12-10 | 2022-07-29 |
 | [Intertwined](https://open.spotify.com/track/6fp5VnTQX4esPpou7YmcYh) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 3:02 | 2022-07-22 | 2022-09-12 |
 | [Islands To Nashville](https://open.spotify.com/track/59tIjrUIE6bdBfn0QRzmAs) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Islands To Nashville](https://open.spotify.com/album/7IDtDfgOiykmk79S7lcZiM) | 3:14 | 2021-12-10 | 2023-01-04 |
+| [It's You](https://open.spotify.com/track/6IaU01HjdIQimBmOdAjdcf) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [VK](https://open.spotify.com/artist/4CYxG1N5jv7OtBX8Ql2wly) | [It's You](https://open.spotify.com/album/313CwbceayWkGkp8G97ciF) | 3:21 | 2024-02-02 |  |
 | [I’ll Be Damned](https://open.spotify.com/track/69Asb7QVKn11cRDpbwPpcY) | [Riley Thomas](https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB) | [I’ll Be Damned](https://open.spotify.com/album/4PjzPyI2uEAnKW603XKKSc) | 3:08 | 2023-08-25 |  |
 | [Jack and Diet Coke](https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Jack and Diet Coke](https://open.spotify.com/album/4JbUjpi4rUoHTxEtlkiFj5) | 3:13 | 2023-12-01 |  |
 | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/track/28YeYqCPDyhmJ76h5OE139) | [Gabrielle Mooney](https://open.spotify.com/artist/33zGyZkIKniFsuzrFTkZwe), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/album/3t85iYWW2ZcXFvTJwW02nr) | 2:57 | 2023-08-25 |  |

@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒグチアイ \(Ai Higuchi\)
 
-591 songs - 1 day 15 hr 46 min
+592 songs - 1 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [1000 Nen Ai](https://open.spotify.com/track/7kL3uCeXIukUkX7c7zZpMr) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [1000 Nen Ai](https://open.spotify.com/album/15Ou8v4P4vzddeH1mJ1uYa) | 5:18 | 2023-09-21 | 2023-09-27 |
 | [101 bells ring](https://open.spotify.com/track/1MKPkdxASJbPI77vJs4bIx) | [reche](https://open.spotify.com/artist/4sJCsXNYmUMeumUKVz4Abm) | [101 bells ring](https://open.spotify.com/album/4f5tOPurCI3HKGOBHbe0Yt) | 5:47 | 2023-10-03 | 2023-10-18 |
 | [3253212](https://open.spotify.com/track/4O2Q0MCO9G4S8MMEOGQ1vI) | [reche](https://open.spotify.com/artist/4sJCsXNYmUMeumUKVz4Abm) | [3253212](https://open.spotify.com/album/4oGtdwz9tUpWjivKlYL3jz) | 3:24 | 2023-06-08 | 2023-06-14 |
-| [5 seconds ago](https://open.spotify.com/track/2dWpeauDYzZ5kfl6OOn9gk) | [東 八千穂\(CV:稗田寧々\)](https://open.spotify.com/artist/4JSFkjTr98Px1NKZH6a8on) | [5 seconds ago](https://open.spotify.com/album/3ELRgYerX3smXzYWTIwnS3) | 3:45 | 2024-02-01 |  |
+| [5 Seconds Ago](https://open.spotify.com/track/23rTOO5162vM1lWvVzw64K) | [東 八千穂\(CV:稗田寧々\)](https://open.spotify.com/artist/4JSFkjTr98Px1NKZH6a8on) | [5 Seconds Ago](https://open.spotify.com/album/4HJBfxhBwz6eLiq5stV6MR) | 3:45 | 2024-02-01 |  |
+| [5 seconds ago](https://open.spotify.com/track/2dWpeauDYzZ5kfl6OOn9gk) | [東 八千穂\(CV:稗田寧々\)](https://open.spotify.com/artist/4JSFkjTr98Px1NKZH6a8on) | [5 seconds ago](https://open.spotify.com/album/3ELRgYerX3smXzYWTIwnS3) | 3:45 | 2024-02-01 | 2024-02-03 |
 | [65535](https://open.spotify.com/track/6Inn2sWeIORMSAVnwdrRkw) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [65535](https://open.spotify.com/album/6ZoU2pym8PqrNtmFpnuimw) | 3:13 | 2023-10-03 | 2023-10-18 |
 | [6を撫でる](https://open.spotify.com/track/5R2p1rjy9nzGx2Do6Vqulo) | [ももすももす](https://open.spotify.com/artist/09xFgYi2WMH18mnuipigzN) | [6を撫でる](https://open.spotify.com/album/0XwsUFo91VTzQDNc2WSIOw) | 3:00 | 2023-10-24 | 2023-11-11 |
 | [adrenaline!!!](https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:34 | 2022-07-07 | 2022-07-10 |
@@ -135,7 +136,7 @@
 | [HELP](https://open.spotify.com/track/5fTk6RfTbySiEyjRnrpHNV) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/2hJ603Bso9KCAAHwQD606w) | 3:47 | 2023-10-03 | 2023-10-18 |
 | [HELP](https://open.spotify.com/track/6qzigrdGbzParrcscn1707) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/15OxWt5Wd6QKRr3BM2SI1K) | 3:47 | 2023-10-24 | 2024-01-19 |
 | [Hikarakka](https://open.spotify.com/track/52lnMD0YQQteVqgWKtFA3m) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Hikarakka](https://open.spotify.com/album/5nAEZ6iFcUxS7yFvXfn0Tj) | 3:20 | 2024-01-30 |  |
-| [hikari no toriru](https://open.spotify.com/track/17kTyDRlOY3gLl1qNCC9B4) | [南條愛乃](https://open.spotify.com/artist/1UVUtRS6I6rZji2w8o1CXd) | [hikari no toriru](https://open.spotify.com/album/18zrUwavFbepselMuuGsb6) | 3:44 | 2024-01-18 |  |
+| [hikari no toriru](https://open.spotify.com/track/17kTyDRlOY3gLl1qNCC9B4) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [hikari no toriru](https://open.spotify.com/album/18zrUwavFbepselMuuGsb6) | 3:44 | 2024-01-18 |  |
 | [HOME](https://open.spotify.com/track/4FSejBjuCSqv0NsJskPShe) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [HOME](https://open.spotify.com/album/5fxto0FPkSBuYETRE5wT2d) | 4:51 | 2022-06-12 | 2022-07-12 |
 | [How I Feel](https://open.spotify.com/track/6vhbmnWDKcv7EWDl88UEn0) | [釘宮理恵](https://open.spotify.com/artist/0sYLX0bH7aVvJlpiGuYA3f) | [kokohadoko](https://open.spotify.com/album/54ZZMfzVQFHIoEbZEDlh9p) | 4:36 | 2022-06-12 | 2022-06-24 |
 | [HUMAN](https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ) | 5:22 | 2023-02-21 | 2023-05-10 |

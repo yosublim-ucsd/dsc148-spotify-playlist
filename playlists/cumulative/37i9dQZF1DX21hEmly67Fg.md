@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-200 songs - 11 hr 34 min
+202 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,11 +170,13 @@
 | [Stand Inside Your Love](https://open.spotify.com/track/7s04KoVEsVuCOIvf3TocBj) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Smashing Pumpkins](https://open.spotify.com/album/1QAHaP5KYmqmZJu88FxMEF) | 3:10 | 2022-11-18 | 2022-11-26 |
 | [STAY](https://open.spotify.com/track/4jxD83ZUvK2YkOGN7IgfBq) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [STAY](https://open.spotify.com/album/2rB55ubwvBGMkWYaAow5Uw) | 3:08 | 2023-05-03 |  |
 | [Stay with Me](https://open.spotify.com/track/4lWYROZtRMgHmDpdUtTI22) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 2](https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N) | 2:55 | 2021-11-25 |  |
+| [Story of My Life](https://open.spotify.com/track/0knSe1sGQkIyE3rTIvQRl1) | [Ashton Foster](https://open.spotify.com/artist/6lleSq8jhlTKsIH0GeGSM4) | [Story of My Life](https://open.spotify.com/album/09ixsulaxQcFKTymb42Is8) | 2:28 | 2024-02-02 |  |
 | [Sunflower \(feat\. ThatViolaKid\)](https://open.spotify.com/track/4imin3mUFfFvbU9vbjZRSu) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz), [ThatViolaKid](https://open.spotify.com/artist/4NUssuHyRMkU7AM6bDU1OC) | [Vitamin String Quartet Performs the Hits of 2019](https://open.spotify.com/album/56EI9Mhw87g3NADBYQNQac) | 2:44 | 2022-11-18 | 2022-11-26 |
 | [Sweater Weather](https://open.spotify.com/track/5ipHEp72ur3hB8WVM0hzOX) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2013, Vol\. 1](https://open.spotify.com/album/4x6udqqWCNOeLqsw6aUnAo) | 4:05 | 2022-11-18 | 2022-11-26 |
 | [Tattoo](https://open.spotify.com/track/4oJ0J34QTkknq9ciWkb3O8) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [Tattoo](https://open.spotify.com/album/4mSPv9m5vsDzPjzxocDbDt) | 3:09 | 2023-07-24 |  |
 | [The Scientist](https://open.spotify.com/track/025vpSSyndhVZezl8rUF6L) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 8](https://open.spotify.com/album/5QehVVf9rIVoiS12V9DPMq) | 4:55 | 2021-11-25 |  |
 | [The Sound of Silence](https://open.spotify.com/track/0ckgm8yGyTYAo9WwtCXcpS) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [The Sound of Silence](https://open.spotify.com/album/763Ve9vd4kwmEAj0zGhuCC) | 3:10 | 2021-11-25 | 2022-01-06 |
+| [The Sound of Silence](https://open.spotify.com/track/0YTPlP7MjW8pPBGdARXuIJ) | [Morgan Fleich](https://open.spotify.com/artist/0fA5ejVShbNdZWiw5CB1l1) | [The Sound of Silence](https://open.spotify.com/album/7zFQhoJ9Disc3upcoiNnJu) | 2:16 | 2024-02-02 |  |
 | [The winner takes it all](https://open.spotify.com/track/3JH5SNLLiwxnp1IVFb8AYw) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [The winner takes it all](https://open.spotify.com/album/3xdpsGHwPNSYQk5c7HKdK3) | 3:53 | 2023-09-05 |  |
 | [Theme From The Deer Hunter](https://open.spotify.com/track/0In8hRbe0nWrlaJuyFtx2Z) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Theme From The Deer Hunter](https://open.spotify.com/album/2wvMb6eQTqbWfe15zqwQSR) | 2:50 | 2023-06-20 |  |
 | [These Days](https://open.spotify.com/track/5yhAp5zikhraHkUJgsUYHN) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Music from the Films of Wes Anderson](https://open.spotify.com/album/3RkE0u5OCmNEdPiiHuanbd) | 3:28 | 2022-11-18 | 2022-11-26 |

@@ -1,12 +1,12 @@
 {
   "description": "All 70s, all ballads. Cover: Barbra Streisand",
-  "num_followers": 254150,
+  "num_followers": 254235,
   "original_name": "70s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODYxMTVjMWU4MjczNjk4Njg5NTgxM2E3ZTYzZWUyNDA1NDBhZWU1",
+  "snapshot_id": "MCxiZDhjYjQ4YzZmYmI4NjYyM2FmNzg3MGMwMjBmNTU5YmU1NjVlZGMy",
   "tracks": [
     {
       "added_at": "2023-01-02 17:44:56",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
         "name": "Hollies",
         "url": "https://open.spotify.com/album/17gEubRfhqZEFoYEnHVV5H"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 257106,
       "name": "The Air That I Breathe - 2008 Remaster",
       "url": "https://open.spotify.com/track/6yLIqXX9edg1x0HZS7cZEv"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "You've Got a Friend - 2019 Remaster",
-      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
         "name": "The Original Soundtrack",
         "url": "https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj"
       },
@@ -347,18 +331,18 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "On the Waters",
-        "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
+        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
       },
       "artists": [
         {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 192200,
-      "name": "Make It with You",
-      "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
+      "duration_ms": 268866,
+      "name": "You've Got a Friend - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -375,6 +359,22 @@
       "duration_ms": 234666,
       "name": "Daniel",
       "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
+        "name": "On the Waters",
+        "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "Make It with You",
+      "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 228932,
-      "name": "Candle In The Wind - Remastered 2014",
-      "url": "https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
         "name": "Barry Manilow II",
         "url": "https://open.spotify.com/album/0D6b0oLPjrrV4YA4bRSkks"
       },
@@ -471,22 +455,6 @@
       "duration_ms": 213333,
       "name": "Mandy",
       "url": "https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -507,6 +475,22 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
         "name": "I Can Stand A Little Rain",
         "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 278040,
-      "name": "After the Love Has Gone",
-      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
+      "duration_ms": 228932,
+      "name": "Candle In The Wind - Remastered 2014",
+      "url": "https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -551,6 +535,22 @@
       "duration_ms": 277960,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "After the Love Has Gone",
+      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 288266,
-      "name": "I Don't Want to Talk About It - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
         "name": "Let It Be (Remastered)",
         "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 313373,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 288266,
+      "name": "I Don't Want to Talk About It - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "Anytime... Anywhere",
-        "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
-      },
-      "artists": [
-        {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
-        }
-      ],
-      "duration_ms": 220520,
-      "name": "We're All Alone",
-      "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
         "name": "Warmer",
         "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 241746,
       "name": "Just When I Needed You Most",
       "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
+        "name": "52nd Street",
+        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 233506,
+      "name": "Honesty",
+      "url": "https://open.spotify.com/track/34E0Higz6fFVXlbVsn6TIW"
     }
   ],
   "unique_name": "70s Ballads",

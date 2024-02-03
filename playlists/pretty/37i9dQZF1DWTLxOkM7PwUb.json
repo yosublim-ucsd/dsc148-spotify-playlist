@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 39219,
+  "num_followers": 39269,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWE3NTMzYTQzZDRhMzE1ODZjOGE5NmQ1ZjBkZDljZDFkYzVhODYx",
+  "snapshot_id": "MCxjMzc5NjQyMjY1OTExNjg2NjMxYWVkMjFlNTIxZjY0OTlhMzFjMDdh",
   "tracks": [
     {
       "added_at": "2024-01-12 03:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 240441,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Sigues Preguntando (Remix)",
         "url": "https://open.spotify.com/album/0RxPmbaFmVq10fSVw5xeOv"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 270973,
       "name": "Sigues Preguntando - Remix",
       "url": "https://open.spotify.com/track/6MYyeb4z85EVKDOyY6Od5X"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 240441,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "KUN",
+        "url": "https://open.spotify.com/album/0MnNn3zWWUP8CcHUXuOnCc"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Me Atrapa",
+      "url": "https://open.spotify.com/track/2TnkEU0979HuAtOXD1kI9H"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "MAWZ",
         "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 211964,
       "name": "A tus Pies",
       "url": "https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "KUN",
-        "url": "https://open.spotify.com/album/0MnNn3zWWUP8CcHUXuOnCc"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Me Atrapa",
-      "url": "https://open.spotify.com/track/2TnkEU0979HuAtOXD1kI9H"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 245141,
+      "name": "Dejar Atr\u00e1s / Rompe Corazones",
+      "url": "https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
         "name": "Quedate Sola",
         "url": "https://open.spotify.com/album/5ovRJUVUBRZmOcyzUbJFNl"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 270608,
       "name": "Quedate Sola",
       "url": "https://open.spotify.com/track/0UT1rpFwDw5GLM7jDVs9pN"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 245141,
-      "name": "Dejar Atr\u00e1s / Rompe Corazones",
-      "url": "https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1363,22 +1363,18 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "A fuego (Bizarrap Remix)",
-        "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
+        "name": "Por Si Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0"
       },
       "artists": [
         {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
         }
       ],
-      "duration_ms": 239078,
-      "name": "A fuego - Bizarrap Remix",
-      "url": "https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c"
+      "duration_ms": 187046,
+      "name": "S\u00e1banas An\u00f3nimas",
+      "url": "https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1399,18 +1395,22 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Por Si Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0"
+        "name": "A fuego (Bizarrap Remix)",
+        "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
       },
       "artists": [
         {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         }
       ],
-      "duration_ms": 187046,
-      "name": "S\u00e1banas An\u00f3nimas",
-      "url": "https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE"
+      "duration_ms": 239078,
+      "name": "A fuego - Bizarrap Remix",
+      "url": "https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Digame Usted",
-        "url": "https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 141688,
-      "name": "Digame Usted",
-      "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Estrellas",
         "url": "https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 186461,
       "name": "Estrellas",
       "url": "https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Digame Usted",
+        "url": "https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 141688,
+      "name": "Digame Usted",
+      "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "INESTABLE",
-        "url": "https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP"
-      },
-      "artists": [
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "INESTABLE",
-      "url": "https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "Pa Mi",
         "url": "https://open.spotify.com/album/5sP1lpFKLvJuO5egElrW9K"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 228231,
       "name": "Pa Mi",
       "url": "https://open.spotify.com/track/5m8hIduzkrvf191VO9CQu4"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "INESTABLE",
+        "url": "https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP"
+      },
+      "artists": [
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "INESTABLE",
+      "url": "https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4"
     },
     {
       "added_at": "2024-01-12 03:00:00",

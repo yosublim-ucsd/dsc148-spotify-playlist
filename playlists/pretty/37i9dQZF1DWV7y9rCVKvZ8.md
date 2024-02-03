@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain]
 
 > Jadi lebih produktif ditemani musik terkini hanya ada di Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,284 likes - 79 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,322 likes - 79 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain]
 | 78 | [Leave The Door Open](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:02 |
 | 79 | [Crazy Form](https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:18 |
 
-Snapshot ID: `MCw1N2Q0OWYxY2FlMTlmMGFlZTk3OWI1Mzg0MjE0MjE5ZWVkN2U5ZTU3`
+Snapshot ID: `MCxhNmJlZjkyNDY4MmZhNTg4NzE1MWNkOTVkZDFkYjMxZjRhYjI0MzRi`

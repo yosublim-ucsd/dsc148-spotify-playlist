@@ -1,12 +1,12 @@
 {
   "description": "Our favorite electronic songs from around the world this year. Cover: Jungle",
-  "num_followers": 59292,
+  "num_followers": 59324,
   "original_name": "Best Electronic Songs of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjc2YmU2NGQwMWJkMWFlMjNjZWM3ZjMxM2E5ZjIyZDQwOWRmOGVh",
+  "snapshot_id": "MCw3MzJhMTIzODkwZDU1OWNmNDZmOTgzZjEzYTEyMDkyMmYwYmMwMjM5",
   "tracks": [
     {
       "added_at": "2023-11-29 12:16:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "No Reason",
-        "url": "https://open.spotify.com/album/0noR7T69B8RDZ71B5VIIrt"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 240899,
-      "name": "No Reason",
-      "url": "https://open.spotify.com/track/70JiPk5FBlc6eymIcHPCxU"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Rose Rouge",
         "url": "https://open.spotify.com/album/7DodMymoQ0sFG6baosag8D"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 277786,
       "name": "Rose Rouge",
       "url": "https://open.spotify.com/track/6XM6FI6rPJBnhoF6heNHeN"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "No Reason",
+        "url": "https://open.spotify.com/album/0noR7T69B8RDZ71B5VIIrt"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 240899,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/70JiPk5FBlc6eymIcHPCxU"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "Sweet Moment",
+        "url": "https://open.spotify.com/album/56BDudw4Ep7daFvo9tsd10"
+      },
+      "artists": [
+        {
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Sweet Moment",
+      "url": "https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "Nsera (Solomun Remix)",
         "url": "https://open.spotify.com/album/3caxZnUDcQNgQq1o51pbe8"
       },
@@ -1099,38 +1115,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Sweet Moment",
-        "url": "https://open.spotify.com/album/56BDudw4Ep7daFvo9tsd10"
-      },
-      "artists": [
-        {
-          "name": "Alice DiMar",
-          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Sweet Moment",
-      "url": "https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Likshot",
-        "url": "https://open.spotify.com/album/2ePWaT9H5e7D9TF42S5WpF"
-      },
-      "artists": [
-        {
-          "name": "Surusinghe",
-          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "Likshot",
-      "url": "https://open.spotify.com/track/6GY4eHl6UjFLpqFAPEG6QQ"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "The One's",
         "url": "https://open.spotify.com/album/3aRGBESAlNiPZUeEMixsYR"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 196882,
       "name": "The One's",
       "url": "https://open.spotify.com/track/2c2GRURdaTQS879w0bcGU0"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Likshot",
+        "url": "https://open.spotify.com/album/2ePWaT9H5e7D9TF42S5WpF"
+      },
+      "artists": [
+        {
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "Likshot",
+      "url": "https://open.spotify.com/track/6GY4eHl6UjFLpqFAPEG6QQ"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Vista Mare Forever",
-        "url": "https://open.spotify.com/album/6s7TqgQdz4A8Ghx0dXsxqW"
-      },
-      "artists": [
-        {
-          "name": "Giulia Tess",
-          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
-        }
-      ],
-      "duration_ms": 274738,
-      "name": "Monica Vitti",
-      "url": "https://open.spotify.com/track/7bIqHtObwmyE16EazeXHWa"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Beautiful World",
         "url": "https://open.spotify.com/album/0ZnnuF8eC7ZsyMJm9008k4"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 375251,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/4Qti4wrmLntg5BKAvK47uI"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Vista Mare Forever",
+        "url": "https://open.spotify.com/album/6s7TqgQdz4A8Ghx0dXsxqW"
+      },
+      "artists": [
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        }
+      ],
+      "duration_ms": 274738,
+      "name": "Monica Vitti",
+      "url": "https://open.spotify.com/track/7bIqHtObwmyE16EazeXHWa"
     },
     {
       "added_at": "2023-11-29 12:16:00",

@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 738015,
+  "2024-02-03": 738192,
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Juicy Luicy",
+  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Tiara Andini, Arsy Widianto",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -122,6 +122,24 @@
     },
     {
       "album": {
+        "name": "Berharap Kau Kembali",
+        "url": "https://open.spotify.com/album/1PjtBnzBSScqyw9ZWaDaBV"
+      },
+      "artists": [
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258700,
+      "name": "Berharap Kau Kembali",
+      "url": "https://open.spotify.com/track/39KLpL6U90nMI1GzaBuv1s"
+    },
+    {
+      "album": {
         "name": "Bernafaslah Sejenak",
         "url": "https://open.spotify.com/album/7KF9Kk6bpryWfjzTprCylS"
       },
@@ -151,7 +169,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 297750,
       "name": "Berpayung Tuhan",
       "url": "https://open.spotify.com/track/5n7JlSbYBsUSncCwm5OAOh"
@@ -173,6 +191,24 @@
       "duration_ms": 220945,
       "name": "Bersamamu",
       "url": "https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ"
+    },
+    {
+      "album": {
+        "name": "Bulan Dikekang Malam (From ''Ayat Ayat Cinta 2'')",
+        "url": "https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234010,
+      "name": "Bulan Dikekang Malam - From ''Ayat Ayat Cinta 2''",
+      "url": "https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn"
     },
     {
       "album": {
@@ -429,7 +465,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 201000,
       "name": "Kala Sang Surya Tenggelam (from the Netflix Series \"Gadis Kretek\")",
       "url": "https://open.spotify.com/track/4Ssmc2huU8shKR9aO9PMQH"
@@ -451,6 +487,42 @@
       "duration_ms": 238293,
       "name": "Karena Kamu (Love Recalls Version)",
       "url": "https://open.spotify.com/track/5B7qLPqBd0DxhDuK7VCPch"
+    },
+    {
+      "album": {
+        "name": "Kata",
+        "url": "https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220083,
+      "name": "Kata",
+      "url": "https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y"
+    },
+    {
+      "album": {
+        "name": "Kata Mereka Ini Berlebihan",
+        "url": "https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191141,
+      "name": "Kata Mereka Ini Berlebihan",
+      "url": "https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7"
     },
     {
       "album": {
@@ -545,6 +617,28 @@
       "duration_ms": 254268,
       "name": "Ku Tak Mampu Lagi",
       "url": "https://open.spotify.com/track/5LymVUEKH7rGgZUZD0XrqU"
+    },
+    {
+      "album": {
+        "name": "Lagu Pernikahan Kita",
+        "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "Arsy Widianto",
+          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261476,
+      "name": "Lagu Pernikahan Kita",
+      "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
     },
     {
       "album": {
@@ -682,6 +776,24 @@
     },
     {
       "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/2iVpnS9BgLXkiZZeV3Vn55"
+      },
+      "artists": [
+        {
+          "name": "Titi DJ",
+          "url": "https://open.spotify.com/artist/2XHFhl3jenckLAT8SWVegS"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250216,
+      "name": "Merah Delima",
+      "url": "https://open.spotify.com/track/4LNwzX11AbDakv8tWwnH4t"
+    },
+    {
+      "album": {
         "name": "Muak",
         "url": "https://open.spotify.com/album/4Zt66ubcxeKkfB3MvTYvCq"
       },
@@ -790,6 +902,24 @@
     },
     {
       "album": {
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/6vxwXV8w20fsU50YID7cKI"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163700,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/3Uf7CHxUovGESEK2YvcGAY"
+    },
+    {
+      "album": {
         "name": "f\u00e1bula",
         "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
       },
@@ -877,7 +1007,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 249336,
       "name": "Tak Bisa Bilang",
       "url": "https://open.spotify.com/track/2rNMr1l3vFvJcIJh59QVLg"

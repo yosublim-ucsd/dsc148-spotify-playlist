@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > Joeboy's AFCON Match day essentials
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,301 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,419 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 49 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 |
 | 50 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 |
 
-Snapshot ID: `MCwwNDJkODAwNWE5NDRjMTEzMWJjMGExZWVhZDNhNDQ2OGViNmQ3MzBm`
+Snapshot ID: `MCxmMTUwNjZmMzBjNzY5ODIxNWY2Y2M5MGU1N2Y2NjU3MmZhOWJmOTg5`

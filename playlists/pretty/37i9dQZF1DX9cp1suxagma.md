@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 ### [Pop Colombia](https://open.spotify.com/playlist/37i9dQZF1DX9cp1suxagma)
 
-> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Morat
+> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Susana Cala
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,130 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,150 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tarde](https://open.spotify.com/track/2TjbYeDUbfTK9xTdj6oyuR) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Antes De Que Amanezca](https://open.spotify.com/album/2gg7wgRW4yK27ex7rNvWuW) | 2:42 |
-| 2 | [Máquina del Tiempo](https://open.spotify.com/track/7rGpG81sWMUcxkyJwvmlAq) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Máquina del Tiempo](https://open.spotify.com/album/7oXFKwMbYhY6K8P6Skp3hM) | 2:33 |
-| 3 | [Demasiado Lejos](https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Demasiado Lejos](https://open.spotify.com/album/6ffoY6voawepJR0R8xIyQA) | 2:59 |
-| 4 | [Te Dejo Entrar](https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Te Dejo Entrar](https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp) | 3:12 |
-| 5 | [Diciembre Frío](https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Diciembre Frío](https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5) | 2:56 |
-| 6 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 |
-| 7 | [Discoteca](https://open.spotify.com/track/7GoflMNfOi849vMcoRuMKB) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Discoteca](https://open.spotify.com/album/1gVXO4KetZZupnhcN9zBxQ) | 3:05 |
-| 8 | [Sobreviviste](https://open.spotify.com/track/3CGPWcU0S3tnb1hSvtyBmj) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobreviviste](https://open.spotify.com/album/1TpmuLGyFw9tVtuBIt7t6u) | 3:06 |
-| 9 | [Desde Hola](https://open.spotify.com/track/0oQfmHrqjn3kQM1mlIf3lY) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Desde Hola](https://open.spotify.com/album/2YqHcXxyejgWVXRmPoDIXf) | 3:11 |
-| 10 | [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 |
-| 11 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 |
-| 12 | [El Mismo Lugar](https://open.spotify.com/track/1XPMT2vZddFZAKrxSWyRBN) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [El Mismo Lugar](https://open.spotify.com/album/5TwX9RNm1X9N7pur94b7i6) | 2:38 |
-| 13 | [Amor Bonito](https://open.spotify.com/track/4xIkT5XQo74cR9bZcCo8FC) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Amor Bonito](https://open.spotify.com/album/0DrWimkFANO9MaLLO7rcAR) | 3:08 |
-| 14 | [No soy yo](https://open.spotify.com/track/47Q1O0vKdL4QTC9FZdSwT1) | [Chago](https://open.spotify.com/artist/5aQK13za62lrxQASWuHMbG) | [No soy yo](https://open.spotify.com/album/78WLJ4fRlnvYprbgAwvNi9) | 2:26 |
-| 15 | [Mi Mejor Versión](https://open.spotify.com/track/12h7391GtB8rPilYJIMTGn) | [Estereobeat](https://open.spotify.com/artist/4i70orTITjlYP1lDoHPsZr) | [Mi Mejor Versión](https://open.spotify.com/album/7jdnTfdrHDHAD20lF1BYaZ) | 2:29 |
-| 16 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 |
-| 17 | [Si Volviera A Conocerte](https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Si Volviera A Conocerte](https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4) | 3:11 |
+| 1 | [Triste \(Arial 1\)](https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Triste \(Arial 1\)](https://open.spotify.com/album/6MfUhAGiZ9FizmSn0F8KQj) | 2:57 |
+| 2 | [Tarde](https://open.spotify.com/track/2TjbYeDUbfTK9xTdj6oyuR) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Antes De Que Amanezca](https://open.spotify.com/album/2gg7wgRW4yK27ex7rNvWuW) | 2:42 |
+| 3 | [Máquina del Tiempo](https://open.spotify.com/track/7rGpG81sWMUcxkyJwvmlAq) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Máquina del Tiempo](https://open.spotify.com/album/7oXFKwMbYhY6K8P6Skp3hM) | 2:33 |
+| 4 | [Demasiado Lejos](https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Demasiado Lejos](https://open.spotify.com/album/6ffoY6voawepJR0R8xIyQA) | 2:59 |
+| 5 | [Te Dejo Entrar](https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Te Dejo Entrar](https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp) | 3:12 |
+| 6 | [Diciembre Frío](https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Diciembre Frío](https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5) | 2:56 |
+| 7 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 |
+| 8 | [Discoteca](https://open.spotify.com/track/7GoflMNfOi849vMcoRuMKB) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Discoteca](https://open.spotify.com/album/1gVXO4KetZZupnhcN9zBxQ) | 3:05 |
+| 9 | [Sobreviviste](https://open.spotify.com/track/3CGPWcU0S3tnb1hSvtyBmj) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobreviviste](https://open.spotify.com/album/1TpmuLGyFw9tVtuBIt7t6u) | 3:06 |
+| 10 | [Desde Hola](https://open.spotify.com/track/0oQfmHrqjn3kQM1mlIf3lY) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Desde Hola](https://open.spotify.com/album/2YqHcXxyejgWVXRmPoDIXf) | 3:11 |
+| 11 | [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 |
+| 12 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 |
+| 13 | [Asiento De Atras](https://open.spotify.com/track/4dRIxLukSEDkfhf9FyHud9) | [Vibarco](https://open.spotify.com/artist/1oVPt5RzxWvUjZKCgnbQul) | [Asiento De Atras](https://open.spotify.com/album/0jg03bZ19R8FQ4x55Kyfrp) | 3:12 |
+| 14 | [El Mismo Lugar](https://open.spotify.com/track/1XPMT2vZddFZAKrxSWyRBN) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [El Mismo Lugar](https://open.spotify.com/album/5TwX9RNm1X9N7pur94b7i6) | 2:38 |
+| 15 | [Amor Bonito](https://open.spotify.com/track/4xIkT5XQo74cR9bZcCo8FC) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Amor Bonito](https://open.spotify.com/album/0DrWimkFANO9MaLLO7rcAR) | 3:08 |
+| 16 | [la otra cara](https://open.spotify.com/track/7pn1SS8zolJoQbQgmz3fLj) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G) | [la otra cara](https://open.spotify.com/album/7lm0XYr2ENJ40dOgfYGTlj) | 2:27 |
+| 17 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 |
 | 18 | [Inevitable \- Cinco de Mil Pedazos](https://open.spotify.com/track/7nhPsUMAgvb80O9UFWGQ9I) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Inevitable \(Cinco de Mil Pedazos\)](https://open.spotify.com/album/052FGJ4j8JLIcqBdAvmWTe) | 2:24 |
 | 19 | [Nunca Volvieron](https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Nunca Volvieron](https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw) | 3:21 |
 | 20 | [Quédate](https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Quédate](https://open.spotify.com/album/2YCoLtzdiW3YAiYzEiADm0) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 99 | [La Estrategia](https://open.spotify.com/track/3mbCqi22KYjndD56qCykyP) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [La Estrategia](https://open.spotify.com/album/06ndmW1TODpGRPdGE7At37) | 3:39 |
 | 100 | [Caraluna](https://open.spotify.com/track/4XTMj7kd8DHLl0r7ghmEAr) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Grandes Exitos](https://open.spotify.com/album/5WGN7m5BK95GiuafTCL3JQ) | 4:26 |
 
-Snapshot ID: `MCxmMTM1OTY0NWNmZGExMjMyN2JhY2NlZTIyNjRhY2Y1ZDczMmMzOGEz`
+Snapshot ID: `MCw0ZTBlYmJmOGIxZjM1MmZhNmNjYTZjYWRlMzEyMzE4ZDQ5MzFlYjJj`

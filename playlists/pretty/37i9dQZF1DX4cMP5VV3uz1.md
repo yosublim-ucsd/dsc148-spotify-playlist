@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,001 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,080 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 57 | [Want You](https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Want You](https://open.spotify.com/album/1gwNOFmeMRGzIj2752iJEB) | 4:07 |
 | 58 | [Talk To Me](https://open.spotify.com/track/7rPaFoaK4CjcFujFhIWMcO) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Talk To Me](https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K) | 4:26 |
 | 59 | [Party All the Time \(feat\. Kay\)](https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Kay](https://open.spotify.com/artist/4pqUHuQppkm95uNa2VDpMT) | [Party All the Time \(feat\. Kay\)](https://open.spotify.com/album/026MiiWON7Aei7MKzxCKGC) | 4:26 |
-| 60 | [Baddest](https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Baddest](https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c) | 3:43 |
-| 61 | [Through It All \- Hedex Remix](https://open.spotify.com/track/5ts712TiZXqdbbkef0mRrI) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Through It All \(Hedex Remix\)](https://open.spotify.com/album/3g9yPWc8yVPueR4Zk1LPot) | 3:50 |
+| 60 | [Through It All \- Hedex Remix](https://open.spotify.com/track/5ts712TiZXqdbbkef0mRrI) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Through It All \(Hedex Remix\)](https://open.spotify.com/album/3g9yPWc8yVPueR4Zk1LPot) | 3:50 |
+| 61 | [Baddest](https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Baddest](https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c) | 3:43 |
 | 62 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 |
 | 63 | [Absolute](https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Fernquest](https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL) | [Absolute](https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9) | 3:04 |
 | 64 | [Diamond Therapy](https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Diamond Therapy](https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [Getting Started \- Chase & Status Remix](https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Getting Started \(Chase & Status Remix\)](https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1) | 3:10 |
 | 75 | [Pictures In My Head \- High Contrast Remix](https://open.spotify.com/track/4nTWlJcs3S1cxnXTTnWu2n) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Pictures In My Head](https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm) | 4:18 |
 
-Snapshot ID: `MCxjOGRkNWYyYzRmNDQwYzA1MzQ1YzkwYjE0NzMxY2IxY2M2NDBjOThm`
+Snapshot ID: `MCxjYjNhZTc2ZThkYzIwODkyZjQwOThmODJlMDJiOTUyMjBiZjY2ZDYz`

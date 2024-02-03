@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Thalles Roberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,177 likes - 70 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,192 likes - 70 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 4 | [Aviva\-Nos / A Terra Clama / Fogo e Glória](https://open.spotify.com/track/6zuKUWd8WI64enPMwPBsmE) | [Kaleb e Josh](https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW) | [Aviva\-Nos / A Terra Clama / Fogo e Glória](https://open.spotify.com/album/6gOZTR9GlaP1eOIBbvrT63) | 9:25 |
 | 5 | [Glorificar](https://open.spotify.com/track/01BOsTs8gmz5XYl7vafIlj) | [Projeto Sola](https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K) | [Glorificar Cristo, Edificar a Igreja](https://open.spotify.com/album/0M76j8Ya0ivRnkRvTHR0GE) | 5:24 |
 | 6 | [Os Que Confiam \- Live](https://open.spotify.com/track/09iuGgLJ4mr4bLjLvRptye) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Único \(Live\)](https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh) | 5:38 |
-| 7 | [A Alegria do Senhor \- Ao Vivo](https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [A Alegria do Senhor \(Ao Vivo\)](https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy) | 3:40 |
-| 8 | [HEREGE](https://open.spotify.com/track/5yZBk4qrWmgRGcWHtt74ot) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [HEREGE](https://open.spotify.com/album/1aZjMqH9pQ0RHhyjxOmEqv) | 4:09 |
+| 7 | [HEREGE](https://open.spotify.com/track/5yZBk4qrWmgRGcWHtt74ot) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [HEREGE](https://open.spotify.com/album/1aZjMqH9pQ0RHhyjxOmEqv) | 4:09 |
+| 8 | [A Alegria do Senhor \- Ao Vivo](https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [A Alegria do Senhor \(Ao Vivo\)](https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy) | 3:40 |
 | 9 | [1000 Graus](https://open.spotify.com/track/0eAq2bA89nCxLTDBt9T1b0) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p), [Melyssa Almeida](https://open.spotify.com/artist/2kqKUICMbjxfslD1GkpLAq) | [1000 Graus](https://open.spotify.com/album/1YNEyzlJYU2QCcYbkQNXIB) | 2:48 |
 | 10 | [Êxodo \- ao vivo em São Paulo](https://open.spotify.com/track/7AKkT7q6Kxdrh2n2qvLAHk) | [Projeto Sola](https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K) | [Homem Litúrgico, Ao Vivo](https://open.spotify.com/album/3pBtEZlLUVr9ljXjY0zeH5) | 3:54 |
 | 11 | [Medley Leão de Judá](https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 80's](https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu) | 4:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 69 | [Espelhos Mágicos / Naves Imperiais](https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 90's](https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS) | 4:25 |
 | 70 | [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 |
 
-Snapshot ID: `MCw1ZjU1MGE1ZDdjNmJlMGU1NDUxMjg3ZGZkNmEzMmRiZThkZmI5YTlj`
+Snapshot ID: `MCxlNjUwYjg3NWNlM2MxNzRhNWEzMzUwNTIwMmVkYmFjNzQzOWVmZTMx`

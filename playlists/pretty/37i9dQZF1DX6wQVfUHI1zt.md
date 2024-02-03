@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,865 likes - 120 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,912 likes - 120 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 13 | [Te Quiero, Te Amo](https://open.spotify.com/track/4LieLlRVOkdKbjrj3seQ44) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Esto Es Lo Nuestro \- 20 Exitos](https://open.spotify.com/album/467yWFddzRSYF4H11tCHdl) | 3:28 |
 | 14 | [La Llamada \- 1993 Version](https://open.spotify.com/track/0g5m1UJVMWQkNjZk1suW4s) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:09 |
 | 15 | [Un Millon de Rosas](https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:29 |
-| 16 | [Le Pediré](https://open.spotify.com/track/0Oon0YwVUvqf8O8KLukfZj) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:32 |
+| 16 | [Ojalá Te Animes](https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:00 |
 | 17 | [Amigo Mío](https://open.spotify.com/track/4ITL0FFTc4LRFyvUVeY4CC) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [Solo Para Ti](https://open.spotify.com/album/7DW7Kdtf2syoUnwd0z8714) | 4:12 |
 | 18 | [Ahora Dile](https://open.spotify.com/track/51yTzGq5mutXExkKS87nbM) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Ven Mi Amor](https://open.spotify.com/album/2hZlBpUoeN4SMo7yJtieX8) | 3:52 |
 | 19 | [Quién Iba A Pensar](https://open.spotify.com/track/5HfaD1ZJHpPyYinCO8NrSU) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Quién Iba A Pensar \(Remastered\)](https://open.spotify.com/album/7nh2gzgcGZDwFBLl11dEFs) | 4:00 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 21 | [Me Vuelvo A Enamorar](https://open.spotify.com/track/4Uo3KErgqv7GoEBZbAI1wU) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Viva Tejano Party Mix](https://open.spotify.com/album/7btBiEKMNBvPRe0e6HRVe1) | 3:31 |
 | 22 | [Aire](https://open.spotify.com/track/3xvl7xQiICvrTJolyPKvMF) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 4:05 |
 | 23 | [Quiero](https://open.spotify.com/track/5RGZFrGMC8qKIWqZIWAVJZ) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe) | 3:15 |
-| 24 | [Ojalá Te Animes](https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:00 |
+| 24 | [Le Pediré](https://open.spotify.com/track/0Oon0YwVUvqf8O8KLukfZj) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:32 |
 | 25 | [Me Duele Estar Solo](https://open.spotify.com/track/0EbhpgP6Bx7tAHPydzDWSi) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:27 |
 | 26 | [No Debes Jugar \- 1993 Version](https://open.spotify.com/track/77OlR5LDh9mwSGctxs6Dn2) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:48 |
 | 27 | [No Te Olvidaré](https://open.spotify.com/track/3baOh8JLoNB3DdO2cBbTSK) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [No Te Olvidare](https://open.spotify.com/album/3Us3CXsmEyaFYTgqOnCzUy) | 3:49 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 38 | [Como Te Extrano](https://open.spotify.com/track/1FAubvFODC0G1hRfBGMqp1) | [Pete Astudillo](https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 4:38 |
 | 39 | [Todavía](https://open.spotify.com/track/4CSwCfn6qCuXvnhxvarnG7) | [Elsa Garcia](https://open.spotify.com/artist/1ueN9z9M3Xyk27jcjn8tLE) | [Pasion](https://open.spotify.com/album/3ySyGfsLT8Y4naB0iKo7PS) | 3:37 |
 | 40 | [Lágrimas](https://open.spotify.com/track/6iKnCeOWsfBTZxLAtqm2xn) | [La Tropa F](https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1) | [Esto Es Lo Nuestro \- 20 Exitos](https://open.spotify.com/album/3phdl28dDCj4AFDgfhKxHw) | 3:42 |
-| 41 | [Tonta](https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Puro Tejano Gold](https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7) | 3:06 |
-| 42 | [Qué Porqué Te Quiero?](https://open.spotify.com/track/4dClbOgXHbh91ZOanebHVw) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:42 |
+| 41 | [Qué Porqué Te Quiero?](https://open.spotify.com/track/4dClbOgXHbh91ZOanebHVw) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:42 |
+| 42 | [Tonta](https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Puro Tejano Gold](https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7) | 3:06 |
 | 43 | [La Llama](https://open.spotify.com/track/1UoU72fMy6ztND27wRtuFb) | [Los Palominos](https://open.spotify.com/artist/0PWmxlpld6uKF8DXOupfQe) | [10 De Colección](https://open.spotify.com/album/4OcDyb089lSW7AUAm3Uvhb) | 3:28 |
 | 44 | [Son Tus Miradas](https://open.spotify.com/track/2nPVP13joEfdlIIxfaVujj) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [Steel Rain](https://open.spotify.com/album/1MULrpYOnPW4U8nTyuu9pD) | 2:53 |
 | 45 | [Yo Te Voy A Amar](https://open.spotify.com/track/60PDeZGuhX1YqmBdMcxNQ1) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq) | [Si Me Faltas Tu \(Remastered\)](https://open.spotify.com/album/3a3u36KzWbTPclPqE82eYB) | 4:11 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 119 | [No Te Olvidaré](https://open.spotify.com/track/1Qqnwem5JIf7TAE70BLav9) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 4:09 |
 | 120 | [Vuelvo](https://open.spotify.com/track/0oj2y6H2rneQ1QV4lLkTyG) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [Lo Basico](https://open.spotify.com/album/2hruqNk86ciCeHpUv0tggC) | 4:15 |
 
-Snapshot ID: `MCxjYjFjMzk3MDRhYjAyNGMxMzFkYTAzYjk2YWNiNjNlMzA1YWJiN2Ez`
+Snapshot ID: `MCxiMmM4ZTNiMDA4ZDZmN2E1YWE0MzA3Yzk4Y2ZmNWQ4NDQyZWY2MTBl`

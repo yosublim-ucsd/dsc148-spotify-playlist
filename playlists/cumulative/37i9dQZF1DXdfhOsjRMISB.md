@@ -4,7 +4,7 @@
 
 > Country music to accompany you on the open road\. Cover: Kelsea Ballerini
 
-364 songs - 20 hr 10 min
+365 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [I Hope You're Happy Now](https://open.spotify.com/track/2HWfXtWFeZpejgYSB3WZnV) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Hey World](https://open.spotify.com/album/7ef9XoJzqPcymXqYwi5WKw) | 3:19 | 2022-10-14 | 2022-11-13 |
 | [I Hope You’re Happy Now](https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:18 | 2022-07-01 |  |
 | [I Hope You’re Happy Now](https://open.spotify.com/track/1iiehnBysGi59zXYXIuKQD) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [I Hope You’re Happy Now](https://open.spotify.com/album/5zMUrHGRi7LpqRW1mxM2wu) | 3:18 | 2021-12-03 | 2022-07-29 |
+| [I Know A Guy](https://open.spotify.com/track/6LCY0s8iDoooe8eMkdEQMu) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Side Effects Of The Heart](https://open.spotify.com/album/5NyxBYEqQFpOCS4Gn3wNCK) | 2:41 | 2024-02-02 |  |
 | [I Love My Country](https://open.spotify.com/track/16kqEZBfhhK8XlQpauKej1) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [I Love My Country](https://open.spotify.com/album/6HQLji6pkqG4guxd9YcFTP) | 3:04 | 2022-02-01 | 2022-03-03 |
 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 | 2021-12-03 |  |
 | [I Should Probably Go To Bed](https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed](https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj) | 2:51 | 2021-12-03 | 2023-02-14 |
@@ -307,7 +308,7 @@
 | [There Was This Girl](https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:14 | 2021-12-03 |  |
 | [Things A Man Oughta Know](https://open.spotify.com/track/3S0sk6DSTgesXsUSAEHNr5) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:23 | 2023-08-04 |  |
 | [Things a Man Oughta Know](https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:23 | 2021-12-03 | 2023-11-11 |
-| [Think of You](https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:38 | 2022-02-01 |  |
+| [Think of You](https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:38 | 2022-02-01 | 2024-02-03 |
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 2:50 | 2022-07-01 | 2023-11-11 |
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 | 2021-12-03 | 2022-07-29 |
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/5eUpUFdFaAeovPau6lQkqK) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3) | 2:51 | 2023-08-04 |  |

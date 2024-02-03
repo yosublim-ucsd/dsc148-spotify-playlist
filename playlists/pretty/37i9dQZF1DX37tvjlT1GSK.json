@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Jos\u00e9 Manuel en portada. ",
-  "num_followers": 735825,
+  "num_followers": 735788,
   "original_name": "Sierre\u00f1o 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjgyYmM1Y2RkYmRhODc3MjM2NGExZWIyMDgyOTA0NzAyM2U1ZGMz",
+  "snapshot_id": "MCxkMzkxMWI2ZDNiMDEwYzFmOGRmZTc1ZDgxYzZiZTFhOGJmMDdlMGM4",
   "tracks": [
     {
       "added_at": "2024-01-26 06:00:00",
@@ -575,26 +575,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Ya Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "Ya Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 183890,
       "name": "UNA BALA",
       "url": "https://open.spotify.com/track/6Rz80wUWSUbGGVHvkH7NpU"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Ya Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "Ya Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 150413,
-      "name": "Recuerda",
-      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Las Pacas",
         "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 281518,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 150413,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Te Deseo Lo Mejor",
-        "url": "https://open.spotify.com/album/3TJYqNwsxy6on2wKnQSOUc"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 140235,
-      "name": "Te Deseo Lo Mejor",
-      "url": "https://open.spotify.com/track/5ZyUe1pOBYblWLN2E3xJXu"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Las 745",
         "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 163073,
       "name": "Las 745",
       "url": "https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Te Deseo Lo Mejor",
+        "url": "https://open.spotify.com/album/3TJYqNwsxy6on2wKnQSOUc"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 140235,
+      "name": "Te Deseo Lo Mejor",
+      "url": "https://open.spotify.com/track/5ZyUe1pOBYblWLN2E3xJXu"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Pal Amor Soy Malo",
-        "url": "https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Pal Amor Soy Malo",
-      "url": "https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "No Te Detengas (Banda Sonora Original de la serie \"Zorro\")",
         "url": "https://open.spotify.com/album/0XQA4roB8OS3Z08gs0T1xi"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 133933,
       "name": "No Te Detengas - Banda Sonora Original de la serie \"Zorro\"",
       "url": "https://open.spotify.com/track/3qWtrDiFyTCwAJ3aSV4bG9"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Pal Amor Soy Malo",
+        "url": "https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Pal Amor Soy Malo",
+      "url": "https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Peda en la Banqueta",
-        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
-      },
-      "artists": [
-        {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
-        }
-      ],
-      "duration_ms": 185173,
-      "name": "Ya Te Supere - En Vivo",
-      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Peonia",
         "url": "https://open.spotify.com/album/4PATQVUcznSUjIJUq0KET5"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 145946,
       "name": "Peonia",
       "url": "https://open.spotify.com/track/7kabKZcIsgr5WS5HU94sif"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Peda en la Banqueta",
+        "url": "https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 185173,
+      "name": "Ya Te Supere - En Vivo",
+      "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Cada Momento",
+        "url": "https://open.spotify.com/album/0A6RmcqUuTpPOqBoWfc0ik"
+      },
+      "artists": [
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 173225,
+      "name": "Cada Momento",
+      "url": "https://open.spotify.com/track/6QKSO8CgXXbKhiF5tXuR7Y"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Saludones a Mi Ap\u00e1",
         "url": "https://open.spotify.com/album/0RgOoUb2PLAmL2cnJhDR7o"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 152875,
       "name": "Saludones a Mi Ap\u00e1",
       "url": "https://open.spotify.com/track/6XLZ0Z3FpfDgJQpiscs6Au"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Cada Momento",
-        "url": "https://open.spotify.com/album/0A6RmcqUuTpPOqBoWfc0ik"
-      },
-      "artists": [
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 173225,
-      "name": "Cada Momento",
-      "url": "https://open.spotify.com/track/6QKSO8CgXXbKhiF5tXuR7Y"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1887,22 +1887,18 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Todavia",
-        "url": "https://open.spotify.com/album/1Nqdpy5j3juTdK90Gbo2Bo"
+        "name": "Como Voy A Ser Feliz",
+        "url": "https://open.spotify.com/album/4MHiwcjO1vjEwQ8yVpEQId"
       },
       "artists": [
         {
           "name": "Porte Diferente",
           "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        },
-        {
-          "name": "Inquieto Liniaje",
-          "url": "https://open.spotify.com/artist/0cBkLUqMmgdTFWf2INvqSV"
         }
       ],
-      "duration_ms": 165364,
-      "name": "Todavia",
-      "url": "https://open.spotify.com/track/0Aexh6qBGuMRnxZQpcaNoa"
+      "duration_ms": 173963,
+      "name": "Como Voy A Ser Feliz",
+      "url": "https://open.spotify.com/track/6W4Ucfw40WxD7aalcP3jzA"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1939,6 +1935,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "El 7",
+        "url": "https://open.spotify.com/album/2f9SmGJPGVkdQmq4hbS7rd"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 225142,
+      "name": "El 7",
+      "url": "https://open.spotify.com/track/2CSB2buyBO4fRRNepjHRq5"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "Trece Cielos (Con Cerveza Victoria)",
         "url": "https://open.spotify.com/album/3PTy9kHj8C3TRja73LjVd2"
       },
@@ -1951,6 +1963,26 @@
       "duration_ms": 207960,
       "name": "Trece Cielos (Con Cerveza Victoria)",
       "url": "https://open.spotify.com/track/5pERaeSVsez6b98PIIBsN2"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "Todavia",
+        "url": "https://open.spotify.com/album/1Nqdpy5j3juTdK90Gbo2Bo"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        },
+        {
+          "name": "Inquieto Liniaje",
+          "url": "https://open.spotify.com/artist/0cBkLUqMmgdTFWf2INvqSV"
+        }
+      ],
+      "duration_ms": 165364,
+      "name": "Todavia",
+      "url": "https://open.spotify.com/track/0Aexh6qBGuMRnxZQpcaNoa"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1975,22 +2007,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "Como Voy A Ser Feliz",
-        "url": "https://open.spotify.com/album/4MHiwcjO1vjEwQ8yVpEQId"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 173963,
-      "name": "Como Voy A Ser Feliz",
-      "url": "https://open.spotify.com/track/6W4Ucfw40WxD7aalcP3jzA"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "As\u00ed Fue",
         "url": "https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 379306,
       "name": "As\u00ed Fue",
       "url": "https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "El 7",
-        "url": "https://open.spotify.com/album/2f9SmGJPGVkdQmq4hbS7rd"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 225142,
-      "name": "El 7",
-      "url": "https://open.spotify.com/track/2CSB2buyBO4fRRNepjHRq5"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "D\u00edganle A Mi Ex",
-        "url": "https://open.spotify.com/album/1bUFT404T1SsM8vX4L6Mqi"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 180659,
-      "name": "D\u00edganle A Mi Ex",
-      "url": "https://open.spotify.com/track/3DGiTIEZWuOXRHei5UTgHf"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "NO HAY SE\u00d1AL",
         "url": "https://open.spotify.com/album/35LB7HQ4RWhvJnRdq8Coph"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 161392,
       "name": "NO HAY SE\u00d1AL",
       "url": "https://open.spotify.com/track/7MhNUNjHVMjCK4kzY610Iu"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "D\u00edganle A Mi Ex",
+        "url": "https://open.spotify.com/album/1bUFT404T1SsM8vX4L6Mqi"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 180659,
+      "name": "D\u00edganle A Mi Ex",
+      "url": "https://open.spotify.com/track/3DGiTIEZWuOXRHei5UTgHf"
     },
     {
       "added_at": "2024-01-26 06:00:00",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-68 songs - 3 hr 35 min
+69 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Danke für Alles](https://open.spotify.com/track/3LMOGI6MTpQwefQw0DRAQ9) | [Endless Wellness](https://open.spotify.com/artist/0rpmnKQXbtbFVFcxxGZuKc) | [Was für ein Glück](https://open.spotify.com/album/2179Dyr4RVkZi9OjZzfHfZ) | 2:54 | 2024-01-29 | 2024-01-31 |
 | [Dornwald](https://open.spotify.com/track/3hy2eKCa7q9hOOuelDO0yG) | [Hänsel](https://open.spotify.com/artist/00Cen9aAFxIUh0h685dp5w), [Liebling](https://open.spotify.com/artist/2rDgiXjtPa0hGvovvxUvSV) | [Dornwald](https://open.spotify.com/album/004U8iepW4TdNIhkunmrLL) | 2:15 | 2024-01-29 |  |
 | [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz) | 3:46 | 2024-01-29 |  |
-| [Free](https://open.spotify.com/track/2C0IvokSio8N7UyHwuB638) | [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9), [Nasser UK](https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD), [Valor](https://open.spotify.com/artist/2hdUuoqJUD7RXiGBNhEeUL) | [Free](https://open.spotify.com/album/0TU1txO73cwnDnDc2a9twG) | 3:07 | 2024-01-29 |  |
+| [Free](https://open.spotify.com/track/2C0IvokSio8N7UyHwuB638) | [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9), [Nasser UK](https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD), [Valor](https://open.spotify.com/artist/2hdUuoqJUD7RXiGBNhEeUL) | [Free](https://open.spotify.com/album/0TU1txO73cwnDnDc2a9twG) | 3:07 | 2024-01-29 | 2024-02-03 |
 | [Frieden](https://open.spotify.com/track/3owQNPhIzH9VS9dvAI1Kta) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Frieden](https://open.spotify.com/album/7AxeIfzWzEzuGfkyMgQKQh) | 5:04 | 2024-01-30 |  |
 | [Friend Of A Friend](https://open.spotify.com/track/4lTLmo9aTyMJ1SoHa63WA6) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 4:35 | 2024-01-30 |  |
 | [Frikitona](https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g) | 2:54 | 2024-01-29 | 2024-01-31 |
@@ -35,7 +35,7 @@
 | [Hand im Gesicht](https://open.spotify.com/track/3LlVIpyQ4EnkBtuUxAJDvJ) | [Endless Wellness](https://open.spotify.com/artist/0rpmnKQXbtbFVFcxxGZuKc) | [Was für ein Glück](https://open.spotify.com/album/2179Dyr4RVkZi9OjZzfHfZ) | 3:18 | 2024-01-29 |  |
 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 | 2024-01-29 |  |
 | [Ich nehm dich bei der Hand \(SimsalaGrimm\)](https://open.spotify.com/track/14iwJXnTuI9qdcosMEB73h) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs) | [Ich nehm dich bei der Hand \(SimsalaGrimm\)](https://open.spotify.com/album/2nP38OhbFaK5iCeGV8gEbP) | 2:05 | 2024-01-29 | 2024-01-31 |
-| [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 | 2024-01-30 |  |
+| [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 | 2024-01-30 | 2024-02-03 |
 | [I’d Rather Overdose](https://open.spotify.com/track/17UNijHcIMuz5ik2UKeCjK) | [HONESTAV](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [Z](https://open.spotify.com/artist/3M4avl0nqxhd5hPxJDMVUE) | [I’d Rather Overdose](https://open.spotify.com/album/11ZfrqRpeCnGBAbJ8e50kH) | 3:55 | 2024-01-30 |  |
 | [Joel](https://open.spotify.com/track/7A2MVRdwPy1PKiF5euhNK6) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Joel](https://open.spotify.com/album/4ijnyXRvTabRu66G5srgev) | 3:13 | 2024-01-29 | 2024-01-31 |
 | [Kapak Olsun](https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1) | [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [NELLIE](https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3), [Fredo](https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6) | [Kapak Olsun](https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B) | 2:27 | 2024-01-29 |  |
@@ -62,6 +62,7 @@
 | [Schena Mensch](https://open.spotify.com/track/2QVw70UFLLG7034GcConkm) | [folkshilfe](https://open.spotify.com/artist/415CxUpa6CcHgLB9o7C4jJ) | [VIRE](https://open.spotify.com/album/3yong3UpWgOsNTD1DuJgBC) | 3:01 | 2024-01-29 | 2024-01-31 |
 | [Schwarzer Hund](https://open.spotify.com/track/5MUutq6KntU6tEQht1J6j6) | [Katha Rosa](https://open.spotify.com/artist/767iqRy8U8T4rAdDscZt57) | [Schwarzer Hund](https://open.spotify.com/album/4Axz7OgM1JXXpTTS8eWlyi) | 3:00 | 2024-01-29 |  |
 | [SET ME FREE](https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [SET ME FREE](https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW) | 2:58 | 2024-01-30 | 2024-02-01 |
+| [She Likes a Boy](https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [She Likes a Boy](https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv) | 2:09 | 2024-02-02 |  |
 | [Situationship](https://open.spotify.com/track/7F5qS2hnmou4xb3IZf4Fmd) | [Jacob Elias](https://open.spotify.com/artist/7yFe9di9kWKJyz47OXSFvR) | [Situationship](https://open.spotify.com/album/74lT3gaRR3Lxmg85KfRJoE) | 3:09 | 2024-01-29 |  |
 | [Soaked](https://open.spotify.com/track/3nGIGnJd7jFZaPFdfyQLF2) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/3KlEcBtJhRhsqC13wbASjd) | 2:59 | 2024-02-01 |  |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-01-29 |  |
@@ -75,6 +76,6 @@
 | [Wall Of Eyes](https://open.spotify.com/track/3tP2P4KybC9wYVI8Pe41GT) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:05 | 2024-01-31 |  |
 | [Wasted Youth](https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Wasted Youth](https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy) | 2:27 | 2024-01-29 |  |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-30 | 2024-02-01 |
-| [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-01-29 | 2024-02-02 |
+| [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-01-29 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

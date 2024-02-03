@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KqG68vCjE4.md) - [plain]
 
 > Wishing Willie Nelson a happy 90th birthday with Spotify Singles tributes from Margo Price feat\. Particle Kid, The War and Treaty, & Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,725 likes - 36 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,734 likes - 36 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KqG68vCjE4.md) - [plain]
 | 2 | [Hands On The Wheel \(Feat\. Particle Kid\) \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli) | [Spotify Singles](https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu) | 4:17 |
 | 3 | [Always On My Mind](https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Always On My Mind](https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb) | 3:32 |
 | 4 | [Mammas Don't Let Your Babies Grow up to Be Cowboys](https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:32 |
-| 5 | [Whiskey River \(Recorded At Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Spotify Singles](https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7) | 3:54 |
+| 5 | [Whiskey River \(Recorded At Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Spotify Singles](https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7) | 3:54 |
 | 6 | [Highwayman](https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman](https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU) | 3:02 |
 | 7 | [Pancho and Lefty](https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 4:47 |
 | 8 | [Blue Eyes Crying In the Rain](https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Red Headed Stranger](https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM) | 2:18 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KqG68vCjE4.md) - [plain]
 | 35 | [To All the Girls I've Loved Before](https://open.spotify.com/track/0uBwcaTkY1BPpIZhxuhS67) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [1100 Bel Air Place](https://open.spotify.com/album/6DfzQpFxFMI7JXS23ctnWE) | 3:32 |
 | 36 | [Big River](https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman](https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU) | 2:47 |
 
-Snapshot ID: `MCwwODc0MmE2NzRlYzRiOTBjZmVhNDk2ZWE1Yzc2YTI0YmQxNzMyMjg5`
+Snapshot ID: `MCw0ZTRhYzIwYWQwMTNkODNlMmNlODlmNTA2ZGE0N2UwMTQyNmY5NDMz`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-1,049 songs - 2 day 11 hr 3 min
+1,050 songs - 2 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [La Vieja Voladora](https://open.spotify.com/track/6fe2mANFH5swfEZVZUlGsz) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Navidad](https://open.spotify.com/album/27wDLLPOvc1D2uAv4AifKp) | 2:55 | 2021-12-25 | 2023-12-30 |
 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 | 2023-12-29 |  |
 | [La Zona](https://open.spotify.com/track/5kqNIqFjijuzvVLhuY9B8j) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:16 | 2022-02-24 | 2022-05-08 |
+| [LA ÚLTIMA](https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [LA ÚLTIMA](https://open.spotify.com/album/2VZ9rmzFLZbsMMrmrJF8ur) | 2:50 | 2024-02-02 |  |
 | [LADY GAGA](https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:32 | 2023-09-18 | 2024-01-14 |
 | [Lady Mi Amor](https://open.spotify.com/track/30Xh83fw03PZ2Wfm36H4EZ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:27 | 2022-09-15 | 2022-09-18 |
 | [LAGUNA](https://open.spotify.com/track/0JLKzgJT62z3jNWsDt6znJ) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 4:06 | 2023-08-30 | 2023-09-07 |
@@ -558,7 +559,7 @@
 | [Me Gustas](https://open.spotify.com/track/4lgF0pKxpNKbXVNa6TMtJ5) | [Juanfran](https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY), [Leyvan](https://open.spotify.com/artist/2oZRsPM0AxUcyTD8nuCo08) | [Me Gustas](https://open.spotify.com/album/5kpNKMDZBUs7hi3GYXfPiU) | 3:21 | 2022-08-01 | 2022-09-24 |
 | [Me Gustas Natural](https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:50 | 2021-12-05 | 2022-04-30 |
 | [me jodi...](https://open.spotify.com/track/6xntXCix5SxiEtv9zH7pXF) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:21 | 2023-07-01 | 2023-07-03 |
-| [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-05-07 |  |
+| [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-05-07 | 2024-02-03 |
 | [Me Provocas](https://open.spotify.com/track/68qcDbdfUGB62USvtRZTk1) | [BM Legacy](https://open.spotify.com/artist/1ux3jQBNhz3EQwG8qgbb1q), [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F), [Legado ARM](https://open.spotify.com/artist/5GpMQrgxNjUa38cPXLtwbe), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Me Provocas](https://open.spotify.com/album/6DKkazvTdG35jwScQTrYVN) | 2:43 | 2022-09-23 | 2022-10-09 |
 | [ME TENGO QUE IR](https://open.spotify.com/track/1Uvl2i3MlsoqGConBaKi7G) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 4:36 | 2023-08-12 | 2023-08-15 |
 | [Me Vas a Recordar](https://open.spotify.com/track/5oL6fZD5C2Yhw2jiiV2vIW) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN) | [Me Vas a Recordar](https://open.spotify.com/album/5JI9jg1HEOYoKLqBOsU8Pc) | 3:10 | 2022-10-09 | 2022-12-15 |

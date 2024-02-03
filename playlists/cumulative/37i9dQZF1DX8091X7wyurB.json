@@ -283,6 +283,32 @@
     },
     {
       "album": {
+        "name": "Altar (Hosanna)",
+        "url": "https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko"
+      },
+      "artists": [
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172035,
+      "name": "Altar (Hosanna)",
+      "url": "https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU"
+    },
+    {
+      "album": {
         "name": "Amaram Onyewem (Live)",
         "url": "https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP"
       },
@@ -1696,7 +1722,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 355708,
       "name": "Fresh Fire - Live",
       "url": "https://open.spotify.com/track/6W9iuya71aSgxtn0g12SV0"

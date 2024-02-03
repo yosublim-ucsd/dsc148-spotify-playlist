@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Dean Lewis
 
-672 songs - 1 day 10 hr 43 min
+673 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Dramamine](https://open.spotify.com/track/4LkUIkfIw7f3l7eJnOj9OW) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Dramamine](https://open.spotify.com/album/1RgOz8zYC5GKsZEZPjQ0pT) | 2:57 | 2023-10-19 | 2023-12-08 |
 | [Dream Boy](https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Dream Boy](https://open.spotify.com/album/0V7yLI80TezN9BNhpoUPW1) | 3:24 | 2023-10-26 | 2023-11-17 |
 | [Dreaming](https://open.spotify.com/track/4aq3SYTYUlDF1CKBcSnRUq) | [Royston Noell](https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O) | [Dreaming](https://open.spotify.com/album/2wEX9CEEhLpnzIS9rYQ7VQ) | 3:12 | 2023-11-09 | 2023-12-22 |
-| [Dreaming](https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/3uoFn9YXRikta2GkvMXoR7) | 3:28 | 2024-02-01 |  |
+| [Dreaming](https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/3uoFn9YXRikta2GkvMXoR7) | 3:28 | 2024-02-01 | 2024-02-03 |
+| [Dreaming](https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs) | 3:28 | 2024-02-01 |  |
 | [Dreaming \- Acoustic](https://open.spotify.com/track/1GR5q5MvrcAmwpIlJfJzDC) | [Royston Noell](https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O) | [Dreaming \(Acoustic\)](https://open.spotify.com/album/3ptbb1KQTXI7wNTp3anA3a) | 3:09 | 2023-12-21 | 2024-01-12 |
 | [Drink Water \(feat\. Jon Bellion and Fireboy DML\)](https://open.spotify.com/track/5sLEmcvR8qwxE0nh0fqGr1) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Drink Water](https://open.spotify.com/album/6RhREGKAQfzPO5lphsPBMG) | 2:49 | 2023-07-13 | 2023-08-05 |
 | [Drums \(Feat\. Kim Petras\) \- Tiësto Remix](https://open.spotify.com/track/5QZmUKPG3uPU0hwJuHwfGD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drums \(Feat\. Kim Petras\) \[Tiesto Remix\]](https://open.spotify.com/album/44XmkCYKteYUBrSwe6Jvc2) | 2:52 | 2024-01-11 | 2024-01-19 |

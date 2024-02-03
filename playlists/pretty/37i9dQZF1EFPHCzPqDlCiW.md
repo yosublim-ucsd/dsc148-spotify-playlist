@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195 likes - 117 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 197 likes - 117 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 22 | [Handful of Gold \- Hounded Remix](https://open.spotify.com/track/6z9RhyRdakj1A3UFrHMvaY) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Handful of Gold \(feat\. Jones\) \[Remixes II\]](https://open.spotify.com/album/22J3gaeefBAvE29SxCAljW) | 4:10 |
 | 23 | [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 |
 | 24 | [Lose Your Love \(with Matt Maeson\)](https://open.spotify.com/track/1PknqupRJmUOeOj0ghpwLZ) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Alive](https://open.spotify.com/album/5SeY9BQPi8AzEy6fhPEr1v) | 3:31 |
-| 25 | [Greatest Hits](https://open.spotify.com/track/05X87wvljNPBdU0Ix1L5QF) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:17 |
-| 26 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 |
+| 25 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 |
+| 26 | [Greatest Hits](https://open.spotify.com/track/05X87wvljNPBdU0Ix1L5QF) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:17 |
 | 27 | [High Road](https://open.spotify.com/track/10G9kHt4j2G1tsFgc07NCr) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [High Road](https://open.spotify.com/album/7wpI9zhq75r91vvUuBg367) | 2:35 |
 | 28 | [Haze](https://open.spotify.com/track/0zX1W3gdRTVdVe2WrtSnma) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [For a Moment, I Was Lost](https://open.spotify.com/album/3yoCn60EaTwSj9nnIuzFRL) | 1:57 |
 | 29 | [Sober](https://open.spotify.com/track/50q9LhyTypeDoio0yifveS) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Sober](https://open.spotify.com/album/0zuVpWisDhrMnPVRxPYsUd) | 3:14 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 99 | [Better Man](https://open.spotify.com/track/75o9dfDkw3F6hjSujBJQZi) | [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [Better Man](https://open.spotify.com/album/6pFTHq7uBtEGJBjlOx5YDn) | 3:14 |
 | 100 | [Hurricane](https://open.spotify.com/track/1it55uap8fb6m5EudcE0yG) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 3:27 |
 | 101 | [Closure](https://open.spotify.com/track/3Z0uXmisVHmzoiSo49tUFy) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Closure](https://open.spotify.com/album/5zpvrdeJU6NWitQt8b9lhv) | 3:02 |
-| 102 | [Trouble](https://open.spotify.com/track/7zPBtvZpPAOy9fgfdgmyiC) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [We Were Thunder](https://open.spotify.com/album/6jYRzhiEnzVANGGHHJZ1C3) | 3:21 |
-| 103 | [Anyone](https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Anyone](https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7) | 3:21 |
+| 102 | [Anyone](https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Anyone](https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7) | 3:21 |
+| 103 | [Trouble](https://open.spotify.com/track/7zPBtvZpPAOy9fgfdgmyiC) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [We Were Thunder](https://open.spotify.com/album/6jYRzhiEnzVANGGHHJZ1C3) | 3:21 |
 | 104 | [Hearts on Fire](https://open.spotify.com/track/0VfCWPRxguIufZ4KMDrlAr) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 4:00 |
 | 105 | [Raise The Roof \(feat\. Bryn Christopher\)](https://open.spotify.com/track/63fOfmMz3g2xEwc3CbVPhv) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Raise The Roof \(feat\. Bryn Christopher\)](https://open.spotify.com/album/2P6UbvQ5yPsFHspB9CO5mj) | 2:31 |
 | 106 | [Tightrope](https://open.spotify.com/track/3PpqMt1if7lsZQTut0ZTs2) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 3:26 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 116 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 117 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `Mjg0NDczMzAsMDAwMDAwMDA4OWJhMTdjN2ZjZjcyZjlmYTEzNDkzODEyZWEzYzEyNA==`
+Snapshot ID: `Mjg0NDg3NzAsMDAwMDAwMDA2YzA0NzhjZGRjMjBkNzkyNzhiMTljODA3YjQ5NDBmNw==`

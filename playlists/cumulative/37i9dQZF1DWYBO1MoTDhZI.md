@@ -4,7 +4,7 @@
 
 > Just good vibes all day long
 
-753 songs - 1 day 16 hr 42 min
+755 songs - 1 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:02 | 2022-05-11 | 2022-06-28 |
 | [All Damn Day!](https://open.spotify.com/track/54CuNYfGsUsVWIYpkBiPb2) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [All Damn Day!](https://open.spotify.com/album/1DjiwvABujSgFYXyD2IbFy) | 2:48 | 2021-09-25 | 2021-10-04 |
 | [All My Love \(feat\. Olivera\)](https://open.spotify.com/track/4axALpFKrIPxwQRnYJ1Zmc) | [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7), [NOVODOR](https://open.spotify.com/artist/05Jkv3CdlsPA96MC8ZYLhY), [Olivera](https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu) | [All My Love \(feat\. Olivera\)](https://open.spotify.com/album/4p875FDTzVTHQ3PGmxURJU) | 2:53 | 2022-09-30 | 2023-02-04 |
+| [All Night](https://open.spotify.com/track/1fKlRxTs1NSCVLsh7rWu77) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [All Night](https://open.spotify.com/album/5p2IPRuFGABDDrNhVqVQJc) | 2:50 | 2024-02-02 |  |
 | [All Night Long](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [All Night Long](https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7) | 2:58 | 2024-01-19 |  |
 | [All Night Long](https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb) | [Mary Jane Girls](https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr) | [In My House](https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF) | 5:43 | 2022-07-01 | 2022-08-16 |
 | [all the kids are depressed](https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 2:49 | 2019-09-05\* | 2020-05-08 |
@@ -140,6 +141,7 @@
 | [Color my life](https://open.spotify.com/track/6GoK3Rc1CrVycDdV0IanQx) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Color my life](https://open.spotify.com/album/5fl1u8ePapDEGNdyiT9Lk3) | 3:28 | 2020-04-10 | 2020-05-08 |
 | [Come Over](https://open.spotify.com/track/5njS3Dn1ON6ZMkHio4QrvC) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Afro Therapy](https://open.spotify.com/album/6OcYT5SYrGkzEgm9TxZ9LE) | 3:16 | 2023-08-18 | 2023-09-14 |
 | [Come With Me](https://open.spotify.com/track/16frIpnyUb9poRwQxQTmaC) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 3:29 | 2022-01-14 | 2023-08-12 |
+| [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 | 2024-02-02 |  |
 | [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 | 2022-04-08 | 2022-05-28 |
 | [Cool for the Summer](https://open.spotify.com/track/4YieJ8UoB4t4w8Ua0N3nGv) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/5Q2UCYr67vEfrueFndo434) | 3:34 | 2022-05-20 | 2022-08-13 |
 | [cool water](https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [cool water](https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL) | 3:18 | 2022-03-25 | 2022-10-01 |

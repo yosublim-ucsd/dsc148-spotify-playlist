@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-473 songs - 20 hr 16 min
+475 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Barren Lands](https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Barren Lands](https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ) | 2:19 | 2022-03-01 |  |
 | [Bastione](https://open.spotify.com/track/3nMBQwUV1g1pkWxEz4kb2b) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Bastione](https://open.spotify.com/album/6Ayd2MMYR6CCAMSt10tiU3) | 2:37 | 2023-08-21 |  |
 | [Beautiful day](https://open.spotify.com/track/7tvFtyI2LhuDAWWJA4mVqr) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Beautiful day](https://open.spotify.com/album/0RlsiytRwYEp3gu4R7AgzN) | 3:02 | 2023-08-07 |  |
-| [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2021-12-07 |  |
+| [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2021-12-07 | 2024-02-03 |
 | [Belonging](https://open.spotify.com/track/6RQo40Vh1f5NCn14I04Kpp) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Belonging](https://open.spotify.com/album/4xFCnNBnu0rDejXyJa6P89) | 3:38 | 2022-06-07 | 2023-03-15 |
 | [Beneath the Waves](https://open.spotify.com/track/16HrDFed6T82sUdFy0S14W) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Beneath the Waves](https://open.spotify.com/album/6bCloCt5prFJNtHzfYWOQ1) | 3:10 | 2022-04-21 |  |
 | [Blund](https://open.spotify.com/track/0duYOyKFVmUrJpDhmKaIyW) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Blund](https://open.spotify.com/album/5v1lS8JfFsyrxPCbTbVchK) | 2:46 | 2021-12-07 | 2023-10-05 |
@@ -86,6 +86,7 @@
 | [campfire](https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [campfire](https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9) | 3:06 | 2023-07-25 |  |
 | [Cascada](https://open.spotify.com/track/7dMT5XlXtLoFkUBzJapLUr) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Cascada](https://open.spotify.com/album/7IQlp6U0qYQuaYZqgD96Z0) | 3:09 | 2022-11-18 |  |
 | [Cascade](https://open.spotify.com/track/17kS1C8S66paes4e3YNYsb) | [Bear Paige](https://open.spotify.com/artist/58QsixPAQcOShUMHUhDb4o) | [Cascade](https://open.spotify.com/album/2X3dNuKEQxi29u22VtL2gj) | 2:16 | 2021-12-07 | 2023-01-27 |
+| [Cascading Lights](https://open.spotify.com/track/2L8yyBhhZnwBPNwxEois4G) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Cascading Lights](https://open.spotify.com/album/5hMqxgIDgagQTtQ1KsGu5Y) | 2:46 | 2024-02-02 |  |
 | [Change](https://open.spotify.com/track/0qfaICSE5qhRYHcetUqtbv) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Change](https://open.spotify.com/album/7tLi6HytSTQ65bozthbybW) | 3:01 | 2021-12-07 | 2022-05-28 |
 | [Charcoaled Walls](https://open.spotify.com/track/0XWMf2z7iX2p8E5kNNRzX3) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [Charcoaled Walls](https://open.spotify.com/album/6wxHC0jzaRgpbscPfafecz) | 2:04 | 2023-07-18 |  |
 | [Chasing lights](https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm) | [Giles Garnier](https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg) | [Chasing lights](https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX) | 2:14 | 2023-03-06 |  |
@@ -107,7 +108,7 @@
 | [Darkness of days](https://open.spotify.com/track/7Jo0X730aLdGcB9rgkSOgl) | [Jens Larsson](https://open.spotify.com/artist/35Qsb23bqJr3tzyA7GICWT) | [Darkness of days](https://open.spotify.com/album/0Rub3dRIWJgHeyfDRn6R5J) | 3:10 | 2022-10-14 |  |
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-01-04 |  |
 | [Delphine](https://open.spotify.com/track/2HkjTkR8KB5CKa2UyrUMHf) | [Mounia Sedé](https://open.spotify.com/artist/2nlEm4eSFbBlIJqDfscH3M) | [Delphine](https://open.spotify.com/album/0Pt37U6BBbLg7PCvhcDT5y) | 2:22 | 2021-12-07 | 2022-05-21 |
-| [Der Vogel auf dem Felsen](https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 2:20 | 2021-12-07 |  |
+| [Der Vogel auf dem Felsen](https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 2:20 | 2021-12-07 | 2024-02-03 |
 | [Distances](https://open.spotify.com/track/3MJkEsmJfxO7JiOJjlEm8Z) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Distances](https://open.spotify.com/album/4zNCQM0oFO5KezvbLVlOZC) | 3:46 | 2022-06-07 | 2023-10-05 |
 | [Dominoes](https://open.spotify.com/track/5Lgp1kr0fG9sPe6ZlJKe04) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [Dominoes](https://open.spotify.com/album/4LYivEUNJfK93jCMNdGJ4X) | 2:27 | 2022-01-04 |  |
 | [Dorian](https://open.spotify.com/track/1DWg10tzVICdCpZoIdZ9qB) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Dorian](https://open.spotify.com/album/1Qj8ncSQoA4fHK1HFdmVCx) | 1:52 | 2022-11-18 | 2023-07-26 |
@@ -376,6 +377,7 @@
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2021-12-07 | 2023-10-05 |
 | [Seven Hills Of Rome](https://open.spotify.com/track/0SQETkWleYzqYASQ2WPxxZ) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Seven Hills Of Rome](https://open.spotify.com/album/3icvnYlI3k19fxoAicmtgD) | 2:25 | 2021-12-07 | 2022-03-02 |
 | [silbermond](https://open.spotify.com/track/1sWI71ajS4mERuwG2k5vvD) | [Flavia Cortez](https://open.spotify.com/artist/4wMoov0OVG8UOIR6tPnvnV) | [Sunflower Field](https://open.spotify.com/album/2WcreYeMZTha6QjVopTaBo) | 2:49 | 2021-12-07 | 2023-01-27 |
+| [Silent Waltz](https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys) | [Alix Claude](https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD) | [Silent Waltz](https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg) | 2:42 | 2024-02-02 |  |
 | [Simpler Times](https://open.spotify.com/track/5KDRSRRS88uL8RUDXYPZ0r) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Simpler Times](https://open.spotify.com/album/2mGe8l7Z7w3t6d0488EJnn) | 2:21 | 2021-12-07 | 2022-09-18 |
 | [Simpler Times](https://open.spotify.com/track/6RTgk5dsupZSeji1jh4zyB) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Piano Music](https://open.spotify.com/album/01vBc9RVqwgUpsgI8qRWhY) | 2:21 | 2022-08-09 | 2023-10-05 |
 | [Sinkadus](https://open.spotify.com/track/0dLptfXupd4zsgppQgrvVO) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Sinkadus](https://open.spotify.com/album/54JglKkD4WG2OzwhmXUv9M) | 2:32 | 2021-12-07 | 2023-01-27 |

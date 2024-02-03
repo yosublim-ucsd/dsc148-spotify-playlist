@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-620 songs - 1 day 10 hr 54 min
+621 songs - 1 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [First Time](https://open.spotify.com/track/4L4lClgi5m2Itz6Fgt750F) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [First Time](https://open.spotify.com/album/3brTW6AYnC94Uafukxvhcu) | 2:26 | 2021-07-10 | 2021-10-02 |
 | [Flicker](https://open.spotify.com/track/5GynUhuFgbs1GBwIjzRr8U) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Flicker](https://open.spotify.com/album/2Dnl22XDB6TpawpGUE2eCE) | 3:17 | 2023-03-24 | 2023-05-06 |
 | [Follow My Girl](https://open.spotify.com/track/0lCfUyNC5NAsfILnKEVj23) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 4:04 | 2020-10-13\* | 2021-07-04 |
-| [Follow the Cyborg](https://open.spotify.com/track/1HOWyFATPgYbCBMdKM1A66) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1OQ0lvy9RPGBRJH1i8DJes) | 4:45 | 2023-09-23 |  |
+| [Follow the Cyborg](https://open.spotify.com/track/1HOWyFATPgYbCBMdKM1A66) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1OQ0lvy9RPGBRJH1i8DJes) | 4:45 | 2023-09-23 | 2024-02-03 |
 | [For My Friends](https://open.spotify.com/track/3yMbQSMN738HPm5gSRwUPq) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Change the Locks](https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep) | 3:35 | 2022-07-21 | 2022-08-01 |
 | [For My Friends](https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:35 | 2022-07-31 | 2023-07-26 |
 | [For My Friends](https://open.spotify.com/track/6vs83ufnw4IVbotV0qv6C8) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [For My Friends](https://open.spotify.com/album/7hfIFmFhdPoLzeeDGPaYAw) | 3:35 | 2022-03-18 | 2022-07-29 |
@@ -342,6 +342,7 @@
 | [Little Idiot](https://open.spotify.com/track/6W9k26vOGte8OWV5Aewghg) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Little Idiot](https://open.spotify.com/album/526U6qGZw3OurkTCzxBBNi) | 2:49 | 2021-10-23 | 2022-04-17 |
 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 | 2023-01-27 | 2023-07-08 |
 | [Lola](https://open.spotify.com/track/5VDmaEUjH0SGBDDjYgoxHW) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Lola](https://open.spotify.com/album/5U2Q1Z8FtcW5UPXKLK5753) | 2:41 | 2022-04-08 | 2022-07-12 |
+| [Loneliness \- radio edit](https://open.spotify.com/track/7ejlbv0Nt4JZk6rebfUky9) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Loneliness](https://open.spotify.com/album/0Lxcnu23IVYAYTUw5oHkeY) | 3:17 | 2024-02-02 |  |
 | [Lonely City](https://open.spotify.com/track/2r7gAghIWiDqpZE6t4ah0K) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Lonely City](https://open.spotify.com/album/4lqzfpAcP353PitY2PAH0M) | 2:37 | 2021-10-09 | 2022-04-17 |
 | [Lose Yourself](https://open.spotify.com/track/50BCSiudZXPTLHWkQzulII) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Lose Yourself](https://open.spotify.com/album/31uaGLLLoSZcNLRjFviWfk) | 3:16 | 2022-04-29 | 2024-01-20 |
 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 | 2022-03-25 |  |

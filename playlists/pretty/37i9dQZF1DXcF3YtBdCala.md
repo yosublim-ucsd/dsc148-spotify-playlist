@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 
 > Jóvenes y renovadas expresiones de la bella tradición mexicana\. Adrián Barraza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,221 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,207 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 31 | [Un Poco de Amor](https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Un Poco de Amor](https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O) | 2:51 |
 | 32 | [Aquí Lo Siento](https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:41 |
 | 33 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 |
-| 34 | [En Mis Zapatos](https://open.spotify.com/track/0qyuualuo4GnERGgnBlxr3) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Pa' Olvidar](https://open.spotify.com/album/3N7u4XnJEIkr0Os15iYdj0) | 2:45 |
-| 35 | [Pobre Corazón](https://open.spotify.com/track/1uzkk0F8vFqu6RaKZ2dNqA) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Pobre Corazón](https://open.spotify.com/album/6VcNthQXZE5e8dMP44NpIw) | 3:18 |
+| 34 | [Pobre Corazón](https://open.spotify.com/track/1uzkk0F8vFqu6RaKZ2dNqA) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Pobre Corazón](https://open.spotify.com/album/6VcNthQXZE5e8dMP44NpIw) | 3:18 |
+| 35 | [En Mis Zapatos](https://open.spotify.com/track/0qyuualuo4GnERGgnBlxr3) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Pa' Olvidar](https://open.spotify.com/album/3N7u4XnJEIkr0Os15iYdj0) | 2:45 |
 | 36 | [Peca de Bonita](https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Peca de Bonita](https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW) | 2:27 |
 | 37 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 |
 | 38 | [El Pobre](https://open.spotify.com/track/70JWpuu0bC42tp0YTkHYpx) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [El Pobre](https://open.spotify.com/album/2o0YZTT6meWJQanPuE9Leo) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 99 | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE) | 2:58 |
 | 100 | [El que Quiero que Me Quiera](https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Asi Suena con Tequila](https://open.spotify.com/album/6wQ8UntXURhCMqbXqdPKEW) | 2:44 |
 
-Snapshot ID: `MCxiMTlmYmIxZDg3MGJlNWJkZGRjZjM1ZjJiNjMyMThlN2RhYjU1ZDUx`
+Snapshot ID: `MCwyODIyZjFlN2VmMTM5MGFjZGU4ZWE0ZTM2OWNhY2M2ZTNkZDg4OGNj`

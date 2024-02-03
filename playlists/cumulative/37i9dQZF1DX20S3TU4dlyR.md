@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Nonpalidece.
 
-232 songs - 15 hr 26 min
+233 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [MYA LIVE P3: Qué Pasará](https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [MYA LIVE P3: Qué Pasará](https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E) | 3:33 | 2023-07-21 |  |
 | [Más Libre](https://open.spotify.com/track/20HhIBf0Gd4U7KhOr2dcC4) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0) | [Más Libre](https://open.spotify.com/album/2THc86woJAYYpM1yTlD9yK) | 3:22 | 2022-05-06 | 2022-07-25 |
 | [Más Libre](https://open.spotify.com/track/5v69zCbt88Xy2Td6i2m1vw) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0), [Luis Alfa](https://open.spotify.com/artist/5eBjZZzNvOtwyiVUKVJoux) | [Alta Lucha](https://open.spotify.com/album/45hcHSFFSVgAZ0s9noV87v) | 3:22 | 2022-07-01 |  |
-| [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 | 2022-05-06 |  |
+| [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 | 2022-05-06 | 2024-02-03 |
 | [Nadie Sabe](https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Guillermo Bonetto](https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L) | [Que Bonita Vecindad](https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh) | 3:43 | 2022-12-23 |  |
 | [Naufrago](https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:57 | 2022-05-06 |  |
 | [Nena](https://open.spotify.com/track/5NSEK3BVC2yhk7M4TsXNgw) | [Seraqueda!](https://open.spotify.com/artist/1BIsnjnNAlNgB8geDbo6He) | [Nena](https://open.spotify.com/album/4pXGaS8iHjleykeUIbbkgy) | 2:57 | 2022-07-01 | 2022-07-06 |
@@ -239,6 +239,7 @@
 | [We Are The Lions \- Spanish Version](https://open.spotify.com/track/0CBqh4H4lijAh735YZSLrs) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Mykal Rose](https://open.spotify.com/artist/5wdQ2IkL8WASlcyt0x2s8Q) | [We Are The Lions \(Spanish Version\)](https://open.spotify.com/album/4lgyajkXKpS1LKWqmDxMBd) | 3:31 | 2022-05-06 | 2022-07-26 |
 | [Where We Are Still](https://open.spotify.com/track/676l36XE27E4DxvrCKZbJn) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Humberto Schenone](https://open.spotify.com/artist/7pLz9MlCt36ETTrGabX3Jf), [Baltazar Avila](https://open.spotify.com/artist/2idrqGAAzysAp3nrSs9wDh), [Gonzalo "Chalo" Parma](https://open.spotify.com/artist/1OzIOab1v0HAwcy3bSjCB1), [Mariano Goldenstein](https://open.spotify.com/artist/7Jz9b9l6UlZHwnqq7NZ4cT) | [Stay Rude! \(Deluxe Edition\)](https://open.spotify.com/album/068Pf0ihfr8BsRskccV0FQ) | 4:22 | 2022-05-06 | 2022-07-11 |
 | [You're No Good](https://open.spotify.com/track/4efrw9K0xBX3fdYOJ0u2cx) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Los Aggrotones](https://open.spotify.com/artist/6A2Us7Q6b6rVnUATaqjUv6) | [Stormy, 60's Soul Tunes Inna Reggae Style](https://open.spotify.com/album/6UdUhACZTRwwLynS78hXwF) | 3:18 | 2022-05-06 | 2022-07-17 |
+| [¿QMH?](https://open.spotify.com/track/1oC1UuwAokzHio2IEFTfRP) | [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL), [n.a.n.o](https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm) | [¿QMH?](https://open.spotify.com/album/0BRoR8Gmw9rtBWE7BhGYT3) | 3:33 | 2024-01-11 |  |
 | [Ángel Del Pasado](https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Ángel Del Pasado](https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo) | 4:06 | 2022-05-06 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

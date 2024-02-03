@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "Botellas",
+        "url": "https://open.spotify.com/album/3SKmGzOOnHEVVk0Z9sX8W8"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222269,
+      "name": "Botellas",
+      "url": "https://open.spotify.com/track/46dlt0HuKR9LR0FdRouvll"
+    },
+    {
+      "album": {
         "name": "BOY TOY",
         "url": "https://open.spotify.com/album/7m0EBWf9PUkwYR4LP9fGdQ"
       },
@@ -2592,6 +2610,24 @@
       "duration_ms": 197647,
       "name": "Esa Nena",
       "url": "https://open.spotify.com/track/2uvoAHdthe0bSCD0qIRBta"
+    },
+    {
+      "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170089,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
     },
     {
       "album": {

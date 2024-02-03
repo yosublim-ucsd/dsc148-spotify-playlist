@@ -4,7 +4,7 @@
 
 > Abajo y a la izquierda.
 
-244 songs - 15 hr 20 min
+245 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Bocadito](https://open.spotify.com/track/65RtPQhhs5tHO41skjySmV) | [Cadereira](https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO) | [Bocadito](https://open.spotify.com/album/0SqDdPzU0ZW9RBLUSNiXZi) | 2:59 | 2023-01-02 | 2023-05-13 |
 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 | 2021-10-16 | 2022-07-27 |
 | [Brindo](https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn) | 3:18 | 2022-08-19 | 2022-09-27 |
-| [Buscarte en el Tiempo](https://open.spotify.com/track/6bQwL5XYogjLGbMlbHcWx2) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Buscarte en el Tiempo](https://open.spotify.com/album/2Gb7Ntf6xZjy2l0uN5DgS3) | 4:11 | 2023-09-24 |  |
+| [Buscarte en el Tiempo](https://open.spotify.com/track/6bQwL5XYogjLGbMlbHcWx2) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Buscarte en el Tiempo](https://open.spotify.com/album/2Gb7Ntf6xZjy2l0uN5DgS3) | 4:11 | 2023-09-24 | 2024-02-03 |
 | [Café](https://open.spotify.com/track/0J56BoNc7pCnE68bAt7ycz) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ismael Quintana](https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq) | [Echando pa'lante](https://open.spotify.com/album/3vA5NsIAd6UKzU4f1ooAzr) | 6:32 | 2021-10-16 | 2022-09-13 |
 | [Café Conmigo](https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Café Conmigo](https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5) | 2:56 | 2022-04-29 | 2022-07-26 |
 | [Caguamita Banquetera](https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Caguamita Banquetera](https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG) | 2:35 | 2022-09-03 | 2022-10-29 |
@@ -208,6 +208,7 @@
 | [Semilla de Laurel](https://open.spotify.com/track/2CfWc68OcLYunEOLTpX0OS) | [Eli Moya](https://open.spotify.com/artist/6ikKwotJHytevUmECzLhww), [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Semilla de Laurel](https://open.spotify.com/album/3x1sFQ58wDd7t0Pa8abeZ9) | 4:05 | 2022-09-12 | 2022-10-29 |
 | [Si Me Matan](https://open.spotify.com/track/5L9OruCuqnA9PGGh1VkXcm) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx) | 4:10 | 2022-09-26 | 2022-10-29 |
 | [Si Supieras](https://open.spotify.com/track/7n3UQcMAUm8wFdAWz1RrHo) | [Chalanes del Amor](https://open.spotify.com/artist/1bRwLJQkhtCpWz5YHxPCJK) | [Ritmos de Acercamiento](https://open.spotify.com/album/5uUkISvym9YcOcYl3cQ0IS) | 4:06 | 2021-10-16 | 2022-07-24 |
+| [Siente el Corazón](https://open.spotify.com/track/2mknKLq6guQHbtOu2b8ClK) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Satia](https://open.spotify.com/artist/3SQE53weeDWPLpN79wUrwy) | [Siente el Corazón](https://open.spotify.com/album/1OJPadSvU1rtEzrYnZO9sP) | 4:06 | 2024-02-02 |  |
 | [Silbad el Calipso](https://open.spotify.com/track/2DGQV7LsGjDOvIY3FV7Ff1) | [Axel Krygier](https://open.spotify.com/artist/5wwTGwXSRQJ1te7xnwFtEF) | [Echale Semilla](https://open.spotify.com/album/1nar2io4BaeUwWxyfJb1Zl) | 3:28 | 2021-10-16 | 2022-07-28 |
 | [Silencio](https://open.spotify.com/track/7fEJ3BTR7OsNVeTylr3NsL) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI) | 4:38 | 2021-10-16 |  |
 | [Silencio](https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU) | 4:38 | 2021-10-16 | 2023-11-11 |

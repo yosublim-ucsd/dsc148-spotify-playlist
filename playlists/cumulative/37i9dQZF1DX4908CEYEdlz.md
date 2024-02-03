@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: The Killers
 
-321 songs - 19 hr 38 min
+322 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Nowhere Generation](https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI) | 3:52 | 2022-01-14 | 2023-05-06 |
 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 | 2022-08-26 |  |
 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 | 2022-01-14 | 2022-04-09 |
+| [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 | 2024-02-02 |  |
 | [One + One](https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [One + One](https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt) | 3:46 | 2022-01-14 | 2022-06-11 |
 | [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 | 2024-01-05 |  |
 | [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 | 2023-09-22 | 2023-12-02 |
@@ -253,7 +254,7 @@
 | [Surrender](https://open.spotify.com/track/4YW8jIwpuIqYvNEOiqxAb5) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven in Hiding](https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ) | 3:41 | 2022-01-14 | 2022-02-05 |
 | [Swerve \(feat\. FEVER 333 & Sueco\)](https://open.spotify.com/track/6sqMWTs2o6ixteLAhQOTSC) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Swerve \(feat\. FEVER 333 & Sueco\)](https://open.spotify.com/album/6rLcLYKvxCCqp78ZYXXXMy) | 2:48 | 2022-01-14 | 2023-02-11 |
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 | 2022-01-14 | 2022-02-05 |
-| [Take the Ride](https://open.spotify.com/track/2jCiOgOBe4U3OCk3OQXGVC) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:58 | 2023-04-07 |  |
+| [Take the Ride](https://open.spotify.com/track/2jCiOgOBe4U3OCk3OQXGVC) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:58 | 2023-04-07 | 2024-02-03 |
 | [Take the Ride](https://open.spotify.com/track/6929TXMgqgRo8l9Qvlg5HW) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Take the Ride](https://open.spotify.com/album/2pULFuX837q71HjiBOLLXX) | 2:58 | 2022-11-25 | 2023-04-14 |
 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 | 2022-09-02 |  |
 | [Take What You Want](https://open.spotify.com/track/4OYMEAquAbr1EWDtp5kx1x) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Take What You Want](https://open.spotify.com/album/1pu9cD6Qa8PVQGiz52ZRQ5) | 4:14 | 2022-04-22 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 > เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: D Gerrard
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,378 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,613 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,16 +14,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 4 | [วันนี้ปีที่แล้ว](https://open.spotify.com/track/4bnxMt1viexb85sAtVz1dA) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [วันนี้ปีที่แล้ว \- Single](https://open.spotify.com/album/6gI2LOnO76dKJ97awecXIx) | 3:53 |
 | 5 | [จดจำ](https://open.spotify.com/track/2CjNvED1BSLPG1jYENA0QS) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [จดจำ \- Single](https://open.spotify.com/album/60XMexQBFQjM99UfV0QdoR) | 5:34 |
 | 6 | [ดาวหางฮัลเลย์](https://open.spotify.com/track/56wDFSIa9Tr7zbEXUVMwjP) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ดาวหางฮัลเลย์](https://open.spotify.com/album/3ZqqQUWMeZasXiZhu7L1Zl) | 3:44 |
-| 7 | [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 |
-| 8 | [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 |
-| 9 | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/album/69ybwJj0gIujut2fiIMQLY) | 3:06 |
-| 10 | [ฟ้ารักพ่อ \(DILF\)](https://open.spotify.com/track/45eQSbdATZGC5lowyWUbfH) | [BADMIXY](https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1), [ยุ้ย ญาติเยอะ](https://open.spotify.com/artist/4abxoWkXUq5R49gYTvAeLz) | [BAD STORY](https://open.spotify.com/album/2PQ53PXkBduUnWQWG26vYe) | 4:01 |
-| 11 | [วาสนาผู้ใด](https://open.spotify.com/track/1atD9QMSoZjgKiUKKopZBW) | [Parkmalody](https://open.spotify.com/artist/6qb55pF0q2KS3v4M1Vd0yE) | [วาสนาผู้ใด](https://open.spotify.com/album/3pcJIZiaDMxH8hvTig1v99) | 3:15 |
-| 12 | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV) | 4:13 |
-| 13 | [อิจฉา](https://open.spotify.com/track/5SP4XIuwGjbA5xTEkTQq7E) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [อิจฉา \- Single](https://open.spotify.com/album/01dsnQ9UyqGzZ4FtoZvXtQ) | 3:35 |
-| 14 | [Goodbye](https://open.spotify.com/track/2kpVbauiG7Tcue6kZPKYNG) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Goodbye](https://open.spotify.com/album/4yOyrokpt9SeI9icULlYCB) | 4:04 |
-| 15 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 |
-| 16 | [ยอม \(White Flag\)](https://open.spotify.com/track/1VfxBuhaRC8rnE4VAPQ4Qk) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [All My Purple Feelings](https://open.spotify.com/album/697YQLmLHyLPeO73NGvVqs) | 3:31 |
+| 7 | [ยอม \(White Flag\)](https://open.spotify.com/track/1VfxBuhaRC8rnE4VAPQ4Qk) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [All My Purple Feelings](https://open.spotify.com/album/697YQLmLHyLPeO73NGvVqs) | 3:31 |
+| 8 | [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 |
+| 9 | [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 |
+| 10 | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/album/69ybwJj0gIujut2fiIMQLY) | 3:06 |
+| 11 | [ฟ้ารักพ่อ \(DILF\)](https://open.spotify.com/track/45eQSbdATZGC5lowyWUbfH) | [BADMIXY](https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1), [ยุ้ย ญาติเยอะ](https://open.spotify.com/artist/4abxoWkXUq5R49gYTvAeLz) | [BAD STORY](https://open.spotify.com/album/2PQ53PXkBduUnWQWG26vYe) | 4:01 |
+| 12 | [วาสนาผู้ใด](https://open.spotify.com/track/1atD9QMSoZjgKiUKKopZBW) | [Parkmalody](https://open.spotify.com/artist/6qb55pF0q2KS3v4M1Vd0yE) | [วาสนาผู้ใด](https://open.spotify.com/album/3pcJIZiaDMxH8hvTig1v99) | 3:15 |
+| 13 | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV) | 4:13 |
+| 14 | [อิจฉา](https://open.spotify.com/track/5SP4XIuwGjbA5xTEkTQq7E) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [อิจฉา \- Single](https://open.spotify.com/album/01dsnQ9UyqGzZ4FtoZvXtQ) | 3:35 |
+| 15 | [Goodbye](https://open.spotify.com/track/2kpVbauiG7Tcue6kZPKYNG) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Goodbye](https://open.spotify.com/album/4yOyrokpt9SeI9icULlYCB) | 4:04 |
+| 16 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 |
 | 17 | [กำแพงหัวใจ](https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [กำแพงหัวใจ](https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT) | 4:37 |
 | 18 | [ขาด \(Without me\)](https://open.spotify.com/track/0gfaovbqUD9axcb1O2eNha) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl) | [ขาด \(Without me\)](https://open.spotify.com/album/4iIfTRJHHBOj0oUkRA62Rs) | 3:38 |
 | 19 | [พิจารณา \(Consider\)](https://open.spotify.com/track/3XCoEJvCYqTbM8bhples8N) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9), [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M) | [พิจารณา \(Consider\)](https://open.spotify.com/album/00lYeU7gtlokOZDkt15QPR) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 49 | [หากจะเพียงขอ\(Sincare\)](https://open.spotify.com/track/3v5g7khNHS9726iyuI1iUs) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [หากจะเพียงขอ\(Sincare\)](https://open.spotify.com/album/4UmeizyaQt3UMctskcADjF) | 5:17 |
 | 50 | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/album/1iNdy5mlsxdjbXgbMg1c8W) | 4:37 |
 
-Snapshot ID: `MCxkMzMzNTQxZjU5NDJjNGY4Mjc2OGU4OTcxZGVjMzRhMzE1NGI1YzAz`
+Snapshot ID: `MCxlZGM3MjllMWEyN2VlMjE0MGEyNTAwODAwMjc1ZWI3MWI5MmM0YjM5`

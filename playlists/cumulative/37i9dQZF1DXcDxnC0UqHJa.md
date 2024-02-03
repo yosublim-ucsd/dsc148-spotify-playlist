@@ -2,9 +2,9 @@
 
 ### [Folksy Covers](https://open.spotify.com/playlist/37i9dQZF1DXcDxnC0UqHJa)
 
-> Folksy takes on your favorite tracks\. Cover: Rufus Wainwright
+> Folksy takes on your favorite tracks\. Cover: Norah Jones & Remi Wolf
 
-271 songs - 17 hr 22 min
+272 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [By Your Side](https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [By Your Side / Landslide](https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42) | 4:26 | 2021-12-13 | 2023-03-13 |
 | [Cattle Call](https://open.spotify.com/track/2KPALH8c8yYs4jPV55SN6o) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp) | [The Majestic Silver Strings](https://open.spotify.com/album/2GTCs1hvMJNCUfKQOZ2aoo) | 4:11 | 2021-12-13 | 2022-09-10 |
 | [Caves](https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Caves](https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc) | 2:59 | 2021-12-13 |  |
+| [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 | 2024-02-02 |  |
 | [Cheers](https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Cheers](https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb) | 4:06 | 2021-12-13 | 2023-09-22 |
 | [Cigarette Machine](https://open.spotify.com/track/3rtyOYyrqqCs5OWDgr2SzM) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Cigarette Machine](https://open.spotify.com/album/6XDLIwOzCSTRuXUc677yA4) | 3:24 | 2023-09-08 | 2023-10-13 |
 | [Clay Pigeons](https://open.spotify.com/track/0sOv30WGok8ZQXhG6wMSB0) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6), [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Clay Pigeons](https://open.spotify.com/album/01m8HkHZ0qgJRm16z6SVPs) | 5:04 | 2021-12-13 | 2022-07-29 |
@@ -202,7 +203,7 @@
 | [S.O.B.](https://open.spotify.com/track/5ZW8LRIJEnMf0cQATcjSxG) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [S.O.B.](https://open.spotify.com/album/0sK1mQtDiJ5MxejtsHGVOa) | 3:24 | 2021-12-13 | 2022-07-24 |
 | [Salt And The Sea](https://open.spotify.com/track/1JWtd8xh4Q5dyvnpBKh8L0) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Salt And The Sea](https://open.spotify.com/album/6GVE4CFlrukN6Od0AnWL0c) | 4:22 | 2021-12-13 |  |
 | [Shotgun Willie](https://open.spotify.com/track/5eFPPAsdBF57JnZIQw92K3) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Shotgun Willie](https://open.spotify.com/album/7oYeYzP4kGMUxJJwqCNylk) | 2:35 | 2023-02-17 | 2023-04-28 |
-| [Simple Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 2:18 | 2021-12-13 |  |
+| [Simple Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 2:18 | 2021-12-13 | 2024-02-03 |
 | [Skinny Love \(Country Version\)](https://open.spotify.com/track/7gUDLbl3co7AL5oo4xPYu9) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Skinny Love \(Country Version\)](https://open.spotify.com/album/6RSaaIs4oHwZuA5wh9muvC) | 2:38 | 2023-01-27 | 2023-04-14 |
 | [Sledgehammer](https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [So Low](https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y) | 4:24 | 2021-12-13 | 2023-12-18 |
 | [Slow Burn](https://open.spotify.com/track/7wxpR27OE3OlkTWVjTlLIR) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Kacey Musgraves](https://open.spotify.com/album/5V2Gr572p76K873Hm20xFl) | 3:37 | 2021-12-13 | 2022-07-29 |

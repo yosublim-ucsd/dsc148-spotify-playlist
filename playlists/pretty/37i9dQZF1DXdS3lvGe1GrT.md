@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Sarah Julia \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,228 likes - 101 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,348 likes - 101 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 4 | [Anytime](https://open.spotify.com/track/52yPZ3t6X2ZbY8m818Roxe) | [Cameron Sonnier](https://open.spotify.com/artist/2pTieEpWjwvRiaR3ZI9sDw) | [Anytime](https://open.spotify.com/album/21uNaBlOGtnuuZT219MsY7) | 4:52 |
 | 5 | [Stones & Waves](https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y) | [Elias Hix](https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV) | [Stones & Waves](https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ) | 3:10 |
 | 6 | [Corduroy](https://open.spotify.com/track/2qwMUXVtNkvvtyR0QVVuGg) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Corduroy](https://open.spotify.com/album/499Z1f8EJDdAsABRtIEigH) | 3:15 |
-| 7 | [On A Grassy Knoll \(We'll Bow Together\)](https://open.spotify.com/track/2w7ytZGD2i3xHXFpy5sJye) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [The Pilgrim, Their God and the King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 4:19 |
+| 7 | [On A Grassy Knoll \(We'll Bow Together\)](https://open.spotify.com/track/2w7ytZGD2i3xHXFpy5sJye) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [The Pilgrim, Their God and The King of My Decrepit Mountain](https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb) | 4:19 |
 | 8 | [Possibly Alaska](https://open.spotify.com/track/19bsT8H336P233OI5XF4Do) | [Maddison Krebs](https://open.spotify.com/artist/1c2r71uOTJ3QDVdd5oZIKF) | [Possibly Alaska](https://open.spotify.com/album/49wcI9B6Iarko0kcdyJC4B) | 4:15 |
 | 9 | [The Ghost](https://open.spotify.com/track/3xdtzvDUIhWYbkb15SbKsc) | [Ella Tobin](https://open.spotify.com/artist/1hdEBuPH4q1u687ZLNF1eb) | [The Ghost](https://open.spotify.com/album/2SBH48KmA57UY44dBQXxAG) | 3:37 |
 | 10 | [Rotting Fruit](https://open.spotify.com/track/0deJ2a71D181hZ6g0x0Rsq) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Rotting Fruit](https://open.spotify.com/album/3xLm8dLpODMvSij3KZngfc) | 3:50 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 100 | [HRE](https://open.spotify.com/track/6SNcR6J5f6YGyfeJ74twKm) | [Julian Spector](https://open.spotify.com/artist/0Cd6wbzFm53orgr0tNXNXC) | [HRE](https://open.spotify.com/album/040UB5WeZJnUW3B1JQtrtJ) | 2:51 |
 | 101 | [Camping in Canada](https://open.spotify.com/track/1xQ8CMtomK5r8KpqfzvFRi) | [Yuat](https://open.spotify.com/artist/41ImyihZPU5MUeIZWnNIdh) | [Camping in Canada](https://open.spotify.com/album/5x3avDyigV5CxMsycG4cyg) | 2:45 |
 
-Snapshot ID: `MCw3OGEyNTU1ZjNkZWUyMTY3ZmRlNTU0NTE2OWRiNDg4OTM2ODMwNTgx`
+Snapshot ID: `MCw1ZDA3NjgwM2JkMTI1YWMwYzcyMWFkZGRhZGJmZTEzNTA5MzM1YzY1`

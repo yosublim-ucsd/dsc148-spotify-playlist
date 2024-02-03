@@ -4,7 +4,7 @@
 
 > The biggest Japanese rock hits right now\.  Cover: SUPER BEAVER　日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-1,253 songs - 3 day 6 hr 34 min
+1,254 songs - 3 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [Rest in Punk](https://open.spotify.com/track/45fdY5d6sQWanxK8VH1LzA) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 2:32 | 2023-10-31 | 2023-11-29 |
 | [Rest In Punk](https://open.spotify.com/track/5bHgEvzoyK9OAVtQhGWLMJ) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest In Punk](https://open.spotify.com/album/7n7WePqrUPA7JcC7XY9lY4) | 2:32 | 2023-10-31 | 2023-11-02 |
 | [Re方程式](https://open.spotify.com/track/5gMvuRZRAtYxsYBs5lRDMH) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [Re方程式](https://open.spotify.com/album/26zVnYZBcPIBYDXv2Id7w7) | 4:12 | 2023-10-19 |  |
+| [rhythm 64](https://open.spotify.com/track/4KWMnXGQ4wCiDU1vP8uGVb) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [rhythm 64](https://open.spotify.com/album/0dqofszfjI1qN76jWqFiyp) | 4:28 | 2024-02-01 |  |
 | [RIDE TOUGH!](https://open.spotify.com/track/4qxKHtMonriSKpEgwRUG1V) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/15ilf9j2ihJbr2JXW3lMkW) | 2:06 | 2023-04-04 | 2023-04-06 |
 | [RIDE TOUGH!](https://open.spotify.com/track/6LCz9LsnSyO9AFbquwLxO3) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [RIDE TOUGH!](https://open.spotify.com/album/6es5vAYj4JJpyMucQiBNNn) | 2:06 | 2023-04-04 | 2023-05-10 |
 | [Riku no Koto](https://open.spotify.com/track/3q5CCDdQvlw4Ic4jGDdaC3) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [Riku no Koto](https://open.spotify.com/album/3OF9JhkMb9lkKNB9gW9jAn) | 3:03 | 2023-01-13 | 2023-01-18 |
@@ -953,7 +954,7 @@
 | [ランドルート](https://open.spotify.com/track/47tKkpSAFzzn3uHxiHbqpZ) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [ランドルート](https://open.spotify.com/album/4eb6mUK9phvO6Jcn1CIcEo) | 3:07 | 2023-07-04 | 2023-07-06 |
 | [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 | 2023-08-07 | 2023-09-21 |
 | [リカ](https://open.spotify.com/track/41P1hFCw1uLYt25JKktlst) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [FANFARE \(Deluxe Version\)](https://open.spotify.com/album/6jeDa7srx82eoknJmpBkgT) | 3:38 | 2023-09-20 |  |
-| [リズム64](https://open.spotify.com/track/74GJbmNHys47ZfdoQCySpM) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [リズム64](https://open.spotify.com/album/5ItDzD0v8osJxkUrUCPLJs) | 4:28 | 2024-02-01 |  |
+| [リズム64](https://open.spotify.com/track/74GJbmNHys47ZfdoQCySpM) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [リズム64](https://open.spotify.com/album/5ItDzD0v8osJxkUrUCPLJs) | 4:28 | 2024-02-01 | 2024-02-03 |
 | [リップシンク](https://open.spotify.com/track/1kyp3dQGHftpJRpRAoY94z) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [charm](https://open.spotify.com/album/4dw6Vqh0YknvgzKcfyKbIZ) | 3:10 | 2023-09-20 | 2023-10-25 |
 | [リップシンク](https://open.spotify.com/track/1bvbHclmu1q5yLsGuaV1pS) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [リップシンク](https://open.spotify.com/album/1Hf7LSW4yGAhlTgOdsvBJU) | 3:13 | 2023-10-10 | 2023-11-16 |
 | [リバイブレーション](https://open.spotify.com/track/16mw2JWm6u8Cc5ZMMamrGI) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [リバイブレーション / うざ。 / STRAWBERRY](https://open.spotify.com/album/3gMSby01PQLlG684fSYNkT) | 2:20 | 2023-02-14 | 2023-03-01 |

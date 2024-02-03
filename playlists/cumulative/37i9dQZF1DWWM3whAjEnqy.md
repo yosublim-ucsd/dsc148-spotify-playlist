@@ -4,7 +4,7 @@
 
 > Sun, sand, salt water and the perfect songs to match.
 
-89 songs - 5 hr 45 min
+90 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,8 +50,9 @@
 | [Knees](https://open.spotify.com/track/7fE9r2qOJmjgruk3TdW4MD) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:46 | 2023-11-15 |  |
 | [La Mar](https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [HOPE Campaign Tribute Album 2010](https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM) | 4:17 | 2023-11-15 |  |
 | [Lady Blue](https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:51 | 2023-11-15 |  |
-| [Laps Around The Sun](https://open.spotify.com/track/3U0UzEdzd45T81FHdPPbfC) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/6JYmn58l1Lj90pF1a9mdh5) | 3:26 | 2023-11-15 |  |
+| [Laps Around The Sun](https://open.spotify.com/track/3U0UzEdzd45T81FHdPPbfC) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/6JYmn58l1Lj90pF1a9mdh5) | 3:26 | 2023-11-15 | 2024-02-03 |
 | [Lay It on Me](https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:35 | 2023-11-15 |  |
+| [Leave That](https://open.spotify.com/track/3YuAWFpVawNf23ZN7OlfD8) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Give It Up](https://open.spotify.com/album/1A3A8WdrkktsDANff6H9mt) | 3:20 | 2023-11-15 |  |
 | [Left Me Like Summer](https://open.spotify.com/track/0YVyOLWIh5pe9DEJJjjKKH) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Venus Ate Mars](https://open.spotify.com/album/1jL5TTiuaTf52bwC3PLSrt) | 4:45 | 2023-11-15 |  |
 | [Left Me Like Summer](https://open.spotify.com/track/3hUwFkfeCUOVOMKy9iKDTw) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Venus Ate Mars](https://open.spotify.com/album/1ceVwVxRTblcBZUCYf4dQQ) | 4:45 | 2023-11-15 | 2024-01-24 |
 | [London Still](https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi) | [The Waifs](https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz) | [Up All Night](https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n) | 3:46 | 2023-11-15 |  |

@@ -4944,7 +4944,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 220153,
       "name": "self sabotage",
       "url": "https://open.spotify.com/track/1B7WWtKiz2LU85t9tL8x5v"
@@ -6322,6 +6322,24 @@
       "duration_ms": 189146,
       "name": "Wild Love - Acoustic",
       "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
+    },
+    {
+      "album": {
+        "name": "wintergreen",
+        "url": "https://open.spotify.com/album/1RHwkiA0IUm65DvpNsoNmN"
+      },
+      "artists": [
+        {
+          "name": "asiris",
+          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241913,
+      "name": "wintergreen",
+      "url": "https://open.spotify.com/track/07W2ZbawBHH3xPRJ5eD6Ih"
     },
     {
       "album": {

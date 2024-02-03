@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 264853,
       "name": "APESHIT",
       "url": "https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj"
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 146597,
       "name": "CAN'T TOUCH THIS",
       "url": "https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ"
@@ -2421,6 +2421,40 @@
     },
     {
       "album": {
+        "name": "Funk Wav Bounces Vol.1",
+        "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Funk Wav",
+          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223413,
+      "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
+      "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
+    },
+    {
+      "album": {
         "name": "Finna Get Loose (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/3xvh02DkHN35Wbfcl5yJje"
       },
@@ -2946,7 +2980,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 257893,
       "name": "Girls Dem Sugar",
       "url": "https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ"
@@ -2990,6 +3024,24 @@
       "duration_ms": 253802,
       "name": "Give It 2 Me",
       "url": "https://open.spotify.com/track/5JqsfyRNyj2gSieJmsG47v"
+    },
+    {
+      "album": {
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287906,
+      "name": "Give It 2 Me",
+      "url": "https://open.spotify.com/track/59qPP8coY8EWIQ9nQDThui"
     },
     {
       "album": {
@@ -3286,7 +3338,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 174136,
       "name": "Green Juice (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/0VPir804AaU2Iw1ardsDLS"
@@ -3322,7 +3374,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 234652,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
@@ -3412,7 +3464,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 285626,
       "name": "Gust of Wind",
       "url": "https://open.spotify.com/track/5m6F6glTwHhsolaKD0gGu0"
@@ -3846,7 +3898,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 204013,
       "name": "Hot-n-Fun",
       "url": "https://open.spotify.com/track/3o3kju9CMP1JxKsjLOpQhp"
@@ -4430,7 +4482,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 134424,
       "name": "IT'S GETTING HOT",
       "url": "https://open.spotify.com/track/7o9NyyroX5a9Hp0NKMnrYa"
@@ -4492,7 +4544,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 229827,
       "name": "It's On Again (feat. Kendrick Lamar) - From The Amazing Spider-Man 2 Soundtrack",
       "url": "https://open.spotify.com/track/44EkzAU92xwm30YpD4p31i"
@@ -5072,7 +5124,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 283626,
       "name": "Like I Love You",
       "url": "https://open.spotify.com/track/6W2Ef5Ph6ILTUAedoQ3QIv"
@@ -6506,7 +6558,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 267266,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
@@ -6740,7 +6792,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 205600,
       "name": "Safari",
       "url": "https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge"
@@ -6892,7 +6944,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 294866,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD"
@@ -6972,7 +7024,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 213786,
       "name": "She Wants To Move",
       "url": "https://open.spotify.com/track/4Vqd7MuPVrciqRS3EzhKWb"
@@ -7118,7 +7170,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 142560,
       "name": "SILVER TOOTH. (with A$AP Ferg)",
       "url": "https://open.spotify.com/track/5Xb9LkVG98JiLorzV9O56r"
@@ -7310,7 +7362,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 300933,
       "name": "Southern Hospitality (Featuring Pharrell)",
       "url": "https://open.spotify.com/track/4cNhx6OO1XpvwT6xZnb83B"
@@ -7520,7 +7572,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 190288,
       "name": "Stir Fry",
       "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
@@ -7672,7 +7724,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 238386,
       "name": "Surfin'",
       "url": "https://open.spotify.com/track/3f2k8op0nWDoZM4pXim6wG"
@@ -8072,7 +8124,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 224506,
       "name": "There's Something Special - Despicable Me 3 Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6aVot93S2TjvQeaWnyKju4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel\. Sebastián Romero en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,114 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,123 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 39 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 |
 | 40 | [Nunca Te Olvido](https://open.spotify.com/track/3XXZerYu2j34Z7eUh56F6K) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH), [Lulú Bulos](https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj) | [Byebye Sayonara, Nunca Sabrás Que Esto Fue para Ti](https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56) | 3:51 |
 | 41 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
-| 42 | [Milagro y Desastre](https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Milagro y Desastre](https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe) | 4:05 |
+| 42 | [La Corriente](https://open.spotify.com/track/0nw9LTQoeiFoDFpZUkyW43) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:31 |
 | 43 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 |
 | 44 | [La Casa de la Esquina](https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:44 |
 | 45 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 |
 | 46 | [Mi Sueño](https://open.spotify.com/track/5KEVe54PKR5Imu2ovBm1CY) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Mi Sueño](https://open.spotify.com/album/0E94vI4EfOVH9HVnmhyafU) | 2:42 |
-| 47 | [La Corriente](https://open.spotify.com/track/0nw9LTQoeiFoDFpZUkyW43) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:31 |
+| 47 | [Milagro y Desastre](https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Milagro y Desastre](https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe) | 4:05 |
 | 48 | [Tengo Que Hacer Esto Por Mi](https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Tengo Que Hacer Esto Por Mí](https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg) | 2:30 |
 | 49 | [ojalá </3](https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [ojalá </3](https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes) | 2:51 |
 | 50 | [Bonita](https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Bonita](https://open.spotify.com/album/4ZDmqaDuuRIRKG8e05LzuT) | 2:54 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 71 | [Dejar Ir](https://open.spotify.com/track/2a7gTBqzipCCuSQzgOSHl6) | [Carope](https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs) | [Dejar Ir](https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA) | 4:49 |
 | 72 | [Tabú](https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV) | [Tabú](https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx) | 3:30 |
 | 73 | [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 |
-| 74 | [A Simple Vista](https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1) | [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [A Simple Vista](https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP) | 3:27 |
-| 75 | [Tu Despedida](https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Tu Despedida](https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX) | 3:54 |
+| 74 | [Tu Despedida](https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Tu Despedida](https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX) | 3:54 |
+| 75 | [A Simple Vista](https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1) | [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [A Simple Vista](https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP) | 3:27 |
 | 76 | [Juntos](https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:40 |
 | 77 | [Déjame de Matar](https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Déjame de Matar](https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK) | 3:10 |
 | 78 | [Arena Blanca](https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Páramo Místico](https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL) | 3:23 |
 | 79 | [Dime](https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd) | [Nicoletta Spinelli](https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj) | [Al Amor](https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB) | 3:28 |
-| 80 | [SIN TI](https://open.spotify.com/track/2Bvi1KTSvX2OlfUBbOhu1e) | [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [SIN TI](https://open.spotify.com/album/1Ze1iSoCDbhaRMqfuRnoMG) | 2:48 |
+| 80 | [Nos Dijimos Adiós](https://open.spotify.com/track/4DEa05v9flZt5Q009QucTU) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Nos Dijimos Adiós](https://open.spotify.com/album/2AQqArbCTwT5LEAD01IXHe) | 3:42 |
 
-Snapshot ID: `MCxjYzdhYzZiNDRmZDBlZmY0ZGMwNGIyZDQzOTE0M2M4OTU3ZDdjYTk0`
+Snapshot ID: `MCw2MjUxYzM0MDhiMmY2ZjdhNDNkOWUxZjk2ZjE1N2ExZWQ4ZWNiMTNm`

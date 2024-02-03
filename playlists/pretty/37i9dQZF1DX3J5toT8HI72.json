@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas pra voc\u00ea curtir com seu amorzinho (ou pensando nele) ",
-  "num_followers": 774586,
+  "num_followers": 774444,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOThiNDJlODY0NGJiNGRiNTBiMzY1ZWM3ZTU0NTNhZmFjNjcwMmM4",
+  "snapshot_id": "MCw2NzIyZWQ1N2QxMGMyNjJjNDU1YzJjZDZiZjNiZmRlNDdlZjkzYmNi",
   "tracks": [
     {
       "added_at": "2023-12-11 13:23:48",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 261640,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
         "name": "Decretos Reais",
         "url": "https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 197538,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "P\u00fablico",
-        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 131426,
-      "name": "Devolva-Me (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
         "name": "ANAVIT\u00d3RIA",
         "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 206108,
       "name": "Singular",
       "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
+        "name": "P\u00fablico",
+        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 131426,
+      "name": "Devolva-Me (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
     },
     {
       "added_at": "2023-12-11 13:23:48",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-12-11 13:23:48",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
-      },
-      "artists": [
-        {
-          "name": "C\u00e1ssia Eller",
-          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "Todo Amor Que Houver Nessa Vida - Ao Vivo",
-      "url": "https://open.spotify.com/track/31RNX9vTwybIGVhteTpfT3"
-    },
-    {
-      "added_at": "2023-12-11 13:23:48",
-      "album": {
         "name": "Multishow Ao Vivo Caetano e Maria Gad\u00fa",
         "url": "https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 154826,
       "name": "O Le\u00e3ozinho - Live",
       "url": "https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ"
+    },
+    {
+      "added_at": "2023-12-11 13:23:48",
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "Todo Amor Que Houver Nessa Vida - Ao Vivo",
+      "url": "https://open.spotify.com/track/31RNX9vTwybIGVhteTpfT3"
     },
     {
       "added_at": "2023-12-11 13:23:48",

@@ -4,7 +4,7 @@
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Diamante Eléctrico en portada.
 
-98 songs - 5 hr 28 min
+100 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 | 2023-09-22 |  |
 | [Blood Milk Moon](https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Blood Milk Moon](https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3) | 2:57 | 2024-01-12 |  |
 | [Carta de Amor](https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Carta de Amor](https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF) | 2:56 | 2023-11-24 |  |
-| [Casa](https://open.spotify.com/track/2jtYjxUoGDVb6CD4csCmSq) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Casa](https://open.spotify.com/album/1eIKsr5SKSqivegMHn1yFh) | 3:35 | 2023-11-10 |  |
+| [Casa](https://open.spotify.com/track/2jtYjxUoGDVb6CD4csCmSq) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Casa](https://open.spotify.com/album/1eIKsr5SKSqivegMHn1yFh) | 3:35 | 2023-11-10 | 2024-02-03 |
 | [CELESTE // YA LO SABES](https://open.spotify.com/track/7IcqhaE51MV1ZKW4v9ug16) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [CELESTE // YA LO SABES](https://open.spotify.com/album/4jqrjhuUOCGpgL2pBWghoE) | 3:00 | 2023-09-22 |  |
 | [cellphone](https://open.spotify.com/track/3ZQc1r9mfLCCJo5rxHBbe4) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [cellphone](https://open.spotify.com/album/6WDcTUdnnNKoGQKnsDNwhO) | 3:32 | 2023-11-24 | 2024-01-13 |
 | [Chispeo ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Chispeo ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU) | 2:10 | 2023-11-24 |  |
@@ -31,6 +31,7 @@
 | [cielo violeta](https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [cielo violeta](https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK) | 2:40 | 2023-09-22 |  |
 | [Cien Pies](https://open.spotify.com/track/5nbQMMaFw4YPu9HdSQzB0G) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Cien Pies](https://open.spotify.com/album/57ew0qDZTLwGTQmNWacPUc) | 2:24 | 2023-11-10 |  |
 | [Cuidaré De Ti](https://open.spotify.com/track/6Qtxmvi4Z2t2bcYJ0LylTX) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Cuidaré De Ti](https://open.spotify.com/album/66t7uYODEltF75JDOSgroj) | 2:28 | 2023-09-22 | 2023-10-14 |
+| [Cómo Te Hago Entender](https://open.spotify.com/track/0uPbJDwoDa065Os4rxUNRj) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Cómo Te Hago Entender](https://open.spotify.com/album/2Cj7bkDQI88H1TmrBaL3Km) | 3:45 | 2024-02-02 |  |
 | [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 | 2023-09-22 |  |
 | [De Cabeza](https://open.spotify.com/track/6g7J0GQZ0CEbJoLP6JDAug) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [De Cabeza](https://open.spotify.com/album/5sAfBwkvC5h66RxrWswRRY) | 2:54 | 2024-01-12 | 2024-01-27 |
 | [DECIR ADIOS "OYE NARRADOR" \(with Cuco\)](https://open.spotify.com/track/4AZrS6z6r4T7vpBRE7doUG) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:48 | 2023-09-22 |  |
@@ -98,13 +99,14 @@
 | [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 | 2023-10-27 |  |
 | [Todo Bien](https://open.spotify.com/track/1vNvcdPzFCxg9q0yv8a3Hy) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [Todo Bien](https://open.spotify.com/album/0PahmmCKsi3B2dcUuq3gmm) | 2:44 | 2023-09-22 | 2023-11-11 |
 | [Trago Coqueto](https://open.spotify.com/track/1qHiEpXSWq4kMLKiBIVe1U) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Trago Coqueto](https://open.spotify.com/album/1peaQ1qGlbwL8V8LcKZElp) | 3:02 | 2023-09-22 | 2023-10-02 |
-| [Trago Coqueto](https://open.spotify.com/track/5t4rndvpGfblr16xsSZCZ2) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD) | 3:02 | 2023-09-29 |  |
+| [Trago Coqueto](https://open.spotify.com/track/5t4rndvpGfblr16xsSZCZ2) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD) | 3:02 | 2023-09-29 | 2024-02-03 |
 | [Trasplante de Corazón](https://open.spotify.com/track/3VqKXI13KCXegeHhcSX0DS) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Trasplante de Corazón](https://open.spotify.com/album/0Se6CCfIxUEK55p3v4vTC7) | 3:25 | 2023-09-22 | 2023-10-14 |
 | [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 | 2023-10-20 | 2024-01-13 |
 | [Un X100To](https://open.spotify.com/track/3qqpcNOdikbvhBHfuNmNv0) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Un X100To](https://open.spotify.com/album/3qFH6xUlirc58HvKzoaQnU) | 2:47 | 2023-09-22 | 2023-10-14 |
 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 | 2023-09-22 |  |
 | [VOLVER](https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:05 | 2023-09-22 | 2024-01-04 |
 | [VOLVER](https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:05 | 2023-12-01 |  |
+| [Yo no pasé por aquí](https://open.spotify.com/track/1Hr8MRlGfi8JR1VbtmWk8s) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Yo no pasé por aquí](https://open.spotify.com/album/1K3GtmQI0i9NNnWJZ9q7wA) | 3:27 | 2024-02-02 |  |
 | [Ángel](https://open.spotify.com/track/1cLl605RLNVbleRjNjZZz2) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mostly Fresh](https://open.spotify.com/album/53phqGvLGYTs2BrqyF5YvR) | 2:47 | 2023-11-24 | 2024-01-20 |
 
 \*This playlist was first scraped on 2023-09-27. Prior content cannot be recovered.

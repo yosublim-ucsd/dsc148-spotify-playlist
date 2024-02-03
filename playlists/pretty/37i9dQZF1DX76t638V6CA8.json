@@ -1,12 +1,12 @@
 {
   "description": "Big rap for big reps. You got this.",
-  "num_followers": 2075412,
+  "num_followers": 2076025,
   "original_name": "Rap Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTg5NDA1OGU4MmRiNjQ1ODNiNjJhOWY5ZjBhNmZlOWFhNWY3OTQ5",
+  "snapshot_id": "MCwwYTdhNWY1MTNiOGM2ZTk5ZmRkYzUxNmRiYWFiODhkZWY3MTU1OWNj",
   "tracks": [
     {
       "added_at": "2023-11-24 01:37:50",
@@ -579,6 +579,26 @@
     {
       "added_at": "2023-11-24 01:37:50",
       "album": {
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+    },
+    {
+      "added_at": "2023-11-24 01:37:50",
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 232048,
       "name": "Run It Up (feat. Offset & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP"
-    },
-    {
-      "added_at": "2023-11-24 01:37:50",
-      "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
     },
     {
       "added_at": "2023-11-24 01:37:50",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-11-24 01:37:50",
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "Break Ya Neck",
+      "url": "https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf"
+    },
+    {
+      "added_at": "2023-11-24 01:37:50",
+      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 165066,
       "name": "Bubbly (with Drake & Travis Scott)",
       "url": "https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui"
-    },
-    {
-      "added_at": "2023-11-24 01:37:50",
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "Break Ya Neck",
-      "url": "https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf"
     },
     {
       "added_at": "2023-11-24 01:37:50",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2023-11-24 01:37:50",
       "album": {
-        "name": "Long Story Short",
-        "url": "https://open.spotify.com/album/5Nzk5vGBrgjl9Ll8vk8m2q"
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
       },
       "artists": [
         {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
         }
       ],
-      "duration_ms": 210338,
-      "name": "Long Story Short (with Lil Wayne)",
-      "url": "https://open.spotify.com/track/2jmdxJ60YfV3fVemuLz7pD"
+      "duration_ms": 177666,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
     },
     {
       "added_at": "2023-11-24 01:37:50",
@@ -1351,18 +1347,22 @@
     {
       "added_at": "2023-11-24 01:37:50",
       "album": {
-        "name": "Moment Of Truth",
-        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+        "name": "Long Story Short",
+        "url": "https://open.spotify.com/album/5Nzk5vGBrgjl9Ll8vk8m2q"
       },
       "artists": [
         {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 177666,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
+      "duration_ms": 210338,
+      "name": "Long Story Short (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/2jmdxJ60YfV3fVemuLz7pD"
     },
     {
       "added_at": "2023-11-24 01:37:50",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2023-11-24 01:37:50",
       "album": {
-        "name": "Almost Healed",
-        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 160202,
-      "name": "War Bout It (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/4muwDurKeVOB1WBjTVRWlD"
-    },
-    {
-      "added_at": "2023-11-24 01:37:50",
-      "album": {
         "name": "Sleazy Flow (Remix)",
         "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 161355,
       "name": "Sleazy Flow (with Lil Baby) - Remix",
       "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
+    },
+    {
+      "added_at": "2023-11-24 01:37:50",
+      "album": {
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 160202,
+      "name": "War Bout It (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/4muwDurKeVOB1WBjTVRWlD"
     },
     {
       "added_at": "2023-11-24 01:37:50",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-11-24 01:37:50",
       "album": {
-        "name": "Distraction",
-        "url": "https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 171319,
-      "name": "Distraction",
-      "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
-    },
-    {
-      "added_at": "2023-11-24 01:37:50",
-      "album": {
         "name": "Rookie Of The Year",
         "url": "https://open.spotify.com/album/24TL4BB4I6PlLw4Qfc1FVG"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 120110,
       "name": "Rookie Of The Year",
       "url": "https://open.spotify.com/track/7aVjnFsARHuTBZzkR6rYOR"
+    },
+    {
+      "added_at": "2023-11-24 01:37:50",
+      "album": {
+        "name": "Distraction",
+        "url": "https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 171319,
+      "name": "Distraction",
+      "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
     },
     {
       "added_at": "2023-11-24 01:37:50",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2023-11-24 01:37:50",
       "album": {
-        "name": "PARK CHINOIS",
-        "url": "https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX"
-      },
-      "artists": [
-        {
-          "name": "K-Trap",
-          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
-        },
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "PARK CHINOIS",
-      "url": "https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ"
-    },
-    {
-      "added_at": "2023-11-24 01:37:50",
-      "album": {
         "name": "Life of a DON",
         "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
       },
@@ -1907,6 +1887,26 @@
       "duration_ms": 183513,
       "name": "Flocky Flocky (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/25r6MZ4Gtd76l43qnZI1DG"
+    },
+    {
+      "added_at": "2023-11-24 01:37:50",
+      "album": {
+        "name": "PARK CHINOIS",
+        "url": "https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "duration_ms": 202221,
+      "name": "PARK CHINOIS",
+      "url": "https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ"
     },
     {
       "added_at": "2023-11-24 01:37:50",

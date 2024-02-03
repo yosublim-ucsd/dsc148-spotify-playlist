@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519,543 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,449 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 74 | [Nobre Vagabundo \- Acústico](https://open.spotify.com/track/6LvvLGpol0wkihXq9u5OVR) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Todas as Praias \(Axé\) \[Acústico\]](https://open.spotify.com/album/1hMWfs6C6zkDkGmc4lGIUF) | 3:01 |
 | 75 | [Aluga\-se](https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM) | [Bárbara Dias](https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J) | [Aluga\-se](https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI) | 2:05 |
 | 76 | [Alto Mar \- Sessions](https://open.spotify.com/track/1VK0D9DTlMGPVn3GHhW10b) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar \(Sessions\)](https://open.spotify.com/album/1WM4nNIbeBe9hzYecKlMA9) | 3:20 |
-| 77 | [O Seu Grande Amor](https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [O Seu Grande Amor](https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS) | 3:31 |
-| 78 | [Menina do Cabelo Bagunçado \- Acústico](https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Menina do Cabelo Bagunçado \(Acústico\)](https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx) | 2:16 |
+| 77 | [Menina do Cabelo Bagunçado \- Acústico](https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Menina do Cabelo Bagunçado \(Acústico\)](https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx) | 2:16 |
+| 78 | [O Seu Grande Amor](https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [O Seu Grande Amor](https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS) | 3:31 |
 | 79 | [Espera a Primavera \- Acústico](https://open.spotify.com/track/6TEVJx9cg9qmGCiydXR4oS) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Espera a Primavera \(Acústico\)](https://open.spotify.com/album/6Oogk48Olj3FAbPTcRhtG4) | 4:14 |
 | 80 | [Ainda Bem Que Chegou \- Acoustic Version](https://open.spotify.com/track/6pY5YWYHk7CWxmf0IwD7RX) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Bem Que Chegou \(Acoustic Version\)](https://open.spotify.com/album/6bB5V8MnfPZrUXVMZe75IE) | 3:01 |
 | 81 | [Pijama \- Acústico](https://open.spotify.com/track/6G4A6r849GG4bvuVS8R5Xh) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Casa de Praia 2 \(acústico\)](https://open.spotify.com/album/2z154TdNIotc1bnI7j0pOt) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 99 | [Amiga](https://open.spotify.com/track/3f6zlOjEvYJVgvPyodrnU7) | [Salma e Mac](https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh) | [Salma e Mac](https://open.spotify.com/album/2Q16sGZ2lP7iTooxAr85ZJ) | 3:18 |
 | 100 | [O Segundo Sol \- Ao Vivo](https://open.spotify.com/track/6uRSXIUpUFAlsZC1r4pWW9) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller Em Casa](https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY) | 4:17 |
 
-Snapshot ID: `MCw2OWE4ODVhMWQxNmQyM2I2MTA0MWM4OTA3ZDFmNDRiYTllOTc4Y2M2`
+Snapshot ID: `MCxkMDA3MDkzNDkzYjVlZTg1NjhiNWE4YWMyMDZmZWYxNjQzNjA1NTI5`

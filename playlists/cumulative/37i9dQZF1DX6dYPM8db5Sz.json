@@ -3803,6 +3803,24 @@
     },
     {
       "album": {
+        "name": "Goes To Show",
+        "url": "https://open.spotify.com/album/05JTEh0B7YFchrQX40BXh6"
+      },
+      "artists": [
+        {
+          "name": "Stereo Club",
+          "url": "https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221193,
+      "name": "Goes To Show",
+      "url": "https://open.spotify.com/track/3XzVQKt06W3s43Vvs07wzg"
+    },
+    {
+      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/1OrzAjh77eizHTD3m4pAuQ"
       },

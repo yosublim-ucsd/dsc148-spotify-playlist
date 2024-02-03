@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Banda MS en portada",
-  "num_followers": 1812363,
+  "num_followers": 1812775,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjZjNDY3NGFiNGJhMDBjYWU3MzdjY2Y1ZjgxZjhiYjZlMmUyZTMx",
+  "snapshot_id": "MCxkNDE2Y2FlZmI0ZTgzYTZjMDRlZDBkYzliZDY4MDk3NWMzMzczNjI0",
   "tracks": [
     {
       "added_at": "2023-11-08 20:27:36",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
+        "name": "Yo No Canto Pero Lo Intentamos",
+        "url": "https://open.spotify.com/album/4IBO8BpS6FnMrud4jtMRnL"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 197173,
+      "name": "Lo Intentamos",
+      "url": "https://open.spotify.com/track/2vj3BAmA5hHlqLwofWN0aV"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
         "name": "Acu\u00e9rdate de Mi",
         "url": "https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY"
       },
@@ -883,26 +899,6 @@
       "duration_ms": 184743,
       "name": "Ya No Me Mires As\u00ed",
       "url": "https://open.spotify.com/track/300QUH7Q7FncaEo8Fcvwgp"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
-        "name": "M\u00fasica Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 232573,
-      "name": "M\u00fasica Rom\u00e1ntica",
-      "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -923,18 +919,22 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Yo No Canto Pero Lo Intentamos",
-        "url": "https://open.spotify.com/album/4IBO8BpS6FnMrud4jtMRnL"
+        "name": "M\u00fasica Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
       },
       "artists": [
         {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 197173,
-      "name": "Lo Intentamos",
-      "url": "https://open.spotify.com/track/2vj3BAmA5hHlqLwofWN0aV"
+      "duration_ms": 232573,
+      "name": "M\u00fasica Rom\u00e1ntica",
+      "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "M\u00e1s Exitos Con El Shaka",
-        "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 180040,
-      "name": "Disculpe Usted",
-      "url": "https://open.spotify.com/track/0uYmSZoLXmxBkvsH4jGQRY"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
         "name": "Hoy M\u00e1s Fuerte",
         "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 181680,
       "name": "\u00bfPor Qu\u00e9 Terminamos?",
       "url": "https://open.spotify.com/track/1nK0XDR5ZdBfBMfkS5SXRF"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
+        "name": "M\u00e1s Exitos Con El Shaka",
+        "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 182106,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
+      "duration_ms": 180040,
+      "name": "Disculpe Usted",
+      "url": "https://open.spotify.com/track/0uYmSZoLXmxBkvsH4jGQRY"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
+        "name": "En Vida",
+        "url": "https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Mi Meta Contigo",
+      "url": "https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
         "name": "Archivos de Mi Vida",
         "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 182800,
       "name": "Recostada En La Cama",
       "url": "https://open.spotify.com/track/50tmOF513elS7K3HrwYq29"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
-        "name": "En Vida",
-        "url": "https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Mi Meta Contigo",
-      "url": "https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Mi Enemigo El Amor",
-      "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
         "name": "El Antes Y El Despu\u00e9s",
         "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 135813,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/38opVim2NDSvYAPtsKfcOI"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Mi Enemigo El Amor",
+      "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Disfrut\u00e9 Enga\u00f1arte",
-        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Hombre Libre",
-      "url": "https://open.spotify.com/track/6K9EwMrbfVGN6p7LrQW42e"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
         "name": "Y Se Parece A T\u00ed",
         "url": "https://open.spotify.com/album/123FJyOsN9p5QU6wGi5sSo"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 211906,
       "name": "Mi Amante",
       "url": "https://open.spotify.com/track/5bX4DfCjAI8ORKWLX2iiOJ"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
+        "name": "Disfrut\u00e9 Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Hombre Libre",
+      "url": "https://open.spotify.com/track/6K9EwMrbfVGN6p7LrQW42e"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Ese Soy Yo",
-        "url": "https://open.spotify.com/album/0FTYEBALGZDLGgKzDFR5mk"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Lo Legal",
-      "url": "https://open.spotify.com/track/46o6fYLws9P1XH8kcVVtyo"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
         "name": "Especialista",
         "url": "https://open.spotify.com/album/1udzzVN47urH7cthUlyRMz"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 175106,
       "name": "Voy a Pistearme el Dolor",
       "url": "https://open.spotify.com/track/5aJACqGIBk2Z60iT5cuOuC"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
+        "name": "Ese Soy Yo",
+        "url": "https://open.spotify.com/album/0FTYEBALGZDLGgKzDFR5mk"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Lo Legal",
+      "url": "https://open.spotify.com/track/46o6fYLws9P1XH8kcVVtyo"
     },
     {
       "added_at": "2023-11-08 20:27:36",

@@ -10265,6 +10265,24 @@
     },
     {
       "album": {
+        "name": "\u0634\u0648\u0643 \u0648\u0633\u0643\u0627\u0643\u064a\u0646",
+        "url": "https://open.spotify.com/album/5pbhGZ3MNHexAwVf17NquK"
+      },
+      "artists": [
+        {
+          "name": "Hala",
+          "url": "https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221867,
+      "name": "\u0634\u0648\u0643 \u0648\u0633\u0643\u0627\u0643\u064a\u0646",
+      "url": "https://open.spotify.com/track/3la9cbwDp7bzi64axwDU8g"
+    },
+    {
+      "album": {
         "name": "Shi Ghareeb",
         "url": "https://open.spotify.com/album/5Bo1XegJIZ7Ixclp6HS7Do"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 161579,
+  "2024-02-03": 162041,
   "date_first_scraped": "2022-12-15",
   "description": "Sedihe koyo ngene, nggak bahaya ta? \ud83d\ude22",
   "name": "Ambyar",
@@ -1399,6 +1399,24 @@
       "duration_ms": 290000,
       "name": "Tresno Liyane",
       "url": "https://open.spotify.com/track/7IWKUR4CrurVIc6BPWwWiR"
+    },
+    {
+      "album": {
+        "name": "Wirang",
+        "url": "https://open.spotify.com/album/1OdvMWMKFQGzLJ92gU8Atc"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294291,
+      "name": "Wirang",
+      "url": "https://open.spotify.com/track/2cNjYBMsuNELj4oJjYr0bg"
     },
     {
       "album": {

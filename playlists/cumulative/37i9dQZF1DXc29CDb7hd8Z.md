@@ -4,7 +4,7 @@
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-137 songs - 7 hr 10 min
+138 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Prelude to Storm](https://open.spotify.com/track/2CG35czpE2xk99BaCJVoZy) | [Andreas Ihlebæk](https://open.spotify.com/artist/2FikjOw5WWNEpKxsmU6Ye0) | [Prelude to Storm](https://open.spotify.com/album/6H7egWKIU5B7D8Et4WmOmK) | 3:08 | 2021-09-10 |  |
 | [Preludium](https://open.spotify.com/track/5V1fERRi9CKUG4lkeAP9Ue) | [Karin Borg](https://open.spotify.com/artist/0mWi0Jr9Ir8GPGVBpQqI1W) | [Preludium](https://open.spotify.com/album/6sh07Iqq3mgx76srlNA0Za) | 2:09 | 2021-09-10 |  |
 | [Preludium](https://open.spotify.com/track/4rifuSeAw7WGLKSLgAGIJU) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Preludium](https://open.spotify.com/album/74HUZBoNa2YaZ8KTFsl9h5) | 2:45 | 2021-09-10 |  |
+| [Quiescent 01](https://open.spotify.com/track/0lofSgmEGiNgS4p2z8skU3) | [Kampala Social Club](https://open.spotify.com/artist/1j2z4kWUO6QrYTqzQVxoZS) | [The Space In Between](https://open.spotify.com/album/2df5YU3vxPwNiPNERObFJU) | 3:21 | 2024-02-02 |  |
 | [Resilient](https://open.spotify.com/track/3qcqLrOeFOaWzpHK7GK6Qo) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Resilient](https://open.spotify.com/album/0uETRAhCKO0BjQHHxtW4YP) | 3:26 | 2021-09-10 |  |
 | [Retracing Home](https://open.spotify.com/track/7McxawbM1mYYoeyjRHJYxY) | [Bob Boilen](https://open.spotify.com/artist/5BQdg2fUFKdhtwWAOU6q18) | [Hidden Smiles](https://open.spotify.com/album/7d1tWxqSfdUBwB7FRqFJqU) | 5:11 | 2021-09-10 |  |
 | [Ripples](https://open.spotify.com/track/3UINJOshOUCH3SdHf7jtp3) | [Phillip Norman Watson](https://open.spotify.com/artist/2l470mqKXM31vhpMnf3IGN) | [Mists](https://open.spotify.com/album/5jithCshUdK6yZd8oP4XMf) | 4:16 | 2021-09-10 |  |

@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 56969,
+  "2024-02-03": 56976,
   "date_first_scraped": "2021-12-28",
-  "description": "Check out the latest hits from Sandalwood!\nCover : Karnataka Damanaka\n",
+  "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
   "tracks": [
     {
@@ -2749,7 +2749,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 268488,
       "name": "Bagehariyada Ogatugalu (from \"Moorane Krishnappa\")",
       "url": "https://open.spotify.com/track/1y3YovNNzuF8Vor9aMIKnL"
@@ -4264,6 +4264,36 @@
     },
     {
       "album": {
+        "name": "Chanda Mama (From \"Adavi\")",
+        "url": "https://open.spotify.com/album/5B1drWfcL0NaIn0sNPSbbo"
+      },
+      "artists": [
+        {
+          "name": "Tiger Nag",
+          "url": "https://open.spotify.com/artist/5CrQE8QpCMmD79HrdWU5VV"
+        },
+        {
+          "name": "Roja Gundlupet",
+          "url": "https://open.spotify.com/artist/4afHAL5nFNM0hy2pRln9vs"
+        },
+        {
+          "name": "Kaviraj",
+          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
+        },
+        {
+          "name": "Manju Mahadev",
+          "url": "https://open.spotify.com/artist/5yT5O67BcW3BUlCatWHS9V"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210209,
+      "name": "Chanda Mama - From \"Adavi\"",
+      "url": "https://open.spotify.com/track/5ikw8P7lortHlK1CHwZaBd"
+    },
+    {
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/1DriOdUZmhi4w9Eg8CeIOq"
       },
@@ -4855,7 +4885,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 185471,
       "name": "Dama Dama Dum Damarukam",
       "url": "https://open.spotify.com/track/1Fjfv0r3mjkaIDNU80X9pr"
@@ -5429,7 +5459,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 156111,
       "name": "Dhare Neenididaasare (From \"Sapta Sagaradaache Ello - Side B\")",
       "url": "https://open.spotify.com/track/5rk8XadyFwgJMxy2l73Ynh"
@@ -13607,7 +13637,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 236001,
       "name": "Manada Mele Banna Eseda Maaye Nee (from \"Marichi\")",
       "url": "https://open.spotify.com/track/09wh3jYi5473v4WIjkfYAh"
@@ -18379,7 +18409,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 193894,
       "name": "Olave Olave (From \"Sapta Sagaradaache Ello - Side B\")",
       "url": "https://open.spotify.com/track/2YebLA7W7asVeiLPetGu2L"
@@ -19708,6 +19738,28 @@
     },
     {
       "album": {
+        "name": "Kaatera (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1M0g0GyRjhdh84FV1gRfgY"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183866,
+      "name": "Punyathma",
+      "url": "https://open.spotify.com/track/4rd12OcvAEDHuKEVbGYx80"
+    },
+    {
+      "album": {
         "name": "Pushpa Pushpa (From \"Vedha\")",
         "url": "https://open.spotify.com/album/74woB4U6hp1oY2LNKr9cdp"
       },
@@ -20767,6 +20819,24 @@
       "duration_ms": 273157,
       "name": "Sakhi (From \"Blink\")",
       "url": "https://open.spotify.com/track/1JrDXA4JX0tPZjsqsvyddK"
+    },
+    {
+      "album": {
+        "name": "Kaanada Shakthi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4RcNaUXpoZ0l5WsssuTP41"
+      },
+      "artists": [
+        {
+          "name": "Harsha",
+          "url": "https://open.spotify.com/artist/4hr8cOSRiTqJDcmripiIOd"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214331,
+      "name": "Sakhiye",
+      "url": "https://open.spotify.com/track/7D3oxpkmcuyZ76vTV1ySOW"
     },
     {
       "album": {
@@ -22320,6 +22390,28 @@
     },
     {
       "album": {
+        "name": "Super Figaru Macchi ( From \"Crush\" )",
+        "url": "https://open.spotify.com/album/5nM8B9vlyKlNIHCBcJAKwM"
+      },
+      "artists": [
+        {
+          "name": "Naveen Sajju",
+          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
+        },
+        {
+          "name": "Vineeth Raj Menon",
+          "url": "https://open.spotify.com/artist/6oqmm7nNRyAfBdevvHaJ7d"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194306,
+      "name": "Super Figaru Macchi ( From \"Crush\" )",
+      "url": "https://open.spotify.com/track/2Y4xtL9wCKGVpdiSKgMAXQ"
+    },
+    {
+      "album": {
         "name": "Super Figure Figure Da (From\" Geleya\")",
         "url": "https://open.spotify.com/album/6fF8yXAy7xXkQt48bs4U5j"
       },
@@ -23255,6 +23347,32 @@
       "duration_ms": 206120,
       "name": "Ujjadbitlu (From \"Bisi-Bisi Ice-Cream\")",
       "url": "https://open.spotify.com/track/3VhYtrijtNJH1J0YHLe4JC"
+    },
+    {
+      "album": {
+        "name": "Uncle Song (From \"Bachelor Party\")",
+        "url": "https://open.spotify.com/album/4ViWgGrwuC4Q0IXug8frBy"
+      },
+      "artists": [
+        {
+          "name": "Arjun Ramu",
+          "url": "https://open.spotify.com/artist/2WMT3p2Mgvnap7bkfQ1J9A"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/6y0fX1VsvikMf62did3WY1"
+        },
+        {
+          "name": "Praveen Biligiri",
+          "url": "https://open.spotify.com/artist/2xk6RkKvtrK1pcv5AkmBP0"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197311,
+      "name": "Uncle Song (From \"Bachelor Party\")",
+      "url": "https://open.spotify.com/track/6oFI179OLqJuxLqazHQquI"
     },
     {
       "album": {

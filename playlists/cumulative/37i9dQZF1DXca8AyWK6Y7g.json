@@ -5805,6 +5805,28 @@
     },
     {
       "album": {
+        "name": "Cigarettes & Wine (feat. Holly Humberstone)",
+        "url": "https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Cigarettes & Wine (feat. Holly Humberstone)",
+      "url": "https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -32084,6 +32106,24 @@
       "duration_ms": 345639,
       "name": "the sum of all our sirens",
       "url": "https://open.spotify.com/track/1ujEMa9fW8cdNEqmNVF6VA"
+    },
+    {
+      "album": {
+        "name": "The Thrill Of It",
+        "url": "https://open.spotify.com/album/6FpdWwlJLpBq2cViZH5HVd"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196491,
+      "name": "The Thrill Of It",
+      "url": "https://open.spotify.com/track/3kGIAI6oq9ArkwEdbN1VJR"
     },
     {
       "album": {

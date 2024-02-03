@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,521 likes - 42 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,533 likes - 42 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 9 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
 | 10 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
 | 11 | [Perfecto](https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Perfecto](https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na) | 2:32 |
-| 12 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 |
-| 13 | [adiós](https://open.spotify.com/track/5J4mARsqns9e3Kuuix4ICn) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 2:58 |
+| 12 | [adiós](https://open.spotify.com/track/5J4mARsqns9e3Kuuix4ICn) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 2:58 |
+| 13 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 |
 | 14 | [Playlist](https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:01 |
 | 15 | [Bichota \- Spotify Singles](https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bichota – Spotify Singles](https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq) | 2:37 |
 | 16 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 |
-| 17 | [for good \(with RENEE\)](https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [for good \(with RENEE\)](https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H) | 3:02 |
+| 17 | [Tiki Tai](https://open.spotify.com/track/3Ss1uzI0Eh1pAvVOTIixR5) | [Amuna](https://open.spotify.com/artist/7gtLIOTPwX9CdZttm7ETVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Tiki Tai](https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu) | 2:32 |
 | 18 | [Tibio](https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
-| 19 | [Tiki Tai](https://open.spotify.com/track/3Ss1uzI0Eh1pAvVOTIixR5) | [Amuna](https://open.spotify.com/artist/7gtLIOTPwX9CdZttm7ETVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Tiki Tai](https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu) | 2:32 |
+| 19 | [for good \(with RENEE\)](https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [for good \(with RENEE\)](https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H) | 3:02 |
 | 20 | [Viaje Al Amanecer](https://open.spotify.com/track/7HGp5Q22HESHrgu7beOD38) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:58 |
 | 21 | [Casual \(YTQDV\)](https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 3:10 |
 | 22 | [Hoy Me Siento Bien](https://open.spotify.com/track/4vYUSG43ap8AfnvlVmHb4Y) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:10 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 41 | [Madrugada](https://open.spotify.com/track/2Zq5sYodvD0MbWAlqUMSfE) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [AYWA](https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO) | [Hardinero Sound](https://open.spotify.com/album/20CDeLYK9ZVLq1rUUv290j) | 3:03 |
 | 42 | [fior](https://open.spotify.com/track/6GtWgDj1nK1TBahvOwYLvg) | [Efelante](https://open.spotify.com/artist/2RBUJpND98jnw4EwFCJiiX), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [fior](https://open.spotify.com/album/6zbSHO2tNXiuCTOIjhgZnD) | 5:11 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDA0ZTU3Yzc1M2I2YWY0YTE5ZmIyNzljNGYwMmRlOWM5OQ==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDBhNjhlYWZlMmQ1YjUyMTM0NzczMGNiYjA1Mzk1ZTVjYw==`

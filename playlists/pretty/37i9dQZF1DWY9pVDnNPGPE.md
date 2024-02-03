@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,713 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,716 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 12 | [lost in you](https://open.spotify.com/track/18tTGSu8hgDb6r5z2C74OA) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [lost in you](https://open.spotify.com/album/6srNs2YcyTHUPtsecgukZ0) | 3:20 |
 | 13 | [Burn the Memory \(Feat\. GIRIBOY\)](https://open.spotify.com/track/4FvDB8RKvxZFpKljmOalwY) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Burn the Memory \(Feat\. GIRIBOY\)](https://open.spotify.com/album/6T8c5TiOFAOyjPMePQCQ1u) | 3:16 |
 | 14 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
-| 15 | [Seoul](https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Seoul](https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF) | 3:24 |
-| 16 | [Daisy](https://open.spotify.com/track/1mnyie1f8GFwDBENXuvld9) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [CEO\-dol Mart \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0XLq1Dhnhjsm87XFahi6DO) | 3:01 |
+| 15 | [Daisy](https://open.spotify.com/track/1mnyie1f8GFwDBENXuvld9) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [CEO\-dol Mart \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0XLq1Dhnhjsm87XFahi6DO) | 3:01 |
+| 16 | [Seoul](https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Seoul](https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF) | 3:24 |
 | 17 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
 | 18 | [Milky Way](https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Our Beloved BoA \#4 \- SM STATION](https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW) | 3:37 |
 | 19 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 37 | [You Move Me \(feat\. SUNG SI KYUNG\)](https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:40 |
 | 38 | [Darling](https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Darling](https://open.spotify.com/album/0XVe9SlfGUzJeMfzODdKdm) | 3:02 |
 | 39 | [DA DA!](https://open.spotify.com/track/6vvoQKMci0NB7Zbo10t61N) | [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu) | 2:54 |
-| 40 | [HOODIE E BANBAJI](https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [HOODIE E BANBAJI](https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ) | 3:09 |
-| 41 | [Je N'aime Que Toi](https://open.spotify.com/track/2WW1ymvg1h7hXbYoLFNhz8) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [Je N'aime Que Toi](https://open.spotify.com/album/5yCszfyC8do90AeMrBa5dd) | 3:16 |
+| 40 | [Je N'aime Que Toi](https://open.spotify.com/track/2WW1ymvg1h7hXbYoLFNhz8) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [Je N'aime Que Toi](https://open.spotify.com/album/5yCszfyC8do90AeMrBa5dd) | 3:16 |
+| 41 | [HOODIE E BANBAJI](https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [HOODIE E BANBAJI](https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ) | 3:09 |
 | 42 | [No More \(Prod\. Zion.T\)](https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [NO MORE](https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz) | 2:38 |
 | 43 | [Alone](https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:41 |
 | 44 | [SummerSweet](https://open.spotify.com/track/6eFTJraZWhyEmFa6Fx3MnZ) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [SummerSweet](https://open.spotify.com/album/3djCKvCgZmdaM7aB3QlbwU) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9pVDnNPGPE.md) - [plain]
 | 49 | [Baby I Love You](https://open.spotify.com/track/6QK081MDKmHExMa1zmCC1S) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:11 |
 | 50 | [Pink!](https://open.spotify.com/track/69q7FmDh1JXekNKOOxDmdM) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Pink!](https://open.spotify.com/album/1I5gyzHtCXanpYqRukAQGP) | 2:54 |
 
-Snapshot ID: `MCw4Mzg2ZDY4NjExNmIyNDFkNTBkODkzNjZlZjliMTY3OTQwMjk5ZmIx`
+Snapshot ID: `MCwzNmM5ZDc4NmYxOTA3Y2I4OTQ1N2YzNDA0YWEyZDc5YWI2MzY4OTIy`

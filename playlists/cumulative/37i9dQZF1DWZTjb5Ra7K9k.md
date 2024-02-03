@@ -4,7 +4,7 @@
 
 > Hora de aumentar o som e cair na água!
 
-84 songs - 5 hr 6 min
+85 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 | 2022-05-17 |  |
 | [Forever](https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Welcome To The Cruel World](https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP) | 3:24 | 2022-05-17 |  |
 | [Free](https://open.spotify.com/track/2BJy5YrRMhVCqaLNY5cbv2) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Donavon Frankenreiter](https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG) | 2:28 | 2022-05-17 |  |
+| [Free da Herb](https://open.spotify.com/track/1SzqBvS1g7jTvRWTmsvWjL) | [Sashamon](https://open.spotify.com/artist/3EogSxYXgnES1hVk0nxB8X) | [Free da Herb](https://open.spotify.com/album/4DNg55sslW9KlxU7UcDFEx) | 4:39 | 2023-07-28 |  |
 | [Ghost Ship](https://open.spotify.com/track/61JDaStnXY3vbaEjliB5WA) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Magic Whip](https://open.spotify.com/album/0nSzBICzQHea8grwfqa5Gb) | 4:59 | 2022-05-17 |  |
 | [Go With The Flow](https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 3:07 | 2022-05-17 |  |
 | [Ground On Down](https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 4:53 | 2022-05-17 | 2024-01-23 |
@@ -40,7 +41,7 @@
 | [I Want to Know](https://open.spotify.com/track/3PLN4aXK0A8B76p0OYUDFd) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:55 | 2022-05-17 |  |
 | [In Your Eyes](https://open.spotify.com/track/3QbMBn1cm37oUtWYwmccqc) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Never Stop Fighting](https://open.spotify.com/album/0ltj09wROERvSflQiyzt2v) | 3:09 | 2022-05-17 |  |
 | [Interstate Love Song \- 2019 Remaster](https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple \(2019 Remaster\)](https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h) | 3:14 | 2022-05-17 |  |
-| [Invincible](https://open.spotify.com/track/6NTaNlVIeigg3ERXef5wjM) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/7woWmF7vNQwAVNymD0UkbY) | 4:46 | 2023-07-28 |  |
+| [Invincible](https://open.spotify.com/track/6NTaNlVIeigg3ERXef5wjM) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/7woWmF7vNQwAVNymD0UkbY) | 4:46 | 2023-07-28 | 2024-02-03 |
 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 | 2022-05-17 |  |
 | [Jah Work](https://open.spotify.com/track/0zWwD8Kr7NAhkVGaGDKpqs) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [The Will To Live](https://open.spotify.com/album/0fTTM8BvDkPd2VJ8Km2lhK) | 4:54 | 2022-05-17 |  |
 | [Joker Smoker 12" Mix](https://open.spotify.com/track/72Mqd8exzzElzRCeuP5tSm) | [Triston Palma](https://open.spotify.com/artist/5zRp3bPBElRwxg5kVzTrAP) | [Joker Smoker](https://open.spotify.com/album/364SqWnW8GVEn3EQAHjuZR) | 7:11 | 2022-05-17 |  |

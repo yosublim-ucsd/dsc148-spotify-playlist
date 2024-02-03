@@ -4,12 +4,12 @@
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-164 songs - 8 hr 49 min
+166 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [a capella](https://open.spotify.com/track/4ybIzIHqYo2bAH7sUrk6va) | [Ylvis](https://open.spotify.com/artist/2lEOFtf3cCyzomQcMHJGfZ) | [a capella](https://open.spotify.com/album/1NaxNI23UhvInBHuSRVPMZ) | 3:09 | 2023-01-13 |  |
-| [A\-Punk](https://open.spotify.com/track/1sCN83vh7rzQ2d7UGAsoga) | [Rockapella](https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix) | [Bang](https://open.spotify.com/album/3y7Sk6v8mTAv1KPNKO4pMV) | 2:21 | 2021-12-24 |  |
+| [A\-Punk](https://open.spotify.com/track/1sCN83vh7rzQ2d7UGAsoga) | [Rockapella](https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix) | [Bang](https://open.spotify.com/album/3y7Sk6v8mTAv1KPNKO4pMV) | 2:21 | 2021-12-24 | 2024-02-03 |
 | [Africa](https://open.spotify.com/track/2R5YgpxcFEWGXM0HTAHDFJ) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [House Rules](https://open.spotify.com/album/526Wtq145uzbHhzGQKN57v) | 4:06 | 2022-12-09 |  |
 | [All About That Bass \(No Tenors\)](https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [The New Old Fashioned \(Deluxe\)](https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7) | 2:54 | 2022-12-09 |  |
 | [All I Know So Far](https://open.spotify.com/track/14MxmAMeXNbHT1IZ6kikh2) | [Backtrack](https://open.spotify.com/artist/3s47Oxqvp3YxaYqMlDYngq), [InHarmony Camp Kazakhstan](https://open.spotify.com/artist/4tr1vunWfXDjGuKwEF2WcR) | [All I Know So Far](https://open.spotify.com/album/5bebPG2jlrlXboTdCVarwd) | 3:39 | 2023-07-28 |  |
@@ -53,6 +53,7 @@
 | [Don't Stop The Music](https://open.spotify.com/track/7mwaAS5hqSuSxsFLpQh5NU) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 3:04 | 2021-12-24 |  |
 | [Don't Stop The Music](https://open.spotify.com/track/5POcQCBI2uqf3a2179ch57) | [The Treblemakers](https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1) | [Pitch Perfect Soundtrack](https://open.spotify.com/album/1FM961WpKV92hHzDk7GiU2) | 3:05 | 2021-12-24 | 2022-07-29 |
 | [Erase Me](https://open.spotify.com/track/5ACHI9SsKvZXiBY3sUqGKd) | [Distilled Harmony](https://open.spotify.com/artist/2oYLwmWHaHrK4suIVZh8SU) | [Mirage](https://open.spotify.com/album/2JiSCBhXuT7wpFHAVqkqyt) | 3:17 | 2023-06-02 |  |
+| [erase me](https://open.spotify.com/track/1RYuQzQoE8a7FK76t4DTgE) | [Take It Slo](https://open.spotify.com/artist/4Yb87D90VhbyWMnjA5yuIg) | [erase me](https://open.spotify.com/album/6NCQVfbNQqPTqugVzrMxQB) | 3:36 | 2024-02-02 |  |
 | [Escape \(The Piña Colada Song\)](https://open.spotify.com/track/5Q9y6VbwQ5PvvnfAJJ8R1K) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Escape \(The Piña Colada Song\)](https://open.spotify.com/album/4BRCQ0PIitcwgK72XEnQnu) | 3:44 | 2023-06-23 |  |
 | [Every Summertime](https://open.spotify.com/track/22mBPR8JCwq0Pn1SLRdhBX) | [The Filharmonic](https://open.spotify.com/artist/63QppfTaQHZpb8VhSlsvZz) | [Profiles](https://open.spotify.com/album/3bEXompivsNWzJnqKGtTPO) | 3:12 | 2023-10-20 |  |
 | [Everywhere](https://open.spotify.com/track/1cYdB2jTXcfCX9NgQe0fib) | [The Virginia Belles](https://open.spotify.com/artist/22YaTeakBauJ5h9iMDVrAR) | [highs and lows](https://open.spotify.com/album/3JF5SoC409uL2D7FOgau1H) | 3:11 | 2023-11-24 |  |
@@ -94,9 +95,10 @@
 | [Kennedy Center Performance \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/7Gzo2I7jLQyvhGTZrkFAhM) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Pitch Perfect 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Us79qhfgvZlWTuWBClLmR) | 2:27 | 2021-12-24 | 2022-07-29 |
 | [Kiss the Girl](https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Kiss the Girl](https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V) | 2:11 | 2021-12-24 | 2023-03-18 |
 | [Landslide \- Studio Version](https://open.spotify.com/track/0JEhzXDgrRJmZFGqQ4U2ME) | [The Backbeats](https://open.spotify.com/artist/1TWhzhx3y8ifsErYrlcERr) | [The Sing\-Off: The Best of Season 2](https://open.spotify.com/album/3Kh7U1zy45wEM6yWGvIFcR) | 2:56 | 2021-12-24 |  |
+| [Let It Be](https://open.spotify.com/track/0n41tY2CGlawnoAwwfkEKs) | [Rockapella](https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix) | [Let It Be](https://open.spotify.com/album/0ACMjPgeuyAGTnGy8siePH) | 3:27 | 2024-02-02 |  |
 | [Let It Go](https://open.spotify.com/track/3WgDY81htmhTtSh7VWIl60) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [Fixate](https://open.spotify.com/album/2wDs6jkrCEPBJLnLLFWt7J) | 4:23 | 2021-12-24 | 2022-07-29 |
 | [Let It Go](https://open.spotify.com/track/3bodx5kX7N9H6ReZCq3jfW) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [Fixate](https://open.spotify.com/album/0oEzIkczK5Il84fdaxVpfK) | 4:23 | 2021-12-24 |  |
-| [Let It Go \- Single Version](https://open.spotify.com/track/477Yon8OMSZpcKC7b8Ae5y) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Let It Go](https://open.spotify.com/album/6bkOVixmGpSggcyGDLnYbW) | 3:40 | 2021-12-24 |  |
+| [Let It Go \- Single Version](https://open.spotify.com/track/477Yon8OMSZpcKC7b8Ae5y) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Let It Go](https://open.spotify.com/album/6bkOVixmGpSggcyGDLnYbW) | 3:40 | 2021-12-24 | 2024-02-03 |
 | [Life is a Highway \- Home Free's Version](https://open.spotify.com/track/7jSnvJoGBmUxoCkvaRfxGr) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [As Seen On TV](https://open.spotify.com/album/482bj82Je6J3tdvu758sOX) | 3:18 | 2023-10-20 |  |
 | [Life is a Highway \- Home Free's Version](https://open.spotify.com/track/7nfcplt8hszPHYv0ECiPdg) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Life is a Highway \(Home Free's Version\)](https://open.spotify.com/album/62a9OZQr3Kczzt0tY1c1Dh) | 3:18 | 2023-10-20 | 2023-11-29 |
 | [Light On](https://open.spotify.com/track/2dDef6SYUfApGRxhREFfxd) | [The Virginia Gentlemen](https://open.spotify.com/artist/0steWfkS4hwaErh84SlHMW) | [Pasta Nights](https://open.spotify.com/album/0qLX5MqJJGCO7QecwlD1xv) | 3:57 | 2023-05-03 |  |

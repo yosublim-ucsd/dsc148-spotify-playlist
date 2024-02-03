@@ -1453,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Distant Solace",
+        "url": "https://open.spotify.com/album/7odaTvennSTNVuMLArV19i"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153559,
+      "name": "Distant Solace",
+      "url": "https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B"
+    },
+    {
+      "album": {
         "name": "Form//Less",
         "url": "https://open.spotify.com/album/4xdbtpK47a0l2QpEpUAEh1"
       },
@@ -2400,7 +2418,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 136160,
       "name": "In der Stadt und auf dem Land",
       "url": "https://open.spotify.com/track/5RpoUzFpBM0EMSet3Mzldw"
@@ -3010,7 +3028,7 @@
       ],
       "date_added": "2020-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 401466,
       "name": "Lipstick To Void",
       "url": "https://open.spotify.com/track/3iJP1AzZzlbUqJNJUvfJo3"
@@ -3100,7 +3118,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 175026,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/0zY2EvOMhmQEF2unzzfqqz"
@@ -4180,7 +4198,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 111813,
       "name": "Planeta Oc\u00e9ano",
       "url": "https://open.spotify.com/track/2DgsIFDMthDkK5WQXnFeAF"
@@ -4736,7 +4754,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 272822,
       "name": "Seven Wagons",
       "url": "https://open.spotify.com/track/2GNWIaKQj6TnP3853Bxywc"

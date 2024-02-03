@@ -1,12 +1,12 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 70738,
+  "num_followers": 70743,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjY5ZGMzOTRhMDNiYmNhMWRiYjA2NTk5ZjQ1MmRkNjIyYjkzZTE1",
+  "snapshot_id": "MCw0MTMzMTg3NjMzMWM0OWFjMWMzOWM2NzAyZmU1MzE0YWRiOWU5YTJh",
   "tracks": [
     {
       "added_at": "2023-11-17 08:35:13",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
         "name": "Automotivo Bibi Fogosa",
         "url": "https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 129776,
       "name": "Automotivo Bibi Fogosa",
       "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -407,6 +407,26 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
+        "name": "LIVE FOREVER",
+        "url": "https://open.spotify.com/album/4hiArqU343m8BUT0lymyLO"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "rainy bear",
+          "url": "https://open.spotify.com/artist/080kPbQFzomkrfHW8U4XkZ"
+        }
+      ],
+      "duration_ms": 85360,
+      "name": "nuts",
+      "url": "https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
         "name": "Doja",
         "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
-        "name": "LIVE FOREVER",
-        "url": "https://open.spotify.com/album/4hiArqU343m8BUT0lymyLO"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        },
-        {
-          "name": "rainy bear",
-          "url": "https://open.spotify.com/artist/080kPbQFzomkrfHW8U4XkZ"
-        }
-      ],
-      "duration_ms": 85360,
-      "name": "nuts",
-      "url": "https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -491,22 +491,18 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "Boy's a liar Pt. 2",
-        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 131013,
-      "name": "Boy's a liar Pt. 2",
-      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+      "duration_ms": 195320,
+      "name": "NEW MAGIC WAND",
+      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -547,18 +543,22 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "IGOR",
-        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+        "name": "Boy's a liar Pt. 2",
+        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 195320,
-      "name": "NEW MAGIC WAND",
-      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
+      "duration_ms": 131013,
+      "name": "Boy's a liar Pt. 2",
+      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
         "name": "Tek It (I Watch the Moon)",
         "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 166859,
       "name": "Tek It - Sped Up",
       "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
     },
     {
       "added_at": "2023-11-17 08:35:13",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2023-11-17 08:35:13",
       "album": {
+        "name": "eat ya veggies",
+        "url": "https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "duration_ms": 133706,
+      "name": "edamame",
+      "url": "https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD"
+    },
+    {
+      "added_at": "2023-11-17 08:35:13",
+      "album": {
         "name": "DEMONS IN MY SOUL",
         "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 169946,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
-    },
-    {
-      "added_at": "2023-11-17 08:35:13",
-      "album": {
-        "name": "eat ya veggies",
-        "url": "https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        }
-      ],
-      "duration_ms": 133706,
-      "name": "edamame",
-      "url": "https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD"
     },
     {
       "added_at": "2023-11-17 08:35:13",

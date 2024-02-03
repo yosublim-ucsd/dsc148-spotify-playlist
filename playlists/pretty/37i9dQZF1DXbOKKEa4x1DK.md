@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,486 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,512 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 20 | [Otra Como Tu](https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De Toño Rosario](https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp) | 4:32 |
 | 21 | [Si Algún Día la Ves](https://open.spotify.com/track/28rvnECjh1GrqsHKwkDRVi) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados de Sergio Vargas](https://open.spotify.com/album/3B3k2YlC02MqT2t8mkOMQf) | 4:44 |
 | 22 | [Noches de Fantasia](https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu) | [Roberto Antonio](https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx) | [Mentirosa](https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4) | 3:51 |
-| 23 | [Si Tú Eres Mi Hombre y Yo Tu Mujer](https://open.spotify.com/track/3t1KSw84bP0zIRryUD4VgQ) | [The New York Band](https://open.spotify.com/artist/29JDaAuJb2JrhbpQs6BXHr) | [Los Años Dorados](https://open.spotify.com/album/7zODnd44iBkdZUziXFsUnS) | 4:31 |
-| 24 | [Tu Me Vas a Dejar](https://open.spotify.com/track/1xJXSAosZHRwMiaeYxIpyV) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6MSQpN5C6I4Rb0Vec5h2wi) | 4:25 |
+| 23 | [Tu Me Vas a Dejar](https://open.spotify.com/track/1xJXSAosZHRwMiaeYxIpyV) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6MSQpN5C6I4Rb0Vec5h2wi) | 4:25 |
+| 24 | [Si Tú Eres Mi Hombre y Yo Tu Mujer](https://open.spotify.com/track/3t1KSw84bP0zIRryUD4VgQ) | [The New York Band](https://open.spotify.com/artist/29JDaAuJb2JrhbpQs6BXHr) | [Los Años Dorados](https://open.spotify.com/album/7zODnd44iBkdZUziXFsUnS) | 4:31 |
 | 25 | [Entre Tu Cuerpo y el Mio](https://open.spotify.com/track/20js1xS9eDxHcHVoVQASPO) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Los Vecinos](https://open.spotify.com/artist/3wwEkvc5v1R19fMX5fCj7a) | [20 Exitos Originales](https://open.spotify.com/album/76bNdLqQnSnzU145Com1b1) | 4:58 |
 | 26 | [Cuando Estés Con Él](https://open.spotify.com/track/6BOhbcfVzsNpIJ1dJYa47X) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Vida, Canción y Suerte](https://open.spotify.com/album/7o1Fi1ND2r1XMfpyi1Zrwf) | 3:40 |
 | 27 | [Un Beso y una Flor](https://open.spotify.com/track/5dQBYhRAkPoMPwTwMfqKcG) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Bomba 2000](https://open.spotify.com/album/4XkIhuk4TeHc7uGkF6wdeh) | 4:34 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 29 | [Vete y Dile](https://open.spotify.com/track/1gcLwCdALFFT5qvpDZgFu7) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn) | 4:56 |
 | 30 | [Resistire](https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Resistire](https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy) | 5:10 |
 | 31 | [Cobarde, Cobarde](https://open.spotify.com/track/3U4jgWwCo247GZX02vwFrI) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Buscando Tus Besos](https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT) | 4:19 |
-| 32 | [Que Pasara](https://open.spotify.com/track/3t8PVrZMstgAeWuIzUZSHU) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Por un Poco de Tu Amor](https://open.spotify.com/album/3j56jEfANtsYlTJ9mzCaq3) | 3:38 |
-| 33 | [Sobrevivire](https://open.spotify.com/track/1RyrjRUroLjPXeb2wNh9dQ) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Volando Alto](https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw) | 4:15 |
+| 32 | [Sobrevivire](https://open.spotify.com/track/1RyrjRUroLjPXeb2wNh9dQ) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Volando Alto](https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw) | 4:15 |
+| 33 | [Que Pasara](https://open.spotify.com/track/3t8PVrZMstgAeWuIzUZSHU) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Por un Poco de Tu Amor](https://open.spotify.com/album/3j56jEfANtsYlTJ9mzCaq3) | 3:38 |
 | 34 | [Mi Tonto Amor](https://open.spotify.com/track/6UEAh3AEbOMhgyH6OT8pDl) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Juntos Con Sus Éxitos](https://open.spotify.com/album/1D1qtrP020moJvytYhcRDd) | 4:17 |
 | 35 | [Me Arrepiento](https://open.spotify.com/track/2mImo5tRWlJrd7a1kl176n) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 3:46 |
 | 36 | [La Quiero a Morir / Si Algún Día la Ves](https://open.spotify.com/track/3VGAirMC7nJnhReTDiDv8d) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/0hV81HgF4pm6dcN22gLiHQ) | 6:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 59 | [Tu No Sabes Del Amor](https://open.spotify.com/track/0ShBMVpAUJpoD9g9dKrqfF) | [El Sujeto](https://open.spotify.com/artist/1agXndRcnMoHrs8BqFDi0R) | [I Love Urbano 2011 \(Dembow \- Mambo \- Reggaeton \- Merengue Urbano\)](https://open.spotify.com/album/4GT87SeLVbNcbb4KYqb0nj) | 3:42 |
 | 60 | [Popurri de Exitos](https://open.spotify.com/track/0efgwb66083LCAI2OQb1C6) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [El Torito](https://open.spotify.com/artist/1pbzjrJpvYl4xN0uaBGLsS) | [Homenaje a Benny Sadel](https://open.spotify.com/album/1FBkxyRCgqPiua8ZPAwIk5) | 6:03 |
 
-Snapshot ID: `MCw5ZTU5ZTM3ZDAxMThhODI5OTMyMjEyMTMyMmYzNjgwNzg3ZTJiM2Vi`
+Snapshot ID: `MCw5Y2Q0ZWQwYWY5NGVjYmUxYjI4NWViNzY2MGQ3YTlmNmYzZmNlZGQz`

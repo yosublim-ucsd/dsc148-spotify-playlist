@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 25129,
+  "2024-02-03": 25146,
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW?si=LHfmiRwVRfaO-rRmOrHnUw\"> Ssaru</a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=oxVRZqtmRIKOC2d2p86sXw\"> Maandy</a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -1787,7 +1787,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 174367,
       "name": "Drunk N Disorderly",
       "url": "https://open.spotify.com/track/2wkzB9IwJTATr2ORoqQKzo"
@@ -2247,6 +2247,32 @@
       "duration_ms": 187555,
       "name": "Hapo Tu (feat. Chris Kaiga)",
       "url": "https://open.spotify.com/track/6JR3F5nXtkkHwiCHIeYqSC"
+    },
+    {
+      "album": {
+        "name": "Hatukai Sana",
+        "url": "https://open.spotify.com/album/4Lhdmq2tD3wEHnIUfUhLvf"
+      },
+      "artists": [
+        {
+          "name": "Kappy",
+          "url": "https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR"
+        },
+        {
+          "name": "Nameless",
+          "url": "https://open.spotify.com/artist/5czMObQL2m79gXNP3BGguA"
+        },
+        {
+          "name": "Parroty",
+          "url": "https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206064,
+      "name": "Hatukai Sana",
+      "url": "https://open.spotify.com/track/0TBvfpxaNgqufL1Zi9rMJC"
     },
     {
       "album": {
@@ -3545,7 +3571,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 195000,
       "name": "Love",
       "url": "https://open.spotify.com/track/733bVgbJZKLFwtSRwsMckd"
@@ -3619,6 +3645,28 @@
       "duration_ms": 252244,
       "name": "Mahewa - Remix",
       "url": "https://open.spotify.com/track/3KLcOOjnMXyZFk5ZFekGgW"
+    },
+    {
+      "album": {
+        "name": "Make Way",
+        "url": "https://open.spotify.com/album/6geiI1WVKe6r4WDmPKtr2a"
+      },
+      "artists": [
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/2T29CQjXjyp2RAEXUVz6Qh"
+        },
+        {
+          "name": "Unspoken Salaton",
+          "url": "https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160835,
+      "name": "Make Way",
+      "url": "https://open.spotify.com/track/1v9npX1JzqLnSvpziS6RoG"
     },
     {
       "album": {
@@ -4927,6 +4975,28 @@
       "duration_ms": 220755,
       "name": "Niko Sawa",
       "url": "https://open.spotify.com/track/0u7qg774VdGANjp5f4uRNv"
+    },
+    {
+      "album": {
+        "name": "Nikuingize Box",
+        "url": "https://open.spotify.com/album/0fZMPkrmaacAFdxW332mTb"
+      },
+      "artists": [
+        {
+          "name": "Benzema",
+          "url": "https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK"
+        },
+        {
+          "name": "Shekina Karen",
+          "url": "https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148085,
+      "name": "Nikuingize Box",
+      "url": "https://open.spotify.com/track/185whrf3gT96ZR26CZGQPl"
     },
     {
       "album": {
@@ -6807,7 +6877,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 190281,
       "name": "Token",
       "url": "https://open.spotify.com/track/6ko3K47SosuIJBtpMQi64L"

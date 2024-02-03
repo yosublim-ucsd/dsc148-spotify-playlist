@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,786 likes - 70 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,802 likes - 70 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 40 | [アソシエイト](https://open.spotify.com/track/6qQg1PDO8MyH31zN1EiWio) | [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [アソシエイト](https://open.spotify.com/album/2hC6iFPJQqHplLv89AyRzK) | 4:27 |
 | 41 | [太陽のEsperanza](https://open.spotify.com/track/328HshC1dgRylZWfoBYLqC) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:52 |
 | 42 | [SEPTET for...](https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb) | [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [SEPTET for...](https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ) | 4:20 |
-| 43 | [Up to the nines](https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [Up to the nines](https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI) | 3:51 |
-| 44 | [Monologue Note](https://open.spotify.com/track/5kDbEBcNHqoVBGuuzi7Tmr) | [逢坂壮五 \(CV.阿部 敦\)](https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5) | [アイドリッシュセブン Collection Album \(vol.2\)](https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN) | 4:23 |
+| 43 | [Monologue Note](https://open.spotify.com/track/5kDbEBcNHqoVBGuuzi7Tmr) | [逢坂壮五 \(CV.阿部 敦\)](https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5) | [アイドリッシュセブン Collection Album \(vol.2\)](https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN) | 4:23 |
+| 44 | [Up to the nines](https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [Up to the nines](https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI) | 3:51 |
 | 45 | [願いはShine On The Sea](https://open.spotify.com/track/6Dt15H6eoMahUSC6UZcRmc) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 3:38 |
 | 46 | [ONE dream](https://open.spotify.com/track/6cYCUqJd87A0N472I17G9e) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj) | [ONE dream](https://open.spotify.com/album/1xjzWuNAvuMdKaFUs3FF0E) | 4:28 |
-| 47 | [100%ハピネス](https://open.spotify.com/track/5UNiqysZNXw5IBHnMQ5G4w) | [百 \(CV.保志総一朗\)](https://open.spotify.com/artist/3pn6k1AxOtm76sgtZZbmk9) | [100%ハピネス](https://open.spotify.com/album/2PrKTNIToXC8a8oZLAAQOG) | 4:29 |
+| 47 | [Four Leaf Ring](https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV) | [四葉 環 \(CV.KENN\)](https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD) | [Four Leaf Ring](https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR) | 4:27 |
 | 48 | [フォトフレーム](https://open.spotify.com/track/39c2UO7sELrK6HYcp0L9u2) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [キズナ](https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B) | 5:10 |
-| 49 | [Four Leaf Ring](https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV) | [四葉 環 \(CV.KENN\)](https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD) | [Four Leaf Ring](https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR) | 4:27 |
+| 49 | [100%ハピネス](https://open.spotify.com/track/5UNiqysZNXw5IBHnMQ5G4w) | [百 \(CV.保志総一朗\)](https://open.spotify.com/artist/3pn6k1AxOtm76sgtZZbmk9) | [100%ハピネス](https://open.spotify.com/album/2PrKTNIToXC8a8oZLAAQOG) | 4:29 |
 | 50 | [ピタゴラス☆ファイター](https://open.spotify.com/track/10kBUC4nLCkzXyHMMtrKsY) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [ピタゴラス☆ファイター](https://open.spotify.com/album/6SEPaqjGbkToWj5l2ePNwR) | 5:24 |
 | 51 | [June is Natural](https://open.spotify.com/track/4xFYYIWrWIZ0pTSQaTSopH) | [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a) | [June is Natural](https://open.spotify.com/album/5bLKKcHymzP2IS0dSeweTh) | 4:02 |
 | 52 | [千年先もずっと...](https://open.spotify.com/track/2lwmzAiCtQdHthgZeNUtFD) | [千 \(CV.立花慎之介\)](https://open.spotify.com/artist/1NdIK6Dn8ZcyiYtP9JcmWh) | [千年先もずっと...](https://open.spotify.com/album/7qaq2mi6O8fycroKkea5P1) | 5:21 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 69 | [激情](https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 4:23 |
 | 70 | [Utopia](https://open.spotify.com/track/2uUcR5JVyFsCttGtZVsbvo) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:18 |
 
-Snapshot ID: `MCwyNTQxYzQxZTI5MWY2MTE1NDZmMDA5MzcwNjM5YjY2OWM2YTdhMzIx`
+Snapshot ID: `MCxkOWM4ZDAwMjQ0NjA1MzIwNmNmZTA2ODdlOTIxYzZiNTYyNGI0N2M2`

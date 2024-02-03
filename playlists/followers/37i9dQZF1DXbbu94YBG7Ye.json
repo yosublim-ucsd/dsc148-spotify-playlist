@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 3278483,
+  "2024-02-03": 3278914,
   "date_first_scraped": "2022-01-02",
-  "description": "Si la rompe est\u00e1 ac\u00e1. Foto: Luck Ra & KHEA.",
+  "description": "Si la rompe est\u00e1 ac\u00e1. Foto: Luck Ra.",
   "name": "\u00c9xitos Argentina",
   "tracks": [
     {
@@ -981,6 +981,28 @@
       "duration_ms": 156631,
       "name": "Bronceado - Remix",
       "url": "https://open.spotify.com/track/1xxtsuafCIJm7WPQ1tdDDi"
+    },
+    {
+      "album": {
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
     },
     {
       "album": {
@@ -5617,7 +5639,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
@@ -6229,7 +6251,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
@@ -7561,6 +7583,24 @@
       "duration_ms": 192477,
       "name": "X \u00daLTIMA VEZ",
       "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+    },
+    {
+      "album": {
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148979,
+      "name": "Y TE VAS",
+      "url": "https://open.spotify.com/track/21RG4bCz6wb3iDCshmUGYT"
     },
     {
       "album": {

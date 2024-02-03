@@ -4,7 +4,7 @@
 
 > Relax, heal and restore your energy
 
-131 songs - 12 hr 16 min
+132 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Still Moment](https://open.spotify.com/track/2vAqcKkTSGUAkpu2kRKorM) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 5:43 | 2021-06-15 |  |
 | [Storm of Prayers](https://open.spotify.com/track/7hPabdlyPYruzSufxHhKwQ) | [Shaman's Dream](https://open.spotify.com/artist/3ohmouyL3xWW70OiC5ATDI) | [Prana: Music for Yoga, Meditation & Relaxation](https://open.spotify.com/album/0SfSkFENtIQ8puDcW6ymn1) | 10:24 | 2021-06-15 | 2023-12-02 |
 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 | 2021-06-15 |  |
-| [The Hierophant](https://open.spotify.com/track/4Vw5cNbZiNABO9Dh7dem5o) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX), [Jai Uttal](https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Spirit of Yoga](https://open.spotify.com/album/0uWowf3r9cp0nBhNZX9IsZ) | 15:13 | 2021-06-15 |  |
+| [The Hierophant](https://open.spotify.com/track/4Vw5cNbZiNABO9Dh7dem5o) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX), [Jai Uttal](https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Spirit of Yoga](https://open.spotify.com/album/0uWowf3r9cp0nBhNZX9IsZ) | 15:13 | 2021-06-15 | 2024-02-03 |
+| [The Hierophant](https://open.spotify.com/track/4nRhynmgCd9vL8Y9gcpuJL) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX), [Jai Uttal](https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Spirit of Yoga](https://open.spotify.com/album/1l3hBKUDwHTodVmr77MIXf) | 15:13 | 2021-06-15 |  |
 | [The Hierophant](https://open.spotify.com/track/5qgQww0z5pK4H07fhXaDzT) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX), [Jai Uttal](https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw), [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Spirit of Yoga](https://open.spotify.com/album/5t2MF4cYCAbNhcf3nfAD9N) | 15:13 | 2021-06-15 | 2022-12-01 |
 | [The Longest Rest](https://open.spotify.com/track/5JZ6J7RmUY8c6gWWCV1r7g) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Morning Dew](https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd) | 2:23 | 2021-06-15 |  |
 | [The Southern Sea](https://open.spotify.com/track/13DDTT9eGK66diG2a4j5hE) | [Garth Stevenson](https://open.spotify.com/artist/0SFz7AVtevccdhXj6aeVka) | [Flying](https://open.spotify.com/album/4FViVwipetWhzoq8Topg0P) | 8:59 | 2021-06-15 |  |

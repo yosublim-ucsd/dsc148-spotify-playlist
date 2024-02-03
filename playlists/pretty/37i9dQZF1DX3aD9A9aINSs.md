@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Elif Kaya
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,888 likes - 64 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,878 likes - 64 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 63 | [MİLYONLARCA](https://open.spotify.com/track/2S87Mi0fPmtHZeFHLA8fMH) | [Zanna](https://open.spotify.com/artist/21Y8iahZ50HTkOxWvnCvR8) | [Milyonlarca](https://open.spotify.com/album/0oDe2TYwl7T6pXVzW2ApQD) | 2:25 |
 | 64 | [Değer Dünyama](https://open.spotify.com/track/0Fzj8iEBnAzwhmFCxZFR6Y) | [Elvan Elvan](https://open.spotify.com/artist/0t2P5mPqFnG1RxqK6s93zW) | [Değer Dünyama](https://open.spotify.com/album/37u1z1pDfpG5VdVknIbcCe) | 4:02 |
 
-Snapshot ID: `MCxiOGY2YjQyNzc1YWNhOTZjNTY5NWFiMjE1OGY0ZTc4YmMwYjgwOWI2`
+Snapshot ID: `MCwyOTVlZDdkZWQzMGQyYjU2YzgzYWY4ZGZmNzQ1YTJlZTUzYzUzOTg2`

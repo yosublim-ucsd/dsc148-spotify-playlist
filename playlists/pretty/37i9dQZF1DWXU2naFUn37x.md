@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Neima Ezza
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,465 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,508 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 32 | [CADILLAC \(feat\. MV Killa, Geolier, Tony Effe\)](https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [WE THE SQUAD Vol\. 1](https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK) | 2:53 |
 | 33 | [VDLC](https://open.spotify.com/track/242NmD3BqOefyiOZQy2MT2) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:18 |
 | 34 | [BALLAS 2](https://open.spotify.com/track/5dftDcqeIMeoJcZX0YnZsl) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [BALLAS 2](https://open.spotify.com/album/05ErXdPOeswAAeB7EXoUXB) | 3:04 |
-| 35 | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv) | 2:38 |
+| 35 | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv) | 2:38 |
 | 36 | [DOV'ERI? \(feat\. Baby Gang\)](https://open.spotify.com/track/1ayxvCxpk0oFaL8lbx88on) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [DOV'ERI? \(feat\. Baby Gang\)](https://open.spotify.com/album/1pITHFIU30Kt38axjWvvwY) | 3:01 |
 | 37 | [LE BAMBINE FANNO OH \(feat\. Nerissima Serpe, ANNA, Papa V, Artie 5ive\)](https://open.spotify.com/track/0bB8hmswtN9WvOQXV159CC) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC](https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2) | 3:16 |
 | 38 | [Gol](https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Nati Per Fare La Guerra](https://open.spotify.com/track/5kjCIGDQzAWgfSKsnjnX7D) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Nati Per Fare La Guerra](https://open.spotify.com/album/3B72CwXRmMdlSSJW6cza0h) | 2:18 |
 | 50 | [OUTFIT](https://open.spotify.com/track/28EjVhyTynW4W1VBkpJckD) | [19F](https://open.spotify.com/artist/1wtu0PppVIsGTuYVE3gkiR) | [OUTFIT](https://open.spotify.com/album/7vElcMaft4eJYSn6qruSFR) | 2:59 |
 
-Snapshot ID: `MCxkNDdkMTRkZGRlMGMyNGFjNzlkOGU4NGQzNjlmNGI0NTI4NzNhZDhk`
+Snapshot ID: `MCw2MDBkMDRlZWQ2MTlmODMxMGRmODkyM2VhNmM3NTljMjQ3Yjg5MTA0`

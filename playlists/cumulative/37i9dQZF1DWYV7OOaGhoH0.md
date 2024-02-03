@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Tom Odell
+> The best in folk & acoustic today featuring music from Prateek Kuhad
 
-496 songs - 1 day 6 hr 49 min
+497 songs - 1 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [All There Is](https://open.spotify.com/track/6hN8XWJEnsCSBZJ4v8Ckdq) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 2:22 | 2022-01-14 | 2022-01-22 |
 | [All This Time Running](https://open.spotify.com/track/18I4ulh1koJ5ZrgbSxmlOV) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [All This Time Running](https://open.spotify.com/album/3fPPvUdHcXVG0MOtw3JSEY) | 3:05 | 2021-12-10 | 2022-02-05 |
 | [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-17 | 2023-03-04 |
-| [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 | 2023-06-30 |  |
+| [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 | 2023-06-30 | 2024-02-03 |
 | [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-03-03 | 2023-07-05 |
 | [Amsterdam](https://open.spotify.com/track/3TpqFZxnxNe2qn362Wydz8) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Amsterdam](https://open.spotify.com/album/4LF9PCKsTfcOVnh2ufagbO) | 5:01 | 2022-03-18 | 2022-09-03 |
 | [Amsterdam](https://open.spotify.com/track/1sIAk1Hpj5YsMyYYtTsdal) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Amsterdam](https://open.spotify.com/album/6Ju9oTtTNypA2En3jEoXWP) | 3:33 | 2021-12-10 | 2022-01-22 |
@@ -309,6 +309,7 @@
 | [Need You](https://open.spotify.com/track/2EO0D7WCnC38HzKncS4nAv) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Olly Olly](https://open.spotify.com/album/6898mgjdVWLEBf9gCQpCAS) | 3:09 | 2022-01-21 | 2022-04-02 |
 | [New Star](https://open.spotify.com/track/5XCySQu79sw9DDCuAjdn2R) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 3:05 | 2021-12-10 | 2023-03-25 |
 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 | 2021-12-10 | 2023-03-18 |
+| [No Complaints](https://open.spotify.com/track/2D2rLS5IBt2EzDajhtuHZR) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [No Complaints](https://open.spotify.com/album/42xj07uXecDQBFGUcEVfwx) | 3:07 | 2024-02-02 |  |
 | [no fun/party](https://open.spotify.com/track/1HoSyT8MIKRUZ3q3ohEFiK) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:56 | 2023-09-15 |  |
 | [Northern Attitude](https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4) | 4:27 | 2022-09-30 | 2023-07-01 |
 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 | 2023-11-10 |  |
@@ -411,7 +412,7 @@
 | [That's on You, That's on Me](https://open.spotify.com/track/4NKrrhHXSyobZHMImI9izz) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [That's On You, That's On Me](https://open.spotify.com/album/5Ry6LXvOutD0knHfrZr0y0) | 3:09 | 2023-05-05 | 2023-06-10 |
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-05-05 | 2024-01-13 |
 | [The Blues Have Blown Away](https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc), [Josh Oliver](https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv) | [The Blues Have Blown Away](https://open.spotify.com/album/7jewmK7nMLWpNw9EV5267b) | 2:47 | 2021-12-10 | 2022-06-04 |
-| [The End](https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [The End](https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox) | 3:10 | 2023-03-10 |  |
+| [The End](https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [The End](https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox) | 3:10 | 2023-03-10 | 2024-02-03 |
 | [The End](https://open.spotify.com/track/7qkX2mHStdrHVC2NFWqwpo) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [The End](https://open.spotify.com/album/12FtJ1DgVIT12XlvPRxtMb) | 3:10 | 2023-01-20 | 2023-03-11 |
 | [The Exception](https://open.spotify.com/track/2JSEqnS5EhLBV0uJXls29I) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Exception](https://open.spotify.com/album/5K0ymB1V7VUBydptTtplUX) | 4:07 | 2021-12-10 | 2022-04-23 |
 | [The Fall](https://open.spotify.com/track/67ZPraK8Fpf4aDskXXs2XK) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Fall](https://open.spotify.com/album/2S8EkNv3ZmaXYA9AYnjAVc) | 3:27 | 2023-05-19 |  |
@@ -422,7 +423,7 @@
 | [The Man Was Burning](https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [The Man Was Burning](https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly) | 2:35 | 2022-02-25 | 2022-07-30 |
 | [The Medicine Man \[Feat\. Old Crow Medicine Show\]](https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [The Medicine Man](https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii) | 3:38 | 2021-12-10 | 2022-05-07 |
 | [The Other Side](https://open.spotify.com/track/5ASXKBcnFeouRbWSkSgwkg) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [The Other Side](https://open.spotify.com/album/6Bf4Ppas9nS1Puv4J5hkNH) | 2:44 | 2024-01-05 | 2024-01-19 |
-| [The Other Side](https://open.spotify.com/track/7hVZJGsh5fxFtwaqgJq1nf) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [The Other Side](https://open.spotify.com/album/5hJtcqGwi9lmFElCqPRnlS) | 2:44 | 2024-01-05 |  |
+| [The Other Side](https://open.spotify.com/track/7hVZJGsh5fxFtwaqgJq1nf) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [The Other Side](https://open.spotify.com/album/5hJtcqGwi9lmFElCqPRnlS) | 2:44 | 2024-01-05 | 2024-02-03 |
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-07-14 |  |
 | [The Spur](https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [The Spur](https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI) | 3:52 | 2022-04-13 | 2023-04-09 |
 | [The Storm](https://open.spotify.com/track/4bUtK3pb9bSQ4b3PkDpACx) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Ten Thousand Roses](https://open.spotify.com/album/1IR5XtRzYQd7U2WFXkZc45) | 3:07 | 2021-12-10 | 2022-03-26 |

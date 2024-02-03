@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 256506,
+  "num_followers": 256583,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzMyZmMzNGUxZjdkMmNmMWQwYjEzN2I1Mjg3N2Y4ZDgyNTE5NWJm",
+  "snapshot_id": "MCxjNzAxZDQzNTQyODhmNTI5ZGQ2MTMxN2RjZTFmMDU1ZjIzMDcxMzI0",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S"
-      },
-      "artists": [
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 423173,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Jes\u00fas Siempre Llega a Tiempo",
         "url": "https://open.spotify.com/album/5hM2RpmACzxvfD26An3E40"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 319650,
       "name": "Levanto Mis Manos",
       "url": "https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S"
+      },
+      "artists": [
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 423173,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Lo Mejor De Gadiel Espinoza",
-        "url": "https://open.spotify.com/album/05sRL9QUM72ugGewZ1aF5k"
-      },
-      "artists": [
-        {
-          "name": "Gadiel Espinoza",
-          "url": "https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6"
-        }
-      ],
-      "duration_ms": 360826,
-      "name": "Asi Se\u00f1or",
-      "url": "https://open.spotify.com/track/5BfuA0EhIYYg4sjxyVYAOD"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Recopilaci\u00f3n",
         "url": "https://open.spotify.com/album/35kq5uh3NFFICxAXouBNPl"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 392438,
       "name": "Atr\u00e1eme a Ti",
       "url": "https://open.spotify.com/track/1NG2W9OLWi5CXxlmzCcCLj"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Lo Mejor De Gadiel Espinoza",
+        "url": "https://open.spotify.com/album/05sRL9QUM72ugGewZ1aF5k"
+      },
+      "artists": [
+        {
+          "name": "Gadiel Espinoza",
+          "url": "https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6"
+        }
+      ],
+      "duration_ms": 360826,
+      "name": "Asi Se\u00f1or",
+      "url": "https://open.spotify.com/track/5BfuA0EhIYYg4sjxyVYAOD"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Anhelo Conocerte",
-        "url": "https://open.spotify.com/album/0N3Fy6ufUY6nS0q82SpDFu"
-      },
-      "artists": [
-        {
-          "name": "Luigi Castro",
-          "url": "https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9"
-        }
-      ],
-      "duration_ms": 397760,
-      "name": "Anciano de D\u00edas - Live",
-      "url": "https://open.spotify.com/track/4QNG4X8Kph67GRGZC5TnAu"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Gloria al Rey",
         "url": "https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 264626,
       "name": "Gloria al Rey",
       "url": "https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Anhelo Conocerte",
+        "url": "https://open.spotify.com/album/0N3Fy6ufUY6nS0q82SpDFu"
+      },
+      "artists": [
+        {
+          "name": "Luigi Castro",
+          "url": "https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9"
+        }
+      ],
+      "duration_ms": 397760,
+      "name": "Anciano de D\u00edas - Live",
+      "url": "https://open.spotify.com/track/4QNG4X8Kph67GRGZC5TnAu"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Mi confianza est\u00e1 en ti (remix)",
-        "url": "https://open.spotify.com/album/4P70uBMLI7M22FKLIVZU96"
+        "name": "Por Fin en Casa",
+        "url": "https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1"
       },
       "artists": [
         {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
         }
       ],
-      "duration_ms": 333653,
-      "name": "Mi confianza est\u00e1 en ti (remix)",
-      "url": "https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN"
+      "duration_ms": 287116,
+      "name": "Hijo Pr\u00f3digo",
+      "url": "https://open.spotify.com/track/3nnICl5SaGPht8Ndnq1IDM"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Por Fin en Casa",
-        "url": "https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1"
+        "name": "Mi confianza est\u00e1 en ti (remix)",
+        "url": "https://open.spotify.com/album/4P70uBMLI7M22FKLIVZU96"
       },
       "artists": [
         {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
         }
       ],
-      "duration_ms": 287116,
-      "name": "Hijo Pr\u00f3digo",
-      "url": "https://open.spotify.com/track/3nnICl5SaGPht8Ndnq1IDM"
+      "duration_ms": 333653,
+      "name": "Mi confianza est\u00e1 en ti (remix)",
+      "url": "https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN"
     },
     {
       "added_at": "2020-11-24 13:23:38",

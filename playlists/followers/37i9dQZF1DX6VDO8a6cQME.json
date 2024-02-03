@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 3511785,
+  "2024-02-03": 3513125,
   "date_first_scraped": "2021-12-21",
   "description": "The most essential R&B songs from the 90s. Cover: Ms. Lauryn Hill",
   "name": "I Love My '90s R&B",
@@ -245,7 +245,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 262893,
       "name": "Brown Sugar",
       "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 260066,
       "name": "Every Little Thing I Do",
       "url": "https://open.spotify.com/track/5u3rsmRYRSKJpFHXPT4p07"

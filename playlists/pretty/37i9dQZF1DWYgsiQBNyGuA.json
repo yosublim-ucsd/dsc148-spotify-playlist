@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 75877,
+  "num_followers": 75933,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmRlZTA4OThlZTBjZDUzYTVlNDFmZDEyYzFkZTI0Zjg0ZmJhODU3",
+  "snapshot_id": "MCxmZDAxYjU0ZGQwMDU4NDk2YzAzMmY5MmZkZGRiNzY3ZDFiMjViOGMw",
   "tracks": [
     {
       "added_at": "2024-01-16 15:20:50",
@@ -927,22 +927,18 @@
     {
       "added_at": "2024-01-16 15:20:50",
       "album": {
-        "name": "Take You There",
-        "url": "https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR"
+        "name": "A Weird Kinda Wonderful",
+        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
       },
       "artists": [
         {
-          "name": "Wantigga",
-          "url": "https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF"
-        },
-        {
-          "name": "JAEL",
-          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
+          "name": "N'Dambi",
+          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
         }
       ],
-      "duration_ms": 212116,
-      "name": "Take You There",
-      "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
+      "duration_ms": 311453,
+      "name": "Can't Change Me",
+      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
     },
     {
       "added_at": "2024-01-16 15:20:50",
@@ -963,18 +959,22 @@
     {
       "added_at": "2024-01-16 15:20:50",
       "album": {
-        "name": "A Weird Kinda Wonderful",
-        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
+        "name": "Take You There",
+        "url": "https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR"
       },
       "artists": [
         {
-          "name": "N'Dambi",
-          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+          "name": "Wantigga",
+          "url": "https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF"
+        },
+        {
+          "name": "JAEL",
+          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
         }
       ],
-      "duration_ms": 311453,
-      "name": "Can't Change Me",
-      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
+      "duration_ms": 212116,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
     },
     {
       "added_at": "2024-01-16 15:20:50",

@@ -1,12 +1,12 @@
 {
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
-  "num_followers": 10839,
+  "num_followers": 10840,
   "original_name": "Holy Week: Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmFlMWQ3ODMxOGM2NjQ5NmMyNDliYjRkMTU4Y2Y0ZGNhZTE0NmVm",
+  "snapshot_id": "MCxlYzA5N2FmZmQyM2ZhM2IzOWNkMWQwZTVlOGUwZmRlNTViODM3ODEx",
   "tracks": [
     {
       "added_at": "2023-04-02 08:21:16",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
+        "name": "Holding Nothing Back",
+        "url": "https://open.spotify.com/album/2rygzTYOjYKpkfW99tCiaz"
+      },
+      "artists": [
+        {
+          "name": "Tim Hughes",
+          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/1gLCydMCD7D1b0bnYp5tyS"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
         "name": "A Beautiful Exchange",
         "url": "https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 643373,
       "name": "Beautiful Exchange - Live",
       "url": "https://open.spotify.com/track/2IoLThsLZVkOwDiHwQ0dyM"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
-        "name": "Holding Nothing Back",
-        "url": "https://open.spotify.com/album/2rygzTYOjYKpkfW99tCiaz"
-      },
-      "artists": [
-        {
-          "name": "Tim Hughes",
-          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/1gLCydMCD7D1b0bnYp5tyS"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Our God Will See Us Through (Live)",
-        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        }
-      ],
-      "duration_ms": 253652,
-      "name": "This Is My Song - Live",
-      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Reckless Love",
         "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 280599,
       "name": "Death Where is Your Sting",
       "url": "https://open.spotify.com/track/0U1FxC0ANweT6KSqLorM6e"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Our God Will See Us Through (Live)",
+        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        }
+      ],
+      "duration_ms": 253652,
+      "name": "This Is My Song - Live",
+      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -787,26 +787,6 @@
       "duration_ms": 428186,
       "name": "At The Cross (Love Ran Red) - Live",
       "url": "https://open.spotify.com/track/51IOMFLZNIn4oynL6t6bwr"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
-        "name": "Death Was Arrested",
-        "url": "https://open.spotify.com/album/4bJORPO5CXGYDQ4VTKDMq9"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
-        }
-      ],
-      "duration_ms": 314242,
-      "name": "Death Was Arrested",
-      "url": "https://open.spotify.com/track/29ZlluQsIFaYL79bBYey28"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -891,6 +871,26 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
+        "name": "Death Was Arrested",
+        "url": "https://open.spotify.com/album/4bJORPO5CXGYDQ4VTKDMq9"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "duration_ms": 314242,
+      "name": "Death Was Arrested",
+      "url": "https://open.spotify.com/track/29ZlluQsIFaYL79bBYey28"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
         "name": "Mercy Road",
         "url": "https://open.spotify.com/album/4NkTCWHns2QHBm6KW4ToMl"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Raise Up The Crown",
-        "url": "https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu"
-      },
-      "artists": [
-        {
-          "name": "Robbie Seay Band",
-          "url": "https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5"
-        }
-      ],
-      "duration_ms": 200773,
-      "name": "Beautiful Scandalous Night",
-      "url": "https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Blameless",
         "url": "https://open.spotify.com/album/1aNaKJuIh4Y5K6WONZuTtj"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
+        "name": "Raise Up The Crown",
+        "url": "https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu"
+      },
+      "artists": [
+        {
+          "name": "Robbie Seay Band",
+          "url": "https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5"
+        }
+      ],
+      "duration_ms": 200773,
+      "name": "Beautiful Scandalous Night",
+      "url": "https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
         "name": "Surrounded",
         "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 364600,
       "name": "Light to You",
       "url": "https://open.spotify.com/track/6AngIXIe1fI2Z4m5fREfY4"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
-        "name": "You Amaze Us",
-        "url": "https://open.spotify.com/album/0NKzXf20zGV0vsR60DZjF4"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "At The Cross",
-      "url": "https://open.spotify.com/track/6SpcdxmlDg5MQ1zGw8GEGo"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Kingdom Come",
-        "url": "https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR"
+        "name": "You Amaze Us",
+        "url": "https://open.spotify.com/album/0NKzXf20zGV0vsR60DZjF4"
       },
       "artists": [
         {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
         }
       ],
-      "duration_ms": 285853,
-      "name": "It Was Finished",
-      "url": "https://open.spotify.com/track/0oGI2EFKcoW9ZSu9JNoZvj"
+      "duration_ms": 242040,
+      "name": "At The Cross",
+      "url": "https://open.spotify.com/track/6SpcdxmlDg5MQ1zGw8GEGo"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 285853,
+      "name": "It Was Finished",
+      "url": "https://open.spotify.com/track/0oGI2EFKcoW9ZSu9JNoZvj"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
         "name": "My Utmost For His Highest",
         "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 240298,
       "name": "My Victory",
       "url": "https://open.spotify.com/track/1zg8rQ4pENedgx2FpHXN0o"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "The Cross Forever Speaks",
+      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "The Cross Forever Speaks",
-      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/1JS4S79J7ZNDKRUkf2tFl6"
       },
@@ -1203,22 +1203,18 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Hymns Ancient And Modern (Live)",
-        "url": "https://open.spotify.com/album/1ABQb99YyGRAKq0z3VXgoA"
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Charlie Hall",
-          "url": "https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 280915,
-      "name": "How Great Thou Art - Live",
-      "url": "https://open.spotify.com/track/4XWA4VGeNYIOlbOfy9wr4P"
+      "duration_ms": 315520,
+      "name": "You Were On The Cross",
+      "url": "https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1235,6 +1231,26 @@
       "duration_ms": 252964,
       "name": "The Cross Has The Final Word",
       "url": "https://open.spotify.com/track/5vqBJKU4U3OLvm2anticiy"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Hymns Ancient And Modern (Live)",
+        "url": "https://open.spotify.com/album/1ABQb99YyGRAKq0z3VXgoA"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Charlie Hall",
+          "url": "https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV"
+        }
+      ],
+      "duration_ms": 280915,
+      "name": "How Great Thou Art - Live",
+      "url": "https://open.spotify.com/track/4XWA4VGeNYIOlbOfy9wr4P"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 315520,
-      "name": "You Were On The Cross",
-      "url": "https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "See The Morning",
         "url": "https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi"
       },
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Ashes (feat. Chris McClarney)",
-        "url": "https://open.spotify.com/album/1SFDjdhnnT087ZPbKL33st"
+        "name": "For His Glory",
+        "url": "https://open.spotify.com/album/0uoCXagv4rK7wK6EQMGIaO"
       },
       "artists": [
         {
-          "name": "Dara Maclean",
-          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
-        },
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+          "name": "Karen Peck & New River",
+          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
         }
       ],
-      "duration_ms": 279903,
-      "name": "Ashes (feat. Chris McClarney)",
-      "url": "https://open.spotify.com/track/01F2MJzSFzD0Wqhg2bpmvG"
+      "duration_ms": 252320,
+      "name": "That's Why They Call It Grace",
+      "url": "https://open.spotify.com/track/1DW3R9YwHN54kirYuxbwQ5"
     }
   ],
   "unique_name": "Holy Week: Easter",

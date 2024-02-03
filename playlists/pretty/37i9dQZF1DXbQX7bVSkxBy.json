@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv?si=egVP3snNRzOlaJxSO2VPvw>Yoyo Michael</a> ",
-  "num_followers": 21371,
+  "num_followers": 21432,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWY2NzAxNDVmMmRhNmM5N2E4MjQ2ZmQwODA2YmE2MDk2MGFlY2M3",
+  "snapshot_id": "MCxhN2JjYjNlNmYzMDdlZjNlZDFkN2NhZWY1YjA1OWIyMGUwZjllZjEw",
   "tracks": [
     {
       "added_at": "2024-01-26 00:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "EIGHT",
-        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 292261,
-      "name": "Bless God",
-      "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
         "name": "The Maverick Way Complete",
         "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 498332,
       "name": "For My Good (feat. Todd Galberth)",
       "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "EIGHT",
+        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 292261,
+      "name": "Bless God",
+      "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -541,6 +541,30 @@
       "url": "https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "No Longer Bound (I'm Free)",
+        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 175188,
+      "name": "No Longer Bound (I'm Free)",
+      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+    },
+    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "His Glory Alone II",
@@ -579,22 +603,6 @@
     {
       "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "Praise The Lord",
-        "url": "https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 198745,
-      "name": "Praise The Lord",
-      "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
         "name": "REBEL (The Beginning)",
         "url": "https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5"
       },
@@ -609,28 +617,20 @@
       "url": "https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "No Longer Bound (I'm Free)",
-        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 175188,
-      "name": "No Longer Bound (I'm Free)",
-      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+      "duration_ms": 198745,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 234667,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
-    },
-    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "pure",
@@ -691,6 +675,22 @@
       "duration_ms": 356962,
       "name": "pure",
       "url": "https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 234667,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "HALLELUJAH LIVE",
-        "url": "https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "VICTORIA ORENZE",
-          "url": "https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w"
-        }
-      ],
-      "duration_ms": 511197,
-      "name": "Ebenezer - Live",
-      "url": "https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
         "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 282000,
       "name": "Twenty-Four (Tyler Joseph from Twenty One Pilots Version)",
       "url": "https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "HALLELUJAH LIVE",
+        "url": "https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "VICTORIA ORENZE",
+          "url": "https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w"
+        }
+      ],
+      "duration_ms": 511197,
+      "name": "Ebenezer - Live",
+      "url": "https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Names of God",
-        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
       },
       "artists": [
         {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         }
       ],
-      "duration_ms": 511207,
-      "name": "Adonai",
-      "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
+      "duration_ms": 591333,
+      "name": "Made A Way",
+      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
     }
   ],
   "unique_name": "Testify",

@@ -1,12 +1,12 @@
 {
   "description": "Future Dance hits. Cover: SACHI",
-  "num_followers": 139646,
+  "num_followers": 139653,
   "original_name": "New Dance Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGVlMGZjOGQzMDk3MGJjOWNkODJkNjRkY2FkNzVmN2E1OGQ5YjZh",
+  "snapshot_id": "MCxlNWRlZmQ4YjQxMGM2NDU0NDlkMDZhM2JlYzdkODJhYTVhNmIyMjE2",
   "tracks": [
     {
       "added_at": "2024-02-01 13:00:00",
@@ -199,6 +199,26 @@
     {
       "added_at": "2024-02-01 13:00:00",
       "album": {
+        "name": "KINEMA",
+        "url": "https://open.spotify.com/album/5bikiolrxKPQiFfPt7bdv8"
+      },
+      "artists": [
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        },
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Do or Die (ft. DPR IAN)",
+      "url": "https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo"
+    },
+    {
+      "added_at": "2024-02-01 13:00:00",
+      "album": {
         "name": "In the Night",
         "url": "https://open.spotify.com/album/28ovXVvFvyeA51ynmGllvv"
       },
@@ -264,7 +284,7 @@
       },
       "artists": [
         {
-          "name": "Bicep",
+          "name": "BICEP",
           "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Joé Dwèt Filé
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,907 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,968 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Bobo](https://open.spotify.com/track/4KGKnSCyp6XlbYtroVMBia) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Bobo](https://open.spotify.com/album/11fWEJUTNotTd01ZHOca08) | 3:53 |
 | 40 | [La Loupe](https://open.spotify.com/track/6LvIvRZh3SeWGKyzM8gYJO) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [La Loupe](https://open.spotify.com/album/4PLxr6mFMC4Uth8aJemKCF) | 2:35 |
 
-Snapshot ID: `MCwxOGVjZTk1YjZjMzEyYzI0YmUzOTIyMjY4Mzk1YmY5Mjc0OWYyOTRm`
+Snapshot ID: `MCxhMjdmNDNkZDM2ODYyOTdlOTc0NjVhNzRmMDM0OTcxZTRhZTM1NjAy`

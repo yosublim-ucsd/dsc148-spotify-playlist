@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 
 > This is ALI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,817 likes - 41 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,822 likes - 41 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 | 34 | [GABBA GABBA HEY HEY](https://open.spotify.com/track/3XlHHnZSpjLwGAkhosJIbw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 3:14 |
 | 35 | [FOUND BLUE](https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [INGLOURIOUS EASTERN COWBOY](https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg) | 4:49 |
 | 36 | [SHOW TIME](https://open.spotify.com/track/5eOOnFQHQdb5DpJvZRPS2l) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [SHOW TIME](https://open.spotify.com/album/24yJA2oiDwau8NsrcqH2lw) | 4:44 |
-| 37 | [BONNIE](https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [ALI](https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ) | 4:44 |
+| 37 | [Vim](https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Vim](https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z) | 5:14 |
 | 38 | [Funky Nassau](https://open.spotify.com/track/4BDfJFLVXQhYI5ruXkrvVe) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 5:16 |
-| 39 | [Vim](https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Vim](https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z) | 5:14 |
+| 39 | [BONNIE](https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [ALI](https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ) | 4:44 |
 | 40 | [LONELY LONELY \-ULTRA HEAVEN REMIX by ALI×鋭児\-](https://open.spotify.com/track/57CUn3paq7FpjozT9ZXSHX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [鋭児](https://open.spotify.com/artist/1r1xAyct7zaJaTXWz4BfZS) | [LONELY LONELY](https://open.spotify.com/album/34Q9DMv5RDZhMuNPByXufh) | 6:26 |
 | 41 | [TRUE FICTION](https://open.spotify.com/track/1WSJOy4rfsuOiwQLrfAke7) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [ALI](https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ) | 4:57 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDA0YmQ3YTMyNDY3YjQ2ZThkYjhhNTIwNzZmYTMzMzQ0Mw==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDA5NjdlYjM5MWU2MjYzYTMzYWQyNjZlNDMwMTVlNDA0NA==`

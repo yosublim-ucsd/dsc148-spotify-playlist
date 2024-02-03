@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Blusher is our new RADAR artist to watch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,204 likes - 72 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,223 likes - 72 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 5 | [OUR PEOPLE \(feat\. The Presets\)](https://open.spotify.com/track/0mmLOdN3lD9zfvW91SNsrG) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg) | [OUR PEOPLE \(feat\. The Presets\)](https://open.spotify.com/album/4zVoQrcFwZgHVQPXJe9pKY) | 3:54 |
 | 6 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 |
 | 7 | [Ride It](https://open.spotify.com/track/2CFHcnCYe7AGWoxwRdMx70) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Ride It](https://open.spotify.com/album/4vGP301b5kqTeeaeYpsMaM) | 2:18 |
-| 8 | [daydream](https://open.spotify.com/track/00QssnWjPr673yUTv18Rth) | [Kwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [daydream](https://open.spotify.com/album/29zx5mG7UmY2D6azEQ3OIJ) | 3:01 |
+| 8 | [daydream](https://open.spotify.com/track/00QssnWjPr673yUTv18Rth) | [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [daydream](https://open.spotify.com/album/29zx5mG7UmY2D6azEQ3OIJ) | 3:01 |
 | 9 | [Pull It Up](https://open.spotify.com/track/4LbTlzMQmQlJJ0ABxBRYsF) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Pull It Up](https://open.spotify.com/album/33cYFSyck2TiCnEYHFxqk6) | 2:34 |
 | 10 | [PLAYLIST \(ROCK DA BOAT\)](https://open.spotify.com/track/7D6jnDW82vRRMiCRLcy0pl) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [WE STILL YOUNG](https://open.spotify.com/album/2UlMKNVdCbVxTG4LwxpiTz) | 2:47 |
 | 11 | [Stay Blessed](https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Stay Blessed](https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5) | 2:57 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 71 | [Perfect For You](https://open.spotify.com/track/4BYKEjoZaJrw3qwCPhGpbP) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Perfect For You](https://open.spotify.com/album/1FCUqRoNBgaoLJFqbA13ir) | 2:58 |
 | 72 | [Rhythms](https://open.spotify.com/track/7B1k04cXHoNGF1ve0k3acD) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Rhythms](https://open.spotify.com/album/2J7YuvDTltVy6R3noYv416) | 3:15 |
 
-Snapshot ID: `MCw1ZDYzY2FiMmQ1ZTE2ZDk2MmYxZDRkMTczNDM3NTRkYmM2MzU2MGJk`
+Snapshot ID: `MCw3ZDk0ZTFkMmU0YWQ4MzRiZmZiZWZiMjAwZTk4OTRmOWNjOTJiMmFj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,893 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,913 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 28 | [Matitas Verdes \(En Vivo\)](https://open.spotify.com/track/6602oDHS6ArzmjCXUz1DeS) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Matitas Verdes \(En Vivo\)](https://open.spotify.com/album/6dFaDaCDQqEKfdcELahkAt) | 2:41 |
 | 29 | [Prohibido \(En vivo\)](https://open.spotify.com/track/1WBk7QTwuuFbBnSCEEpk8D) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 2:52 |
 | 30 | [El Rey Del Desierto](https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Rey Del Desierto](https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2) | 2:59 |
-| 31 | [Somos Gente Del Sombrero \- En Vivo](https://open.spotify.com/track/5cJUpAtZBY253aPOo0QmId) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Somos Gente Del Sombrero \(En Vivo\)](https://open.spotify.com/album/2qaSacTJoTXZHZShAIRkZK) | 3:23 |
-| 32 | [La Charla](https://open.spotify.com/track/6CMJ82WDjcJzJOzID4Rtog) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Charla](https://open.spotify.com/album/61QqtB8p8Eua07ha7IgRKr) | 3:50 |
+| 31 | [La Charla](https://open.spotify.com/track/6CMJ82WDjcJzJOzID4Rtog) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Charla](https://open.spotify.com/album/61QqtB8p8Eua07ha7IgRKr) | 3:50 |
+| 32 | [Somos Gente Del Sombrero \- En Vivo](https://open.spotify.com/track/5cJUpAtZBY253aPOo0QmId) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Somos Gente Del Sombrero \(En Vivo\)](https://open.spotify.com/album/2qaSacTJoTXZHZShAIRkZK) | 3:23 |
 | 33 | [El Chapio](https://open.spotify.com/track/67awu82DAAtJGUtvfbSZM8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mes De Las Madres](https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN) | 2:55 |
 | 34 | [Hasta La Caja Cuesta](https://open.spotify.com/track/05NeYNxTvQe2Wl9xbaTUWc) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Hasta La Caja Cuesta](https://open.spotify.com/album/6lXe0TGUsy16Z4zEKqp1aD) | 2:53 |
 | 35 | [En La Cima \(En vivo\)](https://open.spotify.com/track/3SCJI8X7N0RYHcCaivNa1P) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [El Gordo De Coachella](https://open.spotify.com/track/6JQDU9sgRpmcMU9Soo1ztf) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:38 |
 | 50 | [Pese A Quien Le Pese](https://open.spotify.com/track/2Pvx5MfPEzmDUNjnq9GFjP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pese A Quien Le Pese](https://open.spotify.com/album/6cnEHJEveEigJeAZIUQrQ4) | 1:44 |
 
-Snapshot ID: `Mjg0NDY1MTQsMDAwMDAwMDBiMGQ0NGRlMzhmY2RlMTgxOGUxMDg5YzQwYTBlMTNmMg==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDA4ZDQ5MjBmMmViZjdkNGVhYzdiOWM2ZjVkYWYxMWQ0Yg==`

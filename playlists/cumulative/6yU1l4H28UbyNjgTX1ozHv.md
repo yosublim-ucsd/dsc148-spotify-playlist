@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-204 songs - 10 hr 45 min
+205 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Lovely Day \- Acoustic](https://open.spotify.com/track/0E0S0qGWnQJz3tr8SFwOc2) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe), [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Lovely Day \(Acoustic\)](https://open.spotify.com/album/21xpcm4980RyqV2Asq7PWv) | 3:01 | 2022-04-22 | 2022-06-27 |
 | [Lovely Day \- Acoustic](https://open.spotify.com/track/4EbymPiRoHnMoTmo23X9qK) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [Lovely Day \(Acoustic\)](https://open.spotify.com/album/2tvz3xvxfXIxN8mQg2oDcs) | 2:56 | 2023-08-06 |  |
 | [Mad World \- Acoustic](https://open.spotify.com/track/2WZ1wOlucndS0RBIltQnQj) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Mad World \(Acoustic\)](https://open.spotify.com/album/6Lp5nb13LglZANk9txeQ1i) | 3:00 | 2020-12-24 |  |
-| [Made You Look \- Acoustic](https://open.spotify.com/track/4c4S1XXmKxdUP9y4kP9kz6) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Made You Look \(Acoustic\)](https://open.spotify.com/album/2QUadiT3xJWSW17m8tn2Qf) | 2:24 | 2023-06-30 |  |
+| [Made You Look \- Acoustic](https://open.spotify.com/track/4c4S1XXmKxdUP9y4kP9kz6) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Made You Look \(Acoustic\)](https://open.spotify.com/album/2QUadiT3xJWSW17m8tn2Qf) | 2:24 | 2023-06-30 | 2024-02-03 |
 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 | 2019-10-13 |  |
 | [Make Me \(Cry\) \- Acoustic Version](https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\) \[Acoustic Version\]](https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk) | 3:52 | 2019-10-13 |  |
 | [Make Me Smile \(Come Up and See Me\) \- Acoustic](https://open.spotify.com/track/70pB50X1SwOwNnjzAKh4el) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Make Me Smile \(Come Up and See Me\) \[Acoustic\]](https://open.spotify.com/album/0Z8eRmD2Pz3JJ6VoVnzznC) | 3:29 | 2023-05-29 |  |
@@ -158,7 +158,7 @@
 | [Sit Down \- Acoustic](https://open.spotify.com/track/5dGgyreFnyXsYTRW7vV7Xy) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Sit Down \(Acoustic\)](https://open.spotify.com/album/58BKYmicaHsxUzmIfjkJvo) | 2:47 | 2021-08-01 |  |
 | [Skinny Love](https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u) | 3:21 | 2019-10-13 |  |
 | [Smells Like Teen Spirit \- Acoustic](https://open.spotify.com/track/5Y0X7NxowxPpvDb4vzq1Hr) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Smells Like Teen Spirit \(Acoustic\)](https://open.spotify.com/album/4Si5kpHAc3ec1bB07qwxJu) | 2:30 | 2021-04-13 |  |
-| [So Sick \- Acoustic](https://open.spotify.com/track/1JnwWC2dcOHjjb85glfjKc) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [So Sick \(Acoustic\)](https://open.spotify.com/album/2k0vtHSago585tJuBIBnN9) | 2:33 | 2023-01-27 |  |
+| [So Sick \- Acoustic](https://open.spotify.com/track/1JnwWC2dcOHjjb85glfjKc) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [So Sick \(Acoustic\)](https://open.spotify.com/album/2k0vtHSago585tJuBIBnN9) | 2:33 | 2023-01-27 | 2024-02-03 |
 | [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 | 2019-10-13 |  |
 | [Stand By Me \- Acoustic](https://open.spotify.com/track/3EwflvIjTsj1geph4V1rj5) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [Stand By Me \(Acoustic\)](https://open.spotify.com/album/4YBuNLaJI4MAHEeaobswnV) | 2:53 | 2020-04-09 | 2023-02-02 |
 | [Starving \- Acoustic](https://open.spotify.com/track/3otAtzQb3f7adNdiCgdECo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving \(Acoustic\)](https://open.spotify.com/album/2rTG6XOfAwNyfwjACFKN16) | 3:01 | 2019-10-13 |  |
@@ -203,6 +203,7 @@
 | [You & Me Song \- Acoustic](https://open.spotify.com/track/1BGqPCs8lTqaRHc6AWBvts) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [You & Me Song \(Acoustic\)](https://open.spotify.com/album/7dKiRJqvMpIOMkbMafTc8k) | 2:52 | 2023-01-18 | 2023-04-11 |
 | [You Belong With Me \- Acoustic](https://open.spotify.com/track/2kLo4Rvt1RKvo4vjDZ9fHy) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [You Belong With Me \(Acoustic\)](https://open.spotify.com/album/3EmhJjJNNnUk6j7FfASff0) | 3:54 | 2022-03-25 | 2023-01-28 |
 | [You Get What You Give \- Acoustic](https://open.spotify.com/track/3ZRRjUNc1OIGRBPz65VyxH) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [You Get What You Give \(Acoustic\)](https://open.spotify.com/album/0QO3w3D9HNIrLR2y0rMltj) | 3:10 | 2023-09-10 |  |
+| [You Got It \- Acoustic](https://open.spotify.com/track/5a6e3orRKXQa8DKDpK1Rvk) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [You Got It \(Acoustic\)](https://open.spotify.com/album/7hfuFxdCaXDCJe0hFfqye7) | 3:24 | 2024-02-02 |  |
 | [You Gotta Be \- Acoustic](https://open.spotify.com/track/4RlBEdL5DOSslHLSUhKJn6) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [You Gotta Be \(Acoustic\)](https://open.spotify.com/album/3pR8DUQuR6uy44pYmFGw52) | 2:28 | 2019-10-13 |  |
 | [You Make My Dreams \- Acoustic](https://open.spotify.com/track/31nV3lkDVnJlfHntOkIhpD) | [Alex Francis](https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa) | [Foundations Acoustic](https://open.spotify.com/album/0uSBXq04gTbVFm1WgFQrei) | 3:25 | 2019-10-13 |  |
 | [You Make My Dreams \- Acoustic](https://open.spotify.com/track/0u9jiSe6t4MLdkpTvg3Kdv) | [Hailey Gardiner](https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc) | [You Make My Dreams \(Acoustic\)](https://open.spotify.com/album/3rWfZ8M7iIGKFybwCIXZTk) | 2:34 | 2021-05-28 |  |
@@ -210,7 +211,7 @@
 | [You're Gonna Live Forever in Me](https://open.spotify.com/track/51lPx6ZCSalL2kvSrDUyJc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:10 | 2019-10-13 |  |
 | [You're My Best Friend \- Acoustic](https://open.spotify.com/track/4HcNBjBC8a6DVd2pwh0B8R) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [You're My Best Friend \(Acoustic\)](https://open.spotify.com/album/4HUf5kBKh15Y3LviPVSDX2) | 2:27 | 2022-09-30 | 2023-01-21 |
 | [You're So Vain \- Acoustic](https://open.spotify.com/track/6tIj648abzmT84fdY7eTRW) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [You're So Vain \(Acoustic\)](https://open.spotify.com/album/431NQmwLYw1PA5fSmTcKD2) | 3:04 | 2022-07-15 | 2023-01-28 |
-| [You're the One That I Want \- Acoustic](https://open.spotify.com/track/7rlsybGFVSyYq9tDdxloHd) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [You're the One That I Want \(Acoustic\)](https://open.spotify.com/album/5imKUMucWByXmUaOhQt151) | 2:31 | 2023-03-03 |  |
+| [You're the One That I Want \- Acoustic](https://open.spotify.com/track/7rlsybGFVSyYq9tDdxloHd) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [You're the One That I Want \(Acoustic\)](https://open.spotify.com/album/5imKUMucWByXmUaOhQt151) | 2:31 | 2023-03-03 | 2024-02-03 |
 | [Young Dumb & Broke](https://open.spotify.com/track/7GqZ6zzVxXR0LBYEFxidQP) | [Kyson Facer](https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30), [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Young Dumb & Broke](https://open.spotify.com/album/51pFX3O6cjHfVQLECCyPwy) | 2:01 | 2023-09-02 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

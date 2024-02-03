@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VDZny.md) - [plain]
 
 > This is Bring Me The Horizon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,524 likes - 40 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,732 likes - 39 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VDZny.md) - [plain]
 | 36 | [Chelsea Smile](https://open.spotify.com/track/3WrJEnn2BDh3QQYdgEyk9Y) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/5gLPHzNPjPb2wfZRx7pwj6) | 5:02 |
 | 37 | [mother tongue](https://open.spotify.com/track/5IwUFTiNkarb5HEtNRtRtc) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 3:37 |
 | 38 | [It Never Ends](https://open.spotify.com/track/1ubPOjDpZ5GtGOW8dR4NOh) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [There is a Hell Believe Me I've Seen It\. There is a Heaven Let's Keep it a Secret](https://open.spotify.com/album/6JTBo69T5tEByZEEb4KZYl) | 4:34 |
-| 39 | [Diamonds Aren't Forever](https://open.spotify.com/track/60mHJRv2QF3mK8lgtYSGiF) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/5gLPHzNPjPb2wfZRx7pwj6) | 3:48 |
-| 40 | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/track/0ceW5TkemJUEmJERavfqQq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dani Filth](https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:34 |
+| 39 | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/track/0ceW5TkemJUEmJERavfqQq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dani Filth](https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:34 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDAwMTY0ZDFjNjNmYTQ2NmFhMDVkMzgzMTI5NGNkMzMwNA==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDAxZmIyNmRhMTQzZmEwMjJkYzE2ZWZlMDJiM2JlMGY2Yg==`

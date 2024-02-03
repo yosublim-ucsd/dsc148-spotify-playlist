@@ -4,7 +4,7 @@
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-369 songs - 18 hr 52 min
+370 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,8 @@
 | [Superstar](https://open.spotify.com/track/1lzvNTzq0v7qZcpZCnxD79) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Superstar](https://open.spotify.com/album/6EjJR3kzzAmsCLpja0YtS7) | 3:21 | 2022-05-16 | 2022-07-29 |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-01-12 | 2023-02-18 |
 | [Sweet Talker](https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sweet Talker](https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT) | 2:56 | 2022-05-06 | 2022-07-29 |
-| [Sweet Tooth](https://open.spotify.com/track/2FGRYTvIQgmKrzulB0GXDe) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sweet Tooth](https://open.spotify.com/album/5kfJTiTIFRijBdqqD5b6eh) | 3:07 | 2024-02-01 |  |
+| [Sweet Tooth](https://open.spotify.com/track/2FGRYTvIQgmKrzulB0GXDe) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sweet Tooth](https://open.spotify.com/album/5kfJTiTIFRijBdqqD5b6eh) | 3:07 | 2024-02-01 | 2024-02-03 |
+| [Sweet Tooth](https://open.spotify.com/track/2q3WnVVXT4xh4GA4O7cHF3) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sweet Tooth](https://open.spotify.com/album/0m7jHaP0wjBEqrRncFTLic) | 3:07 | 2024-02-01 |  |
 | [Take A Chance](https://open.spotify.com/track/46d67vPhehiB0xlvfa7zn7) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Take A Chance](https://open.spotify.com/album/1RQS929sWdYKcsNMTuKjiQ) | 2:59 | 2022-05-06 | 2022-07-29 |
 | [Take You Dancing](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Take You Dancing](https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly) | 3:10 | 2022-05-06 |  |
 | [Tangerine Skies](https://open.spotify.com/track/2VvHa9p1kkTmaCMq0exODA) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Tangerine Skies](https://open.spotify.com/album/6phvQbCky7tIuiv8c6QxW5) | 3:12 | 2022-05-13 | 2022-06-12 |
@@ -335,7 +336,7 @@
 | [The Finger \(feat\. Georgia Ku\)](https://open.spotify.com/track/7s5STnbx8NWbggIJDw1o9i) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [The Finger \(feat\. Georgia Ku\)](https://open.spotify.com/album/2IE8aTFgwS8s172Pi5x2zn) | 2:47 | 2022-05-06 | 2022-06-25 |
 | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/1sV6bR42OhPi2PL7ZPHLNi) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/album/5wSX76l2RgF4wIzxSBaVXD) | 4:34 | 2022-10-14 | 2022-12-03 |
 | [The Tower](https://open.spotify.com/track/4IUMSDTVvUellFQ7RxI3kZ) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [The Tower](https://open.spotify.com/album/1tLg7dKobGBkc9O6BhjMQl) | 3:00 | 2024-01-26 |  |
-| [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr) | 2:58 | 2022-05-06 | 2024-02-02 |
+| [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr) | 2:58 | 2022-05-06 |  |
 | [Tienaté](https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:38 | 2022-07-22 | 2023-03-25 |
 | [Tienaté](https://open.spotify.com/track/3SrL1Q0AvVYe04AZgZMlYg) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Tienaté](https://open.spotify.com/album/1Ot8U0UlsLPk8XPKCT4ocE) | 4:38 | 2022-05-06 | 2022-07-29 |
 | [Too Good](https://open.spotify.com/track/53y8w20LNnGcch3LWhNGSq) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [AtcG](https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj) | [Too Good](https://open.spotify.com/album/548SIUx71myoKzcVT1uyAX) | 3:10 | 2022-07-22 | 2022-07-29 |
@@ -374,7 +375,7 @@
 | [You for Me](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You for Me](https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT) | 2:55 | 2022-05-06 | 2023-04-01 |
 | [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 | 2022-12-02 | 2023-02-16 |
 | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY) | 3:41 | 2022-05-06 | 2022-07-29 |
-| [You've Got The Love](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:48 | 2023-12-06 |  |
+| [You've Got The Love](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:48 | 2023-12-06 | 2024-02-03 |
 | [Écoutez\-moi](https://open.spotify.com/track/4kYwPVPnKS3Kec0RWt6B4Q) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/6m2WNWedpCrd7zTfHZ8fZf) | 2:39 | 2024-01-18 | 2024-01-20 |
 | [Écoutez\-moi \(International Version\)](https://open.spotify.com/track/7c6RFrY6UkNgh6A7rAvWNc) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Écoutez\-moi](https://open.spotify.com/album/4YVHGXWYubmt3tysDIdD8W) | 2:39 | 2024-01-18 |  |
 

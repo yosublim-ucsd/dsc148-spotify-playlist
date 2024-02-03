@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 2817,
+  "2024-02-03": 2821,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6\">Mariah Carey</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Mariah Carey",
@@ -79,7 +79,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 187773,
       "name": "A No No",
       "url": "https://open.spotify.com/track/2Q0JkTzFXrU2BbnQT7tzIR"
@@ -97,7 +97,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 192063,
       "name": "A No No",
       "url": "https://open.spotify.com/track/7EK3YFQ4lhucpRvpsGLuUU"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 273933,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/3hp4ojt7tHLWwz6SaR7vkw"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 274880,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/2kIWQj4Z1pfxc8FFsEitRt"
@@ -1409,7 +1409,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 207120,
       "name": "GTFO",
       "url": "https://open.spotify.com/track/5GjXMhZsT6cdfRB7nurGu2"
@@ -2277,7 +2277,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 239800,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/7IzurnmQLvZmMDJcpITUyt"
@@ -2697,7 +2697,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 229269,
       "name": "Love Takes Time",
       "url": "https://open.spotify.com/track/3nuaHDwjie8HVIhdUIqCzl"
@@ -3319,7 +3319,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 266933,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT"
@@ -3337,7 +3337,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 288213,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/5azkZMilI4gbDfVTLEH2qS"
@@ -3380,6 +3380,32 @@
     },
     {
       "album": {
+        "name": "Mariah Carey's Magical Christmas Special (Apple TV+ Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5VfesyhwiNgpEEPXlO5c84"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "Oh Santa! (feat. Ariana Grande & Jennifer Hudson)",
+      "url": "https://open.spotify.com/track/2VkuxjlbnbaBiWYpdBGVol"
+    },
+    {
+      "album": {
         "name": "Oh Santa! (feat. Ariana Grande & Jennifer Hudson) [Official Music Video]",
         "url": "https://open.spotify.com/album/6f9SxFBKVt6xEcpvZmudZj"
       },
@@ -3399,7 +3425,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 207381,
       "name": "Oh Santa! (feat. Ariana Grande & Jennifer Hudson)",
       "url": "https://open.spotify.com/track/3PFdrdteyZqdnQP4EzQyn3"
@@ -4287,7 +4313,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 314040,
       "name": "The Roof (Back In Time)",
       "url": "https://open.spotify.com/track/4gNeiiz86Y5wekGwfIybXW"
@@ -4323,7 +4349,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 241301,
       "name": "The Star",
       "url": "https://open.spotify.com/track/6OiMtQTim2beBZamDHybJL"
@@ -4377,7 +4403,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 292533,
       "name": "There's Got to Be a Way",
       "url": "https://open.spotify.com/track/4nrGqAXIwimqVx0T1ejUyP"
@@ -4395,7 +4421,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 297600,
       "name": "There's Got to Be a Way",
       "url": "https://open.spotify.com/track/2gkfRN2oSvjrueTbHQgQq0"
@@ -4683,7 +4709,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 213653,
       "name": "Underneath the Stars",
       "url": "https://open.spotify.com/track/1yH40h8bVmlsAvy6dRW4uF"

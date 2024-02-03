@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 427125,
+  "2024-02-03": 427296,
   "date_first_scraped": "2022-04-20",
   "description": "Uptempo instrumental hip hop beats.",
   "name": "Focus Flow",
@@ -949,7 +949,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 162000,
       "name": "barista",
       "url": "https://open.spotify.com/track/0wAlWdKvZ4WS4NJ5veqcOU"
@@ -7987,7 +7987,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 133468,
       "name": "MELT YOURSELF DOWN",
       "url": "https://open.spotify.com/track/7gZsCJTQQfqBMraiyvazHn"
@@ -10576,6 +10576,24 @@
     },
     {
       "album": {
+        "name": "poseidon",
+        "url": "https://open.spotify.com/album/63BcmPVShgWasXts8qMikS"
+      },
+      "artists": [
+        {
+          "name": "low&slow",
+          "url": "https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121751,
+      "name": "poseidon",
+      "url": "https://open.spotify.com/track/6MpZRAlMbG1PvjuMNtzp9t"
+    },
+    {
+      "album": {
         "name": "Positive Vibes",
         "url": "https://open.spotify.com/album/075pLxefaNgm93o7v9K7kC"
       },
@@ -11585,7 +11603,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 141579,
       "name": "Round on Me",
       "url": "https://open.spotify.com/track/37iYwXkFgvgFcTXBkYkzrz"
@@ -12427,7 +12445,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 149866,
       "name": "Slipping Mats",
       "url": "https://open.spotify.com/track/72wDz8RDKFvffQJhHucHDy"
@@ -12749,7 +12767,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 153333,
       "name": "Soul Calibre",
       "url": "https://open.spotify.com/track/6hagXr40I8q0fHJ1uwWnj0"
@@ -16070,6 +16088,24 @@
     },
     {
       "album": {
+        "name": "wicked",
+        "url": "https://open.spotify.com/album/08xWG2vUxhVXsjPFo9yajA"
+      },
+      "artists": [
+        {
+          "name": "LVTA",
+          "url": "https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146852,
+      "name": "wicked",
+      "url": "https://open.spotify.com/track/0Li6Y0Noq9THd4sTR7e5wq"
+    },
+    {
+      "album": {
         "name": "Wild poetry",
         "url": "https://open.spotify.com/album/4TEKZ8XR8LUO3oXsbShFgx"
       },
@@ -16539,7 +16575,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 144000,
       "name": "Yobidashi",
       "url": "https://open.spotify.com/track/6PV4hjKJ06jVHSH6HKhTkj"

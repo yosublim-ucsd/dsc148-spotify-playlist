@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 200426,
       "name": "Angels (Don\u2019t Always Have Wings)",
       "url": "https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg"
@@ -160,10 +160,28 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 186653,
       "name": "Backroad (That 17 Summer)",
       "url": "https://open.spotify.com/track/7mjb7qTCkTGB29ZAYpJ43T"
+    },
+    {
+      "album": {
+        "name": "Bitter Winds",
+        "url": "https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259440,
+      "name": "Bitter Winds",
+      "url": "https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN"
     },
     {
       "album": {
@@ -666,6 +684,24 @@
       "duration_ms": 201800,
       "name": "Give Her That",
       "url": "https://open.spotify.com/track/6Shb0psixdhEjdlDkyexeu"
+    },
+    {
+      "album": {
+        "name": "God And A Girl",
+        "url": "https://open.spotify.com/album/6BFmOJ19FvMs2CEpGEn3Hx"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294005,
+      "name": "God And A Girl",
+      "url": "https://open.spotify.com/track/6DDPrs8s0ZtN5LirmGPZSV"
     },
     {
       "album": {
@@ -1607,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "Straight Line",
+        "url": "https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Straight Line",
+      "url": "https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj"
+    },
+    {
+      "album": {
         "name": "Bored In The USA",
         "url": "https://open.spotify.com/album/6hbXCjnJv5b73GH1yyeprH"
       },
@@ -1730,6 +1784,24 @@
       "duration_ms": 214798,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J"
+    },
+    {
+      "album": {
+        "name": "TRUCK BED",
+        "url": "https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167534,
+      "name": "TRUCK BED",
+      "url": "https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL"
     },
     {
       "album": {
@@ -1892,7 +1964,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 225708,
       "name": "Where It's Blue",
       "url": "https://open.spotify.com/track/6i7QP9auNhpIZgPopuXPOm"

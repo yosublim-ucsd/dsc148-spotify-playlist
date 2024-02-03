@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy muziek met een rand uit eigen land\. cover: Naaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,984 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,986 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mayhem](https://open.spotify.com/track/5bwPnJFIx1DdkycTgmtRTM) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2), [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Mayhem](https://open.spotify.com/album/7iEPz4WQ618rjOYC5QYy96) | 3:24 |
+| 1 | [Mayhem \(feat\. Naaz\)](https://open.spotify.com/track/5bwPnJFIx1DdkycTgmtRTM) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2), [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Mayhem \(feat\. Naaz\)](https://open.spotify.com/album/7iEPz4WQ618rjOYC5QYy96) | 3:24 |
 | 2 | [Troostzoekers \(met Froukje\)](https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Sterrenlopen](https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ) | 3:32 |
 | 3 | [Scherpe Knuffels](https://open.spotify.com/track/6617xQW6elVgqDInCMI1wu) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Scherpe Knuffels](https://open.spotify.com/album/0anx93DQrlfeKHUrghM61f) | 2:40 |
 | 4 | [Who Are You Running From](https://open.spotify.com/track/3jSDhLHxnERqG9XWc4ynFz) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Who Are You Running From](https://open.spotify.com/album/3sWrHw3QHMZXIfEjZ4x387) | 3:16 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 55 | [Caged Birds](https://open.spotify.com/track/2Kb0J8N4AG9Nn6Ew5bcEXv) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Under Wishing Stars](https://open.spotify.com/album/2TbvOuz2VmxIw4B5Td6MK1) | 3:02 |
 | 56 | [I Don't Know Why](https://open.spotify.com/track/2aAdRmDXH07MGLmyd37xIp) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Jobsen](https://open.spotify.com/artist/1nXpJ4oZgB8PlKvQ3DFkaH), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [I Don't Know Why](https://open.spotify.com/album/1Dqh45Fe2oprowuhSOFSmb) | 2:48 |
 | 57 | [Something Somewhere](https://open.spotify.com/track/2iOtTIQJOuGzr9Go2rPDNp) | [Luka](https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv) | [Director in the Dark](https://open.spotify.com/album/7xGrjVZEtkqUNEg0uZyknt) | 3:34 |
-| 58 | [Same Room](https://open.spotify.com/track/50tVoG8Nxgm306HKSiwYZV) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [UI](https://open.spotify.com/album/27cG0rL8gIm1yQekB8ibjL) | 3:22 |
+| 58 | [Same Room](https://open.spotify.com/track/7JKcsNXSjFVKtA6YT7BNGZ) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/1G0VH29venEyfSgCtMddwo) | 3:22 |
 | 59 | [Pelechian](https://open.spotify.com/track/2txPrKoY55bOdb7eO0dxVz) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian](https://open.spotify.com/album/4AlsQL5uhfmbH7uKQvZx4g) | 2:34 |
 | 60 | [Paranoid Sleeping \- Single Edit](https://open.spotify.com/track/1asK6lxYBYVJwzavweery9) | [Julia Sole](https://open.spotify.com/artist/12XTlzUHaKvvpxuUcKcWr3) | [Paranoid Sleeping](https://open.spotify.com/album/2g9SWINLRnk2vH0cIJEkqt) | 2:09 |
 
-Snapshot ID: `MCxkNTBlNjY3M2Y4MWJlOTg4YWFiMjBhODBjMWQ0NmNmZGY1ODc2YjJk`
+Snapshot ID: `MCxhNDBhOTM0NmIwNWZjMjJhNTFhZGRhZDVhYzQyMmMzNWJmZTY3MGVl`

@@ -2,7 +2,7 @@
 
 ### [90s Country](https://open.spotify.com/playlist/37i9dQZF1DWVpjAJGB70vU)
 
-> Country that made Country Cool! Cover: Martina McBride
+> Country that made Country Cool! Cover: Shania Twain
 
 192 songs - 11 hr 10 min
 

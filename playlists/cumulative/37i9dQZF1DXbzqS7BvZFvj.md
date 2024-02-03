@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Lyrical Lemonade, The Kid LAROI, Lil Tecca
 
-514 songs - 1 day 2 hr 16 min
+515 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [SCIENTISTS & ENGINEERS \[Feat\. Future, Eryn Allen Kane\]](https://open.spotify.com/track/2RHKzvzdxXANTOKtbZnuLo) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [SCIENTISTS & ENGINEERS \[Feat\. Future, Eryn Allen Kane\]](https://open.spotify.com/album/2dxxlSiPPh9v9TwSTpjLgo) | 4:13 | 2023-06-15 | 2023-07-07 |
 | [Sean\-Jared](https://open.spotify.com/track/0cqYejXSn0M37GXx4JB8RB) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:37 | 2023-07-20 | 2023-08-11 |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-07 | 2023-06-09 |
+| [Sensei](https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sensei](https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu) | 1:58 | 2024-02-01 |  |
 | [Seventeen](https://open.spotify.com/track/5hzrmJKIS2CHmvlUWkdlYy) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Seventeen](https://open.spotify.com/album/5arhOeNsH3P6LCD69z2rAo) | 3:25 | 2023-09-07 | 2024-01-13 |
 | [SH SH SH \(Hit That\) \(feat\. Wiz Khalifa, Urfavxboyfriend & Goldsoul\)](https://open.spotify.com/track/3ZlE2T9tLjbciy2BYpi7u3) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Urfavxboyfriend](https://open.spotify.com/artist/7tnamWpipgTKkLQEFiOKb5), [Goldsoul](https://open.spotify.com/artist/2QlOPebAv6cRo3Lj53fKYk) | [SH SH SH \(Hit That\) \(feat\. Wiz Khalifa, Urfavxboyfriend & Goldsoul\)](https://open.spotify.com/album/1xHwoTd8QTaQyWKlMTdZ6J) | 2:13 | 2023-03-16 | 2023-06-16 |
 | [Sh\*ttin' Me](https://open.spotify.com/track/74B7lkp2IMiPKrcOa8cD72) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Sh\*ttin' Me](https://open.spotify.com/album/4RD9tHEpOVpzQk7L512DZI) | 2:25 | 2023-03-16 | 2023-04-21 |

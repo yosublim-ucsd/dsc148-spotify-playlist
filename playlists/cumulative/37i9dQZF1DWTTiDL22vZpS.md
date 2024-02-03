@@ -4,7 +4,7 @@
 
 > Funk\-inspired beats by latinos.
 
-109 songs - 6 hr 51 min
+110 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Hush \- Still Woozy Remix](https://open.spotify.com/track/4dGuRldChjvboZktprNJFM) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Hush \(Still Woozy Remix\)](https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI) | 3:02 | 2022-11-22 |  |
 | [Imposible](https://open.spotify.com/track/2xh8Xu93BdvH6a5GeappzM) | [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [Siempre Siempre](https://open.spotify.com/album/19SGpkKErbNmC4mbRF5x54) | 4:24 | 2022-11-22 | 2023-01-28 |
 | [In My Bones](https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv) | [DJ Who](https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [In My Bones](https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp) | 3:37 | 2023-07-14 |  |
+| [Inventing](https://open.spotify.com/track/3np005N2JmmcJzQQTk0w2t) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH) | 3:30 | 2024-02-02 |  |
 | [Jennifer Del Estero](https://open.spotify.com/track/3aJBJ4DAfTknfkzbd0G9Um) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Leche](https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU) | 4:55 | 2022-11-22 |  |
 | [Juntos](https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [La Película](https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma) | 3:19 | 2023-03-24 | 2023-12-30 |
 | [Ki Flip](https://open.spotify.com/track/1JMCvBGLY8DvM8nXKGjP7D) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 2:35 | 2022-11-22 | 2023-10-11 |
@@ -68,7 +69,7 @@
 | [Lava](https://open.spotify.com/track/0itpe8ossR5xjg9gd9NyyI) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Lava](https://open.spotify.com/album/0P7BNrKeRNCFyuUHtmK5KY) | 3:22 | 2023-04-13 | 2023-06-24 |
 | [Leche de Tigre](https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:25 | 2023-03-03 |  |
 | [Lentes Negros](https://open.spotify.com/track/2IwXBRnOgAhIVQXjtt6KEK) | [Primavera Club](https://open.spotify.com/artist/4wYsRqHGSzAPIceEE9gnIG) | [Dorama](https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm) | 4:50 | 2022-11-22 |  |
-| [LIKE THAT! ⚡](https://open.spotify.com/track/0SloUwZzPagpfOOo9kl33A) | [Redemm](https://open.spotify.com/artist/4HyrJAItCZwWPIrTfRWTvu), [CHELS](https://open.spotify.com/artist/79SaFjVvGL9hiVvzwBOMQJ), [Darko](https://open.spotify.com/artist/6dmAqUf6toAS0x7QDRBCpL) | [LIKE THAT! ⚡](https://open.spotify.com/album/2jHX0jyxu8aRPHRXQNcZib) | 2:46 | 2022-12-02 |  |
+| [LIKE THAT! ⚡](https://open.spotify.com/track/0SloUwZzPagpfOOo9kl33A) | [Redemm](https://open.spotify.com/artist/4HyrJAItCZwWPIrTfRWTvu), [CHELS](https://open.spotify.com/artist/79SaFjVvGL9hiVvzwBOMQJ), [Darko](https://open.spotify.com/artist/6dmAqUf6toAS0x7QDRBCpL) | [LIKE THAT! ⚡](https://open.spotify.com/album/2jHX0jyxu8aRPHRXQNcZib) | 2:46 | 2022-12-02 | 2024-02-03 |
 | [Love](https://open.spotify.com/track/0jr2ZsIcB1GePjA8JsfJeT) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Love Paraíso](https://open.spotify.com/album/3bgsX1oDXZ6qxGWgOWZNVt) | 4:54 | 2022-11-22 |  |
 | [Maldita Cachá](https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Maldita Cachá](https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo) | 2:24 | 2023-04-21 | 2023-06-16 |
 | [Mi Necedad](https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa) | [Solar](https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4) | 3:55 | 2022-11-22 |  |

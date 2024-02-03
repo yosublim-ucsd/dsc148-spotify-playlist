@@ -4,7 +4,7 @@
 
 > Continuous brown noise to sleep longer.
 
-273 songs - 13 hr 29 min
+274 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Brown Noise Crib](https://open.spotify.com/track/2FYieh34KBeeTotVS4oIOU) | [The Water Sleepers](https://open.spotify.com/artist/4bD8jRVnnQGuOMVyraMdh4) | [Brown Noise for Better Sleep](https://open.spotify.com/album/2F7mlg1XSUs8YgRYXkPm1B) | 5:07 | 2023-05-25 |  |
 | [Brown Noise Desert Night](https://open.spotify.com/track/7x6qK1GPSAM15EoWyglQSs) | [Dreamstatician](https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR) | [Brown Noise Dunes](https://open.spotify.com/album/3zM5dvtwTBuRJAl2h1XlPd) | 2:18 | 2023-10-26 |  |
 | [Brown Noise Dream](https://open.spotify.com/track/4eGCTk4n1GXu9C1keB4ama) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Soft Brown Noise](https://open.spotify.com/album/3hwBhINVPJ9NDri4krChxd) | 2:52 | 2023-05-25 |  |
-| [Brown Noise Dreamy Sounds](https://open.spotify.com/track/6Uc6mRODHNq04YLQIFXl1o) | [Dream Samples 드림 샘플](https://open.spotify.com/artist/3ldyvLiikXplDsstMBDmUY) | [Brown Noise Sleep Aid](https://open.spotify.com/album/6whbAN5a7AomUMXWA0PIJB) | 2:35 | 2023-10-26 |  |
+| [Brown Noise Dreamy Sounds](https://open.spotify.com/track/6Uc6mRODHNq04YLQIFXl1o) | [Dream Samples 드림 샘플](https://open.spotify.com/artist/3ldyvLiikXplDsstMBDmUY) | [Brown Noise Sleep Aid](https://open.spotify.com/album/6whbAN5a7AomUMXWA0PIJB) | 2:35 | 2023-10-26 | 2024-02-03 |
 | [Brown Noise Flow](https://open.spotify.com/track/2VN8zktzoL7vtKXI4Td1Jj) | [W\-Noise](https://open.spotify.com/artist/1WyYW2KP02ZOzDl4e9HBuB) | [Lush Brown Noise](https://open.spotify.com/album/6tlBTXJBfObNuAxqUTEJ0H) | 2:24 | 2023-05-25 |  |
 | [Brown Noise Focal Point](https://open.spotify.com/track/30kb81kyT9ZwzvhfPUkQih) | [New Lab](https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F) | [Brown Noise Focal Point](https://open.spotify.com/album/4OfkYjOxvG1zUuI9Khnx94) | 3:48 | 2023-05-25 |  |
 | [Brown Noise Focus](https://open.spotify.com/track/53ao8qZRILIaYrCEb5uItT) | [Brown Noise Studio](https://open.spotify.com/artist/7npBnBvj7J6RrSFJfDLBiA) | [Brown Noise Focus](https://open.spotify.com/album/6dbUVNFmB5AtXdYtyfkggZ) | 3:43 | 2023-05-25 |  |
@@ -244,6 +244,7 @@
 | [Rolling Deep](https://open.spotify.com/track/74z73AMsEbOWSffQB4IIHl) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Dreaming under Water](https://open.spotify.com/album/7GEjOabKlEyD4nXEpDuuop) | 4:05 | 2023-05-25 |  |
 | [Ruido De Aviones Freq 238 Hz Q 0.5 \- Seamless](https://open.spotify.com/track/7IULbyfSZ5rViyx7qKCrdZ) | [Ardeon](https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8) | [Ruido De Aviones](https://open.spotify.com/album/4DA3h0stpjokKVyHVL0Z8y) | 3:05 | 2023-05-25 |  |
 | [Sandman's Brown Noise](https://open.spotify.com/track/0LV04oOWUzFDsiH5KM1c79) | [Marion Marrón](https://open.spotify.com/artist/1vqu8syPI7SLsn6bJasrbO) | [Brown For Insomniacs](https://open.spotify.com/album/0qIRn3o3TwTFaekTi3EL2Z) | 3:21 | 2023-05-25 |  |
+| [Sleep Aid Brown Noise](https://open.spotify.com/track/3Op7qOfXCeE9y2a8khEHyR) | [Euaxations](https://open.spotify.com/artist/3RGM53632OyIVzEN2FrLJN) | [Sleep Aid Brown Noise](https://open.spotify.com/album/4hzsIdXqE5kzNUj4edWk2t) | 2:10 | 2024-02-02 |  |
 | [Sleep Ambient Brown Noise](https://open.spotify.com/track/6r7YXtEES9ljlIVe7yM8cY) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Sleep Ambient Brown Noise](https://open.spotify.com/album/5rzrTfIsPGRKhbABABV9kT) | 2:44 | 2023-05-25 | 2023-11-11 |
 | [Sleep Noise \(Brown\)](https://open.spotify.com/track/2PBvSP1bRXX198fdDJZWmp) | [Blimba](https://open.spotify.com/artist/42XvJnFdC4wFTCn1aiMafa) | [Sleep Noise \(Brown\)](https://open.spotify.com/album/6JOCRCYAgyjLfv8EO7FnV8) | 2:21 | 2023-05-25 |  |
 | [Sleeping Brown Noise](https://open.spotify.com/track/6mWt70E1XVsAG36NRV40rV) | [Everywhere Brown Noise](https://open.spotify.com/artist/4r6joVLgbTD7M07z1KIooA) | [Sleeping Brown Noise](https://open.spotify.com/album/7umltGSpruiFHUJUxQJLlf) | 3:45 | 2023-05-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Mehtab Ali Niazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,768 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,784 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 21 | [Raga Marwa \- Drut Tintal Jhala](https://open.spotify.com/track/23L0bjrUtYuYZbglUK2hoT) | [Kushal Das](https://open.spotify.com/artist/1YIqdGEWAFDGcaSCtCscli) | [Inde Du Nord \- North India : Raga Marwa Surbahar](https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP) | 5:49 |
 | 22 | [Lasya](https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Traces Of You](https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq) | 4:38 |
 | 23 | [Sitar Desh](https://open.spotify.com/track/74KQTFppDkD7jYakAgdQ5Q) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 3:35 |
-| 24 | [Tablet vs Sitar \- Yaman \- Ek taal](https://open.spotify.com/track/6oUpiJfTJrQ5ryErRDr2w6) | [Anirudh Sharma](https://open.spotify.com/artist/1yxElNCCvyGH3Ee0lqgZrn), [IndianRaga](https://open.spotify.com/artist/5DbZM6EMfteh7XubuLMtoC), [Mahesh Raghvan](https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi), [Shailesh Venkatraman](https://open.spotify.com/artist/3XSngyg0MX68i5gNeonLKf) | [Tablet vs Sitar \- Yaman](https://open.spotify.com/album/0boxQEMaR1M7RkNo6PmBmt) | 5:20 |
+| 24 | [Sitar Symphony \- Original](https://open.spotify.com/track/5qRS33ZGCIIrbf8tRzpy3a) | [Suhel Rais Khan, Ustad Sultan Khan](https://open.spotify.com/artist/5tGcEIgOrXtCk3KXejLTL1) | [Fusion Lounge](https://open.spotify.com/album/7ivbfUFET5BZlp7j81s0Jg) | 4:18 |
 | 25 | [Hum Bewafa Hargiz Na Thay \- Unwind Instrumental](https://open.spotify.com/track/3VoE9lBw3UO1rBSg0Z31KY) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Amazing Sitar](https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0) | 4:47 |
-| 26 | [Sitar Symphony \- Original](https://open.spotify.com/track/5qRS33ZGCIIrbf8tRzpy3a) | [Suhel Rais Khan, Ustad Sultan Khan](https://open.spotify.com/artist/5tGcEIgOrXtCk3KXejLTL1) | [Fusion Lounge](https://open.spotify.com/album/7ivbfUFET5BZlp7j81s0Jg) | 4:18 |
+| 26 | [Tablet vs Sitar \- Yaman \- Ek taal](https://open.spotify.com/track/6oUpiJfTJrQ5ryErRDr2w6) | [Anirudh Sharma](https://open.spotify.com/artist/1yxElNCCvyGH3Ee0lqgZrn), [IndianRaga](https://open.spotify.com/artist/5DbZM6EMfteh7XubuLMtoC), [Mahesh Raghvan](https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi), [Shailesh Venkatraman](https://open.spotify.com/artist/3XSngyg0MX68i5gNeonLKf) | [Tablet vs Sitar \- Yaman](https://open.spotify.com/album/0boxQEMaR1M7RkNo6PmBmt) | 5:20 |
 | 27 | [Chanakya](https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu) | [Chanakya](https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX) | 2:43 |
 | 28 | [Yaman Kalyan](https://open.spotify.com/track/4gUjvoi9Xt9uJTMfdBBdz4) | [Rais Khan](https://open.spotify.com/artist/2Trh3HyOwLDl8pg6C264xK), [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 4:20 |
 | 29 | [Albela Sajan \- Instrumental](https://open.spotify.com/track/7fGCbE8uUx4XvxKrgl3m2L) | [Chirag Katti](https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo) | [Amazing Sitar](https://open.spotify.com/album/6rBwhmo3y8z62CWFyzE2s0) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 49 | [Beauty of Sitar](https://open.spotify.com/track/2oiDabX1G8jnfHFp0DKSCs) | [Mystical Guide, Loner Wolf](https://open.spotify.com/artist/03HrV5fn9Geiko3dYxp5V6) | [The Pleasurable Mind in Healing Music](https://open.spotify.com/album/4RYWdk5wvqf4GHRDI8fy8x) | 2:20 |
 | 50 | [Sanctuary \- Sitar Meditation](https://open.spotify.com/track/5YXTDeGgp7U8pMLZIhQq52) | [Meditation Mantras Guru](https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b) | [Quin Yin: Many Faces of the Goddess, 50 Reiki Healing Music & Relaxing Sounds \(Absolute Feng Shui, Life in Harmony, Chakra of the Heart, Yoga & Meditation\)](https://open.spotify.com/album/4lov37f9GSk3d2snAYruCu) | 3:49 |
 
-Snapshot ID: `MCxlYWRkZmIwN2I0ZTBkMjkwMjk3Mzk3OTkzYmJlY2UzMDM2Y2EwODNm`
+Snapshot ID: `MCwxOTkxMDQ5MzQ4NTYzMjljZGQ2YzY1YTkxMDBlM2U0YWRiODU3MjRh`

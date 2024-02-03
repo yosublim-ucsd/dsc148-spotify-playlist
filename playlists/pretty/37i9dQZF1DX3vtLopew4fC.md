@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Céline Dion
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,340 likes - 49 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,339 likes - 49 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 48 | [Luv Myself](https://open.spotify.com/track/47bBi3ZhCoj3KzwBcimVJi) | [RICHIE ALLYIAH](https://open.spotify.com/artist/0E2stfGedQUtahECN29XA4) | [Luv Myself](https://open.spotify.com/album/5nYKZ2yIF5LQIpfENDELyn) | 3:26 |
 | 49 | [Sick As Your Secrets](https://open.spotify.com/track/1tfbXcqMhvdB2YYkpz54Np) | [Sara Sloan](https://open.spotify.com/artist/0HqD7L1K0yANRk0geft2EV) | [Sick As Your Secrets](https://open.spotify.com/album/2vPyzhvkgoNoRaub67x6Ic) | 4:03 |
 
-Snapshot ID: `MCxiMDY5MTVlYmI2Yjc5YTE4ODM4N2MzZDk1Zjc2NmFiOTU5NzIzNTk5`
+Snapshot ID: `MCxjYzkwZjNlZTIyMmZhYzRmYWZlYmU0NmQ3MWQ3ODlkNzhmOGUwZDNi`

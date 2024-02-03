@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,747 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,778 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 41 | [good\-bye declaration](https://open.spotify.com/track/6SYj9vjjVTwKn08iKZR11m) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [The Deluge](https://open.spotify.com/album/0XVzhmnx7nQ1TYxUGKBmXx) | 2:52 |
 | 42 | [リレイアウター](https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [リレイアウター](https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV) | 3:09 |
 | 43 | [Love Trial](https://open.spotify.com/track/7oa18QwhLsV3JfITGDxslD) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [41m](https://open.spotify.com/album/48CT8I4ImScM4TySzxyBUP) | 3:39 |
-| 44 | [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 |
+| 44 | [The Vampire](https://open.spotify.com/track/2d49lHO5ybKcYAcuJh2hT2) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [MANNEQUIN](https://open.spotify.com/album/3qFF8RZSnHGf6q6jOcCXy5) | 2:58 |
 | 45 | [CH4NGE \- feat\. KAFU](https://open.spotify.com/track/3ipGZWQ7Q64OA7SwFNVfy2) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/192mLC4CmnfqkxQbiPj7AZ) | 2:12 |
 | 46 | [Non\-breath oblige](https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [LOVE](https://open.spotify.com/album/0KxJlPf1XUcJ2KMzjYQ1EE) | 3:28 |
 | 47 | [Kagerou Days](https://open.spotify.com/track/6c6fQ8k4yIUnLJEPy7zj3z) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [MEKAKUCITYDAYS](https://open.spotify.com/album/6vQOvCYXDXyeEd3cIsXx05) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [HERO \(feat\. 初音ミク\)](https://open.spotify.com/track/4oJVybTP5RihSfOn5sxf3W) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [初音ミク「マジカルミライ 2023」OFFICIAL ALBUM](https://open.spotify.com/album/3LnVCNSjdedP7hEmrrF7WR) | 3:24 |
 | 50 | [Aunnobeats](https://open.spotify.com/track/4JPcF81HVIbndg6KNFQNg6) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc) | [Ukiyomeguri](https://open.spotify.com/album/4JVCGjIksgYgMhXKHz5fbC) | 3:26 |
 
-Snapshot ID: `MCxmNzE2YmM2OTM5NjIzZDdmZmRlMGYxMWEwMjFkNTAwYjFiMTVhZTFi`
+Snapshot ID: `MCw2OTA5NDI4MTBjYzllMTRlNzRlOGJhNTFiYzA2Y2VjMDlkNWE2ZWEz`

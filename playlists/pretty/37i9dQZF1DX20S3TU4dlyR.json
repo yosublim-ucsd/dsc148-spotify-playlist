@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Nonpalidece.",
-  "num_followers": 57727,
+  "num_followers": 57742,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjUzZGRkYmM1OWJmZTJjOTgzZjEzY2FiMDkyMzU2NGJmY2RjMGRh",
+  "snapshot_id": "MCw0OTZlZjY0NDMwMjFkYmJlZjAwNGY4ZjlkMTljOGNmZGVhNGM0NjFl",
   "tracks": [
     {
       "added_at": "2024-01-11 22:31:38",
@@ -923,6 +923,26 @@
     {
       "added_at": "2024-01-11 22:31:38",
       "album": {
+        "name": "Radiante",
+        "url": "https://open.spotify.com/album/7yIFVoRj5P8Tkgcebc1KGC"
+      },
+      "artists": [
+        {
+          "name": "De Bruces A Mi",
+          "url": "https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg"
+        },
+        {
+          "name": "Pablo Molina",
+          "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
+        }
+      ],
+      "duration_ms": 189806,
+      "name": "Mi Dulce Amor",
+      "url": "https://open.spotify.com/track/58c0vA53oFYJVppKfZlYXY"
+    },
+    {
+      "added_at": "2024-01-11 22:31:38",
+      "album": {
         "name": "Rockin'",
         "url": "https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 208563,
       "name": "Revolution Rock",
       "url": "https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu"
-    },
-    {
-      "added_at": "2024-01-11 22:31:38",
-      "album": {
-        "name": "Radiante",
-        "url": "https://open.spotify.com/album/7yIFVoRj5P8Tkgcebc1KGC"
-      },
-      "artists": [
-        {
-          "name": "De Bruces A Mi",
-          "url": "https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg"
-        },
-        {
-          "name": "Pablo Molina",
-          "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
-        }
-      ],
-      "duration_ms": 189806,
-      "name": "Mi Dulce Amor",
-      "url": "https://open.spotify.com/track/58c0vA53oFYJVppKfZlYXY"
     },
     {
       "added_at": "2024-01-11 22:31:38",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-01-11 22:31:38",
       "album": {
+        "name": "Amor De Barrio",
+        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Lo Que Dicta El Tiempo",
+      "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
+    },
+    {
+      "added_at": "2024-01-11 22:31:38",
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 214000,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo"
-    },
-    {
-      "added_at": "2024-01-11 22:31:38",
-      "album": {
-        "name": "Amor De Barrio",
-        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "Lo Que Dicta El Tiempo",
-      "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
     },
     {
       "added_at": "2024-01-11 22:31:38",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-01-11 22:31:38",
       "album": {
-        "name": "Dimelo Ayer",
-        "url": "https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1"
-      },
-      "artists": [
-        {
-          "name": "Coral Campopiano",
-          "url": "https://open.spotify.com/artist/657Gml68DCgI2F5q8ON4s7"
-        },
-        {
-          "name": "Cucho Parisi",
-          "url": "https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm"
-        }
-      ],
-      "duration_ms": 159892,
-      "name": "Dimelo Ayer",
-      "url": "https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc"
-    },
-    {
-      "added_at": "2024-01-11 22:31:38",
-      "album": {
         "name": "Seguirla",
         "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 191776,
       "name": "Seguirla",
       "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
+    },
+    {
+      "added_at": "2024-01-11 22:31:38",
+      "album": {
+        "name": "Dimelo Ayer",
+        "url": "https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1"
+      },
+      "artists": [
+        {
+          "name": "Coral Campopiano",
+          "url": "https://open.spotify.com/artist/657Gml68DCgI2F5q8ON4s7"
+        },
+        {
+          "name": "Cucho Parisi",
+          "url": "https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm"
+        }
+      ],
+      "duration_ms": 159892,
+      "name": "Dimelo Ayer",
+      "url": "https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc"
     },
     {
       "added_at": "2024-01-11 22:31:38",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2024-01-11 22:31:38",
       "album": {
+        "name": "\u00bfQMH?",
+        "url": "https://open.spotify.com/album/0BRoR8Gmw9rtBWE7BhGYT3"
+      },
+      "artists": [
+        {
+          "name": "J Gonz",
+          "url": "https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL"
+        },
+        {
+          "name": "n.a.n.o",
+          "url": "https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "\u00bfQMH?",
+      "url": "https://open.spotify.com/track/1oC1UuwAokzHio2IEFTfRP"
+    },
+    {
+      "added_at": "2024-01-11 22:31:38",
+      "album": {
         "name": "El Gran Poder, Vol. 2",
         "url": "https://open.spotify.com/album/34ei7ktYVRfNWrjvmqhR7U"
       },
@@ -1547,22 +1567,6 @@
       "duration_ms": 251567,
       "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
       "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"
-    },
-    {
-      "added_at": "2024-01-11 22:31:38",
-      "album": {
-        "name": "Liberaci\u00f3n",
-        "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
-      },
-      "artists": [
-        {
-          "name": "Slow Burnin\u00b4",
-          "url": "https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "Nada Que Me Venga Mal",
-      "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
     }
   ],
   "unique_name": "Reggae al Sur",

@@ -1,12 +1,12 @@
 {
   "description": "A mega mix of 75 favorites from the last few years! ",
-  "num_followers": 7697890,
+  "num_followers": 7699043,
   "original_name": "Mega Hit Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODAxMTQwN2UwZjRmZmZiYTk3MjU1NmUwMDYzMTY2NTJkMjYzN2I5",
+  "snapshot_id": "MCw3YWNiNzFlM2I2MDI1ZDgyZThhYzRiMmQzY2JhYmJjMTZjZGI3ODY1",
   "tracks": [
     {
       "added_at": "2023-11-07 15:29:23",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-11-07 15:29:23",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": "2023-11-07 15:29:23",
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
+    },
+    {
+      "added_at": "2023-11-07 15:29:23",
+      "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": "2023-11-07 15:29:23",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-11-07 15:29:23",
       "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "7 rings",
-      "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
-    },
-    {
-      "added_at": "2023-11-07 15:29:23",
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "added_at": "2023-11-07 15:29:23",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "7 rings",
+      "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
     },
     {
       "added_at": "2023-11-07 15:29:23",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-11-07 15:29:23",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Sweet but Psycho",
-      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
-    },
-    {
-      "added_at": "2023-11-07 15:29:23",
-      "album": {
         "name": "Youngblood (Deluxe)",
         "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 203417,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
+    },
+    {
+      "added_at": "2023-11-07 15:29:23",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 187436,
+      "name": "Sweet but Psycho",
+      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
     },
     {
       "added_at": "2023-11-07 15:29:23",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-11-07 15:29:23",
       "album": {
+        "name": "Origins (Deluxe)",
+        "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 260773,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3"
+    },
+    {
+      "added_at": "2023-11-07 15:29:23",
+      "album": {
         "name": "death bed (coffee for your head)",
         "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
       },
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2023-11-07 15:29:23",
       "album": {
-        "name": "Origins (Deluxe)",
-        "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 260773,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3"
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
       "added_at": "2023-11-07 15:29:23",
@@ -1215,6 +1231,22 @@
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
+    },
+    {
+      "added_at": "2023-11-07 15:29:23",
+      "album": {
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "More Than You Know",
+      "url": "https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP"
     },
     {
       "added_at": "2023-11-07 15:29:23",
@@ -1255,38 +1287,6 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
-    },
-    {
-      "added_at": "2023-11-07 15:29:23",
-      "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
-      },
-      "artists": [
-        {
-          "name": "Axwell /\\ Ingrosso",
-          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "More Than You Know",
-      "url": "https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP"
-    },
-    {
-      "added_at": "2023-11-07 15:29:23",
-      "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     }
   ],
   "unique_name": "Mega Hit Mix",

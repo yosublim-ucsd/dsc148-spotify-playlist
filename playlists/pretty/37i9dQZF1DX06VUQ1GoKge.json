@@ -1,12 +1,12 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 559451,
+  "num_followers": 559440,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTRmODE4OTA3NzViZWJmOGI3MzIzYWU2MTNkM2ZkOTY0Y2Q0OWU3",
+  "snapshot_id": "MCw2MmEyZjc5ODgxOWM4MjdmMDZkN2MyNTJlOWVkYjYwNzUyNGJiOWU4",
   "tracks": [
     {
       "added_at": "2024-01-19 09:32:47",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "Runnin' Wild (Special Edition)",
-        "url": "https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO"
-      },
-      "artists": [
-        {
-          "name": "Airbourne",
-          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
-        }
-      ],
-      "duration_ms": 222240,
-      "name": "Runnin' Wild",
-      "url": "https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj"
-    },
-    {
-      "added_at": "2024-01-19 09:32:47",
-      "album": {
         "name": "For Those That Wish To Exist",
         "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 244364,
       "name": "Animals",
       "url": "https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz"
+    },
+    {
+      "added_at": "2024-01-19 09:32:47",
+      "album": {
+        "name": "Runnin' Wild (Special Edition)",
+        "url": "https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "duration_ms": 222240,
+      "name": "Runnin' Wild",
+      "url": "https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+        "name": "on the verge",
+        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
         }
       ],
-      "duration_ms": 262631,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+      "duration_ms": 134400,
+      "name": "on the verge",
+      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "on the verge",
-        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
       },
       "artists": [
         {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 134400,
-      "name": "on the verge",
-      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "Piece of Mind (2015 Remaster)",
-        "url": "https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66"
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
       },
       "artists": [
         {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 252733,
-      "name": "The Trooper (2015 Remaster)",
-      "url": "https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp"
+      "duration_ms": 173174,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 173174,
-      "name": "Holy Roller",
-      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
+      "duration_ms": 252733,
+      "name": "The Trooper (2015 Remaster)",
+      "url": "https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "Cellar Door",
-        "url": "https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 283957,
-      "name": "Cellar Door",
-      "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
-    },
-    {
-      "added_at": "2024-01-19 09:32:47",
-      "album": {
         "name": "Ember",
         "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 197866,
       "name": "Drop Dead Cynical",
       "url": "https://open.spotify.com/track/3X1usZ9bRwbyEjAnkLAJWO"
+    },
+    {
+      "added_at": "2024-01-19 09:32:47",
+      "album": {
+        "name": "Cellar Door",
+        "url": "https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 283957,
+      "name": "Cellar Door",
+      "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
+        "name": "American Sun",
+        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR"
+    },
+    {
+      "added_at": "2024-01-19 09:32:47",
+      "album": {
         "name": "War Eternal",
         "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 268760,
       "name": "More Human Than Human",
       "url": "https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi"
-    },
-    {
-      "added_at": "2024-01-19 09:32:47",
-      "album": {
-        "name": "American Sun",
-        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
-      },
-      "artists": [
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "Teardrops",
-        "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 215003,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
-    },
-    {
-      "added_at": "2024-01-19 09:32:47",
-      "album": {
         "name": "Overkill (Expanded Edition)",
         "url": "https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 313520,
       "name": "Overkill",
       "url": "https://open.spotify.com/track/4XvvR8F6qOcnzgChO1uTIO"
+    },
+    {
+      "added_at": "2024-01-19 09:32:47",
+      "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 215003,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "Would you be my therapy?",
-        "url": "https://open.spotify.com/album/5rmJQ8ww5fXWP9pEtmB8kk"
-      },
-      "artists": [
-        {
-          "name": "TSS",
-          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
-        }
-      ],
-      "duration_ms": 159771,
-      "name": "Would you be my therapy?",
-      "url": "https://open.spotify.com/track/4SvmosYwOAV0ILTxT0XvcP"
-    },
-    {
-      "added_at": "2024-01-19 09:32:47",
-      "album": {
         "name": "Gravity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "Fatalism",
-        "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
+        "name": "Would you be my therapy?",
+        "url": "https://open.spotify.com/album/5rmJQ8ww5fXWP9pEtmB8kk"
       },
       "artists": [
         {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+          "name": "TSS",
+          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
         }
       ],
-      "duration_ms": 239291,
-      "name": "Inhumane",
-      "url": "https://open.spotify.com/track/4JpUHYV5xwiBHx9wnTSjh1"
+      "duration_ms": 159771,
+      "name": "Would you be my therapy?",
+      "url": "https://open.spotify.com/track/4SvmosYwOAV0ILTxT0XvcP"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -1207,6 +1191,22 @@
       "duration_ms": 199959,
       "name": "The Time Is Now",
       "url": "https://open.spotify.com/track/0vMpw8pTVb7egqdVaKwy6U"
+    },
+    {
+      "added_at": "2024-01-19 09:32:47",
+      "album": {
+        "name": "Fatalism",
+        "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 239291,
+      "name": "Inhumane",
+      "url": "https://open.spotify.com/track/4JpUHYV5xwiBHx9wnTSjh1"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -1407,22 +1407,18 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "DOWN (feat. Malevolence)",
-        "url": "https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD"
+        "name": "Look at Yourself",
+        "url": "https://open.spotify.com/album/5d904eRcMkUSIipPixswNM"
       },
       "artists": [
         {
-          "name": "While She Sleeps",
-          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
-        },
-        {
-          "name": "Malevolence",
-          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+          "name": "Emmure",
+          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
         }
       ],
-      "duration_ms": 234549,
-      "name": "DOWN (feat. Malevolence)",
-      "url": "https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7"
+      "duration_ms": 157666,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/4dFI3oZOaZn2iSOEUe1FFO"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -1443,18 +1439,22 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "Look at Yourself",
-        "url": "https://open.spotify.com/album/5d904eRcMkUSIipPixswNM"
+        "name": "DOWN (feat. Malevolence)",
+        "url": "https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD"
       },
       "artists": [
         {
-          "name": "Emmure",
-          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        },
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
         }
       ],
-      "duration_ms": 157666,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/4dFI3oZOaZn2iSOEUe1FFO"
+      "duration_ms": 234549,
+      "name": "DOWN (feat. Malevolence)",
+      "url": "https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7"
     },
     {
       "added_at": "2024-01-19 09:32:47",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-01-19 09:32:47",
       "album": {
-        "name": "Gravity (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Over It",
-      "url": "https://open.spotify.com/track/7qFlhASAQGN8AQUH5CXB8O"
-    },
-    {
-      "added_at": "2024-01-19 09:32:47",
-      "album": {
         "name": "Pale Iris",
         "url": "https://open.spotify.com/album/3XIN5O8ioMsCQwumlx7QUt"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 263360,
       "name": "Pale Iris",
       "url": "https://open.spotify.com/track/5c3CJeTQO5oZqKdKRAqkg3"
+    },
+    {
+      "added_at": "2024-01-19 09:32:47",
+      "album": {
+        "name": "Gravity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/7qFlhASAQGN8AQUH5CXB8O"
     },
     {
       "added_at": "2024-01-19 09:32:47",

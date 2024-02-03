@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Michael Marcagi",
-  "num_followers": 71810,
+  "num_followers": 71850,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWE3MjYzMzljZDVkOWI0MGY4N2RmMDBjNWM5NjE1YjU0NTg4ZWRj",
+  "snapshot_id": "MCxkZGQyZTcxMzlmNTliYzZlYjVjMjYxYjcxYWNlZDAyNWYyODYzMDBh",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -73,40 +73,40 @@
       "url": "https://open.spotify.com/track/2WDumSXgwXLLS6gtY34150"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Pececitos",
-        "url": "https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT"
+        "name": "No Complaints",
+        "url": "https://open.spotify.com/album/42xj07uXecDQBFGUcEVfwx"
       },
       "artists": [
         {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        },
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
         }
       ],
-      "duration_ms": 205842,
-      "name": "Pececitos",
-      "url": "https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0"
+      "duration_ms": 187089,
+      "name": "No Complaints",
+      "url": "https://open.spotify.com/track/2D2rLS5IBt2EzDajhtuHZR"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
       },
       "artists": [
         {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+      "duration_ms": 289964,
+      "name": "Change (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -131,34 +131,38 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/5wCzmTcZCedAueCDuH9USU"
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
       },
       "artists": [
         {
-          "name": "Benjamin Francis Leftwich",
-          "url": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
         }
       ],
-      "duration_ms": 199522,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/235mWaTu830G0ldfqES9dJ"
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
     },
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Obstruction",
-        "url": "https://open.spotify.com/album/40x4bMBFOkIa7e7osQKZor"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 156073,
-      "name": "Obstruction",
-      "url": "https://open.spotify.com/track/6uHzaxcCXhpAdYrAgZMmtJ"
+      "duration_ms": 169467,
+      "name": "Spotless (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -231,22 +235,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 169467,
-      "name": "Spotless (feat. The Lumineers)",
-      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
+      "duration_ms": 152317,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -263,22 +263,6 @@
       "duration_ms": 280106,
       "name": "Unknown / Nth",
       "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "This Is What It Feels Like",
-        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 152317,
-      "name": "Feels Like",
-      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -419,18 +403,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 194277,
-      "name": "Magical",
-      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -487,22 +471,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "You Could Start A Cult (with Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
       },
@@ -519,6 +487,22 @@
       "duration_ms": 194869,
       "name": "You Could Start A Cult (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194277,
+      "name": "Magical",
+      "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -603,22 +587,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Angel Face",
-        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 232277,
-      "name": "Doesn\u2019t Do Me Any Good",
-      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "London's Song",
         "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
       },
@@ -631,6 +599,22 @@
       "duration_ms": 178573,
       "name": "London's Song",
       "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 232277,
+      "name": "Doesn\u2019t Do Me Any Good",
+      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -745,6 +729,22 @@
       "url": "https://open.spotify.com/track/0AwmMHWOVftwCi5hkcNQ5z"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "How Much Longer?",
+        "url": "https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 243798,
+      "name": "How Much Longer?",
+      "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
+    },
+    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Little Blue (feat. Brandi Carlile)",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "68",
-        "url": "https://open.spotify.com/album/51JORfnib4vdjiXHAouErb"
-      },
-      "artists": [
-        {
-          "name": "Nolan Taylor",
-          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
-        }
-      ],
-      "duration_ms": 207845,
-      "name": "68",
-      "url": "https://open.spotify.com/track/1qlyWMMDGkXAjFehdUKGJ7"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "The Joy of Music",
         "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 215213,
       "name": "Living My Best Life",
       "url": "https://open.spotify.com/track/0R7EWhquaAICmyE5MZqt3q"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "68",
+        "url": "https://open.spotify.com/album/51JORfnib4vdjiXHAouErb"
+      },
+      "artists": [
+        {
+          "name": "Nolan Taylor",
+          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
+        }
+      ],
+      "duration_ms": 207845,
+      "name": "68",
+      "url": "https://open.spotify.com/track/1qlyWMMDGkXAjFehdUKGJ7"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -877,20 +877,36 @@
       "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "How Much Longer?",
-        "url": "https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV"
+        "name": "Prospect",
+        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
       },
       "artists": [
         {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
         }
       ],
-      "duration_ms": 243798,
-      "name": "How Much Longer?",
-      "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
+      "duration_ms": 198653,
+      "name": "Until You",
+      "url": "https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -907,22 +923,6 @@
       "duration_ms": 203324,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Prospect",
-        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Until You",
-      "url": "https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "Goodbye to the Valley Low",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 181130,
+      "name": "Stolen Seasons",
+      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
@@ -1061,22 +1077,6 @@
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Crying Over U",
-        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 234231,
-      "name": "Crying Over U",
-      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Optimist",
@@ -1107,22 +1107,6 @@
       "duration_ms": 180589,
       "name": "Cate\u2019s Brother",
       "url": "https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Goodbye to the Valley Low",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 181130,
-      "name": "Stolen Seasons",
-      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1195,22 +1179,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Give Me The Reason",
         "url": "https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z"
       },
@@ -1223,6 +1191,22 @@
       "duration_ms": 234186,
       "name": "Give Me The Reason",
       "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1309,6 +1293,22 @@
       "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 224371,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs"
+    },
+    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "History Of A Feeling",
@@ -1371,22 +1371,6 @@
       "duration_ms": 188813,
       "name": "Last Man On Earth",
       "url": "https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry"
-      },
-      "artists": [
-        {
-          "name": "Hans Williams",
-          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
-        }
-      ],
-      "duration_ms": 224371,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "You'd Never Know",
+        "url": "https://open.spotify.com/album/11jeNPW1g0dK41iAtTb3uD"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "duration_ms": 205317,
+      "name": "You'd Never Know",
+      "url": "https://open.spotify.com/track/1xE6GyHqCNnwiaraaLoK7f"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Time Ain't Accidental",
         "url": "https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN"
       },
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "A Running Start",
-        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 261165,
-      "name": "A Running Start",
-      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Witness (feat. Rajiv Dhall)",
         "url": "https://open.spotify.com/album/1JE0utQ8jkvsB77SJ3gXbt"
       },
@@ -1671,6 +1655,30 @@
       "duration_ms": 213133,
       "name": "Witness - feat. Rajiv Dhall",
       "url": "https://open.spotify.com/track/3zC3W1qHKdfPIjRbjnn56W"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
+        "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 270426,
+      "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
+      "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

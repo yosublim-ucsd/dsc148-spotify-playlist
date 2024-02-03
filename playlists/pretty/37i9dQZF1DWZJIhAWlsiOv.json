@@ -1,12 +1,12 @@
 {
   "description": "Latin songs that changed the game. Cover: Celia Cruz",
-  "num_followers": 1032270,
+  "num_followers": 1032318,
   "original_name": "100 Latin Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjZiNjI3NzAwMjNlNWU2MzdhMWU3ZWY1ODFiZTU2M2FkYTk1NjQ2",
+  "snapshot_id": "MCwwYzhlOTU3M2IwNWQ4ZDgwZTViYWRjOWRmNGQxYjY0MDk0NTYwYWE4",
   "tracks": [
     {
       "added_at": "2023-04-11 19:14:43",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-04-11 19:14:43",
       "album": {
+        "name": "Entre El Agua Y El Fuego",
+        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "\u00bfY C\u00f3mo Es \u00c9l?",
+      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
+    },
+    {
+      "added_at": "2023-04-11 19:14:43",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 172680,
       "name": "Rakata",
       "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
-    },
-    {
-      "added_at": "2023-04-11 19:14:43",
-      "album": {
-        "name": "Entre El Agua Y El Fuego",
-        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u00bfY C\u00f3mo Es \u00c9l?",
-      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
     },
     {
       "added_at": "2023-04-11 19:14:43",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-04-11 19:14:43",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "La ingrata",
-      "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
-    },
-    {
-      "added_at": "2023-04-11 19:14:43",
-      "album": {
         "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 250920,
       "name": "Burbujas de Amor",
       "url": "https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0"
+    },
+    {
+      "added_at": "2023-04-11 19:14:43",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "La ingrata",
+      "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
     },
     {
       "added_at": "2023-04-11 19:14:43",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-04-11 19:14:43",
       "album": {
+        "name": "Franco de Vita",
+        "url": "https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 240226,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck"
+    },
+    {
+      "added_at": "2023-04-11 19:14:43",
+      "album": {
         "name": "Siembra",
         "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 445080,
       "name": "Pedro Navaja",
       "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
-    },
-    {
-      "added_at": "2023-04-11 19:14:43",
-      "album": {
-        "name": "Franco de Vita",
-        "url": "https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 240226,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck"
     },
     {
       "added_at": "2023-04-11 19:14:43",

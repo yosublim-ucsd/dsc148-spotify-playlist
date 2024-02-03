@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,766 likes - 40 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,770 likes - 40 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 34 | [Lanmou Doudou](https://open.spotify.com/track/2jl6qxOAmEuQB5QWrMsVbD) | [Jacques Sauveur Jean](https://open.spotify.com/artist/7zMjoqEv6asrJzuhFnR72e), [Fabrice Rouzier](https://open.spotify.com/artist/4h2SA3cxN3x4638hDpzy7e) | [Haïti Twoubadou Volume 1](https://open.spotify.com/album/7xVvyQ8qlFd6FbV7OYsAIA) | 4:15 |
 | 35 | [Simplicité](https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 5:31 |
 | 36 | [Kimbé sa nan rinw](https://open.spotify.com/track/1SMubCWecHSi9ZSuvWJhP9) | [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi) | [Turbulan's Kompa, Vol\. 2 \(Special Gouyad Mixed by DJ Mayass\)](https://open.spotify.com/album/1yVAa5VNI8NFNLlWE0hZhn) | 2:45 |
-| 37 | [Blakawout](https://open.spotify.com/track/1TWzsHg1p2lC21NXGWBOzS) | [Klass](https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n) | [Ret Nan Liy Ou](https://open.spotify.com/album/4kATfnQIJ6aOEfQ5hxMGOp) | 5:14 |
-| 38 | [Turn Me On](https://open.spotify.com/track/2YItJHTMp12xn8Ln7pvMCq) | [Kreyol La](https://open.spotify.com/artist/0eNBVNVE6RtZYinnymY1uB) | [Invictus](https://open.spotify.com/album/23RrDDmUkBaoLHnsBtYygy) | 3:34 |
+| 37 | [Turn Me On](https://open.spotify.com/track/2YItJHTMp12xn8Ln7pvMCq) | [Kreyol La](https://open.spotify.com/artist/0eNBVNVE6RtZYinnymY1uB) | [Invictus](https://open.spotify.com/album/23RrDDmUkBaoLHnsBtYygy) | 3:34 |
+| 38 | [Blakawout](https://open.spotify.com/track/1TWzsHg1p2lC21NXGWBOzS) | [Klass](https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n) | [Ret Nan Liy Ou](https://open.spotify.com/album/4kATfnQIJ6aOEfQ5hxMGOp) | 5:14 |
 | 39 | [Lè Nap Fè Lanmou](https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2) | [Mizik Mizik](https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA) | [De Ger](https://open.spotify.com/album/326B0vsovArwhIildjVOdc) | 5:08 |
 | 40 | [She's a Freak](https://open.spotify.com/track/0emPt8vmtR7wKYKr0TKajD) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [She's a Freak](https://open.spotify.com/album/6weHkn20iKsmXfJeD8QpfJ) | 6:54 |
 
-Snapshot ID: `MCwxM2VkMDc1Y2FhMDAwMmNiYWFmMTZjZDIwOWMzYWNiNTQ3ODIxMzg5`
+Snapshot ID: `MCw1ZTcyNmMwNTBkMzJjNDk0NzNhZWQxNzk5NTEwNDYwMDMwZmRlZmM5`

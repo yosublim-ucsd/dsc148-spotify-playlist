@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,049 songs - 2 day 23 hr 41 min
+1,050 songs - 2 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [Lock and Key](https://open.spotify.com/track/4OwHfJGfIGluHa3pi7nwlM) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 5:18 | 2022-04-14 | 2022-09-16 |
 | [Lola and Kirby](https://open.spotify.com/track/1vQoF7wKfKt2WWIDePABo3) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 4:41 | 2022-09-29 | 2023-02-01 |
 | [Lonely as a Cloud](https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Lonely as a Cloud](https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11) | 2:47 | 2022-12-08 |  |
+| [Lonely Avenue](https://open.spotify.com/track/7Af5x0oUmCHEpmvSK6U2zS) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Lonely Avenue](https://open.spotify.com/album/3IYk8IZhaNiz2JETes8Cbd) | 3:39 | 2024-02-02 |  |
 | [Look For The Silver Lining](https://open.spotify.com/track/7CIQyeJuQUrJu3W8CoqAmu) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Look For The Silver Lining](https://open.spotify.com/album/5LGEFIR73PAlPikZFndnyY) | 3:46 | 2022-05-24 |  |
 | [Looking Forward](https://open.spotify.com/track/1ImSQqQnC1UmJaKtT3GfEp) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Looking Forward](https://open.spotify.com/album/4SVRZswM92y7LDcGL8BqmH) | 3:11 | 2023-01-26 |  |
 | [Lost But Found](https://open.spotify.com/track/7IJKCq5Xt8nC6xI3ZDXwJo) | [Nathan Hill Trio](https://open.spotify.com/artist/4KDVrZS1ZTq8DvPeEZxbHz) | [Lost But Found](https://open.spotify.com/album/1fvZrbpTV0PrBvKAUqLcRT) | 3:18 | 2023-12-08 |  |
@@ -956,7 +957,7 @@
 | [Turn Out the Stars](https://open.spotify.com/track/5jD6uLibX1R7wKGFJ6zx4N) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tenor Madness](https://open.spotify.com/album/5FxWL2Ad3i7pqcouKIeXJM) | 5:01 | 2022-04-14 | 2023-07-03 |
 | [Twelve for J.](https://open.spotify.com/track/0B8qcFnV8anELirOWmOQQS) | [Caris Hermes](https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0) | [Caris Hermes](https://open.spotify.com/album/0MKfKZSFjgGYuBZsxe4HNz) | 2:46 | 2022-09-01 |  |
 | [Twenty Somethings](https://open.spotify.com/track/4eaogpCx2UNkKylwlDNGJ7) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Twenty Somethings](https://open.spotify.com/album/2U3BM2wzkqr0aKtZm4bNyP) | 2:32 | 2022-12-08 |  |
-| [Twilight's Last Waltz](https://open.spotify.com/track/5fc8RLe4x7bgwnqZOWZqVt) | [The Manhattan Trio](https://open.spotify.com/artist/4EIEvwQ689URBkInS6L1r4) | [Twilight's Last Waltz](https://open.spotify.com/album/227MPlCydtMDfLUGQJCRsQ) | 3:18 | 2024-02-02 |  |
+| [Twilight's Last Waltz](https://open.spotify.com/track/5fc8RLe4x7bgwnqZOWZqVt) | [The Manhattan Trio](https://open.spotify.com/artist/4EIEvwQ689URBkInS6L1r4) | [Twilight's Last Waltz](https://open.spotify.com/album/227MPlCydtMDfLUGQJCRsQ) | 3:18 | 2024-02-02 | 2024-02-03 |
 | [Un Jour De Différence](https://open.spotify.com/track/1WLTzgu4pulSMjGjinApyd) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9), [Jeff Johnston](https://open.spotify.com/artist/6sg6wzUynsWQNmhS4cBQgp), [Bill Gossage](https://open.spotify.com/artist/3DIwSrXAs3zyLFxuyjt62D), [Frédéric Grenier](https://open.spotify.com/artist/75NhFDotWXXsrvG2xPjDpS), [Michel Berthiaume](https://open.spotify.com/artist/0Af2U9ZexloRwwJIARz3ez), [Jordan Officer](https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL) | [All The Way\-EP](https://open.spotify.com/album/6SGi9R8T8BfGSwhg6fjtEG) | 3:22 | 2022-04-14 | 2022-05-03 |
 | [Under A Smiling Moon](https://open.spotify.com/track/0I4boD33TLuWNt7kskm3KY) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0bjvkCZgQWIFDRedJAoxTO) | 4:23 | 2022-04-14 | 2022-07-29 |
 | [Under A Smiling Moon](https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 4:23 | 2022-06-30 |  |

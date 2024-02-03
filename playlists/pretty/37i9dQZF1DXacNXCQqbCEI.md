@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,059 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,025 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 30 | [Ghost Dance](https://open.spotify.com/track/4URufx3KgL7QH8RTYgGmzD) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y) | 3:38 |
 | 31 | [Solitario](https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Balnear](https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO) | 3:33 |
 | 32 | [Canario](https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6) | 4:09 |
-| 33 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 |
-| 34 | [Maajo](https://open.spotify.com/track/4uUd8Ef9fSwEq1AatXUHu5) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Tropic of Tulli](https://open.spotify.com/album/3vh0BivAB1dthp8mZRUXXl) | 9:06 |
+| 33 | [Maajo](https://open.spotify.com/track/4uUd8Ef9fSwEq1AatXUHu5) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Tropic of Tulli](https://open.spotify.com/album/3vh0BivAB1dthp8mZRUXXl) | 9:06 |
+| 34 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 |
 | 35 | [Pura Flor \(El Búho Remix\)](https://open.spotify.com/track/3R5PROPl0zd9GsmCNYtZNv) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Aurora Remixed](https://open.spotify.com/album/7rEvRh1tkLQSNDA4PvHDRb) | 4:14 |
 | 36 | [Te Quiero Olvidar](https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3) | 3:22 |
 | 37 | [Pájaro](https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Pájaro](https://open.spotify.com/album/68dJoshUCRyvddj3c6jWjP) | 3:42 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 53 | [El Quemado](https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [De Aquí Hasta Aquí](https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY) | 3:16 |
 | 54 | [Pachamama](https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Claudia Manzo](https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg) | [ATO 3: América do Sol](https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC) | 2:37 |
 | 55 | [Sendero del Monte](https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 3:51 |
-| 56 | [Mariposa](https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth) | 7:57 |
-| 57 | [El Cavilante](https://open.spotify.com/track/2olLGTNlKi5hPLVulIpvst) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Mikongo](https://open.spotify.com/artist/7q9AmXPI7sYCKR75Fpdi45), [Sara Van](https://open.spotify.com/artist/1ALGGo6rUkJPZfwjWyETiY) | [Zenit & Nadir](https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6) | 4:45 |
-| 58 | [El Makako](https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:26 |
+| 56 | [El Cavilante](https://open.spotify.com/track/2olLGTNlKi5hPLVulIpvst) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Mikongo](https://open.spotify.com/artist/7q9AmXPI7sYCKR75Fpdi45), [Sara Van](https://open.spotify.com/artist/1ALGGo6rUkJPZfwjWyETiY) | [Zenit & Nadir](https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6) | 4:45 |
+| 57 | [El Makako](https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:26 |
+| 58 | [Mariposa](https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth) | 7:57 |
 | 59 | [Salamanquesa](https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:07 |
 | 60 | [Soma](https://open.spotify.com/track/2m84UV92ba26JYwue9yVUH) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/2dJ5sy2pN5ch1gRyJX6Ozq) | 5:11 |
 
-Snapshot ID: `MCxhZjYzM2E0N2U1OGRjMDc2ZmM3MmM1YmVjZjdlOGJjYTM0OGZlNjg1`
+Snapshot ID: `MCxiYzczOGFkNTcwNmVjMzBhMjEwNWNiODM0MWIwNzA2NzBhNTE0MzJi`

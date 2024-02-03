@@ -202,7 +202,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 349253,
       "name": "Back to the Old",
       "url": "https://open.spotify.com/track/3ezhfmt8pBdp8Eef2EcYut"
@@ -972,7 +972,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 206166,
       "name": "Laps Around The Sun",
       "url": "https://open.spotify.com/track/3U0UzEdzd45T81FHdPPbfC"
@@ -1584,6 +1584,24 @@
     {
       "album": {
         "name": "Stronger (Acoustic)",
+        "url": "https://open.spotify.com/album/1ga7jpZ0eXUsXDq0ym9dbd"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183133,
+      "name": "Stronger (Acoustic)",
+      "url": "https://open.spotify.com/track/59pRM3QqvTJkiGmzgDU1Jk"
+    },
+    {
+      "album": {
+        "name": "Stronger (Acoustic)",
         "url": "https://open.spotify.com/album/6XcdZEX9Snsp4l2KHcSyl7"
       },
       "artists": [
@@ -1598,24 +1616,6 @@
       "duration_ms": 183133,
       "name": "Stronger - Acoustic",
       "url": "https://open.spotify.com/track/4iip1qIgTsVQGNNXxpYV09"
-    },
-    {
-      "album": {
-        "name": "Stronger (Acoustic)",
-        "url": "https://open.spotify.com/album/1ga7jpZ0eXUsXDq0ym9dbd"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "date_added": "2020-11-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 183133,
-      "name": "Stronger - Acoustic",
-      "url": "https://open.spotify.com/track/59pRM3QqvTJkiGmzgDU1Jk"
     },
     {
       "album": {

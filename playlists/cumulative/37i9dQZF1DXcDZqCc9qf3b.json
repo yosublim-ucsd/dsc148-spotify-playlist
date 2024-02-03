@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Groove to music from your Netflix Kids favorites! Cover: My Dad the Bounty Hunter",
+  "description": "Groove to music from your Netflix Kids favorites! Cover: Orion and the Dark",
   "name": "Netflix Kids Official Playlist",
   "tracks": [
     {
@@ -2090,6 +2090,28 @@
       "duration_ms": 55693,
       "name": "Spirit Rangers Theme Song",
       "url": "https://open.spotify.com/track/5ilCMUE33xFgGMzZGUw0KX"
+    },
+    {
+      "album": {
+        "name": "Orion and the Dark (Original Score)",
+        "url": "https://open.spotify.com/album/4iHSeVEkDv1xRnj1VeQYIX"
+      },
+      "artists": [
+        {
+          "name": "Robert Lydecker",
+          "url": "https://open.spotify.com/artist/1BxHOWQjjyVa9gLFZn3AfT"
+        },
+        {
+          "name": "Kevin Lax",
+          "url": "https://open.spotify.com/artist/0vkpJcFIeZZEITGmRyh2US"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65386,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2ElV9rQxJl3IsYalYBYgiY"
     },
     {
       "album": {

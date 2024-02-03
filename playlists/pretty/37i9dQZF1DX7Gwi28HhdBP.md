@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52?si=v7EAopWETMqME3LXKcLsdw">  مصطفى حجاج </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,584 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,663 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 35 | [واحد بس](https://open.spotify.com/track/0BNmhMgicJEEbWXOi3JAES) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [واحد بس](https://open.spotify.com/album/2M4E9lvrpNSfmCgfVNpOC3) | 3:09 |
 | 36 | [Eah El Asatokk Dah](https://open.spotify.com/track/2GTN5gWSRGsgAG6S54BS1f) | [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX) | [Eah El Asatokk Dah](https://open.spotify.com/album/0ICEaufS2EPabQYvAhLsG1) | 5:05 |
 | 37 | [Ketab Hayaty](https://open.spotify.com/track/4SlWoiEKOBzolCg2CP2Alx) | [Hassan El Asmar](https://open.spotify.com/artist/2V9eL6H3ZeeLRKYud48vax) | [Mesh Hasebak](https://open.spotify.com/album/5VZqJeaS9npyDjJrGdkPnV) | 5:48 |
-| 38 | [ناس رخاص](https://open.spotify.com/track/1cx8SaH3qOkQy2xzXqwbwu) | [Ahmad Amer](https://open.spotify.com/artist/4l9xrd6fwIvxgxa5kc1ilJ) | [ناس رخاص](https://open.spotify.com/album/3i1LShxG8qpiWas7pAuya0) | 5:13 |
+| 38 | [ناس رخاص](https://open.spotify.com/track/1cx8SaH3qOkQy2xzXqwbwu) | [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0) | [ناس رخاص](https://open.spotify.com/album/3i1LShxG8qpiWas7pAuya0) | 5:13 |
 | 39 | [الحنين والمعلم](https://open.spotify.com/track/4fcFD3cOSNnyDs1GH97rQS) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [الحنين والمعلم](https://open.spotify.com/album/4UuqcNEutgvA1kKMmh6uye) | 2:33 |
 | 40 | [اللي من دمك \- من فيلم مرعي البريمو](https://open.spotify.com/track/3mTlBBt5Dqn9SvUS8tD2Fk) | [Mohamed Henedy](https://open.spotify.com/artist/4ZSvWphIYMmGOK87HkP6pd), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [اللي من دمك \(من فيلم مرعي البريمو\)](https://open.spotify.com/album/431ZeDB0dvsNp7ujfuaHaA) | 3:28 |
 | 41 | [السخان](https://open.spotify.com/track/41XLRr32qGDjmcSs3GKa7B) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [السخان](https://open.spotify.com/album/5dYVZRHfYxMnpizVoXyane) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 49 | [Sebo Sebo](https://open.spotify.com/track/1Ce7B3wYTruivevd70dWik) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Sebo Sebo](https://open.spotify.com/album/0EuGRizTSmDVKvTt3Hzrxr) | 4:13 |
 | 50 | [Etal tetkayef](https://open.spotify.com/track/5GNfSTV6ioiX3n9oIpyM6c) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Etal tetkayef](https://open.spotify.com/album/2JFefxJ5kwKa5YPjs8qvGj) | 4:17 |
 
-Snapshot ID: `MCw0Zjk3ZWU2ZTM0ODE3OTE1YzcyMmI4ZDdkNTYyZjRhOTE0NmI2ZDBm`
+Snapshot ID: `MCw5YWM2NmNmNmRkNjBmMzdjMTY5NTczOTM2YjNiYTdmZDFhMjhhYmQ5`

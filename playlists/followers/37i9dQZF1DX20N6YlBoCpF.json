@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 19171,
+  "2024-02-03": 19268,
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb\">ONS</a> ",
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41?si=hZ-P14gXQpyHXFKhwdeyIg\">Franja Du Plessis</a>  & <a href=\"https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO?si=2jyL5djIRRW2dS3gstwFYQ\">Ruan Josh</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -57,6 +57,24 @@
       "duration_ms": 169412,
       "name": "'n Brein Met 'n Bloukol",
       "url": "https://open.spotify.com/track/1Nax5KwgOCtsPVq3avYnaD"
+    },
+    {
+      "album": {
+        "name": "'n Brein met 'n Bloukol (Piano Version)",
+        "url": "https://open.spotify.com/album/6zDDWPVXKXSCH8gMUuLyz2"
+      },
+      "artists": [
+        {
+          "name": "Almero",
+          "url": "https://open.spotify.com/artist/7dPungKhZV77MeaGRZwTNR"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155953,
+      "name": "'n Brein met 'n Bloukol (Piano Version)",
+      "url": "https://open.spotify.com/track/2ze5OJU0tAAM9pWsDK1zrc"
     },
     {
       "album": {
@@ -357,6 +375,24 @@
       "duration_ms": 222582,
       "name": "Alles",
       "url": "https://open.spotify.com/track/6AfAYZSP09RMPqCVzyVAMj"
+    },
+    {
+      "album": {
+        "name": "Alles Oor Jou",
+        "url": "https://open.spotify.com/album/53RASfDI3XOgpJzlEI9GLg"
+      },
+      "artists": [
+        {
+          "name": "Eastlynne",
+          "url": "https://open.spotify.com/artist/32oIEWUJAdwgzgZRoxSr8M"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205138,
+      "name": "Alles Oor Jou",
+      "url": "https://open.spotify.com/track/3bzHh4Drp1Gre8ef57JKad"
     },
     {
       "album": {
@@ -889,7 +925,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 150697,
       "name": "Bass Bliksem",
       "url": "https://open.spotify.com/track/3qXkT4jW4AmUVCpbjHaNU2"
@@ -1443,7 +1479,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 179077,
       "name": "Boerepop",
       "url": "https://open.spotify.com/track/7dcRWabNlXjIEAE5jaXnee"
@@ -2318,6 +2354,24 @@
     },
     {
       "album": {
+        "name": "Dashboard",
+        "url": "https://open.spotify.com/album/3rMBEdUjH2YNDJCTS11MQu"
+      },
+      "artists": [
+        {
+          "name": "Kayla",
+          "url": "https://open.spotify.com/artist/6FHqXSFTmhWlgERTHLD9ct"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207461,
+      "name": "Dashboard",
+      "url": "https://open.spotify.com/track/3o16IFK6MF9bKoyL3yjnt8"
+    },
+    {
+      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/79wXpGDlUEWsTpMsILSGcP"
       },
@@ -2369,7 +2423,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 246400,
       "name": "Deurgrond",
       "url": "https://open.spotify.com/track/1bbeafWSQCMRkfz7FJa3MZ"
@@ -3201,7 +3255,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 193043,
       "name": "DOODGEWOON",
       "url": "https://open.spotify.com/track/3Wc9LoitkRgisx0jE9Lvhq"
@@ -3339,6 +3393,24 @@
       "duration_ms": 145684,
       "name": "EEN TWEE",
       "url": "https://open.spotify.com/track/55OBFEGwJ1cR3aaEsSocB2"
+    },
+    {
+      "album": {
+        "name": "Eerlik Heerlik",
+        "url": "https://open.spotify.com/album/77A8cjVDHHyqJACmdgo8Br"
+      },
+      "artists": [
+        {
+          "name": "Emil Paul",
+          "url": "https://open.spotify.com/artist/1eLGnVNTlowcmg1Hhjv8os"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Eerlik Heerlik",
+      "url": "https://open.spotify.com/track/0g2VePgZe4UMuiqF3GWhKv"
     },
     {
       "album": {
@@ -3653,6 +3725,24 @@
       "duration_ms": 212093,
       "name": "Ek's Verlore",
       "url": "https://open.spotify.com/track/4Z0L8MfGkDPX4AX0gnam13"
+    },
+    {
+      "album": {
+        "name": "Eko",
+        "url": "https://open.spotify.com/album/5g6ajIZkVdrIRpn3aSW356"
+      },
+      "artists": [
+        {
+          "name": "X_C_Xreece",
+          "url": "https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194372,
+      "name": "Eko",
+      "url": "https://open.spotify.com/track/3N4BPsXcTa16m8uydbVwzu"
     },
     {
       "album": {
@@ -4553,6 +4643,24 @@
       "duration_ms": 194148,
       "name": "Hier by my",
       "url": "https://open.spotify.com/track/50oQKznrnBMn2A1UELpsNd"
+    },
+    {
+      "album": {
+        "name": "Hier en Nou",
+        "url": "https://open.spotify.com/album/2uB5WffmUyg3HyW1JMXFmV"
+      },
+      "artists": [
+        {
+          "name": "Candy Benson",
+          "url": "https://open.spotify.com/artist/4JEYWgS7PBMaLUFqG9MJ8c"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188003,
+      "name": "Hier en Nou",
+      "url": "https://open.spotify.com/track/3ZxVtubv3I3qpZKXS3tNSU"
     },
     {
       "album": {
@@ -5927,7 +6035,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 211538,
       "name": "Kinders van die Warrelwind",
       "url": "https://open.spotify.com/track/5BOtjYYVTWqp1i40AuKYtP"
@@ -7297,7 +7405,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 199047,
       "name": "Los My",
       "url": "https://open.spotify.com/track/4V80FJoQ4F8683QSJTr4o1"
@@ -7579,6 +7687,24 @@
       "duration_ms": 165320,
       "name": "Medals For Mothers",
       "url": "https://open.spotify.com/track/4G7vWcAoCZzjldPtXmyBmD"
+    },
+    {
+      "album": {
+        "name": "Meer as Liefde",
+        "url": "https://open.spotify.com/album/77xzTsUgh7awP9GUIOlQcx"
+      },
+      "artists": [
+        {
+          "name": "Carlissa",
+          "url": "https://open.spotify.com/artist/4DnxYe01g800MpVYYvN74l"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184506,
+      "name": "Meer as Liefde",
+      "url": "https://open.spotify.com/track/1QcqjIDq9rDjDMEcytNDBr"
     },
     {
       "album": {
@@ -8191,7 +8317,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 202000,
       "name": "Myne Vir Die Aand",
       "url": "https://open.spotify.com/track/6fu8zewjH9qnlW8vS4A8Ri"
@@ -8415,6 +8541,28 @@
       "duration_ms": 237401,
       "name": "Net Een Naam (Akoestiese Weergawe)",
       "url": "https://open.spotify.com/track/5FiSIzozVTcP4gB8bj7JuH"
+    },
+    {
+      "album": {
+        "name": "Net hier bly",
+        "url": "https://open.spotify.com/album/3SDuEgmgaDiVMzN44oG8Tm"
+      },
+      "artists": [
+        {
+          "name": "Ruan Josh",
+          "url": "https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO"
+        },
+        {
+          "name": "Franja Du Plessis",
+          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187809,
+      "name": "Net hier bly",
+      "url": "https://open.spotify.com/track/23PvHDHLE6Y0FGV6JIm2nF"
     },
     {
       "album": {
@@ -9079,6 +9227,24 @@
       "duration_ms": 178730,
       "name": "Ons Is Die Vuur",
       "url": "https://open.spotify.com/track/39qWtrJIMKpKVbAIrbXViw"
+    },
+    {
+      "album": {
+        "name": "Ons Sal Dans",
+        "url": "https://open.spotify.com/album/0gWmxUrDaLiH7DMXEifWmT"
+      },
+      "artists": [
+        {
+          "name": "Giselle",
+          "url": "https://open.spotify.com/artist/3q6m6kxjSndfgNlbd315ur"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211193,
+      "name": "Ons Sal Dans",
+      "url": "https://open.spotify.com/track/1tXBAXCekOEaM4FF5LtpBC"
     },
     {
       "album": {
@@ -10159,7 +10325,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 209680,
       "name": "Sal Jy Bly",
       "url": "https://open.spotify.com/track/6G9EetNoeRcMJddmgxJhMz"
@@ -10839,6 +11005,24 @@
       "duration_ms": 182222,
       "name": "Soen",
       "url": "https://open.spotify.com/track/5OQnmA3wT5JDL3RPRTRacI"
+    },
+    {
+      "album": {
+        "name": "Soen Soos Wat Jy Dans",
+        "url": "https://open.spotify.com/album/2td5HHRkCc3bcSvN9YO3IB"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215217,
+      "name": "Soen Soos Wat Jy Dans",
+      "url": "https://open.spotify.com/track/4yCS6Pqvpg9EaLQcvOPz40"
     },
     {
       "album": {
@@ -12724,6 +12908,24 @@
     },
     {
       "album": {
+        "name": "Verlief",
+        "url": "https://open.spotify.com/album/5wg40Lw69uxraD7x2trUPS"
+      },
+      "artists": [
+        {
+          "name": "Marnus",
+          "url": "https://open.spotify.com/artist/1h9sfLegWvJvRb6k5rXSEe"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Verlief",
+      "url": "https://open.spotify.com/track/00y4vxbDuviPFwiVa1Zxbe"
+    },
+    {
+      "album": {
         "name": "Versmoor",
         "url": "https://open.spotify.com/album/5gfwTqz9mMIWuW4tvhsnop"
       },
@@ -13009,7 +13211,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 204444,
       "name": "Volksie Bonnet",
       "url": "https://open.spotify.com/track/0pxrHKgdDsiesTiidmDwDl"
@@ -13731,7 +13933,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 169194,
       "name": "Wildman",
       "url": "https://open.spotify.com/track/4KIhzNAh0lgHblwDnmeymd"
@@ -13901,7 +14103,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 269647,
       "name": "Wolwe",
       "url": "https://open.spotify.com/track/28C48G11yyOePNAOb7uA9w"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "rock alternativo argentino. \n\ud83d\udcf7 Isla Mujeres ft Mora y los Metegoles",
+  "description": "rock alternativo argentino. \n\ud83d\udcf7 Sakatumba",
   "name": "el under",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 284642,
       "name": "Abstinencia",
       "url": "https://open.spotify.com/track/72tsfpEv65vC4UxuviirDb"
@@ -2341,6 +2341,24 @@
     },
     {
       "album": {
+        "name": "Habla Sola / Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T"
+      },
+      "artists": [
+        {
+          "name": "Sakatumba",
+          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234562,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF"
+    },
+    {
+      "album": {
         "name": "Nuevos miedos - Nadie va a decidir por vos",
         "url": "https://open.spotify.com/album/0PxQldH41ENWpTMyX3buKN"
       },
@@ -2574,6 +2592,24 @@
       "duration_ms": 209809,
       "name": "Oro y Barro",
       "url": "https://open.spotify.com/track/3n3nEclXD69K27BqpqjXHB"
+    },
+    {
+      "album": {
+        "name": "Barato Ideal",
+        "url": "https://open.spotify.com/album/3vHJZa6kVgGjot5mgsjOUg"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171294,
+      "name": "Pagando de M\u00e1s",
+      "url": "https://open.spotify.com/track/4BMyL8QxN9W5jE4ia12l2G"
     },
     {
       "album": {
@@ -3080,7 +3116,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 244540,
       "name": "Silent Affection",
       "url": "https://open.spotify.com/track/1UgBuBe9A85PYYjiJ8sTIY"
@@ -3495,6 +3531,24 @@
     },
     {
       "album": {
+        "name": "Voy a Explotar",
+        "url": "https://open.spotify.com/album/2sFTI7e9lwYYg2NyQTEcaH"
+      },
+      "artists": [
+        {
+          "name": "SINGULARES",
+          "url": "https://open.spotify.com/artist/1T1jRBnri3kmiLINyCFkKN"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182257,
+      "name": "Voy a Explotar",
+      "url": "https://open.spotify.com/track/31tWsQjBWejiJHa8nZxkiW"
+    },
+    {
+      "album": {
         "name": "V\u00e9rtigo",
         "url": "https://open.spotify.com/album/6IOe1xvpCdRRSn0Bq0M4Ve"
       },
@@ -3542,7 +3596,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 166536,
       "name": "XXYY",
       "url": "https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW"

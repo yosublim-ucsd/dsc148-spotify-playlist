@@ -1,12 +1,12 @@
 {
   "description": "Spotify country fan favorites. Cover: Darius Rucker",
-  "num_followers": 2158153,
+  "num_followers": 2157996,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGY0ZWFlY2I4OGQ1ZTBlZDkyYTlhMzZlNDgyZGNiMDg5YjE2MmE0",
+  "snapshot_id": "MCwzNDY2MzM1M2NiYTUzYjM1ZWEwYTVjYTk2NjBlYTBjNDliZTM0Mzc2",
   "tracks": [
     {
       "added_at": "2024-02-01 00:50:36",
@@ -727,6 +727,26 @@
     {
       "added_at": "2024-02-01 00:50:36",
       "album": {
+        "name": "Carly Pearce",
+        "url": "https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 198688,
+      "name": "I Hope You\u2019re Happy Now",
+      "url": "https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr"
+    },
+    {
+      "added_at": "2024-02-01 00:50:36",
+      "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 227840,
       "name": "As Good As I Once Was",
       "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
-    },
-    {
-      "added_at": "2024-02-01 00:50:36",
-      "album": {
-        "name": "Carly Pearce",
-        "url": "https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        },
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 198688,
-      "name": "I Hope You\u2019re Happy Now",
-      "url": "https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr"
     },
     {
       "added_at": "2024-02-01 00:50:36",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-02-01 00:50:36",
       "album": {
-        "name": "JEKYLL + HYDE",
-        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
-    },
-    {
-      "added_at": "2024-02-01 00:50:36",
-      "album": {
         "name": "That Lonesome Song",
         "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 290680,
       "name": "In Color",
       "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
+    },
+    {
+      "added_at": "2024-02-01 00:50:36",
+      "album": {
+        "name": "JEKYLL + HYDE",
+        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
     },
     {
       "added_at": "2024-02-01 00:50:36",
@@ -995,18 +995,22 @@
     {
       "added_at": "2024-02-01 00:50:36",
       "album": {
-        "name": "Mr. Misunderstood",
-        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
+        "name": "MACON",
+        "url": "https://open.spotify.com/album/4MJPulC5XmELvmbrs1XHC9"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 179346,
-      "name": "Record Year",
-      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
+      "duration_ms": 212893,
+      "name": "If I Didn\u2019t Love You",
+      "url": "https://open.spotify.com/track/7IYoh1u7dFM1xIWSEYd5B8"
     },
     {
       "added_at": "2024-02-01 00:50:36",
@@ -1027,22 +1031,18 @@
     {
       "added_at": "2024-02-01 00:50:36",
       "album": {
-        "name": "MACON",
-        "url": "https://open.spotify.com/album/4MJPulC5XmELvmbrs1XHC9"
+        "name": "Mr. Misunderstood",
+        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 212893,
-      "name": "If I Didn\u2019t Love You",
-      "url": "https://open.spotify.com/track/7IYoh1u7dFM1xIWSEYd5B8"
+      "duration_ms": 179346,
+      "name": "Record Year",
+      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
     },
     {
       "added_at": "2024-02-01 00:50:36",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-02-01 00:50:36",
       "album": {
+        "name": "Greetings From...Jake",
+        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Made For You",
+      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
+    },
+    {
+      "added_at": "2024-02-01 00:50:36",
+      "album": {
         "name": "Summer Forever",
         "url": "https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW"
       },
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2024-02-01 00:50:36",
       "album": {
-        "name": "Happy Endings",
-        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "Hotel Key",
-      "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
-    },
-    {
-      "added_at": "2024-02-01 00:50:36",
-      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 196421,
       "name": "I Could Use a Love Song",
       "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
+    },
+    {
+      "added_at": "2024-02-01 00:50:36",
+      "album": {
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "Hotel Key",
+      "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
     },
     {
       "added_at": "2024-02-01 00:50:36",
@@ -1239,22 +1255,6 @@
       "duration_ms": 231832,
       "name": "half of my hometown (feat. Kenny Chesney)",
       "url": "https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk"
-    },
-    {
-      "added_at": "2024-02-01 00:50:36",
-      "album": {
-        "name": "Greetings From...Jake",
-        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Made For You",
-      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
     },
     {
       "added_at": "2024-02-01 00:50:36",

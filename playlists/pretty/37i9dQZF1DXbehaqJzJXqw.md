@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,919 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,239 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 15 | [Un jour de différence](https://open.spotify.com/track/4szoAieU3gUmaObmgPaTGa) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9), [Jordan Officer](https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL) | [All the Way \(feat\. Jordan Officer\)](https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb) | 3:23 |
 | 16 | [Que je t'aime](https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Ilo Veyou](https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP) | 3:43 |
 | 17 | [J'ai Deux Amours](https://open.spotify.com/track/4HcY6ds4TeEo9j4Aj3soFp) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 2:56 |
-| 18 | [Au café de la paix](https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Les ronds de carotte](https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw) | 4:05 |
+| 18 | [Cette Nuit là](https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5) | [Les Chauds Lapins](https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ) | [Amourettes](https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co) | 2:30 |
 | 19 | [Samba saravah](https://open.spotify.com/track/3RBnF6OEuRbwXZIEPFZdk2) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 3:44 |
-| 20 | [Cette Nuit là](https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5) | [Les Chauds Lapins](https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ) | [Amourettes](https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co) | 2:30 |
+| 20 | [Au café de la paix](https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Les ronds de carotte](https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw) | 4:05 |
 | 21 | [Tout Doucement](https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:23 |
 | 22 | [Plus bleu que tes yeux](https://open.spotify.com/track/7kZZqvxiakch8uyU9fY7hC) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chansons](https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w) | 3:23 |
 | 23 | [Je Cherche Un Homme](https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Miss Kitt To You](https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO) | 2:47 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 36 | [On N'a Pas Besoin](https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Paris Combo](https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb) | 4:07 |
 | 37 | [M'envoyer des fleurs](https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8) | [Sandrine Kiberlain](https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l) | [Manquait Plus Qu'Ca](https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf) | 2:35 |
 | 38 | [Samba Saravah](https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 2:50 |
-| 39 | [Je Suis Seule Ce Soir](https://open.spotify.com/track/0l5rSE550QrVceVHcBCiDM) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Diego Figueiredo](https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra) | [Just The Two Of Us](https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3) | 2:17 |
-| 40 | [Assedic](https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA) | [LES ESCROCS](https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4) | [Faites vous des amis](https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu) | 4:25 |
+| 39 | [Assedic](https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA) | [LES ESCROCS](https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4) | [Faites vous des amis](https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu) | 4:25 |
+| 40 | [Je Suis Seule Ce Soir](https://open.spotify.com/track/0l5rSE550QrVceVHcBCiDM) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Diego Figueiredo](https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra) | [Just The Two Of Us](https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3) | 2:17 |
 | 41 | [Mon fantôme](https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Miossec](https://open.spotify.com/artist/0wf6vuNqTvdRGrmpsPu2kW) | [Song, Song, Song](https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd) | 4:21 |
 | 42 | [Le Temps Qui Passe](https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Rendez Vous](https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y) | 3:37 |
 | 43 | [De Temps en Temps](https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [J'ai Deux Amours](https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A) | 3:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 79 | [La noyée](https://open.spotify.com/track/0NwrKodXe9xPCFn5wNDene) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un m'a dit](https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k) | 4:02 |
 | 80 | [Quand j'serai K.O](https://open.spotify.com/track/45csvaQWw0MMkEv0pP7YMc) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Souchon dans l'air \(Vol\. 1\)](https://open.spotify.com/album/5IGv8URch14ZFVg4xmWGsR) | 3:34 |
 
-Snapshot ID: `MCwxMTQ3ZTgxYzRjMmRlMmM1OWVmZjJjZjY5YjcwMjI1MjUyYjQ4ZjAx`
+Snapshot ID: `MCwyNDYzMWZmMTk2Mzc3MjI1MDQ5MDI0YjZhYTEzMzZlYWZmZmU2NmEz`

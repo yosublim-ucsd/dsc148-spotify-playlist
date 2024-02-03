@@ -4,12 +4,12 @@
 
 > Tunes from your favourite coffee shop.
 
-79 songs - 4 hr 40 min
+80 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [6 \- acoustic](https://open.spotify.com/track/303Cqs37BnJDIkbbL0WGcA) | [Jesse Maxwell](https://open.spotify.com/artist/1DWZyavMIKzxC3zDSG5prd) | [basement acoustic sessions](https://open.spotify.com/album/08RXGSZ8G42gij0NUld8tc) | 2:40 | 2023-12-08 | 2023-12-16 |
-| [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2024-01-12 |  |
+| [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2024-01-12 | 2024-02-03 |
 | [All Out Of Fight](https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL \(Tour Deluxe Edition\)](https://open.spotify.com/album/4hgincUyDza4A228fFQRiK) | 3:32 | 2023-12-08 |  |
 | [Another Love](https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Expanded Edition\)](https://open.spotify.com/album/3t0Quq8X7W90hRP5OQ5S4b) | 4:04 | 2023-12-08 |  |
 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 | 2023-12-08 |  |
@@ -79,6 +79,7 @@
 | [To Whoever Has You Next](https://open.spotify.com/track/5kFyn9ADelkaJ7vO8aTxCU) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [To Whoever Has You Next](https://open.spotify.com/album/2m79RYJzEIhDWiPclcRle7) | 2:32 | 2023-12-08 | 2024-01-27 |
 | [Too Attached](https://open.spotify.com/track/082mEHeYe8cHoVZ1exrb9L) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Too Attached](https://open.spotify.com/album/0Yl0YnOtGouj8QMD2LZhYQ) | 2:43 | 2024-01-19 |  |
 | [Tu le sais déjà](https://open.spotify.com/track/5pXwnNRZPzvz0ggCZ0xjaw) | [Vincent Paul](https://open.spotify.com/artist/6vnVX9y2vLVxwiEiDhlfbv) | [Tu le sais déjà](https://open.spotify.com/album/708Nu1SUnOiJQysysoJBpa) | 2:41 | 2023-12-08 | 2024-01-20 |
+| [Turn the Lights Back On](https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turn the Lights Back On](https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC) | 3:58 | 2024-02-02 |  |
 | [Unknown / Nth](https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj) | 4:40 | 2023-12-08 |  |
 | [Used To Be Young](https://open.spotify.com/track/0Nfh4u0J4bajcyp5pzaWCx) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Used To Be Young](https://open.spotify.com/album/1Ev3d9zcHORaPdzCQnWFrA) | 3:11 | 2023-12-08 |  |
 | [Vampire \(Side A\)](https://open.spotify.com/track/2lGJtzntgzGN96xpouP9ry) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [Elliot Greer Presents: Barebones I](https://open.spotify.com/album/5jsVeQDD8XgW5hAEaBM9GA) | 3:22 | 2023-12-08 | 2024-01-20 |

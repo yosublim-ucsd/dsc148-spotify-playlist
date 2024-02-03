@@ -932,7 +932,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 103250,
       "name": "Baguala de Salta, Chicoana",
       "url": "https://open.spotify.com/track/3hyT4UMWIgUJv1qCQ311p5"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 185036,
       "name": "Chavela",
       "url": "https://open.spotify.com/track/0rZrzVHDc6k3EYnAnIhUel"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 270049,
       "name": "Claroscuro",
       "url": "https://open.spotify.com/track/4NsXyQdZ80dXlGwLMyzUEz"
@@ -2242,7 +2242,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 207142,
       "name": "Cumbia de la Paciencia",
       "url": "https://open.spotify.com/track/5CP251cMHjNtpXCgjFkl58"
@@ -3369,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Normal De Lo N... (83%)",
+        "url": "https://open.spotify.com/album/6PC2b8OigqaVPbTZMMENQW"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262593,
+      "name": "En Vez de Huir",
+      "url": "https://open.spotify.com/track/4mB1OMRN8CnaAmWoW1wjba"
+    },
+    {
+      "album": {
         "name": "Enredaderas",
         "url": "https://open.spotify.com/album/6nlqCW3cATF7mm7wtk3iEV"
       },
@@ -3573,6 +3591,28 @@
     },
     {
       "album": {
+        "name": "OTRX",
+        "url": "https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly"
+      },
+      "artists": [
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        },
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175412,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj"
+    },
+    {
+      "album": {
         "name": "Fiebre",
         "url": "https://open.spotify.com/album/7mdcHlznhmw6mb8Sq4Z9fK"
       },
@@ -3660,7 +3700,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 174234,
       "name": "fr\u00edo al verte",
       "url": "https://open.spotify.com/track/0a9eIP2YPBqL7vNaoy9RQx"
@@ -3830,6 +3870,24 @@
       "duration_ms": 251739,
       "name": "Guerrera",
       "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
+    },
+    {
+      "album": {
+        "name": "Hablando a tu coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239500,
+      "name": "Hablando a tu coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay"
     },
     {
       "album": {
@@ -4324,6 +4382,24 @@
       "duration_ms": 355062,
       "name": "La balada de G. Clark",
       "url": "https://open.spotify.com/track/1Apug92E2TzlucGYwC04yq"
+    },
+    {
+      "album": {
+        "name": "La Bona Regla",
+        "url": "https://open.spotify.com/album/2ejsbnlGsoy5UQKPfywWFj"
+      },
+      "artists": [
+        {
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169366,
+      "name": "La Bona Regla",
+      "url": "https://open.spotify.com/track/0kqc9HOqaPqlE3IFxz4zfI"
     },
     {
       "album": {
@@ -4956,6 +5032,28 @@
       "duration_ms": 206061,
       "name": "Las Curanderas",
       "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
+    },
+    {
+      "album": {
+        "name": "Las flores del jard\u00edn",
+        "url": "https://open.spotify.com/album/7yIVmyMKWFX2Ebcp7f3bsH"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1o Lobo",
+          "url": "https://open.spotify.com/artist/2IOAaEywXWpTjSsJfUc5pi"
+        },
+        {
+          "name": "Fon Rom\u00e1n",
+          "url": "https://open.spotify.com/artist/4f7zrCHMKVj6FbYu3abV5r"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215358,
+      "name": "Las flores del jard\u00edn",
+      "url": "https://open.spotify.com/track/5dnHlEa3tjE0B5vWZ1Uw0C"
     },
     {
       "album": {
@@ -6388,7 +6486,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 174204,
       "name": "No se me olvida",
       "url": "https://open.spotify.com/track/6J2leMbBo9Ss10bSRH5N0b"
@@ -7600,7 +7698,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 204735,
       "name": "Qu\u00e9 Problema",
       "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"

@@ -1,12 +1,12 @@
 {
   "description": "Vibey indie tracks for just hanging out.",
-  "num_followers": 820569,
+  "num_followers": 820652,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTUzNDFiMWZhZGI0ZWIyN2EwNjUxYWQ4MDBjMDY4Yjg4ODliODNj",
+  "snapshot_id": "MCxmNTExZTJjYmYyMjg4YjE4Y2VhMmIyNzc0Yzc3NzI1ZTEwNjU2MDJl",
   "tracks": [
     {
       "added_at": "2024-01-12 17:05:09",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
     },
     {
+      "added_at": "2024-01-12 17:12:27",
+      "album": {
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "duration_ms": 111986,
+      "name": "Cracking",
+      "url": "https://open.spotify.com/track/3VwgtTh9D0CubY32jdhI5U"
+    },
+    {
       "added_at": "2024-01-12 17:05:09",
       "album": {
         "name": "Vide Noir",
@@ -615,22 +631,6 @@
       "duration_ms": 257006,
       "name": "Give Up Baby Go",
       "url": "https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy"
-    },
-    {
-      "added_at": "2024-01-12 17:12:27",
-      "album": {
-        "name": "Jinx",
-        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 111986,
-      "name": "Cracking",
-      "url": "https://open.spotify.com/track/3VwgtTh9D0CubY32jdhI5U"
     },
     {
       "added_at": "2024-01-16 16:54:52",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
     },
     {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
-      },
-      "artists": [
-        {
-          "name": "Landon Conrath",
-          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
-        }
-      ],
-      "duration_ms": 153697,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
-    },
-    {
       "added_at": "2024-01-12 17:12:27",
       "album": {
         "name": "Hiding in Plain Sight",
@@ -767,6 +751,22 @@
       "duration_ms": 189466,
       "name": "Pictures of You",
       "url": "https://open.spotify.com/track/2cAZ6Pxbq34h5rgUr7hZKC"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
+      },
+      "artists": [
+        {
+          "name": "Landon Conrath",
+          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
+        }
+      ],
+      "duration_ms": 153697,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Permanent Damage",
-        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 221873,
-      "name": "It's Been a Little Heavy Lately",
-      "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "Ali",
         "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 301242,
       "name": "Diarabi",
       "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "Permanent Damage",
+        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 221873,
+      "name": "It's Been a Little Heavy Lately",
+      "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Powders",
-        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 271733,
-      "name": "Crushing",
-      "url": "https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "Santa Catalina",
         "url": "https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "5K",
-        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
+        "name": "Powders",
+        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
       },
       "artists": [
         {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
         }
       ],
-      "duration_ms": 133493,
-      "name": "Races",
-      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
+      "duration_ms": 271733,
+      "name": "Crushing",
+      "url": "https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1315,6 +1299,22 @@
       "duration_ms": 173661,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "5K",
+        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 133493,
+      "name": "Races",
+      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Back In Love",
-        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 281253,
-      "name": "Back In Love",
-      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/5kh7hZnVTP2Dc8C4Q3BbKi"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "There\u2019s no Other",
-        "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
+        "name": "Back In Love",
+        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
       },
       "artists": [
         {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 155801,
-      "name": "There\u2019s no Other",
-      "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
+      "duration_ms": 281253,
+      "name": "Back In Love",
+      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1443,6 +1427,22 @@
       "duration_ms": 206012,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "There\u2019s no Other",
+        "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 155801,
+      "name": "There\u2019s no Other",
+      "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "Jardin",
-        "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
-      },
-      "artists": [
-        {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "Un Deux Trois",
-      "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "As You Are",
         "url": "https://open.spotify.com/album/187ddebM7tIpmkdDOicu81"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 185458,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/2ESCxmLAUmOPPWlUtbCMDo"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "Jardin",
+        "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Un Deux Trois",
+      "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
     },
     {
       "added_at": "2024-01-12 17:05:09",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-01-12 17:05:09",
       "album": {
-        "name": "PARADISE",
-        "url": "https://open.spotify.com/album/0sBrrAq7fTOEVF0Z4RCMCy"
-      },
-      "artists": [
-        {
-          "name": "NOT THE TWOS",
-          "url": "https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "PARADISE",
-      "url": "https://open.spotify.com/track/584Ud7cLe6qQEi9SrcfTzC"
-    },
-    {
-      "added_at": "2024-01-12 17:05:09",
-      "album": {
         "name": "Worst Case Kid",
         "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 152133,
       "name": "Worst Case Kid",
       "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+    },
+    {
+      "added_at": "2024-01-12 17:05:09",
+      "album": {
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/0sBrrAq7fTOEVF0Z4RCMCy"
+      },
+      "artists": [
+        {
+          "name": "NOT THE TWOS",
+          "url": "https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/584Ud7cLe6qQEi9SrcfTzC"
     },
     {
       "added_at": "2024-01-12 17:05:09",

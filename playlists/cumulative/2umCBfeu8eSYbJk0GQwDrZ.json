@@ -498,7 +498,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 148330,
       "name": "candyflips!",
       "url": "https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 197877,
       "name": "Crazy Again",
       "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
@@ -1028,10 +1028,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 241638,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE"
+    },
+    {
+      "album": {
+        "name": "Heaven In Your Hands",
+        "url": "https://open.spotify.com/album/57ZBVLIHtcXfBdicj7K1Tr"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178032,
+      "name": "Heaven In Your Hands",
+      "url": "https://open.spotify.com/track/0Bfu8xiBLLtNk66S0CWnPY"
     },
     {
       "album": {
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 218665,
       "name": "History Repeating",
       "url": "https://open.spotify.com/track/6Sxu3yHQkn27qn6HdWC81f"
@@ -1152,6 +1170,24 @@
       "duration_ms": 181466,
       "name": "Home To You",
       "url": "https://open.spotify.com/track/4l8quRVm1alY13vw2dUz0L"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/48OsHFJTCcwLrfu5nuxQaR"
+      },
+      "artists": [
+        {
+          "name": "The Takes",
+          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266693,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/4ZS8IOU9EFq9GlgC4cOrbx"
     },
     {
       "album": {
@@ -1329,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "Just How It Should Go",
+        "url": "https://open.spotify.com/album/4qwzL7WHxoFWLNp71xjyQN"
+      },
+      "artists": [
+        {
+          "name": "Nightshifts",
+          "url": "https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195854,
+      "name": "Just How It Should Go",
+      "url": "https://open.spotify.com/track/5EOhkb3wQQj1YvpazFNxde"
+    },
+    {
+      "album": {
         "name": "know that you're not alone",
         "url": "https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl"
       },
@@ -1448,7 +1502,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 183080,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/08lxQMon7L91ykAMi87rgN"
@@ -1527,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Mood Ring",
+        "url": "https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177080,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T"
+    },
+    {
+      "album": {
         "name": "Movies (Softest Version)",
         "url": "https://open.spotify.com/album/17LA8L1s5R9Yi9IzKE5kau"
       },
@@ -1538,7 +1610,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 253810,
       "name": "Movies - Softest Version",
       "url": "https://open.spotify.com/track/289nl9CrGhuXLAdMhSSMto"
@@ -1560,6 +1632,24 @@
       "duration_ms": 201197,
       "name": "Mulholland's Dinner and Wine",
       "url": "https://open.spotify.com/track/6GgwpfhXEjHkHUjwfgMLzY"
+    },
+    {
+      "album": {
+        "name": "Shake Me Where I'm Foolish",
+        "url": "https://open.spotify.com/album/61pr1soPt82B2Sf0VKEKUv"
+      },
+      "artists": [
+        {
+          "name": "NYSSA",
+          "url": "https://open.spotify.com/artist/3ayeyuT6LJM6psFS1ueS6J"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361188,
+      "name": "My Gemini",
+      "url": "https://open.spotify.com/track/3Mf73r5NlpV1AqdtfKii7m"
     },
     {
       "album": {
@@ -2062,10 +2152,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 196453,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/3zH81xJtnZQY1lERDdQ05S"
+    },
+    {
+      "album": {
+        "name": "Shortest Fuse",
+        "url": "https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220649,
+      "name": "Shortest Fuse",
+      "url": "https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c"
     },
     {
       "album": {
@@ -2253,6 +2361,42 @@
     },
     {
       "album": {
+        "name": "Swallow",
+        "url": "https://open.spotify.com/album/1lF9N8KTJe8rEuCTVRwyV8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179698,
+      "name": "Swallow",
+      "url": "https://open.spotify.com/track/2xtF0pR5YIroM6MzKUhJBy"
+    },
+    {
+      "album": {
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/0m7jHaP0wjBEqrRncFTLic"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187324,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/2q3WnVVXT4xh4GA4O7cHF3"
+    },
+    {
+      "album": {
         "name": "Jardin",
         "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
       },
@@ -2401,6 +2545,32 @@
     },
     {
       "album": {
+        "name": "TRUTH OR TRUST",
+        "url": "https://open.spotify.com/album/0fBwGXJK6nrQ0lJaGOzUXY"
+      },
+      "artists": [
+        {
+          "name": "ALIAS",
+          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
+        },
+        {
+          "name": "Virginie B",
+          "url": "https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut"
+        },
+        {
+          "name": "Meggie Lennon",
+          "url": "https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180924,
+      "name": "TRUTH OR TRUST",
+      "url": "https://open.spotify.com/track/4IlH4JvNmbDA8J43Gr21MP"
+    },
+    {
+      "album": {
         "name": "u come near",
         "url": "https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7"
       },
@@ -2412,7 +2582,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 192390,
       "name": "u come near",
       "url": "https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN"
@@ -2484,7 +2654,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 220311,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"

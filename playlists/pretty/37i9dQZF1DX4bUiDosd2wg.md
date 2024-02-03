@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,038 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,041 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 23 | [Etude of Memory](https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition](https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj) | 5:13 |
 | 24 | [내가 너의 곁에 잠시 살았다는 걸](https://open.spotify.com/track/5amgK2rjUTSyXS1q1IUNR8) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [토이2집\-YOUHEEYEOL](https://open.spotify.com/album/6jOgaajTtTZM6zyjIkNd4u) | 5:12 |
 | 25 | [사랑할수록](https://open.spotify.com/track/30GH7aoSEBD9YmgSy83K85) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [Color](https://open.spotify.com/album/5jzebpTutPXBN69mZOwzQy) | 4:10 |
-| 26 | [A Beautiful Farewell](https://open.spotify.com/track/2dekdGGBynn4GIAJE1sIa5) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [잘못된 만남](https://open.spotify.com/album/0eqAutoBmz9KUKovFlv7Qg) | 4:10 |
+| 26 | [A Beautiful Farewell](https://open.spotify.com/track/4uYt1qSWwaXnPttPgDdEfZ) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Kim Gun Mo 3](https://open.spotify.com/album/7MC1rUuYaRivDt9xHwxyPO) | 4:10 |
 | 27 | [Day By Day](https://open.spotify.com/track/7Dy7Z4E2LTh7v7mIMOMGQi) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 3:38 |
 | 28 | [Don't worry](https://open.spotify.com/track/0P3w8D7NAJb5xYvSQBpHq9) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1xfxTZoewn33lWaXFOJky2) | 3:51 |
 | 29 | [I Love You](https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [I Love You](https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq) | 4:06 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 200 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 |
 | 201 | [늦은 후회](https://open.spotify.com/track/46XH9XZwZKuISZZAieHmke) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [2011 김형석 With Friends Part.1](https://open.spotify.com/album/5VIZj07PjlySAdYgo28An9) | 4:42 |
 
-Snapshot ID: `MCxhNTVmMjZmOWUzYzk2OTczYjY0MWQyNTk3ODU3MTVkMDZiYTVhOWIx`
+Snapshot ID: `MCw4NTdlMmZiMzkzMmRhYzg1NjYyZDI0NWRiZjAxNDQ2NzYxYWIzYzE5`

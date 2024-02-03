@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZfTXESa5KP.md) - [plain]
 
 > Congratulations to all of the winners! Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,474 likes - 42 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,624 likes - 42 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZfTXESa5KP.md) - [plain]
 | 19 | [We Don't Fight Anymore](https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [We Don't Fight Anymore](https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m) | 3:40 |
 | 20 | [Save Me The Trouble](https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:20 |
 | 21 | [If I Was a Cowboy](https://open.spotify.com/track/7eqCfMp6Lle7Ij3QjOwrya) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:14 |
-| 22 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
+| 22 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
 | 23 | [wait in the truck \(feat\. Lainey Wilson\)](https://open.spotify.com/track/49GYvCcvMQq1SY3f7Y347h) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 4:37 |
 | 24 | [Nobody's Nobody](https://open.spotify.com/track/1Q7kOSZkgeCkVpWRmNBAcI) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Nobody's Nobody](https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg) | 3:09 |
 | 25 | [Bonfire At Tina's](https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:40 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZfTXESa5KP.md) - [plain]
 | 30 | [You Proof](https://open.spotify.com/track/5W4kiM2cUYBJXKRudNyxjW) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:37 |
 | 31 | [She Had Me At Heads Carolina \(with Jo Dee Messina\) \- Remix](https://open.spotify.com/track/557rfmFFNH4YwsE2OYZfhF) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [She Had Me At Heads Carolina \(with Jo Dee Messina\) \[Remix\]](https://open.spotify.com/album/19PdywBe6KaiBhaws1cUPC) | 3:43 |
 | 32 | [Hell Yeah](https://open.spotify.com/track/3AKwkcaoREu24cKpKwnYj7) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 2:55 |
-| 33 | [That's How Love Is Made](https://open.spotify.com/track/241mj8aXPCfElHc72HsZlP) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 3:46 |
+| 33 | [That's How Love Is Made](https://open.spotify.com/track/241mj8aXPCfElHc72HsZlP) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 3:46 |
 | 34 | [Longneck Way To Go](https://open.spotify.com/track/2L34x2yCo1PUqTxNL1Nl67) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:08 |
 | 35 | [Can't Break Up Now](https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Can't Break Up Now](https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8) | 3:20 |
 | 36 | [Blindsided \(Yeah, Sure, Okay\)](https://open.spotify.com/track/65eeFF3JE3YytATkV5Ga1Y) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:47 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZfTXESa5KP.md) - [plain]
 | 41 | [What A Song Can Do](https://open.spotify.com/track/5qd8TXQLwownmW0e0oUnOL) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do \(Stripped Down\)](https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd) | 3:41 |
 | 42 | [Brand New Man \- with Luke Combs](https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:11 |
 
-Snapshot ID: `MCw4ZWVkMDI2YmYzMDYyZjkwZWE0MWU5NmMxOTkxZDg2NWYwYTA2OTgx`
+Snapshot ID: `MCwyYThkZTJjMGQ3MWJjNzVlZmM3YjY3YzQ3MDU0ZmY3NDY0NTgzMjQw`

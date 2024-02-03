@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 147560,
+  "2024-02-03": 147640,
   "date_first_scraped": "2021-12-21",
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:6CQGrt3AJ2gx5oMSR0mwbl\">1K Phew</a>",
   "name": "The Flow",
@@ -5861,7 +5861,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 175773,
       "name": "Girls Don't Cry (Gibberish)",
       "url": "https://open.spotify.com/track/4slzYQ2rU6lcPqBETDLY9y"
@@ -15649,6 +15649,24 @@
       "duration_ms": 246874,
       "name": "Strange Things",
       "url": "https://open.spotify.com/track/7m2mxtPYJV3O7JNcH9Oi2J"
+    },
+    {
+      "album": {
+        "name": "ONE OF THE FEW",
+        "url": "https://open.spotify.com/album/3ZQR5JU6dLNAvYdG3dO4N9"
+      },
+      "artists": [
+        {
+          "name": "Linga TheBoss",
+          "url": "https://open.spotify.com/artist/5jCTpUeZQ61zaoSYgYV2cY"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "STRAPPED",
+      "url": "https://open.spotify.com/track/5DznFcDLV51dLDVaMnn52j"
     },
     {
       "album": {

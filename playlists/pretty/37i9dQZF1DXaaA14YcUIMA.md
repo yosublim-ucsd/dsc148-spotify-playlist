@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,385 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,635 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 27 | [Mi Mayor Necesidad](https://open.spotify.com/track/5Cl5cfFNJTnTmtgSwleobq) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 4:05 |
 | 28 | [Contra El Dragón](https://open.spotify.com/track/7I7Cs5Xr776qavPMjNJknC) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Los Sonidos De Su Espíritu](https://open.spotify.com/album/1JmNtIeUHlp2vHxddTj5iA) | 3:46 |
 | 29 | [Ultimas Noticias](https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Últimas Noticias](https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177) | 2:53 |
-| 30 | [La Loca](https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC) | [Los Fugitivos](https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq) | [Vanidosa](https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs) | 4:14 |
-| 31 | [Amor Se Escribe Con Llanto](https://open.spotify.com/track/0EkZZm6d3j05yrFfKkAHn7) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [10 De Coleccion](https://open.spotify.com/album/5Gg6sl1wzelCYH6FloTo0O) | 3:10 |
+| 30 | [Amor Se Escribe Con Llanto](https://open.spotify.com/track/0EkZZm6d3j05yrFfKkAHn7) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [10 De Coleccion](https://open.spotify.com/album/5Gg6sl1wzelCYH6FloTo0O) | 3:10 |
+| 31 | [La Loca](https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC) | [Los Fugitivos](https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq) | [Vanidosa](https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs) | 4:14 |
 | 32 | [Rosas Rojas](https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Verano De Amor](https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5) | 3:30 |
 | 33 | [Amor Sin Palabras](https://open.spotify.com/track/199p1rquWNc5inYj6u8UhW) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 3:13 |
 | 34 | [Enamorado de Ti](https://open.spotify.com/track/3pY68z0dH4i4gF1zzONS0q) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Tu Última Canción](https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa) | 4:09 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 85 | [Melodia Desencadenada](https://open.spotify.com/track/4wpIWC2jNrGEcDjgXvsUsf) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [Soy El Mismo](https://open.spotify.com/album/3BvXrTvzMYqZNz4hnqXSvj) | 3:40 |
 | 86 | [La Vi Llorar](https://open.spotify.com/track/6HBI3f4k8qikkuJJiyoZ0b) | [Grupo Pegasso Del Pollo Esteban](https://open.spotify.com/artist/0niB6NrGI4xxvwDtEmVnhM) | [El Pollo No Falla](https://open.spotify.com/album/5bTmjye8Z3uYMKwM9Q4KYP) | 3:27 |
 | 87 | [Que No Quede Huella](https://open.spotify.com/track/0gHwAu8QyzRDzbQ540RTRg) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Que No Quede Huella](https://open.spotify.com/album/7wKNGBwWNMq7pb0bNFOaed) | 3:00 |
-| 88 | [Hablemos](https://open.spotify.com/track/3ArvAQ4N8f2Keehg0RPIhN) | [Impacto De Montemorelos](https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm) | [Colección De Oro, Vol\. 3](https://open.spotify.com/album/0Co4H1xWEZmKYczwFsSYr4) | 3:13 |
-| 89 | [Déjala Que Se Divierta](https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [La Coloreteada](https://open.spotify.com/album/112NtpiLJlcKg2vw4Y3b3y) | 3:16 |
+| 88 | [Déjala Que Se Divierta](https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [La Coloreteada](https://open.spotify.com/album/112NtpiLJlcKg2vw4Y3b3y) | 3:16 |
+| 89 | [Hablemos](https://open.spotify.com/track/3ArvAQ4N8f2Keehg0RPIhN) | [Impacto De Montemorelos](https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm) | [Colección De Oro, Vol\. 3](https://open.spotify.com/album/0Co4H1xWEZmKYczwFsSYr4) | 3:13 |
 | 90 | [El Regalo](https://open.spotify.com/track/6DroKi0OlIbFmQEb6JSi0E) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [El Regalo](https://open.spotify.com/album/5t6D7FOAlo8uE8qEXzm61Z) | 3:27 |
 | 91 | [Ladrón De Buena Suerte](https://open.spotify.com/track/0bXmkULAV5RNw9pL5iiLb8) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 3:31 |
 | 92 | [Morenita](https://open.spotify.com/track/6qv1oi0j4lzQvxdWiL1apb) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 99 | [Si Estuvieras Conmigo \- Dueto Con Grupo Bryndis](https://open.spotify.com/track/4JgxmSC0CvOZ4WOzNxS2S7) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [30 Aniversario Duetos](https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm) | 2:40 |
 | 100 | [El Muñeco](https://open.spotify.com/track/19G8XMtHCX6y6eYTLDbaU3) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Pensando En Ella](https://open.spotify.com/album/7chUnyKUwq88xEWfyGEV7a) | 2:42 |
 
-Snapshot ID: `MCwzMDJlZGQ0ZTBkOGFkYWIxMDFhN2FiNGRjMTg2ZTI0Yjg4NDVjMzc3`
+Snapshot ID: `MCxkZGY1MjEzYWM1NjY1YWQyOWYzM2M5Y2E3NTkwZDM3MWFhZTIyZjg0`

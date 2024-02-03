@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,859 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,878 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 16 | [Simple Man](https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 5:56 |
 | 17 | [Kerosene](https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:05 |
 | 18 | [Fire on the Mountain](https://open.spotify.com/track/4delgtiKX7L3nsbC0exhCS) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Searchin' for a Rainbow](https://open.spotify.com/album/2Ua8b7Q4KvVMlA8e3v1OMS) | 3:56 |
-| 19 | [Willin'](https://open.spotify.com/track/0jMyU6bO52IYhAEoWbT4K9) | [Little](https://open.spotify.com/artist/4ZuhebqwJKJ4Nn7tqp7zZZ) | [Sailin' Shoes](https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt) | 2:54 |
+| 19 | [Willin'](https://open.spotify.com/track/0jMyU6bO52IYhAEoWbT4K9) | [Little Feat](https://open.spotify.com/artist/4ZuhebqwJKJ4Nn7tqp7zZZ) | [Sailin' Shoes](https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt) | 2:54 |
 | 20 | [Walk On Water](https://open.spotify.com/track/2PAD6vBzSjxDnmm3WB8eI9) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [I Got Your Country Right Here](https://open.spotify.com/album/0zucVZLdGmH0opcSZ6aE4q) | 3:31 |
 | 21 | [Jackie Blue](https://open.spotify.com/track/1R9EHsvzpXwOvlGkgDmE55) | [The Ozark Mountain Daredevils](https://open.spotify.com/artist/7jM2XoJBKhdL8oNnDr4re9) | [It'll Shine When It Shines](https://open.spotify.com/album/558WlMriwRXU9I2Hq6JMzG) | 4:10 |
 | 22 | [Blue Sky](https://open.spotify.com/track/6iX1QW1gGIVNEItnqyvFfH) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Eat A Peach](https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs) | 5:11 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 24 | [Gimme Three Steps](https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 4:27 |
 | 25 | [Hold On Loosely](https://open.spotify.com/track/6hQszXJIYhtjmSTmDqZpeU) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [20th Century Masters The Millennium Collection: Best of 38 Special](https://open.spotify.com/album/5gditTVu3JNE5P8T6tafiH) | 4:39 |
 | 26 | [Train, Train](https://open.spotify.com/track/5bSpsKGoGKXOOfg7F3ZtKz) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Strikes](https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM) | 3:36 |
-| 27 | [Dixie Chicken](https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx) | [Little](https://open.spotify.com/artist/4ZuhebqwJKJ4Nn7tqp7zZZ) | [Dixie Chicken](https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF) | 3:59 |
+| 27 | [Dixie Chicken](https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx) | [Little Feat](https://open.spotify.com/artist/4ZuhebqwJKJ4Nn7tqp7zZZ) | [Dixie Chicken](https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF) | 3:59 |
 | 28 | [I'm No Angel](https://open.spotify.com/track/2Yt2u7vNSCkPUy1awRFSPV) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [I'm No Angel](https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe) | 3:42 |
 | 29 | [Tuesday's Gone](https://open.spotify.com/track/64sn7wgJfeQKY3Jisnl59w) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 7:30 |
 | 30 | [Ain't Wastin' Time No More](https://open.spotify.com/track/4euYSSvpQZSAQ4gThyL2QD) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Eat A Peach](https://open.spotify.com/album/6D9I7GZsqc3pwDg3DFrtjs) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 99 | [Duane's Tune](https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU) | [Dickey Betts](https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7) | [Dickey Betts Band: Live At The Lone Star Roadhouse](https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny) | 6:36 |
 | 100 | [Fire In The Kitchen](https://open.spotify.com/track/2OXVvNEILOCFxEHEElOHTb) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Live At The Moody Theater](https://open.spotify.com/album/7fBc5Ge5u6lxKBxqaaU8y8) | 7:06 |
 
-Snapshot ID: `MCwwYzY5MjQyNjYwMGJkMGY1MjA0MTNiYTU0MjE0YzFmY2EzNzg3MDY5`
+Snapshot ID: `MCwzZWM1Yjk4MmY4ODViODEwYmRiNjM3MmM2NDI1OWM1OTIwZTI3NTRi`

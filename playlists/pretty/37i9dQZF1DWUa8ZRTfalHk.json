@@ -1,44 +1,28 @@
 {
-  "description": "Who's now and next in pop. Cover: Benson Boone",
-  "num_followers": 3166028,
+  "description": "Who's now and next in pop. Cover: Artemas",
+  "num_followers": 3166391,
   "original_name": "Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTI2ZGI1MDgzZWZkNTBiNmI3ZTEzMWI0NDgwOWQzYzdlYzcxNTQ0",
+  "snapshot_id": "MCwzZWNkMTZiZmI5ZTAwMDYzYTI1N2E0MmM1NTgzMDkxN2M0ODZlYjdm",
   "tracks": [
     {
-      "added_at": "2024-01-19 05:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+        "name": "if u think i'm pretty",
+        "url": "https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 229331,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
+      "duration_ms": 128205,
+      "name": "if u think i'm pretty",
+      "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -61,20 +45,72 @@
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB"
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 131999,
-      "name": "Loving You Will Be The Death Of Me",
-      "url": "https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ"
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 229331,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -91,6 +127,22 @@
       "duration_ms": 173400,
       "name": "Free Falling",
       "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP"
+      },
+      "artists": [
+        {
+          "name": "Livingston",
+          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+        }
+      ],
+      "duration_ms": 183021,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -113,22 +165,6 @@
       "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 212648,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
-    },
-    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
@@ -143,6 +179,38 @@
       "duration_ms": 195470,
       "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
       "url": "https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 131999,
+      "name": "Loving You Will Be The Death Of Me",
+      "url": "https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Call Me Yours",
+        "url": "https://open.spotify.com/album/4T7MQ3hv0M7lJoO4uONsoh"
+      },
+      "artists": [
+        {
+          "name": "Lillian Hepler",
+          "url": "https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I"
+        }
+      ],
+      "duration_ms": 151829,
+      "name": "Call Me Yours",
+      "url": "https://open.spotify.com/track/0BhdrTIB5flACZyaLjdzp4"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -233,6 +301,22 @@
       "url": "https://open.spotify.com/track/7ijN634pExtKjNIm7vvvAa"
     },
     {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb"
+    },
+    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "How Much Longer?",
@@ -249,6 +333,22 @@
       "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "petals",
+        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "duration_ms": 157598,
+      "name": "he loves me, he loves me not",
+      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
+    },
+    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "Skin and Bones",
@@ -263,6 +363,22 @@
       "duration_ms": 214632,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/49WXECyPBx84Kw0E33sjCY"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 137813,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/54fIT6FB4H6z3BJXQai1hm"
     },
     {
       "added_at": "2024-01-10 17:27:11",
@@ -377,22 +493,6 @@
       "url": "https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "if u think i'm pretty",
-        "url": "https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 128205,
-      "name": "if u think i'm pretty",
-      "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "this is what winter feels like",
@@ -423,26 +523,6 @@
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 260370,
-      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
-      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -745,22 +825,6 @@
       "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "petals",
-        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
-      },
-      "artists": [
-        {
-          "name": "Jessica Baio",
-          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
-        }
-      ],
-      "duration_ms": 157598,
-      "name": "he loves me, he loves me not",
-      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
-    },
-    {
       "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "age tape 10",
@@ -813,6 +877,22 @@
       "url": "https://open.spotify.com/track/0CGrKBmgI0jrkt3Qd1PM4t"
     },
     {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 179534,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "A Night To Remember",
@@ -853,22 +933,6 @@
       "url": "https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "J CHRIST",
-        "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 153766,
-      "name": "J CHRIST",
-      "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
-    },
-    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "When We Were Young (The Logical Song)",
@@ -891,18 +955,50 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "AMERICAN HORROR SHOW",
-        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
       "artists": [
         {
-          "name": "SNOW WIFE",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 149391,
-      "name": "AMERICAN HORROR SHOW",
-      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
+      "duration_ms": 146436,
+      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "ur special to me",
+        "url": "https://open.spotify.com/album/1sf3JXII7PIrBTPkEi2A0L"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 114418,
+      "name": "ur special to me",
+      "url": "https://open.spotify.com/track/28k0oooG5GnOmR6fnx4kPp"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Commas",
+        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Commas",
+      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -941,6 +1037,42 @@
       "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
     },
     {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Don't Like Anybody",
+        "url": "https://open.spotify.com/album/3vaIMrgZEsIipXunpjLA4B"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 130612,
+      "name": "Don't Like Anybody",
+      "url": "https://open.spotify.com/track/4DCYG3wov1XGZx2mIVVmnj"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "AMERICAN HORROR SHOW",
+        "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
+      },
+      "artists": [
+        {
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 149391,
+      "name": "AMERICAN HORROR SHOW",
+      "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
@@ -971,22 +1103,6 @@
       "duration_ms": 171133,
       "name": "he never will",
       "url": "https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 146436,
-      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1309,6 +1425,22 @@
       "url": "https://open.spotify.com/track/13B8K60ppDcg8MjlvN0Bb9"
     },
     {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "I GOT YOU",
+        "url": "https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 173240,
+      "name": "I GOT YOU",
+      "url": "https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "club heaven",
@@ -1323,22 +1455,6 @@
       "duration_ms": 131937,
       "name": "club heaven",
       "url": "https://open.spotify.com/track/1nO6DT2QIYTxwLGrfQvIt3"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "ur special to me",
-        "url": "https://open.spotify.com/album/1sf3JXII7PIrBTPkEi2A0L"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 114418,
-      "name": "ur special to me",
-      "url": "https://open.spotify.com/track/28k0oooG5GnOmR6fnx4kPp"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1449,6 +1565,22 @@
       "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
     },
     {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "J CHRIST",
+        "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 153766,
+      "name": "J CHRIST",
+      "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
+    },
+    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "Comfortable",
@@ -1463,6 +1595,22 @@
       "duration_ms": 228961,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "BABYMONSTER Pre-Release Single [Stuck In The Middle]",
+        "url": "https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 246236,
+      "name": "Stuck In The Middle",
+      "url": "https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg"
     },
     {
       "added_at": "2023-12-01 05:00:00",

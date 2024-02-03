@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover:  THE JET BOY BANGERZ from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,727 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,736 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 49 | [I Got It](https://open.spotify.com/track/5yHvX9AFnONMXwBhDGwJ5R) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [I Got It](https://open.spotify.com/album/1OwQ3QCxyB8QwkSPzfo4sI) | 3:20 |
 | 50 | [産まれた頃の自分に戻って](https://open.spotify.com/track/3V6hdL8IDDBeyDD2V5mKa8) | [大野雄大 \(from Da\-iCE\)](https://open.spotify.com/artist/4YX4877oTbkuhiKnanhWux) | [産まれた頃の自分に戻って](https://open.spotify.com/album/1S87TvVflyxo4odBE0V7bx) | 4:19 |
 
-Snapshot ID: `MCw3MDA5OTE1NzM1YWIwMTk3M2Y1MTJmZTJmZjA3MmUyZGI2YThkYzNi`
+Snapshot ID: `MCxjMTA0NDNiZTE1YWZmZTEzYjk5Y2E1YTRiMjE3OGRmYzI5NzU0ODEx`

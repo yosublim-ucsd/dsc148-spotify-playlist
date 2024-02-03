@@ -1,12 +1,12 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 42404,
+  "num_followers": 42421,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGNlMTQ4ODdlYTZjOWQ1ZDZhNThmYmY2YWVhMzFmNTgxMWExYWI4",
+  "snapshot_id": "MCxmM2Y2MzZkZmEzOTQ2ODVmMWQ4MTY1ZjA5MWM3YjQ1NzViZTBhNjU4",
   "tracks": [
     {
       "added_at": "2023-11-15 02:04:48",
@@ -451,22 +451,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Simply Paradise",
-        "url": "https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM"
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        },
-        {
-          "name": "Ryan Paris",
-          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 155695,
-      "name": "Simply Paradise",
-      "url": "https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ"
+      "duration_ms": 228553,
+      "name": "So Caught Up",
+      "url": "https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -503,18 +499,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+        "name": "Simply Paradise",
+        "url": "https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        {
+          "name": "Ryan Paris",
+          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
         }
       ],
-      "duration_ms": 228553,
-      "name": "So Caught Up",
-      "url": "https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM"
+      "duration_ms": 155695,
+      "name": "Simply Paradise",
+      "url": "https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -551,38 +551,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Laps Around The Sun",
-        "url": "https://open.spotify.com/album/6JYmn58l1Lj90pF1a9mdh5"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 206166,
-      "name": "Laps Around The Sun",
-      "url": "https://open.spotify.com/track/3U0UzEdzd45T81FHdPPbfC"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Casino Twilight Dogs",
-        "url": "https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd"
-      },
-      "artists": [
-        {
-          "name": "Youth Group",
-          "url": "https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Already Gone",
         "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
@@ -615,18 +583,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Lonely Diamond",
-        "url": "https://open.spotify.com/album/4MLLqbSPtYyA6zPxd1Qqrm"
+        "name": "Casino Twilight Dogs",
+        "url": "https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd"
       },
       "artists": [
         {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+          "name": "Youth Group",
+          "url": "https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq"
         }
       ],
-      "duration_ms": 240280,
-      "name": "Tombstone",
-      "url": "https://open.spotify.com/track/2kcfGjPU2sSZqGPETdGd6o"
+      "duration_ms": 239120,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -643,6 +611,22 @@
       "duration_ms": 326920,
       "name": "Blood",
       "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Lonely Diamond",
+        "url": "https://open.spotify.com/album/4MLLqbSPtYyA6zPxd1Qqrm"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Tombstone",
+      "url": "https://open.spotify.com/track/2kcfGjPU2sSZqGPETdGd6o"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -679,22 +663,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Millionaire",
-        "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 138190,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
       },
@@ -723,6 +691,22 @@
       "duration_ms": 236808,
       "name": "Waking Up Easy",
       "url": "https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Millionaire",
+        "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 138190,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Harlequin Dream",
+        "url": "https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 281133,
+      "name": "Southern Sun",
+      "url": "https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Here Comes Everybody",
         "url": "https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 242999,
       "name": "together",
       "url": "https://open.spotify.com/track/0ZJw3XElRNa29UmEqHTboR"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Harlequin Dream",
-        "url": "https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 281133,
-      "name": "Southern Sun",
-      "url": "https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -855,6 +839,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Venus Ate Mars",
+        "url": "https://open.spotify.com/album/1jL5TTiuaTf52bwC3PLSrt"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 285003,
+      "name": "Left Me Like Summer",
+      "url": "https://open.spotify.com/track/0YVyOLWIh5pe9DEJJjjKKH"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "The Green Superintendent",
         "url": "https://open.spotify.com/album/58n9RgidWA0gk6pyJVRIP7"
       },
@@ -867,26 +867,6 @@
       "duration_ms": 289515,
       "name": "Ride",
       "url": "https://open.spotify.com/track/40a71fyOae5rPfqo8JPoLL"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Thick Skin",
-        "url": "https://open.spotify.com/album/0mlELU0kLfrlVZDtMRVHIO"
-      },
-      "artists": [
-        {
-          "name": "Tia Gostelow",
-          "url": "https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5"
-        },
-        {
-          "name": "LANKS",
-          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/1LG0NlZUludshTbX5iE8Bo"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -923,6 +903,26 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Thick Skin",
+        "url": "https://open.spotify.com/album/0mlELU0kLfrlVZDtMRVHIO"
+      },
+      "artists": [
+        {
+          "name": "Tia Gostelow",
+          "url": "https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5"
+        },
+        {
+          "name": "LANKS",
+          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/1LG0NlZUludshTbX5iE8Bo"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "A Book Like This",
         "url": "https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 259964,
       "name": "True Lovers",
       "url": "https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Venus Ate Mars",
-        "url": "https://open.spotify.com/album/1jL5TTiuaTf52bwC3PLSrt"
-      },
-      "artists": [
-        {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "duration_ms": 285003,
-      "name": "Left Me Like Summer",
-      "url": "https://open.spotify.com/track/0YVyOLWIh5pe9DEJJjjKKH"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1003,22 +987,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Brodie Street / Daquiri",
-        "url": "https://open.spotify.com/album/3ExUufIlgFQJE7l4XRs7Pg"
-      },
-      "artists": [
-        {
-          "name": "Mako Road",
-          "url": "https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz"
-        }
-      ],
-      "duration_ms": 276650,
-      "name": "Daquiri",
-      "url": "https://open.spotify.com/track/2YCN6XAAGD5YLwO5YKBgqa"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Notion - EP",
         "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
       },
@@ -1031,6 +999,22 @@
       "duration_ms": 341000,
       "name": "Notion",
       "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Brodie Street / Daquiri",
+        "url": "https://open.spotify.com/album/3ExUufIlgFQJE7l4XRs7Pg"
+      },
+      "artists": [
+        {
+          "name": "Mako Road",
+          "url": "https://open.spotify.com/artist/5dbCgsqzVweFpd1yYHv3Bz"
+        }
+      ],
+      "duration_ms": 276650,
+      "name": "Daquiri",
+      "url": "https://open.spotify.com/track/2YCN6XAAGD5YLwO5YKBgqa"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1147,22 +1131,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Food In The Belly",
-        "url": "https://open.spotify.com/album/0Pp0Rf05GuUQfeksQnVV0G"
-      },
-      "artists": [
-        {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
-        }
-      ],
-      "duration_ms": 242426,
-      "name": "Messages",
-      "url": "https://open.spotify.com/track/2hXgZdNNnIOOfXmWDzF05n"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Sponge Cake",
         "url": "https://open.spotify.com/album/5rBavL5GFknqp1CREqx4Ov"
       },
@@ -1195,6 +1163,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Food In The Belly",
+        "url": "https://open.spotify.com/album/0Pp0Rf05GuUQfeksQnVV0G"
+      },
+      "artists": [
+        {
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+        }
+      ],
+      "duration_ms": 242426,
+      "name": "Messages",
+      "url": "https://open.spotify.com/track/2hXgZdNNnIOOfXmWDzF05n"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "HOPE Campaign Tribute Album 2010",
         "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
       },
@@ -1207,38 +1191,6 @@
       "duration_ms": 257906,
       "name": "La Mar",
       "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 228440,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/3DasFU2wqxdxyV6Wbm8SHI"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Keepsake",
-        "url": "https://open.spotify.com/album/4NnnY09KEF7Gnw2rXIb0lU"
-      },
-      "artists": [
-        {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
-        }
-      ],
-      "duration_ms": 226999,
-      "name": "Keepsake",
-      "url": "https://open.spotify.com/track/4OAcOb2uobXd9Zu1X9BnEE"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1259,6 +1211,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Keepsake",
+        "url": "https://open.spotify.com/album/4NnnY09KEF7Gnw2rXIb0lU"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "duration_ms": 226999,
+      "name": "Keepsake",
+      "url": "https://open.spotify.com/track/4OAcOb2uobXd9Zu1X9BnEE"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Half Mile Harvest",
         "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
       },
@@ -1271,22 +1239,6 @@
       "duration_ms": 263840,
       "name": "I Get Up",
       "url": "https://open.spotify.com/track/1ZvZONTDAMki5FLguXTju4"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "White Moth",
-        "url": "https://open.spotify.com/album/2qUM67vpnB4wehzTRik1uc"
-      },
-      "artists": [
-        {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
-        }
-      ],
-      "duration_ms": 185213,
-      "name": "Better People",
-      "url": "https://open.spotify.com/track/1k9fcGWwrnyuij2Lvd3OHs"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1307,18 +1259,34 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Vantage Point",
-        "url": "https://open.spotify.com/album/0brAypU3M5W90PnDBs0aGH"
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo"
       },
       "artists": [
         {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
         }
       ],
-      "duration_ms": 179642,
-      "name": "Drift Away",
-      "url": "https://open.spotify.com/track/2XXWxbULM7crzDMiXgcw4Q"
+      "duration_ms": 228440,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/3DasFU2wqxdxyV6Wbm8SHI"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "White Moth",
+        "url": "https://open.spotify.com/album/2qUM67vpnB4wehzTRik1uc"
+      },
+      "artists": [
+        {
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+        }
+      ],
+      "duration_ms": 185213,
+      "name": "Better People",
+      "url": "https://open.spotify.com/track/1k9fcGWwrnyuij2Lvd3OHs"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1335,6 +1303,22 @@
       "duration_ms": 237377,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/0JIGBObzd2N4gv8xDeJIQz"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Vantage Point",
+        "url": "https://open.spotify.com/album/0brAypU3M5W90PnDBs0aGH"
+      },
+      "artists": [
+        {
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        }
+      ],
+      "duration_ms": 179642,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/2XXWxbULM7crzDMiXgcw4Q"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1383,6 +1367,22 @@
       "duration_ms": 226733,
       "name": "London Still",
       "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Give It Up",
+        "url": "https://open.spotify.com/album/1A3A8WdrkktsDANff6H9mt"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "duration_ms": 200905,
+      "name": "Leave That",
+      "url": "https://open.spotify.com/track/3YuAWFpVawNf23ZN7OlfD8"
     }
   ],
   "unique_name": "Coast to Coast",

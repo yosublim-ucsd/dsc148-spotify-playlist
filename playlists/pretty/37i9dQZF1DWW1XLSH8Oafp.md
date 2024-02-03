@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring jigitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,055 likes - 150 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,098 likes - 150 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 89 | [Get It](https://open.spotify.com/track/5ekpdwSkLgEIpvmjWqUjWa) | [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Get It](https://open.spotify.com/album/1LXX0DLWq1UZ15n3u3fC3L) | 3:24 |
 | 90 | [AIR 04](https://open.spotify.com/track/765iELgtSJFNVhBOh89mmt) | [Clarcq](https://open.spotify.com/artist/1rNXEojTDioDqwEHps11f4) | [AIR 04](https://open.spotify.com/album/5GlYtF3eI88CYNPjwgCvLf) | 4:01 |
 | 91 | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34) | 2:19 |
-| 92 | [yea](https://open.spotify.com/track/5tzelfbojCwhwPxMjZB1Q8) | [let me you](https://open.spotify.com/artist/4D5bNOz5mLxAdGBqqvqVMS), [L.A\. Rochelle](https://open.spotify.com/artist/3uY7CDg3g84A8y1PoYcATv) | [yea](https://open.spotify.com/album/6i1VYFEhPYUDp7Ke6MSFl7) | 1:53 |
+| 92 | [yea](https://open.spotify.com/track/5tzelfbojCwhwPxMjZB1Q8) | [let me you](https://open.spotify.com/artist/4D5bNOz5mLxAdGBqqvqVMS), [BERNT](https://open.spotify.com/artist/3uY7CDg3g84A8y1PoYcATv) | [yea](https://open.spotify.com/album/6i1VYFEhPYUDp7Ke6MSFl7) | 1:53 |
 | 93 | [Take It Back](https://open.spotify.com/track/7vbIrYVjE9LYdiAeqp7fnY) | [Janis Zielinski](https://open.spotify.com/artist/0qqVoFZdP1OB0N9FkGfJ4D) | [Take It Back](https://open.spotify.com/album/0X0e0D347ypBiOJa4vnUxZ) | 2:46 |
 | 94 | [it's sky time](https://open.spotify.com/track/7cUfpSPItssaVcFTjXwLwi) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [it's sky time](https://open.spotify.com/album/6Gy14G9S4E5cUDEtlNaekQ) | 5:17 |
 | 95 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 149 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 |
 | 150 | [This Feeling](https://open.spotify.com/track/6pOf6ARcTJJMcJzWJbitsj) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [LIMBO](https://open.spotify.com/album/4g1bzzlGodo2xL5xiAHOH0) | 2:37 |
 
-Snapshot ID: `MCxlYTAwMjQ3NTlmZDE2N2IxOTViOTNhMjk1ZTc5N2Y3NzliNzU0MWRh`
+Snapshot ID: `MCw2NjIyMDEwODkzM2ZiYTFiNjhkM2MxMTY4NjQzNDNhY2E3NWZmZWFm`

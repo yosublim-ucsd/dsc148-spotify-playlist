@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,694 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,880 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 46 | [Bad Day](https://open.spotify.com/track/5qncWTWI5o2a4iKfDnzXDO) | [Agent Zed](https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc), [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Bad Day](https://open.spotify.com/album/17PiY34CSqVPtrgUNaKhet) | 2:15 |
 | 47 | [Shockwave \(with Afrojack\)](https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Shockwave \(with Afrojack\)](https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ) | 2:02 |
 | 48 | [Anybody Out There](https://open.spotify.com/track/1RNVJLDH2ZtLIkUqQd9QxI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Anybody Out There](https://open.spotify.com/album/5SRLMR7GftfOdciVf9DjKM) | 3:08 |
-| 49 | [Tokyo Drift](https://open.spotify.com/track/2pnv23jwKKBqqlZuNjharT) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Tokyo Drift](https://open.spotify.com/album/0kxFjzNvxor4j4WuehCa7j) | 2:43 |
-| 50 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
+| 49 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
+| 50 | [Tokyo Drift](https://open.spotify.com/track/2pnv23jwKKBqqlZuNjharT) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Tokyo Drift](https://open.spotify.com/album/0kxFjzNvxor4j4WuehCa7j) | 2:43 |
 
-Snapshot ID: `MCwxMmJmMGJiNDlhNTJkOTk5MTlkMDQ2NjRjMDlkNjEyNjNiMzQwMzBm`
+Snapshot ID: `MCw3YTY0NGYyZWM0NTkwYWU5ZWZhYzc0ZWY5OGRiY2YyMmYyMzc3MmFk`

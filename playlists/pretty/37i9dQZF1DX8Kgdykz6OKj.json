@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1234058,
+  "num_followers": 1234510,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjY0ZjM5MTkwOGNlODRmZDEyYWRjMmVhYjZhZTM4YTE5Y2Q0NGQ1",
+  "snapshot_id": "MCw5ZjhmNWEyNmRiNDdjYmUwMDE3MmY5ZGU0YTEwNmE1ZDUyZWZlOGJl",
   "tracks": [
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
-        "name": "Stories From The Brass Section",
-        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly & Phoniks",
-          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
-        }
-      ],
-      "duration_ms": 200829,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
         "name": "079 (FloFilz Remix)",
         "url": "https://open.spotify.com/album/05TPfdtXGqzfv9BCkoqBXI"
       },
@@ -1471,6 +1455,38 @@
       "duration_ms": 117546,
       "name": "079 (FloFilz Remix)",
       "url": "https://open.spotify.com/track/3BmufJ1d3jKAO27o1MNcib"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
+        "name": "Stories From The Brass Section",
+        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly & Phoniks",
+          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
+        }
+      ],
+      "duration_ms": 200829,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Mellow My Man",
+      "url": "https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1503,22 +1519,6 @@
       "duration_ms": 188764,
       "name": "That Jazz",
       "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Mellow My Man",
-      "url": "https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
-        "name": "Can't Let You Go (feat. Nick Grant)",
-        "url": "https://open.spotify.com/album/1rTUaJkFNfc671grQVrpXp"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Nick Grant",
-          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
-        }
-      ],
-      "duration_ms": 193616,
-      "name": "Can't Let You Go (feat. Nick Grant)",
-      "url": "https://open.spotify.com/track/1po27sCiUflhrwE29Gc9PJ"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
         "name": "Back At The House",
         "url": "https://open.spotify.com/album/78q1wlDQCvJXhjqTq9ZTZV"
       },
@@ -1691,6 +1671,26 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
+        "name": "Can't Let You Go (feat. Nick Grant)",
+        "url": "https://open.spotify.com/album/1rTUaJkFNfc671grQVrpXp"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Nick Grant",
+          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
+        }
+      ],
+      "duration_ms": 193616,
+      "name": "Can't Let You Go (feat. Nick Grant)",
+      "url": "https://open.spotify.com/track/1po27sCiUflhrwE29Gc9PJ"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
         "name": "Oh Word",
         "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
       },
@@ -1703,26 +1703,6 @@
       "duration_ms": 194019,
       "name": "Oh Word",
       "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
-        "name": "It's Nice Outside",
-        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly",
-          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "It's Nice Outside",
-      "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1743,6 +1723,26 @@
       "duration_ms": 250360,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/11rUmp24dnPKg5OuQUeyJb"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
+        "name": "It's Nice Outside",
+        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly",
+          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "It's Nice Outside",
+      "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1851,18 +1851,22 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
-        "name": "Heart Shaped Kisses",
-        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
+        "name": "Beloved! Paradise! Jazz!?",
+        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
       },
       "artists": [
         {
-          "name": "Vluestar",
-          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
+          "name": "McKinley Dixon",
+          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
+        },
+        {
+          "name": "Ms. Jaylin Brown",
+          "url": "https://open.spotify.com/artist/1ffnZupAfeFVxIBCtbiy0d"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Heart Shaped Kisses",
-      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
+      "duration_ms": 247698,
+      "name": "Beloved! Paradise! Jazz!?",
+      "url": "https://open.spotify.com/track/4DoFmJKTQsWqjVgoXC7zOs"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1883,6 +1887,22 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
+        "name": "Heart Shaped Kisses",
+        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
+      },
+      "artists": [
+        {
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Heart Shaped Kisses",
+      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
         "name": "Haiku",
         "url": "https://open.spotify.com/album/1MWZAJAbKyQs3VpDromKj9"
       },
@@ -1899,26 +1919,6 @@
       "duration_ms": 131000,
       "name": "Careful",
       "url": "https://open.spotify.com/track/63IDTb6NGCCQuLLsS3He3L"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
-        "name": "Beloved! Paradise! Jazz!?",
-        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
-      },
-      "artists": [
-        {
-          "name": "McKinley Dixon",
-          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
-        },
-        {
-          "name": "Ms. Jaylin Brown",
-          "url": "https://open.spotify.com/artist/1ffnZupAfeFVxIBCtbiy0d"
-        }
-      ],
-      "duration_ms": 247698,
-      "name": "Beloved! Paradise! Jazz!?",
-      "url": "https://open.spotify.com/track/4DoFmJKTQsWqjVgoXC7zOs"
     },
     {
       "added_at": "2024-01-24 08:57:25",

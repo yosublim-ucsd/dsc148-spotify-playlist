@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 731323,
+  "2024-02-03": 731334,
   "date_first_scraped": "2021-12-21",
   "description": "It's Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
   "name": "It's Hits Sweden",
@@ -4530,6 +4530,24 @@
     },
     {
       "album": {
+        "name": "G\u00c5RDSB\u00d6G",
+        "url": "https://open.spotify.com/album/1cSam6r2OR6aXQ688a1pTZ"
+      },
+      "artists": [
+        {
+          "name": "Edvin T\u00f6rnblom",
+          "url": "https://open.spotify.com/artist/1DA1Zox6VID0zJWCeLY3n2"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142448,
+      "name": "G\u00c5RDSB\u00d6G",
+      "url": "https://open.spotify.com/track/15bpfAQPFdJqu13tPruMTI"
+    },
+    {
+      "album": {
         "name": "Haglar \u2013 Spotify Studio It\u2019s Hits Recording",
         "url": "https://open.spotify.com/album/5r7W2jDIx805Fhx5ahwFUr"
       },
@@ -5925,7 +5943,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 153766,
       "name": "J CHRIST",
       "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
@@ -9009,7 +9027,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 143940,
       "name": "run for the hills",
       "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
@@ -9411,6 +9429,24 @@
       "duration_ms": 162200,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/7dy7fScRwbbmqateWfx5nN"
+    },
+    {
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229331,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
     },
     {
       "album": {
@@ -10535,7 +10571,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 214438,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
@@ -12609,6 +12645,24 @@
       "duration_ms": 158104,
       "name": "Worst Thing",
       "url": "https://open.spotify.com/track/1hETByUz0ynel44jvTOkdt"
+    },
+    {
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246813,
+      "name": "Worth It.",
+      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,021 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,061 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 47 | [When Love Comes Around](https://open.spotify.com/track/1BQBbjtCNK1z7ejXRYASii) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [Plays Cole Porter Love Songs](https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q) | 5:15 |
 | 48 | [I Am Loved](https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra Sings Cole Porter](https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G) | 2:25 |
 | 49 | [Silk Stockings](https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG) | [A Man and His Trombone](https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI) | 2:48 |
-| 50 | [It's All Right With Me](https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Worktime \(RVG\)](https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC) | 6:09 |
+| 50 | [In the Still of the Night](https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [The Definitive Collection](https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7) | 2:45 |
 | 51 | [Old Fashioned Garden](https://open.spotify.com/track/2bKJZcJNfGZl4CJXGjQNs2) | [Harry Arnold and His Swedish Radio Studio Orchestra](https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm) | [The Best Of Cole Porter](https://open.spotify.com/album/1ngfTN3hqpipNzGgIa7U2j) | 3:03 |
-| 52 | [In the Still of the Night](https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [The Definitive Collection](https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7) | 2:45 |
+| 52 | [It's All Right With Me](https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Worktime \(RVG\)](https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC) | 6:09 |
 | 53 | [Paris Loves Lovers](https://open.spotify.com/track/5jDN0wdmd3AcunXBceqmDO) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Carole Richards](https://open.spotify.com/artist/05D7eSjISFRSkreseiUx5k) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 2:43 |
 | 54 | [Ça, C'est l'Amour](https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0) | [John Barrowman](https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ) | [John Barrowman Swings Cole Porter](https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k) | 2:23 |
 | 55 | [Wunderbar](https://open.spotify.com/track/19jXz8ZNh5rj9Lmt3l6iVn) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Plays Cole Porter](https://open.spotify.com/album/1dDLqWvkXcaMoGsa1EgjP5) | 4:36 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 68 | [Get Out of Town \- Med Andra Ord...](https://open.spotify.com/track/7jDgC41FKERGLL0RQXc05K) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Don't Dream of Anybody but Me](https://open.spotify.com/album/5g9BdZChSpUZ2X3vgGNaTa) | 2:34 |
 | 69 | [Looking at You](https://open.spotify.com/track/7afi1z162KLkzTIjPU8DCH) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:53 |
 | 70 | [Where Oh Where](https://open.spotify.com/track/5pbYO3CUlg89OiQajBRShr) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:11 |
-| 71 | [When Love Comes Your Way](https://open.spotify.com/track/75WKCf8LCfjsIC042qHBjU) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 3:13 |
-| 72 | [Conversation Blues](https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR) | [Behia Jazz Band](https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1), [Jérôme Achat](https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg), [Manu Carré](https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll), [Philippe Brassoud](https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w), [Philippe Cocogne](https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L) | [Night and Day With Cole Porter](https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE) | 3:54 |
+| 71 | [Conversation Blues](https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR) | [Behia Jazz Band](https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1), [Jérôme Achat](https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg), [Manu Carré](https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll), [Philippe Brassoud](https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w), [Philippe Cocogne](https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L) | [Night and Day With Cole Porter](https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE) | 3:54 |
+| 72 | [When Love Comes Your Way](https://open.spotify.com/track/75WKCf8LCfjsIC042qHBjU) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 3:13 |
 | 73 | [I Am Ashamed That Women Are so Simple](https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 1:51 |
 | 74 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
 | 75 | [Ours](https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:49 |
 
-Snapshot ID: `MCw2ODA5NDcxMzdkNDdlNDZmYmEzZTRjMDNmMzIyMmY5YzU5MWFkYWU3`
+Snapshot ID: `MCwwNDVjMTdjZmFiYTJmMDI4OGY0NmEyNWU1NDBkMGVlNzdlZGMyOTRl`

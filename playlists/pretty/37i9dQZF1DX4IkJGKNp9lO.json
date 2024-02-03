@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30950,
+  "num_followers": 30955,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDg0NjdlYzU3ZjRhZmNkNTFhZGI4MTEzMGVmZDE2M2FhY2YyOWMy",
+  "snapshot_id": "MCxkN2YwMzU5N2Q5MWE0MzExNWZjNmM5N2MzYTZhZDBiZjcyMGZiNGZk",
   "tracks": [
     {
       "added_at": "2024-01-04 23:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Labyrint",
-        "url": "https://open.spotify.com/album/4KUhSI60vpQqSqWIWT9E5S"
-      },
-      "artists": [
-        {
-          "name": "Radioaktiva R\u00e4ker",
-          "url": "https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd"
-        }
-      ],
-      "duration_ms": 125733,
-      "name": "Dr\u00f6mmen",
-      "url": "https://open.spotify.com/track/5b0r4KGSNjxplg8fmpsnva"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Tecken I Tiden",
         "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 250866,
       "name": "Herrarna I Sandl\u00e5dan",
       "url": "https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Labyrint",
+        "url": "https://open.spotify.com/album/4KUhSI60vpQqSqWIWT9E5S"
+      },
+      "artists": [
+        {
+          "name": "Radioaktiva R\u00e4ker",
+          "url": "https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd"
+        }
+      ],
+      "duration_ms": 125733,
+      "name": "Dr\u00f6mmen",
+      "url": "https://open.spotify.com/track/5b0r4KGSNjxplg8fmpsnva"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Tecken I Tiden",
+        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
+      },
+      "artists": [
+        {
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "N\u00e4r V\u00e4rldssamvetet Tog Semester",
+      "url": "https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Fr\u00e5n Fest Till Arrest",
         "url": "https://open.spotify.com/album/1qhDJcBNvhcdyWABmvD35a"
       },
@@ -643,22 +659,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/4WR5DkdrAaD5okww70B1xY"
-      },
-      "artists": [
-        {
-          "name": "Barbaras Grannar",
-          "url": "https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u"
-        }
-      ],
-      "duration_ms": 251353,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Aktion",
         "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Tecken I Tiden",
-        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
-      },
-      "artists": [
-        {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "N\u00e4r V\u00e4rldssamvetet Tog Semester",
-      "url": "https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Pengar Har Inga \u00d6gon",
         "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 154226,
       "name": "Johanna",
       "url": "https://open.spotify.com/track/2ekTSYW68ShERRzsPBbRaF"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/4WR5DkdrAaD5okww70B1xY"
+      },
+      "artists": [
+        {
+          "name": "Barbaras Grannar",
+          "url": "https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u"
+        }
+      ],
+      "duration_ms": 251353,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Pengar Har Inga \u00d6gon",
-        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
-      },
-      "artists": [
-        {
-          "name": "De Lyckliga Kompisarna",
-          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
-        }
-      ],
-      "duration_ms": 68638,
-      "name": "Boostade Egon",
-      "url": "https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Urs\u00e4kta r\u00f6ran - vi river allt",
         "url": "https://open.spotify.com/album/5tKwHsShJjIiGBvnipyFeW"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 156656,
       "name": "Masspsykos",
       "url": "https://open.spotify.com/track/5ae5eUFZPTUhtIhXAnXtSu"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Pengar Har Inga \u00d6gon",
+        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
+      },
+      "artists": [
+        {
+          "name": "De Lyckliga Kompisarna",
+          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
+        }
+      ],
+      "duration_ms": 68638,
+      "name": "Boostade Egon",
+      "url": "https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "V\u00e4rdel\u00f6s",
-        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
-      },
-      "artists": [
-        {
-          "name": "Sten & Stalin",
-          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "Pappa Betalar",
-      "url": "https://open.spotify.com/track/6Z8nFhmIrtcWNYhwLb8qZB"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Tretton \u00d6vningar i Mindfulness",
         "url": "https://open.spotify.com/album/4LQH4X3UEoOPQG5YNI9RrV"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 160148,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/6Le2xknWbtNI3yRmiBs03U"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "V\u00e4rdel\u00f6s",
+        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
+      },
+      "artists": [
+        {
+          "name": "Sten & Stalin",
+          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "Pappa Betalar",
+      "url": "https://open.spotify.com/track/6Z8nFhmIrtcWNYhwLb8qZB"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Pengar Har Inga \u00d6gon",
-        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
-      },
-      "artists": [
-        {
-          "name": "De Lyckliga Kompisarna",
-          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
-        }
-      ],
-      "duration_ms": 136068,
-      "name": "Martin I Skitlandet",
-      "url": "https://open.spotify.com/track/21BF181yxyzkT8QbHvc16W"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Att Ni Inte Ser...",
         "url": "https://open.spotify.com/album/0qcE2ZLlJjIELkvLHMpdo1"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 171572,
       "name": "Modets Klapptr\u00e4n",
       "url": "https://open.spotify.com/track/5LnLs4Zd79RQ5y7VdKHMXQ"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Pengar Har Inga \u00d6gon",
+        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
+      },
+      "artists": [
+        {
+          "name": "De Lyckliga Kompisarna",
+          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
+        }
+      ],
+      "duration_ms": 136068,
+      "name": "Martin I Skitlandet",
+      "url": "https://open.spotify.com/track/21BF181yxyzkT8QbHvc16W"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Crash Nomada",
-        "url": "https://open.spotify.com/album/5JfnRL57adQUcl9XU57tyG"
-      },
-      "artists": [
-        {
-          "name": "Crash Nomada",
-          "url": "https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "N\u00e5gon form av svar",
-      "url": "https://open.spotify.com/track/1stF6GJvw36GjBrVnJmW7t"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Mvh Grannen",
         "url": "https://open.spotify.com/album/4fePJdRUECaFQ7D1UKq7FK"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 204132,
       "name": "St\u00e4ll dig upp",
       "url": "https://open.spotify.com/track/05mOnCWhhStBlH3veQAKWX"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Crash Nomada",
+        "url": "https://open.spotify.com/album/5JfnRL57adQUcl9XU57tyG"
+      },
+      "artists": [
+        {
+          "name": "Crash Nomada",
+          "url": "https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh"
+        }
+      ],
+      "duration_ms": 219146,
+      "name": "N\u00e5gon form av svar",
+      "url": "https://open.spotify.com/track/1stF6GJvw36GjBrVnJmW7t"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5KMWZzFX6U93JhFtvGgABZ"
+      },
+      "artists": [
+        {
+          "name": "Xiao",
+          "url": "https://open.spotify.com/artist/7p7bBRBk6IU0X0lqIGj0fJ"
+        }
+      ],
+      "duration_ms": 77334,
+      "name": "Europe Must Burn",
+      "url": "https://open.spotify.com/track/02wjerbGfGEPRmgKlVdkww"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Jane Doe, \u00d6stersund",
         "url": "https://open.spotify.com/album/3Se4PLem67i9Do45OPzWu0"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 150647,
       "name": "Egoist",
       "url": "https://open.spotify.com/track/4n7JfZvHYznhdzooFTmzAu"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5KMWZzFX6U93JhFtvGgABZ"
-      },
-      "artists": [
-        {
-          "name": "Xiao",
-          "url": "https://open.spotify.com/artist/7p7bBRBk6IU0X0lqIGj0fJ"
-        }
-      ],
-      "duration_ms": 77334,
-      "name": "Europe Must Burn",
-      "url": "https://open.spotify.com/track/02wjerbGfGEPRmgKlVdkww"
     }
   ],
   "unique_name": "Svensk Punk",

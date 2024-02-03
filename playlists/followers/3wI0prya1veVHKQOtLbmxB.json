@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 141428,
+  "2024-02-03": 141383,
   "date_first_scraped": "2022-06-10",
   "description": "Uh oh! Feeling all the butterflies in your stomach? Constantly checking your phone to see if they texted back? Feel all the feels with this playlist. You might be in love.",
   "name": "songs to fall in love to",
@@ -97,6 +97,24 @@
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+    },
+    {
+      "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191800,
+      "name": "All I Really Want Is You",
+      "url": "https://open.spotify.com/track/410rGaFDJPwjsr9m9RPCkz"
     },
     {
       "album": {
@@ -700,6 +718,42 @@
     },
     {
       "album": {
+        "name": "Fall Into Me",
+        "url": "https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226066,
+      "name": "Fall Into Me",
+      "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
+    },
+    {
+      "album": {
+        "name": "Dancing In The Dark",
+        "url": "https://open.spotify.com/album/0735UJg7bIwGmv28e7zQOF"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158602,
+      "name": "Fall into You",
+      "url": "https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu"
+    },
+    {
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
       },
@@ -715,6 +769,24 @@
       "duration_ms": 245840,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/0O0bttAxJKKWqAqY2Nq4mC"
+    },
+    {
+      "album": {
+        "name": "chemistry",
+        "url": "https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175247,
+      "name": "favorite kind of high",
+      "url": "https://open.spotify.com/track/63ZSZznbGQhzJhOHPZ6WkT"
     },
     {
       "album": {
@@ -805,10 +877,68 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 322160,
       "name": "From Time",
       "url": "https://open.spotify.com/track/2WC4sK0ryyysQhtDok9Ytr"
+    },
+    {
+      "album": {
+        "name": "MOVIES! WORLDWIDE: PART I",
+        "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        },
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98042,
+      "name": "Gave U My Love",
+      "url": "https://open.spotify.com/track/3Q4Pa5EybvFw8O5P3eVrMW"
+    },
+    {
+      "album": {
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177921,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
+    },
+    {
+      "album": {
+        "name": "Give You Love",
+        "url": "https://open.spotify.com/album/3qOjPBjcMHh2kmizz7qkOG"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183399,
+      "name": "Give You Love",
+      "url": "https://open.spotify.com/track/6yfa7stvsbbuDzFsHKG8ez"
     },
     {
       "album": {
@@ -881,7 +1011,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 214800,
       "name": "Good Looking",
       "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
@@ -978,6 +1108,24 @@
     },
     {
       "album": {
+        "name": "Portraits",
+        "url": "https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184153,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/6pzi6qWJ5sOKXm2Fqd5JGJ"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
       },
@@ -1025,7 +1173,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
@@ -1141,6 +1289,24 @@
       "duration_ms": 259853,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/3V0PeMg2mhbYRtk9bioAwF"
+    },
+    {
+      "album": {
+        "name": "I Told You So",
+        "url": "https://open.spotify.com/album/11Eq6C1e99Zbk0XXjzvM1j"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254866,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/1Patip73Sq1xQw7GGwSFtw"
     },
     {
       "album": {
@@ -1454,6 +1620,24 @@
     },
     {
       "album": {
+        "name": "IS IT YOU? / MYSTERIOUS LOVE",
+        "url": "https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "IS IT YOU?",
+      "url": "https://open.spotify.com/track/3xmnR9kblvHlUWY2YDWkrE"
+    },
+    {
+      "album": {
         "name": "Is This Love (2020 Remix)",
         "url": "https://open.spotify.com/album/55hkUHrlzQiyf6IyvKh5Nr"
       },
@@ -1740,6 +1924,24 @@
     },
     {
       "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/0xNBKoAOgkjxgDsmoa5lpV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208421,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/1q4BCQssFe74UJmnWt5lov"
+    },
+    {
+      "album": {
         "name": "Lipstick Lover",
         "url": "https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T"
       },
@@ -1877,7 +2079,7 @@
       ],
       "date_added": "2021-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 221306,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
@@ -1902,6 +2104,24 @@
     },
     {
       "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172892,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
+    },
+    {
+      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
       },
@@ -1917,6 +2137,28 @@
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/0mqTcM8kuu2IYPotMt7AzS"
+    },
+    {
+      "album": {
+        "name": "Margaret",
+        "url": "https://open.spotify.com/album/0mIltbkJxRGCwdSxUPCP2h"
+      },
+      "artists": [
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331332,
+      "name": "Margaret",
+      "url": "https://open.spotify.com/track/0AyRhLx663qekqQDLf78ta"
     },
     {
       "album": {
@@ -1979,6 +2221,24 @@
       "duration_ms": 223640,
       "name": "Mess Is Mine",
       "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
+    },
+    {
+      "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179538,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/2OTISEHIoZio1AKmKpV9BY"
     },
     {
       "album": {
@@ -2099,6 +2359,24 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "album": {
+        "name": "IS IT YOU? / MYSTERIOUS LOVE",
+        "url": "https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152920,
+      "name": "MYSTERIOUS LOVE",
+      "url": "https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS"
     },
     {
       "album": {
@@ -2348,6 +2626,24 @@
     },
     {
       "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -2417,6 +2713,24 @@
       "duration_ms": 175642,
       "name": "Some Girl",
       "url": "https://open.spotify.com/track/2h7kdGOpPSqwJ8QgOhSTks"
+    },
+    {
+      "album": {
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185245,
+      "name": "Someone I Could Love",
+      "url": "https://open.spotify.com/track/7J5wBntCsBRCFdLXYuYlDq"
     },
     {
       "album": {
@@ -2583,7 +2897,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 224866,
       "name": "Sweet Creature",
       "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
@@ -3064,6 +3378,24 @@
     },
     {
       "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163392,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa"
+    },
+    {
+      "album": {
         "name": "Slowhand 35th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
       },
@@ -3111,7 +3443,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 267106,
       "name": "You Are In Love",
       "url": "https://open.spotify.com/track/4A2LfnduSTsE8u0ecYROxE"
@@ -3183,7 +3515,7 @@
       ],
       "date_added": "2021-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"

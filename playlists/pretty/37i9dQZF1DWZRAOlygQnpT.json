@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 82297,
+  "num_followers": 82351,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTNhY2RiN2Q0M2E4YTM4ZjlhMzVmNzJiYzdkM2JkZDUzNjk5ZmI2",
+  "snapshot_id": "MCw0MDRhMWU4NWZjOTMyYTA3ZThjODVhZmZkNGE2ODcwOWU2OWNjNjVk",
   "tracks": [
     {
       "added_at": "2020-04-17 21:51:59",
@@ -111,22 +111,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "La Plaga",
-        "url": "https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId"
-      },
-      "artists": [
-        {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Popotitos",
-      "url": "https://open.spotify.com/track/3kwvhErFvlurnAsxJ5iIaK"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/57hDLkTP9HAokmNA8N4920"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 142800,
       "name": "Hazme una Se\u00f1al - Gimme Little Sign",
       "url": "https://open.spotify.com/track/0mIBr5Hvy96H5LaRnSi1iS"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "La Plaga",
+        "url": "https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Popotitos",
+      "url": "https://open.spotify.com/track/3kwvhErFvlurnAsxJ5iIaK"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -439,18 +439,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "100 A\u00f1os de Musica",
-        "url": "https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa"
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Hooligans",
+        "url": "https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH"
       },
       "artists": [
         {
-          "name": "Los Rockin' Devils",
-          "url": "https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve"
+          "name": "Los Hooligans",
+          "url": "https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka"
         }
       ],
-      "duration_ms": 142785,
-      "name": "Bule Bule",
-      "url": "https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi"
+      "duration_ms": 116626,
+      "name": "Acapulco Rock",
+      "url": "https://open.spotify.com/track/6ERUMOAhYiLUj2eAl2rtah"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -471,18 +471,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Hooligans",
-        "url": "https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH"
+        "name": "100 A\u00f1os de Musica",
+        "url": "https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa"
       },
       "artists": [
         {
-          "name": "Los Hooligans",
-          "url": "https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka"
+          "name": "Los Rockin' Devils",
+          "url": "https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve"
         }
       ],
-      "duration_ms": 116626,
-      "name": "Acapulco Rock",
-      "url": "https://open.spotify.com/track/6ERUMOAhYiLUj2eAl2rtah"
+      "duration_ms": 142785,
+      "name": "Bule Bule",
+      "url": "https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -599,6 +599,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "Amores Incomparables, Vol. 3",
+        "url": "https://open.spotify.com/album/0wl64awQOtkdtCQuZDcY4n"
+      },
+      "artists": [
+        {
+          "name": "Los Reno",
+          "url": "https://open.spotify.com/artist/2gmmO8dk7iXgNYuB24FKQo"
+        }
+      ],
+      "duration_ms": 148546,
+      "name": "Siempre Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/3i4wiURtk5Sy6DRdVuL3pG"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Lucha Va Voom - Se\u00f1or Amor's Mexican R&R Faves",
         "url": "https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 162133,
       "name": "Hermosa Laura",
       "url": "https://open.spotify.com/track/6Epp9ml7BLZBcg0icTFTQu"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Amores Incomparables, Vol. 3",
-        "url": "https://open.spotify.com/album/0wl64awQOtkdtCQuZDcY4n"
-      },
-      "artists": [
-        {
-          "name": "Los Reno",
-          "url": "https://open.spotify.com/artist/2gmmO8dk7iXgNYuB24FKQo"
-        }
-      ],
-      "duration_ms": 148546,
-      "name": "Siempre Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/3i4wiURtk5Sy6DRdVuL3pG"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Los Exitos de Oro de Los Crazy Boy's",
-        "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
-      },
-      "artists": [
-        {
-          "name": "Los Crazy Boys",
-          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
-        }
-      ],
-      "duration_ms": 184084,
-      "name": "El Boogie de la Guitarra",
-      "url": "https://open.spotify.com/track/7xBPsrdhuTa6R9lQlBVGzJ"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 164440,
       "name": "La \u00daltima Vez",
       "url": "https://open.spotify.com/track/2MTNVoknkbqRIMHMNqs7WC"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Los Exitos de Oro de Los Crazy Boy's",
+        "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
+      },
+      "artists": [
+        {
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+        }
+      ],
+      "duration_ms": 184084,
+      "name": "El Boogie de la Guitarra",
+      "url": "https://open.spotify.com/track/7xBPsrdhuTa6R9lQlBVGzJ"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "Los Exitos de Oro de Los Crazy Boy's",
+        "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
+      },
+      "artists": [
+        {
+          "name": "Los Crazy Boys",
+          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
+        }
+      ],
+      "duration_ms": 162011,
+      "name": "El Primer Beso",
+      "url": "https://open.spotify.com/track/7dpZ4d47HlWfLUCyidiDKD"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "RCA 100 Anos De Musica - Segunda Parte (Exitos Inolvidables Del Rock & Roll En Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 168066,
       "name": "La Novia De Mi Mejor Amigo",
       "url": "https://open.spotify.com/track/0fTQjEHnF5ixoyVHAup7As"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Los Exitos de Oro de Los Crazy Boy's",
-        "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
-      },
-      "artists": [
-        {
-          "name": "Los Crazy Boys",
-          "url": "https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN"
-        }
-      ],
-      "duration_ms": 162011,
-      "name": "El Primer Beso",
-      "url": "https://open.spotify.com/track/7dpZ4d47HlWfLUCyidiDKD"
     },
     {
       "added_at": "2020-04-17 21:51:59",

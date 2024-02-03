@@ -1,9 +1,27 @@
 {
-  "2024-02-02": 2000,
+  "2024-02-03": 2003,
   "date_first_scraped": "2023-12-14",
   "description": "Music from \"YU\u2606YU\u2606HAKUSHO\" series. \u5b9f\u5199\u5316\u3082\u8a71\u984c\u306e\u4eba\u6c17\u30a2\u30cb\u30e1\u300c\u5e7d\u2606\u904a\u2606\u767d\u66f8\u300d\u4e3b\u984c\u6b4c\u3001\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30bd\u30f3\u30b0\u3068\u4eba\u6c17\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u3092\u4e00\u6c17\u306b\u304a\u5c4a\u3051\uff01\u00a9Y.T.90-94/P,S",
   "name": "YU\u2606YU\u2606HAKUSHO \u5e7d\u2606\u904a\u2606\u767d\u66f8",
   "tracks": [
+    {
+      "album": {
+        "name": "Yu Yu Hakusho Saikyo Best Selection",
+        "url": "https://open.spotify.com/album/7jrxc1K20UmjQoxO1ocNhW"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Urameshi(CV:Nozomu Sasaki)",
+          "url": "https://open.spotify.com/artist/04hFZSKvPBidU2MNPyiMSZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265066,
+      "name": "All Right!",
+      "url": "https://open.spotify.com/track/6mVebwiDp8nKVEd4XJW7F2"
+    },
     {
       "album": {
         "name": "\u5e7d\u2606\u904a\u2606\u767d\u66f8 \u6700\u5f37\u30d9\u30b9\u30c8\u30bb\u30ec\u30af\u30b7\u30e7\u30f3",
@@ -17,7 +35,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 265066,
       "name": "ALL RIGHT!",
       "url": "https://open.spotify.com/track/3SYCADEbCS1MznASGJBPes"
@@ -42,6 +60,24 @@
     },
     {
       "album": {
+        "name": "Yu Yu Hakusho - Collective Songs -",
+        "url": "https://open.spotify.com/album/464M4r3vUBjyxSUkpmDUi4"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Kuwabara(CV:Shigeru Chiba)",
+          "url": "https://open.spotify.com/artist/0YEregQJiAKJrROVX58i43"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318333,
+      "name": "Dachi",
+      "url": "https://open.spotify.com/track/3GqDwEa0Svly6ACCJtIpVZ"
+    },
+    {
+      "album": {
         "name": "\u5e7d\u2606\u904a\u2606\u767d\u66f8 \u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30d0\u30c8\u30eb\u7de82",
         "url": "https://open.spotify.com/album/1VlSaoBHc9eUATnUKjGCJy"
       },
@@ -53,10 +89,32 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 317960,
       "name": "DACHI",
       "url": "https://open.spotify.com/track/5KXFLoRV05A3AhKi2NM4eS"
+    },
+    {
+      "album": {
+        "name": "Yu Yu Hakusho - Collective Songs -",
+        "url": "https://open.spotify.com/album/464M4r3vUBjyxSUkpmDUi4"
+      },
+      "artists": [
+        {
+          "name": "Hiei(CV:Nobuyuki Hiyama)",
+          "url": "https://open.spotify.com/artist/2Mex0lnZpIGg3VNi6Rx7GL"
+        },
+        {
+          "name": "Yoko Kurama(CV:Shigeru Nakahara)",
+          "url": "https://open.spotify.com/artist/5BEnCmVuehBzzR03ajqkbI"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278853,
+      "name": "Dark Side Stories",
+      "url": "https://open.spotify.com/track/1k5c1uadphikh4zKwhHuZI"
     },
     {
       "album": {
@@ -75,10 +133,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 336106,
       "name": "Dark Side Stories",
       "url": "https://open.spotify.com/track/7qUFzK9wJoRNao5OxHet8x"
+    },
+    {
+      "album": {
+        "name": "Yu Yu Hakusho Saikyo Best Selection",
+        "url": "https://open.spotify.com/album/7jrxc1K20UmjQoxO1ocNhW"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Urameshi(CV:Nozomu Sasaki)",
+          "url": "https://open.spotify.com/artist/04hFZSKvPBidU2MNPyiMSZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298906,
+      "name": "Dead or Alive~Toshin~",
+      "url": "https://open.spotify.com/track/6sstvWOaj42c7t0qa5r9TE"
     },
     {
       "album": {
@@ -93,10 +169,36 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 298906,
       "name": "Dead or Alive\uff5e\u95d8\u795e\uff5e",
       "url": "https://open.spotify.com/track/4CmK1FBhbdk6wlLFgi1ihF"
+    },
+    {
+      "album": {
+        "name": "Yu Yu Hakusho Saikyo Best Selection",
+        "url": "https://open.spotify.com/album/7jrxc1K20UmjQoxO1ocNhW"
+      },
+      "artists": [
+        {
+          "name": "Kurama(CV:Megumi Ogata)",
+          "url": "https://open.spotify.com/artist/0Ohqjv3X2RAixPHxVV11qL"
+        },
+        {
+          "name": "Hiei(CV:Nobuyuki Hiyama)",
+          "url": "https://open.spotify.com/artist/2Mex0lnZpIGg3VNi6Rx7GL"
+        },
+        {
+          "name": "Kazuma Kuwabara(CV:Shigeru Chiba)",
+          "url": "https://open.spotify.com/artist/0YEregQJiAKJrROVX58i43"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238866,
+      "name": "Eye to Eye",
+      "url": "https://open.spotify.com/track/1Qz62vRIwOx1qp1dijm6TN"
     },
     {
       "album": {
@@ -119,7 +221,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 238866,
       "name": "EYE TO EYE",
       "url": "https://open.spotify.com/track/6ryXuG9YHEP2JrY1XodzeO"
@@ -326,6 +428,24 @@
     },
     {
       "album": {
+        "name": "Yu Yu Hakusho - Collective Songs -",
+        "url": "https://open.spotify.com/album/464M4r3vUBjyxSUkpmDUi4"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Urameshi(CV:Nozomu Sasaki)",
+          "url": "https://open.spotify.com/artist/04hFZSKvPBidU2MNPyiMSZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329773,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/6Odm5nPqUiiULIyptlahmg"
+    },
+    {
+      "album": {
         "name": "\u5e7d\u2606\u904a\u2606\u767d\u66f8 \u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30d0\u30c8\u30eb\u7de82",
         "url": "https://open.spotify.com/album/1VlSaoBHc9eUATnUKjGCJy"
       },
@@ -337,7 +457,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 330000,
       "name": "TOUGH",
       "url": "https://open.spotify.com/track/1mgdBkK91TPK7HcFUKYZeP"
@@ -362,6 +482,28 @@
     },
     {
       "album": {
+        "name": "Yu Yu Hakusho Saikyo Best Selection",
+        "url": "https://open.spotify.com/album/7jrxc1K20UmjQoxO1ocNhW"
+      },
+      "artists": [
+        {
+          "name": "Kurama(CV:Megumi Ogata)",
+          "url": "https://open.spotify.com/artist/0Ohqjv3X2RAixPHxVV11qL"
+        },
+        {
+          "name": "Hiei(CV:Nobuyuki Hiyama)",
+          "url": "https://open.spotify.com/artist/2Mex0lnZpIGg3VNi6Rx7GL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260600,
+      "name": "Wild Wind~Yasei no Kaze no Yoni~",
+      "url": "https://open.spotify.com/track/1H9CX9hgKyrU6PTeaiaMwK"
+    },
+    {
+      "album": {
         "name": "\u5e7d\u2606\u904a\u2606\u767d\u66f8 \u6700\u5f37\u30d9\u30b9\u30c8\u30bb\u30ec\u30af\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/5olCmla5P8rMXZvwb3cqeW"
       },
@@ -377,7 +519,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 260600,
       "name": "WILD WIND\uff5e\u91ce\u6027\u306e\u98a8\u306e\u3088\u3046\u306b\uff5e",
       "url": "https://open.spotify.com/track/3ilE8q9MTlpZXVJawzMfQf"

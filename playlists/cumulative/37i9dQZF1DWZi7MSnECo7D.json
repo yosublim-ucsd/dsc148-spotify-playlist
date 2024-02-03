@@ -10409,6 +10409,32 @@
     },
     {
       "album": {
+        "name": "S\u00f3 as Melhores",
+        "url": "https://open.spotify.com/album/7qCyKgzQHtGuPxgJIg5ty6"
+      },
+      "artists": [
+        {
+          "name": "Lencinho",
+          "url": "https://open.spotify.com/artist/7t3dRtwHynAFUeZRjj6cHV"
+        },
+        {
+          "name": "Tom Gangue",
+          "url": "https://open.spotify.com/artist/6f6b1wIw4bu4pd2mN3qMK2"
+        },
+        {
+          "name": "Vitor Brauer",
+          "url": "https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211916,
+      "name": "\u00c9 T\u00e3o Estranho",
+      "url": "https://open.spotify.com/track/78qNPCPAeJ84N4Hs0xruJl"
+    },
+    {
+      "album": {
         "name": "dan\u00e7ando sem ningu\u00e9m me ouvir",
         "url": "https://open.spotify.com/album/6wSiR9T9D00Fi0BcKJoVhH"
       },

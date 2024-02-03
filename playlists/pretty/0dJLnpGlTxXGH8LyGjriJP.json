@@ -6,7 +6,7 @@
     "name": "skillstreet",
     "url": "https://open.spotify.com/user/skillstreet"
   },
-  "snapshot_id": "OTEwLGEwYWQ2ZjAwZDI2YzE2NGVhODJjYTkwZjkxNGRiMTEyZDU0Y2NkODg=",
+  "snapshot_id": "OTE0LGEzM2NmOTAyY2ViZGQ5MGZiOWNkNTg1MDJjYWE1MmMzNDA2MDZhZWY=",
   "tracks": [
     {
       "added_at": "2022-05-25 21:35:35",
@@ -14115,6 +14115,82 @@
       "duration_ms": 130007,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/1F2YY9lXrRJxAppKaRMGML"
+    },
+    {
+      "added_at": "2024-02-02 04:30:53",
+      "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 147746,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+    },
+    {
+      "added_at": "2024-02-02 23:18:24",
+      "album": {
+        "name": "digital druglord",
+        "url": "https://open.spotify.com/album/0a8WSH44kA5hR4MQ6LyFDB"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 212027,
+      "name": "do re mi",
+      "url": "https://open.spotify.com/track/6Se3x9ANMLv0dCDsjGmEjh"
+    },
+    {
+      "added_at": "2024-02-02 23:18:31",
+      "album": {
+        "name": "XXXTENTACION Presents: Members Only, Vol. 3",
+        "url": "https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn"
+      },
+      "artists": [
+        {
+          "name": "Bass Santana",
+          "url": "https://open.spotify.com/artist/0O1cTzccAEKaEFShgzAK9V"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Cooliecut",
+          "url": "https://open.spotify.com/artist/19uEVh7y7Y9RfjMphMamXc"
+        },
+        {
+          "name": "Kin$oul",
+          "url": "https://open.spotify.com/artist/6HhsbprrJmKeaH8SgSlGge"
+        }
+      ],
+      "duration_ms": 118360,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/5BYCMWNQqz4nqErN1ReRGL"
+    },
+    {
+      "added_at": "2024-02-02 23:22:10",
+      "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 151285,
+      "name": "NO TRENDS",
+      "url": "https://open.spotify.com/track/1R7IfLjtJ4B9kqjIqaEeVf"
     }
   ],
   "unique_name": "locked tf in\ud83d\udd12",

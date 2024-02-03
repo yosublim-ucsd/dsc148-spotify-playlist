@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 56181,
+  "2024-02-03": 56214,
   "date_first_scraped": "2023-01-14",
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Age Factory",
   "name": "Edge!",
@@ -2071,7 +2071,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 243700,
       "name": "Bystanders",
       "url": "https://open.spotify.com/track/3KdhgPWqcU3pThQudClzWO"
@@ -3311,7 +3311,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 232733,
       "name": "DISCO PRANK feat. Leo Uchida",
       "url": "https://open.spotify.com/track/1NsYaNxkwwKC18anLoxVZk"
@@ -3333,6 +3333,24 @@
       "duration_ms": 177958,
       "name": "DIScommunication",
       "url": "https://open.spotify.com/track/69Xc4wPl8QDY5Mt9StUmQc"
+    },
+    {
+      "album": {
+        "name": "1624",
+        "url": "https://open.spotify.com/album/4ZwUxLArPQEgqqYPYecKNt"
+      },
+      "artists": [
+        {
+          "name": "No Buses",
+          "url": "https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204097,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/0QQgeIpfDpTOAialgKCuFA"
     },
     {
       "album": {
@@ -7374,6 +7392,24 @@
     },
     {
       "album": {
+        "name": "\u3061\u3043\u3055\u306a\u4e16\u754c",
+        "url": "https://open.spotify.com/album/2pMsbFoUCWtbMadTxhZtNe"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u821f\u3068\u308f",
+          "url": "https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227009,
+      "name": "Koyoi",
+      "url": "https://open.spotify.com/track/6bMl0O4b15tS5wGSAOlelH"
+    },
+    {
+      "album": {
         "name": "La La La",
         "url": "https://open.spotify.com/album/60gAxd8jeDnGaoPo8Bmed9"
       },
@@ -10819,7 +10855,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 243161,
       "name": "Ramble In The Rainbow",
       "url": "https://open.spotify.com/track/3WYs9M0Cn1h9D6bHlfBjYW"
@@ -10987,6 +11023,24 @@
       "duration_ms": 203481,
       "name": "Ready To Say Goodbye - feat. Misi Ke",
       "url": "https://open.spotify.com/track/7kx2HMEHrRyi3nhlhnDGot"
+    },
+    {
+      "album": {
+        "name": "RED BEANIE",
+        "url": "https://open.spotify.com/album/2s5qxdJRT2nqikoCVTMGLw"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u5ca9 \u907c",
+          "url": "https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161791,
+      "name": "RED BEANIE",
+      "url": "https://open.spotify.com/track/6I37Ah6683XO8YS69rcoXy"
     },
     {
       "album": {
@@ -16639,7 +16693,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 263472,
       "name": "\u3058\u3083\u3058\u3083\u99ac\u306b\u3055\u305b\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/6qV4xNwIt7qF0gO6yW086K"
@@ -23987,7 +24041,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 309348,
       "name": "\u98a8\u3092\u5439\u304b\u305b\u3066",
       "url": "https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg"

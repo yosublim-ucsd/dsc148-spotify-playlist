@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-802 songs - 1 day 17 hr 22 min
+803 songs - 1 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Feelings](https://open.spotify.com/track/0FhFZbyZbkUh5uyAKesmDL) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Feelings](https://open.spotify.com/album/78QTeY02nibG7BWZV9zyVz) | 2:49 | 2021-12-16 | 2022-07-29 |
 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 | 2022-03-24 | 2022-04-18 |
 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-07-07 | 2023-07-17 |
+| [Fingers Crossed](https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:55 | 2023-11-30 |  |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-06 | 2022-07-24 |
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-10-27 |  |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-07 | 2022-10-30 |
@@ -426,7 +427,7 @@
 | [let you](https://open.spotify.com/track/5OJmt1xiOHZJGx8wTUAjEC) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [let you](https://open.spotify.com/album/34GdjbBv0ZQYwmoYrfVM2O) | 2:31 | 2022-04-07 | 2022-04-13 |
 | [Letters](https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Letters](https://open.spotify.com/album/4yl0l9uQmFY69HEABZ2IbA) | 3:01 | 2021-12-16 | 2022-07-29 |
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-01-20 | 2022-10-16 |
-| [Light Switch](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:07 | 2022-10-21 |  |
+| [Light Switch](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:07 | 2022-10-21 | 2024-02-03 |
 | [Like That](https://open.spotify.com/track/1Edv7BraLaIMY6qCZNIPLj) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Like That](https://open.spotify.com/album/1MYGmteJMNaOjmx4xdiNLS) | 2:54 | 2022-03-24 | 2022-04-08 |
 | [Lipstick](https://open.spotify.com/track/1q4BCQssFe74UJmnWt5lov) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lipstick](https://open.spotify.com/album/0xNBKoAOgkjxgDsmoa5lpV) | 3:28 | 2023-08-17 | 2023-09-16 |
 | [Little Bit of Love](https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love](https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2) | 3:46 | 2022-03-24 | 2022-04-16 |

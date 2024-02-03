@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 
 > This is girl in red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,199 likes - 24 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,201 likes - 24 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 | 23 | [something new](https://open.spotify.com/track/5HGZJeGaJsHHgKy95BAai0) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [MOOMINVALLEY 2 \(Official Soundtrack\)](https://open.spotify.com/album/2SuMYxHuybyoaBLSDkQ5Rc) | 3:25 |
 | 24 | [Body And Mind](https://open.spotify.com/track/6GFrELGVKBXRcrTNkwjSfF) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:06 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDAwMTkwODZlM2IzYTA1YWQ4ODY4ODZkYWVkMDQwNTE2Zg==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDAwY2RjMTZiMTU4ZmI0NTI5YjdlZmNhNzhjMTRlN2I5ZQ==`

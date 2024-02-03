@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 
 > This is Yaeji\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,026 likes - 30 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,030 likes - 30 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 7 | [WAKING UP DOWN](https://open.spotify.com/track/0YnbUCbW8viWWikWXoVzB1) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:21 |
 | 8 | [One More](https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [One More](https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt) | 3:22 |
 | 9 | [Guap](https://open.spotify.com/track/5ZieiUIwDcPyUy8CIq0bGf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 5:40 |
-| 10 | [I'll Remember For Me, I'll Remember For You](https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:02 |
+| 10 | [Done \(Let’s Get It\)](https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:52 |
 | 11 | [Drink I’m Sippin On](https://open.spotify.com/track/7pCirXrdJ4xN1Dqmm0DuAz) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:21 |
 | 12 | [Feel It Out](https://open.spotify.com/track/1tn1ATtQZRowNVBNIXolxJ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Feel It Out](https://open.spotify.com/album/3Dd6Cu0NpDYjXiZILk66z9) | 3:16 |
 | 13 | [29](https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Year to Year / 29](https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan) | 3:48 |
-| 14 | [Done \(Let’s Get It\)](https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:52 |
+| 14 | [I'll Remember For Me, I'll Remember For You](https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:02 |
 | 15 | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:49 |
 | 16 | [After That](https://open.spotify.com/track/48wFUJgjPLELDleMsJ9xlY) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:38 |
 | 17 | [Year to Year](https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Year to Year / 29](https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan) | 4:14 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 29 | [Full of It](https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:29 |
 | 30 | [WHEN I GROW UP](https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:42 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDAzZjAzMmY1NzU0MWI1ZTBlYjI5YTdlZmJhZWJhOTBlZA==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDAwNzc1NmE3M2E5ZDYyOTZlYzNkNzY5MTM2ZTRhY2FjNw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 
 > All 60s, all ballads\. Cover: Etta James
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,366 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,396 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 18 | [Ooo Baby Baby](https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:44 |
 | 19 | [God Only Knows \- Mono](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 |
 | 20 | [I've Been Loving You Too Long](https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Otis Blue: Otis Redding Sings Soul \(Collector's Edition\)](https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz) | 3:01 |
-| 21 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 |
-| 22 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 |
+| 21 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 |
+| 22 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 |
 | 23 | [Unchained Melody](https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [The Very Best Of The Righteous Brothers \- Unchained Melody](https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6) | 3:36 |
 | 24 | [Moon River \(From "Breakfast at Tiffany's"\)](https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Moon River And Other Great Movie Themes](https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2) | 2:42 |
 | 25 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 31 | [Mr\. Lonely](https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:41 |
 | 32 | [Yes, I'm Ready](https://open.spotify.com/track/2gZpW5pTZkimGG98loFSl2) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Yes I'm Ready](https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj) | 3:04 |
 | 33 | [Bring It On Home To Me](https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [30 Greatest Hits: Portrait of a Legend 1951\-1964](https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ) | 2:45 |
-| 34 | [Never My Love \- Remastered Version](https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Insight Out](https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta) | 3:07 |
-| 35 | [Your Precious Love](https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 3:07 |
-| 36 | [Tell It Like It Is](https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Very Best Of Aaron Neville](https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa) | 2:44 |
-| 37 | [Baby, I'm For Real](https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Baby, I'm For Real](https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn) | 3:21 |
+| 34 | [Your Precious Love](https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 3:07 |
+| 35 | [Never My Love \- Remastered Version](https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Insight Out](https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta) | 3:07 |
+| 36 | [Baby, I'm For Real](https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Baby, I'm For Real](https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn) | 3:21 |
+| 37 | [Tell It Like It Is](https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Very Best Of Aaron Neville](https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa) | 2:44 |
 | 38 | [When a Man Loves a Woman](https://open.spotify.com/track/0GVxSbigOiKlGfI30Uw00X) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/5I9u0kRfmLLzTHneycOwFA) | 2:55 |
 | 39 | [You Don't Have To Say You Love Me](https://open.spotify.com/track/0q8nQ0H4ad4KYcZdrTZPux) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [You Don't Have To Say You Love Me](https://open.spotify.com/album/52uwBxHFIheYUU0ydCL5Hh) | 2:50 |
 | 40 | [Love Hurts \- 2007 Remaster](https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [A Date with The Everly Brothers](https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 49 | [Daddy's Home](https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW) | [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV), [The Limelites](https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:54 |
 | 50 | [Oh, What A Night](https://open.spotify.com/track/2ht21Rlf8L6cPLBkYmhpcs) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [Oh, What A Night! / The Great Ballads](https://open.spotify.com/album/5IjlGKFY636wmz3eqE7V1N) | 4:07 |
 
-Snapshot ID: `MCxmZTY2YmVhOTBiYjYzZjg5MmUxZDVlZmI4MTcwNjVhMWRhOWI1YWVm`
+Snapshot ID: `MCxmMDM2MjBkN2QxOTBmYzRhZTFiOTZkZmNkYzY2OWVkYThiNTY2MzE5`

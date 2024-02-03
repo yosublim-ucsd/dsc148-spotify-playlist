@@ -1,12 +1,12 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: Mr.\u3075\u3049\u308b\u3066",
-  "num_followers": 11884,
+  "num_followers": 11893,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDc1YjFjNGVmMGZmMzRiYmUwYTM5MzM5MjIyOWMxNGQxM2Y4ZDI0",
+  "snapshot_id": "MCxmOGI2YzZmMmEwNTg2ZDI2ZmI1ODk1OGI5OTlhODdjZDgwNWRhMWUy",
   "tracks": [
     {
       "added_at": "2024-02-01 15:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
+        "name": "\u9762\u5f71",
+        "url": "https://open.spotify.com/album/5R7LwvTXIV3PLZDLl4azxs"
+      },
+      "artists": [
+        {
+          "name": "Novelbright",
+          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "\u9762\u5f71",
+      "url": "https://open.spotify.com/track/6jVB9KPnnGl8Reyl8lhErl"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
         "name": "\u30cf\u30fc\u30c8\u30d6\u30ec\u30a4\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
         "url": "https://open.spotify.com/album/1aqfxGXKz8tIvIi95ibwoW"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 286225,
       "name": "\u5024\u5343\u91d1",
       "url": "https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
-        "name": "\u9762\u5f71",
-        "url": "https://open.spotify.com/album/5R7LwvTXIV3PLZDLl4azxs"
-      },
-      "artists": [
-        {
-          "name": "Novelbright",
-          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "\u9762\u5f71",
-      "url": "https://open.spotify.com/track/6jVB9KPnnGl8Reyl8lhErl"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "\u6c7a\u5fc3",
-        "url": "https://open.spotify.com/album/3bfvo4XrL2fShcEbttCCWL"
-      },
-      "artists": [
-        {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
-        }
-      ],
-      "duration_ms": 269732,
-      "name": "\u6c7a\u5fc3",
-      "url": "https://open.spotify.com/track/6DwA4Aj9Ug1J7KPDnAiv0Y"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "\u6708\u304c\u7dba\u9e97\u3060\u3063\u3066",
         "url": "https://open.spotify.com/album/1mlgrd63GCXnZyaTrXA2Hj"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
+        "name": "\u6c7a\u5fc3",
+        "url": "https://open.spotify.com/album/3bfvo4XrL2fShcEbttCCWL"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "duration_ms": 269732,
+      "name": "\u6c7a\u5fc3",
+      "url": "https://open.spotify.com/track/6DwA4Aj9Ug1J7KPDnAiv0Y"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "\u30c9\u30ad\u30c9\u30ad\u3059\u308b",
-        "url": "https://open.spotify.com/album/76fKJdmm2j4KGKtKgiMYW1"
-      },
-      "artists": [
-        {
-          "name": "PEOPLE 1",
-          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
-        }
-      ],
-      "duration_ms": 181570,
-      "name": "\u30c9\u30ad\u30c9\u30ad\u3059\u308b",
-      "url": "https://open.spotify.com/track/2PHZVtdPCqi7oTIw7jsyM1"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "\u30a8\u30a6\u30ec\u30ab",
         "url": "https://open.spotify.com/album/1wMuqByMRXmJzCTjmtZfLz"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "\u3042\u306e\u5a18\u306e\u80f8\u306b\u98db\u3073\u3053\u3093\u3067\uff01",
-        "url": "https://open.spotify.com/album/5uMfIrYbKHnMjLnMTN4TbM"
+        "name": "\u30c9\u30ad\u30c9\u30ad\u3059\u308b",
+        "url": "https://open.spotify.com/album/76fKJdmm2j4KGKtKgiMYW1"
       },
       "artists": [
         {
-          "name": "neguse.",
-          "url": "https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld"
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
         }
       ],
-      "duration_ms": 133880,
-      "name": "\u3042\u306e\u5a18\u306e\u80f8\u306b\u98db\u3073\u3053\u3093\u3067\uff01",
-      "url": "https://open.spotify.com/track/6Wsnt2TWCmyio1saGNJqg2"
+      "duration_ms": 181570,
+      "name": "\u30c9\u30ad\u30c9\u30ad\u3059\u308b",
+      "url": "https://open.spotify.com/track/2PHZVtdPCqi7oTIw7jsyM1"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1223,6 +1207,22 @@
       "duration_ms": 234323,
       "name": "Cinderella Boy",
       "url": "https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "\u3042\u306e\u5a18\u306e\u80f8\u306b\u98db\u3073\u3053\u3093\u3067\uff01",
+        "url": "https://open.spotify.com/album/5uMfIrYbKHnMjLnMTN4TbM"
+      },
+      "artists": [
+        {
+          "name": "neguse.",
+          "url": "https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld"
+        }
+      ],
+      "duration_ms": 133880,
+      "name": "\u3042\u306e\u5a18\u306e\u80f8\u306b\u98db\u3073\u3053\u3093\u3067\uff01",
+      "url": "https://open.spotify.com/track/6Wsnt2TWCmyio1saGNJqg2"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "\u30d3\u30fc\u30c8\u30a2\u30c7\u30a3\u30af\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/5oR2C3qbkk0q0fAn8hy2Jd"
-      },
-      "artists": [
-        {
-          "name": "Humbreaders",
-          "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
-        }
-      ],
-      "duration_ms": 189542,
-      "name": "\u30d3\u30fc\u30c8\u30a2\u30c7\u30a3\u30af\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/60LtCcKHQ5SF5XwGCJ4KqX"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "GOLD",
         "url": "https://open.spotify.com/album/2nxVvU7LqydShGwRUuto85"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 129785,
       "name": "\u590f\u306f\u5de1\u308b",
       "url": "https://open.spotify.com/track/2EHUDtTMLscFB0DKXp03A7"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "\u30d3\u30fc\u30c8\u30a2\u30c7\u30a3\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5oR2C3qbkk0q0fAn8hy2Jd"
+      },
+      "artists": [
+        {
+          "name": "Humbreaders",
+          "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
+        }
+      ],
+      "duration_ms": 189542,
+      "name": "\u30d3\u30fc\u30c8\u30a2\u30c7\u30a3\u30af\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/60LtCcKHQ5SF5XwGCJ4KqX"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "\u6843\u6e90\u90f7",
-        "url": "https://open.spotify.com/album/7JN2dM1jZOPxwdonfULaU3"
-      },
-      "artists": [
-        {
-          "name": "shy taupe",
-          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
-        }
-      ],
-      "duration_ms": 243055,
-      "name": "\u6843\u6e90\u90f7",
-      "url": "https://open.spotify.com/track/0Tjvz28oGJvg6EIyQHIWvo"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "DAILY BOP",
         "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 145384,
       "name": "\u30a8\u30e2\u3081\u306e\u590f",
       "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "\u6843\u6e90\u90f7",
+        "url": "https://open.spotify.com/album/7JN2dM1jZOPxwdonfULaU3"
+      },
+      "artists": [
+        {
+          "name": "shy taupe",
+          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
+        }
+      ],
+      "duration_ms": 243055,
+      "name": "\u6843\u6e90\u90f7",
+      "url": "https://open.spotify.com/track/0Tjvz28oGJvg6EIyQHIWvo"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
-        "url": "https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
-      "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "\u98a8\u306e\u5642",
         "url": "https://open.spotify.com/album/22gvgKShk2m1bbuecfgEP5"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 230000,
       "name": "\u98a8\u306e\u5642",
       "url": "https://open.spotify.com/track/0XF71aEbLVIqAkvOdnf8YA"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
+        "url": "https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1579,34 +1579,34 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita",
-        "url": "https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb"
+        "name": "\u7fbd\u5316",
+        "url": "https://open.spotify.com/album/2AbNjfO01Yyyeew0oYsHNR"
       },
       "artists": [
         {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
+          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
         }
       ],
-      "duration_ms": 201973,
-      "name": "Hontowane,",
-      "url": "https://open.spotify.com/track/1p24ocb4bvCRId4cquDUHl"
+      "duration_ms": 145500,
+      "name": "\u904e\u547c\u5438\u611b",
+      "url": "https://open.spotify.com/track/2JPnyNJbfwBac5ij3jHaj2"
     },
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "\u30b0\u30fc",
-        "url": "https://open.spotify.com/album/7bJTY9YcJUryx9FOk1TT9U"
+        "name": "Hors d'oeuvre",
+        "url": "https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D"
       },
       "artists": [
         {
-          "name": "Humbreaders",
-          "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
+          "name": "shy taupe",
+          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
         }
       ],
-      "duration_ms": 235761,
-      "name": "\u30b0\u30fc",
-      "url": "https://open.spotify.com/track/1NVlQpepRIU5itGF4r5Yv8"
+      "duration_ms": 238506,
+      "name": "rendez-vous",
+      "url": "https://open.spotify.com/track/77mI5OSGIIPKxHXBkHOySy"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

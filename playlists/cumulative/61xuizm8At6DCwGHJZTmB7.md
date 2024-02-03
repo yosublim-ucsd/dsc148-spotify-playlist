@@ -4,7 +4,7 @@
 
 > Praise His holy name! Listen to the top Christian and Worship hits of 2024 with songs like Abandoned, Who Else and Glorious Day! Cover: <a href="https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm?si=amZK4beZTje3ttbfv\_B7\-Q">Benjamin William Hastings</a>
 
-375 songs - 1 day 12 hr 15 min
+377 songs - 1 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Be Glorified \- Live](https://open.spotify.com/track/0WIfQN8w8EZIjbCeJfXBn2) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Be Glorified \(Live\)](https://open.spotify.com/album/59UQIY7Llrc3aZgXNxFEnK) | 7:26 | 2023-04-28 |  |
 | [Beautiful People](https://open.spotify.com/track/4cqQWJKG4wD6fS0oDu5Jb7) | [Mannahouse Worship](https://open.spotify.com/artist/42z5UEkDoJlJ7QDJ1phGzN) | [Beautiful People](https://open.spotify.com/album/0vLDQv07AMn6PTuQT61I5G) | 3:38 | 2022-02-17 | 2022-04-05 |
 | [Because He Lives](https://open.spotify.com/track/1OqKHs0OGzlOib5BtuUT7L) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Reunited](https://open.spotify.com/album/7ygK4tK0qSpdlMau3sBnO5) | 3:36 | 2022-04-05 | 2022-06-10 |
+| [Because Of Christ](https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [TEN](https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU) | 5:10 | 2024-02-02 |  |
 | [Because Of Christ \- Live](https://open.spotify.com/track/7r7cqJyvYepirmrIWZESjz) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Henry Seeley](https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS) | [Because Of Christ \(Live\)](https://open.spotify.com/album/1HGXYg4KxoXD1gpUjCKP2I) | 9:19 | 2022-02-17 | 2022-05-21 |
 | [Before The Breakthrough](https://open.spotify.com/track/7o8zy970EfByTCYnG4zkR5) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Before The Breakthrough](https://open.spotify.com/album/3Tg4oCrveWBzTLwrj9Bbxv) | 4:34 | 2023-04-03 | 2023-04-15 |
 | [Before The Breakthrough \- Instrumental](https://open.spotify.com/track/60W5WYskuz6NKyu3rromYN) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC) | [Before The Breakthrough \(Instrumental\)](https://open.spotify.com/album/0sMKziIZ1qV1anQ8sMUTuw) | 4:34 | 2022-10-14 | 2023-04-04 |
@@ -343,6 +344,7 @@
 | [The Lion And The Lamb](https://open.spotify.com/track/2CEQ0ykwvuD2KC6gn2ijIX) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Songs Of Glory](https://open.spotify.com/album/4Ry1jLIuWo8s8UrJLlhLck) | 4:36 | 2022-02-17 | 2022-04-05 |
 | [The Lord Almighty Reigns](https://open.spotify.com/track/283smqTiVNtIDD1v0jXOFS) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [The Lord Almighty Reigns](https://open.spotify.com/album/5ScPt3LXhLuUFqYFXKtqas) | 3:48 | 2022-09-02 | 2022-09-25 |
 | [The Lord Almighty Reigns \- Live](https://open.spotify.com/track/01U4uDzyNXcNoLBGiCQeHF) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Sing! Christ Our Hope In Life And Death \(Live At The Getty Music Worship Conference\)](https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG) | 4:03 | 2023-02-01 |  |
+| [The Lord Will Provide \- Live From Passion 2024](https://open.spotify.com/track/3uqLs8EuMOuCNxKtqUWElW) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Landon Wolfe](https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE) | [The Lord Will Provide \(Live From Passion 2024\)](https://open.spotify.com/album/7vj92osEZGcvAfQrOwDnMJ) | 5:36 | 2024-02-02 |  |
 | [The Love Of Jesus](https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [The Love Of Jesus](https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c) | 3:04 | 2022-02-17 | 2023-01-05 |
 | [The Place Where I Belong](https://open.spotify.com/track/1gvxeqhB6EI5aVg95EM1wK) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [The Place Where I Belong](https://open.spotify.com/album/6vvFjPGhonbA1fIU0pd7AU) | 5:44 | 2023-12-01 |  |
 | [The Table](https://open.spotify.com/track/6YkYoeZXZUK5SP8EReOOQI) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [The Table](https://open.spotify.com/album/5V23DdCgKh1j2fNP340qdB) | 4:20 | 2022-02-17 |  |

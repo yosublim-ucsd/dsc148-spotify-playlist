@@ -2,9 +2,9 @@
 
 ### [Blues Roots](https://open.spotify.com/playlist/37i9dQZF1DXcFk5r8uS3l2)
 
-> You've come to the crossroads of soul, folk, and the blues\. Cover: Marcus King
+> You've come to the crossroads of soul, folk, and the blues\. Cover: Lizz Wright
 
-340 songs - 21 hr 23 min
+342 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Age of a Man](https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Age of a Man](https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU) | 3:39 | 2021-12-17 |  |
 | [Ain't Gotta Worry Child](https://open.spotify.com/track/112GY487AYZ0Q0zB9KYv3x) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Ain't Gotta Worry Child](https://open.spotify.com/album/5z25YPZkf3WB9Eh94EEwFw) | 3:05 | 2021-12-17 | 2022-07-27 |
 | [Ain't Gotta Worry Child](https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome as a Shadow](https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE) | 3:05 | 2022-05-27 | 2023-02-25 |
-| [Ain't No Harmin' Me](https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Ain't No Harmin' Me](https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9) | 3:50 | 2023-02-10 |  |
+| [Ain't No Harmin' Me](https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Ain't No Harmin' Me](https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9) | 3:50 | 2023-02-10 |  |
 | [All Night](https://open.spotify.com/track/0wTcP4O2Uz0fuGYn9A0q7S) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [All Night](https://open.spotify.com/album/79fPJMto74aSvaI82TJP02) | 3:56 | 2022-07-15 | 2022-07-23 |
 | [All on Me](https://open.spotify.com/track/01AQQxjgUOsRJGiif0rzNj) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [All on Me](https://open.spotify.com/album/2UzbI0MwhBpd9DyIC62qk2) | 3:49 | 2022-07-22 | 2022-08-31 |
 | [All Our Love](https://open.spotify.com/track/4sImthKyvzr2Rhp0vaB9SJ) | [Supersonic Blues Machine](https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [All Our Love](https://open.spotify.com/album/6bH8vw3t4PRGqq9PdXLvJR) | 4:29 | 2022-05-20 | 2022-06-11 |
@@ -109,7 +109,7 @@
 | [Grass Is Greener](https://open.spotify.com/track/2rNVmfuyXAfmvZfg8O9D92) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS) | 4:14 | 2022-01-28 |  |
 | [Grass Is Greener](https://open.spotify.com/track/5ugEkJcLbQrAkCN2kH7j8S) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half the City](https://open.spotify.com/album/6s7QZPmc8m8s2TJGg1cyXQ) | 4:14 | 2021-12-17 | 2022-07-28 |
 | [Gullah Geechee](https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:35 | 2022-08-19 |  |
-| [Hands To Myself](https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD) | [Myron Elkins](https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi) | [Hands To Myself](https://open.spotify.com/album/1LZsurY09ulZSI36RYZxmB) | 3:17 | 2022-09-23 |  |
+| [Hands To Myself](https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD) | [Myron Elkins](https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi) | [Hands To Myself](https://open.spotify.com/album/1LZsurY09ulZSI36RYZxmB) | 3:17 | 2022-09-23 | 2024-02-03 |
 | [Hard Learned](https://open.spotify.com/track/4qVesVecQYAJE6e7Pkwpcz) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Shake the Roots](https://open.spotify.com/album/4ZNwi2nsWvXS22Mzdh4Zrd) | 3:37 | 2022-09-09 |  |
 | [Hard to Believe](https://open.spotify.com/track/3IfNXZSR5nEnYmnu2zsVUJ) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [T Bird and the Breaks](https://open.spotify.com/artist/7BfKzWvOnw7aAUU4NLLRD0) | [Greybird](https://open.spotify.com/album/25NxKFjwbaZclwi4WizmrD) | 4:14 | 2023-08-25 |  |
 | [Hard to Stay Cool](https://open.spotify.com/track/1sA5P8waghOeBj5nc1S4XZ) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Hard to Stay Cool](https://open.spotify.com/album/3fpTOEGSvGIhVtLMZ44w8t) | 5:34 | 2021-12-17 | 2022-07-29 |
@@ -184,7 +184,7 @@
 | [Love Again](https://open.spotify.com/track/0hu3XEEvcVN5Gsn28x5xXU) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Lightning Kid](https://open.spotify.com/album/6nmAKBKRYD7NjTJZSmWM9j) | 3:43 | 2022-01-28 | 2023-06-04 |
 | [Love Again](https://open.spotify.com/track/3OKBGV9o5uVZ5Z8BZUkznb) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Love Again](https://open.spotify.com/album/54pG43tDpcI7ViKYSKSuPk) | 3:43 | 2021-12-17 | 2022-07-25 |
 | [Love Again](https://open.spotify.com/track/4eqO4esVROJogbHufw59o6) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Lightning Kid](https://open.spotify.com/album/1dwdMLgBkMqwaSbYeb2DzL) | 3:43 | 2022-01-28 | 2023-04-30 |
-| [Love Again](https://open.spotify.com/track/7EVUpwSsr1saF9Vc3lrvYY) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Lightning Kid](https://open.spotify.com/album/7HHCXEXhlxETfoWhxlXpBW) | 3:43 | 2022-01-28 |  |
+| [Love Again](https://open.spotify.com/track/7EVUpwSsr1saF9Vc3lrvYY) | [Dharmasoul](https://open.spotify.com/artist/0Hbb4kd4FN6f22EPNVzdSt) | [Lightning Kid](https://open.spotify.com/album/7HHCXEXhlxETfoWhxlXpBW) | 3:43 | 2022-01-28 | 2024-02-03 |
 | [Love in the Lead](https://open.spotify.com/track/7cUl5LQ464ZxnZCtTLSqTa) | [Ivan Hartle](https://open.spotify.com/artist/3JVVGMRtCA1lsynAOn8AU6) | [Love in the Lead](https://open.spotify.com/album/3nrir3zbX5CRkjerljLtBN) | 3:15 | 2023-05-19 |  |
 | [Love Like There's No Tomorrow](https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 2:24 | 2021-12-17 | 2023-02-25 |
 | [Love On My Brain](https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Love On My Brain](https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer) | 4:33 | 2024-01-05 |  |
@@ -304,6 +304,7 @@
 | [The Reckoning](https://open.spotify.com/track/0JoT21QZNDV1f52oKAiyCA) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [The Reckoning](https://open.spotify.com/album/4SpmzZschXxbCnNAFTTESm) | 3:38 | 2022-06-17 | 2022-06-25 |
 | [The Tools](https://open.spotify.com/track/28l58QQjZkeghQ60oJciFZ) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [Are You Mad Yet?](https://open.spotify.com/album/5hqt9vPCSmnDdcJMX1VG0h) | 2:27 | 2022-03-18 | 2022-03-30 |
 | [These Hands](https://open.spotify.com/track/2LN7oMYv9m9xzDrCy4AMqu) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [The Sound Experiment 2 \- EP](https://open.spotify.com/album/2RVHro1akoqXxD5ZHB7mgO) | 3:21 | 2021-12-17 | 2023-03-11 |
+| [Things Is 'Bout Comin' My Way](https://open.spotify.com/track/0hankmoITw2Ujkm2YUvqRs) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Things Is 'Bout Comin' My Way](https://open.spotify.com/album/2xmpiYdM4H5iCW54Pw0f00) | 3:36 | 2024-02-02 |  |
 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 | 2023-09-08 |  |
 | [Thinking 'Bout Myself](https://open.spotify.com/track/3cOKBor2QHIg1V9n7Mue5Q) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Push The Blues Away](https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl) | 3:41 | 2022-05-27 | 2024-01-13 |
 | [Thinking 'Bout Myself](https://open.spotify.com/track/2JF0vG0CsoDEjLZdd9QMm1) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Thinking 'Bout Myself](https://open.spotify.com/album/7syVmnY6K5xSSeeeRcx9yX) | 3:41 | 2021-12-17 | 2022-11-28 |
@@ -348,5 +349,6 @@
 | [You and Your Folks, Me and My Folks \- Recorded at East West Studios](https://open.spotify.com/track/4gtHfvLdEVcGGRL2CkWjKr) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Spotify Singles](https://open.spotify.com/album/736ZS6qpLRbwq2y2clVA26) | 4:12 | 2021-12-17 | 2022-04-16 |
 | [You Can't Love Me](https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [You Can't Love Me](https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l) | 4:11 | 2023-10-20 |  |
 | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/track/4jSCSnMnIXnRbMPM0qLRVX) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [A Southern Gothic](https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n) | 3:01 | 2021-12-17 | 2023-03-25 |
+| [Your Love \(feat\. Meshell Ndegeocello & Brandee Younger\)](https://open.spotify.com/track/7gxUpscvq72a3LTkCbZ4Df) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Your Love \(feat\. Meshell Ndegeocello & Brandee Younger\)](https://open.spotify.com/album/7BC4W4KBXXK7oBceZyXzB9) | 3:29 | 2024-02-02 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

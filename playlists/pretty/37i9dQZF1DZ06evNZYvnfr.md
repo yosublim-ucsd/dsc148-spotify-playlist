@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 
 > This is Micah Tyler\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,232 likes - 32 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,236 likes - 32 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 | 6 | [Different](https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:17 |
 | 7 | [People Like Us \(feat\. Emerson Day\)](https://open.spotify.com/track/6GaqVg2P6XFCzSZqFsLZIw) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Emerson Day](https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ) | [People Like Us \(feat\. Emerson Day\)](https://open.spotify.com/album/2iAW5epYLEtGgzMnFSHF22) | 3:46 |
 | 8 | [Walking Free](https://open.spotify.com/track/2Vgo0mLTvZj6jWFv4Nqgo7) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:21 |
-| 9 | [Nothing Too Broken](https://open.spotify.com/track/6NmSmXmPs4YZJZYFHM3rwR) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [People Like Us](https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL) | 3:34 |
+| 9 | [In Case You Didn't Know](https://open.spotify.com/track/5DDUU71ftcKjUgfEeGPnxO) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [People Like Us](https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL) | 3:04 |
 | 10 | [Never Been a Moment](https://open.spotify.com/track/7rC5fxyrbNDRymrH7OwSxE) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:20 |
 | 11 | [Feels Like Joy](https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Feels Like Joy](https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO) | 2:52 |
 | 12 | [New Today](https://open.spotify.com/track/4oOSKLUsqd2N0tHhV6LyuP) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:20 |
-| 13 | [In Case You Didn't Know](https://open.spotify.com/track/5DDUU71ftcKjUgfEeGPnxO) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [People Like Us](https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL) | 3:04 |
+| 13 | [Nothing Too Broken](https://open.spotify.com/track/6NmSmXmPs4YZJZYFHM3rwR) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [People Like Us](https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL) | 3:34 |
 | 14 | [Comeback Song](https://open.spotify.com/track/7p17D91YMHqR6LuhnDcR2D) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:05 |
 | 15 | [Mighty to Love](https://open.spotify.com/track/3ZvaDtWralCVTrI3SP2K8H) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 4:02 |
 | 16 | [What Mercy Did For Me \(feat\. Maranda Curtis & Jason Crabb\)](https://open.spotify.com/track/7IHxJcnPxR7Mm6ADNNrQO8) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502), [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:43 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 | 31 | [Wretch No More](https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 6:14 |
 | 32 | [The Warrior](https://open.spotify.com/track/7HUDA4fVTMgDrqy8fZWZrm) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 3:49 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDA1YzJkMjBkY2JiMmRjZmJmNjIzY2E3ZmI3NDBkOTVjNg==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDBjNzJmNTE0NzlhY2M0YzJhZjgyZTZhNTRiYjI4ZWMwZA==`

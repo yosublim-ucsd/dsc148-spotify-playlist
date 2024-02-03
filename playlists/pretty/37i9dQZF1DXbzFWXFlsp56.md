@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: Loyal Lobos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,620 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,618 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chispeo ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Chispeo ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU) | 2:10 |
 | 2 | [En Privado ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/62nOLQvhG6l1QAac2CXzJr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [En Privado ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5IUwO78bOZoPZ6f8cfAmCQ) | 2:19 |
-| 3 | [Mala Costumbre ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/30K54dQDikHIulypekVSZp) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mala Costumbre ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly) | 3:01 |
+| 3 | [Mala Costumbre \- Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/30K54dQDikHIulypekVSZp) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mala Costumbre \- Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly) | 3:01 |
 | 4 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
 | 5 | [Conquistar El Planeta](https://open.spotify.com/track/6cOGBvdT0RY3UUtEP7vRHs) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 2:42 |
 | 6 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 | 49 | [Los Guasangú \- \(Cerrero Remix\)](https://open.spotify.com/track/5Cc7P1f3WRSFFP6iBencng) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Los Guasangú \(Cerrero Remix\)](https://open.spotify.com/album/7Khc3U2x9wL0e7kx8PiFkV) | 5:11 |
 | 50 | [Cada vez que](https://open.spotify.com/track/7fSRmuhqJBkHL0DmjS13Ks) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf) | [Mirando al cielo](https://open.spotify.com/album/4bKbHme7qn0tV1UW9MnRGn) | 3:30 |
 
-Snapshot ID: `MCxmODk0ZWQyYjZkYjlmNTdmMjE5YjE2MDJjOTBjNTMxOTFlNzQyYjQ1`
+Snapshot ID: `MCw2ZTg2NjRkYmY5MzkwN2IwNzFmZmJmNDczY2I0NjhhZjllY2NmYTE5`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Sarah Jarosz",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Nolan Taylor",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 273882,
       "name": "All My Worst Ideas",
       "url": "https://open.spotify.com/track/3vFUf6MhUxiy1YtjvxUaV3"
@@ -2420,7 +2420,7 @@
           "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
         },
         {
-          "name": "The War and Treaty",
+          "name": "The War And Treaty",
           "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
@@ -3790,7 +3790,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 181546,
       "name": "Bougainvillea",
       "url": "https://open.spotify.com/track/50lXZ3kWklo1mT48aXbj4A"
@@ -3920,6 +3920,32 @@
       "duration_ms": 193080,
       "name": "Breathing Song",
       "url": "https://open.spotify.com/track/13pR0Vy22zw1in2Rd63TVn"
+    },
+    {
+      "album": {
+        "name": "Brick by Brick",
+        "url": "https://open.spotify.com/album/4PTMRy87YM0k9gwhTH6Fop"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb",
+          "url": "https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        },
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228400,
+      "name": "Brick by Brick",
+      "url": "https://open.spotify.com/track/42QabY91Nr6his3sC4eWcu"
     },
     {
       "album": {
@@ -4578,7 +4604,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 210000,
       "name": "Careful",
       "url": "https://open.spotify.com/track/6xwDNQRaRH0yQE5iKBT5dW"
@@ -4766,7 +4792,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 262899,
       "name": "Catching Butterflies",
       "url": "https://open.spotify.com/track/1uPJovHgkylBvCey4ReyFD"
@@ -4784,7 +4810,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 252850,
       "name": "Cedar",
       "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
@@ -4860,6 +4886,28 @@
       "duration_ms": 273395,
       "name": "Century City",
       "url": "https://open.spotify.com/track/2vuH8laWDuNYmckYXkC2zs"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289964,
+      "name": "Change (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
     },
     {
       "album": {
@@ -5062,6 +5110,24 @@
       "duration_ms": 146573,
       "name": "cigarette holes",
       "url": "https://open.spotify.com/track/4clKLUGYpnYvcFmgtYXxVH"
+    },
+    {
+      "album": {
+        "name": "Cincinnati Heart",
+        "url": "https://open.spotify.com/album/7q4GSv2PuFyj0m7viXGEfS"
+      },
+      "artists": [
+        {
+          "name": "Nolan Taylor",
+          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171388,
+      "name": "Cincinnati Heart",
+      "url": "https://open.spotify.com/track/4yqzPEy3QxniyBzWPm35WO"
     },
     {
       "album": {
@@ -7108,6 +7174,28 @@
       "duration_ms": 168242,
       "name": "Domino",
       "url": "https://open.spotify.com/track/5OhOcsBmC5Buaz0Z3gGFTa"
+    },
+    {
+      "album": {
+        "name": "Dominoes",
+        "url": "https://open.spotify.com/album/2bQWaBjKFYTXaOfH1j7YxT"
+      },
+      "artists": [
+        {
+          "name": "Rachel Baiman",
+          "url": "https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs"
+        },
+        {
+          "name": "Pony Bradshaw",
+          "url": "https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241773,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/3nE4wlvKCyBswMfZBHUZIb"
     },
     {
       "album": {
@@ -10212,7 +10300,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 184613,
       "name": "Go Outside (From Natural Bridge State Resort Park)",
       "url": "https://open.spotify.com/track/0BV9UP7LuS5hrst58oKVBc"
@@ -10378,6 +10466,28 @@
       "duration_ms": 255469,
       "name": "Good News",
       "url": "https://open.spotify.com/track/3Vq9Tg30yzw0KWjlyn07iW"
+    },
+    {
+      "album": {
+        "name": "Good Old Days",
+        "url": "https://open.spotify.com/album/0CGByqnd7TFJmBaHBEAbVH"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        },
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262903,
+      "name": "Good Old Days",
+      "url": "https://open.spotify.com/track/6OqMuD7b1gNBpH3gkBfmmx"
     },
     {
       "album": {
@@ -10756,7 +10866,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 294835,
       "name": "Hadsel",
       "url": "https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4"
@@ -11382,7 +11492,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 199309,
       "name": "Healing",
       "url": "https://open.spotify.com/track/09al7ueKl5atjW7XG5a2SH"
@@ -12772,7 +12882,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 158374,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/1CNggxo4qMyliKFtF65d3R"
@@ -15151,7 +15261,7 @@
     },
     {
       "album": {
-        "name": "Jesus Song (County Line)",
+        "name": "jesus song (county line)",
         "url": "https://open.spotify.com/album/39a2hRQJCgzJdZFVRQJIR5"
       },
       "artists": [
@@ -15164,7 +15274,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188576,
-      "name": "Jesus Song (County Line)",
+      "name": "jesus song (county line)",
       "url": "https://open.spotify.com/track/0sfqrYeRPs5tJISfVGQscT"
     },
     {
@@ -16128,6 +16238,24 @@
       "duration_ms": 152339,
       "name": "Letting Things Go",
       "url": "https://open.spotify.com/track/5ua2M4ijwRgQy9xQKsGXzG"
+    },
+    {
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/3R6tZohZ0UgpffwNA9Q54e"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124503,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/0jHnEevYYvE7B2YJoBwz1S"
     },
     {
       "album": {
@@ -17450,6 +17578,24 @@
       "duration_ms": 272021,
       "name": "Made Of Love",
       "url": "https://open.spotify.com/track/33uyQzDxVrCo7p7SaPfo15"
+    },
+    {
+      "album": {
+        "name": "Made To Love Someone",
+        "url": "https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186845,
+      "name": "Made To Love Someone",
+      "url": "https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40"
     },
     {
       "album": {
@@ -18776,6 +18922,24 @@
       "duration_ms": 301104,
       "name": "My Argentina",
       "url": "https://open.spotify.com/track/5thEuYF5DJK0KPk3eFUVXe"
+    },
+    {
+      "album": {
+        "name": "my bad",
+        "url": "https://open.spotify.com/album/4yoJxb5P3nMt3Qk3yTkd9o"
+      },
+      "artists": [
+        {
+          "name": "runo plum",
+          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169916,
+      "name": "my bad",
+      "url": "https://open.spotify.com/track/5DdSLUbr2vF45XBXGdxepm"
     },
     {
       "album": {
@@ -22612,7 +22776,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 238773,
       "name": "Rest on Easy",
       "url": "https://open.spotify.com/track/2aqCN6uolKX7Z5ooJPZxYb"
@@ -24457,6 +24621,24 @@
     },
     {
       "album": {
+        "name": "Slow Decay",
+        "url": "https://open.spotify.com/album/3WcOJPn6pzdftLyzrmpOCK"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199221,
+      "name": "Slow Decay",
+      "url": "https://open.spotify.com/track/5dQ6k002CdfiBXVtjA93ra"
+    },
+    {
+      "album": {
         "name": "Young Man",
         "url": "https://open.spotify.com/album/6wtl82SlZKccyO9BnZoAwA"
       },
@@ -24540,7 +24722,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 262205,
       "name": "Slow Running",
       "url": "https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH"
@@ -29729,6 +29911,24 @@
     },
     {
       "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1SXcHoUj93DNeNrl3Edng3"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222845,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/0kNFEO1eIwQL5HuxJ7tIvB"
+    },
+    {
+      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
       },
@@ -30228,6 +30428,24 @@
       "duration_ms": 123680,
       "name": "Up in the Sky",
       "url": "https://open.spotify.com/track/7nFrk76TTg9FJQ8CAoQMWt"
+    },
+    {
+      "album": {
+        "name": "Upcountry Lemonade",
+        "url": "https://open.spotify.com/album/0T14xe1cObe3UCCzeGIS8U"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194570,
+      "name": "Upcountry Lemonade",
+      "url": "https://open.spotify.com/track/6oe2fxqV3DzlJabXcTem1n"
     },
     {
       "album": {
@@ -31386,7 +31604,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 195887,
       "name": "When The Lights Go Out",
       "url": "https://open.spotify.com/track/2JsxacvhgkUQ2qlyn3FnPj"
@@ -31560,6 +31778,24 @@
       "duration_ms": 326093,
       "name": "Where Are Your Kids Tonight? (feat. John Grant)",
       "url": "https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0"
+    },
+    {
+      "album": {
+        "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/1Mmh5OKCVRbs0FHibkeSgs"
+      },
+      "artists": [
+        {
+          "name": "C. James",
+          "url": "https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163263,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/4yaAVCmm798lEaDLpoa6xP"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: feeble little horse",
-  "num_followers": 469330,
+  "num_followers": 469408,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjU4MDIxMWFkMmMwMzVlMjg4YWJhZjg4YTNiNTliM2NjM2Y2MGMy",
+  "snapshot_id": "MCwzYzZlN2ViYzU2MjQ2N2U5MzllM2Y1MTgxNTM3YjllZTkwNjljNzBl",
   "tracks": [
     {
       "added_at": "2023-12-02 02:07:22",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 120961,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "madhouse",
         "url": "https://open.spotify.com/album/3C7TLQLW8cXiDoogT7Hrlj"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 211075,
       "name": "madhouse",
       "url": "https://open.spotify.com/track/36fC4xtAucJ7KH6sdSDDo7"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 120961,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 189805,
-      "name": "Looking For Something",
-      "url": "https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 191527,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
+      },
+      "artists": [
+        {
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+        }
+      ],
+      "duration_ms": 189805,
+      "name": "Looking For Something",
+      "url": "https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "Good Morning It's Now Tomorrow",
+        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 202124,
       "name": "I'm So Sorry",
       "url": "https://open.spotify.com/track/1MlyMtFTogPbQ3xe0S4GDD"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "Alien Lanes",
-        "url": "https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE"
-      },
-      "artists": [
-        {
-          "name": "Guided By Voices",
-          "url": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
-        }
-      ],
-      "duration_ms": 93306,
-      "name": "Game Of Pricks",
-      "url": "https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Good Morning It's Now Tomorrow",
-        "url": "https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku"
+        "name": "Alien Lanes",
+        "url": "https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE"
       },
       "artists": [
         {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+          "name": "Guided By Voices",
+          "url": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
         }
       ],
-      "duration_ms": 223466,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/41ZPPTp7Hj9Bhy361OKtfK"
+      "duration_ms": 93306,
+      "name": "Game Of Pricks",
+      "url": "https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Ways to Go",
-        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 127061,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Sun Outside My Window",
         "url": "https://open.spotify.com/album/4IZghGvlSC2HHAnuO1JmNe"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 201226,
       "name": "Sun Outside My Window",
       "url": "https://open.spotify.com/track/6hj8HbgTMVMvcA8a9fKAhr"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Ways to Go",
+        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 127061,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "i run like this",
-        "url": "https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc"
-      },
-      "artists": [
-        {
-          "name": "Vanillaroma",
-          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "buzzkill bummer",
-      "url": "https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Le feu",
         "url": "https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 231358,
       "name": "Le feu",
       "url": "https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "i run like this",
+        "url": "https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc"
+      },
+      "artists": [
+        {
+          "name": "Vanillaroma",
+          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
+        }
+      ],
+      "duration_ms": 182250,
+      "name": "buzzkill bummer",
+      "url": "https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX"
     },
     {
       "added_at": "2023-12-02 02:07:22",

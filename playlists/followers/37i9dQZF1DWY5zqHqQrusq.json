@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 7282,
+  "2024-02-03": 7293,
   "date_first_scraped": "2022-11-16",
   "description": "Chill, take a long walk and clear your mind",
   "name": "Barefoot and Free",
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 237391,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9"
@@ -439,6 +439,28 @@
       "duration_ms": 160640,
       "name": "IN THE RAIN",
       "url": "https://open.spotify.com/track/4LolcPDdgSroaKquGfCFqt"
+    },
+    {
+      "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/5DbTBskBpsHoO8MCaP3ubM"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Andyah",
+          "url": "https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154937,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW"
     },
     {
       "album": {
@@ -729,7 +751,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 191277,
       "name": "Nyamaza",
       "url": "https://open.spotify.com/track/67Uei6pIFzXZ0SsQDZj69G"
@@ -809,10 +831,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 192006,
       "name": "Outplayed",
       "url": "https://open.spotify.com/track/5ri8WSEiMS8zQR4YBpHXqu"
+    },
+    {
+      "album": {
+        "name": "Pete",
+        "url": "https://open.spotify.com/album/5D4ETjU3vwslf8b6HOLUWx"
+      },
+      "artists": [
+        {
+          "name": "Davy Waweru",
+          "url": "https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124363,
+      "name": "Pete",
+      "url": "https://open.spotify.com/track/2DDM0D8wOXNPxshFgtYIG1"
     },
     {
       "album": {
@@ -1165,6 +1205,24 @@
       "duration_ms": 208235,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0"
+    },
+    {
+      "album": {
+        "name": "Tamu",
+        "url": "https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg"
+      },
+      "artists": [
+        {
+          "name": "Zaituni Wambui",
+          "url": "https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Tamu",
+      "url": "https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5"
     },
     {
       "album": {

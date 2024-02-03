@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 
 > The ultimate line\-up of Summer anthems, strap in !!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,935 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,931 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 | 67 | [Jubel](https://open.spotify.com/track/6TskfnWx1j3SwB8r14bTty) | [Votabias](https://open.spotify.com/artist/6zzwsRuoaNV98DzIekp59M) | [Jubel](https://open.spotify.com/album/1DDTylkpgKVXNBHHJjIU8S) | 2:28 |
 | 68 | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/track/1ftK0tLj4ZYKYxSzXk5Lpb) | [DJ Spiller](https://open.spotify.com/artist/6Ai7Oi56rJwoPAG8N2jsv6), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/album/774f2ASob19UJBVIrxNzg7) | 3:47 |
 | 69 | [House Every Weekend \- Radio Edit](https://open.spotify.com/track/7u9zFAWUAZy2vdVwAIAv5s) | [David Zowie](https://open.spotify.com/artist/2yEkeJoFOvm6qHuECSDHFg) | [House Every Weekend \(Radio Edit\)](https://open.spotify.com/album/19hIjxvx2QBJoyJ0DVJgHJ) | 3:02 |
-| 70 | [Flat Beat \- Radio Edit](https://open.spotify.com/track/0LjTqBwFKfblqnuuDCH2Sw) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Flat Beat](https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ) | 3:57 |
-| 71 | [21 Seconds \- 12" Version](https://open.spotify.com/track/5S9810AEDRnVQovixcU2h4) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [21 Seconds](https://open.spotify.com/album/14JDv6HjaV7RLkeXbs8XOe) | 4:54 |
-| 72 | [Another Chance \(Radio Edit\)](https://open.spotify.com/track/46WVWDw8SubxyzQUXRBWt4) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Another Chance](https://open.spotify.com/album/1KyaCwJ2Hcz1M5g7qQcmue) | 3:30 |
-| 73 | [How We Do \(Party\)](https://open.spotify.com/track/5zBDg6Pp5LFyhaSCqm3p5d) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA](https://open.spotify.com/album/3wVudWLcF1D7jK5kTj6hlA) | 4:07 |
+| 70 | [How We Do \(Party\)](https://open.spotify.com/track/5zBDg6Pp5LFyhaSCqm3p5d) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA](https://open.spotify.com/album/3wVudWLcF1D7jK5kTj6hlA) | 4:07 |
+| 71 | [Flat Beat \- Radio Edit](https://open.spotify.com/track/0LjTqBwFKfblqnuuDCH2Sw) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Flat Beat](https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ) | 3:57 |
+| 72 | [21 Seconds \- 12" Version](https://open.spotify.com/track/5S9810AEDRnVQovixcU2h4) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [21 Seconds](https://open.spotify.com/album/14JDv6HjaV7RLkeXbs8XOe) | 4:54 |
+| 73 | [Another Chance \(Radio Edit\)](https://open.spotify.com/track/46WVWDw8SubxyzQUXRBWt4) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Another Chance](https://open.spotify.com/album/1KyaCwJ2Hcz1M5g7qQcmue) | 3:30 |
 | 74 | [Young \- Radio Edit](https://open.spotify.com/track/3MGgMaehkv2kIniuMefKzg) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [Young](https://open.spotify.com/album/0jUQJckKZIP33AE1JJjIVv) | 3:35 |
 | 75 | [Black & Gold \- Radio Edit](https://open.spotify.com/track/1r9G1B0OJzb2O8NBPo4vLL) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Noughties Songs](https://open.spotify.com/album/1wD1MhNeYZT4RO9FE4Intf) | 3:30 |
 | 76 | [Stereo Love](https://open.spotify.com/track/2ZNbSbLeXhFEwLvbV6tJjK) | [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL), [Elianex](https://open.spotify.com/artist/2XIEM9f7J5MN9fTsdNthAM), [ZETH INC.](https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj) | [Stereo Love](https://open.spotify.com/album/2EOw23rlpH4xu9LikN3Oaq) | 2:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 | 79 | [Good Times \- Radio Edit](https://open.spotify.com/track/49Hb6hA4WJE6KdpDpotxt6) | [Roll Deep](https://open.spotify.com/artist/4gpElxNt5pL515njzmZaZG), [Jodie Connor](https://open.spotify.com/artist/2z8TUHYgpATw1YCb8WV6qv) | [Sommer Klassiker](https://open.spotify.com/album/3vkUHTM5ZgvHocuE882zew) | 3:43 |
 | 80 | [Bound 4 da Reload \- Casualty](https://open.spotify.com/track/24SElG0D2F6vJ7Z9EMD5Xu) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf) | [Execute](https://open.spotify.com/album/1C7r9ofyU8ajv54XBSAJEC) | 4:52 |
 
-Snapshot ID: `MCwyYmFiMGU5ZTU2MTNiZDdhMTY4MTNiMWMyMjg2M2RjMTA0NDY1MjU4`
+Snapshot ID: `MCw1YmI3YzA1YjY3NjBmOTIxYjA2OTU2ODQ0OTdmNGRjZmUyOWEwMzBl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 
 > 💃🏽🕺🏼🪇🎺🪘
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,364 likes - 45 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,421 likes - 45 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 | 21 | [BM \| DJ TAO Turreo Sessions \#17](https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [BM \| DJ TAO Turreo Sessions \#17](https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ) | 2:56 |
 | 22 | [MYA LIVE P2: Corazón Guerrero](https://open.spotify.com/track/4Rs4ijFlNvhJ2fuRFNCH9h) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [MYA LIVE P2: Corazón Guerrero](https://open.spotify.com/album/4abxB4hx5B9197BK6hAccz) | 2:59 |
 | 23 | [Carita de Inocente \(feat\. Myke Towers\) \- Remix](https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Carita de Inocente \(feat\. Myke Towers\) \[Remix\]](https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY) | 3:12 |
-| 24 | [Te Mentiría](https://open.spotify.com/track/3EcCc1U405tm8yKm1x6Y8W) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 3:38 |
+| 24 | [Adiós Amor](https://open.spotify.com/track/0QWVUw5wIoqVEu94F8dquj) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor](https://open.spotify.com/album/6vGU2CXxFbL36Qhx0f8qWs) | 4:19 |
 | 25 | [Otro Día Más](https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Otro Día Más](https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye) | 3:22 |
-| 26 | [Adiós Amor](https://open.spotify.com/track/0QWVUw5wIoqVEu94F8dquj) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor](https://open.spotify.com/album/6vGU2CXxFbL36Qhx0f8qWs) | 4:19 |
+| 26 | [Te Mentiría](https://open.spotify.com/track/3EcCc1U405tm8yKm1x6Y8W) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 3:38 |
 | 27 | [Intento](https://open.spotify.com/track/4jycbkcVlL5P7W2zGYcau0) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Soy](https://open.spotify.com/album/3GmKxxyzxNaBJlhmDm64Ac) | 3:53 |
 | 28 | [Cuando Me Enamoro](https://open.spotify.com/track/03wQrSM0nV1WyPIgWvapG4) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 2:54 |
 | 29 | [Te hubieras ido antes](https://open.spotify.com/track/79v3sImuaCmWvOn1Au1EZU) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Te Sigo Enamorando](https://open.spotify.com/album/3jhZE9j5IRdc6JX8lCepYZ) | 5:11 |
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 | 35 | [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 |
 | 36 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 |
 | 37 | [Frío, Frío \- En Vivo Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/2j5dy9SzXdQ71Y2jgtiFAJ) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Frío, Frío \(En Vivo Estadio Olímpico De República Dominicana\)](https://open.spotify.com/album/1ZWyjI1yAFQGQqsQxxFb9S) | 3:55 |
-| 38 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 |
-| 39 | [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 |
+| 38 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 |
+| 39 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 |
 | 40 | [Corazon Mentiroso](https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT) | 2:59 |
 | 41 | [200 Copas](https://open.spotify.com/track/0HgkRcmGDiza3KTjM3Ifnu) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [200 Copas](https://open.spotify.com/album/7FIilN5RFkvF8Uwtv87N52) | 3:57 |
-| 42 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 |
+| 42 | [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 |
 | 43 | [Te Arrepentirás](https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX) | 3:30 |
 | 44 | [Por lo que yo te quiero](https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 4:04 |
 | 45 | [Sé que no](https://open.spotify.com/track/1WNdMGHxYL2j0jC2yevSJe) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Sé que no](https://open.spotify.com/album/6G9ePXswL4DvdSJINyqQxC) | 3:00 |
 
-Snapshot ID: `MCxhYjkyZTg4ZTVjMjYxMmEzMDhjZWQyNzc1N2Y1YjVjYjkyMmQ4NmU3`
+Snapshot ID: `MCw1OTYyOWNlOTRlOGY2NDJlZjZjOWUyM2ZjNGQ2MzFjZTdlYjRlZmUy`

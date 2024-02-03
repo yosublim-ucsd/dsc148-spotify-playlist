@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:6OK0BGPIHWTsTUPd6UTVAz">Szumal</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,336 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,433 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 36 | [Mgła](https://open.spotify.com/track/5lhxxop7ENmibmF45GugMI) | [Kwit](https://open.spotify.com/artist/6aiWd8u1PTLUACAIJUiivE) | [Mgła](https://open.spotify.com/album/5fqbKecvKwODyooL4n0Bd2) | 2:44 |
 | 37 | [Piegi](https://open.spotify.com/track/5yNxWLZHOQD5oTlZvp5EVh) | [Julita Ziela Zielińska](https://open.spotify.com/artist/7jS2YufaCykbNcmGLq37Wl) | [Piegi](https://open.spotify.com/album/04JpazenrKlCyHodpxr389) | 4:40 |
 | 38 | [Jeśli to czujesz](https://open.spotify.com/track/2iWnl5vPCWVHLDKX7P1Ptq) | [Sparrow](https://open.spotify.com/artist/11qiM1nimmHrS6YC2tfEkm), [młody picasso](https://open.spotify.com/artist/3aI7VycXTTiDsEvge2aHnu), [Ajzeja](https://open.spotify.com/artist/2BIjch36SUB18OSL65fIYS) | [Jeśli to czujesz](https://open.spotify.com/album/3BJkEi5bAg2cT9BlvNLhFh) | 1:50 |
-| 39 | [Warszawska Noc](https://open.spotify.com/track/2G0EZB4tebWcd3JsM6AKAL) | [Michał Wrzos](https://open.spotify.com/artist/4mxTm66QsRgChITSPcGvkI) | [Warszawska Noc](https://open.spotify.com/album/2VmJfbfCWma0iHqSOxVxhN) | 2:39 |
+| 39 | [Warszawska Noc](https://open.spotify.com/track/4czJGOvL0LLG0qtEKBqxK0) | [Michał Wrzos](https://open.spotify.com/artist/4mxTm66QsRgChITSPcGvkI) | [Warszawska Noc](https://open.spotify.com/album/4xlGAC79VP5RVOd9FDZFZL) | 2:39 |
 | 40 | [ICD\-10:D43.0](https://open.spotify.com/track/5hQ9gkMtgTQpcee15Ipu3J) | [Quaila](https://open.spotify.com/artist/4Ppo4GgoBFsdhnQa2lOjXo) | [ICD\-10:D43.0](https://open.spotify.com/album/1WLf8VygRE6VCgpRRJKffR) | 3:51 |
 | 41 | [Without the Context of the Multitude?](https://open.spotify.com/track/7knj7RTHwMcBUA4fLQXgHE) | [Rzekomo](https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku) | [Without the Context of the Multitude?](https://open.spotify.com/album/5xdwka39Osq3Fvf2vX0sT6) | 4:19 |
 | 42 | [Pośród chmur](https://open.spotify.com/track/6GTTiaKEzwkXSJcMnzowlM) | [Armand Dorosz](https://open.spotify.com/artist/7z9C4kuzfBwnOdgjKhjTuj) | [Ocean Gwiazd](https://open.spotify.com/album/5YHQm4b1MNv6XfBilWZhkY) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Kwadratowy](https://open.spotify.com/track/0ODb9zKQ7uguK091ecGhJH) | [Szumy](https://open.spotify.com/artist/0nREt0xGVu7pgRF4MFX72m) | [Kwadratowy](https://open.spotify.com/album/1t0Lg4YPTx1zwJuG52d4Oa) | 3:30 |
 | 100 | [Stroboskopy \- Bootleg](https://open.spotify.com/track/20uKUjFaTHDRyjLjzfwRqB) | [Laudi](https://open.spotify.com/artist/3OYKPuAilTxyA2tsmnlTdQ) | [DDA](https://open.spotify.com/album/1XaVY88al8QdQLrWS45ld1) | 2:57 |
 
-Snapshot ID: `MCxhNDg3N2VjMzI2OTJmNTQyMDViM2Y3YTZlOWZlMTBkOGEwMWQ0NTZh`
+Snapshot ID: `MCwwZGY3ZmQwMDY4NGFlNzMyZjYzZTM3Y2U4NDQ3MDIzYWVlMWJjNDVm`

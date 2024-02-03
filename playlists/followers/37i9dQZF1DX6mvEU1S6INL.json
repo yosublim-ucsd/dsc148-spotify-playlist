@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 1127709,
+  "2024-02-03": 1127697,
   "date_first_scraped": "2019-05-26",
   "description": "It's just us\u2014and this awesome alt soundtrack.",
   "name": "You & Me",
@@ -1861,10 +1861,28 @@
       ],
       "date_added": "2020-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 207306,
       "name": "I Belong in Your Arms",
       "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
+    },
+    {
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw"
+      },
+      "artists": [
+        {
+          "name": "Chairlift",
+          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207320,
+      "name": "I Belong In Your Arms",
+      "url": "https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi"
     },
     {
       "album": {

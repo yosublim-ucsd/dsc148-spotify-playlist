@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Corridor
 
-155 songs - 9 hr 2 min
+156 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [amour aride](https://open.spotify.com/track/3MgjzlKbn9KfLeKNnvc2aA) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [perle plastique / amour aride](https://open.spotify.com/album/45fee7P68vLtss76aGZs26) | 3:16 | 2023-02-17 | 2023-03-08 |
 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 | 2023-02-10 |  |
 | [Antennes](https://open.spotify.com/track/2IWRxRcB3MpsKptIzs4zdS) | [Jesuslesfilles](https://open.spotify.com/artist/4lg0G5z7GXpJtAYTR9WC0W) | [L'heure idéale](https://open.spotify.com/album/2QsjTHO6QeITKll9jecLwR) | 2:08 | 2023-03-24 | 2023-04-05 |
+| [Anyway](https://open.spotify.com/track/3UxA34eO5Ueii16F9FklMY) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Stay Safe!](https://open.spotify.com/album/5AOTO0vLGuaGk9Tim88zF1) | 3:45 | 2024-02-02 |  |
 | [Anyway](https://open.spotify.com/track/3lbmkS5HlBqsuefMgvkxka) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Anyway](https://open.spotify.com/album/09krY5QSpZboazWATr2T2S) | 3:45 | 2023-04-14 | 2023-06-17 |
 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 | 2023-02-10 |  |
 | [Auréole](https://open.spotify.com/track/2Tsl8BPilekrItPa2716qj) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Vertiges](https://open.spotify.com/album/1xJBGMDXE3nHY5SvPS7ZCj) | 3:06 | 2023-02-10 | 2023-07-30 |
@@ -55,7 +56,7 @@
 | [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 | 2023-04-28 |  |
 | [Entre mes jambes](https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 2:29 | 2023-02-10 |  |
 | [Et Hop](https://open.spotify.com/track/6BxyLvcmA4us1mKVtZ8P09) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Et Hop](https://open.spotify.com/album/5aVvhOTAFcdh4QxQs4aF0Z) | 3:14 | 2023-02-10 | 2023-04-30 |
-| [F.I.N.I](https://open.spotify.com/track/2iSviSdZmZGXDS3SND8Sbf) | [FELP](https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [F.I.N.I](https://open.spotify.com/album/1bPPwRE3sv1KNsbXF5b2Qq) | 3:07 | 2023-06-09 |  |
+| [F.I.N.I](https://open.spotify.com/track/2iSviSdZmZGXDS3SND8Sbf) | [FELP](https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [F.I.N.I](https://open.spotify.com/album/1bPPwRE3sv1KNsbXF5b2Qq) | 3:07 | 2023-06-09 | 2024-02-03 |
 | [Fantômes](https://open.spotify.com/track/4nvSSgdtZJwbA8uCo3uVw1) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Sainte\-Colère](https://open.spotify.com/album/5Xc7ZbRXsrVvAxC3RehckN) | 2:35 | 2023-02-10 |  |
 | [Fatiguée](https://open.spotify.com/track/6p5wW2wyB77K43YAqTeIma) | [Jeanne Laforest](https://open.spotify.com/artist/22pR3J0Y0WNrj8gS0TSaHb) | [Puisque les heures nous manquent](https://open.spotify.com/album/0V3mQctTFlwTEASUWVmRek) | 3:21 | 2023-03-24 | 2023-08-19 |
 | [Femme\-Lady](https://open.spotify.com/track/1cYR2Ax5skQtU6RJngbfkH) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le soleil et la mer](https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s) | 3:33 | 2023-02-10 |  |

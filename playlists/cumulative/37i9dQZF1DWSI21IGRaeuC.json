@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 302889,
       "name": "Flimmerlicht",
       "url": "https://open.spotify.com/track/3FFiXXnu93YSE7wnWJJd9b"
@@ -4272,6 +4272,24 @@
       "duration_ms": 267122,
       "name": "Tears In Berghain",
       "url": "https://open.spotify.com/track/0DJQZ0od70Z6SkuoEeOYAa"
+    },
+    {
+      "album": {
+        "name": "Teki Teki",
+        "url": "https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n"
+      },
+      "artists": [
+        {
+          "name": "Ishimaru",
+          "url": "https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200307,
+      "name": "Teki Teki",
+      "url": "https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR"
     },
     {
       "album": {

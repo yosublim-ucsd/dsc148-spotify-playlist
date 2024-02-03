@@ -1,28 +1,96 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Future Islands",
-  "num_followers": 834796,
+  "description": "Explore all things indie rock right now. Featuring music from The Last Dinner Party \ud83d\udd6f\ufe0f",
+  "num_followers": 834713,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWI2ZTQyZjU5OTZlMmE5OGQzNjNjYjIyZTRlZjQ5YmQ5ZGQ5MDFh",
+  "snapshot_id": "MCw3Zjg2MWNiMzZiMGEwNjVmYWQzZTE3NmEwMmNlNjc5ZTdmNTNmYjFi",
   "tracks": [
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "People Who Aren\u2019t There Anymore",
-        "url": "https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM"
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT"
       },
       "artists": [
         {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
         }
       ],
-      "duration_ms": 201200,
-      "name": "The Thief",
-      "url": "https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n"
+      "duration_ms": 206571,
+      "name": "The Feminine Urge",
+      "url": "https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Mood Ring",
+        "url": "https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 177080,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/1GD5LEi9PqcG53COfp3LsQ"
+      },
+      "artists": [
+        {
+          "name": "meija",
+          "url": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
+        },
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "MAGIC",
+      "url": "https://open.spotify.com/track/3hB6fPgud6yt1MRKHJ58Mg"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "The Thing Is",
+        "url": "https://open.spotify.com/album/03SfRIQRYUUWKjdXsXXy2v"
+      },
+      "artists": [
+        {
+          "name": "The Thing",
+          "url": "https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L"
+        }
+      ],
+      "duration_ms": 229610,
+      "name": "I Wanna Go To The City",
+      "url": "https://open.spotify.com/track/1VHNH9fVuA1oLbqFGMYo2t"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -39,6 +107,22 @@
       "duration_ms": 196724,
       "name": "I'm in Love",
       "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "People Who Aren\u2019t There Anymore",
+        "url": "https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "The Thief",
+      "url": "https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -435,22 +519,6 @@
       "duration_ms": 131546,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/5sNlEPRZEB1Nl4k1zCr1wT"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Caesar on a TV Screen",
-        "url": "https://open.spotify.com/album/5NWTTPxklDD8ed31edYo5V"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 229667,
-      "name": "Caesar on a TV Screen",
-      "url": "https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -921,26 +989,6 @@
       "url": "https://open.spotify.com/track/0i6iYbKAfDa9i7daY9bC2c"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "POSSUM",
-        "url": "https://open.spotify.com/album/0Z60druEH9YVEYZsdG4XaS"
-      },
-      "artists": [
-        {
-          "name": "meija",
-          "url": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
-        },
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "POSSUM",
-      "url": "https://open.spotify.com/track/2tQM7YboaoWtuQNAFYSQ2h"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Superbloomer",
@@ -955,42 +1003,6 @@
       "duration_ms": 277175,
       "name": "Superbloomer",
       "url": "https://open.spotify.com/track/6HqdxpWOasNjyjLFVXCB6x"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Back to Moon Beach",
-        "url": "https://open.spotify.com/album/34ZmHgTZ7OcRCsrTqbHpSQ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 271126,
-      "name": "Cool Water - Single Mix",
-      "url": "https://open.spotify.com/track/7Ki9OmvTAsczQSJO1h99WM"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Mallcore Movies",
-        "url": "https://open.spotify.com/album/425rzC6QAov8meWogidk9N"
-      },
-      "artists": [
-        {
-          "name": "MyKey",
-          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
-        },
-        {
-          "name": "Mickey Darling",
-          "url": "https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz"
-        }
-      ],
-      "duration_ms": 176382,
-      "name": "Mallcore Movies",
-      "url": "https://open.spotify.com/track/6Ru4UKv3A5G6QlpLzAFWMl"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1379,22 +1391,6 @@
       "duration_ms": 294396,
       "name": "Thick Skull (Re: Julien Baker)",
       "url": "https://open.spotify.com/track/7JH2H8oc2LfcEfiiEN0mML"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "added_at": "2023-10-27 04:00:00",

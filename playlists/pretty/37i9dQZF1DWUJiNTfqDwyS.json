@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 361420,
+  "num_followers": 361530,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjI4OTQ1NDMyNDM3MTUxYmVjMzY2ZWI0MTdiYTIxNDdiYzM0NzBi",
+  "snapshot_id": "MCxhMWE4ZjE4MDlhYjhjZDc5NDAxY2U4MWU3MDdjNjE3ZjE1MWE4OTAx",
   "tracks": [
     {
       "added_at": "2023-08-23 14:56:37",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Under C\u00f6ver",
-        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 260720,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "Greatest Lovesongs Vol. 666 (Deluxe Versions; Remastered)",
         "url": "https://open.spotify.com/album/0bopJOCBWUlA23xwJDwrkw"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 234026,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/3JBz53sjIaCRRcHY7OI82G"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "Under C\u00f6ver",
+        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 260720,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c"
     },
     {
       "added_at": "2023-08-23 14:56:37",

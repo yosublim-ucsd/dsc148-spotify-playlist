@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,114 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,127 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 49 | [Mañana Me Voy Pa'l Norte](https://open.spotify.com/track/2NUvZ1avmNuYnupNQ0vlA4) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 4:40 |
 | 50 | [El Tambo](https://open.spotify.com/track/3VlFOa5NaH3Mb8RtmSG6oj) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP) | 4:50 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDAyMzIxOTA0MmVlYzc4NDI0MTUxN2U2MTUxNmM3YWU0ZQ==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDA0YmM4YTg0MDBlN2FhMDc2OTBjMjU2ZDNiNDU1ODlmNg==`

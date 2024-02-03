@@ -2,9 +2,9 @@
 
 ### [Rock This](https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv)
 
-> Neck Deep along with today's Rock songs you need to know.
+> The Last Dinner Party along with today's Rock songs you need to know.
 
-455 songs - 1 day 1 hr 52 min
+458 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 | 2021-10-31 | 2021-12-04 |
 | [DIRTY WHITE VANS//](https://open.spotify.com/track/51tegOXmUxqJKWMh8l3Oxi) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [DIRTY WHITE VANS//](https://open.spotify.com/album/7GFoR6svUHjlQrG71ipmky) | 2:21 | 2022-04-01 | 2022-07-09 |
 | [Do It Faster](https://open.spotify.com/track/3ZTvrQhqEqHvYThM5CV6WE) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Do It Faster](https://open.spotify.com/album/6jyBZs0lDqpuoeyFJ5LWhs) | 1:47 | 2023-03-24 | 2023-05-20 |
+| [Do It Faster](https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 1:47 | 2024-02-02 |  |
 | [Don't Hate Me](https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Don't Hate Me](https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4) | 4:11 | 2021-08-06 | 2022-03-12 |
 | [Don't Let The Light Go Out](https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:49 | 2022-08-19 | 2022-10-29 |
 | [Don’t Back Down](https://open.spotify.com/track/1RYI0fqfKDuLi8e4B9XwSe) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Don't Back Down](https://open.spotify.com/album/6nseS1XlNg1bPVN4vXADWB) | 3:45 | 2021-06-01 | 2022-02-26 |
@@ -164,7 +165,7 @@
 | [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 | 2022-09-30 | 2023-02-11 |
 | [Hey You](https://open.spotify.com/track/4WUSVvoafrgVgsF9D2urJ0) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Hey You](https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM) | 4:28 | 2022-07-29 | 2022-11-26 |
 | [History Books \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/621bFmNYKldPwZQExIK3VU) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [History Books \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/4WsKcrfETIMvKNJPnsl5KX) | 3:53 | 2023-07-28 | 2023-11-11 |
-| [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 | 2023-07-21 |  |
+| [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 | 2023-07-21 | 2024-02-03 |
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-06-30 | 2023-07-28 |
 | [Hold The Line \(feat\. grandson\)](https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:12 | 2021-10-20\* | 2021-11-20 |
 | [HOLIDAY](https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:52 | 2022-09-02 | 2023-04-15 |
@@ -274,7 +275,8 @@
 | [Not Joking](https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [You Are Who You Hang Out With](https://open.spotify.com/album/5ti35p8028PSksErKRW415) | 3:18 | 2023-08-11 | 2023-10-07 |
 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 | 2023-06-16 | 2023-10-24 |
 | [Not The 1975](https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw) | 3:18 | 2023-09-29 | 2023-11-11 |
-| [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2023-08-25 |  |
+| [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2023-08-25 | 2024-02-03 |
+| [Nothing Matters](https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:02 | 2024-02-02 |  |
 | [Numb](https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Numb](https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI) | 2:54 | 2023-04-28 | 2023-05-27 |
 | [Numb](https://open.spotify.com/track/4xOZuV9hKj0uaRgegNaE5F) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Numb](https://open.spotify.com/album/0vf69q9LJRJ6MK8OTJPIbZ) | 3:41 | 2021-12-10 | 2022-01-08 |
 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 | 2021-06-01 | 2022-03-12 |
@@ -354,6 +356,7 @@
 | [Smile](https://open.spotify.com/track/6HegTbeiZZ9iN6Dp3TLJhx) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Smile](https://open.spotify.com/album/58G23MFuYELVcqdaQYWmAM) | 3:16 | 2021-10-29 | 2022-06-18 |
 | [Snapshot](https://open.spotify.com/track/3FyGUTC41cUpXhugPyQaz6) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 3:29 | 2023-09-29 | 2023-10-24 |
 | [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 | 2021-12-10 | 2022-07-02 |
+| [So Much \(For\) Stardust \- Edit](https://open.spotify.com/track/6jdAeEV54SoWW9eqejGQlC) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust \[Edit\]](https://open.spotify.com/album/2iUM65V96tt0d1J5IfRQzH) | 3:52 | 2024-02-02 |  |
 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 | 2022-11-11 | 2023-01-14 |
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-03-25 | 2022-04-09 |
 | [Something Loud](https://open.spotify.com/track/5wZK0hHduZpjWWoT0rq9p4) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Something Loud](https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1) | 3:16 | 2022-06-10 | 2022-10-15 |

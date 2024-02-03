@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: AJJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,322 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,321 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 21 | [Loose Lips](https://open.spotify.com/track/3v9YeMpkmyHhtdazNUEvNq) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Remember That I Love You](https://open.spotify.com/album/7bc415JbeoQAJAPsc8fGyn) | 2:27 |
 | 22 | [I'm not a good person](https://open.spotify.com/track/27wOKBP8KERkFP2sqqHloH) | [Pat The Bunny](https://open.spotify.com/artist/3aMGHrEKTeVquvDzpvVcct) | [Probably Nothing, Possibly Everything](https://open.spotify.com/album/1mdup5fgvCJcq2eZzuSUzA) | 2:54 |
 | 23 | [The Voice In My Head](https://open.spotify.com/track/0LopEfv3D6ODNcBKyYtkdJ) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 1:58 |
-| 24 | [Obligatory Folk Punk Song](https://open.spotify.com/track/79AVLbzsAOiOllE7qjA5kD) | [Panucci's Pizza](https://open.spotify.com/artist/5GLpYMkUSUNq5kLLeBovSi) | [All The Toppings](https://open.spotify.com/album/0kWAem2AsVbx5FSkfWX4GC) | 1:51 |
-| 25 | [Soup Song](https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Soup Song](https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8) | 2:30 |
+| 24 | [Soup Song](https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Soup Song](https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8) | 2:30 |
+| 25 | [Obligatory Folk Punk Song](https://open.spotify.com/track/79AVLbzsAOiOllE7qjA5kD) | [Panucci's Pizza](https://open.spotify.com/artist/5GLpYMkUSUNq5kLLeBovSi) | [All The Toppings](https://open.spotify.com/album/0kWAem2AsVbx5FSkfWX4GC) | 1:51 |
 | 26 | [Your Heart Is a Muscle the Size of Your Fist](https://open.spotify.com/track/1nQgPRVQN9fM1VdZdMNsC5) | [Ramshackle Glory](https://open.spotify.com/artist/0qdblxxVBeNzq1LFwzjN9g) | [Live the Dream](https://open.spotify.com/album/217MWnvPkioCSCh1LO8YBr) | 3:40 |
 | 27 | [Coffee, God, And Cigarettes](https://open.spotify.com/track/0SQmgir2AkvVKa3snPcn2z) | [Mischief Brew](https://open.spotify.com/artist/73U1Zb71I5JwgC1qVqZ8NO) | [Songs From Under The Sink](https://open.spotify.com/album/1Adkukn6Z9MjyI1bw53nh9) | 2:20 |
-| 28 | [Hungry Dog in the Street](https://open.spotify.com/track/6gyQhi8Dy7YNOQVXW9DYND) | [The Taxpayers](https://open.spotify.com/artist/1QNEVFk8MjculKl5977kfy) | ["God, Forgive These Bastards" Songs From The Forgotten Life of Henry Turner](https://open.spotify.com/album/2H4MixFpi9BQdQqtozfovm) | 1:41 |
-| 29 | [The Legend of Chavo Guerrero](https://open.spotify.com/track/6gPrsmxMd346xXojwswZAN) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB) | 3:00 |
+| 28 | [The Legend of Chavo Guerrero](https://open.spotify.com/track/6gPrsmxMd346xXojwswZAN) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB) | 3:00 |
+| 29 | [Hungry Dog in the Street](https://open.spotify.com/track/6gyQhi8Dy7YNOQVXW9DYND) | [The Taxpayers](https://open.spotify.com/artist/1QNEVFk8MjculKl5977kfy) | ["God, Forgive These Bastards" Songs From The Forgotten Life of Henry Turner](https://open.spotify.com/album/2H4MixFpi9BQdQqtozfovm) | 1:41 |
 | 30 | [Walk Away](https://open.spotify.com/track/36hTYlFbEsH2SOu24KJNtH) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [House of Sugar](https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP) | 4:16 |
 | 31 | [Survival Song](https://open.spotify.com/track/47hr9KDPHYmOCCd0aj3Q04) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [People Who Can Eat People Are the Luckiest People in the World](https://open.spotify.com/album/2jRdTNGZzb3drtFRYaUpFE) | 2:28 |
 | 32 | [Neutral Spirit Hotel](https://open.spotify.com/track/6KGL9EsMyAOvP6bjE0LtlG) | [Local News Legend](https://open.spotify.com/artist/1EmAfvxlLwPpJRJ3hc6zr1) | [Split Peas](https://open.spotify.com/album/7dAKoCGATzdporkHIZvf9J) | 1:28 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 47 | [I Know How It Feels](https://open.spotify.com/track/3gd0PGrjI49TL1keClyFBh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [I Know How It Feels](https://open.spotify.com/album/5yWpmbHjwTVx2sVTkrr8KI) | 2:46 |
 | 48 | [Shadows Follow You](https://open.spotify.com/track/70ocBhBQfu6gRbGZJdMl0h) | [Dogtooth & Nail](https://open.spotify.com/artist/3TzCgwT2fJB0oh2vggswZ9) | [Learning How to Unlearn](https://open.spotify.com/album/2ri1PLSmxfnM0yhamVmHz4) | 3:15 |
 | 49 | [Strong Hearts Bleed Out First](https://open.spotify.com/track/6w3E4mrMqc8Z1sYIU03IUv) | [Chatterbox and the Latter Day Satanists](https://open.spotify.com/artist/1rD5mDlNz6NuvcIq1rYMlt) | [The D.I.Y\. Fecta](https://open.spotify.com/album/2LlDP4y2j8cS3RZRoDEeyb) | 4:30 |
-| 50 | [Out of Egypt](https://open.spotify.com/track/4dzi9ff1Zm5PqLtn0gyM9a) | [Foxpaw](https://open.spotify.com/artist/3lrRCJ6WUwtvNVz9dPe3Yn) | [Still Dreaming, I Never See the Stars](https://open.spotify.com/album/69qLqOSmFzaKoLdH9I4V5x) | 2:19 |
+| 50 | [Forever Yours](https://open.spotify.com/track/0NdkNJhi6xD0REXKIBOmQt) | [Dirty Harry](https://open.spotify.com/artist/59C1eNpE0q9dh7U48KBJUV) | [Get Busy Living or Get Busy Crying](https://open.spotify.com/album/3mJ925Io2NR1Dp4x7oFUyV) | 5:37 |
 
-Snapshot ID: `MCwxZTAxOWQ2MTY3MjFjYjU2YmEyNGZjYzY0MjgzZDNiNTRhN2IwY2Q2`
+Snapshot ID: `MCw4YzUwNjI4NTc3ZDNmMGFlZTQyYmZmZTU0NTU2NjllMzU2ZmM3ZDNi`

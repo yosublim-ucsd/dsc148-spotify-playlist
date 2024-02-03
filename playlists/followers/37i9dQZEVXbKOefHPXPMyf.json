@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 17878,
+  "2024-02-03": 17871,
   "date_first_scraped": "2022-01-10",
   "description": "Your daily update of the most viral tracks right now - Costa Rica.",
   "name": "Viral 50 - Costa Rica",
@@ -18600,6 +18600,24 @@
     },
     {
       "album": {
+        "name": "Vikorg",
+        "url": "https://open.spotify.com/album/2s1lH466ICjtzwgCDljKQK"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1or Loop",
+          "url": "https://open.spotify.com/artist/04kzQulIze9pZ7MadKI9w2"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398360,
+      "name": "Lo Que Hay",
+      "url": "https://open.spotify.com/track/4TqZ2UBfKPUiKUh9gK20UI"
+    },
+    {
+      "album": {
         "name": "lo que hay x aqu\u00ed",
         "url": "https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm"
       },
@@ -34367,7 +34385,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 169911,
       "name": "TQMQA",
       "url": "https://open.spotify.com/track/0Xm7WesKiHAAbLYluGqBZ7"

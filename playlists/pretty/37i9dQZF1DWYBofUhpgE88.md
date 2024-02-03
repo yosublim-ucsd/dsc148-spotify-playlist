@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 
 > Jannik Sinner, vincitore slam! Rap per non smettere mai di crederci 💪🏋️🏃‍♀
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,879 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,965 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 | 69 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 |
 | 70 | [Enemies \(feat\. DaBaby\)](https://open.spotify.com/track/0Xek5rqai2jcOWCYWJfVCF) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:16 |
 
-Snapshot ID: `MCw3MzMwNTkxNzcwZTk3MTdmMzk0YTM1YjRjMTE0MTIxZWViZmFiM2U3`
+Snapshot ID: `MCxhZjE5MTA2NmI5NGU3ZDgyNWZjN2M0OTVkZGZmZTdhOThmNGQyNDZm`

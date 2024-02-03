@@ -2,7 +2,7 @@
 
 ### [Maroc Hits](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Les hits marocains du moment\. Cover: Dada
+> Les hits marocains du moment\. Cover: Moha K
 
 342 songs - 18 hr 26 min
 

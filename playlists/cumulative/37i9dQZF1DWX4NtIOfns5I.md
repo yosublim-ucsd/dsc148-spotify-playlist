@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> where folk flowers bloom\.  cover: Briston Maroney 🦋
+> where folk flowers bloom\.  cover: Noah Kahan 🍂
 
-178 songs - 10 hr 27 min
+179 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-10-06 | 2023-12-02 |
 | [Didn't You](https://open.spotify.com/track/79yJPBXQYjLIcU7lxrDkC6) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Canyon](https://open.spotify.com/album/1qSYkiIAFof7yxgLsrvxl7) | 4:03 | 2023-10-06 |  |
 | [Die Slower](https://open.spotify.com/track/7lwqr6NGpzsYVZK5ovcyRr) | [Brendan Abernathy](https://open.spotify.com/artist/39ETOzAilLp4bcJAUU8mmW), [Annie Omalley](https://open.spotify.com/artist/0TEaL7Y50jr7N3mjxqFGBK) | [die slower](https://open.spotify.com/album/2fGiVuDMhTGQNSjhKjc0zE) | 3:15 | 2024-01-05 |  |
+| [Dirty Fire](https://open.spotify.com/track/7Ktux01az60Et2QeCYu357) | [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Prequel](https://open.spotify.com/album/3EkjlTMu4IDVHz759li7FO) | 2:48 | 2024-02-02 |  |
 | [dopamine](https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [dopamine](https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx) | 2:38 | 2023-10-13 |  |
 | [Dream Dating](https://open.spotify.com/track/0ikubwVXWkOeYH3HFhXMfK) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Infinite Spring](https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC) | 3:47 | 2023-10-06 |  |
 | [Dream Song](https://open.spotify.com/track/6ojor4w0aY3Nl101vyidbH) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Dream Song](https://open.spotify.com/album/6NlSEYD0tosjRfVAUqBSLb) | 2:43 | 2023-10-06 |  |
@@ -89,7 +90,7 @@
 | [in the rain](https://open.spotify.com/track/1gicn1usnZflJaszZtfm2n) | [frances mistry](https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG) | [let them eat grass](https://open.spotify.com/album/1WUyJfZ7pAXimyTJg0aoca) | 3:25 | 2023-10-06 |  |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2023-10-06 |  |
 | [jacob killed a cat](https://open.spotify.com/track/3nE26bDb6bnowMRyo6qGsa) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Downers Grove \(Explained\)](https://open.spotify.com/album/0RuZxzktEnwDwGFhnGOo74) | 2:45 | 2023-10-06 | 2023-12-09 |
-| [Jesus Song \(County Line\)](https://open.spotify.com/track/0sfqrYeRPs5tJISfVGQscT) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Jesus Song \(County Line\)](https://open.spotify.com/album/39a2hRQJCgzJdZFVRQJIR5) | 3:08 | 2024-01-26 |  |
+| [jesus song \(county line\)](https://open.spotify.com/track/0sfqrYeRPs5tJISfVGQscT) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [jesus song \(county line\)](https://open.spotify.com/album/39a2hRQJCgzJdZFVRQJIR5) | 3:08 | 2024-01-26 |  |
 | [kid](https://open.spotify.com/track/4F0jYIYcVtiH5OM6fpN7Gb) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [kid](https://open.spotify.com/album/6WSJyY3FStkw7JXZaU5VHa) | 3:11 | 2023-12-08 |  |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-10-06 |  |
 | [Lady Loveless](https://open.spotify.com/track/1Tfm1Y148BjWWDVeAZsni3) | [Atticus Walker](https://open.spotify.com/artist/5KNZrn88ZyzzpN8KqGrRgo) | [Lady Loveless](https://open.spotify.com/album/0PukY078qgKTdgOgidmdhy) | 1:46 | 2023-10-06 |  |
@@ -141,7 +142,7 @@
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-06 | 2023-12-09 |
 | [Shove](https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Shove](https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb) | 2:39 | 2023-10-06 |  |
 | [Shower Song](https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Shower Song](https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke) | 2:47 | 2023-10-06 |  |
-| [silence,](https://open.spotify.com/track/6gIXFyfeHXanwtC5w6Ooz5) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [silence,](https://open.spotify.com/album/251r2PWSCJrFdZDmgxUuA1) | 2:47 | 2023-10-06 |  |
+| [silence,](https://open.spotify.com/track/6gIXFyfeHXanwtC5w6Ooz5) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [silence,](https://open.spotify.com/album/251r2PWSCJrFdZDmgxUuA1) | 2:47 | 2023-10-06 | 2024-02-03 |
 | [Skin](https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Skin](https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry) | 3:44 | 2024-01-26 |  |
 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-01-19 |  |
 | [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 | 2023-12-15 |  |

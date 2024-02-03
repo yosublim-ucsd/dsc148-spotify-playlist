@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 32243,
+  "2024-02-03": 32284,
   "date_first_scraped": "2022-10-15",
   "description": "Relaxing Jazz guitar for focus, study or unwinding.",
   "name": "Soft Jazz Guitar",
@@ -1549,6 +1549,24 @@
       "duration_ms": 184389,
       "name": "Waltz for Debbie",
       "url": "https://open.spotify.com/track/51Nyi9QizVyl5W9WViPPBp"
+    },
+    {
+      "album": {
+        "name": "Waltz van Amsterdam",
+        "url": "https://open.spotify.com/album/3QeDhkEceu7PJY02WUhttF"
+      },
+      "artists": [
+        {
+          "name": "Casper Hejlesen",
+          "url": "https://open.spotify.com/artist/6wJA4brAniop9TeGhaL17g"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290311,
+      "name": "Waltz van Amsterdam",
+      "url": "https://open.spotify.com/track/0kPLZB72XgKxlpq93qQ3R3"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 128624,
+  "num_followers": 128782,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2UwMzAyZDRkMDRjZDM0MzlhMDNlNTZiMjM5ZGM4N2EzOGM5OWRm",
+  "snapshot_id": "MCwyOWJmOTk5ZTllZmNkNWViMmVhMDVjOTgxZDQ1ZTllYmIzNjRmM2I0",
   "tracks": [
     {
       "added_at": "2024-02-01 19:53:23",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
         "name": "Uprising",
         "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 237000,
       "name": "Could You Be Loved",
       "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 405600,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
         "name": "Pray for the Wicked",
         "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 190946,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 405600,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 231532,
       "name": "Besos En Guerra",
       "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "El Calor Del Pleno Invierno",
-        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 185866,
-      "name": "Ese Maldito Momento",
-      "url": "https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
         "name": "Gorillaz",
         "url": "https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 340920,
       "name": "Clint Eastwood",
       "url": "https://open.spotify.com/track/7yMiX7n9SBvadzox8T5jzT"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
+        "name": "El Calor Del Pleno Invierno",
+        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 185866,
+      "name": "Ese Maldito Momento",
+      "url": "https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 153153,
+      "name": "TE FUI A SEGUIR",
+      "url": "https://open.spotify.com/track/2WSf3P0Uk3AfGPqkBPI0Qh"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
         "name": "El Amor Despu\u00e9s del Amor",
         "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
       },
@@ -1467,22 +1487,18 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+        "name": "Sigue Tu Camino",
+        "url": "https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g"
       },
       "artists": [
         {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        },
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         }
       ],
-      "duration_ms": 153153,
-      "name": "TE FUI A SEGUIR",
-      "url": "https://open.spotify.com/track/2WSf3P0Uk3AfGPqkBPI0Qh"
+      "duration_ms": 247453,
+      "name": "Un Osito de Peluche de Taiw\u00e1n",
+      "url": "https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -1499,22 +1515,6 @@
       "duration_ms": 308946,
       "name": "Lago en el Cielo",
       "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
-        "name": "Sigue Tu Camino",
-        "url": "https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 247453,
-      "name": "Un Osito de Peluche de Taiw\u00e1n",
-      "url": "https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 316426,
-      "name": "Luna de Miel en la Mano",
-      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
         "name": "Communards",
         "url": "https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 271066,
       "name": "Don't Leave Me This Way (with Sarah Jane Morris)",
       "url": "https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 316426,
+      "name": "Luna de Miel en la Mano",
+      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
         }
       ],
-      "duration_ms": 212880,
-      "name": "Spaghetti del Rock",
-      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
+      "duration_ms": 273306,
+      "name": "Pronta Entrega",
+      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
     }
   ],
   "unique_name": "Ruta 2",

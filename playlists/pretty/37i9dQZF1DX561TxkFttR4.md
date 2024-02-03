@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > Soothing, soft piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,345 likes - 80 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,341 likes - 80 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 55 | [Black coal of dream](https://open.spotify.com/track/4QTsrZ1o0SRgx6FhdonuCi) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Black coal of dream](https://open.spotify.com/album/6Qr73LPNXy4GOM7t4SsfO4) | 2:05 |
 | 56 | [Wreszcie](https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Wreszcie](https://open.spotify.com/album/68AlPgfClESbRVI28gvegI) | 2:55 |
 | 57 | [At Dawn](https://open.spotify.com/track/55H4GT7iLma7fJyBhS7o4R) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Venice \- Infinitely Avantgarde \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9) | 3:00 |
-| 58 | [Kastepiisk](https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Kastepiisk](https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm) | 3:21 |
-| 59 | [Finding The Heavens](https://open.spotify.com/track/5iVgHr0hrCFOvem4Yc75Gc) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Finding The Heavens](https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ) | 2:47 |
+| 58 | [Finding The Heavens](https://open.spotify.com/track/5iVgHr0hrCFOvem4Yc75Gc) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Finding The Heavens](https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ) | 2:47 |
+| 59 | [Kastepiisk](https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Kastepiisk](https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm) | 3:21 |
 | 60 | [Tala](https://open.spotify.com/track/1qXgnbIFHqeRFdjKhDSB7X) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Tala](https://open.spotify.com/album/6fXcGN9Oj6OVDKTnIkGUhT) | 3:07 |
 | 61 | [campfire](https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [campfire](https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9) | 3:06 |
 | 62 | [Passagio](https://open.spotify.com/track/3vWbxJ46hMwj3XsiEnKH19) | [Luisa Leonetti](https://open.spotify.com/artist/5qpXgVpKpeKe5j4ENTQOwq) | [Passagio](https://open.spotify.com/album/3y5HHPF2VgKt5GOEKEIFzO) | 2:46 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 69 | [Along dammed rivers](https://open.spotify.com/track/74kSL8wn4qNOURsSpye78o) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Along dammed rivers](https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK) | 2:15 |
 | 70 | [Nebula](https://open.spotify.com/track/5qta8Dii3ZWGxZDA6LZmYb) | [Luca Bissette](https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL) | [Nebula](https://open.spotify.com/album/3Pijzoi6qxxNYE8Nc1iLub) | 2:41 |
 | 71 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 5:13 |
-| 72 | [New Dawn](https://open.spotify.com/track/1rHBp9J1NvnLW7nk2Xi4Zy) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [New Dawn](https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK) | 2:54 |
-| 73 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 |
+| 72 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 |
+| 73 | [New Dawn](https://open.spotify.com/track/1rHBp9J1NvnLW7nk2Xi4Zy) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [New Dawn](https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK) | 2:54 |
 | 74 | [Nocturnes op.4](https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.4](https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT) | 2:51 |
 | 75 | [Himlen](https://open.spotify.com/track/08athgGdqnRmET0kInHb8n) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Himlen](https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp) | 2:01 |
 | 76 | [Felt Improv No\. 31](https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 31](https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC) | 2:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 79 | [Acceptance](https://open.spotify.com/track/4DE4fXnXftKMyl6IQEYWnp) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [Acceptance](https://open.spotify.com/album/0kNSxjrtG1jxZWb0BKfCHo) | 3:15 |
 | 80 | [pt\. 1 Owl Light](https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [pt\. 1 Owl Light](https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY) | 3:09 |
 
-Snapshot ID: `MCxiODc3ODM3ZTMxOTE0MWNhODU2ZTAyMmVhZjRkZDBiNThjMzY1ODFm`
+Snapshot ID: `MCxkMmMzMTVkOWUyOTQ4NzFmZjgzZTRmM2ZkYWM0YjU0NzQyMjY3MmM3`

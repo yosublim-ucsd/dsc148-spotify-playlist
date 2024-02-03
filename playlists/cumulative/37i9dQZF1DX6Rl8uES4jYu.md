@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-427 songs - 23 hr 55 min
+428 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [All That I Need](https://open.spotify.com/track/46FmoDcQxTdgJnqqTppblI) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [All That I Need](https://open.spotify.com/album/4F5Furcx1SnH2PGX0YbKPM) | 3:20 | 2022-11-18 |  |
 | [All This Life](https://open.spotify.com/track/1hjcNJETMy5NYuQkRtsKpC) | [Three Star Revival](https://open.spotify.com/artist/3evSkyfftD6Q8mjTIeJSVg) | [Reset](https://open.spotify.com/album/55T6adDVIBHPel2i9Ei5to) | 2:39 | 2020-11-13 | 2022-03-17 |
 | [All Together Now](https://open.spotify.com/track/1BAG6lcuJip6wd0Kd9PRoY) | [Outasight](https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO) | [Jamz](https://open.spotify.com/album/0iXMyDCLh5QNIvZV36cO8C) | 2:42 | 2021-07-16 | 2022-07-29 |
+| [All Ur Luv](https://open.spotify.com/track/3K1RnBxBkrMwoBE8gC63eY) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [All Ur Luv](https://open.spotify.com/album/1KrS7daFwtHSyT5aPsI0so) | 2:41 | 2024-02-02 |  |
 | [All Yours](https://open.spotify.com/track/3YUeUS5imOjS9wqj0xhGYV) | [Jane Holiday](https://open.spotify.com/artist/05GeUxBiQ1aq6VYnODnPbD) | [All Yours](https://open.spotify.com/album/20ejRbhmfw3JUbXuCDeV4v) | 3:10 | 2020-11-13 | 2022-03-26 |
 | [Ally \- Headnodic Remix](https://open.spotify.com/track/4vNh0o3gb1QbmLKtiQvYFn) | [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo), [Raashan Ahmad](https://open.spotify.com/artist/7iljQVDzReF6FBa4cNMIAp), [Breathless](https://open.spotify.com/artist/20LeSCKi2mT9uFAdUwvyhK), [Headnodic](https://open.spotify.com/artist/7LB0RfmtjwsMFr5OW3H0r3) | [Ally \(Headnodic Remix\)](https://open.spotify.com/album/11xqMaOFDQzJEeWiC7KOdk) | 3:29 | 2021-09-21 | 2022-07-20 |
 | [AM Gold \- Tobtok Remix](https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [AM Gold \(Tobtok Remix\)](https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD) | 3:09 | 2022-04-22 | 2023-11-11 |
@@ -387,7 +388,7 @@
 | [trouble](https://open.spotify.com/track/5LUu6thRvPXR0td03OZzgD) | [Dylan Reese](https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy) | [trouble](https://open.spotify.com/album/2vJVkhXPsDQNXlnrMXPNNj) | 2:51 | 2020-11-27 | 2022-03-23 |
 | [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 | 2022-10-14 | 2023-01-12 |
 | [Turn Me Up](https://open.spotify.com/track/7KKB3IMxdBwiAvayp6m8DE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Turn Me Up](https://open.spotify.com/album/42PxlWO8vKHRzGRquHvhhy) | 3:53 | 2020-11-13 | 2022-01-05 |
-| [Turn Up](https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [The Futuristics](https://open.spotify.com/artist/0qiu2HDyU3u01mZXg5zS7t) | [Turn Up](https://open.spotify.com/album/0LPcMt88koQMtVEhy3aS85) | 2:21 | 2022-05-27 |  |
+| [Turn Up](https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [The Futuristics](https://open.spotify.com/artist/0qiu2HDyU3u01mZXg5zS7t) | [Turn Up](https://open.spotify.com/album/0LPcMt88koQMtVEhy3aS85) | 2:21 | 2022-05-27 | 2024-02-03 |
 | [Turntables \(from the Amazon Original Movie "All In: The Fight for Democracy"\)](https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Turntables \(from the Amazon Original Movie "All In: The Fight for Democracy"\)](https://open.spotify.com/album/6rVBwEvvvWDf5flpBu1yHq) | 2:43 | 2021-09-21 | 2023-02-18 |
 | [Twilight](https://open.spotify.com/track/16IKV5rIM4hwmIhPsYOScC) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Jayy Starr](https://open.spotify.com/artist/17GrFxi33siNMnj43wG3lv) | [Happiness](https://open.spotify.com/album/5b0Hzsa9VcJDfDlycOLjBc) | 2:36 | 2022-04-22 | 2023-11-04 |
 | [Twilight](https://open.spotify.com/track/16i7TSAlPdCCsKbfs8ljIF) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Jayy Starr](https://open.spotify.com/artist/17GrFxi33siNMnj43wG3lv) | [Twilight](https://open.spotify.com/album/36iL4tjGVh54D5jv86C0Ug) | 2:36 | 2022-04-22 | 2023-07-10 |

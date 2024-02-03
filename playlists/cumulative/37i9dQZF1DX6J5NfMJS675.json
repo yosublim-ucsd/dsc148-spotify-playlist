@@ -5943,6 +5943,24 @@
     },
     {
       "album": {
+        "name": "Let's Begin",
+        "url": "https://open.spotify.com/album/3G95YugyYcr8ty6fIM1P5P"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250147,
+      "name": "Let's Begin",
+      "url": "https://open.spotify.com/track/008Q1wg8oH594VO9XkolM8"
+    },
+    {
+      "album": {
         "name": "Liberty",
         "url": "https://open.spotify.com/album/5X3xCHpz9IYIbvbaFbRYs6"
       },

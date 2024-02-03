@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 32 min
+48 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bueno para Lo Mal](https://open.spotify.com/track/32K8tXYpqGNPPcMYQyx8Ml) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Hombres de Ley](https://open.spotify.com/artist/1rX6xWlSLwHejshQZzJPnv) | [Bueno para Lo Mal](https://open.spotify.com/album/4LVOHVtCGN4OxBCmKkplpl) | 4:33 | 2024-01-29 |  |
 | [Calles Californianas](https://open.spotify.com/track/77JRJFvxexYjbf49Q0RF2y) | [Hijos De La Plaza](https://open.spotify.com/artist/6tGfaDLiyGkJy05dbcPEJZ), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Calles Californianas](https://open.spotify.com/album/6022qbvV7Hbn7ArgsgWXkl) | 3:46 | 2024-01-29 |  |
 | [Camioneta Alterada](https://open.spotify.com/track/0fvHIf04ujurWHXX7NLx5l) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Camioneta Alterada](https://open.spotify.com/album/5AKUeJnTKAPQOKk3KmoX0t) | 3:29 | 2024-01-29 |  |
+| [Critíquenme](https://open.spotify.com/track/5y35zXJMQ53ebkJGm8ZlSJ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:37 | 2024-02-02 |  |
 | [Dash](https://open.spotify.com/track/3mGNfLaiEjokEf4IGN5eI5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Dash](https://open.spotify.com/album/6yPZzcF4xp64gOdDB7lxfI) | 3:18 | 2024-01-29 |  |
 | [Dile Que No](https://open.spotify.com/track/3kFLhQ7tOovutkhVjvc9ax) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Conjunto Brio Norteño](https://open.spotify.com/artist/0DjscwAusQfeGfhAtTjczy) | [Dile Que No](https://open.spotify.com/album/6CxhgIBZ58cKISoJWOkkBF) | 3:05 | 2024-01-29 |  |
 | [El Famoso Chino Antrax](https://open.spotify.com/track/5XZQUalNyeSKUWYQynX1Gq) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Mafia De Corridos](https://open.spotify.com/album/1PJ8GIADR9QBlM1kXRzmSp) | 3:30 | 2024-01-29 |  |

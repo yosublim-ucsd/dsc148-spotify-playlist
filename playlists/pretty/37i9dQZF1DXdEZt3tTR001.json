@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 158165,
+  "num_followers": 158219,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWUzOTE5MDZiZmQwZTA3YzRmY2ZmYTE1MzQ4YjMzZDA4NzliNDI1",
+  "snapshot_id": "MCw2ZDhiNDUzMjI5ZDJjZmMwYzczZjQyNjMwODNhMzUyN2JmOTNkMzU1",
   "tracks": [
     {
       "added_at": "2024-01-29 23:44:02",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-01-29 23:44:02",
       "album": {
-        "name": "I Feel for You",
-        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 288653,
-      "name": "Through the Fire",
-      "url": "https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe"
-    },
-    {
-      "added_at": "2024-01-29 23:44:02",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 199615,
       "name": "Self",
       "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
+    },
+    {
+      "added_at": "2024-01-29 23:44:02",
+      "album": {
+        "name": "I Feel for You",
+        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 288653,
+      "name": "Through the Fire",
+      "url": "https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe"
     },
     {
       "added_at": "2024-01-29 23:44:02",

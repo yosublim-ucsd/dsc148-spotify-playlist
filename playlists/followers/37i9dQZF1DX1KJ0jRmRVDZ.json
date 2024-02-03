@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 113002,
+  "2024-02-03": 113035,
   "date_first_scraped": "2022-06-10",
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
   "name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
@@ -887,7 +887,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 212708,
       "name": "Bokurano",
       "url": "https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX"
@@ -2593,7 +2593,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 196497,
       "name": "Haru wo Tsugeru",
       "url": "https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m"
@@ -13312,6 +13312,32 @@
     },
     {
       "album": {
+        "name": "\u4eca\u65e5\u304b\u3089\u30f4\u30a3\u30e9\u30f3",
+        "url": "https://open.spotify.com/album/02Ja3soFHh4vX3nT8MuKWx"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u306e\u3050",
+          "url": "https://open.spotify.com/artist/6SI1fprYnlol2XmQdZr05n"
+        },
+        {
+          "name": "N\u03a6A",
+          "url": "https://open.spotify.com/artist/25CX4wLz8VwdiBbWf7QMYx"
+        },
+        {
+          "name": "\u305d\u308a\u3063\u3069\u3073\u30fc\u3064",
+          "url": "https://open.spotify.com/artist/76IWUnp1D3oRp4eexCzE7x"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177935,
+      "name": "\u4eca\u65e5\u304b\u3089\u30f4\u30a3\u30e9\u30f3",
+      "url": "https://open.spotify.com/track/4yG5aA4sRsWDQBIutHnBBP"
+    },
+    {
+      "album": {
         "name": "\u4f1a\u3048\u306a\u3044",
         "url": "https://open.spotify.com/album/0QkxlHYmvEsgFRsAhhP8Jz"
       },
@@ -15145,7 +15171,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 204600,
       "name": "\u61a7\u308c\u306e\u307e\u307e\u306b",
       "url": "https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs"

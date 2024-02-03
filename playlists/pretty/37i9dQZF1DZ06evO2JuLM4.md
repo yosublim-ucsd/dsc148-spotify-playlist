@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 
 > This is The White Stripes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,148 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,164 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,17 +35,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 | 25 | [Offend In Every Way](https://open.spotify.com/track/1nO9QTV0ifjpleS2NDypin) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 3:06 |
 | 26 | [Death Letter](https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 4:29 |
 | 27 | [Rag and Bone](https://open.spotify.com/track/37SxzqcjbwYfZxZlW8jZYA) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 3:48 |
-| 28 | [Little Ghost](https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 2:18 |
-| 29 | [Party of Special Things to Do](https://open.spotify.com/track/18bpRIiJ9dOYBSxgpaJItO) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Party of Special Things to Do](https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U) | 2:50 |
+| 28 | [Party of Special Things to Do](https://open.spotify.com/track/18bpRIiJ9dOYBSxgpaJItO) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Party of Special Things to Do](https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U) | 2:50 |
+| 29 | [Little Ghost](https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 2:18 |
 | 30 | [When I Hear My Name](https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 1:54 |
 | 31 | [Conquest](https://open.spotify.com/track/53ofSOPSvejQkQQLhpEN6X) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 2:48 |
 | 32 | [Truth Doesn't Make a Noise](https://open.spotify.com/track/4cuKwDw7T3JELdePWwa3hZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 3:14 |
 | 33 | [Good To Me](https://open.spotify.com/track/46An5rnGjzodq0IJltXAuU) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 2:06 |
-| 34 | [Jimmy the Exploder](https://open.spotify.com/track/4BzDfIxPyZOR37XArUhKFK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 2:29 |
+| 34 | [One More Cup of Coffee](https://open.spotify.com/track/5xaDPU9lS1ZdaIdTiIuUI6) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 3:13 |
 | 35 | [I'm Slowly Turning Into You](https://open.spotify.com/track/3MsWy7Is42kx8OImv41rUG) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:34 |
 | 36 | [Passive Manipulation](https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 0:35 |
 | 37 | [Hand Springs](https://open.spotify.com/track/65oZNFPOkwjLQmYze98niK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Hand Springs](https://open.spotify.com/album/5V5XxYMoaaMR7M0Pty3dPa) | 2:56 |
-| 38 | [One More Cup of Coffee](https://open.spotify.com/track/5xaDPU9lS1ZdaIdTiIuUI6) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 3:13 |
+| 38 | [Jimmy the Exploder](https://open.spotify.com/track/4BzDfIxPyZOR37XArUhKFK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 2:29 |
 | 39 | [Black Jack Davey](https://open.spotify.com/track/2efxKDJEqUD0Psqdo2qATs) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 5:06 |
 | 40 | [Take, Take, Take](https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 4:22 |
 | 41 | [Stones In My Passway \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/3eI7N693RsQLLHrwLre1tc) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 2:40 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 | 48 | [Ashtray Heart](https://open.spotify.com/track/3jUXDyGRhU0y4IUdtjUVMU) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Party of Special Things to Do](https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U) | 2:45 |
 | 49 | [Lovesick \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/3UKeA8QpDcYCfSSwP129Sw) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 3:50 |
 
-Snapshot ID: `Mjg0NDY1MTQsMDAwMDAwMDBiMTUyNzZjZDUxY2Y3NDVkMDZiMGMwMWU0NTE3ODEwYg==`
+Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDAxN2IzZmZjOTExOWE3NGI5NjcyNTMwODdjOTc5NmI4Mg==`

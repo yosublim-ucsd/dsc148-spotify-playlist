@@ -1,13 +1,29 @@
 {
   "description": "The best newly released songs of the week. Cover: Naim Daniel, Jamal Abdillah",
-  "num_followers": 61458,
+  "num_followers": 61447,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjk5MDI0M2U4ZTYxMjcyMDE1YzA2NjFmYjcxMTE2MmYyY2Q3ZDZl",
+  "snapshot_id": "MCw2NWZiMmM4MWMyMzg2OWU3YjE4ODM1NGUwODhjMDlkYjNmMDcyMGVm",
   "tracks": [
+    {
+      "added_at": "2024-02-01 16:00:00",
+      "album": {
+        "name": "I GOT YOU",
+        "url": "https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 173240,
+      "name": "I GOT YOU",
+      "url": "https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx"
+    },
     {
       "added_at": "2024-02-01 16:00:00",
       "album": {
@@ -443,6 +459,26 @@
     {
       "added_at": "2024-02-01 16:00:00",
       "album": {
+        "name": "KINEMA",
+        "url": "https://open.spotify.com/album/5bikiolrxKPQiFfPt7bdv8"
+      },
+      "artists": [
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        },
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Do or Die (ft. DPR IAN)",
+      "url": "https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo"
+    },
+    {
+      "added_at": "2024-02-01 16:00:00",
+      "album": {
         "name": "GO!!",
         "url": "https://open.spotify.com/album/29T4LezOXJ6i9j0Fy2EQkf"
       },
@@ -615,6 +651,22 @@
       "duration_ms": 173207,
       "name": "\u4efb\u6027",
       "url": "https://open.spotify.com/track/67mW5GPTpEMBBS6KInmsYP"
+    },
+    {
+      "added_at": "2024-02-01 16:00:00",
+      "album": {
+        "name": "\u5c0f\u5b50",
+        "url": "https://open.spotify.com/album/3Y0HDfd3X2m5RZ1ldLtiOl"
+      },
+      "artists": [
+        {
+          "name": "David Tao",
+          "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
+        }
+      ],
+      "duration_ms": 194685,
+      "name": "\u5c0f\u5b50",
+      "url": "https://open.spotify.com/track/4BpS2swVIEPYHGmfCAe7dB"
     },
     {
       "added_at": "2024-02-01 16:00:00",
@@ -847,6 +899,22 @@
       "duration_ms": 151578,
       "name": "Foundation",
       "url": "https://open.spotify.com/track/4tSOSkAuzN1ITh2M2l1Z7Z"
+    },
+    {
+      "added_at": "2024-02-01 16:00:00",
+      "album": {
+        "name": "Sensei",
+        "url": "https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 118973,
+      "name": "Sensei",
+      "url": "https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi"
     },
     {
       "added_at": "2024-02-01 16:00:00",
@@ -1332,7 +1400,7 @@
       "added_at": "2024-02-01 16:00:00",
       "album": {
         "name": "We Ain't Here For Long",
-        "url": "https://open.spotify.com/album/1Mc6KVLxv3JsxeqfB16jAD"
+        "url": "https://open.spotify.com/album/574kAUsaWDdlVm8Fb2HfB9"
       },
       "artists": [
         {
@@ -1342,7 +1410,7 @@
       ],
       "duration_ms": 175835,
       "name": "We Ain't Here For Long",
-      "url": "https://open.spotify.com/track/7La5MwfZp7t0oKCYbhIMXj"
+      "url": "https://open.spotify.com/track/427747J57kLmFjqk7PZrpp"
     },
     {
       "added_at": "2024-02-01 16:00:00",

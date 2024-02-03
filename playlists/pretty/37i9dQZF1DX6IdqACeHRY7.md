@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,437 likes - 114 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,457 likes - 114 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 57 | [Please Don't Say You Love Me](https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW) | 3:01 |
 | 58 | [Wild Love](https://open.spotify.com/track/3XLZOk9aP5VxiO81xFSX2w) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:17 |
 | 59 | [Slow Fade](https://open.spotify.com/track/3wnUCt4sWnK0C0XGQGHKo7) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Maybe I'll Find You Again](https://open.spotify.com/album/0sndNDx9a9z77Jx8MsULfw) | 3:31 |
-| 60 | [Fired Up](https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Fired Up](https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP) | 3:21 |
-| 61 | [Corners](https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Wildflower](https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0) | 3:39 |
+| 60 | [Corners](https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Wildflower](https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0) | 3:39 |
+| 61 | [Fired Up](https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Fired Up](https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP) | 3:21 |
 | 62 | [I Wouldn't Know Any Better Than You](https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [I Wouldn't Know Any Better Than You](https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj) | 2:31 |
 | 63 | [6 months](https://open.spotify.com/track/2LjeUVxf9m9ugARNcTlbHT) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 3:37 |
 | 64 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 101 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 |
 | 102 | [Faith's Song](https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l) | [Amy Wadge](https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp) | [Keeping Faith](https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh) | 2:52 |
 | 103 | [What A Day \- Edit](https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:17 |
-| 104 | [For You](https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [For You](https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX) | 3:23 |
-| 105 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
+| 104 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
+| 105 | [For You](https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [For You](https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX) | 3:23 |
 | 106 | [If That's Alright](https://open.spotify.com/track/1sOHsqg3EeaimEJM72CZa5) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [If That's Alright](https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx) | 3:55 |
 | 107 | [Cannonball](https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:10 |
 | 108 | [i loved you first](https://open.spotify.com/track/3FpEXAupLwCHwzeUBxF99S) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [i loved you first](https://open.spotify.com/album/77GA1E8JXxpzlFFnGxbLEg) | 3:47 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 113 | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc) | 2:58 |
 | 114 | [Wildfire \- Alternate Version](https://open.spotify.com/track/6rFdOZ5hKcyU4Zm74hokYs) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [In My Body](https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY) | 3:53 |
 
-Snapshot ID: `MCw1Zjc2OWU2NWVhMjU4ZjM0OGQ4MWJmYjc3MjAzMmE3YzQ2MTBhNjc4`
+Snapshot ID: `MCwwNjcxOWUxNTE1OGRkN2RiYzVmMGFhNTU0ZDhlNzM2YTFiNDAzN2Mw`

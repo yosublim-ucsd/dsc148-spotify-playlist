@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 197976,
+  "num_followers": 198011,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWM1ZjA3MzQwNDU2ZWZlYTgyYTRjMDI5NmU3Nzk0YjNlNjFhNjE0",
+  "snapshot_id": "MCwwMWVmOGRhMDk4NjU4OTE3MTljOWQwMGMyOTI0YWFiOThmZTI4OTVl",
   "tracks": [
     {
       "added_at": "2024-02-01 23:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Goodbye to the Valley Low",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 172304,
+      "name": "Cemetery",
+      "url": "https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Floating Harmonies",
         "url": "https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 184320,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Goodbye to the Valley Low",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 172304,
-      "name": "Cemetery",
-      "url": "https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
-      },
-      "artists": [
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        }
-      ],
-      "duration_ms": 263880,
-      "name": "fare thee well",
-      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Malory",
         "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 178003,
       "name": "Malory",
       "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
+      },
+      "artists": [
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "duration_ms": 263880,
+      "name": "fare thee well",
+      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -799,38 +799,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
-      },
-      "artists": [
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        }
-      ],
-      "duration_ms": 299840,
-      "name": "bl\u00f3mi",
-      "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "v\u00e1r",
-        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
-      },
-      "artists": [
-        {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
-        }
-      ],
-      "duration_ms": 231586,
-      "name": "v\u00e1r",
-      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Mornings and Afternoons",
         "url": "https://open.spotify.com/album/1duiNMdrh9VgXabofunWIF"
       },
@@ -851,6 +819,38 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "v\u00e1r",
+        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
+      },
+      "artists": [
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "v\u00e1r",
+      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
+      },
+      "artists": [
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "duration_ms": 299840,
+      "name": "bl\u00f3mi",
+      "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Mycelium/Let Her Teach You",
         "url": "https://open.spotify.com/album/6od8EDcM1mUiLrCV6ji0tQ"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "i went outside",
-        "url": "https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25"
-      },
-      "artists": [
-        {
-          "name": "Arny Margret",
-          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "i went outside",
-      "url": "https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Viking Fair",
         "url": "https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 67112,
       "name": "Viking Fair",
       "url": "https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "i went outside",
+        "url": "https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "i went outside",
+      "url": "https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL"
     },
     {
       "added_at": "2024-02-01 23:00:00",

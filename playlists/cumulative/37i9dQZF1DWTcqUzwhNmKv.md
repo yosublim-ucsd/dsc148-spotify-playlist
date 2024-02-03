@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Bad Omens x Poppy on top of the biggest Metal playlist.
+> Spiritbox on top of the biggest Metal playlist.
 
-584 songs - 1 day 15 hr 9 min
+586 songs - 1 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-04-14 | 2023-04-29 |
 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 | 2023-04-17 |
 | [If I Could](https://open.spotify.com/track/7MSGK0KByE9M66NOMup1AT) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [If I Could](https://open.spotify.com/album/6szEjP6Wd7OcTeITpFlNtR) | 3:29 | 2023-04-28 | 2023-12-02 |
+| [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 | 2024-02-02 |  |
 | [If Tomorrow Never Comes](https://open.spotify.com/track/0OzYhueF403FBct7orzGEg) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters](https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o) | 3:08 | 2021-12-20 | 2022-03-11 |
 | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/3la7NF2COfg90BdTY7HGtS) | 3:09 | 2022-03-18 | 2022-06-17 |
 | [Imaginary Fire \- feat\. Greg Puciato](https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi) | [Imaginary Fire](https://open.spotify.com/album/0ZpAiTmi2EpqUqKYlWkfAx) | 4:21 | 2022-03-24 | 2022-06-24 |
@@ -283,7 +284,7 @@
 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-05 |  |
 | [Krøterveg Te Helvete \- Single Version](https://open.spotify.com/track/5NOYRMBd512A6qmwTug8SL) | [Kvelertak](https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9) | [Krøterveg Te Helvete](https://open.spotify.com/album/7lv0IHJ9OB0l0NPIGQe7BJ) | 4:14 | 2023-04-28 | 2023-05-27 |
 | [Last Word](https://open.spotify.com/track/0MAVD0SfEWpODVQkvuTw98) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Last Word](https://open.spotify.com/album/5tABXu8g3m8wa54PnN0No5) | 6:17 | 2023-06-30 | 2023-10-19 |
-| [Last Word](https://open.spotify.com/track/4j1xC0CxFsrpx6s5SA0ZGG) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE \(Deluxe\)](https://open.spotify.com/album/7mv4FQrLiyJWLDazVNZzTi) | 6:17 | 2023-10-13 |  |
+| [Last Word](https://open.spotify.com/track/4j1xC0CxFsrpx6s5SA0ZGG) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE \(Deluxe\)](https://open.spotify.com/album/7mv4FQrLiyJWLDazVNZzTi) | 6:17 | 2023-10-13 | 2024-02-03 |
 | [Leaves](https://open.spotify.com/track/4tKL65lg6TSVBoMCRePoC6) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Your Highness](https://open.spotify.com/album/66vEDEG2g4qndscuuaR0ef) | 4:59 | 2021-12-20 | 2022-01-21 |
 | [Left Behind](https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Left Behind](https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM) | 3:26 | 2023-02-17 | 2023-09-16 |
 | [Left For Dead](https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Left For Dead](https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf) | 3:05 | 2021-12-20 | 2022-03-25 |
@@ -430,7 +431,7 @@
 | [Soldier of Heaven](https://open.spotify.com/track/3E03jj3nVNtFoMYQIweVdG) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Soldier Of Heaven](https://open.spotify.com/album/7u1ih7nlNGFE9sAkM4ac8C) | 3:38 | 2022-01-07 | 2022-02-11 |
 | [Soldier On!](https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:54 | 2022-09-02 | 2022-10-15 |
 | [Soldier On!](https://open.spotify.com/track/7spRyvnK00GrJ3f4iJrkvt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 4:54 | 2022-08-12 | 2022-09-03 |
-| [Some Of Us](https://open.spotify.com/track/45YoWKaH5JdbpwpfRRQsqS) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Some Of Us](https://open.spotify.com/album/1bnH6BatxymLa5sUq7e3qc) | 3:33 | 2023-10-20 |  |
+| [Some Of Us](https://open.spotify.com/track/45YoWKaH5JdbpwpfRRQsqS) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Some Of Us](https://open.spotify.com/album/1bnH6BatxymLa5sUq7e3qc) | 3:33 | 2023-10-20 | 2024-02-03 |
 | [Song of the Dusk](https://open.spotify.com/track/59KysmBtOw5YYLV2UzbXeO) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Song of the Dusk](https://open.spotify.com/album/7G8frDmB5Nl7hNEvOHE3om) | 9:43 | 2023-09-08 | 2023-10-21 |
 | [SOS](https://open.spotify.com/track/43AG34Hsu3k5sSwGYOWpBP) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [SOS](https://open.spotify.com/album/2oAnV3Zd5txIhmfUGX5fu2) | 3:39 | 2022-06-10 | 2022-08-06 |
 | [Soul Bleach](https://open.spotify.com/track/3kRGiGpjCFS7CtEBSfHNH0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 3:31 | 2023-03-24 | 2023-12-02 |
@@ -469,7 +470,7 @@
 | [Tear It Down](https://open.spotify.com/track/7heofhlS2Al1h56tb7Hoo8) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Tear It Down](https://open.spotify.com/album/2kjVaDRFJ0mqk9egRonDfI) | 3:57 | 2022-07-22 | 2022-07-30 |
 | [Tempest Of Blades](https://open.spotify.com/track/62TCEZic6RfrMkC2jkJQ2S) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Circus Of Doom](https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C) | 3:32 | 2022-04-29 | 2022-07-30 |
 | [Temple Of Ekur](https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:19 | 2021-12-20 | 2022-05-06 |
-| [Temple of Love \(feat\. VV\)](https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs), [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Temple of Love \(feat\. VV\)](https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj) | 3:24 | 2023-06-16 |  |
+| [Temple of Love \(feat\. VV\)](https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs), [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Temple of Love \(feat\. VV\)](https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj) | 3:24 | 2023-06-16 | 2024-02-03 |
 | [The Abysmal Eye](https://open.spotify.com/track/7Iogi1NuInEAxMBOreCB3b) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [The Abysmal Eye](https://open.spotify.com/album/0TEywpRjtQ68lwnUO0uHSa) | 4:55 | 2022-01-28 | 2022-02-25 |
 | [The Body](https://open.spotify.com/track/0YbvjDVsEYEASJI8gS9UJ3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [The Body](https://open.spotify.com/album/0EvhA9EF2gjiTAdQyubBfP) | 3:51 | 2022-07-01 | 2022-12-10 |
 | [The Chapeltown Rag](https://open.spotify.com/track/4DQEhtFcX9nK0zWNjb1xBw) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Chapeltown Rag](https://open.spotify.com/album/4I3hdRt7CVofGcgbheQ2fk) | 4:51 | 2021-12-20 | 2022-03-25 |
@@ -581,6 +582,7 @@
 | [Worst Is On Its Way](https://open.spotify.com/track/1XYckecySdxfsF2ibuqtPR) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:03 | 2022-08-05 | 2022-11-26 |
 | [Worst Is On Its Way \[Feat\. Danny Brown & Meechy Darko\] \- HEALTH Remix](https://open.spotify.com/track/6m5bseSyKNEasHC6y49fgX) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6) | [Worst Is On Its Way \(HEALTH Remix\)](https://open.spotify.com/album/7d5mOgDZ2kKE9x2hJR2Qcv) | 4:31 | 2022-11-25 | 2023-02-18 |
 | [WOULDYOUWAITFORME](https://open.spotify.com/track/5mWNiGLS2S3rYqETHT9Pb1) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [WOULDYOUWAITFORME?](https://open.spotify.com/album/5ARVJpCjJYtlBKUJcNQV9o) | 3:27 | 2023-06-30 | 2023-08-05 |
+| [Year of the Goat](https://open.spotify.com/track/7D0wXdVm5aMwOgArdzBMcQ) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Year of the Goat](https://open.spotify.com/album/3vcSAW1Y7YNi9isFfRCWyb) | 3:26 | 2024-02-02 |  |
 | [Yen](https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Yen](https://open.spotify.com/album/0FkAhmbHolBUJvWsGjzvTQ) | 4:43 | 2022-08-05 | 2022-10-07 |
 | [Yen](https://open.spotify.com/track/5ih5d9WJSI7Hxz0KIPJPY2) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:43 | 2022-09-30 | 2022-10-15 |
 | [You Made Me Want To Live](https://open.spotify.com/track/2HsP2DbYLAjDItQUP2RQ88) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Doom Crew Inc.](https://open.spotify.com/album/5j7daAyvVHbB4oNhJvsTX4) | 4:31 | 2021-12-20 | 2022-04-15 |

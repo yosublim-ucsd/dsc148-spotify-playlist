@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Zo klinkt de winter van 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,337 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,332 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,19 +36,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 26 | [Amen](https://open.spotify.com/track/1eSej5TdSVrBXcrkmkplqS) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Amen](https://open.spotify.com/album/6sHU9OqQqqpoxtDx6Gjmyw) | 3:30 |
 | 27 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 |
 | 28 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
-| 29 | [California Lover](https://open.spotify.com/track/6sOUBEr73j84UAotmBDqRD) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [California Lover](https://open.spotify.com/album/07fYJ01cntYss2ihjfz64x) | 2:21 |
-| 30 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 |
-| 31 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 |
-| 32 | [Memories](https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Memories](https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD) | 2:35 |
-| 33 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 |
-| 34 | [Nickel For Goodbye](https://open.spotify.com/track/0mozpacigd082TTRqi5IZc) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Nickel For Goodbye](https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI) | 3:51 |
-| 35 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
+| 29 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
+| 30 | [California Lover](https://open.spotify.com/track/6sOUBEr73j84UAotmBDqRD) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [California Lover](https://open.spotify.com/album/07fYJ01cntYss2ihjfz64x) | 2:21 |
+| 31 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 |
+| 32 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 |
+| 33 | [Memories](https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Memories](https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD) | 2:35 |
+| 34 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 |
+| 35 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
 | 36 | [Never Ever Love a Liar](https://open.spotify.com/track/4Y9ZFT6aD1PfZJHLZXi9EQ) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Introverted Extrovert](https://open.spotify.com/album/0LlRW4Z7dQfUodtABNh9Zk) | 2:45 |
 | 37 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 |
 | 38 | [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 |
 | 39 | [Realize](https://open.spotify.com/track/3czKSbTHpNu7MDq1O6HCOJ) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Realize](https://open.spotify.com/album/3SPOfZEyLWuEKBEtUxREDp) | 2:57 |
-| 40 | [Mamma Mia](https://open.spotify.com/track/3p26SlvvvwRo3WY9pUTlE0) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 2:56 |
-| 41 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:25 |
+| 40 | [Nickel For Goodbye](https://open.spotify.com/track/0mozpacigd082TTRqi5IZc) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Nickel For Goodbye](https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI) | 3:51 |
+| 41 | [Mamma Mia](https://open.spotify.com/track/3p26SlvvvwRo3WY9pUTlE0) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 2:56 |
 | 42 | [17](https://open.spotify.com/track/2jCIZqFN87ZEp8wcLL4g9V) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [17](https://open.spotify.com/album/3boWcgeAND5yZTVMtBT5i7) | 2:42 |
 | 43 | [Happier](https://open.spotify.com/track/04KJXYKCosHf3jtySjxwff) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Happier](https://open.spotify.com/album/37RugGOzghoVQRVz6FbZfL) | 3:17 |
 | 44 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 47 | [Enough Is Enough](https://open.spotify.com/track/1jekKGHnTIFpOIVRzlbJOW) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN \(Bonus\)](https://open.spotify.com/album/1F9LY06gadScF4g3g3BrDC) | 2:45 |
 | 48 | [Dreaming](https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Dreaming](https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK) | 2:50 |
 | 49 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 |
-| 50 | [fight or flight](https://open.spotify.com/track/4HLgLWqVYZTjCbakheLHW5) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [fight or flight](https://open.spotify.com/album/2ocV2GxroahFZFkUOYUFuF) | 3:16 |
-| 51 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
+| 50 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:25 |
+| 51 | [fight or flight](https://open.spotify.com/track/4HLgLWqVYZTjCbakheLHW5) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [fight or flight](https://open.spotify.com/album/2ocV2GxroahFZFkUOYUFuF) | 3:16 |
 | 52 | [ASI ES LA VIDA](https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ASI ES LA VIDA](https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5) | 2:52 |
 | 53 | [Already Know](https://open.spotify.com/track/6Iw9xCq0w0B1JbQeKjI2E0) | [Gustaph](https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7) | [Already Know](https://open.spotify.com/album/1EIGAyVojBONZfKxCWo1dU) | 3:14 |
 | 54 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 89 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 90 | [Best Friend](https://open.spotify.com/track/6SEnSnZvVF9jW5OGQpSgBc) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Best Friend](https://open.spotify.com/album/7kZ4FOhBJmEtYbrITAO6h7) | 2:27 |
 
-Snapshot ID: `MCw2MjRmODZjODMxOTZiNzQ2ZTA2ZjgyMjk3M2JiN2E1ZWUwMjQ2NGNj`
+Snapshot ID: `MCw1ZDZhYjQzNjFhNDNmMTc4Y2UxZGNlNDY4YmRjMTAzY2EwMTkwNzVj`

@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 202400,
+  "num_followers": 202486,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmNhNmRhZGVmOTEzMjA3MzEzNTI5ZGYwOGNkMGUwNTA2ZTM2ODgz",
+  "snapshot_id": "MCw1NjhhN2Y2MjQ0MTcxNjhlM2M4MzMwZjIyMzEzNGVjOGYwOTE5MzUy",
   "tracks": [
     {
       "added_at": "2024-01-26 00:00:00",
@@ -595,30 +595,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Pressure Drop",
-        "url": "https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB"
-      },
-      "artists": [
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        },
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        },
-        {
-          "name": "DJ Q",
-          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Tune",
-      "url": "https://open.spotify.com/track/4FKxRe40M52eYZ3yI86FCy"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "EGODEATH",
         "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
       },
@@ -639,6 +615,30 @@
       "duration_ms": 192000,
       "name": "EGODEATH",
       "url": "https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "Pressure Drop",
+        "url": "https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB"
+      },
+      "artists": [
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        },
+        {
+          "name": "DJ Q",
+          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Tune",
+      "url": "https://open.spotify.com/track/4FKxRe40M52eYZ3yI86FCy"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
+        "name": "Can't Escape",
+        "url": "https://open.spotify.com/album/64GySa6pXbUCAL7clznQjk"
+      },
+      "artists": [
+        {
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+        }
+      ],
+      "duration_ms": 218899,
+      "name": "Can't Escape",
+      "url": "https://open.spotify.com/track/5limkDdrq5YnqDU1HundyJ"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
         "name": "Ikebana - EP",
         "url": "https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 226896,
       "name": "Misfit",
       "url": "https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
-        "name": "Can't Escape",
-        "url": "https://open.spotify.com/album/64GySa6pXbUCAL7clznQjk"
-      },
-      "artists": [
-        {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
-        }
-      ],
-      "duration_ms": 218899,
-      "name": "Can't Escape",
-      "url": "https://open.spotify.com/track/5limkDdrq5YnqDU1HundyJ"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
         "name": "Knock Knock",
         "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 198372,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
-        "name": "Faith In Chaos",
-        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Aight Boom (feat. Scrufizzer)",
-        "url": "https://open.spotify.com/album/086oqWH3xfRrtg39eiJGLC"
-      },
-      "artists": [
-        {
-          "name": "Y U QT",
-          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 166015,
-      "name": "Aight Boom (feat. Scrufizzer)",
-      "url": "https://open.spotify.com/track/75GSsRPXsU16dUd5uVAbHX"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "Faith In Chaos",
         "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 221024,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "Aight Boom (feat. Scrufizzer)",
+        "url": "https://open.spotify.com/album/086oqWH3xfRrtg39eiJGLC"
+      },
+      "artists": [
+        {
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 166015,
+      "name": "Aight Boom (feat. Scrufizzer)",
+      "url": "https://open.spotify.com/track/75GSsRPXsU16dUd5uVAbHX"
     },
     {
       "added_at": "2024-01-26 00:00:00",

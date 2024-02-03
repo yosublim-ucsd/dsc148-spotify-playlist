@@ -183,6 +183,28 @@
     },
     {
       "album": {
+        "name": "After the Butterflies",
+        "url": "https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190498,
+      "name": "All or Nothing (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa"
+    },
+    {
+      "album": {
         "name": "Shelley FKA DRAM",
         "url": "https://open.spotify.com/album/6NgnKl9MwZm5yZnc1W2z1t"
       },
@@ -220,6 +242,24 @@
       "duration_ms": 178773,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3p0Y1C5jhaqyKW7d9oskXA"
+    },
+    {
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
       "album": {
@@ -604,7 +644,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 220373,
       "name": "Can't Be Friends",
       "url": "https://open.spotify.com/track/4iMDkH8t3Sooaj3uCzpYP2"
@@ -975,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/2nPU9yXkRsrmPVxxmdsZ0i"
       },
@@ -1214,7 +1272,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 185500,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
@@ -1721,6 +1779,28 @@
     },
     {
       "album": {
+        "name": "Girls Need Love (Girls Mix)",
+        "url": "https://open.spotify.com/album/06oN7xkWw9ZJcbK6tIAI71"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "Girls Need Love (Girls Mix) (feat. Victoria Mon\u00e9t)",
+      "url": "https://open.spotify.com/track/6vcYqLsAJLK2UuG98DrFuU"
+    },
+    {
+      "album": {
         "name": "Last Day Of Summer",
         "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
@@ -1758,6 +1838,24 @@
       "duration_ms": 154702,
       "name": "Give Me Time",
       "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236236,
+      "name": "Go Baby",
+      "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
     },
     {
       "album": {
@@ -1980,7 +2078,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 300728,
       "name": "Her",
       "url": "https://open.spotify.com/track/4Wfe2jloKo95eFVnJEr5N1"
@@ -2342,7 +2440,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 173105,
       "name": "Immature",
       "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
@@ -2902,7 +3000,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 225773,
       "name": "Losing",
       "url": "https://open.spotify.com/track/20E9JE3J8dHNDj9saOeNgu"
@@ -3014,7 +3112,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 177720,
       "name": "LOST YOU",
       "url": "https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl"
@@ -3196,7 +3294,7 @@
       ],
       "date_added": "2020-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 200880,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/1K1b1rPjbbam1NXUPg4VrK"
@@ -3366,7 +3464,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 273775,
       "name": "Moments (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/2WGdMsAZboyOiNhNx4dt82"
@@ -3464,7 +3562,7 @@
       ],
       "date_added": "2020-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 213933,
       "name": "My Affection (with PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46"
@@ -3609,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "Not An Angel",
+        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185639,
+      "name": "Not An Angel",
+      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
+    },
+    {
+      "album": {
         "name": "Not Me",
         "url": "https://open.spotify.com/album/4eiE9YotL6BXz6MDFuVDqF"
       },
@@ -3704,6 +3820,28 @@
       "duration_ms": 189786,
       "name": "Often",
       "url": "https://open.spotify.com/track/4RdBZE3BH44wZXoj2vmjez"
+    },
+    {
+      "album": {
+        "name": "After the Butterflies",
+        "url": "https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6qWpPgfKJehZmeJMIeicqW"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155355,
+      "name": "One Of Them Days (feat. Monica)",
+      "url": "https://open.spotify.com/track/2ocJnGeHud74jyPlxN7XB7"
     },
     {
       "album": {
@@ -3812,7 +3950,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 153226,
       "name": "Pain",
       "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
@@ -4155,6 +4293,28 @@
     },
     {
       "album": {
+        "name": "SAME MISTAKE",
+        "url": "https://open.spotify.com/album/41EmgJAJQInxILfagQ608k"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "SAME MISTAKE",
+      "url": "https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s"
+    },
+    {
+      "album": {
         "name": "American Teen",
         "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
@@ -4370,6 +4530,28 @@
       "duration_ms": 83826,
       "name": "Smoking on my Ex Pack",
       "url": "https://open.spotify.com/track/4jTs7ny5eSRnKTzxdrFv5I"
+    },
+    {
+      "album": {
+        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190464,
+      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
     },
     {
       "album": {
@@ -4771,6 +4953,24 @@
     },
     {
       "album": {
+        "name": "That's You",
+        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251038,
+      "name": "That's You",
+      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
+    },
+    {
+      "album": {
         "name": "The Falls",
         "url": "https://open.spotify.com/album/6M7LJCq0Cuvyelq1uTwFaB"
       },
@@ -4974,7 +5174,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 211204,
       "name": "This Way - From SUPERFLY - Original Soundtrack",
       "url": "https://open.spotify.com/track/6fbYL76UWbHdYq4B91TPQi"
@@ -5296,10 +5496,32 @@
       ],
       "date_added": "2020-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 200214,
       "name": "Waiting For (feat. Jamila Woods)",
       "url": "https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E"
+    },
+    {
+      "album": {
+        "name": "Waiting For You (feat. Naomi Sharon)",
+        "url": "https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        },
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219998,
+      "name": "Waiting For You (feat. Naomi Sharon)",
+      "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
     },
     {
       "album": {
@@ -5340,7 +5562,7 @@
       ],
       "date_added": "2021-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 247720,
       "name": "Want U Around (feat. Ruel)",
       "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
@@ -5405,6 +5627,24 @@
     },
     {
       "album": {
+        "name": "When It Comes To You",
+        "url": "https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168075,
+      "name": "When It Comes To You",
+      "url": "https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm"
+    },
+    {
+      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
@@ -5420,6 +5660,28 @@
       "duration_ms": 236160,
       "name": "While We're Young",
       "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
+    },
+    {
+      "album": {
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147773,
+      "name": "WHITE CROCS (with Ryan Trey)",
+      "url": "https://open.spotify.com/track/0VNe1ZE8U2baB3JKZpEBok"
     },
     {
       "album": {

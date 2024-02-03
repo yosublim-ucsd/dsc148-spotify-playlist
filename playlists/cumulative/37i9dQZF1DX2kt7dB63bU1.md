@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-690 songs - 2 day 0 hr 18 min
+691 songs - 2 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Beautiful Friendship](https://open.spotify.com/track/6if2WRZeszHp2LWeKasFJc) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL) | [To Miss Shirley Horn with Love](https://open.spotify.com/album/6xnsfb2deVBQxP23cyqSis) | 5:02 | 2022-03-11 | 2022-07-29 |
 | [A Certain Continuum](https://open.spotify.com/track/32X0aqmUHyMQYgcLsLqDIL) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Danilo Perez](https://open.spotify.com/artist/6nPiCm3jwXHrOsMbTDoc4E) | [A Certain Continuum](https://open.spotify.com/album/5UZeAJ71uYBOZqcWWfS2dE) | 5:07 | 2020-10-09 | 2022-02-14 |
 | [A Child Is Born](https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM) | [Dara Tucker](https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql) | [A Child Is Born](https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx) | 2:54 | 2022-02-18 | 2023-02-25 |
-| [A Fine Romance](https://open.spotify.com/track/4DdjqjTARDbAvjELiHxuyn) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [You're Alike, You Two](https://open.spotify.com/album/7d6bFLcHMa6ExxlPjzuAkz) | 4:13 | 2023-07-21 |  |
+| [A Fine Romance](https://open.spotify.com/track/4DdjqjTARDbAvjELiHxuyn) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [You're Alike, You Two](https://open.spotify.com/album/7d6bFLcHMa6ExxlPjzuAkz) | 4:13 | 2023-07-21 | 2024-02-03 |
 | [A Happy Thought \(feat\. Stu Mindeman\)](https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Stu Mindeman](https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0) | [A Happy Thought \(feat\. Stu Mindeman\)](https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28) | 3:46 | 2020-10-09 | 2022-02-04 |
 | [A Man And A Woman](https://open.spotify.com/track/5vVKZ4KXft886tixlHFWqZ) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [A Man And A Woman](https://open.spotify.com/album/3G1mgE4AQ2Pm7UlJDIl8rF) | 3:16 | 2020-10-09 | 2022-02-19 |
 | [A Nightingale Sang in Berkeley Square](https://open.spotify.com/track/2Q7xtSxYk9wNFs5lGVhb8w) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [A Nightingale Sang in Berkeley Square](https://open.spotify.com/album/61WnLVI6BAd9DcsVOVXaF5) | 3:05 | 2022-03-25 | 2023-02-25 |
@@ -424,6 +424,7 @@
 | [Nature Boy](https://open.spotify.com/track/6qb2rhcuK47JxLkyVAqbyA) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Nature Boy](https://open.spotify.com/album/5jwAJkrOO8IDT3l4VChY9F) | 3:26 | 2023-03-24 | 2023-06-10 |
 | [Necessity](https://open.spotify.com/track/2MZTALOk4f0D2RkzKP2vOj) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Necessity](https://open.spotify.com/album/6roEKXOFMgCJ9nC2y3oE2q) | 3:19 | 2020-10-09 | 2022-02-19 |
 | [New York, New York](https://open.spotify.com/track/5HkL7aG5gOJqwe5BrOBeMa) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs), [Tom Gaebel](https://open.spotify.com/artist/4f9qROh62aqzZ3JLnoIry9) | [New York, New York](https://open.spotify.com/album/0sAEeaj1Ko2SYnL34d9fbW) | 3:26 | 2022-07-08 | 2023-04-15 |
+| [Next Time](https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Next Time](https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL) | 5:18 | 2024-02-02 |  |
 | [Next to Me](https://open.spotify.com/track/2zAjDUVJhnGa81KfT0bE2f) | [Flo Blue](https://open.spotify.com/artist/26xMgiYGCqdjCitorf1MoF) | [Next to Me](https://open.spotify.com/album/6kHwUZkmrkeotL2mbUX6JY) | 4:12 | 2022-05-02 | 2022-10-18 |
 | [Next to Me](https://open.spotify.com/track/7zhVCBnlJu0HSpULPSoOpB) | [Flo Blue](https://open.spotify.com/artist/26xMgiYGCqdjCitorf1MoF) | [Next to Me](https://open.spotify.com/album/3MIbD4YIed4Yt1hrHq5zqU) | 4:12 | 2022-05-02 | 2022-11-23 |
 | [Night And Day](https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:38 | 2020-10-09 | 2022-02-19 |

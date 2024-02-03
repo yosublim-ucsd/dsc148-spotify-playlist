@@ -371,6 +371,28 @@
     },
     {
       "album": {
+        "name": "Blessed Year",
+        "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Vin Mokay",
+          "url": "https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184337,
+      "name": "Blessed Year",
+      "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
+    },
+    {
+      "album": {
         "name": "Blessings (Everywhere I Go)",
         "url": "https://open.spotify.com/album/0EpZhsAfVEDl1vGfhV6mMg"
       },
@@ -2452,7 +2474,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 156196,
       "name": "Yeshua (Extended)",
       "url": "https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7"

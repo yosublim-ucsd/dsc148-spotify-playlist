@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,205 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,230 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 54 | [Cryin' Won´t Help You](https://open.spotify.com/track/1Sfcy8w25PbenC7Xvl5LSk) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz), [The SWR Big Band](https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW) | [Cryin’ Won’t Help You](https://open.spotify.com/album/7lz81CRxzCYmryRTxThLaO) | 4:29 |
 | 55 | [Holy Water](https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Things Happen That Way](https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2) | 3:24 |
 | 56 | [The Question](https://open.spotify.com/track/358TP1XP2PYWXM0RsLwmlY) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Question](https://open.spotify.com/album/3I3fGqtBn1ddWKEL7aYDAd) | 7:27 |
-| 57 | [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 |
+| 57 | [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 |
 | 58 | [Risin' Up](https://open.spotify.com/track/3SwzJIkMEbLjAK97hEaaLV) | [Jimmy Hall](https://open.spotify.com/artist/2LorJQEiLTxNDsJ3jVrQNi) | [Ready Now](https://open.spotify.com/album/6kpBj0DkFrvabc4ffDjm3U) | 5:02 |
 | 59 | [Mortgage on My Soul](https://open.spotify.com/track/1S7jAIIOqHj4qozrWitFgd) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Mortgage on My Soul](https://open.spotify.com/album/7sRLEMULCuwp1xYxHj5SFa) | 7:04 |
 | 60 | [Pink Turns To Red](https://open.spotify.com/track/3wgjaBZogGtRyVI6Picwd3) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Warm Me Up](https://open.spotify.com/track/5FfUJfRvU5qQ7xxjzJJjQ6) | [Mike Clark & the Sugar Sounds](https://open.spotify.com/artist/01RocYhqTJzt3gzdpVM2MJ) | [Warm Me Up](https://open.spotify.com/album/4SHFOYqlrh2RPH8BOeV8zM) | 3:47 |
 | 100 | [She Calls Me Kingfish](https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:12 |
 
-Snapshot ID: `MCw4YzQ4YzdiNmZkNzE2NDAwODc1NWJlYTNjMjlkODE3ODg0N2NhNGMz`
+Snapshot ID: `MCw5YTc0YTk5MDlmNGRiYzA1Njc5ZDlkN2E3ODkzZTA2MTdlMzQ2NmIy`

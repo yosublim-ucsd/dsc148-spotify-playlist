@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,261 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,200 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 45 | [Cantina Del Infierno](https://open.spotify.com/track/0eR2mWPtubdE8Rea23zAc2) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [No Money No Fiesta](https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq) | 2:49 |
 | 46 | [Credo de Darwin](https://open.spotify.com/track/7f09nZnYNPChCvEiGvQDi3) | [Arcadia Libre](https://open.spotify.com/artist/6gZhuSVFXoFtwkPM0T1o4q) | [El Cielo Será Testigo](https://open.spotify.com/album/3lBZvKEOQYC8mWG9KgQC7W) | 4:30 |
 | 47 | [Apatrida](https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf) | [Nuclear](https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt) | [Apatrida](https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3) | 3:45 |
-| 48 | [¡Quémenlos!](https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK) | [NVLO](https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k) | [Nulo](https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq) | 2:30 |
-| 49 | [Merciless machine \- Remastered](https://open.spotify.com/track/3EXQIqYbZx4x86RyFfgIYr) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [U.F.T.M 2017 \(Remastered\)](https://open.spotify.com/album/15e9w4RyMCiYgC5SgLkxaV) | 5:15 |
-| 50 | [Oídos Sordos](https://open.spotify.com/track/2O5p5Q5wxrzTD1MUePdeGL) | [Lethal Creation](https://open.spotify.com/artist/4AhluimFPLNnran1jD354B) | [Tierras Muertas](https://open.spotify.com/album/5gZM5ZDTygLJlzi6A7Ya8Q) | 5:09 |
+| 48 | [Merciless machine \- Remastered](https://open.spotify.com/track/3EXQIqYbZx4x86RyFfgIYr) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [U.F.T.M 2017 \(Remastered\)](https://open.spotify.com/album/15e9w4RyMCiYgC5SgLkxaV) | 5:15 |
+| 49 | [¡Quémenlos!](https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK) | [NVLO](https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k) | [Nulo](https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq) | 2:30 |
+| 50 | [Acero Inmortal](https://open.spotify.com/track/3SpitFUWlOXFj50cArug4M) | [Voltax](https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2) | [Fugitive State of Mind](https://open.spotify.com/album/6N7IWhu9D9iXmw7jT3VJai) | 3:47 |
 
-Snapshot ID: `MCwzMWZiM2JhZjYxNGM2NTZhZTAzYTliYjhkNzExYjI0NzQ0ZDVmZmU0`
+Snapshot ID: `MCwwZDk3MjhiYzEyN2VjOTEyMWNmOGQ5MDEwZTJmMjdlMDkyZTdiYjBi`

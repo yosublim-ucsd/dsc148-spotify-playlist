@@ -1,12 +1,12 @@
 {
   "description": "POV: t\u00e1 fresco y la sombra del fresnito pega bien sabroso.",
-  "num_followers": 121086,
+  "num_followers": 121233,
   "original_name": "qu\u00e9 agusticidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWMwMzE1N2RmYTk2YmYwMmQwY2EzMGIyNTk2MGQ1MzE0MDhjMDg2",
+  "snapshot_id": "MCwxNjI3MmYyNThhZDc2MmI4M2JjZDU4Y2E0MjdlNTc1MzQ5NjEyNzA5",
   "tracks": [
     {
       "added_at": "2023-08-08 23:46:08",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
         "name": "El Ahijado Consentido",
         "url": "https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 189346,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Arriba Huentitan",
-        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Volver, Volver",
-      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
         "name": "Y Si Se Quiere Ir",
         "url": "https://open.spotify.com/album/6o7M6eInloIKefh7YsXEJR"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 199147,
       "name": "Y Si Se Quiere Ir",
       "url": "https://open.spotify.com/track/2qWX4mvuOfCvGgHAV1sWQO"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
+        "name": "Arriba Huentitan",
+        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Al Estilo Rancheron",
-      "url": "https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
         "name": "Juegos Del Amor",
         "url": "https://open.spotify.com/album/3nTnHOWSEuQnXGfppEEQ3R"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 216000,
       "name": "De Rodillas Te Pido",
       "url": "https://open.spotify.com/track/7IIYeNjeZBJaZfDBIcJlAm"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Al Estilo Rancheron",
+      "url": "https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "La basurita",
-      "url": "https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
         "name": "Cruz De Madera",
         "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 181640,
       "name": "Sonora Y Sus Ojos Negros",
       "url": "https://open.spotify.com/track/6D8GThe4smZsFMPhUjgy7N"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "La basurita",
+      "url": "https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3"
     },
     {
       "added_at": "2023-08-08 23:46:08",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-08-08 23:46:08",
       "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Un Vestido de Besos",
-      "url": "https://open.spotify.com/track/2jKsAIJYpGJWAgcwnwFZRv"
-    },
-    {
-      "added_at": "2023-08-08 23:46:08",
-      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 176431,
       "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
       "url": "https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh"
+    },
+    {
+      "added_at": "2023-08-08 23:46:08",
+      "album": {
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Un Vestido de Besos",
+      "url": "https://open.spotify.com/track/2jKsAIJYpGJWAgcwnwFZRv"
     },
     {
       "added_at": "2023-08-08 23:46:08",

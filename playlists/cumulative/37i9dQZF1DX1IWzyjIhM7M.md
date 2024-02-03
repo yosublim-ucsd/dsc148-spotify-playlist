@@ -4,7 +4,7 @@
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-107 songs - 5 hr 44 min
+108 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Beqadra](https://open.spotify.com/track/4LIQacKPUjto8rVlVuY09O) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Beqadra](https://open.spotify.com/album/5SGHD9oHkRZ2zkYDcfGqq5) | 3:03 | 2024-01-10 |  |
 | [Best Case Girl](https://open.spotify.com/track/7keAG1RvGg0pd3CExIVwu0) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [Best Case Girl](https://open.spotify.com/album/4xPgs4mLTECXBQEjEkq5mu) | 2:51 | 2024-01-10 |  |
 | [Better Than Him](https://open.spotify.com/track/4O8LjiiXtsL0Jnb5xK4VxZ) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Before We Crash](https://open.spotify.com/album/0cIv8DfxokTzEUJAwlsyfP) | 3:49 | 2024-01-10 | 2024-01-12 |
+| [Better Than Him](https://open.spotify.com/track/6vucaejrSd21jHkXo3tHUu) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Before We Crash](https://open.spotify.com/album/2c8uHecoqDsOG1Exs7W9TC) | 3:49 | 2024-01-10 |  |
 | [Black Sheep](https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Black Sheep](https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w) | 3:30 | 2024-01-10 |  |
 | [Blak Britney](https://open.spotify.com/track/2rg7VE22RwEfvFkLYJwfeY) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [Blak Britney](https://open.spotify.com/album/53qFc9lbBsEXdSdMbcxQsc) | 2:33 | 2024-01-10 |  |
 | [Blue Voyage](https://open.spotify.com/track/2R2hUKAdr1ubbKlXsTDkZl) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [REIA](https://open.spotify.com/artist/5usIAzHxodIcGgsgnYT4E6) | [Blue Voyage](https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw) | 4:14 | 2024-01-10 |  |
@@ -98,7 +99,7 @@
 | [Talk of the Town \- acoustic](https://open.spotify.com/track/15XKG1dgXflgyD5QhgX8XU) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Talk of the Town \(acoustic\)](https://open.spotify.com/album/3fdQxtSJHCwmliupnLFNlG) | 3:30 | 2024-01-10 |  |
 | [Talk to Me](https://open.spotify.com/track/1x5vRfDFUZX8DV8OxV8GHb) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/05wLs4epCt9e5RKsmDJ8Zo) | 2:53 | 2024-01-10 |  |
 | [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 | 2024-01-10 |  |
-| [taste of u](https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [taste of u](https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco) | 2:59 | 2024-01-10 |  |
+| [taste of u](https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [taste of u](https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco) | 2:59 | 2024-01-10 | 2024-02-03 |
 | [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 | 2024-01-10 |  |
 | [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 | 2024-01-10 |  |
 | [time waits](https://open.spotify.com/track/4wkwlPgwsQPr1Gcl2IB1Zz) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [time waits](https://open.spotify.com/album/5jkLcQSR8L15cf53wi5bfY) | 3:19 | 2024-01-10 |  |

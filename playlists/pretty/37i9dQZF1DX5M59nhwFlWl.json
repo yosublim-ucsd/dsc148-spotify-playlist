@@ -1,12 +1,12 @@
 {
   "description": "That unbridled, unholy, loud and dirty 90s rock goodness you know you love",
-  "num_followers": 148429,
+  "num_followers": 148500,
   "original_name": "Cranked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmUyYWFlMWUzM2ExZDk0MGU4ZDk4MTlmYzljOWRmMWY5NjRjYjRh",
+  "snapshot_id": "MCxkNDRkZjMzMjllMzgxNTQyY2Q5ZjQ3MTlmNmJlZTJiMjQ4MGZjZTc5",
   "tracks": [
     {
       "added_at": "2022-06-29 18:33:46",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-06-29 18:33:46",
       "album": {
-        "name": "Album of the Year (2016 Remaster; Deluxe Edition)",
-        "url": "https://open.spotify.com/album/42uSfP4HXXGZn6kE3dZadO"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "Ashes to Ashes - 2016 Remaster",
-      "url": "https://open.spotify.com/track/0tZ9qh1m1NGP6rzSf57PGO"
-    },
-    {
-      "added_at": "2022-06-29 18:33:46",
-      "album": {
         "name": "Sweet Oblivion",
         "url": "https://open.spotify.com/album/3SOcm48I0DOX1KEHF2IEVY"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 247093,
       "name": "Nearly Lost You",
       "url": "https://open.spotify.com/track/7qzFXUvBk7lELXuxVREypV"
+    },
+    {
+      "added_at": "2022-06-29 18:33:46",
+      "album": {
+        "name": "Album of the Year (2016 Remaster; Deluxe Edition)",
+        "url": "https://open.spotify.com/album/42uSfP4HXXGZn6kE3dZadO"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Ashes to Ashes - 2016 Remaster",
+      "url": "https://open.spotify.com/track/0tZ9qh1m1NGP6rzSf57PGO"
     },
     {
       "added_at": "2023-01-18 14:46:47",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-06-29 18:33:46",
       "album": {
-        "name": "Soup",
-        "url": "https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO"
-      },
-      "artists": [
-        {
-          "name": "Blind Melon",
-          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Toes Across The Floor",
-      "url": "https://open.spotify.com/track/3NfLSMOVWDKfYDE0WAm7uf"
-    },
-    {
-      "added_at": "2022-06-29 18:33:46",
-      "album": {
         "name": "Marcy Playground",
         "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 200156,
       "name": "Saint Joe On The School Bus",
       "url": "https://open.spotify.com/track/1LC2Hcgf2RgEbxPHNTnzaC"
+    },
+    {
+      "added_at": "2022-06-29 18:33:46",
+      "album": {
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO"
+      },
+      "artists": [
+        {
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Toes Across The Floor",
+      "url": "https://open.spotify.com/track/3NfLSMOVWDKfYDE0WAm7uf"
     },
     {
       "added_at": "2022-06-29 18:33:46",

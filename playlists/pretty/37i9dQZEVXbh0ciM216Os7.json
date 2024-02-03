@@ -6,10 +6,218 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0Mzc0MjAsMDAwMDAwMDA1NWRjNWVjYzk2MGRiZGNmNDZmNjQ0ZjFhNDgwMzBlMQ==",
+  "snapshot_id": "Mjg0NDc1MDAsMDAwMDAwMDA1NTE1M2MwOWRjMmZhZWJiMzgyYzc4NWFkZTc2MGE2Ng==",
   "tracks": [
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Take What's Given",
+        "url": "https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 174257,
+      "name": "Take What's Given",
+      "url": "https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Behind The Boards",
+        "url": "https://open.spotify.com/album/0y11ieJOte06nHbeT4m3wp"
+      },
+      "artists": [
+        {
+          "name": "Quincy Hinch",
+          "url": "https://open.spotify.com/artist/1jgl5XGLiX9n7HRErI9FvW"
+        },
+        {
+          "name": "KRS-One",
+          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 140468,
+      "name": "Spit",
+      "url": "https://open.spotify.com/track/1rubr0oXYT9I1Wl8Mgev0w"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "We sell weed (Remixed)",
+        "url": "https://open.spotify.com/album/2PY4IMlXomWsyNxR8KTtsp"
+      },
+      "artists": [
+        {
+          "name": "Caspa Clark",
+          "url": "https://open.spotify.com/artist/0Ox3FqXrE6J3mdEgVHKCO7"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "We sell weed - Remixed",
+      "url": "https://open.spotify.com/track/7qNAcy7CI9m27UqOQmMDBO"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Little Bit Yours (Remixes)",
+        "url": "https://open.spotify.com/album/5RfC315DdabDXG7hVHruC3"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        },
+        {
+          "name": "Sam Luck",
+          "url": "https://open.spotify.com/artist/5BVku7Olml0ffWJU8OWFek"
+        }
+      ],
+      "duration_ms": 270262,
+      "name": "Little Bit Yours - Sam Luck Remix",
+      "url": "https://open.spotify.com/track/17zdTab7uFdCEfuwx4A0ti"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "The Equable",
+        "url": "https://open.spotify.com/album/1FJJvfqsXOOZGk1YJxiRYU"
+      },
+      "artists": [
+        {
+          "name": "Persefone",
+          "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
+        }
+      ],
+      "duration_ms": 388496,
+      "name": "The Equable",
+      "url": "https://open.spotify.com/track/0ZJlWerfrs7GjOo5NdpSYv"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Emerald Dragon",
+        "url": "https://open.spotify.com/album/0weiSKnI7wKtBOfS9ANQi3"
+      },
+      "artists": [
+        {
+          "name": "One Morning Left",
+          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
+        },
+        {
+          "name": "Jake Luhrs",
+          "url": "https://open.spotify.com/artist/6htXyTdNQiuQCUZqxZDG2Y"
+        },
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 237606,
+      "name": "Emerald Dragon",
+      "url": "https://open.spotify.com/track/0I07BcifgosVW75c9jTMGP"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "HHHistory",
+        "url": "https://open.spotify.com/album/3PqWqzEL9q9fWUk5tU4jGI"
+      },
+      "artists": [
+        {
+          "name": "IAM",
+          "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
+        }
+      ],
+      "duration_ms": 190106,
+      "name": "Pas possible",
+      "url": "https://open.spotify.com/track/7hF9l8mdFuknxwtxwOtLBx"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Hit Em Up (Slowed Version)",
+        "url": "https://open.spotify.com/album/6hR6W1UT5bDw49o8pPDn8X"
+      },
+      "artists": [
+        {
+          "name": "Mykill Millz",
+          "url": "https://open.spotify.com/artist/2gbJRlQ7xdVqvalACATtHm"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 104097,
+      "name": "Hit Em Up - Slowed Version",
+      "url": "https://open.spotify.com/track/0zJ2lrSdgF9STBy38FMsDG"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "So Much (For) Stardust [Edit]",
+        "url": "https://open.spotify.com/album/2iUM65V96tt0d1J5IfRQzH"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 232300,
+      "name": "So Much (For) Stardust - Edit",
+      "url": "https://open.spotify.com/track/6jdAeEV54SoWW9eqejGQlC"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Murder on the Dancefloor (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 180872,
+      "name": "Murder on the Dance Floor - triple j Like A Version",
+      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Think U The Shit (Fart) [Versions]",
+        "url": "https://open.spotify.com/album/6nyp8vXcrpPI4QSuG7xbDS"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 141639,
+      "name": "Think U The Shit (Fart)",
+      "url": "https://open.spotify.com/track/1A5MRadR3FEBVwiQY6OKNA"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Don't Tell Me (feat. Ann Wilson) [PLZ Tethered Version]",
         "url": "https://open.spotify.com/album/5txXtUvhYlx6l7kgJsZeoU"
@@ -33,7 +241,7 @@
       "url": "https://open.spotify.com/track/4JMiWfmZVNXTu9yQQHsFqI"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "All Is Yellow",
         "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
@@ -53,55 +261,7 @@
       "url": "https://open.spotify.com/track/4QbCUutUlQDSBS4mtVOuZI"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "All Is Yellow",
-        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
-      },
-      "artists": [
-        {
-          "name": "Lyrical Lemonade",
-          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 157090,
-      "name": "Special (with Latto, Swae Lee & Amin\u00e9)",
-      "url": "https://open.spotify.com/track/6JfNsc7wg3mnKunY8gLmLg"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "One Night/All Night | Generator",
-        "url": "https://open.spotify.com/album/7wnTMEroi4M4hofOhMO5Ys"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 276066,
-      "name": "One Night/All Night",
-      "url": "https://open.spotify.com/track/6tAXrxWNaWpqcu5cCOP7dI"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Reckless Child",
         "url": "https://open.spotify.com/album/3hgRlpLt7y31c0KFUE4xcX"
@@ -117,7 +277,7 @@
       "url": "https://open.spotify.com/track/1y093zNa1pQUw8SDBstgXc"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "It's a Sin (Metal Version)",
         "url": "https://open.spotify.com/album/6DMJl9zBVW78Y3TpzeBX2W"
@@ -133,27 +293,7 @@
       "url": "https://open.spotify.com/track/4RAEs2oxK0z3jrLo36N8jV"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Gold Dust (ILLENIUM 2015 Remix)",
-        "url": "https://open.spotify.com/album/20FXdazGWpExq17zclAjKP"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Gold Dust - ILLENIUM 2015 Remix",
-      "url": "https://open.spotify.com/track/31xpBcHJen3t4zJz02dO1U"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "We Cut Keys 2",
         "url": "https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso"
@@ -173,35 +313,7 @@
       "url": "https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Richmond Hill",
-        "url": "https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace & Marco Polo",
-          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
-        },
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 168364,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/2Ffk1ykh4yfruyAtmv3l12"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Something New",
         "url": "https://open.spotify.com/album/6iM3zZzaIsRMfMZvl5e6eJ"
@@ -225,7 +337,7 @@
       "url": "https://open.spotify.com/track/2pStdu5ViqeIlorMd0lPBS"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Philip Glass Solo",
         "url": "https://open.spotify.com/album/5EOmS6QX7WJq1041EcadSR"
@@ -241,30 +353,30 @@
       "url": "https://open.spotify.com/track/6gd7PiUcQ8vrctWo7OCQMD"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "SSetilian",
-        "url": "https://open.spotify.com/album/5d7jY9zDFqC9aSWHw2jeLk"
+        "name": "Curses, Pt. 1 (feat. Spank Nitti James)",
+        "url": "https://open.spotify.com/album/04MhRY7PNmqKNY7DNBhdR5"
       },
       "artists": [
         {
-          "name": "NGeeYL",
-          "url": "https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe"
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Spank Nitti James",
+          "url": "https://open.spotify.com/artist/4JxatpbcAgr7UWnIngnNPD"
         }
       ],
-      "duration_ms": 161276,
-      "name": "On Me (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/0JqsTF7uQhHHODf8JHVtCN"
+      "duration_ms": 92891,
+      "name": "Curses, Pt. 1 (feat. Spank Nitti James)",
+      "url": "https://open.spotify.com/track/3EoAw1V1Zq9JNxOykqlG2o"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Popular",
-        "url": "https://open.spotify.com/album/0p0FGxiCrl3afABenvtWbQ"
+        "url": "https://open.spotify.com/album/1jUzZrcAvwJB1uzbgEBMnd"
       },
       "artists": [
         {
@@ -286,13 +398,13 @@
       ],
       "duration_ms": 258417,
       "name": "Popular (Slowed) (with Playboi Carti & Madonna)",
-      "url": "https://open.spotify.com/track/2fTe41iso7GyCLuRu3UmJh"
+      "url": "https://open.spotify.com/track/0gffIJd1VcWekSXslfUIf0"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Waterslides",
-        "url": "https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i"
+        "name": "FYH387 - Find Your Harmony Radio Episode #387",
+        "url": "https://open.spotify.com/album/5vXTlwyXO85HCSnO8BzaxA"
       },
       "artists": [
         {
@@ -300,76 +412,16 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
         }
       ],
-      "duration_ms": 158174,
-      "name": "Waterslides",
-      "url": "https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP"
+      "duration_ms": 184968,
+      "name": "Flight 643 (FYH387) - KAAZE Remix",
+      "url": "https://open.spotify.com/track/0E5RNXwHPuNNOuCusDDYAx"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Spicy Margarita",
-        "url": "https://open.spotify.com/album/0axDmm6r0mlrw4SRIXpIER"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 154376,
-      "name": "Spicy Margarita",
-      "url": "https://open.spotify.com/track/6TFUhEcEsqGVMZeZtAeUzN"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "One For (Slowed)",
-        "url": "https://open.spotify.com/album/5Ic194BTq1aXSznd5O6KAs"
-      },
-      "artists": [
-        {
-          "name": "FLVR",
-          "url": "https://open.spotify.com/artist/0leKSEjHxsp5fYvQB67kEH"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 148062,
-      "name": "One For - Slowed",
-      "url": "https://open.spotify.com/track/7k5xO3Dmut1wsuQwCTVIF9"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Spin You Around (1/24)",
-        "url": "https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 209427,
-      "name": "Spin You Around (1/24)",
-      "url": "https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "BRELAND & Friends: Vol. 1 (Live)",
         "url": "https://open.spotify.com/album/4d6f7JgJ7dnzsUgNnjy9AQ"
@@ -389,7 +441,7 @@
       "url": "https://open.spotify.com/track/7m85neD8svO28oXmw5pdq1"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Wenn der Krankenwagen kommt (Ist die Party vorbei)",
         "url": "https://open.spotify.com/album/3UIAfTjVQJ2h5o0jtWghUr"
@@ -405,7 +457,23 @@
       "url": "https://open.spotify.com/track/1Hn7O3FjyTAEeInraHc5z0"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Spin You Around (1/24)",
+        "url": "https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 209427,
+      "name": "Spin You Around (1/24)",
+      "url": "https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Heather On The Hill (Acoustic Version)",
         "url": "https://open.spotify.com/album/1fTQYyxGnxcRc8Zzlnx6an"
@@ -421,7 +489,59 @@
       "url": "https://open.spotify.com/track/5qp6ldowNjjJBz4jcs3Owm"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "FACTS",
+        "url": "https://open.spotify.com/album/2aWJw4wM4FuXfZPoOGcg3i"
+      },
+      "artists": [
+        {
+          "name": "Tom MacDonald",
+          "url": "https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf"
+        },
+        {
+          "name": "Ben Shapiro",
+          "url": "https://open.spotify.com/artist/3gkJWMJxN26opykgDVsYtY"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "FACTS",
+      "url": "https://open.spotify.com/track/2ue12T2b9JXlErJJ6NSs8W"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/1XC0UNyzPu6eThQz8XJE0J"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/5DjC1aw5JXAzPKojrLiSID"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 229331,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Saviors",
         "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
@@ -432,12 +552,12 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 175724,
-      "name": "Saviors",
-      "url": "https://open.spotify.com/track/6BSelymcR9J3nJJFNcvUBt"
+      "duration_ms": 234432,
+      "name": "Father to a Son",
+      "url": "https://open.spotify.com/track/5BgGeoSWQeCNrxs0OTBivx"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Penith (The DAVE Soundtrack)",
         "url": "https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe"
@@ -448,149 +568,9 @@
           "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
         }
       ],
-      "duration_ms": 361340,
-      "name": "Harrison Ave",
-      "url": "https://open.spotify.com/track/0q9loMHMdjPrOhHClKtZF3"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Lyrical Devastation",
-        "url": "https://open.spotify.com/album/5kAtK6Ufbk2XOnzPpHEPVy"
-      },
-      "artists": [
-        {
-          "name": "Tr3y $tackz",
-          "url": "https://open.spotify.com/artist/6HMTvdwv1sRO4Vc6pW6wLF"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 161290,
-      "name": "Lyrical Devastation",
-      "url": "https://open.spotify.com/track/7IqP5QkQ51EeIKUypggCqN"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Homesick (with Sam Fender)",
-        "url": "https://open.spotify.com/album/6XQZyagHN8Q2roq0TCQF3P"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 194416,
-      "name": "Homesick (with Sam Fender)",
-      "url": "https://open.spotify.com/track/6SEvLVoKQDmrITAv6B3muJ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 214632,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 178273,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Neon Pill",
-        "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 201233,
-      "name": "Neon Pill",
-      "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "No Caller ID",
-        "url": "https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 208759,
-      "name": "No Caller ID",
-      "url": "https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW"
+      "duration_ms": 189535,
+      "name": "Ally's Song",
+      "url": "https://open.spotify.com/track/7KHWN1YP0PY8deaq0IykBe"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

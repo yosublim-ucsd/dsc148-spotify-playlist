@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 
 > This is PÆRISH\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626 likes - 22 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 625 likes - 22 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 2 | [Undone](https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:38 |
 | 3 | [The Luck You Had](https://open.spotify.com/track/1JwNYCTj60VuK5WK18PkTb) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [The Luck You Had](https://open.spotify.com/album/5ys6y6yA21dn4kIZ5ud0T2) | 4:24 |
 | 4 | [Journey of the Prairie King](https://open.spotify.com/track/3xoOHYehP6FjTLxmVtQr2t) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:28 |
-| 5 | [Daydreaming](https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:35 |
+| 5 | [Amanita](https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:01 |
 | 6 | [Sailplane](https://open.spotify.com/track/4haNqJZCLgJxxTVDhZroKi) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 2:34 |
 | 7 | [Boy](https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Boy](https://open.spotify.com/album/0QbdLXY2Y1uROAxsautWnI) | 3:21 |
 | 8 | [Archives](https://open.spotify.com/track/0tmgEJKwEDX1znh5owSKLo) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:17 |
-| 9 | [Amanita](https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:01 |
+| 9 | [Daydreaming](https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:35 |
 | 10 | [Party's over, Biff](https://open.spotify.com/track/07eiHw5s87pBGVrLlXyV2n) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:48 |
 | 11 | [Stick to Silence](https://open.spotify.com/track/0a0tGgTGDmo2ChpB7IWTbc) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu) | 3:46 |
 | 12 | [Fixed It All](https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:21 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 18 | [Adriatic](https://open.spotify.com/track/4tVdXk9zmlm4koU9Jfwo1y) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 2:57 |
 | 19 | [412](https://open.spotify.com/track/4HAUQ35gRU5GS1VuhqlqLw) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:54 |
 | 20 | [It Only Bothers You](https://open.spotify.com/track/69MwqSM07rdnCA89MNxzdL) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 4:03 |
-| 21 | [Then People Forget](https://open.spotify.com/track/3tvYy58ntsK4Gr3ZPp2fop) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:31 |
+| 21 | [Semi Finalists](https://open.spotify.com/track/1NnJQSLLWRdHvWu3ZrwRel) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:43 |
 | 22 | [Violet](https://open.spotify.com/track/6j9WxIbqbib7SjGKePRPkQ) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:12 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDA4MjFmMDAxNDU4MWJhNDE1MmExNDg0NTc5MTczNjY5Mg==`
+Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDBmYzJmYTQxOWFkMzg1MGE1NTBiZWE0MjNjZDJlZTEzOQ==`

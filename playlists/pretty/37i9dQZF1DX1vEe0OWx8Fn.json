@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 82321,
+  "num_followers": 82345,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjExMDUyZjg1NTQxYmIzZmE4NmY1ZGI0MjExNTBkZWFhNWY5NGE5",
+  "snapshot_id": "MCw1ZmVlMjkxYjM1ZGY1MzFiNTk1ZDliMWNiNTIwOTY5ZmQ0MDc4YzEw",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6"
     },
     {
-      "added_at": "2023-05-19 14:21:26",
-      "album": {
-        "name": "Nocturnal",
-        "url": "https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN"
-      },
-      "artists": [
-        {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
-        }
-      ],
-      "duration_ms": 158081,
-      "name": "CASUALTY",
-      "url": "https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl"
-    },
-    {
       "added_at": "2022-08-16 22:06:35",
       "album": {
         "name": "I Left You In Minnesota",
@@ -671,6 +655,22 @@
       "duration_ms": 164327,
       "name": "She Likes My Tattoos",
       "url": "https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC"
+    },
+    {
+      "added_at": "2023-05-19 14:21:26",
+      "album": {
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "duration_ms": 158081,
+      "name": "CASUALTY",
+      "url": "https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl"
     },
     {
       "added_at": "2022-08-16 22:06:35",

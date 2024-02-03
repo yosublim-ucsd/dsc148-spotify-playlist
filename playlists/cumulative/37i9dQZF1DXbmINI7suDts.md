@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-110 songs - 6 hr 14 min
+111 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Evergreen](https://open.spotify.com/track/5Uj7Pb5JlONVHEQLKzoiF3) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ), [Afrie](https://open.spotify.com/artist/5TfXPuuJjjcEDJjeSbKd2A) | [Love and Light](https://open.spotify.com/album/4Ey6awVzVJAAROedfxTnrJ) | 3:19 | 2022-06-06 | 2023-12-09 |
 | [Fire Deh Deh](https://open.spotify.com/track/3CLcX5MphVX20oqeGDaNT7) | [Felista Di Superstar](https://open.spotify.com/artist/4ePK3JSaxcq2ZeulZlkERH) | [Fire Deh Deh](https://open.spotify.com/album/2D5qDtijtUUlf4UB2RXrDm) | 3:25 | 2022-12-16 | 2023-08-12 |
 | [Give Me Your Hand](https://open.spotify.com/track/6SzIN4egYTNrqE22mcb6WR) | [Bravo Lion](https://open.spotify.com/artist/0t8TuUkIVtcfdSzr06o83A), [Dvoice](https://open.spotify.com/artist/5rAc0Q7Vylz98aK0UWJ6Gf) | [Give Me Your Hand](https://open.spotify.com/album/25EzvrXbFM5qKNy2qHmZZH) | 3:59 | 2023-01-26 |  |
+| [Gojaasi](https://open.spotify.com/track/66QnBSxNiLlWk3K66m15IJ) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Gojaasi](https://open.spotify.com/album/1n1eIj5ECt0HB6zSPP5cmn) | 4:13 | 2024-02-02 |  |
 | [Grand Pa](https://open.spotify.com/track/0Ty3jrWi07X1bYyiHNX4q5) | [Dreventy](https://open.spotify.com/artist/20rJZ2igPSXRYRp09Kppb3) | [Blue Detail](https://open.spotify.com/album/0iVCEpollUPZvixT5Nwzyz) | 2:46 | 2022-07-25 | 2024-01-20 |
 | [GROOVE WITH ME \- A COLORS SHOW](https://open.spotify.com/track/002zpZlg5aBDdOoMkTlejS) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [GROOVE WITH ME \- A COLORS SHOW](https://open.spotify.com/album/1AFLKfNYVhAgGZubUO2glF) | 2:45 | 2023-11-30 |  |
 | [Habibi](https://open.spotify.com/track/5iz5aaY16uQ29mkNXsiBre) | [Lamu](https://open.spotify.com/artist/5ygdLFNJNX7nuQbZKb26lS) | [No Pressure](https://open.spotify.com/album/4JxJjVcjULbJNQxBPpH324) | 3:23 | 2022-06-06 | 2023-09-08 |
@@ -77,7 +78,7 @@
 | [Nkwegomba](https://open.spotify.com/track/0uwQYXMXKRp126uwA98oTA) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Ugandan](https://open.spotify.com/album/5lZptP1kXQTGku9irUVhcD) | 3:01 | 2022-06-06 |  |
 | [Nzize](https://open.spotify.com/track/07mHquBr7G6N0WBIUx3iMl) | [Bravo Lion](https://open.spotify.com/artist/0t8TuUkIVtcfdSzr06o83A) | [Nzize](https://open.spotify.com/album/59ldtKfY8ZO8HbatSjVR9C) | 4:22 | 2023-06-30 |  |
 | [Obsession](https://open.spotify.com/track/68QPAQP4IqF1cedu2jwk5H) | [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV) | [Pearl Of Africa, Vol\. 2](https://open.spotify.com/album/74m1krd8ypMQFtwCLtiuuH) | 4:29 | 2023-10-12 | 2024-01-20 |
-| [Okello](https://open.spotify.com/track/1nvQCAasIUQCgVGsGh4kKf) | [Qwela](https://open.spotify.com/artist/6PcgYouyAJh2KQlrhadC8C) | [Afrotopia](https://open.spotify.com/album/6Cjc8BIj9Dhgt6Cp18Nra1) | 4:05 | 2022-06-06 |  |
+| [Okello](https://open.spotify.com/track/1nvQCAasIUQCgVGsGh4kKf) | [Qwela](https://open.spotify.com/artist/6PcgYouyAJh2KQlrhadC8C) | [Afrotopia](https://open.spotify.com/album/6Cjc8BIj9Dhgt6Cp18Nra1) | 4:05 | 2022-06-06 | 2024-02-03 |
 | [Omukwano](https://open.spotify.com/track/2ssKMZuANIm0fFMrofWovC) | [Aybrah](https://open.spotify.com/artist/2LjrN4oipZgtk6t5678kt6), [Naava Grey](https://open.spotify.com/artist/4Dvh0aMCIBySKye4a8O2UB) | [Omukwano](https://open.spotify.com/album/2asyqwl9c5SBhRcauia0Pi) | 2:53 | 2022-06-06 | 2022-10-15 |
 | [Omutima](https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Omutima](https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY) | 2:43 | 2022-06-06 |  |
 | [One Life](https://open.spotify.com/track/4YYf1EHe0xR4xss7owlpzj) | [Melissa Mulungi](https://open.spotify.com/artist/77ZzFS6WajdNwqHdOMScJl), [Benji Kasule](https://open.spotify.com/artist/3m5KYldm0k5caRrKT1nfem) | [One Life](https://open.spotify.com/album/49tKHYj8bb3pmUoo2PbnoD) | 3:52 | 2022-06-06 | 2023-02-11 |

@@ -1,12 +1,12 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 247017,
+  "num_followers": 246985,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjMyYWZmMGJjMGEyNmE1MjlmN2I3YTk1NzQ0Yjg3NWJlOTk3NTc1",
+  "snapshot_id": "MCxmN2ZiODZhNjAzNDQ5ZjEzOWJhZmFlMDJjZTUwMTUwNTJjNTRmMWI0",
   "tracks": [
     {
       "added_at": "2024-01-31 11:02:45",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-01-31 11:02:45",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "Thinking of You - 1995 Remaster",
-      "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
-    },
-    {
-      "added_at": "2024-01-31 11:02:45",
-      "album": {
         "name": "Amplified Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 236293,
       "name": "Missing - Todd Terry Remix",
       "url": "https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q"
+    },
+    {
+      "added_at": "2024-01-31 11:02:45",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 266826,
+      "name": "Thinking of You - 1995 Remaster",
+      "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
     },
     {
       "added_at": "2024-01-31 11:02:45",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-01-31 11:02:45",
       "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
+    },
+    {
+      "added_at": "2024-01-31 11:02:45",
+      "album": {
         "name": "Happy Music",
         "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 215000,
       "name": "Feel Like Makin' Love (feat. Roberta Flack)",
       "url": "https://open.spotify.com/track/5789JwERVglbf574Olz2Bi"
-    },
-    {
-      "added_at": "2024-01-31 11:02:45",
-      "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
     },
     {
       "added_at": "2024-01-31 11:02:45",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-01-31 11:02:45",
       "album": {
+        "name": "All Becomes Okay",
+        "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 228162,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
+    },
+    {
+      "added_at": "2024-01-31 11:02:45",
+      "album": {
         "name": "Good Life (Remastered)",
         "url": "https://open.spotify.com/album/5O2HWH0ZfYJl6DAkzU50UK"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 196363,
       "name": "Good Life (Remastered)",
       "url": "https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1"
-    },
-    {
-      "added_at": "2024-01-31 11:02:45",
-      "album": {
-        "name": "All Becomes Okay",
-        "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 228162,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
     },
     {
       "added_at": "2024-01-31 11:02:45",
@@ -1315,42 +1315,6 @@
     {
       "added_at": "2024-01-31 11:02:45",
       "album": {
-        "name": "The Way You Say (Remixes)",
-        "url": "https://open.spotify.com/album/75joaaxl6qB1zk55F298SJ"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "The Way You Say - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m"
-    },
-    {
-      "added_at": "2024-01-31 11:02:45",
-      "album": {
-        "name": "Agua Congas",
-        "url": "https://open.spotify.com/album/0kOvMwR9FHGcheXSVTWhwF"
-      },
-      "artists": [
-        {
-          "name": "Paula Tape",
-          "url": "https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh"
-        }
-      ],
-      "duration_ms": 432042,
-      "name": "Agua Congas",
-      "url": "https://open.spotify.com/track/1wJSK0ZBvpaLTe6Y60WaFa"
-    },
-    {
-      "added_at": "2024-01-31 11:02:45",
-      "album": {
         "name": "Blackpool Boulevard",
         "url": "https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R"
       },
@@ -1367,6 +1331,22 @@
       "duration_ms": 215768,
       "name": "Blackpool Boulevard - Edit",
       "url": "https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd"
+    },
+    {
+      "added_at": "2024-01-31 11:02:45",
+      "album": {
+        "name": "Agua Congas",
+        "url": "https://open.spotify.com/album/0kOvMwR9FHGcheXSVTWhwF"
+      },
+      "artists": [
+        {
+          "name": "Paula Tape",
+          "url": "https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh"
+        }
+      ],
+      "duration_ms": 432042,
+      "name": "Agua Congas",
+      "url": "https://open.spotify.com/track/1wJSK0ZBvpaLTe6Y60WaFa"
     },
     {
       "added_at": "2024-01-31 11:02:45",
@@ -1391,6 +1371,42 @@
     {
       "added_at": "2024-01-31 11:02:45",
       "album": {
+        "name": "The Way You Say (Remixes)",
+        "url": "https://open.spotify.com/album/75joaaxl6qB1zk55F298SJ"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "The Way You Say - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m"
+    },
+    {
+      "added_at": "2024-01-31 11:02:45",
+      "album": {
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+    },
+    {
+      "added_at": "2024-01-31 11:02:45",
+      "album": {
         "name": "Need a Hit",
         "url": "https://open.spotify.com/album/3rvmNL5HkzmKWkHrS9nUyY"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 233200,
       "name": "Need a Hit",
       "url": "https://open.spotify.com/track/7vUzucnemSOROrnuPRyUzh"
-    },
-    {
-      "added_at": "2024-01-31 11:02:45",
-      "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
     },
     {
       "added_at": "2024-01-31 11:02:45",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-01-31 11:02:45",
       "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 355480,
-      "name": "Poundland Anthem",
-      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
-    },
-    {
-      "added_at": "2024-01-31 11:02:45",
-      "album": {
         "name": "Beaubien Dream",
         "url": "https://open.spotify.com/album/1LEWPND2aRAZNw0U8qyqGJ"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 417749,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7mJvI2K63TtchC9Eyiia9W"
+    },
+    {
+      "added_at": "2024-01-31 11:02:45",
+      "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 355480,
+      "name": "Poundland Anthem",
+      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
     },
     {
       "added_at": "2024-01-31 11:02:45",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-01-31 11:02:45",
       "album": {
-        "name": "Leave My Home",
-        "url": "https://open.spotify.com/album/2WMV7jPy8XKRtchqqBCheP"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 221890,
-      "name": "Leave My Home",
-      "url": "https://open.spotify.com/track/6mp9DV7vsQtdqR35RYSpdz"
-    },
-    {
-      "added_at": "2024-01-31 11:02:45",
-      "album": {
         "name": "Dusty Sundays",
         "url": "https://open.spotify.com/album/4ILZJaCxMm9B3SSAZreYod"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2024-01-31 11:02:45",
       "album": {
-        "name": "I Go",
-        "url": "https://open.spotify.com/album/1221WGmWD1oF62vZtMScdk"
+        "name": "Leave My Home",
+        "url": "https://open.spotify.com/album/2WMV7jPy8XKRtchqqBCheP"
       },
       "artists": [
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         }
       ],
-      "duration_ms": 224000,
-      "name": "I Go - Edit",
-      "url": "https://open.spotify.com/track/6tmlxpASowJoNYy6pnDdjq"
+      "duration_ms": 221890,
+      "name": "Leave My Home",
+      "url": "https://open.spotify.com/track/6mp9DV7vsQtdqR35RYSpdz"
     },
     {
       "added_at": "2024-01-31 11:02:45",
@@ -1627,6 +1611,22 @@
       "duration_ms": 405866,
       "name": "A Tune For Jack",
       "url": "https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w"
+    },
+    {
+      "added_at": "2024-01-31 11:02:45",
+      "album": {
+        "name": "I Go",
+        "url": "https://open.spotify.com/album/1221WGmWD1oF62vZtMScdk"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "I Go - Edit",
+      "url": "https://open.spotify.com/track/6tmlxpASowJoNYy6pnDdjq"
     },
     {
       "added_at": "2024-01-31 11:02:45",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-01-31 11:02:45",
       "album": {
-        "name": "Stay With You",
-        "url": "https://open.spotify.com/album/3ilTdY5iIS2IF6mSUooZ1G"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "Stay With You - Radio Version",
-      "url": "https://open.spotify.com/track/2qESnrso3J1Ac18AnzHsIj"
-    },
-    {
-      "added_at": "2024-01-31 11:02:45",
-      "album": {
         "name": "Da Fonk (feat. Joni)",
         "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 315608,
       "name": "Moving",
       "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
+    },
+    {
+      "added_at": "2024-01-31 11:02:45",
+      "album": {
+        "name": "Stay With You",
+        "url": "https://open.spotify.com/album/3ilTdY5iIS2IF6mSUooZ1G"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "Stay With You - Radio Version",
+      "url": "https://open.spotify.com/track/2qESnrso3J1Ac18AnzHsIj"
     },
     {
       "added_at": "2024-01-31 11:02:45",

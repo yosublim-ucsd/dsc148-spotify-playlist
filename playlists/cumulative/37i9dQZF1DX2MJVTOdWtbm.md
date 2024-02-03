@@ -2,9 +2,9 @@
 
 ### [Latin R&B](https://open.spotify.com/playlist/37i9dQZF1DX2MJVTOdWtbm)
 
-> The home of Latin R&B\. La casa del R&B Latino\. Cover: Nicole Horts
+> The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior Zamora
 
-352 songs - 18 hr 31 min
+353 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [La Corriente](https://open.spotify.com/track/5hHIU3jEsTAWR08g7mOdwM) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [La Corriente](https://open.spotify.com/album/1FVv5DkYsVlPXrxRbT777f) | 2:46 | 2022-09-06 | 2023-05-13 |
 | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI) | 4:34 | 2022-12-06 |  |
 | [La Ideal](https://open.spotify.com/track/0dMjY4xWaO8TnDDJNT4YBi) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [La Ideal](https://open.spotify.com/album/1vpLbc8biisCe1T3LrE2TB) | 3:33 | 2023-03-08 | 2023-07-22 |
+| [La Lune XVIII](https://open.spotify.com/track/6sPEHT3coWNOJ8ZFamf9uS) | [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [La Lune XVIII](https://open.spotify.com/album/0FiZSLKYFf7SyqBAh4tHHJ) | 2:55 | 2024-02-02 |  |
 | [La Musa](https://open.spotify.com/track/3wjoYxOdPcUTxidHB8kMV5) | [Loui Santana](https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh) | [La Musa](https://open.spotify.com/album/7vIGenY8slhoLgLp5BbVYA) | 1:41 | 2023-03-10 | 2023-06-10 |
 | [La Original](https://open.spotify.com/track/5pzT9YfGIFoujWVv57opdC) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [La Original](https://open.spotify.com/album/33knxFQHp2Ak1W5hTdDbmr) | 2:54 | 2022-09-06 | 2023-03-04 |
 | [la que calla](https://open.spotify.com/track/5KHkcJbmQXRmWj7JaXzXHj) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [entrevayus](https://open.spotify.com/album/2paDCQa4nQzrhdM1GEkoE9) | 3:30 | 2022-03-11 | 2022-12-07 |
@@ -188,7 +189,7 @@
 | [Libre](https://open.spotify.com/track/6c0uR67qHuaEm4m7gGlUmw) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt), [Letra Emece](https://open.spotify.com/artist/7LdWyUXrUSqKCS1CkX6KqM), [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Libre](https://open.spotify.com/album/4y1JivHvgNKyLD7Zx7RlHZ) | 3:53 | 2023-07-28 | 2023-11-10 |
 | [Like A Dream](https://open.spotify.com/track/0ekElz0t65b4rA69t1BDJp) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Like A Dream](https://open.spotify.com/album/182SAZPVTQsNxKoNSWh1Ca) | 2:59 | 2022-02-11 | 2022-07-26 |
 | [Limbo](https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Limbo](https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J) | 2:58 | 2022-09-06 |  |
-| [Limo](https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Limo](https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni) | 2:54 | 2022-05-20 |  |
+| [Limo](https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Limo](https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni) | 2:54 | 2022-05-20 | 2024-02-03 |
 | [Llamando A Tu Fon](https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Llamando A Tu Fon](https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7) | 3:27 | 2023-05-12 |  |
 | [Lluvia de Verano](https://open.spotify.com/track/2mQMfGmg6hiCYKyhUVj2t0) | [Kira Brown](https://open.spotify.com/artist/3pa5M2Ewzy6L18H0PtrcD8), [AMEX](https://open.spotify.com/artist/22yjgBso2UylN40c0ZVdFY) | [Lluvia de Verano](https://open.spotify.com/album/0XmxvGBUc7KYEuhXBmv83R) | 2:37 | 2022-07-26 | 2022-09-07 |
 | [Lluvia de Verano](https://open.spotify.com/track/3cz8p8UYy3YfalZWeRQ5Zx) | [Kira Brown](https://open.spotify.com/artist/3pa5M2Ewzy6L18H0PtrcD8), [AMEX](https://open.spotify.com/artist/22yjgBso2UylN40c0ZVdFY) | [Lluvia de Verano](https://open.spotify.com/album/0r160EkID4SoGVLe6lUYqg) | 2:37 | 2022-02-11 | 2022-07-29 |

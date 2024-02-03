@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Bailar \(Reggaeton\)](https://open.spotify.com/track/1o57FlJbOyZyg9f6ZZYR4W) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T) | [Por Ti y Para Ti](https://open.spotify.com/album/553Z8YDy0KOYGyh1BegVoH) | 3:24 | 2020-04-27 |  |
 | [A Bailar \(Reggaeton\)](https://open.spotify.com/track/7eM0BD5TLtdGYtBpTR6StS) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T), [DJ Checho](https://open.spotify.com/artist/6SpxWF3v6R6hIASMbBOQ5t) | [Por Tí Y Para Tí](https://open.spotify.com/album/5lY38DKcpTaEsO0s3yzML8) | 3:24 | 2020-04-27 | 2022-07-29 |
-| [A Bailar \(Reggaeton\)](https://open.spotify.com/track/1o57FlJbOyZyg9f6ZZYR4W) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T), [Dj Checho](https://open.spotify.com/artist/22x9PuTD1UCatt3pkPn8QZ) | [Por Ti y Para Ti](https://open.spotify.com/album/553Z8YDy0KOYGyh1BegVoH) | 3:24 | 2020-04-27 |  |
 | [A Divertirse](https://open.spotify.com/track/1URPFeH9U75h8hCjyZylEA) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [¡Viva Mi Planeta 2!](https://open.spotify.com/album/75DqI2Vyklgc4fDTzISbWb) | 1:54 | 2020-04-27 |  |
 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 | 2020-04-27 |  |
 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 | 2020-12-21 |  |

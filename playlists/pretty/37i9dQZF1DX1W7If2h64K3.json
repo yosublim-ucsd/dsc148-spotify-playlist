@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 46305,
+  "num_followers": 46322,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGRhOWJhOWQ0NmE0ZTNhY2FhOTQ2ZWMyNTc1ZDFjZGVjMjU5YWIz",
+  "snapshot_id": "MCw2ODdlY2VhMjYyNDdlMjg2Yjc0YjQxNTNlNzM1MDkzMzYxNTI2NWFh",
   "tracks": [
     {
       "added_at": "2022-11-04 13:17:00",
@@ -315,26 +315,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Nelson Freire: Schumann Recital",
-        "url": "https://open.spotify.com/album/5Y0mKf6Om9SdHQSPI8WRxw"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Nelson Freire",
-          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
-        }
-      ],
-      "duration_ms": 144626,
-      "name": "Papillons, Op. 2: No. 11",
-      "url": "https://open.spotify.com/track/2mDEaxFxyzecnvTvrxxM1h"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann : Kinderszenen, Waldszenen & Bunte Bl\u00e4tter",
         "url": "https://open.spotify.com/album/33xqDfwbdFoF9JzODICq8g"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 176920,
       "name": "Schumann: Kinderszenen, Op. 15: No. 13, Der Dichter spricht",
       "url": "https://open.spotify.com/track/1DSNobLV59uOAaNrZnGXZs"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Nelson Freire: Schumann Recital",
+        "url": "https://open.spotify.com/album/5Y0mKf6Om9SdHQSPI8WRxw"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "duration_ms": 144626,
+      "name": "Papillons, Op. 2: No. 11",
+      "url": "https://open.spotify.com/track/2mDEaxFxyzecnvTvrxxM1h"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -467,30 +467,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Symphonies Nos. 1-4",
-        "url": "https://open.spotify.com/album/1EoQmT4c5JMm6oajMiNU5G"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "San Francisco Symphony",
-          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        }
-      ],
-      "duration_ms": 623369,
-      "name": "Schumann: Symphony No. 2 in C Major, Op. 61: III. Adagio espressivo",
-      "url": "https://open.spotify.com/track/6D60l5TKz2VxaxERhjt0QX"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann, R.: Works for Oboe and Piano",
         "url": "https://open.spotify.com/album/7CijIoQoh5qLsfAPOZix3e"
       },
@@ -511,6 +487,30 @@
       "duration_ms": 214000,
       "name": "3 Romanzen, Op. 94: Einfach, innig",
       "url": "https://open.spotify.com/track/6ibGOXbknLnQtG5pmSUGSu"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: Symphonies Nos. 1-4",
+        "url": "https://open.spotify.com/album/1EoQmT4c5JMm6oajMiNU5G"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        }
+      ],
+      "duration_ms": 623369,
+      "name": "Schumann: Symphony No. 2 in C Major, Op. 61: III. Adagio espressivo",
+      "url": "https://open.spotify.com/track/6D60l5TKz2VxaxERhjt0QX"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -667,6 +667,30 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann.: Lied Edition, Vol. 5: Frauenliebe Und -Leben, Op. 42 - Gedichte Der Konigin Maria Stuart, Op. 135 - 7 Lieder, Op. 104",
+        "url": "https://open.spotify.com/album/58cWPG3vuU5tWsuNBHjJCz"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Sibylla Rubens",
+          "url": "https://open.spotify.com/artist/7DimmxPVE900gITx8gLiu8"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "duration_ms": 108253,
+      "name": "7 Lieder, Op. 104: No. 6, Die letzten Blumen starben",
+      "url": "https://open.spotify.com/track/0yo0vw091q0O4zQZm7PhaR"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Schumann: Violin Concerto; Piano Trio No. 3",
         "url": "https://open.spotify.com/album/77OdIMqqtoXO8bTBdlcA8q"
       },
@@ -719,30 +743,6 @@
       "duration_ms": 758440,
       "name": "Introduction And Concert-Allegro, Op. 134",
       "url": "https://open.spotify.com/track/0gSnNcZ8wpHpczpJ45KFkT"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schumann.: Lied Edition, Vol. 5: Frauenliebe Und -Leben, Op. 42 - Gedichte Der Konigin Maria Stuart, Op. 135 - 7 Lieder, Op. 104",
-        "url": "https://open.spotify.com/album/58cWPG3vuU5tWsuNBHjJCz"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Sibylla Rubens",
-          "url": "https://open.spotify.com/artist/7DimmxPVE900gITx8gLiu8"
-        },
-        {
-          "name": "Uta Hielscher",
-          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
-        }
-      ],
-      "duration_ms": 108253,
-      "name": "7 Lieder, Op. 104: No. 6, Die letzten Blumen starben",
-      "url": "https://open.spotify.com/track/0yo0vw091q0O4zQZm7PhaR"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -819,6 +819,26 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann: Myrthen",
+        "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Camilla Tilling",
+          "url": "https://open.spotify.com/artist/125PYk9VJbA5d7CQ0DjLtK"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Myrthen, Op. 25: No. 1, Widmung",
+      "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Besser ohne Worte",
         "url": "https://open.spotify.com/album/4AAbCsOBu1MXyE1d8VXQc4"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 97003,
       "name": "Loreley, Op. 53 No. 2 (Arr. A. Mildner & A. Martin for Harp & Tuba)",
       "url": "https://open.spotify.com/track/2P2A2quqdVt99XQxTfyUWa"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Schumann: Myrthen",
-        "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Camilla Tilling",
-          "url": "https://open.spotify.com/artist/125PYk9VJbA5d7CQ0DjLtK"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Myrthen, Op. 25: No. 1, Widmung",
-      "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1127,6 +1127,30 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann: Lied Edition, Vol. 4: 12 Gedichte, Op. 35 - 5 Lieder Und Ges\u00e4nge, Op. 127 - 4 Ges\u00e4nge, Op. 142",
+        "url": "https://open.spotify.com/album/2gMMvfkICzWt9IpFfKedS1"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Hans-J\u00f6rg Mammel",
+          "url": "https://open.spotify.com/artist/19HTwufflsRQULGPkxN9m5"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "12 Gedichte, Op. 35: No. 10, Stille Tranen",
+      "url": "https://open.spotify.com/track/4iUF6VfUUPziBpZP7A3Hcf"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
         "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
       },
@@ -1155,50 +1179,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Lied Edition, Vol. 4: 12 Gedichte, Op. 35 - 5 Lieder Und Ges\u00e4nge, Op. 127 - 4 Ges\u00e4nge, Op. 142",
-        "url": "https://open.spotify.com/album/2gMMvfkICzWt9IpFfKedS1"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Hans-J\u00f6rg Mammel",
-          "url": "https://open.spotify.com/artist/19HTwufflsRQULGPkxN9m5"
-        },
-        {
-          "name": "Uta Hielscher",
-          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "12 Gedichte, Op. 35: No. 10, Stille Tranen",
-      "url": "https://open.spotify.com/track/4iUF6VfUUPziBpZP7A3Hcf"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
-        "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Nash Ensemble",
-          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
-      "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: Liederkreis; Romances and Ballades",
         "url": "https://open.spotify.com/album/4dd5w7LFFg8aCP49P5TxTz"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 207000,
       "name": "\"Mein Wagen rollet langsam\", Op. 142, No. 4",
       "url": "https://open.spotify.com/track/2IiB2he5PNntuhU9yP7jJc"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
+        "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
+      "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
     },
     {
       "added_at": "2022-11-04 13:17:00",

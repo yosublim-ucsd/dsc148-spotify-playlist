@@ -4,7 +4,7 @@
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:6OK0BGPIHWTsTUPd6UTVAz">Szumal</a> \| Playlista odświeżana w każdą środę.
 
-1,874 songs - 4 day 10 hr 9 min
+1,875 songs - 4 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1669,7 +1669,8 @@
 | [Wars](https://open.spotify.com/track/4hp8pTno1hSvbWbG9MNFaD) | [nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Wars](https://open.spotify.com/album/6D8OUq7vQaZtcpIgQ2d17G) | 3:14 | 2023-02-28 | 2024-01-10 |
 | [Warstwy](https://open.spotify.com/track/36II4iIC80uXF6W7huZ1dl) | [PÓŁNOC](https://open.spotify.com/artist/2PioMk3sDgMrsYdqwKYspw), [Julya](https://open.spotify.com/artist/3HLw79MyKKNt74t4hn3XgT) | [Warstwy](https://open.spotify.com/album/7xISu196cpBwzsbLjbWiaj) | 2:40 | 2022-11-21 | 2022-12-01 |
 | [warszawa](https://open.spotify.com/track/4cpo5G97NWQBeNbuNz1OAd) | [chcebycnext](https://open.spotify.com/artist/0v8CZqjIdNOiNrRiGsrDTN), [Haranczykov](https://open.spotify.com/artist/5oshgoJcu9dGw7fvZtQGvx) | [warszawa](https://open.spotify.com/album/5ukMQ3S4UtdtBoh7FCeQs2) | 2:14 | 2023-01-10 | 2023-02-08 |
-| [Warszawska Noc](https://open.spotify.com/track/2G0EZB4tebWcd3JsM6AKAL) | [Michał Wrzos](https://open.spotify.com/artist/4mxTm66QsRgChITSPcGvkI) | [Warszawska Noc](https://open.spotify.com/album/2VmJfbfCWma0iHqSOxVxhN) | 2:39 | 2023-11-07 |  |
+| [Warszawska Noc](https://open.spotify.com/track/2G0EZB4tebWcd3JsM6AKAL) | [Michał Wrzos](https://open.spotify.com/artist/4mxTm66QsRgChITSPcGvkI) | [Warszawska Noc](https://open.spotify.com/album/2VmJfbfCWma0iHqSOxVxhN) | 2:39 | 2023-11-07 | 2024-02-03 |
+| [Warszawska Noc](https://open.spotify.com/track/4czJGOvL0LLG0qtEKBqxK0) | [Michał Wrzos](https://open.spotify.com/artist/4mxTm66QsRgChITSPcGvkI) | [Warszawska Noc](https://open.spotify.com/album/4xlGAC79VP5RVOd9FDZFZL) | 2:39 | 2024-01-30 |  |
 | [Warszawski Spleen](https://open.spotify.com/track/52xVXebOr5krcB18FLlOTU) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O) | [Warszawski Spleen](https://open.spotify.com/album/6ylXlkEsBessUzLyrKSZpl) | 3:22 | 2022-05-30 | 2022-07-05 |
 | [Warszawskie kluby](https://open.spotify.com/track/3OhLqItVfLXCGyARoNpXvO) | [NICOL](https://open.spotify.com/artist/21T4JIxAwN0MhowdkrNa63) | [Warszawskie kluby](https://open.spotify.com/album/5SYtQ3VGpdroXZSwzi4hmM) | 2:47 | 2022-07-25 | 2022-08-30 |
 | [Waste](https://open.spotify.com/track/7diqNuaAmNVo5dBwocsEWY) | [Lucas Flint](https://open.spotify.com/artist/6hDQK58Mp46BJ8mCVR8ToK) | [Waste](https://open.spotify.com/album/0PM6rvqww5O48wH85znW7q) | 2:10 | 2023-06-13 | 2023-07-12 |

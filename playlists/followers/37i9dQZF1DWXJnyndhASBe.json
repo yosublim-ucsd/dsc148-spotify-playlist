@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 495269,
+  "2024-02-03": 495410,
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Chivas",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Young Multi, Szpaku, Kubi Producent",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -179,7 +179,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 145962,
       "name": "A Milli Milli",
       "url": "https://open.spotify.com/track/3JrArax5edAah1hauuHm4V"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 142222,
       "name": "ch\u0142opaki p\u0142acz\u0105",
       "url": "https://open.spotify.com/track/1d0mXv4ZWp54rYduSntIfA"
@@ -1163,10 +1163,28 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 183924,
       "name": "Czarna Per\u0142a",
       "url": "https://open.spotify.com/track/2KEEXp9tP8rA5gcVJlbAtI"
+    },
+    {
+      "album": {
+        "name": "CZAS CI\u0118 GONI",
+        "url": "https://open.spotify.com/album/6e1fjugmOLKnbDHKcSgf3q"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179256,
+      "name": "CZAS CI\u0118 GONI",
+      "url": "https://open.spotify.com/track/0Cy7JUkNoTvArY03EEVfPA"
     },
     {
       "album": {
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 214440,
       "name": "eXplosion",
       "url": "https://open.spotify.com/track/21YWx0gmPFS6mjc1W8zahk"
@@ -1636,6 +1654,28 @@
     },
     {
       "album": {
+        "name": "happy birthday",
+        "url": "https://open.spotify.com/album/6Y2X9yTU4GqoC1oyH8s00S"
+      },
+      "artists": [
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "happy birthday",
+      "url": "https://open.spotify.com/track/6y2w3XdiB132gDsJqVTqX7"
+    },
+    {
+      "album": {
         "name": "HIPNOZA",
         "url": "https://open.spotify.com/album/3gOx3UcpK2HeJ9gHerhIKY"
       },
@@ -1833,7 +1873,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 149000,
       "name": "jem zimnego tosta",
       "url": "https://open.spotify.com/track/6wwzObHjLsOrvQvZ1QDanB"
@@ -2176,6 +2216,32 @@
     },
     {
       "album": {
+        "name": "Life After Live",
+        "url": "https://open.spotify.com/album/6xbwZOOPhs2VryqJ3HnTtL"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "Lanek",
+          "url": "https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG"
+        },
+        {
+          "name": "SB Maffija",
+          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142769,
+      "name": "Life After Live",
+      "url": "https://open.spotify.com/track/0EdRzc8tnZl7aJ4UbYcAiT"
+    },
+    {
+      "album": {
         "name": "LOWS\u0104 (TikTok Version)",
         "url": "https://open.spotify.com/album/2byJXWgL1wA6JUuj4RFHcC"
       },
@@ -2269,7 +2335,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 190855,
       "name": "Madryt",
       "url": "https://open.spotify.com/track/6NbZQVsZ0YqAH0Xz8dbgv6"
@@ -2648,6 +2714,28 @@
     },
     {
       "album": {
+        "name": "ALL DAY FRESH",
+        "url": "https://open.spotify.com/album/4W9ZoxLnbJkQvmwdD4Kxi3"
+      },
+      "artists": [
+        {
+          "name": "Asster",
+          "url": "https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX"
+        },
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154135,
+      "name": "MOJA NATURA feat. YOUNG IGI",
+      "url": "https://open.spotify.com/track/0giDu2we8VeEyBeDHNrGMi"
+    },
+    {
+      "album": {
         "name": "Sextape / MTW",
         "url": "https://open.spotify.com/album/3CAUyLZPYc4wP4xOGeSoR2"
       },
@@ -2757,6 +2845,32 @@
       "duration_ms": 183346,
       "name": "Nametag",
       "url": "https://open.spotify.com/track/1Z7cVYHnRJKHxQJFE9MP4y"
+    },
+    {
+      "album": {
+        "name": "NAPALONE FANKI",
+        "url": "https://open.spotify.com/album/0bqOLnjMLRVAdiZXME4L92"
+      },
+      "artists": [
+        {
+          "name": "Eryk Moczko",
+          "url": "https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd"
+        },
+        {
+          "name": "MI\u00dc",
+          "url": "https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2"
+        },
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187415,
+      "name": "NAPALONE FANKI",
+      "url": "https://open.spotify.com/track/1am7ZCYTibeYENexigk6Gz"
     },
     {
       "album": {
@@ -2881,7 +2995,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 167386,
       "name": "NIE MA CI\u0118",
       "url": "https://open.spotify.com/track/1cnkQScXEGBZKqqy6EjVZo"
@@ -2929,7 +3043,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 154160,
       "name": "Niebezpiecznie",
       "url": "https://open.spotify.com/track/3wx8tIIDVJZRLN85B4TNxa"
@@ -3139,6 +3253,54 @@
       "duration_ms": 195257,
       "name": "OWOCE 33",
       "url": "https://open.spotify.com/track/4Dy9azWTLsDMUdUxrT1170"
+    },
+    {
+      "album": {
+        "name": "Wifey MIXTAPE",
+        "url": "https://open.spotify.com/album/5jPvX8LbvvEafViHM0A7bC"
+      },
+      "artists": [
+        {
+          "name": "DZIARMA",
+          "url": "https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn"
+        },
+        {
+          "name": "Holak",
+          "url": "https://open.spotify.com/artist/4nOJhl27dVniTozwVZYa4c"
+        },
+        {
+          "name": "Miroff",
+          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "Pam&Tommy",
+      "url": "https://open.spotify.com/track/7l1JE5yvi2DEjoscP20SbU"
+    },
+    {
+      "album": {
+        "name": "Papieros (Remix)",
+        "url": "https://open.spotify.com/album/6XA4hJklWYVrTX8VdoBG1q"
+      },
+      "artists": [
+        {
+          "name": "Alberto",
+          "url": "https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni"
+        },
+        {
+          "name": "NBALVCKY",
+          "url": "https://open.spotify.com/artist/5jdPPKSFmxmRLFubteqYV1"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153311,
+      "name": "Papieros - Remix",
+      "url": "https://open.spotify.com/track/44ePFrNZDnSzIsC1ToQx7q"
     },
     {
       "album": {
@@ -3454,6 +3616,24 @@
     },
     {
       "album": {
+        "name": "Deathcore",
+        "url": "https://open.spotify.com/album/5pEyFfIh3cruUMhecU4G9i"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "RysunKOwY PoTw\u00f3R",
+      "url": "https://open.spotify.com/track/2WztUY9tbPT7OQ1nP2jq8X"
+    },
+    {
+      "album": {
         "name": "RYSY",
         "url": "https://open.spotify.com/album/3pBEh2pgcaYJz0qwWqYmtg"
       },
@@ -3583,7 +3763,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 189767,
       "name": "Samotno\u015b\u0107",
       "url": "https://open.spotify.com/track/6QBtD08lrQIOQqc7teDrY8"
@@ -3677,6 +3857,28 @@
       "duration_ms": 131665,
       "name": "Siekiera (Push Up) - Remix",
       "url": "https://open.spotify.com/track/0YyjrAD1ELu01JG2T5yQa9"
+    },
+    {
+      "album": {
+        "name": "Sierra Papa",
+        "url": "https://open.spotify.com/album/2sOJ3DFkL2ONmc97idKY2P"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155021,
+      "name": "Sierra Papa",
+      "url": "https://open.spotify.com/track/6EDANn1flWDjrP2JlbflgF"
     },
     {
       "album": {
@@ -3837,6 +4039,24 @@
       "duration_ms": 157974,
       "name": "SZA\u0141",
       "url": "https://open.spotify.com/track/0HAjbuIEDbqhg70zbCcsHn"
+    },
+    {
+      "album": {
+        "name": "M\u0142ody Murzyn",
+        "url": "https://open.spotify.com/album/4NLxRQDbJztI1prbUlaALp"
+      },
+      "artists": [
+        {
+          "name": "730 Huncho",
+          "url": "https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149317,
+      "name": "Szpilki",
+      "url": "https://open.spotify.com/track/1L6p039zHMzcDiv8onVJ1p"
     },
     {
       "album": {
@@ -4263,7 +4483,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 139680,
       "name": "W PROJEKTACH",
       "url": "https://open.spotify.com/track/4Qi4hdAvkQKWcyANYeCx7K"

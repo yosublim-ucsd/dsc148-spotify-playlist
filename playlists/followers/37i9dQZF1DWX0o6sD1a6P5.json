@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 875746,
+  "2024-02-03": 876045,
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: CKay",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Ayra Starr",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -529,7 +529,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 139706,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c"
@@ -635,6 +635,24 @@
       "duration_ms": 180563,
       "name": "attention",
       "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
+    },
+    {
+      "album": {
+        "name": "Aucune attache",
+        "url": "https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161977,
+      "name": "Aucune attache",
+      "url": "https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr"
     },
     {
       "album": {
@@ -2369,7 +2387,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 188973,
       "name": "Ch\u00e9rie",
       "url": "https://open.spotify.com/track/0GTO1m0ZbLNvsl6EAMXpj7"
@@ -2533,6 +2551,24 @@
       "duration_ms": 161720,
       "name": "Commando",
       "url": "https://open.spotify.com/track/1k4VnMH8KMeaz653dOsRFv"
+    },
+    {
+      "album": {
+        "name": "Commas",
+        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Commas",
+      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
     },
     {
       "album": {
@@ -5994,6 +6030,28 @@
     },
     {
       "album": {
+        "name": "LOCO",
+        "url": "https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6"
+    },
+    {
+      "album": {
         "name": "Loju (feat. Wizkid)",
         "url": "https://open.spotify.com/album/08Y8xB9NINjDkoT30eCoB8"
       },
@@ -8729,7 +8787,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 176160,
       "name": "Rashel",
       "url": "https://open.spotify.com/track/4OXR2xcqJiLIjAtzEdbauW"
@@ -10865,10 +10923,62 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 145031,
       "name": "Twe Twe",
       "url": "https://open.spotify.com/track/02qAdqcn1HGt3RMWMTDkSe"
+    },
+    {
+      "album": {
+        "name": "Twe Twe",
+        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143111,
+      "name": "Twe Twe",
+      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
+    },
+    {
+      "album": {
+        "name": "T\u2019\u00e9tais o\u00f9 ?",
+        "url": "https://open.spotify.com/album/4YzgzJggoHU1azpDoUMMf5"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        },
+        {
+          "name": "Zaho",
+          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "T\u2019\u00e9tais o\u00f9 ?",
+      "url": "https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4"
     },
     {
       "album": {
@@ -11553,7 +11663,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 162114,
       "name": "\u00c0 quoi \u00e7a sert",
       "url": "https://open.spotify.com/track/3YX6MF3ZbRSjFeiqLFVkX0"

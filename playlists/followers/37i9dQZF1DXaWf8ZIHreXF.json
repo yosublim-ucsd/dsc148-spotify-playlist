@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 179719,
+  "2024-02-03": 179820,
   "date_first_scraped": "2022-12-29",
   "description": "The biggest dance floor bangers of the 2010s. ",
   "name": "Dance Hits 2010s",
@@ -341,6 +341,28 @@
       "duration_ms": 179760,
       "name": "Cooler Than Me",
       "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
+    },
+    {
+      "album": {
+        "name": "Desire (Gryffin Remix)",
+        "url": "https://open.spotify.com/album/2EaUj2cxVeL2DhATcN9xcL"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268840,
+      "name": "Desire - Gryffin Remix",
+      "url": "https://open.spotify.com/track/6ctWstoouxCcvuTsd4cHNS"
     },
     {
       "album": {
@@ -909,7 +931,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 215360,
       "name": "King",
       "url": "https://open.spotify.com/track/5Z3zRrMIJk7CVpfcLsM9wD"

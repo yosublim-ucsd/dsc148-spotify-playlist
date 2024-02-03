@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Damásio Brothers.
 
-343 songs - 20 hr 29 min
+344 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Fala Só](https://open.spotify.com/track/0GLjhzoxp487M60SXbrdNQ) | [Yola Araújo](https://open.spotify.com/artist/4jYj5iBLdhRzXvEC1f0XGm) | [Fala Só](https://open.spotify.com/album/2nlMuBZsxGpcPRnpb8hYjr) | 3:17 | 2022-08-04 | 2024-01-28 |
 | [Faz De Mim](https://open.spotify.com/track/76rfT1Ff6qXWnTiOWrj4BL) | [Bonifácio Aurio](https://open.spotify.com/artist/7kQhpoev6cS1UlSpx9Dl5f), [KONSTANTINO](https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ) | [Faz De Mim](https://open.spotify.com/album/1D0MX6LR1AcT4OckPFp8e4) | 4:00 | 2021-12-10 | 2022-07-29 |
 | [Faço Como](https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd) | [Menina Mulher](https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm) | 3:21 | 2021-12-10 |  |
+| [Felicidade](https://open.spotify.com/track/4zFOzbjlrQTfGHP5gv1FTp) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Felicidade](https://open.spotify.com/album/4co4MyVn8IfQ3pO2QiTXoR) | 2:45 | 2024-01-26 |  |
 | [Felicidade](https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Felicidade](https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i) | 2:46 | 2021-12-10 | 2024-01-18 |
 | [Feliz](https://open.spotify.com/track/76hzh7OSIl0UAH0Z791EXl) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj) | [Feliz](https://open.spotify.com/album/5bdgREIEoaBfwqNNccK8se) | 3:29 | 2022-02-11 | 2022-02-19 |
 | [Fica Comigo](https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Fica Comigo](https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE) | 3:22 | 2021-12-10 |  |
@@ -275,7 +276,7 @@
 | [Segredo](https://open.spotify.com/track/4pZKBbkkV1PqWNGyWDE1RN) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Segredo](https://open.spotify.com/album/0da7PRnY1SCzqWPJt5dtjv) | 3:50 | 2021-12-10 | 2022-07-28 |
 | [Segunda Rodada](https://open.spotify.com/track/3MUx7bmAwesSvSDl31BXHN) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Anderson Mário](https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO), [Nsoki](https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH), [Button](https://open.spotify.com/artist/0poxcWsjEiMEeHyPyQRItI), [Kletuz](https://open.spotify.com/artist/4Xq2SG5ib8kT7j0bM4ELAA), [Phedilson](https://open.spotify.com/artist/0Hl3YB8bwQ8anDJkvXo6he) | [Segunda Rodada](https://open.spotify.com/album/6Wetr2P1qCn3oCvDU5zIe9) | 4:15 | 2023-03-17 | 2023-03-25 |
 | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Sempre Sonhei \(feat\. Yasmine\)](https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO) | 3:59 | 2021-12-10 |  |
-| [Sentimento](https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Filho do Zua](https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm) | [Sentimento](https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3) | 3:12 | 2021-12-10 |  |
+| [Sentimento](https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Filho do Zua](https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm) | [Sentimento](https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3) | 3:12 | 2021-12-10 | 2024-02-03 |
 | [Ser Feliz](https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I) | [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Ser Feliz](https://open.spotify.com/album/7uTQAEBWfbze3iYIfOqmdR) | 3:25 | 2021-12-10 | 2023-12-27 |
 | [Sexual Healing](https://open.spotify.com/track/2Rz27kKIB8LlbjzvyM1utV) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Sexual Healing](https://open.spotify.com/album/24RsjQJf1PscWiaj7dEOFy) | 4:57 | 2022-03-25 | 2022-04-21 |
 | [She's Dangerous \- Lil Maro Kizomba Remix](https://open.spotify.com/track/24mv6gkruGz3VMQlrbq2XE) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Big Nelo](https://open.spotify.com/artist/6fndolyUimclrN96l2IWdc), [Lil Maro](https://open.spotify.com/artist/5JKD7sTK9ipdYfb4wEXA9g) | [She's Dangerous \(Lil Maro Remixes\)](https://open.spotify.com/album/6Dm6VDa4OKtBYJ4SXlewTJ) | 4:16 | 2022-01-10 | 2022-01-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 47925,
+  "num_followers": 47990,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmMwNjczMzk1MzNmNWJkYmEwOTYzNTRlZDExOWQ2OTkyNzk5MDdi",
+  "snapshot_id": "MCxiZTNmYWYyNjY4Yzc1MDEzMTM0ZTY2ZTYwMGNlYjFjM2ZhMjNmMGEx",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Sun Records - 60 Years, 60 Singles Box Set",
-        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
-      },
-      "artists": [
-        {
-          "name": "Billy \"The Kid\" Emerson",
-          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
-        }
-      ],
-      "duration_ms": 144166,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Jump Blue: Rockin' The Jukes",
         "url": "https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 124333,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/6MVlUVsSUZe5nAWSDofU8w"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Sun Records - 60 Years, 60 Singles Box Set",
+        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
+      },
+      "artists": [
+        {
+          "name": "Billy \"The Kid\" Emerson",
+          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
+        }
+      ],
+      "duration_ms": 144166,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
     },
     {
       "added_at": "2022-03-28 19:44:25",

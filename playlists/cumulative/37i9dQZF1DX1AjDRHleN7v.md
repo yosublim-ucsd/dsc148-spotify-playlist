@@ -4,7 +4,7 @@
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-84 songs - 4 hr 51 min
+85 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,8 +58,9 @@
 | [Por aí](https://open.spotify.com/track/7zfACboYexn19rWa8mwCFA) | [Suwave](https://open.spotify.com/artist/3Phb6QnBcerqU7CgREycRe) | [Por Aí](https://open.spotify.com/album/1dlrX9KQDl0iGEvrj1ho8L) | 3:05 | 2023-07-03 |  |
 | [Positiva](https://open.spotify.com/track/33U3Gmoy3PzawWRSXujlrk) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Positiva](https://open.spotify.com/album/1Jx0BnQVqn5jXMA2LVJzTd) | 2:30 | 2023-07-14 | 2023-08-05 |
 | [Praia do Rosa \- Acústico](https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Praia do Rosa \(Acústico\)](https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql) | 4:16 | 2023-07-03 | 2024-01-20 |
-| [Pupila](https://open.spotify.com/track/7Gk5OrMYaMRtT2JmgJVAfk) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Pupila](https://open.spotify.com/album/2YJviUWVUlAlKku8Ghb3sj) | 3:22 | 2023-07-03 |  |
+| [Pupila](https://open.spotify.com/track/7Gk5OrMYaMRtT2JmgJVAfk) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Pupila](https://open.spotify.com/album/2YJviUWVUlAlKku8Ghb3sj) | 3:22 | 2023-07-03 | 2024-02-03 |
 | [Pôr do Sol](https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Pôr do Sol](https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w) | 3:48 | 2023-07-03 |  |
+| [Que Vem Do Mar](https://open.spotify.com/track/0HnnjltageT1ZwKjVeG1u8) | [Angatu](https://open.spotify.com/artist/6y4sd9nPIx1gPjsnJDkqym), [Dasplanta](https://open.spotify.com/artist/2I3K4rd8YZHLYk6kXeSkKP), [Krabah](https://open.spotify.com/artist/1hfD9VGvCUYoQiB43vsHZB) | [Que Vem Do Mar](https://open.spotify.com/album/6aXTdntsgmdS6VLhVumua0) | 4:00 | 2024-02-02 |  |
 | [Que Vem do Mar](https://open.spotify.com/track/3XNjsb2GWwT9lU3aT4Bnmj) | [Angatu](https://open.spotify.com/artist/6y4sd9nPIx1gPjsnJDkqym), [Dasplanta](https://open.spotify.com/artist/2I3K4rd8YZHLYk6kXeSkKP), [Krabah](https://open.spotify.com/artist/1hfD9VGvCUYoQiB43vsHZB) | [Que Vem do Mar](https://open.spotify.com/album/2KoifypEyKpsQw7wrOJZph) | 4:00 | 2023-07-03 | 2023-08-18 |
 | [Quero Ser Feliz Também \- Ao Vivo](https://open.spotify.com/track/3b8vIZo54D5aIHjukUCYuy) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 3:34 | 2023-07-03 |  |
 | [Rara Flor](https://open.spotify.com/track/4xLiEMTUxYJegJUTRvEAGz) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Rara Flor](https://open.spotify.com/album/1qQ4J7PUlwkRrSsA3o9VQc) | 2:21 | 2023-12-08 |  |

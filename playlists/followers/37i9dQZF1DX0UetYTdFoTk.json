@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 161092,
+  "2024-02-03": 161173,
   "date_first_scraped": "2022-05-13",
-  "description": "To all the 7abieb out there. Cover: Ramy Gamal.",
+  "description": "To all the 7abieb out there. Cover: Tamer Hosny.",
   "name": "Arabic Love Songs",
   "tracks": [
     {
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 206000,
       "name": "Bahebak",
       "url": "https://open.spotify.com/track/6a4l9CrvajT9qtcFAY9oxk"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 197593,
       "name": "Bossa",
       "url": "https://open.spotify.com/track/6Zk9qT6hjvnD3y0NMgLZrb"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 182369,
       "name": "Eli W Melki",
       "url": "https://open.spotify.com/track/6CU3flgAxqRQEbQXREsmpj"
@@ -1185,7 +1185,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 212293,
       "name": "Khodni Eleik",
       "url": "https://open.spotify.com/track/35NvGLU38ElWqhd7NW659s"
@@ -1225,6 +1225,24 @@
       "duration_ms": 241781,
       "name": "Kol Sana Wenta Tayeb",
       "url": "https://open.spotify.com/track/3LVbXJEWPs6gvIMMLU5aWw"
+    },
+    {
+      "album": {
+        "name": "Ana Kteer",
+        "url": "https://open.spotify.com/album/6Qbm7jzEzGqfZJqLaAUAdT"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289123,
+      "name": "Kolly Melkak",
+      "url": "https://open.spotify.com/track/4hu2slKFhep9tzQTTfIXrK"
     },
     {
       "album": {
@@ -1495,10 +1513,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 321881,
       "name": "Manho Habibak",
       "url": "https://open.spotify.com/track/67WtP6ZDz6jnUMlS4cR5ih"
+    },
+    {
+      "album": {
+        "name": "Mawahashtkesh !!?",
+        "url": "https://open.spotify.com/album/6lOiphAEqG5GmFhOKtWjJk"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327456,
+      "name": "Mawahashtkesh !!? - From Hormone El Saada Album",
+      "url": "https://open.spotify.com/track/1V5nOyehl22kvbNtfR53Qd"
     },
     {
       "album": {
@@ -1661,7 +1697,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 221399,
       "name": "Omer Aasal",
       "url": "https://open.spotify.com/track/3zs3QaM0KhK0mSpfALvTJx"
@@ -1997,7 +2033,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 209397,
       "name": "Weilak",
       "url": "https://open.spotify.com/track/1rnAqjXXzirQV1UxIDFI7K"
@@ -2069,10 +2105,28 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 241368,
       "name": "Ya Rohy",
       "url": "https://open.spotify.com/track/4BB1FjjbiKaPK6iTx1mkaq"
+    },
+    {
+      "album": {
+        "name": "Ya Wafiya",
+        "url": "https://open.spotify.com/album/4As7Qnegg2bpUKY6FNURlD"
+      },
+      "artists": [
+        {
+          "name": "Kadim Al Sahir",
+          "url": "https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341187,
+      "name": "Ya Wafiya",
+      "url": "https://open.spotify.com/track/2OfewEJuqAVkt56n0qaiqS"
     },
     {
       "album": {
@@ -2289,6 +2343,24 @@
       "duration_ms": 235833,
       "name": "\u0643\u0644\u0627\u0645 \u0639\u064a\u0646\u064a\u0647",
       "url": "https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0644\u0648 \u0648\u0647\u0645",
+        "url": "https://open.spotify.com/album/0zVuys4kG4cSCH5TXPuv5H"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202589,
+      "name": "\u0643\u0644\u0648 \u0648\u0647\u0645",
+      "url": "https://open.spotify.com/track/3XSlbOYVONZWgHUYsyv1kn"
     },
     {
       "album": {

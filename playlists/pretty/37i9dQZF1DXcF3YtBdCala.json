@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Adri\u00e1n Barraza en portada. ",
-  "num_followers": 131221,
+  "num_followers": 131207,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTlmYmIxZDg3MGJlNWJkZGRjZjM1ZjJiNjMyMThlN2RhYjU1ZDUx",
+  "snapshot_id": "MCwyODIyZjFlN2VmMTM5MGFjZGU4ZWE0ZTM2OWNhY2M2ZTNkZDg4OGNj",
   "tracks": [
     {
       "added_at": "2024-01-19 06:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Pa' Olvidar",
-        "url": "https://open.spotify.com/album/3N7u4XnJEIkr0Os15iYdj0"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 165756,
-      "name": "En Mis Zapatos",
-      "url": "https://open.spotify.com/track/0qyuualuo4GnERGgnBlxr3"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Pobre Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6VcNthQXZE5e8dMP44NpIw"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 198102,
       "name": "Pobre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1uzkk0F8vFqu6RaKZ2dNqA"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Pa' Olvidar",
+        "url": "https://open.spotify.com/album/3N7u4XnJEIkr0Os15iYdj0"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 165756,
+      "name": "En Mis Zapatos",
+      "url": "https://open.spotify.com/track/0qyuualuo4GnERGgnBlxr3"
     },
     {
       "added_at": "2024-01-19 06:00:00",

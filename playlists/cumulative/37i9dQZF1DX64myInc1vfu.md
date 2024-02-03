@@ -2,9 +2,9 @@
 
 ### [Lento.](https://open.spotify.com/playlist/37i9dQZF1DX64myInc1vfu)
 
-> The new bolero era\. Los boleritos de hoy, just for you\. Cover: Kali Uchis
+> The new bolero era\. Los boleritos de hoy, just for you\. Cover: Ángela Aguilar
 
-125 songs - 7 hr 3 min
+127 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Amor En Cuarentena](https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Amor En Cuarentena](https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW) | 2:45 | 2022-02-16 |  |
 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 | 2023-07-07 | 2023-11-25 |
 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 | 2022-02-16 | 2023-07-22 |
-| [Aunque Me Cueste La Vida](https://open.spotify.com/track/4CyyyUAuUaNbR5v2nRtwMz) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Trebol \(II\)](https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0) | 1:24 | 2023-05-26 |  |
+| [Aunque Me Cueste La Vida](https://open.spotify.com/track/4CyyyUAuUaNbR5v2nRtwMz) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Trebol \(II\)](https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0) | 1:24 | 2023-05-26 | 2024-02-03 |
 | [Ay amor](https://open.spotify.com/track/7pwCqAOD5ycYyhgdz8HeU4) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Ay amor](https://open.spotify.com/album/2vhLLMbLpNVjFGl5cY0zv6) | 3:05 | 2023-06-02 | 2023-08-29 |
 | [Beso](https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:31 | 2022-02-16 |  |
 | [Blanco Y Negro](https://open.spotify.com/track/5auKj4jbfYPJg8sQTIZaxt) | [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Blanco Y Negro](https://open.spotify.com/album/5s3KNRr9tjpXQqbPllvKPe) | 2:53 | 2022-02-16 | 2022-07-29 |
@@ -39,6 +39,7 @@
 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 | 2023-07-28 |  |
 | [Cuenta Regresiva](https://open.spotify.com/track/1uRn5FuNtdRKsXvzprK3Nm) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Cuenta Regresiva](https://open.spotify.com/album/469L6ILwfPQV6nQgtZ8cSL) | 3:13 | 2023-06-30 | 2023-08-30 |
 | [Desahogo](https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Desahogo](https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9) | 4:20 | 2023-07-14 |  |
+| [Diablo](https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6) | [MIA](https://open.spotify.com/artist/364nwDA1paIChosKjuNMV3) | [Diablo](https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP) | 3:11 | 2024-02-02 |  |
 | [Diez Pasos Hacia Ti](https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:29 | 2022-02-16 |  |
 | [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 | 2022-02-16 |  |
 | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q) | 2:58 | 2023-12-15 |  |
@@ -111,11 +112,12 @@
 | [Sola](https://open.spotify.com/track/3doK7YkkgMtfD6qoXCkTWh) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:30 | 2022-02-16 |  |
 | [Soledad y el Mar \(feat\. Los Macorinos\)](https://open.spotify.com/track/1Xtz05nIgJiEYdncfd1w8h) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol\. 1\)](https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt) | 3:34 | 2022-02-16 |  |
 | [Somos Algo](https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Somos Algo](https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k) | 3:54 | 2022-02-16 | 2023-08-30 |
+| [Somos Novios](https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:00 | 2024-02-02 |  |
 | [sueño](https://open.spotify.com/track/1u7nvSknNQCsAATOictM7Z) | [Mía Rizzo](https://open.spotify.com/artist/5LvJ9CM92axGdZuOQ55H10) | [Imagina Ser](https://open.spotify.com/album/1UI1aIgqOUBTOHZUzo71Av) | 2:58 | 2022-05-31 | 2022-07-18 |
 | [Sólo Tú](https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Sólo Tú](https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob) | 3:07 | 2023-01-30 |  |
 | [Te Mata](https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Te Mata](https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z) | 3:52 | 2023-10-20 |  |
 | [Te Vi Partir](https://open.spotify.com/track/3tiiu0Znrc4UVqTE2lYAaB) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Marco di Mauro](https://open.spotify.com/artist/62x8NZZ2E8iLiCTNM7zWvK) | [Te Vi Partir](https://open.spotify.com/album/6sRBpHJRwbwEEN8LceDyX9) | 3:10 | 2022-02-16 | 2022-06-01 |
-| [Tengo Algo Que Decirte](https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Tengo Algo Que Decirte](https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A) | 3:26 | 2022-02-16 |  |
+| [Tengo Algo Que Decirte](https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Tengo Algo Que Decirte](https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A) | 3:26 | 2022-02-16 | 2024-02-03 |
 | [Tesoro](https://open.spotify.com/track/1Wakq6TJMEZGCJ99xW23lU) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Tesoro](https://open.spotify.com/album/7135vNimUAz5hmePw0CbVp) | 3:33 | 2023-01-13 | 2023-07-01 |
 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 | 2022-09-19 |  |
 | [Tu Camisa](https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Shantty](https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd) | [Tu Camisa](https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV) | 3:08 | 2023-10-27 |  |

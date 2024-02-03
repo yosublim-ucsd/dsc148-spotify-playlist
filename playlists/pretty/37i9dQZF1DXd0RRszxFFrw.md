@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,700 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,724 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 9 | [Tristeza](https://open.spotify.com/track/70TVybeswXr3k78pxpKDZW) | [Baden Powell](https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr) | [Tristeza on Guitar](https://open.spotify.com/album/4wfmncWQNUgblCu0XV4xKp) | 3:22 |
 | 10 | [Bella Donna](https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Bella Donna](https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4) | 2:19 |
 | 11 | [À Antiga](https://open.spotify.com/track/7nSGXqLZ0wZBdfEq3xNt85) | [Royal Bermuda](https://open.spotify.com/artist/2IvpGxRjmROXKWi7rgTFBM) | [Sempiterna](https://open.spotify.com/album/1L5pMdUqXr0JYHmchngpyp) | 5:20 |
-| 12 | [Cerezo Rosa](https://open.spotify.com/track/6lrHmW92xxdL7RObYtTlga) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Cerezo Rosa](https://open.spotify.com/album/0f3HutA3oPA2QjOyST7YMj) | 3:04 |
+| 12 | [7 Spanish songs \(7 Canciones Sefaradies\): No\. 3\. En la mar ay una torre](https://open.spotify.com/track/0AMFKtEaub06bUVgzyW6AM) | [Oscar Roberto Casares](https://open.spotify.com/artist/4L9F4RTVEkqzY8wDEyor9r), [Flavio Cucchi](https://open.spotify.com/artist/2YJcIfhIWamtbWZkSxj4x5) | [Cucchi, Flavio: American Portraits](https://open.spotify.com/album/1NL9JuaGb5u8EgVerSuFmA) | 2:14 |
 | 13 | [Insensatez](https://open.spotify.com/track/6PRHDUdclcUgzAZIfVy8Od) | [Irio De Paula](https://open.spotify.com/artist/6KofdGpuwBcATTer4Nrcbj), [Renato Sellani](https://open.spotify.com/artist/2NFBhaDMwwy87iAzsfjG90) | [Delicatessen](https://open.spotify.com/album/7iau3Oms7IyeSLlTW09uvk) | 4:14 |
 | 14 | [El Camino De La Vida](https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7) | [Elias Carrera](https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO) | [Wasi](https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ) | 2:16 |
 | 15 | [Fragilidad](https://open.spotify.com/track/6TxkKDCgfT0kHlBotILa38) | [Paco Lara](https://open.spotify.com/artist/7bzLUTqBs1M5Be8k2jbk45), [Diego Pozo \(El Ratón\)](https://open.spotify.com/artist/2Ji6kbZlZjHkgTEnUNekTB) | [Fragility](https://open.spotify.com/album/71qzXodHTFFE9lsGkicYMk) | 3:45 |
 | 16 | [Anoranza](https://open.spotify.com/track/6aq1erKhdTigJdqnoeWCrz) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Anoranza](https://open.spotify.com/album/29qvE6ctOnyrUJWZODkMhV) | 2:48 |
 | 17 | [Corazón Partio \- Guitar Version](https://open.spotify.com/track/32NyNV0GAdqc7dAI35uEfV) | [Paco Infante](https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht) | [Hablando Con Mi Guitarra](https://open.spotify.com/album/4gJ1Gbn76E8Q5lEryqRGS0) | 5:06 |
 | 18 | [Como Las Olas](https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 2:51 |
-| 19 | [7 Spanish songs \(7 Canciones Sefaradies\): No\. 3\. En la mar ay una torre](https://open.spotify.com/track/0AMFKtEaub06bUVgzyW6AM) | [Oscar Roberto Casares](https://open.spotify.com/artist/4L9F4RTVEkqzY8wDEyor9r), [Flavio Cucchi](https://open.spotify.com/artist/2YJcIfhIWamtbWZkSxj4x5) | [Cucchi, Flavio: American Portraits](https://open.spotify.com/album/1NL9JuaGb5u8EgVerSuFmA) | 2:14 |
+| 19 | [Cerezo Rosa](https://open.spotify.com/track/6lrHmW92xxdL7RObYtTlga) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Cerezo Rosa](https://open.spotify.com/album/0f3HutA3oPA2QjOyST7YMj) | 3:04 |
 | 20 | [La Bamba \- Guitar Solo](https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 1](https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy) | 2:30 |
 | 21 | [Monte Gurugú](https://open.spotify.com/track/1F33layvcNu2YUzQQFNvWW) | [Rafael Riqueni](https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4) | [Parque De María Luisa](https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI) | 4:34 |
 | 22 | [Noche Negra](https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Noche Negra](https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE) | 1:59 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 43 | [30 De Marzo](https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Re\-Foc](https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G) | 4:14 |
 | 44 | [Madera Negra](https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7) | [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Niño Josele](https://open.spotify.com/album/79653plha39OpqECC3HCln) | 4:05 |
 | 45 | [Cinque Terre](https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cinque Terre](https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM) | 3:52 |
-| 46 | [Meu coração](https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3) | [Xavier Hermenegildo](https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC) | [Meu coração](https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq) | 2:23 |
+| 46 | [Noches de Bohemia \- Guitar Version](https://open.spotify.com/track/2rtScPfFTDz0yMhCA0kdge) | [Paco Infante](https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht) | [Hablando Con Mi Guitarra](https://open.spotify.com/album/4gJ1Gbn76E8Q5lEryqRGS0) | 4:15 |
 | 47 | [Bossa Bravado](https://open.spotify.com/track/6okyzUui51pNetfcXT40zu) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [A Brand New World](https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo) | 2:22 |
-| 48 | [Noches de Bohemia \- Guitar Version](https://open.spotify.com/track/2rtScPfFTDz0yMhCA0kdge) | [Paco Infante](https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht) | [Hablando Con Mi Guitarra](https://open.spotify.com/album/4gJ1Gbn76E8Q5lEryqRGS0) | 4:15 |
+| 48 | [Meu coração](https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3) | [Xavier Hermenegildo](https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC) | [Meu coração](https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq) | 2:23 |
 | 49 | [My Foolish Heart](https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF) | [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Paz](https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k) | 5:04 |
 | 50 | [Vivienne \- Rumba](https://open.spotify.com/track/5ShW5SmpX42BiE8VCyhkRv) | [Rafael Cortés](https://open.spotify.com/artist/4RfGBxL6vEDgVbaYKmHHDY) | [Asi lo siento](https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD) | 3:17 |
 | 51 | [Tiempos Pasados](https://open.spotify.com/track/52Y2oYV8SXt292vc4I7NFO) | [Rafael Riqueni](https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4) | [Parque De María Luisa](https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI) | 2:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 74 | [Dan\-Son](https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2) | [Enrico Chapela](https://open.spotify.com/artist/2nJVCarJHG5EjOGTitbA4K), [Cuarteto de Guitarras de la Ciudad de México](https://open.spotify.com/artist/2QL42RATuYg1tMBhGDFwBV) | [Sones y Danzones de Buena Madera](https://open.spotify.com/album/4qIABg8vLwPR3LO4pqFx00) | 6:10 |
 | 75 | [Mexican Mood](https://open.spotify.com/track/1GlBh7jgGCrZOY1SrzvMkx) | [Gypsy Flamenco Masters](https://open.spotify.com/artist/3fvnWc7bLQVnkrtFI298rl) | [Romantic Carnival Chillout Music](https://open.spotify.com/album/4mbBeSPRVCfvaLLZ8YCdsL) | 1:37 |
 
-Snapshot ID: `MCw5OGNhZGMxZGIwMmUwMzVhMTYyMTFiMjhhOGNlOWUyMzJlYzYzMzk2`
+Snapshot ID: `MCw0ZTg0MDczN2M5Y2JjNzhlZWRjN2Q2ODg1OTcwMzFjOTc4MDY2MzYw`

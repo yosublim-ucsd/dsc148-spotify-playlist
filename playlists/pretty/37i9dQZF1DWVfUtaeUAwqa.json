@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7688,
+  "num_followers": 7685,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTQxMTQwNTU5ZTM5YmY4MTY1MTFkNGZjM2Q2ZDc0MDY0OWZmNTNi",
+  "snapshot_id": "MCwxZWQ5NzQwN2MxYmM3NTIzMmI5NDMwMTM5M2FiZjZjM2U3MjAyYzU4",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Runnin' Wild",
-        "url": "https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh"
-      },
-      "artists": [
-        {
-          "name": "Sidney Bechet",
-          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Tin Roof Blues",
-      "url": "https://open.spotify.com/track/0BmQMebBEQYcboEyyz9slj"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Kid Ory New Orleans Jazz Man",
         "url": "https://open.spotify.com/album/4WDAhCf6ihX5PBZwpadK9Z"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 183600,
       "name": "Savoy Blues",
       "url": "https://open.spotify.com/track/5LmttN1s1QbpLBVVCInT1N"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Runnin' Wild",
+        "url": "https://open.spotify.com/album/2B0XxmVHkk92cbblc6ZRTh"
+      },
+      "artists": [
+        {
+          "name": "Sidney Bechet",
+          "url": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Tin Roof Blues",
+      "url": "https://open.spotify.com/track/0BmQMebBEQYcboEyyz9slj"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Jazz Foundations Vol. 25",
-        "url": "https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn"
-      },
-      "artists": [
-        {
-          "name": "Edmond Hall",
-          "url": "https://open.spotify.com/artist/0ObFsHKsujQRFXqEL6Q0Jc"
-        }
-      ],
-      "duration_ms": 274808,
-      "name": "Walkin' The Dog",
-      "url": "https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Doctor Jazz",
         "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 208266,
       "name": "Doctor Jazz",
       "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Jazz Foundations Vol. 25",
+        "url": "https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn"
+      },
+      "artists": [
+        {
+          "name": "Edmond Hall",
+          "url": "https://open.spotify.com/artist/0ObFsHKsujQRFXqEL6Q0Jc"
+        }
+      ],
+      "duration_ms": 274808,
+      "name": "Walkin' The Dog",
+      "url": "https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -551,22 +551,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Kings Of Dixieland",
-        "url": "https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71"
-      },
-      "artists": [
-        {
-          "name": "Dixieland Band",
-          "url": "https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E"
-        }
-      ],
-      "duration_ms": 139558,
-      "name": "Ring On Her Fingers",
-      "url": "https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Presenting Eddie Condon",
         "url": "https://open.spotify.com/album/7h3lmjqS435xPobsUcIcRC"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 217520,
       "name": "I'm Gonna Stomp, Mr Henry Lee",
       "url": "https://open.spotify.com/track/7bKWw5CgBrV8mkkjJ23Fxf"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Kings Of Dixieland",
+        "url": "https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71"
+      },
+      "artists": [
+        {
+          "name": "Dixieland Band",
+          "url": "https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E"
+        }
+      ],
+      "duration_ms": 139558,
+      "name": "Ring On Her Fingers",
+      "url": "https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI"
     },
     {
       "added_at": "2020-08-19 17:19:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 
 > Are you trapped in some kind of haunted Hell? What is your favorite nightmare?
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,151 likes - 111 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,156 likes - 111 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 | 106 | [My Toys \(Intro\)](https://open.spotify.com/track/7nJk2sVzxfRJEMr9xd9rpC) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽·Fall asleep in the mirror](https://open.spotify.com/album/2YqAwFCBP4alKyQShJeFcd) | 1:06 |
 | 107 | [GOOD NIGHT](https://open.spotify.com/track/5zhuhNkILzHm585h104JlI) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽·Fall asleep in the mirror](https://open.spotify.com/album/2YqAwFCBP4alKyQShJeFcd) | 2:54 |
 | 108 | [Lullaby](https://open.spotify.com/track/4wPFXFg7vA5svqJy3P1UdN) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽·Fall asleep in the mirror](https://open.spotify.com/album/2YqAwFCBP4alKyQShJeFcd) | 3:18 |
-| 109 | [Welcome to Dream](https://open.spotify.com/track/1mMMltAd8i5qyv0nSwae8T) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 0:40 |
+| 109 | [Welcome to Dream \(Intro\)](https://open.spotify.com/track/33ECboskPxMsPzNgVx0WM5) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/0H35i31IzpWMrLXSV6h2YN) | 0:40 |
 | 110 | [Chase Me](https://open.spotify.com/track/0DctgOJ5qpE3bMCTfwwi2d) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/0H35i31IzpWMrLXSV6h2YN) | 3:09 |
-| 111 | [Emotion](https://open.spotify.com/track/0dCdQvk03zbYUXpoEEFJCl) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 3:43 |
+| 111 | [Emotion](https://open.spotify.com/track/2CIvNK8ErkogYbGrOi2FhE) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/0H35i31IzpWMrLXSV6h2YN) | 3:43 |
 
-Snapshot ID: `MCw5YWRhNjg0YzdjMDRkMTg1ZGQ2ZGQ3ZTg5ZTQ2YTZmZjM3NTFhMDYz`
+Snapshot ID: `MCxiMzcyMzA0MDhlN2JiMTFmNTYxNjM0OWYwNzY2Njg5YWIxYzUzNzJk`

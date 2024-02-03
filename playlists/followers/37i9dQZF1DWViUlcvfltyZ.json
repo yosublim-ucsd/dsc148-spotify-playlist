@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 84145,
+  "2024-02-03": 84127,
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: Any Other",
+  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: I Segreti",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -129,7 +129,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 185208,
       "name": "25",
       "url": "https://open.spotify.com/track/6fZfZubA9qnxEmQZZiHwoF"
@@ -1285,7 +1285,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 186874,
       "name": "Bianca",
       "url": "https://open.spotify.com/track/2DBxhgSzW9i2VDbQ6jJfEH"
@@ -1325,6 +1325,24 @@
       "duration_ms": 204258,
       "name": "Bla",
       "url": "https://open.spotify.com/track/6gy6etySU0niUCPlyy11cp"
+    },
+    {
+      "album": {
+        "name": "Sprecato",
+        "url": "https://open.spotify.com/album/6jYh01GSTYUO7kXc5uyG6c"
+      },
+      "artists": [
+        {
+          "name": "James Jonathan Clancy",
+          "url": "https://open.spotify.com/artist/01l0b9DS1NTibvGU5zX398"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243320,
+      "name": "Black & White",
+      "url": "https://open.spotify.com/track/4QFr9FwMbrBntnX7BpIVoU"
     },
     {
       "album": {
@@ -1383,6 +1401,28 @@
       "duration_ms": 160941,
       "name": "Blu",
       "url": "https://open.spotify.com/track/1IkTSLdOm3yd2V7fRliXH8"
+    },
+    {
+      "album": {
+        "name": "BLUE (feat. Moor Mother)",
+        "url": "https://open.spotify.com/album/6hPd5eE0nlAyW5WmGjbzTY"
+      },
+      "artists": [
+        {
+          "name": "R.Y.F.",
+          "url": "https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe"
+        },
+        {
+          "name": "Moor Mother",
+          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180213,
+      "name": "BLUE (feat. Moor Mother)",
+      "url": "https://open.spotify.com/track/0Wq5LVoXfyPJ1HXqv6bXUW"
     },
     {
       "album": {
@@ -2161,7 +2201,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 135333,
       "name": "Castle Night",
       "url": "https://open.spotify.com/track/0Hrja85o2Z7Wd7pEsmnwjS"
@@ -2691,7 +2731,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 170543,
       "name": "COME UN FILM",
       "url": "https://open.spotify.com/track/1jD0MiDMO54bR1cJ15qxNu"
@@ -4193,7 +4233,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 173231,
       "name": "Fermentazione",
       "url": "https://open.spotify.com/track/5upNMlM3X4rTywdgjkG8r5"
@@ -4735,6 +4775,24 @@
       "duration_ms": 172160,
       "name": "GDPR",
       "url": "https://open.spotify.com/track/18vO34ifxlaN3b8VmKNnF6"
+    },
+    {
+      "album": {
+        "name": "Genau",
+        "url": "https://open.spotify.com/album/0Lc88TOsQd3dfhEBpBUq6q"
+      },
+      "artists": [
+        {
+          "name": "MILANOSPORT",
+          "url": "https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225930,
+      "name": "Genau",
+      "url": "https://open.spotify.com/track/0xJUZkcnOJZiFq59qKcsdd"
     },
     {
       "album": {
@@ -5533,6 +5591,24 @@
       "duration_ms": 190751,
       "name": "If I Don't Care",
       "url": "https://open.spotify.com/track/79UBOgkZcwN1Bevn3l3lUd"
+    },
+    {
+      "album": {
+        "name": "IL CIELO SOPRA BERLINO",
+        "url": "https://open.spotify.com/album/305uGvWZt5p4kLoPD4rP5n"
+      },
+      "artists": [
+        {
+          "name": "Tamango",
+          "url": "https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "IL CIELO SOPRA BERLINO",
+      "url": "https://open.spotify.com/track/35qn0z2w10fNbQCGEBgnh3"
     },
     {
       "album": {
@@ -6854,6 +6930,24 @@
     },
     {
       "album": {
+        "name": "COME FOSSERO CAREZZE",
+        "url": "https://open.spotify.com/album/4jtliyGsK3gPu1VSGSzPdH"
+      },
+      "artists": [
+        {
+          "name": "Tamango",
+          "url": "https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200487,
+      "name": "LUCCIOLA",
+      "url": "https://open.spotify.com/track/6LEG4PJ3kyA8Ko7VMTKZ7F"
+    },
+    {
+      "album": {
         "name": "Luciano/Eriberto",
         "url": "https://open.spotify.com/album/4odpuX8jQngQQ9c9Mipt6s"
       },
@@ -7786,6 +7880,28 @@
     },
     {
       "album": {
+        "name": "I CANI BAUSTELLE",
+        "url": "https://open.spotify.com/album/44WyneGoslmOdCMz1gavBO"
+      },
+      "artists": [
+        {
+          "name": "I Cani",
+          "url": "https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP"
+        },
+        {
+          "name": "Baustelle",
+          "url": "https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259213,
+      "name": "Nabucodonosor",
+      "url": "https://open.spotify.com/track/5mA4Cos6BfYdAbstzE1Ood"
+    },
+    {
+      "album": {
         "name": "Per sempre, comunque",
         "url": "https://open.spotify.com/album/1ATg2FitwLGxoJyaqlNxk2"
       },
@@ -8123,7 +8239,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 150206,
       "name": "NON LO SO!",
       "url": "https://open.spotify.com/track/3XOkjfzhrK3Cp1ccyZUodR"
@@ -9088,6 +9204,24 @@
     },
     {
       "album": {
+        "name": "IN MEZZO A TUTTA QUESTA GENTE",
+        "url": "https://open.spotify.com/album/19ChLKyyCSUabTlPhkEaAV"
+      },
+      "artists": [
+        {
+          "name": "Redh",
+          "url": "https://open.spotify.com/artist/5jpowwjQYCg7NP67IBJjJ6"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226943,
+      "name": "Petardi",
+      "url": "https://open.spotify.com/track/30hUDwhRSGUzeHRK9SVssx"
+    },
+    {
+      "album": {
         "name": "IN QUESTO BUIO IMMENSO",
         "url": "https://open.spotify.com/album/6rRWKOgDNz8VCnLk9wgFNl"
       },
@@ -9620,6 +9754,28 @@
     },
     {
       "album": {
+        "name": "Puttanate (feat. WISM)",
+        "url": "https://open.spotify.com/album/1DbgpdPsrmzZ53vwD1h269"
+      },
+      "artists": [
+        {
+          "name": "COMRAD",
+          "url": "https://open.spotify.com/artist/3LkgC4i6yy4ictT8kWDfRT"
+        },
+        {
+          "name": "WISM",
+          "url": "https://open.spotify.com/artist/3LXTbapp18J0PmQEPPeXmO"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143522,
+      "name": "Puttanate (feat. WISM)",
+      "url": "https://open.spotify.com/track/0LPUSmP3vUsmJI1lu7kQWy"
+    },
+    {
+      "album": {
         "name": "Sogno #3",
         "url": "https://open.spotify.com/album/2ZGKnFkK7En0LSTCNGsaCn"
       },
@@ -9761,7 +9917,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 234293,
       "name": "Re",
       "url": "https://open.spotify.com/track/2MXmns9bnMQK75QRXglbuE"
@@ -10789,6 +10945,24 @@
       "duration_ms": 174189,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5GXBYq5eBPcb8yNw885PbB"
+    },
+    {
+      "album": {
+        "name": "Sillage",
+        "url": "https://open.spotify.com/album/2giMT2uawZQKOGcbemfxfm"
+      },
+      "artists": [
+        {
+          "name": "lecoseimportanti",
+          "url": "https://open.spotify.com/artist/2OWhHem4vaHvD36d6xlK7B"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170684,
+      "name": "Sillage",
+      "url": "https://open.spotify.com/track/2hmL0icAuYEnlKFdq3eoT3"
     },
     {
       "album": {
@@ -12067,7 +12241,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 175000,
       "name": "Til Life Do Us Part",
       "url": "https://open.spotify.com/track/2o8uFXQOFhnyKjVSYui1tN"
@@ -12143,6 +12317,24 @@
       "duration_ms": 213500,
       "name": "Torino non \u00e8 la mia citt\u00e0",
       "url": "https://open.spotify.com/track/3YL6KwcKsIoQ7yLgBR4fUG"
+    },
+    {
+      "album": {
+        "name": "Animali",
+        "url": "https://open.spotify.com/album/0QyUJdtQoZYZ2TfXCWRagB"
+      },
+      "artists": [
+        {
+          "name": "Pu\u00e0",
+          "url": "https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174507,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/5xXHDzHyqXvrA3ZI9FGrXJ"
     },
     {
       "album": {

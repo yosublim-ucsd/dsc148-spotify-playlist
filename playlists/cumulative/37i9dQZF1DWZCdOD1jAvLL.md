@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Apashe
 
-633 songs - 1 day 10 hr 54 min
+634 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [My Crew \(feat\. Flowdan\)](https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [My Crew \(feat\. Flowdan\)](https://open.spotify.com/album/3wOiJZeH4xOCVejjMWk3Np) | 3:25 | 2023-12-01 |  |
 | [My Feelings For You \- Mark Knight Remix](https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sebastien Drums](https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [My Feelings For You \(Mark Knight Remix\)](https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF) | 3:44 | 2022-07-22 | 2022-11-19 |
 | [My Humps](https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/5oIu4GbSrhxQLUhipFQiYb) | 3:06 | 2022-01-14 | 2022-04-16 |
+| [My Mind](https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [My Mind](https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3) | 2:32 | 2024-01-19 |  |
 | [My Type](https://open.spotify.com/track/3czS8iG6DI6SX5X4IT0uCu) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [My Type](https://open.spotify.com/album/4MX5uRMMHGEt3QaMIdamoH) | 3:20 | 2022-05-13 | 2022-08-06 |
 | [myyyy medssss](https://open.spotify.com/track/6eLn8mebeYCnCoFOaSPXhg) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [myyyy medssss](https://open.spotify.com/album/33e0eMQ3sTYJBIMHszQr8A) | 4:19 | 2022-01-14 | 2022-02-26 |
 | [Name Drop](https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Name Drop](https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp) | 3:48 | 2022-08-12 | 2022-11-19 |
@@ -579,7 +580,7 @@
 | [The Wild Hunt](https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [The Wild Hunt](https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km) | 3:18 | 2023-10-13 | 2023-11-11 |
 | [Think About](https://open.spotify.com/track/0mgpKVkh9yenAnNB0lTWO4) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Think About](https://open.spotify.com/album/2cYsiuYP1rpKpLWjwSBvaL) | 3:24 | 2022-09-30 | 2023-02-25 |
 | [Think Of You](https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Think Of You](https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE) | 3:05 | 2022-04-15 | 2022-06-25 |
-| [Thinkin of You](https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Thinkin of You](https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6) | 2:17 | 2023-06-05 |  |
+| [Thinkin of You](https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Thinkin of You](https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6) | 2:17 | 2023-06-05 | 2024-02-03 |
 | [This Feeling](https://open.spotify.com/track/3hQpBuFdNnFM38NjTeg0XQ) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [This Feeling](https://open.spotify.com/album/5H39x8Yael0buJaEmmK7Xe) | 3:16 | 2022-04-22 | 2022-07-16 |
 | [Tibet](https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Tibet](https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK) | 6:43 | 2022-11-25 | 2023-05-20 |
 | [Time 2 Stop \(A\-Trak Remix\)](https://open.spotify.com/track/0kM7Dh31FmxZ2tOy5DuMV2) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Time 2 Stop \(A\-Trak Remix\)](https://open.spotify.com/album/7uUpJ37ltfpcxGoKu9kdvP) | 3:12 | 2022-03-11 | 2022-04-02 |

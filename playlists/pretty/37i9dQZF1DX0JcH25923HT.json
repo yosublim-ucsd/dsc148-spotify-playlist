@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 424598,
+  "num_followers": 424711,
   "original_name": "Trap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmU0YmJhODVmOTg5M2NjNTY5ODlmMDFhMTk2NWY4YjE4YzljYTM1",
+  "snapshot_id": "MCxhMWI1NTZhZjJmYjAwOTA4MmZhZjU5MGIyMzI0YTczZmUyOGExYWE0",
   "tracks": [
     {
       "added_at": "2022-06-08 18:27:09",
@@ -467,6 +467,26 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 264905,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/6pnzUCBMwMT5rvx6PyhusZ"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Trap Capos II",
         "url": "https://open.spotify.com/album/0OQZL8ymQ9RDHaBULw9kCG"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 260493,
       "name": "De las 2 (feat. Bad Bunny & Arc\u00e1ngel)",
       "url": "https://open.spotify.com/track/4DS7HoqrKq1dDjeYOKBlu9"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "La Oscuridad",
-        "url": "https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 264905,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/6pnzUCBMwMT5rvx6PyhusZ"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -595,34 +595,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Amigos y Enemigos (Remix)",
-        "url": "https://open.spotify.com/album/3pUkjrzOZhiaipOiANpLuF"
-      },
-      "artists": [
-        {
-          "name": "Trap Capos",
-          "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        }
-      ],
-      "duration_ms": 295304,
-      "name": "Amigos y Enemigos (feat. Bad Bunny & Almighty) - Remix",
-      "url": "https://open.spotify.com/track/2sA4woGW5KgEgGXXxOKPAZ"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Chosen Few: New Generation",
         "url": "https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj"
       },
@@ -659,46 +631,6 @@
       "duration_ms": 335736,
       "name": "0 Sentimientos (Remix) [feat. Baby Rasta, Noriel, Darkiel, Messiah & Lyan]",
       "url": "https://open.spotify.com/track/3gYco8uoFBmpxqYlz3Zhs7"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Hello Cotto",
-        "url": "https://open.spotify.com/album/1QQmv8TccnAUiTYsX6Z02I"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 217250,
-      "name": "Hello Cotto",
-      "url": "https://open.spotify.com/track/422Avi2VjqZKCVzstKmqog"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 240253,
-      "name": "Hablamos Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -747,6 +679,46 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Hello Cotto",
+        "url": "https://open.spotify.com/album/1QQmv8TccnAUiTYsX6Z02I"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 217250,
+      "name": "Hello Cotto",
+      "url": "https://open.spotify.com/track/422Avi2VjqZKCVzstKmqog"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 240253,
+      "name": "Hablamos Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Un Ratito Mas",
         "url": "https://open.spotify.com/album/0AIoxEYCgmfD856498j2dq"
       },
@@ -763,6 +735,34 @@
       "duration_ms": 283120,
       "name": "Un Ratito Mas",
       "url": "https://open.spotify.com/track/2SzgK8i6si6ETtu57nTdSn"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Amigos y Enemigos (Remix)",
+        "url": "https://open.spotify.com/album/3pUkjrzOZhiaipOiANpLuF"
+      },
+      "artists": [
+        {
+          "name": "Trap Capos",
+          "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "duration_ms": 295304,
+      "name": "Amigos y Enemigos (feat. Bad Bunny & Almighty) - Remix",
+      "url": "https://open.spotify.com/track/2sA4woGW5KgEgGXXxOKPAZ"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
-        "url": "https://open.spotify.com/album/4fz9Lm8O94dPFo3uga9Cm4"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 276768,
-      "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
-      "url": "https://open.spotify.com/track/1WDDZngXuT5o8ePqXeNtvM"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "S.U.N.O",
         "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
       },
@@ -1315,6 +1295,30 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Pininfarina (Remix)",
+        "url": "https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 260787,
+      "name": "Pininfarina - Remix",
+      "url": "https://open.spotify.com/track/1mVLbFwad1wce7mAhFw2Ih"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Hijo de la Noche",
         "url": "https://open.spotify.com/album/4w1tpW0oR0CrHEUODdeNh4"
       },
@@ -1339,26 +1343,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Pininfarina (Remix)",
-        "url": "https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP"
+        "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
+        "url": "https://open.spotify.com/album/4fz9Lm8O94dPFo3uga9Cm4"
       },
       "artists": [
         {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
         },
         {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 260787,
-      "name": "Pininfarina - Remix",
-      "url": "https://open.spotify.com/track/1mVLbFwad1wce7mAhFw2Ih"
+      "duration_ms": 276768,
+      "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
+      "url": "https://open.spotify.com/track/1WDDZngXuT5o8ePqXeNtvM"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 259250,
+      "name": "Narcos",
+      "url": "https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Flexin'",
         "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
       },
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 259250,
-      "name": "Narcos",
-      "url": "https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Flakk Daniel's Lp",
         "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
       },
@@ -1643,6 +1643,34 @@
       "duration_ms": 179078,
       "name": "Es Mejor",
       "url": "https://open.spotify.com/track/6HSnLmg25CFVozSlimAzF4"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 304733,
+      "name": "Ojala",
+      "url": "https://open.spotify.com/track/63EJDEfcZwwRlPt5qEWPjV"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1683,34 +1711,6 @@
       "duration_ms": 298393,
       "name": "B.U.H.O",
       "url": "https://open.spotify.com/track/3juYl7RDkfwMGX5a17ach5"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "La Oscuridad",
-        "url": "https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 304733,
-      "name": "Ojala",
-      "url": "https://open.spotify.com/track/63EJDEfcZwwRlPt5qEWPjV"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Colocao",
-        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 179966,
-      "name": "Colocao",
-      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Ahora Me Llama",
         "url": "https://open.spotify.com/album/5G7fWlRbbz0ebcdTaEomEu"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 233293,
       "name": "Ahora Me Llama",
       "url": "https://open.spotify.com/track/4jhIWuW51XDplWJRfnG7AU"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Colocao",
+        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179966,
+      "name": "Colocao",
+      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2211,6 +2211,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Keoland",
+        "url": "https://open.spotify.com/album/55LyR7TjjagrB1DinBBlLI"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Miss U",
+      "url": "https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/7BgcHmgYP3sp0AAYLKyc0s"
       },
@@ -2239,22 +2255,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Keoland",
-        "url": "https://open.spotify.com/album/55LyR7TjjagrB1DinBBlLI"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Miss U",
-      "url": "https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Nivel",
         "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
       },
@@ -2271,38 +2271,6 @@
       "duration_ms": 192000,
       "name": "Perdoname Si Llego Tarde",
       "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "N\u00e3o Me Sinto Mal Mais",
-        "url": "https://open.spotify.com/album/38xxqYIupf9TLEPjhAShBP"
-      },
-      "artists": [
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        }
-      ],
-      "duration_ms": 265355,
-      "name": "N\u00e3o Me Sinto Mal Mais",
-      "url": "https://open.spotify.com/track/2YJtRdd9duQ0bEDMKZ79Hw"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Dubai",
-        "url": "https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm"
-      },
-      "artists": [
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        }
-      ],
-      "duration_ms": 157732,
-      "name": "Dubai",
-      "url": "https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2351,6 +2319,38 @@
       "duration_ms": 133880,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "N\u00e3o Me Sinto Mal Mais",
+        "url": "https://open.spotify.com/album/38xxqYIupf9TLEPjhAShBP"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 265355,
+      "name": "N\u00e3o Me Sinto Mal Mais",
+      "url": "https://open.spotify.com/track/2YJtRdd9duQ0bEDMKZ79Hw"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Dubai",
+        "url": "https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "duration_ms": 157732,
+      "name": "Dubai",
+      "url": "https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8"
     },
     {
       "added_at": "2022-06-08 18:27:09",

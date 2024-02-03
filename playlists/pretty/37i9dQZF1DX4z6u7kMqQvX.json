@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 105250,
+  "num_followers": 105258,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjU5NzBjYTEyOTAzNDgxMDZlNDU2NzBjNWQ0Y2FjYjlmYTdiYmMz",
+  "snapshot_id": "MCw1NzIwMjY5NjBjMjhiOGRhYzk4ZmM3MzNjYjkyMGM3ZDdhNTU1NTY4",
   "tracks": [
     {
       "added_at": "2024-01-12 16:09:12",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "duration_ms": 228437,
+      "name": "Amor de Verano",
+      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
         "name": "TE QUIERO",
         "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 185432,
       "name": "INFINITO",
       "url": "https://open.spotify.com/track/04tnLrQaFpuV9KMgnxbuCt"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
-        "name": "Verano en Invierno",
-        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
-      },
-      "artists": [
-        {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
-        }
-      ],
-      "duration_ms": 228437,
-      "name": "Amor de Verano",
-      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
-        "name": "AYER",
-        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 235909,
-      "name": "AYER",
-      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
         "name": "SUPERSTICIONES: Remixes",
         "url": "https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 204782,
       "name": "Amores Callejeros - Bolero Remix",
       "url": "https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
+        "name": "AYER",
+        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 235909,
+      "name": "AYER",
+      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 133711,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
         "name": "Una Caricia",
         "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 188133,
       "name": "Una Caricia",
       "url": "https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 133711,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
+        "name": "Tuami",
+        "url": "https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k"
+      },
+      "artists": [
+        {
+          "name": "Soy Emilia",
+          "url": "https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Tuami",
+      "url": "https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
         "name": "17 Canciones para Autopista",
         "url": "https://open.spotify.com/album/3WFYSQRWwDzbJxs8HR3RhC"
       },
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
-        "name": "Tuami",
-        "url": "https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k"
-      },
-      "artists": [
-        {
-          "name": "Soy Emilia",
-          "url": "https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Tuami",
-      "url": "https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
         "name": "Que te hizo ir",
         "url": "https://open.spotify.com/album/7yNGmtpwKnOGypQH0fKpSb"
       },
@@ -1311,22 +1311,6 @@
       "duration_ms": 221333,
       "name": "Que te hizo ir",
       "url": "https://open.spotify.com/track/318miXWdK50Nqu2onTsOiO"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
-        "name": "Aquellos misterios",
-        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 149625,
-      "name": "Aquellos misterios",
-      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -1347,6 +1331,22 @@
       "duration_ms": 181930,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/574OhLjdADffJIg7wZojF6"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
+        "name": "Aquellos misterios",
+        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 149625,
+      "name": "Aquellos misterios",
+      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
-        "name": "Cursi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2hb5mHsPvEyj7ZvBKSD6Vo"
-      },
-      "artists": [
-        {
-          "name": "N\u00fameros Primos",
-          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
-        }
-      ],
-      "duration_ms": 216292,
-      "name": "Astigmatismo y Miop\u00eda",
-      "url": "https://open.spotify.com/track/1188pTebmHUwpwkQvjVu2C"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
         "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
         "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 326961,
       "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
       "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
+        "name": "Cursi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2hb5mHsPvEyj7ZvBKSD6Vo"
+      },
+      "artists": [
+        {
+          "name": "N\u00fameros Primos",
+          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
+        }
+      ],
+      "duration_ms": 216292,
+      "name": "Astigmatismo y Miop\u00eda",
+      "url": "https://open.spotify.com/track/1188pTebmHUwpwkQvjVu2C"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
-        "name": "Los Abrazos son Instantes Decisivos Vol. II",
-        "url": "https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        },
-        {
-          "name": "Gerardo Nieto",
-          "url": "https://open.spotify.com/artist/1jYImiKsH7041qqudv5oJ2"
-        }
-      ],
-      "duration_ms": 224492,
-      "name": "Polvo de estrellas",
-      "url": "https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
         "name": "El Chiste",
         "url": "https://open.spotify.com/album/7fDf8SX4DoOTN17fYdTFnv"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 170866,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
+        "name": "Los Abrazos son Instantes Decisivos Vol. II",
+        "url": "https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        },
+        {
+          "name": "Gerardo Nieto",
+          "url": "https://open.spotify.com/artist/1jYImiKsH7041qqudv5oJ2"
+        }
+      ],
+      "duration_ms": 224492,
+      "name": "Polvo de estrellas",
+      "url": "https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa"
     },
     {
       "added_at": "2024-01-12 16:09:12",

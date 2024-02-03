@@ -1959,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/5nhTzqSBGhnEot3V89luGV"
+      },
+      "artists": [
+        {
+          "name": "Senti2",
+          "url": "https://open.spotify.com/artist/3Bae7rEUTuL7Vj4rf853N4"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144427,
+      "name": "It Must Have Been Love",
+      "url": "https://open.spotify.com/track/7f0h3FtS5IIm5PhnnEC2eh"
+    },
+    {
+      "album": {
         "name": "Relaxing Bossa Lounge, Vol. 16",
         "url": "https://open.spotify.com/album/0xZcDtdHBHWvp9xzeFqhq9"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 24407,
+  "2024-02-03": 24409,
   "date_first_scraped": "2023-03-19",
   "description": "\u97f3\u697d\u30e1\u30c7\u30a3\u30a2<a href=\"http://spincoaster.com/\">Spincoaster</a>\u304c\u53b3\u9078\u3057\u305f\u30db\u30c3\u30c8\u306a\u65b0\u66f2\u3092\u6bce\u9031\u6708\u66dc\u65e5\u306b\u304a\u5c4a\u3051\uff01",
   "name": "Monday Spin",
@@ -56595,10 +56595,28 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 308388,
       "name": "\u4e0d\u8981\u7169",
       "url": "https://open.spotify.com/track/1WVnhma7zzI2EAjHkglyhe"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u8981\u7169",
+        "url": "https://open.spotify.com/album/2Ru6wYnq25w72SPBavb6It"
+      },
+      "artists": [
+        {
+          "name": "Shallow Lev\u00e9e",
+          "url": "https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9"
+        }
+      ],
+      "date_added": "2024-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308388,
+      "name": "\u4e0d\u8981\u7169",
+      "url": "https://open.spotify.com/track/4agWmkaREyGIj9LnAzwurZ"
     },
     {
       "album": {

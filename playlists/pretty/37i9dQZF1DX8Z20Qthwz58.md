@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,952 likes - 79 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,006 likes - 79 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 2 | [midnight](https://open.spotify.com/track/6SuEgkFfiESo1pMLSyAbl3) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:34 |
 | 3 | [Jasmine](https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Jasmine](https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk) | 3:21 |
 | 4 | [Rose](https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU) | [imzoo](https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y) | [Rose](https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6) | 3:08 |
-| 5 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
+| 5 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 6 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |
 | 7 | [Akita \(Feat\. hartts\) \(Prod\. OBSN\)](https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [Akita](https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS) | 3:44 |
 | 8 | [WHY YOU?](https://open.spotify.com/track/76ikZIYciIVbTPfNLTAAwX) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [WHY YOU?](https://open.spotify.com/album/29OG07EpYadviilDMVEgd4) | 2:55 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 78 | [FALLING \(Prod\. by DPR CREAM\)](https://open.spotify.com/track/1sGc6tYogGNv3t09uGlucD) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [FALLING](https://open.spotify.com/album/2MKQwaFRybLOoQ1Cl19OLm) | 3:34 |
 | 79 | [Butterfly](https://open.spotify.com/track/6wNKKoUQfLPmch7cqSFytV) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/49CwarPH45v2tFRHhnjtPf) | 3:57 |
 
-Snapshot ID: `MCw1YTIzZjFlY2Q4ODVlZTkwNTZhMTk3YTFiMjE5ZDc1ZWNjNDA3NzM2`
+Snapshot ID: `MCwwMzM3NTU5ZGU5NTUxODRiZTQwYWExNDNjOWJhMWViZjJhYmIyZTAx`

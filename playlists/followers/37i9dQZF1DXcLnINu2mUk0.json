@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 42961,
+  "2024-02-03": 42970,
   "date_first_scraped": "2022-07-17",
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bluay e Julinho Ksd.",
   "name": "Seda",
@@ -917,6 +917,28 @@
       "duration_ms": 221198,
       "name": "Baby",
       "url": "https://open.spotify.com/track/2pEHLvTEzLoSePd831mQR3"
+    },
+    {
+      "album": {
+        "name": "Baby 3x",
+        "url": "https://open.spotify.com/album/7sNeiqO9arYjxRUIIqzBub"
+      },
+      "artists": [
+        {
+          "name": "Flepa",
+          "url": "https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb"
+        },
+        {
+          "name": "Blanko",
+          "url": "https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117287,
+      "name": "Baby 3x",
+      "url": "https://open.spotify.com/track/4FSWmY6tbpTXoeb4hqO5pn"
     },
     {
       "album": {
@@ -2387,7 +2409,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 179179,
       "name": "Dan\u00e7a",
       "url": "https://open.spotify.com/track/5dFuWvNXDMwWJg3Fs64pJM"
@@ -2497,7 +2519,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 279423,
       "name": "Depois da Chuva",
       "url": "https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo"
@@ -2621,7 +2643,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 107591,
       "name": "Diamante",
       "url": "https://open.spotify.com/track/4XsIue8yfniK7REvBbkWMK"
@@ -2839,6 +2861,24 @@
       "duration_ms": 220168,
       "name": "Down",
       "url": "https://open.spotify.com/track/2ewrS46uhgs4hRwJEDTm07"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/1fJxerDvyH6b1Qn8kYDd0B"
+      },
+      "artists": [
+        {
+          "name": "Indian Man",
+          "url": "https://open.spotify.com/artist/1f902507emsB4UREPPHHOn"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1DjRGwFuokMU6T8gH7JmL6"
     },
     {
       "album": {
@@ -3083,6 +3123,28 @@
       "duration_ms": 194400,
       "name": "Espa\u00e7o",
       "url": "https://open.spotify.com/track/1dp9m5rBtZvh9J6ATfWYNr"
+    },
+    {
+      "album": {
+        "name": "Espirito",
+        "url": "https://open.spotify.com/album/43ELmi4Ak9u9vhEHUszb0I"
+      },
+      "artists": [
+        {
+          "name": "Young Max",
+          "url": "https://open.spotify.com/artist/1t6x0n25bBUkI4re1wQqKu"
+        },
+        {
+          "name": "Apollo G",
+          "url": "https://open.spotify.com/artist/4spmzPX02Jg0rnuyIWFngi"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Espirito",
+      "url": "https://open.spotify.com/track/1qRFaUg4Lr8suJArLQajv1"
     },
     {
       "album": {
@@ -3337,7 +3399,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 171990,
       "name": "Falsa Cinderela",
       "url": "https://open.spotify.com/track/4KCR3YcAV2hwdnTDrRQKQo"
@@ -3627,6 +3689,24 @@
       "duration_ms": 203124,
       "name": "Ficou Tudo Bem",
       "url": "https://open.spotify.com/track/1vWvJFkIrMZUnkxA4A0IUU"
+    },
+    {
+      "album": {
+        "name": "Filho do Vento",
+        "url": "https://open.spotify.com/album/2vjFAk5sCGaHidNUV3FsSX"
+      },
+      "artists": [
+        {
+          "name": "Dino d'Santiago",
+          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "Filho do Vento",
+      "url": "https://open.spotify.com/track/1we7vOaZVUh0LAyNFZd7fL"
     },
     {
       "album": {
@@ -4136,6 +4216,24 @@
     },
     {
       "album": {
+        "name": "Heran\u00e7a",
+        "url": "https://open.spotify.com/album/7Dd0Z2LMADxho6oXPFpK1n"
+      },
+      "artists": [
+        {
+          "name": "Silly",
+          "url": "https://open.spotify.com/artist/4IIEmvJstuMbrPadNIpRRx"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180560,
+      "name": "Heran\u00e7a",
+      "url": "https://open.spotify.com/track/59Emm4uPCpHLJLVhQ4LtNg"
+    },
+    {
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/7fxSDn1vvLJc7dd7ZMgtVM"
       },
@@ -4187,6 +4285,28 @@
       "duration_ms": 171782,
       "name": "Hoje \u00c9 Hoje",
       "url": "https://open.spotify.com/track/09qXUaqRkgQ7xptGv6UVcF"
+    },
+    {
+      "album": {
+        "name": "Honesto (Faroeste)",
+        "url": "https://open.spotify.com/album/72BJO5d7IEQaJjLiX0n4NA"
+      },
+      "artists": [
+        {
+          "name": "Holympo",
+          "url": "https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9"
+        },
+        {
+          "name": "BELLA SAINT",
+          "url": "https://open.spotify.com/artist/4smL5IyxleZm2uUsmj7fpI"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220795,
+      "name": "Honesto (Faroeste)",
+      "url": "https://open.spotify.com/track/6uGGjOmsyH4iSpG3tZfW6W"
     },
     {
       "album": {
@@ -4703,7 +4823,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 206315,
       "name": "La\u00e7os",
       "url": "https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ"
@@ -6326,6 +6446,42 @@
     },
     {
       "album": {
+        "name": "N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/2f4ma3ztAuZEGTZABZ4pqW"
+      },
+      "artists": [
+        {
+          "name": "BCKappa",
+          "url": "https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160957,
+      "name": "N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/6cALPWqrwYbbR9GEVM8Xg3"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o d\u00e1",
+        "url": "https://open.spotify.com/album/3fK2GR9JodQqshxoR4un26"
+      },
+      "artists": [
+        {
+          "name": "MDO (Menino de Ouro)",
+          "url": "https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183321,
+      "name": "N\u00e3o d\u00e1",
+      "url": "https://open.spotify.com/track/3WACFNMNQKehJ2xgn3nSNm"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Falo Nada",
         "url": "https://open.spotify.com/album/5ZA4uNOsiWN7j62XRFjN1Y"
       },
@@ -6891,7 +7047,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 161632,
       "name": "Paz",
       "url": "https://open.spotify.com/track/0gPI6cDpys6B8fTc05sE6v"
@@ -8646,6 +8802,28 @@
     },
     {
       "album": {
+        "name": "Stay True",
+        "url": "https://open.spotify.com/album/5Sy11xHYriz6bJwG4u3leY"
+      },
+      "artists": [
+        {
+          "name": "Ghost Wayne",
+          "url": "https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL"
+        },
+        {
+          "name": "Balrook",
+          "url": "https://open.spotify.com/artist/29SPeuUhgygvAW2tii5u5P"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185009,
+      "name": "Stay True",
+      "url": "https://open.spotify.com/track/51Pa0Kou3atuQNQNVwufHE"
+    },
+    {
+      "album": {
         "name": "Steppa",
         "url": "https://open.spotify.com/album/2sfhXcCFx07eM0QTl4prDT"
       },
@@ -9035,7 +9213,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 175204,
       "name": "Teu Eternamente",
       "url": "https://open.spotify.com/track/4QvTKF2UL2L8EAyDkzXlKK"
@@ -9053,7 +9231,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 123798,
       "name": "TEU PHONE",
       "url": "https://open.spotify.com/track/1xjifxQdnPy5j95rgWtdEh"
@@ -9297,7 +9475,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 201365,
       "name": "Tua",
       "url": "https://open.spotify.com/track/5UEyHP0qtkslMPeKXY1TYL"
@@ -9399,6 +9577,24 @@
       "duration_ms": 179226,
       "name": "Tuesday: Procrastinar",
       "url": "https://open.spotify.com/track/2DjWrLCGdic0K5tl5bXffg"
+    },
+    {
+      "album": {
+        "name": "Txiga na Mim",
+        "url": "https://open.spotify.com/album/6QWGU2NqO3U1sNDxSlb8xU"
+      },
+      "artists": [
+        {
+          "name": "Josslyn",
+          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180495,
+      "name": "Txiga na Mim",
+      "url": "https://open.spotify.com/track/5JNSH9uiHEScizBOBye8Zs"
     },
     {
       "album": {
@@ -10137,7 +10333,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 211636,
       "name": "\u00c0 Tua Porta",
       "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"

@@ -294,10 +294,28 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 65946,
       "name": "Dicey Riley",
       "url": "https://open.spotify.com/track/5VWOa1qWDVjt2ElhIIJImR"
+    },
+    {
+      "album": {
+        "name": "Down by the Liffeyside: Irish Street Ballads",
+        "url": "https://open.spotify.com/album/07NvGxjOsZHGjEYgM4qhpf"
+      },
+      "artists": [
+        {
+          "name": "Dominic Behan",
+          "url": "https://open.spotify.com/artist/1sYhVYXHOlKPY1L5LvRrhF"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65946,
+      "name": "Dicey Riley",
+      "url": "https://open.spotify.com/track/5pxYcaEEXywXBBxxdQVCS4"
     },
     {
       "album": {

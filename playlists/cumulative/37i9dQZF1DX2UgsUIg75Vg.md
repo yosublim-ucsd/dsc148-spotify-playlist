@@ -2,9 +2,9 @@
 
 ### [Chilled R&B](https://open.spotify.com/playlist/37i9dQZF1DX2UgsUIg75Vg)
 
-> Chilled R&B jams for your most relaxed moods\. Cover: Sinead Harnett
+> Chilled R&B jams for your most relaxed moods\. Cover: Thee Sacred Souls
 
-854 songs - 1 day 23 hr 53 min
+855 songs - 1 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [calm & patient](https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [calm & patient](https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg) | 3:33 | 2023-03-31 | 2023-09-15 |
 | [Camille](https://open.spotify.com/track/6OqDwiemWUNCb2yRzWNoza) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Camille](https://open.spotify.com/album/34IwZWZlJYs7D3cEiJdYLE) | 2:16 | 2023-02-03 | 2023-03-04 |
 | [Can I Call You Rose?](https://open.spotify.com/track/6tXuf3jm5wxrMPtvXREYoE) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Can I Call You Rose?](https://open.spotify.com/album/2VFqugtU9c8GQwvhYgm7FX) | 3:08 | 2022-08-19 | 2022-08-27 |
-| [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 | 2022-08-26 | 2023-05-20 |
+| [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 | 2022-08-26 |  |
 | [Can I Call You Rose?](https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:10 | 2022-08-26 | 2023-04-30 |
 | [Can We](https://open.spotify.com/track/2sTeopW9eWJkEQhOnRmfB9) | [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC) | [Pacific Time \- EP](https://open.spotify.com/album/4JInVfKuLTpdDNdPZ3qAyK) | 4:21 | 2019-07-10\* | 2019-11-05 |
 | [Can't Fake What You Feel](https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Can't Fake What You Feel](https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG) | 2:51 | 2023-06-30 | 2023-11-18 |
@@ -809,6 +809,7 @@
 | [Wait So Long](https://open.spotify.com/track/3nHLmfDuvY5LK3lCV1LHju) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Wait So Long](https://open.spotify.com/album/0AaPqe9tkDP6LKf7uEf5mw) | 2:28 | 2023-10-06 | 2023-10-23 |
 | [Waiting For \(feat\. Jamila Woods\)](https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:20 | 2020-05-26 | 2021-01-05 |
 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 | 2023-09-15 |  |
+| [Waiting In Vain \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/66TTutUCqCpAzGCBcsBuYy) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Waiting In Vain \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/6ZKGdyXuM5z1nYuCx6YjWP) | 5:01 | 2024-02-02 |  |
 | [Waiting Line](https://open.spotify.com/track/2ocs2nQNMIbsqnnjn3UXFi) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [edbl & friends \- James Berkeley](https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C) | 3:25 | 2022-10-14 | 2023-03-18 |
 | [Waiting On You](https://open.spotify.com/track/3c1rGruIESX8jDvnssO4xd) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Waiting On You](https://open.spotify.com/album/5dvJxQyK4Z83mrSo4KmcoQ) | 4:12 | 2023-11-10 | 2023-12-09 |
 | [Want You](https://open.spotify.com/track/68ndzgs983ZubXDHPclWG6) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Want You](https://open.spotify.com/album/0ETr9LBbVHsstgFFpugTeF) | 3:11 | 2020-09-23 | 2021-04-10 |

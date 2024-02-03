@@ -4,7 +4,7 @@
 
 > Música ideal para tomar el té y relajar.
 
-125 songs - 7 hr 26 min
+126 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,9 +124,10 @@
 | [Todo Estaba Bien](https://open.spotify.com/track/0qRE2t4scDRFsBgBXsQIH9) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Tropical Jesus](https://open.spotify.com/album/1hNj4AB6pbahegd5dBYPV7) | 3:08 | 2023-08-18 |  |
 | [Tu Nombre y el Mío](https://open.spotify.com/track/5cIdcROWU4Ko8FLilbEqPI) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Azules Turquesas](https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd) | 2:42 | 2023-08-18 |  |
 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 | 2023-10-20 |  |
+| [Tuyo](https://open.spotify.com/track/3X0lef4eZlP1u8v2oEq4Qi) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Tuyo](https://open.spotify.com/album/1Sv7uosU6z24BvsEm5AG7g) | 3:18 | 2024-02-02 |  |
 | [Umbrella \- Acoustic Version](https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Umbrella \(Acoustic Version\)](https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6) | 2:58 | 2023-08-18 | 2023-10-21 |
 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 | 2023-08-18 |  |
-| [Una Vez Más](https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Una Vez Más](https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi) | 3:37 | 2023-10-20 |  |
+| [Una Vez Más](https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Una Vez Más](https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi) | 3:37 | 2023-10-20 | 2024-02-03 |
 | [Velocidad Crucero](https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Velocidad Crucero](https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1) | 3:52 | 2023-09-01 | 2023-11-01 |
 | [Viernes](https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Viernes](https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0) | 3:11 | 2023-10-20 | 2024-01-02 |
 | [Wild Roses](https://open.spotify.com/track/7f8iBUiwio1oX5lAFwC5xI) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [FEVER DREAM](https://open.spotify.com/album/3jk6oyfKCny48ZYb1CPjLa) | 4:02 | 2023-08-18 | 2023-10-21 |

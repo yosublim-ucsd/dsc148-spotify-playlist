@@ -2,9 +2,9 @@
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
-> New and trending tracks from Texas Country icons and rising stars\. Cover: Randall King
+> New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-588 songs - 1 day 11 hr 2 min
+589 songs - 1 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Burn It Down \- 717 Tapes](https://open.spotify.com/track/5NqaRQWSVg9mnnmdCZJ17s) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes, Vol\. 2](https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6) | 2:49 | 2022-07-22 | 2022-11-13 |
 | [Burn Me Down](https://open.spotify.com/track/7r41RrqQejlztQ1zn3rcN2) | [Carlton Anderson](https://open.spotify.com/artist/74mYYs1dlkIRfk36HcsFRv) | [Burn Me Down](https://open.spotify.com/album/5EQprNS7gJmsycBK6KYQps) | 3:07 | 2022-07-01 | 2022-07-15 |
 | [Burnout](https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41), [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [Burnout](https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE) | 4:02 | 2022-03-25 | 2023-04-15 |
+| [Burns Like Her](https://open.spotify.com/track/0QoxvhXI5ldn8oCRWi97hz) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Into The Neon](https://open.spotify.com/album/4x2LrG46EWrM6jkCie0YuU) | 3:53 | 2024-02-02 |  |
 | [But Me](https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [But Me](https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1) | 3:55 | 2022-07-22 | 2023-11-10 |
 | [Buzzed Brain](https://open.spotify.com/track/28BlOyCL7tkzuc9xWwTPFI) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Buzzed Brain, Pt\. 2](https://open.spotify.com/album/04Z0wNec76yBlauZ0gabJ3) | 4:26 | 2021-12-17 | 2022-07-24 |
 | [Calling Your Bluff](https://open.spotify.com/track/2KBsnRFMKnPkjjQNuVhClj) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Cigarettes and Alcohol \- EP](https://open.spotify.com/album/1hEQhjpGQpqDjLE9iYt1bH) | 3:23 | 2022-06-10 | 2022-07-29 |
@@ -184,7 +185,7 @@
 | [Fix Your Broken Heart \- Radio Edit](https://open.spotify.com/track/1cAbFYKLj3LfKZn48BdnjS) | [Ty Laramore](https://open.spotify.com/artist/7CNZO6wRBNwheYYMQDVrIF) | [Fix Your Broken Heart \(Radio Edit\)](https://open.spotify.com/album/3ixibQuu7BJS2QtDtR2nPv) | 3:16 | 2022-02-11 | 2022-07-09 |
 | [Fly Tonight](https://open.spotify.com/track/3soZJPbNtUIrgBYc9CsPWe) | [Trent Cowie Band](https://open.spotify.com/artist/4U82Z5ImPvKQF1wgZdhBZE) | [Fly Tonight](https://open.spotify.com/album/0l2J5TE9wOFBgNp106gloM) | 3:11 | 2022-02-11 | 2022-07-24 |
 | [Follow](https://open.spotify.com/track/4QqnvcRSmylDaB135aWjun) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Follow](https://open.spotify.com/album/1UUV1hZtczlx2uFDG8XyrF) | 3:06 | 2022-01-28 | 2022-07-28 |
-| [Fooled Around](https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Fooled Around](https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q) | 3:12 | 2021-12-17 | 2024-01-31 |
+| [Fooled Around](https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Fooled Around](https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q) | 3:12 | 2021-12-17 |  |
 | [Fourth of July](https://open.spotify.com/track/44TnVDwCDBGbEehNSWyW3z) | [Rich O'Toole](https://open.spotify.com/artist/2t6FHAUXxi9eiatP2Mavh0) | [Fourth of July](https://open.spotify.com/album/37VgoIQVRWyv5QvFbJp7MR) | 3:13 | 2023-06-02 | 2023-07-08 |
 | [Free Man](https://open.spotify.com/track/6Mg5RPaHV9OkzmXJQxWBdm) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Free Man](https://open.spotify.com/album/7k5gdTDJnY0xPozkMyHHJ3) | 2:57 | 2022-06-24 | 2022-08-06 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-03-25 | 2023-09-02 |
@@ -239,7 +240,7 @@
 | [Here for You](https://open.spotify.com/track/6B2dIHvZz7NgfxLN3eQAah) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Light Saw Me](https://open.spotify.com/album/4al4QK2Lk29ZOSr4F7DZvE) | 4:51 | 2021-12-17 | 2022-03-19 |
 | [High on the Bottle](https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [High on the Bottle](https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr) | 4:13 | 2021-12-17 | 2022-03-19 |
 | [Highway](https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Highway](https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6) | 4:21 | 2021-12-17 | 2022-03-19 |
-| [Highway Boys](https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Highway Boys](https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ) | 3:40 | 2022-03-25 |  |
+| [Highway Boys](https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Highway Boys](https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ) | 3:40 | 2022-03-25 | 2024-02-03 |
 | [Highways](https://open.spotify.com/track/0IXdyGzVO91HrnNXW6P5TT) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 3:24 | 2022-02-18 | 2023-09-02 |
 | [Hits a Little Different](https://open.spotify.com/track/2yOYqHpfCZQjv7u9dfnK5W) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Hits a Little Different](https://open.spotify.com/album/676lVWRKGoaQ9lTBmzPCu9) | 2:54 | 2021-12-17 | 2022-01-08 |
 | [Hometown Hero](https://open.spotify.com/track/03CL7YkJByZRIjciH0uQq1) | [Austin Alexander](https://open.spotify.com/artist/65qp4f5zNeT1bHgikTsc5y) | [Hometown Hero](https://open.spotify.com/album/2EmcaUORGDhzpeYqqSE9AV) | 3:52 | 2022-05-27 | 2022-07-09 |
@@ -360,7 +361,7 @@
 | [Nothin’s Changed](https://open.spotify.com/track/55Dy9OWWGmV4QQyU9uqjK1) | [Bart Crow](https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1) | [Nothin’s Changed](https://open.spotify.com/album/1mfsIkwIlh9UJ851daTUt2) | 3:02 | 2023-08-04 | 2023-10-07 |
 | [OK Cowboy](https://open.spotify.com/track/01lARb2d5zmKIVUaHjSfZM) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [OK Cowboy](https://open.spotify.com/album/0n9B105tgMqX1zG6qtvCoZ) | 3:24 | 2023-10-20 | 2024-01-29 |
 | [Oklahoma](https://open.spotify.com/track/6whzN4pEb9ArYN4z9FqijU) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Oklahoma](https://open.spotify.com/album/4UjSoAyBIRZu3cGSEA6MXM) | 3:39 | 2023-11-17 |  |
-| [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-09-02 |  |
+| [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-09-02 | 2024-02-03 |
 | [On My Way](https://open.spotify.com/track/5KZzV6eNfHLFjQW4tSoTnr) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [On My Way](https://open.spotify.com/album/18lEO0bUtImvRtUHn9FDgy) | 3:03 | 2022-06-10 | 2022-07-16 |
 | [Once in a Blue Moon](https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Once in a Blue Moon](https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk) | 3:07 | 2022-04-01 | 2023-02-12 |
 | [One Honky Tonk Town](https://open.spotify.com/track/1j3aYPaCzk1ENO4dL9nxw5) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [One Honky Tonk Town](https://open.spotify.com/album/1ZtExQ6KB7P60h9QyyC1VO) | 3:20 | 2022-04-29 | 2022-07-10 |

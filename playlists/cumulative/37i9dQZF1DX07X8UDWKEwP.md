@@ -2,9 +2,9 @@
 
 ### [el nuevo tropical](https://open.spotify.com/playlist/37i9dQZF1DX07X8UDWKEwP)
 
-> Lo nuevo del mundo tropical\. Cover: Marc Anthony
+> Lo nuevo del mundo tropical\. Cover: Tiago PZK & Ke Personajes
 
-345 songs - 20 hr 5 min
+346 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Perdoname \- Live](https://open.spotify.com/track/3o69kyAKS2FWwlq8bBnqgS) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Perdoname \(Live\)](https://open.spotify.com/album/6O1BhOfAtiQpcitvmifOZN) | 3:44 | 2022-01-01 | 2022-06-30 |
 | [Pero No Puedo](https://open.spotify.com/track/0vH2J3pBrsOMr3f8eIV3iW) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Contigo](https://open.spotify.com/album/0PtXz1PsCaiCaIgQgPTcf9) | 3:21 | 2022-01-01 | 2022-03-26 |
 | [Perro Arrepentido](https://open.spotify.com/track/0krBST4JusyJApb2M30PZr) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Perro Arrepentido](https://open.spotify.com/album/6LMyaE0Js9ZSXIuc1By5ts) | 4:00 | 2023-03-31 | 2023-05-08 |
+| [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 | 2024-02-02 |  |
 | [Por Ahí](https://open.spotify.com/track/6jqj7M2qGYfOh7tAfIzOJs) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Por Ahí](https://open.spotify.com/album/0xyOFYEp9QbDSOmEcTp1md) | 2:28 | 2024-01-19 |  |
 | [Por Amor](https://open.spotify.com/track/2J9P7Ve41peMW0fkxiEImK) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Por Amor](https://open.spotify.com/album/3YVhQkKRXxcI9cTuBRWKqT) | 3:40 | 2022-02-11 | 2022-06-30 |
 | [Por Qué](https://open.spotify.com/track/3R6p7D39Qy0GJs5Pg72ecn) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [desAMORfosis](https://open.spotify.com/album/5x6WtKftK68fbgtinzgeSG) | 2:22 | 2022-01-01 | 2022-06-30 |
@@ -288,7 +289,7 @@
 | [Si se fue, se fue](https://open.spotify.com/track/1ZVE8ZUI31bleE7vEC8RQG) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Si se fue, se fue](https://open.spotify.com/album/783J1gQIsaFy8bQtSlFlt7) | 4:23 | 2022-03-25 | 2023-01-21 |
 | [Si Se Fue, Se Fue](https://open.spotify.com/track/4SLbr18lq9IEjkp7i48z3o) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Al Son del Amor](https://open.spotify.com/album/6goR8Q0XST04Tef97Gy1aB) | 4:23 | 2022-06-29 | 2023-01-14 |
 | [Si Te Preguntan...](https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Si Te Preguntan...](https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9) | 3:43 | 2022-06-29 | 2023-05-13 |
-| [Si Te Vas](https://open.spotify.com/track/1i8WqT23IvvVPyKZc94Zol) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Si Te Vas](https://open.spotify.com/album/44AcFfCyMrkibifTabWkyH) | 3:48 | 2023-11-10 |  |
+| [Si Te Vas](https://open.spotify.com/track/1i8WqT23IvvVPyKZc94Zol) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Si Te Vas](https://open.spotify.com/album/44AcFfCyMrkibifTabWkyH) | 3:48 | 2023-11-10 | 2024-02-03 |
 | [Si Tu La Ves](https://open.spotify.com/track/04v1ifU5ICftn7GKzaFpl9) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Si Tu La Ves](https://open.spotify.com/album/4YViEFHtIfrWhgV6JTDUNN) | 3:13 | 2023-07-14 | 2023-09-13 |
 | [Si Tú Me Dices Ven \- Versión Salsa](https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Canciones del Alma](https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi) | 3:39 | 2022-01-01 | 2022-03-26 |
 | [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 | 2023-04-21 |  |

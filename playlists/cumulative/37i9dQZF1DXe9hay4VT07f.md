@@ -4,7 +4,7 @@
 
 > We outside\. Cover: Valiant
 
-281 songs - 14 hr 54 min
+282 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Run Run](https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Run Run](https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr) | 3:06 | 2021-07-19 | 2023-08-04 |
 | [Rushing](https://open.spotify.com/track/5Ttn93s4gqOG3SwXJuppfa) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Rushing](https://open.spotify.com/album/3MgOPLcWZFCtmCSQPtmMaa) | 2:34 | 2022-08-18 | 2022-09-10 |
 | [Secrets](https://open.spotify.com/track/4GfDV5KQFbnPP5RXOm9KQf) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [What's Done in the Dark](https://open.spotify.com/album/3A2Bvs4R8aL09IdCbzYhcr) | 2:52 | 2022-08-18 | 2022-09-10 |
-| [Settle Down \(Destiny\)](https://open.spotify.com/track/3No90yqhFHg1vcFCHrCR6b) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/5wqSokkE06joXVP6Pe3tlf) | 3:09 | 2023-11-17 |  |
+| [Settle Down \(Destiny\)](https://open.spotify.com/track/3No90yqhFHg1vcFCHrCR6b) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/5wqSokkE06joXVP6Pe3tlf) | 3:09 | 2023-11-17 | 2024-02-03 |
 | [Sexy19](https://open.spotify.com/track/6vJ6ivAXyks6kykUIvizFq) | [Dejour](https://open.spotify.com/artist/2qPE1cHelmMHiIqKHhQdK4) | [Sexy19](https://open.spotify.com/album/5ekdvIk7749sp6GEjsTPlT) | 3:36 | 2022-08-18 | 2022-09-10 |
 | [Sha La La \(Sunday Mawnin\)](https://open.spotify.com/track/4O4Qe2u31BEqwggZBwYxmw) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Sha La La \(Sunday Mawnin\)](https://open.spotify.com/album/3L0dENcGOMZcR67uhWwPNq) | 2:36 | 2023-11-17 |  |
 | [She's Royal](https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 4:11 | 2023-11-17 |  |
@@ -248,6 +248,7 @@
 | [Tempted To Touch](https://open.spotify.com/track/7khLgMuA7m4SA6aaDv1QSv) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Asafa Powell: Train For Speed](https://open.spotify.com/album/7eXV1e30GKjzEOFSttyn0D) | 3:27 | 2021-07-19 |  |
 | [Throat](https://open.spotify.com/track/4LGDRn6E199hReOZGF5Exw) | [Gage](https://open.spotify.com/artist/5ENdfpGHYMwemMEe0uJG8w) | [Throat \- Single](https://open.spotify.com/album/21pDh5Ze2VGN8g94uQj5J5) | 2:52 | 2023-05-14 | 2023-11-18 |
 | [Tic Tac Toe](https://open.spotify.com/track/0kmhY9fQ1p1w4ui1e28FHW) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Tic Tac Toe](https://open.spotify.com/album/1L67y3BRIGj7VrT9yGT7is) | 2:21 | 2023-08-03 | 2023-11-18 |
+| [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 | 2023-11-17 |  |
 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 | 2021-07-19 | 2024-01-29 |
 | [Toast \- Remix](https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU) | [J Star](https://open.spotify.com/artist/4XoVFXRNNMzxuEpxRt2lqp) | [Toast \(Remix\)](https://open.spotify.com/album/24oZPmdzVJ7X5agJbGpK8d) | 3:07 | 2023-11-17 |  |
 | [Toni\-Ann Singh \(feat\. Popcaan\)](https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:55 | 2022-08-18 | 2022-09-10 |

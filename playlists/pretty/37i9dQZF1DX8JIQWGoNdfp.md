@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/cheetah/">Tyreek Hill</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,181 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,252 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 | 5 | [Hrs & Hrs](https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:24 |
 | 6 | [Who Hurt You?](https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Who Hurt You?](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) | 3:51 |
 | 7 | [Birthday Sex](https://open.spotify.com/track/4NpDZPwSXmL0cCTaJuVrCw) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Jeremih](https://open.spotify.com/album/5CKAAsmFCdmKq4fTtNdmHc) | 3:46 |
-| 8 | [Heartbreak Anniversary](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Heartbreak Anniversary](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 3:16 |
-| 9 | [Me U & Hennessy \(feat\. Lil Wayne\)](https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Me U & Hennessy \(feat\. Lil Wayne\)](https://open.spotify.com/album/6pFVUvF0zOJvktayse6blO) | 3:44 |
+| 8 | [Me U & Hennessy \(feat\. Lil Wayne\)](https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Me U & Hennessy \(feat\. Lil Wayne\)](https://open.spotify.com/album/6pFVUvF0zOJvktayse6blO) | 3:44 |
+| 9 | [Heartbreak Anniversary](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Heartbreak Anniversary](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 3:16 |
 | 10 | [Adorn](https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 3:13 |
 | 11 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE) | 3:01 |
 | 12 | [I Wanna Know](https://open.spotify.com/track/1m2xMsxbtxv21Brome189p) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [My Name Is Joe](https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U) | 4:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 | 49 | [Anything \(feat\. Next\)](https://open.spotify.com/track/38084tN66v4KHqiLpl9cN8) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3), [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Ghetto Love](https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM) | 4:47 |
 | 50 | [Fuckin' wit Me](https://open.spotify.com/track/3v10vlZlZPApvDz3kE4aNe) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Sex, Love & Pain II](https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D) | 4:02 |
 
-Snapshot ID: `MCw0YTgzN2Y0ZWI2NDRmODhlNzAyMGFkZjU2YzhhMzM5ZjFiMjRmNTA0`
+Snapshot ID: `MCxiYmRkNTVlY2ZmYTcxMmE4ZjExMGJkOTUwOWM3ZTJjZDA3NDU3NDVl`

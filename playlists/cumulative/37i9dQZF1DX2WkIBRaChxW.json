@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in R&B, right now \u2013 featuring SiR.",
+  "description": "What's happening in R&B, right now \u2013 featuring <a href=\"spotify:artist:7tjVFCxJdwT4NdrTmjyjQ6\">Muni Long</a>. Discover more Black artists and their contributions <a href=\"spotify:genre:0JQ5DAqbMKFF9bY76LXmfI\">here</a>.\n",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -244,7 +244,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 104468,
       "name": "act i: stickerz \"99\"",
       "url": "https://open.spotify.com/track/24A1MxM364lveyyDomwIYq"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 190498,
       "name": "All or Nothing (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa"
@@ -2133,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr"
+    },
+    {
+      "album": {
         "name": "Crash & Burn",
         "url": "https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2"
       },
@@ -2930,6 +2948,24 @@
       "duration_ms": 158745,
       "name": "Dope (with JID)",
       "url": "https://open.spotify.com/track/3E1y4V7dxcn5AwKCD4AqFn"
+    },
+    {
+      "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159244,
+      "name": "Double Back",
+      "url": "https://open.spotify.com/track/7Fz8TyKSzhetD7zLYbrPgf"
     },
     {
       "album": {
@@ -4300,7 +4336,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 247100,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
@@ -4968,7 +5004,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 199512,
       "name": "How We Roll",
       "url": "https://open.spotify.com/track/7Fdhp8np9nZhsghO2VIPvJ"
@@ -8558,7 +8594,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 167746,
       "name": "On and On",
       "url": "https://open.spotify.com/track/2bBaAOsFVQfKwMAe4wVQb6"
@@ -8656,6 +8692,28 @@
       "duration_ms": 148817,
       "name": "One 4 U",
       "url": "https://open.spotify.com/track/0rrUIAypiKTdpLw4A80ti3"
+    },
+    {
+      "album": {
+        "name": "After the Butterflies",
+        "url": "https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6qWpPgfKJehZmeJMIeicqW"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155355,
+      "name": "One Of Them Days (feat. Monica)",
+      "url": "https://open.spotify.com/track/2ocJnGeHud74jyPlxN7XB7"
     },
     {
       "album": {
@@ -8904,7 +8962,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 175983,
       "name": "Out of Luck",
       "url": "https://open.spotify.com/track/4GztgCDwEDr7H0C7Fs0Luv"
@@ -9595,6 +9653,24 @@
     },
     {
       "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Princess Going Digital",
+      "url": "https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha"
+    },
+    {
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -9768,6 +9844,28 @@
       "duration_ms": 162787,
       "name": "Push (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
+    },
+    {
+      "album": {
+        "name": "Pusha Baby",
+        "url": "https://open.spotify.com/album/2SsQf8gs5PCqlTYOH8pgrg"
+      },
+      "artists": [
+        {
+          "name": "Teon Gibbs",
+          "url": "https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm"
+        },
+        {
+          "name": "40k",
+          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141375,
+      "name": "Pusha Baby",
+      "url": "https://open.spotify.com/track/2C8PDog5rQmuepQbjxkWpL"
     },
     {
       "album": {
@@ -10109,6 +10207,28 @@
     },
     {
       "album": {
+        "name": "Ruin",
+        "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181646,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -10438,7 +10558,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 186770,
       "name": "should've wore a bonnet",
       "url": "https://open.spotify.com/track/4Xzq2WibDHR5Eufi21HlEZ"
@@ -10704,7 +10824,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 190464,
       "name": "Snooze (Acoustic) (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
@@ -11390,6 +11510,24 @@
       "duration_ms": 293426,
       "name": "Sunshine (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
+    },
+    {
+      "album": {
+        "name": "Superficial",
+        "url": "https://open.spotify.com/album/1kuIqGJ1FD8GF8oJgTI2zK"
+      },
+      "artists": [
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134814,
+      "name": "Superficial",
+      "url": "https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9"
     },
     {
       "album": {
@@ -12531,6 +12669,24 @@
     },
     {
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "album": {
         "name": "I Care 4 U",
         "url": "https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8"
       },
@@ -12578,7 +12734,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 120461,
       "name": "ttuctmd",
       "url": "https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX"
@@ -12910,6 +13066,24 @@
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
+    },
+    {
+      "album": {
+        "name": "Waiting In Vain (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/6ZKGdyXuM5z1nYuCx6YjWP"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301466,
+      "name": "Waiting In Vain - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/66TTutUCqCpAzGCBcsBuYy"
     },
     {
       "album": {

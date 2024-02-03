@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 8257,
+  "2024-02-03": 8252,
   "date_first_scraped": "2022-01-29",
   "description": "Your daily update of the most viral tracks right now - Honduras.",
   "name": "Viral 50 - Honduras",
@@ -3450,6 +3450,24 @@
     },
     {
       "album": {
+        "name": "Bellakita",
+        "url": "https://open.spotify.com/album/0xnUNAewtVl83rVHz9b8RS"
+      },
+      "artists": [
+        {
+          "name": "C Dobleta",
+          "url": "https://open.spotify.com/artist/6dq4QvdkdTQzUKQxB3G5SE"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182474,
+      "name": "Bellakita",
+      "url": "https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ"
+    },
+    {
+      "album": {
         "name": "Bemaste",
         "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
       },
@@ -4159,7 +4177,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 286265,
       "name": "BONNIE AND CLYDE - REMIX",
       "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
@@ -20501,7 +20519,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 188268,
       "name": "No Hay Ley Parte 2 (with Rauw Alejandro)",
       "url": "https://open.spotify.com/track/16pNGHrUDtUq5Qg4LnueIi"
@@ -30129,7 +30147,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 169911,
       "name": "TQMQA",
       "url": "https://open.spotify.com/track/0Xm7WesKiHAAbLYluGqBZ7"
@@ -32599,7 +32617,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 153034,
       "name": "wherever u r (ft. V of BTS)",
       "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"
@@ -32911,6 +32929,28 @@
       "duration_ms": 260361,
       "name": "Would've, Could've, Should've",
       "url": "https://open.spotify.com/track/3pUa0ZxdSeaJXm0EIydD3F"
+    },
+    {
+      "album": {
+        "name": "WYA",
+        "url": "https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O"
+      },
+      "artists": [
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "WYA",
+      "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
     },
     {
       "album": {

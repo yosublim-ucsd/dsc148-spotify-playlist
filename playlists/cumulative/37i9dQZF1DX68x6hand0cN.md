@@ -4,7 +4,7 @@
 
 > Take another hit.
 
-185 songs - 9 hr 19 min
+186 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Paro](https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:24 | 2022-11-10 |  |
 | [PO PO PO](https://open.spotify.com/track/6RQ06Xu2bBZFFVptrxDZZq) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [PO PO PO](https://open.spotify.com/album/5AYE8JjDT222UaFA1E2dD8) | 2:13 | 2023-08-23 |  |
 | [Pololo](https://open.spotify.com/track/2gmTz7pHMqAk6fpOc88qxA) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mansa](https://open.spotify.com/album/0JBjfd9NAcpgHBbllm0fQg) | 3:15 | 2022-07-28 | 2023-03-28 |
+| [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 | 2024-02-02 |  |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-28 | 2023-04-11 |
 | [RS](https://open.spotify.com/track/1rL5nZhAgxPBbG3z5hl8it) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [RS](https://open.spotify.com/album/0XmgdVruDUqVgvW8PnayIt) | 3:19 | 2022-07-28 | 2023-05-23 |
 | [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 | 2023-09-04 |  |

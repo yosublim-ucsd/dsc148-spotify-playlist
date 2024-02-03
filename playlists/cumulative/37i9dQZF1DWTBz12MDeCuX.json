@@ -10071,6 +10071,24 @@
     },
     {
       "album": {
+        "name": "F\u00fcr immer Fr\u00fchling",
+        "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
+      },
+      "artists": [
+        {
+          "name": "soffie",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "F\u00fcr immer Fr\u00fchling",
+      "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
+    },
+    {
+      "album": {
         "name": "F\u00fcr jeden aber nicht f\u00fcr dich",
         "url": "https://open.spotify.com/album/1f5h6JX9E8RO5zRW9ALMIf"
       },
@@ -22640,7 +22658,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 164986,
       "name": "Problematic",
       "url": "https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF"

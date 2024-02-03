@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 60570,
+  "num_followers": 60565,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "MjA5Miw5NzhhMmYyOGNlYWJjMGFhNzU0NDQwZGYwOWY2MDNkNTE3OTMyNDE4",
+  "snapshot_id": "MjA5NSxmNGEyNjhjYjJlNjFiMzBjN2RlNDczZjk2YTg5ZWMwNzBkYjJlYjUw",
   "tracks": [
     {
       "added_at": "2024-01-19 15:05:09",
@@ -161,20 +161,28 @@
       "url": "https://open.spotify.com/track/5QzEl5meby6CHMwERcZEHV"
     },
     {
-      "added_at": "2024-01-30 18:10:25",
+      "added_at": "2024-02-02 14:42:19",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF"
+        "name": "Barely Breathing (feat. Against The Current)",
+        "url": "https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6"
       },
       "artists": [
         {
           "name": "From Ashes to New",
           "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        },
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        },
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
         }
       ],
-      "duration_ms": 188612,
-      "name": "Barely Breathing",
-      "url": "https://open.spotify.com/track/2EIgrHayJ6eJrJVT5ZcwcC"
+      "duration_ms": 190200,
+      "name": "Barely Breathing (feat. Against The Current)",
+      "url": "https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE"
     },
     {
       "added_at": "2023-08-18 11:33:48",

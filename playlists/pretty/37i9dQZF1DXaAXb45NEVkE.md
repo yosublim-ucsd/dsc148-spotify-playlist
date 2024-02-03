@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAXb45NEVkE.md) - [plain]
 
 ### [Rap Rewind](https://open.spotify.com/playlist/37i9dQZF1DXaAXb45NEVkE)
 
-> Hold up, run that back\. Cover: JID
+> Hold up, run that back\. Cover: Future
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,617 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,659 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaAXb45NEVkE.md) - [plain]
 | 74 | [Sharing Locations \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/3J4VKkUpLvomXJbn9ZAypO) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sharing Locations \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/album/0q6qOUfC4ikWtv62KCnoip) | 2:41 |
 | 75 | [5500 Degrees \(feat\. Lil Baby, 42 Dugg & Rylo Rodriguez\)](https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:04 |
 
-Snapshot ID: `MCw5ZWIyMjQ3MTQ2Y2IyMDU0MDk1NDU5MjY1ODhhYjQ1NGFiNThiZDkz`
+Snapshot ID: `MCxlNWY2Yjg5NTIyM2QyZDNiZWU3MjNjMTJkNjY1YjU3NGU3ODkyODYx`

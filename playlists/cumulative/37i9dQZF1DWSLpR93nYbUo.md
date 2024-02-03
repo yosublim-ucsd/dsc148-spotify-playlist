@@ -2,9 +2,9 @@
 
 ### [Novos Beats](https://open.spotify.com/playlist/37i9dQZF1DWSLpR93nYbUo)
 
-> Ouça as novidades da cena eletrônica\. Foto: REDÜKT
+> Ouça as novidades da cena eletrônica\. Foto: ZAC
 
-167 songs - 9 hr 29 min
+168 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Take \- Radio Edit](https://open.spotify.com/track/3p3di0xn3SIvOSxoI3wNVf) | [Phael](https://open.spotify.com/artist/1zWOPmDwXSO50211NJHi0g), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Take](https://open.spotify.com/album/4t1IuRk9pZRPXKRvJsqRUP) | 2:30 | 2023-08-11 |  |
 | [Take It](https://open.spotify.com/track/3E6pRr10U7gMno9Ryz6HFC) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Take It](https://open.spotify.com/album/5pZy8jhvkq18dX4LoEHuem) | 3:33 | 2023-07-21 | 2023-09-23 |
 | [Take Me Higher](https://open.spotify.com/track/46llJyW3ZoNwOHmP5rF7u9) | [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Take Me Higher](https://open.spotify.com/album/7guWqurSqbQVpihJxOScAC) | 2:48 | 2023-11-10 |  |
-| [Take Me Up](https://open.spotify.com/track/6BSqFOO1C1rwU6Wqg7kvhU) | [Lucas Borchardt](https://open.spotify.com/artist/1awSZh0X5DJMLQVgx8TyeR), [Twowelve](https://open.spotify.com/artist/6SWRBTgTY3yT2GJ5TTKuDl) | [Take Me Up](https://open.spotify.com/album/5pj6lM9bSMpSMQI8Z106ns) | 2:52 | 2023-11-24 |  |
+| [Take Me Up](https://open.spotify.com/track/6BSqFOO1C1rwU6Wqg7kvhU) | [Lucas Borchardt](https://open.spotify.com/artist/1awSZh0X5DJMLQVgx8TyeR), [Twowelve](https://open.spotify.com/artist/6SWRBTgTY3yT2GJ5TTKuDl) | [Take Me Up](https://open.spotify.com/album/5pj6lM9bSMpSMQI8Z106ns) | 2:52 | 2023-11-24 | 2024-02-03 |
 | [Tasty](https://open.spotify.com/track/1T0qmEAMLiRkei11Xouph3) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1), [INGEK](https://open.spotify.com/artist/2gk1ww8aKvkheN0f6WJ0G2) | [Tasty](https://open.spotify.com/album/3GfSnsAJoEar9vU5DcKbxa) | 2:20 | 2023-09-29 |  |
 | [Tears](https://open.spotify.com/track/4J8euWtEZJmDRuFAjzAMI5) | [Lonelysoul.](https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f) | [Tears](https://open.spotify.com/album/3bjsXm28P3JAb3rvqYa684) | 2:24 | 2023-07-21 | 2023-08-26 |
 | [The City](https://open.spotify.com/track/4Flcq9esPJDhLkDEfTgJif) | [Gangbang](https://open.spotify.com/artist/4xAlQ5oAnU0WpbN23f9Dkz), [Léo Franco](https://open.spotify.com/artist/2VOTMQU40nHOrSrdt4oeFa) | [The City](https://open.spotify.com/album/15OdJgW6waMX6L4oelr5kd) | 5:09 | 2024-01-19 |  |
@@ -158,6 +158,7 @@
 | [Trippin](https://open.spotify.com/track/4iU5SbOCM3kEdkOV8Isbm1) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [Refused EP](https://open.spotify.com/album/6vX6OrdwL9rJwQold48e9C) | 3:16 | 2023-10-13 | 2023-11-25 |
 | [Trust Yourself \- RAMAH Remix](https://open.spotify.com/track/7fRkT3nEZ9dcdReEDiP8lC) | [CEVITH](https://open.spotify.com/artist/0R5cBqUk6GntjEAHrAQxjd), [RAMAH](https://open.spotify.com/artist/1Mk6KWgnA9JzOnS1TgSwJi) | [Trust Yourself \(RAMAH Remix\)](https://open.spotify.com/album/2fjKSDSWwUoVKJtzMaitUH) | 4:13 | 2023-11-17 |  |
 | [Try](https://open.spotify.com/track/6SdMZ4jklZZNtuzNVQZPCY) | [Royale BR](https://open.spotify.com/artist/6OLLWuyehNLw5nFKLok3gs) | [Try](https://open.spotify.com/album/37WRmPS6elxB9UQZw84GTH) | 2:26 | 2023-10-20 |  |
+| [TUCUPI](https://open.spotify.com/track/6ZIAW5k9yTJZUvL7mbAJKq) | [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv) | [TUCUPI](https://open.spotify.com/album/5soWmdPeZdNOxuTLZ1Q2Mo) | 6:16 | 2024-02-02 |  |
 | [Tugudu](https://open.spotify.com/track/7pobnc2nZR6B1BWXksLPz9) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1) | [Tugudu](https://open.spotify.com/album/4X8ykiffFeI1RPpC0gVAxr) | 3:31 | 2023-09-01 |  |
 | [Under the Glow](https://open.spotify.com/track/2dRRH5xLawGk6qAbuvcuhq) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD) | [Under the Glow](https://open.spotify.com/album/0lVIqGTK1L22cdO1PcwGft) | 3:11 | 2023-12-08 | 2024-01-27 |
 | [Unfair](https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Unfair](https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ) | 4:07 | 2023-10-20 |  |

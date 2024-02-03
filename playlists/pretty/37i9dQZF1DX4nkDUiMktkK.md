@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 
 > All juice
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,229 likes - 184 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,257 likes - 184 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 9 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 |
 | 10 | [tell me](https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [tell me](https://open.spotify.com/album/0JScyUkeeX2YaQXUQT9e09) | 2:43 |
 | 11 | [Last Time \(feat\. EVALINA\)](https://open.spotify.com/track/17T4FxhvOsK908WhWhk2Fn) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [EVALINA](https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE) | [Last Time \(feat\. EVALINA\)](https://open.spotify.com/album/4B2oAJbm46T1XOnHqzLSY4) | 3:05 |
-| 12 | [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 |
+| 12 | [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 |
 | 13 | [somethingsgonnaworkout](https://open.spotify.com/track/130GRQ2WBu5v7xG2hfWNBM) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [somethingsgonnaworkout](https://open.spotify.com/album/212Wc6xZwyy95uzPM91W7b) | 4:04 |
 | 14 | [Start Again \- GAUCI Remix](https://open.spotify.com/track/44egGgtkchzt3rtxCSdbS6) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm), [GAUCI](https://open.spotify.com/artist/4cZCJhHp1jIH1NZ02799nY) | [Start Again \(GAUCI Remix\)](https://open.spotify.com/album/409XopDAUORKmouS5Gl7eh) | 3:41 |
 | 15 | [That's My Shit](https://open.spotify.com/track/0V3mQisaCvNV2EOxn1N29C) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [That's My Shit](https://open.spotify.com/album/15C7YUmMrXy00kJB4Rlp5V) | 1:55 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 183 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 |
 | 184 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 |
 
-Snapshot ID: `MCwyYzBiNTBmZmViNmUyMDc1OGM3MDlhNzZhMmEzNGFiYTk0NjMxMTFk`
+Snapshot ID: `MCw3NDU0ZmY3NDdjNThlYjhlY2MyODM1M2QxMGNlYTUzNGUyYzQxNzY4`

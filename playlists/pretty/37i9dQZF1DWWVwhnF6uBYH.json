@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Alista la hielerona que nos vamos pa' las dunas!",
-  "num_followers": 436381,
+  "num_followers": 436622,
   "original_name": "Ruteando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGNmNDFjNWRjNjlmZTc4NTZlMmUyMWI4YTk0YjM3ZDY2OGUxNGM5",
+  "snapshot_id": "MCw2YzkxYTU0NzRlMmU5YzM5ZjhhN2MwZDMzNDYyMjBhODRlMjI0NmU5",
   "tracks": [
     {
       "added_at": "2023-12-29 00:00:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 179013,
-      "name": "Y LLORO",
-      "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
-    },
-    {
-      "added_at": "2023-12-29 00:00:00",
-      "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
+    },
+    {
+      "added_at": "2023-12-29 00:00:00",
+      "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "Y LLORO",
+      "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "El Rescate",
-        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 160897,
-      "name": "El Rescate",
-      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
-    },
-    {
-      "added_at": "2023-12-29 00:00:00",
-      "album": {
         "name": "La Mamoncita del Insta",
         "url": "https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 193193,
       "name": "La Mamoncita del Insta",
       "url": "https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV"
+    },
+    {
+      "added_at": "2023-12-29 00:00:00",
+      "album": {
+        "name": "El Rescate",
+        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 160897,
+      "name": "El Rescate",
+      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -1515,18 +1515,22 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+        "name": "Serafin Zambada",
+        "url": "https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 198321,
-      "name": "Sorry Pa\u2019 Los Gabachos",
-      "url": "https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS"
+      "duration_ms": 128933,
+      "name": "Seraf\u00edn Zambada",
+      "url": "https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -1563,22 +1567,18 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "Serafin Zambada",
-        "url": "https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA"
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 128933,
-      "name": "Seraf\u00edn Zambada",
-      "url": "https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN"
+      "duration_ms": 198321,
+      "name": "Sorry Pa\u2019 Los Gabachos",
+      "url": "https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+        "name": "El Jessy",
+        "url": "https://open.spotify.com/album/71461Ih39CjzfdzTu0lVkY"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
         }
       ],
-      "duration_ms": 224693,
-      "name": "Ismael Pa\u2019 Servirle",
-      "url": "https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc"
+      "duration_ms": 199041,
+      "name": "El Jessy",
+      "url": "https://open.spotify.com/track/7KQXu5evPXvbP2zFITKsLx"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "El Jessy",
-        "url": "https://open.spotify.com/album/71461Ih39CjzfdzTu0lVkY"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 199041,
-      "name": "El Jessy",
-      "url": "https://open.spotify.com/track/7KQXu5evPXvbP2zFITKsLx"
-    },
-    {
-      "added_at": "2023-12-29 00:00:00",
-      "album": {
         "name": "A Punta De Balazos (En Vivo)",
         "url": "https://open.spotify.com/album/0wI3IGO9TPx7rvtjGIsp5f"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 237700,
       "name": "A Punta De Balazos - En Vivo",
       "url": "https://open.spotify.com/track/0o26lY9phEuhqZvSKTfGcb"
+    },
+    {
+      "added_at": "2023-12-29 00:00:00",
+      "album": {
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Ismael Pa\u2019 Servirle",
+      "url": "https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc"
     },
     {
       "added_at": "2023-12-29 00:00:00",

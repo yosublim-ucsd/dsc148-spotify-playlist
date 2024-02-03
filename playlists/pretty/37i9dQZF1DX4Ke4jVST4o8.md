@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 
 > Floor fillers and big streamers of 2012.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,003 likes - 64 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,066 likes - 64 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 | 25 | [Make It Bun Dem](https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Make It Bun Dem After Hours EP](https://open.spotify.com/album/3ipNtzV1LNGEBWu4VSsmjP) | 3:33 |
 | 26 | [Greyhound](https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:50 |
 | 27 | [Call Me A Spaceman](https://open.spotify.com/track/5NYejXf1mwigePilCGLjdM) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Mitch Crown](https://open.spotify.com/artist/4m5bANP6wwn3O6xmjYxhTm) | [Spaceman](https://open.spotify.com/album/1R4ANAFrHwOdYG1tmz3gla) | 3:09 |
-| 28 | [Booty Swing](https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [The Princess, Pt\. Two](https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T) | 3:17 |
-| 29 | [Come With Me \- Radio Mix](https://open.spotify.com/track/1Ht4NJdY8adMsW540P5vG0) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Come With Me](https://open.spotify.com/album/1Z83BApqk19O0J3QAMRqaR) | 2:53 |
+| 28 | [Come With Me \- Radio Mix](https://open.spotify.com/track/1Ht4NJdY8adMsW540P5vG0) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Come With Me](https://open.spotify.com/album/1Z83BApqk19O0J3QAMRqaR) | 2:53 |
+| 29 | [Booty Swing](https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [The Princess, Pt\. Two](https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T) | 3:17 |
 | 30 | [Let's Go \(feat\. Ne\-Yo\)](https://open.spotify.com/track/4wkQmYpAaMe41Rc3sYZ7Vz) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:52 |
 | 31 | [This Is Love](https://open.spotify.com/track/7IohFKIwrb75c4XaqX7WWo) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA) | [\#willpower \(Deluxe\)](https://open.spotify.com/album/0VWYRbEcvJcPrqMGJirO6q) | 4:39 |
 | 32 | [Spectrum](https://open.spotify.com/track/1dFkD1JfRMzwO6hwUsE8aS) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Clarity](https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs) | 4:03 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 | 42 | [Party Shaker \- Video Edit](https://open.spotify.com/track/6tYYEhNoXlPfjgkMmFpd5k) | [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj), [Nicco](https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq) | [Turn This Club Around \(Limited Edition\)](https://open.spotify.com/album/1MTbILfYUrowFPEBlAetcY) | 3:26 |
 | 43 | [Bom Bom \- Radio Edit](https://open.spotify.com/track/0d5f6gzzW1Pgx9uJsLrSDP) | [Sam And The Womp](https://open.spotify.com/artist/3tgiOZXeC1DIimfprvfL64) | [Bom Bom](https://open.spotify.com/album/69onf0drqjCpyjgJsIb8BJ) | 2:54 |
 | 44 | [Paradise \- Tiësto Remix](https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Princess of China](https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7) | 4:46 |
-| 45 | [My Life Is a Party \- Radio Edit](https://open.spotify.com/track/6h7otZE1lZfWkynZKUcCqq) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [My Life Is a Party](https://open.spotify.com/album/0GKpUIgQxhMX7dAdRGfatQ) | 3:12 |
-| 46 | [Trumpsta \(feat\. Treyy G\) \- Djuro Remix](https://open.spotify.com/track/6KYQ4rsd4yg5B5iHgKxZqm) | [Contiez](https://open.spotify.com/artist/1TlTz1l8LzQ7AiXjBO77Ep), [Treyy G](https://open.spotify.com/artist/2vz513fFOvrrkuISQd1CYG) | [Trumpsta \(Djuro Remix\) \(feat\. Treyy G\)](https://open.spotify.com/album/1Ke4W881lN57tDGU9mRIaG) | 4:18 |
+| 45 | [Trumpsta \(feat\. Treyy G\) \- Djuro Remix](https://open.spotify.com/track/6KYQ4rsd4yg5B5iHgKxZqm) | [Contiez](https://open.spotify.com/artist/1TlTz1l8LzQ7AiXjBO77Ep), [Treyy G](https://open.spotify.com/artist/2vz513fFOvrrkuISQd1CYG) | [Trumpsta \(Djuro Remix\) \(feat\. Treyy G\)](https://open.spotify.com/album/1Ke4W881lN57tDGU9mRIaG) | 4:18 |
+| 46 | [My Life Is a Party \- Radio Edit](https://open.spotify.com/track/6h7otZE1lZfWkynZKUcCqq) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [My Life Is a Party](https://open.spotify.com/album/0GKpUIgQxhMX7dAdRGfatQ) | 3:12 |
 | 47 | [Disconnected](https://open.spotify.com/track/118vbJqycPASVgrYnCzb9F) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Disconnected](https://open.spotify.com/album/4ZY8kFYUysWonTFdD43aJe) | 4:01 |
 | 48 | [Professional Griefers \- Vocal Mix](https://open.spotify.com/track/173GdOjbjznHLmgcIVJ5Wr) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [> album title goes here <](https://open.spotify.com/album/0fz9O5VLlPN6gxypI3Pobx) | 4:03 |
 | 49 | [Right Now](https://open.spotify.com/track/28OX5qT45GZBuu8CNKBOj6) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 3:01 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 | 63 | [Hungry Hearts](https://open.spotify.com/track/6kILX4JxWPMGSe7lNWZmqL) | [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ) | [Hungry Hearts](https://open.spotify.com/album/6H4pJ3ttHtF4fFYHaw93Cb) | 3:45 |
 | 64 | [Drinking from the Bottle \(feat\. Tinie Tempah\)](https://open.spotify.com/track/1oHxIPqJyvAYHy0PVrDU98) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 4:00 |
 
-Snapshot ID: `MCw2NTc4ZWEzNzllNzc3MTE4ZWQ3NzNlOGNmOWExNzE3ZjY3Mzg4OTFj`
+Snapshot ID: `MCxkNDc2N2VmZmI1YWUzOTg2NGI4NGY0ZjA2M2Y5ODBhNjQ5MmVlOWE5`

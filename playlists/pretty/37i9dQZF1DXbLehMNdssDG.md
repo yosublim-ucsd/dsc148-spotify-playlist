@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 
 > Affirmations and meditation music for a mindful start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,543 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,678 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 36 | [Affirmations for Balance & Being Grounded](https://open.spotify.com/track/2m0fVnbgpjMgWdcoNPFH87) | [Jason Stephenson](https://open.spotify.com/artist/1DbGUgDfEgFlJpUVCdiBxa) | [Affirmations for Balance & Being Grounded](https://open.spotify.com/album/6FvR5yQeGcGlM8QSkjQ0yT) | 21:49 |
 | 37 | [Night Bells \(432 Hz\)](https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Night Bells \(432 Hz\)](https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr) | 2:55 |
 | 38 | [Breathing](https://open.spotify.com/track/1lyx5JqEMGDdRJIwLcBv1D) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [Breathing](https://open.spotify.com/album/1F8ju3Aa5Hs5HMKFlOspIW) | 2:30 |
-| 39 | [Chakra](https://open.spotify.com/track/0SfDJE8Q0RhjgriKxSEXSN) | [Maasoom](https://open.spotify.com/artist/7bFkM59zFpSSmQEmPIfIrg) | [Chakra](https://open.spotify.com/album/4qdm2nundmbGV2g9ppryGD) | 2:10 |
-| 40 | [Dream Spheres](https://open.spotify.com/track/5R95nZ2827mXD9aEIVxoCP) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Dream Spheres](https://open.spotify.com/album/5EH66ijsydfe1ZU9hy8OVD) | 4:25 |
+| 39 | [Dream Spheres](https://open.spotify.com/track/5R95nZ2827mXD9aEIVxoCP) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Dream Spheres](https://open.spotify.com/album/5EH66ijsydfe1ZU9hy8OVD) | 4:25 |
+| 40 | [Chakra](https://open.spotify.com/track/0SfDJE8Q0RhjgriKxSEXSN) | [Maasoom](https://open.spotify.com/artist/7bFkM59zFpSSmQEmPIfIrg) | [Chakra](https://open.spotify.com/album/4qdm2nundmbGV2g9ppryGD) | 2:10 |
 | 41 | [Emotional Resilience \- 174 Hz](https://open.spotify.com/track/3ofc1ailmJ8I8eD6M4ayrn) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Emotional Resilience \- 174 Hz](https://open.spotify.com/album/423zRtEyaDMv90lQDd6hF2) | 2:53 |
 | 42 | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/track/3mmo00VwW1NzRcK6QsfsF9) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/album/4uEYqgYfHUab4CsoioqaAn) | 2:50 |
 | 43 | [Vibrant Energy \- 174 Hz](https://open.spotify.com/track/7zYi5z2q3YlvGgGY4ldY4w) | [Tristão T](https://open.spotify.com/artist/6eLJZ8lP3vwQmeq4lgJbNZ) | [Vibrant Energy](https://open.spotify.com/album/0upFaesBpyaa1WSmeVRxLU) | 1:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 49 | [Continuing Endlessly](https://open.spotify.com/track/0IiVkUz6EE1a9OgUMr9KXB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Continuing Endlessly](https://open.spotify.com/album/0q25lL0bB1GKES6cqr15NI) | 3:03 |
 | 50 | [Courageous Healing \- 174 Hz](https://open.spotify.com/track/4XTFF9BX7qfWjTNSmydBNl) | [Sleep Sound Hub](https://open.spotify.com/artist/0eQbWfd6C8ygIpoWvUQHJY) | [Courageous Healing \- 174 Hz](https://open.spotify.com/album/4Il09onZqCgQ5keq6X1tim) | 2:27 |
 
-Snapshot ID: `MCw3NWI3OWE2MzM5YWYyZjExYWE0NWRkNjIxZDUxMDI4MzFmMmFmYmZm`
+Snapshot ID: `MCwyMmNiMmNhYzgzOWY1ZWI4NzAzNjc0ZmNkMWZiZmViMGQwNGE2YWYx`

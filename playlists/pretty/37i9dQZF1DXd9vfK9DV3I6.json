@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 301574,
+  "num_followers": 301732,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjkzYzU3N2JmNjJiZmUxMjk4MmFkM2EwZmFkNTY0MDcwY2VmNWFi",
+  "snapshot_id": "MCw2MmVmMWFiOGEzNTI5NTFhMjc4MDE2MjFjOWE4MjM0ZDllMGM5YjY0",
   "tracks": [
     {
       "added_at": "2024-01-31 06:39:37",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-01-31 06:39:37",
       "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/3XLeoHmYQrRxRqZJTsKvlU"
-      },
-      "artists": [
-        {
-          "name": "Sandra N.",
-          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
-        }
-      ],
-      "duration_ms": 186017,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
-    },
-    {
-      "added_at": "2024-01-31 06:39:37",
-      "album": {
         "name": "Dle Yaman (116 Deep Mix)",
         "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 438674,
       "name": "Dle Yaman (116 Deep Mix)",
       "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
+    },
+    {
+      "added_at": "2024-01-31 06:39:37",
+      "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/3XLeoHmYQrRxRqZJTsKvlU"
+      },
+      "artists": [
+        {
+          "name": "Sandra N.",
+          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
+        }
+      ],
+      "duration_ms": 186017,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
     },
     {
       "added_at": "2024-01-31 06:39:37",
@@ -903,30 +903,6 @@
     {
       "added_at": "2024-01-31 06:39:37",
       "album": {
-        "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
-        "url": "https://open.spotify.com/album/4nmUacLVvnSw4xO5e2bMgT"
-      },
-      "artists": [
-        {
-          "name": "Melih Aydogan",
-          "url": "https://open.spotify.com/artist/5697sWl951kKEnsCXGZarM"
-        },
-        {
-          "name": "Georgia Alexandra",
-          "url": "https://open.spotify.com/artist/0Hd8Cz0ljrjCJLnQaym8Wz"
-        },
-        {
-          "name": "Rivo",
-          "url": "https://open.spotify.com/artist/4yURwmb56ISSxwTu6G0hvY"
-        }
-      ],
-      "duration_ms": 166416,
-      "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
-      "url": "https://open.spotify.com/track/1QJhtBw5LBWEqXJBCEHNaV"
-    },
-    {
-      "added_at": "2024-01-31 06:39:37",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
       },
@@ -963,6 +939,30 @@
       "duration_ms": 381639,
       "name": "Eldorado",
       "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
+    },
+    {
+      "added_at": "2024-01-31 06:39:37",
+      "album": {
+        "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
+        "url": "https://open.spotify.com/album/4nmUacLVvnSw4xO5e2bMgT"
+      },
+      "artists": [
+        {
+          "name": "Melih Aydogan",
+          "url": "https://open.spotify.com/artist/5697sWl951kKEnsCXGZarM"
+        },
+        {
+          "name": "Georgia Alexandra",
+          "url": "https://open.spotify.com/artist/0Hd8Cz0ljrjCJLnQaym8Wz"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/4yURwmb56ISSxwTu6G0hvY"
+        }
+      ],
+      "duration_ms": 166416,
+      "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
+      "url": "https://open.spotify.com/track/1QJhtBw5LBWEqXJBCEHNaV"
     },
     {
       "added_at": "2024-01-31 06:39:37",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-01-31 06:39:37",
       "album": {
-        "name": "Ormila",
-        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
-      },
-      "artists": [
-        {
-          "name": "Majed Zane",
-          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
-        },
-        {
-          "name": "Sam Abdullah",
-          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
-        }
-      ],
-      "duration_ms": 298867,
-      "name": "Ormila",
-      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
-    },
-    {
-      "added_at": "2024-01-31 06:39:37",
-      "album": {
         "name": "Bangladesh",
         "url": "https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 147806,
       "name": "Bangladesh",
       "url": "https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf"
+    },
+    {
+      "added_at": "2024-01-31 06:39:37",
+      "album": {
+        "name": "Ormila",
+        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
+      },
+      "artists": [
+        {
+          "name": "Majed Zane",
+          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
+        },
+        {
+          "name": "Sam Abdullah",
+          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
+        }
+      ],
+      "duration_ms": 298867,
+      "name": "Ormila",
+      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
     },
     {
       "added_at": "2024-01-31 06:39:37",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2024-01-31 06:39:37",
       "album": {
-        "name": "Alchemist EP",
-        "url": "https://open.spotify.com/album/6gfX8ITCeBz0QzdHson0Rv"
-      },
-      "artists": [
-        {
-          "name": "Makebo",
-          "url": "https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu"
-        },
-        {
-          "name": "Volen Sentir",
-          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
-        }
-      ],
-      "duration_ms": 515120,
-      "name": "Alchemist",
-      "url": "https://open.spotify.com/track/3ZSINKOsHPDMp39Ttqqjee"
-    },
-    {
-      "added_at": "2024-01-31 06:39:37",
-      "album": {
         "name": "Moulat Lkhala",
         "url": "https://open.spotify.com/album/0lBFsisYQ70Sdwvhx0XZH5"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 192000,
       "name": "Moulat Lkhala",
       "url": "https://open.spotify.com/track/1wsedoySx3CLh6LwQqgxEO"
+    },
+    {
+      "added_at": "2024-01-31 06:39:37",
+      "album": {
+        "name": "Alchemist EP",
+        "url": "https://open.spotify.com/album/6gfX8ITCeBz0QzdHson0Rv"
+      },
+      "artists": [
+        {
+          "name": "Makebo",
+          "url": "https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu"
+        },
+        {
+          "name": "Volen Sentir",
+          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
+        }
+      ],
+      "duration_ms": 515120,
+      "name": "Alchemist",
+      "url": "https://open.spotify.com/track/3ZSINKOsHPDMp39Ttqqjee"
     },
     {
       "added_at": "2024-01-31 06:39:37",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-01-31 06:39:37",
       "album": {
-        "name": "Arabic Nights",
-        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Arabic Nights",
-      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
-    },
-    {
-      "added_at": "2024-01-31 06:39:37",
-      "album": {
         "name": "Buddha Bar XVII",
         "url": "https://open.spotify.com/album/7LjnEDSRp8hY1TB7fLiuRN"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 323720,
       "name": "Lik (Mashti & Polyesta Remix for Womex 14)",
       "url": "https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd"
+    },
+    {
+      "added_at": "2024-01-31 06:39:37",
+      "album": {
+        "name": "Arabic Nights",
+        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Arabic Nights",
+      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
     },
     {
       "added_at": "2024-01-31 06:39:37",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-01-31 06:39:37",
       "album": {
-        "name": "Mosaic",
-        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Mosaic",
-      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
-    },
-    {
-      "added_at": "2024-01-31 06:39:37",
-      "album": {
         "name": "Tawada",
         "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
       },
@@ -1591,6 +1575,26 @@
     {
       "added_at": "2024-01-31 06:39:37",
       "album": {
+        "name": "Talk About Us",
+        "url": "https://open.spotify.com/album/1lHEakWggs4zrnNNrv6ti0"
+      },
+      "artists": [
+        {
+          "name": "Ata Oztuna",
+          "url": "https://open.spotify.com/artist/2uhas3Xg5Hy0O5lWb0m2nP"
+        },
+        {
+          "name": "Elnur Mikayilov",
+          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
+        }
+      ],
+      "duration_ms": 196909,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/0saYIsX2qEFViag84KF26X"
+    },
+    {
+      "added_at": "2024-01-31 06:39:37",
+      "album": {
         "name": "MIRAN",
         "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
       },
@@ -1611,22 +1615,18 @@
     {
       "added_at": "2024-01-31 06:39:37",
       "album": {
-        "name": "Talk About Us",
-        "url": "https://open.spotify.com/album/1lHEakWggs4zrnNNrv6ti0"
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
       },
       "artists": [
         {
-          "name": "Ata Oztuna",
-          "url": "https://open.spotify.com/artist/2uhas3Xg5Hy0O5lWb0m2nP"
-        },
-        {
-          "name": "Elnur Mikayilov",
-          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
         }
       ],
-      "duration_ms": 196909,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/0saYIsX2qEFViag84KF26X"
+      "duration_ms": 196800,
+      "name": "Mosaic",
+      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
     },
     {
       "added_at": "2024-01-31 06:39:37",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2024-01-31 06:39:37",
       "album": {
-        "name": "La Blanche",
-        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
-      },
-      "artists": [
-        {
-          "name": "TEHRACH",
-          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
-        },
-        {
-          "name": "omar",
-          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "La Blanche",
-      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
-    },
-    {
-      "added_at": "2024-01-31 06:39:37",
-      "album": {
         "name": "Anatolian Vibe",
         "url": "https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 187779,
       "name": "Anatolian Vibe",
       "url": "https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld"
+    },
+    {
+      "added_at": "2024-01-31 06:39:37",
+      "album": {
+        "name": "La Blanche",
+        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
+      },
+      "artists": [
+        {
+          "name": "TEHRACH",
+          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
+        },
+        {
+          "name": "omar",
+          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "La Blanche",
+      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
     },
     {
       "added_at": "2024-01-31 06:39:37",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-01-31 06:39:37",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 213737,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
-    },
-    {
-      "added_at": "2024-01-31 06:39:37",
-      "album": {
         "name": "Roots LP",
         "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 178153,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
+    },
+    {
+      "added_at": "2024-01-31 06:39:37",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 213737,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
     },
     {
       "added_at": "2024-01-31 06:39:37",

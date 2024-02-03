@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Henrik",
-  "num_followers": 888373,
+  "num_followers": 888570,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWM3ZTRkZjBkYmE5YzdiYTQ4MGJlZDFiYWMwZmZhZGE0NTAzZWZj",
+  "snapshot_id": "MCw1MWEwYWZmMjA2YjJkZDNkZDkyOWE0MTVjNmQzNTk5YTkyYTFjYWE2",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -127,7 +127,7 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Jesus Song (County Line)",
+        "name": "jesus song (county line)",
         "url": "https://open.spotify.com/album/39a2hRQJCgzJdZFVRQJIR5"
       },
       "artists": [
@@ -137,7 +137,7 @@
         }
       ],
       "duration_ms": 188576,
-      "name": "Jesus Song (County Line)",
+      "name": "jesus song (county line)",
       "url": "https://open.spotify.com/track/0sfqrYeRPs5tJISfVGQscT"
     },
     {
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Atlas: I",
-        "url": "https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 180086,
-      "name": "You Are Enough",
-      "url": "https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH"
-    },
-    {
       "added_at": "2023-12-27 16:57:47",
       "album": {
         "name": "The Other Side",
@@ -515,6 +499,22 @@
       "duration_ms": 164227,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/7hVZJGsh5fxFtwaqgJq1nf"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Atlas: I",
+        "url": "https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 180086,
+      "name": "You Are Enough",
+      "url": "https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Evangeline",
-        "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177880,
-      "name": "Evangeline",
-      "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 216120,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Evangeline",
+        "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177880,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Your Bones",
-        "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Your Bones",
-      "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+        "name": "Your Bones",
+        "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
         }
       ],
-      "duration_ms": 292080,
-      "name": "First Light",
-      "url": "https://open.spotify.com/track/0xCYHtz6bHgKY9zqP7Yciu"
+      "duration_ms": 159400,
+      "name": "Your Bones",
+      "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -891,6 +875,22 @@
       "duration_ms": 178573,
       "name": "London's Song",
       "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 292080,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/0xCYHtz6bHgKY9zqP7Yciu"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -997,20 +997,20 @@
       "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Signal Sender",
-        "url": "https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy"
+        "name": "How Much Longer?",
+        "url": "https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV"
       },
       "artists": [
         {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
         }
       ],
-      "duration_ms": 200137,
-      "name": "Signal Sender",
-      "url": "https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm"
+      "duration_ms": 243798,
+      "name": "How Much Longer?",
+      "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1035,6 +1035,22 @@
       "duration_ms": 211066,
       "name": "Sweet Ever After (feat. Bear Rinehart of NEEDTOBREATHE)",
       "url": "https://open.spotify.com/track/0zdLZywwUVyg8xnzzxgDBP"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Signal Sender",
+        "url": "https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "duration_ms": 200137,
+      "name": "Signal Sender",
+      "url": "https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 185583,
-      "name": "My Repair",
-      "url": "https://open.spotify.com/track/4dxzf0bWuBb0AYs25VNL3y"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "We\u2019re All Gonna Die",
         "url": "https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4"
       },
@@ -1121,20 +1121,20 @@
       "url": "https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "How Much Longer?",
-        "url": "https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV"
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
       "artists": [
         {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
         }
       ],
-      "duration_ms": 243798,
-      "name": "How Much Longer?",
-      "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
+      "duration_ms": 185583,
+      "name": "My Repair",
+      "url": "https://open.spotify.com/track/4dxzf0bWuBb0AYs25VNL3y"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 167865,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 209813,
       "name": "The Worst Of You",
       "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/5QC8ECRS0aZK0Vpoo1AorE"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 167865,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/3oCorEb2RJOrGlpRcUy3Bn"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Leave It Better Than You Found It",
         "url": "https://open.spotify.com/album/5rGQr2kYqMdISOjXQJkul8"
       },
@@ -1405,20 +1421,20 @@
       "url": "https://open.spotify.com/track/73OY8N8vCvK9iKuPoEtSNG"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/2zwQsQOUckjqeOZ8Id2hVL"
       },
       "artists": [
         {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
         }
       ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+      "duration_ms": 202000,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/0Z375dvneNK9D6Bc5JnjhF"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1435,22 +1451,6 @@
       "duration_ms": 211826,
       "name": "Wintergreen",
       "url": "https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Leave",
-        "url": "https://open.spotify.com/album/2zwQsQOUckjqeOZ8Id2hVL"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Leave",
-      "url": "https://open.spotify.com/track/0Z375dvneNK9D6Bc5JnjhF"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Hugo Barriol",
+          "url": "https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk"
         }
       ],
-      "duration_ms": 266999,
-      "name": "letting go",
-      "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
+      "duration_ms": 186973,
+      "name": "Our Kingdom",
+      "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1515,22 +1515,6 @@
       "duration_ms": 179731,
       "name": "Blood Red",
       "url": "https://open.spotify.com/track/3tJ3FGEU3wKpE8cNDiu060"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
-      },
-      "artists": [
-        {
-          "name": "Hugo Barriol",
-          "url": "https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "Our Kingdom",
-      "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Twin Forks",
+        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
+      },
+      "artists": [
+        {
+          "name": "Twin Forks",
+          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
+        }
+      ],
+      "duration_ms": 170962,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "fifth avenue",
         "url": "https://open.spotify.com/album/5pOGpCTL403o4QYXoZQ9zh"
       },
@@ -1611,22 +1611,6 @@
       "duration_ms": 136378,
       "name": "Waves",
       "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Twin Forks",
-        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
-      },
-      "artists": [
-        {
-          "name": "Twin Forks",
-          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
-        }
-      ],
-      "duration_ms": 170962,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1675,6 +1659,22 @@
       "duration_ms": 196240,
       "name": "Never Come Back Again",
       "url": "https://open.spotify.com/track/4yRlTvPVfEyhXfp6GZurq9"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "same old eyes",
+        "url": "https://open.spotify.com/album/037rgatHuGpK38geQio3H0"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 190843,
+      "name": "same old eyes",
+      "url": "https://open.spotify.com/track/6nrtAP312bEU352crkOQtu"
     },
     {
       "added_at": "2023-12-15 05:00:00",

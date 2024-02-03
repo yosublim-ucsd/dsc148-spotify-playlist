@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 946051,
+  "num_followers": 945894,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzcwZTQ2ZDkwZGE4NzFiNzhjMjFkMGE1YjY3ZGY5OTI5MGUyNDZj",
+  "snapshot_id": "MCw5YWU4MzAwZWIwMGVjYWU0MjY5YjQzNjk0NTFhMzRkYmZhMzE1NmI0",
   "tracks": [
     {
       "added_at": "2024-01-05 14:31:40",
@@ -663,26 +663,6 @@
     {
       "added_at": "2024-01-05 14:31:40",
       "album": {
-        "name": "Seja Louco",
-        "url": "https://open.spotify.com/album/5Gr3jsmL0Jb291VTdFiqsE"
-      },
-      "artists": [
-        {
-          "name": "Mariana & Mateus",
-          "url": "https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl"
-        },
-        {
-          "name": "\u00cdcaro e Gilmar",
-          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
-        }
-      ],
-      "duration_ms": 159950,
-      "name": "Seja Louco",
-      "url": "https://open.spotify.com/track/2xtzAzvXznNX03U9wk3s5S"
-    },
-    {
-      "added_at": "2024-01-05 14:31:40",
-      "album": {
         "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
       },
@@ -695,6 +675,22 @@
       "duration_ms": 191866,
       "name": "Contram\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/5g2HVlqROusgDTtun6Y5Tn"
+    },
+    {
+      "added_at": "2024-01-05 14:31:40",
+      "album": {
+        "name": "Amor Da Sua Cama",
+        "url": "https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        }
+      ],
+      "duration_ms": 188309,
+      "name": "Amor Da Sua Cama",
+      "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
     },
     {
       "added_at": "2024-01-05 14:31:40",
@@ -719,18 +715,22 @@
     {
       "added_at": "2024-01-05 14:31:40",
       "album": {
-        "name": "Amor Da Sua Cama",
-        "url": "https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv"
+        "name": "Seja Louco",
+        "url": "https://open.spotify.com/album/5Gr3jsmL0Jb291VTdFiqsE"
       },
       "artists": [
         {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+          "name": "Mariana & Mateus",
+          "url": "https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl"
+        },
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
         }
       ],
-      "duration_ms": 188309,
-      "name": "Amor Da Sua Cama",
-      "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
+      "duration_ms": 159950,
+      "name": "Seja Louco",
+      "url": "https://open.spotify.com/track/2xtzAzvXznNX03U9wk3s5S"
     },
     {
       "added_at": "2024-01-05 14:31:40",

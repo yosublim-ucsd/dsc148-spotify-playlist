@@ -2,9 +2,9 @@
 
 ### [Contemporary Blend](https://open.spotify.com/playlist/37i9dQZF1DWViBxWcYEI1b)
 
-> For those with a taste for both the new and the classic\. Cover: Tom Odell
+> For those with a taste for both the new and the classic\. Cover: RAYE
 
-997 songs - 2 day 7 hr 6 min
+1,000 songs - 2 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Dream Girl Evil](https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:47 | 2022-05-13 | 2022-08-20 |
 | [Dreamer](https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow) | 3:01 | 2022-07-01 | 2022-09-03 |
 | [Dreaming](https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Dreaming](https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK) | 2:50 | 2023-10-20 |  |
+| [Dreaming](https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs) | 3:28 | 2024-02-02 |  |
 | [drive](https://open.spotify.com/track/1POBIDmX5L8lDEQSkO1DBi) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [drive](https://open.spotify.com/album/0DbML0JCn2c8JhNYwx2Fcu) | 2:46 | 2023-04-07 | 2023-06-24 |
 | [Drive](https://open.spotify.com/track/5oyHgqf93ZcAZPjCgRyEd7) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Drive](https://open.spotify.com/album/3sMzUHaEAZDFunQuKf8KlT) | 3:08 | 2021-12-17 | 2022-07-29 |
 | [Drive](https://open.spotify.com/track/6FiYhc84q8hslbpp34mgpv) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Voyager](https://open.spotify.com/album/4oW79uwZX037zy4Z7h8YYf) | 3:08 | 2022-07-22 | 2022-08-20 |
@@ -322,7 +323,7 @@
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-19 | 2023-09-09 |
 | [Full Circle](https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:54 | 2021-12-17 | 2022-08-20 |
 | [Full Circle](https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Full Circle](https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8) | 3:19 | 2023-03-31 | 2023-06-03 |
-| [Galileo Galilei](https://open.spotify.com/track/3Ox5iyqF3SeTC2bqOA9V9u) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0) | 3:19 | 2023-09-08 |  |
+| [Galileo Galilei](https://open.spotify.com/track/3Ox5iyqF3SeTC2bqOA9V9u) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0) | 3:19 | 2023-09-08 | 2024-02-03 |
 | [Gasoline](https://open.spotify.com/track/5iMXlszZ6cagxuO0AhVYyx) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Gasoline](https://open.spotify.com/album/4rYabhSgc7ty0NZnjKEY8c) | 3:40 | 2022-01-28 | 2022-03-26 |
 | [Get To You](https://open.spotify.com/track/2rVa5NEiR88cxBSN90pB9N) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Get To You](https://open.spotify.com/album/5f2GDWsjoPArgMMfshdxtZ) | 3:08 | 2023-05-26 | 2023-07-01 |
 | [Ghost](https://open.spotify.com/track/3Y4N8nfJJFOIG6MKDwhu2J) | [Liya Bombardier](https://open.spotify.com/artist/5Mpu0Q3NtAKnagP9pUJrxk) | [Ghost](https://open.spotify.com/album/4hptK4zfRg1fqHZtncMhCA) | 3:32 | 2023-01-13 | 2023-04-09 |
@@ -438,7 +439,7 @@
 | [I Lied](https://open.spotify.com/track/5heAqtCudxZOs7YBKlx6Xn) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [I Lied](https://open.spotify.com/album/57y3Aq08ImuZe2hXgCIQlz) | 3:23 | 2022-04-01 | 2022-05-14 |
 | [I Live In Patterns \(feat\. Alix Page\)](https://open.spotify.com/track/7LDHQfiTWtQ4VMJA1Cm7Vv) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc), [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [I Live In Patterns \(feat\. Alix Page\)](https://open.spotify.com/album/1F97dMZ1k8BwYp9H9bNswN) | 3:42 | 2022-12-02 | 2023-03-04 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-01-28 | 2022-05-20 |
-| [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-08-25 |  |
+| [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-08-25 | 2024-02-03 |
 | [I should call my mom](https://open.spotify.com/track/3eLf5darT8r7GIeEmgwAaQ) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [I should call my mom](https://open.spotify.com/album/7qVlcmFyBzxCU1dzOIN3cS) | 3:00 | 2023-05-12 | 2023-08-05 |
 | [I Surrender](https://open.spotify.com/track/072QqxZxkYBiyCYwIlKu22) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246) | [I Surrender](https://open.spotify.com/album/1gCj0HMnNlQC8nvft7EeTx) | 5:01 | 2022-09-16 | 2022-10-01 |
 | [I Take It Back](https://open.spotify.com/track/6DcI73tbK4PoyI3GGV4zZS) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:59 | 2023-04-14 | 2023-04-29 |
@@ -610,6 +611,7 @@
 | [Medicine](https://open.spotify.com/track/28xPS2Els3jTO6pdgp2znH) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [Medicine](https://open.spotify.com/album/39D1A6YzvcAGdELvfnh9YG) | 2:42 | 2023-11-17 | 2024-01-27 |
 | [Meet The Moonlight](https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG) | 5:05 | 2022-05-13 | 2022-08-20 |
 | [Memories](https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:08 | 2022-07-22 | 2022-10-29 |
+| [Memories](https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Memories](https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09) | 2:59 | 2024-02-02 |  |
 | [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:45 | 2021-12-17 | 2022-01-10 |
 | [Messy](https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:43 | 2023-06-30 | 2023-08-05 |
 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 | 2023-05-19 | 2023-09-02 |
@@ -912,7 +914,8 @@
 | [Touchy Feely Fool](https://open.spotify.com/track/3PY47EpOouHdbDI4z5jw3v) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Maybe Man](https://open.spotify.com/album/1bU12iHHt5ujHbuKcIGlpm) | 3:35 | 2023-11-10 | 2024-01-27 |
 | [Trash Can](https://open.spotify.com/track/2wBFARKyNwkL7f1Fjsl1Zh) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Trash Can](https://open.spotify.com/album/17iGRF0zmObmYu2BseX8Oy) | 3:53 | 2023-10-27 |  |
 | [Trouble](https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble](https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp) | 3:34 | 2023-07-21 | 2023-12-23 |
-| [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2023-09-29 |  |
+| [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2023-09-29 | 2024-02-03 |
+| [Turn the Lights Back On](https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turn the Lights Back On](https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC) | 3:58 | 2024-02-02 |  |
 | [Turn the Radio Up \(feat\. Jewel\)](https://open.spotify.com/track/1nNfkK3cfckAyTmNRk1b60) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Turn the Radio Up](https://open.spotify.com/album/4Ok4zpUyKd6vCaqa5D5vTJ) | 3:19 | 2022-05-06 | 2022-05-20 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 | 2022-08-06 |
 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 | 2023-11-17 |  |

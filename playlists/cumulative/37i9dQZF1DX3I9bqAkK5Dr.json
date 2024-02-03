@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 194000,
       "name": "Alai Balai",
       "url": "https://open.spotify.com/track/6FrKmVd9tp2vygYXxcvHjV"
@@ -380,6 +380,24 @@
       "duration_ms": 275744,
       "name": "Cheliya",
       "url": "https://open.spotify.com/track/2jiVEfxgGsN4Q1oQ2f2QFy"
+    },
+    {
+      "album": {
+        "name": "Cheppave Cheliya",
+        "url": "https://open.spotify.com/album/26vE3bRx6ijKcIudIE8B7L"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kim",
+          "url": "https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232971,
+      "name": "Cheppave Cheliya",
+      "url": "https://open.spotify.com/track/1qhBKQdbMO4VfOZfyof28Y"
     },
     {
       "album": {
@@ -764,6 +782,24 @@
       "duration_ms": 328208,
       "name": "Emone",
       "url": "https://open.spotify.com/track/1AKX0Ru582qT5rUG2FYCUh"
+    },
+    {
+      "album": {
+        "name": "O Katha",
+        "url": "https://open.spotify.com/album/4mj1O1w8H5TjhoYWzyKxYC"
+      },
+      "artists": [
+        {
+          "name": "Alluri",
+          "url": "https://open.spotify.com/artist/1MJd59IWbIWtj6CdlJhWG8"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205400,
+      "name": "Endukala (Lovers No More)",
+      "url": "https://open.spotify.com/track/6WavcWZXgeh0cvGvkh5tS6"
     },
     {
       "album": {
@@ -1306,7 +1342,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 277329,
       "name": "Kalaganna",
       "url": "https://open.spotify.com/track/1snRYWGCeIzCKQXvpYQFhD"
@@ -3887,6 +3923,24 @@
     },
     {
       "album": {
+        "name": "Telugu Bhasha",
+        "url": "https://open.spotify.com/album/70P4Be7U3B8ANL5tYjdHjg"
+      },
+      "artists": [
+        {
+          "name": "MaaHaa",
+          "url": "https://open.spotify.com/artist/2nON7IMoqVBIWONZabqWBC"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182060,
+      "name": "Telugu Bhasha",
+      "url": "https://open.spotify.com/track/3spnmQIfqbs7WApfP1l5uh"
+    },
+    {
+      "album": {
         "name": "Telugu Flow",
         "url": "https://open.spotify.com/album/70gsV2nrvydHTwVRGUbUsA"
       },
@@ -4072,7 +4126,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 183632,
       "name": "Uhhh!",
       "url": "https://open.spotify.com/track/12RU8E5yuDnIAqwiOufys7"

@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 60968,
+  "2024-02-03": 61084,
   "date_first_scraped": "2023-05-02",
   "description": "Sitting in a cozy caf\u00e9 studying while the rain is pouring down outside. ",
   "name": "Jazz in the Rain",
@@ -515,6 +515,24 @@
       "duration_ms": 225266,
       "name": "Detour Ahead (Rain)",
       "url": "https://open.spotify.com/track/7f8cCtFCSEVOU5c8WDX5Iw"
+    },
+    {
+      "album": {
+        "name": "Downfall",
+        "url": "https://open.spotify.com/album/6Yl1lhoCj9VAsuNSgxV13i"
+      },
+      "artists": [
+        {
+          "name": "Lee Davis",
+          "url": "https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172122,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/2dv3ZXTz70qDYe5OpMouWP"
     },
     {
       "album": {

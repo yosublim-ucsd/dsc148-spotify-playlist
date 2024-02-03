@@ -4,7 +4,7 @@
 
 > 💔 tan fácil que es enamorarme y tan difícil olvidarte 💔
 
-76 songs - 4 hr 46 min
+77 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Culpables](https://open.spotify.com/track/2zufEOvbBeIzYnRktwYk1W) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [ADN](https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi) | 3:53 | 2023-11-10 |  |
 | [De Lejitos](https://open.spotify.com/track/5uJPN3dCdYpDV5pa9llRAT) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [De Lejitos](https://open.spotify.com/album/7lNO8DgAnX90iKx5xHDEbw) | 2:39 | 2024-01-26 |  |
 | [Dime Que Me Quieres](https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw) | [Grupo Vallenato](https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE) | [Vallenato Fest](https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06) | 5:16 | 2023-11-10 |  |
-| [El Jardín Prohibido](https://open.spotify.com/track/5ucu31GZ6Sxw5K8OgrFTxI) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/6MCkKGtuyBZRfS1xvH3mvr) | 5:25 | 2023-11-10 |  |
+| [El Jardín Prohibido](https://open.spotify.com/track/5ucu31GZ6Sxw5K8OgrFTxI) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/6MCkKGtuyBZRfS1xvH3mvr) | 5:25 | 2023-11-10 | 2024-02-03 |
 | [El Problema](https://open.spotify.com/track/4fq7LJ43lbr1OYB93KvBDI) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [El Problema](https://open.spotify.com/album/1GnZsUWgomAWdrU6lj49lf) | 3:35 | 2023-11-10 |  |
 | [Entre La Espada y La Pared](https://open.spotify.com/track/0342wDs42Efmi0BuaWO6zA) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Entre La Espada Y La Pared](https://open.spotify.com/album/6BfyCa897cBsKTTRqqnD1E) | 5:37 | 2023-11-10 | 2024-01-27 |
 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 | 2023-11-10 |  |
@@ -48,6 +48,7 @@
 | [No Ha Sido Fácil](https://open.spotify.com/track/1D0fa8zeEp0gU5jOraOVTh) | [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [No Ha Sido Fácil](https://open.spotify.com/album/4YDg10zuhEK5catbTFm4C0) | 3:10 | 2023-11-10 |  |
 | [No Pude Quitarte las Espinas](https://open.spotify.com/track/0kboeujB0vMltPld2uhRPR) | [Erick Escobar Nayo Quintero Y La Decision Vallenata](https://open.spotify.com/artist/1fWDfU0nNn9izFAjKDaMWO) | [Vallenatos Bonitos Bonitos](https://open.spotify.com/album/3zwrFhwgWu2efe7YcS68zn) | 3:55 | 2023-11-10 |  |
 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 | 2023-11-10 |  |
+| [No será tan fácil](https://open.spotify.com/track/7yfyNiC49ss9R6bnBlbk1W) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [No será tan fácil](https://open.spotify.com/album/0hz0nWmyDOOhlnEmMO3xKd) | 2:55 | 2024-02-02 |  |
 | [Nunca Comprendi Tu Amor](https://open.spotify.com/track/3bHaEgoiLOAFgll66PpqTU) | [Rugido Vallenato](https://open.spotify.com/artist/3jjsdnDxKqpce2JuEXp11j) | [30 Vallenatos Pegaditos](https://open.spotify.com/album/7oj4qPIDO56UXqltslNqm5) | 4:44 | 2023-11-10 |  |
 | [Obsesión \(feat\. Ramiro Better\)](https://open.spotify.com/track/4yc290Q5nIELODhKyntBhP) | [Estrellas Vallenatas](https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7), [Ramiro Better](https://open.spotify.com/artist/1zCl36J3uAuup64ADqK5Pw) | [Homenaje](https://open.spotify.com/album/4CCxY26bO2H9QJe0Y71l1u) | 3:34 | 2023-11-10 |  |
 | [Odio Gitano](https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK), [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Juntos Otra Vez](https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr) | 2:37 | 2023-11-10 | 2024-01-27 |

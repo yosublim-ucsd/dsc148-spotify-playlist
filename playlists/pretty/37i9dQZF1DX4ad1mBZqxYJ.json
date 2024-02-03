@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Cortes modernos pa' los compas con estilo!",
-  "num_followers": 90912,
+  "num_followers": 90962,
   "original_name": "Barber\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2U5NmQ1MDU3YzIwNWM0YWIxNjQwZTkwZjVkYzZkNDE0MTJhYmUz",
+  "snapshot_id": "MCxhODE0NDMzMmIxNDY2ZGRhODFjZWQ3NDAwNjQyYjg0Njk4YWIyZmJi",
   "tracks": [
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 196864,
-      "name": "Fuga Pa Cali 2",
-      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "Ley Seca",
+      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 230693,
       "name": "Una Locura",
       "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Ley Seca",
-      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "duration_ms": 232853,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 181106,
       "name": "SEJODIOTO",
       "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        }
-      ],
-      "duration_ms": 232853,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Andamos Mejor",
-        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 137183,
-      "name": "Andamos Mejor",
-      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 198493,
       "name": "T\u00fa Me Dejaste De Querer",
       "url": "https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Andamos Mejor",
+        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 137183,
+      "name": "Andamos Mejor",
+      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Un Suspir\u00f3",
-        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 184411,
-      "name": "Un Suspir\u00f3",
-      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "D\u00e9cimo Aniversario",
         "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 216066,
       "name": "Quizas",
       "url": "https://open.spotify.com/track/5Id5B3dxJZhPcV9GzgYZZe"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Un Suspir\u00f3",
+        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 184411,
+      "name": "Un Suspir\u00f3",
+      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 168560,
+      "name": "Ruc\u00f3n",
+      "url": "https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
         "name": "911 (Remix)",
         "url": "https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 208631,
       "name": "911 (Remix)",
       "url": "https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 168560,
-      "name": "Ruc\u00f3n",
-      "url": "https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2003,42 +2003,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Se Me Olvid\u00f3",
-        "url": "https://open.spotify.com/album/6sbeex4HisXrm68OJuUR2g"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 220300,
-      "name": "Se Me Olvid\u00f3",
-      "url": "https://open.spotify.com/track/6mDaKsBN1KHIBfeNXJwhZk"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 174432,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
         "url": "https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb"
       },
@@ -2075,6 +2039,42 @@
       "duration_ms": 413110,
       "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 174432,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Se Me Olvid\u00f3",
+        "url": "https://open.spotify.com/album/6sbeex4HisXrm68OJuUR2g"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 220300,
+      "name": "Se Me Olvid\u00f3",
+      "url": "https://open.spotify.com/track/6mDaKsBN1KHIBfeNXJwhZk"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2199,26 +2199,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "L-Gante: Bzrp Music Sessions, Vol. 38",
-        "url": "https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 192347,
-      "name": "L-Gante: Bzrp Music Sessions, Vol.38",
-      "url": "https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "Golpe Avisa",
         "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
       },
@@ -2231,6 +2211,26 @@
       "duration_ms": 213480,
       "name": "Los Mensajes del Whatsapp",
       "url": "https://open.spotify.com/track/2MJVc9F85EPNiSfD1KKhC9"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
+        "url": "https://open.spotify.com/album/3aZthZKHMbbleXcilISjha"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 171215,
+      "name": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
+      "url": "https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2315,22 +2315,22 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
-        "url": "https://open.spotify.com/album/3aZthZKHMbbleXcilISjha"
+        "name": "Canela",
+        "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         },
         {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 171215,
-      "name": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
-      "url": "https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI"
+      "duration_ms": 204629,
+      "name": "Canela",
+      "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2355,26 +2355,6 @@
       "duration_ms": 186833,
       "name": "Cuidando El Territorio",
       "url": "https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "Canela",
-        "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 204629,
-      "name": "Canela",
-      "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2439,6 +2419,26 @@
       "duration_ms": 156944,
       "name": "Up",
       "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "L-Gante: Bzrp Music Sessions, Vol. 38",
+        "url": "https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 192347,
+      "name": "L-Gante: Bzrp Music Sessions, Vol.38",
+      "url": "https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2619,6 +2619,22 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
+        "name": "FEEL ME??",
+        "url": "https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 187331,
+      "name": "FEEL ME??",
+      "url": "https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
         "name": "Belico El Asunto (En Vivo)",
         "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
       },
@@ -2635,22 +2651,6 @@
       "duration_ms": 208680,
       "name": "Belico El Asunto (En Vivo)",
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "FEEL ME??",
-        "url": "https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 187331,
-      "name": "FEEL ME??",
-      "url": "https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2935,26 +2935,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Te Marqu\u00e9 Pedo",
-        "url": "https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX"
-      },
-      "artists": [
-        {
-          "name": "Alex Luna",
-          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Te Marqu\u00e9 Pedo",
-      "url": "https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "Mucho para M\u00ed",
         "url": "https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5"
       },
@@ -2971,6 +2951,26 @@
       "duration_ms": 310262,
       "name": "Mucho para M\u00ed",
       "url": "https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Te Marqu\u00e9 Pedo",
+        "url": "https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Te Marqu\u00e9 Pedo",
+      "url": "https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2995,18 +2995,18 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Temporada de Reggaet\u00f3n",
-        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
+        "name": "SHADYXV",
+        "url": "https://open.spotify.com/album/6wdSf72duVewXTqhYU3Z87"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 146815,
-      "name": "TOP 5",
-      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
+      "duration_ms": 320626,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/77Ft1RJngppZlq59B6uP0z"
     }
   ],
   "unique_name": "Barber\u00eda",

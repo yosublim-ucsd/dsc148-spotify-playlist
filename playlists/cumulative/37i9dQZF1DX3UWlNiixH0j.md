@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Age Factory
 
-1,292 songs - 3 day 8 hr 17 min
+1,293 songs - 3 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,8 +580,9 @@
 | [Rain Candy \- feat\. Misi Ke](https://open.spotify.com/track/4PNxVoZMVzv6zDfKvneo9i) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [Rain Dreams \(feat\. Misi Ke\)](https://open.spotify.com/album/2tt31lYf9Uzg9Cys2XRDZk) | 2:27 | 2023-10-10 | 2023-10-28 |
 | [RAINBOW](https://open.spotify.com/track/0RH0ixWWULcPcG48aXX5Y6) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [RAINBOW](https://open.spotify.com/album/31JC7DKLZhDpMvYVHEfpSB) | 2:12 | 2023-01-31 | 2023-02-22 |
 | [Rainbow Light Eyes](https://open.spotify.com/track/13VrYQ0GkLoqcHhLezrKOl) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Rainbow Light Eyes](https://open.spotify.com/album/0AoYZYkXxDRo3iT7Wzwk9H) | 3:12 | 2023-06-27 | 2023-08-23 |
+| [RainRain](https://open.spotify.com/track/30bOjGU8xpB1zvccSN9udZ) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Hold You Again](https://open.spotify.com/album/1ffToXM1wZRTerYmAiIu5g) | 4:50 | 2024-02-01 |  |
 | [RainRain](https://open.spotify.com/track/382csZGIXhIwBPTXiBqjSt) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [RainRain](https://open.spotify.com/album/22IRy53zNivNN48RwqF7N1) | 4:50 | 2023-06-13 | 2023-06-15 |
-| [RainRain](https://open.spotify.com/track/5X3cQ46Ekm50vcdjpokdEC) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [RainRain](https://open.spotify.com/album/0gAGsoAIdUK5i1iGQWhoud) | 4:50 | 2023-06-13 |  |
+| [RainRain](https://open.spotify.com/track/5X3cQ46Ekm50vcdjpokdEC) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [RainRain](https://open.spotify.com/album/0gAGsoAIdUK5i1iGQWhoud) | 4:50 | 2023-06-13 | 2024-02-03 |
 | [Rainy Day](https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Rainy Day](https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu) | 3:01 | 2023-11-24 | 2023-12-06 |
 | [Ramble In The Rainbow](https://open.spotify.com/track/3WYs9M0Cn1h9D6bHlfBjYW) | [TAMTAM](https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN) | [Ramble In The Rainbow](https://open.spotify.com/album/21XAQLhqdawyfWcf4iC6Sq) | 4:03 | 2024-01-18 |  |
 | [Ravel](https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [fab](https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT) | 3:39 | 2023-01-12 | 2023-01-25 |

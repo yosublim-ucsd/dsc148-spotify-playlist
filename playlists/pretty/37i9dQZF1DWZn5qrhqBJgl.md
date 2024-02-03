@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 
 > Dope global beat makers\. <a href="spotify:artist:4fOizZJsCaT3RYpqNdeGKk">Thanks Joey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,857 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,916 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 5 | [Anata](https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 2:19 |
 | 6 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 |
 | 7 | [Papi \- Instrumental](https://open.spotify.com/track/1VeFGeFeMw607RUCZKzgJa) | [LBandy](https://open.spotify.com/artist/0KgDFmrEx0ezsgblUjCxoA) | [Woo Luv : Guitars & Emo Trap \(Instrumental\)](https://open.spotify.com/album/7j0aJqD2B3VvPYPzlSSyOc) | 2:16 |
-| 8 | [Lifted](https://open.spotify.com/track/7Gtaq3mJs8K4CY58TjCk9j) | [DJ Lethal Skillz](https://open.spotify.com/artist/7F3kgeoTzXbi5JLPylw4qW) | [Above the Clouds](https://open.spotify.com/album/0An0CtQgoD3lTBajLZ5BKT) | 3:15 |
+| 8 | [Heliolingus](https://open.spotify.com/track/27Z1479QzFOWOaSRbWpgEu) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [Heliolingus](https://open.spotify.com/album/2lLzW831DY8i0fHoDeSAF0) | 2:52 |
 | 9 | [Ladybug](https://open.spotify.com/track/0mPnvBoUK9kNDHufFrh9Vb) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv) | [Lucid Dreams](https://open.spotify.com/album/273zbmoNYTJDuyeiaVahl0) | 1:56 |
-| 10 | [Heliolingus](https://open.spotify.com/track/27Z1479QzFOWOaSRbWpgEu) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [Heliolingus](https://open.spotify.com/album/2lLzW831DY8i0fHoDeSAF0) | 2:52 |
+| 10 | [Lifted](https://open.spotify.com/track/7Gtaq3mJs8K4CY58TjCk9j) | [DJ Lethal Skillz](https://open.spotify.com/artist/7F3kgeoTzXbi5JLPylw4qW) | [Above the Clouds](https://open.spotify.com/album/0An0CtQgoD3lTBajLZ5BKT) | 3:15 |
 | 11 | [Chill in Lydda](https://open.spotify.com/track/205BdRvvSaHf4LldyoRIkM) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY), [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Chill in Lydda](https://open.spotify.com/album/2oJRkGteUQziUCaE16Gxvu) | 2:36 |
 | 12 | [west](https://open.spotify.com/track/53euCZa2GQ6kN18ZxU1dbf) | [Sereen](https://open.spotify.com/artist/7rB1y5WUwQqiiCmNxFzunH) | [west](https://open.spotify.com/album/2KRk8B1FmtNsMJQAVPsauR) | 2:57 |
 | 13 | [HAAT \- Instrumental](https://open.spotify.com/track/0pnrPBK0MYReAMf6l4RTWf) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [HAAT](https://open.spotify.com/album/2U7D4ig5znapF4r32R2mFn) | 2:30 |
@@ -31,16 +31,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 21 | [Convo](https://open.spotify.com/track/38bkmIxxZMQC1f6m0JXFl6) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Redux](https://open.spotify.com/album/1shfaj98aEPsCz6k6B2O9o) | 2:31 |
 | 22 | [Selflessly](https://open.spotify.com/track/1tiurfNf4pcUra6NJiJJ1b) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [How Did We](https://open.spotify.com/album/5fipQ4LDq89FOPhQUd1KpB) | 3:01 |
 | 23 | [Coco \- Instrumental](https://open.spotify.com/track/1xt1HCunOlnrI5UiPNAZaM) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Coco](https://open.spotify.com/album/0bil6MWGHYccY9YHiwiJgK) | 2:54 |
-| 24 | [Crushing](https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [Crushing](https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV) | 2:11 |
-| 25 | [The Ace](https://open.spotify.com/track/3YphbgGJ1GfEGhMmIOthk6) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC), [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q), [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Ace](https://open.spotify.com/album/1zg8XpwtPKoLgGurMkz5Op) | 2:24 |
-| 26 | [Le jour où j'ai arrêté le rap \(Instrumental\)](https://open.spotify.com/track/4SRYBEVd6ChjJYBhaObHpk) | [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV) | [Le jour où j'ai arrêté le rap](https://open.spotify.com/album/5h0M4Xlf1r5mYvjhKTMrzY) | 3:22 |
-| 27 | [Hotel](https://open.spotify.com/track/2JWTVS3ndZcwJrabnCAWvD) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Glazed](https://open.spotify.com/album/25z7PJPi2VM4jg3trb5C12) | 2:39 |
-| 28 | [Palms](https://open.spotify.com/track/7qv2HDiHFE1ln2VfLtOxFh) | [JordanXL](https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq) | [Palms](https://open.spotify.com/album/6U4DUbGERHdkeYDvBRKZ45) | 2:32 |
-| 29 | [Eshkol](https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Eshkol](https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV) | 1:58 |
-| 30 | [Spectra](https://open.spotify.com/track/0wW2h34ktVMnLMKZG57FRk) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Rudimentary](https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy) | 2:09 |
-| 31 | [Adults](https://open.spotify.com/track/7qw54hVGKg32hCy37pOkqA) | [Kray Stax](https://open.spotify.com/artist/18U2xdC8wtA3Jl6mQcrjWS) | [Adults](https://open.spotify.com/album/2VS6Va3gr1cGiMi2E9SPPE) | 3:37 |
-| 32 | [Ik Vari Do Vari](https://open.spotify.com/track/6tEhSz0ct5TlKXBsSNWIHa) | [Rafael Aragon](https://open.spotify.com/artist/4WPMUBMIM4Pv1T4Qq3DIPs), [Stas](https://open.spotify.com/artist/1nqPoRk7WaEiRBTNn6NFyG) | [Arabstazy \- Under Frustration Vol\. 2](https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW) | 5:22 |
-| 33 | [Draai Je Om \- Instrumental](https://open.spotify.com/track/7KVqGZPu3a2IaCUx6wbXLR) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Draai Je Om](https://open.spotify.com/album/75LwEJvg8k29QAbzPGQXaf) | 3:14 |
+| 24 | [The Ace](https://open.spotify.com/track/3YphbgGJ1GfEGhMmIOthk6) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC), [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q), [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Ace](https://open.spotify.com/album/1zg8XpwtPKoLgGurMkz5Op) | 2:24 |
+| 25 | [Crushing](https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [Crushing](https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV) | 2:11 |
+| 26 | [Hotel](https://open.spotify.com/track/2JWTVS3ndZcwJrabnCAWvD) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Glazed](https://open.spotify.com/album/25z7PJPi2VM4jg3trb5C12) | 2:39 |
+| 27 | [Le jour où j'ai arrêté le rap \(Instrumental\)](https://open.spotify.com/track/4SRYBEVd6ChjJYBhaObHpk) | [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV) | [Le jour où j'ai arrêté le rap](https://open.spotify.com/album/5h0M4Xlf1r5mYvjhKTMrzY) | 3:22 |
+| 28 | [Eshkol](https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Eshkol](https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV) | 1:58 |
+| 29 | [Palms](https://open.spotify.com/track/7qv2HDiHFE1ln2VfLtOxFh) | [JordanXL](https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq) | [Palms](https://open.spotify.com/album/6U4DUbGERHdkeYDvBRKZ45) | 2:32 |
+| 30 | [Adults](https://open.spotify.com/track/7qw54hVGKg32hCy37pOkqA) | [Kray Stax](https://open.spotify.com/artist/18U2xdC8wtA3Jl6mQcrjWS) | [Adults](https://open.spotify.com/album/2VS6Va3gr1cGiMi2E9SPPE) | 3:37 |
+| 31 | [Draai Je Om \- Instrumental](https://open.spotify.com/track/7KVqGZPu3a2IaCUx6wbXLR) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Draai Je Om](https://open.spotify.com/album/75LwEJvg8k29QAbzPGQXaf) | 3:14 |
+| 32 | [Spectra](https://open.spotify.com/track/0wW2h34ktVMnLMKZG57FRk) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Rudimentary](https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy) | 2:09 |
+| 33 | [Ik Vari Do Vari](https://open.spotify.com/track/6tEhSz0ct5TlKXBsSNWIHa) | [Rafael Aragon](https://open.spotify.com/artist/4WPMUBMIM4Pv1T4Qq3DIPs), [Stas](https://open.spotify.com/artist/1nqPoRk7WaEiRBTNn6NFyG) | [Arabstazy \- Under Frustration Vol\. 2](https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW) | 5:22 |
 | 34 | [Chasin Daisys](https://open.spotify.com/track/6Ubd7b9qq9gihaR8WElv7m) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Chasin Daisys](https://open.spotify.com/album/7GT5JveFqzf8ugLQOaunBe) | 2:11 |
 | 35 | [Be Mine](https://open.spotify.com/track/0H1tDY1dWsJk4f7Y9TmzdN) | [Amine Maxwell](https://open.spotify.com/artist/7fBgvBDrg5ZA7YvweEd1Ii) | [Be Mine](https://open.spotify.com/album/3D4AoTdYFTk0kWbSd9kBR8) | 2:02 |
 | 36 | [Arrival](https://open.spotify.com/track/7uzPqqddeuLnSf22N4nCJm) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Arrival](https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe) | 2:45 |
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 40 | [SMOK](https://open.spotify.com/track/5XpYOIYN3y5ggxZvbul5VV) | [Sinan Öktem](https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv) | [SMOK](https://open.spotify.com/album/4LJj9F5Y9gzeCQzO2sc5x7) | 2:40 |
 | 41 | [\#Untitled\_02](https://open.spotify.com/track/7yu6WGaUefaIYpzcbU3ZpR) | [VAN](https://open.spotify.com/artist/6awrCroyD97KIRrAP7wFbh) | [\#Untitled \#Unmixed \#Unmastered](https://open.spotify.com/album/44b1CTlnNcYPhK9on5GYZo) | 2:33 |
 | 42 | [Farmingdale](https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ) | [Goldspell](https://open.spotify.com/artist/2gmP9WC9aV1ETtETCW0yF1) | [Farmingdale](https://open.spotify.com/album/0H08iAhi6Cv8iSh2QfZBuO) | 3:00 |
-| 43 | [Stay at Home](https://open.spotify.com/track/1wuw2GQNMCx8H5b6ax3Twr) | [ElNasser](https://open.spotify.com/artist/3D5Jdjpumogr3FInXkSP7R) | [Stay at Home](https://open.spotify.com/album/61k37mAg1fytpQuGhzKwOL) | 2:55 |
-| 44 | [Birdie\_ \- Instrumental](https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY) | [Birdie\_](https://open.spotify.com/album/4tkmEfZLyCSUjGwjJsm9Le) | 2:29 |
+| 43 | [Peepers](https://open.spotify.com/track/2QOgqwD5LGbYjneDPaO8Lq) | [Nadamondi](https://open.spotify.com/artist/4y5xvBnDBSkmelTGDShAhJ) | [Act Upon](https://open.spotify.com/album/4SuOSkTWZgHNY2HAD8SDmB) | 2:11 |
+| 44 | [Stay at Home](https://open.spotify.com/track/1wuw2GQNMCx8H5b6ax3Twr) | [ElNasser](https://open.spotify.com/artist/3D5Jdjpumogr3FInXkSP7R) | [Stay at Home](https://open.spotify.com/album/61k37mAg1fytpQuGhzKwOL) | 2:55 |
 | 45 | [Deserted Tree](https://open.spotify.com/track/3qhJ26BGjhOLOFfdNtFOgd) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Deserted Tree](https://open.spotify.com/album/5fr2qkbIr8nqvexltrf1E1) | 2:45 |
-| 46 | [Peepers](https://open.spotify.com/track/2QOgqwD5LGbYjneDPaO8Lq) | [Nadamondi](https://open.spotify.com/artist/4y5xvBnDBSkmelTGDShAhJ) | [Act Upon](https://open.spotify.com/album/4SuOSkTWZgHNY2HAD8SDmB) | 2:11 |
+| 46 | [Birdie\_ \- Instrumental](https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY) | [Birdie\_](https://open.spotify.com/album/4tkmEfZLyCSUjGwjJsm9Le) | 2:29 |
 | 47 | [If You Show Me Love](https://open.spotify.com/track/60xIJpG6Iah0i5IQxyRlXK) | [Sereen](https://open.spotify.com/artist/7rB1y5WUwQqiiCmNxFzunH) | [If You Show Me Love](https://open.spotify.com/album/6O0f7boDgPl6KhA1YIAR2i) | 1:30 |
 | 48 | [Emot](https://open.spotify.com/track/62ej1SzgHt0FU9nP43qQZs) | [TheeAgris](https://open.spotify.com/artist/6je5mA0FQskRZ5PHgxczTB) | [Emot](https://open.spotify.com/album/0LvbwjOGgBviZPFgTpJQf7) | 2:26 |
 | 49 | [yoyogi park](https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [tv\-guides \. \(mini\-tape\)](https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi) | 1:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 59 | [Xvibe](https://open.spotify.com/track/0jDRb7fzYpHLHodknLCmBt) | [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Xvibe](https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7) | 0:52 |
 | 60 | [Voodoo \- Instrumental](https://open.spotify.com/track/0ISh9y2wlGf8HcW4pQEExt) | [EQuBE](https://open.spotify.com/artist/1vKZWmYdp9BQAbtrX9ORuu), [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [Voodoo](https://open.spotify.com/album/1cTDghTuyLnfMytADE4RQN) | 3:20 |
 
-Snapshot ID: `MCw5NjEwZDdlYzYyNWE4NjVjYTFjOTZlZmZhMTg5YWNhNjJkNGMxZjIy`
+Snapshot ID: `MCw0MTJjYjc1Yzc1NGE0MjAwODBlMjQ2YmIxZWIzZTI0OWRlMGFiYTRj`

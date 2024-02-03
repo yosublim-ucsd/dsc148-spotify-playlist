@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 45110,
+  "num_followers": 45155,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODEyZWE0MzgzNDQyYzc5NjJjODZkOTZiMjA0MmY4MTUyZjBhOGFh",
+  "snapshot_id": "MCw3MDBlYjYxODhlYmVjZWI3YjI0MDRhMWZkNmJkNWZiZGMwMzI3ODg1",
   "tracks": [
     {
       "added_at": "2023-08-23 10:31:46",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Big Band Bounce & Boogie",
-        "url": "https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk"
-      },
-      "artists": [
-        {
-          "name": "Lucky Millinder",
-          "url": "https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Apollo Jump",
-      "url": "https://open.spotify.com/track/2udbMDGYCNJd9Yc4S5YQ8l"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "The Complete Imperial Recordings, 1950-1954",
         "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 150173,
       "name": "Strollin' With Bones",
       "url": "https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Big Band Bounce & Boogie",
+        "url": "https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk"
+      },
+      "artists": [
+        {
+          "name": "Lucky Millinder",
+          "url": "https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Apollo Jump",
+      "url": "https://open.spotify.com/track/2udbMDGYCNJd9Yc4S5YQ8l"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Guitar And Banjo Of Reverend Gary Davis",
-        "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 144373,
-      "name": "Slow Drag (Cincinnati Flow Rag) - Instrumental",
-      "url": "https://open.spotify.com/track/3TbRCDUuUTxQW4y2KUz1MJ"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Guitar",
         "url": "https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI"
       },
@@ -331,18 +315,18 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Genuine Houserocking Music",
-        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+        "name": "The Guitar And Banjo Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
       },
       "artists": [
         {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 157506,
-      "name": "Phillips Goes Bananas",
-      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
+      "duration_ms": 144373,
+      "name": "Slow Drag (Cincinnati Flow Rag) - Instrumental",
+      "url": "https://open.spotify.com/track/3TbRCDUuUTxQW4y2KUz1MJ"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -363,6 +347,22 @@
       "duration_ms": 326173,
       "name": "Really",
       "url": "https://open.spotify.com/track/2gkEufrsoGisa7p4rh6K22"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Genuine Houserocking Music",
+        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Phillips Goes Bananas",
+      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "The Peacock Recordings: 1949-1959",
+        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 154506,
+      "name": "Okie Dokie Stomp",
+      "url": "https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "In the Skies",
         "url": "https://open.spotify.com/album/6t9AXiAHR0S6BFKzVYNTQB"
       },
@@ -419,18 +435,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+        "name": "Super Session (with Al Kooper & Stephen Stills)",
+        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
       "artists": [
         {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+        },
+        {
+          "name": "Al Kooper",
+          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
         }
       ],
-      "duration_ms": 154506,
-      "name": "Okie Dokie Stomp",
-      "url": "https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6"
+      "duration_ms": 255066,
+      "name": "Blues for Nothing",
+      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -463,26 +483,6 @@
       "duration_ms": 161479,
       "name": "Blue Guitar",
       "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Super Session (with Al Kooper & Stephen Stills)",
-        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
-      },
-      "artists": [
-        {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
-        },
-        {
-          "name": "Al Kooper",
-          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Blues for Nothing",
-      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Theresa Fungus Amung Us",
-        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 267506,
-      "name": "End Of The Blues",
-      "url": "https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "The Peacock Recordings: 1949-1959",
         "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 173000,
       "name": "Ain't That Dandy",
       "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Theresa Fungus Amung Us",
+        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 267506,
+      "name": "End Of The Blues",
+      "url": "https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "All Kinds Of Blues",
-        "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
-      },
-      "artists": [
-        {
-          "name": "Memphis Slim",
-          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Frankie And Johnny Boogie",
-      "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Second Album",
         "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 205400,
       "name": "Tribute To Elmore James",
       "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "All Kinds Of Blues",
+        "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
+      },
+      "artists": [
+        {
+          "name": "Memphis Slim",
+          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Frankie And Johnny Boogie",
+      "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Texas Sensation",
+        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "The Stumble",
+      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "Super Session (with Al Kooper & Stephen Stills)",
         "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 418493,
       "name": "Albert's Shuffle - 2002 Remix w/o Horns",
       "url": "https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Texas Sensation",
-        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "The Stumble",
-      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "R&B from the Marquee / At the Cavern (Remastered)",
+        "url": "https://open.spotify.com/album/435zTVZqyNJba4YteDro9M"
+      },
+      "artists": [
+        {
+          "name": "Alexis Korner's Blues Incorporated",
+          "url": "https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN"
+        }
+      ],
+      "duration_ms": 150465,
+      "name": "Gotta Move",
+      "url": "https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "The Spiekeroog Sessions",
         "url": "https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 263276,
       "name": "If You're Not Mine",
       "url": "https://open.spotify.com/track/4cPfagXa1RWHPx6rZcIdgS"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "R&B from the Marquee / At the Cavern (Remastered)",
-        "url": "https://open.spotify.com/album/435zTVZqyNJba4YteDro9M"
-      },
-      "artists": [
-        {
-          "name": "Alexis Korner's Blues Incorporated",
-          "url": "https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN"
-        }
-      ],
-      "duration_ms": 150465,
-      "name": "Gotta Move",
-      "url": "https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll"
     },
     {
       "added_at": "2023-08-23 10:31:46",

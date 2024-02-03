@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 103050,
+  "num_followers": 103182,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWIzMGFiZTFlNWZjYmIwMWM5YzBlNzM4YmQ4MWEyOWJmZmMwNmNm",
+  "snapshot_id": "MCw2MjU0M2Y1YTA5ZDJiMDQ5NzhlNWM4ZmFkMmI5ZWRhMDMwMzVjMjI5",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -403,22 +403,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "The Very Best",
-        "url": "https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 421853,
-      "name": "Senor Blues",
-      "url": "https://open.spotify.com/track/3MiHG7FiEk56qiHNuWaZiz"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Clifford Brown And Max Roach",
         "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 414266,
       "name": "The Blues Walk",
       "url": "https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 421853,
+      "name": "Senor Blues",
+      "url": "https://open.spotify.com/track/3MiHG7FiEk56qiHNuWaZiz"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -539,6 +539,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Red's Blues",
+        "url": "https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "duration_ms": 400373,
+      "name": "Ralph J. Gleason Blues",
+      "url": "https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Horace Silver And The Jazz Messengers",
         "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 787933,
       "name": "Ba-Lue Bolivar Ba-Lues-Are",
       "url": "https://open.spotify.com/track/1OjmEyEycmzJK3itBAq8EG"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Red's Blues",
-        "url": "https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        }
-      ],
-      "duration_ms": 400373,
-      "name": "Ralph J. Gleason Blues",
-      "url": "https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR"
     },
     {
       "added_at": "2020-10-12 18:15:54",

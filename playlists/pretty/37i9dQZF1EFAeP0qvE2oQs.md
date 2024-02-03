@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAeP0qvE2oQs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6bllSJNua7UnV0Nr9wFwmE">girl in red</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 828 likes - 25 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 828 likes - 24 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAeP0qvE2oQs.md) - [plain]
 | 12 | [You Stupid Bitch](https://open.spotify.com/track/65wEZxhPlAERKLcSbTD7qc) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:15 |
 | 13 | [forget her](https://open.spotify.com/track/5vFuoZLvUmAzzIiLSEhk0K) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 2:23 |
 | 14 | [Rue](https://open.spotify.com/track/4EoE743bWWiZ4ttkdPCNbA) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:36 |
-| 15 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
-| 16 | [i need to be alone.](https://open.spotify.com/track/2wHmH8OGgU6qi8NrLl0VRY) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i need to be alone.](https://open.spotify.com/album/3UN8IYnBeUlkCjdb7B34EY) | 2:56 |
-| 17 | [I'll Call You Mine](https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:21 |
-| 18 | [Body And Mind](https://open.spotify.com/track/6GFrELGVKBXRcrTNkwjSfF) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:06 |
-| 19 | [two queens in a king sized bed](https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII) | 3:10 |
-| 20 | [say anything](https://open.spotify.com/track/14x3OHwwyfDz0S9u1IxGRf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [say anything](https://open.spotify.com/album/6uwwBscD3q3ZGNTezjvvEL) | 2:22 |
-| 21 | [hornylovesickmess](https://open.spotify.com/track/6JOv2beX03Jnvxj578vm4A) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 2:55 |
-| 22 | [Did You Come?](https://open.spotify.com/track/0vOJBOg4bqd5PSY8k4DYny) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:10 |
-| 23 | [Apartment 402](https://open.spotify.com/track/1IvX2Dtx4OGoRy6E7fxcA6) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:25 |
-| 24 | [it would feel like this](https://open.spotify.com/track/0o2KnhHD5nFFgbfL6cQtY7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 1:20 |
-| 25 | [something new](https://open.spotify.com/track/5HGZJeGaJsHHgKy95BAai0) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [MOOMINVALLEY 2 \(Official Soundtrack\)](https://open.spotify.com/album/2SuMYxHuybyoaBLSDkQ5Rc) | 3:25 |
+| 15 | [i need to be alone.](https://open.spotify.com/track/2wHmH8OGgU6qi8NrLl0VRY) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i need to be alone.](https://open.spotify.com/album/3UN8IYnBeUlkCjdb7B34EY) | 2:56 |
+| 16 | [I'll Call You Mine](https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:21 |
+| 17 | [Body And Mind](https://open.spotify.com/track/6GFrELGVKBXRcrTNkwjSfF) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:06 |
+| 18 | [two queens in a king sized bed](https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII) | 3:10 |
+| 19 | [say anything](https://open.spotify.com/track/14x3OHwwyfDz0S9u1IxGRf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [say anything](https://open.spotify.com/album/6uwwBscD3q3ZGNTezjvvEL) | 2:22 |
+| 20 | [hornylovesickmess](https://open.spotify.com/track/6JOv2beX03Jnvxj578vm4A) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 2:55 |
+| 21 | [Did You Come?](https://open.spotify.com/track/0vOJBOg4bqd5PSY8k4DYny) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:10 |
+| 22 | [Apartment 402](https://open.spotify.com/track/1IvX2Dtx4OGoRy6E7fxcA6) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:25 |
+| 23 | [it would feel like this](https://open.spotify.com/track/0o2KnhHD5nFFgbfL6cQtY7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 1:20 |
+| 24 | [something new](https://open.spotify.com/track/5HGZJeGaJsHHgKy95BAai0) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [MOOMINVALLEY 2 \(Official Soundtrack\)](https://open.spotify.com/album/2SuMYxHuybyoaBLSDkQ5Rc) | 3:25 |
 
-Snapshot ID: `Mjg0NDczMjAsMDAwMDAwMDBhNTUwNjJjY2RkZTg4NmEyZGNlZDNhMzJkMDRkZjZlZA==`
+Snapshot ID: `Mjg0NDg3NjAsMDAwMDAwMDAzOGI4ODRiMDFiOTUyYTMxZWMyOTcwMjFmZTVhZWQwOQ==`

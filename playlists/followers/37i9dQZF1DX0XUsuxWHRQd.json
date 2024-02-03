@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 15626092,
+  "2024-02-03": 15626135,
   "date_first_scraped": "2019-05-26",
   "description": "Music from Drake, 21 Savage, Kid Cudi and Travis Scott. ",
   "name": "RapCaviar",
@@ -25111,6 +25111,24 @@
       "duration_ms": 186842,
       "name": "Over Your Head",
       "url": "https://open.spotify.com/track/0Tcw8w9pvPrZoORgxsNASW"
+    },
+    {
+      "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb"
+      },
+      "artists": [
+        {
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233360,
+      "name": "Overnight Celebrity",
+      "url": "https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj"
     },
     {
       "album": {

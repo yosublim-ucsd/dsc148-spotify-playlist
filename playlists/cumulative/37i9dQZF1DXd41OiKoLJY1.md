@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> Fresh releases from your future favorite artists\. Cover: Darlene Artwork: Isu Kim
+> Fresh releases from your future favorite artists\. Cover: No Lore Artwork: Isu Kim
 
 2,010 songs - 4 day 23 hr 12 min
 
@@ -410,7 +410,7 @@
 | [Day 1's](https://open.spotify.com/track/1wDDJksKr54KrHc3gftNja) | [Jo$h](https://open.spotify.com/artist/2WLHdtgNOvCzFd47N5bkiP), [Corrgtd](https://open.spotify.com/artist/1wkoRzaLhMGNfNEp7Lj9pV) | [Day 1's](https://open.spotify.com/album/5Ljh9MlaIgxdbEnMVWdqtj) | 3:28 | 2023-08-31 | 2023-09-29 |
 | [Day Before](https://open.spotify.com/track/0lmnQPG2BPxjyfkknYTdHh) | [Seedy and the Years](https://open.spotify.com/artist/5LYwhbctqV0n2qSpWvQdrh) | [Day Before](https://open.spotify.com/album/6qQfFBZQ1rqE8HG6UmRB0s) | 4:03 | 2024-01-18 |  |
 | [Daya Daya](https://open.spotify.com/track/63TngUmy648xDvHdB3PIMn) | [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [Daya Daya](https://open.spotify.com/album/0JEdyHXQMUFLakNGjtJCyL) | 2:52 | 2023-10-26 | 2023-12-09 |
-| [Daydream](https://open.spotify.com/track/1W8rCE5z36BZlZKztaXLDa) | [Darlene](https://open.spotify.com/artist/7B1vvIi6vy0g3iyVjWDmen) | [Daydream](https://open.spotify.com/album/1jtIntpJlo26sHOcNlBoLD) | 3:03 | 2024-02-01 |  |
+| [Daydream](https://open.spotify.com/track/1W8rCE5z36BZlZKztaXLDa) | [Darlene](https://open.spotify.com/artist/7B1vvIi6vy0g3iyVjWDmen) | [Daydream](https://open.spotify.com/album/1jtIntpJlo26sHOcNlBoLD) | 3:03 | 2024-02-01 | 2024-02-03 |
 | [Daydreaming](https://open.spotify.com/track/2pQo51PRZvlEi4SkpGbDpV) | [Marga Jayy](https://open.spotify.com/artist/04Bq2hRCsdZEQ9cKVDXN3R) | [Daydreaming](https://open.spotify.com/album/6T2a65KuRgowiBv8r8BIsF) | 6:10 | 2023-03-23 | 2023-04-14 |
 | [Daylight](https://open.spotify.com/track/19UN16mgucQdQ1dlj6WG6o) | [Philly Nick](https://open.spotify.com/artist/6ZZIuxXZHgHU9Ad3yRaxj5), [1400](https://open.spotify.com/artist/3khYSaUr7GBHWZY0ZdzbQr) | [Daylight](https://open.spotify.com/album/2WQU5nu0FV6qYe6AUOBbCq) | 2:18 | 2023-03-09 | 2023-03-31 |
 | [Daylily](https://open.spotify.com/track/1u9pD6SKSkKEz9UvUVuWoi) | [Steve Badiola](https://open.spotify.com/artist/0PT7Befyt4NRBHOee7IDQV) | [Daylily](https://open.spotify.com/album/4auMJ1rYBXxOqJwDmJzPsu) | 4:08 | 2023-03-30 | 2023-04-21 |

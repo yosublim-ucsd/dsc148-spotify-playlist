@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,512 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,557 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 11 | [Thoovum Mazhai](https://open.spotify.com/track/7cyFE1Eg8QmktBjmLt8hAy) | [Yashomati](https://open.spotify.com/artist/0F9yghjGcpuaz1ugJyvcum) | [Thoovum Mazhai](https://open.spotify.com/album/1SOBdMjcOnXxL88XIhL3vQ) | 4:25 |
 | 12 | [Ranganaa](https://open.spotify.com/track/43IUMVJK6qYgjq5dPzUO8j) | [Jo](https://open.spotify.com/artist/7rTuLzJBUcmKeqfqxuhv94), [Kavindya Adikari](https://open.spotify.com/artist/7qionbkzGDNdQeqwBExzqB), [Cozzy](https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5) | [Ranganaa](https://open.spotify.com/album/7Abooc4IFECT3bOeejP6eB) | 3:22 |
 | 13 | [Needhane](https://open.spotify.com/track/3QRJbhOuqVgPNFQIUjahLl) | [Mk Muziq](https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M), [Raksha](https://open.spotify.com/artist/27aTvR4Pih0yEX79D8uu1C) | [Needhane](https://open.spotify.com/album/1FjxA0FBd0aa5r2ra86QC8) | 2:40 |
-| 14 | [Nenaivugal](https://open.spotify.com/track/7pqQF9w3PHmbm8IIITNkTR) | [Mr.Black](https://open.spotify.com/artist/2A1NXdIWhtD7PYEGo2VBTh) | [Nenaivugal](https://open.spotify.com/album/0S3Uxiq141KlLUwHuLk35C) | 4:28 |
+| 14 | [Nenaivugal](https://open.spotify.com/track/7pqQF9w3PHmbm8IIITNkTR) | [MR\. Black](https://open.spotify.com/artist/082CBP6Qs4Y8UJTxGYVVhd) | [Nenaivugal](https://open.spotify.com/album/0S3Uxiq141KlLUwHuLk35C) | 4:28 |
 | 15 | [Oru Paarvai](https://open.spotify.com/track/3CRuPRCfetM8q1L9xPloyw) | [Srini Vasan](https://open.spotify.com/artist/3lOepsCr1cfJYBm14d77Bw) | [Oru Paarvai](https://open.spotify.com/album/5XJcvKbj9WzygWDEENDqyW) | 4:31 |
 | 16 | [Kadhal Nodigal](https://open.spotify.com/track/769WWvSINZ4xYmL07TLnpZ) | [Dakshan Kumar N](https://open.spotify.com/artist/0VU3rDfAC1So5cgajgl5ls), [Wow Karthik Kumar](https://open.spotify.com/artist/64SrfLQUA8pKnNt9poKQf8), [Maanasi G Kannan](https://open.spotify.com/artist/6OXAnYyxRl5HCYhmqxbEAx) | [Kadhal Nodigal](https://open.spotify.com/album/0gOquhieGwYkXXKx4e3892) | 5:46 |
 | 17 | [Tholvi Kondavar Naam](https://open.spotify.com/track/34ruDKLw6OXTU0pB5tEmjL) | [The songs of society](https://open.spotify.com/artist/1gIjLVjVt6WtdyOe93BL0U) | [Tholvi Kondavar Naam](https://open.spotify.com/album/0tuTX1iY4xZ4ZCWZjeneI4) | 5:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 74 | [Idhan Gaana](https://open.spotify.com/track/1naa4iFduSjQxX8b0lCpKs) | [Kaimalu Gokul](https://open.spotify.com/artist/6YqcexB8QhYETy5Ujm0GOs), [Joy Sanjay](https://open.spotify.com/artist/3fFpEhwwEtLCMoUUJLKcYB) | [Idhan Gaana](https://open.spotify.com/album/747Azf5u7bpSWTWUSZ0FiQ) | 2:53 |
 | 75 | [Gang Hood](https://open.spotify.com/track/7D0R0Uvg629nn7oejhsMR2) | [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G), [Ice Roy](https://open.spotify.com/artist/6DQkxcm0dnMxOHybgePB7r), [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf) | [Gang Hood](https://open.spotify.com/album/36airy06GYpsfs4FStuLDI) | 3:00 |
 
-Snapshot ID: `MCw4NTc4OWNkZDI5ZmM5NGExM2YyMWY3Mjk2N2U2MmI5NTYxYmU0ZDJm`
+Snapshot ID: `MCxjOGM2NmIwNWUzZTgwZDk0ODc5ZmRiZGYzYWE5NWVmMjg3NmZlZmI4`

@@ -523,6 +523,24 @@
     },
     {
       "album": {
+        "name": "MAHORO (Instrumental)",
+        "url": "https://open.spotify.com/album/7iPCwmAAliYJEfAU1UPWoR"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251800,
+      "name": "Ai Ga Sutaretatte - Instrumental",
+      "url": "https://open.spotify.com/track/02jGDV1UmoVugsWbd8lqt6"
+    },
+    {
+      "album": {
         "name": "Aimi",
         "url": "https://open.spotify.com/album/1XPjRCV2dXW1YeZeGClE23"
       },
@@ -13514,7 +13532,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 251800,
       "name": "\u611b\u304c\u5ec3\u308c\u305f\u3063\u3066 - Instrumental",
       "url": "https://open.spotify.com/track/3JCWebd4sVMpxStBvFpoJS"

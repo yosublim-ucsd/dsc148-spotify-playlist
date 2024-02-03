@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-157 songs - 8 hr 30 min
+158 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [NIGHTS WITHOUT YOU](https://open.spotify.com/track/0NCrt951A09LYmxbGdqW8N) | [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [NIGHTS WITHOUT YOU](https://open.spotify.com/album/6uqyYLRgrlKjlIIfz3Hoid) | 2:58 | 2022-07-28 | 2022-08-10 |
 | [NIGHTS WITHOUT YOU](https://open.spotify.com/track/3qQT9PyPFmLN1RjZ3GOabf) | [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [Albeezy](https://open.spotify.com/artist/6rGR0F8POeXk3rnuEKfa4L), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [TEARS AND PURPLE EMOTIONS](https://open.spotify.com/album/5gtq2kLk7zAOBdtpufuMXz) | 3:07 | 2022-07-28 | 2023-02-17 |
 | [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 | 2022-08-12 | 2024-01-09 |
-| [No Love \(18 Plus\)](https://open.spotify.com/track/6Z1DykyiIiBbypmK44WTdF) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [No Love \(18 Plus\)](https://open.spotify.com/album/58m9uHYdYZrjRje9ZMbYPB) | 3:47 | 2023-09-29 |  |
+| [No Love \(18 Plus\)](https://open.spotify.com/track/6Z1DykyiIiBbypmK44WTdF) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [No Love \(18 Plus\)](https://open.spotify.com/album/58m9uHYdYZrjRje9ZMbYPB) | 3:47 | 2023-09-29 | 2024-02-03 |
 | [No Love \(18 Plus\)](https://open.spotify.com/track/79OOvZE5uMhVJE6m2l0mPa) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [No Love \(18 Plus\)](https://open.spotify.com/album/0oyBl0Gt0gQGIjyUGssjX1) | 3:47 | 2022-11-24 | 2023-09-02 |
 | [Nobody](https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Live From Nkrumah Krom Vol II: Home Run](https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh) | 3:33 | 2022-02-11 | 2023-02-28 |
 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 | 2023-12-08 |  |
@@ -132,6 +132,7 @@
 | [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 | 2022-11-18 | 2024-01-30 |
 | [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 | 2023-05-11 |  |
 | [Routine Lover](https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Routine Lover](https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj) | 2:48 | 2023-09-29 |  |
+| [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 | 2024-02-02 |  |
 | [Runaway](https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Runaway](https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T) | 3:40 | 2022-04-07 |  |
 | [San](https://open.spotify.com/track/0yYDvvZMeTqSUV5wLyP2Wm) | [Maayaa](https://open.spotify.com/artist/7rGlPTV1a2qZygXRYutXoP), [Akan](https://open.spotify.com/artist/01oqDvyAJgoEp2C8k9nOfS) | [Chapter Red](https://open.spotify.com/album/79HVNi9MisNf7sJsLo3Trz) | 3:33 | 2022-02-11 | 2022-07-28 |
 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 | 2023-04-20 |  |

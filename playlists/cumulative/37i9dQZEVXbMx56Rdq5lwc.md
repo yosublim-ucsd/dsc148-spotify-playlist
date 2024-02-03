@@ -4,14 +4,14 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,457 songs - 3 day 7 hr 47 min
+1,458 songs - 3 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2023-10-28 | 2023-11-01 |
 | [\#RihannaMove](https://open.spotify.com/track/6qtKg3ZVcEgfsdDaHRBzXu) | [Shevy O'shea](https://open.spotify.com/artist/3BOPBYb0mEmjMwEoFH9jNZ) | [\#RihannaMove](https://open.spotify.com/album/4DXvWE5WtSf3JoJQktuYvZ) | 1:52 | 2021-05-20 | 2021-07-20 |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/1SwmINnHRKk4RiZGdarOv1) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana](https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc) | 3:51 | 2023-11-09 | 2023-11-13 |
-| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-16 |  |
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-16 | 2024-02-03 |
 | [1 0 0 \. m i l ‘ \(with Bas\)](https://open.spotify.com/track/4n6NDfYake476trCjJRNl0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:43 | 2021-05-16 | 2021-05-17 |
 | [10 Years](https://open.spotify.com/track/4O0LQKVT6hGmVGNwizmydg) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x) | 2:46 | 2021-05-21 | 2021-06-23 |
 | [10:35](https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:52 | 2023-04-22 | 2023-04-30 |
@@ -641,6 +641,7 @@
 | [LABANAKT VOL2](https://open.spotify.com/track/6jAoVV2Q21lqfHGxTjFwls) | [Gabrielė Vilkickytė](https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy) | [VILKO ŠVELNUMAS](https://open.spotify.com/album/7mnMiGdr3rZQ1wDlPfXOzd) | 3:58 | 2021-05-19 | 2021-05-21 |
 | [LABANAKT VOL2](https://open.spotify.com/track/5cJd7ol2YvWFqYFmDILNNX) | [Gabrielė Vilkickytė](https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy) | [LABANAKT VOL2](https://open.spotify.com/album/7vHAD1GF14bvDkl6qt8ekY) | 3:58 | 2021-03-27 | 2021-03-30 |
 | [Labyrinth](https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:07 | 2022-10-22 | 2022-10-24 |
+| [LAIKAI MANE](https://open.spotify.com/track/2xeSVn85HLRMfCNtAgYnyd) | [ba.](https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf) | [LAIKAI MANE](https://open.spotify.com/album/17mhHjXzqCtD2OHasW0wfq) | 3:38 | 2024-02-02 |  |
 | [Laikas Negydo](https://open.spotify.com/track/78Ry00x6UzlCPY8MFg189X) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Apkabinti Prisiminimus](https://open.spotify.com/album/7a6yvohFsFbRkQarmnJHcz) | 3:07 | 2022-01-26 | 2022-01-30 |
 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 | 2023-11-11 | 2023-11-17 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-11-25 | 2023-01-03 |

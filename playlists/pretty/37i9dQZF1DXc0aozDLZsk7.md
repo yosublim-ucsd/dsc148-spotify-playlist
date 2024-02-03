@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 
 > Relax\. Abbandonati alla musica e ritrova la tua tranquillità.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,474 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,446 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 79 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 |
 | 80 | [The Use In Trying](https://open.spotify.com/track/5ntlf6H1CTaqmZWbRgr0y8) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Use In Trying](https://open.spotify.com/album/6bQhy4kKZbZ1yZjXhuO2Lm) | 3:12 |
 
-Snapshot ID: `MCwzM2M0NjBjODZjZmIwOGFmNjllNmIzMzc2MTYyZWFmZjE2YTk4ODQ0`
+Snapshot ID: `MCxhZjg5NWEwN2JiNjc4YjIzYTRhMGM5MGMyMTMwZjEwMjA4NmQxMTlh`

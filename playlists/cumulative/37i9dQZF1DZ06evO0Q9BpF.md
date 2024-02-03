@@ -4,7 +4,7 @@
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-58 songs - 6 hr 3 min
+59 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [No Hay Nada Imposible](https://open.spotify.com/track/40lu3hXRB2fJhDKuPGrnGL) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edgar Aguilar](https://open.spotify.com/artist/7Mn27Z2iSFFaF4UP8UjqOG), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 9:48 | 2023-04-02 |  |
 | [Nunca Me Avergonzaré](https://open.spotify.com/track/41Gfod2bIjsuHysuwIuJme) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 4:10 | 2023-04-02 |  |
 | [Obra de Tu Amor \- \(Alfarero\)](https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 10:05 | 2023-11-10 |  |
+| [Permaneceré En Tí](https://open.spotify.com/track/1JSo33oU2B2DdC0eFv6TBo) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 4:18 | 2024-02-02 |  |
 | [Pon Un Fuego](https://open.spotify.com/track/4EMFW5zlWwVpEJEZaeDlWh) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Nos Salvarás](https://open.spotify.com/album/6Y9XV3wB6uILdjHfHy6Aat) | 2:28 | 2023-04-02 | 2024-02-02 |
 | [Pródigo](https://open.spotify.com/track/2VaH4aUQA8gSxY4VDkWsnu) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 7:30 | 2023-11-10 |  |
 | [Quiero Conocer a Jesús \(Yeshua\) / Nuestro Dios](https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Fernando Ramos](https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 11:55 | 2023-04-02 |  |

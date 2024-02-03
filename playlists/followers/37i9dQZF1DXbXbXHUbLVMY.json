@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 27255,
+  "2024-02-03": 27269,
   "date_first_scraped": "2023-09-23",
-  "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
+  "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 feat. Amara",
   "name": "100 (2)",
   "tracks": [
     {
@@ -692,6 +692,28 @@
     },
     {
       "album": {
+        "name": "En g\u00e5ng till",
+        "url": "https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "Shenzi Beats",
+          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "En g\u00e5ng till",
+      "url": "https://open.spotify.com/track/2vd8CskGdduZW0LvVvXW7f"
+    },
+    {
+      "album": {
         "name": "En till dans",
         "url": "https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP"
       },
@@ -999,7 +1021,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 165040,
       "name": "Har du glemt meg?",
       "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
@@ -1136,6 +1158,24 @@
     },
     {
       "album": {
+        "name": "Inga \u00e4nglar (Na na na)",
+        "url": "https://open.spotify.com/album/3jJmhnYy9Zif0lCkLQfv6J"
+      },
+      "artists": [
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194599,
+      "name": "Inga \u00e4nglar (Na na na)",
+      "url": "https://open.spotify.com/track/532hmJMBzkTyhVQTlHHUuJ"
+    },
+    {
+      "album": {
         "name": "sitter inne",
         "url": "https://open.spotify.com/album/1rVBiTR6WE7TpJ3CI35SD9"
       },
@@ -1267,7 +1307,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 173877,
       "name": "Koppla Av",
       "url": "https://open.spotify.com/track/6TzmXkA7Y047fYtPjQLxug"
@@ -1790,6 +1830,24 @@
     },
     {
       "album": {
+        "name": "Plz",
+        "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142118,
+      "name": "Plz",
+      "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
+    },
+    {
+      "album": {
         "name": "PRAPAPA",
         "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
       },
@@ -2237,7 +2295,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 141176,
       "name": "STILO",
       "url": "https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B"

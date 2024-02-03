@@ -4,7 +4,7 @@
 
 > Dendang Dangdut teratas\. Cover: Sridevi DA5, Kier King
 
-144 songs - 11 hr 9 min
+145 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Nabi Al\-Rahma](https://open.spotify.com/track/5WTrVpfTtTWbf6qTSK66uz) | [Cici Faramida](https://open.spotify.com/artist/0v8CnbaMT0JN6DHYkGLvee), [Siti Rahmawati](https://open.spotify.com/artist/1BJ8zCKlrCsxehDeKUABgi) | [Nabi Al\-Rahma](https://open.spotify.com/album/1D6VkBs8TSfpZr6t0MjE8c) | 4:10 | 2023-03-02 | 2023-07-14 |
 | [Nostalgia](https://open.spotify.com/track/31JvGZJBhZWUijQvLBqwCG) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Nostalgia](https://open.spotify.com/album/5I3UANRadKoF3ZuXXwjFD0) | 4:19 | 2023-01-26 | 2023-09-15 |
 | [Ojo Dibandingke](https://open.spotify.com/track/2BIQGFkSLWl0SPRxaPR48Z) | [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Ojo Dibandingke](https://open.spotify.com/album/1R0NoljKSKaY6Pc025aRam) | 5:18 | 2022-10-13 |  |
+| [Ojo Dumeh](https://open.spotify.com/track/5ZXe46rT8IRuuVsKlTPrtt) | [Ligea](https://open.spotify.com/artist/7hLgy5SoxWG2nYanRBiouX) | [Ojo Dumeh](https://open.spotify.com/album/0rEJIDYgNL6j5u7Or3omIC) | 3:31 | 2024-02-02 |  |
 | [Ora Masalah](https://open.spotify.com/track/6QltkHtHO3XSl4w78rD5yV) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Ora Masalah](https://open.spotify.com/album/3CIYsMMFhjmGiNNLm587F0) | 4:21 | 2021-08-23 | 2023-09-15 |
 | [Orang Ketiga \- Live](https://open.spotify.com/track/7HHzjPjeUwslBNr2Ga4fVx) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Orang Ketiga \(Live\)](https://open.spotify.com/album/44GfoYKSmyCt1I1zFeeneU) | 4:39 | 2023-05-04 | 2023-11-04 |
 | [Pamer Bojo](https://open.spotify.com/track/6YbECT4fvOJE1CdvisQURa) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Pamer Bojo](https://open.spotify.com/album/7BJWsDmLqH8bWqIlzrqCxn) | 4:54 | 2021-08-23 |  |

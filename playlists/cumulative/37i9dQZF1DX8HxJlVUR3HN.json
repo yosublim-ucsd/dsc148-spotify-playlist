@@ -859,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0HGYZoDXRFyztQMuZV1I68"
+      },
+      "artists": [
+        {
+          "name": "Down to the Wire",
+          "url": "https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256096,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/2FTECyHv2eDT7LGxXCtDvn"
+    },
+    {
+      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/0OBVZGrQNG9jrea52NK2dZ"
       },

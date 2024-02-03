@@ -4,7 +4,7 @@
 
 > Current Pakistani hits under one roof\. Cover: ZAYN
 
-125 songs - 8 hr 2 min
+126 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Jurmana](https://open.spotify.com/track/76pWGIqdI2d7X4MmoUT4L5) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Jurmana](https://open.spotify.com/album/1LaWqK7YRtxm9ecqEne6Fj) | 2:53 | 2024-01-12 |  |
 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 | 2023-05-04 |  |
 | [Kali Raat](https://open.spotify.com/track/74UHCurjieq16JY1saeasF) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 2:58 | 2023-09-30 | 2023-11-07 |
-| [Kamli](https://open.spotify.com/track/1bRD5thowBEHe6I4LAf61Z) | [Falak Shabbir](https://open.spotify.com/artist/0kmtdziYTHrKtoHlGElunM), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Kamli](https://open.spotify.com/album/0irYPh3IIAEZV9PcB34FAr) | 3:19 | 2024-01-12 |  |
+| [Kamli](https://open.spotify.com/track/1bRD5thowBEHe6I4LAf61Z) | [Falak Shabbir](https://open.spotify.com/artist/0kmtdziYTHrKtoHlGElunM), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Kamli](https://open.spotify.com/album/0irYPh3IIAEZV9PcB34FAr) | 3:19 | 2024-01-12 | 2024-02-03 |
 | [Kana Yaari](https://open.spotify.com/track/7MTUN4bpk7Im3Sxz9oCULf) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Eva B](https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO), [Wahab Bugti](https://open.spotify.com/artist/2IBpBrzMIaeeXJnzfJIVLA) | [Kana Yaari](https://open.spotify.com/album/6DRq94aOT9Ml8WhJ4PzNGT) | 3:46 | 2023-05-04 | 2023-12-22 |
 | [Kehdena](https://open.spotify.com/track/6o8tuwVDjGn3fUoiFsNNba) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Kehdena](https://open.spotify.com/album/3apaPtqSwlQoQBiWFmWZu1) | 3:49 | 2023-05-24 | 2023-05-31 |
 | [Kyun](https://open.spotify.com/track/7vumrbuv4KD60oslANU2EC) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Sadaat Shafqat Amanat](https://open.spotify.com/artist/3oOno2g4btrjp7CsJKKcuv) | [Kyun](https://open.spotify.com/album/4bBelTNf0jNu1EW2UWGl18) | 3:42 | 2024-01-19 | 2024-01-26 |
@@ -98,6 +98,7 @@
 | [Raabta](https://open.spotify.com/track/2nBdQVqfV2RFTSdcGfKsi7) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Raabta](https://open.spotify.com/album/4c8Wm3Dxq8BRrsPYEFF846) | 2:39 | 2023-05-04 |  |
 | [Rang De](https://open.spotify.com/track/1mp9c72fxtSnNUCfDTWzTc) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Azaan](https://open.spotify.com/album/2VuBd6z3euJKhJuBNHpTNN) | 5:23 | 2023-11-13 | 2023-11-18 |
 | [Rangeen](https://open.spotify.com/track/5oR58bDC1H53YMEARuTQV6) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 2:41 | 2023-09-30 | 2023-10-12 |
+| [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [Nayel](https://open.spotify.com/artist/1QfBA8CPtR8hOkqgHPzqL5), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 | 2024-02-02 |  |
 | [Sajan Das Na](https://open.spotify.com/track/4TNzipbkHuhp5DtHcZ9osE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Sajan Das Na](https://open.spotify.com/album/3yTNiZtxLJMpOKc5dZJf9w) | 3:56 | 2023-05-04 | 2023-11-30 |
 | [Sajna](https://open.spotify.com/track/2YJORD2YXFoIDhiqD3bLKg) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Sajna](https://open.spotify.com/album/4i3JnEdAldFPqaDYVSNI0p) | 2:37 | 2023-05-04 | 2023-12-22 |
 | [Same Beef](https://open.spotify.com/track/65c6VCikt7f5sAS1heoYQC) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Same Beef](https://open.spotify.com/album/31psNfWEweb2avBzLNiTZk) | 4:50 | 2023-11-29 | 2024-01-13 |

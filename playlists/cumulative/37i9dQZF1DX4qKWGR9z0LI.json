@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 304533,
       "name": "Cuenta Conmigo",
       "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
@@ -1258,6 +1258,28 @@
       "duration_ms": 279280,
       "name": "El Amor de Mi Vida \"Se Fue\"",
       "url": "https://open.spotify.com/track/4ee1fUrPVok1bEyj1cm4Rv"
+    },
+    {
+      "album": {
+        "name": "El Amor De Su Vida",
+        "url": "https://open.spotify.com/album/6mQpE52JhnJRQ7y6RXMc7B"
+      },
+      "artists": [
+        {
+          "name": "Combinacion De La Habana",
+          "url": "https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y"
+        },
+        {
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189088,
+      "name": "El Amor De Su Vida",
+      "url": "https://open.spotify.com/track/7hFyogy6yOO9JAILq3QvV8"
     },
     {
       "album": {

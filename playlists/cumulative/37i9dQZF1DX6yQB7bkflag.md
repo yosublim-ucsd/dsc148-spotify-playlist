@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Rizky Febian
 
-132 songs - 7 hr 58 min
+133 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Hujan](https://open.spotify.com/track/41n12WnrU15x6CXnFbuuzI) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Puisi](https://open.spotify.com/album/2RNiOxbTKTqO549ZrsEdTV) | 4:16 | 2024-01-18 |  |
 | [I Am Happy](https://open.spotify.com/track/4xLfLCsUUDDotjHNtDPGyP) | [Reza Artamevia](https://open.spotify.com/artist/4gAsoAtSidvdSqwvHLffXf) | [I Am Happy](https://open.spotify.com/album/5PKMzp1BPld0SupakaLMnQ) | 4:42 | 2024-01-18 | 2024-01-26 |
 | [I Don’t Wanna Go Back Home](https://open.spotify.com/track/7zChtXZTVVkabuBCJWlD0h) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [I Don’t Wanna Go Back Home](https://open.spotify.com/album/1yiw1YFdwvGrIuNjJ8uFMu) | 4:24 | 2024-01-18 |  |
+| [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 | 2024-02-01 |  |
 | [I'm Sorry](https://open.spotify.com/track/4MxVVKHpLRaIAnOqT1pNSV) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [I'm Sorry](https://open.spotify.com/album/69rwGy6j7etGpJUQ2OMH9f) | 3:23 | 2024-01-18 | 2024-01-26 |
 | [Ikhlas](https://open.spotify.com/track/5Z43bm5JqIDjA6i2XZeiyk) | [Rayen Pono](https://open.spotify.com/artist/19rdG4N7SsX2jtbCndgeK5) | [Ikhlas](https://open.spotify.com/album/4sPrz6XSgAs81JsJQLVPBM) | 4:25 | 2024-01-18 | 2024-01-26 |
 | [Ilusi](https://open.spotify.com/track/59oww27UjSq32K256OhePE) | [Ben Utomo](https://open.spotify.com/artist/2w1klrlMW8RqL6YLOy0OKs) | [23: The Playlist](https://open.spotify.com/album/0n2KnnQbP46IHeosdBwfIC) | 2:19 | 2024-01-18 | 2024-01-26 |

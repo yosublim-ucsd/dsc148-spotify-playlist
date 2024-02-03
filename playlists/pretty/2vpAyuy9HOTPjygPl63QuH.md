@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 8,463 likes - 46 songs - 2 hr 26 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 8,513 likes - 46 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

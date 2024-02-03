@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Tuyo
 
-540 songs - 1 day 6 hr 28 min
+541 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [Vício](https://open.spotify.com/track/4veFOEMnC9LVh8kXKHjYDz) | [Julia Zatt](https://open.spotify.com/artist/3M3zkhuY3YwUAc5txHHrWX), [ZAK BEATZ](https://open.spotify.com/artist/2QDy52sQIOVW5Zr42lKt9m) | [Vício](https://open.spotify.com/album/33eMKXBpDAWV4119EHEMhB) | 3:03 | 2023-07-07 | 2023-11-18 |
 | [Zelo](https://open.spotify.com/track/3oMIke70o3excmdrw3e2g9) | [LUIZGA](https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f) | [Zelo](https://open.spotify.com/album/6KFN7xhPi1XJc30uvDJjBS) | 3:07 | 2022-08-26 | 2022-09-24 |
 | [Zig Zag](https://open.spotify.com/track/3ulcqRaQcoSCw4TplOb0Vl) | [Tietê](https://open.spotify.com/artist/3WuxvUe1aEhYU7ckJ1I9BP) | [Buraco na Parede](https://open.spotify.com/album/6Rv5kiHRjovHL5zrukSGn0) | 5:20 | 2023-05-19 | 2023-07-22 |
+| [É Tão Estranho](https://open.spotify.com/track/78qNPCPAeJ84N4Hs0xruJl) | [Lencinho](https://open.spotify.com/artist/7t3dRtwHynAFUeZRjj6cHV), [Tom Gangue](https://open.spotify.com/artist/6f6b1wIw4bu4pd2mN3qMK2), [Vitor Brauer](https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8) | [Só as Melhores](https://open.spotify.com/album/7qCyKgzQHtGuPxgJIg5ty6) | 3:31 | 2024-02-02 |  |
 | [éramos dois](https://open.spotify.com/track/5fanJH5tkVFmya4yeuph7S) | [bule](https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS) | [dançando sem ninguém me ouvir](https://open.spotify.com/album/6wSiR9T9D00Fi0BcKJoVhH) | 3:04 | 2023-06-30 | 2023-10-21 |
 | [Ímpar](https://open.spotify.com/track/4Qo4YT6wQz4EkguY7KAINQ) | [Antonia Morais](https://open.spotify.com/artist/544m4EMPSYu3v4FNoGYWQf) | [ÍMPAR 60](https://open.spotify.com/album/4zqy15IdFuUcqBO1jEEuLN) | 3:00 | 2022-07-08 | 2023-01-21 |
 | [Ô Lulu](https://open.spotify.com/track/4zANO1rVIY1EeaDyyI3BN6) | [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X) | [Ô Lulu](https://open.spotify.com/album/55xxEtIfagPjZR5LcCMJbP) | 3:04 | 2023-07-14 | 2023-09-02 |

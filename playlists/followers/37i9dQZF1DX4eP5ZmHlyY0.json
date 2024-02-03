@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 46727,
+  "2024-02-03": 46736,
   "date_first_scraped": "2023-11-24",
   "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover:  THE JET BOY BANGERZ from EXILE TRIBE",
   "name": "Boys Group Japan",
@@ -39,6 +39,24 @@
       "duration_ms": 211078,
       "name": "Awakening Light",
       "url": "https://open.spotify.com/track/3jOrPlMZacOQY4KFaJJlSl"
+    },
+    {
+      "album": {
+        "name": "BANG OUT",
+        "url": "https://open.spotify.com/album/22KdV7IgT63odz3k4ovT4X"
+      },
+      "artists": [
+        {
+          "name": "RAG POUND",
+          "url": "https://open.spotify.com/artist/6L0V9bXK9LPjR1dBtlWTdP"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216074,
+      "name": "BANG OUT",
+      "url": "https://open.spotify.com/track/1j3LL3k27QqSybTw31RSCk"
     },
     {
       "album": {
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 224320,
       "name": "SIN",
       "url": "https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI"

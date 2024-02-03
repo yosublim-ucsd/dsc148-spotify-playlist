@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,479 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,483 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 5 | [Animals \- Radio Edit](https://open.spotify.com/track/4g6m1iaAsgdgDqgxGtvY0C) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/4Xs4NI3J2Nf9eSUqvW7GBn) | 2:56 |
 | 6 | [Astronomia](https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia](https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL) | 3:18 |
 | 7 | [Five Hours](https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Five Hours](https://open.spotify.com/album/3hM67HrtJ55aUC5TGt66Za) | 5:26 |
-| 8 | [Opus](https://open.spotify.com/track/3v2oAQomhOcYCPPHafS3KV) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Opus](https://open.spotify.com/album/2Kwbn1H4KMGZAe4MS6uDzU) | 9:03 |
-| 9 | [Greyhound](https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:50 |
+| 8 | [Greyhound](https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:50 |
+| 9 | [Opus](https://open.spotify.com/track/3v2oAQomhOcYCPPHafS3KV) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Opus](https://open.spotify.com/album/2Kwbn1H4KMGZAe4MS6uDzU) | 9:03 |
 | 10 | [WOW](https://open.spotify.com/track/3qPXWPkEZgUhUgPifbE99z) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [WOW](https://open.spotify.com/album/1GGYP9NKuM7vSkvj0msOdH) | 2:28 |
 | 11 | [Rattle](https://open.spotify.com/track/3uXzBSx2eMKRTEP46SZ2fC) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK) | [Rattle](https://open.spotify.com/album/6jHJiiVYGWSPI87BFFkpSe) | 4:47 |
 | 12 | [Resurrection \- Axwell's Recut Radio Version](https://open.spotify.com/track/2WaA5bVXcIqqpz9j0gd7qK) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Resurrection](https://open.spotify.com/album/57LJYj1EAJ6DmWaRbYZvVA) | 2:46 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 46 | [Don't Give Up](https://open.spotify.com/track/27q6Z9Mo9GeeSHOHfO48gb) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Don't Give Up](https://open.spotify.com/album/1glRZozlvH9QbasNkSYyfy) | 5:21 |
 | 47 | [The Hum](https://open.spotify.com/track/0h1yorZXMX1sRRLfq0aOAK) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Festival Favorites 2015 \- Armada Music](https://open.spotify.com/album/6bhnNR98I84d01XZmIzaJ1) | 3:31 |
 
-Snapshot ID: `MCw0MjdjODdmZTRiNDg3MDk3MGZjOWQ0NTUyZGI0NDc1YmYwZGEwZWUw`
+Snapshot ID: `MCwzZDkxZDNlN2FkYzM2OGZjZDdiYzUwYTQ2ODJkNDA0NThlYmNiMDMw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbX0Kwa6Hge.md) - [plain]
 
 > Some of Barack Obama's favorite songs of the summer\. A mix of genres & eras made with everyone in mind!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,453 likes - 41 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,442 likes - 41 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbX0Kwa6Hge.md) - [plain]
 | 14 | [Walk Like an Egyptian](https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:23 |
 | 15 | [Watching The Credits](https://open.spotify.com/track/2KbfXyUl8eusGT4pWwKroB) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/3jRcvMTnKCMfIiA1TevG9s) | 3:15 |
 | 16 | [Only Have Eyes 42](https://open.spotify.com/track/7C4aRmcAQuNGuFyTvmETii) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/76yGR9gMIP6BdHuWsb7Iun) | 2:50 |
-| 17 | [That's How Love Is Made](https://open.spotify.com/track/241mj8aXPCfElHc72HsZlP) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 3:46 |
+| 17 | [That's How Love Is Made](https://open.spotify.com/track/241mj8aXPCfElHc72HsZlP) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 3:46 |
 | 18 | [Soul Survivor](https://open.spotify.com/track/7faybsF8gIVvWtAp9hUcI2) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 3:48 |
 | 19 | [Dr\. Feelgood \(Love Is a Serious Business\)](https://open.spotify.com/track/0xGcAq56TXf3RnSHkCiL9k) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 3:23 |
 | 20 | [Blue Train](https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 10:43 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbX0Kwa6Hge.md) - [plain]
 | 40 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 41 | [Love & Hate](https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 7:07 |
 
-Snapshot ID: `MCxjYjg4NWY0MmMzMjM3MDI4ZWNhZDgzN2JiYzhjNmNlNTEwOGFkNDRi`
+Snapshot ID: `MCxkYzhmN2Q4ZGE4ZGI5ZTJlMTM4NDE5ZWZiMWExOGZjOGI0ZDBmZjFh`

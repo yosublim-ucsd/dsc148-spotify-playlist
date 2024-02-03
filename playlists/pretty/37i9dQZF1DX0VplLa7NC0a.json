@@ -1,12 +1,12 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 34465,
+  "num_followers": 34473,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2Y0ZTNmNzYyZTdhNjQyYjkyMDEwYjY0MzJkODMxMmM3MGE0MWM2",
+  "snapshot_id": "MCxiNTY3OGIyZmNmYTBkMjllZGUyNTFjYzRlNDU0YmI5Y2U3NGVmODcx",
   "tracks": [
     {
       "added_at": "2022-06-28 08:38:32",
@@ -123,30 +123,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Il Barbiere di Siviglia",
-        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Bavarian Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
-        },
-        {
-          "name": "Bruno Bartoletti",
-          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
-        }
-      ],
-      "duration_ms": 419000,
-      "name": "Il barbiere di Siviglia: Overture (Sinfonia)",
-      "url": "https://open.spotify.com/track/18l95nUQWWV6RU2gLCbrjN"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: La Cenerentola",
         "url": "https://open.spotify.com/album/7l63teUxbSza8o8gG9SLc4"
       },
@@ -175,6 +151,30 @@
       "duration_ms": 98906,
       "name": "La Cenerentola / Act 1: \"No, no, no non v'\u00e8\"",
       "url": "https://open.spotify.com/track/3tyVaUyQJeukAdBgHs9dXB"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Il Barbiere di Siviglia",
+        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Bruno Bartoletti",
+          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
+        }
+      ],
+      "duration_ms": 419000,
+      "name": "Il barbiere di Siviglia: Overture (Sinfonia)",
+      "url": "https://open.spotify.com/track/18l95nUQWWV6RU2gLCbrjN"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -579,6 +579,34 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Guillaume Tell",
+        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra/Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/0uHWdrpNqWIXfD4XYhgZPH"
+        },
+        {
+          "name": "Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 91506,
+      "name": "Rossini: Guillaume Tell, Act 3 Scene 2: Danse (Pas de trois. Allegro)",
+      "url": "https://open.spotify.com/track/62IaVX0eGIuGRbJB7ndHxC"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: L'Italiana in Algeri",
         "url": "https://open.spotify.com/album/1eLVymZVT0Fc9H18MiX8V9"
       },
@@ -631,34 +659,6 @@
       "duration_ms": 241946,
       "name": "L'Italiana in Algeri (The Italian Girl in Algiers): Act II Scene 4: Aria: Ho un gran peso sulla testa (Taddeo, Chorus)",
       "url": "https://open.spotify.com/track/63R1BY3EjDAuSUIHzSvYVj"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Guillaume Tell",
-        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra/Lamberto Gardelli",
-          "url": "https://open.spotify.com/artist/0uHWdrpNqWIXfD4XYhgZPH"
-        },
-        {
-          "name": "Lamberto Gardelli",
-          "url": "https://open.spotify.com/artist/2aFoGvJk71iQ8dg5ACSOQu"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "duration_ms": 91506,
-      "name": "Rossini: Guillaume Tell, Act 3 Scene 2: Danse (Pas de trois. Allegro)",
-      "url": "https://open.spotify.com/track/62IaVX0eGIuGRbJB7ndHxC"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -751,6 +751,30 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Il Barbiere di Siviglia",
+        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Bruno Bartoletti",
+          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Il barbiere di Siviglia / Act 2: No. 15 Temporale (Thunderstorm)",
+      "url": "https://open.spotify.com/track/3mb8XLlJgkjq2gpuS8coAc"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "The Spectacular Voice of Marilyn Horne",
         "url": "https://open.spotify.com/album/44vDKyQpP96DJw1cWVzaS1"
       },
@@ -799,30 +823,6 @@
       "duration_ms": 239493,
       "name": "Introduction, Theme and Variations for Clarinet and Orchestra in E-Flat Major - Cadenza: Charles Neidich: Introduzione: Andante (sostenuto)",
       "url": "https://open.spotify.com/track/7sJExZ0lqrwadGrY9kCOYg"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Il Barbiere di Siviglia",
-        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Bavarian Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
-        },
-        {
-          "name": "Bruno Bartoletti",
-          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Il barbiere di Siviglia / Act 2: No. 15 Temporale (Thunderstorm)",
-      "url": "https://open.spotify.com/track/3mb8XLlJgkjq2gpuS8coAc"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1039,30 +1039,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: String Sonatas, Vol.2",
-        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Filarmonica del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
-      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Semiramide",
         "url": "https://open.spotify.com/album/63xmfwgcmJYlxTCIHvI2UA"
       },
@@ -1123,8 +1099,8 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Il viaggio a Reims (Live)",
-        "url": "https://open.spotify.com/album/7lrsVzKjCnIIJN8mFmJ4vl"
+        "name": "Rossini: String Sonatas, Vol.2",
+        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
       },
       "artists": [
         {
@@ -1132,25 +1108,17 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Mirco Palazzi",
-          "url": "https://open.spotify.com/artist/1WrUyWwKuSLMkQ4mIsdBAq"
+          "name": "Filarmonica del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
         },
         {
-          "name": "Poznan Camerata Bach Choir",
-          "url": "https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr"
-        },
-        {
-          "name": "Virtuosi Brunensis",
-          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
-        },
-        {
-          "name": "Antonino Fogliani",
-          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
         }
       ],
-      "duration_ms": 199480,
-      "name": "Il viaggio a Reims: Dell'alma diva (Live)",
-      "url": "https://open.spotify.com/track/1rf7rQ3X1y0TTx5hpiQP0z"
+      "duration_ms": 230666,
+      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
+      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1207,8 +1175,8 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: String Sonatas, etc.",
-        "url": "https://open.spotify.com/album/5ggYuXtjLMHHYlEfr06Jwu"
+        "name": "Rossini: Il viaggio a Reims (Live)",
+        "url": "https://open.spotify.com/album/7lrsVzKjCnIIJN8mFmJ4vl"
       },
       "artists": [
         {
@@ -1216,17 +1184,25 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Filarmonica del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
+          "name": "Mirco Palazzi",
+          "url": "https://open.spotify.com/artist/1WrUyWwKuSLMkQ4mIsdBAq"
         },
         {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+          "name": "Poznan Camerata Bach Choir",
+          "url": "https://open.spotify.com/artist/17nUt9GRJ7w3eUaa0PD8fr"
+        },
+        {
+          "name": "Virtuosi Brunensis",
+          "url": "https://open.spotify.com/artist/2431DzejNRA0GjilEHsz8b"
+        },
+        {
+          "name": "Antonino Fogliani",
+          "url": "https://open.spotify.com/artist/0r7PWrlVyLmVXZ3s3l9AQK"
         }
       ],
-      "duration_ms": 429160,
-      "name": "Serenata in E flat",
-      "url": "https://open.spotify.com/track/4qjZkq9W5CPdJMKTJuvKl6"
+      "duration_ms": 199480,
+      "name": "Il viaggio a Reims: Dell'alma diva (Live)",
+      "url": "https://open.spotify.com/track/1rf7rQ3X1y0TTx5hpiQP0z"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1251,6 +1227,30 @@
       "duration_ms": 467600,
       "name": "Stabat Mater: Sancta mater, istud agas",
       "url": "https://open.spotify.com/track/1pc8xQObemmXWPGMwUCwyR"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: String Sonatas, etc.",
+        "url": "https://open.spotify.com/album/5ggYuXtjLMHHYlEfr06Jwu"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Filarmonica del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 429160,
+      "name": "Serenata in E flat",
+      "url": "https://open.spotify.com/track/4qjZkq9W5CPdJMKTJuvKl6"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1587,30 +1587,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Giovanna d'Arco; 19 songs",
-        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Cecilia Bartoli",
-          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
-        },
-        {
-          "name": "Charles Spencer",
-          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
-        }
-      ],
-      "duration_ms": 975493,
-      "name": "Giovanna d'Arco - Cantata a voce sola con piano",
-      "url": "https://open.spotify.com/track/0su1j6PMTNcPfo7ftQQWru"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Colbran, the Muse (opera arias)",
         "url": "https://open.spotify.com/album/3GdwQYxeFeYMXJJD3Ruhy4"
       },
@@ -1647,6 +1623,30 @@
       "duration_ms": 273186,
       "name": "Rossini: Armida, Act 3 Scene 10: \"Dove son io? \u2026 Fuggi\" (Armida)",
       "url": "https://open.spotify.com/track/2AuwPusyIhgNwRed55uup4"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Giovanna d'Arco; 19 songs",
+        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Charles Spencer",
+          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
+        }
+      ],
+      "duration_ms": 975493,
+      "name": "Giovanna d'Arco - Cantata a voce sola con piano",
+      "url": "https://open.spotify.com/track/0su1j6PMTNcPfo7ftQQWru"
     },
     {
       "added_at": "2022-06-28 08:38:32",

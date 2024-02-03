@@ -2,9 +2,9 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=bSTtTp0kS6CkkubuD2zrRg"> Shallipopi</a>
+> The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=Jp3jdMFxRAeI87xDaBtEGA"> Ayra Starr</a>
 
-353 songs - 21 hr 1 min
+355 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-27 |  |
 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 | 2021-12-09 | 2022-04-01 |
 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 | 2023-08-24 |  |
+| [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 | 2024-02-02 |  |
 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 | 2023-05-18 | 2023-10-13 |
 | [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 | 2022-10-28 | 2023-10-13 |
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2021-10-22 | 2022-04-08 |
@@ -94,8 +95,9 @@
 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 | 2023-10-27 | 2023-11-09 |
 | [Door](https://open.spotify.com/track/2ES66yWZasJXbM3KADo35a) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Door](https://open.spotify.com/album/3dqVcim4EO0NDp9KYjGJYA) | 2:32 | 2021-10-22 | 2022-05-20 |
 | [Down Flat](https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Down Flat](https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV) | 2:52 | 2022-01-27 | 2022-07-22 |
-| [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 | 2023-04-07 |  |
+| [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 | 2023-04-07 | 2024-02-03 |
 | [Ego](https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Ego](https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z) | 2:36 | 2022-10-13 | 2022-10-29 |
+| [Egwu](https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Egwu](https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi) | 2:16 | 2024-02-02 |  |
 | [Electricity](https://open.spotify.com/track/4SQvlCmuP6yYfFXO0Ge29z) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Just Pop Hits](https://open.spotify.com/album/60oLjos6nFcbMOQAykbxdN) | 2:12 | 2022-08-18 | 2022-11-13 |
 | [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 | 2022-08-18 | 2023-07-14 |
 | [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1) | 2:44 | 2021-12-02 | 2022-07-29 |
@@ -138,7 +140,7 @@
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 | 2023-02-03 |
 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 | 2021-10-22 | 2022-10-29 |
 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-02-16 | 2023-05-01 |
-| [Holiday](https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:39 | 2023-04-27 |  |
+| [Holiday](https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:39 | 2023-04-27 | 2024-02-03 |
 | [Holy Father](https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Holy Father](https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn) | 3:04 | 2021-11-18 | 2023-01-07 |
 | [Holy Ghost](https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg) | 3:06 | 2023-11-10 |  |
 | [Há Luxo](https://open.spotify.com/track/19jAxcK2gT4Fs5xVpVVIMG) | [Dj Pausas](https://open.spotify.com/artist/03bhEzibuEsQB5QJgPiACs), [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS), [Os Moikanos](https://open.spotify.com/artist/5FE70ppJAgvN0BWHGsNOPp), [Anyfa](https://open.spotify.com/artist/3sKr8wgmoCeUNhArVpVaJm) | [Cocktail](https://open.spotify.com/album/1y5UrjNmsOPdOQA3fLSOh0) | 3:54 | 2022-05-12 | 2022-06-03 |

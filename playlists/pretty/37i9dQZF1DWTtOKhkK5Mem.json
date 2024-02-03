@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 747032,
+  "num_followers": 747075,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTE0MTllOGM4NTBlOTBkZTljYzZmZWY0NjY0NzUzZGFjZmQ5YWEz",
+  "snapshot_id": "MCw1NmRkYmZiZTg0ZGM2Mjk1NjgyNTdmMGEzNWQxMWYzOGU3MmU0Mjlm",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Ten Summoner's Tales",
-        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 222120,
-      "name": "Fields Of Gold",
-      "url": "https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Slowhand 35th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 225026,
       "name": "Wonderful Tonight",
       "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Ten Summoner's Tales",
+        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 222120,
+      "name": "Fields Of Gold",
+      "url": "https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Love Always",
-        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
-      },
-      "artists": [
-        {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
-        }
-      ],
-      "duration_ms": 331240,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Affirmation",
         "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 250360,
       "name": "I Knew I Loved You",
       "url": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Love Always",
+        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
+      },
+      "artists": [
+        {
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+        }
+      ],
+      "duration_ms": 331240,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Can't Get Enough Of Your Love, Babe",
-      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "18 Til I Die",
         "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 235746,
       "name": "Fallin' All In You",
       "url": "https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Promises And Lies",
-        "url": "https://open.spotify.com/album/0B0RuH2PSWoEkIvi75xY5d"
-      },
-      "artists": [
-        {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "(I Can't Help) Falling In Love With You",
-      "url": "https://open.spotify.com/track/7ojJ4XvqBhBcteM0zjMebT"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Escape (2022 Remaster)",
         "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 199320,
       "name": "Open Arms (2022 Remaster)",
       "url": "https://open.spotify.com/track/29vqBtjJTBLS1f8dKJS4Ht"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Promises And Lies",
+        "url": "https://open.spotify.com/album/0B0RuH2PSWoEkIvi75xY5d"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "(I Can't Help) Falling In Love With You",
+      "url": "https://open.spotify.com/track/7ojJ4XvqBhBcteM0zjMebT"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Say You Won't Let Go",
-        "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Say You Won't Let Go",
-      "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Love Songs (A Compilation Old and New)",
         "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 210733,
       "name": "A Groovy Kind of Love",
       "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Say You Won't Let Go",
+        "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Cuts Like A Knife",
         "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
       },
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The One Thing",
         "url": "https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX"
       },
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Please Keep Loving Me",
+        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Please Keep Loving Me",
+      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Waking Up The Neighbours",
         "url": "https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 218946,
       "name": "Don't give up on us",
       "url": "https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Please Keep Loving Me",
-        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Please Keep Loving Me",
-      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 220813,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/0pO9wem4wi61QD2PWFpIJQ"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1839,6 +1839,22 @@
       "duration_ms": 269226,
       "name": "Stop Loving You",
       "url": "https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1923,24 +1939,8 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 251106,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "James Arthur (Deluxe)",
-        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+        "name": "Empty Space",
+        "url": "https://open.spotify.com/album/2utLlsPJXe11YMuLwH2rf4"
       },
       "artists": [
         {
@@ -1948,9 +1948,9 @@
           "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 250653,
-      "name": "Impossible - Acoustic",
-      "url": "https://open.spotify.com/track/0JswmIBSn3XZ15wEEtH5fj"
+      "duration_ms": 214226,
+      "name": "Empty Space",
+      "url": "https://open.spotify.com/track/1uru26I2JKd2mQZt0MDCUe"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2019,8 +2019,8 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Empty Space",
-        "url": "https://open.spotify.com/album/2utLlsPJXe11YMuLwH2rf4"
+        "name": "James Arthur (Deluxe)",
+        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
       },
       "artists": [
         {
@@ -2028,9 +2028,9 @@
           "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 214226,
-      "name": "Empty Space",
-      "url": "https://open.spotify.com/track/1uru26I2JKd2mQZt0MDCUe"
+      "duration_ms": 250653,
+      "name": "Impossible - Acoustic",
+      "url": "https://open.spotify.com/track/0JswmIBSn3XZ15wEEtH5fj"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Endless Flight",
+        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "duration_ms": 253226,
+      "name": "When I Need You - Remastered",
+      "url": "https://open.spotify.com/track/2TcwEYyydQuEMJwdmSgVLD"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "You Deserve Better / At My Weakest",
         "url": "https://open.spotify.com/album/3M1MYH8SYxLaJfBWIAsAdL"
       },
@@ -2211,18 +2227,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Endless Flight",
-        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/6XkXta8AXNmXkZAxM0CYqW"
       },
       "artists": [
         {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 253226,
-      "name": "When I Need You - Remastered",
-      "url": "https://open.spotify.com/track/2TcwEYyydQuEMJwdmSgVLD"
+      "duration_ms": 355640,
+      "name": "Please Forgive Me",
+      "url": "https://open.spotify.com/track/1HDaENkQhUMm16pjdxZvHn"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2255,22 +2271,6 @@
       "duration_ms": 197733,
       "name": "Mandy",
       "url": "https://open.spotify.com/track/4oV4dVj0evVFhjPLvUz8w8"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/6XkXta8AXNmXkZAxM0CYqW"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 355640,
-      "name": "Please Forgive Me",
-      "url": "https://open.spotify.com/track/1HDaENkQhUMm16pjdxZvHn"
     },
     {
       "added_at": "2022-08-26 12:00:00",

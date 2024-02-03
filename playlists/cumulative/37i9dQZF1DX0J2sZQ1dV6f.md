@@ -4,7 +4,7 @@
 
 > Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta.
 
-376 songs - 19 hr 43 min
+378 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [BIKINI](https://open.spotify.com/track/6slXEgNhtJXAqgW9RQOdRM) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [BIKINI](https://open.spotify.com/album/6CeDEzgtJTweJGkPUasPXV) | 2:26 | 2023-05-25 | 2023-07-08 |
 | [BOLO](https://open.spotify.com/track/2E1QJy5BSlGYjw68puOUEN) | [FENIX](https://open.spotify.com/artist/5rIENGsPQvl5N2QBs2Jkc1), [Rickstarr](https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ), [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Ricky Blanco](https://open.spotify.com/artist/1opTHYMTFaZzyLYqKCAJTl) | [BOLO](https://open.spotify.com/album/5SjCudGuDMqhxBoiLUg6o0) | 2:20 | 2022-10-14 | 2023-02-25 |
 | [Bombero](https://open.spotify.com/track/0wGUCDSRabJuQa01Hoo0tD) | [J\. Cruze](https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V), [Dj Fredy Fresco](https://open.spotify.com/artist/7v5hVOTXEjeW6jJZ94iKzV) | [Bombero](https://open.spotify.com/album/1QX5SucGWKS4RF2UhdNaC9) | 2:06 | 2022-07-08 | 2023-01-28 |
+| [Botellas](https://open.spotify.com/track/46dlt0HuKR9LR0FdRouvll) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Botellas](https://open.spotify.com/album/3SKmGzOOnHEVVk0Z9sX8W8) | 3:42 | 2024-02-02 |  |
 | [BOY TOY](https://open.spotify.com/track/4sfiPyEjbUip1wR4wWZcP6) | [Izzy La Reina](https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi) | [BOY TOY](https://open.spotify.com/album/7m0EBWf9PUkwYR4LP9fGdQ) | 2:16 | 2022-03-21 | 2022-04-20 |
 | [Brillo](https://open.spotify.com/track/3hPgU45si92VnVuNyFFVFF) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Brillo](https://open.spotify.com/album/704X09kwq2A7jPVFAZMHF7) | 2:50 | 2022-03-21 | 2022-04-20 |
 | [C ARMO](https://open.spotify.com/track/1jM2U517tfgPyoCrnRqa2m) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ) | [C ARMO](https://open.spotify.com/album/5kzK7xsCCuNueER2C9Hc7g) | 3:02 | 2023-12-06 |  |
@@ -121,6 +122,7 @@
 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2022-11-02 | 2023-05-26 |
 | [Es un Secreto](https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:10 | 2022-07-08 | 2022-12-01 |
 | [Esa Nena](https://open.spotify.com/track/2uvoAHdthe0bSCD0qIRBta) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Esa Nena](https://open.spotify.com/album/245a16Mk92WlnOnpBDq0O6) | 3:17 | 2023-04-03 | 2023-05-26 |
+| [Exclusive](https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Exclusive](https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O) | 2:50 | 2024-02-02 |  |
 | [Fabuloso](https://open.spotify.com/track/3cg2Y9mIiYNdcPTLKaQgK3) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:20 | 2022-03-21 | 2022-07-09 |
 | [Fantasias](https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Fantasias](https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL) | 3:19 | 2022-04-19 | 2022-07-09 |
 | [FANTASMA \| AVC](https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [FANTASMA \| AVC](https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP) | 4:45 | 2023-06-02 | 2023-12-07 |

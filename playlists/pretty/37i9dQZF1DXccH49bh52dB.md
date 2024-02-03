@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,204 likes - 119 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,448 likes - 119 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 26 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Kx5](https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg) | 4:00 |
 | 27 | [The Ocean \(feat\. Shy Martin\)](https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [The Ocean \(feat\. Shy Martin\)](https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe) | 3:03 |
 | 28 | [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 |
-| 29 | [Emorio](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Emorio](https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9) | 2:43 |
-| 30 | [The Chase](https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance, Pt 2](https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov) | 3:13 |
+| 29 | [The Chase](https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance, Pt 2](https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov) | 3:13 |
+| 30 | [Emorio](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Emorio](https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9) | 2:43 |
 | 31 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 |
 | 32 | [Fast Car](https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Fast Car](https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ) | 3:32 |
 | 33 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 118 | [Here for You \(feat\. Ella Henderson\)](https://open.spotify.com/track/7vqUr6K2Js9Paq4kdNSOm6) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Here for You \(feat\. Ella Henderson\)](https://open.spotify.com/album/6HnspnDTGO0iGliX6OuCTd) | 4:04 |
 | 119 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
 
-Snapshot ID: `MCw1OWUzOTdiMjQ0NWQ0ZjllN2IxNmY0YWYxMWI2NDM2MTYwMTdlZWVh`
+Snapshot ID: `MCwyMzU2MGZjNGU3YzViNjA0MzViYzYwMzcwZTBlY2I2NGQzZDY2YzA2`

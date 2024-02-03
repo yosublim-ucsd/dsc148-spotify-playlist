@@ -1,13 +1,61 @@
 {
-  "description": "The jam scene is alive and well. Cover: Kendall Street Company",
-  "num_followers": 28490,
+  "description": "The jam scene is alive and well. Cover: SunSquabi",
+  "num_followers": 28509,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODQwYTJmOTE0ZTc0NGYwMWY4NzM3MGZlMTkzOGY3Zjc4MmMyNTM3",
+  "snapshot_id": "MCw2N2Y4ZjcyMDE2MDFhNmQzN2RlOWNhYzMwODE1MjliZDM1YTA4NDRk",
   "tracks": [
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Hard Pass",
+        "url": "https://open.spotify.com/album/6gAU4TmksTNEDGzXzNTgQb"
+      },
+      "artists": [
+        {
+          "name": "SunSquabi",
+          "url": "https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J"
+        }
+      ],
+      "duration_ms": 252988,
+      "name": "Hard Pass",
+      "url": "https://open.spotify.com/track/22PBp11W9lqbdO5XwYk0f7"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/5piDzyf0KFonTHK3vrl8k5"
+      },
+      "artists": [
+        {
+          "name": "The Moon City Masters",
+          "url": "https://open.spotify.com/artist/5ds1ng1NKpr4Bv0VbgHyAr"
+        }
+      ],
+      "duration_ms": 213786,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/2eqVjqpmCjB904Cw2cUPLe"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/4Kr5LWl79sxFjdamzHjriN"
+      },
+      "artists": [
+        {
+          "name": "Dizgo",
+          "url": "https://open.spotify.com/artist/5yHeuBSsacgKk0X6fzDfHj"
+        }
+      ],
+      "duration_ms": 480848,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/1Qm0MBLj93hLQMZOpNTQHB"
+    },
     {
       "added_at": "2024-01-26 05:01:00",
       "album": {
@@ -567,22 +615,6 @@
       "duration_ms": 286119,
       "name": "On and On",
       "url": "https://open.spotify.com/track/24DTU2rSsVkiehF2bxUKRL"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Dripfield",
-        "url": "https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV"
-      },
-      "artists": [
-        {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
-        }
-      ],
-      "duration_ms": 426602,
-      "name": "Hungersite",
-      "url": "https://open.spotify.com/track/5FKKjiUjOXu9Kinlkc1VzA"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1185,22 +1217,6 @@
       "url": "https://open.spotify.com/track/4GXPo6bO1KpGJ0AGZbq75o"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "I Am The Moon: II. Ascension",
-        "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 250335,
-      "name": "Playing With My Emotions",
-      "url": "https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Native Sons",
@@ -1459,22 +1475,6 @@
       "duration_ms": 448385,
       "name": "Mr. Scientist",
       "url": "https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Just a Little",
-        "url": "https://open.spotify.com/album/1TqY6YxFZdVqwReNRDyEo7"
-      },
-      "artists": [
-        {
-          "name": "SunSquabi",
-          "url": "https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J"
-        }
-      ],
-      "duration_ms": 370666,
-      "name": "Just A Little",
-      "url": "https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM"
     },
     {
       "added_at": "2022-07-01 04:02:00",

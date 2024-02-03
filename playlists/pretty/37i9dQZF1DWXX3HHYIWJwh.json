@@ -1,12 +1,12 @@
 {
   "description": "\u30db\u30fc\u30e0\u30d1\u30fc\u30c6\u30a3\u30fc\u3092\u697d\u3057\u3080\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\u5973\u5b50\u4f1a\u3001\u30ac\u30fc\u30eb\u30ba\u30ca\u30a4\u30c8\u306e\u304a\u4f9b\u306b\u3002\n\n",
-  "num_followers": 102203,
+  "num_followers": 102205,
   "original_name": "\u30ac\u30fc\u30eb\u30ba\u30fb\u30ca\u30a4\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmM2ODJmMjZjY2QzZDUzODE0NjcwN2VhZjMyNDIyNDk5NjFkY2Qx",
+  "snapshot_id": "MCxlMThlODFjZWRjOWE4MDgzY2NjOWIyM2ZlMmVkNzJlMGE4OWE1YTQ3",
   "tracks": [
     {
       "added_at": "2024-01-31 12:35:52",
@@ -321,6 +321,22 @@
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
     },
     {
+      "added_at": "2024-02-01 15:10:37",
+      "album": {
+        "name": "I GOT YOU",
+        "url": "https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 173240,
+      "name": "I GOT YOU",
+      "url": "https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx"
+    },
+    {
       "added_at": "2024-01-31 12:35:52",
       "album": {
         "name": "Seven (feat. Latto)",
@@ -337,7 +353,7 @@
         }
       ],
       "duration_ms": 184400,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "name": "Seven (feat. Latto)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {

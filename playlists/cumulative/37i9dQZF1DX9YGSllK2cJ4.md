@@ -4,7 +4,7 @@
 
 > Take comfort in these sad piano songs.
 
-358 songs - 16 hr 5 min
+361 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Mamma](https://open.spotify.com/track/75HnNeRjD1HzKnpMRuoaKV) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Mamma](https://open.spotify.com/album/6o4CktR4yXJnpFqs9BDgpo) | 3:11 | 2023-02-27 |  |
 | [Mar De Ardora](https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Aira](https://open.spotify.com/album/0CFCDknzl9INAM2calrwlB) | 3:06 | 2022-08-01 | 2023-04-19 |
 | [Marussian](https://open.spotify.com/track/3CFKAgnwhhDgL1KpfZJ3dI) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Marussian](https://open.spotify.com/album/39Gr6U4GDtLYPgZXqJHWTj) | 2:11 | 2022-08-01 | 2023-03-23 |
+| [Mellow Moonlit Melody](https://open.spotify.com/track/3f0kAErxdkQiZpXmTufdLd) | [Giovanna Petrini](https://open.spotify.com/artist/25Bpq4sqHbHT853VsYM9wb) | [Mellow Moonlit Melody](https://open.spotify.com/album/66C59BnUX617aAMbRux3Nu) | 2:41 | 2024-02-02 |  |
 | [Melts Into Air](https://open.spotify.com/track/0N2rkPnpGdWSP9xotxYl2F) | [Jill Corazina](https://open.spotify.com/artist/0j5SBGx8jGWDdJM4Cmth83) | [Melts Into Air](https://open.spotify.com/album/1uRrdwGzAyPUmiS3RRaFDi) | 2:46 | 2022-08-01 | 2023-05-04 |
 | [Midnight Beginnings](https://open.spotify.com/track/4ExNV21o8DijQZHKNWcq97) | [Janina Kowalski](https://open.spotify.com/artist/6vrxG1gknQh7kJRQXbW2zm) | [Midnight Beginnings](https://open.spotify.com/album/3HdqaHxuknOn0ECA5SZZRP) | 2:32 | 2023-05-03 |  |
 | [Midwayer](https://open.spotify.com/track/6gLsyO69WqFXUYJK5mCaOt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Solipsism](https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa) | 5:45 | 2022-08-01 | 2022-10-25 |
@@ -226,13 +227,14 @@
 | [Plum Blossoms](https://open.spotify.com/track/2vuKqnIgFIYxB4mRusEwFC) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [Plum Blossoms](https://open.spotify.com/album/7A1SRapo6ubSk16NHT0Exg) | 4:51 | 2022-11-14 |  |
 | [Portal \(Solo Piano Version\)](https://open.spotify.com/track/44vE0HbBqrngFUIb0HvRJ4) | [Wide Eyed](https://open.spotify.com/artist/6MZ8FA8ZuJRh7TsksXAWQP) | [Portal \(Solo Piano Version\)](https://open.spotify.com/album/4Nr9D0dFIYDDVVnn9Db7Zt) | 3:31 | 2023-01-31 | 2023-02-22 |
 | [Problématique](https://open.spotify.com/track/5DuNs8KmyX0Rhpa5cwujXT) | [Lenovie](https://open.spotify.com/artist/5qGVbZoaFJ7i9M63PhgFWT) | [Problématique](https://open.spotify.com/album/0hBgJgCI8ENtYGjj1csyEh) | 1:43 | 2022-08-01 | 2023-08-02 |
-| [Pure](https://open.spotify.com/track/4PqCs6E0im3Qnit7GCE970) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Pure](https://open.spotify.com/album/2uVBdjAQIwOX41GExCQ7j7) | 2:02 | 2022-08-01 |  |
+| [Pure](https://open.spotify.com/track/4PqCs6E0im3Qnit7GCE970) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Pure](https://open.spotify.com/album/2uVBdjAQIwOX41GExCQ7j7) | 2:02 | 2022-08-01 | 2024-02-03 |
 | [Radius](https://open.spotify.com/track/5HAJEsxD0fBSnbdWljzeFh) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Radius](https://open.spotify.com/album/62qUYNydgMlF5scn5Sy1Um) | 1:56 | 2022-08-25 | 2023-08-02 |
 | [Reach](https://open.spotify.com/track/7atqhP3DGCPfVBFK3YVMA7) | [Lester Milton](https://open.spotify.com/artist/2Xuimz47Nd6ltLsj9c1vgE) | [Reach](https://open.spotify.com/album/01KH05yqQgS0Cru4rIj5ML) | 2:00 | 2023-01-27 |  |
 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2022-08-01 |  |
 | [Recollection](https://open.spotify.com/track/5mrPM56HYyrFHLecV6Ur9D) | [Vessel Jaden](https://open.spotify.com/artist/7AzFAnjIshW3qstkPSeOIv) | [Recollection](https://open.spotify.com/album/7tOh4PEBVkcqxwaUZvxPas) | 4:39 | 2023-01-31 |  |
 | [Reflections](https://open.spotify.com/track/1qXzQi8CxX0Y5JqZ22m1zy) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reflections](https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI) | 2:09 | 2022-08-01 | 2023-05-04 |
 | [Reflections](https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Reflections](https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX) | 1:50 | 2022-08-01 | 2023-08-02 |
+| [Regarde les flammes danser](https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Regarde les flammes danser](https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV) | 2:11 | 2024-02-02 |  |
 | [Reggimi](https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ) | [Natalino Serafin](https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh) | [Reggimi](https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR) | 2:37 | 2022-08-01 |  |
 | [Relief](https://open.spotify.com/track/3s6CQV3a3fhMOUbEqyqmhb) | [Philipp Hasse](https://open.spotify.com/artist/76Awap7mRTdIk1ACiLdzYX) | [Relief](https://open.spotify.com/album/1d48qGcKGwSmxtsQ2wagp0) | 3:08 | 2023-08-01 |  |
 | [Relief](https://open.spotify.com/track/2nvOohWMFgqQ0DHocsgjLi) | [Vidar Bjørnebye](https://open.spotify.com/artist/0WfsOOVU0No9hqsOeCoQiJ) | [Relief](https://open.spotify.com/album/3GqsGO6Uh4GeIIZ2lEThmd) | 1:42 | 2022-09-23 | 2023-03-23 |
@@ -257,6 +259,7 @@
 | [Seichtes Wasser](https://open.spotify.com/track/1F6M5OxEBzMTpcTX64ie9m) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Madeira](https://open.spotify.com/album/0CPuRuX14OrSlgv2eYdjvB) | 2:18 | 2022-08-01 | 2022-09-13 |
 | [Serenity](https://open.spotify.com/track/0rSwr6MHxlu6A22OMptCO1) | [Sven Grimm](https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj) | [Serenity](https://open.spotify.com/album/2pymoaxhmNVZSlS10YZrvn) | 2:23 | 2023-06-20 |  |
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2022-08-01 | 2022-12-06 |
+| [Silent Waltz](https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys) | [Alix Claude](https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD) | [Silent Waltz](https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg) | 2:42 | 2024-02-02 |  |
 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 | 2022-08-01 |  |
 | [Silhouette de minuit](https://open.spotify.com/track/1Zv1x5a9DQMLUH7yrwAfBm) | [Vox Pacis](https://open.spotify.com/artist/5gu1Bq9TsFRfNLweos0T1Z) | [Silhouette de minuit](https://open.spotify.com/album/6hurG95Yjphk5tixXBaPhe) | 2:23 | 2023-07-18 |  |
 | [Sincero](https://open.spotify.com/track/2Vvwncoakogkxiq9HQCfFn) | [Isidret](https://open.spotify.com/artist/15fWBJeHIPIGbepQRrmISq) | [Sincero](https://open.spotify.com/album/31IAQeGcnIUlhKpk16mSmx) | 2:38 | 2022-08-25 |  |
@@ -336,7 +339,7 @@
 | [Valse Lente](https://open.spotify.com/track/7mu0xMw6sH2EZXl7rknVYN) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Valse Lente](https://open.spotify.com/album/0hT69ykQ29rpDL5ai2NxZ8) | 2:35 | 2022-08-01 |  |
 | [Valse Remuer](https://open.spotify.com/track/6uRgwV28hxPxLEr7nclFQs) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Valse Remuer](https://open.spotify.com/album/4XrIP9bYg4Pd0RNxIJaTqX) | 2:15 | 2023-01-09 |  |
 | [Vaults](https://open.spotify.com/track/53EoWPKv7FO9uTu6a7UPR2) | [Reginald Easter](https://open.spotify.com/artist/6iUeBAwdvdJ6jB3iVNPYAL) | [Vaults](https://open.spotify.com/album/1u7QPnbzTFfJngypn0BBVB) | 3:05 | 2022-08-01 | 2022-09-13 |
-| [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 | 2022-08-01 |  |
+| [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 | 2022-08-01 | 2024-02-03 |
 | [Ved](https://open.spotify.com/track/75XNNOrKVTwJ1lEGbE1a8q) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [Ved](https://open.spotify.com/album/0d3FPiEWqaJoxUaJgSSvNg) | 2:17 | 2023-01-31 |  |
 | [Vespers](https://open.spotify.com/track/6NTDYbHPwOKpGXQw2WWfLo) | [Thomas Welker](https://open.spotify.com/artist/0usxXdyQdV9ucIQRKQjfVG) | [Vespers](https://open.spotify.com/album/1dea5PJqBlByt9C7GYapKH) | 2:42 | 2022-08-01 | 2022-11-15 |
 | [Vladimir's Blues](https://open.spotify.com/track/48BOPD1mQba6z5Zrz2e7Bv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Calm Classics](https://open.spotify.com/album/6HOtwUwxw4hZO8XOycqt5F) | 1:18 | 2022-10-24 | 2022-11-14 |

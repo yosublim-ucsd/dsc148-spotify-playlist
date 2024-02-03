@@ -2,9 +2,9 @@
 
 ### [Iconos del Rock Mexicano](https://open.spotify.com/playlist/37i9dQZF1DWYMHB55fgZrY)
 
-> Los próceres de la historia del rock nacional\. Julieta Venegas en portada.
+> Los próceres de la historia del rock nacional\. El Novio de México en portada.
 
-229 songs - 14 hr 57 min
+230 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Here We Kum \- MTV Unplugged](https://open.spotify.com/track/4W2MGgZyieERJLtTrzW5cz) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Here We Kum \(MTV Unplugged\)](https://open.spotify.com/album/3Q9jipuRZvFyyS4sZSoaMn) | 4:43 | 2022-01-28 | 2022-11-13 |
 | [Heridos](https://open.spotify.com/track/2DrPEegrGI8YxQlkWMO5vK) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Heridos](https://open.spotify.com/album/0j7eOMdWhq1qr36QRbm3f9) | 4:38 | 2022-01-28 | 2022-07-29 |
 | [Horror Amor](https://open.spotify.com/track/4yG7J0NdjBVsM77nw24WIz) | [$6 Million Dollar Weirdo](https://open.spotify.com/artist/1s0oZV9v5zH3A9exHV7RlL) | [Ep1](https://open.spotify.com/album/0A506zY9EIXw9KeCm4x6nY) | 3:47 | 2022-01-28 | 2024-01-26 |
-| [Hoy No Quiero](https://open.spotify.com/track/6KWTSRF9Aa2rFZaJpsCWfa) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Bueninvento](https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp) | 3:13 | 2023-11-10 |  |
+| [Hoy No Quiero](https://open.spotify.com/track/6KWTSRF9Aa2rFZaJpsCWfa) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Bueninvento](https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp) | 3:13 | 2023-11-10 | 2024-02-03 |
 | [Hoy Tengo Miedo](https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Wow \(87\-04\)](https://open.spotify.com/album/5SH9zH7m4u4p2gURDZ73Lj) | 4:29 | 2022-01-28 | 2022-07-29 |
 | [Hoy Tengo Miedo](https://open.spotify.com/track/7dkzqJnqaLDEH8MsP1Rxx7) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Rosa Venus](https://open.spotify.com/album/35YMu32GI36kpBDG0Ts1ul) | 4:30 | 2022-01-28 |  |
 | [Imagina](https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA) | [Originales \- 20 Exitos](https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK) | 3:01 | 2022-01-28 |  |
@@ -220,6 +220,7 @@
 | [Tres Lunares](https://open.spotify.com/track/0THa3Vl0Ad1ksflpK10AJw) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB) | [Esquizofrenia](https://open.spotify.com/album/2KAIEIj96L0yLif1Urh3Mr) | 4:10 | 2022-08-25 |  |
 | [Triste canción](https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 5:42 | 2022-01-28 |  |
 | [Tu Luz](https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY) | [Azul Violeta](https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX) | [Globoscopio](https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc) | 4:33 | 2022-01-28 |  |
+| [Tu Mamá No Me Quiere](https://open.spotify.com/track/0cDbBduK0f4n0WBQjThaYV) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 4:02 | 2023-11-10 |  |
 | [Un Toque Mágico](https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X) | 4:14 | 2022-01-28 |  |
 | [Un Toque Mágico](https://open.spotify.com/track/2NN4GADDA9F8D8JYfiHIZb) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Lo Mejor de Tex Tex](https://open.spotify.com/album/6JNJgzHxB0tA8g4fdj5Rln) | 4:14 | 2022-01-28 | 2022-07-28 |
 | [Vaquero Rockanrolero](https://open.spotify.com/track/6imxKxbwy0GI2nU5tfIs27) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 4:15 | 2022-01-28 |  |

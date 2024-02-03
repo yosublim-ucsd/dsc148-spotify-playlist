@@ -4,7 +4,7 @@
 
 > Le meilleur du rap français version cloud\. Photo : mademoiselle lou
 
-337 songs - 16 hr 44 min
+338 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [J'arrête](https://open.spotify.com/track/4DBqYAG3eXWFulEs7FR8WN) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Stratos](https://open.spotify.com/album/5YyOGFt8KINACLGIzXRfdL) | 2:47 | 2023-02-23 | 2023-03-18 |
 | [J'arrête](https://open.spotify.com/track/6F1VlTSE6FltQA471aYdKK) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Stratos](https://open.spotify.com/album/0qwxx9ouUc5kGmMWHglDpq) | 2:47 | 2023-03-16 | 2023-04-07 |
 | [J'connais](https://open.spotify.com/track/0qXimz42wMirNPwbOuXPuN) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm) | 2:27 | 2023-03-02 | 2024-01-14 |
-| [J'connais](https://open.spotify.com/track/30XqjaNJxeglrqz79AQWwo) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA \(Parties 1&2\)](https://open.spotify.com/album/2P0rDh5cLuiMGBYNSxpX5u) | 2:27 | 2024-01-11 |  |
+| [J'connais](https://open.spotify.com/track/1aZVHOARM5FLgfAlHBtntr) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA \(Parties 1&2\)](https://open.spotify.com/album/1NTYNLaNEoAiZwT3mcNuP5) | 2:27 | 2024-02-01 |  |
+| [J'connais](https://open.spotify.com/track/30XqjaNJxeglrqz79AQWwo) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA \(Parties 1&2\)](https://open.spotify.com/album/2P0rDh5cLuiMGBYNSxpX5u) | 2:27 | 2024-01-11 | 2024-02-03 |
 | [J'la connais, Pt\. 1](https://open.spotify.com/track/7qTRcNu0nqDyjM7cWofXqT) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [J'la connais, Pt\. 1](https://open.spotify.com/album/6CodUHcAHp1KsNY2zPyDKA) | 3:34 | 2022-07-14 | 2023-01-20 |
 | [J'oublie](https://open.spotify.com/track/47ZrpiH2Koy794jtcdPmHn) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [J'oublie](https://open.spotify.com/album/3cHfA8bgpYXok3XYIIaYb1) | 2:56 | 2023-04-20 | 2023-06-16 |
 | [J'rentre pas chez moi](https://open.spotify.com/track/1kqrfPAEFaOx33YHlYqQLa) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [J'rentre pas chez moi](https://open.spotify.com/album/5MaykxZo8kzq0uYHgQXjqD) | 2:43 | 2022-07-14 | 2022-09-30 |

@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "Paranoid Cocoon",
+        "url": "https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO"
+      },
+      "artists": [
+        {
+          "name": "Cotton Jones",
+          "url": "https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276333,
+      "name": "Blood Red Sentimental Blues",
+      "url": "https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu"
+    },
+    {
+      "album": {
         "name": "Singing for My Supper",
         "url": "https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw"
       },
@@ -1077,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
+      },
+      "artists": [
+        {
+          "name": "Smog",
+          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185800,
+      "name": "Let's Move To The Country",
+      "url": "https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7"
+    },
+    {
+      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/6kEte3BcsOoAwuGnVTkgME"
       },
@@ -1470,7 +1506,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 220699,
       "name": "Oh, Sister [Feat. Courtney Marie Andrews]",
       "url": "https://open.spotify.com/track/4DNWkjZlBuGgSmNnqOVBeN"
@@ -1596,7 +1632,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 165225,
       "name": "Rendezvous USA",
       "url": "https://open.spotify.com/track/0WDNetEwAsjiavw67F33Mi"
@@ -1985,6 +2021,24 @@
     },
     {
       "album": {
+        "name": "Speed, Sound, Lonely KV (ep)",
+        "url": "https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315080,
+      "name": "Speed of the Sound of Loneliness",
+      "url": "https://open.spotify.com/track/3NhJyuxuWg9dEX0A88HkiS"
+    },
+    {
+      "album": {
         "name": "Concrete Feelings",
         "url": "https://open.spotify.com/album/4WB6BFuAYpAkyJWkqJmzRU"
       },
@@ -2182,6 +2236,28 @@
       "duration_ms": 239325,
       "name": "Sweet Tasting Tennessee",
       "url": "https://open.spotify.com/track/3uSD4eEDSHiNaQrWrKiHKm"
+    },
+    {
+      "album": {
+        "name": "Texas Sun",
+        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252811,
+      "name": "Texas Sun",
+      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
     },
     {
       "album": {
@@ -2502,7 +2578,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 234224,
       "name": "U Do U",
       "url": "https://open.spotify.com/track/6V1PghqHfdiog7XTmVgaCa"
@@ -2582,10 +2658,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 301960,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/4MxHAB3fHQ8oI2jRXSLQ9p"
+    },
+    {
+      "album": {
+        "name": "Sundowner",
+        "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244573,
+      "name": "Valley",
+      "url": "https://open.spotify.com/track/4MoCLZnuRqgdEKaz0wL5h4"
     },
     {
       "album": {
@@ -2720,7 +2814,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 183894,
       "name": "When A Cowboy Trades His Spurs For Wings",
       "url": "https://open.spotify.com/track/6KXIT7swzbtBjIepVzbarJ"

@@ -1,12 +1,12 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 493030,
+  "num_followers": 492999,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjQ5NjFjOGUzMzc1MjM2NGNmMzMzYjNjZWNiYTlmODA5Y2U2N2Qw",
+  "snapshot_id": "MCwzZDRhYTdiZjRkMjAzMjdkYjRmZDRjZDZkNzJkNDMwNTU0Y2JhMmZm",
   "tracks": [
     {
       "added_at": "2024-01-26 07:48:12",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-01-26 07:48:12",
       "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-01-26 07:48:12",
+      "album": {
         "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 191590,
       "name": "Asking",
       "url": "https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR"
-    },
-    {
-      "added_at": "2024-01-26 07:48:12",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "added_at": "2024-01-26 07:48:12",
@@ -303,6 +303,26 @@
     {
       "added_at": "2024-01-26 07:48:12",
       "album": {
+        "name": "Drums (Feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "Drums (Feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
+    },
+    {
+      "added_at": "2024-01-26 07:48:12",
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 170261,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ"
-    },
-    {
-      "added_at": "2024-01-26 07:48:12",
-      "album": {
-        "name": "Drums (Feat. Kim Petras)",
-        "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Drums (Feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
     },
     {
       "added_at": "2024-01-26 07:48:12",
@@ -459,26 +459,6 @@
     {
       "added_at": "2024-01-26 07:48:12",
       "album": {
-        "name": "Kernkraft 400 (A Better Day)",
-        "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Kernkraft 400 (A Better Day)",
-      "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
-    },
-    {
-      "added_at": "2024-01-26 07:48:12",
-      "album": {
         "name": "All By Myself",
         "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 171747,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "added_at": "2024-01-26 07:48:12",
+      "album": {
+        "name": "Kernkraft 400 (A Better Day)",
+        "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Kernkraft 400 (A Better Day)",
+      "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
     },
     {
       "added_at": "2024-01-26 07:48:12",
@@ -747,6 +747,26 @@
     {
       "added_at": "2024-01-26 07:48:12",
       "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
+    },
+    {
+      "added_at": "2024-01-26 07:48:12",
+      "album": {
         "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
         "url": "https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 172151,
       "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
       "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
-    },
-    {
-      "added_at": "2024-01-26 07:48:12",
-      "album": {
-        "name": "All Or Nothing",
-        "url": "https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 147973,
-      "name": "All Or Nothing",
-      "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
     },
     {
       "added_at": "2024-01-26 07:48:12",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-01-26 07:48:12",
       "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
-    },
-    {
-      "added_at": "2024-01-26 07:48:12",
-      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 141027,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
+    },
+    {
+      "added_at": "2024-01-26 07:48:12",
+      "album": {
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
     },
     {
       "added_at": "2024-01-26 07:48:12",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2024-01-26 07:48:12",
       "album": {
+        "name": "Levi Don't Do It",
+        "url": "https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t"
+    },
+    {
+      "added_at": "2024-01-26 07:48:12",
+      "album": {
         "name": "Exhale",
         "url": "https://open.spotify.com/album/1JREEnrYGc7Df2GZt2am3v"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 136866,
       "name": "Coming Home (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/4idV4UhKatC5h4Na8dhBQo"
-    },
-    {
-      "added_at": "2024-01-26 07:48:12",
-      "album": {
-        "name": "Levi Don't Do It",
-        "url": "https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t"
     },
     {
       "added_at": "2024-01-26 07:48:12",
@@ -1411,22 +1411,22 @@
     {
       "added_at": "2024-01-26 07:48:12",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv"
+        "name": "Through the Fire",
+        "url": "https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB"
       },
       "artists": [
         {
-          "name": "Nico Santos",
-          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+          "name": "PALASTIC",
+          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
         },
         {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
         }
       ],
-      "duration_ms": 169866,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA"
+      "duration_ms": 149374,
+      "name": "Through the Fire",
+      "url": "https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL"
     }
   ],
   "unique_name": "Wochenende",

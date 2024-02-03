@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: NOVELISTS
 
-300 songs - 19 hr 21 min
+301 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/track/3LghS5iipA13F5iOJ8j0Gi) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Inglorious](https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7), [Nathan James](https://open.spotify.com/artist/61ZNvjxuVnqNtdxzLLUVyp) | [Do Or Die \(feat\. Nathan James\)](https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI) | 3:13 | 2022-11-18 | 2023-05-14 |
 | [Drive](https://open.spotify.com/track/1D27ysHw4QbNyGfEe4yljT) | [Clio Cadence](https://open.spotify.com/artist/7ptBJGsem3xogV261ZUhtq) | [Drive](https://open.spotify.com/album/6fdWJnMaCRzCvsHhTvrXGU) | 3:42 | 2020-12-07\* | 2022-10-30 |
 | [Drive It Like You Stole It](https://open.spotify.com/track/74qhamOhw3kR1BCgpCnsiW) | [Smackbound](https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe) | [Drive It Like You Stole It](https://open.spotify.com/album/7sUt71Y22RFvzGHYFolvaB) | 3:33 | 2020-12-07\* | 2022-07-29 |
-| [Drive It Like You Stole It](https://open.spotify.com/track/3NC6kS2srJwtmisG88Oj4G) | [Smackbound](https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe) | [20/20](https://open.spotify.com/album/4BYXykjnCoXHGz4YVLjIan) | 3:36 | 2022-03-11 | 2023-03-19 |
+| [Drive It Like You Stole It](https://open.spotify.com/track/3NC6kS2srJwtmisG88Oj4G) | [Smackbound](https://open.spotify.com/artist/0ySxXqivCV6zY7EVbrTDfe) | [20/20](https://open.spotify.com/album/4BYXykjnCoXHGz4YVLjIan) | 3:36 | 2022-03-11 |  |
 | [Ella](https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Ella](https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9) | 3:54 | 2020-12-07\* | 2022-11-13 |
 | [Entertain You](https://open.spotify.com/track/2yiDAvEEqGrkKZpNYCJ5Wm) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Entertain You](https://open.spotify.com/album/0kLPfU7TA882mqHNmrMVWB) | 3:31 | 2022-03-11 | 2023-05-23 |
 | [Entertain You](https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 3:31 | 2023-05-18 |  |
@@ -137,7 +137,7 @@
 | [I Wish A Bitch Would](https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR) | 3:26 | 2023-02-03 | 2024-01-01 |
 | [I Wish A Bitch Would](https://open.spotify.com/track/4TrP8DfxX2UQwYEgy9vrkY) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4RSPZDisdB5mosSaFQn5mw) | 3:26 | 2023-09-15 |  |
 | [Illuminate](https://open.spotify.com/track/5JPgkThibvLJiFTBdfS7Bn) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Illuminate](https://open.spotify.com/album/2H7PzKyqWvWLR1eSETDQ2J) | 4:09 | 2020-12-07\* | 2022-07-28 |
-| [Illusionist](https://open.spotify.com/track/4U7mqbqE0nXTAnLDsn8rdW) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Escape](https://open.spotify.com/album/2pobzXGqkMDJHsFuNzpLin) | 3:08 | 2023-09-15 |  |
+| [Illusionist](https://open.spotify.com/track/4U7mqbqE0nXTAnLDsn8rdW) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Escape](https://open.spotify.com/album/2pobzXGqkMDJHsFuNzpLin) | 3:08 | 2023-09-15 | 2024-02-03 |
 | [Illusionist](https://open.spotify.com/track/0ntFhFYgGoRTvQsa6qEaUC) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Illusionist](https://open.spotify.com/album/2Uubui4aJ9UG6x5V7R8W1b) | 3:10 | 2020-12-07\* | 2022-07-29 |
 | [Imposter](https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Imposter](https://open.spotify.com/album/1NIHzCmCg3oYs602XSj9o8) | 3:03 | 2023-03-17 | 2023-08-04 |
 | [In Birth](https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [In Birth](https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV) | 2:56 | 2021-10-11 | 2021-10-16 |
@@ -190,6 +190,7 @@
 | [Off With Your Head](https://open.spotify.com/track/0rHCGInwbNkiZk7Etet5KK) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Off With Your Head](https://open.spotify.com/album/36BR0I2BVvsXsIl0pF4fQ5) | 2:12 | 2023-02-03 | 2023-05-08 |
 | [One Second](https://open.spotify.com/track/6frLIzuYmfTQcfX4khfRZP) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [One Second](https://open.spotify.com/album/6cyzwj2z7TDNU9Vhk85w1s) | 3:36 | 2020-12-07\* | 2022-07-29 |
 | [One Second](https://open.spotify.com/track/6gsgFHFxZTUL6W9j1sGeUD) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Apocalypse & Chill](https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG) | 3:36 | 2022-03-11 | 2022-11-14 |
+| [Opening Night](https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy) | 2:07 | 2023-09-15 |  |
 | [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 | 2023-02-10 | 2024-01-25 |
 | [Paralyzed](https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Paralyzed](https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ) | 3:45 | 2022-10-28 |  |
 | [Parasite](https://open.spotify.com/track/0LIKFnTpKGhbxZUIRzsZ5G) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 1:56 | 2023-09-15 |  |
@@ -233,7 +234,7 @@
 | [Sinners Hymn](https://open.spotify.com/track/7dUaX05uxCNK5lC3329O0E) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Sinners Hymn](https://open.spotify.com/album/7mL41tnKXoqUdoEvViyO4l) | 4:06 | 2020-12-07\* | 2022-07-10 |
 | [Skeletons](https://open.spotify.com/track/5IwbNovLgluEiRkg6QRZt4) | [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [Skeletons](https://open.spotify.com/album/2YlBfNiQQjBgl50GSA2PR6) | 3:32 | 2020-12-07\* | 2020-12-11 |
 | [Slave to the Machine](https://open.spotify.com/track/2ySsqBhctUvk8eV10zHNhv) | [Liv Sin](https://open.spotify.com/artist/7aetQGX0sd3swXqUIWurrE) | [Slave to the Machine](https://open.spotify.com/album/7CAykEzILsn3uIOGM5NRpo) | 3:39 | 2020-12-07\* | 2021-04-10 |
-| [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 | 2020-12-11 |  |
+| [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 | 2020-12-11 | 2024-02-03 |
 | [Songs the Night Sings](https://open.spotify.com/track/7iZoDXIunEJkR7nWLxRoQu) | [The Dark Element](https://open.spotify.com/artist/4yWabEiTzKShbBiy14Xx7f) | [Songs the Night Sings](https://open.spotify.com/album/78tux8SHmvu04TZ4Hzocnr) | 5:09 | 2020-12-07\* | 2023-02-02 |
 | [Spit](https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Spit](https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh) | 2:30 | 2023-08-07 |  |
 | [Stormbringer](https://open.spotify.com/track/3J7aw9aV1xkwr3wbo7n4aQ) | [Pagan Fury](https://open.spotify.com/artist/6OPsyrpJLYcCZUEhWIEsep), [Paradox Interactive](https://open.spotify.com/artist/75N2nC2KNgaQ1e6bGs0wyc) | [Stormbringer](https://open.spotify.com/album/2XDhBdEyeISVJnFQEwoFJx) | 3:09 | 2020-12-07\* | 2021-02-19 |

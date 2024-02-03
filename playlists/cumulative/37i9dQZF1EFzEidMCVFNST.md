@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-345 songs - 16 hr 24 min
+346 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Dane\-se](https://open.spotify.com/track/0uEuXlf0i59AYYdCb7prbf) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Dane\-se](https://open.spotify.com/album/71LirbNekTX6kAOjrAa3WE) | 2:15 | 2024-01-29 |  |
 | [Das Duas Uma \- Ao Vivo](https://open.spotify.com/track/60my4m9PH1RTxZL6UhfCsZ) | [Júnior e Cézar](https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk) | [Das Duas Uma \(Ao Vivo\)](https://open.spotify.com/album/2gkroX2qlcgQnOb4Z8IuF8) | 2:46 | 2024-01-29 |  |
 | [Debaixo do Tapete \- Ao Vivo](https://open.spotify.com/track/7EkzkUtPhDccwXLzrhdCb7) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026), [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Resenha \(ao Vivo\)](https://open.spotify.com/album/2ZZc3Ip1YYwz45Oi9Umozv) | 2:47 | 2024-01-29 |  |
+| [Deixa em Off \- Ao Vivo](https://open.spotify.com/track/2pVNpc1uoGwKvE8x2VHTXG) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Turma do Pagode XV Anos \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/7qGmJLYI1VIgihUmWJgifq) | 2:53 | 2024-02-02 |  |
 | [Deixa em Off \- XV Anos Ao Vivo](https://open.spotify.com/track/3zQeFbC3qb9s7MkUvwGoJr) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Deixa em Off \(XV Anos Ao Vivo\)](https://open.spotify.com/album/4yrb4O59zn2BQdk3MQwIEv) | 2:52 | 2024-01-29 | 2024-02-02 |
 | [Deixa Ir](https://open.spotify.com/track/7azEIGsP1565VMeJXzunVH) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Deixa Ir](https://open.spotify.com/album/2Ng3hFcV0NzZixOLu0dvav) | 2:32 | 2024-01-29 |  |
 | [Desapegadim \(Tim Tim\)](https://open.spotify.com/track/6PKsGQCw58kixM8G5FkBUH) | [Ricardo e João Fernando](https://open.spotify.com/artist/150zwD7rTVIEK5wO25gYez) | [Desapegadim \(Tim Tim\)](https://open.spotify.com/album/7v7vg01DqulZ22600B8z3q) | 2:38 | 2024-01-29 |  |
@@ -254,7 +255,7 @@
 | [Recadinho para Você](https://open.spotify.com/track/7t6jt692pPcwua3IZx9ipI) | [Ingrid Mantovani](https://open.spotify.com/artist/2TjJZ2XYZGbGnnjD6k1hWg) | [Recadinho para Você](https://open.spotify.com/album/4KC8323hXv1uYuNi4zWkXR) | 2:24 | 2024-01-29 |  |
 | [Recompensa](https://open.spotify.com/track/7FtyTz9YLFgfJjN4gYWGjB) | [Acácio](https://open.spotify.com/artist/1WIBi4F6CHYW5BSSY0Yn92) | [O Ferinha da Bahia \(Ao Vivo no Embu, SP\)](https://open.spotify.com/album/2UVyNkfIS2F8WTC7N5iB0K) | 3:15 | 2024-01-29 |  |
 | [Relógio](https://open.spotify.com/track/45khULP8E3Ow2tXITNKuSP) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Hipnose](https://open.spotify.com/album/3eB3h2dbEKoFpaRNp480B2) | 2:53 | 2024-01-29 |  |
-| [Relógio Parado \(Ao Vivo\)](https://open.spotify.com/track/5n8Y78Pl5q8lqS7sJP61qw) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Relógio Parado \(Ao Vivo\)](https://open.spotify.com/album/60uEVgPGWNBFOYH8EcJglb) | 3:00 | 2024-01-29 | 2024-02-02 |
+| [Relógio Parado \(Ao Vivo\)](https://open.spotify.com/track/5n8Y78Pl5q8lqS7sJP61qw) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Relógio Parado \(Ao Vivo\)](https://open.spotify.com/album/60uEVgPGWNBFOYH8EcJglb) | 3:00 | 2024-01-29 |  |
 | [Relógio Parado \(Ao Vivo\)](https://open.spotify.com/track/5nF1vGEu8Aag0Z0KIYh2Xt) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Relógio Parado \(Ao Vivo\)](https://open.spotify.com/album/6mWqavDFQH94eYMXlc5h5D) | 3:08 | 2024-01-30 | 2024-02-01 |
 | [Resenha Muito Louca \- Ao Vivo](https://open.spotify.com/track/2rKtRI3PNvQIkfWa0pULy9) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Resenha 2 \(ao Vivo\)](https://open.spotify.com/album/4X5noS3F54xiitCfQ3hgHt) | 3:29 | 2024-01-29 |  |
 | [Respeita \- Ao Vivo](https://open.spotify.com/track/1lxQrvlu0nHXdEaYVEdLoL) | [Thaeme & Thiago](https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh) | [Química \(Ao Vivo\)](https://open.spotify.com/album/7w8qd0nWH8tixJScorxcHq) | 2:43 | 2024-01-29 |  |

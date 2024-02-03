@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-277 songs - 16 hr 10 min
+278 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Lágrimas](https://open.spotify.com/track/3KIMz0gFb6UlwjGaxGEtQk) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lágrimas](https://open.spotify.com/album/5yEunu5lGVvGdi2bGgZ7Ne) | 4:27 | 2022-03-04 | 2022-07-23 |
 | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 | 2022-02-25 | 2022-10-29 |
 | [Macumbia](https://open.spotify.com/track/3kJIV2hHl2PeJ4SXLYBy8p) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Macumbia](https://open.spotify.com/album/4MOmIWeENQ3P2bvM4WWffL) | 3:03 | 2022-04-15 | 2022-08-27 |
-| [Maldita flor](https://open.spotify.com/track/72Oc0OIk1j0UfMkq9zV79L) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR), [El Suppe'r De Oro](https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya) | [Maldita Flor](https://open.spotify.com/album/02pZs137dI76WI0aNsHMz6) | 3:02 | 2023-12-08 |  |
+| [Maldita flor](https://open.spotify.com/track/72Oc0OIk1j0UfMkq9zV79L) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR), [El Suppe'r De Oro](https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya) | [Maldita Flor](https://open.spotify.com/album/02pZs137dI76WI0aNsHMz6) | 3:02 | 2023-12-08 | 2024-02-03 |
 | [Me Enamore](https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:32 | 2021-12-24 |  |
 | [Me Gusta Todo De Ti](https://open.spotify.com/track/2SEYkDv8jqEVMpppKoG3mY) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Me Gusta Todo De Ti](https://open.spotify.com/album/3kvLgFBMMD55vLEuBjJUpU) | 4:08 | 2021-12-24 |  |
 | [Me Gusta Tomar](https://open.spotify.com/track/04dOHfrM70Z22u7Z2SNrAO) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Me Gusta Tomar](https://open.spotify.com/album/0hTy6ojNpjJhBenQeB3APk) | 3:50 | 2023-06-16 | 2023-08-19 |
@@ -188,6 +188,7 @@
 | [Pensando Recordé](https://open.spotify.com/track/7E4wX37s5Kf2wIFpntbcvz) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Pensando Recordé](https://open.spotify.com/album/6itNbVzsvRFmhgvl2Q4Ldi) | 3:42 | 2021-12-24 | 2022-08-06 |
 | [Pensándote](https://open.spotify.com/track/1AadbT8MzoeyI7KGmyQECf) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Pensándote](https://open.spotify.com/album/3kJvT2frbjLUM4ptQQB2dW) | 2:32 | 2022-08-26 | 2022-11-26 |
 | [Perfecta](https://open.spotify.com/track/6ENJrMm3Kxj6pZKGGB3DLI) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg), [Lauri](https://open.spotify.com/artist/5DkMnet9UIBiZY5TlAPsKo) | [Perfecta](https://open.spotify.com/album/4t1mtvtgdEtwlfen0Ks7yp) | 3:23 | 2023-02-03 | 2024-01-27 |
+| [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 | 2024-02-02 |  |
 | [Piensame](https://open.spotify.com/track/3DnSi9XRkcqEOHPaYcMeHr) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Ep N\-Blq 33](https://open.spotify.com/album/5h61fNKIiR3eleB74l8xCv) | 2:57 | 2021-12-24 | 2022-04-16 |
 | [Pistola Remix](https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [El Mas Ladron](https://open.spotify.com/artist/1M1s4ofh9rBEBWhyYsXAcn), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Pistola Remix](https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T) | 2:16 | 2021-12-24 | 2023-08-19 |
 | [Pobre Corazón](https://open.spotify.com/track/1gpayq8BQ8Z1AZSCHUeZOC) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón](https://open.spotify.com/album/1IV4edNM4eYtHUOieGtIj9) | 3:18 | 2023-03-09 | 2023-04-21 |

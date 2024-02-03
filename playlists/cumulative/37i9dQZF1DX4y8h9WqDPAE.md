@@ -2,9 +2,9 @@
 
 ### [Channel\-X](https://open.spotify.com/playlist/37i9dQZF1DX4y8h9WqDPAE)
 
-> Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Fridayy
+> Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Ayra Starr
 
-625 songs - 1 day 8 hr 59 min
+627 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-28 | 2023-10-21 |
 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 | 2023-06-09 | 2023-10-21 |
 | [Cheatback](https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:45 | 2023-03-31 | 2023-04-29 |
+| [choosin u \(with Lay Bankz\)](https://open.spotify.com/track/3pqxzhKwOXeOHXpa7WeFiG) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [choosin u \(with Lay Bankz\)](https://open.spotify.com/album/5aqNIzK5ADPpAhaZfDBiyh) | 2:24 | 2024-02-02 |  |
 | [Chosen \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [No Love Lost \(Deluxe\)](https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr) | 2:41 | 2021-12-17 | 2022-05-07 |
 | [Chronicles \(feat\. H.E.R\. & Lil Durk\)](https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 3:32 | 2022-01-21 | 2022-07-16 |
 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 | 2023-08-25 |  |
@@ -115,6 +116,7 @@
 | [Co\-Star](https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Co\-Star](https://open.spotify.com/album/0FLajXxca41VLTunahQo9s) | 2:46 | 2023-05-05 | 2023-06-10 |
 | [Coldplay](https://open.spotify.com/track/2GpCh34HpurCeyeHvSe8To) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:55 | 2022-07-15 | 2022-07-30 |
 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 | 2023-03-03 | 2023-07-01 |
+| [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 | 2024-02-02 |  |
 | [Commotion](https://open.spotify.com/track/6JGbBAVvplOLmXrb8o0ily) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:33 | 2023-02-24 | 2023-07-01 |
 | [Compromise \(feat\. Rema\)](https://open.spotify.com/track/2dG1cXdbEPKEOyUq96R9xz) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:15 | 2022-08-05 | 2023-02-25 |
 | [Confujawn \(feat\. Nija\)](https://open.spotify.com/track/0IRTa7DehMM1eyrwx98DJ7) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Confujawn \(feat\. Nija\)](https://open.spotify.com/album/1ruWQM9ZBDvP9RFwfV6DHA) | 2:55 | 2022-03-18 | 2022-06-18 |

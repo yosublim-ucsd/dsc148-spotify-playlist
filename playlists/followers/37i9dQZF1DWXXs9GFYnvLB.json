@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 1397279,
+  "2024-02-03": 1397380,
   "date_first_scraped": "2023-06-18",
-  "description": "The hottest tracks with the freshest hits! Cover: Noah Kahan",
+  "description": "The hottest tracks with the freshest hits! Cover: Dom Dolla",
   "name": "Hot Hits Australia",
   "tracks": [
     {
@@ -727,7 +727,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -829,6 +829,24 @@
       "duration_ms": 232857,
       "name": "Die For You - Remix",
       "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
+    },
+    {
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/3uoFn9YXRikta2GkvMXoR7"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208253,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha"
     },
     {
       "album": {
@@ -977,7 +995,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 265493,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
@@ -1093,6 +1111,24 @@
       "duration_ms": 139410,
       "name": "Forever & Again (From Barbie The Album)",
       "url": "https://open.spotify.com/track/6Ky8ROf2VWY5vwoGfMet7x"
+    },
+    {
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "FTCU",
+      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
     },
     {
       "album": {
@@ -1644,6 +1680,24 @@
     },
     {
       "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "album": {
         "name": "MY HOUSE",
         "url": "https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs"
       },
@@ -1695,7 +1749,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 235689,
       "name": "Needle (feat. Drake)",
       "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
@@ -1717,6 +1771,24 @@
       "duration_ms": 160166,
       "name": "Never Felt So Alone",
       "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
+    },
+    {
+      "album": {
+        "name": "One Bad Day",
+        "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200248,
+      "name": "One Bad Day",
+      "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
     },
     {
       "album": {
@@ -2175,7 +2247,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 171655,
       "name": "Single Soon",
       "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
@@ -2273,7 +2345,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -2463,6 +2535,24 @@
       "duration_ms": 210051,
       "name": "The Worst Person Alive",
       "url": "https://open.spotify.com/track/4oIN3NykxQQM9ROzlsEuUv"
+    },
+    {
+      "album": {
+        "name": "The Worst Person Alive",
+        "url": "https://open.spotify.com/album/0gUEqoX8asLVh5Ugvu6Zxz"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210417,
+      "name": "The Worst Person Alive",
+      "url": "https://open.spotify.com/track/0ZL3KCVOotXnC5trEE3XPa"
     },
     {
       "album": {

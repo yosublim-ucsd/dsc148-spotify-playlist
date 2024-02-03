@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,192 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,216 likes - 65 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 15 | [Why God](https://open.spotify.com/track/7uF8xYuPV1ZXmSS98qqynh) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Wide Open](https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B) | 3:41 |
 | 16 | [WILD LOVE](https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [WILD LOVE](https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE) | 2:47 |
 | 17 | [Bridges](https://open.spotify.com/track/4nFeTtjyFepN3X0cCP1OSK) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP) | 3:36 |
-| 18 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 |
-| 19 | [Delight in You](https://open.spotify.com/track/37YF8RDQ7u7JLQOnxcCH9b) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [Always Faithful](https://open.spotify.com/album/5HOJ3iRYUkUfGiNzet72EQ) | 3:58 |
+| 18 | [Delight in You](https://open.spotify.com/track/37YF8RDQ7u7JLQOnxcCH9b) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [Always Faithful](https://open.spotify.com/album/5HOJ3iRYUkUfGiNzet72EQ) | 3:58 |
+| 19 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 |
 | 20 | [Waters](https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8) | [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2) | [Waters](https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi) | 4:00 |
 | 21 | [Soul's on Fire](https://open.spotify.com/track/3Lj0mxiDfTDxr5ADKKlxJQ) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Soul's on Fire](https://open.spotify.com/album/6DcpeOj7clMeg7hD4ZPt33) | 3:29 |
 | 22 | [Closer Than a Brother](https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Closer Than a Brother](https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx) | 5:09 |
@@ -34,17 +34,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 24 | [Radical](https://open.spotify.com/track/1Y9JQO7FizZV8zLuy509I8) | [Ecclesia](https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [Wake Up](https://open.spotify.com/album/6zDrYIeQaD7KS3HAZst1PJ) | 2:34 |
 | 25 | [Heaven \(All Around You\) \- Acoustic](https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:39 |
 | 26 | [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 |
-| 27 | [Sweet Water](https://open.spotify.com/track/3f5VaDwwxGN1Q99t5RRH8W) | [Beach Chapel](https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5) | [Sweet Water](https://open.spotify.com/album/7eLXqkyWDOJRhEMNjaN5Be) | 4:09 |
-| 28 | [Dearly Loved](https://open.spotify.com/track/5ARJNdFbSj2yYpaAKPfIDo) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Dearly Loved](https://open.spotify.com/album/0HMkDsyQXtgF0sgMFpudvK) | 4:25 |
+| 27 | [Dearly Loved](https://open.spotify.com/track/5ARJNdFbSj2yYpaAKPfIDo) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Dearly Loved](https://open.spotify.com/album/0HMkDsyQXtgF0sgMFpudvK) | 4:25 |
+| 28 | [Sweet Water](https://open.spotify.com/track/3f5VaDwwxGN1Q99t5RRH8W) | [Beach Chapel](https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5) | [Sweet Water](https://open.spotify.com/album/7eLXqkyWDOJRhEMNjaN5Be) | 4:09 |
 | 29 | [Love Me Like You \- TYE Remix](https://open.spotify.com/track/67uQCds7ugUZn3TZUhc5dB) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Love Me Like You \(TYE Remix\)](https://open.spotify.com/album/7t1QRFDMpYbZPFnirwkU3q) | 3:23 |
 | 30 | [Brighter](https://open.spotify.com/track/44u5ggF8jOttzk8XvPGyik) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [SSTEDI](https://open.spotify.com/artist/1VZIyB5EgFbnBlOlY8SgYK) | [Brighter](https://open.spotify.com/album/0uaNHO3Fg6eX9tAtUBxV8q) | 4:39 |
 | 31 | [Eyes on You](https://open.spotify.com/track/2q0UHOP7ePGLcqjwF9wBSV) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Heaven](https://open.spotify.com/album/5Q11hlTmOZedl8pEKT4Cbg) | 3:56 |
 | 32 | [Fanatic](https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Twenty Four Seven](https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn) | 3:06 |
-| 33 | [Ordinary](https://open.spotify.com/track/27SD1IBImjwmcNhsMzae4z) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/7yZ0ymYQisTt8oB2f5kseg) | 3:02 |
-| 34 | [You Say \(Acoustic\)](https://open.spotify.com/track/4edscO0eug8wJGZ5RkqqdW) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [You Say \(Acoustic\)](https://open.spotify.com/album/50JmQ36DRkjO60LXMOowYp) | 4:24 |
-| 35 | [Sunshine](https://open.spotify.com/track/7pBx4A6oQf6Ut7Eyd6WwJr) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Sunshine](https://open.spotify.com/album/77x64lNlw8acb9Yqk03zEh) | 3:16 |
-| 36 | [Never Far](https://open.spotify.com/track/2fWrlXD3n603bKrL0UPXZj) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far](https://open.spotify.com/album/7kRDQkDk7tBtv8hpoSdWrX) | 3:44 |
-| 37 | [Storehouse](https://open.spotify.com/track/3Kf9UApNiDkWXHNtOThNkB) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [She Waits](https://open.spotify.com/album/6htuk1jWdUa9s9egIHnWrb) | 4:06 |
+| 33 | [Storehouse](https://open.spotify.com/track/3Kf9UApNiDkWXHNtOThNkB) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [She Waits](https://open.spotify.com/album/6htuk1jWdUa9s9egIHnWrb) | 4:06 |
+| 34 | [Ordinary](https://open.spotify.com/track/27SD1IBImjwmcNhsMzae4z) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/7yZ0ymYQisTt8oB2f5kseg) | 3:02 |
+| 35 | [You Say \(Acoustic\)](https://open.spotify.com/track/4edscO0eug8wJGZ5RkqqdW) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [You Say \(Acoustic\)](https://open.spotify.com/album/50JmQ36DRkjO60LXMOowYp) | 4:24 |
+| 36 | [Sunshine](https://open.spotify.com/track/7pBx4A6oQf6Ut7Eyd6WwJr) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Sunshine](https://open.spotify.com/album/77x64lNlw8acb9Yqk03zEh) | 3:16 |
+| 37 | [Never Far](https://open.spotify.com/track/2fWrlXD3n603bKrL0UPXZj) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far](https://open.spotify.com/album/7kRDQkDk7tBtv8hpoSdWrX) | 3:44 |
 | 38 | [Pieces](https://open.spotify.com/track/6PZh8MRQB5Hxj2PIKG8XY5) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Bloom](https://open.spotify.com/album/36LOiWPolyaiePKZwj4A5w) | 5:29 |
 | 39 | [Down](https://open.spotify.com/track/7pm6Tx25xrVRTSjzYrdOVE) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Prize Worth Fighting For \- EP](https://open.spotify.com/album/3OhT211gjRkYGbkuKubrtS) | 2:38 |
 | 40 | [Speak to Me](https://open.spotify.com/track/7nmrabiFsP23CoI8EXsgDc) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [& Side A](https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i) | 3:55 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 64 | [Lead the Way](https://open.spotify.com/track/4kOe0ZUSIlIjXsZSx4zFBz) | [Caleb Crino](https://open.spotify.com/artist/2H6txjI4kswHScMO8VYtkG) | [Caleb Crino](https://open.spotify.com/album/4uW1eDXAs4KollydvzHLJa) | 3:15 |
 | 65 | [The Great Migration](https://open.spotify.com/track/64GSNWih2teT6tLgKOv0DR) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [The Great Migration](https://open.spotify.com/album/3f2KvqW6BlbFsE4sAC4Az0) | 4:57 |
 
-Snapshot ID: `MCw4Nzk4YjI3ZWY1YmVlY2ViYjc3NDQzZDE2ZDA1OWFkY2E0ZDUzZGZl`
+Snapshot ID: `MCw2NTk2NGI5YzFiYjgyYWExNzNjZTcyMjk1MmNhZDE5MjFlNDE1NzE2`

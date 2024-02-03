@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 327673,
+  "2024-02-03": 328021,
   "date_first_scraped": "2022-05-26",
   "description": "Instrumental beats for a restful night's sleep.",
   "name": "lofi sleep",
@@ -195,6 +195,24 @@
       "duration_ms": 142000,
       "name": "a leap of sleep",
       "url": "https://open.spotify.com/track/4S2KNfRivsduJPWI52oJVf"
+    },
+    {
+      "album": {
+        "name": "A New Dawn",
+        "url": "https://open.spotify.com/album/2dHb6EPDsaT6i3jUBnhGq9"
+      },
+      "artists": [
+        {
+          "name": "Mel Atonin",
+          "url": "https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "A New Dawn",
+      "url": "https://open.spotify.com/track/4BopBYqzp4NXkkpjlE1hrJ"
     },
     {
       "album": {
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 166000,
       "name": "Cloudy Sleeps",
       "url": "https://open.spotify.com/track/3CXXXcD1Yw8W8uTD9ZmR6a"
@@ -10119,6 +10137,24 @@
       "duration_ms": 139296,
       "name": "SLOWLY",
       "url": "https://open.spotify.com/track/13hIl9viyBhvPoLVag7BnQ"
+    },
+    {
+      "album": {
+        "name": "slumber softly",
+        "url": "https://open.spotify.com/album/4cvVPd5xOVXUD1QaWpxIMN"
+      },
+      "artists": [
+        {
+          "name": "Harry G's Beats",
+          "url": "https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136166,
+      "name": "slumber softly",
+      "url": "https://open.spotify.com/track/6V3mKIE20S9tUefe1qMRS1"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 378919,
+  "num_followers": 379239,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTQ3ZTgxYzRjMmRlMmM1OWVmZjJjZjY5YjcwMjI1MjUyYjQ4ZjAx",
+  "snapshot_id": "MCwyNDYzMWZmMTk2Mzc3MjI1MDQ5MDI0YjZhYTEzMzZlYWZmZmU2NmEz",
   "tracks": [
     {
       "added_at": "2024-01-31 12:56:54",
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-01-31 12:56:54",
       "album": {
-        "name": "Les ronds de carotte",
-        "url": "https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw"
+        "name": "Amourettes",
+        "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
       },
       "artists": [
         {
-          "name": "Thomas Fersen",
-          "url": "https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM"
+          "name": "Les Chauds Lapins",
+          "url": "https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ"
         }
       ],
-      "duration_ms": 245226,
-      "name": "Au caf\u00e9 de la paix",
-      "url": "https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8"
+      "duration_ms": 150973,
+      "name": "Cette Nuit l\u00e0",
+      "url": "https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5"
     },
     {
       "added_at": "2024-01-31 12:56:54",
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-01-31 12:56:54",
       "album": {
-        "name": "Amourettes",
-        "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
+        "name": "Les ronds de carotte",
+        "url": "https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw"
       },
       "artists": [
         {
-          "name": "Les Chauds Lapins",
-          "url": "https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ"
+          "name": "Thomas Fersen",
+          "url": "https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM"
         }
       ],
-      "duration_ms": 150973,
-      "name": "Cette Nuit l\u00e0",
-      "url": "https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5"
+      "duration_ms": 245226,
+      "name": "Au caf\u00e9 de la paix",
+      "url": "https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8"
     },
     {
       "added_at": "2024-01-31 12:56:54",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-01-31 12:56:54",
       "album": {
+        "name": "Faites vous des amis",
+        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
+      },
+      "artists": [
+        {
+          "name": "LES ESCROCS",
+          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
+        }
+      ],
+      "duration_ms": 265426,
+      "name": "Assedic",
+      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
+    },
+    {
+      "added_at": "2024-01-31 12:56:54",
+      "album": {
         "name": "Just The Two Of Us",
         "url": "https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 137960,
       "name": "Je Suis Seule Ce Soir",
       "url": "https://open.spotify.com/track/0l5rSE550QrVceVHcBCiDM"
-    },
-    {
-      "added_at": "2024-01-31 12:56:54",
-      "album": {
-        "name": "Faites vous des amis",
-        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
-      },
-      "artists": [
-        {
-          "name": "LES ESCROCS",
-          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
-        }
-      ],
-      "duration_ms": 265426,
-      "name": "Assedic",
-      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
     },
     {
       "added_at": "2024-01-31 12:56:54",

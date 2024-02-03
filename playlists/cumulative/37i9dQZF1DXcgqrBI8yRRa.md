@@ -4,7 +4,7 @@
 
 > "Ice Spice looks so Igbo\. Like her name is Chisom"
 
-367 songs - 20 hr 25 min
+368 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Baddest Boy \- Remix](https://open.spotify.com/track/4lDghGd035xrzGp6Yec2j1) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Baddest Boy \(Remix\)](https://open.spotify.com/album/2aNveWp5zVMduvpZwAZTpf) | 2:24 | 2022-02-09 | 2023-06-27 |
 | [Bafunani](https://open.spotify.com/track/05f7EYSY5ZtPk1jAgIf9gC) | [QuayR Musiq](https://open.spotify.com/artist/4Swe2JHqCnhe8uQA9oNs08), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Lee Mckrazy](https://open.spotify.com/artist/6D9C51MFyGSH997EUggino) | [Bafunani](https://open.spotify.com/album/5SlsgJ1YI0ykiOQGNyub1F) | 6:34 | 2023-06-26 | 2023-07-07 |
 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 | 2022-09-08 | 2023-06-27 |
+| [Bandit](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 | 2024-02-02 |  |
 | [Be Easy](https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Be Easy](https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl) | 2:12 | 2023-06-05 | 2023-06-13 |
 | [Beamer \(Bad Boys\)](https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Beamer \(Bad Boys\)](https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh) | 3:15 | 2023-11-18 | 2024-01-16 |
 | [Beautifully](https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Beautifully](https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx) | 2:49 | 2022-01-10 | 2022-09-09 |
@@ -189,7 +190,7 @@
 | [Jolie](https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jolie](https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ) | 3:29 | 2023-03-13 | 2023-06-27 |
 | [Joro](https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Joro](https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh) | 4:22 | 2023-06-26 | 2023-07-07 |
 | [Juju](https://open.spotify.com/track/1lT7kr1fC72dWKTmKPwH8U) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Everybody Loves Ice Prince](https://open.spotify.com/album/35IQekv12aRfdoWjonmwWi) | 4:52 | 2023-11-18 | 2024-01-16 |
-| [just like me](https://open.spotify.com/track/5KI7I4mEtulXcv5VQJaV35) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:51 | 2024-01-15 |  |
+| [just like me](https://open.spotify.com/track/5KI7I4mEtulXcv5VQJaV35) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:51 | 2024-01-15 | 2024-02-03 |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2023-03-13 | 2023-06-13 |
 | [Khekheleza \(Dlala Dlala\)](https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Thama Tee](https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR) | [Khekheleza \(Dlala Dlala\)](https://open.spotify.com/album/0xzQmemSpxC1d1XmNAQY80) | 5:29 | 2023-06-26 | 2023-07-07 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-02-16 | 2023-07-07 |

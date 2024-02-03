@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,747 likes - 49 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,819 likes - 49 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 22 | [Songbird](https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Duotones](https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1) | 5:03 |
 | 23 | [Everlasting](https://open.spotify.com/track/4wukH3ea6NqekDg98qB9F2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Ultimate Kenny G](https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P) | 4:16 |
 | 24 | [Clair de Lune \(feat\. Kenny G\)](https://open.spotify.com/track/6YoOSmaiA0ZBff3ozVvPFa) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 1:17 |
-| 25 | [Theme from "Dying Young"](https://open.spotify.com/track/6RLqhvZlpOxGHsf7EKoa25) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:02 |
-| 26 | [The Wedding Song](https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 3:21 |
+| 25 | [The Wedding Song](https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 3:21 |
+| 26 | [Theme from "Dying Young"](https://open.spotify.com/track/6RLqhvZlpOxGHsf7EKoa25) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:02 |
 | 27 | [Everytime I Close My Eyes \(with Babyface\)](https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 4:58 |
 | 28 | [Use This Gospel](https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:33 |
-| 29 | [You Send Me \(with Michael Bolton\)](https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:04 |
-| 30 | [The Joy of Life](https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 4:20 |
+| 29 | [The Joy of Life](https://open.spotify.com/track/5s5w2DYXBWAL1lX7KTCJY2) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Breathless](https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy) | 4:20 |
+| 30 | [You Send Me \(with Michael Bolton\)](https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Greatest Hits](https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56) | 4:04 |
 | 31 | [Havana](https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Moment](https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp) | 7:20 |
 | 32 | [My Heart Will Go On \(Love Theme from "Titanic"\)](https://open.spotify.com/track/5f2u9cxFcnNAmYEEkIVGkw) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Songbird: The Best Of Kenny G](https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06) | 4:21 |
 | 33 | [The Promise](https://open.spotify.com/track/1BGXHSXW84XkVe5cdRMLKN) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Heart And Soul](https://open.spotify.com/album/6G9KJtQMm8GN4HMk3STg5o) | 5:13 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 48 | [Baby G](https://open.spotify.com/track/43BthQDBthBJM8dflfeoIF) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Greatest Hits](https://open.spotify.com/album/1i2GAfGtYhaveFdUX3mcgj) | 3:35 |
 | 49 | [Don't Make Me Wait for Love](https://open.spotify.com/track/4xbJyF9RDa1VLoZNoCFy1r) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Duotones](https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa) | 4:05 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDA5ZmNlNTY4NzYxNmYxMzM2Nzc1ZDdhMjc3MDkxOGIyMA==`
+Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDAxZDQ1MjZkM2I3YWNhNTdlOGUyMWM2YWJlMzRhODA5Mw==`

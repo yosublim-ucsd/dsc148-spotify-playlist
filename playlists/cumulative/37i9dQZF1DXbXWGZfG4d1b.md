@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-546 songs - 1 day 8 hr 24 min
+547 songs - 1 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [AMORA](https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:28 | 2022-09-30 | 2023-10-27 |
 | [Amorestream](https://open.spotify.com/track/36Pq4Q9JAmPrrKVXcOypEM) | [Bruno Albano](https://open.spotify.com/artist/5SPn97xEYlWyf9SYzzD731) | [Amorestream](https://open.spotify.com/album/046EjpYevPhRy74d8c9y5T) | 4:09 | 2022-07-01 | 2022-07-26 |
 | [Amuleto](https://open.spotify.com/track/6EAN9mfCYKzQx4AWoKhNJT) | [El Hipnotizador Romántico](https://open.spotify.com/artist/6O5QcAwKsWhaFbmuy3SPku) | [Amuleto](https://open.spotify.com/album/3Tu4K48pBVeOWJI65Te4jy) | 3:34 | 2022-06-03 | 2022-07-19 |
-| [Anclado](https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx) | [Los Hermanos Laser](https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX) | [Anclado](https://open.spotify.com/album/7JjatfKYlSBkcTfChzT4yt) | 4:24 | 2023-11-10 |  |
+| [Anclado](https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx) | [Los Hermanos Laser](https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX) | [Anclado](https://open.spotify.com/album/7JjatfKYlSBkcTfChzT4yt) | 4:24 | 2023-11-10 | 2024-02-03 |
 | [Andate](https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [NAFTA II](https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It) | 2:58 | 2023-07-28 |  |
 | [Animales](https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Animales](https://open.spotify.com/album/2GRZzy5ZPmh7dvns69tZ8p) | 3:41 | 2022-06-03 | 2023-10-27 |
 | [Antes de que Olvide](https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:53 | 2023-05-26 |  |
@@ -344,6 +344,7 @@
 | [Más o Menos Bien](https://open.spotify.com/track/3qItYNPhAFxQp4QLN1pikP) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/33szFJNdxgVGQa518rOohL) | 4:13 | 2022-06-03 | 2022-07-29 |
 | [Más O Menos Bien](https://open.spotify.com/track/0W6BJElrcM7ZXXiq8VtvSg) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastia Scorpio](https://open.spotify.com/album/0kKonx1ECQcHDDGoAfYveS) | 4:13 | 2022-07-15 | 2022-08-13 |
 | [Música bailando](https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Música bailando](https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq) | 2:18 | 2022-09-30 | 2023-10-27 |
+| [Nada Más](https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Habla Sola / Nada Más](https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T) | 3:54 | 2024-02-02 |  |
 | [Nadie Duerma](https://open.spotify.com/track/7Abe3NiiJJaj7NTEQAaCeG) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [Nadie Duerma](https://open.spotify.com/album/1GOWdMTp1ZciwipwKs7RHc) | 4:46 | 2023-06-09 | 2023-10-27 |
 | [Nadie Quiere Hablar](https://open.spotify.com/track/3GHt0v7k5YhCPRbNOSwPzj) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [Nadie Quiere Hablar](https://open.spotify.com/album/6bSTUMI6pYCAXnw3mXcAiy) | 2:20 | 2022-07-01 | 2022-07-22 |
 | [Nadie va a decidir por vos](https://open.spotify.com/track/3pQeLODdZQBI4f8DTiDlLs) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Nuevos miedos \- Nadie va a decidir por vos](https://open.spotify.com/album/0PxQldH41ENWpTMyX3buKN) | 3:41 | 2023-07-28 |  |

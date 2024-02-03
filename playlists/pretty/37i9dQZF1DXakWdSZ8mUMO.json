@@ -1,12 +1,12 @@
 {
   "description": "Voc\u00ea n\u00e3o para quando est\u00e1 cansado, s\u00f3 quando terminar!",
-  "num_followers": 403459,
+  "num_followers": 403367,
   "original_name": "Pegando Pesado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWJjM2NkMDQ4YmU2ZWRiMjQ0MjllOGM1ZDUxZTViZTc1YjgyMTlh",
+  "snapshot_id": "MCwyN2IwMTU1ZTFmMTU2ZTQ2NGJmMzI2NWYwY2FkZDA5YTRmNGVlZGY4",
   "tracks": [
     {
       "added_at": "2019-06-28 02:33:37",
@@ -171,22 +171,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Lonely Boy",
-      "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
         "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 313573,
       "name": "Killing In The Name",
       "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Lonely Boy",
+      "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -635,22 +635,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "From The Fires",
-        "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "Highway Tune",
-      "url": "https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "A Place In The Sun",
         "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 169026,
       "name": "My Own Worst Enemy",
       "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "From The Fires",
+        "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "Highway Tune",
+      "url": "https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -747,22 +747,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "Monkey Wrench",
-      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 191800,
       "name": "Howlin' for You",
       "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "Monkey Wrench",
+      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -955,22 +955,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Hoobastank (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0NZrJM8gL8xBCsPR7nZGqR"
-      },
-      "artists": [
-        {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
-        }
-      ],
-      "duration_ms": 175226,
-      "name": "Crawling In The Dark",
-      "url": "https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Threat to Survival",
         "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 224596,
       "name": "Cut the Cord",
       "url": "https://open.spotify.com/track/4LFBVDJV0xpayUvquQVzhS"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "Hoobastank (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0NZrJM8gL8xBCsPR7nZGqR"
+      },
+      "artists": [
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "duration_ms": 175226,
+      "name": "Crawling In The Dark",
+      "url": "https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "ATTENTION ATTENTION",
-        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "DEVIL",
-      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "The Concrete Confessional",
         "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 161626,
       "name": "Looking Down the Barrel of Today",
       "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "ATTENTION ATTENTION",
+        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "DEVIL",
+      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Meliora (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 239293,
-      "name": "Square Hammer",
-      "url": "https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
         "name": "Wisconsin Death Trip",
         "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 154906,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 239293,
+      "name": "Square Hammer",
+      "url": "https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
+        "name": "Notorious",
+        "url": "https://open.spotify.com/album/6zJ7mT53nFoMbtOgkPuRpD"
+      },
+      "artists": [
+        {
+          "name": "Adelitas Way",
+          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "Notorious",
+      "url": "https://open.spotify.com/track/2ni4ZSzsQoG74IUjYvyv8n"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
         "name": "The Sickness (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 219720,
       "name": "Dance Macabre",
       "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/6zJ7mT53nFoMbtOgkPuRpD"
-      },
-      "artists": [
-        {
-          "name": "Adelitas Way",
-          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
-        }
-      ],
-      "duration_ms": 170160,
-      "name": "Notorious",
-      "url": "https://open.spotify.com/track/2ni4ZSzsQoG74IUjYvyv8n"
     },
     {
       "added_at": "2019-06-28 02:33:37",

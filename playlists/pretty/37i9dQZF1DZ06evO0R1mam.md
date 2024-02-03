@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,569 likes - 48 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,572 likes - 48 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 47 | [Still Have Joy \- Live](https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 5:07 |
 | 48 | [Taste 'N' See](https://open.spotify.com/track/62NfErhx30BxdqNQaJEePf) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Life](https://open.spotify.com/album/5L9oitZv1Rk4kGsO01dU1P) | 4:03 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDAyNjcyMjEyNTllMWQ0N2VmYmMyMDQ4NTM1ZjUyODRjOA==`
+Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDBiOTk3ZDMyZTQxYTg0MmQ4OTc4NGMzNGYyN2FhMjJjNA==`

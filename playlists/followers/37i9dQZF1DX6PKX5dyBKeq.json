@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 1349799,
+  "2024-02-03": 1349898,
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Skepta",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Potter Payper",
   "name": "Rap UK",
   "tracks": [
     {
@@ -539,7 +539,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 148531,
       "name": "22",
       "url": "https://open.spotify.com/track/48wQfpK5kdgAn7rVhgZxN9"
@@ -6375,7 +6375,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 197818,
       "name": "Carlo Gambino",
       "url": "https://open.spotify.com/track/4PE64UjqMtS0gPoV2tceVR"
@@ -6555,7 +6555,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 163333,
       "name": "Central",
       "url": "https://open.spotify.com/track/0qcfldI35P1RCX5OP0qwEC"
@@ -12591,7 +12591,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 176261,
       "name": "G-LAY",
       "url": "https://open.spotify.com/track/0EvEX3fJ1tOxpvIOK2mFOl"
@@ -12759,6 +12759,28 @@
       "duration_ms": 148793,
       "name": "Gauze",
       "url": "https://open.spotify.com/track/0aNxxKcKsG4wWvDtvdaVtm"
+    },
+    {
+      "album": {
+        "name": "GEEKIN (feat. AJ Tracey)",
+        "url": "https://open.spotify.com/album/4Aq9PhYsSQU4N6mUyXA2kV"
+      },
+      "artists": [
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "GEEKIN (feat. AJ Tracey)",
+      "url": "https://open.spotify.com/track/3R9AZOrnO20E5MVMBiofqH"
     },
     {
       "album": {
@@ -13899,7 +13921,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 214791,
       "name": "Heist",
       "url": "https://open.spotify.com/track/2Z66RYRDgpptWZiMoE7L7Q"
@@ -14919,7 +14941,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 183753,
       "name": "I Know You Wanna",
       "url": "https://open.spotify.com/track/5nr0ul6lEsnD7G6zpS2YJy"
@@ -16522,6 +16544,24 @@
     },
     {
       "album": {
+        "name": "L's",
+        "url": "https://open.spotify.com/album/6K1JXpnMjEoak85BbmZypZ"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117200,
+      "name": "L's",
+      "url": "https://open.spotify.com/track/1n0uo2A19rtZn5L2bcvOtu"
+    },
+    {
+      "album": {
         "name": "State Of Mind",
         "url": "https://open.spotify.com/album/5JgqSIyBUAqyiCRJ3Qu2Ff"
       },
@@ -17845,7 +17885,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 145011,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/3ZFwfhGLhLfFp1wbDEFQxd"
@@ -20431,7 +20471,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 169600,
       "name": "Naturally",
       "url": "https://open.spotify.com/track/4sxRhtipF5jcw52arZCSEq"
@@ -23909,7 +23949,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 185060,
       "name": "Police",
       "url": "https://open.spotify.com/track/2EYhnG7o3vlTqo1Cy2D1iz"
@@ -24761,7 +24801,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 150857,
       "name": "QUESTIONS",
       "url": "https://open.spotify.com/track/4CWaEaABWXb3tDG1bSrLzg"
@@ -27513,6 +27553,24 @@
       "duration_ms": 168126,
       "name": "SIN CITY (FEAT. WRETCH 32)",
       "url": "https://open.spotify.com/track/6n9FXwIQSUxzfVx94EwInm"
+    },
+    {
+      "album": {
+        "name": "Sinaloa Cartel",
+        "url": "https://open.spotify.com/album/3KT8vaCpSvW72EU29sEwP6"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124443,
+      "name": "Sinaloa Cartel",
+      "url": "https://open.spotify.com/track/4ghWlp4c86QF3ANBtPYZO7"
     },
     {
       "album": {
@@ -31632,6 +31690,24 @@
     },
     {
       "album": {
+        "name": "Tumbi",
+        "url": "https://open.spotify.com/album/0FdPmXzKxRGsuKqt2o1Fx4"
+      },
+      "artists": [
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166880,
+      "name": "Tumbi",
+      "url": "https://open.spotify.com/track/4BeDb8ZEawOvJ3sYdoKgPu"
+    },
+    {
+      "album": {
         "name": "Tuxedo",
         "url": "https://open.spotify.com/album/3gHNmJVN9A8fNrIzZQHykA"
       },
@@ -32963,7 +33039,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 186206,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/5vuMXy5DUyOY5kOvaiOrN1"
@@ -33003,6 +33079,24 @@
       "duration_ms": 180000,
       "name": "Welcome To Brixton",
       "url": "https://open.spotify.com/track/7kQUdVjev73xIuwu7W6YW9"
+    },
+    {
+      "album": {
+        "name": "Welcome to E9",
+        "url": "https://open.spotify.com/album/2YBanvnPKrTGAIXZMa9NGk"
+      },
+      "artists": [
+        {
+          "name": "Jimmy",
+          "url": "https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Welcome to E9",
+      "url": "https://open.spotify.com/track/2ro147cSsJeFgdjBjOGGLZ"
     },
     {
       "album": {

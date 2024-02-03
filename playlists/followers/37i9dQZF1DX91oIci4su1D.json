@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 811820,
+  "2024-02-03": 811834,
   "date_first_scraped": "2021-12-21",
   "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a>.",
   "name": "Trance Mission",
@@ -1389,6 +1389,28 @@
       "duration_ms": 228537,
       "name": "Ayuma",
       "url": "https://open.spotify.com/track/3EcGHkTPyInwjBg6svuzRo"
+    },
+    {
+      "album": {
+        "name": "B2U",
+        "url": "https://open.spotify.com/album/1Kf43ia9vaApEvqlA52tkR"
+      },
+      "artists": [
+        {
+          "name": "Luke Bond",
+          "url": "https://open.spotify.com/artist/13jm4r5O79Vxjy3zzZ51j0"
+        },
+        {
+          "name": "Tyler Graves",
+          "url": "https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171023,
+      "name": "B2U",
+      "url": "https://open.spotify.com/track/1WLgmt7qEvlZFjtG95FIOM"
     },
     {
       "album": {
@@ -5531,7 +5553,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 240656,
       "name": "Forever",
       "url": "https://open.spotify.com/track/79RYcYdQO7Ue7yZJ9tZp6x"
@@ -5619,7 +5641,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 202083,
       "name": "Forever Gold",
       "url": "https://open.spotify.com/track/1iEEB0kgTbrHMc18B6omHH"
@@ -6459,7 +6481,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 221250,
       "name": "Hanalei",
       "url": "https://open.spotify.com/track/6QOcNreYipY813Zwg1VW8r"
@@ -8357,7 +8379,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 209262,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4cRysbsSV8hwNcbD44r0rE"
@@ -14190,6 +14212,24 @@
     },
     {
       "album": {
+        "name": "Still Feel / Propulsion",
+        "url": "https://open.spotify.com/album/7i6ejxmXuNsTpYNBq7Jcht"
+      },
+      "artists": [
+        {
+          "name": "Farius",
+          "url": "https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Still Feel",
+      "url": "https://open.spotify.com/track/0tsOeBFMKrx8SJbo5zawzk"
+    },
+    {
+      "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/2uMdPkRByC4aDPutYU8irc"
       },
@@ -14595,6 +14635,32 @@
       "duration_ms": 239076,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/5pf8zUt6GraBLaUMm5CYE2"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4WeLUZwrmIGyCJArTnq5ky"
+      },
+      "artists": [
+        {
+          "name": "Dennis Sheperd",
+          "url": "https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY"
+        },
+        {
+          "name": "Freak E Beatz",
+          "url": "https://open.spotify.com/artist/72PA5rE1ByXjTijXCZA48C"
+        },
+        {
+          "name": "Tara Louise",
+          "url": "https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205821,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/2WJGWrVwAbpXCF5ba4fIfD"
     },
     {
       "album": {
@@ -15719,7 +15785,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 198654,
       "name": "Till The Sun Is Up High",
       "url": "https://open.spotify.com/track/6sS1woPe1F2CHvwr1JamkY"

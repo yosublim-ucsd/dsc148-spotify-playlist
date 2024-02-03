@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cassö, Calvin Harris and more.
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,976 likes - 100 songs - 5 hr 11 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,973 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 79 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 |
 | 80 | [Dive](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dive](https://open.spotify.com/album/4kdsVtA4bh3j0E2H0rdUTI) | 2:42 |
 | 81 | [Looking For Love \- salute remix](https://open.spotify.com/track/3pbaa7YbnJLNif8TOONI9t) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Looking For Love \(salute remix\)](https://open.spotify.com/album/550Hl0NNiWdFJcIqaMGWuT) | 4:59 |
-| 82 | [Likkle Drop \(feat\. Kwame\)](https://open.spotify.com/track/7fP89DrqJcr5cmvWBdkBBP) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY), [Kwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [Likkle Drop \(feat\. Kwame\)](https://open.spotify.com/album/4ERrzPJu5Yh3QluUblMids) | 2:56 |
+| 82 | [Likkle Drop \(feat\. Kwame\)](https://open.spotify.com/track/7fP89DrqJcr5cmvWBdkBBP) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY), [thatboykwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [Likkle Drop \(feat\. Kwame\)](https://open.spotify.com/album/4ERrzPJu5Yh3QluUblMids) | 2:56 |
 | 83 | [Go \(feat\. DETO BLACK\)](https://open.spotify.com/track/1MqLj8SILJe4lmjP9TG5i2) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Movement](https://open.spotify.com/album/0zCMHfHJO5WP7d6NuJwbeB) | 3:02 |
 | 84 | [Take My Chance](https://open.spotify.com/track/2tsi5AlhJ166vmYdj741jX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/4r0902mKJfgNkLjKBmRWn0) | 3:18 |
 | 85 | [Saving Up \- Loods Remix](https://open.spotify.com/track/16BIjTqG2R5PV2BrMOjU3y) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Saving Up \(Loods Remix\)](https://open.spotify.com/album/4dQRmXBtksya2s35MxRxNF) | 3:30 |

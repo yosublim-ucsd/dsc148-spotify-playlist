@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 689575,
+  "num_followers": 690596,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzhmNjg3NjNiNDExZmVlMWYzN2FjOTUwNDU5ODkzMjQ0MjA0YWNi",
+  "snapshot_id": "MCw1MzA0YTJlYTZmY2UwYjcyMWRjMTJmNmYyNjAxNTczZjVkMjBkNWQ3",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Live Is Life",
-        "url": "https://open.spotify.com/album/6QFG7oroyUrjT0LeXHt7CD"
-      },
-      "artists": [
-        {
-          "name": "Opus",
-          "url": "https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47"
-        }
-      ],
-      "duration_ms": 249500,
-      "name": "Live Is Life (Digitally Remastered) (Single Version)",
-      "url": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 215040,
       "name": "Pump Up The Jam - Edit",
       "url": "https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Live Is Life",
+        "url": "https://open.spotify.com/album/6QFG7oroyUrjT0LeXHt7CD"
+      },
+      "artists": [
+        {
+          "name": "Opus",
+          "url": "https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47"
+        }
+      ],
+      "duration_ms": 249500,
+      "name": "Live Is Life (Digitally Remastered) (Single Version)",
+      "url": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Running In The Family",
-        "url": "https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n"
-      },
-      "artists": [
-        {
-          "name": "Level 42",
-          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
-        }
-      ],
-      "duration_ms": 246013,
-      "name": "Lessons In Love",
-      "url": "https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Bad 25th Anniversary",
@@ -1583,6 +1567,22 @@
       "duration_ms": 247360,
       "name": "Bad - 2012 Remaster",
       "url": "https://open.spotify.com/track/5lWFrW5T3JtxVCLDb7etPu"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Running In The Family",
+        "url": "https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n"
+      },
+      "artists": [
+        {
+          "name": "Level 42",
+          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+        }
+      ],
+      "duration_ms": 246013,
+      "name": "Lessons In Love",
+      "url": "https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Primitive Love",
-        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
-      },
-      "artists": [
-        {
-          "name": "Miami Sound Machine",
-          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Conga!",
-      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Communards",
         "url": "https://open.spotify.com/album/0qqP0gMVjjSEj8odGxMbf3"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 271066,
       "name": "Don't Leave Me This Way (with Sarah Jane Morris)",
       "url": "https://open.spotify.com/track/0ire4j2mcGovF5JA1D2cTp"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Primitive Love",
+        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
+      },
+      "artists": [
+        {
+          "name": "Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Conga!",
+      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1973,6 +1973,22 @@
       "url": "https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Speak & Spell (2006 Remaster)",
+        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Just Can't Get Enough - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Back In The High Life",
@@ -1989,22 +2005,6 @@
       "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Word Up",
-        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
-      },
-      "artists": [
-        {
-          "name": "Cameo",
-          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Word Up",
-      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Brothers in Arms",
@@ -2019,6 +2019,22 @@
       "duration_ms": 506400,
       "name": "Money for Nothing",
       "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Word Up",
+        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
+      },
+      "artists": [
+        {
+          "name": "Cameo",
+          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Word Up",
+      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
     },
     {
       "added_at": "2021-09-18 06:09:03",
@@ -2039,18 +2055,18 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Speak & Spell (2006 Remaster)",
-        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
         }
       ],
-      "duration_ms": 222760,
-      "name": "Just Can't Get Enough - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+      "duration_ms": 272147,
+      "name": "Ride on Time",
+      "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2067,22 +2083,6 @@
       "duration_ms": 265600,
       "name": "Club Tropicana",
       "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
-      },
-      "artists": [
-        {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
-        }
-      ],
-      "duration_ms": 272147,
-      "name": "Ride on Time",
-      "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
-      },
-      "artists": [
-        {
-          "name": "Climie Fisher",
-          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Love Changes (Everything)",
-      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Hotter Than July",
         "url": "https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh"
       },
@@ -2423,18 +2407,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "Climie Fisher",
+          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB"
+      "duration_ms": 268186,
+      "name": "Love Changes (Everything)",
+      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2451,6 +2435,22 @@
       "duration_ms": 251506,
       "name": "I Drove All Night",
       "url": "https://open.spotify.com/track/3J0AoQhAufniMrznCRJASD"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB"
     }
   ],
   "unique_name": "80s Party",

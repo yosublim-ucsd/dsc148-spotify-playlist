@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 47415,
+  "2024-02-03": 47535,
   "date_first_scraped": "2022-08-19",
   "description": "Smooth and cozy saxophone ballads for relaxing or focus.",
   "name": "Gentle Jazz Saxophone",
@@ -1312,6 +1312,24 @@
     },
     {
       "album": {
+        "name": "Imogene",
+        "url": "https://open.spotify.com/album/1cLToydVxdvrwNklrhtYXr"
+      },
+      "artists": [
+        {
+          "name": "Sand Quartet",
+          "url": "https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238562,
+      "name": "Imogene",
+      "url": "https://open.spotify.com/track/6py54bF1qKFbA1kjz3rKdG"
+    },
+    {
+      "album": {
         "name": "In the Street At Night",
         "url": "https://open.spotify.com/album/6yvmjm40lzpupHBaSb1juD"
       },
@@ -2574,6 +2592,24 @@
     },
     {
       "album": {
+        "name": "Shadows of You",
+        "url": "https://open.spotify.com/album/2Zk67mWiPQQQiXqhTA95i5"
+      },
+      "artists": [
+        {
+          "name": "Sverrir Audland",
+          "url": "https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202617,
+      "name": "Shadows of You",
+      "url": "https://open.spotify.com/track/75iWzL2HCo4ckYySYIhkar"
+    },
+    {
+      "album": {
         "name": "She's A Class Act",
         "url": "https://open.spotify.com/album/0MpvWeiSTn4OERhT97V4sw"
       },
@@ -2661,6 +2697,24 @@
       "duration_ms": 224776,
       "name": "Sleeted Streets",
       "url": "https://open.spotify.com/track/4dX9jhmfLWYYmb1NQ5SCgN"
+    },
+    {
+      "album": {
+        "name": "Snowdrops",
+        "url": "https://open.spotify.com/album/3PVgdMK1JW7tlRGHP1r6Zp"
+      },
+      "artists": [
+        {
+          "name": "Le Bourget",
+          "url": "https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225328,
+      "name": "Snowdrops",
+      "url": "https://open.spotify.com/track/0yL40qTyxArMV82ufopwdC"
     },
     {
       "album": {
@@ -3303,6 +3357,24 @@
       "duration_ms": 177951,
       "name": "Watch What Happens",
       "url": "https://open.spotify.com/track/3C8LKleDein4hf61QPoWg5"
+    },
+    {
+      "album": {
+        "name": "Waterway",
+        "url": "https://open.spotify.com/album/429CJ3uP8utN5IuDqdKBKv"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Parker",
+          "url": "https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Waterway",
+      "url": "https://open.spotify.com/track/2eszQxvnPJytQuJHsK6GiG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-61 songs - 4 hr 13 min
+62 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Soleil](https://open.spotify.com/track/0k4Y2TqLUPNJ8euMibKQ4z) | [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco](https://open.spotify.com/album/6VmYzpmaaEJe66Sy9ZK4qO) | 4:36 | 2023-09-01 |  |
 | [Tarantas](https://open.spotify.com/track/3JqVaiG3pA5Rrj1LQzDaR9) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC) | 2:33 | 2023-09-01 |  |
 | [The Endless Dance](https://open.spotify.com/track/1Kpydr7RXuFVFWbUDJp3sB) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/1b89KybJIh8S51U48wdUjl) | 9:02 | 2023-09-01 |  |
-| [Torero](https://open.spotify.com/track/6Ql5ovfv38vALEkP00TMzJ) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/4l6MESQt1Y9UVmF0ugDOOI) | 5:07 | 2023-09-01 |  |
+| [Torero](https://open.spotify.com/track/28wsuYdlvWeUDQCxJDbo5r) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/4pVKGwZmlCJAj87KgN48KW) | 5:06 | 2024-02-01 |  |
+| [Torero](https://open.spotify.com/track/6Ql5ovfv38vALEkP00TMzJ) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/4l6MESQt1Y9UVmF0ugDOOI) | 5:07 | 2023-09-01 | 2024-02-03 |
 | [Una limosna por el amor de Dios](https://open.spotify.com/track/3zbnFohXXSHXve2oxxdATz) | [WarmHugs](https://open.spotify.com/artist/5aHt1vFcN24nd7PlZdzDGI) | [Una limosna por el amor de Dios](https://open.spotify.com/album/0inCL4j2ZIcg7SXi1g8FY8) | 3:18 | 2023-09-01 |  |
 | [Verdiales](https://open.spotify.com/track/0itmNtj1Mb7WTrUDqnig1Y) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/64ydWqsSid08IPBocvpOvp) | 2:07 | 2023-09-01 |  |
 | [Zalameria](https://open.spotify.com/track/0mAAqY0KwhqlBgbhGbZfIM) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Pablo Carcamo](https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS), [La Moraima](https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Flamenco](https://open.spotify.com/album/1dWXg3wCJRWfpG5D4Z44m0) | 4:02 | 2023-09-01 |  |

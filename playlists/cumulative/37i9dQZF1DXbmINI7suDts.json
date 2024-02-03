@@ -411,6 +411,24 @@
     },
     {
       "album": {
+        "name": "Gojaasi",
+        "url": "https://open.spotify.com/album/1n1eIj5ECt0HB6zSPP5cmn"
+      },
+      "artists": [
+        {
+          "name": "Kenneth Mugabi",
+          "url": "https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253584,
+      "name": "Gojaasi",
+      "url": "https://open.spotify.com/track/66QnBSxNiLlWk3K66m15IJ"
+    },
+    {
+      "album": {
         "name": "Blue Detail",
         "url": "https://open.spotify.com/album/0iVCEpollUPZvixT5Nwzyz"
       },
@@ -1394,7 +1412,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 245340,
       "name": "Okello",
       "url": "https://open.spotify.com/track/1nvQCAasIUQCgVGsGh4kKf"

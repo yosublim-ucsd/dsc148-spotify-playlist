@@ -4,7 +4,7 @@
 
 > Porque el romance nunca pasará de moda.
 
-117 songs - 6 hr 23 min
+118 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Llorarás](https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 3:37 | 2023-01-04 |  |
 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/6UqbBLltlDQ7ozlRswVWeu) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [La Gran Fiesta Formoseña](https://open.spotify.com/album/0jKCSRoHto29EuooePa871) | 3:18 | 2023-01-04 |  |
 | [Luto En Mi Alma](https://open.spotify.com/track/75losSBec1tZJmJb4pzURW) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Los Exitos de Los Terricolas](https://open.spotify.com/album/0Unjdke7MtUvhko4pos0uG) | 4:05 | 2023-01-04 |  |
+| [Mary Es Mi Amor](https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Esencial](https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj) | 3:12 | 2023-11-06 |  |
 | [Me Bebí Tu Recuerdo](https://open.spotify.com/track/4qDw65LRA3tT1ZDmghkgFA) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Me Bebi Tu Recuerdo](https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS) | 3:19 | 2023-01-04 |  |
 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:27 | 2023-01-04 |  |
 | [Mi Amiga, Mi Esposa, Mi Amante](https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Recordando Monterrey](https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF) | 3:03 | 2023-01-04 |  |
@@ -97,7 +98,7 @@
 | [Soy Yo](https://open.spotify.com/track/3tDPWlPtHeJ9j58DiBR42M) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | ["Gold"](https://open.spotify.com/album/6GtV0uQMWKRIP6l2UeHJo0) | 3:33 | 2023-01-04 |  |
 | [Sufrir](https://open.spotify.com/track/5hFkKLE06GhSuqoLJR2oP7) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 3:06 | 2023-01-04 |  |
 | [Supe Perder](https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 2:57 | 2023-01-04 |  |
-| [Sólo una Vez](https://open.spotify.com/track/68XwQafl8rl0LzrfNaPqoM) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Bajo el Signo de Leo](https://open.spotify.com/album/2LEmmxRWFxOp5ygRQ9K9vJ) | 2:27 | 2023-01-04 |  |
+| [Sólo una Vez](https://open.spotify.com/track/68XwQafl8rl0LzrfNaPqoM) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Bajo el Signo de Leo](https://open.spotify.com/album/2LEmmxRWFxOp5ygRQ9K9vJ) | 2:27 | 2023-01-04 | 2024-02-03 |
 | [Te He Prometido](https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Canta Trovador](https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8) | 3:07 | 2023-01-04 |  |
 | [Te Juro Que Te Amo](https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 4:01 | 2023-01-04 |  |
 | [Te Solté la Rienda](https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:38 | 2023-01-04 | 2023-11-07 |

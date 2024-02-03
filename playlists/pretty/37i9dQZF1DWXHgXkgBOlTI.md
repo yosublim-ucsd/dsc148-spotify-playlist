@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: bohemianvoodoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,892 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,914 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 27 | [朝焼け \- Live at Chuo Kaikan Hall, Tokyo, Feb\. 1982](https://open.spotify.com/track/3kn85OLlFlbQDCiKmj17MO) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [MINT JAMS\(Live\)](https://open.spotify.com/album/2yvR4wVM1XLEKVad6F3ja9) | 4:58 |
 | 28 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
 | 29 | [Blazin’ \- DJ KAWASAKI Recreated Fusion Funk Mix](https://open.spotify.com/track/1l31wrU5dinNLZh6dPmY75) | [DJ KAWASAKI](https://open.spotify.com/artist/0SCF6DFbfs4N5VtmfOlHhe), [Karin](https://open.spotify.com/artist/2NMVmmT0al17xSOnWO1J1M) | [BRIDGE INTO THE FUTURE \- DJ KAWASAKI RECREATED TRACKS](https://open.spotify.com/album/1PEatkcPFDfn3Ujo7w1ocL) | 6:50 |
-| 30 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
+| 30 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
 | 31 | [Glassland](https://open.spotify.com/track/1VXha98SArQoMQCL2tPVzb) | [Apneumo](https://open.spotify.com/artist/4pd2vMniXFGmAXS3NQxIaR) | [Glassland](https://open.spotify.com/album/3RZLViD4iKtZ7LIAVIfBKO) | 4:30 |
-| 32 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
+| 32 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
 | 33 | [夜間航路 \- Album Mix](https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Discovery](https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg) | 3:56 |
 | 34 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |
 | 35 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 44 | [Love Lights](https://open.spotify.com/track/4kQbWhGdyt1OHTutPHlcjm) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy) | [PYRAMID4](https://open.spotify.com/album/1YeWcKq1F4VLvGescahAG7) | 5:06 |
 | 45 | [Blood is thicker than water](https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Living Message](https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2) | 3:31 |
 | 46 | [枯葉 \~Autumn Leaves\~ \(jazz standard\)](https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:05 |
-| 47 | [Breeze and You \(Live Version\)](https://open.spotify.com/track/6yoOrydjbkvRv6XtnjnNC7) | [THE SQUARE](https://open.spotify.com/artist/1qLh5Luiu5DBNU3SeHcDwq) | [THE SQUARE YEAR END Live 20151226](https://open.spotify.com/album/5pEJNi4ADnyf9FnQccBwGU) | 5:10 |
-| 48 | [The bell tolls](https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp) | [a picture of her](https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT) | [C](https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW) | 5:27 |
+| 47 | [The bell tolls](https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp) | [a picture of her](https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT) | [C](https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW) | 5:27 |
+| 48 | [Breeze and You \(Live Version\)](https://open.spotify.com/track/6yoOrydjbkvRv6XtnjnNC7) | [THE SQUARE](https://open.spotify.com/artist/1qLh5Luiu5DBNU3SeHcDwq) | [THE SQUARE YEAR END Live 20151226](https://open.spotify.com/album/5pEJNi4ADnyf9FnQccBwGU) | 5:10 |
 | 49 | [N°9](https://open.spotify.com/track/1MaU3Y6P7j95oINCv6cmmR) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [NEWTOWN](https://open.spotify.com/album/2lveEbqQBRgGNrik6K2ZwS) | 4:58 |
 | 50 | [neguse](https://open.spotify.com/track/4nYY6rV75YL7XLsi7zuOPe) | [グッドラックヘイワ](https://open.spotify.com/artist/6tWuPXLJhkk9IjzbKI6hYa) | [Lm](https://open.spotify.com/album/7FYRKp0czfUFQk9IjWTx1m) | 3:30 |
 
-Snapshot ID: `MCw4ZWIyYTAzODBjMThkMjBlNTAwNDMxNTU0NzgzMGY3YjY3NTFhY2Nl`
+Snapshot ID: `MCxlYWQ5YzQ1Y2M0MzY3NjIxNjExZDU5MWZmMmNmYzQzY2EwMjJlMTJl`

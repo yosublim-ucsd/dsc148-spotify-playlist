@@ -1,12 +1,12 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Marika Hackman",
-  "num_followers": 801586,
+  "num_followers": 801535,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzkxNzE2ZTZmYzk4OWI4NDM0YWVlYmQxOWQ2OTk5NmFlN2EwMjNh",
+  "snapshot_id": "MCw4ZjVlMjU0ZDJlYWUzNzA4NDRiOWZhYWM4YTcyNDhjZjc3MzBlZDFk",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "supernatural thing",
-        "url": "https://open.spotify.com/album/0BGmSkiDyPxghWbyYKnBHG"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        },
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 274720,
-      "name": "too young to die",
-      "url": "https://open.spotify.com/track/1gHdpWRFGZKjB9AljkGtWV"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Appaloosa Bones",
         "url": "https://open.spotify.com/album/4IVf6mYykPiEoqT099AXsX"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 300240,
       "name": "Goodbye Mr. Blue",
       "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "supernatural thing",
+        "url": "https://open.spotify.com/album/0BGmSkiDyPxghWbyYKnBHG"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 274720,
+      "name": "too young to die",
+      "url": "https://open.spotify.com/track/1gHdpWRFGZKjB9AljkGtWV"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1105,6 +1105,22 @@
       "url": "https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Stay Cool",
+        "url": "https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 207982,
+      "name": "Stay Cool",
+      "url": "https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL"
+    },
+    {
       "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Motivational Speaking",
@@ -1205,20 +1221,20 @@
       "url": "https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Stay Cool",
-        "url": "https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo"
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
         }
       ],
-      "duration_ms": 207982,
-      "name": "Stay Cool",
-      "url": "https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL"
+      "duration_ms": 224106,
+      "name": "Can\u2019t Do Much",
+      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1235,22 +1251,6 @@
       "duration_ms": 191226,
       "name": "A Month Or Two",
       "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "Can\u2019t Do Much",
-      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "I Know, I Know",
-        "url": "https://open.spotify.com/album/4Igy7nnJ4KXVI0RShJHMNf"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 180619,
-      "name": "I Know, I Know",
-      "url": "https://open.spotify.com/track/6lROAnjIlzlaFPzUYjhygu"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Hidden Hollow, Vol. One - Singles",
         "url": "https://open.spotify.com/album/5g87k21hmJs58l0iRfUwoq"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 248385,
       "name": "The Missing Road",
       "url": "https://open.spotify.com/track/1RBEBRUKdXKFKILSHkbQFa"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "I Know, I Know",
+        "url": "https://open.spotify.com/album/4Igy7nnJ4KXVI0RShJHMNf"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 180619,
+      "name": "I Know, I Know",
+      "url": "https://open.spotify.com/track/6lROAnjIlzlaFPzUYjhygu"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 265687,
-      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "PRE PLEASURE",
         "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 241818,
       "name": "Lydia Wears A Cross",
       "url": "https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 265687,
+      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "A Running Start",
-        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 261165,
-      "name": "A Running Start",
-      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "I Know You Know Me (With Matt Berninger)",
         "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 199123,
       "name": "I Know You Know Me (With Matt Berninger)",
       "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "A Running Start",
+        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 261165,
+      "name": "A Running Start",
+      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Quietly Blowing It",
+        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 208142,
+      "name": "Glory Strums (Loneliness of the Long-Distance Runner)",
+      "url": "https://open.spotify.com/track/3BxIJ9VN7BdE7MuArlAhAv"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "To Learn",
         "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Quietly Blowing It",
-        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 208142,
-      "name": "Glory Strums (Loneliness of the Long-Distance Runner)",
-      "url": "https://open.spotify.com/track/3BxIJ9VN7BdE7MuArlAhAv"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Bedouine (Deluxe)",
         "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
       },
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "This Is A Photograph",
-      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "A River Running to Your Heart",
         "url": "https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 226996,
       "name": "Rushin' River Valley",
       "url": "https://open.spotify.com/track/7axHflLoQmVH6K28TSnWuu"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "This Is A Photograph",
+      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Old Flowers",
         "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 160822,
       "name": "Witness Trees",
       "url": "https://open.spotify.com/track/0TE3gM7LQPiiYsNFv7crzl"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Leftovers",
-        "url": "https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK"
-      },
-      "artists": [
-        {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
-        }
-      ],
-      "duration_ms": 158208,
-      "name": "Dyan",
-      "url": "https://open.spotify.com/track/0wsvEdXACQfdZDrDr7ZUWR"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Nobody Lives Here Anymore",
         "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 371976,
       "name": "Sold My Soul",
       "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Leftovers",
+        "url": "https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "duration_ms": 158208,
+      "name": "Dyan",
+      "url": "https://open.spotify.com/track/0wsvEdXACQfdZDrDr7ZUWR"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2027,22 +2027,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/5740DSdBXecq02r5WpIigM"
+        "name": "Eyes Wide Open (From \"North Star\")",
+        "url": "https://open.spotify.com/album/0fouq8lLLJduDBkbsyh5UH"
       },
       "artists": [
         {
-          "name": "Storefront Church",
-          "url": "https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 325443,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/5KWrRynsADgBtgqoPCh7kn"
+      "duration_ms": 195840,
+      "name": "Eyes Wide Open - From \"North Star\"",
+      "url": "https://open.spotify.com/track/4JfmeKq7mQtRaqMlFPxdMD"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2063,6 +2059,42 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/5740DSdBXecq02r5WpIigM"
+      },
+      "artists": [
+        {
+          "name": "Storefront Church",
+          "url": "https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 325443,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/5KWrRynsADgBtgqoPCh7kn"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Folk Covers",
+        "url": "https://open.spotify.com/album/0Ud61rO8oGgNtULK6HUead"
+      },
+      "artists": [
+        {
+          "name": "Salt Tree",
+          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
+        }
+      ],
+      "duration_ms": 197939,
+      "name": "She Burns",
+      "url": "https://open.spotify.com/track/3a5TUoTkUFU0XRwFX08UhL"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Back to Oz / Fictional California",
         "url": "https://open.spotify.com/album/5bHNKlDnqAtCASYdUr7FHM"
       },
@@ -2079,22 +2111,6 @@
       "duration_ms": 252052,
       "name": "Back To Oz",
       "url": "https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Eyes Wide Open (From \"North Star\")",
-        "url": "https://open.spotify.com/album/0fouq8lLLJduDBkbsyh5UH"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Eyes Wide Open - From \"North Star\"",
-      "url": "https://open.spotify.com/track/4JfmeKq7mQtRaqMlFPxdMD"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2129,22 +2145,6 @@
       "url": "https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Folk Covers",
-        "url": "https://open.spotify.com/album/0Ud61rO8oGgNtULK6HUead"
-      },
-      "artists": [
-        {
-          "name": "Salt Tree",
-          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
-        }
-      ],
-      "duration_ms": 197939,
-      "name": "She Burns",
-      "url": "https://open.spotify.com/track/3a5TUoTkUFU0XRwFX08UhL"
-    },
-    {
       "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Satan / Jacob Rose",
@@ -2159,22 +2159,6 @@
       "duration_ms": 196264,
       "name": "Satan",
       "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 206995,
-      "name": "Strange Overtones",
-      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2195,6 +2179,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 206995,
+      "name": "Strange Overtones",
+      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "At the Roadhouse",
         "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
       },
@@ -2207,6 +2207,22 @@
       "duration_ms": 324000,
       "name": "I Don't Want to Go That Way",
       "url": "https://open.spotify.com/track/6Pn80kzsmTmXQP7pmF8dSM"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Moving Away",
+        "url": "https://open.spotify.com/album/2dSPhyyjETTAF5hZMEZaHn"
+      },
+      "artists": [
+        {
+          "name": "Salt Tree",
+          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
+        }
+      ],
+      "duration_ms": 220671,
+      "name": "Moving Away",
+      "url": "https://open.spotify.com/track/4SQvFRCAM6FY9ljcyQ1IMO"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2291,18 +2307,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Moving Away",
-        "url": "https://open.spotify.com/album/2dSPhyyjETTAF5hZMEZaHn"
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
       },
       "artists": [
         {
-          "name": "Salt Tree",
-          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
+          "name": "Jem Cassar-Daley",
+          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
         }
       ],
-      "duration_ms": 220671,
-      "name": "Moving Away",
-      "url": "https://open.spotify.com/track/4SQvFRCAM6FY9ljcyQ1IMO"
+      "duration_ms": 188149,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2319,22 +2335,6 @@
       "duration_ms": 176973,
       "name": "Jericho Beach",
       "url": "https://open.spotify.com/track/53jyTLOaSpjitcwV3kwczg"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
-      },
-      "artists": [
-        {
-          "name": "Jem Cassar-Daley",
-          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
-        }
-      ],
-      "duration_ms": 188149,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
-      },
-      "artists": [
-        {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
-        }
-      ],
-      "duration_ms": 206950,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "How Will I Know",
         "url": "https://open.spotify.com/album/1YcaL2P5m19EqlJ6ULmcIo"
       },
@@ -2419,6 +2403,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+      },
+      "artists": [
+        {
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+        }
+      ],
+      "duration_ms": 206950,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Fourth of July",
         "url": "https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL"
       },
@@ -2431,6 +2431,26 @@
       "duration_ms": 223201,
       "name": "Fourth of July - April Base Version",
       "url": "https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Constantinople",
+        "url": "https://open.spotify.com/album/7ErjZ7TCyUNUkoD9vYdJgd"
+      },
+      "artists": [
+        {
+          "name": "Ed Prosek",
+          "url": "https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW"
+        },
+        {
+          "name": "Portair",
+          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Constantinople",
+      "url": "https://open.spotify.com/track/3y0p22Pm8cYqdarysqbkzC"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2463,26 +2483,6 @@
       "duration_ms": 233854,
       "name": "Partner in Crime - Spotify Singles",
       "url": "https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Constantinople",
-        "url": "https://open.spotify.com/album/7ErjZ7TCyUNUkoD9vYdJgd"
-      },
-      "artists": [
-        {
-          "name": "Ed Prosek",
-          "url": "https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW"
-        },
-        {
-          "name": "Portair",
-          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Constantinople",
-      "url": "https://open.spotify.com/track/3y0p22Pm8cYqdarysqbkzC"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2551,18 +2551,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Orlando",
-        "url": "https://open.spotify.com/album/2bUlcn67avN5E46GifoXYl"
+        "name": "Pelican Canyon",
+        "url": "https://open.spotify.com/album/6x9fbiMJmJKBqM3Pz94yiR"
       },
       "artists": [
         {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+          "name": "Du Blonde",
+          "url": "https://open.spotify.com/artist/46MOKAqmDsUILZl3iXyPmw"
+        },
+        {
+          "name": "Samuel T. Herring",
+          "url": "https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU"
         }
       ],
-      "duration_ms": 275640,
-      "name": "Orlando",
-      "url": "https://open.spotify.com/track/5eqNWg31aG8wKNbpJxCpCg"
+      "duration_ms": 227160,
+      "name": "Pelican Canyon",
+      "url": "https://open.spotify.com/track/49qJvUShIV2XKLvp4KvcBa"
     },
     {
       "added_at": "2024-01-05 05:00:00",

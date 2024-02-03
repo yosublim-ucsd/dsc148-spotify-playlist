@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Lucius",
-  "num_followers": 415960,
+  "num_followers": 415982,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzE0NjgyYTliZjg1ZTJkMDVjNDUwOWU1ZjRlZTMyMThiY2RiNTAz",
+  "snapshot_id": "MCwwMmYxODI5ODdiZDMwZmIzMGZlYzg1NjMxYjVjYWIxODNiNmU0ZTU0",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "The Wolves",
-      "url": "https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Cerulean",
         "url": "https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 240787,
       "name": "Consolation Prize",
       "url": "https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "The Wolves",
+      "url": "https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "I\u2019m not a mother, but I have children",
-        "url": "https://open.spotify.com/album/0THOsldcM5URR7idU1FTmc"
-      },
-      "artists": [
-        {
-          "name": "Shungudzo",
-          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
-        }
-      ],
-      "duration_ms": 197474,
-      "name": "It's a good day (to fight the system)",
-      "url": "https://open.spotify.com/track/4dxd3tUsKT52EMboYtceOQ"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Collections From The Whiteout",
         "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 257773,
       "name": "What A Day - Edit",
       "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "I\u2019m not a mother, but I have children",
+        "url": "https://open.spotify.com/album/0THOsldcM5URR7idU1FTmc"
+      },
+      "artists": [
+        {
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        }
+      ],
+      "duration_ms": 197474,
+      "name": "It's a good day (to fight the system)",
+      "url": "https://open.spotify.com/track/4dxd3tUsKT52EMboYtceOQ"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 191280,
-      "name": "Puppy and a Truck",
-      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Digital Meadow",
         "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 136320,
       "name": "Multiply",
       "url": "https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Puppy and a Truck",
+      "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Mermaid Salt",
         "url": "https://open.spotify.com/album/0fFPacYkqcYkdPzaiP9RPN"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 335859,
       "name": "Microdose",
       "url": "https://open.spotify.com/track/7MDHDuwPykADY9INqTIo8a"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Violence in a Quiet Mind",
         "url": "https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 161776,
       "name": "Snowplow",
       "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Half Moon Light (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Dried Up River",
+      "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Bullseye",
         "url": "https://open.spotify.com/album/1f585VlbySthBbsx1iM9vA"
       },
@@ -1599,22 +1615,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Half Moon Light (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Dried Up River",
-      "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Fun House",
         "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
       },
@@ -1627,6 +1627,22 @@
       "duration_ms": 173303,
       "name": "Just to Hear You (feat. Perfume Genius)",
       "url": "https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "I'm Not Sorry, I Was Just Being Me",
+        "url": "https://open.spotify.com/album/42anHsnzFORglZyMr9udzN"
+      },
+      "artists": [
+        {
+          "name": "King Hannah",
+          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
+        }
+      ],
+      "duration_ms": 209603,
+      "name": "All Being Fine",
+      "url": "https://open.spotify.com/track/0HqSDUbwhv5h3XSsFHdSQF"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1647,22 +1663,6 @@
       "duration_ms": 252052,
       "name": "Back To Oz",
       "url": "https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "I'm Not Sorry, I Was Just Being Me",
-        "url": "https://open.spotify.com/album/42anHsnzFORglZyMr9udzN"
-      },
-      "artists": [
-        {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
-        }
-      ],
-      "duration_ms": 209603,
-      "name": "All Being Fine",
-      "url": "https://open.spotify.com/track/0HqSDUbwhv5h3XSsFHdSQF"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Quiet Signs",
+        "url": "https://open.spotify.com/album/6gfh7DsfwxpZkRcPZo75M1"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "This Time Around",
+      "url": "https://open.spotify.com/track/5KFa7aO49TOsH8zfMarw6N"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Deli Daydreams",
         "url": "https://open.spotify.com/album/46PFhovdF7y9Q3Z7qdCohx"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 294296,
       "name": "Eviction Notice",
       "url": "https://open.spotify.com/track/2BGC8XJPFRm3f7ZX2FRPNy"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Quiet Signs",
-        "url": "https://open.spotify.com/album/6gfh7DsfwxpZkRcPZo75M1"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "This Time Around",
-      "url": "https://open.spotify.com/track/5KFa7aO49TOsH8zfMarw6N"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "Tick Tock",
-      "url": "https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Shadowglow",
         "url": "https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 214748,
       "name": "Brooklyn Baby",
       "url": "https://open.spotify.com/track/5KSvKQn5QPkHc8QqObqZcC"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "Tick Tock",
+      "url": "https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Now is the Time",
-      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Note to Self",
         "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 210280,
       "name": "Control",
       "url": "https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Now is the Time",
+      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Cosmic Dancer",
-        "url": "https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 265995,
-      "name": "Cosmic Dancer",
-      "url": "https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Yard Sale",
         "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
       },
@@ -2299,18 +2283,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Nick Waterhouse",
-        "url": "https://open.spotify.com/album/1e1FoOAXam30VAJJb4q4Zk"
+        "name": "Cosmic Dancer",
+        "url": "https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn"
       },
       "artists": [
         {
-          "name": "Nick Waterhouse",
-          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 200813,
-      "name": "I Feel an Urge Coming On",
-      "url": "https://open.spotify.com/track/501jsSXfxhgClQe4UDrofk"
+      "duration_ms": 265995,
+      "name": "Cosmic Dancer",
+      "url": "https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2343,6 +2327,22 @@
       "duration_ms": 168000,
       "name": "August",
       "url": "https://open.spotify.com/track/1P3bMnRagrHsJxjh2O2S8w"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Nick Waterhouse",
+        "url": "https://open.spotify.com/album/1e1FoOAXam30VAJJb4q4Zk"
+      },
+      "artists": [
+        {
+          "name": "Nick Waterhouse",
+          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "I Feel an Urge Coming On",
+      "url": "https://open.spotify.com/track/501jsSXfxhgClQe4UDrofk"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2431,6 +2431,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "On the Other Side",
+        "url": "https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Desert Days",
+      "url": "https://open.spotify.com/track/4Cx7poeTPyhMkMHqQikyTQ"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Weather Balloons [Feat. Frances Cone]",
         "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
       },
@@ -2451,18 +2467,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "On the Other Side",
-        "url": "https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC"
+        "name": "Watchhouse",
+        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
       },
       "artists": [
         {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Desert Days",
-      "url": "https://open.spotify.com/track/4Cx7poeTPyhMkMHqQikyTQ"
+      "duration_ms": 248661,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/2EYKPyHhYxiSs1SoN4DS2f"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2483,22 +2499,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Watchhouse",
-        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 248661,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/2EYKPyHhYxiSs1SoN4DS2f"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "In Plain Sight",
         "url": "https://open.spotify.com/album/4f4GSFPKKTlpP3XhjEXV28"
       },
@@ -2515,18 +2515,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Wisteria",
-        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
+        "name": "Thrilled To Be Here",
+        "url": "https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ"
       },
       "artists": [
         {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
         }
       ],
-      "duration_ms": 169823,
-      "name": "Wisteria",
-      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
+      "duration_ms": 194853,
+      "name": "I Was Wrong",
+      "url": "https://open.spotify.com/track/3UQKlahxsfacw8vKmTYSzb"
     }
   ],
   "unique_name": "Modern Eclectic",

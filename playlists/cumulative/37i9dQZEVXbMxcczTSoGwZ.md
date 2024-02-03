@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,812 songs - 4 day 1 hr 6 min
+1,813 songs - 4 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -785,7 +785,7 @@
 | [Kunnes sammutaan](https://open.spotify.com/track/16VWuoWGHyYDpdcXKhx7Ll) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef), [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Kunnes sammutaan](https://open.spotify.com/album/0U7lxFv86m5JiqzeOsGgxC) | 3:39 | 2021-06-20 | 2021-08-29 |
 | [Kuolematon](https://open.spotify.com/track/237KmZ9bP4dkhNYafeqAhY) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [ViO](https://open.spotify.com/album/1syZJ0HasgimydePATEIfx) | 3:49 | 2022-03-05 | 2022-03-11 |
 | [Kuolen vähän joka kerta](https://open.spotify.com/track/5UY43d7ZBUafyzNT3LHS0D) | [Heviteemu](https://open.spotify.com/artist/6I99Qbl0RcUqnSxDYw9T7A), [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Pahoinvoiva sukupolvi](https://open.spotify.com/album/2FwWmOY0mUVDKcMQjoSoce) | 3:00 | 2023-03-25 | 2023-04-02 |
-| [Kuori mua](https://open.spotify.com/track/4PHX33QcAtlyaPSvOJsV22) | [Sini Sabotage](https://open.spotify.com/artist/6zOyQHK37vQX62CFowxvWc) | [Kuori mua](https://open.spotify.com/album/64FEvZvuyPxg3y4tzcMi7e) | 2:55 | 2024-01-19 |  |
+| [Kuori mua](https://open.spotify.com/track/4PHX33QcAtlyaPSvOJsV22) | [Sini Sabotage](https://open.spotify.com/artist/6zOyQHK37vQX62CFowxvWc) | [Kuori mua](https://open.spotify.com/album/64FEvZvuyPxg3y4tzcMi7e) | 2:55 | 2024-01-19 | 2024-02-03 |
 | [Kutsumusammatti](https://open.spotify.com/track/4n2xAdgLv2OMA9DlU1qwez) | [Pasi ja Anssi](https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt) | [Kutsumusammatti](https://open.spotify.com/album/0SCIBfq6TYpVUdHXiaWrpo) | 3:09 | 2023-02-18 | 2023-02-20 |
 | [Kuuma jäbä](https://open.spotify.com/track/352xZpOxYzVTcsESmgCilA) | [Isaac Sene](https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a) | [Kuuma jäbä](https://open.spotify.com/album/2jzWY3p5CNVMHOvcXkd8M8) | 2:59 | 2022-01-22 | 2022-03-06 |
 | [Kuuma kesä](https://open.spotify.com/track/3nqyrh7jYfc07FKMjUX1yf) | [Popeda](https://open.spotify.com/artist/2bEPloIrEwXQwm9myrXW2P) | [Pohjantähden alla](https://open.spotify.com/album/2Dl01K663ypobdsB7hezyR) | 3:03 | 2021-06-27 | 2022-06-28 |
@@ -1153,6 +1153,7 @@
 | [On The Dark Waters](https://open.spotify.com/track/7Hk4MtVVcVskqCAd1ZfCwf) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Halo](https://open.spotify.com/album/3EATOOixZ8TxrSqvbtF46A) | 4:47 | 2022-02-12 | 2022-02-15 |
 | [ONE MAN ARMY](https://open.spotify.com/track/4aARHyw15AYNDWSYl5le4s) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Coast to Costi](https://open.spotify.com/album/6zHXNwzHQr0m3RewWIa2Uv) | 3:16 | 2023-11-18 | 2023-11-21 |
 | [One Night in Tokyo](https://open.spotify.com/track/4ug7b6iy2tYn3OryBRrGkH) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [One Night in Tokyo](https://open.spotify.com/album/0N6GRmCIEbki82Eitec7e0) | 3:07 | 2021-10-03 | 2021-10-04 |
+| [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2024-02-02 |  |
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2023-10-18 | 2023-10-29 |
 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 | 2021-11-07 | 2021-12-04 |
 | [Ongelmalapsi](https://open.spotify.com/track/0prU9hQnYIxQW09ntVoz3C) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Ongelmalapsi](https://open.spotify.com/album/5yWO8CAusbgc9rJf9mb1oT) | 3:31 | 2022-09-10 | 2022-09-12 |

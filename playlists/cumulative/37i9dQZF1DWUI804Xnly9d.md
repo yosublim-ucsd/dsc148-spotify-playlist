@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Anuv Jain
 
-253 songs - 14 hr 18 min
+254 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Janeman](https://open.spotify.com/track/1nUZkGuF1JPLdnoyj5yTrP) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/5mfKbhUetTj10ZikjC0l0v) | 2:35 | 2023-11-28 |  |
 | [Jharokhe Se](https://open.spotify.com/track/57MfzNA2MA3Yez6tfSecJy) | [Sharad](https://open.spotify.com/artist/3jHpFYyoxkwd3nFSiyq0V9) | [Jharokhe Se](https://open.spotify.com/album/5yn1s3VtxX4GXWZ6yLbyEc) | 3:51 | 2023-11-24 | 2023-12-09 |
 | [Jhoothi Chai](https://open.spotify.com/track/5ISTUCwZ9SzLgoY0wdwYLN) | [Meiyang Chang](https://open.spotify.com/artist/4kil03O4zZQwIsvj3SGCxH) | [Jhoothi Chai](https://open.spotify.com/album/2MzAQ0GKFGqTBB2Y7lOB7o) | 2:56 | 2023-09-20 | 2023-11-25 |
-| [Kaayar](https://open.spotify.com/track/6cbxJhOuZWDP8kEeM6QWYe) | [Khatth](https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY) | [Kaayar](https://open.spotify.com/album/3nuufuEPeDjesdwC7AqzNQ) | 2:14 | 2023-09-26 |  |
+| [Kaayar](https://open.spotify.com/track/6cbxJhOuZWDP8kEeM6QWYe) | [Khatth](https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY) | [Kaayar](https://open.spotify.com/album/3nuufuEPeDjesdwC7AqzNQ) | 2:14 | 2023-09-26 | 2024-02-03 |
 | [Kabhi Kabhi](https://open.spotify.com/track/6mh140yXGpf0ABlVna1out) | [Pho](https://open.spotify.com/artist/3QXoQ4PbVx1LgzFFVOnvbu), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Kabhi Kabhi](https://open.spotify.com/album/2LLfecd85UR1XtvIm1o7vc) | 3:18 | 2024-01-04 |  |
 | [Kabhi Kabhi Zindagi](https://open.spotify.com/track/68SwtkJRPhtlZBzXaV4jrZ) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Shailendra Barve](https://open.spotify.com/artist/0sjbD7Avb0d3C74ymZA4hg), [Vijay Maurya](https://open.spotify.com/artist/0DPMEDEtRZYhlbWSAtbpNX) | [Mast Mein Rehne Ka](https://open.spotify.com/album/57Mp5CEnRAXsuDHeltvyKf) | 4:55 | 2023-12-15 | 2024-01-20 |
 | [Kahaani](https://open.spotify.com/track/57TrQP3nPUoc92VsooFB7p) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Kahaani](https://open.spotify.com/album/0pObojh3ehHgp4GYHl5RF5) | 3:35 | 2023-05-17 | 2023-06-16 |
@@ -146,6 +146,7 @@
 | [Kya Bataya](https://open.spotify.com/track/0IRw2VTYgLk4HxyEpuyRcY) | [Vicky sandhu](https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT) | [Kya Bataya](https://open.spotify.com/album/3WAWqQ41mCyBGusm4Fhrzt) | 3:34 | 2023-07-07 | 2023-07-18 |
 | [Kya Pata](https://open.spotify.com/track/53yFr6IXLXpj9JwtC0Pb1G) | [Naheed](https://open.spotify.com/artist/43z0UwKntpjMtivlmq0BkI), [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw) | [Kya Pata](https://open.spotify.com/album/0BIKCUslpeLuu5GDho6UYc) | 2:30 | 2023-05-17 | 2023-06-23 |
 | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/track/2rjCLFdX8n9xLoMZgdMMxt) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/album/6jN4E5miEwdQBUqU0HP0Dg) | 3:32 | 2023-05-17 | 2023-06-03 |
+| [Kya Yeh Hua](https://open.spotify.com/track/5J5Ad1UWIGCZgFX1H0qbdl) | [Karigar](https://open.spotify.com/artist/6BSvdM5bDjeGF7dAaprE5k) | [Kya Yeh Hua](https://open.spotify.com/album/4zIAI6ZeWXhIYMPfQcOeHI) | 3:33 | 2024-02-02 |  |
 | [Kyon Alag Huye](https://open.spotify.com/track/4sN3JE7LNUd5fM99QedzXY) | [Govinda Sarkar](https://open.spotify.com/artist/1hc9vww0TKHeWZOMkxC8kd) | [Kyon Alag Huye](https://open.spotify.com/album/7oPkwM4rULtTPoNIMHBAdT) | 1:21 | 2023-05-17 | 2023-05-27 |
 | [KYUN](https://open.spotify.com/track/14cov9USWeOHrxA6eBeLpz) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7) | [KYUN](https://open.spotify.com/album/3P3ouKXe5GLU8oVmpHmOnZ) | 3:56 | 2023-06-02 | 2023-07-14 |
 | [Kyun Dhunde](https://open.spotify.com/track/5leuT90qq5V4glfgAs651F) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Kyun Dhunde](https://open.spotify.com/album/0YRCWHHUxmIfBpHvgCt52R) | 3:33 | 2023-05-17 |  |

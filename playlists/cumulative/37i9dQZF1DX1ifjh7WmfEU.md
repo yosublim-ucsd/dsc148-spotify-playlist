@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-227 songs - 10 hr 3 min
+230 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Ensamma nätter](https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece) | [Drömqvist](https://open.spotify.com/artist/1vmjcCxXgIkmW2139Y5nr8) | [Ensamma nätter](https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo) | 2:28 | 2022-05-27 |  |
 | [Epenthesis](https://open.spotify.com/track/1n4aWKep4lJeeDMkmkfJav) | [Lauren Hawley](https://open.spotify.com/artist/5UDWPRjs2Qvdp65nqY3f2r) | [Epenthesis](https://open.spotify.com/album/0aH8bPdKkSPIAyTGi7mM3D) | 2:51 | 2022-05-27 |  |
 | [Episode](https://open.spotify.com/track/1drr6zT3kdWCr78jPuBYDt) | [Charlotte Funke](https://open.spotify.com/artist/3yO7osdYZcoKHt0kTZT486) | [Episode](https://open.spotify.com/album/09cW79JXOPShafrskPjFxK) | 2:30 | 2022-05-27 |  |
+| [Eridani](https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Eridani](https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV) | 2:32 | 2024-02-02 |  |
 | [Evangeline](https://open.spotify.com/track/3rfsel8gqoDpNVx7DgTyOf) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Evangeline](https://open.spotify.com/album/2GxIEfBPiuGksXQwRQO1Lm) | 2:01 | 2022-05-27 | 2022-07-28 |
 | [Everlasting](https://open.spotify.com/track/6U0Rth9EM8xwmg7rtrKV3t) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Everlasting](https://open.spotify.com/album/0rsXtotAmm85msyl1lakQd) | 2:34 | 2022-05-27 |  |
 | [Everlasting Glow](https://open.spotify.com/track/35eNrTAGVEwyxr2g4sjLqv) | [Zoé de Vera](https://open.spotify.com/artist/0ojIbBfm8uH68CpwcwoxGJ) | [Everlasting Glow](https://open.spotify.com/album/3mEBexZNw2FiVuKwNDCLCz) | 2:17 | 2022-05-27 |  |
@@ -90,6 +91,7 @@
 | [Hearts of Desire](https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Hearts of Desire](https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb) | 2:19 | 2023-11-08 |  |
 | [Herz gebrochen](https://open.spotify.com/track/2x6qK1oorFfWjIZ9bRf1MZ) | [Frida Frisk](https://open.spotify.com/artist/7xLTHxwZlyswxyMpdZzI8C) | [Herz gebrochen](https://open.spotify.com/album/6MMQUxAJVvAbp1Vi3Rx2oL) | 2:14 | 2022-05-27 |  |
 | [Hiemalis](https://open.spotify.com/track/0UcRrIl4Ti4xSdp314ZASI) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Hiemalis](https://open.spotify.com/album/0qCnC2Syuf544DFygP9Q4i) | 2:47 | 2022-05-27 | 2022-07-28 |
+| [Highlands](https://open.spotify.com/track/23PYmOs15gQXHPEGQXJP8O) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Highlands](https://open.spotify.com/album/4fGBjm0G7Cr5tXeo2aHkn7) | 3:00 | 2024-02-02 |  |
 | [Homeward](https://open.spotify.com/track/6p8tAo2HjobS7Me75EJcBq) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Homeward](https://open.spotify.com/album/5bhd7KJdQuJfmpBlWFbQT9) | 2:31 | 2022-05-27 |  |
 | [Hope](https://open.spotify.com/track/5gDksYjKYTQwguiJUPMpCD) | [Yan Springett](https://open.spotify.com/artist/10Kcf6pASW8OjUvTz3p9e8) | [Hope](https://open.spotify.com/album/6wIUmTz8bo4xpSjaQfCdVg) | 2:46 | 2022-05-27 |  |
 | [Hopeful](https://open.spotify.com/track/2zPRHgX9cIOMaV7dX23miR) | [Josephine Scwartz](https://open.spotify.com/artist/1I0Xs30ubj3VqMZ6nS3YDn) | [Hopeful](https://open.spotify.com/album/3z22jBjUyXuZoBhqxS0CQF) | 3:15 | 2022-05-27 |  |
@@ -200,6 +202,7 @@
 | [The Question](https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu) | [Cullen Waller](https://open.spotify.com/artist/1q5Nczup0WnMsnnhRxJ4BX) | [The Question](https://open.spotify.com/album/3XNSOM2jeWp4YhJC8pe2hU) | 3:01 | 2022-05-27 |  |
 | [The Sky](https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [The Sky](https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg) | 2:38 | 2022-05-27 |  |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-05-27 |  |
+| [The Whitening Fields](https://open.spotify.com/track/4MOy0eZpw1xoveN5S8stBC) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [The Whitening Fields](https://open.spotify.com/album/5m4Wj9vFbucH4Iq7pLapu2) | 2:33 | 2024-02-02 |  |
 | [Theme from The Angel](https://open.spotify.com/track/7LRdotxT5OK5kUOPvzlv4i) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Theme from The Angel](https://open.spotify.com/album/15fvKVkNpLCtwHCXhlzhqG) | 1:45 | 2023-01-26 |  |
 | [Through The Fields](https://open.spotify.com/track/73eFWqvfD6zbttdkmydJ2z) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Through The Fields](https://open.spotify.com/album/1edcP1iOeSvZTFg4PxMZhB) | 2:20 | 2022-05-27 |  |
 | [Time Will Tell](https://open.spotify.com/track/6G0iS7Lf08bZgjrdV1aRZ2) | [Lea Lewis](https://open.spotify.com/artist/0wnLoOej9LyiFZKKnJmP9z) | [Time Will Tell](https://open.spotify.com/album/7s5kp9t6YTNptLWcPgUQ7S) | 2:07 | 2022-05-27 |  |
@@ -217,7 +220,7 @@
 | [Vuggevise](https://open.spotify.com/track/7rvlOw2fPjxbcZSNKifEHq) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Vuggevise](https://open.spotify.com/album/6srrbZzcRlL82bPxb1rBCH) | 3:10 | 2022-05-27 |  |
 | [Wait For Me](https://open.spotify.com/track/2z6wyjZZ5hIP7ef5qjW7kW) | [Dawn Well](https://open.spotify.com/artist/4QfIvnMPiyUcI6mSTZc1mJ) | [Wait For Me](https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8) | 2:00 | 2022-05-27 |  |
 | [Wanderer](https://open.spotify.com/track/7KOqu2N0jtVQMQZHdWTlT7) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Wanderer](https://open.spotify.com/album/4R0o8yDcrpo4Z8x8mRNrNp) | 2:06 | 2022-05-27 |  |
-| [Waves](https://open.spotify.com/track/4POl5mnK3ZDe6crPzkxW9L) | [Delevski](https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k) | [Waves](https://open.spotify.com/album/0ERpE5TAYb6GSInWr0v6dI) | 2:24 | 2023-01-26 |  |
+| [Waves](https://open.spotify.com/track/4POl5mnK3ZDe6crPzkxW9L) | [Delevski](https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k) | [Waves](https://open.spotify.com/album/0ERpE5TAYb6GSInWr0v6dI) | 2:24 | 2023-01-26 | 2024-02-03 |
 | [Waves](https://open.spotify.com/track/3fQkbH0ruZuTFHcvuejlZh) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Waves](https://open.spotify.com/album/1CP8VTjmGieZWmYPGwkVjU) | 3:04 | 2022-05-27 | 2022-09-16 |
 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1eDy2A3euqy3axIdoKgQd5) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace — piano reworks](https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv) | 4:24 | 2023-11-08 |  |
 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 | 2022-11-14 | 2023-12-01 |

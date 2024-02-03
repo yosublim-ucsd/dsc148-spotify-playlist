@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. Melody's Echo Chamber on cover.
 
-299 songs - 1 day 0 hr 12 min
+301 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Imaginary Girl](https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:21 | 2022-04-22 |  |
 | [Imperio](https://open.spotify.com/track/4H6DcYcjNs5GzfF8gHncke) | [A Group Called CoBrA](https://open.spotify.com/artist/4fNoH37udrtOfcMMXbnGjN) | [Imperio](https://open.spotify.com/album/4xSIqrDjct43Ts9y0p2Foj) | 3:39 | 2021-11-12 | 2022-06-13 |
 | [In The Eve](https://open.spotify.com/track/4rVD839xJRAk4jRqB2UzND) | [Stonefield](https://open.spotify.com/artist/2xhrgovPiJBMN8cyW2iflu) | [Far From Earth](https://open.spotify.com/album/7zxPsrcn1bbLrGgzUQo3qg) | 3:56 | 2021-11-12 | 2022-07-24 |
-| [In The Eve](https://open.spotify.com/track/5VQq8M6cGARgFSLnialsvJ) | [Stonefield](https://open.spotify.com/artist/2xhrgovPiJBMN8cyW2iflu) | [Far From Earth](https://open.spotify.com/album/0Q8ULMJnNCjkLErAEgysO6) | 3:56 | 2021-11-12 |  |
+| [In The Eve](https://open.spotify.com/track/5VQq8M6cGARgFSLnialsvJ) | [Stonefield](https://open.spotify.com/artist/2xhrgovPiJBMN8cyW2iflu) | [Far From Earth](https://open.spotify.com/album/0Q8ULMJnNCjkLErAEgysO6) | 3:56 | 2021-11-12 | 2024-02-03 |
 | [Indian Zone Drum Killer Inc.](https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP) | [Tandy Love](https://open.spotify.com/artist/5VCev3apvTkUABVDvbxM7P) | [Turk Jerk](https://open.spotify.com/album/5YPdvWg02GM4zomzuy40E4) | 3:25 | 2021-11-12 | 2023-07-14 |
 | [Instinct, Eye and Mind](https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy) | [Moundabout](https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l) | [An Cnoc Mór](https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp) | 8:35 | 2023-08-15 | 2024-01-31 |
 | [Interior People](https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Butterfly 3000](https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy) | 5:15 | 2021-11-12 |  |
@@ -180,6 +180,7 @@
 | [Mother Seletta](https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Non Ex Orbis](https://open.spotify.com/album/1XczGr1lyHPJpaTJ7KHNXq) | 8:06 | 2021-11-12 | 2022-07-29 |
 | [Mourir Demain](https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mourir Demain](https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw) | 3:27 | 2024-01-30 |  |
 | [Música para una Ciudad Solitaria](https://open.spotify.com/track/7yTrFuwZWsC2q4OQ55wJ1o) | [Sublime Progresivo](https://open.spotify.com/artist/6Ayd3v4VLs52oc5S6XZJlq) | [Común e Intrascendente](https://open.spotify.com/album/12yCfI0GlqOPhEuoLjWGVU) | 3:00 | 2022-04-12 | 2022-07-17 |
+| [Ne Yaptıysam Senin İçin](https://open.spotify.com/track/1BGAAf5sBYsob5EWCgLWdB) | [Durukan Betses](https://open.spotify.com/artist/4bwCObMA0kPsoCaDEz3eid) | [Ne Yaptıysam Senin İçin](https://open.spotify.com/album/63RJH91Yv0sEBD02zPFxWD) | 4:52 | 2024-02-02 |  |
 | [New Hope For The New Year](https://open.spotify.com/track/1nvN1xiHviRrs1m3V3guLY) | [moe.](https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj) | [Not Normal](https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx) | 9:01 | 2021-11-12 | 2023-08-16 |
 | [nijimu](https://open.spotify.com/track/6mSoV1VR4E0q7imROwCYw7) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [nijimusi](https://open.spotify.com/album/7HzdnY7KZwknO1dhQ9i5Wt) | 4:21 | 2021-11-12 | 2022-07-14 |
 | [Ninja Partisi](https://open.spotify.com/track/1civ8niQt12qzLrgiAeJ8I) | [Lalalar](https://open.spotify.com/artist/6CWQ7KWveleaeFagKCz26T) | [Ninja Partisi](https://open.spotify.com/album/4onGiuk6cVH5MTREVJb2ZX) | 2:35 | 2021-11-12 | 2022-07-19 |
@@ -259,6 +260,7 @@
 | [The Blue Marble](https://open.spotify.com/track/5Yo6FhNtzrjOLGo9Y00Nup) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [The Blue Marble](https://open.spotify.com/album/10PAZMlhKdPSLdO1EpmeAP) | 4:45 | 2021-11-12 | 2022-07-28 |
 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 | 2022-02-18 | 2022-07-28 |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2022-04-12 | 2023-01-14 |
+| [The Moon Is In The Wrong Place](https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [The Moon Is In The Wrong Place](https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf) | 2:59 | 2024-02-02 |  |
 | [The Rat Catcher](https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ) | [Wucan](https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO) | [Reap the Storm](https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS) | 5:25 | 2021-11-12 |  |
 | [The Seaside \- Edit](https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [EP1](https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ) | 3:27 | 2021-11-12 |  |
 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 | 2021-11-12 |  |
@@ -287,7 +289,7 @@
 | [Venus](https://open.spotify.com/track/7kUMtpiRKDWVUOBfRX0eLd) | [The Exorcist GBG](https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV) | [The Exorcist GBG](https://open.spotify.com/album/7p9hlxuj9HbFC25xMJqV4S) | 2:54 | 2021-11-12 | 2022-07-17 |
 | [Vestir de Mujer](https://open.spotify.com/track/1tLIdG2aSb8IR7S8QpyXMO) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Vestir de Mujer](https://open.spotify.com/album/4vyN1YSc2zUq4nUmPQc7tR) | 2:30 | 2022-06-08 | 2022-07-15 |
 | [Victor's Belt](https://open.spotify.com/track/103SLYASMHdoZq1Ls6r2hR) | [Jaialai](https://open.spotify.com/artist/3dFAQoWOP8AIuLcqhf416Q) | [Victor's Belt](https://open.spotify.com/album/73t3CqNeemgspQX98ww9Wq) | 3:10 | 2021-11-12 | 2022-07-27 |
-| [Victor's Belt](https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp) | [Jaialai](https://open.spotify.com/artist/3dFAQoWOP8AIuLcqhf416Q) | [Victor's Belt](https://open.spotify.com/album/6wY4XmQTsy1neCkX1yzaQF) | 3:12 | 2021-11-12 |  |
+| [Victor's Belt](https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp) | [Jaialai](https://open.spotify.com/artist/3dFAQoWOP8AIuLcqhf416Q) | [Victor's Belt](https://open.spotify.com/album/6wY4XmQTsy1neCkX1yzaQF) | 3:12 | 2021-11-12 | 2024-02-03 |
 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 | 2021-11-12 |  |
 | [Waves](https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX) | [Naxatras](https://open.spotify.com/artist/6HN1s0JzLowapZ7nhOAJ71) | [Naxatras](https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv) | 7:20 | 2021-11-12 |  |
 | [We Were Kings](https://open.spotify.com/track/30aDz3teCTudFi7VsQDWua) | [Hollow Ship](https://open.spotify.com/artist/3bPcnmJ1Lk6fQlhxGV3Apx) | [We Were Kings](https://open.spotify.com/album/1cRF2kiIYvrJPE89XwkMMN) | 4:54 | 2021-11-12 | 2022-07-23 |

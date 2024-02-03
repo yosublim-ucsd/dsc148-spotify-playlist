@@ -1,12 +1,12 @@
 {
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2000s.",
-  "num_followers": 147483,
+  "num_followers": 147702,
   "original_name": "Latin Chillout 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmYzYTZiNjdkNDIyMGUwMWI5MmI3ZWZmM2JhOWNkMDBkNzA4MDM5",
+  "snapshot_id": "MCwwODJiOTVlZmYwNzgwYTQ2ZWQzOGVmYjE3YjViYmUyOGIzNmY1MTky",
   "tracks": [
     {
       "added_at": "2022-12-30 17:16:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "El Templo del Pop",
-        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 225413,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "De Viaje",
         "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 240613,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "El Templo del Pop",
+        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 225413,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -267,6 +267,22 @@
       "duration_ms": 257186,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "De Viaje",
+        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 227613,
+      "name": "Mientes Tan Bien",
+      "url": "https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -375,38 +391,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "De Viaje",
-        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 227613,
-      "name": "Mientes Tan Bien",
-      "url": "https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "Corazon Latino",
-        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 262440,
-      "name": "D\u00edgale",
-      "url": "https://open.spotify.com/track/5OKrgU6UuGMp4sGRxv1JH2"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -427,34 +411,18 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Escucha",
-        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
+        "name": "Corazon Latino",
+        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         }
       ],
-      "duration_ms": 236613,
-      "name": "V\u00edveme",
-      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "Lulu Ac\u00fastico",
-        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Apenas Mais uma de Amor",
-      "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
+      "duration_ms": 262440,
+      "name": "D\u00edgale",
+      "url": "https://open.spotify.com/track/5OKrgU6UuGMp4sGRxv1JH2"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -471,6 +439,22 @@
       "duration_ms": 199482,
       "name": "Un Idiota",
       "url": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Escucha",
+        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 236613,
+      "name": "V\u00edveme",
+      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -507,22 +491,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Mar\u00eda Jos\u00e9",
-        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -535,6 +503,38 @@
       "duration_ms": 217560,
       "name": "Volverte A Ver",
       "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Lulu Ac\u00fastico",
+        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "Apenas Mais uma de Amor",
+      "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Mar\u00eda Jos\u00e9",
+        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Secuencia",
-        "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Sabes",
-      "url": "https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Confesiones",
         "url": "https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 218973,
       "name": "Antes",
       "url": "https://open.spotify.com/track/0TIKTcvtKI26PNRvjyeHjP"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Secuencia",
+        "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "Sabes",
+      "url": "https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Sin Bandera",
+        "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "Kil\u00f3metros",
+      "url": "https://open.spotify.com/track/0AcFsf9FGjL1Al2RBQ1Crq"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "Aqui O Sistema \u00c9 Bruto",
         "url": "https://open.spotify.com/album/4FTV8aipNFzqQo10minF34"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Sin Bandera",
-        "url": "https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "Kil\u00f3metros",
-      "url": "https://open.spotify.com/track/0AcFsf9FGjL1Al2RBQ1Crq"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "La Ley MTV Unplugged",
         "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
@@ -703,6 +703,26 @@
       "duration_ms": 288066,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "\u00bfQu\u00e9 pides t\u00fa? (Argentina)",
+        "url": "https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        },
+        {
+          "name": "Amaia Montero",
+          "url": "https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo"
+        }
+      ],
+      "duration_ms": 310866,
+      "name": "Sin miedo a nada (feat. Amaia Montero)",
+      "url": "https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -731,26 +751,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "\u00bfQu\u00e9 pides t\u00fa? (Argentina)",
-        "url": "https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        },
-        {
-          "name": "Amaia Montero",
-          "url": "https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo"
-        }
-      ],
-      "duration_ms": 310866,
-      "name": "Sin miedo a nada (feat. Amaia Montero)",
-      "url": "https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Reyli En La Luna",
         "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Indeleble",
-        "url": "https://open.spotify.com/album/5Y5vZKwOXADxWD4NjMCoUB"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "Volverte a Amar",
-      "url": "https://open.spotify.com/track/6fgjHINGw77nBccZ0Fzj9n"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Ma\u00f1ana",
         "url": "https://open.spotify.com/album/5pbMJWLEzbU0HNQBffJyRx"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 240306,
       "name": "Suelta Mi Mano",
       "url": "https://open.spotify.com/track/50xvGsnNmO3k5EtaUBXRRr"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "Indeleble",
+        "url": "https://open.spotify.com/album/5Y5vZKwOXADxWD4NjMCoUB"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "Volverte a Amar",
+      "url": "https://open.spotify.com/track/6fgjHINGw77nBccZ0Fzj9n"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "Tal Vez Quizas",
+      "url": "https://open.spotify.com/track/4Ft4AbNwk1acKagaBOmvHb"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "Serenata",
         "url": "https://open.spotify.com/album/2LaGAyPgCNEQieUuYzRwtq"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 274000,
       "name": "Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "Tal Vez Quizas",
-      "url": "https://open.spotify.com/track/4Ft4AbNwk1acKagaBOmvHb"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Pet Shop Mundo C\u00e3o",
-        "url": "https://open.spotify.com/album/4H4LNYMi3NTbHGgsUWdR8g"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 266080,
-      "name": "Telegrama",
-      "url": "https://open.spotify.com/track/7xpDGoUGbtaquk5xMvzwTh"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
       },
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
+        "name": "Pet Shop Mundo C\u00e3o",
+        "url": "https://open.spotify.com/album/4H4LNYMi3NTbHGgsUWdR8g"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 266080,
+      "name": "Telegrama",
+      "url": "https://open.spotify.com/track/7xpDGoUGbtaquk5xMvzwTh"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
         "name": "Vuelo",
         "url": "https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P"
       },
@@ -1319,6 +1319,22 @@
       "duration_ms": 224000,
       "name": "Ya Nada Queda",
       "url": "https://open.spotify.com/track/3zN6kV9JWuQYVqXPtNvZku"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "\u00c9 Por Amor",
+        "url": "https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Pires",
+          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
+        }
+      ],
+      "duration_ms": 272693,
+      "name": "Usted Se Me Llevo la Vida",
+      "url": "https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Estampado",
-        "url": "https://open.spotify.com/album/1d9RgMrAp6fMuYVwqKXusH"
-      },
-      "artists": [
-        {
-          "name": "Ana Carolina",
-          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
-        }
-      ],
-      "duration_ms": 251426,
-      "name": "Encostar na Tua",
-      "url": "https://open.spotify.com/track/4zVlul17Z9SGqwgmbwm10Z"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Negroklaro",
         "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
       },
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "\u00c9 Por Amor",
-        "url": "https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO"
+        "name": "Estampado",
+        "url": "https://open.spotify.com/album/1d9RgMrAp6fMuYVwqKXusH"
       },
       "artists": [
         {
-          "name": "Alexandre Pires",
-          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
+          "name": "Ana Carolina",
+          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
         }
       ],
-      "duration_ms": 272693,
-      "name": "Usted Se Me Llevo la Vida",
-      "url": "https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw"
+      "duration_ms": 251426,
+      "name": "Encostar na Tua",
+      "url": "https://open.spotify.com/track/4zVlul17Z9SGqwgmbwm10Z"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "Recu\u00e9rdame Con Cartas Y Algo M\u00e1s... Los Exitos (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm"
-      },
-      "artists": [
-        {
-          "name": "La Quinta Estacion",
-          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
-        }
-      ],
-      "duration_ms": 266040,
-      "name": "Algo M\u00e1s",
-      "url": "https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF"
-    },
-    {
-      "added_at": "2022-12-30 17:16:00",
-      "album": {
         "name": "Abrazar La Vida",
         "url": "https://open.spotify.com/album/7u8IWfPzlYcqN4N6tU4FcW"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2022-12-30 17:16:00",
       "album": {
-        "name": "M\u00e1s De Mi Alma",
-        "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
+        "name": "Recu\u00e9rdame Con Cartas Y Algo M\u00e1s... Los Exitos (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "La Quinta Estacion",
+          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
         }
       ],
-      "duration_ms": 261666,
-      "name": "Tu Hombre Perfecto",
-      "url": "https://open.spotify.com/track/2AvMmfkHClBKVfoDpYAXx2"
+      "duration_ms": 266040,
+      "name": "Algo M\u00e1s",
+      "url": "https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF"
     },
     {
       "added_at": "2022-12-30 17:16:00",
@@ -1579,6 +1563,22 @@
       "duration_ms": 259399,
       "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/0Ky9DFq4xtsIZQiI0d2fnG"
+    },
+    {
+      "added_at": "2022-12-30 17:16:00",
+      "album": {
+        "name": "M\u00e1s De Mi Alma",
+        "url": "https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 261666,
+      "name": "Tu Hombre Perfecto",
+      "url": "https://open.spotify.com/track/2AvMmfkHClBKVfoDpYAXx2"
     },
     {
       "added_at": "2022-12-30 17:16:00",

@@ -4,7 +4,7 @@
 
 > Features greatest hits from the world\-famous virtual singer "HATSUNE MIKU"! /世界を舞台に活躍するバーチャル・シンガー、初音ミクの楽曲を網羅した公式プレイリスト！©Pokémon/Nintendo/CR/GF<br/>©CFM <a href="https://piapro.net/">www.piapro.net</a>
 
-119 songs - 7 hr 57 min
+120 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [ワールズエンド・ダンスホール \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/3mMurBEHetvgoEOJRa3biN) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 3:43 | 2021-09-23 |  |
 | [ワールドイズマイン \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/1chETycPdQmdJsWX1BoMVj) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:58 | 2021-09-23 |  |
 | [一心不乱](https://open.spotify.com/track/75EGAQg5gJhUz69GSYufBt) | [UMETORA](https://open.spotify.com/artist/5ZjOsH8VbUcUs5LoDjeYOE) | [一心不乱](https://open.spotify.com/album/3A00yiXvch1ZRGBlMfr3hP) | 3:17 | 2021-09-23 | 2022-07-27 |
-| [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 | 2021-09-23 |  |
+| [乙女解剖](https://open.spotify.com/track/1otg7FUDBkXTWGjputlbxR) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/7gxXuvmdsCaoM4Li1GR9gB) | 3:43 | 2024-01-05 |  |
+| [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 | 2021-09-23 | 2024-02-03 |
 | [二次元ドリームフィーバー](https://open.spotify.com/track/4WfgfyCeXhyitWzm1dUzWZ) | [PolyphonicBranch](https://open.spotify.com/artist/2wlgxcLUDaeSoqEcdYtmLN) | [二次元ドリームフィーバー](https://open.spotify.com/album/7kztgsxFnrkj0HnkV17Mea) | 3:08 | 2021-09-23 | 2022-08-08 |
 | [僕をそんな目で見ないで](https://open.spotify.com/track/2WVBoL2OaErNK6kEVK7Pjo) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク](https://open.spotify.com/album/3fFajEtPI0sXa1Eo0WJMKJ) | 5:08 | 2021-09-23 | 2022-08-08 |
 | [初音ミクの消失 \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/5pgVqrcW9CkzDE0ToQmnI3) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 2:19 | 2021-09-23 |  |

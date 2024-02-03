@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 73942,
+  "num_followers": 73953,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGVjOWI0M2M0NGMwOGFjYzMwNzc3NWUxOTI5YTUyOTQwYTM3Yjhi",
+  "snapshot_id": "MCwwMGQ4MGQzZjUzOGY2ZGNlNmE3YjJiOTkwNTY0NjNkNDU5MDRkYmU2",
   "tracks": [
     {
       "added_at": "2024-01-12 05:01:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "The Rawkers (I <3 U SO Edition)",
-        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
-      },
-      "artists": [
-        {
-          "name": "Cassius",
-          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
-        }
-      ],
-      "duration_ms": 222407,
-      "name": "I <3 U SO",
-      "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Lesser Man EP",
         "url": "https://open.spotify.com/album/3A0q6JgJ9jky4VRJnCDxC3"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 439490,
       "name": "Pain",
       "url": "https://open.spotify.com/track/2tpfPi4qSamU9EX5Q8FnNi"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "The Rawkers (I <3 U SO Edition)",
+        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
+      },
+      "artists": [
+        {
+          "name": "Cassius",
+          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
+        }
+      ],
+      "duration_ms": 222407,
+      "name": "I <3 U SO",
+      "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
+        "name": "Thirst",
+        "url": "https://open.spotify.com/album/7AoXn0h3P8wtRN36CrA14y"
+      },
+      "artists": [
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Beograd - Edit",
+      "url": "https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
         "name": "Animosity (SOPHIE Remix)",
         "url": "https://open.spotify.com/album/6uAEMEeFuJV9n0U8RRcWUh"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 486760,
       "name": "Animosity - SOPHIE Remix",
       "url": "https://open.spotify.com/track/3fvl0xzlAeO52HpNUwtSsC"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Thirst",
-        "url": "https://open.spotify.com/album/7AoXn0h3P8wtRN36CrA14y"
-      },
-      "artists": [
-        {
-          "name": "SebastiAn",
-          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Beograd - Edit",
-      "url": "https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-01-12 05:01:00",
       "album": {
-        "name": "On Your Mind",
-        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 246182,
-      "name": "On Your Mind",
-      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
         "name": "Cirrus",
         "url": "https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 352246,
       "name": "Cirrus",
       "url": "https://open.spotify.com/track/2hNTfrAILBLesbPootV83e"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 246182,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
     },
     {
       "added_at": "2024-01-12 05:01:00",

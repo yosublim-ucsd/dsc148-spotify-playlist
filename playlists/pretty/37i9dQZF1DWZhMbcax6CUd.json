@@ -1,12 +1,12 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 56228,
+  "num_followers": 56252,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDJkYTVlMDg5NDhhMzNhN2M5OGU1ZmMzYWQwOWY1YmU0MjM0NGIy",
+  "snapshot_id": "MCwyYWU0MDU1MWQzZGE1ZGU0MWQzMWUyYmYyNTRlYjY5NjJjNjJmNmU3",
   "tracks": [
     {
       "added_at": "2022-06-27 09:54:23",
@@ -295,26 +295,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: Piano Works, Vol. 1",
-        "url": "https://open.spotify.com/album/0espcLjJsMq2xIJOB22uSn"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Fran\u00e7ois-Jo\u00ebl Thiollier",
-          "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Sonatine: I. Modere",
-      "url": "https://open.spotify.com/track/7gL8QEEbru4HGViCXVXgBR"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: Classical Creations",
         "url": "https://open.spotify.com/album/4rKQ7b27v4d3KCz72mubGx"
       },
@@ -348,9 +328,29 @@
           "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
         }
       ],
-      "duration_ms": 201000,
+      "duration_ms": 199066,
       "name": "Trois chansons, M.69: 2. Trois beaux oiseaux du Paradis",
       "url": "https://open.spotify.com/track/1ryIM6NJH9i7gIPuMcC9Fc"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: Piano Works, Vol. 1",
+        "url": "https://open.spotify.com/album/0espcLjJsMq2xIJOB22uSn"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Fran\u00e7ois-Jo\u00ebl Thiollier",
+          "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Sonatine: I. Modere",
+      "url": "https://open.spotify.com/track/7gL8QEEbru4HGViCXVXgBR"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1123,34 +1123,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel l'exotique",
-        "url": "https://open.spotify.com/album/6wQUYcXQNxUZIxw95pzG3i"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Ensemble Musica Nigella",
-          "url": "https://open.spotify.com/artist/1WKJem11fUdmvc1M4DxjLV"
-        },
-        {
-          "name": "Tak\u00e9nori N\u00e9moto",
-          "url": "https://open.spotify.com/artist/72Yvb70IFYKcvBd5h59OyF"
-        },
-        {
-          "name": "Pablo Schatzman",
-          "url": "https://open.spotify.com/artist/6ODub5WwbfKPCCehgAFwSD"
-        }
-      ],
-      "duration_ms": 159445,
-      "name": "Rapsodie espagnole, M. 54: III. Habanera",
-      "url": "https://open.spotify.com/track/2SXOplH0bS340faU0B34gI"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: Sh\u00e9h\u00e9razade / Tombeau / Pavane; Debussy: Danses / Ballades de Villon",
         "url": "https://open.spotify.com/album/1eeUo6L1AGl4DBJ7QOcp8b"
       },
@@ -1175,6 +1147,34 @@
       "duration_ms": 188000,
       "name": "Sh\u00e9h\u00e9razade, M. 41: II. La fl\u00fbte enchant\u00e9e",
       "url": "https://open.spotify.com/track/2frOJsnhsTX5oyDzBjV4uX"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel l'exotique",
+        "url": "https://open.spotify.com/album/6wQUYcXQNxUZIxw95pzG3i"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Ensemble Musica Nigella",
+          "url": "https://open.spotify.com/artist/1WKJem11fUdmvc1M4DxjLV"
+        },
+        {
+          "name": "Tak\u00e9nori N\u00e9moto",
+          "url": "https://open.spotify.com/artist/72Yvb70IFYKcvBd5h59OyF"
+        },
+        {
+          "name": "Pablo Schatzman",
+          "url": "https://open.spotify.com/artist/6ODub5WwbfKPCCehgAFwSD"
+        }
+      ],
+      "duration_ms": 159445,
+      "name": "Rapsodie espagnole, M. 54: III. Habanera",
+      "url": "https://open.spotify.com/track/2SXOplH0bS340faU0B34gI"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel/Shostakovich: Piano Trios",
-        "url": "https://open.spotify.com/album/4G34Wz2qXxcFEeykkoNwfw"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Trio Mondrian",
-          "url": "https://open.spotify.com/artist/7JfdsihGqEcK3N3GOH6S0s"
-        }
-      ],
-      "duration_ms": 266266,
-      "name": "Piano trio in a minor: Pantoum (Assez Vif)",
-      "url": "https://open.spotify.com/track/7lkXt8wHRkHb4lvwQRZZVx"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel et Prokofiev: Concertos pour pianos",
         "url": "https://open.spotify.com/album/2z6hlIzl30tbJqJvxOe29g"
       },
@@ -1271,6 +1251,26 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Ravel/Shostakovich: Piano Trios",
+        "url": "https://open.spotify.com/album/4G34Wz2qXxcFEeykkoNwfw"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Trio Mondrian",
+          "url": "https://open.spotify.com/artist/7JfdsihGqEcK3N3GOH6S0s"
+        }
+      ],
+      "duration_ms": 266266,
+      "name": "Piano trio in a minor: Pantoum (Assez Vif)",
+      "url": "https://open.spotify.com/track/7lkXt8wHRkHb4lvwQRZZVx"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
         "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
       },
@@ -1287,26 +1287,6 @@
       "duration_ms": 611466,
       "name": "Gaspard de la Nuit, M. 55: 3. Scarbo",
       "url": "https://open.spotify.com/track/2TWGl3huamXIEmBzHQAszr"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Ravel and Shostakovich: Piano Trios",
-        "url": "https://open.spotify.com/album/0gP966H4PMIbOu3ErgJkAA"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Smetana Trio",
-          "url": "https://open.spotify.com/artist/4Nyi8TEpxsztAzIUWXjjUq"
-        }
-      ],
-      "duration_ms": 475146,
-      "name": "Piano Trio in A Minor, M. 67: III. Passacaille. Tr\u00e8s large",
-      "url": "https://open.spotify.com/track/2qhAOKSbcL00PDPCLwnWkV"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1335,6 +1315,26 @@
       "duration_ms": 291413,
       "name": "Daphnis et Chlo\u00e9, M. 57, Pt. 3: Part III: Danse g\u00e9n\u00e9rale",
       "url": "https://open.spotify.com/track/4kuhQWDvUAvudzykgNiksk"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel and Shostakovich: Piano Trios",
+        "url": "https://open.spotify.com/album/0gP966H4PMIbOu3ErgJkAA"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Smetana Trio",
+          "url": "https://open.spotify.com/artist/4Nyi8TEpxsztAzIUWXjjUq"
+        }
+      ],
+      "duration_ms": 475146,
+      "name": "Piano Trio in A Minor, M. 67: III. Passacaille. Tr\u00e8s large",
+      "url": "https://open.spotify.com/track/2qhAOKSbcL00PDPCLwnWkV"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Miroirs - Ravel Piano Works",
+        "url": "https://open.spotify.com/album/6dAkrp5QRrteg2izETI931"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alexander Krichel",
+          "url": "https://open.spotify.com/artist/05Ur1K4jmfNEsBZwdk20xl"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "Miroirs, M. 43: I. Noctuelles",
+      "url": "https://open.spotify.com/track/1IJHTkefYM5bGZj19y43tV"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Ravel: Daphnis et Chlo\u00e9",
         "url": "https://open.spotify.com/album/4ofcniYcKBLF6cQY1Dw8Z7"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 476173,
       "name": "Daphnis et Chlo\u00e9, M. 57: I. Introduction et Danse Religieuse",
       "url": "https://open.spotify.com/track/3VKEZVixRO5GF92scMk2q0"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Miroirs - Ravel Piano Works",
-        "url": "https://open.spotify.com/album/6dAkrp5QRrteg2izETI931"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexander Krichel",
-          "url": "https://open.spotify.com/artist/05Ur1K4jmfNEsBZwdk20xl"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "Miroirs, M. 43: I. Noctuelles",
-      "url": "https://open.spotify.com/track/1IJHTkefYM5bGZj19y43tV"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1555,6 +1555,30 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Mikko Franck Plays Ravel",
+        "url": "https://open.spotify.com/album/6c3oGoxumzF4FILKCMwWUy"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Mikko Franck",
+          "url": "https://open.spotify.com/artist/4NDdDDmlbZ0CNT7rxKUPGq"
+        },
+        {
+          "name": "Orchestre Philharmonique de Radio France",
+          "url": "https://open.spotify.com/artist/2Mwa328GasJUju1YNDLSXd"
+        }
+      ],
+      "duration_ms": 149693,
+      "name": "L'enfant et les sortil\u00e8ges, M. 71, Tab. I: \"J'ai pas envie de faire ma page\" (L'enfant)",
+      "url": "https://open.spotify.com/track/2SN7i9WR8xdfgzWioHMfFK"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Alexandre Tharaud. \"Voyage en France\"",
         "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
       },
@@ -1599,30 +1623,6 @@
       "duration_ms": 296146,
       "name": "Piano Concerto for the Left Hand in D Major, M. 82: III. Tempo I",
       "url": "https://open.spotify.com/track/6p4nfsao6pTiZQrkhB71VE"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Mikko Franck Plays Ravel",
-        "url": "https://open.spotify.com/album/6c3oGoxumzF4FILKCMwWUy"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Mikko Franck",
-          "url": "https://open.spotify.com/artist/4NDdDDmlbZ0CNT7rxKUPGq"
-        },
-        {
-          "name": "Orchestre Philharmonique de Radio France",
-          "url": "https://open.spotify.com/artist/2Mwa328GasJUju1YNDLSXd"
-        }
-      ],
-      "duration_ms": 149693,
-      "name": "L'enfant et les sortil\u00e8ges, M. 71, Tab. I: \"J'ai pas envie de faire ma page\" (L'enfant)",
-      "url": "https://open.spotify.com/track/2SN7i9WR8xdfgzWioHMfFK"
     },
     {
       "added_at": "2022-06-27 09:54:23",

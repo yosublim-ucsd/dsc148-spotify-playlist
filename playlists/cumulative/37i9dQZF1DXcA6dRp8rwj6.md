@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: 24kGoldn\)
 
-1,808 songs - 3 day 19 hr 45 min
+1,810 songs - 3 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -678,6 +678,7 @@
 | [HEAT](https://open.spotify.com/track/2luqp05fNA4CbzzgWR9cuS) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [HEAT](https://open.spotify.com/album/21Za9kIL7PUvXUAQy9nV13) | 3:08 | 2023-09-14 | 2023-10-23 |
 | [HEAVEN'S GALAXY](https://open.spotify.com/track/1iUlclkUb1sXcmrDqfQkIH) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [HEAVEN'S GALAXY](https://open.spotify.com/album/68xRB3gmaXR0ja7HaBSi1B) | 6:17 | 2023-10-12 | 2023-12-09 |
 | [Heavy \(with Lil Uzi Vert\)](https://open.spotify.com/track/02WDt2eCNOU2mt0DF5w678) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Heavy](https://open.spotify.com/album/2RADneMo8givvCbM6k6yPR) | 3:20 | 2022-03-18 | 2022-04-15 |
+| [HELIOT EMIL](https://open.spotify.com/track/2iSkLo11WjyzRVdxeSMkCf) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Wonderful Days](https://open.spotify.com/album/2N63pqJIn1Ro8yIbwV54Gh) | 2:18 | 2024-02-02 |  |
 | [Hell Ya Been](https://open.spotify.com/track/2S30XqlJ9Cww6VJEWWp4Oj) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [FOREVER FIGUEROA 2](https://open.spotify.com/album/0DVvePo3RyEeGE6BArKnsc) | 3:13 | 2022-03-31 | 2022-04-08 |
 | [Hell Yahh!](https://open.spotify.com/track/3W4ItoiLq2sq0PUVDN3e90) | [Boysyaka](https://open.spotify.com/artist/20hML6oHWY66gYeTyDFr8R), [Oyami](https://open.spotify.com/artist/2HHbaQyJSBiueJOPiHRfg4) | [Hell Yahh!](https://open.spotify.com/album/6VgIiQE8eo6vHdIjHiMVTu) | 2:52 | 2022-12-29 | 2023-02-10 |
 | [Her Birthday](https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:34 | 2023-09-08 | 2023-11-11 |
@@ -1355,6 +1356,7 @@
 | [Selfish](https://open.spotify.com/track/2xbI8Vmyv3TkpTdywpPyNw) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [GTTM: Goin Thru the Motions](https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2) | 4:05 | 2022-09-15 | 2022-11-06 |
 | [Selfish](https://open.spotify.com/track/0CbipIjEWGy8jOpxy3GIuR) | [Yourboy](https://open.spotify.com/artist/6CXEofaqFpIypvCokRuoW8), [Henmind](https://open.spotify.com/artist/3qLIzr6vxI0T0VzPeI1ZS0) | [Selfish](https://open.spotify.com/album/3X90RoPjSQKAz30gMnq7KH) | 3:02 | 2022-03-10 | 2022-04-01 |
 | [Selfish \(feat\. Major Myjah\)](https://open.spotify.com/track/3qVGGk6cIJOvIMQhIXl7sE) | [Jayson Cash](https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E), [Major Myjah](https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L) | [Selfish \(feat\. Major Myjah\)](https://open.spotify.com/album/3webAmY4mW31UWVXzWA26o) | 2:09 | 2022-05-26 | 2022-06-17 |
+| [Sensei](https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sensei](https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu) | 1:58 | 2024-02-02 |  |
 | [SentRock](https://open.spotify.com/track/2WDEt2vKpQ3hUOeRFVRxQc) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SentRock](https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro) | 2:50 | 2023-04-27 | 2023-06-09 |
 | [Seoul](https://open.spotify.com/track/2igFziFwKBPDeI96qoFHsv) | [Yvng Nelly](https://open.spotify.com/artist/0oveq5ZWDeW47OBIpW8sew), [GodShine](https://open.spotify.com/artist/2HvhvwS8Epjxt5YYVNnmk4) | [I'm Just Doing Me](https://open.spotify.com/album/59mSMNPgkdZNGXuTilky4v) | 2:52 | 2023-01-06 | 2023-02-10 |
 | [Seoul City \- Spotify Singles](https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [sAewoo](https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35) | [Spotify Singles](https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK) | 3:34 | 2023-02-24 | 2023-04-07 |

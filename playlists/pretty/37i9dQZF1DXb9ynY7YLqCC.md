@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,637 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,724 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,17 +83,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 73 | [Carolina](https://open.spotify.com/track/3dHDEm95M3UJb6KBuDufvK) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [A Cielo Abierto \- El año del tigre](https://open.spotify.com/album/6flD95j521iLXh4JVL3BNq) | 3:14 |
 | 74 | [Me Gustas Mucho](https://open.spotify.com/track/7JvKnVhM6qksNREXInCsXo) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Oro](https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m) | 3:19 |
 | 75 | [Imposible](https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Incompleto \- 20 Rocanroles 20](https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn) | 4:07 |
-| 76 | [Montaña Rusa Emocional](https://open.spotify.com/track/6OrpYqotia6MQqlKZKsgZ1) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Montaña Rusa Emocional](https://open.spotify.com/album/0KOjxfn6PBm3ntF4NZnhjq) | 3:19 |
-| 77 | [Seremos](https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [Seremos](https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop) | 3:28 |
+| 76 | [Seremos](https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [Seremos](https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop) | 3:28 |
+| 77 | [Montaña Rusa Emocional](https://open.spotify.com/track/6OrpYqotia6MQqlKZKsgZ1) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Montaña Rusa Emocional](https://open.spotify.com/album/0KOjxfn6PBm3ntF4NZnhjq) | 3:19 |
 | 78 | [Silencio \- En Vivo](https://open.spotify.com/track/3QFehvGrS4MmrAWW5Hqw3f) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Tipitorex](https://open.spotify.com/album/64A2yWDQnsti67uCO44olg) | 5:02 |
 | 79 | [Tus Ojos](https://open.spotify.com/track/6bVflf7QtkVdZH6ro5PKiX) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Solo Canciones](https://open.spotify.com/album/6t9YLarJhXBjGcmUCWyCIY) | 4:04 |
 | 80 | [Lobo](https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Pánico](https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy) | 2:42 |
 | 81 | [La Cañada](https://open.spotify.com/track/535yV2PsP1kwPji586uUK4) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [No Se Lo Cuentes a Nadie](https://open.spotify.com/album/6D8HxOLAJntQgxD0NLX49p) | 3:42 |
 | 82 | [Todo Sigue Igual](https://open.spotify.com/track/6ClmH50s8nc7fEcYNkk2kI) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Oro](https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m) | 3:35 |
 | 83 | [Ojos Ventanal](https://open.spotify.com/track/6ydfaB0QZaE2CieflySqEO) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Sangre en Tus Luces](https://open.spotify.com/album/19A9YHtIzbhB9oZlvzKOKi) | 3:44 |
-| 84 | [Sutil](https://open.spotify.com/track/3hkMZFo9dwI3mTM1I6eGu3) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Contratiempos](https://open.spotify.com/album/57M8d2JDEqjdz9LVzDtK3V) | 3:15 |
+| 84 | [Andrajoso](https://open.spotify.com/track/3ibB1bUbvgHheGYlnSa9b9) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Mundo Imperfecto](https://open.spotify.com/album/1a8ZNsUD375wEwTdzE2F8F) | 4:06 |
 | 85 | [Cuando Me Muera](https://open.spotify.com/track/3gvaShbCuEoL51efZWtpIs) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Probame \(Demo\)](https://open.spotify.com/album/2fs5He9XpcqbqLud8QSRyv) | 2:06 |
-| 86 | [Andrajoso](https://open.spotify.com/track/3ibB1bUbvgHheGYlnSa9b9) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Mundo Imperfecto](https://open.spotify.com/album/1a8ZNsUD375wEwTdzE2F8F) | 4:06 |
+| 86 | [Sutil](https://open.spotify.com/track/3hkMZFo9dwI3mTM1I6eGu3) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Contratiempos](https://open.spotify.com/album/57M8d2JDEqjdz9LVzDtK3V) | 3:15 |
 | 87 | [Unos Versos](https://open.spotify.com/track/16d24IkLdwtqrSyjcRfR0i) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [¡Eureka!](https://open.spotify.com/album/2Y5ZXUgVYGYP5emNGUykwp) | 6:22 |
 | 88 | [Homero](https://open.spotify.com/track/3Ld5CT9BdPUqTkd9dnxny4) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Oro](https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m) | 4:24 |
 | 89 | [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 99 | [De La Guitarra](https://open.spotify.com/track/26lG5q6s0MG3GK44rmYmFg) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 5:12 |
 | 100 | [El Final Es En Donde Partí](https://open.spotify.com/track/1GA9luNLvwHSdDQD5yC2IJ) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Todo el día MÚSICA](https://open.spotify.com/album/6h6cdHzP4xPvbnj5TKBwan) | 4:36 |
 
-Snapshot ID: `MCw1MDM0YjNkMDhiYjM0NGJkN2JhNDFiMzgxZTkwZDI1NWIyODE5OWU4`
+Snapshot ID: `MCw0ZTYzNTBjOGQ2OTk3MGM5MjdjZTczODVmZDZiNmU2ZTY0NGI2YTJi`

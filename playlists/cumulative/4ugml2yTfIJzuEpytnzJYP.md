@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-245 songs - 15 hr 37 min
+246 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Lost Souls \- ATYYA Remix](https://open.spotify.com/track/60KhEnHybUOC0a0ziqR9Yb) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Lost Souls \(ATYYA Remix\)](https://open.spotify.com/album/09yEzA91373rOjUnxYzrIk) | 4:03 | 2022-09-17 | 2022-10-17 |
 | [Lotus Flower \(Special Edition\)](https://open.spotify.com/track/4KtJs4bQl9Sq5ZiOEBD7Ro) | [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Lotus Flower / with Dimond Saints](https://open.spotify.com/album/2ZMc6j04fiWOKP2Vkm43DI) | 3:32 | 2022-01-07 | 2022-08-23 |
 | [Love Conspiration](https://open.spotify.com/track/2ztafS9ba55k5K2pZFYiuQ) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Love Conspiration](https://open.spotify.com/album/2QVnzc77wuvWcq5Cwraenp) | 4:51 | 2022-10-14 | 2023-05-27 |
+| [Love Drop](https://open.spotify.com/track/5kWiBobgYb9IHMbKAF14LH) | [Equanimous](https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn), [HYPERLIGHT](https://open.spotify.com/artist/6oehyzq3ivxXza1uoSoIi7), [KÄTĒRI](https://open.spotify.com/artist/3FUaWBUI4cDMcGItjAMEz7) | [Love Drop](https://open.spotify.com/album/1OQ8hIELW4uvg58cStDnSd) | 3:33 | 2024-02-02 |  |
 | [Love Note](https://open.spotify.com/track/499OtEO8DgeETgRzvox80I) | [Khiva](https://open.spotify.com/artist/3cH0fKXiWesYFzqJwiWlAD) | [Love Note](https://open.spotify.com/album/3NXDPwCwIyFbZuFIhFIyym) | 5:00 | 2022-04-15 | 2022-08-23 |
 | [Luminous \- gishfang Remix](https://open.spotify.com/track/1d9AeaczLLIZ1w28k8fRAn) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [gishfang](https://open.spotify.com/artist/06mQZrPXVhaKifGQSMHfjv) | [Luminous \(gishfang Remix\)](https://open.spotify.com/album/3lMhNcUS3WqDwhJ1HS6LYJ) | 2:16 | 2022-04-04 | 2022-09-17 |
 | [Magic](https://open.spotify.com/track/0oqSRbcBOiiU5QMaivLPVn) | [LUZCID](https://open.spotify.com/artist/6Ny7ldBgUotuALx5hSFi4e), [Jason Leech](https://open.spotify.com/artist/1RPNr9u1LyyIjFVrXdIq1G) | [Magic](https://open.spotify.com/album/0BsVhE1NJlVU0aN619NK5c) | 3:57 | 2021-10-15 | 2022-02-28 |

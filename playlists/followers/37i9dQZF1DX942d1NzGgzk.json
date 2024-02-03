@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 137913,
+  "2024-02-03": 137938,
   "date_first_scraped": "2022-12-01",
-  "description": "100% British - 100% R&B. Cover: Benny Atlas",
+  "description": "100% British - 100% R&B. Cover: Tyler Lewis",
   "name": "R&B UK",
   "tracks": [
     {
@@ -728,6 +728,24 @@
     },
     {
       "album": {
+        "name": "downtime",
+        "url": "https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va"
+      },
+      "artists": [
+        {
+          "name": "Tyler Lewis",
+          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192336,
+      "name": "downtime",
+      "url": "https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU"
+    },
+    {
+      "album": {
         "name": "Eating out",
         "url": "https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys"
       },
@@ -801,6 +819,28 @@
       "duration_ms": 179238,
       "name": "Endless No Mores - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B"
+    },
+    {
+      "album": {
+        "name": "Escape Plan",
+        "url": "https://open.spotify.com/album/62DboXMp5tBqZGDVxdaiVy"
+      },
+      "artists": [
+        {
+          "name": "Kali Claire",
+          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
+        },
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215249,
+      "name": "Escape Plan",
+      "url": "https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN"
     },
     {
       "album": {
@@ -2033,7 +2073,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 134626,
       "name": "Letter To Ur Ex",
       "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
@@ -2185,7 +2225,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 268038,
       "name": "Marking My Time",
       "url": "https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw"
@@ -3003,6 +3043,24 @@
     {
       "album": {
         "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/2A0LsbKIz0z9so3kxFoSM0"
+      },
+      "artists": [
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/2pN5GwdTWbFZNRgFIRlW7J"
+    },
+    {
+      "album": {
+        "name": "Slow Motion",
         "url": "https://open.spotify.com/album/4UOWUmv18BNHHSOimMbP0g"
       },
       "artists": [
@@ -3713,7 +3771,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 192880,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"

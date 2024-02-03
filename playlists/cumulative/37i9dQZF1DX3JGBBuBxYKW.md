@@ -4,7 +4,7 @@
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-132 songs - 7 hr 58 min
+133 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Corazon Mentiroso](https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT) | 2:59 | 2022-07-08 |  |
 | [Costumbres](https://open.spotify.com/track/35KBRpbQ8WKoORBjI5gYRv) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Costumbres](https://open.spotify.com/album/1DoHwyQJRxRLhZiwQyp4Zn) | 3:53 | 2023-08-04 |  |
 | [Cumbia de los Dos](https://open.spotify.com/track/00IwtGTu7A1SJRs6g2445Q) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Cumbia de los Dos](https://open.spotify.com/album/7L3WNcm7mLtYU2D11t7wXi) | 4:24 | 2023-03-03 | 2024-01-24 |
+| [Cumbia de los Dos](https://open.spotify.com/track/1zsAy63McXZ4C4rdo8HQcz) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Cumbia de los Dos](https://open.spotify.com/album/2CSzBTKBWaEm3CVLBpMStM) | 4:24 | 2024-01-18 |  |
 | [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 | 2023-08-04 |  |
 | [DIOS ME PERDONE](https://open.spotify.com/track/7g9a6lnFy87FnToiWluG6v) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [DIOS ME PERDONE](https://open.spotify.com/album/3FthtqxiqcpsNiypZhUtRY) | 2:53 | 2024-01-11 |  |
 | [Dos Infieles](https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K) | [Lumila](https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Dos Infieles](https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f) | 3:44 | 2022-01-14 |  |
@@ -83,7 +84,7 @@
 | [Me Vas a Extrañar](https://open.spotify.com/track/3KOxcKaiZSFYIcHnr8PIKB) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Viru Kumbieron](https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3) | 3:48 | 2022-01-14 |  |
 | [Metrosexual](https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:16 | 2022-01-14 |  |
 | [Mientes](https://open.spotify.com/track/4r3tlABa9UkWfhxysLYdtZ) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Pecados Tropicales](https://open.spotify.com/album/29OwNUnlUMYVINlpdnLHHx) | 3:02 | 2022-01-14 | 2023-01-21 |
-| [Mientes](https://open.spotify.com/track/6NLLlVLuq3u7lx1n8Ngvpm) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Pecados Tropicales](https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn) | 3:02 | 2023-02-10 |  |
+| [Mientes](https://open.spotify.com/track/6NLLlVLuq3u7lx1n8Ngvpm) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Pecados Tropicales](https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn) | 3:02 | 2023-02-10 | 2024-02-03 |
 | [Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres \- En Vivo](https://open.spotify.com/track/1nFvxutg7mvAXvTDrmRvkV) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres \(En Vivo\)](https://open.spotify.com/album/081TzgwcR2gay01IedQ5ua) | 9:49 | 2022-01-14 | 2022-07-28 |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/3mXLgWxNIbEFXWPppGjc6a) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No me Arrepiento de Este Amor](https://open.spotify.com/album/3Y572iPz6e7ddpowsAffn2) | 3:47 | 2022-01-14 | 2023-03-12 |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 | 2023-03-03 |  |

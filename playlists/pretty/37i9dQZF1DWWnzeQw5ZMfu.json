@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Taylor Swift",
-  "num_followers": 68459,
+  "num_followers": 68490,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWRmNDBkYzdhNzdjY2Q4OTMwNmExYmEyOTkwMGY0Y2U4Nzc4YzBl",
+  "snapshot_id": "MCw2NGRmZDRmNzg3YjBjZjM3MTFlYmQ4OWQ4YzVkZDI0YjRiMWM5ZThl",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+        "name": "In The Stars (Live Version)",
+        "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 215786,
-      "name": "You're Still The One - Live",
-      "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
+      "duration_ms": 255139,
+      "name": "In The Stars - Live Version",
+      "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "In The Stars (Live Version)",
-        "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 255139,
-      "name": "In The Stars - Live Version",
-      "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
+      "duration_ms": 215786,
+      "name": "You're Still The One - Live",
+      "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Stark Naked and Absolutely Live",
-        "url": "https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43"
-      },
-      "artists": [
-        {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
-        }
-      ],
-      "duration_ms": 343933,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "7 Years (Later) [Live]",
         "url": "https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 256896,
       "name": "7 Years - (Later) [Live]",
       "url": "https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Stark Naked and Absolutely Live",
+        "url": "https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "duration_ms": 343933,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Spiceworld (25th Anniversary)",
+        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 357760,
+      "name": "Viva Forever - Live In Manchester, UK / 1998",
+      "url": "https://open.spotify.com/track/22p96UmEjgBGkoxQb505jS"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Olivia's Live Hits",
         "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 283240,
       "name": "Physical - Live",
       "url": "https://open.spotify.com/track/26Rb7QyeoJWEMVAaW9mWWO"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Spiceworld (25th Anniversary)",
-        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 357760,
-      "name": "Viva Forever - Live In Manchester, UK / 1998",
-      "url": "https://open.spotify.com/track/22p96UmEjgBGkoxQb505jS"
     },
     {
       "added_at": "2023-11-03 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 
 > Dale play, y que la cumbia no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,896 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,980 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 52 | [Una Wacha Piola](https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:35 |
 | 53 | [Violeta](https://open.spotify.com/track/2THmcJIDCd4jtjAu16u9PO) | [Alcides](https://open.spotify.com/artist/2ao7Jx5TiinWuCtz6Lig4g) | [Violeta](https://open.spotify.com/album/1NL2YOtIloS3ByIqlNBurg) | 3:10 |
 | 54 | [Soy Soltero](https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [No Lo Compren](https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR) | 3:37 |
-| 55 | [Sentado en la Esquina](https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Los Maleantes](https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q) | 2:44 |
-| 56 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew) | 4:27 |
+| 55 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew) | 4:27 |
+| 56 | [Sentado en la Esquina](https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Los Maleantes](https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q) | 2:44 |
 | 57 | [De Regreso Al Penal](https://open.spotify.com/track/2PpnjTOCtpBjAmEDu10Vr8) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy) | 4:03 |
 | 58 | [Vete de Mi Lado](https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl) | [Los Chakales](https://open.spotify.com/artist/643YpbScVr0u07i276NRiP) | [Vete de Mi Lado](https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr) | 3:07 |
 | 59 | [Un Beso y una Flor](https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [La 2da del Boxeador](https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X) | 4:08 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 70 | [Será Porque Te Amo](https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Comboloco](https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0) | 3:26 |
 | 71 | [Vamos A Bailar](https://open.spotify.com/track/657aFPrDGW4f57rkoCG4lS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Corriendo La Coneja](https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m) | 4:27 |
 | 72 | [Para la Gilada](https://open.spotify.com/track/0C2m7ZH8czZ1nnaVJlZtrt) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL) | [Supermerk2 & Meta Guacha: 2x1](https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y) | 3:42 |
-| 73 | [Le Hace Falta un Beso](https://open.spotify.com/track/0I8QHW2T9Eqj4QWRIiKwRK) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Le Hace Falta un Beso](https://open.spotify.com/album/6qLZAeyYDTZ4MdFGBipbgP) | 3:19 |
-| 74 | [Yo Que Te Amé](https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [20 Grandes Éxitos](https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6) | 3:29 |
+| 73 | [Yo Que Te Amé](https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [20 Grandes Éxitos](https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6) | 3:29 |
+| 74 | [Le Hace Falta un Beso](https://open.spotify.com/track/0I8QHW2T9Eqj4QWRIiKwRK) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Le Hace Falta un Beso](https://open.spotify.com/album/6qLZAeyYDTZ4MdFGBipbgP) | 3:19 |
 | 75 | [Los Dueños del Pabellon](https://open.spotify.com/track/2Hd6a7rO8DrHgfGTiDIY8K) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:36 |
 | 76 | [Como Te Lo Digo](https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 2:32 |
 | 77 | [Quiero Verte Bailar](https://open.spotify.com/track/19SPpzI7l7Aovt7AnoHqTw) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [VI\-EM](https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC) | [Quiero Verte Bailar](https://open.spotify.com/album/4ceIQJuUkphs5HfrQh9O63) | 3:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 79 | [Pideme la Luna](https://open.spotify.com/track/0rNGHPTBNL4D0koH7bYiVI) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [El Amor Hecho Cancion](https://open.spotify.com/album/0awCpysck1teL7SNptoctb) | 3:13 |
 | 80 | [No Llores](https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [No Llores](https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT) | 4:16 |
 
-Snapshot ID: `MCw3ZGYwYzM2N2NkODAzODI3ZGQ1MzI1MzFhZTg2MjExMTVkYTg3MDky`
+Snapshot ID: `MCw4NTJkZGVkOGQyZDAyNGMzMDJmOThlZGU0NmM2ZGIyMjJmNGU3MjMy`

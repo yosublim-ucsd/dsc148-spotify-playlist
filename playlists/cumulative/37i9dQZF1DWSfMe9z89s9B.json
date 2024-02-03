@@ -3427,6 +3427,24 @@
     },
     {
       "album": {
+        "name": "chasing the bus",
+        "url": "https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188550,
+      "name": "chasing the bus",
+      "url": "https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z"
+    },
+    {
+      "album": {
         "name": "Lowkey Superstar (Deluxe)",
         "url": "https://open.spotify.com/album/3UGsdfFc2kZBLZhu3YbkF3"
       },
@@ -5132,6 +5150,24 @@
       "duration_ms": 142269,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/52CFxHZxBbiZ1l9eTFpFxJ"
+    },
+    {
+      "album": {
+        "name": "Doom Gloom",
+        "url": "https://open.spotify.com/album/7K7AkFYXsmFC3ZvS2AhddS"
+      },
+      "artists": [
+        {
+          "name": "FARR",
+          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241132,
+      "name": "Doom Gloom",
+      "url": "https://open.spotify.com/track/6FFkkUbFHFS2kPYxAIOoXp"
     },
     {
       "album": {
@@ -8084,6 +8120,24 @@
       "duration_ms": 196373,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0AvmYTwL16E2CAqCrXP0dW"
+    },
+    {
+      "album": {
+        "name": "Hello, Everyday Changes",
+        "url": "https://open.spotify.com/album/3vFfRZ6BS2xsYTSrTrvUUw"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196373,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0p3DnWActE2qcJDqs6sI4k"
     },
     {
       "album": {
@@ -12914,7 +12968,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 214738,
       "name": "One Night",
       "url": "https://open.spotify.com/track/15ZxSLwa0IAPbwz1R9i7RQ"
@@ -14012,7 +14066,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 154958,
       "name": "Pretty Like You",
       "url": "https://open.spotify.com/track/6IksI018PglNFPUL40pxit"
@@ -18858,7 +18912,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 164825,
       "name": "Unsettling (feat. Vory)",
       "url": "https://open.spotify.com/track/2OpZBsCyLn9jTulj8vURFh"

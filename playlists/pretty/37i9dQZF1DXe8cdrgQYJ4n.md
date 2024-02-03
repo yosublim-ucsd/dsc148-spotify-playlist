@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,042 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,043 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 34 | [WANNA BE MYSELF](https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WANNA BE MYSELF](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) | 3:26 |
 | 35 | [Go Go](https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:55 |
 | 36 | [SELFISH \(Feat\. SEULGI Of Red Velvet\)](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [SELFISH](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) | 3:12 |
-| 37 | [HAPPY](https://open.spotify.com/track/5UteR9bUlDg8I70brft1Vh) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:36 |
-| 38 | [Bad Girls](https://open.spotify.com/track/2IrmdHJjwBH1pFIMcTJ1xq) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [MONOCHROME](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) | 3:27 |
+| 37 | [Bad Girls](https://open.spotify.com/track/2IrmdHJjwBH1pFIMcTJ1xq) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [MONOCHROME](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) | 3:27 |
+| 38 | [HAPPY](https://open.spotify.com/track/5UteR9bUlDg8I70brft1Vh) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:36 |
 | 39 | [Let It](https://open.spotify.com/track/7EUIqHUc6qKk7iVdG1W7RE) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [ALPHA](https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg) | 3:04 |
 | 40 | [WE ARE YOUNG](https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [W.A.Y](https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo) | 2:57 |
 | 41 | [SOLO DAY](https://open.spotify.com/track/58wbNn4eEsvAqTz4JJxn9L) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [SOLO DAY](https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix) | 3:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 59 | [Diamond](https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Diamond](https://open.spotify.com/album/58T3Mkgs37IjcximP129MP) | 2:59 |
 | 60 | [Missing You \(feat\. Dvwn\)](https://open.spotify.com/track/7j7p9sU2Obtf3daiEDMF8e) | [SOOVI](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [a tempo](https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno) | 3:13 |
 
-Snapshot ID: `MCw3Y2EzYWI4NjAxODcyZjBlYTI5NDc1NGMyOTExZTNiZjdlZTU0Nzcz`
+Snapshot ID: `MCxjZWJlOGY2NzVmN2NkYWU2YTIwNmMxMzEyYmRiNWEwMDg3NWQ1NTBi`

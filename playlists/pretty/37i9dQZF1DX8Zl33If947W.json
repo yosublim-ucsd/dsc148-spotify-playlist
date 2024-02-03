@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 155308,
+  "num_followers": 155433,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGNjNTE5NzExMDQwNjZkYTY5NzFjMzA1ZThkZmIzNGM3YjJjZjk1",
+  "snapshot_id": "MCw3ZGRmYjU4NDAzYmM5OTIzZWExNDMxZTgzNjVmZThlN2ZhMWJiNjk4",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -279,18 +279,18 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Nur ein bisschen",
-        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
+        "name": "Immer in Bewegung",
+        "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
       },
       "artists": [
         {
-          "name": "Mayberg",
-          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+          "name": "Revolverheld",
+          "url": "https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0"
         }
       ],
-      "duration_ms": 161956,
-      "name": "Nur ein bisschen",
-      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
+      "duration_ms": 212520,
+      "name": "Ich lass f\u00fcr dich das Licht an",
+      "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Immer in Bewegung",
-        "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
+        "name": "Nur ein bisschen",
+        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
       },
       "artists": [
         {
-          "name": "Revolverheld",
-          "url": "https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0"
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
         }
       ],
-      "duration_ms": 212520,
-      "name": "Ich lass f\u00fcr dich das Licht an",
-      "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
+      "duration_ms": 161956,
+      "name": "Nur ein bisschen",
+      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
+        "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
+      },
+      "artists": [
+        {
+          "name": "Die Toten Hosen",
+          "url": "https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ"
+        }
+      ],
+      "duration_ms": 272440,
+      "name": "Alles aus Liebe",
+      "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Liebe zu dritt",
         "url": "https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 206108,
       "name": "Liebe zu dritt",
       "url": "https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
-        "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
-      },
-      "artists": [
-        {
-          "name": "Die Toten Hosen",
-          "url": "https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ"
-        }
-      ],
-      "duration_ms": 272440,
-      "name": "Alles aus Liebe",
-      "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
     },
     {
       "added_at": "2023-03-06 08:21:00",

@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 983192,
+  "num_followers": 982950,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWZmZDEyNzYyNTNjN2RiNjA2MzBhNDBlM2Q4ZTMyMjU2MzhmOTRj",
+  "snapshot_id": "MCwxYTBjOWY5ZGZmYTZlNzcwM2FiOGRiZGQ0MWExY2RjYmYyZDA5Yzg3",
   "tracks": [
     {
       "added_at": "2023-06-26 14:06:50",
@@ -83,6 +83,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Fazer Falta",
+        "url": "https://open.spotify.com/album/2J6ZBAGXWlvjmUh01H4rC0"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "Fazer Falta",
+      "url": "https://open.spotify.com/track/6vZbWgHWITDgEe6a2aOUqY"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Vai malandra (feat. Tropkillaz & DJ Yuri Martins)",
         "url": "https://open.spotify.com/album/64qlhmKkqbgdezGE9vP5YK"
       },
@@ -111,26 +131,6 @@
       "duration_ms": 201532,
       "name": "Vai malandra (feat. Tropkillaz & DJ Yuri Martins)",
       "url": "https://open.spotify.com/track/6u0EAxf1OJTLS7CvInuNd7"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Fazer Falta",
-        "url": "https://open.spotify.com/album/2J6ZBAGXWlvjmUh01H4rC0"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "Fazer Falta",
-      "url": "https://open.spotify.com/track/6vZbWgHWITDgEe6a2aOUqY"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -231,30 +231,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Se Prepara 2",
-        "url": "https://open.spotify.com/album/57w3kBPQqRW5VQIwOA4gyP"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        }
-      ],
-      "duration_ms": 147335,
-      "name": "Se Prepara 2",
-      "url": "https://open.spotify.com/track/4ho6IyVZ0TilPf7ctKd84D"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Abusadamente",
         "url": "https://open.spotify.com/album/3HwHCkqAgLm8HBKy3oggxZ"
       },
@@ -271,22 +247,6 @@
       "duration_ms": 215944,
       "name": "Abusadamente",
       "url": "https://open.spotify.com/track/1kWwNpx68BMAjJeksmN3JV"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "O Grave Bater",
-        "url": "https://open.spotify.com/album/661h9Og5Q2RglZLKe0u8Bi"
-      },
-      "artists": [
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 181903,
-      "name": "O Grave Bater",
-      "url": "https://open.spotify.com/track/6cEJheMNRySY0kBB31jtdk"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -315,18 +275,42 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Fuleragem",
-        "url": "https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT"
+        "name": "O Grave Bater",
+        "url": "https://open.spotify.com/album/661h9Og5Q2RglZLKe0u8Bi"
       },
       "artists": [
         {
-          "name": "MC WM",
-          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
         }
       ],
-      "duration_ms": 141473,
-      "name": "Fuleragem",
-      "url": "https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay"
+      "duration_ms": 181903,
+      "name": "O Grave Bater",
+      "url": "https://open.spotify.com/track/6cEJheMNRySY0kBB31jtdk"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Se Prepara 2",
+        "url": "https://open.spotify.com/album/57w3kBPQqRW5VQIwOA4gyP"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "duration_ms": 147335,
+      "name": "Se Prepara 2",
+      "url": "https://open.spotify.com/track/4ho6IyVZ0TilPf7ctKd84D"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -351,6 +335,22 @@
       "duration_ms": 143448,
       "name": "SENTAD\u00c3O",
       "url": "https://open.spotify.com/track/4lKuzrdZrJuCAedbIslF3A"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Fuleragem",
+        "url": "https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT"
+      },
+      "artists": [
+        {
+          "name": "MC WM",
+          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+        }
+      ],
+      "duration_ms": 141473,
+      "name": "Fuleragem",
+      "url": "https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "VAI MENINA",
-        "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 122435,
-      "name": "VAI MENINA",
-      "url": "https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Na Ponta Ela Fica",
         "url": "https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 151384,
       "name": "Privil\u00e9gio",
       "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "VAI MENINA",
+        "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 122435,
+      "name": "VAI MENINA",
+      "url": "https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -695,30 +695,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy"
+        "name": "Os Muleke \u00c9 Liso",
+        "url": "https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp"
       },
       "artists": [
         {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "DJ 900",
-          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
+          "name": "MC Rodolfinho",
+          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
         }
       ],
-      "duration_ms": 276480,
-      "name": "Bipolar",
-      "url": "https://open.spotify.com/track/0qxLQ6opocOGyFnlXqJ53x"
+      "duration_ms": 232646,
+      "name": "Os Muleke \u00c9 Liso",
+      "url": "https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -743,18 +731,30 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Os Muleke \u00c9 Liso",
-        "url": "https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp"
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy"
       },
       "artists": [
         {
-          "name": "MC Rodolfinho",
-          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "DJ 900",
+          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
         }
       ],
-      "duration_ms": 232646,
-      "name": "Os Muleke \u00c9 Liso",
-      "url": "https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX"
+      "duration_ms": 276480,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/0qxLQ6opocOGyFnlXqJ53x"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Coisa Boa",
+        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Coisa Boa",
+      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Sentou e Gostou",
         "url": "https://open.spotify.com/album/3sJqcWFctdmFYTiuhQ5TYe"
       },
@@ -843,38 +859,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Namorar pra Qu\u00ea?\u200b",
-        "url": "https://open.spotify.com/album/5ylLGXq0GGMoeVEb5ukmeN"
-      },
-      "artists": [
-        {
-          "name": "MC Kekel",
-          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
-        }
-      ],
-      "duration_ms": 166978,
-      "name": "Namorar pra Qu\u00ea?\u200b",
-      "url": "https://open.spotify.com/track/0UEP4zRu8nOZ9wopxJLXVO"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Coisa Boa",
-        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Coisa Boa",
-      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Meu Lugar",
         "url": "https://open.spotify.com/album/1irawiP1fDHeb7hUNf9wxN"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 176608,
       "name": "Movimento da sanfoninha - Ao vivo",
       "url": "https://open.spotify.com/track/2loApP0kPaim0BTDVP9F26"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Namorar pra Qu\u00ea?\u200b",
+        "url": "https://open.spotify.com/album/5ylLGXq0GGMoeVEb5ukmeN"
+      },
+      "artists": [
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+        }
+      ],
+      "duration_ms": 166978,
+      "name": "Namorar pra Qu\u00ea?\u200b",
+      "url": "https://open.spotify.com/track/0UEP4zRu8nOZ9wopxJLXVO"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Amor ou o Litr\u00e3o",
-        "url": "https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn"
-      },
-      "artists": [
-        {
-          "name": "Petter Ferraz",
-          "url": "https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U"
-        },
-        {
-          "name": "Menor Nico",
-          "url": "https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Amor ou o Litr\u00e3o",
-      "url": "https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "ATEN\u00c7\u00c3O",
         "url": "https://open.spotify.com/album/165xKO20rqbbSdv9TKNZ93"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 135111,
       "name": "ATEN\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/5AhnPqydkYbZAp4NkyJ7ED"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Amor ou o Litr\u00e3o",
+        "url": "https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn"
+      },
+      "artists": [
+        {
+          "name": "Petter Ferraz",
+          "url": "https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U"
+        },
+        {
+          "name": "Menor Nico",
+          "url": "https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Amor ou o Litr\u00e3o",
+      "url": "https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1"
     },
     {
       "added_at": "2023-06-26 14:06:50",

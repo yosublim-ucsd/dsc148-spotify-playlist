@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 156767,
+  "num_followers": 156809,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmUyYjZkMzljOGNhMTUxMDYzODNiNzM3NGNkN2FhNjU1MjBlZjk5",
+  "snapshot_id": "MCwwMDhmM2ZlM2U4NWIxZTBkOGFlMzI5NzczNjU3NTM0ZDU4NTZjOGE4",
   "tracks": [
     {
       "added_at": "2024-01-30 15:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-01-30 15:00:00",
       "album": {
-        "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73!\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
-        "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
+        "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
+        "url": "https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW"
       },
       "artists": [
         {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
         }
       ],
-      "duration_ms": 220960,
-      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
-      "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"
+      "duration_ms": 234288,
+      "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
+      "url": "https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L"
     },
     {
       "added_at": "2024-01-30 15:00:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-01-30 15:00:00",
       "album": {
-        "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
-        "url": "https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW"
+        "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73!\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
+        "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
       },
       "artists": [
         {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
         }
       ],
-      "duration_ms": 234288,
-      "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
-      "url": "https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L"
+      "duration_ms": 220960,
+      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
+      "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"
     },
     {
       "added_at": "2024-01-30 15:00:00",
@@ -855,6 +855,22 @@
       "duration_ms": 275973,
       "name": "\u9769\u547d\u524d\u591c",
       "url": "https://open.spotify.com/track/2vOeE2Uh2UDG5jow8F2WQ9"
+    },
+    {
+      "added_at": "2024-01-30 15:00:00",
+      "album": {
+        "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
+        "url": "https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 218166,
+      "name": "\u30b9\u30d1\u30f3\u30b3\u30fc\u30eb\u306e\u5973",
+      "url": "https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm"
     },
     {
       "added_at": "2024-01-30 15:00:00",
@@ -939,22 +955,6 @@
     {
       "added_at": "2024-01-30 15:00:00",
       "album": {
-        "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
-        "url": "https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 218166,
-      "name": "\u30b9\u30d1\u30f3\u30b3\u30fc\u30eb\u306e\u5973",
-      "url": "https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm"
-    },
-    {
-      "added_at": "2024-01-30 15:00:00",
-      "album": {
         "name": "NOT IN ALMIGHTY",
         "url": "https://open.spotify.com/album/5IrJrZDfcOKC8pute3Iaov"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 336333,
       "name": "\u771f\u73e0\u306e\u30d4\u30a2\u30b9",
       "url": "https://open.spotify.com/track/5hkG4VCXTufcT05JSZqyRg"
+    },
+    {
+      "added_at": "2024-01-30 15:00:00",
+      "album": {
+        "name": "\u840c",
+        "url": "https://open.spotify.com/album/6DnW96P5uz81LMRm3RnSEI"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 269806,
+      "name": "\u840c",
+      "url": "https://open.spotify.com/track/0mKWFi26UzF83bie9CIrDm"
     },
     {
       "added_at": "2024-01-30 15:00:00",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2024-01-30 15:00:00",
       "album": {
-        "name": "\u840c",
-        "url": "https://open.spotify.com/album/6DnW96P5uz81LMRm3RnSEI"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 269806,
-      "name": "\u840c",
-      "url": "https://open.spotify.com/track/0mKWFi26UzF83bie9CIrDm"
-    },
-    {
-      "added_at": "2024-01-30 15:00:00",
-      "album": {
         "name": "Regrets",
         "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 265961,
       "name": "Regrets",
       "url": "https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS"
-    },
-    {
-      "added_at": "2024-01-30 15:00:00",
-      "album": {
-        "name": "\u7121\u9650\u3055",
-        "url": "https://open.spotify.com/album/69vfAcogRrDZ6sHa9zoGjZ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "\u7121\u9650\u3055",
-      "url": "https://open.spotify.com/track/5hXzy6s8VF91bebMSzsd8O"
     },
     {
       "added_at": "2024-01-30 15:00:00",
@@ -1127,6 +1111,22 @@
       "duration_ms": 297444,
       "name": "Watching Over You",
       "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
+    },
+    {
+      "added_at": "2024-01-30 15:00:00",
+      "album": {
+        "name": "\u7121\u9650\u3055",
+        "url": "https://open.spotify.com/album/69vfAcogRrDZ6sHa9zoGjZ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "\u7121\u9650\u3055",
+      "url": "https://open.spotify.com/track/5hXzy6s8VF91bebMSzsd8O"
     },
     {
       "added_at": "2024-01-30 15:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-01-30 15:00:00",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
-      },
-      "artists": [
-        {
-          "name": "sangdei",
-          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
-        }
-      ],
-      "duration_ms": 192115,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
-    },
-    {
-      "added_at": "2024-01-30 15:00:00",
-      "album": {
         "name": "\u4e38\u30ce\u5185\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30af",
         "url": "https://open.spotify.com/album/0SVLXumBBt6UUTALwxn67y"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 249285,
       "name": "\u4e38\u30ce\u5185\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30af",
       "url": "https://open.spotify.com/track/06PEfLlv6z45MkCKemgyXM"
+    },
+    {
+      "added_at": "2024-01-30 15:00:00",
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
+      },
+      "artists": [
+        {
+          "name": "sangdei",
+          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+        }
+      ],
+      "duration_ms": 192115,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
     },
     {
       "added_at": "2024-01-30 15:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-01-30 15:00:00",
       "album": {
-        "name": "fab",
-        "url": "https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT"
-      },
-      "artists": [
-        {
-          "name": "androp",
-          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
-        }
-      ],
-      "duration_ms": 219033,
-      "name": "Ravel",
-      "url": "https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd"
-    },
-    {
-      "added_at": "2024-01-30 15:00:00",
-      "album": {
         "name": "tonun 2",
         "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 205253,
       "name": "Amber Bare Skin",
       "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
+    },
+    {
+      "added_at": "2024-01-30 15:00:00",
+      "album": {
+        "name": "fab",
+        "url": "https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT"
+      },
+      "artists": [
+        {
+          "name": "androp",
+          "url": "https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX"
+        }
+      ],
+      "duration_ms": 219033,
+      "name": "Ravel",
+      "url": "https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd"
     },
     {
       "added_at": "2024-01-30 15:00:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2024-01-30 15:00:00",
       "album": {
-        "name": "AURORA TOKIO",
-        "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
+        "name": "\u3061\u304c\u3046",
+        "url": "https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO"
       },
       "artists": [
         {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+          "name": "Maharajan",
+          "url": "https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF"
         }
       ],
-      "duration_ms": 215913,
-      "name": "AURORA TOKIO",
-      "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
+      "duration_ms": 230786,
+      "name": "eden",
+      "url": "https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY"
     },
     {
       "added_at": "2024-01-30 15:00:00",
@@ -1475,22 +1475,6 @@
       "duration_ms": 211995,
       "name": "Million Miles Away - Edit",
       "url": "https://open.spotify.com/track/3bVVmBBPPQ47Go4NkGC3XW"
-    },
-    {
-      "added_at": "2024-01-30 15:00:00",
-      "album": {
-        "name": "\u3061\u304c\u3046",
-        "url": "https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO"
-      },
-      "artists": [
-        {
-          "name": "Maharajan",
-          "url": "https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF"
-        }
-      ],
-      "duration_ms": 230786,
-      "name": "eden",
-      "url": "https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY"
     },
     {
       "added_at": "2024-01-30 15:00:00",
@@ -1523,6 +1507,22 @@
       "duration_ms": 229088,
       "name": "nestling",
       "url": "https://open.spotify.com/track/1Ox30wrAfvowGChbGc2y6p"
+    },
+    {
+      "added_at": "2024-01-30 15:00:00",
+      "album": {
+        "name": "AURORA TOKIO",
+        "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
+      },
+      "artists": [
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        }
+      ],
+      "duration_ms": 215913,
+      "name": "AURORA TOKIO",
+      "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
     },
     {
       "added_at": "2024-01-30 15:00:00",

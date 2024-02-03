@@ -1,12 +1,12 @@
 {
   "description": "Enjoy fantastic gameplay with k-pop music! (Cover: LE SSERAFIM)",
-  "num_followers": 94749,
+  "num_followers": 94837,
   "original_name": "K-Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmMxZTBlMTBkMzdmMmE1ZDAwNjczYTk4YTFhYTAwODllYWIxZWM4",
+  "snapshot_id": "MCwxMmNmOTgyM2FmZDRiYjBhYTViNGIzZDY2YzMyOWEyNjhiMDQ2MWQy",
   "tracks": [
     {
       "added_at": "2024-01-31 23:52:33",
@@ -189,7 +189,7 @@
         }
       ],
       "duration_ms": 184400,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "name": "Seven (feat. Latto)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
@@ -1027,26 +1027,18 @@
     {
       "added_at": "2024-01-31 23:52:33",
       "album": {
-        "name": "NOBODY",
-        "url": "https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v"
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
       },
       "artists": [
         {
-          "name": "JEON SOYEON",
-          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
-        },
-        {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
-        },
-        {
-          "name": "LIZ (IVE)",
-          "url": "https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 161120,
-      "name": "NOBODY",
-      "url": "https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD"
+      "duration_ms": 222732,
+      "name": "IDOL",
+      "url": "https://open.spotify.com/track/1e8J3XClxZbFmvIHLI8CE4"
     },
     {
       "added_at": "2024-01-31 23:52:33",
@@ -1067,18 +1059,26 @@
     {
       "added_at": "2024-01-31 23:52:33",
       "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+        "name": "NOBODY",
+        "url": "https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        },
+        {
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+        },
+        {
+          "name": "LIZ (IVE)",
+          "url": "https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1"
         }
       ],
-      "duration_ms": 222732,
-      "name": "IDOL",
-      "url": "https://open.spotify.com/track/1e8J3XClxZbFmvIHLI8CE4"
+      "duration_ms": 161120,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD"
     },
     {
       "added_at": "2024-01-31 23:52:33",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-01-31 23:52:33",
       "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "LILAC",
+      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+    },
+    {
+      "added_at": "2024-01-31 23:52:33",
+      "album": {
         "name": "MANIFESTO : DAY 1",
         "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 168437,
       "name": "FEARLESS",
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
-    },
-    {
-      "added_at": "2024-01-31 23:52:33",
-      "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "LILAC",
-      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
     },
     {
       "added_at": "2024-01-31 23:52:33",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2024-01-31 23:52:33",
       "album": {
-        "name": "Better Things",
-        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
         }
       ],
-      "duration_ms": 203216,
-      "name": "Better Things",
-      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
+      "duration_ms": 174253,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
     },
     {
       "added_at": "2024-01-31 23:52:33",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2024-01-31 23:52:33",
       "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
       },
       "artists": [
         {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 174253,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
+      "duration_ms": 203216,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
     },
     {
       "added_at": "2024-01-31 23:52:33",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2024-01-31 23:52:33",
       "album": {
-        "name": "AD MARE",
-        "url": "https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk"
+        "name": "Take",
+        "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
       },
       "artists": [
         {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
         }
       ],
-      "duration_ms": 172936,
-      "name": "O.O",
-      "url": "https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE"
+      "duration_ms": 214136,
+      "name": "Way Back Home",
+      "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
     },
     {
       "added_at": "2024-01-31 23:52:33",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2024-01-31 23:52:33",
       "album": {
-        "name": "Take",
-        "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
+        "name": "AD MARE",
+        "url": "https://open.spotify.com/album/2QbA97qjlAs81t6kVS6zBk"
       },
       "artists": [
         {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
         }
       ],
-      "duration_ms": 214136,
-      "name": "Way Back Home",
-      "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
+      "duration_ms": 172936,
+      "name": "O.O",
+      "url": "https://open.spotify.com/track/44zfpg3ndtGESsgpTbWeyE"
     },
     {
       "added_at": "2024-01-31 23:52:33",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-01-31 23:52:33",
       "album": {
-        "name": "EXIST \u2013 The 7th Album",
-        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 185320,
-      "name": "Cream Soda",
-      "url": "https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld"
-    },
-    {
-      "added_at": "2024-01-31 23:52:33",
-      "album": {
         "name": "Hot Sauce - The 1st Album",
         "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 195813,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
+    },
+    {
+      "added_at": "2024-01-31 23:52:33",
+      "album": {
+        "name": "EXIST \u2013 The 7th Album",
+        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 185320,
+      "name": "Cream Soda",
+      "url": "https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld"
     }
   ],
   "unique_name": "K-Pop Gaming",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,696 likes - 80 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,833 likes - 80 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 32 | [Hold Me Now \(Phil Thornalley Mix\)](https://open.spotify.com/track/44oxG15d3xLyrFPl23HrGu) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn), [Phil Thornalley](https://open.spotify.com/artist/71RtTArPPKb0UVJ5ThBYGL) | [Dance Vault Remixes](https://open.spotify.com/album/639w6XBl0lyWCUYJzCk0Qo) | 7:06 |
 | 33 | [Bakerman](https://open.spotify.com/track/6AxqU1NcIvnBC3W62TSk3n) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 4:41 |
 | 34 | [The Message \(feat\. Melle Mel & Duke Bootee\)](https://open.spotify.com/track/5DuTNKFEjJIySAyJH1yNDU) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop), [Grandmaster Melle Mel](https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0), [Duke Bootee](https://open.spotify.com/artist/4DW1Qbu1D3gD9lQEjHurAk) | [The Message](https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7) | 7:11 |
-| 35 | [Everybody Wants To Rule The World \- Extended Version](https://open.spotify.com/track/7uBdncahX0bULWkpaDax8y) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 5:40 |
-| 36 | [Pop Muzik \(12 Inch Version\)](https://open.spotify.com/track/43U1bCDTZAhhY1Y8mCkTG4) | [M](https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI), [Nick Launay](https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe) | [New York, London, Paris, Munich](https://open.spotify.com/album/1NYT6pqKJdfCPOKtbgqbLV) | 4:56 |
+| 35 | [Pop Muzik \(12 Inch Version\)](https://open.spotify.com/track/43U1bCDTZAhhY1Y8mCkTG4) | [M](https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI), [Nick Launay](https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe) | [New York, London, Paris, Munich](https://open.spotify.com/album/1NYT6pqKJdfCPOKtbgqbLV) | 4:56 |
+| 36 | [Everybody Wants To Rule The World \- Extended Version](https://open.spotify.com/track/7uBdncahX0bULWkpaDax8y) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 5:40 |
 | 37 | [I Can't Wait](https://open.spotify.com/track/0KCCNoVVXBatkTRvKOEf2t) | [Nu Shooz](https://open.spotify.com/artist/2The4Ur661sLPGndcUuuLu) | [Poolside](https://open.spotify.com/album/2cVH1uyLsHNv5LfZmL1eMX) | 5:26 |
 | 38 | [Hypnotic Tango \- Original 12" Version](https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID) | [My Mine](https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o) | [Hypnotic Tango](https://open.spotify.com/album/7DpHPysI2JkdhVNKFfgU2C) | 6:09 |
 | 39 | [Domino Dancing \- 2018 Remaster](https://open.spotify.com/track/6ZT1v8YUeFN8n587DvzZXl) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Introspective \(2018 Remaster\)](https://open.spotify.com/album/4d0V4C5pHQA5G5PjP1FuNH) | 7:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [Extended Souvenir \- 2003 Digital Remaster](https://open.spotify.com/track/3R14PSng7wtMo81cNG67Q6) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Architecture And Morality](https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i) | 4:16 |
 | 80 | [Theme from S'Express \- 12" Version](https://open.spotify.com/track/6ccIWKEpKvp7YYWLbD3ckK) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 5:59 |
 
-Snapshot ID: `MCxhMDA4ZWQ4MTYxNDc5YTA3NTkzYWM5YmZlMzFhZmIxYzg2Zjg4ZGY3`
+Snapshot ID: `MCxkNjJkZWRjOWU3MWZkMTAwNTA0MjY2YjkwNTNlMTJlMDQyODg4NDlm`

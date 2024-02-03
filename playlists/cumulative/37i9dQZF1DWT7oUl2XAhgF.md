@@ -2,9 +2,9 @@
 
 ### [Retro Soul](https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF)
 
-> A new take on a classic sound\. Cover: Jalen Ngonda
+> A new take on a classic sound\. Cover: Britti
 
-375 songs - 22 hr 39 min
+376 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Sad Hearted Clown](https://open.spotify.com/track/2ZsssRULtkfkbo5D2yh6gT) | [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Sad Hearted Clown](https://open.spotify.com/album/6Y8dPnHS85nm1OsACr26Pg) | 3:37 | 2023-06-23 | 2023-11-11 |
 | [Sadie](https://open.spotify.com/track/2Nq1CHPEOt21w1ctEaV22j) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Sadie](https://open.spotify.com/album/7nXFbaFq3Z9gGPZnE8wew8) | 2:56 | 2023-04-21 | 2023-07-01 |
 | [Sage Motel](https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Sage Motel](https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9) | 3:52 | 2022-05-13 | 2023-06-24 |
+| [Save Me](https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Hello, I'm Britti.](https://open.spotify.com/album/09WQABIo1U9D8H8SO7WK0a) | 3:21 | 2024-02-02 |  |
 | [Save Your Tears For Someone New](https://open.spotify.com/track/5akqZJ3JnHRk5aLnfJBbqt) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Sentimental Fool](https://open.spotify.com/album/4YZsaY91O8d2BIVLPgfdUi) | 2:51 | 2022-10-28 | 2022-11-12 |
 | [Save Your Tears For Someone New](https://open.spotify.com/track/6NZZW5KsaurTurkESdixSq) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Sentimental Fool](https://open.spotify.com/album/5pmMftX2kDOQPbzop5G7ie) | 2:51 | 2022-10-28 | 2022-11-03 |
 | [Seasons of Trouble](https://open.spotify.com/track/2J4arL11h4pQBCi4HvzcNY) | [Stereo League](https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6) | [Operator, Please / Seasons of Trouble](https://open.spotify.com/album/78iOU4PyWExwlwiTrvzyJF) | 4:52 | 2022-09-09 |  |
@@ -311,7 +312,7 @@
 | [Stay Away](https://open.spotify.com/track/4ml0940tmn92PzmkSb2lwU) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK) | 3:11 | 2021-07-09 | 2023-01-28 |
 | [Steady](https://open.spotify.com/track/1mC3szr3FGsSzPBcvjweEI) | [Nicole Chambers](https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC) | [Steady](https://open.spotify.com/album/7s6RxNVhw4gVU9cWLUK0x2) | 2:44 | 2023-09-08 |  |
 | [Still Alive](https://open.spotify.com/track/6op7RGEgw2gs49M87Uct2p) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Still Alive](https://open.spotify.com/album/7byQuT5JOWWfHTfu7zpxxT) | 3:21 | 2023-11-10 |  |
-| [Stretch Out](https://open.spotify.com/track/73H3Vjx7PtC6ntVr3F1rRU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stretch Out](https://open.spotify.com/album/02hSfOu0sNbuWlh8lxEQ4e) | 3:10 | 2023-09-01 |  |
+| [Stretch Out](https://open.spotify.com/track/73H3Vjx7PtC6ntVr3F1rRU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stretch Out](https://open.spotify.com/album/02hSfOu0sNbuWlh8lxEQ4e) | 3:10 | 2023-09-01 |  |
 | [Sun Go Down](https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Lazy Days](https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5) | 3:42 | 2021-07-09 | 2023-01-28 |
 | [Sunny And Warm](https://open.spotify.com/track/12I7wlvWuPvMXHJxwfA68l) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Sunny And Warm](https://open.spotify.com/album/56zBru86m6LhGmC0heS1s8) | 3:25 | 2021-07-16 | 2022-07-26 |
 | [Sure Don't Miss You](https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 2:54 | 2021-07-09 | 2023-01-28 |
@@ -361,7 +362,7 @@
 | [Warpaint](https://open.spotify.com/track/3sqb5hfu5gIdrd2U70FT3L) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Warpaint](https://open.spotify.com/album/2MkJIYLt4fz2SDSozVntDD) | 4:50 | 2022-03-21 | 2022-07-29 |
 | [WELCOME TO THE PARTY](https://open.spotify.com/track/4OkWdZXL16atg1qaUbqaaz) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN COMMUNION](https://open.spotify.com/album/0HZ86tsiLEjdDxvlH2nqhz) | 2:41 | 2023-07-28 | 2024-01-27 |
 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 | 2023-02-18 |
-| [What's on Your Mind \(OurVinyl Sessions\)](https://open.spotify.com/track/5Zon0BSyiQYHD06Yrf57zh) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Greyhounds \| OurVinyl Sessions](https://open.spotify.com/album/5i9W52ffNzgpjVOfM6ZfsZ) | 4:07 | 2022-03-21 |  |
+| [What's on Your Mind \(OurVinyl Sessions\)](https://open.spotify.com/track/5Zon0BSyiQYHD06Yrf57zh) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Greyhounds \| OurVinyl Sessions](https://open.spotify.com/album/5i9W52ffNzgpjVOfM6ZfsZ) | 4:07 | 2022-03-21 | 2024-02-03 |
 | [Whatever You Are](https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Memories of Love](https://open.spotify.com/album/2wob0s3WIRpsvYHSpDqywa) | 5:00 | 2021-12-03 | 2022-11-13 |
 | [When I'm With You](https://open.spotify.com/track/3xSXtVecNOXQP4J1MP0O7K) | [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [Kelsey Blackstone](https://open.spotify.com/artist/394uQRigSFiNSRbA9dismJ) | [When I'm With You](https://open.spotify.com/album/0U5ltIZ3Zyd0vqLSzFQNN9) | 2:42 | 2023-03-24 |  |
 | [When You Lose Someone](https://open.spotify.com/track/4K8Oan6E1K7eaxjaXXSZLX) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [When You Lose Someone](https://open.spotify.com/album/1FsTVcCyDJUTdi4TgsKzWK) | 3:25 | 2022-01-14 | 2023-07-29 |

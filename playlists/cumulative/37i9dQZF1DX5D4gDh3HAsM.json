@@ -2284,6 +2284,24 @@
     {
       "album": {
         "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL"
+    },
+    {
+      "album": {
+        "name": "A Very Laufey Holiday",
         "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
       },
       "artists": [
@@ -2312,7 +2330,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 167666,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/4eEdv0ZBTtWh8zS41SeUp8"

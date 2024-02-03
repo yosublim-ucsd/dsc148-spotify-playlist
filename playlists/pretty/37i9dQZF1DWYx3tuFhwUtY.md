@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 
 > Buen indie rock para contar historietas...
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,338 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,318 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 41 | [Deleter](https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:54 |
 | 42 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
 | 43 | [The Rover](https://open.spotify.com/track/2VabHofHU2PBXX6fakAgaZ) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Marauder](https://open.spotify.com/album/3h5FWXoJEw2MFmUOMfVke2) | 3:37 |
-| 44 | [Big](https://open.spotify.com/track/06KIwbnnaaXJSw4iDXEWj8) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7) | 1:45 |
-| 45 | [Every Mile](https://open.spotify.com/track/2tWWWNbPwoP6A3C1eIMeGh) | [Layup](https://open.spotify.com/artist/3fGhNTTL2CbmVAkGWpcJAA) | [Layup IV](https://open.spotify.com/album/2iltpSD2W7R7xwveMqF5ti) | 3:21 |
+| 44 | [Every Mile](https://open.spotify.com/track/2tWWWNbPwoP6A3C1eIMeGh) | [Layup](https://open.spotify.com/artist/3fGhNTTL2CbmVAkGWpcJAA) | [Layup IV](https://open.spotify.com/album/2iltpSD2W7R7xwveMqF5ti) | 3:21 |
+| 45 | [Big](https://open.spotify.com/track/06KIwbnnaaXJSw4iDXEWj8) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7) | 1:45 |
 | 46 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
 | 47 | [Lucky](https://open.spotify.com/track/7MNQ2TrYIuHshXOdryrdg2) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Water](https://open.spotify.com/album/4IMxxTl0uL82ZRhhh8ghZX) | 2:33 |
 | 48 | [Psychics in LA](https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends \(Deluxe\)](https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w) | 3:26 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 50 | [Too Young to Burn](https://open.spotify.com/track/2wygBuUWMXrQujBBlwhDCL) | [Sonny & The Sunsets](https://open.spotify.com/artist/67zR9a98QqWJwpO7wBrGog) | [Tomorrow Is Alright](https://open.spotify.com/album/7K4eMOq0MLq6aQz7Zjkjkh) | 3:19 |
 | 51 | [Time Walk](https://open.spotify.com/track/2GmJzA4SwQityiYlFS7mCJ) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Everything](https://open.spotify.com/album/4GD61YplOsyg4GV7tPH2KF) | 1:33 |
 | 52 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
-| 53 | [Rylan](https://open.spotify.com/track/6XxPXXqkE4lG7MVkpom6F8) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:43 |
-| 54 | [Days](https://open.spotify.com/track/77YVeXd29xVJrJdGQRJNYp) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Days](https://open.spotify.com/album/3jUF9M3uQuvXz1n7WUC3vc) | 5:20 |
+| 53 | [Days](https://open.spotify.com/track/77YVeXd29xVJrJdGQRJNYp) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Days](https://open.spotify.com/album/3jUF9M3uQuvXz1n7WUC3vc) | 5:20 |
+| 54 | [Rylan](https://open.spotify.com/track/6XxPXXqkE4lG7MVkpom6F8) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:43 |
 | 55 | [Class Historian](https://open.spotify.com/track/73i6MgP5CKhhnZ69Go6u2X) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Just Enough Hip to Be Woman](https://open.spotify.com/album/1YZo1LnGe8GoT0mCbQ5R8J) | 3:32 |
 | 56 | [Write A List of Things To Look Forward To](https://open.spotify.com/track/5MI8umTu0luQ4wQPm87adK) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 2:48 |
 | 57 | [Need Your Love](https://open.spotify.com/track/7sMn5JJ7rzgl9MmgucEXsZ) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Swimmer](https://open.spotify.com/album/3vghyeIx26jtU7DdAW2bEb) | 3:51 |
-| 58 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 |
-| 59 | [Lemonade](https://open.spotify.com/track/2teMWxI0AhcKHArtjumPzZ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Lemonade](https://open.spotify.com/album/4RZBZPSvCxcfD74UxTRgYB) | 3:40 |
+| 58 | [Lemonade](https://open.spotify.com/track/2teMWxI0AhcKHArtjumPzZ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Lemonade](https://open.spotify.com/album/4RZBZPSvCxcfD74UxTRgYB) | 3:40 |
+| 59 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 |
 | 60 | [Talking Straight](https://open.spotify.com/track/0pAe3wp6qI0q3BrpQo6nFa) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Hope Downs](https://open.spotify.com/album/0zL1ncgS3vbeh8iQ2qywwY) | 3:44 |
 | 61 | [Creep in a T\-Shirt](https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:53 |
 | 62 | [Pick Your Poison](https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 3:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 74 | [Honey](https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 4:33 |
 | 75 | [The Dream](https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Carrion Crawler / The Dream](https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91) | 6:52 |
 
-Snapshot ID: `MCwyZmM5MDM3OWUyMTE2YWI1MmQ1MjkwMTUyYjIxNTA1ODg4MzFmZDBj`
+Snapshot ID: `MCwwNGY0OWQ2MjM2ZDc0ODI0YjQ4ZTc4M2ZkZDk3MjFiYzFiMTU5YzUz`

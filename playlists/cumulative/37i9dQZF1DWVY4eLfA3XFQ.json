@@ -227,6 +227,24 @@
     },
     {
       "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/1kBqRa2e2terLD72aVHvsk"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196904,
+      "name": "444",
+      "url": "https://open.spotify.com/track/7gjxXndvML1DoJeB6izQPa"
+    },
+    {
+      "album": {
         "name": "4U",
         "url": "https://open.spotify.com/album/684cOXTueOXaJiBOFHhYNA"
       },
@@ -2380,7 +2398,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 134430,
       "name": "Bend N Snap",
       "url": "https://open.spotify.com/track/0cIfTCAE7fLAgvFzBA4XAW"
@@ -2578,7 +2596,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 183750,
       "name": "Bills, Bills (feat. MRYN) - Radio Edit",
       "url": "https://open.spotify.com/track/1bIOPOZlC6SQtyP1gRFZHD"
@@ -2596,7 +2614,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 144023,
       "name": "Bim Boom Bam",
       "url": "https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf"
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 269160,
       "name": "Bongos",
       "url": "https://open.spotify.com/track/02iUOsajHXDI4ncxVT6u27"
@@ -3600,6 +3618,28 @@
       "duration_ms": 206129,
       "name": "Burning Night",
       "url": "https://open.spotify.com/track/0ergVwNCItQRhfkjje6N35"
+    },
+    {
+      "album": {
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
     },
     {
       "album": {
@@ -6942,7 +6982,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 158785,
       "name": "Downlow",
       "url": "https://open.spotify.com/track/6Ece791uQ8o15ZniaWmmvd"
@@ -8090,7 +8130,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 271200,
       "name": "Fakez",
       "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
@@ -11977,6 +12017,24 @@
     },
     {
       "album": {
+        "name": "I Know A Place",
+        "url": "https://open.spotify.com/album/1nyd1mlE54h52ZrjpTa1iB"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185615,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/5mLjx2b0uwuA75KqWBey5N"
+    },
+    {
+      "album": {
         "name": "I Like It",
         "url": "https://open.spotify.com/album/2kEXuGSEcp6XROaJfOThDD"
       },
@@ -13060,6 +13118,24 @@
       "duration_ms": 148567,
       "name": "Jump Around",
       "url": "https://open.spotify.com/track/63fQTOIVo5EMZauf2QAH5W"
+    },
+    {
+      "album": {
+        "name": "Jump In",
+        "url": "https://open.spotify.com/album/07BxOVzzyMBEkff8GEczSG"
+      },
+      "artists": [
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Jump In",
+      "url": "https://open.spotify.com/track/7KPM73DEawK8fsogmx87HX"
     },
     {
       "album": {
@@ -14251,6 +14327,32 @@
     },
     {
       "album": {
+        "name": "Let's Go Dancing (Matroda Remix)",
+        "url": "https://open.spotify.com/album/4bNMns2prUJi3cJwEF7dKc"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Audion",
+          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
+        },
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195473,
+      "name": "Let's Go Dancing - Matroda Remix",
+      "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
+    },
+    {
+      "album": {
         "name": "No Big Deal \u2013 Part 1",
         "url": "https://open.spotify.com/album/6brJxmhBoOEp2tNAs2aFnx"
       },
@@ -14354,6 +14456,24 @@
       "duration_ms": 170955,
       "name": "Life",
       "url": "https://open.spotify.com/track/5uIPgZYAPggdErCVj6lY56"
+    },
+    {
+      "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/3T6dLIs7QJWYflHcVLAB1A"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5BC4a9zX4qOAuIM7HUgVrG"
     },
     {
       "album": {
@@ -22300,7 +22420,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 196279,
       "name": "Scream",
       "url": "https://open.spotify.com/track/79mhkDmXVF8HXnBJIcy9GD"
@@ -22836,6 +22956,24 @@
       "duration_ms": 126720,
       "name": "Shake That Ass",
       "url": "https://open.spotify.com/track/7iqH31kOUKIwCVzFqf9dm0"
+    },
+    {
+      "album": {
+        "name": "Shake What Yo Mama",
+        "url": "https://open.spotify.com/album/64upmd4XuphLblnHNe5TFB"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193488,
+      "name": "Shake What Yo Mama",
+      "url": "https://open.spotify.com/track/6LDI9NkKCTCK3Dhu7s5iSd"
     },
     {
       "album": {

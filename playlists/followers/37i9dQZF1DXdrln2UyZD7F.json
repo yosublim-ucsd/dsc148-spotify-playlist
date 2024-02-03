@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 838302,
+  "2024-02-03": 838465,
   "date_first_scraped": "2023-07-28",
   "description": "Le meilleur de la musique d'hier et d'aujourd'hui pour une journ\u00e9e parfaite.",
   "name": "La vie est belle",
@@ -248,6 +248,24 @@
     },
     {
       "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "album": {
         "name": "Greatest Hits: God's Favorite Band",
         "url": "https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY"
       },
@@ -451,7 +469,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 183635,
       "name": "Confetti",
       "url": "https://open.spotify.com/track/73m3OYU7lG7irNbFjNipwF"
@@ -491,6 +509,24 @@
       "duration_ms": 230880,
       "name": "Control",
       "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
+    },
+    {
+      "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/7arCig498ft2Kc7pJJFHxw"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189120,
+      "name": "Cosmic Love",
+      "url": "https://open.spotify.com/track/6IDMW6PN0qyYXH0wWKgDSp"
     },
     {
       "album": {
@@ -707,7 +743,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 243946,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG"
@@ -845,6 +881,24 @@
       "duration_ms": 212424,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"
+    },
+    {
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163472,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
     },
     {
       "album": {
@@ -1856,6 +1910,24 @@
     },
     {
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/3iO9vwhDcD5RBhJRUs6hyF"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182226,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0RFjIMPz5LJuSjtdx5W8bE"
+    },
+    {
+      "album": {
         "name": "miss me (when you're gone) [remixes]",
         "url": "https://open.spotify.com/album/3424gEK5H7r3IWM5Jdn39t"
       },
@@ -1957,7 +2029,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 249920,
       "name": "Night Heights",
       "url": "https://open.spotify.com/track/7fPM25Phrs4uJhHyuBbVbU"
@@ -2109,7 +2181,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 263400,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
@@ -2305,6 +2377,24 @@
       "duration_ms": 143264,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
+    },
+    {
+      "album": {
+        "name": "Radio Kitchen EP",
+        "url": "https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5"
+      },
+      "artists": [
+        {
+          "name": "Puggy",
+          "url": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214840,
+      "name": "Sad Enough",
+      "url": "https://open.spotify.com/track/4tq7k6MACc2UyQLAeYOHpc"
     },
     {
       "album": {
@@ -2673,7 +2763,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 201424,
       "name": "The Ballet Girl",
       "url": "https://open.spotify.com/track/6EMR2TqTujy6ZW00ag7saG"

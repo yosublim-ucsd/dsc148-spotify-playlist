@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 1768203,
+  "2024-02-03": 1767952,
   "date_first_scraped": "2021-12-21",
   "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Fridayy",
   "name": "Channel-X",
@@ -6751,7 +6751,7 @@
     {
       "album": {
         "name": "Love Me To Find You",
-        "url": "https://open.spotify.com/album/0K1WIwt6RYedA9m35kUBsN"
+        "url": "https://open.spotify.com/album/40GCAcjqfvm1d8RGehvlf9"
       },
       "artists": [
         {
@@ -6766,6 +6766,28 @@
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 177417,
+      "name": "Love Me To Find You",
+      "url": "https://open.spotify.com/track/1pkhUY53NetOiJTMfvfRQF"
+    },
+    {
+      "album": {
+        "name": "Love Me To Find You",
+        "url": "https://open.spotify.com/album/0K1WIwt6RYedA9m35kUBsN"
+      },
+      "artists": [
+        {
+          "name": "Tolou",
+          "url": "https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH"
+        },
+        {
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-02",
       "duration_ms": 177417,
       "name": "Love Me To Find You",
       "url": "https://open.spotify.com/track/2BfaDvGnccdSeTqzFbney3"

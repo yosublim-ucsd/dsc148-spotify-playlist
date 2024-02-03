@@ -4,7 +4,7 @@
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-118 songs - 9 hr 16 min
+119 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,12 +40,13 @@
 | [DADA BA](https://open.spotify.com/track/5lgGv9Y0i3PKtQFeHpXYXb) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [DADA BA](https://open.spotify.com/album/5EFW38XyXglIjFsqOcFeby) | 3:04 | 2022-03-03 | 2023-02-26 |
 | [Deeba](https://open.spotify.com/track/04RrKNyYkImWhZkoEDBhTO) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:05 | 2020-02-20 | 2022-10-16 |
 | [Deeba](https://open.spotify.com/track/6NLy8oSDKKXfHfxpKeAjOt) | [Deeba](https://open.spotify.com/artist/5gZhjWdd6NuAZ8Yrg1a3Ss) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:05 | 2020-02-20 | 2022-07-29 |
+| [Deeba](https://open.spotify.com/track/6xvQweMHBKFVxgZtmQy7va) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Welcome To Ghana](https://open.spotify.com/album/0WTr5rNM9QFV4Qi3s4B5nA) | 5:06 | 2023-12-01 |  |
 | [Dondo](https://open.spotify.com/track/0YrIz7PlFQPjRVzP8hQsH2) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:51 | 2020-02-20 | 2022-07-29 |
 | [Dondo](https://open.spotify.com/track/6qXsfvpsehSXQqPSS22DKg) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Dondo](https://open.spotify.com/album/3N2CZfeQGWnlbuMIPodm2A) | 5:51 | 2020-02-20 |  |
 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 | 2021-11-18 |  |
 | [Falling](https://open.spotify.com/track/7CGwYCUFYdGKuW3KNYtw6K) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Falling](https://open.spotify.com/album/0FVNUQpXBN55azvwBh4hhr) | 2:45 | 2022-03-17 | 2022-09-18 |
 | [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 | 2022-03-17 |  |
-| [FINGERS](https://open.spotify.com/track/6pGf2XUUNaj6tTkWXR1yJQ) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [FINGERS](https://open.spotify.com/album/4BoK4qfCb8y8rejtjCwf8m) | 3:25 | 2022-04-14 |  |
+| [FINGERS](https://open.spotify.com/track/6pGf2XUUNaj6tTkWXR1yJQ) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [FINGERS](https://open.spotify.com/album/4BoK4qfCb8y8rejtjCwf8m) | 3:25 | 2022-04-14 | 2024-02-03 |
 | [Game Changer \(Dike\)](https://open.spotify.com/track/5GxeZ0u1qDX95nZwV055JS) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Game Changer \(Dike\)](https://open.spotify.com/album/3CauGu6er8mkDoWdotpfJm) | 2:42 | 2023-02-03 |  |
 | [Gonja Barracks](https://open.spotify.com/track/28L43Uu8pfBiraGT6VXPcW) | [Buk Bak](https://open.spotify.com/artist/6e6W1oSxPGjoF2iAp2AZtF) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:43 | 2020-02-20 | 2022-03-18 |
 | [Goodbye](https://open.spotify.com/track/7pU9YogbXoHZirg26M132Z) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Goodbye](https://open.spotify.com/album/2LWg8PF3z76jzhcPgFb8x1) | 4:24 | 2023-02-10 | 2023-04-16 |

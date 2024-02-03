@@ -861,6 +861,28 @@
     },
     {
       "album": {
+        "name": "La Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1S6f9Loz5vafrp1fE4MehB"
+      },
+      "artists": [
+        {
+          "name": "Galean",
+          "url": "https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8"
+        },
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200017,
+      "name": "La Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0M65YPR32V9kwciOLgEnCv"
+    },
+    {
+      "album": {
         "name": "Lago Eterno",
         "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
       },

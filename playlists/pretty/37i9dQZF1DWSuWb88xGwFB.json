@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 32799,
+  "num_followers": 32808,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWZiN2E5YzY2ZmU0OThlZmFhOTQ1MmNmNDkzZjNlOTc2MzNjNGVl",
+  "snapshot_id": "MCwzMTQwNzIxZTRhN2FmYjI3MjNhZGExZjU2MGMxOTMxYWM5M2Q3YWQ4",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Strictly Club Cuts Vol. 9",
+        "url": "https://open.spotify.com/album/46qLvcWO3P4AN5RwIvEspN"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 486973,
+      "name": "The Warning (Inner Mix)",
+      "url": "https://open.spotify.com/track/30HsnslIUoAwcPDOltaIut"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Swing Doctor",
         "url": "https://open.spotify.com/album/00V3nccGV3eXjxWRPkmqmD"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 468520,
       "name": "Set My Spirit Free (feat. Sandy Rivera)",
       "url": "https://open.spotify.com/track/1Atpos1RTfmnpMzeSTkMHx"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Club Cuts Vol. 9",
-        "url": "https://open.spotify.com/album/46qLvcWO3P4AN5RwIvEspN"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 486973,
-      "name": "The Warning (Inner Mix)",
-      "url": "https://open.spotify.com/track/30HsnslIUoAwcPDOltaIut"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Sweet Ambience (Mixes)",
+        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
+      },
+      "artists": [
+        {
+          "name": "Lovechild",
+          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
+        }
+      ],
+      "duration_ms": 300943,
+      "name": "Sweet Ambience (Club Mix)",
+      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Move Your Body (feat. LaVette) [Mixes]",
         "url": "https://open.spotify.com/album/73qB0bVff6GfAOZabkcTOC"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
-      },
-      "artists": [
-        {
-          "name": "Club Ultimate",
-          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
-        }
-      ],
-      "duration_ms": 364347,
-      "name": "Carnival '95 (Pride Vocal Mix)",
-      "url": "https://open.spotify.com/track/5ZEFcwgWOta5rCobcLTUKO"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Everybody Dance",
         "url": "https://open.spotify.com/album/6cLUkcaFe8voggxAoWXEDS"
       },
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Sweet Ambience (Mixes)",
-        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
       },
       "artists": [
         {
-          "name": "Lovechild",
-          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
+          "name": "Club Ultimate",
+          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
         }
       ],
-      "duration_ms": 300943,
-      "name": "Sweet Ambience (Club Mix)",
-      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
+      "duration_ms": 364347,
+      "name": "Carnival '95 (Pride Vocal Mix)",
+      "url": "https://open.spotify.com/track/5ZEFcwgWOta5rCobcLTUKO"
     },
     {
       "added_at": "2022-03-03 13:59:16",

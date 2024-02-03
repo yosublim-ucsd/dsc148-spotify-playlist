@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Moa Rivera & Lenier
 
-255 songs - 19 hr 4 min
+256 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Creo en amor](https://open.spotify.com/track/3FMoiKx7ZQNrOjdR2TrC4j) | [Mandinga](https://open.spotify.com/artist/1nSK1Zwoj2ZfDQv3Ry6oqe) | [Creo En Amor](https://open.spotify.com/album/6gmdIsNZFMztj4YXaue1LK) | 3:30 | 2022-09-09 | 2023-02-12 |
 | [Cuando Te Miro](https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Una Historia Musical](https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79) | 3:51 | 2022-01-01 | 2022-11-13 |
 | [Cuando Tus Ojos Me Miran](https://open.spotify.com/track/0wchJhFHcNw9fVGbsV20CB) | [Victor Waill](https://open.spotify.com/artist/5vOQV42eH7qqhnWOmuGLJV), [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Cuando Tus Ojos Me Miran](https://open.spotify.com/album/5zueCL1sBrlvTvRjQfwe1F) | 3:38 | 2022-01-01 | 2022-07-26 |
-| [Cuenta Conmigo](https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Leyendas: Salsa Romántica](https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X) | 5:04 | 2022-01-01 |  |
+| [Cuenta Conmigo](https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Leyendas: Salsa Romántica](https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X) | 5:04 | 2022-01-01 | 2024-02-03 |
 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 | 2023-01-06 |  |
 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 | 2022-01-01 |  |
 | [Decidí Tener Pantalones](https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Lado A Lado B](https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n) | 4:36 | 2022-04-29 | 2023-06-06 |
@@ -74,6 +74,7 @@
 | [El Afortunado](https://open.spotify.com/track/3bleyyGEiQNGsvbbFK8u9f) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [El Afortunado](https://open.spotify.com/album/0ipMUWLXTEwGhkgbK1GtXb) | 4:25 | 2022-01-01 | 2022-07-20 |
 | [El Amor de Mi Vida "Se Fue"](https://open.spotify.com/track/3iPlRUr1BKFQVlVM6zxFWl) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Auténtico](https://open.spotify.com/album/2Nfgyq7smkbHjmz5Rnz7zD) | 4:39 | 2022-05-20 |  |
 | [El Amor de Mi Vida "Se Fue"](https://open.spotify.com/track/4ee1fUrPVok1bEyj1cm4Rv) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Auténtico](https://open.spotify.com/album/7C0OfgbApcvYfMJEgfUxyE) | 4:39 | 2022-01-01 | 2022-07-29 |
+| [El Amor De Su Vida](https://open.spotify.com/track/7hFyogy6yOO9JAILq3QvV8) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [El Amor De Su Vida](https://open.spotify.com/album/6mQpE52JhnJRQ7y6RXMc7B) | 3:09 | 2024-02-02 |  |
 | [El Amor Mas Grande Del Planeta](https://open.spotify.com/track/5lgJByAmkgnisZYU6XwtJ2) | [Orquesta la Fuga de Cali](https://open.spotify.com/artist/1hKqqasAon1KaQurWRpuOe) | [El Amor Mas Grande Del Planeta](https://open.spotify.com/album/5ZfRJmapY2FJTavdzU6Bxy) | 4:10 | 2022-01-01 | 2022-04-28 |
 | [El Bailarín de la Avenida](https://open.spotify.com/track/6WXNXsF3F8oiqc0EGsCG20) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [Salsa Brava Con Todos los Hierros](https://open.spotify.com/album/4HGxgo1ysteh87S9lsGvYe) | 4:08 | 2022-01-21 | 2022-05-28 |
 | [El Breve Espacio En Que No Está \- 80 Aniversario](https://open.spotify.com/track/1zfxsKycKs9Fgk9xJy57bR) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Breve Espacio En Que No Está \(80 Aniversario\)](https://open.spotify.com/album/08H66qqmYkvqLMbBT8Tj3V) | 4:45 | 2023-05-19 | 2023-06-12 |

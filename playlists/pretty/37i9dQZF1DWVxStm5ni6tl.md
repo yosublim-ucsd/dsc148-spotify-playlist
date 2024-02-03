@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Shaina Hayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,114 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,151 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 |
-| 2 | [Jump Off](https://open.spotify.com/track/6on03Tw14NWeIjumedTL71) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs), [Godflow](https://open.spotify.com/artist/1S7EyNp5DO6OHIoCNvbdj4) | [Jump Off](https://open.spotify.com/album/2MNQyEcTDvGJ0qXQ975dhK) | 2:09 |
+| 2 | [Jump Off](https://open.spotify.com/track/6on03Tw14NWeIjumedTL71) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs), [Godflow](https://open.spotify.com/artist/0QsEQ9wcaW5ruKmXNWxUJC) | [Jump Off](https://open.spotify.com/album/2MNQyEcTDvGJ0qXQ975dhK) | 2:09 |
 | 3 | [Supernatural](https://open.spotify.com/track/5uwlYbJ8xovXnbTL0TaItp) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Supernatural](https://open.spotify.com/album/0NIqLdZS16xSe11Tk1gabP) | 4:01 |
 | 4 | [In The End](https://open.spotify.com/track/09CLSLAHnRuFQUgoXeAiCz) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [In The End](https://open.spotify.com/album/4yKDRnMv0vIj5FlsREicz4) | 3:10 |
 | 5 | [I Feel Like James Brown](https://open.spotify.com/track/6UDlyDDhq50MqfdVsPbooa) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF) | [I Feel Like James Brown](https://open.spotify.com/album/5S30960H0VHeb4bjch8MY3) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [ON MY WAY](https://open.spotify.com/track/3yTFX1HE96ChTBh3zSTpbj) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [ON MY WAY](https://open.spotify.com/album/1pq94oLoPufKtOpJ3SKGMF) | 2:25 |
 | 75 | [Think About You](https://open.spotify.com/track/5sMNeg0MEPWlpbjwCg2gRH) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [Think About You](https://open.spotify.com/album/4L8dQDEmy0CCN0ZonRAthg) | 3:21 |
 
-Snapshot ID: `MCw4NTY3NGQyZjExYjU4ODk3NDViNGE1NmRlZjkxZGJkMTJlMzlkNWIw`
+Snapshot ID: `MCwxMDQ2OGViZTZiNzcwODM4ZjY5YWI2OGZjN2MwOWYyOWU2NThiOGMw`

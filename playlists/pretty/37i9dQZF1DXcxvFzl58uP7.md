@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\.  Cover: Clairo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,104,812 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104,853 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 57 | [A lot to explain](https://open.spotify.com/track/4ELXy9Lkc6SF9L4ZuzX8aU) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [A lot to explain](https://open.spotify.com/album/12N1jOVHxOp7dw5TnwMvbD) | 2:13 |
 | 58 | [Maple Syrup Tears](https://open.spotify.com/track/69ULhU2AqPoZXphQpI9h1X) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Apocalypse Wow](https://open.spotify.com/album/1pELXfkOv6BvizfMw3Y9T5) | 3:13 |
 | 59 | [You Make Me Feel](https://open.spotify.com/track/34nlIUkkDybtZAyEnvcpLL) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [You Make Me Feel](https://open.spotify.com/album/5x6rupJeZv1BxbNGVcxNDL) | 3:06 |
-| 60 | [Daisy](https://open.spotify.com/track/3SE3kNoi1T9euYL6NTOcXB) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Daisy](https://open.spotify.com/album/3iz6RVbojDkO2E0DFni9t3) | 3:06 |
-| 61 | [Moonlight](https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Moonlight](https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN) | 3:59 |
+| 60 | [Moonlight](https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Moonlight](https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN) | 3:59 |
+| 61 | [Daisy](https://open.spotify.com/track/3SE3kNoi1T9euYL6NTOcXB) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Daisy](https://open.spotify.com/album/3iz6RVbojDkO2E0DFni9t3) | 3:06 |
 | 62 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 |
 | 63 | [book of spells](https://open.spotify.com/track/6khxHZKguKB1PeHXD7czwg) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [book of spells](https://open.spotify.com/album/5AaQnrPQqgc5kwMObnLxeA) | 1:48 |
 | 64 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 71 | [Brand New](https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Brand New](https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP) | 2:36 |
 | 72 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 |
 | 73 | [East Coast](https://open.spotify.com/track/00GXITN3KudnqcJgkwXRrh) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 4:37 |
-| 74 | [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 |
-| 75 | [Wormwood](https://open.spotify.com/track/3W89enABhR4P2BFYvARctH) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Her and All of My Friends](https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK) | 2:59 |
+| 74 | [Wormwood](https://open.spotify.com/track/3W89enABhR4P2BFYvARctH) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Her and All of My Friends](https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK) | 2:59 |
+| 75 | [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 |
 | 76 | [baggage](https://open.spotify.com/track/6SYuMesj2XksZ056ogMqdw) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [baggage](https://open.spotify.com/album/2YyXh7wZTETiXZankSIYWE) | 2:10 |
 | 77 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 |
 | 78 | [Baby Baby](https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Baby Baby](https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9) | 3:01 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 97 | [Warmer](https://open.spotify.com/track/27n8scut9e5uU4uD5qFzDQ) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A), [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Warmer](https://open.spotify.com/album/2opDURU1h6QFzIGYDFGOyA) | 2:34 |
 | 98 | [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 |
 | 99 | [i'm yours](https://open.spotify.com/track/2OXpbQZOHOFS9GWEuBmxEY) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [i'm yours](https://open.spotify.com/album/42XuqxZBSzbHBw8swRqMsZ) | 3:45 |
-| 100 | [25MPH](https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [1000 Summers](https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw) | 3:03 |
+| 100 | [the way you looked](https://open.spotify.com/track/1HzeXR0R5YWsCfWgP0CttA) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [the way you looked](https://open.spotify.com/album/50HCzHlyAYqA1LSsfizbWV) | 4:47 |
 
-Snapshot ID: `MCxhYzE0MzU4Yjg3N2YwYWIwNjYyNGVhOTY4MDY2YzM4YjYxYTQxZDhl`
+Snapshot ID: `MCw0NDFiYmU5MTU2MDU1ZjRjODVkMjI5MjY2MzU5YTQ3NGI3NDcyODRj`

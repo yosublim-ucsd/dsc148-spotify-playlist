@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-234 songs - 12 hr 20 min
+235 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Bop It](https://open.spotify.com/track/2pUUZmFXtqPkyaNtIbaJcU) | [Cody Ko](https://open.spotify.com/artist/51etCwhy3kaQLY5Tj06PW5), [Space Rangers](https://open.spotify.com/artist/25o5gyj3kk1DUaRkkcEkZy) | [Bop It](https://open.spotify.com/album/4E3ipA6KhItelhPjnqW3ji) | 2:52 | 2023-11-13 | 2023-12-30 |
 | [Boy's a Liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 | 2022-11-30 | 2023-10-19 |
 | [Break it off](https://open.spotify.com/track/5892YX6q8y3Rs9OysF08kv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Break it off](https://open.spotify.com/album/2qT1ltrbTlrUi5F7uMFPHz) | 1:33 | 2021-12-03 | 2022-07-29 |
-| [Break It Off \- Bonus](https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:36 | 2021-12-03 |  |
+| [Break It Off \- Bonus](https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:36 | 2021-12-03 | 2024-02-03 |
 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 | 2021-12-03 | 2024-01-13 |
 | [Bulletproof](https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J) | [Bulletproof](https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL) | 2:42 | 2021-12-03 | 2022-11-13 |
 | [Came For The Low](https://open.spotify.com/track/36LQYp5FNsuT5voIO9bdfZ) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [Came For The Low](https://open.spotify.com/album/5MoIvYGjZVz46XIfOa9JGg) | 3:15 | 2021-12-03 | 2022-04-18 |
@@ -75,6 +75,7 @@
 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 | 2021-12-03 | 2023-12-02 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-12-03 |  |
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2021-12-03 | 2023-02-01 |
+| [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-01-31 |  |
 | [FVN!](https://open.spotify.com/track/4lGOHDJr4PvUguwpMxjzlu) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [FVN!](https://open.spotify.com/album/4HrAnkSKPbpAhsJcp7bXSJ) | 3:10 | 2021-12-03 | 2022-07-29 |
 | [GASLIGHT](https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GASLIGHT](https://open.spotify.com/album/3xhS4dVY0ActRZO8tE0cGh) | 3:17 | 2022-04-14 | 2022-07-29 |
 | [Give It To Me](https://open.spotify.com/track/40HqwKbcJ62zpsBW2pWBTq) | [Mckyyy](https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug) | [Give It To Me](https://open.spotify.com/album/1s8GwqQlOG7X4e6mV4PQC5) | 2:51 | 2022-12-28 | 2023-01-14 |

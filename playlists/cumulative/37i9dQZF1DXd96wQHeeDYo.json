@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Tu t\u00e1ta tu tat\u00e1... el beat funk de Brasil para el mundo. Baile bonitoooo Foto: Bad Gyal, Anitta",
+  "description": "Tu t\u00e1ta tu tat\u00e1... el beat funk de Brasil para el mundo. Baile bonitoooo Foto: Bibi Babydoll",
   "name": "es funk y el cuerpo lo sabe \ud83c\udde7\ud83c\uddf7",
   "tracks": [
     {
@@ -703,6 +703,28 @@
     },
     {
       "album": {
+        "name": "LA SANTI",
+        "url": "https://open.spotify.com/album/4ck6WICaITvZwjbiw98hAv"
+      },
+      "artists": [
+        {
+          "name": "Ander & Jey",
+          "url": "https://open.spotify.com/artist/5NO6VphyNoUsGzSLsyqq4q"
+        },
+        {
+          "name": "BENGRO",
+          "url": "https://open.spotify.com/artist/6QJVOWLF63OCXEHFbl9kAJ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "LA SANTI",
+      "url": "https://open.spotify.com/track/7yV8SqcRxFgDEhfOhLKjmQ"
+    },
+    {
+      "album": {
         "name": "LALA",
         "url": "https://open.spotify.com/album/6ZiCwWmYPqgE4Sgmd45XDB"
       },
@@ -774,7 +796,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 184557,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/53Cwb4EiUfbmdOdNLILo1Z"
@@ -822,6 +844,32 @@
       "duration_ms": 61673,
       "name": "MONTAGEM - PR FUNK",
       "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
+    },
+    {
+      "album": {
+        "name": "Mvp",
+        "url": "https://open.spotify.com/album/5v6PZp0S1NEJsgyC1P82NX"
+      },
+      "artists": [
+        {
+          "name": "Juan Portella",
+          "url": "https://open.spotify.com/artist/7bUbPzPRPlbnhBeMx5XCZd"
+        },
+        {
+          "name": "ONE SOUND",
+          "url": "https://open.spotify.com/artist/0QifT6zb0LiYiP2qGbjSK0"
+        },
+        {
+          "name": "Poltamento",
+          "url": "https://open.spotify.com/artist/5XPsI2iav2bE7kqUyzApnr"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Mvp",
+      "url": "https://open.spotify.com/track/291pLV1W86w8od5IRf9uwK"
     },
     {
       "album": {
@@ -1460,7 +1508,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 146307,
       "name": "Ya No Quiero Tu Amor",
       "url": "https://open.spotify.com/track/27mz93tltnSLKXzU0cOWcB"

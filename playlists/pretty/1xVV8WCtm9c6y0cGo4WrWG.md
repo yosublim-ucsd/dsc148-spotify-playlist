@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > New music from your favourite hip\-hop artists! We keep our finger on the pulse so you don’t have to\. Featuring Drake, Nicki Minaj, Kid Cudi and more! Sign up <a href="https://forms.umusic\-online.com/forms/\-MymKGNlc3qqAKkFa\_Hi">here</a> for exclusives, merch &amp; more
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 23,557 likes - 100 songs - 5 hr 10 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 23,553 likes - 103 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,8 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 | 98 | [My wrist \(with Young Thug\)](https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [My wrist \(with Young Thug\)](https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz) | 3:10 |
 | 99 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/70UV1HmppYUxBI6yCev4d5) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:02 |
 | 100 | [if looks could kill](https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [if looks could kill](https://open.spotify.com/album/1lbRv6yB7ZI2MuoGG9io6E) | 3:14 |
+| 101 | [OMG! \(Freestyle\)](https://open.spotify.com/track/7oLzEMNTnR9AC8ggvV5eGL) | [Shareef](https://open.spotify.com/artist/1JH0doF0KQYyUyRmiykBqi) | [OMG! \(Freestyle\)](https://open.spotify.com/album/3UoICZ03kjUEzA1iyOL75H) | 2:26 |
+| 102 | [Big Foot](https://open.spotify.com/track/587Ks4sb6Wd2qRVS5i9fdW) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Big Foot](https://open.spotify.com/album/3b80v2noU4EEZmCefjinoO) | 4:22 |
+| 103 | [Point Em Out \(with DaBaby\)](https://open.spotify.com/track/1oaV97SzklGWVLi9LdW4Hf) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Point Em Out \(with DaBaby\)](https://open.spotify.com/album/4OokZs4MaEgyCHN35wJtew) | 2:13 |
 
-Snapshot ID: `ODA1MCxiZDQ3YzY0ZDczOGE5YjllZGMzMDJmZDNhMGQ4ZGY2ZTNlMjUwMTQ1`
+Snapshot ID: `ODA1MyxmNjc4NjFkZGYxYTYzZDY0M2NkYWZlNGExZTAyYjgzN2ZmYzVhYjEy`

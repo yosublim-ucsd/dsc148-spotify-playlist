@@ -2,7 +2,7 @@
 
 ### [Rap Rewind](https://open.spotify.com/playlist/37i9dQZF1DXaAXb45NEVkE)
 
-> Hold up, run that back\. Cover: JID
+> Hold up, run that back\. Cover: Future
 
 188 songs - 10 hr 4 min
 

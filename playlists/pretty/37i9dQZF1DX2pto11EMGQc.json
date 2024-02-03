@@ -1,12 +1,12 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 92599,
+  "num_followers": 92593,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2QzM2E2OWI3ZmI0ZWJmZWM5MTEzYWVmMTYwOThjN2NiODBlZDY5",
+  "snapshot_id": "MCw2Y2Q4YmY1NDY2OTg2MWE1NzQwZDVjNTYzZTEwY2U3OTQ5M2Y3ZTg0",
   "tracks": [
     {
       "added_at": "2022-05-11 15:37:27",
@@ -887,22 +887,18 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/4Tk1gvdwy7TL3Ma2s9iZ9f"
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
       },
       "artists": [
         {
-          "name": "Jamie Foxx",
-          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
         }
       ],
-      "duration_ms": 289746,
-      "name": "Blame It",
-      "url": "https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva"
+      "duration_ms": 242266,
+      "name": "D.A.N.C.E",
+      "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -923,18 +919,22 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/4Tk1gvdwy7TL3Ma2s9iZ9f"
       },
       "artists": [
         {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 242266,
-      "name": "D.A.N.C.E",
-      "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
+      "duration_ms": 289746,
+      "name": "Blame It",
+      "url": "https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva"
     }
   ],
   "unique_name": "Bachelor Party",

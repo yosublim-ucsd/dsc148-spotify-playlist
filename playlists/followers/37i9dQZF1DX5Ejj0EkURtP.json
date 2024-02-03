@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 8188907,
+  "2024-02-03": 8189564,
   "date_first_scraped": "2019-05-26",
   "description": "The biggest songs of the 2010s. ",
   "name": "All Out 2010s",
@@ -9671,7 +9671,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 209320,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
@@ -14409,7 +14409,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 235493,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"

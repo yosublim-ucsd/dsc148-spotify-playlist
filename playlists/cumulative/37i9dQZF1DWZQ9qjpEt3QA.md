@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-139 songs - 9 hr 27 min
+140 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Ultra Venus](https://open.spotify.com/track/0QhWeC7nAvAOyKNA279gRT) | [Disco Hue](https://open.spotify.com/artist/6k0tAEcYn1sa2M3EZhlEfw) | [The Yearbook](https://open.spotify.com/album/6Zqb6O4wNqSwUe6uR6Bdpo) | 3:20 | 2022-05-26 | 2023-07-07 |
 | [Venus](https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:32 | 2022-05-26 | 2022-07-29 |
 | [Venus 샛별](https://open.spotify.com/track/000j3FwREid2RIpm6nTLn9) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Venus 샛별](https://open.spotify.com/album/70zQXUoP3iBxwdGxTFM5ya) | 3:32 | 2022-05-26 | 2023-02-03 |
-| [Virtual World](https://open.spotify.com/track/3GlQyFwsP9SbqDbLws67FO) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Just because of the sudden wind](https://open.spotify.com/album/5xiBNgDcroZnam0CXegDOu) | 3:24 | 2022-05-26 |  |
+| [Virtual World](https://open.spotify.com/track/2eKuOevIr05volaJLCs3NO) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Just because of the sudden wind](https://open.spotify.com/album/3sU1srdjbJdz6pGLGtWWuD) | 3:24 | 2024-01-25 |  |
+| [Virtual World](https://open.spotify.com/track/3GlQyFwsP9SbqDbLws67FO) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Just because of the sudden wind](https://open.spotify.com/album/5xiBNgDcroZnam0CXegDOu) | 3:24 | 2022-05-26 | 2024-02-03 |
 | [Wakai Koro](https://open.spotify.com/track/0diQ8YqtdoCaxy2xovKsMi) | [Laura Pradipta](https://open.spotify.com/artist/3DjOjSvtE3thRSMBeBR4kH) | [Wakai Koro](https://open.spotify.com/album/63teHEBVLWZYKuQtUDIjtL) | 4:39 | 2023-02-16 | 2023-03-10 |
 | [With The Star](https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [East Shore](https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP) | 3:32 | 2022-05-26 |  |
 | [With The Star](https://open.spotify.com/track/6VnJgvlgo77jyLusb0GIfh) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [East Shore](https://open.spotify.com/album/0VtXOyIh7WJCKBe3KbRch8) | 3:32 | 2022-05-26 | 2022-07-29 |

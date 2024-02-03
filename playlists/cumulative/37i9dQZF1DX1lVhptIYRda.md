@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Conner Smith
+> Today's top country hits\. Cover: Gabby Barrett
 
-723 songs - 1 day 15 hr 3 min
+724 songs - 1 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Gaslighter](https://open.spotify.com/track/4BR0bp4qHX1lcBM2HtnoIm) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/0duNimI62kUS00BEgZ1gKV) | 3:23 | 2020-03-14 | 2020-05-02 |
 | [Getting Good](https://open.spotify.com/track/6ZU30kIHamg5oiQm4gQQ3A) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Getting Good](https://open.spotify.com/album/3Jdjyvn35LXAi6r7cIHx4U) | 3:21 | 2020-01-13 | 2020-08-30 |
 | [Getting Over Him](https://open.spotify.com/track/0OCY4cY7ZhmFMLR8Zipb51) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Getting Over Him](https://open.spotify.com/album/5Nnd51BWrdzEI2xTkTvjQ4) | 2:47 | 2021-09-04 | 2022-02-19 |
+| [ghost in my guitar \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:20 | 2024-02-02 |  |
 | [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 | 2022-03-18 | 2022-10-08 |
 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 | 2023-01-06 | 2023-02-18 |
 | [GIRL](https://open.spotify.com/track/3y5B5ebFMzEEFqCPOesAXR) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 4:10 | 2019-10-26 | 2019-10-29 |
@@ -338,7 +339,7 @@
 | [It's About Time \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7eQEnXy5vNjPv6aXVl6N26) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [It's About Time \(feat\. Florida Georgia Line\)](https://open.spotify.com/album/7jRBumiTmJgZKt36JXoNyb) | 2:55 | 2020-11-22 | 2021-04-30 |
 | [It's You \(I've Been Looking for\)](https://open.spotify.com/track/3CetlHFPPW1SF9mQB7fKti) | [Lewis Brice](https://open.spotify.com/artist/7uUOszTczQQwzDodHiz4j0) | [It's You \(I've Been Looking for\)](https://open.spotify.com/album/3g6sIHeHR9MhzRUC8Gfiqf) | 3:06 | 2020-05-02 | 2020-07-19 |
 | [It’s ‘Cause I Am](https://open.spotify.com/track/7JjymfuNMxQgOQJ4mGOdbg) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Real To Me](https://open.spotify.com/album/5DyBJlrOGNzxvGPkKAS8b4) | 2:46 | 2021-09-18 | 2022-02-12 |
-| [I’m In Love](https://open.spotify.com/track/5uTQC24DoCTc287oH8Xpp4) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3lZesmHhJf50RFYGvocRsM) | 2:26 | 2023-10-27 |  |
+| [I’m In Love](https://open.spotify.com/track/5uTQC24DoCTc287oH8Xpp4) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3lZesmHhJf50RFYGvocRsM) | 2:26 | 2023-10-27 | 2024-02-03 |
 | [Jersey on the Wall \- I'm Just Asking](https://open.spotify.com/track/1JqcuWreCl5cNVsX7TKGss) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Road to the Lemonade Stand \- EP](https://open.spotify.com/album/3BmVXY7sEPUYMaGfPCAO6M) | 4:05 | 2020-02-07 | 2020-02-22 |
 | [Joyride](https://open.spotify.com/track/56WqFKgyrRZd6CugD7Adjh) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Joyride](https://open.spotify.com/album/4GtZQ2uTWGcd40naFI7vYF) | 3:36 | 2022-01-07 | 2022-03-26 |
 | [Just About Over You](https://open.spotify.com/track/4Ec0q0j8hRTCX4QQ5MiHSX) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You](https://open.spotify.com/album/6re9IhLwe8c8pauqj1Fgma) | 2:59 | 2021-09-11 | 2021-11-20 |

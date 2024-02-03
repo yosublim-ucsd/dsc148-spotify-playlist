@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,072 likes - 125 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,122 likes - 125 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 39 | [Life In A Northern Town \- Live](https://open.spotify.com/track/0TwCdMeFjEltHiNjtii8Jk) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD), [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Love On The Inside](https://open.spotify.com/album/4JcEVEfuqjJhPxmi1Ji3Fl) | 4:14 |
 | 40 | [Good Time To Me \(feat\. Lainey Wilson\) \(Live From Nashville's Big Bash\)](https://open.spotify.com/track/4skqcqegMq41BXYpJp0C9Z) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Good Time To Me \(feat\. Lainey Wilson\) \[Live From Nashville's Big Bash\]](https://open.spotify.com/album/1vsE3mQE0OdmBv2VfMhjs1) | 3:02 |
 | 41 | [Wish for the World \- Live from Nashville](https://open.spotify.com/track/1DjHk2vOAppja7eA95orn0) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:39 |
-| 42 | [Woman, Amen \- Live](https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 4:52 |
+| 42 | [Woman, Amen \- Live](https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 4:52 |
 | 43 | [Baba O'Riley \- Live at Fenway Park, Boston, MA, 08.20.2016](https://open.spotify.com/track/4sL9qCuNP0eIvOsOO20aPF) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [From The Road, Vol\. 1: Covers](https://open.spotify.com/album/21IWSt2SQY3fWoV4P1sbi0) | 7:51 |
 | 44 | [Back Where I Come From \- Live](https://open.spotify.com/track/3ib4ycdeIE13s5heRkMYNU) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Kenny Chesney Live](https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9) | 4:45 |
 | 45 | [Creek Will Rise \- Live](https://open.spotify.com/track/0bZiAP7fav7CS9Ay3Zgv70) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Creek Will Rise \(Live\)](https://open.spotify.com/album/4Uf3xJWBGRwrRfJyBb2x0m) | 3:53 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 124 | [Once In A Lifetime \- Live At The Arena At Gwinnett, GA/2008](https://open.spotify.com/track/384QzCWUyXbF4U2afrLYcT) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 7:10 |
 | 125 | [Real Good Man \- Live From Spotify NYC](https://open.spotify.com/track/0MNezJUzb1fx2gqQ8cPeLT) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Spotify Sessions](https://open.spotify.com/album/3citk3NfGLpdph8cGMiKQz) | 3:51 |
 
-Snapshot ID: `MCxjYmRlOTNmZWZmNTRiNmVlNzI4NGY3NmYxYjNkMGViZmE5YmJiMDVi`
+Snapshot ID: `MCw2NzlhZTVlYzU1Yzk0MWNlMDU5YmE5MjRhODgzMDQyNjllNzJjZGQ2`

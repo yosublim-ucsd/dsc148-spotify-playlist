@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "anywhere but here",
+        "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
+      },
+      "artists": [
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131612,
+      "name": "anywhere but here",
+      "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
+    },
+    {
+      "album": {
         "name": "Are You There",
         "url": "https://open.spotify.com/album/3nMBXwSQ408EAaz8Cq9f6j"
       },
@@ -950,7 +968,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 145161,
       "name": "Here Comes The Sun",
       "url": "https://open.spotify.com/track/7L3AkxTIVosuV9q251kjfC"
@@ -1268,10 +1286,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 212250,
       "name": "Lover/Friend",
       "url": "https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP"
+    },
+    {
+      "album": {
+        "name": "Low Again",
+        "url": "https://open.spotify.com/album/45zvKE4yw9Ta4utD8tRWsB"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188976,
+      "name": "Low Again",
+      "url": "https://open.spotify.com/track/6WyIu9kPKkyEjmsP4aWJni"
     },
     {
       "album": {
@@ -1502,6 +1538,28 @@
       "duration_ms": 181893,
       "name": "Missing U",
       "url": "https://open.spotify.com/track/0vzWDHKtEUfbvyVZTiFg4r"
+    },
+    {
+      "album": {
+        "name": "Mojito Sunshine",
+        "url": "https://open.spotify.com/album/6hGX1X7NDc8LVjtjpDj8Or"
+      },
+      "artists": [
+        {
+          "name": "Brendan Mills",
+          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
+        },
+        {
+          "name": "Surfin' Sam",
+          "url": "https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172260,
+      "name": "Mojito Sunshine",
+      "url": "https://open.spotify.com/track/62wf9CXsVsMfcsGvYhZhDe"
     },
     {
       "album": {
@@ -1804,7 +1862,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 232160,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la"
@@ -2022,6 +2080,24 @@
       "duration_ms": 173750,
       "name": "She Said (Big Jet Plane)",
       "url": "https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE"
+    },
+    {
+      "album": {
+        "name": "Constellations (Expanded)",
+        "url": "https://open.spotify.com/album/6lIisbumiVx5fHO6e8ybLb"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/1iD1Apn0i05NWYwOaSaRcb"
     },
     {
       "album": {
@@ -2674,7 +2750,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 209040,
       "name": "Young Hearts (Polo & Pan Remix)",
       "url": "https://open.spotify.com/track/6zeDZ7S5TJ8kIn3V0OGVvV"

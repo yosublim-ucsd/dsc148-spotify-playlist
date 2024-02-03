@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,701 likes - 94 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,140 likes - 94 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 63 | [Queen Tings \- Santi Remix](https://open.spotify.com/track/4EOVChDG9c5HX5jrNdBDd6) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Queen Tings \(Santi Remix\)](https://open.spotify.com/album/3ywbciCdfP9GZ1inddiz6a) | 3:31 |
 | 64 | [Coco Blood](https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Coco Blood](https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k) | 3:35 |
 | 65 | [Seasons \(with Khalid\)](https://open.spotify.com/track/19tuFV8B1ckjHzdRrH6Bqs) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Seasons \(with Khalid\)](https://open.spotify.com/album/39g2Ja05Jgah0iO3TGI11f) | 4:10 |
-| 66 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I) | 2:44 |
-| 67 | [Time](https://open.spotify.com/track/5ZZwWo5tBpa1IxEuASX5CL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Time](https://open.spotify.com/album/4AQ8M9UhgOSRTT0OjEU3Ik) | 3:04 |
+| 66 | [Time](https://open.spotify.com/track/5ZZwWo5tBpa1IxEuASX5CL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Time](https://open.spotify.com/album/4AQ8M9UhgOSRTT0OjEU3Ik) | 3:04 |
+| 67 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I) | 2:44 |
 | 68 | [So Bad \(feat\. HAIM\)](https://open.spotify.com/track/2qre5YuCk0fuKw0Z60E28W) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:36 |
 | 69 | [The Lay Down with H.E.R\. & WATT](https://open.spotify.com/track/4Fv2Yzpm9q7r6DJujUeUiP) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [The Lay Down with H.E.R\. & WATT](https://open.spotify.com/album/7lI5od7f6ljgPBZLEQbjmG) | 4:49 |
 | 70 | [Tamale](https://open.spotify.com/track/6CEiPLGmX7V2GQwMYjB6DL) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Tamale](https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn) | 3:47 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 73 | [Orbit \- Live from Air Studios](https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Orbit \(Live from Air Studios\)](https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV) | 3:54 |
 | 74 | [Sweet Life](https://open.spotify.com/track/5Yr0XWjR4eX41pwPljs7NV) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Sweet Life](https://open.spotify.com/album/0saOIEtDIQ0DyauxiejMHr) | 2:56 |
 | 75 | [Avenue](https://open.spotify.com/track/20nOETKKFsKknFGfxk1iYB) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I) | [Avenue](https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM) | 3:16 |
-| 76 | [Kool Aid](https://open.spotify.com/track/71ptv206CeeXGutS1TaieZ) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Kool Aid](https://open.spotify.com/album/2FJitnqpghCCsYLaNAxW7C) | 2:35 |
-| 77 | [Square 1](https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Square 1](https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv) | 3:40 |
+| 76 | [Square 1](https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Square 1](https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv) | 3:40 |
+| 77 | [Kool Aid](https://open.spotify.com/track/71ptv206CeeXGutS1TaieZ) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Kool Aid](https://open.spotify.com/album/2FJitnqpghCCsYLaNAxW7C) | 2:35 |
 | 78 | [People Come And Go](https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [People Come And Go](https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN) | 2:34 |
 | 79 | [Compromise \(feat\. Sabrina Claudio\)](https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:05 |
 | 80 | [21](https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [21](https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf) | 3:15 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 93 | [Worst Way](https://open.spotify.com/track/4dFd9I7wVuNJuFaU1De0Hn) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF), [themes](https://open.spotify.com/artist/7DLvUg0aKwnnUVY8m233DI), [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [Worst Way](https://open.spotify.com/album/5UFZy1cSlNoyFTvJFaWnQz) | 2:52 |
 | 94 | [HER Love \[Feat\. Daniel Caesar with special guest Dwele\]](https://open.spotify.com/track/4ZLVxybMljzL77dCA443Ob) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [HER Love \[Feat\. Daniel Caesar with special guest Dwele\]](https://open.spotify.com/album/5ASnPqVkvU50cwNlC6OoX6) | 6:17 |
 
-Snapshot ID: `MCw3ZGI3NTUwM2EwMDQ4ODc4OTE4MDMyZThlY2MyMGU5OThlMGFhODcy`
+Snapshot ID: `MCw3M2E4Zjg0NjMxMjUzNTYwYmMxNDg1YjgzNTJhN2JlMTBhMThkMjc0`

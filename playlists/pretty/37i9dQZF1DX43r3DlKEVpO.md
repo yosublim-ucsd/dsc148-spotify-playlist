@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 
 > Uma seleção para as mães e os pais cantarem junto com os filhos e vice\-versa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,725 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,722 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 22 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 |
 | 23 | [Everything](https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 3:32 |
 | 24 | [Ob\-La\-Di, Ob\-La\-Da \- Remastered 2009](https://open.spotify.com/track/1gFNm7cXfG1vSMcxPpSxec) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 3:08 |
-| 25 | [Hit the Road Jack](https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Soul](https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD) | 1:59 |
-| 26 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 |
+| 25 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 |
+| 26 | [Hit the Road Jack](https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Soul](https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD) | 1:59 |
 | 27 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:34 |
 | 28 | [Good Vibrations \- Remastered 2001](https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 |
 | 29 | [Miss You \- Remastered](https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:48 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 37 | [Tempos Modernos](https://open.spotify.com/track/1TIvODlICRKM5uhbKbNFGA) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:44 |
 | 38 | [Blue Suede Shoes](https://open.spotify.com/track/47gmoUrZV3w20JAnQOZMcO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Presley](https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin) | 1:59 |
 | 39 | [All of Me](https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 3:01 |
-| 40 | [Into My Arms](https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 \- Remaster\)](https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv) | 4:16 |
-| 41 | [Stop! In The Name Of Love](https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [More Hits By The Supremes](https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A) | 2:52 |
-| 42 | [Time of the Season \- Mono Version](https://open.spotify.com/track/6ub8sQIKHkyYK4KlB9gbxh) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5) | 3:34 |
+| 40 | [Time of the Season \- Mono Version](https://open.spotify.com/track/6ub8sQIKHkyYK4KlB9gbxh) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5) | 3:34 |
+| 41 | [Into My Arms](https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 \- Remaster\)](https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv) | 4:16 |
+| 42 | [Stop! In The Name Of Love](https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [More Hits By The Supremes](https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A) | 2:52 |
 | 43 | [Just The Way You Are](https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:49 |
 | 44 | [Como Nossos Pais](https://open.spotify.com/track/2ZC8sdv4Kvuql7Q9T8Agzv) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:21 |
 | 45 | [De Do Do Do, De Da Da Da](https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 4:07 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 77 | [Olhos Nos Olhos](https://open.spotify.com/track/1UBJvypv5W1GNoplpc2EYl) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Pássaro Proibido](https://open.spotify.com/album/1tF6qjWpG4gMIfzFBzgI4Y) | 4:35 |
 | 78 | [Sorte](https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Sorte](https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh) | 3:04 |
 | 79 | [O Sol Nascerá \(A Sorrir\)](https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 1:37 |
-| 80 | [O Xote das Meninas](https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5) | [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [Luiz Gonzaga Canta Seus Sucessos Com Zé Dantas](https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw) | 2:51 |
-| 81 | [Sereia / De Repente Califórnia / Como uma Onda \(Zen Surfismo\)](https://open.spotify.com/track/6j6MnaZLmgz8pocyyM4NWy) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 6:52 |
+| 80 | [Sereia / De Repente Califórnia / Como uma Onda \(Zen Surfismo\)](https://open.spotify.com/track/6j6MnaZLmgz8pocyyM4NWy) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 6:52 |
+| 81 | [O Xote das Meninas](https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5) | [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [Luiz Gonzaga Canta Seus Sucessos Com Zé Dantas](https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw) | 2:51 |
 | 82 | [Fever](https://open.spotify.com/track/4Ke1CYcm2wYDFlOhziFFjK) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [All Aglow Again!](https://open.spotify.com/album/3RXdzJHsQSxpucVGBcsgOP) | 3:22 |
 | 83 | [Divino Maravilhoso](https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 4:20 |
 | 84 | [You're The First, The Last, My Everything](https://open.spotify.com/track/6kOjNVGh1Gapc7224d20Ym) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Number Ones](https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 99 | [Quando Você Passa \(Turu Turu\) \- Ao Vivo](https://open.spotify.com/track/59otIBHIQRlIQdo41EwQIi) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Nossa História \(Ao Vivo\)](https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx) | 3:42 |
 | 100 | [Gita](https://open.spotify.com/track/4mdIZdlpZ8ilKNPDoWEpSK) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | ['Gîtâ'](https://open.spotify.com/album/5oOsBQphe8sbvZULbepg7U) | 4:47 |
 
-Snapshot ID: `MCw0YzRjNTIzYTUxYTk2NWI4OWIyZWZkMTlmZDg1YmE1OThjYTEyYTU3`
+Snapshot ID: `MCw4NDA5ODUyNTIyZjc4MjQ5YjEyM2VjZmY4ZWY0NmQ3NWM5MDk0MjY3`

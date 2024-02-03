@@ -1,12 +1,12 @@
 {
   "description": "Swinging jazz for relaxing and unwinding.",
-  "num_followers": 69378,
+  "num_followers": 69449,
   "original_name": "Chill Out Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTcxNjc3MDkyMmFjZjVjZjIxMTM3NWVlZTliYjQzYTk0MjY2ZjRj",
+  "snapshot_id": "MCxiZmY0ZjdhOTZjNzMxZTUyZWJmM2EzMDMxZGI1Yjg5OWJlYmE1ZmFk",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Walking talking fields",
-        "url": "https://open.spotify.com/album/1PWAJ2s1OLsjPBA8ZieZvr"
-      },
-      "artists": [
-        {
-          "name": "Rossdale Junction",
-          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
-        }
-      ],
-      "duration_ms": 234370,
-      "name": "Walking talking fields",
-      "url": "https://open.spotify.com/track/2sMyolj16yyMfF5TDs2Xs8"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Gentle Rain",
         "url": "https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 192874,
       "name": "Gentle Rain",
       "url": "https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Walking talking fields",
+        "url": "https://open.spotify.com/album/1PWAJ2s1OLsjPBA8ZieZvr"
+      },
+      "artists": [
+        {
+          "name": "Rossdale Junction",
+          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
+        }
+      ],
+      "duration_ms": 234370,
+      "name": "Walking talking fields",
+      "url": "https://open.spotify.com/track/2sMyolj16yyMfF5TDs2Xs8"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Soft Lad",
-        "url": "https://open.spotify.com/album/4y9M38huG2kr1sOGZnqzYw"
+        "name": "You Go To My Head",
+        "url": "https://open.spotify.com/album/3wvTUr0jvkCGLBG4ESBF1a"
       },
       "artists": [
         {
-          "name": "Tyrone Coates & Friends",
-          "url": "https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC"
+          "name": "Tim Franks Trio",
+          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
         }
       ],
-      "duration_ms": 174552,
-      "name": "Soft Lad",
-      "url": "https://open.spotify.com/track/2D5WUT4UAYqceSBUmwstDf"
+      "duration_ms": 299029,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Soft Lad",
+        "url": "https://open.spotify.com/album/4y9M38huG2kr1sOGZnqzYw"
+      },
+      "artists": [
+        {
+          "name": "Tyrone Coates & Friends",
+          "url": "https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC"
+        }
+      ],
+      "duration_ms": 174552,
+      "name": "Soft Lad",
+      "url": "https://open.spotify.com/track/2D5WUT4UAYqceSBUmwstDf"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Forever Promises",
         "url": "https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 193237,
       "name": "Forever Promises",
       "url": "https://open.spotify.com/track/4a1J9yup472zZW604BHbha"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "You Go To My Head",
-        "url": "https://open.spotify.com/album/3wvTUr0jvkCGLBG4ESBF1a"
-      },
-      "artists": [
-        {
-          "name": "Tim Franks Trio",
-          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
-        }
-      ],
-      "duration_ms": 299029,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "I Waited For You",
+        "url": "https://open.spotify.com/album/4gtku4tyuo8XFZC72MPAS8"
+      },
+      "artists": [
+        {
+          "name": "Avery Miller",
+          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
+        }
+      ],
+      "duration_ms": 204681,
+      "name": "I Waited For You",
+      "url": "https://open.spotify.com/track/4j58MWVz5BW6Z4b3x01EEG"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Cool Breeze",
         "url": "https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 169612,
       "name": "Out of Wilma",
       "url": "https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "I Waited For You",
-        "url": "https://open.spotify.com/album/4gtku4tyuo8XFZC72MPAS8"
-      },
-      "artists": [
-        {
-          "name": "Avery Miller",
-          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
-        }
-      ],
-      "duration_ms": 204681,
-      "name": "I Waited For You",
-      "url": "https://open.spotify.com/track/4j58MWVz5BW6Z4b3x01EEG"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2l8FcbyvaEO4Z6PWnJE5Fo"
+      },
+      "artists": [
+        {
+          "name": "Cara Myers Trio",
+          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
+        }
+      ],
+      "duration_ms": 219069,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Silky Smooth",
         "url": "https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "In My Own Small World",
-        "url": "https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl"
-      },
-      "artists": [
-        {
-          "name": "Mr. Right Time",
-          "url": "https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ"
-        }
-      ],
-      "duration_ms": 258414,
-      "name": "What's Life Without You",
-      "url": "https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Maze of Tranquility",
         "url": "https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS"
       },
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "In My Own Small World",
+        "url": "https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl"
+      },
+      "artists": [
+        {
+          "name": "Mr. Right Time",
+          "url": "https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ"
+        }
+      ],
+      "duration_ms": 258414,
+      "name": "What's Life Without You",
+      "url": "https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Moved by Performance",
         "url": "https://open.spotify.com/album/51ooDFroTRMYe2lM2hhjfn"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 158698,
       "name": "Moved by Performance",
       "url": "https://open.spotify.com/track/1X5VaV9u5071WW9D9vDE8n"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/2l8FcbyvaEO4Z6PWnJE5Fo"
-      },
-      "artists": [
-        {
-          "name": "Cara Myers Trio",
-          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
-        }
-      ],
-      "duration_ms": 219069,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Notes and Nights",
-        "url": "https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4"
-      },
-      "artists": [
-        {
-          "name": "Tate Jackson Trio",
-          "url": "https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ"
-        }
-      ],
-      "duration_ms": 184470,
-      "name": "Notes and Nights",
-      "url": "https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "It's You Or No One",
         "url": "https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 214798,
       "name": "It's You Or No One",
       "url": "https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Notes and Nights",
+        "url": "https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4"
+      },
+      "artists": [
+        {
+          "name": "Tate Jackson Trio",
+          "url": "https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ"
+        }
+      ],
+      "duration_ms": 184470,
+      "name": "Notes and Nights",
+      "url": "https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Winter in New York",
-        "url": "https://open.spotify.com/album/1bZWiXD71om6CskjaZWcpF"
-      },
-      "artists": [
-        {
-          "name": "James Jackson Jazz Trio",
-          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
-        }
-      ],
-      "duration_ms": 167621,
-      "name": "Coffee with My Baby",
-      "url": "https://open.spotify.com/track/6Bp14zQZMHbZGOSuTIHkyF"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Come on... Lucky!",
         "url": "https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX"
       },
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Winter in New York",
+        "url": "https://open.spotify.com/album/1bZWiXD71om6CskjaZWcpF"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "duration_ms": 167621,
+      "name": "Coffee with My Baby",
+      "url": "https://open.spotify.com/track/6Bp14zQZMHbZGOSuTIHkyF"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "I'll never stop loving you",
         "url": "https://open.spotify.com/album/7D7IqqcmJPkvbxjQFBxZDk"
       },
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "I\u2019ll pass it on",
+        "url": "https://open.spotify.com/album/5TaXOrq4aq7T4CtyfB6nbB"
+      },
+      "artists": [
+        {
+          "name": "Meadowpoints",
+          "url": "https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J"
+        }
+      ],
+      "duration_ms": 214635,
+      "name": "I\u2019ll pass it on",
+      "url": "https://open.spotify.com/track/0AqWzQ2SwrckgIFTqHNbpM"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Solitaire",
         "url": "https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Mancuso's Joint",
-        "url": "https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF"
-      },
-      "artists": [
-        {
-          "name": "Norris Walker Trio",
-          "url": "https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9"
-        }
-      ],
-      "duration_ms": 258836,
-      "name": "Mancuso's Joint",
-      "url": "https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 204083,
       "name": "Candy",
       "url": "https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Mancuso's Joint",
+        "url": "https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF"
+      },
+      "artists": [
+        {
+          "name": "Norris Walker Trio",
+          "url": "https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9"
+        }
+      ],
+      "duration_ms": 258836,
+      "name": "Mancuso's Joint",
+      "url": "https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "I\u2019ll pass it on",
-        "url": "https://open.spotify.com/album/5TaXOrq4aq7T4CtyfB6nbB"
-      },
-      "artists": [
-        {
-          "name": "Meadowpoints",
-          "url": "https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J"
-        }
-      ],
-      "duration_ms": 214635,
-      "name": "I\u2019ll pass it on",
-      "url": "https://open.spotify.com/track/0AqWzQ2SwrckgIFTqHNbpM"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Rue Cr\u00e9mieux",
         "url": "https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Good Night",
-        "url": "https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS"
-      },
-      "artists": [
-        {
-          "name": "Charlie James-Walker",
-          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
-        }
-      ],
-      "duration_ms": 236937,
-      "name": "Good Night",
-      "url": "https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "I'm Glad There's You",
         "url": "https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 287479,
       "name": "Pensativa",
       "url": "https://open.spotify.com/track/1QVNZXoguyS3bBzMldMn7i"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Good Night",
+        "url": "https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS"
+      },
+      "artists": [
+        {
+          "name": "Charlie James-Walker",
+          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
+        }
+      ],
+      "duration_ms": 236937,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "I gotta run",
-        "url": "https://open.spotify.com/album/3X1FnR1QZ0SZ3QkvtXnalG"
-      },
-      "artists": [
-        {
-          "name": "Ornette Haynes",
-          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
-        }
-      ],
-      "duration_ms": 188730,
-      "name": "I gotta run",
-      "url": "https://open.spotify.com/track/7BB0KhE9SURfW1v8M826qo"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Don't Go To Strangers",
         "url": "https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 242167,
       "name": "Don't Go To Strangers",
       "url": "https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "I gotta run",
+        "url": "https://open.spotify.com/album/3X1FnR1QZ0SZ3QkvtXnalG"
+      },
+      "artists": [
+        {
+          "name": "Ornette Haynes",
+          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
+        }
+      ],
+      "duration_ms": 188730,
+      "name": "I gotta run",
+      "url": "https://open.spotify.com/track/7BB0KhE9SURfW1v8M826qo"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "New York City Dreamin'",
-        "url": "https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U"
-      },
-      "artists": [
-        {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "A Window to Your Soul",
-      "url": "https://open.spotify.com/track/1geBlthEVZzW8RKCBY9eJT"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "My Lonely Days Are Over",
         "url": "https://open.spotify.com/album/6cHr3pZ7P9eQHuRcpLH0H9"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 230681,
       "name": "My Lonely Days Are Over",
       "url": "https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "New York City Dreamin'",
+        "url": "https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "A Window to Your Soul",
+      "url": "https://open.spotify.com/track/1geBlthEVZzW8RKCBY9eJT"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/1HhnW65X0yXfoXZSWSFROL"
-      },
-      "artists": [
-        {
-          "name": "Tribute Trio",
-          "url": "https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C"
-        }
-      ],
-      "duration_ms": 179064,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/3aEzo1qHVQU5S3nsjFfx0V"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Tonight We Dance",
         "url": "https://open.spotify.com/album/4KUrd6HHTvbaJDNUVlUDFF"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 163114,
       "name": "Forget the Moonlight",
       "url": "https://open.spotify.com/track/04B0Jt1hOgu7nt6UEjtTo8"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/1HhnW65X0yXfoXZSWSFROL"
+      },
+      "artists": [
+        {
+          "name": "Tribute Trio",
+          "url": "https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C"
+        }
+      ],
+      "duration_ms": 179064,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/3aEzo1qHVQU5S3nsjFfx0V"
     },
     {
       "added_at": "2024-02-02 00:01:00",

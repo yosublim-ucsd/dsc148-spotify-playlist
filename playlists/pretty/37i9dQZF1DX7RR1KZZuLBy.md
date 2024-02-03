@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,462 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,507 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 12 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:58 |
 | 13 | [Raise a Hallelujah \- Live](https://open.spotify.com/track/0YxrPdW9NpNFtqh7Fw0rva) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Victory \(Live\)](https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY) | 7:50 |
 | 14 | [MIRACLE CHILD](https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [COAT OF MANY COLORS](https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE) | 4:03 |
-| 15 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
-| 16 | [Yet](https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq) | [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8) | [Yet](https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft) | 5:02 |
+| 15 | [Yet](https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq) | [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8) | [Yet](https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft) | 5:02 |
+| 16 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
 | 17 | [See A Victory](https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [See A Victory](https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq) | 6:03 |
 | 18 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao) | 8:44 |
 | 19 | [Bless God](https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [EIGHT](https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu) | 4:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 49 | [Worthy](https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [How To Start A Housefire \(Pt\. III\)](https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8) | 6:55 |
 | 50 | [Haleluyah Mdumiseni \(Live\)](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
 
-Snapshot ID: `MCw4ZTliMWY2OWI5MGIwMzZkY2M0OTY3M2Y4ODI3ODcyZDdiYzQ4ODRl`
+Snapshot ID: `MCw3ZjNmMzk5YjA0MTkwYjAwYzYyZTFlNTk3YjdjMDZjNzkxMDVmM2Jh`

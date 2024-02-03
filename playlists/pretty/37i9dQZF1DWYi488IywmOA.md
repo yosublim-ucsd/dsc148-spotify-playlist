@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 
 > Blues favorites from 2023\. Cover: Joe Bonamassa \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,701 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,707 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 | 21 | [I Feel The Love](https://open.spotify.com/track/71hm679WbPTe0u1jbYadyO) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [AMEN](https://open.spotify.com/album/5GcQhWvQf2nEqCylA5dgpc) | 2:59 |
 | 22 | [Cross The Line](https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Cross The Line](https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a) | 3:07 |
 | 23 | [Bring Me Back Home Again](https://open.spotify.com/track/3qZ1jMV2RWdEOzg24eMdgk) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Ride Into The Light](https://open.spotify.com/album/5xuQW8kgZA46yYPWziOJzO) | 3:43 |
-| 24 | [Lover's Game](https://open.spotify.com/track/6wUBlJVmVzIXbOsfJgd7Oh) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 2:49 |
+| 24 | [Lover's Game](https://open.spotify.com/track/6wUBlJVmVzIXbOsfJgd7Oh) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 2:49 |
 | 25 | [Train](https://open.spotify.com/track/2OSgMSxdu1OgPWZmjSICtt) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Train](https://open.spotify.com/album/30441czI78xULystFpO9p5) | 3:52 |
 | 26 | [Coal Black Mattie](https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn) | [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2) | [Coal Black Mattie](https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1) | 3:49 |
 | 27 | [Don't Walk Out That Door](https://open.spotify.com/track/0A6KI74CUx4BADm5zEL8HB) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Weight of the World](https://open.spotify.com/album/2upuqUhXRGi2J1P8KIgGdv) | 4:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 | 74 | [Y.A.T.O \(You Ain't The One\)](https://open.spotify.com/track/0JXuO3IvoHqhVYvIWyRlNT) | [Malina Moye](https://open.spotify.com/artist/3fPngdGRZMBzFFBf3ql2XK) | [Dirty](https://open.spotify.com/album/7k94nlPDqq4R5tIq1KuWKP) | 3:38 |
 | 75 | [No Lovin’](https://open.spotify.com/track/6ET7xDSbmaRGJrx1FQlJpv) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Tell Everybody! \(21st Century Juke Joint Blues From Easy Eye Sound\)](https://open.spotify.com/album/3GTVE7nzIEmerPTDJwpdbD) | 4:17 |
 
-Snapshot ID: `MCw5NmZkYTY0ZjQ1ZjlkYzYzZGJkMjM5MTNlM2EyY2VkNjRlODQ1Yzcz`
+Snapshot ID: `MCw4YTA2ZWU0ZDcyMTNmMDRlODI5ZjVlNmE5Yjc3MjJkNDYwNGI3M2Fl`

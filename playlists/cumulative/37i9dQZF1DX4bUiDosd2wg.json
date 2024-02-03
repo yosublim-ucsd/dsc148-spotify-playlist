@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Kim Gun Mo 3",
+        "url": "https://open.spotify.com/album/7MC1rUuYaRivDt9xHwxyPO"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250680,
+      "name": "A Beautiful Farewell",
+      "url": "https://open.spotify.com/track/4uYt1qSWwaXnPttPgDdEfZ"
+    },
+    {
+      "album": {
         "name": "Be ordinary",
         "url": "https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,404,686 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,404,391 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 74 | [MOONLIGHT SUNRISE \(Jonas Blue Remix\)](https://open.spotify.com/track/0H8vXZHYrbMfYJlojEjiS3) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 2:47 |
 | 75 | [Seven \(feat\. Latto\) \(Alesso Remix\)](https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Seven \(feat\. Latto\) \(Alesso Remix\)](https://open.spotify.com/album/3nDzRDgvd0SxAxRHEefwDb) | 2:42 |
 
-Snapshot ID: `MCxjNzk0MTJmOWM5MzQ4ZWUzZDRkOTlkMjM3MDQ1YmQ1OThjNGI5MjU5`
+Snapshot ID: `MCxjY2E0MWU4YzU1NDNiODQ2M2I4NTI0MGM0ZTQ4ZTc2ZDkzZThhNjM4`

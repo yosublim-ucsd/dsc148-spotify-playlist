@@ -2,7 +2,7 @@
 
 ### [Front Page Indie](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> New music from The Smile, Future Islands, Katy Kirby and more..\.  Cover: The Smile
+> New music from Royel Otis, Hovvdy, The Smile and more..\.  Cover: Royel Otis
 
 1,992 songs - 4 day 23 hr 39 min
 

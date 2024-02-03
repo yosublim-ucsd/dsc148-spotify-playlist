@@ -4,7 +4,7 @@
 
 > Se acabó el amor\. La música continúa.
 
-219 songs - 12 hr 42 min
+221 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,9 +25,9 @@
 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 | 2021-12-06 |  |
 | [Amor Ordinario](https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:10 | 2021-12-06 |  |
 | [Antídoto](https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Antídoto](https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd) | 3:26 | 2021-12-06 | 2022-07-19 |
-| [Apuré Mi Café](https://open.spotify.com/track/3lXFDK6qTIaP8cHKvDHd7O) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Apuré Mi Café](https://open.spotify.com/album/2REMNzHUcsxbQgxdB79wDh) | 3:11 | 2021-12-06 |  |
+| [Apuré Mi Café](https://open.spotify.com/track/3lXFDK6qTIaP8cHKvDHd7O) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Apuré Mi Café](https://open.spotify.com/album/2REMNzHUcsxbQgxdB79wDh) | 3:11 | 2021-12-06 | 2024-02-03 |
 | [Arreglándome y Dañándome](https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Arreglándome y Dañándome](https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF) | 4:04 | 2021-12-06 |  |
-| [Atado Entre Tus Manos](https://open.spotify.com/track/0A7Bx1u7ufBNclwcfs02mG) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Atado Entre Tus Manos](https://open.spotify.com/album/4ynLSCZ4KGaB3mIbYHb2dw) | 3:16 | 2021-12-06 |  |
+| [Atado Entre Tus Manos](https://open.spotify.com/track/0A7Bx1u7ufBNclwcfs02mG) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Atado Entre Tus Manos](https://open.spotify.com/album/4ynLSCZ4KGaB3mIbYHb2dw) | 3:16 | 2021-12-06 | 2024-02-03 |
 | [Atenas](https://open.spotify.com/track/4QLrqZYSbUujthmoherUu1) | [Omar K11](https://open.spotify.com/artist/5MgAfWCS0vzouE9lVzwjJy) | [Atenas](https://open.spotify.com/album/46bXn9pe9gh2JMBSNjgiQJ) | 3:43 | 2021-12-06 | 2022-06-17 |
 | [Avioncito de Papel](https://open.spotify.com/track/3NotbAoyN09CuKaqWQP48U) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Lo Que Me Dé la Gana](https://open.spotify.com/album/7wtZmmV9IngZcM71QUBUgL) | 3:49 | 2022-07-21 | 2023-06-29 |
 | [Avioncito de Papel](https://open.spotify.com/track/6egy0VnC8Bk0Spubi8Xe1W) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Avioncito de Papel](https://open.spotify.com/album/5qoaoUSAfDGA4obdQHb2yb) | 3:49 | 2021-12-06 | 2022-07-29 |
@@ -42,6 +42,7 @@
 | [Complicado](https://open.spotify.com/track/41nkvQRQEdwl7xXV6SOLEQ) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Complicado](https://open.spotify.com/album/1ah2JVpqSNdjezgxYgmQlC) | 3:01 | 2021-12-06 | 2022-11-13 |
 | [Con la Falta Que Me Haces](https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [20 \-\- 21](https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc) | 2:44 | 2021-12-06 |  |
 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 | 2021-12-06 | 2023-12-08 |
+| [Cora Frío](https://open.spotify.com/track/02St1isK2dC8LVWn8BBDoY) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Cora Frío](https://open.spotify.com/album/5NfVkHKItmD5GfGmTSwy9e) | 2:44 | 2024-02-02 |  |
 | [Corazón descalzo](https://open.spotify.com/track/54ApOH9ZT6Sk86t8Ayuey9) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Corazón descalzo](https://open.spotify.com/album/6rPDQxBOhdM6PMJhicMIWj) | 4:14 | 2021-12-06 | 2023-12-02 |
 | [Corazón Sin Vida](https://open.spotify.com/track/3OL6rKs4tpYCdPZ9SEx50p) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Corazón Sin Vida](https://open.spotify.com/album/65jAsD6n85tGFFeuPhokaO) | 3:01 | 2021-12-06 |  |
 | [Cristina](https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Cristina](https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6) | 3:22 | 2021-12-06 |  |
@@ -126,6 +127,7 @@
 | [Nadie ha dicho](https://open.spotify.com/track/7hSLEk0h67Q5NO1TfLHgLf) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Nadie ha dicho](https://open.spotify.com/album/2hp0naP4otrsfhw1xlXdvy) | 3:27 | 2021-12-06 | 2022-07-27 |
 | [Nadie Me Vuelve A Joder](https://open.spotify.com/track/4ysIQ2AalFEvYMBN7XgtDv) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Nadie Me Vuelve A Joder](https://open.spotify.com/album/5K1qmDGAxNiXSHFYK1DWHr) | 2:41 | 2023-03-24 | 2023-12-26 |
 | [Negar](https://open.spotify.com/track/6ujcAtYCwOXPbGl9bVJBue) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr) | 3:19 | 2023-12-01 |  |
+| [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 | 2024-02-02 |  |
 | [Nina](https://open.spotify.com/track/0jM8GPrMSe8aXQnUpxKPD7) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Nina](https://open.spotify.com/album/7Lx6OYb9ZXHnWXQqFs1iOL) | 3:28 | 2021-12-06 | 2022-02-25 |
 | [No Hacemos Nada](https://open.spotify.com/track/5JSQZ7gNcJimOFmdJd6Xk7) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [No Hacemos Nada](https://open.spotify.com/album/0ytyjLYIT72OOBt03CH6l0) | 3:28 | 2021-12-06 | 2022-07-29 |
 | [No Le Llames Amor](https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [No Le Llames Amor](https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l) | 3:23 | 2021-12-06 |  |

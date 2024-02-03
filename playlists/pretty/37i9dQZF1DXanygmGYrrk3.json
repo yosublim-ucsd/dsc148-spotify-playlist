@@ -1,12 +1,12 @@
 {
   "description": "Tus canciones favoritas de M\u00fasica Mexicana, all in one place! Cover: Eden Mu\u00f1oz",
-  "num_followers": 288677,
+  "num_followers": 288869,
   "original_name": "Las Favoritas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGQyYjZiMWIzYjZmZjZlMjA0YjcyMGE0NDVlMDRmYWM0MTFhOGM5",
+  "snapshot_id": "MCw5YTQwNzU2Y2Q5ODNmMzAwYzZlY2Q3NGMwMmE5MTI3ZWE2YTU1MGE0",
   "tracks": [
     {
       "added_at": "2024-01-12 05:41:55",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-01-12 05:41:55",
       "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
-    },
-    {
-      "added_at": "2024-01-12 05:41:55",
-      "album": {
         "name": "Sobran Motivos",
         "url": "https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 185338,
       "name": "Sobran Motivos",
       "url": "https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au"
+    },
+    {
+      "added_at": "2024-01-12 05:41:55",
+      "album": {
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
       "added_at": "2024-01-12 05:41:55",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-01-12 05:41:55",
       "album": {
-        "name": "Al Derecho Y Al Reverso",
-        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Eres Ese Algo",
-      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
-    },
-    {
-      "added_at": "2024-01-12 05:41:55",
-      "album": {
         "name": "De Lo Bueno, Lo Mejor",
         "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 204453,
       "name": "La Buena y la Mala",
       "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
+    },
+    {
+      "added_at": "2024-01-12 05:41:55",
+      "album": {
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Eres Ese Algo",
+      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
     },
     {
       "added_at": "2024-01-12 05:41:55",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-01-12 05:41:55",
       "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+    },
+    {
+      "added_at": "2024-01-12 05:41:55",
+      "album": {
         "name": "Se\u00f1alado por Costumbre",
         "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 176000,
       "name": "La Escuela No Me Gust\u00f3",
       "url": "https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94"
-    },
-    {
-      "added_at": "2024-01-12 05:41:55",
-      "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2024-01-12 05:41:55",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-01-12 05:41:55",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
-    },
-    {
-      "added_at": "2024-01-12 05:41:55",
-      "album": {
         "name": "Que Sea",
         "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 170506,
       "name": "Que Sea",
       "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
+    },
+    {
+      "added_at": "2024-01-12 05:41:55",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 178050,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
     },
     {
       "added_at": "2024-01-12 05:41:55",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2024-01-12 05:41:55",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
-    },
-    {
-      "added_at": "2024-01-12 05:41:55",
-      "album": {
         "name": "Amor Brutal",
         "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 165146,
       "name": "Mi Bello \u00c1ngel",
       "url": "https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0"
+    },
+    {
+      "added_at": "2024-01-12 05:41:55",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
     },
     {
       "added_at": "2024-01-12 05:41:55",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2024-01-12 05:41:55",
       "album": {
-        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
-      },
-      "artists": [
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        }
-      ],
-      "duration_ms": 182073,
-      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
-    },
-    {
-      "added_at": "2024-01-12 05:41:55",
-      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 182106,
       "name": "A Trav\u00e9s Del Vaso",
       "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
+    },
+    {
+      "added_at": "2024-01-12 05:41:55",
+      "album": {
+        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 182073,
+      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
     },
     {
       "added_at": "2024-01-12 05:41:55",
@@ -2331,6 +2331,22 @@
     {
       "added_at": "2024-01-12 05:41:55",
       "album": {
+        "name": "En Vida",
+        "url": "https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Mi Meta Contigo",
+      "url": "https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn"
+    },
+    {
+      "added_at": "2024-01-12 05:41:55",
+      "album": {
         "name": "En Blindadas",
         "url": "https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY"
       },
@@ -2403,22 +2419,6 @@
     {
       "added_at": "2024-01-12 05:41:55",
       "album": {
-        "name": "En Vida",
-        "url": "https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Mi Meta Contigo",
-      "url": "https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn"
-    },
-    {
-      "added_at": "2024-01-12 05:41:55",
-      "album": {
         "name": "Desde Morro",
         "url": "https://open.spotify.com/album/6ruqxBlrH2BEZKZjgG3hSS"
       },
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2024-01-12 05:41:55",
       "album": {
-        "name": "Ya Aprend\u00ed la Lecci\u00f3n",
-        "url": "https://open.spotify.com/album/4mruyGpiOW9uR1nqyE3xoE"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 208541,
-      "name": "El Final de Nuestra Historia",
-      "url": "https://open.spotify.com/track/4dGfHOm1BZjV6LdC1ufJtY"
-    },
-    {
-      "added_at": "2024-01-12 05:41:55",
-      "album": {
         "name": "La Boca Les Callamos",
         "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 164650,
       "name": "La Boca Les Callamos",
       "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
+    },
+    {
+      "added_at": "2024-01-12 05:41:55",
+      "album": {
+        "name": "Ya Aprend\u00ed la Lecci\u00f3n",
+        "url": "https://open.spotify.com/album/4mruyGpiOW9uR1nqyE3xoE"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 208541,
+      "name": "El Final de Nuestra Historia",
+      "url": "https://open.spotify.com/track/4dGfHOm1BZjV6LdC1ufJtY"
     },
     {
       "added_at": "2024-01-12 05:41:55",
@@ -2603,6 +2603,22 @@
     {
       "added_at": "2024-01-12 05:41:55",
       "album": {
+        "name": "No Paras de Hacerme Feliz",
+        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "No Paras de Hacerme Feliz",
+      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
+    },
+    {
+      "added_at": "2024-01-12 05:41:55",
+      "album": {
         "name": "Con Un Botecito A Pecho",
         "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
       },
@@ -2619,22 +2635,6 @@
       "duration_ms": 176133,
       "name": "Con Un Botecito A Pecho",
       "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
-    },
-    {
-      "added_at": "2024-01-12 05:41:55",
-      "album": {
-        "name": "Amistad y Pesos",
-        "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 338901,
-      "name": "Mi \u00daltima Caravana",
-      "url": "https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3"
     }
   ],
   "unique_name": "Las Favoritas",

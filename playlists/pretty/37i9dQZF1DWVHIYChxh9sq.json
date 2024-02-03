@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Recluta y Adrian Chaparro",
-  "num_followers": 69209,
+  "num_followers": 69249,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2UyNzVlMmMzOWI1NDlkMDAzNmMxZmRlNzNlZjNjYmI0M2ZmYjU2",
+  "snapshot_id": "MCxmZWRmMzkyODUzNzdkYzQxMzYzMGExNGY2MGE0ZWYyODZiYjMxZGRm",
   "tracks": [
     {
       "added_at": "2023-09-26 05:23:38",
@@ -695,22 +695,18 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "Dile a Tu Orgullo (En Vivo)",
-        "url": "https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
       },
       "artists": [
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
         }
       ],
-      "duration_ms": 226345,
-      "name": "Dile a Tu Orgullo (En Vivo)",
-      "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -735,18 +731,22 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
+        "name": "Dile a Tu Orgullo (En Vivo)",
+        "url": "https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf"
       },
       "artists": [
         {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
+      "duration_ms": 226345,
+      "name": "Dile a Tu Orgullo (En Vivo)",
+      "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "Pasado Pisado (En Vivo)",
-        "url": "https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 156597,
-      "name": "Pasado Pisado (En Vivo)",
-      "url": "https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
         "name": "El Chino",
         "url": "https://open.spotify.com/album/6cIC7nXT8crS5Q7XaPPZdo"
       },
@@ -1591,18 +1571,38 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "El Del Ice (Live)",
-        "url": "https://open.spotify.com/album/1Ha5QFa0aBqttJenBzDs9U"
+        "name": "Pasado Pisado (En Vivo)",
+        "url": "https://open.spotify.com/album/3LQdXD28CDOMZsera2xIhw"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 216960,
-      "name": "El Del Ice - Live",
-      "url": "https://open.spotify.com/track/3L8sZbVW0bGuyUOyqHBFa8"
+      "duration_ms": 156597,
+      "name": "Pasado Pisado (En Vivo)",
+      "url": "https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
+        "name": "Desde Las Vegas",
+        "url": "https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 153562,
+      "name": "Una Flor Quise Cortar",
+      "url": "https://open.spotify.com/track/6fbbV0S1tDc9msYsgZ23gA"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "Desde Las Vegas",
-        "url": "https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB"
+        "name": "El Del Ice (Live)",
+        "url": "https://open.spotify.com/album/1Ha5QFa0aBqttJenBzDs9U"
       },
       "artists": [
         {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 153562,
-      "name": "Una Flor Quise Cortar",
-      "url": "https://open.spotify.com/track/6fbbV0S1tDc9msYsgZ23gA"
+      "duration_ms": 216960,
+      "name": "El Del Ice - Live",
+      "url": "https://open.spotify.com/track/3L8sZbVW0bGuyUOyqHBFa8"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "Doble Llave",
-        "url": "https://open.spotify.com/album/2xp1WOs330wnGBgfXEI7T5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 171558,
-      "name": "Doble Llave",
-      "url": "https://open.spotify.com/track/4n22YbMhxJ3yU5ckd8WUjm"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
         "name": "Seguimos Bateando (En Vivo)",
         "url": "https://open.spotify.com/album/428LK3nKU8Wf0HE6KY1oYv"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 183842,
       "name": "Mi Luna, Mi Estrella",
       "url": "https://open.spotify.com/track/6DW1TtzOyXRmt6I8bfb9L0"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
+        "name": "Doble Llave",
+        "url": "https://open.spotify.com/album/2xp1WOs330wnGBgfXEI7T5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 171558,
+      "name": "Doble Llave",
+      "url": "https://open.spotify.com/track/4n22YbMhxJ3yU5ckd8WUjm"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "A La Antig\u00fcita (En Vivo)",
-        "url": "https://open.spotify.com/album/5jPw5qjvMpafTX2ynchnAh"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 164306,
-      "name": "A La Antig\u00fcita - En Vivo",
-      "url": "https://open.spotify.com/track/3qLGC9pnNACqjokQZA5iBZ"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
         "name": "Yakifest Oasis Vol. 5 (En Vivo)",
         "url": "https://open.spotify.com/album/5iJMnRlnUcuN9GTlGrgJgP"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 262597,
       "name": "C\u00f3mo Este Loco (En Vivo)",
       "url": "https://open.spotify.com/track/2lfOKHw5PZ6oSRBM1LdWpd"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
+        "name": "A La Antig\u00fcita (En Vivo)",
+        "url": "https://open.spotify.com/album/5jPw5qjvMpafTX2ynchnAh"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 164306,
+      "name": "A La Antig\u00fcita - En Vivo",
+      "url": "https://open.spotify.com/track/3qLGC9pnNACqjokQZA5iBZ"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -2255,26 +2255,6 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "L\u00e1rgate (En Vivo)",
-        "url": "https://open.spotify.com/album/5EFOvXqlA0BNEzXlLqhJNF"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "L\u00e1rgate - En Vivo",
-      "url": "https://open.spotify.com/track/3V4vwziUxmEPgVnzkRCEdg"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
         "name": "H\u00edbrido (En Vivo)",
         "url": "https://open.spotify.com/album/0eAoN7SGB0N8ZE455QW5aX"
       },
@@ -2287,6 +2267,22 @@
       "duration_ms": 180537,
       "name": "Celos del Viento - En Vivo",
       "url": "https://open.spotify.com/track/35XIupdRiCOfwH59viQ35v"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
+        "name": "Comando \u00danico con Compa Danny (En vivo)",
+        "url": "https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74"
+      },
+      "artists": [
+        {
+          "name": "Comando \u00danico",
+          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "El Sube y Baja - En vivo",
+      "url": "https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -2307,18 +2303,22 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "Comando \u00danico con Compa Danny (En vivo)",
-        "url": "https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74"
+        "name": "L\u00e1rgate (En Vivo)",
+        "url": "https://open.spotify.com/album/5EFOvXqlA0BNEzXlLqhJNF"
       },
       "artists": [
         {
-          "name": "Comando \u00danico",
-          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
         }
       ],
-      "duration_ms": 157500,
-      "name": "El Sube y Baja - En vivo",
-      "url": "https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq"
+      "duration_ms": 195000,
+      "name": "L\u00e1rgate - En Vivo",
+      "url": "https://open.spotify.com/track/3V4vwziUxmEPgVnzkRCEdg"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
+        "name": "Los De La Noria En Vivo",
+        "url": "https://open.spotify.com/album/1FGMR17jQ6VQgsHWDKmWUF"
+      },
+      "artists": [
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        }
+      ],
+      "duration_ms": 257254,
+      "name": "Popurr\u00ed El Primer Tonto / Eres Mi Droga",
+      "url": "https://open.spotify.com/track/1M7nsuYEzpzxQDAZcLCEBs"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
         "name": "Disimulando (En Vivo)",
         "url": "https://open.spotify.com/album/0PkUb03Sjsiu4t8s6RF62V"
       },
@@ -2431,42 +2447,6 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "De Lo M\u00e1s Interesante (En Vivo)",
-        "url": "https://open.spotify.com/album/64ussNq7ErhaSSFbSkoKuv"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "De Lo M\u00e1s Interesante - En Vivo",
-      "url": "https://open.spotify.com/track/11bCxgcltxjDErax0lBmKi"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
-        "name": "Los De La Noria En Vivo",
-        "url": "https://open.spotify.com/album/1FGMR17jQ6VQgsHWDKmWUF"
-      },
-      "artists": [
-        {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        }
-      ],
-      "duration_ms": 257254,
-      "name": "Popurr\u00ed El Primer Tonto / Eres Mi Droga",
-      "url": "https://open.spotify.com/track/1M7nsuYEzpzxQDAZcLCEBs"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
         "name": "Flor Hermosa (En Vivo)",
         "url": "https://open.spotify.com/album/4Js76hPZtqnf4iOXvUXq00"
       },
@@ -2483,6 +2463,26 @@
       "duration_ms": 172666,
       "name": "Flor Hermosa - En Vivo",
       "url": "https://open.spotify.com/track/5bzbCzlMs85sg8Y9a9kdv0"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
+        "name": "De Lo M\u00e1s Interesante (En Vivo)",
+        "url": "https://open.spotify.com/album/64ussNq7ErhaSSFbSkoKuv"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "De Lo M\u00e1s Interesante - En Vivo",
+      "url": "https://open.spotify.com/track/11bCxgcltxjDErax0lBmKi"
     },
     {
       "added_at": "2023-09-26 05:23:38",

@@ -4,7 +4,7 @@
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Stuck in the Sound
 
-136 songs - 8 hr 12 min
+137 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Giant Jack](https://open.spotify.com/track/2ybS8N0WquvrC9qxarCFk3) | [Dionysos](https://open.spotify.com/artist/75nb7WjICnFHCXFdVX0PkO), [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [L'Extraordinarium](https://open.spotify.com/album/6mzi4tzXS4VUybvG1eTK25) | 4:21 | 2023-11-09 |  |
 | [Good Enough](https://open.spotify.com/track/4KGhV3es3fpxChfpBCgAJj) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Early Fuck\-Ups](https://open.spotify.com/album/1xhjU4FX6Ezh9HtJvhAZDM) | 3:28 | 2023-11-16 | 2023-12-08 |
 | [Guess Who's Back](https://open.spotify.com/track/4yXy1gffkPlOFDwmjqMVOi) | [The Big Idea](https://open.spotify.com/artist/3pXrb8c666Unh7CI7coovt) | [Guess Who's Back](https://open.spotify.com/album/67kQJAVLDFZqF2auxwolVv) | 3:19 | 2023-11-16 |  |
+| [Healing](https://open.spotify.com/track/2FTECyHv2eDT7LGxXCtDvn) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [Healing](https://open.spotify.com/album/0HGYZoDXRFyztQMuZV1I68) | 4:16 | 2024-02-01 |  |
 | [Homesick](https://open.spotify.com/track/3plpIWQeDa8ptI5u0YOmDF) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Homesick](https://open.spotify.com/album/0OBVZGrQNG9jrea52NK2dZ) | 3:27 | 2023-09-28 |  |
 | [Horns](https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Horns](https://open.spotify.com/album/62JI5wGV34CnvBhAG2xwxf) | 3:26 | 2023-11-02 |  |
 | [Hotline](https://open.spotify.com/track/49H7g5Cg0iitRMgcNpGcp1) | [Birdstone](https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t) | [Hotline](https://open.spotify.com/album/27eh9C2MMAgFpb6R2iFNOt) | 4:11 | 2023-11-16 |  |

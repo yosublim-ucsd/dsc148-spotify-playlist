@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 141500,
       "name": "1st Day",
       "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
@@ -607,6 +607,28 @@
     },
     {
       "album": {
+        "name": "BLUE (feat. Moor Mother)",
+        "url": "https://open.spotify.com/album/6hPd5eE0nlAyW5WmGjbzTY"
+      },
+      "artists": [
+        {
+          "name": "R.Y.F.",
+          "url": "https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe"
+        },
+        {
+          "name": "Moor Mother",
+          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180213,
+      "name": "BLUE (feat. Moor Mother)",
+      "url": "https://open.spotify.com/track/0Wq5LVoXfyPJ1HXqv6bXUW"
+    },
+    {
+      "album": {
         "name": "Blue Pale Darling",
         "url": "https://open.spotify.com/album/2eKlf2blGRGDcHhYTzeV9j"
       },
@@ -1014,7 +1036,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 337102,
       "name": "Dreamy Hamilton - Twin Color Remix",
       "url": "https://open.spotify.com/track/0uVfcsjX9FX0VRU3sn2PyR"
@@ -1285,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "Da pacem",
+        "url": "https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK"
+      },
+      "artists": [
+        {
+          "name": "Mykalle",
+          "url": "https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275906,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys"
+    },
+    {
+      "album": {
         "name": "Eulo Cramps",
         "url": "https://open.spotify.com/album/08Y3QjcmVihRgFFtppaQNO"
       },
@@ -1296,7 +1336,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 362108,
       "name": "Glossy Bingo Stain",
       "url": "https://open.spotify.com/track/2Cq1hV8Aiy1xnJCaCSh5CR"
@@ -2092,7 +2132,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 240500,
       "name": "Me Acoplo",
       "url": "https://open.spotify.com/track/0MuFAufcq283OanYu5Ku8X"
@@ -3120,7 +3160,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 344074,
       "name": "Selalu",
       "url": "https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32"
@@ -3572,7 +3612,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 185813,
       "name": "Tintoretto, It's for You",
       "url": "https://open.spotify.com/track/73miaQGwScM2m8qf7yg3EP"
@@ -3905,6 +3945,24 @@
     },
     {
       "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/1qyW4qDLsCmI8Vj8BY4bu3"
+      },
+      "artists": [
+        {
+          "name": "Millie Turner",
+          "url": "https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222453,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/1U7J6OLQ04AGWgGtj4U9ph"
+    },
+    {
+      "album": {
         "name": "Accela",
         "url": "https://open.spotify.com/album/36RmzcuTO4QTi7FaKW4QtX"
       },
@@ -4174,7 +4232,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 267763,
       "name": "What They Call Us",
       "url": "https://open.spotify.com/track/71ydsZmj3wLbdMkA6FPZIy"

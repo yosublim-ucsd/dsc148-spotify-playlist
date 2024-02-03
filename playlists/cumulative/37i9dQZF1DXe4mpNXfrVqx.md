@@ -2,9 +2,9 @@
 
 ### [Só as Minas](https://open.spotify.com/playlist/37i9dQZF1DXe4mpNXfrVqx)
 
-> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Mc Morena
+> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Azzy
 
-175 songs - 7 hr 42 min
+176 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Indispensável](https://open.spotify.com/track/5i8uaqyosYWLvTyNp1NWct) | [Souto MC](https://open.spotify.com/artist/4WELyrcl29LZhemUKihfB4), [Feat Saci](https://open.spotify.com/artist/3xDHxwjYq5n6xFnvNMt2ML) | [Feat Saci \#12](https://open.spotify.com/album/26T75gINhFqs4PtKnNYIk0) | 2:45 | 2023-09-08 |  |
 | [Invisível](https://open.spotify.com/track/12Ue4VoNFehYCgNcFfcrFL) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Invisível](https://open.spotify.com/album/4q1vv6Ymy01U0oHxfcODyB) | 3:29 | 2022-03-18 | 2022-05-28 |
 | [IRREVERSÍVEL](https://open.spotify.com/track/2VNpMBY9uV6JlqEjMSUu0T) | [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [BeatzbyNolan](https://open.spotify.com/artist/6Bt5jX9ESHGTnJKGGt9YWc) | [IRREVERSÍVEL](https://open.spotify.com/album/0WZzO4lMc7tz4KpMUKNpR9) | 3:04 | 2023-11-10 |  |
+| [Jogo de Sedução](https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Jogo de Sedução](https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX) | 3:45 | 2024-02-02 |  |
 | [Joias Caras](https://open.spotify.com/track/6qL6PbTSJYMF9waKQOWdNb) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh), [Biazotto](https://open.spotify.com/artist/6pIhlzAGpJu6YkWsG3fe3b) | [Joias Caras](https://open.spotify.com/album/6iPNo87W8FkjKyPPwsnhdG) | 1:58 | 2023-09-29 |  |
 | [Kali](https://open.spotify.com/track/4ErEw1XXvgV5SvaUtmqXgS) | [Luá Kali](https://open.spotify.com/artist/7erv73antdGnjobwarhKOv), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq) | [Kali](https://open.spotify.com/album/513Vo5nnWl40hZNpIsD3NL) | 2:20 | 2022-03-18 | 2023-04-22 |
 | [Karma](https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 2:57 | 2023-09-01 |  |
@@ -129,7 +130,7 @@
 | [No Hit](https://open.spotify.com/track/4jTrQuPAanb6BWxNNWq18K) | [Bia e Bella](https://open.spotify.com/artist/31Ji2zYJgTY2bgyUgxl2wW), [JR ON](https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA) | [No Hit](https://open.spotify.com/album/7tranZ7eNeYYWIfpJxEm4c) | 2:20 | 2022-05-27 | 2022-09-03 |
 | [Não Me Chama de B\*tch!](https://open.spotify.com/track/3zfQ7bpsPlD17nUXFsg5TY) | [Bárbara Grando](https://open.spotify.com/artist/3Q7SOEZnnLV4lzp4I09k9F) | [Não Me Chama de B\*tch!](https://open.spotify.com/album/24OF1ZkPvnIHT1NqnwLBFr) | 2:48 | 2022-08-12 | 2023-11-11 |
 | [Não Sei Falar de Amor](https://open.spotify.com/track/3S0W6s64EFFjz9sGwJYFBn) | [Sayra](https://open.spotify.com/artist/6CXYbaf5tOaE32kLF7Nf9X), [Beth mc](https://open.spotify.com/artist/7yfBMmSBwoZs7X8HpJn9Hv) | [Não Sei Falar de Amor](https://open.spotify.com/album/7lQFWzOaopwcGmDn1KhoXQ) | 3:13 | 2022-03-18 | 2022-09-03 |
-| [O Corre](https://open.spotify.com/track/7z0eBvO3NlS8u1zPraGWrI) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw) | [O Corre](https://open.spotify.com/album/0VH0MFtMzmo4VtlhgOWl58) | 2:09 | 2022-11-18 |  |
+| [O Corre](https://open.spotify.com/track/7z0eBvO3NlS8u1zPraGWrI) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw) | [O Corre](https://open.spotify.com/album/0VH0MFtMzmo4VtlhgOWl58) | 2:09 | 2022-11-18 | 2024-02-03 |
 | [Obcecada](https://open.spotify.com/track/7vXn1gdgKiCHntX6GYFPJY) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:08 | 2023-11-10 |  |
 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 | 2022-03-18 |  |
 | [Pago no Cash](https://open.spotify.com/track/6MVTR7ZeZGmNofygux7OcU) | [Ayah](https://open.spotify.com/artist/3AAXwZEJ5gGaRB63mbpSke), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv) | [Pago no Cash](https://open.spotify.com/album/633I4cppmO72JcF9P55dIv) | 1:52 | 2022-03-18 | 2023-08-26 |

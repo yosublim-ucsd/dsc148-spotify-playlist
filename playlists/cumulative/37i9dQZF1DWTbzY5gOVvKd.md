@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-185 songs - 12 hr 51 min
+186 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Night And Day](https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:38 | 2019-05-26\* |  |
 | [On an Evening in Roma \(Sott'er Celo de Roma\)](https://open.spotify.com/track/4JEC2RIrXV1owJNVKanIAT) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Nobody but Me \(Deluxe\)](https://open.spotify.com/album/2OXZJLXxM8jrY3gBoVNfmz) | 2:42 | 2022-06-22 |  |
 | [On an Evening in Roma \(Sott'er Celo de Roma\)](https://open.spotify.com/track/5phLXp2XdLBwLuftxbGe2T) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [On an Evening in Roma \(Sott'er Celo de Roma\)](https://open.spotify.com/album/1Ze2q03kDXWfyZwqfIcsYJ) | 2:42 | 2019-05-26\* | 2022-07-29 |
+| [Once Again Looking For Love](https://open.spotify.com/track/15co0IfqPYN3UvUX47Arhq) | [Irma Neumüller](https://open.spotify.com/artist/12IgqUh5ZWPutziu3KFq4w), [Stefan Wingefors](https://open.spotify.com/artist/1liam8bwvvXaHhAtjBBBC4), [Bo Nygårds](https://open.spotify.com/artist/3BBzllaBTkBElB3EAIevP7), [Albin Halvordsson](https://open.spotify.com/artist/3275AaFKPyK0QCVLYHraMv), [Johan Löfcrantz Ramsay](https://open.spotify.com/artist/4KjT6YrRSQlJcj6YJuRZuy) | [Once Again Looking For Love](https://open.spotify.com/album/2vBgUSyNzqaIs8ZJPCpQeM) | 6:03 | 2024-01-31 |  |
 | [One Step Ahead](https://open.spotify.com/track/0MaUUswNytVFfcYYXfvpRQ) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [One Step Ahead \- Single](https://open.spotify.com/album/6fIfmucwqUc3n0pjg2kEy6) | 2:09 | 2019-05-26\* | 2022-07-29 |
 | [One Step Ahead](https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [The Window](https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG) | 2:09 | 2022-06-22 |  |
 | [Our Love Is Here To Stay](https://open.spotify.com/track/1BuHbtYFgSaV99PFPBZEkW) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Unforgettable: With Love](https://open.spotify.com/album/78qajwwkI8eOt1DrnUOtuL) | 3:29 | 2019-05-26\* | 2022-07-29 |
@@ -176,7 +177,7 @@
 | [There You Are \(Second Chance\)](https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language of Love](https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1) | 3:33 | 2022-06-22 |  |
 | [There You Are \(Second Chance\)](https://open.spotify.com/track/4oFYpRn9QZbc7toso38diA) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [This Masquerade / There You Are](https://open.spotify.com/album/2NA3EgaSJy1FW1czeaDPzD) | 3:33 | 2020-02-16 | 2022-02-24 |
 | [THERE YOU ARE \(SECOND CHANCE\)](https://open.spotify.com/track/0Kws2a2GfsZlMKzdYm5aeC) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [LANGUAGE OF LOVE](https://open.spotify.com/album/1aZI6dE6paumZHjfgzwyjS) | 3:33 | 2020-03-11 | 2022-07-29 |
-| [These Things You Are To Me](https://open.spotify.com/track/22rek75QknVrI85tEIUF7a) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Jamison](https://open.spotify.com/album/6JQxB9qntPmPkJF3vD1fIz) | 4:23 | 2019-05-26\* |  |
+| [These Things You Are To Me](https://open.spotify.com/track/22rek75QknVrI85tEIUF7a) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Jamison](https://open.spotify.com/album/6JQxB9qntPmPkJF3vD1fIz) | 4:23 | 2019-05-26\* | 2024-02-03 |
 | [Time Alone](https://open.spotify.com/track/7Jt9DpsKlKRcR3RI9qUl9w) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY) | 6:36 | 2019-05-26\* | 2022-07-29 |
 | [Time Alone](https://open.spotify.com/track/1hYd1uyB9HQpf4icjtBQoB) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 6:40 | 2022-09-13 | 2024-01-19 |
 | [Too Marvelous For Words](https://open.spotify.com/track/4OMCEhWBZrNE3Gfa1pJxse) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/1zTw5dv57Nd7qQNYO1qcmd) | 4:03 | 2022-05-02 | 2022-07-29 |

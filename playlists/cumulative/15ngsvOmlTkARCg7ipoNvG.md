@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,211 songs - 1 day 2 hr 53 min
+1,213 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Dark Sunset Arr\. For Cello And Piano](https://open.spotify.com/track/4d126bJ6EjgBB0WYzFHjv0) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Dark Sunset Arr\. For Cello And Piano](https://open.spotify.com/album/6DNieqoaWKj4XcNLKsvMxq) | 1:00 | 2023-04-08 | 2024-01-30 |
 | [Darkness Fell Arr\. For Cello And Felt Piano](https://open.spotify.com/track/38ZVHDuaNUZKNHeNL7sJVR) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Darkness Fell Arr\. For Cello And Felt Piano](https://open.spotify.com/album/4zZbSNjwl3POiHmEtvnlIO) | 1:01 | 2023-04-19 | 2024-01-30 |
 | [Dawn](https://open.spotify.com/track/2HrjMZtzxnVMYjW6MUJnyJ) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Modern Piano Lullabies, Vol\. 2](https://open.spotify.com/album/1KrEVspzMkpUxGwXjzuXhp) | 1:09 | 2022-01-12 | 2024-01-30 |
+| [Dawn Glow](https://open.spotify.com/track/4rlat72mFEQ2XMLWLyM6X8) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Unending](https://open.spotify.com/album/0kM59KRjGYra61RlIexAjK) | 1:00 | 2024-02-02 |  |
 | [Day One](https://open.spotify.com/track/4W8Hn8N5cqZ9LU42tMHKpR) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:10 | 2022-01-12 |  |
 | [Daybreak](https://open.spotify.com/track/3A1FNWevfj55tBXDrTHXD8) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC), [Somniacs](https://open.spotify.com/artist/0K45rZJcsY0rnclG0fPQ8r) | [Daybreak](https://open.spotify.com/album/4orLa9QDTsG85FPrN8oExJ) | 2:10 | 2022-01-12 | 2023-04-09 |
 | [Daydream](https://open.spotify.com/track/1FjxsaYDmrNc51M7YWOPGC) | [Somniacs](https://open.spotify.com/artist/0K45rZJcsY0rnclG0fPQ8r), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Daydream](https://open.spotify.com/album/1wcszMDTe5vrk6WXB234at) | 1:54 | 2022-01-12 | 2022-12-28 |
@@ -312,6 +313,7 @@
 | [Dreaming Of Spring](https://open.spotify.com/track/1f7tweDAoR2CYvHSiC6Guq) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Wishful](https://open.spotify.com/album/4jicqkJQwogoGfVMKcMU5l) | 1:02 | 2022-01-14 |  |
 | [Dreams In Florence](https://open.spotify.com/track/7eDneB5sBpTyy4fwvil9Vo) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Afloat](https://open.spotify.com/album/0MPWCF5VwCxwfEzj8r2wNt) | 1:01 | 2023-06-16 | 2024-01-30 |
 | [Dreams Of Hope](https://open.spotify.com/track/1Z42wNHEyLHfJBfjP2PvtT) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Gentle Flow](https://open.spotify.com/album/2xnFA2PQopVi0ZGeOi9g9I) | 1:02 | 2022-05-25 |  |
+| [Dreamscape](https://open.spotify.com/track/3rK4BWahvjUbPXZ6eNirMB) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Unending](https://open.spotify.com/album/0kM59KRjGYra61RlIexAjK) | 1:00 | 2024-02-02 |  |
 | [Dreamy Days](https://open.spotify.com/track/16YAAGjH5Aki94hzEv2QGr) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
 | [Drift Away](https://open.spotify.com/track/14coKZQjm8tPbisRbE2UOq) | [A Slower Tempo](https://open.spotify.com/artist/6OixRRPHDKFH9nFQd6xJOs) | [A Slower Tempo](https://open.spotify.com/album/5t3YgMenuyoRN20YFtlJ6H) | 2:43 | 2022-01-12 |  |
 | [Drift On The Calm Air](https://open.spotify.com/track/2GwKFwr1LvX284VJMFmbfM) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Simple Beauty](https://open.spotify.com/album/4QdKwwK6GK3RDguqX13o9J) | 1:02 | 2022-02-15 | 2024-01-30 |

@@ -4,7 +4,7 @@
 
 > Energy tracks to get your beast mode on.
 
-333 songs - 16 hr 30 min
+334 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/track/6RfhBNU1FPWTG7VESlfgOl) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/album/7riCJFypFAOsAHy4MTcNp5) | 1:46 | 2021-11-12 | 2022-01-29 |
 | [Bag Season \(feat\. Lil Tjay\)](https://open.spotify.com/track/28nUmOSSJQNIj7KJ9ux2QV) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:41 | 2021-11-19 | 2022-07-05 |
 | [Ball If I Want To](https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Ball If I Want To](https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu) | 1:52 | 2021-06-25 | 2022-12-10 |
+| [Bandit](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 | 2024-02-02 |  |
 | [bank account \(with Lil Uzi Vert\)](https://open.spotify.com/track/5BvfdAtqZXGbR3Ub1Bejb6) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 3:34 | 2022-10-28 | 2022-12-03 |
 | [Barbie Dangerous](https://open.spotify.com/track/1fKT7RUtOf4xNEqctEFe5L) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:12 | 2023-12-08 |  |
 | [BET](https://open.spotify.com/track/3TJTvFCoVZaWWTRuaIPkMl) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [BET](https://open.spotify.com/album/3LSep2wdPolkSYoB1QB7IV) | 2:34 | 2022-11-18 | 2023-04-30 |
@@ -338,7 +339,7 @@
 | [Wit Da Racks \(feat\. 21 Savage, Travis Scott & Yak Gotti\)](https://open.spotify.com/track/0r75DNlHu4recmKUdZeMfG) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:46 | 2023-06-23 | 2023-07-01 |
 | [Worldwide Steppers](https://open.spotify.com/track/66mVPWmFvXPFf8pjK5ttOW) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:23 | 2022-05-13 | 2022-12-03 |
 | [Wow\. \- Remix](https://open.spotify.com/track/0fcq51a3gOI6gPvzc0YLsk) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Wow\. \(Remix\)](https://open.spotify.com/album/1Id3Zj9GMvi7dPj3u6cMNs) | 2:50 | 2021-01-04 | 2023-09-30 |
-| [x2](https://open.spotify.com/track/3a36nM6fPVA8K1vqq6d03o) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:54 | 2023-06-30 |  |
+| [x2](https://open.spotify.com/track/3a36nM6fPVA8K1vqq6d03o) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:54 | 2023-06-30 | 2024-02-03 |
 | [YKWSF](https://open.spotify.com/track/2wh6X8QOog1zVwhTKhEk3Q) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [SURF OR DROWN, Vol\. 2](https://open.spotify.com/album/1Qsm0Hz3FJlkzf46QWaq3i) | 3:04 | 2023-06-16 | 2023-07-01 |
 | [You A Dime](https://open.spotify.com/track/3asjKt5lvYEs5M8Pm2Mald) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [You A Dime](https://open.spotify.com/album/7kv5MIuO2CyXjLQU7Ahl1I) | 2:44 | 2021-01-22 | 2022-04-21 |
 

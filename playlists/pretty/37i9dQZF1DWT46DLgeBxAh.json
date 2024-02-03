@@ -1,12 +1,12 @@
 {
   "description": "Una mezcla sabrosa, picosita y refrescante.",
-  "num_followers": 332489,
+  "num_followers": 332606,
   "original_name": "Las Micheladas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGI0MmEzYTBiZGI4NDE4ZTgxYmIzNzYxN2ViMzMwNDgxNzc1Yjgw",
+  "snapshot_id": "MCwyYjY2OWNhNDI4M2ViY2M1OTQ5MDY1NWIwMjIyOTQxYWQyZjA1ZTM0",
   "tracks": [
     {
       "added_at": "2023-12-20 18:38:51",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+    },
+    {
+      "added_at": "2023-12-20 18:38:51",
+      "album": {
         "name": "Mood Malandro",
         "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
       },
@@ -567,34 +583,22 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
-        "name": "The Last Don",
-        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
+        "name": "Alch Si",
+        "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
-    },
-    {
-      "added_at": "2023-12-20 18:38:51",
-      "album": {
-        "name": "SABOR FRESA",
-        "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
-      },
-      "artists": [
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 156500,
-      "name": "SABOR FRESA",
-      "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
+      "duration_ms": 153953,
+      "name": "Alch Si",
+      "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
     },
     {
       "added_at": "2023-12-20 18:38:51",
@@ -623,22 +627,18 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
-        "name": "Alch Si",
-        "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
+        "name": "SABOR FRESA",
+        "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 153953,
-      "name": "Alch Si",
-      "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
+      "duration_ms": 156500,
+      "name": "SABOR FRESA",
+      "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
     },
     {
       "added_at": "2023-12-20 18:38:51",
@@ -679,42 +679,18 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
-        "name": "TQM",
-        "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 158965,
-      "name": "TQM",
-      "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
-    },
-    {
-      "added_at": "2023-12-20 18:38:51",
-      "album": {
-        "name": "MARTILLAZO",
-        "url": "https://open.spotify.com/album/1FX1f4X5yS0wlnItHjvhvo"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "MARTILLAZO",
-      "url": "https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0"
+      "duration_ms": 176142,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
     },
     {
       "added_at": "2023-12-20 18:38:51",
@@ -731,22 +707,6 @@
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
-    },
-    {
-      "added_at": "2023-12-20 18:38:51",
-      "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
     },
     {
       "added_at": "2023-12-20 18:38:51",
@@ -783,6 +743,46 @@
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
+    },
+    {
+      "added_at": "2023-12-20 18:38:51",
+      "album": {
+        "name": "MARTILLAZO",
+        "url": "https://open.spotify.com/album/1FX1f4X5yS0wlnItHjvhvo"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "MARTILLAZO",
+      "url": "https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0"
+    },
+    {
+      "added_at": "2023-12-20 18:38:51",
+      "album": {
+        "name": "TQM",
+        "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 158965,
+      "name": "TQM",
+      "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
     },
     {
       "added_at": "2023-12-20 18:38:51",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
+        "name": "Una Noche en Medell\u00edn",
+        "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Una Noche en Medell\u00edn",
+      "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
+    },
+    {
+      "added_at": "2023-12-20 18:38:51",
+      "album": {
         "name": "As\u00ed Es Esto",
         "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
       },
@@ -855,18 +871,66 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
-        "name": "Una Noche en Medell\u00edn",
-        "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
+        "name": "De Fresa y Coco",
+        "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Una Noche en Medell\u00edn",
-      "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
+      "duration_ms": 165447,
+      "name": "De Fresa y Coco",
+      "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
+    },
+    {
+      "added_at": "2023-12-20 18:38:51",
+      "album": {
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+    },
+    {
+      "added_at": "2023-12-20 18:38:51",
+      "album": {
+        "name": "CCC",
+        "url": "https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 126081,
+      "name": "CCC",
+      "url": "https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt"
     },
     {
       "added_at": "2023-12-20 18:38:51",
@@ -895,46 +959,6 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
-        "name": "CCC",
-        "url": "https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 126081,
-      "name": "CCC",
-      "url": "https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt"
-    },
-    {
-      "added_at": "2023-12-20 18:38:51",
-      "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
-    },
-    {
-      "added_at": "2023-12-20 18:38:51",
-      "album": {
         "name": "Que Vuelvas",
         "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
       },
@@ -951,30 +975,6 @@
       "duration_ms": 169418,
       "name": "Que Vuelvas",
       "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
-    },
-    {
-      "added_at": "2023-12-20 18:38:51",
-      "album": {
-        "name": "De Fresa y Coco",
-        "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 165447,
-      "name": "De Fresa y Coco",
-      "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
     },
     {
       "added_at": "2023-12-20 18:38:51",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
-        "name": "Julietota",
-        "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 212151,
-      "name": "Julietota",
-      "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
-    },
-    {
-      "added_at": "2023-12-20 18:38:51",
-      "album": {
         "name": "Shorty Party",
         "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 265000,
       "name": "Shorty Party",
       "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
+    },
+    {
+      "added_at": "2023-12-20 18:38:51",
+      "album": {
+        "name": "Julietota",
+        "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 212151,
+      "name": "Julietota",
+      "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
     },
     {
       "added_at": "2023-12-20 18:38:51",
@@ -1363,30 +1363,6 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
-        "name": "QU\u00c9 ROLLITO PRIMAVERA",
-        "url": "https://open.spotify.com/album/6JiecMCf6YvpuISA6rCzbc"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "QU\u00c9 ROLLITO PRIMAVERA",
-      "url": "https://open.spotify.com/track/3WoxwWoay78KXzGRlAm7J7"
-    },
-    {
-      "added_at": "2023-12-20 18:38:51",
-      "album": {
         "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
@@ -1423,6 +1399,30 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
+        "name": "QU\u00c9 ROLLITO PRIMAVERA",
+        "url": "https://open.spotify.com/album/6JiecMCf6YvpuISA6rCzbc"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "QU\u00c9 ROLLITO PRIMAVERA",
+      "url": "https://open.spotify.com/track/3WoxwWoay78KXzGRlAm7J7"
+    },
+    {
+      "added_at": "2023-12-20 18:38:51",
+      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 173080,
-      "name": "Un Mill\u00f3n de Primaveras",
-      "url": "https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ"
-    },
-    {
-      "added_at": "2023-12-20 18:38:51",
-      "album": {
         "name": "Ven Bailalo (Reggaeton Mix)",
         "url": "https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 252773,
       "name": "Ven Bailalo - Reggaeton Mix",
       "url": "https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N"
+    },
+    {
+      "added_at": "2023-12-20 18:38:51",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 173080,
+      "name": "Un Mill\u00f3n de Primaveras",
+      "url": "https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ"
     },
     {
       "added_at": "2023-12-20 18:38:51",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
-    },
-    {
-      "added_at": "2023-12-20 18:38:51",
-      "album": {
         "name": "La Historia... Los \u00c9xitos",
         "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 273763,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
+    },
+    {
+      "added_at": "2023-12-20 18:38:51",
+      "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
       "added_at": "2023-12-20 18:38:51",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
+        "name": "Trovando El Son",
+        "url": "https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu"
+      },
+      "artists": [
+        {
+          "name": "Fresto Music",
+          "url": "https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB"
+        }
+      ],
+      "duration_ms": 300791,
+      "name": "Me Hace Da\u00f1o Verte",
+      "url": "https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti"
+    },
+    {
+      "added_at": "2023-12-20 18:38:51",
+      "album": {
         "name": "Espantan (Remix)",
         "url": "https://open.spotify.com/album/0JRUGOfvqo7A2l6NYPnjY5"
       },
@@ -1631,18 +1647,18 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
-        "name": "Trovando El Son",
-        "url": "https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu"
+        "name": "Love And Sex",
+        "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
       },
       "artists": [
         {
-          "name": "Fresto Music",
-          "url": "https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB"
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 300791,
-      "name": "Me Hace Da\u00f1o Verte",
-      "url": "https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti"
+      "duration_ms": 207626,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4"
     },
     {
       "added_at": "2023-12-20 18:38:51",
@@ -1663,18 +1679,22 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
-        "name": "Love And Sex",
-        "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
+        "name": "La Mamoncita del Insta",
+        "url": "https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn"
       },
       "artists": [
         {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 207626,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4"
+      "duration_ms": 193193,
+      "name": "La Mamoncita del Insta",
+      "url": "https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV"
     },
     {
       "added_at": "2023-12-20 18:38:51",
@@ -1695,26 +1715,6 @@
       "duration_ms": 160897,
       "name": "El Rescate",
       "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
-    },
-    {
-      "added_at": "2023-12-20 18:38:51",
-      "album": {
-        "name": "La Mamoncita del Insta",
-        "url": "https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 193193,
-      "name": "La Mamoncita del Insta",
-      "url": "https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV"
     },
     {
       "added_at": "2023-12-20 18:38:51",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
+        "name": "Guatauba XXX",
+        "url": "https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Guatauba",
+      "url": "https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6"
+    },
+    {
+      "added_at": "2023-12-20 18:38:51",
+      "album": {
         "name": "DEV, Vol. 2",
         "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
       },
@@ -1827,42 +1843,6 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
-        "name": "En Tu Perra Vida",
-        "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 238677,
-      "name": "En Tu Perra Vida",
-      "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
-    },
-    {
-      "added_at": "2023-12-20 18:38:51",
-      "album": {
-        "name": "Guatauba XXX",
-        "url": "https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Guatauba",
-      "url": "https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6"
-    },
-    {
-      "added_at": "2023-12-20 18:38:51",
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 175532,
       "name": "La Nena",
       "url": "https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC"
+    },
+    {
+      "added_at": "2023-12-20 18:38:51",
+      "album": {
+        "name": "En Tu Perra Vida",
+        "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 238677,
+      "name": "En Tu Perra Vida",
+      "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
     },
     {
       "added_at": "2023-12-20 18:38:51",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
-    },
-    {
-      "added_at": "2023-12-20 18:38:51",
-      "album": {
         "name": "Farruko Presents Los Menores",
         "url": "https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf"
       },
@@ -1963,6 +1947,22 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+    },
+    {
+      "added_at": "2023-12-20 18:38:51",
+      "album": {
         "name": "Atrevido Y Diferente",
         "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
       },
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
-        "name": "Los Bacatranes",
-        "url": "https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg"
-      },
-      "artists": [
-        {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "Ag\u00e1rrala (Remix)",
-      "url": "https://open.spotify.com/track/7mL0vTeXzlUj2jsApatA83"
-    },
-    {
-      "added_at": "2023-12-20 18:38:51",
-      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 122096,
       "name": "Como Quieras Quiero",
       "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
+    },
+    {
+      "added_at": "2023-12-20 18:38:51",
+      "album": {
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "Ag\u00e1rrala (Remix)",
+      "url": "https://open.spotify.com/track/7mL0vTeXzlUj2jsApatA83"
     },
     {
       "added_at": "2023-12-20 18:38:51",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2023-12-20 18:38:51",
       "album": {
-        "name": "Y Si Se Quiere Ir",
-        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "Y Si Se Quiere Ir",
-      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
-    },
-    {
-      "added_at": "2023-12-20 18:38:51",
-      "album": {
         "name": "Yo Las Pongo",
         "url": "https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 191353,
       "name": "Yo Las Pongo",
       "url": "https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9"
+    },
+    {
+      "added_at": "2023-12-20 18:38:51",
+      "album": {
+        "name": "Y Si Se Quiere Ir",
+        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "Y Si Se Quiere Ir",
+      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
     },
     {
       "added_at": "2023-12-20 18:38:51",

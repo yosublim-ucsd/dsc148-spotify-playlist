@@ -2,9 +2,9 @@
 
 ### [Éxitos Cristianos](https://open.spotify.com/playlist/37i9dQZF1DWUjxqgjSiQ9K)
 
-> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:6slyJwua5e5GuhuP82sTHR">Alex Campos</a>
+> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:4UGA0TDpRVVt2SCz8FZOMm">Un Corazón</a> y <a href="spotify:artist:5njxJJEEXE6Kxkr4yiFeJi">Kim Richards</a>
 
-531 songs - 1 day 16 hr 47 min
+532 songs - 1 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Aunque Lejos Estes](https://open.spotify.com/track/1xsA8GYQQR1ApFK4enl6sU) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Aunque Lejos Estes](https://open.spotify.com/album/6sufWCj48Pj4frnztAhVgF) | 4:03 | 2022-02-25 | 2022-04-02 |
 | [Aunque No Te Vea \- Alternate Version](https://open.spotify.com/track/2PFVjIeD3WosZ28loJi5aa) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Aunque No Te Vea \(Alternate Version\)](https://open.spotify.com/album/50BVTTgEIJF29AAJ2rCdc5) | 2:38 | 2022-06-24 | 2022-08-27 |
 | [Aún Sin Entender](https://open.spotify.com/track/7cgJKyU5q59aDMGbOCXF5L) | [Banda Punto de Encuentro](https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Adorando Entre Amigos](https://open.spotify.com/album/0XgdtM4YTDOJ4TAU7dWr4o) | 6:00 | 2023-03-31 |  |
+| [Babel](https://open.spotify.com/track/2JS2IF2YLPe4oLSIXpzZOK) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Babel](https://open.spotify.com/album/1qHXweu3uNnAuutwrhn0ZK) | 5:02 | 2024-02-02 |  |
 | [BACHADRILL feat\. Madiel Lara](https://open.spotify.com/track/1MH2tvweBLLDWpgbBDZqji) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [MOMENTUM](https://open.spotify.com/album/0cPrYAzyCpQ07WrVmE3AFM) | 3:21 | 2022-02-25 | 2022-04-16 |
 | [Bajo El Agua](https://open.spotify.com/track/4zEL9LHCQNPmDTc3dsOume) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Lo Que Vemos](https://open.spotify.com/album/0wkdE2eKcK4MBcfiphlEmC) | 4:34 | 2023-04-21 |  |
 | [Bandera Blanca](https://open.spotify.com/track/1jfaSCIrj7sZ9RlmeCdOLT) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Bandera Blanca](https://open.spotify.com/album/2szXozV47NGFejMLMvzyzd) | 3:37 | 2022-08-05 | 2022-08-20 |
@@ -104,7 +105,7 @@
 | [Confía \- En Vivo](https://open.spotify.com/track/7DjUWgkFpJVrTDL5m2bmqt) | [New Wine](https://open.spotify.com/artist/5W9IQJnGvBYP8VOChmSpU6) | [Lugar Secreto \(En Vivo\)](https://open.spotify.com/album/2p9jYFk29y9u9STPyWaqns) | 4:30 | 2023-04-14 | 2023-12-01 |
 | [Confía \- En Vivo](https://open.spotify.com/track/7GIv9QngRgd0oc12Umc3Pc) | [New Wine](https://open.spotify.com/artist/5W9IQJnGvBYP8VOChmSpU6) | [Lugar Secreto \(En Vivo\)](https://open.spotify.com/album/6ITdWQDRJ40si7dDr4tckE) | 4:30 | 2023-11-10 |  |
 | [Construiré Mi Vida](https://open.spotify.com/track/5m9T3o8tBpkFlqMlkwbVh7) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Construiré Mi Vida](https://open.spotify.com/album/2sqh2FQIadwmWaycktFzkr) | 4:28 | 2022-02-25 | 2022-06-11 |
-| [Construiré Mi Vida // Digno De Adorar](https://open.spotify.com/track/2Fjo0giimkpqgSdTOCwyRS) | [SioVera](https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt) | [Adoración](https://open.spotify.com/album/4kOjEbqrPJyucxl0eCqwkP) | 3:36 | 2023-11-03 |  |
+| [Construiré Mi Vida // Digno De Adorar](https://open.spotify.com/track/2Fjo0giimkpqgSdTOCwyRS) | [SioVera](https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt) | [Adoración](https://open.spotify.com/album/4kOjEbqrPJyucxl0eCqwkP) | 3:36 | 2023-11-03 | 2024-02-03 |
 | [Construiré Mi Vida // Digno De Adorar](https://open.spotify.com/track/7vVOmQqBuI2vLQvOs3jK1S) | [SioVera](https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt) | [Construiré Mi Vida // Digno De Adorar](https://open.spotify.com/album/375WLK7rEnQhwwnhWQ3Wl9) | 3:36 | 2023-09-08 | 2023-11-10 |
 | [Contigo](https://open.spotify.com/track/3VYlrsMKVYCZ8s8JCMEhGT) | [Nezareth](https://open.spotify.com/artist/4afXJaDsXOYRPYklYepSYT), [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Contigo](https://open.spotify.com/album/6fHJeRf0DQquLgrwp4P9au) | 3:45 | 2023-04-21 |  |
 | [Contigo \(Acústico\)](https://open.spotify.com/track/67kwQbpVobw3Q7ABAHPVGG) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR) | [Contigo \(Acústico\)](https://open.spotify.com/album/3vTGLhFfovThcETFAvchSX) | 2:30 | 2022-02-25 | 2022-05-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Pumping tracks for pumping iron!",
-  "num_followers": 7625797,
+  "num_followers": 7626111,
   "original_name": "Gym Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2Y0YmI3ODE2ZjkwYjExMWI1NzdmNmVmZWQ1YWFhNzJiNDM5NzIw",
+  "snapshot_id": "MCxlMGM2NjE1N2IwOWRjMDg5ZjhiN2Y3ZmM1YTk1ZTJlZWI3YjNhODYy",
   "tracks": [
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "RIZZ",
+        "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        }
+      ],
+      "duration_ms": 200787,
+      "name": "RIZZ",
+      "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 165335,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "RIZZ",
-        "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        }
-      ],
-      "duration_ms": 200787,
-      "name": "RIZZ",
-      "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1511,6 +1511,30 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Better Off (Alone, Pt. III)",
+        "url": "https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
+        }
+      ],
+      "duration_ms": 151702,
+      "name": "Better Off (Alone, Pt. III)",
+      "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Rock My Body (with SASH!) [W&W x R3HAB VIP Remix]",
         "url": "https://open.spotify.com/album/435wMn4soTVne8q2Ayjpj0"
       },
@@ -1535,30 +1559,6 @@
       "duration_ms": 168461,
       "name": "Rock My Body (with Sash!) - W&W x R3HAB VIP Remix",
       "url": "https://open.spotify.com/track/65Iiyhh7rD0vq0bmCPz2YK"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Better Off (Alone, Pt. III)",
-        "url": "https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Vikkstar",
-          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
-        }
-      ],
-      "duration_ms": 151702,
-      "name": "Better Off (Alone, Pt. III)",
-      "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
     },
     {
       "added_at": "2024-02-01 23:00:00",

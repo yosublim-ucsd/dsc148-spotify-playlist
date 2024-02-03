@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,198 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,221 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 16 | [The Book of Love](https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1) | [The Monotones](https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a) | [Who Wrote The Book Of Love? \[Digital Version\]](https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV) | 2:18 |
 | 17 | [Come Softly To Me](https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:24 |
 | 18 | [Down in Mexico](https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [The Coasters](https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO) | 3:16 |
-| 19 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW) | [The Platters](https://open.spotify.com/artist/2lP463yIRHre8VLbw0giyi) | [The Magic Touch: An Anthology](https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC) | 2:37 |
+| 19 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Magic Touch: An Anthology](https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC) | 2:37 |
 | 20 | [This Magic Moment](https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [All\-Time Greatest Hits & More 1959\-1965](https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7) | 2:31 |
 | 21 | [Life Is but a Dream](https://open.spotify.com/track/7pihvWmEVo5J2PcxvP6T4f) | [The Harptones](https://open.spotify.com/artist/3ldj7TJdwN9Ei96ZIUU3M7) | [The Harptones](https://open.spotify.com/album/3cqvDBd8s4jYbSugoY73AF) | 2:43 |
 | 22 | [I'm On The Outside \(Looking In\)](https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [I'm On The Outside \(Looking In\)](https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys) | 3:12 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 40 | [Gee](https://open.spotify.com/track/2FmGxujlxCoOMFLEY6XQ9W) | [The Crows](https://open.spotify.com/artist/2zee4amgZunaTl3YyLz1iG) | [Echoes Of A Rock Era](https://open.spotify.com/album/61w6Wg7Xli7dxZx2GrTZgi) | 2:16 |
 | 41 | [In the Still of the Night](https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [Dirty Dancing: Anniversary Edition](https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM) | 3:05 |
 | 42 | [Searchin'](https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [The Coasters](https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO) | 2:39 |
-| 43 | [At The Hop](https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [For Cool Grandkids Everywhere](https://open.spotify.com/album/32xVr7I4Aj0RqHYRTsQx0a) | 2:36 |
-| 44 | [Blue Moon](https://open.spotify.com/track/2CghtwfbA6zkqfxRlSsSJG) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [The Marcels](https://open.spotify.com/album/7aRLy6IzAiasWqxy62lubc) | 2:16 |
+| 43 | [Blue Moon](https://open.spotify.com/track/2CghtwfbA6zkqfxRlSsSJG) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [The Marcels](https://open.spotify.com/album/7aRLy6IzAiasWqxy62lubc) | 2:16 |
+| 44 | [At The Hop](https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [For Cool Grandkids Everywhere](https://open.spotify.com/album/32xVr7I4Aj0RqHYRTsQx0a) | 2:36 |
 | 45 | [Heart and Soul](https://open.spotify.com/track/5XoYj1BbiLSzBjhPoMv09C) | [The Cleftones](https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf) | [The Best Of The Cleftones](https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN) | 1:53 |
 | 46 | [My True Story](https://open.spotify.com/track/1zfxyezgvocPSjSVup5ND4) | [The Jive Five](https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L) | [Presenting the Jive Five](https://open.spotify.com/album/38QUQ8y53mMhnpd4Yv07CI) | 2:34 |
 | 47 | [Buzz, Buzz, Buzz](https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg) | [The Hollywood Flames](https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC) | [The Hollywood Flames](https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 49 | [Maybe](https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN) | [The Chantels](https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:50 |
 | 50 | [Speedoo \(Alternative Take\)](https://open.spotify.com/track/3fy76k7I8YMUOR7bn7EcM5) | [The Cadillacs](https://open.spotify.com/artist/5ye4TzZU2L7cxiQgCZoJUH) | [The Fabulous Cadillacs](https://open.spotify.com/album/5UoyKbXmb2JNJSFMxL1VpY) | 2:21 |
 
-Snapshot ID: `MCwwYjFiYTIxN2Q0YTU3MDY5ODBmYmRiM2Q5YTYwMjNmZTZlNjBhOWM0`
+Snapshot ID: `MCwwYjk3OGZjNjVhODU5NmI1ODRiZTVkMGMwNjU1MmU3OWRjMjk4ODA4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: I Segreti
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,145 likes - 77 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,127 likes - 77 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 29 | [Black & White](https://open.spotify.com/track/4QFr9FwMbrBntnX7BpIVoU) | [James Jonathan Clancy](https://open.spotify.com/artist/01l0b9DS1NTibvGU5zX398) | [Sprecato](https://open.spotify.com/album/6jYh01GSTYUO7kXc5uyG6c) | 4:03 |
 | 30 | [Caramel Toe](https://open.spotify.com/track/50BNyFwpRbekxKxcqFjwxX) | [The Singer is Dead](https://open.spotify.com/artist/21bN775otWRD0ldHpVqXHK) | [IIII](https://open.spotify.com/album/4VrF1btR626l2UfbvhOYOM) | 5:04 |
 | 31 | [Troppo in profondità](https://open.spotify.com/track/1QGG15mBau0Jq70agUF782) | [Mostro Resuscitato](https://open.spotify.com/artist/7N01iO1M6T5AFIEEgfzXXD) | [Troppo in profondità](https://open.spotify.com/album/1IlO4Dq9E2TeBT8f0VmTb4) | 2:35 |
-| 32 | [Touch Me](https://open.spotify.com/track/5xXHDzHyqXvrA3ZI9FGrXJ) | [Puà](https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq) | [Animali](https://open.spotify.com/album/0QyUJdtQoZYZ2TfXCWRagB) | 2:54 |
+| 32 | [Touch Me](https://open.spotify.com/track/7dMzrhoxYtLXYcZ2TZWPeg) | [Puà](https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq) | [Animali](https://open.spotify.com/album/6miMjVFzV3P93IYRS0oRlV) | 2:54 |
 | 33 | [Are You Lost?](https://open.spotify.com/track/7yXSs2f7FjZ7sn9lNaAEOQ) | [RUNA](https://open.spotify.com/artist/5o7cNbc2woQTH18rVRRPIM) | [Are You Lost?](https://open.spotify.com/album/420YoUSafozy2PFNTiQ7VM) | 4:51 |
 | 34 | [Con Nessuno \(feat\. Øjne\)](https://open.spotify.com/track/6VEAICgujKbc3cAYnqv3dq) | [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ), [Øjne](https://open.spotify.com/artist/0zZRbZrBprUwWRKnbaIEXq) | [Con Nessuno \(feat\. Øjne\)](https://open.spotify.com/album/0F5mnWJlABzWDk4IKelAE2) | 2:49 |
 | 35 | [Guerra & Pace](https://open.spotify.com/track/3gROXroNiBnk0UNKt5VwpR) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Guerra & Pace](https://open.spotify.com/album/6sJrXwcU50PePEpiPBrPgc) | 5:23 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 76 | [Riparliamone Domani](https://open.spotify.com/track/2FNnxj2DX3KJ7SMVEFw1CH) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [DIRTY \(Deluxe\)](https://open.spotify.com/album/1p5swkw2kYdhom08qbCQfc) | 3:11 |
 | 77 | [LA FINE DI UN RAGAZZO](https://open.spotify.com/track/09AN0C4hAhXzbwTbM3K1fE) | [Appino](https://open.spotify.com/artist/4DZifQP0B5j53Hw4KuMOnH) | [HUMANIZE](https://open.spotify.com/album/0OkZmSBdLAVLDfKh6OWTRl) | 3:18 |
 
-Snapshot ID: `MCwxODA2OWIxMGNjNzU1NDAzYTEzOWZjODljZjgxODBhN2U5MjUyNjE2`
+Snapshot ID: `MCxlMDM1YzcyZTNlNWFhNDM3NmMyMmNiMzE1MDM1ZmRkNWEwODc2ZjMz`

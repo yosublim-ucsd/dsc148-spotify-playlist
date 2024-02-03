@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 179719,
+  "num_followers": 179820,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTE1NzMwZDBmNGZhZmZmMjhjNmIxYmZmOGNlNmE1MmUwODNhYmFh",
+  "snapshot_id": "MCwwZjNhNTgxZjk3ODBlNGUwYTY5NDY0YzM4ODc2ZDM1ZGIxZDQyMzgz",
   "tracks": [
     {
       "added_at": "2023-08-25 09:30:35",
@@ -451,22 +451,18 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
+        "name": "Pharmacy",
+        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Middle",
-      "url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK"
+      "duration_ms": 227073,
+      "name": "Runaway (U & I)",
+      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -487,18 +483,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Pharmacy",
-        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
       },
       "artists": [
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
         }
       ],
-      "duration_ms": 227073,
-      "name": "Runaway (U & I)",
-      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
+      "duration_ms": 220573,
+      "name": "Middle",
+      "url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Cooler Than Me",
-        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
-      },
-      "artists": [
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Cooler Than Me",
-      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Freaks",
         "url": "https://open.spotify.com/album/2XuqIiYNrr15UYsmll2B3z"
       },
@@ -1295,6 +1279,46 @@
       "duration_ms": 169160,
       "name": "Freaks - Radio Edit",
       "url": "https://open.spotify.com/track/4f3NHOxgC8Bg21IJBg4cZ3"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Cooler Than Me",
+        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Peace Is The Mission (Extended)",
+        "url": "https://open.spotify.com/album/1B5g6fUb4L7NnL6CCPQD6p"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Nyla",
+          "url": "https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy"
+        },
+        {
+          "name": "Fuse ODG",
+          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
+        }
+      ],
+      "duration_ms": 166138,
+      "name": "Light It Up (Remix)",
+      "url": "https://open.spotify.com/track/1qFSPn37zEeCyRiVpkW9dt"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1351,30 +1375,6 @@
       "duration_ms": 179960,
       "name": "Sun Goes Down (feat. Jasmine Thompson) - Radio Mix",
       "url": "https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Peace Is The Mission (Extended)",
-        "url": "https://open.spotify.com/album/1B5g6fUb4L7NnL6CCPQD6p"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Nyla",
-          "url": "https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy"
-        },
-        {
-          "name": "Fuse ODG",
-          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
-        }
-      ],
-      "duration_ms": 166138,
-      "name": "Light It Up (Remix)",
-      "url": "https://open.spotify.com/track/1qFSPn37zEeCyRiVpkW9dt"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Maty Noyes",
-          "url": "https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA"
-        }
-      ],
-      "duration_ms": 239465,
-      "name": "Stay (feat. Maty Noyes)",
-      "url": "https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "I Wanna Know (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/2xqSl9X8ulJayI0KxABaLV"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 197938,
       "name": "I Wanna Know (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/18W92Zm1KjLCbUIszOhpkD"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Maty Noyes",
+          "url": "https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA"
+        }
+      ],
+      "duration_ms": 239465,
+      "name": "Stay (feat. Maty Noyes)",
+      "url": "https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja"
     },
     {
       "added_at": "2023-08-25 09:30:35",

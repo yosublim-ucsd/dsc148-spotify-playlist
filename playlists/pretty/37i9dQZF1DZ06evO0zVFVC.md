@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 
 > This is Parkway Drive\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,896 likes - 47 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,920 likes - 47 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,16 +44,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 | 34 | [Wreckage](https://open.spotify.com/track/0gMREA9nAh1RD7TZ6WmQA5) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 3:21 |
 | 35 | [Old Ghost / New Regrets](https://open.spotify.com/track/0sSweTCEPskCfVx1hmiGiw) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 2:49 |
 | 36 | [Into the Dark](https://open.spotify.com/track/46ZYSOvGGQRFC5cbEHUNKi) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire \(Deluxe Edition\)](https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr) | 3:30 |
-| 37 | [Pandora](https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:58 |
+| 37 | [Dead Man's Chest](https://open.spotify.com/track/3fMvYJwGFEOKLi7EMrY8MW) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:21 |
 | 38 | [Home Is For The Heartless](https://open.spotify.com/track/2mvi7qtDNLuh25oOcHVEOk) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 4:08 |
 | 39 | [The River](https://open.spotify.com/track/4yVgz6jQy3rshd2OJoyLuY) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 5:27 |
-| 40 | [Dead Man's Chest](https://open.spotify.com/track/3fMvYJwGFEOKLi7EMrY8MW) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:21 |
-| 41 | [Smoke 'Em If You Got 'Em](https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:40 |
-| 42 | [Die Leere](https://open.spotify.com/track/1c4c8iipyUGlCbpwDvomRD) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Viva The Underdogs](https://open.spotify.com/album/5wLd53vzbBM0TIa0NmwxGb) | 3:53 |
-| 43 | [Swing](https://open.spotify.com/track/7EuOA3u04bWOvNw6RZQZy7) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 3:31 |
-| 44 | [Anasasis \(Xenophontis\)](https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:31 |
-| 45 | [Dream Run](https://open.spotify.com/track/5TeolAk3EbSPxafusAbL3S) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 4:08 |
+| 40 | [Anasasis \(Xenophontis\)](https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:31 |
+| 41 | [Die Leere](https://open.spotify.com/track/1c4c8iipyUGlCbpwDvomRD) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Viva The Underdogs](https://open.spotify.com/album/5wLd53vzbBM0TIa0NmwxGb) | 3:53 |
+| 42 | [Swing](https://open.spotify.com/track/7EuOA3u04bWOvNw6RZQZy7) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 3:31 |
+| 43 | [Smoke 'Em If You Got 'Em](https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:40 |
+| 44 | [Dream Run](https://open.spotify.com/track/5TeolAk3EbSPxafusAbL3S) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 4:08 |
+| 45 | [Pandora](https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:58 |
 | 46 | [It's So Hard To Speak Without A Tongue](https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 4:16 |
 | 47 | [Mutiny](https://open.spotify.com/track/0JhU5780ClX6njQAN21bP9) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:13 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDAzOWUzNjVmMmQyZjUyODFjNmZlMmI4N2U4Y2UxZjJkYg==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDA2OWU0MWZmYWYzODdhMGU4NDliYzUyZWVmM2E3NWFjOQ==`

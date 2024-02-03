@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 
 > This is Def Leppard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,101 likes - 51 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,145 likes - 51 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 50 | [Tear It Down](https://open.spotify.com/track/3pH9Vu1LNBXMUptZbmipFF) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 3:37 |
 | 51 | [Paper Sun](https://open.spotify.com/track/6Ap9ZlHD4EGNcpiOwX9wGc) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Euphoria](https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2) | 5:27 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDA4NDU3NWU1MjFhMzk1NmYyY2Q3NTUwNmIwMWU0YjNmOQ==`
+Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDBjNzhjZTMxZjVkYjE3YjA1NGRhYWQ4ZWFlMTdjMDBhOA==`

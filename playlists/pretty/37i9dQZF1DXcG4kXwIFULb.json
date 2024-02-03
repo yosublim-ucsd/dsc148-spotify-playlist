@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 147691,
+  "num_followers": 147779,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGNlNjNjMjNmMTU3YTRjNDk2YjVlMjgwMmIyNDMxYWRkZDQ5YmVk",
+  "snapshot_id": "MCxhMzQwM2Q4ZGNiYmIyY2UzNzQyZTNlOTZlNTcyYzM0MjFlNWNmZjJi",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -523,18 +523,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Fisherman's Woman",
-        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
+        "name": "The Richest Man In Babylon",
+        "url": "https://open.spotify.com/album/22Y3wMfU6Bm0rtnjaljDSn"
       },
       "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        },
         {
           "name": "Emil\u00edana Torrini",
           "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
         }
       ],
-      "duration_ms": 184533,
-      "name": "Sunny Road",
-      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
+      "duration_ms": 236960,
+      "name": "Until The Morning",
+      "url": "https://open.spotify.com/track/7nNUSD1jkWC71zIOUWY03E"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -571,26 +575,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "The Richest Man In Babylon",
-        "url": "https://open.spotify.com/album/22Y3wMfU6Bm0rtnjaljDSn"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        },
-        {
-          "name": "Emil\u00edana Torrini",
-          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Until The Morning",
-      "url": "https://open.spotify.com/track/7nNUSD1jkWC71zIOUWY03E"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "In A Space Outta Sound",
         "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 324173,
       "name": "Flip Ya Lid",
       "url": "https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Fisherman's Woman",
+        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
+      },
+      "artists": [
+        {
+          "name": "Emil\u00edana Torrini",
+          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Sunny Road",
+      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -995,22 +995,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Shallow and Profound",
-        "url": "https://open.spotify.com/album/59h727IciPDdyh4bdd0WWT"
-      },
-      "artists": [
-        {
-          "name": "Yonderboi",
-          "url": "https://open.spotify.com/artist/4hi7BCJEn3xCR3VRZU1Ek7"
-        }
-      ],
-      "duration_ms": 259105,
-      "name": "Riders On the Storm",
-      "url": "https://open.spotify.com/track/3uI0EptPACbrdR1Dq20oWu"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "SB1",
         "url": "https://open.spotify.com/album/2L1LGstvVxQfcholH3NQW9"
       },
@@ -1027,13 +1011,29 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Shallow and Profound",
+        "url": "https://open.spotify.com/album/59h727IciPDdyh4bdd0WWT"
+      },
+      "artists": [
+        {
+          "name": "Yonderboi",
+          "url": "https://open.spotify.com/artist/4hi7BCJEn3xCR3VRZU1Ek7"
+        }
+      ],
+      "duration_ms": 259105,
+      "name": "Riders On the Storm",
+      "url": "https://open.spotify.com/track/3uI0EptPACbrdR1Dq20oWu"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Magic Love (Remixes)",
         "url": "https://open.spotify.com/album/21KrsFEPYoXmJRIj0UNtnq"
       },
       "artists": [
         {
           "name": "Bent",
-          "url": "https://open.spotify.com/artist/498tzHYkxLUuM4rb9RFDsZ"
+          "url": "https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa"
         }
       ],
       "duration_ms": 202333,
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Let's Get Killed",
-        "url": "https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1"
-      },
-      "artists": [
-        {
-          "name": "David Holmes",
-          "url": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
-        }
-      ],
-      "duration_ms": 384226,
-      "name": "Rodney Yates",
-      "url": "https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Paradise Blown",
         "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 245493,
       "name": "Black Jesus",
       "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Let's Get Killed",
+        "url": "https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1"
+      },
+      "artists": [
+        {
+          "name": "David Holmes",
+          "url": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+        }
+      ],
+      "duration_ms": 384226,
+      "name": "Rodney Yates",
+      "url": "https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW"
     },
     {
       "added_at": "2020-09-04 01:12:56",

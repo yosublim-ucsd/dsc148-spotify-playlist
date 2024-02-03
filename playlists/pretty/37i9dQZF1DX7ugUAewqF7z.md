@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,778 likes - 151 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,795 likes - 151 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 44 | [Guilty](https://open.spotify.com/track/0SPZ7y0fJiozsuWLSAocOl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Band Of Dynamic Brothers](https://open.spotify.com/album/4Vb6ViMVJhqYaCyV6Y7VU1) | 3:44 |
 | 45 | [Misfit](https://open.spotify.com/track/4W8cwOcrcDzbWQSWqtKG3g) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:35 |
 | 46 | [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 |
-| 47 | [감사 \(FEAT\. 소향\)](https://open.spotify.com/track/339ONbEchBensZnESqghNW) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [인사](https://open.spotify.com/album/1gVCySPJoAjV90BcLL3i29) | 3:50 |
+| 47 | [정거장](https://open.spotify.com/track/00BbsELDIsK2mQeeB8EJD7) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [인사](https://open.spotify.com/album/1aRzCmpmffVSKWl9L8SJ9Q) | 3:35 |
 | 48 | [아줌마](https://open.spotify.com/track/1JonnU40mpcgrppTm2vBQy) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [Wax 3](https://open.spotify.com/album/7LT1aI91uj8FDFxA79uJoB) | 3:49 |
 | 49 | [Gijang\`s Seagull](https://open.spotify.com/track/6ZQa2BoO4nbOpgBSUdzrAF) | [Na Hoon\-A](https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG) | [DAWN \(SIX STORIES\)](https://open.spotify.com/album/4HQZTDsgy6CoNdyUGOJeWE) | 3:20 |
 | 50 | [일어나](https://open.spotify.com/track/2LxL8Lq0AD7DzwsqH9sTd0) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 4집 리마스터링앨범](https://open.spotify.com/album/1Yk9jrcx4JQpSmyqpvakvV) | 4:28 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 66 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 |
 | 67 | [Tears](https://open.spotify.com/track/4NgdVR2U1DJZB80ZQNllbJ) | [소찬휘](https://open.spotify.com/artist/6bl5Yi58zpOeD5JgP8nEdv) | [First Bridge](https://open.spotify.com/album/69x6z028cL1a0boFB82dqK) | 3:56 |
 | 68 | [Wild Flower](https://open.spotify.com/track/6tohHT5sQRMjdWHMNn190u) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Wild Flower](https://open.spotify.com/album/4aLnzOsnBf5gqTDMJn3XLz) | 5:12 |
-| 69 | [그대를 사랑하는 10가지 이유](https://open.spotify.com/track/5QXRbVoCLqnN5jfaqcmwYk) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [인사](https://open.spotify.com/album/1gVCySPJoAjV90BcLL3i29) | 4:15 |
+| 69 | [감사 \(FEAT\. 소향\)](https://open.spotify.com/track/1F8Z48JxxB4Diz1HMEUbb6) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [인사](https://open.spotify.com/album/1aRzCmpmffVSKWl9L8SJ9Q) | 3:50 |
 | 70 | [혜성](https://open.spotify.com/track/1JrzvYMdLqHGBa6jmnBXia) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [혜성](https://open.spotify.com/album/2hGIulY9CjIWsQ8Rqed6fZ) | 3:14 |
 | 71 | [Fantastic Baby](https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:50 |
 | 72 | [Bruise](https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw) | [Kim Hyun Jung](https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO) | [The Third Eye](https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq) | 3:27 |
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 135 | [Lazy Me](https://open.spotify.com/track/7IKiYUKvU394eoRD9TYDfJ) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Lazy Me](https://open.spotify.com/album/6zvdQKxr377crdbVupq7I7) | 3:07 |
 | 136 | [Idle Idle](https://open.spotify.com/track/17I6f6dlUmBQxHCBTWPBxT) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Idle Idle](https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s) | 3:38 |
 | 137 | [Peach](https://open.spotify.com/track/3hbi6hayJ6OibzGe3fWLwf) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Spring of Twenty](https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb) | 3:10 |
-| 138 | [책을 넘기는 듯한 마음으로](https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [책을 넘기는 듯한 마음으로](https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE) | 3:12 |
+| 138 | [Like We Turn the pages \(Remaster\)](https://open.spotify.com/track/4W7MrbhSg8o2v5lBz0wLBV) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [hom'ea'ge](https://open.spotify.com/album/3GZ2bTWjX8d4L4rvtWcagA) | 3:12 |
 | 139 | [A little more](https://open.spotify.com/track/5JXZEz2nO23mXsYY4nNREW) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [A little more \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0FW5ce3s0jz6k4RJfoBBhd) | 3:32 |
 | 140 | [Gold Dust](https://open.spotify.com/track/0Hj4YtlD0Q5O0srdZxJUtl) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 4:09 |
 | 141 | [Love](https://open.spotify.com/track/5VeXj6AN1SDRfvcjafPKCc) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Love](https://open.spotify.com/album/2lyGDRXefXaQLpkO9LFchu) | 3:43 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 150 | [Why Not?](https://open.spotify.com/track/7zdzUXDmFWX2fU0lRRjwBS) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Why Not?](https://open.spotify.com/album/5BPXrF9UC8cckWFWNMcdO6) | 3:28 |
 | 151 | [Beginning of Love](https://open.spotify.com/track/1X4dEyCWKnHS6cMA1n02n7) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [As A Man Rather Than A Friend](https://open.spotify.com/album/1jnSwvqHYKcsx57mOxXt25) | 3:28 |
 
-Snapshot ID: `MCwxNzhlN2FkOTgxNmIyMGJlMDE5MzdkNGVlNGJmYTg2NmNkNTllNDk4`
+Snapshot ID: `MCw4YTA4ZjE5ZTE5ZDBjMjc3MGM5YjM4MTg1ZDU4NDBlZWM1YmJhMjM3`

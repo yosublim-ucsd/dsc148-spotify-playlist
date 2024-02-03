@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-395 songs - 21 hr 58 min
+396 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Like You Love Me](https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:30 | 2021-10-31 | 2023-02-08 |
 | [Little Bit More \- Neon Feather Remix](https://open.spotify.com/track/71P3M3VFr6MNMxRp9vlNU3) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Little Bit More \(Neon Feather Remix\)](https://open.spotify.com/album/5UPyM0wdY0ghnfIrVL6Cyj) | 2:54 | 2021-10-31 | 2022-07-29 |
 | [Little Seed \- Dance Mix](https://open.spotify.com/track/0aRkP3M32J0m3skYRHugrr) | [Kierre Bjorn](https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Little Seed \(Dance Mix\)](https://open.spotify.com/album/4AkT2i0W0a1vQyNCMF75JR) | 3:03 | 2023-02-08 | 2023-03-06 |
-| [LOSE CONTROL](https://open.spotify.com/track/5ApvV6ALfi7YAFv6chSst6) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [LOSE CONTROL](https://open.spotify.com/album/7pju4LTiWq4TW1HYxsweLM) | 2:26 | 2023-02-07 |  |
+| [LOSE CONTROL](https://open.spotify.com/track/5ApvV6ALfi7YAFv6chSst6) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [LOSE CONTROL](https://open.spotify.com/album/7pju4LTiWq4TW1HYxsweLM) | 2:26 | 2023-02-07 | 2024-02-03 |
 | [Love Is Everything We Need](https://open.spotify.com/track/4U4MhlKh1s5DW1PH4W3PbG) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Love Is Everything We Need](https://open.spotify.com/album/6QonKeISFBF4m0uucPdv1M) | 2:37 | 2023-02-08 | 2023-04-13 |
 | [Love Is Everything We Need](https://open.spotify.com/track/5SCLsSvlwGeZuZTqma0SdQ) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [God Help Me](https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8) | 2:37 | 2023-02-07 |  |
 | [Love Me Back to Life](https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Love Me Back to Life](https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM) | 2:47 | 2023-02-07 |  |
@@ -330,6 +330,7 @@
 | [State Of Mind \- Live](https://open.spotify.com/track/4x92BLwZCXLS5JGvYO6Cbl) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1), [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [All Glory \(Live\)](https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR) | 3:41 | 2021-10-31 | 2022-07-28 |
 | [Stay \(feat\. Eris Ford\) \- Remix](https://open.spotify.com/track/6jxmiJbjn6pH8nxEKCFw72) | [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z), [GIDI](https://open.spotify.com/artist/4jpyLwY88iZc65WHKxderI), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [Stay \(Remix\) \[feat\. Eris Ford\]](https://open.spotify.com/album/6cZRxLsUIWMricmggksk3T) | 3:28 | 2021-10-31 | 2022-07-22 |
 | [Step Into The Fight \- Gregatron Remix](https://open.spotify.com/track/7MmEyVUNFyNXvCUy67M6RD) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Step Into The Fight \(Gregatron Remix\)](https://open.spotify.com/album/51CtTp4TGVtbm1rFoja0lk) | 3:33 | 2023-02-07 | 2024-01-12 |
+| [Step Into The Fight \- Gregatron Remix](https://open.spotify.com/track/0yISALkKshn3jPl6M8CNOu) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s), [Gregatron](https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX) | [Step Into The Fight \(Gregatron Remix\)](https://open.spotify.com/album/7CfPzqn1xDzytHi7FBKcxO) | 3:33 | 2023-02-07 |  |
 | [STICKS & STONES](https://open.spotify.com/track/1XsVqOChsThIrhuLZcSCkT) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [GENESIS](https://open.spotify.com/album/3g9G4l7NCOiuKeiIVtMaB5) | 3:22 | 2021-10-31 | 2022-11-13 |
 | [Stranger](https://open.spotify.com/track/1PqDvk6t4pI1kAWWjvxVYU) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Stranger](https://open.spotify.com/album/4VBXA24rGMiOJEviWRofgS) | 3:19 | 2021-10-31 | 2022-07-27 |
 | [Streams](https://open.spotify.com/track/5pGOK0d3Ls6ikio9oQYkLC) | [Austin & Lindsey Adamec](https://open.spotify.com/artist/4oLDDlPUpiKowrWoJLS94r) | [Streams](https://open.spotify.com/album/2UZ3kOA1L3lJapkpfPzbBV) | 4:00 | 2021-10-31 | 2023-02-08 |

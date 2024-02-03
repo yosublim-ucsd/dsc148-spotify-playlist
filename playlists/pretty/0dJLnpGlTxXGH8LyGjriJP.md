@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 743 songs - 1 day 13 hr 56 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 747 songs - 1 day 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -751,5 +751,9 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 741 | [AT THE PARTY \(feat\. Pharrell Williams & Travis Scott\)](https://open.spotify.com/track/0kUQWMs1bRlwFNKA4Dce3f) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:58 |
 | 742 | [4L](https://open.spotify.com/track/1uULQtJ8rbsX5TwjPpPc9Q) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 |
 | 743 | [Whatever She Wants](https://open.spotify.com/track/1F2YY9lXrRJxAppKaRMGML) | [Rlr Slime](https://open.spotify.com/artist/71ltjO8mWxEALHGt0bbfVZ), [Lil Bryson Tillerr](https://open.spotify.com/artist/1p1Pz5qFGwejLghf94opef) | [Whatever She Wants](https://open.spotify.com/album/1ymOdljx8dHJNxxoOUHV52) | 2:10 |
+| 744 | [Bandit](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
+| 745 | [do re mi](https://open.spotify.com/track/6Se3x9ANMLv0dCDsjGmEjh) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [digital druglord](https://open.spotify.com/album/0a8WSH44kA5hR4MQ6LyFDB) | 3:32 |
+| 746 | [Curse](https://open.spotify.com/track/5BYCMWNQqz4nqErN1ReRGL) | [Bass Santana](https://open.spotify.com/artist/0O1cTzccAEKaEFShgzAK9V), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Cooliecut](https://open.spotify.com/artist/19uEVh7y7Y9RfjMphMamXc), [Kin$oul](https://open.spotify.com/artist/6HhsbprrJmKeaH8SgSlGge) | [XXXTENTACION Presents: Members Only, Vol\. 3](https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn) | 1:58 |
+| 747 | [NO TRENDS](https://open.spotify.com/track/1R7IfLjtJ4B9kqjIqaEeVf) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:31 |
 
-Snapshot ID: `OTEwLGEwYWQ2ZjAwZDI2YzE2NGVhODJjYTkwZjkxNGRiMTEyZDU0Y2NkODg=`
+Snapshot ID: `OTE0LGEzM2NmOTAyY2ViZGQ5MGZiOWNkNTg1MDJjYWE1MmMzNDA2MDZhZWY=`

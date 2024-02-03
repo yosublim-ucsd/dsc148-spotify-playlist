@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 120574,
+  "2024-02-03": 120825,
   "date_first_scraped": "2022-08-19",
   "description": "The stomping ground.",
   "name": "Open Air",
@@ -109,6 +109,24 @@
       "duration_ms": 247234,
       "name": "2M3 2U",
       "url": "https://open.spotify.com/track/11wmWBDltWMVsHDIDRWVCc"
+    },
+    {
+      "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/1kBqRa2e2terLD72aVHvsk"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196904,
+      "name": "444",
+      "url": "https://open.spotify.com/track/7gjxXndvML1DoJeB6izQPa"
     },
     {
       "album": {
@@ -1936,6 +1954,28 @@
     },
     {
       "album": {
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
+    },
+    {
+      "album": {
         "name": "Romantic Thrills",
         "url": "https://open.spotify.com/album/7ds3WqR9nEhtrjFwqqpXmd"
       },
@@ -3323,7 +3363,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 189473,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/6kgVM1XFTsKsGvyzaMgIi2"
@@ -5658,6 +5698,28 @@
     },
     {
       "album": {
+        "name": "Hella Good",
+        "url": "https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn"
+      },
+      "artists": [
+        {
+          "name": "Niko The Kid",
+          "url": "https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X"
+        },
+        {
+          "name": "Benson",
+          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175757,
+      "name": "Hella Good",
+      "url": "https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB"
+    },
+    {
+      "album": {
         "name": "Hera",
         "url": "https://open.spotify.com/album/7zCZCLV0eO0TPCxl3iFobd"
       },
@@ -6623,7 +6685,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 196905,
       "name": "Into Dust",
       "url": "https://open.spotify.com/track/3Yosq67GSBqGVkPm3O3Iul"
@@ -6907,7 +6969,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 140160,
       "name": "Just Like You",
       "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
@@ -9072,6 +9134,24 @@
     },
     {
       "album": {
+        "name": "Picture: Aladag",
+        "url": "https://open.spotify.com/album/29q1GthD3SilqlghXInPcA"
+      },
+      "artists": [
+        {
+          "name": "ALADAG",
+          "url": "https://open.spotify.com/artist/1UxqOQnO1IPi07q5nB3src"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410729,
+      "name": "My Religion",
+      "url": "https://open.spotify.com/track/1v3EATrKidfFy4DSyjgqmc"
+    },
+    {
+      "album": {
         "name": "Odd Ones V2",
         "url": "https://open.spotify.com/album/2DiBZCWhToju8TDXaKqrks"
       },
@@ -10423,7 +10503,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 346287,
       "name": "Pet Sound",
       "url": "https://open.spotify.com/track/5mDlLXhBzoneaC3pvaXbNE"
@@ -10521,7 +10601,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 390000,
       "name": "Playing With Foc...",
       "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
@@ -10677,7 +10757,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 168750,
       "name": "Que Pasa",
       "url": "https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv"
@@ -12799,7 +12879,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 146007,
       "name": "Steady Pace",
       "url": "https://open.spotify.com/track/42Nbp4cNwh3VbncOXjnEkM"
@@ -15921,7 +16001,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 227427,
       "name": "Will You Remember Me? - (YOTTO vs. Anden)",
       "url": "https://open.spotify.com/track/3qRBvlbLv3ZCwQ9rVa7VyW"

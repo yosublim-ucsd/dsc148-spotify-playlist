@@ -4,7 +4,7 @@
 
 > The dancefloor is the place to be 🪩
 
-361 songs - 1 day 8 hr 53 min
+362 songs - 1 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 | 2022-06-24 | 2023-02-06 |
 | [Burn Through](https://open.spotify.com/track/1fgjv0A82xSTAymPVwQQ79) | [Solique](https://open.spotify.com/artist/0RIUSfIxj9TP0NcloqxKiR), [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Burn Through](https://open.spotify.com/album/7uXNZrwK4WExs5lKomAb6C) | 6:22 | 2023-04-07 | 2023-04-29 |
 | [Burning Flame \- 2020 Remix](https://open.spotify.com/track/2xWC2Gp09mdco5kEzXnm9I) | [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Jez Phunk](https://open.spotify.com/artist/3MBYR1OMC2QDN9kL32e0df), [Krystal](https://open.spotify.com/artist/0y6I0Y8NUO3qUe2NRqT5rH) | [Burning Flame \(2020 Remix\)](https://open.spotify.com/album/1rBKdxgSEhNr1qA342r1of) | 9:07 | 2022-04-15 | 2022-05-08 |
+| [Cabalero](https://open.spotify.com/track/22vql5nRZdCJ0wqLLzi2mQ) | [Yannick Mueller](https://open.spotify.com/artist/6iSC2YnYuFfCbrBhyRVkPm) | [Cabalero](https://open.spotify.com/album/1hTnb56AqwEnUV52UPnYbq) | 4:27 | 2024-01-26 |  |
 | [Can I](https://open.spotify.com/track/3qavQewlgidBuYHrJe3Qqb) | [Britta Arnold](https://open.spotify.com/artist/7JpBTUqubY86KynSJr28RN) | [No Pushing Only Pulling](https://open.spotify.com/album/57LVq8AxNiBVuPMN0iZLZP) | 8:31 | 2022-04-15 | 2022-07-28 |
 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 | 2022-04-15 | 2024-01-11 |
 | [Caprice](https://open.spotify.com/track/6UJTyXQvDe3hv8NQXOKOCl) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Caprice](https://open.spotify.com/album/0zv9KQqPhVAPleEi8anQ4R) | 3:50 | 2022-04-15 | 2024-01-23 |
@@ -218,7 +219,7 @@
 | [Moving On](https://open.spotify.com/track/0LJ33gGNQlxoLJlOsZLGNE) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/1ggOs7osv7Gtv6w5Pf9rwl) | 3:25 | 2022-10-14 | 2023-07-13 |
 | [Moving On](https://open.spotify.com/track/44q90g5h6dBJAkWbKrCSuW) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/2KVBSUUfklLKmQPSTbNQqQ) | 3:25 | 2022-06-17 | 2022-10-13 |
 | [My City's On Fire](https://open.spotify.com/track/4naKJYQsRnQcBvYcgAGivQ) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [+](https://open.spotify.com/album/611LjdYsQvGXLI0pCOrmZk) | 3:07 | 2024-01-22 | 2024-01-27 |
-| [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 | 2022-06-24 |  |
+| [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 | 2022-06-24 | 2024-02-03 |
 | [Nefarius \- Original Short Edit](https://open.spotify.com/track/6LZ4x2csXmU81hcVCXuKk1) | [Alex Breitling](https://open.spotify.com/artist/4CBrawfeZ5WugRTqsXgwgI) | [Nefarius EP \(Short Edits\)](https://open.spotify.com/album/171UVAsDr4v5Qa4Y4a0M2L) | 4:18 | 2022-04-15 | 2022-04-21 |
 | [NEON RATS](https://open.spotify.com/track/5qhytiPIn0IXQKs9XE98YN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 7:30 | 2022-11-14 | 2024-01-07 |
 | [NEON RATS](https://open.spotify.com/track/6frczIwQzRtoEgwAw8N3Cv) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/0jx9Lgujl1dys53cwHWwNT) | 7:30 | 2022-06-17 | 2022-11-20 |

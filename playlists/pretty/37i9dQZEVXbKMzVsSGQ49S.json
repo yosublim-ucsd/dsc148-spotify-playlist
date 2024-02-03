@@ -6,10 +6,42 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzYwMTUyMDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYwMjM4NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
+      "album": {
+        "name": "Cold city",
+        "url": "https://open.spotify.com/album/0L4rAoQci86u1OmgC2El9s"
+      },
+      "artists": [
+        {
+          "name": "Dide",
+          "url": "https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Cold city",
+      "url": "https://open.spotify.com/track/63ZIpQQxSPeAyYqSxY1v0J"
+    },
+    {
+      "added_at": "2024-02-02 10:01:03",
+      "album": {
+        "name": "One life",
+        "url": "https://open.spotify.com/album/2mTNaVgsTlHqzMsR6qpg6C"
+      },
+      "artists": [
+        {
+          "name": "Harry Kappen",
+          "url": "https://open.spotify.com/artist/0vLYBW53d9YsqCRSPY5XQB"
+        }
+      ],
+      "duration_ms": 246884,
+      "name": "One life",
+      "url": "https://open.spotify.com/track/3Akr4VWv96Jq7VrBgmMCaw"
+    },
+    {
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "KOSS \u00c1 \u00deIG (\u00c1ram\u00f3taskaup 2023)",
         "url": "https://open.spotify.com/album/04ilaNnJNBvla2NbiVZEB2"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/4swi74n7WyfQUFxVTIXnmB"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "Sk\u00edna",
         "url": "https://open.spotify.com/album/7lctUyqUeXZTWDBgEO2Dv0"
@@ -61,39 +93,7 @@
       "url": "https://open.spotify.com/track/3M9CDeth4DHI7TWkdoMuDv"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
-      "album": {
-        "name": "Krumla",
-        "url": "https://open.spotify.com/album/6hsyX5ypUgZ5FogcntKnHd"
-      },
-      "artists": [
-        {
-          "name": "ICEGUYS",
-          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
-        }
-      ],
-      "duration_ms": 195464,
-      "name": "Krumla",
-      "url": "https://open.spotify.com/track/1ahTtx2UIz4Kj59aMbcwSh"
-    },
-    {
-      "added_at": "2024-02-01 09:54:04",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 152415,
-      "name": "Litlar stj\u00f6rnur",
-      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
-    },
-    {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
@@ -125,39 +125,23 @@
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+        "name": "Krumla",
+        "url": "https://open.spotify.com/album/6hsyX5ypUgZ5FogcntKnHd"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
         }
       ],
-      "duration_ms": 133050,
-      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
-      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
+      "duration_ms": 195464,
+      "name": "Krumla",
+      "url": "https://open.spotify.com/track/1ahTtx2UIz4Kj59aMbcwSh"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99613,
-      "name": "\u00d3skasteinar",
-      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
-    },
-    {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
@@ -173,7 +157,7 @@
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -184,12 +168,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 150883,
-      "name": "Sofa urtub\u00f6rn",
-      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
+      "duration_ms": 152415,
+      "name": "Litlar stj\u00f6rnur",
+      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -200,12 +184,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 197137,
-      "name": "Lj\u00f3s",
-      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
+      "duration_ms": 133050,
+      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
+      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -229,23 +213,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 175403,
-      "name": "B\u00edum b\u00edum bambal\u00f3",
-      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
-    },
-    {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "Read My Lips",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
@@ -261,7 +229,7 @@
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -272,28 +240,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 191332,
-      "name": "\u00c6vint\u00fdral\u00f6nd",
-      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
+      "duration_ms": 99613,
+      "name": "\u00d3skasteinar",
+      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
-      "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
-    },
-    {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -304,12 +256,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 132446,
-      "name": "G\u00f3\u00f0a n\u00f3tt",
-      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
+      "duration_ms": 150883,
+      "name": "Sofa urtub\u00f6rn",
+      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -333,7 +285,7 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -349,87 +301,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 125852,
-      "name": "Frost er \u00fati fuglinn minn",
-      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
-    },
-    {
-      "added_at": "2024-02-01 09:54:04",
-      "album": {
-        "name": "My Name",
-        "url": "https://open.spotify.com/album/0f2LlcNlBMU2Mf9AFvt5ZB"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saint",
-          "url": "https://open.spotify.com/artist/5Y21AVTJxziL5YGqWc4jhs"
-        }
-      ],
-      "duration_ms": 185813,
-      "name": "My Name",
-      "url": "https://open.spotify.com/track/31fpjAsfqRYfvv8rcEelEz"
-    },
-    {
-      "added_at": "2024-02-01 09:54:04",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99752,
-      "name": "S\u00f3lskin",
-      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
-    },
-    {
-      "added_at": "2024-02-01 09:54:04",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 193282,
-      "name": "Sof\u00f0u",
-      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
-    },
-    {
-      "added_at": "2024-02-01 09:54:04",
-      "album": {
-        "name": "Never Lose Me",
-        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 125901,
-      "name": "Never Lose Me",
-      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
-    },
-    {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -445,7 +317,7 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -456,12 +328,44 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 123576,
-      "name": "B\u00ed b\u00ed og blaka",
-      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
+      "duration_ms": 197137,
+      "name": "Lj\u00f3s",
+      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
+      "album": {
+        "name": "Never Lose Me",
+        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
+    },
+    {
+      "added_at": "2024-02-02 10:01:03",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 175403,
+      "name": "B\u00edum b\u00edum bambal\u00f3",
+      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
+    },
+    {
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -477,7 +381,23 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -488,12 +408,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 182090,
-      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
-      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
+      "duration_ms": 191332,
+      "name": "\u00c6vint\u00fdral\u00f6nd",
+      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "yes, and?",
         "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
@@ -509,7 +429,39 @@
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 132446,
+      "name": "G\u00f3\u00f0a n\u00f3tt",
+      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
+    },
+    {
+      "added_at": "2024-02-02 10:01:03",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 125852,
+      "name": "Frost er \u00fati fuglinn minn",
+      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
+    },
+    {
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "Bakka ekki \u00fat",
         "url": "https://open.spotify.com/album/6HBuFlNsfd3hYJRe0dOfxA"
@@ -529,23 +481,7 @@
       "url": "https://open.spotify.com/track/0EgIa9cIW52lXHIYbkUFR9"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 135325,
-      "name": "\u00de\u00fa ert",
-      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
-    },
-    {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -565,23 +501,55 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
-        "name": "M\u00e6\u00f0ur",
-        "url": "https://open.spotify.com/album/1fo6QCQeyJb2J9rb3Bydom"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "Fri\u00f0rik D\u00f3r",
-          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 207588,
-      "name": "Aftur ung (Dansa\u00f0u vi\u00f0 mig)",
-      "url": "https://open.spotify.com/track/2YrcfSsVKlJw7ganlrRhjs"
+      "duration_ms": 193282,
+      "name": "Sof\u00f0u",
+      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 123576,
+      "name": "B\u00ed b\u00ed og blaka",
+      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
+    },
+    {
+      "added_at": "2024-02-02 10:01:03",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99752,
+      "name": "S\u00f3lskin",
+      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
+    },
+    {
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
@@ -601,23 +569,39 @@
       "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
-        "name": "Cold city",
-        "url": "https://open.spotify.com/album/0L4rAoQci86u1OmgC2El9s"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "Dide",
-          "url": "https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Cold city",
-      "url": "https://open.spotify.com/track/63ZIpQQxSPeAyYqSxY1v0J"
+      "duration_ms": 182090,
+      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
+      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 135325,
+      "name": "\u00de\u00fa ert",
+      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
+    },
+    {
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -641,23 +625,7 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 251249,
-      "name": "MY EYES",
-      "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
-    },
-    {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "Ghetto Fabulous",
         "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
@@ -673,23 +641,7 @@
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 184516,
-      "name": "Pink + White",
-      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
-    },
-    {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -713,39 +665,39 @@
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
+      "duration_ms": 251249,
+      "name": "MY EYES",
+      "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+        "name": "M\u00e6\u00f0ur",
+        "url": "https://open.spotify.com/album/1fo6QCQeyJb2J9rb3Bydom"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
         }
       ],
-      "duration_ms": 135920,
-      "name": "Father Stretch My Hands Pt. 1",
-      "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
+      "duration_ms": 207588,
+      "name": "Aftur ung (Dansa\u00f0u vi\u00f0 mig)",
+      "url": "https://open.spotify.com/track/2YrcfSsVKlJw7ganlrRhjs"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "R\u00falletta",
         "url": "https://open.spotify.com/album/1IGqRqlhhFraZuFv2zeSzg"
@@ -761,7 +713,39 @@
       "url": "https://open.spotify.com/track/2MCc0WbH4L39evnT4lXd8B"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 184516,
+      "name": "Pink + White",
+      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+      "added_at": "2024-02-02 10:01:03",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
+    },
+    {
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "Elska",
         "url": "https://open.spotify.com/album/3ff0TMuz5cPCFrVSDDfOMz"
@@ -781,7 +765,23 @@
       "url": "https://open.spotify.com/track/3u3uS54VRFbCJThLdTZN8k"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 135920,
+      "name": "Father Stretch My Hands Pt. 1",
+      "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
+    },
+    {
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
@@ -797,23 +797,7 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
-      "album": {
-        "name": "808s & Heartbreak",
-        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
-    },
-    {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -833,23 +817,23 @@
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+      "duration_ms": 211582,
+      "name": "I KNOW ?",
+      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
     },
     {
-      "added_at": "2024-02-01 09:54:04",
+      "added_at": "2024-02-02 10:01:03",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
@@ -863,6 +847,22 @@
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2024-02-02 10:01:03",
+      "album": {
+        "name": "808s & Heartbreak",
+        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
     }
   ],
   "unique_name": "Top 50 - Iceland",

@@ -4,7 +4,7 @@
 
 > This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-61 songs - 5 hr 4 min
+62 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Rasgando o Coração](https://open.spotify.com/track/5zZwoproPHsIgob7Qco75l) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Liberta\-me](https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT) | 5:01 | 2023-07-09 |  |
 | [Romanos 8:26 \(Ao Vivo\)](https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Romanos 8:26 \(Ao Vivo\)](https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC) | 4:29 | 2023-07-09 |  |
 | [Santo \(Holy\)](https://open.spotify.com/track/4l90mbIMuolQaY84Y07Y2G) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 4:44 | 2023-07-09 |  |
+| [Seu Lugar](https://open.spotify.com/track/5N4nevHlaNbF5jUNlxUsZo) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Sonhos](https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC) | 3:26 | 2024-02-02 |  |
 | [Suas Digitais](https://open.spotify.com/track/0IRSfwWSF4uQiYe6cxQWsV) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 4:50 | 2023-07-09 |  |
 | [Te Amaria Outra Vez](https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fernanda Brum \- Falando de Amor](https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE) | 4:23 | 2023-07-09 |  |
 | [Te Amo Tanto \(feat\. Fernanda Brum\)](https://open.spotify.com/track/1dZmUPNuSob99F8hLnwCfb) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 5:04 | 2023-07-09 | 2023-07-20 |
@@ -68,6 +69,6 @@
 | [Vaso de Alabastro](https://open.spotify.com/track/3BjAxbI4Db9QbIsYSyXzEx) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 3:25 | 2023-07-09 |  |
 | [Vinho e Pão](https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Paixão de Cristo \- O Musical](https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO) | 3:13 | 2023-07-09 |  |
 | [Yeshua \(Ao Vivo\)](https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 6:06 | 2023-07-09 |  |
-| [És Real Pra Mim](https://open.spotify.com/track/1lkGggSQYb4s6JKDuR9xfm) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Terceiro Céu](https://open.spotify.com/album/798ewTqgND9GVg541W8w41) | 5:34 | 2023-07-09 |  |
+| [És Real Pra Mim](https://open.spotify.com/track/1lkGggSQYb4s6JKDuR9xfm) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Terceiro Céu](https://open.spotify.com/album/798ewTqgND9GVg541W8w41) | 5:34 | 2023-07-09 | 2024-02-03 |
 
 \*This playlist was first scraped on 2023-07-10. Prior content cannot be recovered.

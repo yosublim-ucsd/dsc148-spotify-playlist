@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 404254,
+  "2024-02-03": 404255,
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Papooz",
+  "description": "The best French indie tracks right now. Cover : Emma Hoet",
   "name": "Made in France",
   "tracks": [
     {
@@ -718,6 +718,24 @@
     },
     {
       "album": {
+        "name": "Blinds",
+        "url": "https://open.spotify.com/album/5n40ewDmIxFxsBFTSHyQh8"
+      },
+      "artists": [
+        {
+          "name": "Nina Versyp",
+          "url": "https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165145,
+      "name": "Blinds",
+      "url": "https://open.spotify.com/track/5heIFh4Abh0PfvoFviNuc5"
+    },
+    {
+      "album": {
         "name": "Bloqu\u00e9",
         "url": "https://open.spotify.com/album/4AghyVNlGwrNpvj8uL7cPG"
       },
@@ -1340,6 +1358,24 @@
     },
     {
       "album": {
+        "name": "Corail Intercit\u00e9",
+        "url": "https://open.spotify.com/album/2Y3hC9ZKt9OJMmO1415V33"
+      },
+      "artists": [
+        {
+          "name": "Magenta Club",
+          "url": "https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211862,
+      "name": "Corail Intercit\u00e9 - Radio Edit",
+      "url": "https://open.spotify.com/track/13aZsDcR8Td6JJoelei4ok"
+    },
+    {
+      "album": {
         "name": "coraz\u00f3n caramelo",
         "url": "https://open.spotify.com/album/1LHcIXM8IPz3TuTXlhinSd"
       },
@@ -1485,7 +1521,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 162782,
       "name": "Dans ma t\u00eate",
       "url": "https://open.spotify.com/track/1N065mYphUNO3ImHmMpC1t"
@@ -2151,6 +2187,24 @@
       "duration_ms": 187346,
       "name": "Everynight",
       "url": "https://open.spotify.com/track/2RZf85DlySSEutouUtotn6"
+    },
+    {
+      "album": {
+        "name": "R\u00eave parti",
+        "url": "https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9"
+      },
+      "artists": [
+        {
+          "name": "Lescop",
+          "url": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203186,
+      "name": "Exotica",
+      "url": "https://open.spotify.com/track/0BOXrnQCeHGkl2AraB6OLn"
     },
     {
       "album": {
@@ -3946,6 +4000,28 @@
     },
     {
       "album": {
+        "name": "Sunset Park (Extended version)",
+        "url": "https://open.spotify.com/album/4R7JoS7uL4Rs0zBayDeJxY"
+      },
+      "artists": [
+        {
+          "name": "H-Burns",
+          "url": "https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn"
+        },
+        {
+          "name": "Bertrand Belin",
+          "url": "https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261104,
+      "name": "La nuit est entr\u00e9e en lui",
+      "url": "https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK"
+    },
+    {
+      "album": {
         "name": "La vague aux cheveux d'or",
         "url": "https://open.spotify.com/album/40nDifZoF1tm8pfMuc69aX"
       },
@@ -5119,10 +5195,28 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 201986,
       "name": "M\u00e9taphores",
       "url": "https://open.spotify.com/track/3DBt3IOapmTsIV5QWfOje0"
+    },
+    {
+      "album": {
+        "name": "Ne t'en fais pas",
+        "url": "https://open.spotify.com/album/0t4iqjZlEERcP27LBQpMvJ"
+      },
+      "artists": [
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Ne t'en fais pas",
+      "url": "https://open.spotify.com/track/3WOrCrgJX1Wz09tBRODBP4"
     },
     {
       "album": {
@@ -6247,7 +6341,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 161250,
       "name": "RDV",
       "url": "https://open.spotify.com/track/5rFfq3wabTZxIq9nxehZ5P"
@@ -6985,7 +7079,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 222973,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/4qqxG6nXJPFN2SptIp2kxC"
@@ -7965,7 +8059,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 205548,
       "name": "Un jour ou deux",
       "url": "https://open.spotify.com/track/1S3FS1rQ8EOoA3MhLVjhxO"

@@ -4,7 +4,7 @@
 
 > Bossa nova vibes for the hopeless romantic daydreamers.
 
-107 songs - 5 hr 25 min
+108 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-12 |  |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-03-10 |  |
 | [Hopeless Romantic](https://open.spotify.com/track/6MVMbS5zwts8wgC1Re1VKF) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Hopeless Romantic](https://open.spotify.com/album/7ld58A7mgtQhByX8NQnXN2) | 4:30 | 2023-05-26 |  |
-| [Hot Yoga](https://open.spotify.com/track/7Kww1lvMVSlOK7LttfKxNO) | [Morganne](https://open.spotify.com/artist/6Au2T6xOPGJU6SsgyLWKp8) | [Hot Yoga](https://open.spotify.com/album/2uGz5bn9F2IkqpZwwkO3be) | 2:57 | 2023-09-15 |  |
+| [Hot Yoga](https://open.spotify.com/track/7Kww1lvMVSlOK7LttfKxNO) | [Morganne](https://open.spotify.com/artist/6Au2T6xOPGJU6SsgyLWKp8) | [Hot Yoga](https://open.spotify.com/album/2uGz5bn9F2IkqpZwwkO3be) | 2:57 | 2023-09-15 | 2024-02-03 |
 | [I Can't Get Over You](https://open.spotify.com/track/7tdFmz7aTM0MTssyzOSXta) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Can't Get Over You](https://open.spotify.com/album/3OCO1ebyxBC6CXsF99Xara) | 4:21 | 2023-01-06 |  |
 | [I Hear a Symphony](https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT) | 3:05 | 2023-07-28 |  |
 | [I'll Play the Fool](https://open.spotify.com/track/44jrccmdmEEaAMgvWMiNN5) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 2:48 | 2023-01-06 |  |
@@ -60,6 +60,7 @@
 | [In The Morning](https://open.spotify.com/track/6qU4WFDcW9ENITjPMdY3bC) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [In The Morning](https://open.spotify.com/album/4rEM6qbMmPiVgOxMTuaCzu) | 2:44 | 2023-10-13 |  |
 | [J'aime les filles](https://open.spotify.com/track/6GiwLIxSRc3bEBaLj2RPjK) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [J'aime les filles](https://open.spotify.com/album/6dPvgLmDxBa52kR1MPJoQ0) | 3:16 | 2023-01-20 |  |
 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU) | 2:54 | 2023-03-31 |  |
+| [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 | 2024-02-02 |  |
 | [love of my life](https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [love letters to u \(EP\)](https://open.spotify.com/album/4F1W1gMngOB4UhVF0ykpox) | 2:37 | 2023-11-10 |  |
 | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/track/70gFbSkpt8Yj4DhToyXzpG) | [Madylin Gilbert](https://open.spotify.com/artist/4Ul5nI6dNwODUPY8lufzk2) | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/album/55uW1iNFxaYXYq3dIw8Blx) | 2:01 | 2023-08-04 |  |
 | [Lovesick](https://open.spotify.com/track/2yDWhOjZhKZ0XqPXyjNQhx) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 4:13 | 2023-01-06 |  |

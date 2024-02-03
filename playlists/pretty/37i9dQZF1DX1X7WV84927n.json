@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Atreyu",
-  "num_followers": 348870,
+  "num_followers": 348964,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWJhZDMwNDNlMzA3YTUzOTE4MjlmOWJmM2Y2MTQ1M2VhNDA0Zjg2",
+  "snapshot_id": "MCxmMWJmNmVlZWJmMTdlZDU2OTBhMGFkNjhmNWZjMTIyMzFlNDY4OTkx",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "JACK",
-        "url": "https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 168630,
-      "name": "JACK",
-      "url": "https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Where Do We Go From Here?",
         "url": "https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 236953,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/2oeD1y0HnIBhHW5pPtyE0w"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "JACK",
+        "url": "https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 168630,
+      "name": "JACK",
+      "url": "https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -999,18 +999,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Perhaps",
-        "url": "https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb"
+        "name": "Divisive",
+        "url": "https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
         }
       ],
-      "duration_ms": 228406,
-      "name": "Perhaps",
-      "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
+      "duration_ms": 238109,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/5t2Wv4h5MO2ZyRBsLbFz55"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1043,34 +1043,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Divisive",
-        "url": "https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9"
+        "name": "Perhaps",
+        "url": "https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 238109,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/5t2Wv4h5MO2ZyRBsLbFz55"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "MORE",
-        "url": "https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 187699,
-      "name": "MORE",
-      "url": "https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0"
+      "duration_ms": 228406,
+      "name": "Perhaps",
+      "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1091,6 +1075,22 @@
       "duration_ms": 201402,
       "name": "Safe And Sound",
       "url": "https://open.spotify.com/track/12D1KLVjHdKiAckFi6ZEP1"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "MORE",
+        "url": "https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 187699,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 253346,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/0t7DV1EAMVC6y3LpW6IuLk"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Love, Drugs & Misery",
         "url": "https://open.spotify.com/album/0P49eFNrsqjfnz4txLvFe6"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 165238,
       "name": "Blow (feat. Spencer Charnas of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/3YqJ7QhsNbmluU3qzbd3ns"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Servant Of The Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 253346,
-      "name": "Becoming",
-      "url": "https://open.spotify.com/track/0t7DV1EAMVC6y3LpW6IuLk"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/7nDKLEaD3NhoIWwlRblMuW"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 177656,
+      "name": "Legends Never Die",
+      "url": "https://open.spotify.com/track/6jvrbttMyyBQuauXB6b7zy"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Mammoth II",
         "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 275739,
       "name": "I\u2019m Alright",
       "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Blood In The Water",
-        "url": "https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI"
-      },
-      "artists": [
-        {
-          "name": "Ayron Jones",
-          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
-        }
-      ],
-      "duration_ms": 217582,
-      "name": "Blood In The Water",
-      "url": "https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1431,34 +1431,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/7nDKLEaD3NhoIWwlRblMuW"
+        "name": "Blood In The Water",
+        "url": "https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI"
       },
       "artists": [
         {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
         }
       ],
-      "duration_ms": 177656,
-      "name": "Legends Never Die",
-      "url": "https://open.spotify.com/track/6jvrbttMyyBQuauXB6b7zy"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Won't Take Me Alive",
-        "url": "https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv"
-      },
-      "artists": [
-        {
-          "name": "Dirty Honey",
-          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
-        }
-      ],
-      "duration_ms": 225596,
-      "name": "Won't Take Me Alive",
-      "url": "https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr"
+      "duration_ms": 217582,
+      "name": "Blood In The Water",
+      "url": "https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1475,6 +1459,22 @@
       "duration_ms": 210067,
       "name": "Hate Me Too",
       "url": "https://open.spotify.com/track/0P9Yw78LZrptziYwD6O0Ed"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Won't Take Me Alive",
+        "url": "https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv"
+      },
+      "artists": [
+        {
+          "name": "Dirty Honey",
+          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
+        }
+      ],
+      "duration_ms": 225596,
+      "name": "Won't Take Me Alive",
+      "url": "https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "I Felt It All",
+        "url": "https://open.spotify.com/album/11McPmOi54GIS6J8XbZqnZ"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "I Felt It All",
+      "url": "https://open.spotify.com/track/1ZAzqG4uS98aYfFGEIqY6T"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Hunger Games",
         "url": "https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 220101,
       "name": "Hunger Games",
       "url": "https://open.spotify.com/track/5DNLtVGw0jGfHVDtuZHs3g"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 286941,
-      "name": "welcome2paradise",
-      "url": "https://open.spotify.com/track/6i4p6ySFg8PRJvgwvMgcqZ"
     }
   ],
   "unique_name": "Hard Rock",

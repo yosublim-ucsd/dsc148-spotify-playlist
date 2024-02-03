@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 439928,
+  "2024-02-03": 440025,
   "date_first_scraped": "2022-02-05",
   "description": "chill beats for cool coffeehouse vibes.",
   "name": "lofi cafe",
@@ -1467,7 +1467,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 147000,
       "name": "Back Again",
       "url": "https://open.spotify.com/track/2D0IcgJIewYoqiCdQmiAm2"
@@ -10198,6 +10198,24 @@
     },
     {
       "album": {
+        "name": "Horseback Reflections",
+        "url": "https://open.spotify.com/album/1P4ENrrbwPX2Dvfy3xdAwL"
+      },
+      "artists": [
+        {
+          "name": "Vilda C",
+          "url": "https://open.spotify.com/artist/5N7Z08HAUyapDLBRoW6m5I"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131756,
+      "name": "Horseback Reflections",
+      "url": "https://open.spotify.com/track/1lhLpMAxlGxQzXrhiZbZOH"
+    },
+    {
+      "album": {
         "name": "The Secret",
         "url": "https://open.spotify.com/album/5E0KO37Nfh58iTAsZZQwmq"
       },
@@ -10765,7 +10783,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 128000,
       "name": "In Town",
       "url": "https://open.spotify.com/track/4gpZCPhvszh71A0SQojf97"
@@ -11673,7 +11691,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 136666,
       "name": "Jump Street",
       "url": "https://open.spotify.com/track/17fOJI0gHFFvxsSvUaVUPZ"
@@ -14684,6 +14702,24 @@
     },
     {
       "album": {
+        "name": "moonshake",
+        "url": "https://open.spotify.com/album/2FGuznGJ6z59TinF8cQQv7"
+      },
+      "artists": [
+        {
+          "name": "Kaptain Kola",
+          "url": "https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130729,
+      "name": "moonshake",
+      "url": "https://open.spotify.com/track/3kpeEvKALaDFYCT67W1iz7"
+    },
+    {
+      "album": {
         "name": "Moonshire",
         "url": "https://open.spotify.com/album/7ztxKAg1GfGHSEYXEOuVVF"
       },
@@ -16443,6 +16479,24 @@
       "duration_ms": 166896,
       "name": "Old School Love",
       "url": "https://open.spotify.com/track/6eNdKA73IIJr2SU4AbFzDf"
+    },
+    {
+      "album": {
+        "name": "Old Shoe Dreams",
+        "url": "https://open.spotify.com/album/0qqDozkEvIXaytPt0uClE9"
+      },
+      "artists": [
+        {
+          "name": "Gooee",
+          "url": "https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115333,
+      "name": "Old Shoe Dreams",
+      "url": "https://open.spotify.com/track/0NO9VHwfvXUQDgvh9aRacG"
     },
     {
       "album": {
@@ -23643,7 +23697,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 154518,
       "name": "Thunder Hug",
       "url": "https://open.spotify.com/track/6KBnGr2g6uOLkZVlgEbiuV"
@@ -25385,6 +25439,24 @@
       "duration_ms": 121500,
       "name": "what's left?",
       "url": "https://open.spotify.com/track/3d7GysYatQ2EoPk7CLAIh9"
+    },
+    {
+      "album": {
+        "name": "wheel2wheel",
+        "url": "https://open.spotify.com/album/7jcbLFAhki4ph2lTLB8fgL"
+      },
+      "artists": [
+        {
+          "name": "trak-side",
+          "url": "https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "wheel2wheel",
+      "url": "https://open.spotify.com/track/0TfKydTLI9ZZt0rPjiAZZa"
     },
     {
       "album": {

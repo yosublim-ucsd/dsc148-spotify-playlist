@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,055 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,048 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 21 | [Selam](https://open.spotify.com/track/01j2lFIDDvoLWzRk1ohxuN) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB) | [Nokta](https://open.spotify.com/album/2qiz3wVTobD9VE9djqe9bw) | 4:25 |
 | 22 | [Bambaşka](https://open.spotify.com/track/4cQmpiV9R08UhQuFMAzph0) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/24ohBXA9KS4lIq1ebnirp6) | 4:02 |
 | 23 | [AL SENİN OLSUN DÜNYA](https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Al Senin Olsun Dünya](https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ) | 3:15 |
-| 24 | [Huyu Suyu](https://open.spotify.com/track/6TxVucau8TPKafZT68xOhI) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 2:33 |
-| 25 | [Sustum](https://open.spotify.com/track/6IXDRacqWKBzee5DgsLRVf) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Sustum](https://open.spotify.com/album/05N4dJk53uBVvH27EAzkNS) | 3:32 |
+| 24 | [Sustum](https://open.spotify.com/track/6IXDRacqWKBzee5DgsLRVf) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Sustum](https://open.spotify.com/album/05N4dJk53uBVvH27EAzkNS) | 3:32 |
+| 25 | [Huyu Suyu](https://open.spotify.com/track/6TxVucau8TPKafZT68xOhI) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 2:33 |
 | 26 | [Güneşe Dokundum](https://open.spotify.com/track/1XSHAC96a1iNeOsq4bqe4o) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [Tepeler](https://open.spotify.com/album/1uieUXynGKSwtAR2mBZX6Z) | 2:53 |
 | 27 | [Yalnız Ölmek](https://open.spotify.com/track/1jeezFfn6ccRfWEUlDT7gO) | [Can Güngör](https://open.spotify.com/artist/1G2uUovCzQzQTxT5YM7zPN) | [Yalnız Ölmek](https://open.spotify.com/album/6Mt7gBiLAvEk0dzGQ6QZvh) | 3:47 |
 | 28 | [Nara](https://open.spotify.com/track/11m3VyqxqUiiviJnwEzwBb) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Şehir Yalnızlığı](https://open.spotify.com/album/5MgGccROaHVkJQJaR8Ok1r) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 49 | [Aşk Yeniden](https://open.spotify.com/track/7lQpqtDVqsl6go3XrmfQBR) | [Yeni Türkü](https://open.spotify.com/artist/5Oo6D3FLRpWjgBn0mqfiA3) | [Her Dem Yeni \(Yirmi Seçilmiş Şarkı\)](https://open.spotify.com/album/3lReGFhnQrP7bqnVTRjEfX) | 2:49 |
 | 50 | [Nereye Böyle](https://open.spotify.com/track/55TrAm9okj6Kwj9KOvRHAL) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Yan Yana Fotoğraf Çektirelim](https://open.spotify.com/album/3L6OlTkIhVflGPFy2Tzl6A) | 4:37 |
 
-Snapshot ID: `MCwwYWYwYWUwNGY4MmI2YzQyMDkyNjVkNWYxM2JkY2YxZTNjYWVlYTBk`
+Snapshot ID: `MCwwODU0MzY0OGRmNzg4NmZkYzY3NWMzMzJjNDVkMDJlNzBlNWU5Yjll`

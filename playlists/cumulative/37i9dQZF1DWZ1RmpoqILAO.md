@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation featuring music from Waxahatchee
 
-207 songs - 13 hr 26 min
+210 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,14 +15,16 @@
 | [Amy](https://open.spotify.com/track/3owz5csR9o9BTxkaHWa4MP) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Amy](https://open.spotify.com/album/3St5d6fnFu6CkkWOiN4pCv) | 3:36 | 2023-09-08 |  |
 | [Angels Bowling](https://open.spotify.com/track/6i7nxi0UXihzEUoIaU9Mku) | [Darryl Rahn](https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA) | [Angels Bowling](https://open.spotify.com/album/18IQDpZlz1jlYmnKy3graV) | 2:18 | 2023-02-23 | 2023-07-15 |
 | [another sublet](https://open.spotify.com/track/5QXO4uPk1FdznZEGqTJsLb) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [another sublet](https://open.spotify.com/album/3j4TeXExZfONFBsnukEMuG) | 3:02 | 2023-12-08 | 2024-01-13 |
-| [Ashes](https://open.spotify.com/track/0OVAeW31O5lvcjtfTLIGrK) | [Kelley McRae](https://open.spotify.com/artist/5jisWKblA5tIYYDLfTOKle) | [Ashes](https://open.spotify.com/album/5QWoRFLjMx1SwW4fJaGoCT) | 4:00 | 2023-03-24 |  |
+| [Ashes](https://open.spotify.com/track/0OVAeW31O5lvcjtfTLIGrK) | [Kelley McRae](https://open.spotify.com/artist/5jisWKblA5tIYYDLfTOKle) | [Ashes](https://open.spotify.com/album/5QWoRFLjMx1SwW4fJaGoCT) | 4:00 | 2023-03-24 | 2024-02-03 |
 | [Astronaut](https://open.spotify.com/track/39XuhccP5xec13dC02yIS0) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/2otQW146DtK0V0TiOVe83O) | 3:22 | 2023-02-23 | 2023-09-02 |
 | [Away From The Castle](https://open.spotify.com/track/0lQd2j6DVcXvRFRsat7Cwz) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/4oEso7P9WBi868KZPWpJAg) | 3:42 | 2023-08-11 | 2023-11-01 |
 | [Away From The Castle](https://open.spotify.com/track/73oTXbmbelMf3lVJBuLlf7) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/2QbX68So8TZjAmUzpvmt6R) | 3:42 | 2023-10-27 |  |
+| [Baby I Love You](https://open.spotify.com/track/0OZUOHveCKcJ0QDDA5NAfP) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Baby I Love You](https://open.spotify.com/album/0x1A7vjuUSkQUqMd0ziPrr) | 3:45 | 2024-02-02 |  |
 | [Ballad of the Texas King](https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Cut Worms](https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2) | 3:03 | 2023-07-28 |  |
 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 | 2023-02-23 |  |
 | [Better Friends](https://open.spotify.com/track/2oxPRS0DjGNecUpumDubt8) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Thread](https://open.spotify.com/album/4ngbnWenF6xcw6gtZzGOFH) | 4:46 | 2023-04-28 |  |
 | [Better Friends](https://open.spotify.com/track/5aH2jkj6VAeuoFfAxdDFo7) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Better Friends](https://open.spotify.com/album/1xAaeRGN7LploVcEwBR6TW) | 4:46 | 2023-03-17 | 2023-04-29 |
+| [Big Love](https://open.spotify.com/track/5TlQaUReZtviIA3AWrAazB) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Big Love](https://open.spotify.com/album/4fgwPlwnatn7LfaMiziOJh) | 2:57 | 2024-02-02 |  |
 | [Big Open Sky Flyer](https://open.spotify.com/track/5FlLGHaavAIPxvVPEuphiF) | [Kylie Dailey](https://open.spotify.com/artist/0lC97iGj9XViueKd9WERw4) | [Big Open Sky Flyer](https://open.spotify.com/album/24Qik8HHbQbvCIsuEpWxu4) | 5:20 | 2023-09-15 | 2023-12-09 |
 | [Blackberry Song](https://open.spotify.com/track/2jGWmm8AkM9bEmMZObSXvu) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Childish Prodigy](https://open.spotify.com/album/3TmWAswHIm0Vb08qymeagU) | 3:26 | 2023-07-05 |  |
 | [Blood Red Sentimental Blues](https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO) | 4:36 | 2023-05-19 |  |
@@ -73,7 +75,7 @@
 | [Farm Cat](https://open.spotify.com/track/2ep9ouVeQUr4dx0LxNMfIs) | [Son of the Challenger](https://open.spotify.com/artist/5ArUOljpeiuePVYkK6KFmG) | [Farm Cat](https://open.spotify.com/album/6hX5lC11zIzBJDVm4Z5YSI) | 2:25 | 2023-03-03 |  |
 | [Favorite Song](https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Last Room](https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz) | 2:54 | 2023-06-30 |  |
 | [Fire](https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:37 | 2023-10-02 |  |
-| [Florida](https://open.spotify.com/track/15FNZhperxThEW9hbekubq) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Florida](https://open.spotify.com/album/5WE0uZelPKzwZdymyKsLf3) | 9:04 | 2023-12-08 |  |
+| [Florida](https://open.spotify.com/track/15FNZhperxThEW9hbekubq) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Florida](https://open.spotify.com/album/5WE0uZelPKzwZdymyKsLf3) | 9:04 | 2023-12-08 | 2024-02-03 |
 | [Foggy](https://open.spotify.com/track/6uIrr2sILRAiSlU8DX6IW3) | [Quiet Life](https://open.spotify.com/artist/13MdjUqnWNyfY4qKYQ9OPl) | [Foggy](https://open.spotify.com/album/2nrvUYyF6cd7aBzjdTwzLr) | 7:37 | 2023-05-19 |  |
 | [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 | 2023-05-19 |  |
 | [Formula One](https://open.spotify.com/track/2ncRTRkNzVOpaGoita2qPI) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 2:52 | 2023-04-07 | 2023-12-09 |
@@ -185,7 +187,8 @@
 | [Sunshine](https://open.spotify.com/track/7jUitZww3URFitXC32ezRd) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:37 | 2023-09-01 |  |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-12-08 |  |
 | [Take My Heart](https://open.spotify.com/track/4xIItS5RIFO0JtAlIDBIzb) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [The Holey Bible](https://open.spotify.com/album/60DTLJMVuo2iDezOWMl8QI) | 2:53 | 2023-08-18 |  |
-| [Tetherball \(with Boyish\)](https://open.spotify.com/track/1OA2dCwth9ZlCh2UGEKhgh) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Tetherball \(with Boyish\)](https://open.spotify.com/album/1dHDuiZa2DxzgUZysJZspf) | 3:33 | 2023-12-01 |  |
+| [Tetherball \(with Boyish\)](https://open.spotify.com/track/1OA2dCwth9ZlCh2UGEKhgh) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Tetherball \(with Boyish\)](https://open.spotify.com/album/1dHDuiZa2DxzgUZysJZspf) | 3:33 | 2023-12-01 | 2024-02-03 |
+| [Thanks](https://open.spotify.com/track/02bspNI1gmunfBI8u0xP95) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Thanks](https://open.spotify.com/album/3gPRFJbo622cLv9Tx2pdYS) | 1:08 | 2024-02-02 |  |
 | [The Bottom of It](https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:01 | 2023-02-23 |  |
 | [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 | 2023-12-08 |  |
 | [The Natural](https://open.spotify.com/track/2Jq7MZGZaoZXOLfm2rGr1i) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [The Natural](https://open.spotify.com/album/3Or3QqOXWcbOSwj4RiYzMy) | 3:50 | 2023-03-24 |  |

@@ -4,7 +4,7 @@
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: wiranda johansen
 
-97 songs - 5 hr 18 min
+98 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Ir derecho](https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Hola Precioso](https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty) | 3:26 | 2023-12-15 |  |
 | [La Celebración](https://open.spotify.com/track/3lVRUt7knZi7KnHbrc8GIy) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [La Celebración](https://open.spotify.com/album/2pgLTKuvi57ychKC5LMbnM) | 3:44 | 2024-01-05 |  |
 | [La Coincidencia](https://open.spotify.com/track/7EDOr0ZTrPhbySWoERZ5JZ) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [El Llamado del Sol](https://open.spotify.com/album/5q5mMvzCeORGiT24mwpUtb) | 2:28 | 2023-12-15 |  |
+| [La Mañana](https://open.spotify.com/track/0M65YPR32V9kwciOLgEnCv) | [Galean](https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8), [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [La Mañana](https://open.spotify.com/album/1S6f9Loz5vafrp1fE4MehB) | 3:20 | 2024-02-02 |  |
 | [Lago Eterno](https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lago Eterno](https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC) | 2:08 | 2024-01-19 |  |
 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-12-15 |  |
 | [Leopardos](https://open.spotify.com/track/6YEe62bQirKl9Wcg93j7RJ) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR) | [Leopardos](https://open.spotify.com/album/67sfwNS6PquCyhLNVgHykg) | 3:18 | 2024-01-12 |  |

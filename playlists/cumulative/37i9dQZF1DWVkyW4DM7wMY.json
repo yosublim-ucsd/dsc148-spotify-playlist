@@ -165,6 +165,28 @@
     },
     {
       "album": {
+        "name": "Angel & Demon",
+        "url": "https://open.spotify.com/album/2lP03gWGjSZvi5QqADbDY3"
+      },
+      "artists": [
+        {
+          "name": "Kivumbi King",
+          "url": "https://open.spotify.com/artist/3HUSbkQozU4gXUD82jAbRv"
+        },
+        {
+          "name": "Nviiri The Storyteller",
+          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173663,
+      "name": "Angel & Demon",
+      "url": "https://open.spotify.com/track/1qc2kAS8FbSUpA6p9Iqy3G"
+    },
+    {
+      "album": {
         "name": "Passion",
         "url": "https://open.spotify.com/album/0U49oasE1s5FWbYaKYE039"
       },
@@ -2200,7 +2222,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 172363,
       "name": "Never Left",
       "url": "https://open.spotify.com/track/5NmZh4HWwcrABFobXleIF6"
@@ -2312,7 +2334,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 218863,
       "name": "olivine",
       "url": "https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ"
@@ -2948,7 +2970,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 186000,
       "name": "Sugar My",
       "url": "https://open.spotify.com/track/1rkxLO2NKJbQPHJwm6GrRm"
@@ -3058,6 +3080,24 @@
       "duration_ms": 157403,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/1w1GgfCxvk9gE9XGpeeVEp"
+    },
+    {
+      "album": {
+        "name": "Tamu",
+        "url": "https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg"
+      },
+      "artists": [
+        {
+          "name": "Zaituni Wambui",
+          "url": "https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Tamu",
+      "url": "https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5"
     },
     {
       "album": {
@@ -3280,6 +3320,24 @@
       "duration_ms": 199436,
       "name": "Tonelabira",
       "url": "https://open.spotify.com/track/6rQiDI920PgWZ7xei51JZr"
+    },
+    {
+      "album": {
+        "name": "Toxic Love",
+        "url": "https://open.spotify.com/album/2FArfl0H4GtG1R8wztA2HK"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139166,
+      "name": "Toxic Love",
+      "url": "https://open.spotify.com/track/0WL1rJuCiGYR4Jp5MlA4uU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > the pearls of an oyster\. Cover: The Last Dinner Party
 
-1,067 songs - 2 day 10 hr 58 min
+1,068 songs - 2 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Bug Eye](https://open.spotify.com/track/0IhyGjf2QCm5BkgmotrSnR) | [Juli Capelius](https://open.spotify.com/artist/5lvgW9cUNZajEcT18Wui5p) | [Bug Eye](https://open.spotify.com/album/37FkslA5Is8lueB6qrALfG) | 2:05 | 2023-02-23 | 2023-03-31 |
 | [Bulletproof](https://open.spotify.com/track/2XBRSeF884jyJw4jOf6eK4) | [CILVR](https://open.spotify.com/artist/1ltLaFy2ifgpIhjzYFsPw2) | [Bulletproof](https://open.spotify.com/album/0D6S91voCL6bltywDXg376) | 2:48 | 2023-06-08 | 2023-06-23 |
 | [Bullets](https://open.spotify.com/track/14PuW54lF4aDddAklOrezH) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Victorious//Bullets](https://open.spotify.com/album/0ExGbjosILPh9lf3dCIM9z) | 3:07 | 2023-08-24 | 2023-11-17 |
+| [BULLSEYE](https://open.spotify.com/track/3OatXXexrQMaW6Hr3iQU4k) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [BULLSEYE](https://open.spotify.com/album/1BgDxKB8upXtUxGlNoUp57) | 3:36 | 2024-02-01 |  |
 | [BUMPIN](https://open.spotify.com/track/0NOAdp3v6CTLfMpHEKua2M) | [Lido](https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk), [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [ULTRAVIOLET](https://open.spotify.com/album/1Q4BFGy2pejAKq29Z13ZRT) | 4:40 | 2023-08-31 | 2023-09-22 |
 | [Burn The Hard Drive \(feat\. Mura Masa\)](https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Burn The Hard Drive \(feat\. Mura Masa\)](https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi) | 3:12 | 2024-01-25 |  |
 | [Burns](https://open.spotify.com/track/5ze8DITDe8DQ8oS4MLoUtU) | [NÆLDE](https://open.spotify.com/artist/1BQZAyFQvZtfad0WLu8iwr) | [Burns](https://open.spotify.com/album/0VCCrFF3DHUNcjwA9k2K6u) | 2:48 | 2022-11-24 | 2022-12-24 |
@@ -185,7 +186,7 @@
 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 | 2023-06-08 | 2023-06-30 |
 | [Chill Pad Deluxe](https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People / Afterhours](https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4) | 2:51 | 2023-11-16 | 2023-12-01 |
 | [Chop It](https://open.spotify.com/track/40GKAxsKv5kH8JyfYP2EOw) | [Whammyboy](https://open.spotify.com/artist/2agmDswc3FnDFbL0Ey9SKj) | [Chop It](https://open.spotify.com/album/6Lkdwdn7UFhS90L3FOuOW0) | 2:58 | 2023-08-03 | 2023-08-25 |
-| [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 | 2024-02-01 |  |
+| [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 | 2024-02-01 |  |
 | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1) | 2:55 | 2023-02-02 | 2023-04-14 |
 | [CIA](https://open.spotify.com/track/2BW0B7PbTW0tXGYFCRnOJU) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:56 | 2022-10-28 | 2022-11-11 |
 | [Ciao](https://open.spotify.com/track/2tXILArq64JkwKB1G2wstD) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Ciao](https://open.spotify.com/album/6RqUuLYatToNg8HQuZoxgE) | 3:45 | 2023-09-28 |  |
@@ -386,7 +387,7 @@
 | [Gold](https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [ÁTTA](https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v) | 5:13 | 2023-06-15 | 2023-07-07 |
 | [Gold \(with BIJI\)](https://open.spotify.com/track/6Un90YNAXLV22iSuyLAdSH) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [BIJI](https://open.spotify.com/artist/2spZzA9c41ahb6OIXkYJgy) | [In Transit](https://open.spotify.com/album/4FE29FlcDG9ApOsP7ABh5u) | 3:05 | 2023-06-29 | 2023-09-22 |
 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 | 2022-10-28 | 2023-10-06 |
-| [Gold Rush \- Primum Mobil Mix](https://open.spotify.com/track/5dAtzYqP0L1WKwrBmM4xhv) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Absolute Music 2/5](https://open.spotify.com/album/25bS2Xce1Dsjl2yaewiRhP) | 4:09 | 2024-02-01 |  |
+| [Gold Rush \- Primum Mobile Mix](https://open.spotify.com/track/5dAtzYqP0L1WKwrBmM4xhv) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Absolute Music 2/5](https://open.spotify.com/album/25bS2Xce1Dsjl2yaewiRhP) | 4:09 | 2024-02-01 |  |
 | [gold teeth & fenty](https://open.spotify.com/track/0Wv6HkhK5prLQUNFfhLWbK) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [gold teeth & fenty](https://open.spotify.com/album/4Htwrc5Y4oZw4jstkGpaLV) | 1:31 | 2023-10-26 | 2023-11-07 |
 | [golden hour \- Jungle Remix](https://open.spotify.com/track/3aUuswb7CSy9sJYUG6ZVzp) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [golden hour \(Jungle Remix\)](https://open.spotify.com/album/2b9suU3zAZaDj8Qxxcg45O) | 3:39 | 2022-10-28 | 2022-11-25 |
 | [Golden Rose](https://open.spotify.com/track/2ToqvpqSyMtlywxIXEurR7) | [Melina Do Rosario](https://open.spotify.com/artist/0cSEtYQdOXcBDyslRAAd9h) | [Golden Rose](https://open.spotify.com/album/6MUIT43wo28K5mD2ivBO7N) | 2:41 | 2023-05-18 | 2023-06-30 |

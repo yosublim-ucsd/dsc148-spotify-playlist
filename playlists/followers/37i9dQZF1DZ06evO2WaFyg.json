@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 224647,
+  "2024-02-03": 224697,
   "date_first_scraped": "2023-06-08",
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
   "name": "This Is Young Thug",
@@ -47,6 +47,24 @@
       "duration_ms": 157355,
       "name": "Bad Boy (with Young Thug)",
       "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
+    },
+    {
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/4YqXHbPtEXINS3CBtKfCyO"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar"
     },
     {
       "album": {
@@ -1245,7 +1263,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 187324,
       "name": "Power",
       "url": "https://open.spotify.com/track/0fujQqs6ybS47td4sEwPcA"

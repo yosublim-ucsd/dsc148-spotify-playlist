@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Livingston",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Rachel Grae",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 190822,
       "name": "30 Loose Ends",
       "url": "https://open.spotify.com/track/78FuGmNfW4xexQE9CYIDg7"
@@ -2368,7 +2368,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 232942,
       "name": "Days and Dimes",
       "url": "https://open.spotify.com/track/2ZBbTaqtCYpfnhERuNBRv9"
@@ -3028,6 +3028,24 @@
       "duration_ms": 236079,
       "name": "End of the Day",
       "url": "https://open.spotify.com/track/1piMjMBuN0NRkoDy9aMD4u"
+    },
+    {
+      "album": {
+        "name": "Enough of Me",
+        "url": "https://open.spotify.com/album/0M9JDqqqxKkFyd2WWRsd8C"
+      },
+      "artists": [
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148978,
+      "name": "Enough of Me",
+      "url": "https://open.spotify.com/track/5ypUyCDoZp66D7TagjnJhq"
     },
     {
       "album": {
@@ -6053,6 +6071,24 @@
     },
     {
       "album": {
+        "name": "unfamiliar, like i used to",
+        "url": "https://open.spotify.com/album/4suJEX0wCdoExjzxVZFkso"
+      },
+      "artists": [
+        {
+          "name": "Savanna Leigh",
+          "url": "https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155906,
+      "name": "like i used to",
+      "url": "https://open.spotify.com/track/1RoBUQ0gt9T4cff4xQflq3"
+    },
+    {
+      "album": {
         "name": "Like Me, Like Me",
         "url": "https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO"
       },
@@ -7184,7 +7220,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 127329,
       "name": "No Apologies 1.9 V2_demo",
       "url": "https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1"
@@ -7494,6 +7530,24 @@
       "duration_ms": 218000,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/5Y5GCQcDkcndKKiKel6tK8"
+    },
+    {
+      "album": {
+        "name": "divine order",
+        "url": "https://open.spotify.com/album/6Id2sfMIk4lVQRuBMgWMzN"
+      },
+      "artists": [
+        {
+          "name": "Tony22",
+          "url": "https://open.spotify.com/artist/72WtJOdm9BlSXYm1Xd0Drm"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134027,
+      "name": "past life",
+      "url": "https://open.spotify.com/track/7IwCpLayJZ4lHXyNyzXdj9"
     },
     {
       "album": {

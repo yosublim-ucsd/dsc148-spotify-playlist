@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 312141,
+  "2024-02-03": 312178,
   "date_first_scraped": "2022-05-26",
   "description": "Beach vibes and summer jams only.",
   "name": "Sunny Beats",
@@ -2443,6 +2443,32 @@
       "duration_ms": 128016,
       "name": "Crimson Sunset",
       "url": "https://open.spotify.com/track/56K5DnvyPR7rXqFp8WJZIh"
+    },
+    {
+      "album": {
+        "name": "Cruisin'",
+        "url": "https://open.spotify.com/album/4NCfPzsbvT7rAlaDPgfLpZ"
+      },
+      "artists": [
+        {
+          "name": "Showyou",
+          "url": "https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO"
+        },
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        },
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138981,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/5cQfqmLVX7UhOmSGg3SyYA"
     },
     {
       "album": {
@@ -7118,6 +7144,24 @@
     },
     {
       "album": {
+        "name": "Ritmo Apacible",
+        "url": "https://open.spotify.com/album/37PBrNsuvDaeMdu9NmmsuN"
+      },
+      "artists": [
+        {
+          "name": "Mossdeep",
+          "url": "https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149594,
+      "name": "Ritmo Apacible",
+      "url": "https://open.spotify.com/track/637Tcs4eNm7evG1SDzWCtV"
+    },
+    {
+      "album": {
         "name": "Kid Tested & Mother Approved",
         "url": "https://open.spotify.com/album/2wz6cO6pnQb0qGfRYkMWVc"
       },
@@ -10001,6 +10045,24 @@
       "duration_ms": 101538,
       "name": "White Lotus",
       "url": "https://open.spotify.com/track/4suksbwXJA8hVjudRncmnD"
+    },
+    {
+      "album": {
+        "name": "wicked",
+        "url": "https://open.spotify.com/album/08xWG2vUxhVXsjPFo9yajA"
+      },
+      "artists": [
+        {
+          "name": "LVTA",
+          "url": "https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146852,
+      "name": "wicked",
+      "url": "https://open.spotify.com/track/0Li6Y0Noq9THd4sTR7e5wq"
     },
     {
       "album": {

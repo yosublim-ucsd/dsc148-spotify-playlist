@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-351 songs - 19 hr 32 min
+352 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [See the World](https://open.spotify.com/track/2SWF7MUtjpdeUxE1eDS5kc) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy) | 4:17 | 2022-01-19 | 2023-04-22 |
 | [See You In My Dreams](https://open.spotify.com/track/41QTVIWEHUxKMZFsq7H7jI) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/3r6WmUjMVoxX7iVyuXfHAO) | 2:39 | 2022-09-23 |  |
 | [See You In My Dreams](https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz) | 2:39 | 2022-09-16 | 2022-09-24 |
-| [self sabotage](https://open.spotify.com/track/1B7WWtKiz2LU85t9tL8x5v) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:40 | 2022-05-06 |  |
+| [self sabotage](https://open.spotify.com/track/1B7WWtKiz2LU85t9tL8x5v) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:40 | 2022-05-06 | 2024-02-03 |
 | [self sabotage](https://open.spotify.com/track/7A2TOQVHBgIiqmhtP0yC0L) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [self sabotage](https://open.spotify.com/album/4xKRxemLXX5dxv5dRlZu85) | 3:40 | 2022-04-29 | 2022-07-27 |
 | [September](https://open.spotify.com/track/5DTBPQRHrBOnvzIF5XLBPq) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:40 | 2022-01-19 |  |
 | [September](https://open.spotify.com/track/4tzUX6dYhN6CPRaO7wF4c9) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Big Red](https://open.spotify.com/album/1C8XiXbac4G7EoCSIsCpYG) | 3:24 | 2023-10-13 |  |
@@ -348,6 +348,7 @@
 | [Why Don't You Touch Me](https://open.spotify.com/track/2zBlJIbYVotuBXkLyM0dPw) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:17 | 2021-08-05 | 2022-01-20 |
 | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/track/3jK53bWJDGzbTbqaBayfBB) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/album/6AxPMn4e6dETGN7PNvH3xM) | 3:30 | 2023-03-17 |  |
 | [Wild Love \- Acoustic](https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Wild Love \(Acoustic\)](https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk) | 3:09 | 2021-08-05 | 2022-01-20 |
+| [wintergreen](https://open.spotify.com/track/07W2ZbawBHH3xPRJ5eD6Ih) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [wintergreen](https://open.spotify.com/album/1RHwkiA0IUm65DvpNsoNmN) | 4:01 | 2024-02-02 |  |
 | [Wishful Thinking](https://open.spotify.com/track/6YlOkcBFXxwrRm2YrimOxt) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:10 | 2021-08-05 | 2022-01-20 |
 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 | 2022-01-19 | 2023-04-22 |
 | [Wonderful Life \- Edit](https://open.spotify.com/track/1UW4ovo5jTxYnmbTw89BpJ) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/22fUT9dL0jQhBB5c05h4pj) | 3:05 | 2022-06-17 | 2022-06-21 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 823736,
+  "2024-02-03": 823649,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Colombia.",
   "name": "Top 50 - Colombia",
@@ -5743,7 +5743,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 123750,
       "name": "ESO ES TODO",
       "url": "https://open.spotify.com/track/3KnCfdpeaykCr1jC3rSkVc"
@@ -8889,7 +8889,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 140625,
       "name": "La_Original.mp3",
       "url": "https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR"

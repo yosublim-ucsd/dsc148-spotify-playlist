@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Disclosure
 
-1,629 songs - 3 day 5 hr 5 min
+1,630 songs - 3 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [Für die Vibes](https://open.spotify.com/track/1QIIraBvAE1psUv0BP4pjB) | [Nura](https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf) | [Für die Vibes](https://open.spotify.com/album/6ml1WsPdilgPNHCDXdHrt2) | 2:56 | 2023-07-20 | 2023-08-11 |
 | [Für immer](https://open.spotify.com/track/4YCs039j51sP9kEw5AJILe) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Für immer](https://open.spotify.com/album/4ta6tTPzBZ52kisCgtXvGR) | 3:23 | 2023-02-23 | 2023-03-10 |
 | [für immer aber nicht für jetzt \(baumwall\)](https://open.spotify.com/track/2BfqcEI98b5QSvZuYMP4H1) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [für immer aber nicht für jetzt \(baumwall\)](https://open.spotify.com/album/4hOeYroGuI9Q7KxeFHmlLA) | 2:33 | 2023-08-03 | 2023-08-26 |
+| [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 | 2024-02-02 |  |
 | [Für jeden aber nicht für dich](https://open.spotify.com/track/6wNyJwgzl4Tl6wEZa1StHI) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Für jeden aber nicht für dich](https://open.spotify.com/album/1f5h6JX9E8RO5zRW9ALMIf) | 2:14 | 2023-04-13 | 2023-05-12 |
 | [FΛSHION](https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX) | 2:26 | 2023-09-28 | 2023-10-20 |
 | [Gaga Baby](https://open.spotify.com/track/5pAZ7fEX5vA9IACYGDHFA8) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Gaga Baby](https://open.spotify.com/album/5TO2MJSSuOZXqIQxevLhZA) | 2:29 | 2023-08-10 | 2023-08-18 |
@@ -1130,7 +1131,7 @@
 | [PRINCE OF DARKNESS](https://open.spotify.com/track/3F8ydJz1se1vIxZTRcRjIJ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx), [ARCHEZ](https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [PRINCE OF DARKNESS](https://open.spotify.com/album/34iHUfBPU6yTJKPBoQC5HY) | 2:03 | 2022-06-09 | 2022-06-14 |
 | [PRiNZESSiN](https://open.spotify.com/track/0w5qokcBPOrdqefqp3vNQZ) | [Luzine](https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp) | [PRiNZESSiN](https://open.spotify.com/album/77pzd3wtag6QL9bThafT9L) | 2:34 | 2023-06-01 | 2023-07-15 |
 | [Prio](https://open.spotify.com/track/2Y4NLmk9YkoarzqN30apuc) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Prio](https://open.spotify.com/album/14tJ2zxWRUDuZMFMshihdh) | 2:54 | 2023-09-28 | 2023-11-17 |
-| [Problematic](https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Lucid Dreams](https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY) | 2:44 | 2023-10-05 |  |
+| [Problematic](https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Lucid Dreams](https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY) | 2:44 | 2023-10-05 | 2024-02-03 |
 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 | 2023-11-16 | 2023-11-24 |
 | [Psycho Dreams \(Sped Up\)](https://open.spotify.com/track/6yt46G7lWn0oC2FEZZDsi6) | [Kill Eva](https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb), [ENCASSATOR](https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt) | [Psycho Dreams \(Sped Up\)](https://open.spotify.com/album/37mwjcyGBEk4D3BGL0MKfO) | 2:03 | 2023-11-09 | 2024-01-12 |
 | [Pueblo](https://open.spotify.com/track/16yu2nYzdXaFxVOQdUwLgS) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Pueblo](https://open.spotify.com/album/1qBCVCsaRPOgqFvvpkvEGL) | 3:04 | 2023-02-16 | 2023-03-25 |

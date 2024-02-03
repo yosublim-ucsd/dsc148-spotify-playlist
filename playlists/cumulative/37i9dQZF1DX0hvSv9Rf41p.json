@@ -2495,6 +2495,28 @@
     },
     {
       "album": {
+        "name": "Ceremony",
+        "url": "https://open.spotify.com/album/4zgCfMqcRlSSYBd6hABwlm"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/6kPi7wWjP3OCnLrolHJeHQ"
+    },
+    {
+      "album": {
         "name": "Charmer",
         "url": "https://open.spotify.com/album/24LzfYkJVldWDPJWfilfoM"
       },
@@ -3564,6 +3586,28 @@
       "duration_ms": 177656,
       "name": "Ding Dong",
       "url": "https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U"
+    },
+    {
+      "album": {
+        "name": "Dinosaurs From Outer Space",
+        "url": "https://open.spotify.com/album/5TY2VVHA8ocgtxYZWnrkeD"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164714,
+      "name": "Dinosaurs From Outer Space",
+      "url": "https://open.spotify.com/track/2WiYG2Dgfqft21PBbF4Lxm"
     },
     {
       "album": {
@@ -5773,6 +5817,28 @@
     },
     {
       "album": {
+        "name": "Get Off The Internet",
+        "url": "https://open.spotify.com/album/5xC01jwR6bx7eVyX4NbAIP"
+      },
+      "artists": [
+        {
+          "name": "Eliminate",
+          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
+        },
+        {
+          "name": "fussy",
+          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192722,
+      "name": "Get Off The Internet",
+      "url": "https://open.spotify.com/track/6XalOWSuUETUT1YEXqMWmJ"
+    },
+    {
+      "album": {
         "name": "Get Wompy",
         "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
       },
@@ -5964,7 +6030,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 231529,
       "name": "Going Insane",
       "url": "https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8"
@@ -6216,6 +6282,28 @@
       "duration_ms": 234528,
       "name": "Guest List",
       "url": "https://open.spotify.com/track/4wu8x5GMH1GTZEAbDaMHz8"
+    },
+    {
+      "album": {
+        "name": "Guide You (Signal)",
+        "url": "https://open.spotify.com/album/7x7VRwm2Bp2eHV25IfSuFp"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218896,
+      "name": "Guide You (Signal)",
+      "url": "https://open.spotify.com/track/74UP4Ns1MAz4LXdo02anaS"
     },
     {
       "album": {
@@ -11302,7 +11390,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 245536,
       "name": "RAD",
       "url": "https://open.spotify.com/track/6fdEHZu9ESPsZ2yc8wKwlP"
@@ -12045,6 +12133,24 @@
     },
     {
       "album": {
+        "name": "S.O.M.F",
+        "url": "https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150697,
+      "name": "S.O.M.F",
+      "url": "https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW"
+    },
+    {
+      "album": {
         "name": "SABERNETIKS",
         "url": "https://open.spotify.com/album/5mQf8iu5tgay5ySpa4Es0N"
       },
@@ -12074,7 +12180,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 176395,
       "name": "Sabre",
       "url": "https://open.spotify.com/track/62BMIBlCzq0jONLulf7EcB"
@@ -13310,7 +13416,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 266482,
       "name": "Someone Else - Blanke Remix",
       "url": "https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok"
@@ -15014,7 +15120,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 198857,
       "name": "UK Ting",
       "url": "https://open.spotify.com/track/3PuTUAsUTR7D3PnYtW1yj4"

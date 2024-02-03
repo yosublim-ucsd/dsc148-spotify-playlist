@@ -4,7 +4,7 @@
 
 > running through the streets screaming listening to Fletcher
 
-1,921 songs - 4 day 1 hr 5 min
+1,923 songs - 4 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Chicken Tenders](https://open.spotify.com/track/3D8sT8D3f5egWSQnF0fbqu) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Chicken Tenders](https://open.spotify.com/album/6Hlyw2Jvzz7BnIQQYzSXVZ) | 2:50 | 2022-01-28 | 2022-02-11 |
 | [Chicken Tenders](https://open.spotify.com/track/4sYbZjRCyaFqCtJ2Uvfh8B) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:50 | 2021-01-25 | 2022-11-12 |
 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 | 2022-12-09 | 2022-12-24 |
+| [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo) | 3:01 | 2024-02-02 |  |
 | [Cinema](https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:03 | 2022-05-20 | 2022-06-25 |
 | [Citrus](https://open.spotify.com/track/73Ovlp2BOScOxS9mbGqTX1) | [Sylo Nozra](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Citrus](https://open.spotify.com/album/5qgWzj4a1WMDpaoRJi7Vqr) | 2:39 | 2020-08-20 | 2021-11-20 |
 | [City of Sound](https://open.spotify.com/track/5pq52GUy3XTTGN2vnwzCLm) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [City of Sound](https://open.spotify.com/album/4WprsPfWSXSu66mJqOqWAK) | 3:52 | 2019-05-26\* | 2019-08-13 |
@@ -1715,6 +1716,7 @@
 | [The Ruler](https://open.spotify.com/track/2PNPqJ8V4WZYtsZLgqScLW) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [The Ruler](https://open.spotify.com/album/0Y23xE35UnyPKLEilLkyGx) | 3:15 | 2022-09-23 | 2022-10-29 |
 | [THE SHIT](https://open.spotify.com/track/14gdcYmHyORy3ZnvLwZzRV) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [THE SH\*T](https://open.spotify.com/album/0ayBULzPYum69NAxqSfWgh) | 3:16 | 2019-05-26\* | 2019-08-13 |
 | [the sum of all our sirens](https://open.spotify.com/track/1ujEMa9fW8cdNEqmNVF6VA) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb) | [the sum of all our sirens](https://open.spotify.com/album/70b4xjbrZPpjcxwXMpQjpr) | 5:45 | 2021-12-03 | 2021-12-21 |
+| [The Thrill Of It](https://open.spotify.com/track/3kGIAI6oq9ArkwEdbN1VJR) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [The Thrill Of It](https://open.spotify.com/album/6FpdWwlJLpBq2cViZH5HVd) | 3:16 | 2024-02-02 |  |
 | [The Way You Are](https://open.spotify.com/track/52GPw706N71AnEaa1oPBtU) | [Lois](https://open.spotify.com/artist/6qAYnkQmOOQCBPPmyd4lo1) | [The Way You Are](https://open.spotify.com/album/3mybFM7ibDln2Efcj1r3T1) | 2:55 | 2022-04-08 | 2022-06-07 |
 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 | 2021-02-23 | 2021-05-18 |
 | [Therapist](https://open.spotify.com/track/4vIYNMhW588JXOlBlEQqrq) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Therapist](https://open.spotify.com/album/18R7VI3JvO7576xdNNA4ni) | 2:41 | 2023-03-17 | 2023-04-20 |

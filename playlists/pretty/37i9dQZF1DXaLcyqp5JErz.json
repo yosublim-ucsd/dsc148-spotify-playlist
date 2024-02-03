@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Damares",
-  "num_followers": 542990,
+  "num_followers": 543147,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGUzOTU0ZDNlOGUzN2M1YzFhMjMyYmY5OWVmZjFhYTRiZWVmN2Iw",
+  "snapshot_id": "MCxlZWQ1MDk0ZTgyOTg5NGFlNTkwZThjOTNlMzVkNTRjY2FmYTIwMzc3",
   "tracks": [
     {
       "added_at": "2023-10-13 16:02:51",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Eterno Dependente",
-        "url": "https://open.spotify.com/album/7EfEHHMC3rsLcrcpoIrSl5"
-      },
-      "artists": [
-        {
-          "name": "Marcos Ant\u00f4nio",
-          "url": "https://open.spotify.com/artist/328rxNpbUC1zFPojNBnKj4"
-        }
-      ],
-      "duration_ms": 330804,
-      "name": "Pai",
-      "url": "https://open.spotify.com/track/6M1mIjeq2kNvT8F2dHNugk"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 439266,
       "name": "Ou\u00e7o Deus Me Chamar",
       "url": "https://open.spotify.com/track/2IAkyzxYd9QPnWRhHsWMO2"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Eterno Dependente",
+        "url": "https://open.spotify.com/album/7EfEHHMC3rsLcrcpoIrSl5"
+      },
+      "artists": [
+        {
+          "name": "Marcos Ant\u00f4nio",
+          "url": "https://open.spotify.com/artist/328rxNpbUC1zFPojNBnKj4"
+        }
+      ],
+      "duration_ms": 330804,
+      "name": "Pai",
+      "url": "https://open.spotify.com/track/6M1mIjeq2kNvT8F2dHNugk"
     },
     {
       "added_at": "2023-10-13 16:02:51",

@@ -4,7 +4,7 @@
 
 > Celebrate yourself with a fun pop & hip hop mix
 
-159 songs - 9 hr 43 min
+160 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [21 Questions](https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:44 | 2022-04-14 | 2022-07-05 |
 | [212](https://open.spotify.com/track/16EMONl2vH3rt9f4ehTG8g) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 3:24 | 2022-09-09 | 2022-10-07 |
 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 | 2023-01-20 |  |
-| [679 \(feat\. Remy Boyz\)](https://open.spotify.com/track/5NQbUaeTEOGdD6hHcre0dZ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Remy Boyz](https://open.spotify.com/artist/2s0yxtiHiyGe6CY4mbDYFi) | [679 \(feat\. Remy Boyz\)](https://open.spotify.com/album/0TyDTzG2zt2tg0wONT9wSU) | 3:16 | 2022-01-18 |  |
+| [679 \(feat\. Remy Boyz\)](https://open.spotify.com/track/5NQbUaeTEOGdD6hHcre0dZ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Remy Boyz](https://open.spotify.com/artist/2s0yxtiHiyGe6CY4mbDYFi) | [679 \(feat\. Remy Boyz\)](https://open.spotify.com/album/0TyDTzG2zt2tg0wONT9wSU) | 3:16 | 2022-01-18 | 2024-02-03 |
 | [7 rings](https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:58 | 2022-04-14 |  |
 | [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 | 2022-01-18 | 2022-09-10 |
 | [A Milli](https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 3:41 | 2022-04-14 | 2022-04-18 |
@@ -43,6 +43,7 @@
 | [Cash Shit \(feat\. DaBaby\)](https://open.spotify.com/track/2rMAtCaTj16NptyVfEIeAC) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 3:12 | 2022-04-14 | 2022-09-10 |
 | [Circles](https://open.spotify.com/track/08TILUAN56HJoS1d9mNRty) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:50 | 2022-01-18 | 2022-07-29 |
 | [Conceited \(There's Something About Remy\)](https://open.spotify.com/track/2OcBwebjQsdJy76zWvLQvn) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 3:39 | 2022-10-07 |  |
+| [Conquer](https://open.spotify.com/track/19Dzreszyxy7dJDJuVRCoZ) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Conquer](https://open.spotify.com/album/6rFe0D0d7h5xbC49yXrWsK) | 3:11 | 2024-02-02 |  |
 | [Cooler Than Me \- Single Mix](https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Gigamesh](https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle) | [31 Minutes to Takeoff](https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl) | 3:33 | 2023-01-20 |  |
 | [Damaged](https://open.spotify.com/track/4yHFxB8kzzeuNvoouR8N0N) | [Danity Kane](https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh) | [Welcome to the Dollhouse](https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta) | 4:04 | 2022-04-14 | 2022-09-10 |
 | [Dance \(A$$\) Remix](https://open.spotify.com/track/3ZAMtgYJFoHwJjFkhkXqKr) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Finally Famous](https://open.spotify.com/album/2fRLnox9PQ9nos2YYdcYwE) | 3:40 | 2022-04-14 | 2022-07-29 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 1,
+  "2024-02-03": 1,
   "date_first_scraped": "2023-03-31",
   "description": "albums i plan to listen to eventually",
   "name": "Zacklog",
@@ -1859,6 +1859,24 @@
       "duration_ms": 229026,
       "name": "Chinatown",
       "url": "https://open.spotify.com/track/3i729CqF9sBCCyhYxIWUZZ"
+    },
+    {
+      "album": {
+        "name": "Take Me Back To Eden",
+        "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304023,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/1Uifdytv882RtTn6Gr4xAA"
     },
     {
       "album": {

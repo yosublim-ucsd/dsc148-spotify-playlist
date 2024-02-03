@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 和久井沙良
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,528 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,542 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 33 | [Highway](https://open.spotify.com/track/25BXE8InZQK5CBhP1n7mFm) | [田中さとこ](https://open.spotify.com/artist/79fINByBtobHwIrMTeHn7N) | [Piano Scenes](https://open.spotify.com/album/7q4sFyc7TjG2gUIql8O837) | 3:36 |
 | 34 | [Seeker](https://open.spotify.com/track/51WozCH6KrpMsf6MSsftkD) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/1OGCS507PQzgLappLg26AK) | [Alive](https://open.spotify.com/album/18L36uUa7xLegzjkvr10ev) | 7:25 |
 | 35 | [Hello,,Dawn,Unknown](https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [Synapse Confusion](https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p) | 5:39 |
-| 36 | [エッグ・オン・ザ・ルーフ](https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Egg On The Roof](https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A) | 7:09 |
-| 37 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
-| 38 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
+| 36 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
+| 37 | [エッグ・オン・ザ・ルーフ](https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Egg On The Roof](https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A) | 7:09 |
+| 38 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
 | 39 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
 | 40 | [THEME FROM LUPIN Ⅲ '78 \- 2002 version](https://open.spotify.com/track/2Kllncs9hx6CbYTnqwbqHi) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [You & Explosion Band](https://open.spotify.com/artist/2AL16NaD1ssiRt8jIkwA5N) | [LUPIN THE THIRD JAZZ ー Another "JAZZ"](https://open.spotify.com/album/2ahWAZuzCZ8MCs2BWqwGup) | 3:59 |
 | 41 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 49 | [ranki](https://open.spotify.com/track/2F5rkbZHDASUIGAcyeoe0l) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa) | [GOOD LUCK SOUND TRACKS](https://open.spotify.com/album/0CHpILGOq59pW8hyphMQBk) | 3:37 |
 | 50 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 |
 
-Snapshot ID: `MCwwZWVjYjBhZTE5NTIzY2NkMmNlMzdjMWZmMWE4M2M4OWY5N2M5OGZk`
+Snapshot ID: `MCw1ZmNhODA2Zjc0ZmY4YjM0NjU4MTk3NmY2YjUxZGJkYWJkNzFjM2Nl`

@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 278581,
+  "num_followers": 279079,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjBiZTA5MDdmOWFkYzhhZDU3Yjk5M2FmYzRmYjllZWQxMDJiNGM0",
+  "snapshot_id": "MCxiNjczYzI4M2Y5MmNkY2IyMDFiMDNiOGRkMTZhMWI2NDdlM2QyODJk",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -319,18 +319,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Traffic",
-        "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
+        "name": "When I Push (Edit)",
+        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
       },
       "artists": [
         {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
         }
       ],
-      "duration_ms": 141333,
-      "name": "Traffic",
-      "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
+      "duration_ms": 213582,
+      "name": "When I Push - Edit",
+      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -351,18 +359,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Love Is Free",
-        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
+        "name": "Traffic",
+        "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
         }
       ],
-      "duration_ms": 172563,
-      "name": "Love Is Free",
-      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
+      "duration_ms": 141333,
+      "name": "Traffic",
+      "url": "https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -399,6 +407,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Love Is Free",
+        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Love Is Free",
+      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Formula EP",
         "url": "https://open.spotify.com/album/3KjkZXHlDZMbQKqdYPtsUn"
       },
@@ -427,6 +451,22 @@
       "duration_ms": 393740,
       "name": "In Silence",
       "url": "https://open.spotify.com/track/7sovMMhuknCR0PHianjiEq"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/0C24gM4unxLDwJNa0ax8LP"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 365568,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2EHdG8AvxtuZGLk74YQUXt"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -467,42 +507,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/0C24gM4unxLDwJNa0ax8LP"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 365568,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/2EHdG8AvxtuZGLk74YQUXt"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "When I Push (Edit)",
-        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3CBJ2fnrJfyp5UnrIt6Wvw"
       },
       "artists": [
         {
           "name": "Eli Brown",
           "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "OFFAIAH",
-          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
         }
       ],
-      "duration_ms": 213582,
-      "name": "When I Push - Edit",
-      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
+      "duration_ms": 408669,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/1STyRAWBlr18jm9aRBVrqE"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -583,42 +599,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Choir Of Spirits",
-        "url": "https://open.spotify.com/album/2lC45D73TicbOMEI1a8Fk7"
-      },
-      "artists": [
-        {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
-        },
-        {
-          "name": "Joyhauser",
-          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
-        }
-      ],
-      "duration_ms": 405439,
-      "name": "Choir Of Spirits",
-      "url": "https://open.spotify.com/track/6BqmhyqTFbAXD5M8WnqhIM"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3CBJ2fnrJfyp5UnrIt6Wvw"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 408669,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/1STyRAWBlr18jm9aRBVrqE"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "The Seduction EP",
         "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 191641,
       "name": "Seduction",
       "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Choir Of Spirits",
+        "url": "https://open.spotify.com/album/2lC45D73TicbOMEI1a8Fk7"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 405439,
+      "name": "Choir Of Spirits",
+      "url": "https://open.spotify.com/track/6BqmhyqTFbAXD5M8WnqhIM"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 220488,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Asura EP",
         "url": "https://open.spotify.com/album/5mVxJJjUM7BKyZG7S2GDKc"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 400172,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4N8P1RCABm0BBiTKCRThTh"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 220488,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Roll the Dice",
+        "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
+      },
+      "artists": [
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        }
+      ],
+      "duration_ms": 276357,
+      "name": "Roll the Dice",
+      "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Alle meine Raver",
         "url": "https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4"
       },
@@ -795,38 +811,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Roll the Dice",
-        "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
-      },
-      "artists": [
-        {
-          "name": "Bart Skils",
-          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
-        }
-      ],
-      "duration_ms": 276357,
-      "name": "Roll the Dice",
-      "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Bells of Notre Dame",
-        "url": "https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz"
-      },
-      "artists": [
-        {
-          "name": "Daniel Levak",
-          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "Bells of Notre Dame",
-      "url": "https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Injection (Original Mix)",
         "url": "https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 421846,
       "name": "Injection - Original Mix",
       "url": "https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Bells of Notre Dame",
+        "url": "https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Bells of Notre Dame",
+      "url": "https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS"
     },
     {
       "added_at": "2024-01-26 05:00:00",

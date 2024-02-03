@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,859 likes - 65 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,909 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 60 | [Placer y Olvido](https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Placer y Olvido \(En Vivo\)](https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP) | 1:22 |
 | 61 | [Yo Tonta No](https://open.spotify.com/track/0oz7iamUGRALQ09N3oeU3I) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Hipnòtica](https://open.spotify.com/album/3pCwXna379BJwnSec28ySB) | 4:00 |
 | 62 | [Abrázame y Bésame](https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Abrázame y Bésame](https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu) | 3:00 |
-| 63 | [Amor de Cuarentena \- Urbano](https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor de Cuarentena \(Urbano\)](https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5) | 3:14 |
+| 63 | [Cumbia de los Dos](https://open.spotify.com/track/1zsAy63McXZ4C4rdo8HQcz) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Cumbia de los Dos](https://open.spotify.com/album/2CSzBTKBWaEm3CVLBpMStM) | 4:24 |
 | 64 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf) | 3:31 |
-| 65 | [Mientes](https://open.spotify.com/track/6NLLlVLuq3u7lx1n8Ngvpm) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Pecados Tropicales](https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn) | 3:02 |
+| 65 | [Amor de Cuarentena \- Urbano](https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor de Cuarentena \(Urbano\)](https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5) | 3:14 |
 
-Snapshot ID: `MCxhYmYxYWJjYzFlNDFhZGI2NWNmNDRlOWU3ZTY2OTExMzk5NjMwMjhj`
+Snapshot ID: `MCw1N2VhYzRiNTZjYjZjOGQzZmMwYjU2YTk5YzE4ZGU0YmVmY2M2OWE1`

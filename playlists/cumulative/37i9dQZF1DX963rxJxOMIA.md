@@ -2,7 +2,7 @@
 
 ### [FINO](https://open.spotify.com/playlist/37i9dQZF1DX963rxJxOMIA)
 
-> Fino y elegante, como LOS MUCHACHOS de Piso 21.
+> Fino y elegante, como FERXXO y el Bendito.
 
 228 songs - 11 hr 55 min
 

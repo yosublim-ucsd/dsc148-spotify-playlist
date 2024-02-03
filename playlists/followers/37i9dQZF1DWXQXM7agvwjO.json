@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 91351,
+  "2024-02-03": 91413,
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: adoracion (Indonesia)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: cehryl (Hong Kong)",
   "name": ".ORG",
   "tracks": [
     {
@@ -495,7 +495,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 162500,
       "name": "A Nothing Day",
       "url": "https://open.spotify.com/track/5gIktKmECYQP5HY0dYfbst"
@@ -2109,7 +2109,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 181052,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/00v0tTZNJYfXZzINHWQcvN"
@@ -2674,6 +2674,24 @@
     },
     {
       "album": {
+        "name": "burn blister",
+        "url": "https://open.spotify.com/album/2shLrT8Uep0RA7uDq2GxEY"
+      },
+      "artists": [
+        {
+          "name": "cehryl",
+          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189493,
+      "name": "burn blister",
+      "url": "https://open.spotify.com/track/6osnNgkB3IkVFYeeDJqi88"
+    },
+    {
+      "album": {
         "name": "Air Guitar",
         "url": "https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42"
       },
@@ -2775,7 +2793,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 193853,
       "name": "c r a z y",
       "url": "https://open.spotify.com/track/3o86gmLtoG3jE9sFgVu4nn"
@@ -4669,7 +4687,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 170000,
       "name": "Different Shade of Blue",
       "url": "https://open.spotify.com/track/2WGLRqSoF5wytphWekR3hH"
@@ -4727,6 +4745,24 @@
       "duration_ms": 202539,
       "name": "Dimensio",
       "url": "https://open.spotify.com/track/44aFC9Q6JUO8txxJeunsz3"
+    },
+    {
+      "album": {
+        "name": "1624",
+        "url": "https://open.spotify.com/album/4ZwUxLArPQEgqqYPYecKNt"
+      },
+      "artists": [
+        {
+          "name": "No Buses",
+          "url": "https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204097,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/0QQgeIpfDpTOAialgKCuFA"
     },
     {
       "album": {
@@ -5923,6 +5959,24 @@
       "duration_ms": 249748,
       "name": "Field of Flowers",
       "url": "https://open.spotify.com/track/1KAEFpUZkkGQKvhFTTen4p"
+    },
+    {
+      "album": {
+        "name": "Fine Day",
+        "url": "https://open.spotify.com/album/3v7AHXJAJeYIfCibPT12fZ"
+      },
+      "artists": [
+        {
+          "name": "ABOY",
+          "url": "https://open.spotify.com/artist/67Cl557uIp08IkVBI79Wub"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183108,
+      "name": "Fine Day",
+      "url": "https://open.spotify.com/track/5pDaT8owMZaH9ZRCZjAYgs"
     },
     {
       "album": {
@@ -7783,7 +7837,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 217800,
       "name": "I can\u2019t be you",
       "url": "https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX"
@@ -11833,7 +11887,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 199200,
       "name": "My Dream",
       "url": "https://open.spotify.com/track/0n6hyfHWcUktnmmIOJFp2D"
@@ -13578,6 +13632,24 @@
     },
     {
       "album": {
+        "name": "Pola Buruk",
+        "url": "https://open.spotify.com/album/3ZkqBBE818KpeonGFHGbcv"
+      },
+      "artists": [
+        {
+          "name": "Noon Radar",
+          "url": "https://open.spotify.com/artist/0NmY15BDCXUaL7UbetZ8D0"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228166,
+      "name": "Pola Buruk",
+      "url": "https://open.spotify.com/track/1S00tHLkrWYJorF2yal0FK"
+    },
+    {
+      "album": {
         "name": "Pong Dang",
         "url": "https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2"
       },
@@ -13885,7 +13957,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 128888,
       "name": "r u mine",
       "url": "https://open.spotify.com/track/0LiLk6aYQZOy1uA63pMqQo"
@@ -14844,6 +14916,24 @@
     },
     {
       "album": {
+        "name": "Shall We Dance",
+        "url": "https://open.spotify.com/album/48hGFXBUSEgwg1nlsaFBQc"
+      },
+      "artists": [
+        {
+          "name": "INTROVERSE",
+          "url": "https://open.spotify.com/artist/71md0yuGVfBVCun7P4AyKn"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244247,
+      "name": "Shall We Dance",
+      "url": "https://open.spotify.com/track/2iLzrjQXYYOUuiFFHO83oQ"
+    },
+    {
+      "album": {
         "name": "Shangri-La Is Calling",
         "url": "https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK"
       },
@@ -15799,6 +15889,32 @@
       "duration_ms": 228169,
       "name": "Stay Down",
       "url": "https://open.spotify.com/track/79R9bqUjcNpxbVHussLqne"
+    },
+    {
+      "album": {
+        "name": "STeAKFACe** \u1559(\u21c0\u2038\u21bc\u2036)\u1557",
+        "url": "https://open.spotify.com/album/5VySVRfSsU377GubJd5Sfy"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        },
+        {
+          "name": "Masiwei",
+          "url": "https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195268,
+      "name": "STeAKFACe** \u1559(\u21c0\u2038\u21bc\u2036)\u1557",
+      "url": "https://open.spotify.com/track/7KATT8Q9RnpLz8w7n6oJdG"
     },
     {
       "album": {
@@ -17601,7 +17717,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 178252,
       "name": "trippin",
       "url": "https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT"
@@ -17825,6 +17941,24 @@
       "duration_ms": 266625,
       "name": "Twenty-Nine",
       "url": "https://open.spotify.com/track/2Z6WalGqMj3dU81BH9EEkN"
+    },
+    {
+      "album": {
+        "name": "i told you we're going home",
+        "url": "https://open.spotify.com/album/7lQFXgZOtx6qbPT6Wg0SQW"
+      },
+      "artists": [
+        {
+          "name": "jupiterkid",
+          "url": "https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202541,
+      "name": "twentyfour",
+      "url": "https://open.spotify.com/track/09xiz53qcvPDl1j2TqzS80"
     },
     {
       "album": {
@@ -21061,6 +21195,24 @@
       "duration_ms": 202324,
       "name": "\u5fd8\u308c\u305f\u3044",
       "url": "https://open.spotify.com/track/6iPgeH5Zk0sV2Fdh4cxcWf"
+    },
+    {
+      "album": {
+        "name": "\u60da\u3051\u308b\u306a",
+        "url": "https://open.spotify.com/album/5vWrG2fg9eeXiQIReBW2Ty"
+      },
+      "artists": [
+        {
+          "name": "Yuma Abe",
+          "url": "https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172101,
+      "name": "\u60da\u3051\u308b\u306a",
+      "url": "https://open.spotify.com/track/5xJ8VJfzgwrj6FDYzTcj9v"
     },
     {
       "album": {

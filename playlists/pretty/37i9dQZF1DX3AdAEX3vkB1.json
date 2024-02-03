@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 239665,
+  "num_followers": 239858,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjljYzU3MmM4ZDUwYjRiZGUwZjg4NzMyNzRmOGIzMjgzN2FiYjFi",
+  "snapshot_id": "MCxjNzRhNmI4OGNjOGMzMGZiZmU1NDRlMTJjZTQ1OWE5NmZjM2RjZGYx",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Smiley Smile (Remastered)",
-        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Green Onions",
         "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 176333,
       "name": "Green Onions",
       "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Smiley Smile (Remastered)",
+        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -605,20 +605,20 @@
       "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
+      "added_at": "2023-05-30 09:14:29",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+        "name": "The Second",
+        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+      "duration_ms": 271573,
+      "name": "Magic Carpet Ride",
+      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -637,20 +637,20 @@
       "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
+      "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Second",
-        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
       },
       "artists": [
         {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 271573,
-      "name": "Magic Carpet Ride",
-      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The New Look",
-        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
-      },
-      "artists": [
-        {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Dance Party",
         "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 165226,
       "name": "Dancing In The Street",
       "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The New Look",
+        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Mony Mony",
-        "url": "https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt"
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
       },
       "artists": [
         {
-          "name": "Tommy James & The Shondells",
-          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Mony Mony",
-      "url": "https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn"
+      "duration_ms": 128173,
+      "name": "Papa's Got A Brand New Bag",
+      "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+        "name": "Mony Mony",
+        "url": "https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt"
       },
       "artists": [
         {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
         }
       ],
-      "duration_ms": 128173,
-      "name": "Papa's Got A Brand New Bag",
-      "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
+      "duration_ms": 174133,
+      "name": "Mony Mony",
+      "url": "https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "At Abbey Road",
-        "url": "https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR"
-      },
-      "artists": [
-        {
-          "name": "Gerry & The Pacemakers",
-          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
-        }
-      ],
-      "duration_ms": 114986,
-      "name": "How Do You Do It? - Mono",
-      "url": "https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Hang On Sloopy: The Best Of The McCoys",
         "url": "https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 231800,
       "name": "Hang On Sloopy",
       "url": "https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "At Abbey Road",
+        "url": "https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR"
+      },
+      "artists": [
+        {
+          "name": "Gerry & The Pacemakers",
+          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
+        }
+      ],
+      "duration_ms": 114986,
+      "name": "How Do You Do It? - Mono",
+      "url": "https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Hot Rocks (1964-1971)",
-        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 222746,
-      "name": "(I Can't Get No) Satisfaction - Mono Version",
-      "url": "https://open.spotify.com/track/5FKkbyGm42hw1y08l2knlO"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Gimme Some Loving / Blues In F",
         "url": "https://open.spotify.com/album/5FuD0MXgLATEsV4lyBbAD0"
       },
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+        "name": "Hot Rocks (1964-1971)",
+        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
       },
       "artists": [
         {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion",
-      "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
+      "duration_ms": 222746,
+      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "url": "https://open.spotify.com/track/5FKkbyGm42hw1y08l2knlO"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1667,6 +1651,22 @@
       "duration_ms": 168240,
       "name": "Help Me, Rhonda - Single Version/Remastered 2001",
       "url": "https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "Poetry In Motion",
+      "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
     },
     {
       "added_at": "2022-06-16 22:02:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,325 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,327 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 49 | [Oceans](https://open.spotify.com/track/7vDSpbz16ylQ6tnUFpfIB6) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hate](https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh) | 4:26 |
 | 50 | [Hollywood & Vine](https://open.spotify.com/track/0jK7tJvPWzdG73hnSnQweF) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 2:46 |
 
-Snapshot ID: `Mjg0NDY1MTQsMDAwMDAwMDAwNTljODUyYzc0NTFhNjMzNGIyNTZiODkzODg1N2Q3Nw==`
+Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDBjYjRiMjdjMzdiMmFmZDZhMTYzYjdiMzQ4ODMzOTg0OA==`

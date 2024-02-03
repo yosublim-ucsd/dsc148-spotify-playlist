@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: 離婚伝説 \*👉 <a href="https://spice.eplus.jp/articles/325945?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-4,897 songs - 12 day 9 hr 5 min
+4,898 songs - 12 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2283,8 +2283,9 @@
 | [Rain Of Your Heart](https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A e.p](https://open.spotify.com/album/0DqIJCwOCkKi4HLuxuSbn3) | 4:33 | 2023-02-28 | 2023-03-08 |
 | [Rainbow Feelings](https://open.spotify.com/track/2p97qQqTDEL6Mqv23UfAkr) | [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Rainbow Feelings](https://open.spotify.com/album/16K1rdbTyL0P3GxVDHdcGK) | 1:34 | 2023-04-18 | 2023-04-26 |
 | [Rainbow Light Eyes](https://open.spotify.com/track/13VrYQ0GkLoqcHhLezrKOl) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Rainbow Light Eyes](https://open.spotify.com/album/0AoYZYkXxDRo3iT7Wzwk9H) | 3:12 | 2023-06-27 | 2023-07-05 |
+| [RainRain](https://open.spotify.com/track/30bOjGU8xpB1zvccSN9udZ) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Hold You Again](https://open.spotify.com/album/1ffToXM1wZRTerYmAiIu5g) | 4:50 | 2024-01-31 |  |
 | [RainRain](https://open.spotify.com/track/382csZGIXhIwBPTXiBqjSt) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [RainRain](https://open.spotify.com/album/22IRy53zNivNN48RwqF7N1) | 4:50 | 2023-06-13 | 2023-06-15 |
-| [RainRain](https://open.spotify.com/track/5X3cQ46Ekm50vcdjpokdEC) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [RainRain](https://open.spotify.com/album/0gAGsoAIdUK5i1iGQWhoud) | 4:50 | 2023-06-14 |  |
+| [RainRain](https://open.spotify.com/track/5X3cQ46Ekm50vcdjpokdEC) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [RainRain](https://open.spotify.com/album/0gAGsoAIdUK5i1iGQWhoud) | 4:50 | 2023-06-14 | 2024-02-03 |
 | [rainy](https://open.spotify.com/track/0wLDiKUJgSL8Zg1DINaf4s) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [nobori \- 上り](https://open.spotify.com/album/1o9zSOMYbKWv48zUb50MfY) | 3:06 | 2023-02-28 | 2023-03-02 |
 | [rainy](https://open.spotify.com/track/3gqtGVF7wSxbdNg3v5uRE2) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [nobori](https://open.spotify.com/album/0CoXvmN1olFtTgZTk1txde) | 3:06 | 2023-03-01 | 2023-03-08 |
 | [Rainy Day](https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Rainy Day](https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu) | 3:01 | 2023-11-21 | 2023-11-29 |

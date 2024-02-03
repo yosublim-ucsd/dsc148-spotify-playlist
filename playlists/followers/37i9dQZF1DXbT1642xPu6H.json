@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 354080,
+  "2024-02-03": 354075,
   "date_first_scraped": "2022-02-10",
   "description": "",
   "name": "Buen Vibe",
@@ -1415,7 +1415,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
@@ -3617,7 +3617,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 177500,
       "name": "Me Gusta Tu Flow",
       "url": "https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo"

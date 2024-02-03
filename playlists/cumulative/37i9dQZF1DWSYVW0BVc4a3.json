@@ -11147,6 +11147,32 @@
     },
     {
       "album": {
+        "name": "Ride Out",
+        "url": "https://open.spotify.com/album/2L800Bi2aSWxL8M27dLdEJ"
+      },
+      "artists": [
+        {
+          "name": "Born Dirty",
+          "url": "https://open.spotify.com/artist/0qM78DOdgnNPpq2CpTNgU5"
+        },
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Manny Torres",
+          "url": "https://open.spotify.com/artist/3Ndxx0FRhKrIWKtPO95UuP"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163409,
+      "name": "Ride Out",
+      "url": "https://open.spotify.com/track/7o4psLIggxOLOIW1DOfzqM"
+    },
+    {
+      "album": {
         "name": "Riffs of the Night",
         "url": "https://open.spotify.com/album/6MAywkF67xHfeeJuXrWMf6"
       },
@@ -12878,7 +12904,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 146007,
       "name": "Steady Pace",
       "url": "https://open.spotify.com/track/42Nbp4cNwh3VbncOXjnEkM"

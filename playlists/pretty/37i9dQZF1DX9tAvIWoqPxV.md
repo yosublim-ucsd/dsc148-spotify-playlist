@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tAvIWoqPxV.md) - [plain]
 
 > Retro favorites from 2023\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,447 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,445 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tAvIWoqPxV.md) - [plain]
 | 28 | [Long Goodbye](https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL) | 4:23 |
 | 29 | [No Rewrites](https://open.spotify.com/track/04TArnJgprxiEqS8d1vzea) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [No Rewrites](https://open.spotify.com/album/1Ki19KBc90IVKValgb33aD) | 2:19 |
 | 30 | [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 |
-| 31 | [Stretch Out](https://open.spotify.com/track/73H3Vjx7PtC6ntVr3F1rRU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stretch Out](https://open.spotify.com/album/02hSfOu0sNbuWlh8lxEQ4e) | 3:10 |
+| 31 | [Stretch Out](https://open.spotify.com/track/73H3Vjx7PtC6ntVr3F1rRU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stretch Out](https://open.spotify.com/album/02hSfOu0sNbuWlh8lxEQ4e) | 3:10 |
 | 32 | [Circles](https://open.spotify.com/track/2wThXy2VoKMjKK8GeV4XHe) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [Circles](https://open.spotify.com/album/0sFP5ZqmdCGwNUstW9oGIR) | 3:14 |
 | 33 | [Deja Vu](https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Deja Vu](https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9) | 2:42 |
 | 34 | [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tAvIWoqPxV.md) - [plain]
 | 49 | [Better With You](https://open.spotify.com/track/76PSAnoPnMEzF4xmflptce) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Better With You](https://open.spotify.com/album/6ezo2KxwPTWq0Ov5IyIx22) | 2:13 |
 | 50 | [Darling](https://open.spotify.com/track/442CrII1BuI3Q9OmzAAwTq) | [BRIDGE](https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8) | [Cry Baby](https://open.spotify.com/album/4BvzVMX9CAVDfP12AIXu53) | 3:01 |
 
-Snapshot ID: `MCw4MTE4NTU3MzljOTcwMWQ5ODMwZmFlZTMzMDhjMzk5ODU0NTU1OTEy`
+Snapshot ID: `MCw5YjlmNjViMmM2MmE3YWUwMGZmOTJmZDUwNTY5MTgyYjY0NzA2ZTNj`

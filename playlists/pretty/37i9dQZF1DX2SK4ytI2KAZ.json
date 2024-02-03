@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 708417,
+  "num_followers": 708440,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGI2ZjAwMzU4NGE4MmMxODJmZGI5MGUwNTM1YTUzZTZmYjA5YzJi",
+  "snapshot_id": "MCwyZjViYjBlMzQ4ZjRlMTcwM2Q0MDlmOThmMzc1ZWY0MzUxYTIyNTM4",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -355,6 +355,38 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121880,
+      "name": "Song 2",
+      "url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Life Under The Gun",
+        "url": "https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "duration_ms": 107665,
+      "name": "Do It Faster",
+      "url": "https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
@@ -379,34 +411,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Life Under The Gun",
-        "url": "https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi"
+        "name": "Dead Club City",
+        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
       },
       "artists": [
         {
-          "name": "Militarie Gun",
-          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 107665,
-      "name": "Do It Faster",
-      "url": "https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121880,
-      "name": "Song 2",
-      "url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -423,22 +439,6 @@
       "duration_ms": 226960,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Dead Club City",
-        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 241194,
-      "name": "Surefire",
-      "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Beautiful People Will Ruin Your Life",
         "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 207679,
       "name": "Turn",
       "url": "https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 241194,
+      "name": "Surefire",
+      "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Welcome to the DCC",
         "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 198798,
       "name": "Welcome to the DCC",
       "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "f**k it, i'm the man",
-        "url": "https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj"
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
       },
       "artists": [
         {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
         }
       ],
-      "duration_ms": 150693,
-      "name": "f**k it, i'm the man",
-      "url": "https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk"
+      "duration_ms": 251906,
+      "name": "Freakin' Out On the Interstate",
+      "url": "https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
+        "name": "f**k it, i'm the man",
+        "url": "https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj"
       },
       "artists": [
         {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
         }
       ],
-      "duration_ms": 251906,
-      "name": "Freakin' Out On the Interstate",
-      "url": "https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn"
+      "duration_ms": 150693,
+      "name": "f**k it, i'm the man",
+      "url": "https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "See You Later",
-      "url": "https://open.spotify.com/track/0PCtDCMDypMnUhVrLyOQZs"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "When I Was Younger",
         "url": "https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "See You Later",
+      "url": "https://open.spotify.com/track/0PCtDCMDypMnUhVrLyOQZs"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "cough drops",
         "url": "https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Alone in the Mountains",
-        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 196707,
-      "name": "Alone in the Mountains",
-      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "sail away",
         "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 179000,
       "name": "sail away",
       "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Alone in the Mountains",
+        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 196707,
+      "name": "Alone in the Mountains",
+      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Take Me With You",
-        "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 197320,
-      "name": "Take Me With You",
-      "url": "https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Orca",
         "url": "https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 248000,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Take Me With You",
+        "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 197320,
+      "name": "Take Me With You",
+      "url": "https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/1TGwCuVPI0jQIOknItuTvc"
+      },
+      "artists": [
+        {
+          "name": "The Heydaze",
+          "url": "https://open.spotify.com/artist/5UWH3rIlO4qbXk6PMFZEbP"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/4DZghpw50ZnO3ckfDuNkft"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/0kdfBCqyoNJZ9KoVlg8Ntn"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 167556,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/2JyoU2NFGjWWTaknPfXeDR"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/1TGwCuVPI0jQIOknItuTvc"
-      },
-      "artists": [
-        {
-          "name": "The Heydaze",
-          "url": "https://open.spotify.com/artist/5UWH3rIlO4qbXk6PMFZEbP"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/4DZghpw50ZnO3ckfDuNkft"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1587,22 +1587,6 @@
       "duration_ms": 189634,
       "name": "Moment In The Sun",
       "url": "https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "The Gutter",
-        "url": "https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe"
-      },
-      "artists": [
-        {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
-        }
-      ],
-      "duration_ms": 174641,
-      "name": "6 Pack and Cigarettes",
-      "url": "https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1667,6 +1651,22 @@
       "duration_ms": 223813,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "The Gutter",
+        "url": "https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 174641,
+      "name": "6 Pack and Cigarettes",
+      "url": "https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ"
     },
     {
       "added_at": "2024-01-12 05:00:00",

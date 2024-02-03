@@ -1,32 +1,28 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 136296,
+  "num_followers": 136321,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTI5MzIyMmZkN2Q5ZjE1N2U1NWRmNGU4MDEwMGQ5ZmY2OTI0MmFi",
+  "snapshot_id": "MCxkMDk5NThlMDVhMzkyYjZkMmU2NzhhMTg4Yzg2OWM5NTA1YzA4MTI3",
   "tracks": [
     {
-      "added_at": "2024-01-12 05:01:00",
+      "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "You're the Top",
-        "url": "https://open.spotify.com/album/57XMvt6aiMjWpJHWTyBo29"
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
       },
       "artists": [
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        },
         {
           "name": "Caity Gyorgy",
           "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
         }
       ],
-      "duration_ms": 248087,
-      "name": "You're the Top",
-      "url": "https://open.spotify.com/track/5eroCoaqooWE4FBMZHHxAH"
+      "duration_ms": 318077,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
     },
     {
       "added_at": "2024-01-26 05:01:00",
@@ -143,6 +139,26 @@
       "duration_ms": 228177,
       "name": "Moonlight Saving Time",
       "url": "https://open.spotify.com/track/0PTJWngEh1q5CXeNUduXjU"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "You're the Top",
+        "url": "https://open.spotify.com/album/57XMvt6aiMjWpJHWTyBo29"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 248087,
+      "name": "You're the Top",
+      "url": "https://open.spotify.com/track/5eroCoaqooWE4FBMZHHxAH"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -619,26 +635,6 @@
       "duration_ms": 205800,
       "name": "Who Are You Dreaming Of",
       "url": "https://open.spotify.com/track/1NmjyMJ8V0vJyKnqujBvCT"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "You're Alike, You Two",
-        "url": "https://open.spotify.com/album/7d6bFLcHMa6ExxlPjzuAkz"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Mark Limacher",
-          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
-        }
-      ],
-      "duration_ms": 253253,
-      "name": "A Fine Romance",
-      "url": "https://open.spotify.com/track/4DdjqjTARDbAvjELiHxuyn"
     },
     {
       "added_at": "2023-08-18 04:01:00",

@@ -1,7 +1,7 @@
 {
-  "2024-02-02": 43905,
+  "2024-02-03": 43917,
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Lescop",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Zaho de Sagazan",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -75,7 +75,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 200320,
       "name": "Adios",
       "url": "https://open.spotify.com/track/1hKbnXEH8nAJlVpG9mtadI"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 194995,
       "name": "doudoune northface",
       "url": "https://open.spotify.com/track/4gnbtbry3isjhb75nBIwLA"
@@ -659,6 +659,24 @@
       "duration_ms": 182996,
       "name": "Encore",
       "url": "https://open.spotify.com/track/4unYRu63NeZhNtGo58BCCU"
+    },
+    {
+      "album": {
+        "name": "fermer les yeux",
+        "url": "https://open.spotify.com/album/3ROY9Wamd7k7dFoPYzp4I6"
+      },
+      "artists": [
+        {
+          "name": "L'enfant",
+          "url": "https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130311,
+      "name": "fermer les yeux",
+      "url": "https://open.spotify.com/track/71lrP6Unh3jKzRDyTPU6ov"
     },
     {
       "album": {
@@ -763,7 +781,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 146065,
       "name": "I'm A Mess",
       "url": "https://open.spotify.com/track/0xP0O0ODyEaBDLOQoexHWp"
@@ -1502,6 +1520,24 @@
     },
     {
       "album": {
+        "name": "Pas si grave",
+        "url": "https://open.spotify.com/album/6Zkx4Is6rymdYuBJdiuqOu"
+      },
+      "artists": [
+        {
+          "name": "Nerlov",
+          "url": "https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "Pas si grave",
+      "url": "https://open.spotify.com/track/5aJD07sT5Fya39NBNoMkEQ"
+    },
+    {
+      "album": {
         "name": "Changement de programme",
         "url": "https://open.spotify.com/album/5KqWkiMSoLMDlYwC1V50Il"
       },
@@ -1830,6 +1866,24 @@
     },
     {
       "album": {
+        "name": "Jour",
+        "url": "https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS"
+      },
+      "artists": [
+        {
+          "name": "Walter Astral",
+          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205855,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX"
+    },
+    {
+      "album": {
         "name": "Le Mal Partout",
         "url": "https://open.spotify.com/album/25jxcQ585QFuTIppDu6S3D"
       },
@@ -1989,7 +2043,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 281768,
       "name": "Tout eteindre",
       "url": "https://open.spotify.com/track/3TVR0qA8G8V30Ywtnf1Xgm"
@@ -2119,6 +2173,24 @@
       "duration_ms": 301959,
       "name": "We Walk",
       "url": "https://open.spotify.com/track/3jQDg6gtXG5c0F6a8k1xDg"
+    },
+    {
+      "album": {
+        "name": "Witch Coast",
+        "url": "https://open.spotify.com/album/5kvklGY25433Iw37zcQxvS"
+      },
+      "artists": [
+        {
+          "name": "Sad Madona",
+          "url": "https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223254,
+      "name": "Witch Coast",
+      "url": "https://open.spotify.com/track/0pdFoGBlpk7qH2GniQWFS6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,760 likes - 48 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,836 likes - 48 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 36 | [No Me Quiero Enamorar](https://open.spotify.com/track/726bxM7rwE4bhJGPPaawQP) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [EN LETRAS DE OTROS](https://open.spotify.com/album/3nAC4AClBOoBxGzhSyyqil) | 3:53 |
 | 37 | [Qué Sorpresa](https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5) | [Alexander Abreu and Havana D' Primera](https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI) | [Qué Sorpresa](https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig) | 6:00 |
 | 38 | [La Cosa Mala](https://open.spotify.com/track/4xBGFG4pHD5hstJQDACxlQ) | [El Niño y la Verdad](https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n) | [De Vuelta al Barrio](https://open.spotify.com/album/0gVY0zm89oBzVfWSpAPUu8) | 5:46 |
-| 39 | [Agua De Clavelito](https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4) | [Los Amigos](https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY) | 6:22 |
+| 39 | [Fever](https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Reina de la Canción Latina](https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu) | 2:45 |
 | 40 | [El Aguila](https://open.spotify.com/track/7drrQGnXEDwGlxLJNt7PXW) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Contra Todos los Pronósticos](https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh) | 6:27 |
-| 41 | [Fever](https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Reina de la Canción Latina](https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu) | 2:45 |
+| 41 | [Agua De Clavelito](https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4) | [Los Amigos](https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY) | 6:22 |
 | 42 | [Traidora \(feat\. Marc Anthony\) \- Salsa Version](https://open.spotify.com/track/3jSCiNXdUOUdpmfG01evw9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Visualízate](https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT) | 4:00 |
 | 43 | [Venenosa](https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [La Vuelta al Mundo](https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG) | 4:07 |
 | 44 | [Represent](https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 3:46 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Historia de un Amor](https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:48 |
 | 48 | [Dime Cuánto \- Remasterizado](https://open.spotify.com/track/31Pwa4vxNUEtxYQIhZfc3B) | [El Niño y la Verdad](https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n) | [Llegó La Verdad \(Remasterizado\)](https://open.spotify.com/album/0fVo66HW2xP2IiJ7Z5kRAe) | 5:15 |
 
-Snapshot ID: `MCxhNzgwNGE2MGFmMzczNTU3Njk2MjEzMGExMTNlMzI4ZmIwNjk2Y2Uz`
+Snapshot ID: `MCxmNWNlNDY4YjMzOGYzYTFkNzg2MDg0NGEyNTZjY2JjYjExMjIwNDgz`

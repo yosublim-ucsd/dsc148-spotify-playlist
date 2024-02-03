@@ -1067,6 +1067,28 @@
     },
     {
       "album": {
+        "name": "Essa Gata N\u00e3o Quer Sair do Meu P\u00e9",
+        "url": "https://open.spotify.com/album/6eAUHGzTz9cY9QJux0UDEO"
+      },
+      "artists": [
+        {
+          "name": "Nick Gomes",
+          "url": "https://open.spotify.com/artist/3d52XAFoEyraIeu5qDSosa"
+        },
+        {
+          "name": "Prod D.G",
+          "url": "https://open.spotify.com/artist/4IZoFkr2B3ZhGhRzb7pDen"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128807,
+      "name": "Essa Gata N\u00e3o Quer Sair do Meu P\u00e9",
+      "url": "https://open.spotify.com/track/1fV3pnFF4OBN1F4sdxd5bl"
+    },
+    {
+      "album": {
         "name": "Eterno Esquema",
         "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
       },
@@ -1126,6 +1148,32 @@
       "duration_ms": 173571,
       "name": "Facetime - Remix",
       "url": "https://open.spotify.com/track/0ULGW9RhAaBfX3Lt3KQdL2"
+    },
+    {
+      "album": {
+        "name": "Rom\u00e2ntico, Pt. 2",
+        "url": "https://open.spotify.com/album/4F9PbT5etwnfzSHuNmh8cS"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Fala a Verdade",
+      "url": "https://open.spotify.com/track/6R0shYSjgWuLheHn8l61bj"
     },
     {
       "album": {
@@ -1869,6 +1917,28 @@
     },
     {
       "album": {
+        "name": "Me Leva",
+        "url": "https://open.spotify.com/album/1diSltAeuabmNpBXw3qt9Q"
+      },
+      "artists": [
+        {
+          "name": "Taylan",
+          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
+        },
+        {
+          "name": "Serour",
+          "url": "https://open.spotify.com/artist/4L8osYNuWu9ggZONwYGGC8"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213975,
+      "name": "Me Leva",
+      "url": "https://open.spotify.com/track/2QQeS6hFZXB8AOCKjyCiNC"
+    },
+    {
+      "album": {
         "name": "Me Liga",
         "url": "https://open.spotify.com/album/1DcRWkDLJYYFAKL4zjk3YT"
       },
@@ -2474,7 +2544,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 156363,
       "name": "Peito Aberto",
       "url": "https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v"
@@ -2750,7 +2820,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 229586,
       "name": "Pra Ningu\u00e9m",
       "url": "https://open.spotify.com/track/355a1BU5F1BSofA99ZNejR"
@@ -2876,10 +2946,32 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 234146,
       "name": "Quando Te Vi",
       "url": "https://open.spotify.com/track/4jxaQVs4cRH3MDKMZ0kRhj"
+    },
+    {
+      "album": {
+        "name": "Que Falta Voc\u00ea Faz",
+        "url": "https://open.spotify.com/album/0MuYje3mI6lrvkPGSGqRNx"
+      },
+      "artists": [
+        {
+          "name": "Annick",
+          "url": "https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123711,
+      "name": "Que Falta Voc\u00ea Faz",
+      "url": "https://open.spotify.com/track/5BWxwtkreVb8ez9fL5ivrp"
     },
     {
       "album": {
@@ -3286,7 +3378,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 173023,
       "name": "Sinal",
       "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"

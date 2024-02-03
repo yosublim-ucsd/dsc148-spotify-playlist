@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > The finest set of Malayalam music from the past 10 years.<br/>Cover : Minnal Murali
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,181 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,305 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 64 | [Rasathi](https://open.spotify.com/track/6DCWVyJ3uE3xxTg2Wp60Aj) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Liya Susan Verghese](https://open.spotify.com/artist/6cVIRWhVS0NSebE0KqIlQK) | [Aravindante Athidhikal](https://open.spotify.com/album/6f8gkMmob6hQhSfxc87AOC) | 3:58 |
 | 65 | [Entammede Jimikki Kammal](https://open.spotify.com/track/2n46SeXId7o9WvXTFgRO8B) | [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Renjith Unni](https://open.spotify.com/artist/0gwiu2YjENIc80Dw6iaswA) | [Velipadinte Pusthakam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/10FVqAlUuZG99OqKW1Cle4) | 3:21 |
 | 66 | [Ee Shishirakaalam \- From "Jacobinte Swargarajyam"](https://open.spotify.com/track/3TDB2rDzrelhNOZYwOr01C) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Kavya Ajit](https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3) | [Jacobinte Swargarajyam](https://open.spotify.com/album/4XxfZW3PEKRIgeKhPqmPzX) | 3:45 |
-| 67 | [Cherathukal \(From "Kumbalangi Nights"\)](https://open.spotify.com/track/1tTuiN0UenG2pSgvE4Dq05) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Kumbalangi Nights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/64LFTJ3Aqog2CYDeiSlbS3) | 3:44 |
+| 67 | [Cherathukal \(From "Kumbalangi Nights"\)](https://open.spotify.com/track/61G0A2wB1KhHo75ojSwpRd) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Kumbalangi Nights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6U0sKj7nG5fnmwIQmpQa2b) | 3:44 |
 | 68 | [Nee Mukilo](https://open.spotify.com/track/4kw7D5nU2QqjdM9pVef6GN) | [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Uyare \(Original Motion Picture Sound Track\)](https://open.spotify.com/album/5cx4GeMEteMsTzjyZFAPm1) | 3:29 |
 | 69 | [Sita Kalyanam](https://open.spotify.com/track/2ZppB7cqsWeEdJgU1TgXxK) | [Renuka Arun](https://open.spotify.com/artist/7vJRDw4tsuuQD9vqJZQRUv), [Sooraj S\. Kurup](https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p) | [Solo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/743hktib4oAhlPFEtAIDJ4) | 4:32 |
 | 70 | [PakalIravukal \(From "Kurup"\)](https://open.spotify.com/track/11Sw3eTPiS3svF1PFA7j1p) | [Neha Nair](https://open.spotify.com/artist/78NGdhTf5oKXObZbj278qk), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [PakalIravukal \(From "Kurup"\) \- Single](https://open.spotify.com/album/2Pw0C9hhfkYvzwQl3oJtAS) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 74 | [Kamini](https://open.spotify.com/track/5sC8JC6dHcEifGMB8xPbbO) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Anugraheethan Antony](https://open.spotify.com/album/2DJyACvp30UFBGAvk9UGmL) | 3:58 |
 | 75 | [Nilapakshi Happy Version](https://open.spotify.com/track/6BvRT4pR5sr3jHgrTYAtbp) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH) | [Maradona \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xW8gYFnuIbWoWhnluumNo) | 3:48 |
 
-Snapshot ID: `MCw2YWI3ZWU3MDVlY2FkYzY2NWEwMWQ1NWM4MzRmNDcxNDQxYTk5NjIy`
+Snapshot ID: `MCwzMDZhZWQ4ZjkwMzVjYzc4NmU4OGMxZTFlNjE1YWU2NGI3YmU2NGNj`

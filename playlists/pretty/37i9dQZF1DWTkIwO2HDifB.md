@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Subindo e Descendo e os funks mais 🔑 do Brasil\. Foto: DJ Jeeh FDC
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,174,410 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,175,326 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 4 | [Vem Quebrando](https://open.spotify.com/track/7Iq55toOSSBCEoGuXxQSa1) | [Mc Danone](https://open.spotify.com/artist/5AkhuEE9FYontxsHqqmtNQ), [DJ THG](https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc), [Dj Hm Oliveira](https://open.spotify.com/artist/0XLrjcXTNJmPJTF3ByHJfV) | [Vem Quebrando](https://open.spotify.com/album/0aQOJ7eiOSyP0Yf3mwIEdF) | 2:28 |
 | 5 | [Mega Funk Lost](https://open.spotify.com/track/1xWnRVOZiVLkSIJbNRfiy8) | [DJ Maninho](https://open.spotify.com/artist/4XZR4NawJ2XBNzaINpqrI5), [Dj Dudu](https://open.spotify.com/artist/55s1nOqpHGET1gHUReBJZh), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Mega Funk Lost](https://open.spotify.com/album/42UgjLpkcOAF4emPZMmuw5) | 2:41 |
 | 6 | [Baile do Bruxo](https://open.spotify.com/track/00ZKeP47bZtswtANkvxz2j) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk), [SMU](https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c), [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [Baile do Bruxo](https://open.spotify.com/album/4gTpoHQozYg3jI7KTbFsfx) | 3:41 |
-| 7 | [Baby Eu Tava na Rua da Água](https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD) | [TR](https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu), [Mc Menor RV](https://open.spotify.com/artist/5MH9v8KacsyTetJmnrAO1W), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Baby Eu Tava na Rua da Água](https://open.spotify.com/album/6HIPvZhnf9Pb6rFLQb7vmD) | 1:56 |
+| 7 | [Baby Eu Tava na Rua da Água](https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD) | [TR](https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu), [Mc Menor RV](https://open.spotify.com/artist/5MH9v8KacsyTetJmnrAO1W), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Baby Eu Tava na Rua da Água](https://open.spotify.com/album/6HIPvZhnf9Pb6rFLQb7vmD) | 1:55 |
 | 8 | [Agudo Mágico 4](https://open.spotify.com/track/4wjDiZGsZYQqKkXyPcQGF6) | [MC K.K](https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [LeoZera](https://open.spotify.com/artist/54x7oKoInjIgCDHUkgyPtu) | [Agudo Mágico 4](https://open.spotify.com/album/5A6i6FT6QjGhTUQaXk2TAb) | 3:10 |
 | 9 | [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/track/64CovjRwInpOJW4PiGMprY) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Dj Nk Da Serra](https://open.spotify.com/artist/3DIMAAaWSlVl1YQ9nsQmUN), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/album/59qldBzRiQutEYO1hqxw7H) | 2:18 |
 | 10 | [Toma Tapa](https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Toma Tapa](https://open.spotify.com/album/3BugC52pXA7PFqUqMjJmXV) | 2:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Boca de Mel](https://open.spotify.com/track/7yYrG1nIPeZdLoA9tfU8LL) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Boca de Mel](https://open.spotify.com/album/58VlvfWrlru69qoGW4GEvz) | 2:04 |
 | 50 | [Pagodeiro](https://open.spotify.com/track/3smtwkthoDwPYDtxS3UrIk) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF) | [Pagodeiro](https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR) | 7:38 |
 
-Snapshot ID: `MCwzMWRkODBiOWQ3YzA3MGE4NTgwNmU5YjkyOThmZTBkMGZiNzExNDE1`
+Snapshot ID: `MCwyYzI5MmRmMTZiODBmMjBmZjM1ZTMwMDMwMDZhY2NmZmYyNWZiMzg3`

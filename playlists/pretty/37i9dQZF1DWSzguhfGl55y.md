@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,731 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,736 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 14 | [An Tagen wie diesen](https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH), [Pascal Finkenauer](https://open.spotify.com/artist/3uc18KTx2wsLk11fOtavsT) | [Am Wasser gebaut](https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg) | 4:01 |
 | 15 | [Rhythmus meines Lebens](https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Die John Bello Story, Vol\. 3](https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB) | 3:16 |
 | 16 | [Ein Affe und ein Pferd](https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Ganz Oben \(Mixtape\)](https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk) | 3:45 |
-| 17 | [Oh Jonny](https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Wir Kinder vom Bahnhof Soul \(Re\-Release\)](https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i) | 3:39 |
-| 18 | [Ahnma](https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Advanced Chemistry](https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI) | 4:13 |
+| 17 | [Ahnma](https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Advanced Chemistry](https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI) | 4:13 |
+| 18 | [Oh Jonny](https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Wir Kinder vom Bahnhof Soul \(Re\-Release\)](https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i) | 3:39 |
 | 19 | [Für immer jung](https://open.spotify.com/track/3tv1DRqL9KRuIUawu6eYG0) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S), [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Heavy Metal Payback](https://open.spotify.com/album/3m1BhLKInOY8Rrs4R6STQz) | 4:30 |
 | 20 | [Jein](https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Außen Top Hits, innen Geschmack](https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH) | 5:54 |
 | 21 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Panamera Flow \(feat\. Bushido\)](https://open.spotify.com/track/7pg0KCiFMABfGHWxnqqZvZ) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34), [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [NWA](https://open.spotify.com/album/5XJFzUdqPdsr7irvz4EnJS) | 4:17 |
 | 50 | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc), [Dennis Dubplate](https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3) | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8) | 5:30 |
 
-Snapshot ID: `MCwzYTgzNDcyMDA1YjM1ZmFhOTBhMjA5NDEzY2JjYjY3YmQxYjQyMzJh`
+Snapshot ID: `MCxmNThjZTVlYWJiZDk0M2UyYWQzMGJjMjA2ZWY3MDc0ZThiMmVlNTk1`

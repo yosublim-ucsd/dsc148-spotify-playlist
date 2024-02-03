@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-2,325 songs - 4 day 17 hr 49 min
+2,326 songs - 4 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1938,6 +1938,7 @@
 | [Strassa](https://open.spotify.com/track/0yguARlTVRpheIXYzoMSx4) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Strassa](https://open.spotify.com/album/5auvmsPTgk24VnONR7IYbT) | 4:06 | 2022-07-16 | 2022-07-18 |
 | [Strassengeschichten](https://open.spotify.com/track/5wTppCMe8AtTcmYX9K8apU) | [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V) | [Strassengeschichten](https://open.spotify.com/album/2aJEgKSbUODwrIX31p1P7F) | 2:46 | 2022-01-22 | 2022-01-30 |
 | [Straße studiert](https://open.spotify.com/track/4OvjDisi6wFGWLmjtEFDir) | [1019](https://open.spotify.com/artist/3r82jUxl7ThSdOhB90Qn6u), [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv), [Omar101](https://open.spotify.com/artist/3OSeYeKlvOhNfcLVQNadmB), [Nizi19](https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg) | [Straße studiert](https://open.spotify.com/album/01Uu2dtskqfSZvzmIRURn5) | 2:12 | 2023-12-30 | 2024-01-01 |
+| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-02-02 |  |
 | [Stups, der kleine Osterhase](https://open.spotify.com/track/1O2sdZviza9fQgHuRIXkYY) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Radio Lollipop](https://open.spotify.com/album/7fRHiKDTXZe772cYMPkIaf) | 2:12 | 2023-04-10 | 2023-04-12 |
 | [Sturkopf \(mit ner Glock\)](https://open.spotify.com/track/473iuBry5Y4SSx9AGw9LLw) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Sturkopf \(mit ner Glock\)](https://open.spotify.com/album/4tSoKS8d26eyigOHVNvtZy) | 2:26 | 2023-02-11 | 2023-03-12 |
 | [Style \(Taylor's Version\)](https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-11-01 |
@@ -2273,7 +2274,7 @@
 | [Wir sind drin](https://open.spotify.com/track/3Jd94fDI4bSfGPIvrU1szz) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Wir sind drin](https://open.spotify.com/album/3cv1wstW6voAhShCzvHR0u) | 1:26 | 2021-04-04 | 2021-04-07 |
 | [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:50 | 2022-02-15 | 2022-03-21 |
 | [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:41 | 2021-03-27\* | 2021-05-23 |
-| [Wittenbergplatz](https://open.spotify.com/track/020fQowWGE54urxH67pgFx) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Wittenbergplatz](https://open.spotify.com/album/77ti7OnoU3a4j5HnbzsIIl) | 2:17 | 2024-01-27 |  |
+| [Wittenbergplatz](https://open.spotify.com/track/020fQowWGE54urxH67pgFx) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Wittenbergplatz](https://open.spotify.com/album/77ti7OnoU3a4j5HnbzsIIl) | 2:17 | 2024-01-27 | 2024-02-03 |
 | [WOHIN](https://open.spotify.com/track/2bG7aSMEAdOfBTVqToYBdc) | [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U), [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [WOHIN](https://open.spotify.com/album/3ijyvvXTkjX4y5P0I6hnYD) | 3:03 | 2021-12-05 | 2021-12-12 |
 | [WOLKEN](https://open.spotify.com/track/5BDefL5M893qxIGgGVGD1F) | [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U) | [WOLKEN](https://open.spotify.com/album/3WY2ZdvKhxOnCSqs5nsXL8) | 2:45 | 2021-11-14 | 2021-11-14 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-08-12 | 2021-11-14 |

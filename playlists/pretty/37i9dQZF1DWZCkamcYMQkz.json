@@ -1,12 +1,12 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 175698,
+  "num_followers": 175923,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGQ3MGNmYTY2Nzg3MWZjY2Q5NzEyMWEwOTJjYzhjODY4NmU1ZTdk",
+  "snapshot_id": "MCw5YzMzNTc1ZTk1ZWIyYWI3MTI4NDA2ZGZiOTAwMTM2Y2I3NjE1ZTNm",
   "tracks": [
     {
       "added_at": "2024-01-31 12:57:17",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-01-31 12:57:17",
       "album": {
+        "name": "Exclusively for My Friends: Girl Talk, Vol. II",
+        "url": "https://open.spotify.com/album/3UL145zQyFoPH9WCRDUD3f"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 261609,
+      "name": "On a Clear Day (You Can See Forever) - Live",
+      "url": "https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd"
+    },
+    {
+      "added_at": "2024-01-31 12:57:17",
+      "album": {
         "name": "Taking A Chance On Love",
         "url": "https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 225840,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr"
-    },
-    {
-      "added_at": "2024-01-31 12:57:17",
-      "album": {
-        "name": "Exclusively for My Friends: Girl Talk, Vol. II",
-        "url": "https://open.spotify.com/album/3UL145zQyFoPH9WCRDUD3f"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 261609,
-      "name": "On a Clear Day (You Can See Forever) - Live",
-      "url": "https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd"
     },
     {
       "added_at": "2024-01-31 12:57:17",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-01-31 12:57:17",
       "album": {
-        "name": "Great Ladies Of Song / Spotlight On Dakota Staton",
-        "url": "https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl"
-      },
-      "artists": [
-        {
-          "name": "George Shearing Quintet",
-          "url": "https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y"
-        },
-        {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
-        }
-      ],
-      "duration_ms": 152160,
-      "name": "I Hear Music - Remastered",
-      "url": "https://open.spotify.com/track/65Yy88Liyj4JzcU2gbklgR"
-    },
-    {
-      "added_at": "2024-01-31 12:57:17",
-      "album": {
         "name": "Sarah Vaughan",
         "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 306133,
       "name": "It's Crazy",
       "url": "https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC"
+    },
+    {
+      "added_at": "2024-01-31 12:57:17",
+      "album": {
+        "name": "Great Ladies Of Song / Spotlight On Dakota Staton",
+        "url": "https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl"
+      },
+      "artists": [
+        {
+          "name": "George Shearing Quintet",
+          "url": "https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y"
+        },
+        {
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+        }
+      ],
+      "duration_ms": 152160,
+      "name": "I Hear Music - Remastered",
+      "url": "https://open.spotify.com/track/65Yy88Liyj4JzcU2gbklgR"
     },
     {
       "added_at": "2024-01-31 12:57:17",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-01-31 12:57:17",
       "album": {
-        "name": "Not So Dukish",
-        "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Central Park Swing",
-      "url": "https://open.spotify.com/track/0LsYGVyyGCAvCX8bf2I2vO"
-    },
-    {
-      "added_at": "2024-01-31 12:57:17",
-      "album": {
         "name": "Far Away Lands",
         "url": "https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 312626,
       "name": "A Dab Of This And That",
       "url": "https://open.spotify.com/track/6PKGuyvnWzcwC8aDPp9ywI"
+    },
+    {
+      "added_at": "2024-01-31 12:57:17",
+      "album": {
+        "name": "Not So Dukish",
+        "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Central Park Swing",
+      "url": "https://open.spotify.com/track/0LsYGVyyGCAvCX8bf2I2vO"
     },
     {
       "added_at": "2024-01-31 12:57:17",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2024-01-31 12:57:17",
       "album": {
-        "name": "Jazz Masters 35: Johnny Hodges",
-        "url": "https://open.spotify.com/album/4fPxmVU9pLV7SVfIKFkDLr"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        },
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 447200,
-      "name": "Back Beat",
-      "url": "https://open.spotify.com/track/1EDPO11fsLlQvGBhzxprqS"
-    },
-    {
-      "added_at": "2024-01-31 12:57:17",
-      "album": {
         "name": "Additions To Further Definitions",
         "url": "https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb"
       },
@@ -1651,6 +1631,22 @@
       "duration_ms": 331386,
       "name": "Doozy - 1966 Album Version",
       "url": "https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF"
+    },
+    {
+      "added_at": "2024-01-31 12:57:17",
+      "album": {
+        "name": "Autumn In New York",
+        "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
     },
     {
       "added_at": "2024-01-31 12:57:17",
@@ -1671,18 +1667,22 @@
     {
       "added_at": "2024-01-31 12:57:17",
       "album": {
-        "name": "Autumn In New York",
-        "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
+        "name": "Jazz Masters 35: Johnny Hodges",
+        "url": "https://open.spotify.com/album/4fPxmVU9pLV7SVfIKFkDLr"
       },
       "artists": [
         {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        },
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 144840,
-      "name": "The Best Things In Life Are Free",
-      "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
+      "duration_ms": 447200,
+      "name": "Back Beat",
+      "url": "https://open.spotify.com/track/1EDPO11fsLlQvGBhzxprqS"
     },
     {
       "added_at": "2024-01-31 12:57:17",

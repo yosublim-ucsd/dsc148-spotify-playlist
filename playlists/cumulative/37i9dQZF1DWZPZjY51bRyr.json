@@ -2039,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "low pass vision",
+        "url": "https://open.spotify.com/album/0cfy8Vn44l69WpPLF4SlJF"
+      },
+      "artists": [
+        {
+          "name": "Irma Leko",
+          "url": "https://open.spotify.com/artist/1v2ot5AsADBuFjviWNgOZR"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198641,
+      "name": "low pass vision",
+      "url": "https://open.spotify.com/track/03lJ5CU7yvsbZF5JkIzUPW"
+    },
+    {
+      "album": {
         "name": "Lush",
         "url": "https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2"
       },
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 193635,
       "name": "Majestica",
       "url": "https://open.spotify.com/track/33fpGhpBEiIqY8rGSKNA9y"

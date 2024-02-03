@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 
 > This is keshi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,841 likes - 44 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,891 likes - 44 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 | 23 | [alright](https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 2:48 |
 | 24 | [HELL/HEAVEN](https://open.spotify.com/track/4ZrT4GknVWRvBYA8AcLCeY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:40 |
 | 25 | [the reaper](https://open.spotify.com/track/4vHoOPIlILceWMPGY5XEmJ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:18 |
-| 26 | [xoxosos](https://open.spotify.com/track/2PcRcEPe8HkDhYsA6OV6d4) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:33 |
-| 27 | [magnolia](https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [magnolia](https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py) | 2:19 |
-| 28 | [talk](https://open.spotify.com/track/0b8Sf6sJqXOr9cP6tQ7QQx) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:54 |
+| 26 | [magnolia](https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [magnolia](https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py) | 2:19 |
+| 27 | [talk](https://open.spotify.com/track/0b8Sf6sJqXOr9cP6tQ7QQx) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:54 |
+| 28 | [xoxosos](https://open.spotify.com/track/2PcRcEPe8HkDhYsA6OV6d4) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:33 |
 | 29 | [bandaids](https://open.spotify.com/track/2ZP85Jq4K27V6WWVXfINSR) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 3:35 |
 | 30 | [just friends](https://open.spotify.com/track/2KEnu7ABoDpekTUae5rrU0) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [just friends](https://open.spotify.com/album/5Uaaq4KQPwGTG9cyooFD1I) | 2:03 |
 | 31 | [onoffonoff](https://open.spotify.com/track/66Cvj3KAYjeJcDEVQRJSYn) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [onoffonoff](https://open.spotify.com/album/0GJmg6PCM2HKNv8CfdkNgX) | 3:10 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 | 43 | [don't leave](https://open.spotify.com/track/4TyxaQOzNegSypklOwwDgv) | [Ionika](https://open.spotify.com/artist/1GVuqedQwOPdtbQSIhKt9i), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [don't leave](https://open.spotify.com/album/6eYsINX4Fsct8hbYdJ4KPY) | 2:08 |
 | 44 | [if you're not the one for me who is](https://open.spotify.com/track/4g24R4qNnOy1stBY5uIIAa) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [if you're not the one for me who is](https://open.spotify.com/album/3NhJAWT9TfMOxpOhtfzSAM) | 2:50 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDAwNjg2ZGJmZDMyYmMyNWQzYmI4MmVmNzdhNWU1MTk2YQ==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDBiMTg0OGZmZGNhMzM1Zjk5MjM4NjllZjg4MzQ2ODBkNA==`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Dean Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,573 likes - 104 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,582 likes - 104 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dreaming](https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/3uoFn9YXRikta2GkvMXoR7) | 3:28 |
+| 1 | [Dreaming](https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs) | 3:28 |
 | 2 | [Memories](https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Memories](https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09) | 2:59 |
 | 3 | [Shooting Star](https://open.spotify.com/track/1iD1Apn0i05NWYwOaSaRcb) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Constellations \(Expanded\)](https://open.spotify.com/album/6lIisbumiVx5fHO6e8ybLb) | 2:25 |
 | 4 | [Wildfire](https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Wildfire](https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp) | 2:36 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 103 | [run for the hills \(Spotify OUTSIDE Version\) \- Live from Malibu](https://open.spotify.com/track/1gMv5QSRDJ6SwcQGbTtAtB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify OUTSIDE](https://open.spotify.com/album/6iAheP6Xd45D2CocnMGMmE) | 2:44 |
 | 104 | [Forget Me](https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:23 |
 
-Snapshot ID: `MCw2MWVkZTg4YTFhNjFkMjNmZDQ2YjEwYTlkM2YwMmZlOWNhNzJkM2Y2`
+Snapshot ID: `MCwyZjIwZTkxYjFiM2M4MTQzMDdlMTMwM2E5ZGUyMzgzNTU5NGRjOTE3`

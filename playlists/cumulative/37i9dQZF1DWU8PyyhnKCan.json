@@ -2082,7 +2082,7 @@
     {
       "album": {
         "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q"
+        "url": "https://open.spotify.com/album/7gxXuvmdsCaoM4Li1GR9gB"
       },
       "artists": [
         {
@@ -2093,6 +2093,24 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 223400,
+      "name": "\u4e59\u5973\u89e3\u5256",
+      "url": "https://open.spotify.com/track/1otg7FUDBkXTWGjputlbxR"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-03",
       "duration_ms": 223400,
       "name": "\u4e59\u5973\u89e3\u5256",
       "url": "https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ"

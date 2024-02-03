@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-494 songs - 1 day 1 hr 23 min
+495 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Bring Me The Light \- Rob Gasser Remix](https://open.spotify.com/track/5i2aGKutUx2keiTqQXAm8j) | [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Bring Me The Light \(Rob Gasser Remix\)](https://open.spotify.com/album/30gpaJcuO1M6izxV6osZvG) | 4:11 | 2022-03-31 | 2023-04-28 |
 | [Broken Love](https://open.spotify.com/track/55q35WjtYGNfsDFjGIFcWA) | [metr](https://open.spotify.com/artist/0RAWgVjsAEhbXPhqPGqd8n), [Adrian Benson](https://open.spotify.com/artist/6pto9yK3v6ju1r8piPps1P), [Ima Sobé](https://open.spotify.com/artist/3xZA1iqapR7QdWz6gpu0Zn) | [Broken Love](https://open.spotify.com/album/4SCPz1xCo9H8V2oasW8ST7) | 2:37 | 2022-11-30 | 2023-08-10 |
 | [Burned](https://open.spotify.com/track/3XfD2WZJmaxPOffgQfe88R) | [Henri Werner](https://open.spotify.com/artist/0nuGLpGw9XwyMLIKZxeRzE) | [Burned](https://open.spotify.com/album/2rhiCp8wA2uuERay3UfTIz) | 2:09 | 2023-06-15 | 2023-08-10 |
+| [Burning Wish](https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Burning Wish](https://open.spotify.com/album/6hYHHReXvw9Gv4Tt8JiL3L) | 2:33 | 2024-02-02 |  |
 | [BUSSIN'](https://open.spotify.com/track/3bpV7A3jeuP7wyvvKGQ0kR) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [BUSSIN'](https://open.spotify.com/album/7jnEukdmhcSFyrxAgNTDlz) | 1:26 | 2024-02-01 |  |
 | [By My Side](https://open.spotify.com/track/66p1AS3IxyCUZSm1ZOoKjQ) | [Acejax](https://open.spotify.com/artist/4XJPVnaKHtfPw75SomdyQ5), [Danilyon](https://open.spotify.com/artist/1mn63wKYd6Ai2mhHmwk8Nh) | [By My Side](https://open.spotify.com/album/3zdnm0Xg32crPVdEKFPsRC) | 2:58 | 2023-08-08 |  |
 | [By Your Side](https://open.spotify.com/track/7xdLOiw41ACPrR6lKRhMgk) | [God's Warrior](https://open.spotify.com/artist/4OGggb4JhHb8BejoK3Y0zh) | [By Your Side](https://open.spotify.com/album/0SprUbV3HTNOWG5guO0VSU) | 3:25 | 2022-10-26 | 2023-04-28 |
@@ -201,7 +202,7 @@
 | [Guide You Home](https://open.spotify.com/track/26k2oNy7Ps75NSxiHKjP1W) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv) | [Guide You Home](https://open.spotify.com/album/4NRH0zEwYAIvZyZUMk4nsb) | 3:12 | 2023-02-17 | 2023-02-21 |
 | [H.A.Y](https://open.spotify.com/track/2Y5z3eOhmuDQNyAKAmmVcR) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [H.A.Y](https://open.spotify.com/album/7mMKUcbLBTeMP51qkihmPy) | 3:43 | 2023-08-08 | 2023-12-14 |
 | [Halo \(I'll Be There\)](https://open.spotify.com/track/4yjD6NhVSE7vdxqGgTXyyp) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [Misfit](https://open.spotify.com/artist/4qqtDYEq0zywabPZZa2uFH) | [Halo \(I'll Be There\)](https://open.spotify.com/album/23zxzYYJoZlfIGkajSLOBM) | 2:44 | 2023-05-05 | 2023-08-10 |
-| [Hate You](https://open.spotify.com/track/70t5RX4CuclyMt0ocbsUik) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [BAUWZ](https://open.spotify.com/artist/1SkY6AUOKqfL6sjSt8HVjq), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Hate You](https://open.spotify.com/album/0sZSZcxLGBQVPfsWvVyRVO) | 3:00 | 2023-08-08 |  |
+| [Hate You](https://open.spotify.com/track/70t5RX4CuclyMt0ocbsUik) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [BAUWZ](https://open.spotify.com/artist/1SkY6AUOKqfL6sjSt8HVjq), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Hate You](https://open.spotify.com/album/0sZSZcxLGBQVPfsWvVyRVO) | 3:00 | 2023-08-08 | 2024-02-03 |
 | [Haunted House](https://open.spotify.com/track/0lRWCC1H4Ik57AoCDywzPl) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Haunted House](https://open.spotify.com/album/0kPDBpsKB8gnIePmj1pas7) | 3:01 | 2023-08-08 |  |
 | [Haunted House](https://open.spotify.com/track/6wrRfGqlmuxCyPcmOWeM75) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Haunted House](https://open.spotify.com/album/3R4cOBC9K3eOK0twwHk7Zc) | 3:01 | 2022-03-11 | 2023-08-10 |
 | [Heart My Heart](https://open.spotify.com/track/270q1FvyIjwKdrX5O0sFSN) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Heart My Heart](https://open.spotify.com/album/08PO8CBEiN6EMD9xXnptl1) | 2:49 | 2023-12-13 |  |

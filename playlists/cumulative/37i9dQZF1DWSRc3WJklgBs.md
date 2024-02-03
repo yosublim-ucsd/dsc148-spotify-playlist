@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,240 songs - 3 day 0 hr 20 min
+1,241 songs - 3 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,7 +556,7 @@
 | [Indian Summer](https://open.spotify.com/track/3YZJIHIX3kPd5wLwKLWIZA) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Indian Summer](https://open.spotify.com/album/6TFxvvkuIY7EiFZpcP8bS0) | 3:20 | 2020-10-30 | 2021-09-25 |
 | [Indian Summer](https://open.spotify.com/track/42nkVBjWYVhiijbof5zySm) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Indian Summer](https://open.spotify.com/album/2afNG92zO2m0WT1FvU8PvA) | 4:08 | 2019-08-09\* | 2019-08-27 |
 | [Indigo](https://open.spotify.com/track/3Wo2o3idbrK3asVdbHh5Nl) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [Indigo](https://open.spotify.com/album/3sP2QGyEsqcT5MjlrVR8Sq) | 3:13 | 2023-08-18 |  |
-| [Inner Light](https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Inner Light](https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z) | 3:28 | 2022-11-18 |  |
+| [Inner Light](https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Inner Light](https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z) | 3:28 | 2022-11-18 | 2024-02-03 |
 | [Innocence](https://open.spotify.com/track/55tgN8h3WLm7cgVEFoc3UB) | [Midnight Kids](https://open.spotify.com/artist/5w39eY1aNDybnDGTNgVt3r) | [The Lost Youth](https://open.spotify.com/album/0BVWINRI9mlPUFHkdXvCH4) | 1:52 | 2020-06-04 | 2021-09-11 |
 | [Inside Out](https://open.spotify.com/track/4GdYM1hIvRfK8keBF2eQ1a) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Charlee](https://open.spotify.com/artist/6qaQDRYp95AylkA1FnEI3Q) | [Collage EP](https://open.spotify.com/album/22rp3PnM3q2mtTI0OGCzpq) | 3:53 | 2020-04-16 | 2021-05-08 |
 | [Inside Out](https://open.spotify.com/track/7sG2bWi2eDtvX9vX8yC1Gn) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Charlee](https://open.spotify.com/artist/6qaQDRYp95AylkA1FnEI3Q) | [Inside Out](https://open.spotify.com/album/7mgjbCQ1gzFbASVLgD8YbV) | 3:53 | 2019-08-09\* | 2019-09-04 |
@@ -1124,6 +1124,7 @@
 | [Untouchable](https://open.spotify.com/track/05dL7chWJaVjMJnGO1YCKk) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Untouchable](https://open.spotify.com/album/3SDHTZyc0Bc84ePaIzchrd) | 3:48 | 2019-08-09\* | 2019-08-27 |
 | [Untouched Hearts](https://open.spotify.com/track/2WyPSznCIMldBnPrcCuSph) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [Stockholm Syndrome](https://open.spotify.com/artist/2YcwhWZa9RQbF1a42ZGCaS) | [Saga](https://open.spotify.com/album/4d0a9MZ4pQEmdaMlAL473l) | 3:11 | 2019-08-09\* | 2019-09-14 |
 | [Us](https://open.spotify.com/track/0reR3yfMTisKWQUnOmjxkN) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Us](https://open.spotify.com/album/4Xp28y7F7RyIOjwp4v9IgZ) | 3:02 | 2022-08-12 |  |
+| [Valentine](https://open.spotify.com/track/6b57FDNY52AlFJa81vTijE) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Valentine](https://open.spotify.com/album/06PMmkzppZU6YSZVQbHpzy) | 3:49 | 2024-02-02 |  |
 | [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/track/53HvRc4rqJa8YmssjH5GKp) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/album/1AW5jWwgZpzSyl8gELf5Iu) | 3:00 | 2022-02-04 | 2023-09-20 |
 | [Visions](https://open.spotify.com/track/4TANuW9cpKCGqH499rr9re) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [RBBTS](https://open.spotify.com/artist/3dA4z26BqCdMWynoHMK5l8) | [Visions](https://open.spotify.com/album/5T9RiXXAhDNHltzGYXDMGn) | 4:21 | 2019-08-09\* | 2020-03-29 |
 | [WAIT \(feat\. Bipolar Sunshine\)](https://open.spotify.com/track/06ZFfsiywuaqGnYQiUfbyn) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [WAIT \(feat\. Bipolar Sunshine\)](https://open.spotify.com/album/6agHtwWDfbzFvPJRALB4yh) | 3:43 | 2022-08-12 | 2023-10-15 |

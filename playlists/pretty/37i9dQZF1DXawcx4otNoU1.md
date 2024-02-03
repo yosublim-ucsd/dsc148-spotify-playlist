@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > For those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,061 likes - 150 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,022 likes - 150 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 23 | [Love Language](https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:03 |
 | 24 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 |
 | 25 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
-| 26 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 |
-| 27 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 3:29 |
+| 26 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 3:29 |
+| 27 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 |
 | 28 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
 | 29 | [Your Body Is a Wonderland](https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 4:09 |
 | 30 | [Touch My Body](https://open.spotify.com/track/2aEuXA1KswHlCGPOuPmCOW) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:24 |
@@ -113,16 +113,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 103 | [Mona Lisa](https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:18 |
 | 104 | [Need You Now \- Acoustic](https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:23 |
 | 105 | [Just The Same](https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5) | 3:25 |
-| 106 | [Serious](https://open.spotify.com/track/4FFbsUwwKfRjqVg3xJlhxS) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Full Circle : Sonic Book One](https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7) | 2:53 |
-| 107 | [Here With Me](https://open.spotify.com/track/02VOS5QRFc6i1XQVROAeDi) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Here With Me](https://open.spotify.com/album/2Lckft3XE6ElWoCny1h1Xo) | 3:16 |
+| 106 | [Here With Me](https://open.spotify.com/track/02VOS5QRFc6i1XQVROAeDi) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Here With Me](https://open.spotify.com/album/2Lckft3XE6ElWoCny1h1Xo) | 3:16 |
+| 107 | [Serious](https://open.spotify.com/track/4FFbsUwwKfRjqVg3xJlhxS) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Full Circle : Sonic Book One](https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7) | 2:53 |
 | 108 | [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 |
 | 109 | [Home](https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Proverb](https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK) | 3:21 |
 | 110 | [Love Like This](https://open.spotify.com/track/4evLXgbsrUfHvQjyyLmYDe) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Like This](https://open.spotify.com/album/5QJTyOnj3P0CfRNhhot0NO) | 4:10 |
 | 111 | [Long Way Down](https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ) | 4:17 |
 | 112 | [Once In a While \- Acoustic](https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Once In a While \(Acoustic\)](https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ) | 3:51 |
-| 113 | [Stone](https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Sebastian Kole](https://open.spotify.com/artist/2Ve76xf8WEVRRfanpQHgLs) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:48 |
-| 114 | [Always](https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88) | 4:07 |
-| 115 | [The Meetings of the Waters](https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ) | 5:00 |
+| 113 | [Always](https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88) | 4:07 |
+| 114 | [The Meetings of the Waters](https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ) | 5:00 |
+| 115 | [Stone](https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Sebastian Kole](https://open.spotify.com/artist/2Ve76xf8WEVRRfanpQHgLs) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:48 |
 | 116 | [Lips On You](https://open.spotify.com/track/5ezKhlg0ZwDPgOtMCoQt1S) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:36 |
 | 117 | [Perfect To Me \- Acoustic](https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Perfect to Me \(Acoustic\)](https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v) | 3:33 |
 | 118 | [Crowded Places](https://open.spotify.com/track/6kNMg11e0ApnTmExdayfA1) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Crowded Places](https://open.spotify.com/album/5kBfpqZQEERHLnFCDGoX9D) | 4:22 |
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 135 | [Dancefloor](https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 5:22 |
 | 136 | [Radio](https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Radio](https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0) | 3:10 |
 | 137 | [Change Your Mind \- Stripped](https://open.spotify.com/track/7Iv4hZIAi4np1d8VBwoNqA) | [Jack Vallier](https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN) | [Rebekah \- EP](https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH) | 2:59 |
-| 138 | [Everything](https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Everything](https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ) | 3:39 |
-| 139 | [Teach](https://open.spotify.com/track/4YcEc3ZlbW3W2OqbPmjF4V) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Teach](https://open.spotify.com/album/7cWMXbPvvIVZwy72OuMYjY) | 2:55 |
+| 138 | [Teach](https://open.spotify.com/track/4YcEc3ZlbW3W2OqbPmjF4V) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Teach](https://open.spotify.com/album/7cWMXbPvvIVZwy72OuMYjY) | 2:55 |
+| 139 | [Everything](https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Everything](https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ) | 3:39 |
 | 140 | [Eyes on You](https://open.spotify.com/track/5ewnuTcT10UI7zOx3OWRmQ) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Eyes on You](https://open.spotify.com/album/1EyIaOsVGxxr2LKxlxCH9Q) | 2:48 |
 | 141 | [Parade](https://open.spotify.com/track/1PAH34xJkjVKe51fS0Rv53) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [NIGHT FLIGHT](https://open.spotify.com/album/2CfUVZdfwVHZNzf5WF3BID) | 3:49 |
 | 142 | [Alone](https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe) | 3:36 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 149 | [Can't Help Falling in Love](https://open.spotify.com/track/76uvt4jX5MgSaOa2XahlaC) | [Jessie Kol](https://open.spotify.com/artist/601HEblLzICOmtxDLs0XAf) | [Can't Help Falling in Love](https://open.spotify.com/album/3uaM6qXgjvt808QQElryLw) | 2:58 |
 | 150 | [Song For A Friend](https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Song For A Friend](https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I) | 3:56 |
 
-Snapshot ID: `MCxhZTQwN2ZlODVmM2RiZDQ4ZTFjNWQyNTE3ZTVhMjM1MDU1OTkzZTFl`
+Snapshot ID: `MCwyMDNlYTkxOGVkNmVlODJlNGYxMmQxM2NhOTQ1ZTFkNWI3ZTA1MzFi`

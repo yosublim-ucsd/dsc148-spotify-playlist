@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,028 likes - 62 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,132 likes - 62 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 13 | [I Love to Love](https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L) | [Tina Charles](https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa) | [I Love To Love \- The Best Of](https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647) | 3:03 |
 | 14 | [Now That We Found Love](https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:41 |
 | 15 | [Can You Feel It](https://open.spotify.com/track/0RAiBUgOC5pgFUHsldtix3) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Triumph](https://open.spotify.com/album/5YhOA7OGN6xFPwQznkfe69) | 5:59 |
-| 16 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 |
-| 17 | [Ain't No Stoppin' Us Now \- Single Version](https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [The Best Of Philadelphia International Records](https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ) | 3:37 |
+| 16 | [Ain't No Stoppin' Us Now \- Single Version](https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [The Best Of Philadelphia International Records](https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ) | 3:37 |
+| 17 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 |
 | 18 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 |
 | 19 | [Best of My Love](https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [The Best Of The Emotions: Best Of My Love](https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP) | 3:39 |
 | 20 | [Everlasting Love](https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:33 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 45 | [More, More, More \- Single Version](https://open.spotify.com/track/3AE5u8SGUVStmdjXzHWflz) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:00 |
 | 46 | [Turn the Beat Around](https://open.spotify.com/track/1kR8zUFIRLXpk1v9aC2VcA) | [Vicki Sue Robinson](https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa) | [More Monty](https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh) | 3:24 |
 | 47 | [I'll Never Forget \(My Favorite Disco\)](https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 4:34 |
-| 48 | [Can't Fake the Feeling](https://open.spotify.com/track/6fDNNvdsZ9Z4oV8OSgLfuJ) | [Geraldine Hunt feat\. Freddie James & Rosalind aka Cheri](https://open.spotify.com/artist/6UWhFuqJnSgnYDwk9Rdwlo) | [Soultry, Jazzy, & Sexy](https://open.spotify.com/album/6kRBGiN1KuFLTCSUTm3irF) | 5:22 |
-| 49 | [Running Away](https://open.spotify.com/track/3KLYkhq8QGEuKRkKj6E694) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 4:00 |
+| 48 | [Running Away](https://open.spotify.com/track/3KLYkhq8QGEuKRkKj6E694) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 4:00 |
+| 49 | [Can't Fake the Feeling](https://open.spotify.com/track/6fDNNvdsZ9Z4oV8OSgLfuJ) | [Geraldine Hunt feat\. Freddie James & Rosalind aka Cheri](https://open.spotify.com/artist/6UWhFuqJnSgnYDwk9Rdwlo) | [Soultry, Jazzy, & Sexy](https://open.spotify.com/album/6kRBGiN1KuFLTCSUTm3irF) | 5:22 |
 | 50 | [Disco Nights \(Rock Freak\) \- Single Remix](https://open.spotify.com/track/2dZVfFCuI0PGE6jYF4pfHo) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [More Monty](https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh) | 3:53 |
 | 51 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\) \- "A Tom Moulton Mix"](https://open.spotify.com/track/5WYFSYfwfUH7pv2fs6BbDD) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of MFSB: Love Is The Message](https://open.spotify.com/album/5zeco1PwkqbFAWd9yNpz6S) | 5:48 |
 | 52 | [Best Love](https://open.spotify.com/track/4pJCC6lAVFM1ApmZcjTqxZ) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Stronger Than Ever \(Expanded Edition\)](https://open.spotify.com/album/1KpU7ibCL9fRpFlFBAujxy) | 3:53 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 61 | [You Little Trustmaker](https://open.spotify.com/track/0oBGKZP0d982ct1ZZeX6Uq) | [The Tymes](https://open.spotify.com/artist/0a1BmEq1mZ5ufKMC2fsziR) | [Disco Party](https://open.spotify.com/album/7Kneel529obA7Qd9glamb4) | 2:49 |
 | 62 | [Pipeline](https://open.spotify.com/track/50nRo6MZZE81IxYWNaUiQd) | [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:57 |
 
-Snapshot ID: `MCwzNTFhODBjMjE5ZDA5MDU4MTg4NTJlMmRhNjdiODViMjNiYzE2ZGYx`
+Snapshot ID: `MCw3OGFiNjk3OTAwZWZmOTYxMjZkNTVmNjYyY2UzZjU1NTUwZjIwZmVh`

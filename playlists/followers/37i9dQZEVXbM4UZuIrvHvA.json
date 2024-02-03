@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 4107,
+  "2024-02-03": 4107,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - UAE.",
   "name": "Top 50 - UAE",
@@ -799,6 +799,24 @@
       "duration_ms": 174253,
       "name": "Ain't Shit",
       "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
+    },
+    {
+      "album": {
+        "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+        "url": "https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171147,
+      "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "url": "https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW"
     },
     {
       "album": {
@@ -3029,7 +3047,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"

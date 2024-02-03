@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,603 likes - 225 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,609 likes - 225 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,7 +184,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 174 | [Tiny Riot](https://open.spotify.com/track/0u7b8p0mxUUNT7xeuYUtlP) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Tiny Riot](https://open.spotify.com/album/1yoYSNh7PxIc2gvKHqpLa6) | 3:24 |
 | 175 | [You Send Me](https://open.spotify.com/track/1WKkUNC5MbaELuNiD650b2) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Bulletproof](https://open.spotify.com/album/3ur6mfqmezFESmyDU2p4Pt) | 2:50 |
 | 176 | [where do i go?](https://open.spotify.com/track/13cpJF1EnE5onFxciqU5XW) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [where do i go?](https://open.spotify.com/album/48UasokNKtAHcpPSIykWnk) | 3:33 |
-| 177 | [Let's Fall in Love for the Night](https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:10 |
+| 177 | [Let's Fall in Love for the Night](https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:10 |
 | 178 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 |
 | 179 | [Picture in My Mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 |
 | 180 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 224 | [Rise Above](https://open.spotify.com/track/2lTCInyx0mmMNKnazX8SI6) | [Veigar Margeirsson](https://open.spotify.com/artist/49qXLlcq9i5zOpvCAo9hVF) | [Rise Above \- Position Music Orchestral Series, Vol\. 8](https://open.spotify.com/album/5l8PuaMmSQv9VhKh80Gee2) | 2:41 |
 | 225 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |
 
-Snapshot ID: `MCxlYjFjMWUwYTRlYjg4ZTUyYjA4YWQ0M2QxZWRkYTNkMzMyMTlkM2Vk`
+Snapshot ID: `MCwzMDY5MDAyMTBhNzBkYmEwY2MyMzdiYzE4ODg3YTgyZDVhMWM4ODIy`

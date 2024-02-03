@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music, featuring RADAR official artist Peso Pluma on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,439 likes - 47 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,396 likes - 47 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 46 | [Bring It Back](https://open.spotify.com/track/1ZGiu67oe3wt3t6Lqoegqm) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Bring It Back](https://open.spotify.com/album/59nhRrYrcHzI5vs0obptvb) | 2:58 |
 | 47 | [Celebrity Lookalikes](https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Celebrity Lookalikes](https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu) | 3:32 |
 
-Snapshot ID: `MCxiOTg5NmY5NzkwNjU5Nzg2NzdmNmM0ZWFhMTllOTkwNzFlNzUxM2Uw`
+Snapshot ID: `MCxjNTIwMmEwZWMzNTY2ODQ4NjRiNjZlMjNkYTVkZjQwMmE5NDg2YmMz`

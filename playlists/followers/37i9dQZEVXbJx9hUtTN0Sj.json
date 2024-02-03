@@ -1,9 +1,27 @@
 {
-  "2024-02-02": 23061,
+  "2024-02-03": 23057,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belgium.",
   "name": "Viral 50 - Belgium",
   "tracks": [
+    {
+      "album": {
+        "name": "JAAFAR",
+        "url": "https://open.spotify.com/album/4TXF4Dd4S89zzM3VZ8DSpR"
+      },
+      "artists": [
+        {
+          "name": "Rounhaa",
+          "url": "https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156400,
+      "name": "2B2T",
+      "url": "https://open.spotify.com/track/2VECwYev5HIyQ1kURcHYxd"
+    },
     {
       "album": {
         "name": "4x4 merco",
@@ -395,7 +413,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 189573,
       "name": "Hypnagogic",
       "url": "https://open.spotify.com/track/2K2DuY8cgFXw0CbSk9RTVx"
@@ -479,7 +497,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 149250,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV"
@@ -519,6 +537,24 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
       "album": {
@@ -700,6 +736,32 @@
     },
     {
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220584,
+      "name": "n\u00e9e-nah",
+      "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
+    },
+    {
+      "album": {
         "name": "Ghetto Fabulous",
         "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
       },
@@ -795,7 +857,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-02",
       "duration_ms": 238653,
       "name": "Popcorn Sal\u00e9",
       "url": "https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH"

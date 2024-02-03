@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 150269,
       "name": "A New Leaf",
       "url": "https://open.spotify.com/track/6EdBagK4kqITdw34mBzTof"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 225906,
       "name": "Baby Lee",
       "url": "https://open.spotify.com/track/1WvDNX2WrUppAFBKO7aYA5"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 229150,
       "name": "Blues Before Sunrise",
       "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 152350,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 133618,
       "name": "Dimples",
       "url": "https://open.spotify.com/track/0zVx5Ao0pMlrZti8WVsbOx"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 181946,
       "name": "Hobo Blues",
       "url": "https://open.spotify.com/track/6SVdBlIXlYwqcbYZSfjJjy"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 145026,
       "name": "I Need Some Money",
       "url": "https://open.spotify.com/track/6vKjJqK3XRQsRn91dsUWAY"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 212120,
       "name": "It Serves Me Right",
       "url": "https://open.spotify.com/track/4a0RlE6Mde0N59OLuBQn42"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 143693,
       "name": "Money",
       "url": "https://open.spotify.com/track/1fStKfM74b9XmJa4YExB1a"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 169600,
       "name": "Moon Is Rising",
       "url": "https://open.spotify.com/track/3WaC3Xx9ipaIAWE6OwpzCF"
@@ -1365,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "Travelin'",
+        "url": "https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145551,
+      "name": "No Shoes",
+      "url": "https://open.spotify.com/track/5hKvkvpH0vd3NyuCuTbZf1"
+    },
+    {
+      "album": {
         "name": "King Of The Boogie",
         "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
       },
@@ -1488,7 +1506,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 198773,
       "name": "Sally Mae",
       "url": "https://open.spotify.com/track/4A7MBEV1l48gijjNN5IdIM"
@@ -1596,7 +1614,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 167400,
       "name": "She's Long, She's Tall, She Weeps Like A Willow Tree",
       "url": "https://open.spotify.com/track/22DUP4yldr66HQPT3n0utz"
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 264026,
       "name": "That's Alright",
       "url": "https://open.spotify.com/track/629O26FoFJ6uYOOK7mwyOI"

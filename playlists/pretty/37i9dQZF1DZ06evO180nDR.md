@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,916 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,950 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 36 | [El Equipo del Terror](https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Equipo del Terror](https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI) | 3:24 |
 | 37 | [Se Te Parte El Alma](https://open.spotify.com/track/6FX1hxjdmuLR4xYalLhZkZ) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [30 Aniversario De Don Miguel Angulo \(Vol\. 1\)](https://open.spotify.com/album/3iEu46MqpFlCcSBGO410nu) | 3:05 |
 | 38 | [70 Calaveras](https://open.spotify.com/track/7ifBr1r11Dt26l4liTr7Ak) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Principio Y El Fin](https://open.spotify.com/album/2FR5MC8QeTPajOyC3XajyH) | 3:02 |
-| 39 | [La Carrucha \(En Vivo\)](https://open.spotify.com/track/7n9KJBLvSgJONM6Ow59fU2) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Carrucha \(En Vivo\)](https://open.spotify.com/album/2vI8Aflm0jIOqszgQuGaTG) | 3:21 |
-| 40 | [El Cache](https://open.spotify.com/track/3gtirxuuJWHJ1kInwCTsbo) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Cache](https://open.spotify.com/album/5XVx3rhlBrWHjXt1D0O3Jz) | 3:17 |
+| 39 | [El Cache](https://open.spotify.com/track/3gtirxuuJWHJ1kInwCTsbo) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Cache](https://open.spotify.com/album/5XVx3rhlBrWHjXt1D0O3Jz) | 3:17 |
+| 40 | [La Carrucha \(En Vivo\)](https://open.spotify.com/track/7n9KJBLvSgJONM6Ow59fU2) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Carrucha \(En Vivo\)](https://open.spotify.com/album/2vI8Aflm0jIOqszgQuGaTG) | 3:21 |
 | 41 | [Quisiera Ser Una Lágrima](https://open.spotify.com/track/09xNyMggKDROc4TYPjiUog) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 3:38 |
 | 42 | [Sentimiento De Dolor](https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:42 |
 | 43 | [Sangre Guerrera](https://open.spotify.com/track/54xui38HClfOPGWvn5ihxN) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Sangre Guerrera](https://open.spotify.com/album/6NmdqOtyUIY4ZuMMf8d0kR) | 4:06 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 48 | [Yo Vengo de Abajo](https://open.spotify.com/track/13I3CFc0m2GrXMxdTBWgst) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Locura Terminal](https://open.spotify.com/artist/6TgsrbRVzTvaXifgu46mjr) | [Yo Vengo de Abajo](https://open.spotify.com/album/3T0u1TBQE1eKyjVMGaRsaG) | 3:21 |
 | 49 | [El jefe Daniel](https://open.spotify.com/track/4zaS7fP43vAvNBxSIw18N6) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:54 |
 | 50 | [Los En\-kush\-ados](https://open.spotify.com/track/4XQTmiEKbwgm1cxnlNrWQ1) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos](https://open.spotify.com/album/4n37w7mhMm0i77CimGTgt0) | 3:18 |
-| 51 | [Chuy Y Mauricio](https://open.spotify.com/track/1FAfQVtINethXcopjgNWqq) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 4:57 |
+| 51 | [El Fin De Nuestro Amor](https://open.spotify.com/track/5IsKvVrgXiO6QEbETwik9X) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Cigarro De Hoja](https://open.spotify.com/album/6OewxwFeK5w70J6oFhi0no) | 2:41 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDAzYjFkZTJhZjgxYWE1NjY2YjUwODFiNGRkMTQxZGM2MQ==`
+Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDA2NzRlZGI2MTZiY2I3MmExZGJmMDkzNDJkNmUzNmVhYQ==`

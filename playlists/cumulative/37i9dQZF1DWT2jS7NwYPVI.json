@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "your rock/alt cheat sheet feat. the 2024 Rock Artists to Watch  | Cover: Jhariah",
+  "description": "your rock/alt cheat sheet feat. the 2024 Rock Artists to Watch  | Cover: Softcult",
   "name": "New Noise",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 114284,
       "name": "3 DAY HEADACHE",
       "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
@@ -2768,7 +2768,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 174900,
       "name": "Bandaid",
       "url": "https://open.spotify.com/track/0C6LlhYKEYyQHjhDfyM2Oh"
@@ -6368,7 +6368,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 154333,
       "name": "Chewed Up",
       "url": "https://open.spotify.com/track/6hz0UeyredFZmDkfDvtEkU"
@@ -6636,6 +6636,24 @@
       "duration_ms": 205826,
       "name": "Cold Inside",
       "url": "https://open.spotify.com/track/38vE20cVHWQ2n3myWww3jw"
+    },
+    {
+      "album": {
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/4OMrhNt4uDO7k44AlkqLJb"
+      },
+      "artists": [
+        {
+          "name": "Death Lens",
+          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197026,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW"
     },
     {
       "album": {
@@ -8220,7 +8238,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 145714,
       "name": "DEADBEAT - demo",
       "url": "https://open.spotify.com/track/3COVhNcQ71ZyAxHyM1xiK4"
@@ -8830,7 +8848,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 152977,
       "name": "DIVE",
       "url": "https://open.spotify.com/track/38iUwJCWrz1EEUSt6AFWDA"
@@ -10343,6 +10361,24 @@
     },
     {
       "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/1QO1HlCWGZgozbDy0AsW8b"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138679,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/265WBgFx8YH6lGFN4CS6fh"
+    },
+    {
+      "album": {
         "name": "Eulogy",
         "url": "https://open.spotify.com/album/1yoLIxqTVxN9O5U5KmwIIj"
       },
@@ -10761,6 +10797,24 @@
     },
     {
       "album": {
+        "name": "FACETIME",
+        "url": "https://open.spotify.com/album/5pZq3XZDSKXQahKz9eCiTS"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "FACETIME",
+      "url": "https://open.spotify.com/track/2Yj6z7338KEuVa2YxU2vqk"
+    },
+    {
+      "album": {
         "name": "Faded Out (feat. Within Temptation)",
         "url": "https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW"
       },
@@ -11070,6 +11124,24 @@
       "duration_ms": 201824,
       "name": "Fears",
       "url": "https://open.spotify.com/track/35Mq9Ua578OgQ2dLwOqcoV"
+    },
+    {
+      "album": {
+        "name": "February",
+        "url": "https://open.spotify.com/album/2PZ6t16zWlyKvQDp1SBAZq"
+      },
+      "artists": [
+        {
+          "name": "Deux Visages",
+          "url": "https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232665,
+      "name": "February",
+      "url": "https://open.spotify.com/track/1qrUGw2NFIJinugQpN4Csk"
     },
     {
       "album": {
@@ -13909,6 +13981,28 @@
     },
     {
       "album": {
+        "name": "Happy Ending",
+        "url": "https://open.spotify.com/album/50k91pmxOCFAl9vqQj3P4V"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hayes",
+          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
+        },
+        {
+          "name": "sophie meiers",
+          "url": "https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161566,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/1l1eXQ1g5Wj0hd17smIWpU"
+    },
+    {
+      "album": {
         "name": "Hard Drive Gold",
         "url": "https://open.spotify.com/album/4MoggHMYwUsCyuz0sYkxkR"
       },
@@ -14104,7 +14198,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 242515,
       "name": "Haunt You Still",
       "url": "https://open.spotify.com/track/2Kgnj7OQEdaiFIayFmplKC"
@@ -19968,7 +20062,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 201390,
       "name": "Limousine",
       "url": "https://open.spotify.com/track/3lqHuM3Fx4tqG2WYRY7RUM"
@@ -22612,6 +22706,24 @@
       "duration_ms": 198486,
       "name": "Monsters (feat. Aaron Gillespie of Underoath)",
       "url": "https://open.spotify.com/track/26bgULl57xDw3Pska642zL"
+    },
+    {
+      "album": {
+        "name": "Mood Ring",
+        "url": "https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177080,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T"
     },
     {
       "album": {
@@ -28615,6 +28727,24 @@
     },
     {
       "album": {
+        "name": "S!CK",
+        "url": "https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192734,
+      "name": "S!CK",
+      "url": "https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB"
+    },
+    {
+      "album": {
         "name": "S.O.S.",
         "url": "https://open.spotify.com/album/0KiAemTyG7SKZXmbIS9wC9"
       },
@@ -29633,6 +29763,24 @@
     },
     {
       "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/6t47PKgr6IyjVsqN5zb1yB"
+      },
+      "artists": [
+        {
+          "name": "Normandie",
+          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232484,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/0NYtFtXrsrONbVuhvvhm74"
+    },
+    {
+      "album": {
         "name": "Settled Accounts",
         "url": "https://open.spotify.com/album/40vmturVgi5PpqT5O0Ultv"
       },
@@ -29988,6 +30136,24 @@
       "duration_ms": 138086,
       "name": "Shooting Star (feat. Sum 41)",
       "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
+    },
+    {
+      "album": {
+        "name": "Shortest Fuse",
+        "url": "https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220649,
+      "name": "Shortest Fuse",
+      "url": "https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c"
     },
     {
       "album": {
@@ -31218,7 +31384,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 181267,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3GE4nEO4GiELDyiE3gtkNH"
@@ -33146,7 +33312,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 228544,
       "name": "Tethered",
       "url": "https://open.spotify.com/track/0ZRnv9lXrT1kthOFt0llwy"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,309 likes - 50 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,457 likes - 50 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 12 | [Lesedi](https://open.spotify.com/track/41OIxpy4toVR6sDhYwANB8) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Fako](https://open.spotify.com/artist/4kRL8AsEKtSm09IPyM501J) | [Back To Front EP](https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0) | 8:14 |
 | 13 | [VOICES](https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz), [Simeon](https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x) | [TARU](https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL) | 6:39 |
 | 14 | [Far Away](https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq) | [DJ Odyccy](https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf) | [Far Away](https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d) | 6:59 |
-| 15 | [Life](https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Revolver, Vol\. 3 \(Compiled\)](https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6) | 6:59 |
-| 16 | [It Is Well](https://open.spotify.com/track/4wPGakZ5g4ZjReeTjbo6SA) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Oliphant Gold](https://open.spotify.com/artist/1UeEFhpijQMngJrzoPiPXV), [Romeo ThaGreatWhite](https://open.spotify.com/artist/3ZCdk8KQtyV9ZbB6okOx0Q) | [It Is Well](https://open.spotify.com/album/6hJ2QxpWc8eMbwwOgfFkpY) | 7:10 |
+| 15 | [It Is Well](https://open.spotify.com/track/4wPGakZ5g4ZjReeTjbo6SA) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Oliphant Gold](https://open.spotify.com/artist/1UeEFhpijQMngJrzoPiPXV), [Romeo ThaGreatWhite](https://open.spotify.com/artist/3ZCdk8KQtyV9ZbB6okOx0Q) | [It Is Well](https://open.spotify.com/album/6hJ2QxpWc8eMbwwOgfFkpY) | 7:10 |
+| 16 | [Life](https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Revolver, Vol\. 3 \(Compiled\)](https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6) | 6:59 |
 | 17 | [Hold On](https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl) | [The Groove Experience](https://open.spotify.com/artist/6xZszQP070cZ681YlrZnv2), [Aiyon](https://open.spotify.com/artist/2dRb1V0Dz4vAlL76m2Etwr) | [Hold On](https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP) | 6:57 |
 | 18 | [Amplified Zone](https://open.spotify.com/track/4nfY8k8nVypCCVSVMnui86) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [Amplified Zone](https://open.spotify.com/album/3rvIj2PfEKBmJEmfMikco8) | 7:48 |
 | 19 | [You've Been Missing Me](https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx) | [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [Good Vibes Only E.P](https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN) | 5:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 49 | [Emulate \- Original Mix](https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk) | [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Emulate](https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js) | 7:49 |
 | 50 | [Time To Dance](https://open.spotify.com/track/29ycplqUCPpRNEevsdpEQ7) | [DJ Cleo](https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y) | [Time to Dance](https://open.spotify.com/album/0zP0o4TYEjt3vM9u3SNEXV) | 7:50 |
 
-Snapshot ID: `MCwxZDJlNDNhYjNmZGM2YzNkYjAzZjc2MDc4MTI5ZjUzOWQwZjFlMjE4`
+Snapshot ID: `MCwyNzdjM2Q3ZWE5MmZlNjAyMjYwY2NjY2ExZjE4MTdiNGM0YjhjNjFm`

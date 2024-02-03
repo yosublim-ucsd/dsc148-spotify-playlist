@@ -4,7 +4,7 @@
 
 > This is Keauhou\. The essential tracks, all in one playlist.
 
-30 songs - 1 hr 18 min
+31 songs - 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,10 +20,11 @@
 | [Hoʻoluana](https://open.spotify.com/track/6p73AniAyfcu69ugHM2dGw) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 2:46 | 2024-01-29 |  |
 | [I ke Kō a ke Au](https://open.spotify.com/track/16poM9hMk8lgwI1bnANy1a) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 1:09 | 2024-01-29 |  |
 | [It's a Small World \- Hawaiian Version](https://open.spotify.com/track/7jmFUb4cFl2qzvfODI8Ne0) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Disney Hawaiian Album \~DA BEST!\~](https://open.spotify.com/album/0A7jcBToDjWVYphBypyghi) | 1:46 | 2024-01-29 |  |
+| [Ka Wai ʻApo Lani](https://open.spotify.com/track/7uWxYrzIBhO3MyX2kvgW1s) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 3:28 | 2024-02-02 |  |
 | [Kahiko Kapalama](https://open.spotify.com/track/28dhHrZrhUfthbxjvKWzDY) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Keauhou](https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5) | 2:50 | 2024-01-29 |  |
 | [Kapiʻolani Pāka](https://open.spotify.com/track/33viZQGMaRtqCzBCAD28sd) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Ua Kō, Ua ʻĀina](https://open.spotify.com/album/058d63dGkeAAWpEsHovZov) | 3:08 | 2024-01-29 |  |
 | [Kewalo Uka](https://open.spotify.com/track/5Y7mpD51hYpOhZfit1wuwz) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 3:03 | 2024-01-29 |  |
-| [Koni Au i ka Wai / Ka Ipo Lauaʻe](https://open.spotify.com/track/3NIoUqAtDrrLT8nFpndYmT) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 2:30 | 2024-01-29 |  |
+| [Koni Au i ka Wai / Ka Ipo Lauaʻe](https://open.spotify.com/track/3NIoUqAtDrrLT8nFpndYmT) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 2:30 | 2024-01-29 | 2024-02-03 |
 | [Kuʻu Ipo Onaona](https://open.spotify.com/track/1mkJROOWWEhGilNP9d4pVr) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 3:12 | 2024-01-29 |  |
 | [Lei Pua Melia](https://open.spotify.com/track/1JaviJ1xC3U42tspbEUpDR) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Ua Kō, Ua ʻĀina](https://open.spotify.com/album/058d63dGkeAAWpEsHovZov) | 3:32 | 2024-01-29 |  |
 | [Maui](https://open.spotify.com/track/7cZpEshCy8Ncbd6jIDXbux) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Ua Kō, Ua ʻĀina](https://open.spotify.com/album/058d63dGkeAAWpEsHovZov) | 3:04 | 2024-01-29 |  |

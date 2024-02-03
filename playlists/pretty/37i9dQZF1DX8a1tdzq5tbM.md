@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,475,258 likes - 120 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,475,627 likes - 120 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 16 | [Love Is Gone \- Fred Riester & Joachim Garraud Radio Edit Remix](https://open.spotify.com/track/2MGRnjJc7C0z3EOEWRqcMw) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Chris Willis](https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly), [Fred Riesterer](https://open.spotify.com/artist/2oBWpcv8MNPflTzyxZ8zVU), [Joachim Garraud](https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2) | [Pop Life](https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG) | 3:19 |
 | 17 | [Sun Is Up](https://open.spotify.com/track/1TtteYFQeZfSU8AmfIAOvu) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [I Am the Club Rocker](https://open.spotify.com/album/7LUW42pRwoFJV3bIFeliVJ) | 3:44 |
 | 18 | [Harder, Better, Faster, Stronger](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:44 |
-| 19 | [Changed the Way You Kiss Me \- Radio Edit](https://open.spotify.com/track/1PAYgOjp1c9rrZ2kVQg2vN) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Playing In The Shadows](https://open.spotify.com/album/0oxZteBM3NJPbNnBMLjPhN) | 3:15 |
-| 20 | [For An Angel \- PVD Angel In Heaven Radio Edit](https://open.spotify.com/track/2zI4py4xY6v4vIrAlR6GtP) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [For An Angel](https://open.spotify.com/album/0EKap5LIE39RLZoknkiZOl) | 3:53 |
+| 19 | [For An Angel \- PVD Angel In Heaven Radio Edit](https://open.spotify.com/track/2zI4py4xY6v4vIrAlR6GtP) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [For An Angel](https://open.spotify.com/album/0EKap5LIE39RLZoknkiZOl) | 3:53 |
+| 20 | [Changed the Way You Kiss Me \- Radio Edit](https://open.spotify.com/track/1PAYgOjp1c9rrZ2kVQg2vN) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Playing In The Shadows](https://open.spotify.com/album/0oxZteBM3NJPbNnBMLjPhN) | 3:15 |
 | 21 | [Heaven](https://open.spotify.com/track/0KT6DLAELYSbgfUemzwGPX) | [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT), [Yanou](https://open.spotify.com/artist/5SWX583ExJOL7cv8572Crs), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Heaven](https://open.spotify.com/album/15UjVcCwrMwAEPzAoVrZ55) | 3:55 |
 | 22 | [Heads Will Roll \- A\-Trak Remix Radio Edit](https://open.spotify.com/track/0vBpyfpW2lARGh3AZFtWRi) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll](https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV) | 3:23 |
 | 23 | [Call On Me \- Radio Edit](https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me](https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587) | 2:49 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 119 | [Me and Myself \(Wolfgang Gartner Radio Edit\)](https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV) | [Bendj Feat Sushy](https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 2:52 |
 | 120 | [Behind \- Callea Radio Mix](https://open.spotify.com/track/2hS4wCi2VAV8CdsLPnWIoD) | [Flanders](https://open.spotify.com/artist/70ZMFdCGEInTJ0z9KtXQ2u) | [Behind](https://open.spotify.com/album/2ZbVWuSdf3uR01YlBSH06M) | 3:40 |
 
-Snapshot ID: `MCxhMDUzNGVmMWVlOWJkNGNjNWU3ZTQ5Y2ZmNmQwYzQ1YjZjMWRiNzc3`
+Snapshot ID: `MCw3YjgxNjFjYTNjMjUxMzZkY2I1NjIzYWEyNGY3YWZhOGU1NzdhYWQ3`

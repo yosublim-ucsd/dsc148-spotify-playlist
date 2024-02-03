@@ -2,9 +2,9 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> Nothing but the best in modern country music\. Cover: Wyatt Flores
+> This month, we’re celebrating the essence of Black culture across the world\. Discover more Black artists and their contributions <a href="spotify:genre:0JQ5DAqbMKFF9bY76LXmfI">here.</a> Cover: Dax
 
-616 songs - 1 day 9 hr 19 min
+618 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Keys To The Country](https://open.spotify.com/track/0GAHCJXiCkvXFa42M6Hp1t) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [RVSHVD](https://open.spotify.com/artist/0FGMX9hl8ori323qECqqGq), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [Keys To The Country](https://open.spotify.com/album/03uxY62nf28m1AQLgYWmzT) | 3:12 | 2021-12-31 | 2022-01-08 |
 | [Kinda Bar](https://open.spotify.com/track/3nQMjaLYxQHD1qEYkovZyo) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Kinda Bar](https://open.spotify.com/album/6M3sZd68dyKV2Q9gvWpSYj) | 3:16 | 2023-03-24 | 2023-04-29 |
 | [Knock Off](https://open.spotify.com/track/4OFyzhB3z7NI9LHk1imE5E) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Knock Off](https://open.spotify.com/album/3lGl8LGBSvrLvv89wFpy6y) | 3:04 | 2022-07-08 | 2023-02-11 |
-| [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2023-02-03 |  |
+| [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2023-02-03 | 2024-02-03 |
 | [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 | 2022-02-18 | 2022-07-23 |
 | [Last Rodeo](https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES) | 3:15 | 2023-10-20 |  |
 | [Last Time Last](https://open.spotify.com/track/09pr49bPWb2OKkDSvxKn2s) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu), [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Last Time Last](https://open.spotify.com/album/0N4b2e4iIY4uIKUI7kikks) | 3:03 | 2023-02-17 | 2023-04-15 |
@@ -464,7 +464,7 @@
 | [Somethin' Bout You](https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Somethin' Bout You](https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS) | 2:36 | 2022-08-26 | 2022-12-31 |
 | [Something Else Tonight](https://open.spotify.com/track/5Gon2vLFHAGRksvNm61KCe) | [Buck Twenty](https://open.spotify.com/artist/2qcJRDDUhoE32dwaMnnBgq) | [Something Else Tonight](https://open.spotify.com/album/2hAbjhKIiaEIiL6NGKoVyH) | 2:55 | 2022-02-11 | 2022-04-29 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-05-06 | 2023-01-28 |
-| [Something's Gonna Kill Me](https://open.spotify.com/track/2VrxL3FS3m7KLzfOHUPqOx) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Blacktop](https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi) | 3:03 | 2023-12-15 |  |
+| [Something's Gonna Kill Me](https://open.spotify.com/track/2VrxL3FS3m7KLzfOHUPqOx) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Blacktop](https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi) | 3:03 | 2023-12-15 | 2024-02-03 |
 | [Something’s Coming](https://open.spotify.com/track/4F17nB9GKTSPfocx9D7jHx) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [One Night in Nashville](https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep) | 2:53 | 2023-01-27 | 2023-02-11 |
 | [Sometimes I Do](https://open.spotify.com/track/3lycj6fr2UvI9AxxiXl6KN) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Sometimes I Don't, But Sometimes I Do](https://open.spotify.com/album/04T10wxNIyG6jaFQnTaPiA) | 3:23 | 2021-12-31 | 2022-02-12 |
 | [Sometimes She Stays](https://open.spotify.com/track/0YyhcqBtNVFppSW6LOXJXU) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Damn Love](https://open.spotify.com/album/7mmVEoq1bAhpr3H5maA0T1) | 3:59 | 2023-04-28 | 2023-09-30 |
@@ -476,6 +476,7 @@
 | [Sorry](https://open.spotify.com/track/23eLnI8GBwNOVQJJmhbLpS) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Russell Dickerson](https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8) | 3:08 | 2022-11-11 | 2022-12-31 |
 | [South On Ya](https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [South On Ya](https://open.spotify.com/album/2bnuOCorMF9NzCFQegmfnC) | 2:51 | 2021-12-31 | 2022-02-19 |
 | [Southern and Slow](https://open.spotify.com/track/5tAoi3TfoWB4esWc5hlLJ8) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Southern and Slow](https://open.spotify.com/album/4GECpyeTQzYCPShc1Xs3cT) | 3:07 | 2023-08-11 | 2023-11-11 |
+| [Spin You Around \(1/24\)](https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Spin You Around \(1/24\)](https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It) | 3:29 | 2024-02-02 |  |
 | [Spoonful \- Spotify Singles](https://open.spotify.com/track/2g3tvzbWHcrP2I1IH4TDaC) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 2:25 | 2023-03-17 | 2023-04-29 |
 | [Spotless \(feat\. The Lumineers\)](https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 2:49 | 2023-09-01 |  |
 | [Stand By Me \(feat\. Morgan Wallen\)](https://open.spotify.com/track/1fXnu2HzxbDtoyvFPWG3Bw) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 3:39 | 2023-05-26 | 2023-11-25 |
@@ -528,6 +529,7 @@
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/5c37mE38KCxduL41dwsdwg) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/7a7203P5zJNwU8ASjhbIzz) | 2:50 | 2022-02-11 | 2022-03-30 |
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 | 2021-12-31 | 2022-02-12 |
 | [This Fire](https://open.spotify.com/track/4chRIgxhQTCpVkSY0a7nDX) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [FLOWER SHOPS \(THE ALBUM\): Two Dozen Roses](https://open.spotify.com/album/50uRwBAbSJNhpdgpFf9NQr) | 3:02 | 2023-02-10 | 2023-03-11 |
+| [This Heart](https://open.spotify.com/track/1KtQmheytoTI6kOM8yCowf) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [This Heart](https://open.spotify.com/album/1AEpYbXIt9lp2hRK7Qqk9F) | 3:06 | 2024-02-02 |  |
 | [This Ol' Rodeo](https://open.spotify.com/track/4IhE9UIoeY1kzdIEJk5AfF) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [This Ol' Rodeo](https://open.spotify.com/album/1yjrPK4BGFnfdZWmJpypsl) | 4:18 | 2023-12-15 |  |
 | [This Town's Been Too Good To Us](https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [This Town's Been Too Good To Us](https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol) | 3:11 | 2023-08-25 |  |
 | [Three Whiskeys And The Truth](https://open.spotify.com/track/2PMtsOOk1JD7yGT7E1ZK6Q) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:53 | 2022-09-16 | 2022-12-31 |

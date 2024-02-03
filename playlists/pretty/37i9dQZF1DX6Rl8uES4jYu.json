@@ -1,13 +1,37 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 236313,
+  "num_followers": 236274,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmFmODc0ZGFkMzkzMGIwYTM2NTZmZGIxZjFkMmVkNzgwMTQyNTNl",
+  "snapshot_id": "MCw0Y2E2ZjRlNzBiM2Y3NjA0NGQzMTY0NjM5MjFlMDU4MzQ0NjFhYWJh",
   "tracks": [
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "All Ur Luv",
+        "url": "https://open.spotify.com/album/1KrS7daFwtHSyT5aPsI0so"
+      },
+      "artists": [
+        {
+          "name": "Wavedash",
+          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
+        },
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 161771,
+      "name": "All Ur Luv",
+      "url": "https://open.spotify.com/track/3K1RnBxBkrMwoBE8gC63eY"
+    },
     {
       "added_at": "2024-01-26 05:01:00",
       "album": {
@@ -1719,26 +1743,6 @@
       "duration_ms": 215397,
       "name": "Too Much (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Turn Up",
-        "url": "https://open.spotify.com/album/0LPcMt88koQMtVEhy3aS85"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        },
-        {
-          "name": "The Futuristics",
-          "url": "https://open.spotify.com/artist/0qiu2HDyU3u01mZXg5zS7t"
-        }
-      ],
-      "duration_ms": 141002,
-      "name": "Turn Up",
-      "url": "https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI"
     },
     {
       "added_at": "2022-09-09 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,995 likes - 69 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,032 likes - 69 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 45 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY) | 2:27 |
 | 46 | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet) | 3:22 |
 | 47 | [What's Luv? \(feat\. Ja\-Rule & Ashanti\)](https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Jealous Ones Still Envy \(J.O.S.E\)](https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI) | 4:27 |
-| 48 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
+| 48 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
 | 49 | [One Of The Girls](https://open.spotify.com/track/54XqJ3fP3GxmUejMsKwCaK) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [One of the Girls](https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR) | 4:04 |
 | 50 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 51 | [Don't Gas Me](https://open.spotify.com/track/5OnNFaUjue55aBaKIaT63K) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [Don't Gas Me](https://open.spotify.com/album/40s9ebO3BAEye8KqbIM8tU) | 3:47 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 68 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
 | 69 | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA) | 2:27 |
 
-Snapshot ID: `MCxhNzFiMDNlZTBlMTRiNzYwN2NjMWFlODE2ZTg4ZDRhMjE0ZTgwY2Uz`
+Snapshot ID: `MCxhMjk2NjJmYzFlYjBkMWYzY2EzYTgyOGIxMTI0ZjMyODU5MjEyNTc5`

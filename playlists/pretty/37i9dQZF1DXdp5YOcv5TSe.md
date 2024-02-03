@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Currently curated by: G2 CS2
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,297 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,489 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 9 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 |
 | 10 | [Детство](https://open.spotify.com/track/5snCfoQbJ7S4cYB0K8XuJ4) | [Rauf & Faik](https://open.spotify.com/artist/0a3zDmrvmZcORfPeONPvfL) | [Я люблю тебя](https://open.spotify.com/album/4WK37rds5vKQcDwZUYQRCB) | 3:08 |
 | 11 | [Armed And Dangerous](https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:49 |
-| 12 | [Celebration Station](https://open.spotify.com/track/25B5fGr9K0VdZJiRFsnMO4) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:15 |
+| 12 | [Celebration Station](https://open.spotify.com/track/25B5fGr9K0VdZJiRFsnMO4) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:15 |
 | 13 | [Жить в кайф](https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 2:54 |
 | 14 | [GREECE \(feat\. Drake\)](https://open.spotify.com/track/35RJhm1pEovTBwnNR0zWad) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [GREECE \(feat\. Drake\)](https://open.spotify.com/album/3O6ywzP5LE5msmuBBTpaIN) | 3:38 |
 | 15 | [Eeee](https://open.spotify.com/track/3bMVSeSOCkppgrhNZYMxZy) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 49 | [Roze](https://open.spotify.com/track/0JNPCThIHsG8zphORbTR16) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Roze](https://open.spotify.com/album/3F380dBX1laVxluSsl2Zf9) | 3:04 |
 | 50 | [Shadow of the Day](https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 4:49 |
 
-Snapshot ID: `MCwzNDllM2JhOGZkNjdmNjYyMTBlYjFjNTY0ZjM5MzU1ZDA5NTg3YTc5`
+Snapshot ID: `MCw2MjgwZGM5OWQxODUyOTUxYjhjMWMzNzg3OTI5ZGEzMzg3OTY4ZjI4`

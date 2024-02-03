@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Barbara Doza\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,635 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,621 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Tony](https://open.spotify.com/track/587WW2sHutRqHswttMO1oE) | [Justo Antes de la Guerra con los Esquimales](https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor) | [Ciclos](https://open.spotify.com/album/39cJ89qNaFHypKcucHwMfc) | 3:08 |
 | 50 | [S](https://open.spotify.com/track/30ghOYdKMhyQWB3z8Nu4tA) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [ECDYSIS](https://open.spotify.com/album/49fHV6gmYe5veZvrjOH0S4) | 1:26 |
 
-Snapshot ID: `MCwxZmQzOTNhYmI5NThhNTk2N2VmNTE1MGE1ZjliZDhhZDk2MDc0MDcw`
+Snapshot ID: `MCxhM2JkMjkzZDQ2YWJmZWYwNWYxN2M3MTI1Zjc2YTlhYTI5ZDljYzY1`

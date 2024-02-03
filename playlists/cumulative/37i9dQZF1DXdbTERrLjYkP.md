@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: Livingston
+> Discover the next wave of talent on the scene writing their own songs\. Cover: Rachel Grae
 
-614 songs - 1 day 8 hr 39 min
+617 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [2%](https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later](https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE) | 3:27 | 2022-02-11 | 2022-09-03 |
 | [26](https://open.spotify.com/track/0zKy4AWNNcQkeb8z15tixl) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [26](https://open.spotify.com/album/02zFvHEB9r68XIMpGdKjZv) | 3:08 | 2022-06-03 | 2022-08-06 |
 | [3 Months](https://open.spotify.com/track/5tIlUGPdbicQEDxzxD75ap) | [Lily Kincade](https://open.spotify.com/artist/0NODVk6hwl48KNw9cfeT3c) | [3 Months](https://open.spotify.com/album/37Gx1RWOu7T6O2QmU3j0Yj) | 4:30 | 2023-02-03 | 2023-07-15 |
-| [30 Loose Ends](https://open.spotify.com/track/78FuGmNfW4xexQE9CYIDg7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [30 Loose Ends](https://open.spotify.com/album/0S3zIJDwpyxu44SQuIeNHJ) | 3:10 | 2023-11-17 |  |
+| [30 Loose Ends](https://open.spotify.com/track/78FuGmNfW4xexQE9CYIDg7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [30 Loose Ends](https://open.spotify.com/album/0S3zIJDwpyxu44SQuIeNHJ) | 3:10 | 2023-11-17 | 2024-02-03 |
 | [405](https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 3:01 | 2023-06-16 | 2023-11-11 |
 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 | 2023-04-28 | 2023-08-19 |
 | [8 Hours](https://open.spotify.com/track/33LB1jDEoWLlre9K8dTftW) | [Anna Hamilton](https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF) | [8 Hours](https://open.spotify.com/album/3hxsVO5zA1zQOCItEBlV6x) | 3:23 | 2022-09-30 | 2022-12-24 |
@@ -138,7 +138,7 @@
 | [Dani](https://open.spotify.com/track/6bghqHHv3lSrGiz97vDyon) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Dani](https://open.spotify.com/album/62pcnIOSyWj3BxniV5T3Ja) | 2:54 | 2023-09-29 | 2024-01-20 |
 | [Daydream](https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf) | 3:09 | 2023-03-10 | 2023-11-11 |
 | [Daydream](https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O) | 3:09 | 2022-07-08 | 2023-04-09 |
-| [Days and Dimes](https://open.spotify.com/track/2ZBbTaqtCYpfnhERuNBRv9) | [Todd Lewis Kramer](https://open.spotify.com/artist/1gzDIi8maUpe3aJ2XTZFIJ) | [Days and Dimes](https://open.spotify.com/album/46fF7PxBuHkvxYiishoI93) | 3:52 | 2023-11-10 |  |
+| [Days and Dimes](https://open.spotify.com/track/2ZBbTaqtCYpfnhERuNBRv9) | [Todd Lewis Kramer](https://open.spotify.com/artist/1gzDIi8maUpe3aJ2XTZFIJ) | [Days and Dimes](https://open.spotify.com/album/46fF7PxBuHkvxYiishoI93) | 3:52 | 2023-11-10 | 2024-02-03 |
 | [December](https://open.spotify.com/track/5auXfNefGlbDshn2LRddWx) | [Maddy Hicks](https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ) | [December](https://open.spotify.com/album/2fFk1GSqpz5w34ffUWShRN) | 2:21 | 2022-12-23 | 2023-04-01 |
 | [DECLINED](https://open.spotify.com/track/1OvTmyB5Rh9Gn1rqlqgTMY) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [DECLINED](https://open.spotify.com/album/0BVDq72SfkUvDv11NuLyHP) | 4:16 | 2022-04-29 | 2022-10-29 |
 | [Deeper](https://open.spotify.com/track/1R7TJhZujfy7N2fk3wLTrn) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [Deeper](https://open.spotify.com/album/5NPjgNqomchHldXQcN140j) | 2:53 | 2022-07-22 | 2022-12-17 |
@@ -175,6 +175,7 @@
 | [Emma](https://open.spotify.com/track/3KDJyASCak07xkgxvKhjB2) | [Andrew Barth Feldman](https://open.spotify.com/artist/5ulESxWZSX8cw4PI6xgdDG) | [Emma](https://open.spotify.com/album/158IZZsGeaxebU5MMKUF8i) | 4:08 | 2022-01-14 | 2022-03-12 |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 | 2023-01-14 |
 | [End of the Day](https://open.spotify.com/track/1piMjMBuN0NRkoDy9aMD4u) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [End of the Day](https://open.spotify.com/album/2xBbejBQKutWWyCjlJ17Nf) | 3:56 | 2022-06-08 | 2022-08-06 |
+| [Enough of Me](https://open.spotify.com/track/5ypUyCDoZp66D7TagjnJhq) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Enough of Me](https://open.spotify.com/album/0M9JDqqqxKkFyd2WWRsd8C) | 2:28 | 2024-02-02 |  |
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-15 | 2024-01-05 |
 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 | 2022-01-14 | 2022-09-17 |
 | [Everybody Seems to Love You](https://open.spotify.com/track/7glM6QKiCgb0w88hNf0USx) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Things That Are Bad for Me](https://open.spotify.com/album/3MMxyF2JgR2pUD7qwvOnrg) | 3:22 | 2022-11-11 | 2023-01-28 |
@@ -342,6 +343,7 @@
 | [life, im over you](https://open.spotify.com/track/5RQwYJPOkEnl38hFVrylP3) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [we're all sad here](https://open.spotify.com/album/3BEM2nUE9H1v3xyhBgWpbR) | 3:23 | 2022-02-11 | 2022-07-29 |
 | [Like A Record](https://open.spotify.com/track/3E4iFktZ9KH4dzmdrkuRBs) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Like A Record](https://open.spotify.com/album/0hXqrUtkjY8pMlWdlR744M) | 2:45 | 2023-12-01 |  |
 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 | 2022-04-01 | 2022-05-20 |
+| [like i used to](https://open.spotify.com/track/1RoBUQ0gt9T4cff4xQflq3) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [unfamiliar, like i used to](https://open.spotify.com/album/4suJEX0wCdoExjzxVZFkso) | 2:35 | 2024-02-02 |  |
 | [Like Me, Like Me](https://open.spotify.com/track/4O49IKbCszP1tUKQFhJ2xS) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Like Me, Like Me](https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO) | 2:25 | 2023-08-11 | 2023-12-14 |
 | [Little Bit More](https://open.spotify.com/track/6rG1DdPCTzGibgHliYJ4ws) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Little Bit More](https://open.spotify.com/album/0Fb8tXgVncpgZgUeuOiDlF) | 3:00 | 2022-10-28 | 2022-12-24 |
 | [Locked Up Never Fade](https://open.spotify.com/track/30DYH6JwOhWdGwrQfU2U55) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Locked Up Never Fade](https://open.spotify.com/album/54vZ2lPCS9hCzSERgIG3z8) | 5:24 | 2024-01-05 |  |
@@ -404,7 +406,7 @@
 | [nice pup](https://open.spotify.com/track/44ZzrQnqhQt3bAOOJ9iQbE) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [puppy luv](https://open.spotify.com/album/24MK23qVssP0WYEeb6lbYq) | 2:43 | 2022-04-08 | 2022-04-23 |
 | [Nights Like This](https://open.spotify.com/track/41UhyBzOfsI1mqBviJq6AN) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Nights Like This](https://open.spotify.com/album/5GuZOIH7CAgK0WrPIn5uAi) | 2:22 | 2022-01-14 | 2022-02-19 |
 | [Nighttime Routine](https://open.spotify.com/track/2KgwVET4EKMAXGkQUGR6lF) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [Nighttime Routine](https://open.spotify.com/album/6h5PaMV7R6ItjrEXtC3Yxc) | 3:10 | 2023-03-03 | 2023-08-12 |
-| [No Apologies 1.9 V2\_demo](https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [No Apologies 1.9 V2\_demo](https://open.spotify.com/album/4P3LN32enOHhgI4BNnHguS) | 2:07 | 2023-12-15 |  |
+| [No Apologies 1.9 V2\_demo](https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [No Apologies 1.9 V2\_demo](https://open.spotify.com/album/4P3LN32enOHhgI4BNnHguS) | 2:07 | 2023-12-15 | 2024-02-03 |
 | [No Wonder](https://open.spotify.com/track/26E7c125wkzIcTSBdC8th3) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [No Wonder](https://open.spotify.com/album/6RJuDAODnxAKIkXTxNhKHx) | 3:21 | 2022-11-25 | 2023-02-04 |
 | [NOT AGAIN](https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [NOT AGAIN](https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ) | 3:36 | 2022-05-27 | 2022-07-23 |
 | [Not For Me](https://open.spotify.com/track/1mHcikpSNzkFdhYNctCsJy) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Not For Me](https://open.spotify.com/album/6TFlN4zjEzMthBNYleuAJg) | 3:46 | 2022-01-14 | 2022-03-05 |
@@ -422,6 +424,7 @@
 | [parasite](https://open.spotify.com/track/5uryeSMcKUDIFVakxsjg6o) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [runaway](https://open.spotify.com/album/0BFInEkCDlkmq5R7pNaDLr) | 3:15 | 2023-02-24 | 2023-03-25 |
 | [Paris](https://open.spotify.com/track/5B0j050zKYeRndttYP1zuH) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Where the Redwoods Meet the Sea](https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH) | 3:35 | 2022-10-28 | 2022-12-24 |
 | [Past Life](https://open.spotify.com/track/5Y5GCQcDkcndKKiKel6tK8) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [Past Life](https://open.spotify.com/album/1dTTM2vQpUbvmEYaMAS0rm) | 3:38 | 2022-07-15 | 2022-12-03 |
+| [past life](https://open.spotify.com/track/7IwCpLayJZ4lHXyNyzXdj9) | [Tony22](https://open.spotify.com/artist/72WtJOdm9BlSXYm1Xd0Drm) | [divine order](https://open.spotify.com/album/6Id2sfMIk4lVQRuBMgWMzN) | 2:14 | 2024-02-02 |  |
 | [Peaked In High School](https://open.spotify.com/track/2iZ7QhJdX5jlkJFk636wuu) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Peaked In High School](https://open.spotify.com/album/7KVwTd8XEzs4AapEn192w5) | 2:39 | 2022-01-14 | 2022-03-12 |
 | [People Can Change](https://open.spotify.com/track/0dtysSew3Hb1o8e4h1IPSz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [People Can Change](https://open.spotify.com/album/5VR3ZzZuM7c4LaHu1vjOBV) | 2:49 | 2022-07-15 | 2022-09-17 |
 | [people grow apart, people let me down](https://open.spotify.com/track/3wYXq5vKK4fhG15V6rklbS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [people grow apart, people let me down](https://open.spotify.com/album/7wKFa6pRf1IHLZOVADIqua) | 3:09 | 2023-02-03 | 2023-03-25 |

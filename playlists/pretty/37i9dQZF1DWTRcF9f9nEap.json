@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 87029,
+  "num_followers": 87077,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDMwYzE4YTA2Mzg3YTZlYzY0MDVlZTVkM2FjOTYzNWMyOGJhZTc4",
+  "snapshot_id": "MCw5ZGRmZTMwNzM3OThlNzU3OWU3ZDBmMTY3Y2FkYzk2OTc0N2QyNTgz",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -383,22 +383,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "An Anthology",
-        "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         },
         {
-          "name": "Duane Allman",
-          "url": "https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 232507,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
+      "duration_ms": 271133,
+      "name": "I\u2019m In The Mood (feat. Bonnie Raitt)",
+      "url": "https://open.spotify.com/track/5ZMRMaydpaWtuxlNFx9D6n"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -415,6 +415,26 @@
       "duration_ms": 166400,
       "name": "The Sky Is Crying",
       "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "An Anthology",
+        "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Duane Allman",
+          "url": "https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m"
+        }
+      ],
+      "duration_ms": 232507,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -451,26 +471,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 271133,
-      "name": "I\u2019m In The Mood (feat. Bonnie Raitt)",
-      "url": "https://open.spotify.com/track/5ZMRMaydpaWtuxlNFx9D6n"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Fantastic Negrito Deluxe EP",
         "url": "https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 160453,
       "name": "Night Has Turned to Day",
       "url": "https://open.spotify.com/track/4EtG28bl2zEehPhPsNgc8K"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 269600,
+      "name": "Give It Up or Let Me Go - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -531,22 +547,6 @@
       "duration_ms": 135106,
       "name": "Talk To Me Baby (I Can\u2019t Hold Out)",
       "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 269600,
-      "name": "Give It Up or Let Me Go - 2008 Remaster",
-      "url": "https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr"
     },
     {
       "added_at": "2023-01-16 21:05:55",

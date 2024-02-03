@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Feyj\u00e3o, Ferrugem, Thiaguinho",
+  "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Bryan Behr",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 251611,
       "name": "31",
       "url": "https://open.spotify.com/track/5mJbLqzvoRio2PeuuPcUuU"
@@ -104,6 +104,28 @@
       "duration_ms": 207141,
       "name": "A BELEZA \u00c9 VOC\u00ca MENINA",
       "url": "https://open.spotify.com/track/7rNhzJJQaO1CQwDYsejFGP"
+    },
+    {
+      "album": {
+        "name": "Mais Uma Hist\u00f3ria de Amor",
+        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
+      },
+      "artists": [
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "A Gente Tem Tudo a Ver",
+      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
     },
     {
       "album": {
@@ -1045,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Balada do Amor Inabal\u00e1vel",
+        "url": "https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142144,
+      "name": "Balada do Amor Inabal\u00e1vel",
+      "url": "https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB"
+    },
+    {
+      "album": {
         "name": "Trilhas",
         "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
       },
@@ -1060,6 +1100,24 @@
       "duration_ms": 228231,
       "name": "Barquinho de papel",
       "url": "https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX"
+    },
+    {
+      "album": {
+        "name": "Beijos de artif\u00edcio",
+        "url": "https://open.spotify.com/album/3CFAqEIXUM7AFu4gngcwQw"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232331,
+      "name": "Beijos de artif\u00edcio",
+      "url": "https://open.spotify.com/track/7ePoRoOa6Xl2IsvaZfyeeA"
     },
     {
       "album": {
@@ -7070,7 +7128,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 158464,
       "name": "Perigo",
       "url": "https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K"
@@ -9142,7 +9200,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 225501,
       "name": "Tela Crua",
       "url": "https://open.spotify.com/track/3w7DZzCH9557MSCAcC3AHL"

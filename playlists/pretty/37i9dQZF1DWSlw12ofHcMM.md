@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 
 > Bold tracks packing some serious swagger.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,345,454 likes - 112 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,345,353 likes - 112 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 10 | [LUCKY PENNY](https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [LUCKY PENNY](https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P) | 3:34 |
 | 11 | [Beat the Devil's Tattoo](https://open.spotify.com/track/61OOEzfcJvTLHhFiLZOGRN) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII) | 3:45 |
 | 12 | [Stand For Myself](https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:13 |
-| 13 | [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 |
+| 13 | [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 |
 | 14 | [Hard Time](https://open.spotify.com/track/3gFS9CKU70Wm7vAoA0O1uW) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Pretend](https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz) | 3:29 |
 | 15 | [Horns](https://open.spotify.com/track/49qEikVVPd6PgH6S2pbXjZ) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Heaven on Hold](https://open.spotify.com/album/7fSY1tKb1rwaUagnAyuvLi) | 3:37 |
 | 16 | [Fistfight](https://open.spotify.com/track/0VwbDv2jhx1rJhAFYufHEW) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Paper Crown](https://open.spotify.com/album/6SZ8LmrpZfJofLgriF6yIZ) | 3:44 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 63 | [NFWMB](https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:19 |
 | 64 | [Everybody Walkin' This Land](https://open.spotify.com/track/7kTV0hr6wnq7qfrAqbgy7N) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Have Mercy](https://open.spotify.com/album/66SziYQExXiFkuRTeqqLR1) | 3:06 |
 | 65 | [Different Kind Of Love](https://open.spotify.com/track/5gy7tyFsQIFcxMajZlghLD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Silences](https://open.spotify.com/album/4nneOM4v04jUA5AROq5qr3) | 3:24 |
-| 66 | [Down to the River](https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 3:51 |
+| 66 | [Down to the River](https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 3:51 |
 | 67 | [Get Right Church](https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Heavy Load](https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx) | 3:44 |
 | 68 | [Come with Me Now](https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:31 |
 | 69 | [Grave Digger](https://open.spotify.com/track/6UWmNaS12bUJzFBuQB6e7j) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Grave Digger](https://open.spotify.com/album/2QGm9wqX2SSeZNV3kdxHMi) | 3:57 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 111 | [Moonlight](https://open.spotify.com/track/14wY5SJ4WoyMi5GLVeew4c) | [Jeremiah Tall](https://open.spotify.com/artist/11mBQlqUJqZCgqLCKQdhSP) | [Where the Lore Began](https://open.spotify.com/album/3LaoH7HZsER4wBPApBiwa9) | 1:51 |
 | 112 | [Bad Things](https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Jace Everett](https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE) | 2:44 |
 
-Snapshot ID: `MCw1NzkzOTMzZWEwZWY1YzRkMzI0OWJlMmZiMjhmODlhNDE5OTE3OWMw`
+Snapshot ID: `MCw1MDI2YmZkZTQ5ZTM0NDE2NjQ4MzAwNzQ5ZTk1MmRiZTQ1ZDhmMjJk`

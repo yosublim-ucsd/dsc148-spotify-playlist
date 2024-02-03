@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,187 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,202 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,23 +28,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 18 | [Star](https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 3:20 |
 | 19 | [You are My Night](https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Someone's playlist \#7](https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em) | 2:35 |
 | 20 | [Olive](https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv) | [Artinb](https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp) | [Olive](https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL) | 2:09 |
-| 21 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
-| 22 | [안녕 Bye \(feat\. LeeHi\)](https://open.spotify.com/track/4jZ17ywLPwRyu0B0gkCPiV) | [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [안부 Greeting](https://open.spotify.com/album/1RLEVogJMDuU5CJgfaj371) | 6:40 |
-| 23 | [Shadow](https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg) | [Jo eunsae](https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj) | [Shadow](https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q) | 3:27 |
-| 24 | [너는 어떻게 How Did You \(feat\. Yerin Baek\)](https://open.spotify.com/track/3rkH2oQnehYxTA0Vk50D1Z) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [너는 어떻게 How Did You](https://open.spotify.com/album/1s3RA9wdbVXkSVHYPBIk8E) | 4:09 |
-| 25 | [Goodbye](https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Goodbye](https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK) | 4:14 |
+| 21 | [안녕 Bye \(feat\. LeeHi\)](https://open.spotify.com/track/4jZ17ywLPwRyu0B0gkCPiV) | [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [안부 Greeting](https://open.spotify.com/album/1RLEVogJMDuU5CJgfaj371) | 6:40 |
+| 22 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
+| 23 | [Goodbye](https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Goodbye](https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK) | 4:14 |
+| 24 | [Shadow](https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg) | [Jo eunsae](https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj) | [Shadow](https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q) | 3:27 |
+| 25 | [너는 어떻게 How Did You \(feat\. Yerin Baek\)](https://open.spotify.com/track/3rkH2oQnehYxTA0Vk50D1Z) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [너는 어떻게 How Did You](https://open.spotify.com/album/1s3RA9wdbVXkSVHYPBIk8E) | 4:09 |
 | 26 | [SHE](https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [SHE](https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ) | 3:18 |
 | 27 | [Just You](https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [Record of Youth \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt) | 3:45 |
-| 28 | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [여락이들](https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU) | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd) | 3:28 |
-| 29 | [Summer Festa](https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Summer Festa](https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM) | 3:10 |
-| 30 | [What Should I do](https://open.spotify.com/track/4ARhTCA10vYH49DceecURl) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [What Should I do](https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt) | 4:27 |
-| 31 | [넌 You \- 2022 Album Remastered](https://open.spotify.com/track/433VlbJeMs6InuQJZGfYnB) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [숨을 쉰다 breathe breathe](https://open.spotify.com/album/1FmNBXnEFNjsYzw0KcHMIZ) | 3:46 |
-| 32 | [To You](https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:13 |
+| 28 | [Summer Festa](https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Summer Festa](https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM) | 3:10 |
+| 29 | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [여락이들](https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU) | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd) | 3:28 |
+| 30 | [To You](https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:13 |
+| 31 | [What Should I do](https://open.spotify.com/track/4ARhTCA10vYH49DceecURl) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [What Should I do](https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt) | 4:27 |
+| 32 | [넌 You \- 2022 Album Remastered](https://open.spotify.com/track/433VlbJeMs6InuQJZGfYnB) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [숨을 쉰다 breathe breathe](https://open.spotify.com/album/1FmNBXnEFNjsYzw0KcHMIZ) | 3:46 |
 | 33 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
 | 34 | [The Film](https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [The Film](https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq) | 3:16 |
 | 35 | [When It’s Cold](https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [When It's Cold](https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey) | 3:03 |
-| 36 | [beautiful inside](https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/2X9zquczSyputp24lpjLkr) | 3:39 |
-| 37 | [i and i](https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [i and i](https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU) | 2:58 |
+| 36 | [i and i](https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [i and i](https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU) | 2:58 |
+| 37 | [beautiful inside](https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/2X9zquczSyputp24lpjLkr) | 3:39 |
 | 38 | [I Wanna Be With You](https://open.spotify.com/track/5MePbEuuuTGWDJi6UbNFgb) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/0WBqQSi54g3khAPyVTGHhv) | 3:24 |
 | 39 | [버드나무 Willow Tree](https://open.spotify.com/track/0qS4pPDUt33BOb276wUT0H) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [버드나무 Willow Tree](https://open.spotify.com/album/3Yf5uL1IDlFL4Fghq5ypIV) | 4:39 |
 | 40 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 49 | [우리에게 쏟아지는 별들을 Starry Night \(feat\. Ku One Chan\)](https://open.spotify.com/track/5AYbwrmi3OmNXSNoEtCgZi) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry), [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [우리에게 쏟아지는 별들을 Starry Night \(feat\. Ku One Chan\)](https://open.spotify.com/album/0qBs5065OHejWFDLs9Rd87) | 3:40 |
 | 50 | [People](https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 3:25 |
 
-Snapshot ID: `MCxlZTA0OGExNTc3MDhjOGNlZWZlOTk3MGQ3NDFkNmZmZTljNzQ4NzA1`
+Snapshot ID: `MCw2MjYzOTU2YWRmYzExMTliMmIxNTNjNTg5OGM3NTJkMmIxZTdhMWRm`

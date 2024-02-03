@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-2,350 songs - 5 day 5 hr 53 min
+2,351 songs - 5 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1577,7 +1577,7 @@
 | [Point Me To The Slut's](https://open.spotify.com/track/2tu7n1Pxm75szYU3ySCpri) | [Fendi](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy) | [Point Me To The Slut's](https://open.spotify.com/album/56lKFl1PWdU3Hf0X4QYlni) | 2:55 | 2023-06-05 | 2023-06-28 |
 | [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2022-12-27 | 2022-12-29 |
 | [Poison \- Hazbin Hotel Original Soundtrack](https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k) | [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Poison \(Hazbin Hotel Original Soundtrack\)](https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB) | 2:07 | 2024-01-23 |  |
-| [Poison Poison](https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:11 | 2024-01-26 |  |
+| [Poison Poison](https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:11 | 2024-01-26 | 2024-02-03 |
 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-11-01 | 2022-11-16 |
 | [POLARIS \- Remix](https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [POLARIS \(Remix\)](https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv) | 4:48 | 2023-07-04 | 2023-07-06 |
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-02-01 | 2022-03-07 |
@@ -2254,6 +2254,7 @@
 | [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 | 2023-03-17 | 2023-03-26 |
 | [What's Love Got to Do with It \- 2015 Remaster](https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 3:50 | 2023-05-25 | 2023-06-03 |
 | [What's Up Danger \(with Black Caviar\)](https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 3:42 | 2023-06-08 | 2023-06-20 |
+| [Whatever She Wants](https://open.spotify.com/track/1F2YY9lXrRJxAppKaRMGML) | [Rlr Slime](https://open.spotify.com/artist/71ltjO8mWxEALHGt0bbfVZ), [Lil Bryson Tillerr](https://open.spotify.com/artist/1p1Pz5qFGwejLghf94opef) | [Whatever She Wants](https://open.spotify.com/album/1ymOdljx8dHJNxxoOUHV52) | 2:10 | 2024-02-02 |  |
 | [What’s My Name \(with Queen Naija & Coi Leray\)](https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 3:21 | 2022-05-03 | 2022-05-11 |
 | [When It's Cold I'd Like to Die](https://open.spotify.com/track/6sOx5jDVKkQCQp3NfCTd52) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Mimi Goese](https://open.spotify.com/artist/6Ca0p9GECZvcw72fBW5vx3) | [Everything Is Wrong](https://open.spotify.com/album/3XsGQHbPWblti128V5C3QR) | 4:15 | 2022-07-07 | 2022-07-15 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-26 | 2022-04-29 |

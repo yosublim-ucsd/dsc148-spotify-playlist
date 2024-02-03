@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 425235,
+  "num_followers": 425275,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmY4NDllZDMzMDMzNmQ4ZjRkNjQ4ZmQ2ZWU4ZGIwZjQ0MDg3MTQ0",
+  "snapshot_id": "MCw4ZTAxZjMyYmQ3MDczNjk0ZjY1NGY0M2E5N2Y2ZjcwNzRhNmY1ZGFi",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Deceiver",
         "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 268800,
       "name": "Taker",
       "url": "https://open.spotify.com/track/1RlstRnDWwqLhOWtL16Iqy"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Dead Man's Bones",
-        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
-      },
-      "artists": [
-        {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
-        }
-      ],
-      "duration_ms": 270986,
-      "name": "My Body's a Zombie For You",
-      "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Illinois",
         "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 309786,
       "name": "They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!",
       "url": "https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+        }
+      ],
+      "duration_ms": 270986,
+      "name": "My Body's a Zombie For You",
+      "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Services",
-        "url": "https://open.spotify.com/album/4uj1BNKsrRaeis2VjnVfvU"
-      },
-      "artists": [
-        {
-          "name": "Tempers",
-          "url": "https://open.spotify.com/artist/0yIDrFWDGrnVk3FPLJmsX2"
-        }
-      ],
-      "duration_ms": 250211,
-      "name": "Strange Harvest",
-      "url": "https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "High Violet",
         "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 174173,
       "name": "Anyone's Ghost",
       "url": "https://open.spotify.com/track/6NrjC9PUZo2do7aLhkf373"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Services",
+        "url": "https://open.spotify.com/album/4uj1BNKsrRaeis2VjnVfvU"
+      },
+      "artists": [
+        {
+          "name": "Tempers",
+          "url": "https://open.spotify.com/artist/0yIDrFWDGrnVk3FPLJmsX2"
+        }
+      ],
+      "duration_ms": 250211,
+      "name": "Strange Harvest",
+      "url": "https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Sleeping In Your Garden",
-        "url": "https://open.spotify.com/album/2am9dGCCUrwCw1DOX4wiXX"
-      },
-      "artists": [
-        {
-          "name": "Gia Ford",
-          "url": "https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX"
-        }
-      ],
-      "duration_ms": 204029,
-      "name": "Sleeping In Your Garden",
-      "url": "https://open.spotify.com/track/1eG48OpdY0FRJcDlBwqzRi"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Serfs Up!",
         "url": "https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Heart Under",
-        "url": "https://open.spotify.com/album/6zVROv27567N68Hu6EVbxb"
+        "name": "Sleeping In Your Garden",
+        "url": "https://open.spotify.com/album/2am9dGCCUrwCw1DOX4wiXX"
       },
       "artists": [
         {
-          "name": "Just Mustard",
-          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
+          "name": "Gia Ford",
+          "url": "https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX"
         }
       ],
-      "duration_ms": 230133,
-      "name": "I Am You",
-      "url": "https://open.spotify.com/track/1hH8iCAI7si2uM6JGn7Pdl"
+      "duration_ms": 204029,
+      "name": "Sleeping In Your Garden",
+      "url": "https://open.spotify.com/track/1eG48OpdY0FRJcDlBwqzRi"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1131,6 +1115,22 @@
       "duration_ms": 177316,
       "name": "Flood",
       "url": "https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Heart Under",
+        "url": "https://open.spotify.com/album/6zVROv27567N68Hu6EVbxb"
+      },
+      "artists": [
+        {
+          "name": "Just Mustard",
+          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "I Am You",
+      "url": "https://open.spotify.com/track/1hH8iCAI7si2uM6JGn7Pdl"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
-      },
-      "artists": [
-        {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Less",
         "url": "https://open.spotify.com/album/7H0jxA1HMTBK1IbvqJEPuk"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 219133,
       "name": "Duffy's",
       "url": "https://open.spotify.com/track/4lcamfRMk5t5fC2OQ3QfXZ"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
     },
     {
       "added_at": "2023-11-03 23:08:22",

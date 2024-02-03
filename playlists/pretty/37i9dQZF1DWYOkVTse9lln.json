@@ -1,12 +1,12 @@
 {
   "description": "Saca la estrella que llevas dentro.",
-  "num_followers": 714609,
+  "num_followers": 714670,
   "original_name": "Karaoke en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTZhNmVmOTY5M2Q3OTQ4ZmRkMjkyYzNiOGYzMmQyZThkM2RjOTY2",
+  "snapshot_id": "MCxjMjVmMmI1YTI1YWEwODBiN2RlMzZlZDY1MDEwYTljOTFlZWFiZTM5",
   "tracks": [
     {
       "added_at": "2023-10-06 22:33:17",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 226093,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
         "name": "A Coraz\u00f3n Abierto",
         "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
       },
@@ -375,22 +391,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 252346,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Todo Cambio",
         "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
@@ -407,8 +407,24 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
       "artists": [
         {
@@ -416,9 +432,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 161040,
-      "name": "La Media Vuelta",
-      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -439,22 +455,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "La flaca",
+      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
         "name": "Stop",
         "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 238160,
       "name": "T\u00fa de Qu\u00e9 Vas",
       "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Atr\u00e9vete-Te-Te",
-      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 205413,
       "name": "Lim\u00f3n y Sal",
       "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Atr\u00e9vete-Te-Te",
+      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "La Historia Contin\u00faa...Parte IV",
-        "url": "https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 286973,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 203160,
       "name": "La Gozadera (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "La Historia Contin\u00faa...Parte IV",
+        "url": "https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 286973,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Atado A Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Dejar\u00eda Todo",
-      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
         "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 226626,
       "name": "So\u00f1\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Atado A Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Dejar\u00eda Todo",
+      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "Un Siglo Sin Ti",
-      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Mundo Lite",
         "url": "https://open.spotify.com/album/1RaOKsaRdN1H4twh4u6FUd"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 275373,
       "name": "Duele El Amor",
       "url": "https://open.spotify.com/track/0oXLSuno5adlHcPzlzs8l6"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 281026,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "Como Mirarte",
+      "url": "https://open.spotify.com/track/0CXEPVeQDLgDBfvcsQpXq1"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
         "name": "Amar Es Combatir",
         "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 171320,
       "name": "Qu\u00e9 Vida la M\u00eda",
       "url": "https://open.spotify.com/track/0M6KY0x5u65ybXHZ3IAega"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "Como Mirarte",
-      "url": "https://open.spotify.com/track/0CXEPVeQDLgDBfvcsQpXq1"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Bella",
-        "url": "https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe"
-      },
-      "artists": [
-        {
-          "name": "Wolfine",
-          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
-        }
-      ],
-      "duration_ms": 197120,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Haw\u00e1i",
         "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 200197,
       "name": "Haw\u00e1i",
       "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe"
+      },
+      "artists": [
+        {
+          "name": "Wolfine",
+          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
+        }
+      ],
+      "duration_ms": 197120,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Adentro",
-        "url": "https://open.spotify.com/album/3MXgh2NutxVsZvxHaNZG2s"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 228106,
-      "name": "Ping\u00fcinos en la Cama",
-      "url": "https://open.spotify.com/track/5uALDiBIe9EzvRBpJyf5Ce"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Paulina",
         "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 224640,
       "name": "Yo No Soy Esa Mujer",
       "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Adentro",
+        "url": "https://open.spotify.com/album/3MXgh2NutxVsZvxHaNZG2s"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 228106,
+      "name": "Ping\u00fcinos en la Cama",
+      "url": "https://open.spotify.com/track/5uALDiBIe9EzvRBpJyf5Ce"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Vicentico",
-        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
+        "name": "Queremos Rock",
+        "url": "https://open.spotify.com/album/2795kGAwtxyI3kQ7pTkRUW"
       },
       "artists": [
         {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
         }
       ],
-      "duration_ms": 218440,
-      "name": "Algo Contigo",
-      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
+      "duration_ms": 224224,
+      "name": "Ya Lo Ve\u00eda Venir",
+      "url": "https://open.spotify.com/track/55TzaicixkSM6XT23JvIZA"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
+        "name": "Vicentico",
+        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Algo Contigo",
+      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
         "name": "Sigo Siendo Yo",
         "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 302946,
       "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
       "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Queremos Rock",
-        "url": "https://open.spotify.com/album/2795kGAwtxyI3kQ7pTkRUW"
-      },
-      "artists": [
-        {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        }
-      ],
-      "duration_ms": 224224,
-      "name": "Ya Lo Ve\u00eda Venir",
-      "url": "https://open.spotify.com/track/55TzaicixkSM6XT23JvIZA"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -1895,6 +1895,66 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 268600,
+      "name": "Mi Primer Dia Sin Ti",
+      "url": "https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Palabras Del Silencio (Edici\u00f3n Aniversario - Un A\u00f1o Despues)",
+        "url": "https://open.spotify.com/album/5gCxcHCAA50nboku1ks180"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        },
+        {
+          "name": "Noel Schajris",
+          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "Aqui Estoy Yo",
+      "url": "https://open.spotify.com/track/4go2M6us50x9TQ1NvsB4vt"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "Heroe",
+      "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
       },
@@ -1935,62 +1995,18 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
       },
       "artists": [
         {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 268600,
-      "name": "Mi Primer Dia Sin Ti",
-      "url": "https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 263600,
-      "name": "Heroe",
-      "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Palabras Del Silencio (Edici\u00f3n Aniversario - Un A\u00f1o Despues)",
-        "url": "https://open.spotify.com/album/5gCxcHCAA50nboku1ks180"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Aleks Syntek",
-          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
-        },
-        {
-          "name": "Noel Schajris",
-          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "Aqui Estoy Yo",
-      "url": "https://open.spotify.com/track/4go2M6us50x9TQ1NvsB4vt"
+      "duration_ms": 256133,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -2011,22 +2027,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Aerosoul",
         "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
       },
@@ -2039,46 +2039,6 @@
       "duration_ms": 246200,
       "name": "Tocando Fondo",
       "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Rebelde",
-        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
-      },
-      "artists": [
-        {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
-        },
-        {
-          "name": "Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Maite Perroni",
-          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
-        },
-        {
-          "name": "Christian Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
-        },
-        {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
-        },
-        {
-          "name": "Alfonso Herrera",
-          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
-        }
-      ],
-      "duration_ms": 214306,
-      "name": "Rebelde",
-      "url": "https://open.spotify.com/track/56tOMi4N980gmsdUoyaLb3"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -2131,6 +2091,62 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
+        "name": "Un Segundo En El Tiempo",
+        "url": "https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "Es Mejor As\u00ed",
+      "url": "https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "duration_ms": 214306,
+      "name": "Rebelde",
+      "url": "https://open.spotify.com/track/56tOMi4N980gmsdUoyaLb3"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/5WGN7m5BK95GiuafTCL3JQ"
       },
@@ -2163,22 +2179,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Un Segundo En El Tiempo",
-        "url": "https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Es Mejor As\u00ed",
-      "url": "https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Me Ver\u00e1s Volver (Hits & M\u00e1s)",
         "url": "https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb"
       },
@@ -2191,6 +2191,42 @@
       "duration_ms": 213066,
       "name": "De M\u00fasica Ligera - Remasterizado 2007",
       "url": "https://open.spotify.com/track/0Ruvs5IxqkGqQVWCO2oRpw"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Fr\u00edo, Fr\u00edo (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana)",
+        "url": "https://open.spotify.com/album/1ZWyjI1yAFQGQqsQxxFb9S"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "Fr\u00edo, Fr\u00edo - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
+      "url": "https://open.spotify.com/track/2j5dy9SzXdQ71Y2jgtiFAJ"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Nikki Clan (Re-Edicion)",
+        "url": "https://open.spotify.com/album/48A2P7kQGLe0B1aIOujWCP"
+      },
+      "artists": [
+        {
+          "name": "Nikki Clan",
+          "url": "https://open.spotify.com/artist/5U1A3TNJisLnVodHzWjCmL"
+        }
+      ],
+      "duration_ms": 176946,
+      "name": "No Me Digas Que No ( Boy Like You )",
+      "url": "https://open.spotify.com/track/51R40lGpjmBctPsOnu0mBe"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -2223,42 +2259,6 @@
       "duration_ms": 230346,
       "name": "Disparo al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5828oiHxe6DSSAuIrPSeVT"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Nikki Clan (Re-Edicion)",
-        "url": "https://open.spotify.com/album/48A2P7kQGLe0B1aIOujWCP"
-      },
-      "artists": [
-        {
-          "name": "Nikki Clan",
-          "url": "https://open.spotify.com/artist/5U1A3TNJisLnVodHzWjCmL"
-        }
-      ],
-      "duration_ms": 176946,
-      "name": "No Me Digas Que No ( Boy Like You )",
-      "url": "https://open.spotify.com/track/51R40lGpjmBctPsOnu0mBe"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
-        "name": "Fr\u00edo, Fr\u00edo (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana)",
-        "url": "https://open.spotify.com/album/1ZWyjI1yAFQGQqsQxxFb9S"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 235880,
-      "name": "Fr\u00edo, Fr\u00edo - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
-      "url": "https://open.spotify.com/track/2j5dy9SzXdQ71Y2jgtiFAJ"
     },
     {
       "added_at": "2023-10-06 22:33:17",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2023-10-06 22:33:17",
       "album": {
-        "name": "Sigo Siendo Yo",
-        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Vali\u00f3 la Pena - Salsa Version",
-      "url": "https://open.spotify.com/track/4pUmQqaZklcCOB3rFdWc7g"
-    },
-    {
-      "added_at": "2023-10-06 22:33:17",
-      "album": {
         "name": "Coleccion definitiva (Deluxe)",
         "url": "https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 277453,
       "name": "Te lo agradezco, pero no (feat. Shakira)",
       "url": "https://open.spotify.com/track/67g3Wn5bMFDV4qGICl4u6J"
+    },
+    {
+      "added_at": "2023-10-06 22:33:17",
+      "album": {
+        "name": "Sigo Siendo Yo",
+        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "Vali\u00f3 la Pena - Salsa Version",
+      "url": "https://open.spotify.com/track/4pUmQqaZklcCOB3rFdWc7g"
     },
     {
       "added_at": "2023-10-06 22:33:17",

@@ -4,13 +4,13 @@
 
 > Smooth soul\-inspired tracks
 
-487 songs - 1 day 1 hr 36 min
+488 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-14 | 2022-10-01 |
 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 | 2023-08-17 | 2023-09-25 |
-| [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 | 2023-11-17 |  |
+| [21](https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/4C4GoTj4U4QL9awtXxbFYv) | 2:25 | 2023-11-17 | 2024-02-03 |
 | [21](https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho) | 2:25 | 2023-10-06 | 2023-11-05 |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-02-24 | 2023-06-23 |
 | [40 Days](https://open.spotify.com/track/3D7E73Ifkw97wxLStfM12v) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 3:06 | 2023-11-10 |  |
@@ -357,6 +357,7 @@
 | [Room 69](https://open.spotify.com/track/4ISOVR2PoQbWv8s4nMBale) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr) | 3:09 | 2023-02-16 | 2023-02-19 |
 | [Rora](https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Rora](https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC) | 2:23 | 2023-10-13 |  |
 | [Routine Lover](https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Routine Lover](https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj) | 2:48 | 2023-09-29 |  |
+| [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 | 2024-02-02 |  |
 | [Run](https://open.spotify.com/track/1SAxAnhOG0xTh0Gm2Qlsoj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Run](https://open.spotify.com/album/5p5FoOxBxlXv6VjDWJy6Hq) | 2:33 | 2023-02-16 | 2023-05-14 |
 | [Runaway](https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Runaway](https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T) | 3:40 | 2022-06-24 | 2023-02-24 |
 | [Rush](https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [RUSH](https://open.spotify.com/album/6qXJvv0V4AOJN3EHQS0YIl) | 3:40 | 2023-07-28 | 2023-09-29 |

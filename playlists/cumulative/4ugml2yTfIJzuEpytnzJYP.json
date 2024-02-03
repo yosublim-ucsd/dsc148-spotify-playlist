@@ -2535,6 +2535,32 @@
     },
     {
       "album": {
+        "name": "Love Drop",
+        "url": "https://open.spotify.com/album/1OQ8hIELW4uvg58cStDnSd"
+      },
+      "artists": [
+        {
+          "name": "Equanimous",
+          "url": "https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn"
+        },
+        {
+          "name": "HYPERLIGHT",
+          "url": "https://open.spotify.com/artist/6oehyzq3ivxXza1uoSoIi7"
+        },
+        {
+          "name": "K\u00c4T\u0112RI",
+          "url": "https://open.spotify.com/artist/3FUaWBUI4cDMcGItjAMEz7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213395,
+      "name": "Love Drop",
+      "url": "https://open.spotify.com/track/5kWiBobgYb9IHMbKAF14LH"
+    },
+    {
+      "album": {
         "name": "Love Note",
         "url": "https://open.spotify.com/album/3NXDPwCwIyFbZuFIhFIyym"
       },

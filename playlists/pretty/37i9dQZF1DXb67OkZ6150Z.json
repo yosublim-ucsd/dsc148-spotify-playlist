@@ -1,12 +1,12 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Arlo Parks",
-  "num_followers": 288385,
+  "num_followers": 288388,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjJlMDk0MjMwMjI4YzhhY2YyZjFmMTYwZDQ1NDAyMTc2ZmFjODgz",
+  "snapshot_id": "MCw1N2E5NDk1OTkyMTg5N2M5ZTNlYzBlZjVjNmNkMzdiZGFjMDhmOTQx",
   "tracks": [
     {
       "added_at": "2023-10-13 04:00:00",
@@ -61,22 +61,6 @@
       "url": "https://open.spotify.com/track/6bniCXManaPDnCN34waQs6"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 299613,
-      "name": "Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6"
-    },
-    {
       "added_at": "2023-10-13 04:00:00",
       "album": {
         "name": "Put Your Records On",
@@ -91,6 +75,22 @@
       "duration_ms": 210463,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 299613,
+      "name": "Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "The Georgia EP",
         "url": "https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 264160,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Rarities 2",
-        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "The Full Moon Project",
         "url": "https://open.spotify.com/album/0VraDVmjkr0vVjaZqLM7bi"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 409860,
       "name": "Like a Rolling Stone",
       "url": "https://open.spotify.com/track/6nMb0jnVYulCHhe5UpyKBq"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Rarities 2",
+        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1519,38 +1519,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Gente Corriente",
-        "url": "https://open.spotify.com/album/5AnfMJ8UaWOcDm995FN4SZ"
-      },
-      "artists": [
-        {
-          "name": "Jordana B.",
-          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
-        }
-      ],
-      "duration_ms": 211695,
-      "name": "Gente Corriente",
-      "url": "https://open.spotify.com/track/14nR4STG0GeaCLYtlJXjHI"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
-      },
-      "artists": [
-        {
-          "name": "Julia Cooper",
-          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
-        }
-      ],
-      "duration_ms": 191875,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "Music From The Pen Gala 1983",
         "url": "https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg"
       },
@@ -1563,6 +1531,22 @@
       "duration_ms": 211786,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Gente Corriente",
+        "url": "https://open.spotify.com/album/5AnfMJ8UaWOcDm995FN4SZ"
+      },
+      "artists": [
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "duration_ms": 211695,
+      "name": "Gente Corriente",
+      "url": "https://open.spotify.com/track/14nR4STG0GeaCLYtlJXjHI"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
+      },
+      "artists": [
+        {
+          "name": "Julia Cooper",
+          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
+        }
+      ],
+      "duration_ms": 191875,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 226981,
       "name": "Skinny Love - Spotify Singles",
       "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW"
-      },
-      "artists": [
-        {
-          "name": "Azure Ryder",
-          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
-        }
-      ],
-      "duration_ms": 234624,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW"
+      },
+      "artists": [
+        {
+          "name": "Azure Ryder",
+          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
+        }
+      ],
+      "duration_ms": 234624,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe"
       },
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Private Sunshine",
-        "url": "https://open.spotify.com/album/5Plj7fEiMhl9ckOyIuAqE7"
-      },
-      "artists": [
-        {
-          "name": "Lou Hayter",
-          "url": "https://open.spotify.com/artist/4GZ18L0i6k1mxAjo3GzINM"
-        }
-      ],
-      "duration_ms": 219173,
-      "name": "Time Out of Mind",
-      "url": "https://open.spotify.com/track/51xDbIE6lzgnRSoisI5NES"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "I Kissed a Boy",
         "url": "https://open.spotify.com/album/06akyumCnIAtjUQWROLlSv"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 182213,
       "name": "I Kissed a Boy",
       "url": "https://open.spotify.com/track/4dLrxH2Z74hYw0yWet6wpG"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Private Sunshine",
+        "url": "https://open.spotify.com/album/5Plj7fEiMhl9ckOyIuAqE7"
+      },
+      "artists": [
+        {
+          "name": "Lou Hayter",
+          "url": "https://open.spotify.com/artist/4GZ18L0i6k1mxAjo3GzINM"
+        }
+      ],
+      "duration_ms": 219173,
+      "name": "Time Out of Mind",
+      "url": "https://open.spotify.com/track/51xDbIE6lzgnRSoisI5NES"
     },
     {
       "added_at": "2023-10-13 04:00:00",

@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Knocked Loose
 
-411 songs - 23 hr 36 min
+412 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Devastation](https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Devastation](https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU) | 3:41 | 2021-11-30 |  |
 | [Dirty Talk](https://open.spotify.com/track/1U4f6DJeMHNxMjyrrl4ZeO) | [Nicolas Rage](https://open.spotify.com/artist/2zW42doVH9hhAq2RZyA7Vf) | [Dirty Talk](https://open.spotify.com/album/5Fo3NNuzTkmZc22sfLlERT) | 2:40 | 2021-11-30 | 2023-01-16 |
 | [Disassociate](https://open.spotify.com/track/0A61KXiNWA9rJMHllD7yOw) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Disassociate](https://open.spotify.com/album/2kk3zo0UKSlc65KW4UZoC5) | 3:11 | 2021-11-30 | 2022-07-27 |
-| [Disassociate](https://open.spotify.com/track/7f0alEJ3NtU3iqAVrVGAO8) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Gone In Your Wake](https://open.spotify.com/album/0ypAkNPpFt6jUn6u5Q33CC) | 3:11 | 2023-06-20 |  |
+| [Disassociate](https://open.spotify.com/track/7f0alEJ3NtU3iqAVrVGAO8) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Gone In Your Wake](https://open.spotify.com/album/0ypAkNPpFt6jUn6u5Q33CC) | 3:11 | 2023-06-20 | 2024-02-03 |
 | [Disease](https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disease](https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF) | 3:48 | 2021-11-30 |  |
 | [Distance](https://open.spotify.com/track/0wb8L0gFCKBnPHeG8Aw9OX) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Distance](https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA) | 2:59 | 2022-04-01 |  |
 | [Distance](https://open.spotify.com/track/5rW2epXG3Hh9htDz3jURRx) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Distance](https://open.spotify.com/album/7fpmkZLtIePdNA4jiYZKIn) | 2:59 | 2021-11-30 | 2022-07-29 |
@@ -272,6 +272,7 @@
 | [One Love](https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [One Love](https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN) | 3:23 | 2023-01-27 | 2023-05-02 |
 | [Only Apathy](https://open.spotify.com/track/5LdOiLY4RPFGIKsSePM6SD) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Delicate](https://open.spotify.com/album/2QmrpJjOedaEbBr1x2OpSH) | 4:34 | 2021-11-30 | 2022-07-29 |
 | [Only God Forgives](https://open.spotify.com/track/6zoBy8dlWxaa8F3YTtHLzu) | [Sorcerer](https://open.spotify.com/artist/2x8EjPnpXK19ZNVgoWuFAm) | [Only God Forgives](https://open.spotify.com/album/1luGKqSj2M0XJLKHtcegUq) | 2:28 | 2021-11-30 | 2022-06-30 |
+| [Opening Night](https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy) | 2:07 | 2023-06-20 |  |
 | [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 | 2023-02-10 | 2024-01-25 |
 | [Ouija Cult](https://open.spotify.com/track/7iq0SyzrWXWf6Q6taKekkz) | [Vanish](https://open.spotify.com/artist/5ALPIt74KUX3vcfolc7u1W) | [Familiar Faces](https://open.spotify.com/album/3BZWYj6bn9OFNT7b4I7yTL) | 3:08 | 2021-11-30 | 2022-07-20 |
 | [Our Song](https://open.spotify.com/track/4TbQTssne2OMNMureg9Qtt) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me](https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX) | 3:11 | 2022-12-13 |  |

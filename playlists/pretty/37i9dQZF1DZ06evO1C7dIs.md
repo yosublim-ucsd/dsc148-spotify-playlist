@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,550 likes - 51 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,599 likes - 51 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,17 +40,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 30 | [My Walden](https://open.spotify.com/track/3LgWFCHW1eZLZyfylrn88p) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 4:39 |
 | 31 | [Bless The Child](https://open.spotify.com/track/6Z2MwbeouGY1vsLiJfviti) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK) | 6:12 |
 | 32 | [Tribal](https://open.spotify.com/track/5tN4bKhtt6klkkB0GVt9i1) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 3:56 |
-| 33 | [Stargazers](https://open.spotify.com/track/6iB8e72Dgdvrnn4AuvIgmP) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q) | 4:28 |
+| 33 | [Deep Silent Complete](https://open.spotify.com/track/3Fba4XIaDBLFfKrOcsBjsY) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 3:57 |
 | 34 | [Weak Fantasy](https://open.spotify.com/track/3POMZFPzYbV6rYXJN1ozXW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 5:24 |
-| 35 | [Deep Silent Complete](https://open.spotify.com/track/3Fba4XIaDBLFfKrOcsBjsY) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 3:57 |
+| 35 | [Stargazers](https://open.spotify.com/track/6iB8e72Dgdvrnn4AuvIgmP) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q) | 4:28 |
 | 36 | [Turn Loose the Mermaids](https://open.spotify.com/track/7D7jA8A8gFHK7SdmO3oOrM) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 4:19 |
 | 37 | [Pan](https://open.spotify.com/track/1XcTT3XqNalzJMamAiIqOW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:18 |
-| 38 | [Sacrament Of Wilderness](https://open.spotify.com/track/6MNfIYJglkFfhDt8Lmye8d) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q) | 4:12 |
-| 39 | [Escapist](https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Bye Bye Beautiful](https://open.spotify.com/album/4qomktB4Z9mQVPm42eEYwd) | 5:01 |
+| 38 | [Escapist](https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Bye Bye Beautiful](https://open.spotify.com/album/4qomktB4Z9mQVPm42eEYwd) | 5:01 |
+| 39 | [Sacrament Of Wilderness](https://open.spotify.com/track/6MNfIYJglkFfhDt8Lmye8d) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q) | 4:12 |
 | 40 | [Come Cover Me](https://open.spotify.com/track/1RSKK7hj4emItvmh45crcX) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 4:34 |
 | 41 | [The Islander](https://open.spotify.com/track/7Ce61NyQM0XfGbVHSUBBOG) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE) | 5:05 |
-| 42 | [Gethsemane](https://open.spotify.com/track/2j2lmbnQgk2khkf4TDWdBp) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q) | 5:22 |
-| 43 | [Harvest](https://open.spotify.com/track/06h4HxzQkqx45lCRxDe4lA) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:13 |
+| 42 | [Harvest](https://open.spotify.com/track/06h4HxzQkqx45lCRxDe4lA) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:13 |
+| 43 | [Gethsemane](https://open.spotify.com/track/2j2lmbnQgk2khkf4TDWdBp) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q) | 5:22 |
 | 44 | [10th Man Down](https://open.spotify.com/track/6ufTwGcAxjHAYlTrhxeyME) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Over The Hills And Far Away](https://open.spotify.com/album/6j4E355c5CbrduKa4rGGLj) | 5:20 |
 | 45 | [Ghost River](https://open.spotify.com/track/3sTZ4DxyZ4PcKxKj4MHLI8) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 5:24 |
 | 46 | [Where Were You Last Night](https://open.spotify.com/track/1BZ2yeGFtYN0Sk5yrgvMdk) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wish I Had an Angel](https://open.spotify.com/album/2l0KYO3zjZtfFzls7rSPA7) | 3:52 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 50 | [The Heart Asks Pleasure First](https://open.spotify.com/track/4rsqx0pmutBNt3TQQtLyKL) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Crow, the Owl and the Dove](https://open.spotify.com/album/7lY1FLP3cGbOurnNtF0jfJ) | 4:21 |
 | 51 | [Ocean Soul](https://open.spotify.com/track/4q3sAUULz1S77l4651FrTz) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK) | 4:14 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDBlY2ZlZGZkMzdhZTIwMDA5OTI4OTA2Zjc3YWQxMzgwOQ==`
+Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDA5MjRiMzI0MmVhYjdhOTUzNjdjNmRjYjYxZTYwYmM3Mg==`

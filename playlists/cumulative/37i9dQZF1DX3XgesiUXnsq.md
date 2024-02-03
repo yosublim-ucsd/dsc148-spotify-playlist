@@ -2,7 +2,7 @@
 
 ### [Raw & Uncut](https://open.spotify.com/playlist/37i9dQZF1DX3XgesiUXnsq)
 
-> Damn son, where'd ya find this? Cover: MF DOOM
+> Damn son, where'd ya find this? Discover more Black artists and their contributions <a href="spotify:genre:0JQ5DAqbMKFF9bY76LXmfI">here.</a> Cover: <a href="spotify:artist:2AfU5LYBVCiCtuCCfM7uVX">Kota the Friend</a>
 
 614 songs - 1 day 10 hr 11 min
 

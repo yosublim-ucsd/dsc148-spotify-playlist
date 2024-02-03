@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 
 > This is Hyperanhas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,175 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,178 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 | 47 | [Lambo](https://open.spotify.com/track/06nllqzWyfgQXMrLBHUJk4) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [MISAEL](https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Lambo](https://open.spotify.com/album/7BHzV7j7SOUMbi1icPb0Aj) | 3:32 |
 | 48 | [Luazul \#2: Deixa a Vida Levar \(feat\. MC Vinny e DaPaz\) \- Acústico](https://open.spotify.com/track/4d9lsFObB7OJ0sAgvuIrmF) | [Belle Kaffer](https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx), [Casluh](https://open.spotify.com/artist/79mW4e6Kz8MP5ALSWFaJM3), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [MC Vinny](https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI) | [Luazul \#2: Deixa a Vida Levar \(feat\. MC Vinny e DaPaz\) \[Acústico\]](https://open.spotify.com/album/6QFzlpwLMLricUgeFEnmpA) | 8:17 |
 | 49 | [Set Dj Br da Tijuca 3](https://open.spotify.com/track/1xQABs4bfvIunZOZ4Ov0im) | [BR DA TIJUCA](https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Mc KF](https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf), [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [Nathan](https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA), [Meno Bom](https://open.spotify.com/artist/2becfxwincSfFiB1duhonS), [PK Delas](https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Leo da Zona Sul](https://open.spotify.com/artist/7ylv7b3bmpR5NC2OilrZmo), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Agatha](https://open.spotify.com/artist/212rAq8nUlNPTaWl7Y0b5i), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Set Dj Br da Tijuca 3](https://open.spotify.com/album/01aO02GNBxfZPcYu7C48pc) | 6:39 |
-| 50 | [A Firma é Forte](https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [A Firma é Forte](https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk) | 2:43 |
+| 50 | [Gelo no Copo \- Remix](https://open.spotify.com/track/0oOQ4zepSFoaf8uPYMrn63) | [Cufe](https://open.spotify.com/artist/5x7TPxozTWALMsXrBeA4BX), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Gelo no Copo \(Remix\)](https://open.spotify.com/album/5NCBnLl7vt3z5loG6kDcqM) | 2:50 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDAwYzJkYmYzMzljOGU3MzVhNGVlYjY3OGMyMWEzMjI3NA==`
+Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDA3MmVhMTVlMzI5NWZjOTIzZDE5MDYxNzYyNjUwNDkyZA==`

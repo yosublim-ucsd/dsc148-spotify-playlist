@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67CQamTl3jY.md) - [plain]
 
 > <a href="http://www.grammy.com/">第66回グラミー賞</a>\(2024年\)にノミネートされた注目作品を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,059 likes - 88 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,083 likes - 88 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67CQamTl3jY.md) - [plain]
 | 50 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 |
 | 51 | [Need A Favor](https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:17 |
 | 52 | [I know it won't work](https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:05 |
-| 53 | [That's How Love Is Made](https://open.spotify.com/track/241mj8aXPCfElHc72HsZlP) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 3:46 |
+| 53 | [That's How Love Is Made](https://open.spotify.com/track/241mj8aXPCfElHc72HsZlP) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 3:46 |
 | 54 | [chemistry](https://open.spotify.com/track/1irDAU88CxlOy98rLilTWV) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry \(Deluxe\)](https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F) | 2:30 |
 | 55 | [How Does It Make You Feel](https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:36 |
 | 56 | [Lucky](https://open.spotify.com/track/4HDsNTcpprSDjtO9nK31yb) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Lucky](https://open.spotify.com/album/2k5NXdSqKdDcAFFPzTouet) | 3:36 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67CQamTl3jY.md) - [plain]
 | 87 | [But Not for Me](https://open.spotify.com/track/5pWeSDpfDqhsgqMTl9nLJm) | [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Alive at the Village Vanguard](https://open.spotify.com/album/0ZtyPgjVZsMzwxeDYYgllf) | 9:32 |
 | 88 | [Tight](https://open.spotify.com/track/5NPn66iyEdsWoqqgSuMa0K) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Tight](https://open.spotify.com/album/5C4eWuaz4LcapndxmN3f0X) | 1:55 |
 
-Snapshot ID: `MCxlOWI2NTE0ZDNlYmEwOWNhMDhkMGQ3MmUxMDUxYTdiZmQ2ZTFhMjA0`
+Snapshot ID: `MCwzMmVjY2Y4NjNkNTc3NDk3ODhjZTEwNWIzNjUwMWViZjQ2Nzc4NDhk`

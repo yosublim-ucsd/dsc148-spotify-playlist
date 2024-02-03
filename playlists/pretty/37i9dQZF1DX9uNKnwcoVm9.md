@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,506 likes - 100 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,583 likes - 100 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sumérgeme](https://open.spotify.com/track/4vmPvQY7m6MC77mKDdJIkD) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Colección Adoración](https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR) | 5:27 |
 | 2 | [Esta Cayendo](https://open.spotify.com/track/6XXn8f7bPRT2hP4j5nYbcJ) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [El Dios De Lo Imposible](https://open.spotify.com/album/73YrJY6JBx5bBJjDmcJ7WU) | 4:42 |
 | 3 | [La Niña de tus Ojos](https://open.spotify.com/track/4B6Dq9yCXAyZUzGH8ULq1N) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Vivo para Ti](https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ) | 3:31 |
-| 4 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 |
-| 5 | [Levanto Mis Manos](https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Jesús Siempre Llega a Tiempo](https://open.spotify.com/album/5hM2RpmACzxvfD26An3E40) | 5:19 |
+| 4 | [Levanto Mis Manos](https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Jesús Siempre Llega a Tiempo](https://open.spotify.com/album/5hM2RpmACzxvfD26An3E40) | 5:19 |
+| 5 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 |
 | 6 | [El Padre Que Siempre Soñé](https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Listo Para Nuestro Encuentro](https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O) | 3:24 |
 | 7 | [Me Dice Que Me Ama](https://open.spotify.com/track/5Q175erZOZJZHKaZzJFYDN) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 4:01 |
 | 8 | [Ven, Te Necesito](https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Vuelve a Casa](https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ) | 5:43 |
@@ -92,21 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 82 | [Mi Historia De Amor](https://open.spotify.com/track/4Io9nq91YUZNcCeQ0zDcID) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Mi Refugio](https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm) | 3:16 |
 | 83 | [El No Pereció](https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [En Las Alas Del Amor](https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI) | 4:20 |
 | 84 | [Faltan 5 para las Doce Llego Jesús](https://open.spotify.com/track/05gbMX505TQR6U1SGwMYku) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Faltan 5 para las 12 Llegó Jesús](https://open.spotify.com/album/5MLX6HrfCE83H3uZQLhnT5) | 5:05 |
-| 85 | [Asi Señor](https://open.spotify.com/track/5BfuA0EhIYYg4sjxyVYAOD) | [Gadiel Espinoza](https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6) | [Lo Mejor De Gadiel Espinoza](https://open.spotify.com/album/05sRL9QUM72ugGewZ1aF5k) | 6:00 |
-| 86 | [Atráeme a Ti](https://open.spotify.com/track/1NG2W9OLWi5CXxlmzCcCLj) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Recopilación](https://open.spotify.com/album/35kq5uh3NFFICxAXouBNPl) | 6:32 |
+| 85 | [Atráeme a Ti](https://open.spotify.com/track/1NG2W9OLWi5CXxlmzCcCLj) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Recopilación](https://open.spotify.com/album/35kq5uh3NFFICxAXouBNPl) | 6:32 |
+| 86 | [Asi Señor](https://open.spotify.com/track/5BfuA0EhIYYg4sjxyVYAOD) | [Gadiel Espinoza](https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6) | [Lo Mejor De Gadiel Espinoza](https://open.spotify.com/album/05sRL9QUM72ugGewZ1aF5k) | 6:00 |
 | 87 | [Cree Solamente](https://open.spotify.com/track/6cLuBLskbkBxJrb0evIlNJ) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Encuentros](https://open.spotify.com/album/4oUfJWOg2hDqi8wjqgshPU) | 4:38 |
 | 88 | [Mi Pastor](https://open.spotify.com/track/0MIYKvXKwR7FuMBoQYgZoi) | [Jésed](https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P), [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Renacer](https://open.spotify.com/album/13M8kgTgN9up2JtRwFgBy4) | 4:12 |
 | 89 | [Padre Nuestro](https://open.spotify.com/track/3Askzcj7HSPFNv5T32Vh3E) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Padre Nuestro](https://open.spotify.com/album/2gPeuoMs6OLrrS66wEhXCh) | 6:11 |
 | 90 | [Asi Porque Si](https://open.spotify.com/track/3s1s6qKRUTx4inaKh32he7) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Motivos Para Amarte](https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL) | 4:51 |
 | 91 | [Haz Llover](https://open.spotify.com/track/3O51YNgaVGHrrFLXLVJxNO) | [Jose Luis Reyes](https://open.spotify.com/artist/5hijN7Isgf4lf43c50XwOp) | [Se Abren Los Cielos \( Pistas\)](https://open.spotify.com/album/6lW1vofyUsYzC7QvktsrpU) | 4:36 |
-| 92 | [Anciano de Días \- Live](https://open.spotify.com/track/4QNG4X8Kph67GRGZC5TnAu) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Anhelo Conocerte](https://open.spotify.com/album/0N3Fy6ufUY6nS0q82SpDFu) | 6:37 |
-| 93 | [Gloria al Rey](https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Gloria al Rey](https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz) | 4:24 |
+| 92 | [Gloria al Rey](https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Gloria al Rey](https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz) | 4:24 |
+| 93 | [Anciano de Días \- Live](https://open.spotify.com/track/4QNG4X8Kph67GRGZC5TnAu) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Anhelo Conocerte](https://open.spotify.com/album/0N3Fy6ufUY6nS0q82SpDFu) | 6:37 |
 | 94 | [Abro Mis Brazos](https://open.spotify.com/track/5nkdEfOSuBaHmSeDCPgw5e) | [Lenny Salcedo](https://open.spotify.com/artist/3SAz8B6xf4eS1TuWnBppf8) | [Acústico](https://open.spotify.com/album/6xnrqwm4OHFjNJ7ScJut1V) | 3:49 |
 | 95 | [Llena Este Lugar](https://open.spotify.com/track/2mOaRojOOLqKh4nnpcE6qL) | [Joan Sanchez](https://open.spotify.com/artist/5iWIrC7cCdB1YEfIn15ONZ), [RPBand](https://open.spotify.com/artist/2iF6pJUq2ukNP5AP2YfAY3) | [Llena Este Lugar](https://open.spotify.com/album/6LYfjLkiy8qNTibTf4klao) | 6:10 |
 | 96 | [Tu Voluntad](https://open.spotify.com/track/1bkekelOajuDH9SxvazW6G) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Tu Voluntad](https://open.spotify.com/album/5K6pp3sMIXMxkzYcQDJ6yU) | 6:27 |
-| 97 | [Mi confianza está en ti \(remix\)](https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Mi confianza está en ti \(remix\)](https://open.spotify.com/album/4P70uBMLI7M22FKLIVZU96) | 5:33 |
+| 97 | [Hijo Pródigo](https://open.spotify.com/track/3nnICl5SaGPht8Ndnq1IDM) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1) | 4:47 |
 | 98 | [Pedir Perdon](https://open.spotify.com/track/25rQ4tq18dcdSoabIPCLgR) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Motivos Para Amarte](https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL) | 5:23 |
-| 99 | [Hijo Pródigo](https://open.spotify.com/track/3nnICl5SaGPht8Ndnq1IDM) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1) | 4:47 |
+| 99 | [Mi confianza está en ti \(remix\)](https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Mi confianza está en ti \(remix\)](https://open.spotify.com/album/4P70uBMLI7M22FKLIVZU96) | 5:33 |
 | 100 | [Donde Tu Estás](https://open.spotify.com/track/16jKWnXGPFPZzMkcwjXFl2) | [Banda Horizonte](https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ) | [No Hay Otro Dios](https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm) | 6:33 |
 
-Snapshot ID: `MCxiYzMyZmMzNGUxZjdkMmNmMWQwYjEzN2I1Mjg3N2Y4ZDgyNTE5NWJm`
+Snapshot ID: `MCxjNzAxZDQzNTQyODhmNTI5ZGQ2MTMxN2RjZTFmMDU1ZjIzMDcxMzI0`

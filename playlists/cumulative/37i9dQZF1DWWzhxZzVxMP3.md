@@ -4,7 +4,7 @@
 
 > Well known songs in a soft Bossa landscape.
 
-193 songs - 11 hr 11 min
+194 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Isn't She Lovely](https://open.spotify.com/track/3jbhdyGnHlOGg0zo4T1BS2) | [Cris Delanno](https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd) | [Cool Songs In Bossa](https://open.spotify.com/album/4H1PIL4SpcoMHhbE1jiVkf) | 3:20 | 2022-03-10 | 2022-07-29 |
 | [Isn´t She Lovely \(Bossa Version\)](https://open.spotify.com/track/2uiITtPXdbavf6QB8iP9f9) | [Cris Delanno](https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd) | [Relaxing Bossa Lounge](https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw) | 3:22 | 2022-07-26 | 2023-05-17 |
 | [It Ain't Me Babe](https://open.spotify.com/track/0LHm4kBHO8rFmjoCVu5MN8) | [Lucas Francisco da Silva](https://open.spotify.com/artist/0q5JowzvhV2iVatlPv1oL5), [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [It Ain't Me Babe](https://open.spotify.com/album/7CHMzuyPoAonVJMHtINSfU) | 3:44 | 2023-05-16 |  |
+| [It Must Have Been Love](https://open.spotify.com/track/7f0h3FtS5IIm5PhnnEC2eh) | [Senti2](https://open.spotify.com/artist/3Bae7rEUTuL7Vj4rf853N4) | [It Must Have Been Love](https://open.spotify.com/album/5nhTzqSBGhnEot3V89luGV) | 2:24 | 2024-02-02 |  |
 | [It's a Shame \- Bossa Version](https://open.spotify.com/track/1bnKFexAdGeEIrdeD6DqzL) | [Rachelle Spring](https://open.spotify.com/artist/3LPPGZrVd6moExHlmR7zLr) | [Relaxing Bossa Lounge, Vol\. 16](https://open.spotify.com/album/0xZcDtdHBHWvp9xzeFqhq9) | 3:26 | 2022-03-10 | 2023-05-17 |
 | [Just Like Heaven](https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 4:12 | 2023-05-16 |  |
 | [Just the Two of Us](https://open.spotify.com/track/40xfrgYXqDTF7bxzcjD3cN) | [Cris Delanno](https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd) | [Relaxing Bossa Lounge Vol\. 12](https://open.spotify.com/album/6yN6qpyhq5LBTQg2gOcxBK) | 3:55 | 2022-03-10 | 2023-05-17 |

@@ -4,7 +4,7 @@
 
 > This is Hayley Kiyoko\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 28 min
+46 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [He'll Never Love You \(HNLY\)](https://open.spotify.com/track/03PM8jkLPwI6cDcZBvwCSL) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:51 | 2023-05-02 |  |
 | [Headcase](https://open.spotify.com/track/6NJQ69XAEJ4TbTuDWA0gM0) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Headcase](https://open.spotify.com/album/2wDVgssxE37up35W78SFDM) | 3:13 | 2023-05-02 |  |
 | [Hit & Run](https://open.spotify.com/track/1jlLg8ZQbvCTkIoP2fI70b) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:33 | 2023-05-02 |  |
-| [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu) | 3:02 | 2023-05-02 |  |
+| [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/track/6JqJ2DMu7B2PddAdNAVmYy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Hungry Heart ft\. Hayley Kiyoko](https://open.spotify.com/album/6aRMTwvizxU03QnudEZ8Hu) | 3:02 | 2023-05-02 | 2024-02-03 |
+| [Hungry Heart ft\. Hayley Kiyoko \(Bassjackers Remix\)](https://open.spotify.com/track/1ZLc408bUkXksnrMr0E0YQ) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [HiROQUEST 2: Double Helix Remixed](https://open.spotify.com/album/66WcJqzeSYCSSO9uGPfKIF) | 3:25 | 2024-02-02 |  |
 | [I Wish](https://open.spotify.com/track/70U8ngrsEOeqeVjcTrChd8) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/3WCyXTXV94GowRN7nRHxSp) | 3:25 | 2023-05-02 |  |
 | [L.O.V.E\. Me](https://open.spotify.com/track/62yWj1rl3dmeamxfBjOtHO) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r) | 2:39 | 2023-05-02 |  |
 | [luna](https://open.spotify.com/track/4rCiYKROPDRqMGKX0zSGEo) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:47 | 2023-05-02 |  |

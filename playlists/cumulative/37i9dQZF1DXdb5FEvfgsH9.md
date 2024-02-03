@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-140 songs - 8 hr 38 min
+141 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [1988](https://open.spotify.com/track/4qPKzQfAvbrpwzvzvdJebu) | [Tom Ford](https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE), [Liselotte Östblom](https://open.spotify.com/artist/6zLYvupkEsUlhsXj9sFSQd), [Adam Flowers](https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq) | [1988](https://open.spotify.com/album/1L2RchCutvV55ZIaBuAvBJ) | 4:30 | 2023-01-20 |  |
 | [Alcool](https://open.spotify.com/track/61QDPNx0lMqM1pC9Bx8K6o) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/6NL1azymAHn7XLuVTuyLe5) | 2:49 | 2021-07-26 | 2022-10-15 |
 | [Alcool](https://open.spotify.com/track/6c6XMB1tD84ldzSBrbhHvA) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/0yzYRvOYlV5ryYCAXUZAsG) | 2:49 | 2021-07-26 | 2023-12-16 |
+| [All Night](https://open.spotify.com/track/1fKlRxTs1NSCVLsh7rWu77) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [All Night](https://open.spotify.com/album/5p2IPRuFGABDDrNhVqVQJc) | 2:50 | 2024-02-02 |  |
 | [Alone with You \- Lazywax Remix](https://open.spotify.com/track/4jO4c0dhLI3OwCLeYvZSkn) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Cleopold](https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Alone with You \(Lazywax Remix\)](https://open.spotify.com/album/0P9SMOg4aDG5X8Xc63lbTj) | 4:54 | 2023-05-19 |  |
 | [American Dream](https://open.spotify.com/track/0Xtww6oKBat94kE6FxuqTl) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [American Dream](https://open.spotify.com/album/6iMTeVJt2iUmgrL1XIHXkB) | 4:57 | 2024-01-19 |  |
 | [Audrey Tell Me](https://open.spotify.com/track/7DmjDhPdEeaNMB7WukaAux) | [Juice](https://open.spotify.com/artist/0Rq1n6pHHHUQwXnCO8IF4E) | [Audrey Tell Me](https://open.spotify.com/album/2c9s1pWE0PPyD9lbJ822Rl) | 4:14 | 2021-07-26 |  |
@@ -103,7 +104,7 @@
 | [Queen \- Cool Company Remix](https://open.spotify.com/track/0AgZmFOM3Yq0Zok6OlvHve) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Queen \(Cool Company Remix\)](https://open.spotify.com/album/1UOeukefSXVZIOA4s8qt3O) | 2:36 | 2022-06-24 |  |
 | [Ready](https://open.spotify.com/track/5Rszih77oz5igI9wMzOBPs) | [A\-P Connection](https://open.spotify.com/artist/6uJ3byxMvAQqbWpns9Upgc), [Ryan Konline](https://open.spotify.com/artist/6p7EZVSaTUSHSYRafzVy4z) | [Ready](https://open.spotify.com/album/4vLs8sUIWujaVJqxKklXe9) | 4:24 | 2021-07-26 |  |
 | [Remember](https://open.spotify.com/track/2vScopeFot4IyMBG4Smgqf) | [Rayowa](https://open.spotify.com/artist/6awgjbEndbfu3IpwqKhIFo) | [Remember](https://open.spotify.com/album/71Zx19ODMWH3fAVqqE8vR5) | 3:53 | 2022-08-12 |  |
-| [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/05nmIjhawOHWTiA21xKpFE) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/3sx9ynPOj1lBDPrnwWkGD1) | 3:49 | 2023-04-28 |  |
+| [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/05nmIjhawOHWTiA21xKpFE) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/3sx9ynPOj1lBDPrnwWkGD1) | 3:49 | 2023-04-28 | 2024-02-03 |
 | [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:49 | 2023-04-28 | 2023-11-18 |
 | [Second Dinner](https://open.spotify.com/track/1s4dt9PEMuaZqdOIwbJXfo) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [Mr Experience](https://open.spotify.com/album/4jWfPxX2PeXQqxXkyysMKC) | 3:37 | 2021-07-26 | 2023-09-09 |
 | [She's Just the Type of Girl](https://open.spotify.com/track/6O1nkPz0MoSrN8XhZUXiOc) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [She's Just the Type of Girl](https://open.spotify.com/album/6VMekpzEYoucovwkIj6zDl) | 2:41 | 2023-07-14 |  |

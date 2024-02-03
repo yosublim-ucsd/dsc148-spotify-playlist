@@ -4,12 +4,13 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-153 songs - 10 hr 0 min
+154 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 soul MATE"S"](https://open.spotify.com/track/4kxvOwxbHfOvghNYlawlEX) | [アイベヤ](https://open.spotify.com/artist/2K7SRRLUrYmq4tXW1vjQjP), [倉持洋一](https://open.spotify.com/artist/0JHqdvw8kzQJ1GM2ZkmdoX), [増子透](https://open.spotify.com/artist/5GWTevJFZlrS9I3PLjA5iY) | [TVアニメ「ダイヤのA」青心寮へようこそ!\~生ってこーぜ\~テーマソング 5 soul MATE"S"](https://open.spotify.com/album/40ndBfEupKF1OCrqdIspyS) | 3:54 | 2022-04-26 |  |
-| [Ahatte Teppen'](https://open.spotify.com/track/1Ahd8RIuzNBZFwkH2AhYlR) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Ahatte Teppen’](https://open.spotify.com/album/44dpI1riKMZ1mSMFS8RWAA) | 3:29 | 2022-08-16 |  |
+| [AHATTE TEPPEN](https://open.spotify.com/track/3CJF0sc6OrgAHnPUG1bWEI) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Prismverse](https://open.spotify.com/album/0QImbhzOSVS3RfMwArx8jK) | 3:30 | 2024-01-16 |  |
+| [Ahatte Teppen'](https://open.spotify.com/track/1Ahd8RIuzNBZFwkH2AhYlR) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Ahatte Teppen’](https://open.spotify.com/album/44dpI1riKMZ1mSMFS8RWAA) | 3:29 | 2022-08-16 | 2024-02-03 |
 | [ARK](https://open.spotify.com/track/0zAgwBgOPAgMqVvRbCukEP) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [＄ＨＵＦＦＬＥ](https://open.spotify.com/album/7LT9tCh3HhrcOWzK9j62l4) | 4:11 | 2022-04-26 | 2024-02-02 |
 | [ARK](https://open.spotify.com/track/3OX7w9gvjZ9Z3h7T3xCyqv) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [$HUFFLE](https://open.spotify.com/album/3yE9VJKvfnDCKs0xzNRHlq) | 4:11 | 2024-01-16 |  |
 | [Ashita Tenki ni Naare](https://open.spotify.com/track/2gX9TP8JzHjgHFMbk0yI6O) | [Daisy×Daisy](https://open.spotify.com/artist/5wYga8lT3TNapDC8ciqarN) | [Dangerous x Dizzy x Daisy](https://open.spotify.com/album/1qm8lz6DgikAsbAOlNRYCn) | 4:51 | 2022-07-26 |  |

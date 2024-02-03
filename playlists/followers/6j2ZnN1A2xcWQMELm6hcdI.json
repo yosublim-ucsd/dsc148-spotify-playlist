@@ -1,9 +1,27 @@
 {
-  "2024-02-02": 339162,
+  "2024-02-03": 339079,
   "date_first_scraped": "2022-06-10",
   "description": "On Fleek: Adj. 1) a state of completeness and flawlessness [see: <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>]. Cover: Tyla",
   "name": "On Fleek",
   "tracks": [
+    {
+      "album": {
+        "name": "(still ur) SCREENSAVER",
+        "url": "https://open.spotify.com/album/6fEMczS12dAKuRSBmiMTVi"
+      },
+      "artists": [
+        {
+          "name": "TOMGIRL504EVER",
+          "url": "https://open.spotify.com/artist/6X9QKhznQB6EYTlV325akc"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127343,
+      "name": "(still ur) SCREENSAVER",
+      "url": "https://open.spotify.com/track/1P4c6mov2eCTYguQIXbyAH"
+    },
     {
       "album": {
         "name": "Touch",

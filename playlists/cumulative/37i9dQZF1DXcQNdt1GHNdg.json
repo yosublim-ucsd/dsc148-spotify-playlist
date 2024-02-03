@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 205040,
       "name": "Chauffeur",
       "url": "https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB"
@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Leo",
+        "url": "https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226933,
+      "name": "King Shit",
+      "url": "https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8"
+    },
+    {
+      "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
@@ -844,7 +862,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 172202,
       "name": "Munde Desi",
       "url": "https://open.spotify.com/track/04Y40castrKPhpKehco0E7"
@@ -1038,6 +1056,24 @@
       "duration_ms": 188571,
       "name": "Rubicon Drill",
       "url": "https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N"
+    },
+    {
+      "album": {
+        "name": "Leo",
+        "url": "https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "Safety Off",
+      "url": "https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K"
     },
     {
       "album": {

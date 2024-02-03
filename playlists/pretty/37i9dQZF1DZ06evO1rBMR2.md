@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 
 > This is Los Huracanes del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,757 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,804 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 | 33 | [Cero A La Izquierda](https://open.spotify.com/track/3CmoQ0OMhcXKHHL1BLCATS) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Como Un Huracán](https://open.spotify.com/album/6EJrmuOfreSo4Efuhk0YB9) | 2:53 |
 | 34 | [La Viudita](https://open.spotify.com/track/0GhFBxxcZP6FDb2d1PXznp) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mensaje De Oro](https://open.spotify.com/album/7zMSnsRCy5WV88vepzSIZy) | 2:12 |
 | 35 | [El Clavo](https://open.spotify.com/track/2Wmx7DLFLY934h23dCDfxu) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Top Norteño](https://open.spotify.com/album/4JpBTtb53GAHXQVu96NSqZ) | 2:43 |
-| 36 | [Ay Amigo](https://open.spotify.com/track/4QCDEseQ7VOQpV30TMA4Sc) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Puro Pa\` Arriba](https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY) | 3:00 |
-| 37 | [La Venganza Del Viejito](https://open.spotify.com/track/0EXLXkgeAym7heIBtaoNbW) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Nuevos Horizontes](https://open.spotify.com/album/6XYncu9rKiiMcrE2eCejpl) | 2:41 |
-| 38 | [Ujule](https://open.spotify.com/track/4VL3VPtfEPj7Sx8cNuFZYz) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Fuerza y Sentimiento: Legado Norteño](https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f) | 2:58 |
-| 39 | [El Sexenio De La Muerte](https://open.spotify.com/track/78PtxzQpIAIcXIj52v9fWT) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Verdades Norteñas](https://open.spotify.com/album/16Ed5BQPxrbizJiAlC6fBD) | 2:40 |
+| 36 | [La Venganza Del Viejito](https://open.spotify.com/track/0EXLXkgeAym7heIBtaoNbW) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Nuevos Horizontes](https://open.spotify.com/album/6XYncu9rKiiMcrE2eCejpl) | 2:41 |
+| 37 | [Ay Amigo](https://open.spotify.com/track/4QCDEseQ7VOQpV30TMA4Sc) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Puro Pa\` Arriba](https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY) | 3:00 |
+| 38 | [El Sexenio De La Muerte](https://open.spotify.com/track/78PtxzQpIAIcXIj52v9fWT) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Verdades Norteñas](https://open.spotify.com/album/16Ed5BQPxrbizJiAlC6fBD) | 2:40 |
+| 39 | [Ujule](https://open.spotify.com/track/4VL3VPtfEPj7Sx8cNuFZYz) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Fuerza y Sentimiento: Legado Norteño](https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f) | 2:58 |
 | 40 | [El Embrujado](https://open.spotify.com/track/3ImJG38rC30tii4Mx5iFhS) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:04 |
 | 41 | [Es Parte Del Show](https://open.spotify.com/track/4AlLi2xehkaTJmQSI3ISvW) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Es Parte Del Show](https://open.spotify.com/album/5bCWc6JMufwJSVjwLwYlwx) | 2:53 |
 | 42 | [Medio Pueblo](https://open.spotify.com/track/5BLHGE5bPjXGaDaVnCM9CT) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Vientos Huracanados](https://open.spotify.com/album/1eBRnitNiRIR4CGDfyTrM4) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 | 49 | [Clave Del Acordeon](https://open.spotify.com/track/4TEtjUHvnSdZJT0VZHVSVy) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Corridos Pa'l Pueblo](https://open.spotify.com/album/6OuKc55DLFBZ7yiu7ajejO) | 2:37 |
 | 50 | [El Mantenido](https://open.spotify.com/track/4p9pcUMHRkyhuG8V3uGI8C) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [En El Tiempo](https://open.spotify.com/album/5lUF7dc1FSAWTL1hEAD4uA) | 2:29 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDBiMjkxZDQ1ZmVkMTNmMWRjMWIzMmZjNjI1MzFhNjU5Ng==`
+Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDA3MDJkNmIyN2VlNmM4ZjhkOGJjNjkyNmQ0YWUwNjhiNg==`

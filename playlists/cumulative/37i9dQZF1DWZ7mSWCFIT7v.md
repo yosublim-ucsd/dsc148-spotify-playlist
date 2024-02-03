@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-344 songs - 1 day 3 hr 50 min
+345 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Deipkier](https://open.spotify.com/track/1XqNsMxAq5hHpr35djllcJ) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/3froV8878RfT1ClZYjyxBI) | 7:55 | 2021-10-06 |  |
 | [Deipkier](https://open.spotify.com/track/1hZawUg1APIr7nw6MOhyVf) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/2BsxDJWcmm9iFH1BFdXO6V) | 7:55 | 2021-10-06 | 2023-04-30 |
 | [Diamond Beach](https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Diamond Beach](https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE) | 3:04 | 2022-02-25 | 2024-01-30 |
+| [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 | 2024-02-02 |  |
 | [Divine Interference](https://open.spotify.com/track/6fmx1B2AdJi1Nu7m6cVRnN) | [Sophia Loizou](https://open.spotify.com/artist/35wH6kN89Vy5MeYwTKHQ9Q) | [Singulacra](https://open.spotify.com/album/1SyVmG5FoRitDCJKzxIssB) | 5:33 | 2021-10-06 | 2022-07-22 |
 | [Double Fifths](https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour \(10th Anniversary Edition\)](https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp) | 2:11 | 2021-10-06 | 2022-07-27 |
 | [Drangsville Drowns](https://open.spotify.com/track/0osIAWdFisbIUvKNvoI46q) | [Dubokaj](https://open.spotify.com/artist/4LpipxyhaUntlQyGXKmsQL) | [Daydreamflix](https://open.spotify.com/album/0lTJ1VWKgf6fhDiHvoQ7fq) | 5:06 | 2022-04-06 | 2022-07-29 |
@@ -325,7 +326,7 @@
 | [Vertiko](https://open.spotify.com/track/7twFrkOYp45jadFfck1Jzg) | [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Vertiko](https://open.spotify.com/album/22pnMQDpiwnQe4vq0pWobB) | 4:59 | 2022-09-07 | 2022-12-24 |
 | [Victims of Victimless Crimes](https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE) | [Kübler\-Ross](https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy) | [Kübler\-Ross](https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH) | 4:18 | 2022-07-15 | 2023-01-10 |
 | [Vidrio Roto](https://open.spotify.com/track/6m1VL8mzWuPnlMAogYluy0) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [Vidrio Roto](https://open.spotify.com/album/3YiWqsTiIlKh5et6TMi8ft) | 4:24 | 2021-10-06 | 2022-07-29 |
-| [Voyager](https://open.spotify.com/track/7liCZGCeSyqcDRKhdlglHW) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [Voyager](https://open.spotify.com/album/6HHaF08StaSFk1MdDOMAp4) | 3:09 | 2023-08-24 |  |
+| [Voyager](https://open.spotify.com/track/7liCZGCeSyqcDRKhdlglHW) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [Voyager](https://open.spotify.com/album/6HHaF08StaSFk1MdDOMAp4) | 3:09 | 2023-08-24 | 2024-02-03 |
 | [Walking Through Still Air](https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [CRATER](https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0) | 5:22 | 2021-10-06 | 2022-08-02 |
 | [Walking Through Still Air](https://open.spotify.com/track/6XrnIr2rEUh0689dUNLMkR) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [Walking Through Still Air](https://open.spotify.com/album/6kfaYNYtxLrVh5vmBNf2vw) | 5:22 | 2021-10-06 | 2022-07-28 |
 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 | 2021-10-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 
 > Love whoever you want to love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,561 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,643 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 | 42 | [She's My Religion](https://open.spotify.com/track/0LwJllN73QYBHEBdGUTyEp) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Who Am I?](https://open.spotify.com/album/5FLKDb9bvbMu0yTahZtgHO) | 3:09 |
 | 43 | [Feelings](https://open.spotify.com/track/27DxZkqTR2SHZTTfMRpUvW) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:36 |
 | 44 | [Yr the Best!](https://open.spotify.com/track/0I8LsWH83aTHNqVpVhq59Z) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Small and Quiet](https://open.spotify.com/album/7nKFnLp9UONjXQwsBsdESQ) | 1:39 |
-| 45 | [religion \(u can lay your hands on me\)](https://open.spotify.com/track/4YIimRZi9KYx0ohj1b7vmj) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [forevher](https://open.spotify.com/album/1Gkq8xYCUvIaRshmoLa6ze) | 4:07 |
-| 46 | [It's Okay To Cry](https://open.spotify.com/track/5djCX0bDd96N89Ayv5Y8Y2) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:50 |
+| 45 | [It's Okay To Cry](https://open.spotify.com/track/5djCX0bDd96N89Ayv5Y8Y2) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:50 |
+| 46 | [religion \(u can lay your hands on me\)](https://open.spotify.com/track/4YIimRZi9KYx0ohj1b7vmj) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [forevher](https://open.spotify.com/album/1Gkq8xYCUvIaRshmoLa6ze) | 4:07 |
 | 47 | [Queen](https://open.spotify.com/track/73x5oFlbHcMhWQ7Wez5z3I) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Queen](https://open.spotify.com/album/7yXKgxE3jtv4hCDCeR7ZJ7) | 3:16 |
 | 48 | [Started Out](https://open.spotify.com/track/7l5Z2grGc47Hs84Zm7XobV) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills](https://open.spotify.com/album/26FuPLPN5Vyznv9yFxKOTM) | 3:41 |
 | 49 | [Starstruck](https://open.spotify.com/track/07sCj5nmYVgvanReYrZ35Q) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 3:27 |
 | 50 | [Volcanic Love](https://open.spotify.com/track/5YY6Z7YnjGOPxYy8ooZmLC) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [When My Heart Felt Volcanic](https://open.spotify.com/album/2lsQE89fPFInz2J62K6waw) | 3:25 |
 
-Snapshot ID: `MCw3Yzc3MmFkM2ZlMzJkYjA4ZTA1YmJhYmQ3ZjY2YjRhNDk2NWNiNGEx`
+Snapshot ID: `MCwwM2RhMjNkODU0ZjFmMTU2MGVlNTk3MjI4Y2Q4OTkwNTJhMDg5YWY0`

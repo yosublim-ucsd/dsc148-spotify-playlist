@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Simply Texas blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,011 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,067 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 14 | [Palace Of The King](https://open.spotify.com/track/2T6pMaivfX7w4tfAUX4uU9) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 3:40 |
 | 15 | [I Got My Mojo Working](https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h) | 4:46 |
 | 16 | [Texas Flood](https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 5:20 |
-| 17 | [Have Blues, Will Travel](https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC) | 4:07 |
-| 18 | [Crazy Dream](https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq) | [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Los Lonely Boys](https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA) | 4:47 |
+| 17 | [Crazy Dream](https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq) | [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Los Lonely Boys](https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA) | 4:47 |
+| 18 | [Have Blues, Will Travel](https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc) | [Smokin' Joe Kubek & Bnois King](https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut) | [Have Blues, Will Travel](https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC) | 4:07 |
 | 19 | [Brothers](https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s) | [The Vaughan Brothers](https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG) | [Family Style](https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL) | 5:05 |
 | 20 | [Mojo Boogie \- Remastered](https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:53 |
 | 21 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 4:28 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 28 | [Let The Good Times Roll](https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Things I Used To Do](https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA) | 2:53 |
 | 29 | [Me And My Guitar](https://open.spotify.com/track/0QpxUzXEI3ZjJeo6dDFgV7) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:04 |
 | 30 | [My Way Down](https://open.spotify.com/track/2VZYQKBRyGQdVMrzUhRf7J) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Texas Sugar Strat Magik](https://open.spotify.com/album/6nsMGqPX8iHHB7FN8XaO6p) | 4:36 |
-| 31 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
-| 32 | [Pay the Band](https://open.spotify.com/track/7nVvyXdvMJ8Ocaravj5edN) | [Buddy Whittington](https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS) | [Buddy Whittington](https://open.spotify.com/album/4gnhWohgp2PfU6h7dYkXSp) | 4:33 |
+| 31 | [Pay the Band](https://open.spotify.com/track/7nVvyXdvMJ8Ocaravj5edN) | [Buddy Whittington](https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS) | [Buddy Whittington](https://open.spotify.com/album/4gnhWohgp2PfU6h7dYkXSp) | 4:33 |
+| 32 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 | 33 | [My Texas Home](https://open.spotify.com/track/16UV31f3UunkFqMOsIMU5n) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba) | 4:53 |
 | 34 | [Don't Lose My Number](https://open.spotify.com/track/7gcjudElezAMCD28CxD8cr) | [Smokin' Joe Kubek](https://open.spotify.com/artist/5XkftMVm7vxTLcj05etN6B), [Bnois King](https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1) | [Blood Brothers](https://open.spotify.com/album/3TYX7tmA1rKq7I8qOVuvFs) | 3:33 |
 | 35 | [Rolling With The Punches](https://open.spotify.com/track/0ECyZFXS02fUPW1AxMCUBQ) | [Johnny Copeland](https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL) | [Catch Up With The Blues](https://open.spotify.com/album/7j9s4SGnWipClu5teWbqqV) | 6:34 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 45 | [Part Time Love](https://open.spotify.com/track/3ZH4DOwTuTyLciokW7bPSe) | [Texas Bluesmen](https://open.spotify.com/artist/0zxAYpfMkRAisf8HCOWzY1), [Robert Ealey](https://open.spotify.com/artist/1LUaCz87zXDOg9abUxidOd) | [Texas Bluesmen](https://open.spotify.com/album/45O218hUcFN5yPA9rnOj7m) | 6:25 |
 | 46 | [I'm About to Lose My Mind](https://open.spotify.com/track/2TPntNWBQ4a4pW9AWsIOHd) | [Kai Strauss](https://open.spotify.com/artist/4rxJh3ATE3suDdQXBziz2E), [Darrell Nulisch](https://open.spotify.com/artist/5xBekcOlP8jLrvMqpC6MtV) | [Electric Blues](https://open.spotify.com/album/0Diw0JIhBoHfVxcmvGUHlI) | 4:59 |
 | 47 | [A Blue Song](https://open.spotify.com/track/1YyHSGKbfEiI7xwwvSn5z5) | [Joe "Guitar" Hughes](https://open.spotify.com/artist/5bRmUejPq8I7a7y0coLC8r) | [Texas Guitar Slinger](https://open.spotify.com/album/5DalVOtB3z3HLahNqkbX0l) | 5:14 |
-| 48 | [Shakin' Dem Bones](https://open.spotify.com/track/6kz99KqDf43kfDGF2R7qsf) | [U.P\. Wilson](https://open.spotify.com/artist/6Nuiw9n4KzWqrcfn2m4u3F) | [Best Of \- The Texas Blues Guitar Tornado](https://open.spotify.com/album/3YNjUN1C7ZqYanMOcKdcOs) | 3:47 |
-| 49 | [Arrested for Driving While Blind](https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Very Baddest of..\. ZZ Top](https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn) | 3:06 |
+| 48 | [Arrested for Driving While Blind](https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Very Baddest of..\. ZZ Top](https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn) | 3:06 |
+| 49 | [Shakin' Dem Bones](https://open.spotify.com/track/6kz99KqDf43kfDGF2R7qsf) | [U.P\. Wilson](https://open.spotify.com/artist/6Nuiw9n4KzWqrcfn2m4u3F) | [Best Of \- The Texas Blues Guitar Tornado](https://open.spotify.com/album/3YNjUN1C7ZqYanMOcKdcOs) | 3:47 |
 | 50 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 
-Snapshot ID: `MCw3OWE1MzhkZDAwN2JjNjNkODYyNWYxMjE4MjgxMDgyNmYxMzBiNzU3`
+Snapshot ID: `MCxjNzg1ZDEyY2Y0NzE4MWExMTJjMGUxMGY3OTQyM2YzMzI1OGQ0MzEy`

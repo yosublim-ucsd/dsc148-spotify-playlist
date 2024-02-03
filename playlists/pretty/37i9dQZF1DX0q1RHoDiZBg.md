@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,397 likes - 104 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,404 likes - 104 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 35 | [Girl From The North Country](https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 4:00 |
 | 36 | [Ring Them Bells](https://open.spotify.com/track/4j331pZH3Zb28EemDHCzgF) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [I'm Not There \(Music From The Motion Picture \- Original Soundtrack\)](https://open.spotify.com/album/5cFprh5OBIF7G9kXRSBsr3) | 6:20 |
 | 37 | [Mama, You Been on My Mind \- Studio Outtake \- 1993](https://open.spotify.com/track/4yg2qSpnVAbQLPjCJTWwtY) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/283hKbicgg933wSdd24U2s) | 3:25 |
-| 38 | [The Times They Are A\-Changin’](https://open.spotify.com/track/2TCpNCWNVHZyleTGfBlpv2) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [The Times They Are A\-Changin’](https://open.spotify.com/album/6cflPi3KKPTe5LYoDZDFGD) | 3:45 |
+| 38 | [The Times They Are A\-Changin’](https://open.spotify.com/track/2TCpNCWNVHZyleTGfBlpv2) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [The Times They Are A\-Changin’](https://open.spotify.com/album/6cflPi3KKPTe5LYoDZDFGD) | 3:45 |
 | 39 | [Not Dark Yet](https://open.spotify.com/track/6uG0VaubeAXcdqWJWirGtv) | [Shelby Lynne](https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4), [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Not Dark Yet](https://open.spotify.com/album/4yJfRrReJMfIEULve1NksC) | 4:19 |
 | 40 | [Dark Eyes](https://open.spotify.com/track/7ujBUtYPYt0eJabD0Vp5pu) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [I'm Not There \(Music From The Motion Picture \- Original Soundtrack\)](https://open.spotify.com/album/5cFprh5OBIF7G9kXRSBsr3) | 4:29 |
 | 41 | [Not Dark Yet](https://open.spotify.com/track/05satBPYz2Wtx40AytxngW) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:35 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 103 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/3XtzbjnUGMHUbHpw3yS46L) | [the ORIGINAL SEEKERS](https://open.spotify.com/artist/37uWXC5EdtnuuBUxDvWSoB) | [Back To Our Roots](https://open.spotify.com/album/0Aye9uEvEC6S6ngXg4w7p2) | 3:14 |
 | 104 | [The Times They Are A\-Changin'](https://open.spotify.com/track/4OjNq26zx5GvoBwgljFZ1d) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Back in the High Life Again / The Times They Are A\-Changin'](https://open.spotify.com/album/344tOUpZdZhbZ8K3N7acKg) | 3:49 |
 
-Snapshot ID: `MCwyZDhhOWE0ZTFlYzAwMWY0MGY4NWVkODhmNGFhYTI1NDljMzBiYmY3`
+Snapshot ID: `MCw5M2U2ZTMyODA1ZDY4MTFkN2I0MTkxMjY3YTEwZTdiMjQ3ZDVlYTM2`

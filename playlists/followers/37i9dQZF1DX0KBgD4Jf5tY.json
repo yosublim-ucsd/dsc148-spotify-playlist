@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 7938,
+  "2024-02-03": 7943,
   "date_first_scraped": "2022-01-09",
   "description": "Il meglio della musica indipendente italiana, aggiornata il terzo mercoled\u00ec di ogni mese. Cover: <a href=\"spotify:artist:0PvxzN9MSvVMYj0b0fuwzA\">Arianna Pasini</a>",
   "name": "Fresh Finds Italia",
@@ -8103,6 +8103,24 @@
       "duration_ms": 207260,
       "name": "Idealise",
       "url": "https://open.spotify.com/track/2dDmsyN5lwWbutebg0LPjn"
+    },
+    {
+      "album": {
+        "name": "IL CIELO SOPRA BERLINO",
+        "url": "https://open.spotify.com/album/305uGvWZt5p4kLoPD4rP5n"
+      },
+      "artists": [
+        {
+          "name": "Tamango",
+          "url": "https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "IL CIELO SOPRA BERLINO",
+      "url": "https://open.spotify.com/track/35qn0z2w10fNbQCGEBgnh3"
     },
     {
       "album": {

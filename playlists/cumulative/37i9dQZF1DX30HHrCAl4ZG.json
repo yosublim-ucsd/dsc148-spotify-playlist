@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Future Islands",
+  "description": "Explore all things indie rock right now. Featuring music from The Last Dinner Party \ud83d\udd6f\ufe0f",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -3742,7 +3742,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 229667,
       "name": "Caesar on a TV Screen",
       "url": "https://open.spotify.com/track/1Eysrn2oD2cIuuFQD1Iu2G"
@@ -4996,7 +4996,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 271126,
       "name": "Cool Water - Single Mix",
       "url": "https://open.spotify.com/track/7Ki9OmvTAsczQSJO1h99WM"
@@ -8509,6 +8509,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
+    },
+    {
+      "album": {
         "name": "Francesca",
         "url": "https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv"
       },
@@ -10906,6 +10924,24 @@
       "duration_ms": 174761,
       "name": "I Wanna Dance With You",
       "url": "https://open.spotify.com/track/2dqMoMjBQmhm8UWBmTuPbr"
+    },
+    {
+      "album": {
+        "name": "The Thing Is",
+        "url": "https://open.spotify.com/album/03SfRIQRYUUWKjdXsXXy2v"
+      },
+      "artists": [
+        {
+          "name": "The Thing",
+          "url": "https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229610,
+      "name": "I Wanna Go To The City",
+      "url": "https://open.spotify.com/track/1VHNH9fVuA1oLbqFGMYo2t"
     },
     {
       "album": {
@@ -13549,6 +13585,28 @@
     },
     {
       "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/1GD5LEi9PqcG53COfp3LsQ"
+      },
+      "artists": [
+        {
+          "name": "meija",
+          "url": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
+        },
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "MAGIC",
+      "url": "https://open.spotify.com/track/3hB6fPgud6yt1MRKHJ58Mg"
+    },
+    {
+      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG"
       },
@@ -13618,7 +13676,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 176382,
       "name": "Mallcore Movies",
       "url": "https://open.spotify.com/track/6Ru4UKv3A5G6QlpLzAFWMl"
@@ -14415,6 +14473,24 @@
     },
     {
       "album": {
+        "name": "Mood Ring",
+        "url": "https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177080,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T"
+    },
+    {
+      "album": {
         "name": "All Over Again b/w Moon",
         "url": "https://open.spotify.com/album/67qT5xrgw6491DQYbIh3ty"
       },
@@ -14844,7 +14920,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -16822,7 +16898,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 202133,
       "name": "POSSUM",
       "url": "https://open.spotify.com/track/2tQM7YboaoWtuQNAFYSQ2h"
@@ -21016,6 +21092,24 @@
       "duration_ms": 178212,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF"
+    },
+    {
+      "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206571,
+      "name": "The Feminine Urge",
+      "url": "https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-02-02": 809192,
+  "2024-02-03": 809108,
   "date_first_scraped": "2022-04-20",
   "description": "Relax to gentle vocal and instrumental Jazz.",
   "name": "Jazz Relax",
@@ -219,6 +219,28 @@
       "duration_ms": 154698,
       "name": "A Final Cocktail",
       "url": "https://open.spotify.com/track/5RXJOvp3KUaSZXUgCS0or0"
+    },
+    {
+      "album": {
+        "name": "A Flower Is a Lovesome Thing",
+        "url": "https://open.spotify.com/album/4bZZ2pdbh9f7nSAd0Tdmei"
+      },
+      "artists": [
+        {
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255149,
+      "name": "A Flower Is a Lovesome Thing",
+      "url": "https://open.spotify.com/track/7xGlRRZlQrecQnRYovWDZ9"
     },
     {
       "album": {
@@ -1233,7 +1255,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 337985,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/4Z3UHUWnGLHD0qhf6gSjCO"
@@ -1521,7 +1543,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 242066,
       "name": "Atonement",
       "url": "https://open.spotify.com/track/49e8jyxGYok1DJRLqOlg4T"
@@ -1579,6 +1601,24 @@
       "duration_ms": 423573,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe"
+    },
+    {
+      "album": {
+        "name": "Autumn Memories",
+        "url": "https://open.spotify.com/album/6h7xUNNSruP2FycYPtFu9r"
+      },
+      "artists": [
+        {
+          "name": "Nathan Hill Trio",
+          "url": "https://open.spotify.com/artist/4KDVrZS1ZTq8DvPeEZxbHz"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Autumn Memories",
+      "url": "https://open.spotify.com/track/293Z6MI83NgU15Ky5Gakqc"
     },
     {
       "album": {
@@ -1647,7 +1687,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 192434,
       "name": "Background Is Wanting",
       "url": "https://open.spotify.com/track/76gvBI9sE1EgEK3s2ayQY5"
@@ -1865,7 +1905,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 198273,
       "name": "Beautiful Friendship",
       "url": "https://open.spotify.com/track/5gNyYlp835GvqvIl0Vp4xV"
@@ -2483,7 +2523,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 242705,
       "name": "Brahms Lullaby",
       "url": "https://open.spotify.com/track/0vVPlxobDRh2ATkRVaKS86"
@@ -2609,7 +2649,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 233514,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/15L7bPjJZDxhhaaY1pKbpK"
@@ -2667,7 +2707,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 246061,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/0BbJMNwUEUgNHBhD3QsLv4"
@@ -3769,7 +3809,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 219675,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/6r5QUqMog0YlOfXFiyxyIt"
@@ -3995,6 +4035,28 @@
       "duration_ms": 365880,
       "name": "Dim",
       "url": "https://open.spotify.com/track/50ma4LjaP5XDL1BsHrZ1D9"
+    },
+    {
+      "album": {
+        "name": "Benign Strangers",
+        "url": "https://open.spotify.com/album/5XtrGD3pOkiDEwij44Rjt7"
+      },
+      "artists": [
+        {
+          "name": "Davy Mooney",
+          "url": "https://open.spotify.com/artist/4d73pkSAEvk4LdXH4DTyxq"
+        },
+        {
+          "name": "Ko Omura",
+          "url": "https://open.spotify.com/artist/4emLm5IIufRxMupCYZB3DP"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365880,
+      "name": "Dim",
+      "url": "https://open.spotify.com/track/6XE5oVQWVz9XsYloOkHMt4"
     },
     {
       "album": {
@@ -4323,7 +4385,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 477173,
       "name": "Dreamsville",
       "url": "https://open.spotify.com/track/24M4rafgMYq9b49CEYPpm9"
@@ -5007,7 +5069,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 211160,
       "name": "Falling Grace",
       "url": "https://open.spotify.com/track/0vLU35fijEKlVuu2JbUEII"
@@ -5169,7 +5231,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 321840,
       "name": "First Star",
       "url": "https://open.spotify.com/track/29lmvGBTyz9v2FFJpKHP0I"
@@ -5421,7 +5483,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 388040,
       "name": "For Wee Folks",
       "url": "https://open.spotify.com/track/7kFpCWoKe2iqZSsBe9xwm5"
@@ -6451,7 +6513,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 325656,
       "name": "Honest Waltz",
       "url": "https://open.spotify.com/track/2o31PReuGccOuzpqzpTlPa"
@@ -6859,7 +6921,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 289761,
       "name": "I Fall in Love Too Easily",
       "url": "https://open.spotify.com/track/60L66fV1SJlht0MherVcfQ"
@@ -7101,7 +7163,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 323749,
       "name": "I Loves You, Porgy",
       "url": "https://open.spotify.com/track/4vDwDzzYGKylT26VE53elE"
@@ -7293,6 +7355,24 @@
       "duration_ms": 234373,
       "name": "I Was So Young, And You Were So Beautiful",
       "url": "https://open.spotify.com/track/4N7iWwgqcWr3p5JzngOSEF"
+    },
+    {
+      "album": {
+        "name": "I was young once",
+        "url": "https://open.spotify.com/album/6wh0GCT50gtsm1hlsECn4t"
+      },
+      "artists": [
+        {
+          "name": "The Boston Four",
+          "url": "https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205287,
+      "name": "I was young once",
+      "url": "https://open.spotify.com/track/3Imvyp4ZL0a72YBahaBp4q"
     },
     {
       "album": {
@@ -8523,7 +8603,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 218516,
       "name": "Journee",
       "url": "https://open.spotify.com/track/7xrFuH4mvXuM3JqVA3dRWi"
@@ -9764,6 +9844,24 @@
     },
     {
       "album": {
+        "name": "Lost Without You",
+        "url": "https://open.spotify.com/album/1ZqMSWxNRIBk7kqPlu1jeV"
+      },
+      "artists": [
+        {
+          "name": "Joe Wilson Trio",
+          "url": "https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212790,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3ENf7f5t8MoW4R5XDsMEpB"
+    },
+    {
+      "album": {
         "name": "Love & Peace",
         "url": "https://open.spotify.com/album/7LhEJGta4uIPtAMC5AQm5n"
       },
@@ -10933,7 +11031,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 203707,
       "name": "Morning Break",
       "url": "https://open.spotify.com/track/1IXLCaoZZxsjIC1ke4dm6E"
@@ -12360,6 +12458,24 @@
     },
     {
       "album": {
+        "name": "Old nobility",
+        "url": "https://open.spotify.com/album/07rbru0GAmjw3I7eBe7419"
+      },
+      "artists": [
+        {
+          "name": "Jill & Henry",
+          "url": "https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200301,
+      "name": "Old nobility",
+      "url": "https://open.spotify.com/track/6yzt6of8UmXtXDApwgMfmr"
+    },
+    {
+      "album": {
         "name": "Old Person Eyes",
         "url": "https://open.spotify.com/album/34x4zL9sqIP8YGfbRwxX3v"
       },
@@ -13165,7 +13281,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 381050,
       "name": "Pretty Women",
       "url": "https://open.spotify.com/track/6qTF7EjSSecc1rip7xckgN"
@@ -13577,7 +13693,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 170976,
       "name": "Road to Hana",
       "url": "https://open.spotify.com/track/0oGuIyOrGHKblKTlIm6IHz"
@@ -13801,7 +13917,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 251791,
       "name": "Samantha",
       "url": "https://open.spotify.com/track/2S6rbnyzdnujkpldnjbXcW"
@@ -14040,6 +14156,24 @@
     },
     {
       "album": {
+        "name": "Shadows of You",
+        "url": "https://open.spotify.com/album/2Zk67mWiPQQQiXqhTA95i5"
+      },
+      "artists": [
+        {
+          "name": "Sverrir Audland",
+          "url": "https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202617,
+      "name": "Shadows of You",
+      "url": "https://open.spotify.com/track/75iWzL2HCo4ckYySYIhkar"
+    },
+    {
+      "album": {
         "name": "She Skirts Away",
         "url": "https://open.spotify.com/album/3C88Osqdhy7MjzcUsM5bW8"
       },
@@ -14073,6 +14207,24 @@
       "duration_ms": 226220,
       "name": "She's Funny That Way",
       "url": "https://open.spotify.com/track/4fn0kfdUbc5LlAjTwG4RX4"
+    },
+    {
+      "album": {
+        "name": "Short Intermission",
+        "url": "https://open.spotify.com/album/6bDsTyNw02QSceWcDRmNKd"
+      },
+      "artists": [
+        {
+          "name": "Arto Ferrara",
+          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152285,
+      "name": "Short Intermission",
+      "url": "https://open.spotify.com/track/2RLd480e9nMzuvgds9fSqg"
     },
     {
       "album": {
@@ -14449,7 +14601,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 224197,
       "name": "Soft Rain",
       "url": "https://open.spotify.com/track/5X7GoPJvTxS5TcjF21oskS"
@@ -14503,7 +14655,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 178250,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/175feO2l5mVhZXLZpb8M8O"
@@ -14561,6 +14713,24 @@
       "duration_ms": 160111,
       "name": "Something about him",
       "url": "https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7"
+    },
+    {
+      "album": {
+        "name": "Sometime Ago",
+        "url": "https://open.spotify.com/album/1EC43KDhKglDOxqSQA9vbe"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185943,
+      "name": "Sometime Ago",
+      "url": "https://open.spotify.com/track/2aErKl7f7JEvr1fuXyFwlg"
     },
     {
       "album": {
@@ -14685,7 +14855,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 364626,
       "name": "Soul in Twilight",
       "url": "https://open.spotify.com/track/3ONcanYtZHMVcgqPDAsVHd"
@@ -14811,7 +14981,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 191026,
       "name": "Spirited Away",
       "url": "https://open.spotify.com/track/3eaM1LE28xBoGvIEv5E9qs"
@@ -14937,7 +15107,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 468198,
       "name": "Star Brite",
       "url": "https://open.spotify.com/track/5u3kifPZMvli8wZJV2HsSj"
@@ -14973,7 +15143,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 454200,
       "name": "Star Crossed Lovers",
       "url": "https://open.spotify.com/track/7KuOy0As2XsXoA4HupFo6v"
@@ -15286,6 +15456,24 @@
     },
     {
       "album": {
+        "name": "Strong, silent type",
+        "url": "https://open.spotify.com/album/67bsyOc1YTnuKGNF4foSlb"
+      },
+      "artists": [
+        {
+          "name": "Tate Jackson Trio",
+          "url": "https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198438,
+      "name": "Strong, silent type",
+      "url": "https://open.spotify.com/track/01bVdeoXeVupkwzC2kwHsW"
+    },
+    {
+      "album": {
         "name": "Summer Green",
         "url": "https://open.spotify.com/album/6EyhVfE0XMIls6HYY5jQDa"
       },
@@ -15489,6 +15677,24 @@
       "duration_ms": 184991,
       "name": "Sweet And Lovely",
       "url": "https://open.spotify.com/track/2CWgW8oWE5Ec1CvMvawwQ6"
+    },
+    {
+      "album": {
+        "name": "Sweet Smile",
+        "url": "https://open.spotify.com/album/0z6Bmefx4SMCYqfRqZfJcH"
+      },
+      "artists": [
+        {
+          "name": "Velvet Groove",
+          "url": "https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234605,
+      "name": "Sweet Smile",
+      "url": "https://open.spotify.com/track/5DghAA2I1vE1jqFOaJRIsv"
     },
     {
       "album": {
@@ -15713,7 +15919,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 185323,
       "name": "That Lingering Feeling",
       "url": "https://open.spotify.com/track/3hCYV3GlOiuywPLW6zchgr"
@@ -16240,6 +16446,32 @@
     },
     {
       "album": {
+        "name": "Suite for Siena",
+        "url": "https://open.spotify.com/album/6wIv7o5ju9r6mZU9qDnchx"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Enzo Pietropaoli",
+          "url": "https://open.spotify.com/artist/27FjuGipZTfChHi78XQWzZ"
+        },
+        {
+          "name": "Francesco Petreni",
+          "url": "https://open.spotify.com/artist/4yCUj0eTsdTS2x64VaPLi5"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387289,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/0x7AuKGrSgX7rtBeTzOFo5"
+    },
+    {
+      "album": {
         "name": "The Meadows",
         "url": "https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6"
       },
@@ -16367,6 +16599,24 @@
       "duration_ms": 212993,
       "name": "The Night We Called It A Day",
       "url": "https://open.spotify.com/track/6ltEJhAuJ2ofBl63qbHVN0"
+    },
+    {
+      "album": {
+        "name": "The Old Days",
+        "url": "https://open.spotify.com/album/3MRdBb44ud0YmXZlIK3gCB"
+      },
+      "artists": [
+        {
+          "name": "Joost Zoeteman",
+          "url": "https://open.spotify.com/artist/3KttZtDvN07umfla28NQqq"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223086,
+      "name": "The Old Days",
+      "url": "https://open.spotify.com/track/1YdjDIUhPv0YlyDOzGv8cN"
     },
     {
       "album": {
@@ -16681,7 +16931,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/1GnvtqOpLvbQsw1nP71TP3"
@@ -16977,7 +17227,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 229691,
       "name": "Through the Fog",
       "url": "https://open.spotify.com/track/6IpDhWlat8ugH1ApRcrgq1"
@@ -17125,6 +17375,24 @@
       "duration_ms": 463906,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/0ZciyueIR3Jl1gh4lbiLsk"
+    },
+    {
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6"
+      },
+      "artists": [
+        {
+          "name": "Urban Jazz Junction",
+          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt"
     },
     {
       "album": {
@@ -17398,6 +17666,24 @@
     },
     {
       "album": {
+        "name": "Twilight's Last Waltz",
+        "url": "https://open.spotify.com/album/227MPlCydtMDfLUGQJCRsQ"
+      },
+      "artists": [
+        {
+          "name": "The Manhattan Trio",
+          "url": "https://open.spotify.com/artist/4EIEvwQ689URBkInS6L1r4"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198358,
+      "name": "Twilight's Last Waltz",
+      "url": "https://open.spotify.com/track/5fc8RLe4x7bgwnqZOWZqVt"
+    },
+    {
+      "album": {
         "name": "All The Way-EP",
         "url": "https://open.spotify.com/album/6SGi9R8T8BfGSwhg6fjtEG"
       },
@@ -17654,6 +17940,24 @@
     },
     {
       "album": {
+        "name": "Vinegar replacing honey",
+        "url": "https://open.spotify.com/album/7tCtyUnPDyb1hc6565GfC0"
+      },
+      "artists": [
+        {
+          "name": "Sarah Troedsson",
+          "url": "https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172378,
+      "name": "Vinegar replacing honey",
+      "url": "https://open.spotify.com/track/6GqByymnXRYm8LlGaBHxyy"
+    },
+    {
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/7hNxS9E1smQnmOBfDQ7UBk"
       },
@@ -17683,7 +17987,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 201096,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/3LTZWlerXvIG5w5bRPXe0J"
@@ -18123,7 +18427,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 337093,
       "name": "When We Meet Halfway",
       "url": "https://open.spotify.com/track/0ZmL7e8iZhPiNtpvPNUiNP"
@@ -18307,6 +18611,24 @@
       "duration_ms": 197902,
       "name": "Whiplashed",
       "url": "https://open.spotify.com/track/6qJ26rva0vDec7YDB2olDD"
+    },
+    {
+      "album": {
+        "name": "Whispered Longing",
+        "url": "https://open.spotify.com/album/6ftoPFE6hqUw9fVRbmB6TF"
+      },
+      "artists": [
+        {
+          "name": "Shay Walsh",
+          "url": "https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192034,
+      "name": "Whispered Longing",
+      "url": "https://open.spotify.com/track/6lvJHY1xHZNkbEYMvpYoOp"
     },
     {
       "album": {
@@ -18851,7 +19173,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 387494,
       "name": "You Know I Care",
       "url": "https://open.spotify.com/track/3mdmA5e62x4CEXVIUZ2S92"
@@ -18923,7 +19245,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 217370,
       "name": "You Stepped Out Of A Dream",
       "url": "https://open.spotify.com/track/627SZOevCkeudqmkV3Mc6h"

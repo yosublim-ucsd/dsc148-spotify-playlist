@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: Neck Deep",
-  "num_followers": 453248,
+  "num_followers": 453221,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MThhMWRlZGYzNmU4ZmViMzA1OTI0MjFlMWI1ZWY0OTM1YjE3Nzk1",
+  "snapshot_id": "MCxmMWQ5OTE4MzNkMDI0NmQ0Yzk4MDIxYjVmM2Y4NTM4ZGRkNGNkMDBm",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Friends With Your EX",
-        "url": "https://open.spotify.com/album/6Lv24dBmFka5bThmdwMCOn"
-      },
-      "artists": [
-        {
-          "name": "Landon Barker",
-          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
-        }
-      ],
-      "duration_ms": 118933,
-      "name": "Friends With Your EX",
-      "url": "https://open.spotify.com/track/5dLhmqJRJiV0RyRwv7VUdv"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Vicious",
         "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 207177,
       "name": "Vicious",
       "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Friends With Your EX",
+        "url": "https://open.spotify.com/album/6Lv24dBmFka5bThmdwMCOn"
+      },
+      "artists": [
+        {
+          "name": "Landon Barker",
+          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
+        }
+      ],
+      "duration_ms": 118933,
+      "name": "Friends With Your EX",
+      "url": "https://open.spotify.com/track/5dLhmqJRJiV0RyRwv7VUdv"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "BRAIN DEAD",
-        "url": "https://open.spotify.com/album/6ucZ6HFBtixqCOcZyQE57t"
-      },
-      "artists": [
-        {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
-        }
-      ],
-      "duration_ms": 121071,
-      "name": "BRAIN DEAD",
-      "url": "https://open.spotify.com/track/2X7V0ZwyT6NDn3yBxNz54H"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 162741,
       "name": "Hot Mess",
       "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "BRAIN DEAD",
+        "url": "https://open.spotify.com/album/6ucZ6HFBtixqCOcZyQE57t"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "duration_ms": 121071,
+      "name": "BRAIN DEAD",
+      "url": "https://open.spotify.com/track/2X7V0ZwyT6NDn3yBxNz54H"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "f.e.a.r.",
-        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 160380,
-      "name": "hair out",
-      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "No Joy",
         "url": "https://open.spotify.com/album/5bmC9YAnux6z8pkahL9SmP"
       },
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "f.e.a.r.",
+        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 160380,
+      "name": "hair out",
+      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "You Are Who You Hang Out With",
         "url": "https://open.spotify.com/album/5ti35p8028PSksErKRW415"
       },
@@ -1251,22 +1251,6 @@
       "duration_ms": 198226,
       "name": "Not Joking",
       "url": "https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Misery Made Me",
-        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/3dCcOPAudQPazNNsHXA4kt"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1291,38 +1275,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Last Day On Earth",
-        "url": "https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1"
+        "name": "Misery Made Me",
+        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
       },
       "artists": [
         {
-          "name": "SK8",
-          "url": "https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish"
-        },
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 138086,
-      "name": "Shooting Star (feat. Sum 41)",
-      "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "SEX ON THE BEACH",
-        "url": "https://open.spotify.com/album/2fhKQXM5B3No5aWHB3vuPi"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 190731,
-      "name": "SEX ON THE BEACH",
-      "url": "https://open.spotify.com/track/1a66ctSliEPB63zvjrI9f0"
+      "duration_ms": 173600,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/3dCcOPAudQPazNNsHXA4kt"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1343,18 +1307,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "When You Were Here",
-        "url": "https://open.spotify.com/album/7GZBTgJndaIafQWJaXGZw0"
+        "name": "Last Day On Earth",
+        "url": "https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1"
       },
       "artists": [
         {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+          "name": "SK8",
+          "url": "https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish"
+        },
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 173152,
-      "name": "When You Were Here",
-      "url": "https://open.spotify.com/track/6BU5oDOs3thj5f88a37lPS"
+      "duration_ms": 138086,
+      "name": "Shooting Star (feat. Sum 41)",
+      "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1371,6 +1339,38 @@
       "duration_ms": 182117,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/19bqVQCJzBLiAb0ljuAVMC"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "When You Were Here",
+        "url": "https://open.spotify.com/album/7GZBTgJndaIafQWJaXGZw0"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 173152,
+      "name": "When You Were Here",
+      "url": "https://open.spotify.com/track/6BU5oDOs3thj5f88a37lPS"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "SEX ON THE BEACH",
+        "url": "https://open.spotify.com/album/2fhKQXM5B3No5aWHB3vuPi"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 190731,
+      "name": "SEX ON THE BEACH",
+      "url": "https://open.spotify.com/track/1a66ctSliEPB63zvjrI9f0"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Swing and Sway",
+        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Swing and Sway",
+      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Cardinals",
         "url": "https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW"
       },
@@ -1543,18 +1559,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Swing and Sway",
-        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+        "name": "sleepwalking",
+        "url": "https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt"
       },
       "artists": [
         {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
         }
       ],
-      "duration_ms": 178253,
-      "name": "Swing and Sway",
-      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+      "duration_ms": 120855,
+      "name": "sleepwalking",
+      "url": "https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "sleepwalking",
-        "url": "https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt"
-      },
-      "artists": [
-        {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
-        }
-      ],
-      "duration_ms": 120855,
-      "name": "sleepwalking",
-      "url": "https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "How To Disappear",
         "url": "https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr"
       },
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "SHE LOVES ME, SHE LOVES ME NOT",
-        "url": "https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr"
+        "name": "Suicide and Sunshine",
+        "url": "https://open.spotify.com/album/2UI2oA0YxNgDB2Zbm7HCaH"
       },
       "artists": [
         {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+          "name": "Trophy Eyes",
+          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
         }
       ],
-      "duration_ms": 182014,
-      "name": "SHE LOVES ME, SHE LOVES ME NOT",
-      "url": "https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI"
+      "duration_ms": 205250,
+      "name": "What Hurts the Most",
+      "url": "https://open.spotify.com/track/1EzFc3EvqEMRSClh4FPmhH"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1743,18 +1743,34 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Suicide and Sunshine",
-        "url": "https://open.spotify.com/album/2UI2oA0YxNgDB2Zbm7HCaH"
+        "name": "SHE LOVES ME, SHE LOVES ME NOT",
+        "url": "https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr"
       },
       "artists": [
         {
-          "name": "Trophy Eyes",
-          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
         }
       ],
-      "duration_ms": 205250,
-      "name": "What Hurts the Most",
-      "url": "https://open.spotify.com/track/1EzFc3EvqEMRSClh4FPmhH"
+      "duration_ms": 182014,
+      "name": "SHE LOVES ME, SHE LOVES ME NOT",
+      "url": "https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Six Feet Under",
+        "url": "https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 191976,
+      "name": "Six Feet Under",
+      "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1775,22 +1791,6 @@
       "duration_ms": 157053,
       "name": "SELF-SABOTAGE (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/3cjPUCNlR7Sk7126DV77ms"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Six Feet Under",
-        "url": "https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 191976,
-      "name": "Six Feet Under",
-      "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -2287,26 +2287,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "GOOD MOOD (feat. grandson)",
-        "url": "https://open.spotify.com/album/5zIeHlDj7AcQzKaTF2x1Ty"
-      },
-      "artists": [
-        {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        },
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 154680,
-      "name": "GOOD MOOD (feat. grandson)",
-      "url": "https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "CYAN1DE (feat. Pete Wentz)",
         "url": "https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR"
       },
@@ -2323,6 +2303,26 @@
       "duration_ms": 231882,
       "name": "CYAN1DE (feat. PETE WENTZ)",
       "url": "https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "GOOD MOOD (feat. grandson)",
+        "url": "https://open.spotify.com/album/5zIeHlDj7AcQzKaTF2x1Ty"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 154680,
+      "name": "GOOD MOOD (feat. grandson)",
+      "url": "https://open.spotify.com/track/3XYmIJugK3ad2gBVBFXyjW"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -2431,26 +2431,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Do You Like Me Now (feat. Kellin Quinn of Sleeping With Sirens)",
-        "url": "https://open.spotify.com/album/4wFUDCIQM4X7OAKQc2KaJv"
-      },
-      "artists": [
-        {
-          "name": "OmenXIII",
-          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
-        },
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 217417,
-      "name": "Do You Like Me Now (feat. Kellin Quinn of Sleeping With Sirens)",
-      "url": "https://open.spotify.com/track/7Fjr0lI9QUhW31LKMVOba9"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Say It Like You Mean It",
         "url": "https://open.spotify.com/album/0XvzRBqVK9dg7eCLZpQ5SH"
       },
@@ -2471,6 +2451,26 @@
       "duration_ms": 192371,
       "name": "My Friends",
       "url": "https://open.spotify.com/track/2xqvthP2FrDdUpa37fxNyB"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Do You Like Me Now (feat. Kellin Quinn of Sleeping With Sirens)",
+        "url": "https://open.spotify.com/album/4wFUDCIQM4X7OAKQc2KaJv"
+      },
+      "artists": [
+        {
+          "name": "OmenXIII",
+          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
+        },
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 217417,
+      "name": "Do You Like Me Now (feat. Kellin Quinn of Sleeping With Sirens)",
+      "url": "https://open.spotify.com/track/7Fjr0lI9QUhW31LKMVOba9"
     },
     {
       "added_at": "2024-01-19 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 
 > This is Ángela Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,944 likes - 52 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,960 likes - 52 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 18 | [Amiga Mía](https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [Amiga Mía](https://open.spotify.com/album/5SUXi807kDKZ4KTKeUnOxU) | 3:40 |
 | 19 | [Me Gustas Mucho](https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 2:50 |
 | 20 | [Que Me Entierren Con la Banda](https://open.spotify.com/track/6EubqUdydkHdtnXStHOlVN) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w) | 2:58 |
-| 21 | [No Me Queda Más](https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP) | 3:20 |
-| 22 | [Te Quiero para Mí](https://open.spotify.com/track/0F4yOUbUuoo4lC5Qet3uHd) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 4:47 |
+| 21 | [Te Quiero para Mí](https://open.spotify.com/track/0F4yOUbUuoo4lC5Qet3uHd) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 4:47 |
+| 22 | [No Me Queda Más](https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP) | 3:20 |
 | 23 | [Cielo Rojo](https://open.spotify.com/track/1qpcAIt2DHxqD1JsOTy7XJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 3:55 |
 | 24 | [Medley Ranchero: El Cantador / Tristes Recuerdos \(feat\. Pepe Aguilar, Angela Aguilar & Leonardo Aguilar\)](https://open.spotify.com/track/5ply4jARRCAQ6UtGij6efs) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Homenaje a Los Grandes Compositores](https://open.spotify.com/album/1JdG9NiSeff8ZcFt5iG3fB) | 4:21 |
 | 25 | [Amor, Amor de Mis Amores](https://open.spotify.com/track/15hJAORUQLQnnP6gM9DHrL) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK) | 1:53 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 51 | [Aférrate a la Vida](https://open.spotify.com/track/68MygQgC9byQcYbfL1c62L) | [Andreu](https://open.spotify.com/artist/49pN3mdjxaRuzkwGWb8AHj), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Aférrate a la Vida](https://open.spotify.com/album/2CihWNIsCMahuxYTFt3zRx) | 3:29 |
 | 52 | [Las Mañanitas](https://open.spotify.com/track/4EQkyHaiZP5Tipa5hBtPjU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Las Mañanitas](https://open.spotify.com/album/6vgbQzrwfoawboJl6sIm1E) | 2:51 |
 
-Snapshot ID: `Mjg0NDY1MTMsMDAwMDAwMDAwYTM4MGEwYTNmZjRiMjkyNDM3YzNmYjNiNTJmY2MxNg==`
+Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDBlMTg5NGUyZjc2NjU5MGU1ZjM0ZDFhY2FkMzg3NzE1YQ==`

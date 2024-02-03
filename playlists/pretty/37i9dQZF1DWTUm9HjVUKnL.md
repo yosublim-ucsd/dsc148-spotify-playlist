@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,652 likes - 920 songs - 2 day 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,651 likes - 920 songs - 2 day 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 65 | [Orange Juice \- Spotify Singles](https://open.spotify.com/track/0MYm41WIh9hIRNDc20LPpb) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Spotify Singles](https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP) | 4:52 |
 | 66 | [If We Were Vampires \(feat\. Wesley Schultz\) \- Spotify Singles](https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Spotify Singles](https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP) | 3:37 |
 | 67 | [Hands On The Wheel \(Feat\. Particle Kid\) \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli) | [Spotify Singles](https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu) | 4:17 |
-| 68 | [Whiskey River \(Recorded At Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Spotify Singles](https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7) | 3:54 |
+| 68 | [Whiskey River \(Recorded At Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Spotify Singles](https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7) | 3:54 |
 | 69 | [Seven Spanish Angels \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Spotify Singles](https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D) | 4:10 |
 | 70 | [Lass es kreisen \- Spotify Singles](https://open.spotify.com/track/28ldIbz1mhDX0xPsl68HZl) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Spotify Singles](https://open.spotify.com/album/0WCQS4X35RP4kLo6qRiOD3) | 3:40 |
 | 71 | [Toxic](https://open.spotify.com/track/4X1qDzQdpuxN6UOkaq6UXi) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Spotify Singles](https://open.spotify.com/album/0WCQS4X35RP4kLo6qRiOD3) | 4:29 |
@@ -929,4 +929,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 919 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 920 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCwzNjUzODg2ZTBjZmRmN2YyNmE0ZjJkMDgxYzFjOWZjNmI2ODUxODZm`
+Snapshot ID: `MCw0NGQ2NjFiYmJmYjVmNjYxYTQ5YjY4MWY0NDBlYmY3NzNmNWJmYjRh`

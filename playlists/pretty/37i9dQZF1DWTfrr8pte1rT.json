@@ -1,18 +1,18 @@
 {
   "description": "Rock with a Drop. Cover: Steve Aoki and Yellowcard \\m/",
-  "num_followers": 322455,
+  "num_followers": 322480,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjE2ZGVkNjlmMjk5YTJjNGI5YWMxNDQzODg2NDJmMzQxZmZlZWIw",
+  "snapshot_id": "MCw3OTI5YmM0NGE5NTgyYTQyYmFiZTljNTQ3N2U2MmY2ZTE2NDlhMjk3",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "Ocean Avenue",
-        "url": "https://open.spotify.com/album/2ZCysCyAAnuFMC8xsaKQ0o"
+        "url": "https://open.spotify.com/album/2BeW2kujqEAJ7yx5nKdcc2"
       },
       "artists": [
         {
@@ -26,7 +26,7 @@
       ],
       "duration_ms": 226206,
       "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/7MmpWpWAHFYGBnm2NkOR7E"
+      "url": "https://open.spotify.com/track/5OHr0CXtKhicd7NHgRm6TB"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Thrones of Blood",
-        "url": "https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        }
-      ],
-      "duration_ms": 165857,
-      "name": "Riot",
-      "url": "https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Story Of My Life (feat. Trippie Redd) [Heavy Edit]",
         "url": "https://open.spotify.com/album/4Wzad6zTcqutg65d090DL2"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 240608,
       "name": "Story Of My Life (feat. Trippie Redd) - Heavy Edit",
       "url": "https://open.spotify.com/track/7vBwenmGPD2h0DSbljoZym"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Thrones of Blood",
+        "url": "https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "duration_ms": 165857,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 139925,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Enemy Brain Entertainment Suite",
         "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 251511,
       "name": "Enemy Brain",
       "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 139925,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Loving You Kills Me",
+        "url": "https://open.spotify.com/album/0r0NYM9gZnVJbFsvLG9T7w"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 174657,
+      "name": "Loving You Kills Me",
+      "url": "https://open.spotify.com/track/2HoQChs4cvAVWKidJRrGV9"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 248400,
       "name": "Black Velvet",
       "url": "https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Loving You Kills Me",
-        "url": "https://open.spotify.com/album/0r0NYM9gZnVJbFsvLG9T7w"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 174657,
-      "name": "Loving You Kills Me",
-      "url": "https://open.spotify.com/track/2HoQChs4cvAVWKidJRrGV9"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Better Than Before",
         "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
       },
@@ -2239,18 +2255,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "FIMBULVETR",
-        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+        "name": "War",
+        "url": "https://open.spotify.com/album/0ZaiDvYtUSXN9AFFQnAeHj"
       },
       "artists": [
         {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
         }
       ],
-      "duration_ms": 233203,
-      "name": "FIMBULVETR",
-      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+      "duration_ms": 195254,
+      "name": "War",
+      "url": "https://open.spotify.com/track/65NKOYrzh6Gz7rtiLmMMek"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2331,22 +2347,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/0ZaiDvYtUSXN9AFFQnAeHj"
-      },
-      "artists": [
-        {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
-        }
-      ],
-      "duration_ms": 195254,
-      "name": "War",
-      "url": "https://open.spotify.com/track/65NKOYrzh6Gz7rtiLmMMek"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Searching For Nothing",
         "url": "https://open.spotify.com/album/3d4wTJ2uxT7wrZ13yhxZBa"
       },
@@ -2387,26 +2387,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Hollow Skull",
-        "url": "https://open.spotify.com/album/45bk3MnJLpVBEvWogvR3jM"
-      },
-      "artists": [
-        {
-          "name": "Nimda",
-          "url": "https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h"
-        },
-        {
-          "name": "Bound in Fear",
-          "url": "https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL"
-        }
-      ],
-      "duration_ms": 226252,
-      "name": "Hollow Skull",
-      "url": "https://open.spotify.com/track/5mBKo3c5Q7sRa8DS7qXQpL"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
       },
@@ -2427,22 +2407,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/3YlsIOcaWk0GUhmcb9RE6W"
+        "name": "Hollow Skull",
+        "url": "https://open.spotify.com/album/45bk3MnJLpVBEvWogvR3jM"
       },
       "artists": [
         {
-          "name": "MitiS",
-          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+          "name": "Nimda",
+          "url": "https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h"
         },
         {
-          "name": "Beauty School Dropout",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+          "name": "Bound in Fear",
+          "url": "https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL"
         }
       ],
-      "duration_ms": 214400,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/3E0vyXi0sg1Kegs7lGgjDc"
+      "duration_ms": 226252,
+      "name": "Hollow Skull",
+      "url": "https://open.spotify.com/track/5mBKo3c5Q7sRa8DS7qXQpL"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2487,6 +2467,26 @@
       "duration_ms": 246193,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/3YlsIOcaWk0GUhmcb9RE6W"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/3E0vyXi0sg1Kegs7lGgjDc"
     },
     {
       "added_at": "2024-01-26 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > maybe it's punk, maybe it's not\. Cover: FEVER 333
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,538 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,552 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 40 | [I Saw Jesus Hanging on a Basketball Hoop](https://open.spotify.com/track/7jlEgdvIgNWO4dLXzqufoz) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 1:14 |
 | 41 | [WISH I NEVER KNEW YOU](https://open.spotify.com/track/2PGdJ3bE9j8TwwGkge8To2) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WISH I NEVER KNEW YOU](https://open.spotify.com/album/39VudHdhAGwLJ51ZYOzKHp) | 2:59 |
 | 42 | [Death Wish](https://open.spotify.com/track/3N3TknnMTUNcbHT1gOLYIW) | [So Tuff So Cute](https://open.spotify.com/artist/1PaF0WJCG5MLAoOv5xSWeR), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Death Wish](https://open.spotify.com/album/0HU0ivC4hwEbYATlSdsA8S) | 2:31 |
-| 43 | [ALIEN LOVE CALL](https://open.spotify.com/track/3qSIZ6BhlD8s1A8Hnnr3b8) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [ALIEN LOVE CALL](https://open.spotify.com/album/2nERlBSy1rzIWoTgnezW6M) | 2:56 |
-| 44 | [Nothin](https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Nothin](https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES) | 2:47 |
+| 43 | [Nothin](https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Nothin](https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES) | 2:47 |
+| 44 | [ALIEN LOVE CALL](https://open.spotify.com/track/3qSIZ6BhlD8s1A8Hnnr3b8) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [ALIEN LOVE CALL](https://open.spotify.com/album/2nERlBSy1rzIWoTgnezW6M) | 2:56 |
 | 45 | [Bet My Blood](https://open.spotify.com/track/3k148B0XDmtKhGjC2fBgND) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 2:59 |
 | 46 | [Problem](https://open.spotify.com/track/687kVR9VK3VtaT3quGOe3y) | [FRND](https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Problem](https://open.spotify.com/album/5vq7LWqM1uG30jVJNKko2j) | 2:57 |
 | 47 | [Date With Death](https://open.spotify.com/track/51JGjj0xewUWWCLKr152nU) | [Paris Shadows](https://open.spotify.com/artist/2mxplErmRMbGaSiAsDONkT), [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Date With Death](https://open.spotify.com/album/53APyRUyeCXI7jislWMpRA) | 1:59 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 64 | [i wanna bite your face](https://open.spotify.com/track/0TmhK8MuZrWow9HUp6fH5c) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [grim value](https://open.spotify.com/album/63se1zqIgvcKzzOfqIbR8m) | 2:26 |
 | 65 | [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 |
 | 66 | [sore](https://open.spotify.com/track/7vUgOE1PE39ORLkoGg8b82) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [sore](https://open.spotify.com/album/6WOzttpXQTWLtbhUpKF5o2) | 2:54 |
-| 67 | [Gotta Do More Gotta Be More](https://open.spotify.com/track/1iO0DqalKhC7BuS7LEx6Cq) | [Trampolene](https://open.spotify.com/artist/28KtnfdwBHptsGPPWjeovU) | [Love No Less Than A Queen](https://open.spotify.com/album/5ZGW7QDlSfoir5P54sqt4M) | 2:37 |
-| 68 | [TEEN POP SENSATION](https://open.spotify.com/track/01BgUiNgDvBfwDizRm4qnp) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [just in case the world ends \(deluxe edition\)](https://open.spotify.com/album/4IML4pQ6aDgViRY1RW139y) | 2:14 |
+| 67 | [TEEN POP SENSATION](https://open.spotify.com/track/01BgUiNgDvBfwDizRm4qnp) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [just in case the world ends \(deluxe edition\)](https://open.spotify.com/album/4IML4pQ6aDgViRY1RW139y) | 2:14 |
+| 68 | [Gotta Do More Gotta Be More](https://open.spotify.com/track/1iO0DqalKhC7BuS7LEx6Cq) | [Trampolene](https://open.spotify.com/artist/28KtnfdwBHptsGPPWjeovU) | [Love No Less Than A Queen](https://open.spotify.com/album/5ZGW7QDlSfoir5P54sqt4M) | 2:37 |
 | 69 | [It's Permanent](https://open.spotify.com/track/3OGkTlzC4Se6z6e9eEwMOt) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/1UgBF6FuYhQnnKPuPnxbVD) | 3:32 |
 | 70 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 |
 | 71 | [I Want Attention](https://open.spotify.com/track/7oPTdZqQa7eG8NVt8HPkBd) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [I Want Attention](https://open.spotify.com/album/1YGDOdHRnFWhxogfbvLLtT) | 2:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 79 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 |
 | 80 | [Dazzling](https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 2:40 |
 
-Snapshot ID: `MCxkOTZlMjRkYmY3NDExYWQ4ODdjNGVlOGQ2NzRiNDM1MmYzNTAyNzBl`
+Snapshot ID: `MCw1ZTg3MWI1MWUyN2QyMzY5M2RhY2VjM2E1NGM3Mjc4YTIwMGUzYTI3`

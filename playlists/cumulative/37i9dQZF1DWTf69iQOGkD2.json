@@ -848,7 +848,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 225856,
       "name": "Agradecer - Ao Vivo",
       "url": "https://open.spotify.com/track/1e6aaXjCWyJXGfEJVD5WEv"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 312000,
       "name": "Algum Lugar Pra Gente Viajar",
       "url": "https://open.spotify.com/track/63r2vryWNB2R9q3iTu0VzI"
@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 158999,
       "name": "Fora do Padr\u00e3o",
       "url": "https://open.spotify.com/track/0rsw5Z8eaJ8jDVdGHy3yAc"
@@ -5088,6 +5088,28 @@
       "duration_ms": 205750,
       "name": "Senhorita Ac\u00fastica",
       "url": "https://open.spotify.com/track/0JrKQxmz8hsFFwlayj1vUA"
+    },
+    {
+      "album": {
+        "name": "Sentimento Igual",
+        "url": "https://open.spotify.com/album/0sGCSc1oqS6GUYOlzdI0wG"
+      },
+      "artists": [
+        {
+          "name": "Truh",
+          "url": "https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ"
+        },
+        {
+          "name": "Ikki",
+          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sentimento Igual",
+      "url": "https://open.spotify.com/track/1UZ78t37hmQ6YgulCmJOIk"
     },
     {
       "album": {

@@ -2,13 +2,13 @@
 
 ### [Rock Total](https://open.spotify.com/playlist/37i9dQZF1DWU8yQ1nTMCfh)
 
-> Las nuevas vibras del rock en español\. Cover: No Te Va Gustar & Zoe Gotusso
+> Las nuevas vibras del rock en español\. Cover: Isla Mujeres
 
-265 songs - 14 hr 45 min
+266 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [11 RAZONES](https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:33 | 2022-12-09 |  |
+| [11 RAZONES](https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:33 | 2022-12-09 | 2024-02-03 |
 | [5 Minutos](https://open.spotify.com/track/6S12TVpYYGbUt4YKTjEGw2) | [Niña ](https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc) | [5 Minutos](https://open.spotify.com/album/3LiwPb9DEtdv9LTT1wTP5Z) | 3:38 | 2022-04-15 | 2022-12-10 |
 | [@calígula2K25](https://open.spotify.com/track/2ir6z3LKMDEkYPYp1fJLAg) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [Biznaga](https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn) | [@calígula2K25](https://open.spotify.com/album/4ciSWOoRfpQaaCFF6b1MB4) | 2:50 | 2022-04-15 | 2022-12-10 |
 | [A Banda](https://open.spotify.com/track/0mFbRJh8v4YOEH4NkIYMqW) | [Tigres Leones](https://open.spotify.com/artist/7nPrDCQpkqvDWvBLQS7fPF), [Tulsa](https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a) | [A Banda](https://open.spotify.com/album/75Jl4p55M4M2jKxyCWa4pz) | 3:19 | 2023-01-27 | 2023-02-11 |
@@ -76,7 +76,7 @@
 | [El Ding Dong](https://open.spotify.com/track/3BsdHpAazyhrsZJldvlJjI) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Ding Dong](https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp) | 2:39 | 2023-03-10 | 2023-05-15 |
 | [El Día del Huracán](https://open.spotify.com/track/0TQtEsBJR3APXQRzGj5ZeW) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0WPmKeCtjDH4dxCuJeQqIj) | 4:25 | 2022-04-15 | 2022-12-10 |
 | [El Garage de Gina Monster \- Ajusco Mix](https://open.spotify.com/track/1FAqUyErZ1nGG8qOFeOouf) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U), [Ajusco](https://open.spotify.com/artist/1xpP29I2Utlk9GX0hjOEIc) | [El Garage de Gina Monster \(Ajusco Mix\)](https://open.spotify.com/album/1iz3PRDFtK1k3Pg6K4KJGQ) | 3:09 | 2022-04-15 | 2022-12-10 |
-| [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 | 2022-04-15 |  |
+| [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 | 2022-04-15 | 2024-02-03 |
 | [El Podio del TC](https://open.spotify.com/track/5Xl50bMwdD7WY2veOxmAi7) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 3:02 | 2022-04-15 | 2022-12-10 |
 | [El Portal](https://open.spotify.com/track/3doBRDu4E0hSEXuIDa5Ov3) | [REX MARTE](https://open.spotify.com/artist/7HQ7g5kSVZvXHhfBQzd3pk) | [El Portal](https://open.spotify.com/album/2P2Z88TI9kCt622KYLd3iS) | 4:27 | 2022-04-15 | 2022-12-31 |
 | [EL PUENTE](https://open.spotify.com/track/4FlHFjk6TR4RQNnI1oYGvQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Transcender](https://open.spotify.com/album/1MWFI4H59Zw7cq1JvobjOk) | 3:48 | 2022-04-15 | 2023-10-26 |
@@ -89,7 +89,7 @@
 | [En El Surf](https://open.spotify.com/track/7IBYDJs4LEfwW8b17IAxwU) | [Palmera Beach](https://open.spotify.com/artist/0aVJ62IxBOiOh4KlOnnm7J) | [En El Surf](https://open.spotify.com/album/0S9FogbRiKfDgnVuSaRaFs) | 2:29 | 2022-04-15 | 2022-12-10 |
 | [enganchao](https://open.spotify.com/track/5WtolAqrKBXPp8wOcqS9CX) | [isra](https://open.spotify.com/artist/0LmfzRPAlGyi9yAIqS11EF), [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [enganchao](https://open.spotify.com/album/4EV8fIrw1qGJtkDzWRSOGv) | 2:30 | 2023-04-14 | 2023-04-16 |
 | [Esa Estrella](https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Esa Estrella](https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo) | 3:58 | 2023-05-12 | 2024-01-03 |
-| [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 | 2023-11-10 | 2024-02-02 |
+| [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 | 2023-11-10 |  |
 | [Extrarradio](https://open.spotify.com/track/4Yu4N8mdsSsmois7j4v3as) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [El Refugio](https://open.spotify.com/album/2ArUrVghLI8caKOMlW7mtF) | 4:53 | 2022-04-15 | 2022-12-10 |
 | [Fallaste](https://open.spotify.com/track/0E6xkmlNQ9GRHyir1tlg6u) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Fallaste](https://open.spotify.com/album/5v8aMzOfrstHYKBSFp9V5P) | 2:36 | 2023-06-16 | 2023-09-20 |
 | [FBI](https://open.spotify.com/track/5gxQpTNE0oQb7Orf2QbnFX) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [FBI](https://open.spotify.com/album/7nISyqRwUIfAYATsvHgdgS) | 2:24 | 2022-09-06 | 2023-04-23 |
@@ -179,6 +179,7 @@
 | [Nuestros mundos no obedecen a tus mapas](https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Greta Garbo](https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn) | 3:35 | 2023-05-26 |  |
 | [Ojalá](https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ojalá](https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb) | 3:13 | 2023-04-14 |  |
 | [Otra Vez \(Otra Vez\)](https://open.spotify.com/track/17yD1QTXS8nlfKOForUgzC) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Otra Vez \(Otra Vez\)](https://open.spotify.com/album/20ZRFgY2obZ2rvZtxL0Ceg) | 3:12 | 2022-04-15 | 2022-12-24 |
+| [Pagando de Más](https://open.spotify.com/track/4BMyL8QxN9W5jE4ia12l2G) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Barato Ideal](https://open.spotify.com/album/3vHJZa6kVgGjot5mgsjOUg) | 2:51 | 2024-02-02 |  |
 | [Para Siempre](https://open.spotify.com/track/2VqVScPVFQLtg6bDtnhQW3) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Para Siempre](https://open.spotify.com/album/1SCkHpyMe6KZK5ScMcrp9a) | 3:36 | 2023-04-14 | 2023-05-06 |
 | [Perdido](https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 4:07 | 2023-02-11 |  |
 | [Perdidos en Pantitlán](https://open.spotify.com/track/0Timp3zrA5PZg9qPoUCVfR) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Perdidos en Pantitlán](https://open.spotify.com/album/7aIjw8NNEqqUiSnwiEMncd) | 2:32 | 2022-04-15 | 2022-12-10 |

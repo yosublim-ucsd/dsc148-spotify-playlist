@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7IpfIGtcw2TKQNK7jYRhp5">Kadhja Bonet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 671 likes - 45 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 672 likes - 45 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 | 14 | [Delphine](https://open.spotify.com/track/2ZCKfrVy8qg6Y48KyKkN94) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 5:54 |
 | 15 | [Flashbacks \(with Jeremih\)](https://open.spotify.com/track/3s01d9z41qw037YXOPlQqd) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:53 |
 | 16 | [The Hook Up](https://open.spotify.com/track/4FEuh8zuTv3IIO8BaCsQPc) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Not for Sale](https://open.spotify.com/album/2T0HxT77VAcbj0VHVdmUl0) | 3:02 |
-| 17 | [This Love](https://open.spotify.com/track/0UPy6jay9WQ2HSOiYq7nJy) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [This Love](https://open.spotify.com/album/1RTXynjOAFfVG00e1L1a1z) | 2:44 |
-| 18 | [Fairweather Friend](https://open.spotify.com/track/3AI7nypBvF77O5kksonneA) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 4:01 |
+| 17 | [Fairweather Friend](https://open.spotify.com/track/3AI7nypBvF77O5kksonneA) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 4:01 |
+| 18 | [This Love](https://open.spotify.com/track/0UPy6jay9WQ2HSOiYq7nJy) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [This Love](https://open.spotify.com/album/1RTXynjOAFfVG00e1L1a1z) | 2:44 |
 | 19 | [Black Magic \(Make It Better\)](https://open.spotify.com/track/19Dqy71XekURex0XMKvfR8) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [May the Lord Watch](https://open.spotify.com/album/5uyW47qYkSkjoh6WT6I89k) | 2:33 |
 | 20 | [Nobody Other](https://open.spotify.com/track/4Sqkfwcm0HsUMlmmmZYTim) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 3:18 |
 | 21 | [Second Wind](https://open.spotify.com/track/70j5IpLhG6klLJtTpYXUss) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:08 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 | 44 | [California Holiday](https://open.spotify.com/track/5DHefQvcjfmg7ZYtgCW0Lf) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [California Holiday](https://open.spotify.com/album/6wN9cmfRgd4drnRvhuKRTT) | 4:40 |
 | 45 | [Zombie](https://open.spotify.com/track/7LE0A2BjH23iXlBVXzBNuU) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Mad World](https://open.spotify.com/album/55xeus9CHAn0fy4Jo6Xs2v) | 3:01 |
 
-Snapshot ID: `Mjg0NDczNDAsMDAwMDAwMDBjYTZkYjFjZDg3MzgxZjcyMmMxOTc2Mzk2NDk5ZWIzNQ==`
+Snapshot ID: `Mjg0NDg3ODAsMDAwMDAwMDA0ZjE1MjU2ODg2NzdmMzJlODA2ZTgxMWRmNTE0MjAyOA==`

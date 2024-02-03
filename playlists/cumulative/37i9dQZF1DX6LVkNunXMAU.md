@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Paola Navarrete & Adanowsky.
 
-285 songs - 15 hr 35 min
+286 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Helen K](https://open.spotify.com/track/6NSdapUFwuOgX2T8aItLQG) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz) | [Helen K](https://open.spotify.com/album/4JqiejiPOtH4DiW8IWP9rt) | 2:58 | 2022-05-20 | 2023-04-15 |
 | [Hoy Es Hoy](https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hoy Es Hoy](https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF) | 2:54 | 2022-05-20 | 2023-04-15 |
 | [hoy me desperté así \- v\. 02](https://open.spotify.com/track/3NlTGKhMil22mpMwxKL99N) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [plasti bonus track](https://open.spotify.com/album/1XVWDJkUFe03SpQDDN8DTS) | 3:22 | 2023-12-01 |  |
-| [Huracán](https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Huracán](https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf) | 2:41 | 2022-08-26 |  |
+| [Huracán](https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Huracán](https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf) | 2:41 | 2022-08-26 | 2024-02-03 |
 | [Huracán](https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Huracán](https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs) | 3:11 | 2023-07-28 |  |
 | [i only want you when i'm fucked up](https://open.spotify.com/track/0W0qBaCp84sKDlQdvShs9n) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [i only want you when i'm fucked up](https://open.spotify.com/album/0q2LRN1sN3jd17d74QczFO) | 3:52 | 2022-08-05 | 2023-04-15 |
 | [i only want you when i'm fucked up](https://open.spotify.com/track/3Nm0hvJ46o57zUDSOQmINq) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [i only want you when i'm fucked up](https://open.spotify.com/album/66rUUFDt246hX2JYzZpfOK) | 3:52 | 2022-05-20 | 2022-08-15 |
@@ -208,6 +208,7 @@
 | [Pedazos](https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Pedazos](https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI) | 2:44 | 2022-05-20 | 2023-04-15 |
 | [Peliculón](https://open.spotify.com/track/2MbHcrOARNtKVb5upQb4Kg) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Peliculón](https://open.spotify.com/album/4H9uGHowS5U1eP8lV1u7CB) | 3:18 | 2023-07-21 | 2023-09-07 |
 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2023-06-09 |  |
+| [Pensando en Ti](https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Pensando en Ti](https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH) | 2:53 | 2024-02-01 |  |
 | [Pequeñas Esperanzas](https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Pequeñas Esperanzas](https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K) | 3:20 | 2023-06-09 | 2023-06-24 |
 | [Perderse \- Acústico](https://open.spotify.com/track/5cIBKumn6Q2taeTNlJTKYe) | [José Soubirón](https://open.spotify.com/artist/4fr7eMVVZXNnqlYVchk8YP), [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf) | [Perderse \(Acústico\)](https://open.spotify.com/album/5AsFyNt74exZrhSxo1pAXn) | 3:13 | 2023-10-06 |  |
 | [perdido en la ciudad](https://open.spotify.com/track/3np1HLiIzBjFodBf13Irzu) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [perdido en la ciudad](https://open.spotify.com/album/2ImmCGnDWWuZX4EsD7hLp4) | 2:33 | 2023-05-19 | 2023-06-24 |

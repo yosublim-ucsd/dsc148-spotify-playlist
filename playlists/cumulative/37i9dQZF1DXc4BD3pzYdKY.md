@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:6CQGrt3AJ2gx5oMSR0mwbl">1K Phew</a>
 
-904 songs - 1 day 20 hr 51 min
+905 songs - 1 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,6 +562,7 @@
 | [NOTHING](https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [NOTHING BUT JESUS](https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw) | 2:37 | 2022-09-11 | 2023-08-26 |
 | [Nothing But The Blood](https://open.spotify.com/track/7jclwK9tMrEAbTskC7E4t3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Nothing But The Blood](https://open.spotify.com/album/2IJcWZ8vDouHlOD61LEb4b) | 3:07 | 2023-08-25 |  |
 | [NOW OR LATER](https://open.spotify.com/track/4crJ7ROSNR6ej7GPDFCspX) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [NOW OR LATER](https://open.spotify.com/album/1RGWKAn8tGkKdPkAXbe8ZV) | 2:51 | 2022-06-25 | 2022-09-12 |
+| [NUEVECINCOSEIS](https://open.spotify.com/track/26nUO9ru23NS5rE2xevhQu) | [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl) | [NUEVECINCOSEIS](https://open.spotify.com/album/5I2fT01EES8s4rYob7YSBU) | 1:30 | 2024-01-19 |  |
 | [OBJ](https://open.spotify.com/track/0hAnE1agFKDyJllMoxT3f1) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Mirror Talk](https://open.spotify.com/album/2oRFdjmAAE46TQTy4GWtGe) | 2:14 | 2022-03-12 | 2022-08-07 |
 | [Obvious](https://open.spotify.com/track/4IiFVaOYaKvQ8IDxIxdEkX) | [Double Atl](https://open.spotify.com/artist/5IVXa5D4ctnpdKOHrWHDMh), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Obvious](https://open.spotify.com/album/495qhvw3b9LR0MvoTcvJYQ) | 2:28 | 2022-02-27 | 2022-04-27 |
 | [Off the Backboard](https://open.spotify.com/track/1g6tuWP8l6QyqvefovKRTE) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Off the Backboard](https://open.spotify.com/album/6bjrtax6VVPlyrHiBpfWFJ) | 2:02 | 2022-10-14 | 2022-11-12 |
@@ -747,7 +748,7 @@
 | [Stop Us?](https://open.spotify.com/track/7dXuzF4pxww77NnQX9CEy0) | [Cephas](https://open.spotify.com/artist/6ullBRZTTK0lT7fUqbgbKD), [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4) | [Stop Us?](https://open.spotify.com/album/5O2sv74gCLTALr7Afn6xp1) | 3:41 | 2021-12-11 | 2022-01-23 |
 | [Store Run](https://open.spotify.com/track/6YG19lUmx3VD0Bb9ZhqqNI) | [Th3 Saga](https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp) | [Store Run](https://open.spotify.com/album/7eJz9GFM9ESswFwfklwOTH) | 1:56 | 2022-06-25 | 2022-09-12 |
 | [Strange Things](https://open.spotify.com/track/7m2mxtPYJV3O7JNcH9Oi2J) | [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp) | [Strange Things](https://open.spotify.com/album/5xVRkKMnWJcA8y5NSJhZs1) | 4:06 | 2021-12-11 | 2022-02-28 |
-| [STRAPPED](https://open.spotify.com/track/5DznFcDLV51dLDVaMnn52j) | [Linga TheBoss](https://open.spotify.com/artist/5jCTpUeZQ61zaoSYgYV2cY) | [ONE OF THE FEW](https://open.spotify.com/album/3ZQR5JU6dLNAvYdG3dO4N9) | 2:12 | 2024-01-19 |  |
+| [STRAPPED](https://open.spotify.com/track/5DznFcDLV51dLDVaMnn52j) | [Linga TheBoss](https://open.spotify.com/artist/5jCTpUeZQ61zaoSYgYV2cY) | [ONE OF THE FEW](https://open.spotify.com/album/3ZQR5JU6dLNAvYdG3dO4N9) | 2:12 | 2024-01-19 | 2024-02-03 |
 | [Striking Matches \(feat\. 1K Phew & TNED\)](https://open.spotify.com/track/59kiSVJTiUYXJxpyModhI5) | [theBeatbreaker](https://open.spotify.com/artist/6QJCYAKI6fPSDmXHeliNNu), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [TNED](https://open.spotify.com/artist/1wG3mhMC241gq1jwwRsBHT) | [Heard Not Seen III](https://open.spotify.com/album/5RHrcFrhFu7rz2QSGiMiBk) | 3:15 | 2021-12-11 | 2022-05-25 |
 | [Stripes](https://open.spotify.com/track/21PO2UTiAZkedJLJBVT6Hy) | [Dennis Gorcea](https://open.spotify.com/artist/2BlEK9X2tdzVcnjbPIpAW6), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Stripes](https://open.spotify.com/album/7nGxvnvZIlfnYud14AqEwE) | 3:46 | 2021-12-11 | 2022-02-04 |
 | [Stuck On You](https://open.spotify.com/track/7LAlNgKirDEsFESE0v3FAK) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy) | [Stuck On You](https://open.spotify.com/album/0frXypUJCEh6qkSGjeps7L) | 2:48 | 2021-12-11 | 2022-02-05 |
