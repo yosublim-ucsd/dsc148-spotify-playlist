@@ -1,12 +1,12 @@
 {
   "description": "All the New Joints featuring Don Toliver, YFN Lucci and more. Cover: That Mexican OT & DaBaby",
-  "num_followers": 254275,
+  "num_followers": 254392,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjVlNDU1MjQ3M2M2YzBlMDUyMWFkY2E5YzQ0ZmZjYjc2YjQzZTQ2",
+  "snapshot_id": "MCwzY2IwOGE0ZWU2ZjAzODNkOGMzM2E4OGUzYmMwOTM2Y2JkMjljYTcw",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -279,7 +279,7 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Right Now (feat. Bossman Dlow)",
+        "name": "Right Now (feat. Bossman Dlow & Lil Wet)",
         "url": "https://open.spotify.com/album/154BzHnwn19x9GlItFYoqU"
       },
       "artists": [
@@ -288,16 +288,16 @@
           "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
         },
         {
-          "name": "Lil Wet",
-          "url": "https://open.spotify.com/artist/71EPXRgyizFZBe54AlzCSn"
-        },
-        {
           "name": "BossMan Dlow",
           "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "Lil Wet",
+          "url": "https://open.spotify.com/artist/71EPXRgyizFZBe54AlzCSn"
         }
       ],
       "duration_ms": 204840,
-      "name": "Right Now (feat. Bossman Dlow)",
+      "name": "Right Now (feat. Bossman Dlow & Lil Wet)",
       "url": "https://open.spotify.com/track/49jjnR1W3KVX3SHHM1GHOR"
     },
     {
@@ -840,7 +840,7 @@
           "url": "https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ"
         }
       ],
-      "duration_ms": 163401,
+      "duration_ms": 163400,
       "name": "Baby Tunechi",
       "url": "https://open.spotify.com/track/2NgzcyyKQlHAzFbixlGgQt"
     },

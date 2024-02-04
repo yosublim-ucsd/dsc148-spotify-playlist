@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 17814,
+  "2024-02-04": 17836,
   "date_first_scraped": "2022-10-01",
   "description": "Hottest bars coming live from the 233.  Cover:  Sarkodie",
   "name": "+233 Bars ",
@@ -1727,7 +1727,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 129427,
       "name": "COLD",
       "url": "https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR"
@@ -3262,6 +3262,28 @@
     },
     {
       "album": {
+        "name": "Gimme Grace",
+        "url": "https://open.spotify.com/album/1Y5UvC1xVYr7ejO8AUws02"
+      },
+      "artists": [
+        {
+          "name": "R.B.D.",
+          "url": "https://open.spotify.com/artist/5YPzHb8dVwxsEjSbdOU8We"
+        },
+        {
+          "name": "Kay-Ara",
+          "url": "https://open.spotify.com/artist/7709KKFLbokr9qyg7Oceb1"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Gimme Grace",
+      "url": "https://open.spotify.com/track/6ffqvYWjuFKYreV7DK6xfQ"
+    },
+    {
+      "album": {
         "name": "GIRLS XXX",
         "url": "https://open.spotify.com/album/01g8crwiJmiaby1O6XzGUo"
       },
@@ -4231,6 +4253,36 @@
       "duration_ms": 205083,
       "name": "Kusuu",
       "url": "https://open.spotify.com/track/1ESLdyMbLyjOHVQlNzRVSf"
+    },
+    {
+      "album": {
+        "name": "Kusuu (feat. Kweku Flick, Abra Cadabra & ODUMODUBLVCK) [Remix]",
+        "url": "https://open.spotify.com/album/5yK3V1kXjfB70UKbXNXsnx"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        },
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206197,
+      "name": "Kusuu (feat. Kweku Flick, Abra Cadabra & ODUMODUBLVCK) - Remix",
+      "url": "https://open.spotify.com/track/3qpiO6n5HBMubcdCQyqKiv"
     },
     {
       "album": {
@@ -5435,7 +5487,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 229345,
       "name": "Non Living Thing (feat. Oxlade)",
       "url": "https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw"
@@ -6163,6 +6215,28 @@
       "duration_ms": 162061,
       "name": "Perfection",
       "url": "https://open.spotify.com/track/0j0TEjJfEvRyNS1jM2YnUg"
+    },
+    {
+      "album": {
+        "name": "Pergamos (Hidden Manna) Freestyle",
+        "url": "https://open.spotify.com/album/0yja2ZMQ2mEm9jXqjCkmLg"
+      },
+      "artists": [
+        {
+          "name": "Kevin Beats",
+          "url": "https://open.spotify.com/artist/1xNTcmdxZlrVvWbLgn745m"
+        },
+        {
+          "name": "Carlos",
+          "url": "https://open.spotify.com/artist/0Y4FSQlgAtyH2NcJurdON9"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189172,
+      "name": "Pergamos (Hidden Manna) Freestyle",
+      "url": "https://open.spotify.com/track/17H8JYgt6Tt9ChcktiIL9o"
     },
     {
       "album": {
@@ -8289,7 +8363,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 194606,
       "name": "Winning",
       "url": "https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk"
@@ -8691,10 +8765,40 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 164307,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/3L2kpYSJnXqqz9vKnpQ6Xw"
+    },
+    {
+      "album": {
+        "name": "Zongo",
+        "url": "https://open.spotify.com/album/3WPdsRkKEDmgwp2qmwkXjV"
+      },
+      "artists": [
+        {
+          "name": "Dj Adwoa",
+          "url": "https://open.spotify.com/artist/3JfFJpaSpXYHQKivBzJhZ1"
+        },
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        },
+        {
+          "name": "Sasco Gh",
+          "url": "https://open.spotify.com/artist/3d4sCBA9tFXhzzA7nUDYKT"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190985,
+      "name": "Zongo",
+      "url": "https://open.spotify.com/track/5snX4aH3FyF3sAdoUJFJfc"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7qRTMD2EbNu"

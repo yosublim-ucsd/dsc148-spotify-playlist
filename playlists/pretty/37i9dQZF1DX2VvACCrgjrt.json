@@ -1,17 +1,17 @@
 {
   "description": "Real nasty house. Cover: FETISH",
-  "num_followers": 439974,
+  "num_followers": 439999,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTU4ZjI1MWQ3ZDFkNDMyNDg4MjZiNjYzOWVjZGM0ODNiYzdiM2Zl",
+  "snapshot_id": "MCw2MGM0MWNjOTg3Mjg3ODU0MzA1NTU4NTg5NDZlNzRjNjUwNGZlYWQz",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Bassface",
+        "name": "Bass Face",
         "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
       },
       "artists": [
@@ -25,7 +25,7 @@
         }
       ],
       "duration_ms": 183014,
-      "name": "Bassface",
+      "name": "Bass Face",
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "The Freaks",
-        "url": "https://open.spotify.com/album/2FvWOZzbKdAAJJ0fbac63a"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "The Freaks",
-      "url": "https://open.spotify.com/track/4NoJpQvvjVJ2m8S72eIDaF"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "DRENCH",
         "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 197893,
       "name": "DRENCH",
       "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "The Freaks",
+        "url": "https://open.spotify.com/album/2FvWOZzbKdAAJJ0fbac63a"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 255360,
+      "name": "The Freaks",
+      "url": "https://open.spotify.com/track/4NoJpQvvjVJ2m8S72eIDaF"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "132.00FM",
-        "url": "https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        },
-        {
-          "name": "Cecelia",
-          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/6wL3KiaYImEVwWWmO5InbZ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Chit Chat",
         "url": "https://open.spotify.com/album/6Whrzsfp9mpfZR7cdovjpp"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 201904,
       "name": "Chit Chat",
       "url": "https://open.spotify.com/track/78BxIcKiPHrAHTKW74Pnw1"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "132.00FM",
+        "url": "https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "Cecelia",
+          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/6wL3KiaYImEVwWWmO5InbZ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Poissound",
-        "url": "https://open.spotify.com/album/392617G8Fahkedg4Vejmsu"
-      },
-      "artists": [
-        {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
-        }
-      ],
-      "duration_ms": 222325,
-      "name": "Mumble",
-      "url": "https://open.spotify.com/track/0jWu42iPy82XVVKOyNVLPA"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Poissound",
+        "url": "https://open.spotify.com/album/392617G8Fahkedg4Vejmsu"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        }
+      ],
+      "duration_ms": 222325,
+      "name": "Mumble",
+      "url": "https://open.spotify.com/track/0jWu42iPy82XVVKOyNVLPA"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Certified",
         "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
       },
@@ -1583,6 +1583,26 @@
       "duration_ms": 175492,
       "name": "Certified",
       "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Goons",
+        "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "Goons",
+      "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1607,26 +1627,6 @@
       "duration_ms": 196800,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Goons",
-        "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "Goons",
-      "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1671,22 +1671,6 @@
       "duration_ms": 243333,
       "name": "Bodymorph",
       "url": "https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "SWEAT",
-        "url": "https://open.spotify.com/album/5OQAcfTe1Ifzs8Qrtly5aH"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        }
-      ],
-      "duration_ms": 169943,
-      "name": "SWEAT - Radio Edit",
-      "url": "https://open.spotify.com/track/6sCsUn5KqYxxayAB1L9po2"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1751,6 +1735,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/5OQAcfTe1Ifzs8Qrtly5aH"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "duration_ms": 169943,
+      "name": "SWEAT - Radio Edit",
+      "url": "https://open.spotify.com/track/6sCsUn5KqYxxayAB1L9po2"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "MIRRORS",
         "url": "https://open.spotify.com/album/05z888GjArijqttcX87svP"
       },
@@ -1767,26 +1767,6 @@
       "duration_ms": 157741,
       "name": "MIRRORS",
       "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "NO RULES",
-        "url": "https://open.spotify.com/album/55SOheZmaTFPTrqCm3xhti"
-      },
-      "artists": [
-        {
-          "name": "Mija",
-          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
-        },
-        {
-          "name": "bloody white",
-          "url": "https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "NO RULES",
-      "url": "https://open.spotify.com/track/2lMtzc2TmMKPUTfTAht5dS"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1811,6 +1791,26 @@
       "duration_ms": 213984,
       "name": "Deep (with DJ Snake & Yung Felix)",
       "url": "https://open.spotify.com/track/0hSdx0sbSmYRVJzZTuspu0"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "NO RULES",
+        "url": "https://open.spotify.com/album/55SOheZmaTFPTrqCm3xhti"
+      },
+      "artists": [
+        {
+          "name": "Mija",
+          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
+        },
+        {
+          "name": "bloody white",
+          "url": "https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "NO RULES",
+      "url": "https://open.spotify.com/track/2lMtzc2TmMKPUTfTAht5dS"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Speaker Cone",
-        "url": "https://open.spotify.com/album/2d1mv9X62XccxWXaEteTPL"
-      },
-      "artists": [
-        {
-          "name": "Charmes",
-          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
-        }
-      ],
-      "duration_ms": 179572,
-      "name": "Speaker Cone",
-      "url": "https://open.spotify.com/track/5sQLYZQygPgCsdtytZQua7"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "The Way We Touch",
         "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 210461,
       "name": "Ballin'",
       "url": "https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Speaker Cone",
+        "url": "https://open.spotify.com/album/2d1mv9X62XccxWXaEteTPL"
+      },
+      "artists": [
+        {
+          "name": "Charmes",
+          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
+        }
+      ],
+      "duration_ms": 179572,
+      "name": "Speaker Cone",
+      "url": "https://open.spotify.com/track/5sQLYZQygPgCsdtytZQua7"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -2111,30 +2111,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Ten Outta Ten",
-        "url": "https://open.spotify.com/album/1fpzyikfWMFQZLwDQTD9Td"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Tyrone",
-          "url": "https://open.spotify.com/artist/6aapEQN8zrKOf2NOKf0MPI"
-        },
-        {
-          "name": "Kid Kyote",
-          "url": "https://open.spotify.com/artist/4eLOi1gjvvufSBOfQt5wRA"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Ten Outta Ten",
-      "url": "https://open.spotify.com/track/1qXUDkT5NiiwkK4T0FLYPt"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
       },
@@ -2155,6 +2131,30 @@
       "duration_ms": 196000,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/4dknK9wbrEGJx5S2Re8SgU"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Ten Outta Ten",
+        "url": "https://open.spotify.com/album/1fpzyikfWMFQZLwDQTD9Td"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Tyrone",
+          "url": "https://open.spotify.com/artist/6aapEQN8zrKOf2NOKf0MPI"
+        },
+        {
+          "name": "Kid Kyote",
+          "url": "https://open.spotify.com/artist/4eLOi1gjvvufSBOfQt5wRA"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Ten Outta Ten",
+      "url": "https://open.spotify.com/track/1qXUDkT5NiiwkK4T0FLYPt"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -2243,6 +2243,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
+      },
+      "artists": [
+        {
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Molotov",
         "url": "https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e"
       },
@@ -2307,22 +2323,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
-      },
-      "artists": [
-        {
-          "name": "THYKIER",
-          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/673R1IoWosG0vYh17jCRYo"
       },
@@ -2343,6 +2343,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Stereo Function",
+        "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
+        }
+      ],
+      "duration_ms": 206904,
+      "name": "Stereo Function",
+      "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO"
       },
@@ -2359,26 +2379,6 @@
       "duration_ms": 215238,
       "name": "The One",
       "url": "https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Dipped In $ugar",
-        "url": "https://open.spotify.com/album/0NBWcDaIvs1YxDeuLkqA5Y"
-      },
-      "artists": [
-        {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 230742,
-      "name": "Dipped In $ugar",
-      "url": "https://open.spotify.com/track/37IKuXFdoYsfL4RyoxhO6k"
     }
   ],
   "unique_name": "Nasty Bits",

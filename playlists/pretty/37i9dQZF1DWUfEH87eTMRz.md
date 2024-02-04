@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 
 > Bogotá, Marzo 23, 24, 25 y 26\. Foto: Billie Eillish
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,164 likes - 88 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,162 likes - 88 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 87 | [Dame Dame Dame \(Un Pelao Esta Noche\)](https://open.spotify.com/track/0cdjbdyZ6Zm2MlChywPEzH) | [Felipe Orjuela](https://open.spotify.com/artist/4HOjhQlHtSRkt1ywi5JTMs), [La Nueva Estudiantina Electrónica](https://open.spotify.com/artist/5pipWDbMhmVYvYltFgJr1C) | [La Nueva Estudiantina Electrónica](https://open.spotify.com/album/1QfEbwvRAmLpMbyThc1gha) | 4:31 |
 | 88 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 |
 
-Snapshot ID: `MCw3MjRlZWYxY2FlMjA1MDhiYTMzZjliZWY5NGNhMzg1MDQ5NGNmNzFk`
+Snapshot ID: `MCxhMTBhNDg2NjdlMWI0ZjA1ZDU5ZjZhMzRiZDdmY2UwMzQ2YmY1YzQx`

@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 11873,
+  "2024-02-04": 11873,
   "date_first_scraped": "2022-05-26",
   "description": "Music for Imaginary Films",
   "name": "Nocturna Cinematica",
@@ -101,6 +101,28 @@
       "duration_ms": 352593,
       "name": "A Love Supreme",
       "url": "https://open.spotify.com/track/6ZjiUUaTWTeKCkHZK3NBQs"
+    },
+    {
+      "album": {
+        "name": "A Mountain is an Ancestor",
+        "url": "https://open.spotify.com/album/0PryKA5f9QsAc6aoUai98y"
+      },
+      "artists": [
+        {
+          "name": "Pan-American",
+          "url": "https://open.spotify.com/artist/7idm1Z2kk9ffIobkLlZ2Ds"
+        },
+        {
+          "name": "Kramer",
+          "url": "https://open.spotify.com/artist/1jacVtMSOup3dqdSEeegZg"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231219,
+      "name": "A Mountain is an Ancestor",
+      "url": "https://open.spotify.com/track/76ibv2JcIKrKWgMs1vHo1f"
     },
     {
       "album": {
@@ -3271,7 +3293,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 156201,
       "name": "Passing Lights - Cinematic Version",
       "url": "https://open.spotify.com/track/2W0euyZlyIjmwYNzEfcVwr"

@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 352851,
+  "2024-02-04": 352859,
   "date_first_scraped": "2021-12-21",
   "description": "Country music to accompany you on the open road. Cover: Kelsea Ballerini",
   "name": "Country Drive",
@@ -2699,6 +2699,24 @@
       "duration_ms": 198688,
       "name": "I Hope You\u2019re Happy Now",
       "url": "https://open.spotify.com/track/1iiehnBysGi59zXYXIuKQD"
+    },
+    {
+      "album": {
+        "name": "Side Effects Of The Heart",
+        "url": "https://open.spotify.com/album/5NyxBYEqQFpOCS4Gn3wNCK"
+      },
+      "artists": [
+        {
+          "name": "Alex Hall",
+          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161103,
+      "name": "I Know A Guy",
+      "url": "https://open.spotify.com/track/6LCY0s8iDoooe8eMkdEQMu"
     },
     {
       "album": {
@@ -5623,7 +5641,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 218946,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V"

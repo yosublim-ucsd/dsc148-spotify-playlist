@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 11763,
+  "2024-02-04": 11768,
   "date_first_scraped": "2023-10-15",
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
   "name": "Quirktronica",
@@ -804,6 +804,24 @@
     },
     {
       "album": {
+        "name": "Scorpion Deathlock",
+        "url": "https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF"
+      },
+      "artists": [
+        {
+          "name": "The Golden Age of Wrestling",
+          "url": "https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173226,
+      "name": "Ferrari Rocher",
+      "url": "https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf"
+    },
+    {
+      "album": {
         "name": "21 Again Collaborations, Pt. 1",
         "url": "https://open.spotify.com/album/3bPdgAKQZRbPa9ESQGUsqr"
       },
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 247380,
       "name": "Krautzig",
       "url": "https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E"
@@ -1903,7 +1921,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 254800,
       "name": "Plaything",
       "url": "https://open.spotify.com/track/0VEU0lalfqxjwezz7M1YaI"
@@ -2951,6 +2969,24 @@
       "duration_ms": 150289,
       "name": "Years and Elements",
       "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"
+    },
+    {
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/1V3eYXwUbFiGsdLrFp8efN"
+      },
+      "artists": [
+        {
+          "name": "Entele",
+          "url": "https://open.spotify.com/artist/5S4KGrV1TY9Dqi8dS5LbPo"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235140,
+      "name": "Z",
+      "url": "https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-887 songs - 2 day 1 hr 54 min
+888 songs - 2 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,7 @@
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-01-21 |  |
 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 | 2021-04-07 | 2021-05-06 |
 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 | 2023-10-05 | 2023-10-10 |
-| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-09 |  |
+| [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-09 | 2024-02-04 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-01 | 2023-09-10 |
 | [Versace on the Floor](https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 4:21 | 2023-10-05 | 2023-10-09 |
 | [VIEWS](https://open.spotify.com/track/5xlKyUU727MRZycNqeGWVr) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy), [ROUSSO](https://open.spotify.com/artist/0B0XXiGxIzdpQAvf3otjUb) | [KIDS](https://open.spotify.com/album/55JRBOOVB5twmQbydWvzBc) | 2:45 | 2021-04-15 | 2021-04-22 |
@@ -516,6 +516,7 @@
 | [בזמן האחרון](https://open.spotify.com/track/5cENOu6Era495FYzmGsCsd) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [בזמן האחרון](https://open.spotify.com/album/0g8BA4sp4H8RTgYepBt0uI) | 3:19 | 2022-04-02 | 2022-04-07 |
 | [בזמן האחרון](https://open.spotify.com/track/5ezFz6Jwn7l40kIGAP4zmL) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [קצת שמח קצת עצוב](https://open.spotify.com/album/3J0HUIjrnO6O3laWJm9Xp9) | 3:19 | 2022-04-06 | 2022-05-05 |
 | [בזמן האחרון](https://open.spotify.com/track/5mT0kHqW0vMAjLS9dCGkeM) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [בזמן האחרון](https://open.spotify.com/album/3VGHfCuv4ExmHvYcYdrHlm) | 3:35 | 2024-01-10 | 2024-01-13 |
+| [בחורים טובים \- Acoustic Live](https://open.spotify.com/track/6W2tGdihSWtBIjooCZl35U) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [בחורים טובים \(Acoustic Live\)](https://open.spotify.com/album/1cX8TL6rpa4LgI7a2DwobE) | 3:41 | 2024-02-03 |  |
 | [ביחד](https://open.spotify.com/track/3yyHRwblo5kk0fH9pfMP6M) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp), [Guy Mentesh](https://open.spotify.com/artist/4fEvmZa0SYpKxIk9DXyQUJ) | [ביחד](https://open.spotify.com/album/0w2JUD94m7ZQ2o3uTMU4Y0) | 2:31 | 2021-08-26 | 2024-01-29 |
 | [ביחד](https://open.spotify.com/track/4NJbK9op9ixBJVOXEwNK4R) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp), [Guy Mentesh](https://open.spotify.com/artist/4fEvmZa0SYpKxIk9DXyQUJ) | [ביחד](https://open.spotify.com/album/5oC80Ft440Tc0cyRRefKsi) | 2:31 | 2021-03-27\* | 2021-08-26 |
 | [בימים ההם](https://open.spotify.com/track/6n0Rajp2KbX5X7HeJrAyrH) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בימים ההם](https://open.spotify.com/album/3kyru2X7jEoQuScV2KmJVO) | 2:58 | 2022-07-19 | 2022-07-27 |
@@ -685,7 +686,7 @@
 | [לשוב הביתה](https://open.spotify.com/track/52n4gF126eIllrGuc9Zus6) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [שטח אפור](https://open.spotify.com/album/6wqHpH5HDBbGleU9BnjFS9) | 3:17 | 2021-03-27\* | 2023-12-25 |
 | [לשטוף את העיניים](https://open.spotify.com/track/17vUXWH5DrZi961ZobcElf) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 2:24 | 2023-02-23 | 2023-02-26 |
 | [לשטוף את העצב](https://open.spotify.com/track/4cHhUWXkEtSj7kdue9SO5u) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לשטוף את העצב](https://open.spotify.com/album/5FNVYBinYTk1C3HkDkKQb5) | 4:04 | 2024-01-19 |  |
-| [מאושר יותר](https://open.spotify.com/track/7fH0PoOG01JMLKWeHVK9m2) | [שחר סאול](https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE) | [צולל](https://open.spotify.com/album/1EVfOugd52WzgqBmWflmVP) | 2:43 | 2024-01-30 |  |
+| [מאושר יותר](https://open.spotify.com/track/7fH0PoOG01JMLKWeHVK9m2) | [שחר סאול](https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE) | [צולל](https://open.spotify.com/album/1EVfOugd52WzgqBmWflmVP) | 2:43 | 2024-01-30 | 2024-02-04 |
 | [מאמי](https://open.spotify.com/track/0iTSkLz9biPGVXqTSrkkNd) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [מאמי](https://open.spotify.com/album/75PctryEK8QcxFQyEF37bc) | 2:00 | 2022-12-19 | 2023-04-01 |
 | [מאמי](https://open.spotify.com/track/2gpNRdJs3Sy5GI1G7pTgbZ) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [האמת](https://open.spotify.com/album/2As67LcrZgVdpKqa0YAnSA) | 2:00 | 2023-03-31 | 2023-05-21 |
 | [מבטיח](https://open.spotify.com/track/10Hl2j6T952VAUSQHGLQ04) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 3:06 | 2021-12-07 | 2021-12-11 |
@@ -835,7 +836,7 @@
 | [קרן שמש](https://open.spotify.com/track/7qbXsnOZagWxv6QQzMKdDN) | [Benaia Barabi](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [קרן שמש](https://open.spotify.com/album/3zDRtCOpwik5Z4yLfg2XoZ) | 3:47 | 2022-08-03 | 2022-08-11 |
 | [ראשון בבוקר](https://open.spotify.com/track/3xtK7rFrJvL5hrBu4vFgf7) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt), [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [ראשון בבוקר](https://open.spotify.com/album/4yXN6hkRfpYm4AshupuLn4) | 2:49 | 2022-12-12 | 2023-02-15 |
 | [רובינזון קרוזו](https://open.spotify.com/track/7GzjoBxxDIiBx6JFFHY9x5) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g), [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [שבעה ירחים](https://open.spotify.com/album/0dT7h6FQ94qYgUqgaC2eQY) | 2:28 | 2021-07-10 | 2021-09-01 |
-| [רונדלים](https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 1:54 | 2023-02-23 | 2024-01-30 |
+| [רונדלים](https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 1:54 | 2023-02-23 |  |
 | [רוצה שלום](https://open.spotify.com/track/4L4dPjtEVEpZ0ER2deHAJA) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [רוצה שלום](https://open.spotify.com/album/3TsFkrLXnknyMa3GegwMOR) | 3:28 | 2021-03-27\* | 2021-12-19 |
 | [רסיסים](https://open.spotify.com/track/4qAHhdpiGcbzqwjqmwuXwj) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [רסיסים](https://open.spotify.com/album/1VJTRr2sjWAUBN5vcfci6T) | 3:21 | 2021-03-27\* | 2022-04-12 |
 | [רסיסים](https://open.spotify.com/track/71h6sV5KytTmPARarI28wI) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [רסיסים](https://open.spotify.com/album/5EZtdMdFyk9kCQKRmdXmUY) | 3:21 | 2022-04-11 | 2022-08-26 |

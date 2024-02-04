@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Enrique Iglesias y Yotuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,483 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,216 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 31 | [RON](https://open.spotify.com/track/7gGzleIFpqn2ppMN3ddKM3) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [RON](https://open.spotify.com/album/5ckqrj6HS5FrkKgOCESBDd) | 3:07 |
 | 32 | [Mi Primer Amor](https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Mi Primer Amor](https://open.spotify.com/album/53YxUPkUs8V8w9DQcC8GMF) | 3:01 |
 | 33 | [woyo woyo](https://open.spotify.com/track/4pYPYPNIzIFOfBLwCMiNSv) | [gabiboi](https://open.spotify.com/artist/4Z7TRxO1G30C3CQW4PV7SG), [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [woyo woyo](https://open.spotify.com/album/0CgiAbNYinIhkFHo3lzAqg) | 3:34 |
-| 34 | [El Que Resuelve](https://open.spotify.com/track/56Br9FPB36z1qf8gnu2Zib) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [El Gudi](https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB) | [El Que Resuelve](https://open.spotify.com/album/1PMRGdRKgG9nRwlX8XfasE) | 2:50 |
+| 34 | [El Que Resuelve](https://open.spotify.com/track/56Br9FPB36z1qf8gnu2Zib) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [El Gudi](https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB) | [El Que Resuelve](https://open.spotify.com/album/1PMRGdRKgG9nRwlX8XfasE) | 3:08 |
 | 35 | [Modo Avion](https://open.spotify.com/track/3J4o53SjMVc005uHVNS17q) | [AGUDELO888](https://open.spotify.com/artist/3awRE6jqoFW9iipvpPTCMM), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Modo Avion](https://open.spotify.com/album/0AfpUvuyMDBXpwyRG4h42C) | 2:31 |
 | 36 | [La Libreta](https://open.spotify.com/track/7o3XvfwdEbzKOcnflkxR3N) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [La Libreta](https://open.spotify.com/album/4g5IY0bVP3ftIgnwVKWSNU) | 2:35 |
 | 37 | [PERO NAH!](https://open.spotify.com/track/1XGfXlXEggYgLHPFQIT1Aq) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU) | [PERO NAH!](https://open.spotify.com/album/6cTAjRwKXVfrHvFGFGHlHk) | 2:09 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [Rolé na Favela de Nave](https://open.spotify.com/track/1m5nbZiPpCIi9J2irLNoxh) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Didi](https://open.spotify.com/artist/15bTpg6S948FjSiOhB7eXi), [Dj Lc da Roça](https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag), [MC Smith](https://open.spotify.com/artist/6OUIY1hXVxeiAw6K7rDerM), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Rolé na Favela de Nave](https://open.spotify.com/album/1m42RnQb6QKdchutofb4mH) | 3:12 |
 | 55 | [A Gente Tem Tudo a Ver](https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk) | [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Mais Uma História de Amor](https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi) | 2:30 |
 
-Snapshot ID: `MCw0NDQwNTE5NWRhOGJiOWFiMTk0YzcxNjUwYWMwMDAzNTk3YTA1NWI0`
+Snapshot ID: `MCwyYmU5MjRlMjUzZThjYzU2Y2Y5MDRlOGE2YjMwZWViNjM2ZTQzNjhj`

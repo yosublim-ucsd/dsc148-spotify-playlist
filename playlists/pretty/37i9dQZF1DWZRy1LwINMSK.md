@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno al mando de Lleflight.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,086 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,144 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 83 | [Silent Hill \(feat\. Flor De Rap\)](https://open.spotify.com/track/63ri7MQ6AxvUXHoBOuzccg) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 3:44 |
 | 84 | [Flow Pe$ado](https://open.spotify.com/track/0OmcEs8jVVRaPB2U4KR1OZ) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Flow Pe$ado](https://open.spotify.com/album/4DAvoNoPJEZkZjljj8G8PX) | 2:53 |
 | 85 | [To' Tu Size](https://open.spotify.com/track/7jzJd9ZuHifdJzb64wBLKZ) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [To' Tu Size](https://open.spotify.com/album/350YEZ7qaf4m2T887RcfW2) | 2:56 |
-| 86 | [Entre Envidia Y Muerte](https://open.spotify.com/track/00y6RixyknzrTvC8W9vK8q) | [Crucer](https://open.spotify.com/artist/5PHDVE30e9FnYScGAsqgrv), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Entre Envidia Y Muerte](https://open.spotify.com/album/2r92jhDd12xmQSByQ1nHWW) | 6:13 |
+| 86 | [Entre Envidia Y Muerte](https://open.spotify.com/track/00y6RixyknzrTvC8W9vK8q) | [Crucer](https://open.spotify.com/artist/5PHDVE30e9FnYScGAsqgrv), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Entre Envidia Y Muerte](https://open.spotify.com/album/2r92jhDd12xmQSByQ1nHWW) | 6:13 |
 | 87 | [Mode On, Marcianeke \#05](https://open.spotify.com/track/6aFtRDWUyybfR3578mB3Bv) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Mode On](https://open.spotify.com/album/79RYVRZr0yVV0B0qid9qoy) | 2:47 |
 | 88 | [4 My Guap](https://open.spotify.com/track/3qobz0gjII9F42kAdrvueO) | [Neelo](https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Sander Wazz](https://open.spotify.com/artist/3O2ALOTlfmlMCabLD6YVcb) | [4 My Guap](https://open.spotify.com/album/7E83IjQpHhPok8TRvm6Fxw) | 4:09 |
 | 89 | [Generaciones \(feat\. OldPurp & Left Behind\)](https://open.spotify.com/track/1T4DYB11yGiuco0hAD6k9h) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [ALEX FATT](https://open.spotify.com/artist/662AsYFCIZoKBTgrMvdSGy), [OldPurp](https://open.spotify.com/artist/1h0hHYHR3rv8Ol5yudY5Vi), [Left Behind](https://open.spotify.com/artist/3oPnhTiVCK16n4lh2BDFVd) | [Shishi Plugg](https://open.spotify.com/album/0EDzLjsolQn2ON3Zn9IJ20) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 99 | [Te Vas](https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [L.O.V.E.](https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I) | 1:58 |
 | 100 | [MARILÚ](https://open.spotify.com/track/1sWj4tgMHEtwM4NWGSXbdj) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [MARILÚ](https://open.spotify.com/album/4v94l0rjxYHcsF74Lo7yVm) | 2:45 |
 
-Snapshot ID: `MCwyMmFmZjg5YjgxNWNhZGU1NmE1NWU1NmVkYTQ1Y2RhNmFkNjRiNDNj`
+Snapshot ID: `MCw5ZWIwZjhiODk5MWRjMGNkNjFlZDQwZjY0NDY1ODIwMTEwODI3YmM1`

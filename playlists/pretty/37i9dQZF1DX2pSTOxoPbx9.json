@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 805792,
+  "num_followers": 805998,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjcwZGQ0Y2FiMzExYzg4ZjM3N2JiNGRjZjFmMGU1YWExNTVkY2I4",
+  "snapshot_id": "MCwxN2Y3NTI3YzZiNTg3NzJlZjQwMDFiZDFlY2IyMjA3YTViZWRjMTcz",
   "tracks": [
     {
       "added_at": "2023-11-20 17:42:26",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "Seven + Mary",
-        "url": "https://open.spotify.com/album/05WJ8XAD4QWV6mrM5NoguG"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "Devil Like Me",
-      "url": "https://open.spotify.com/track/6pSliMukEwAdpMPgCKTKDH"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 219681,
       "name": "Garden Song",
       "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "I Need My Girl",
+      "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -179,22 +179,6 @@
       "duration_ms": 259466,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/4y9vLiQ9mQb6XNEtc4K6ou"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
-        "name": "Trouble Will Find Me",
-        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "I Need My Girl",
-      "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -247,6 +231,22 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
         "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
         "url": "https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3"
       },
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
         }
       ],
-      "duration_ms": 213440,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
+      "duration_ms": 249739,
+      "name": "Beggin For Thread",
+      "url": "https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
       },
       "artists": [
         {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 249739,
-      "name": "Beggin For Thread",
-      "url": "https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF"
+      "duration_ms": 266546,
+      "name": "Arsonist's Lullabye",
+      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -327,22 +327,6 @@
       "duration_ms": 219226,
       "name": "9 Crimes",
       "url": "https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 266546,
-      "name": "Arsonist's Lullabye",
-      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -375,6 +359,22 @@
       "duration_ms": 174172,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 281213,
+      "name": "I Forget Where We Were",
+      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
         }
       ],
-      "duration_ms": 281213,
-      "name": "I Forget Where We Were",
-      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
+      "duration_ms": 207718,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -475,22 +475,6 @@
       "duration_ms": 149422,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 207718,
-      "name": "Waiting Game",
-      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -523,6 +507,22 @@
       "duration_ms": 236746,
       "name": "The System Only Dreams in Total Darkness",
       "url": "https://open.spotify.com/track/612R6rJlv9N3wpljUpT8Ja"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 343786,
+      "name": "Small Things",
+      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -595,22 +595,6 @@
       "duration_ms": 228546,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 343786,
-      "name": "Small Things",
-      "url": "https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -695,6 +679,22 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Wasting My Young Years",
+      "url": "https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
         "name": "Run On",
         "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 212705,
       "name": "Run On",
       "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
-        "name": "If You Wait",
-        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Wasting My Young Years",
-      "url": "https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -811,22 +795,6 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "Crush (Stripped)",
-        "url": "https://open.spotify.com/album/10fYQ1V2fQb9JVTFFdr5TA"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Crush - Stripped",
-      "url": "https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
         "name": "If You Wait",
         "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
       },
@@ -839,6 +807,22 @@
       "duration_ms": 207253,
       "name": "Hey Now",
       "url": "https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
+        "name": "Crush (Stripped)",
+        "url": "https://open.spotify.com/album/10fYQ1V2fQb9JVTFFdr5TA"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "Crush - Stripped",
+      "url": "https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -1063,22 +1047,6 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "Fire of Love",
-        "url": "https://open.spotify.com/album/2FXiYzdQcU5btMt1BfK9UL"
-      },
-      "artists": [
-        {
-          "name": "Jesse Jo Stark",
-          "url": "https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0"
-        }
-      ],
-      "duration_ms": 280497,
-      "name": "Fire of Love",
-      "url": "https://open.spotify.com/track/4lnAR9AH0WZoRUNsOgwHXd"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
         "name": "I Speak Because I Can",
         "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
       },
@@ -1091,6 +1059,22 @@
       "duration_ms": 218188,
       "name": "Devil's Spoke",
       "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
+        "name": "Fire of Love",
+        "url": "https://open.spotify.com/album/2FXiYzdQcU5btMt1BfK9UL"
+      },
+      "artists": [
+        {
+          "name": "Jesse Jo Stark",
+          "url": "https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0"
+        }
+      ],
+      "duration_ms": 280497,
+      "name": "Fire of Love",
+      "url": "https://open.spotify.com/track/4lnAR9AH0WZoRUNsOgwHXd"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -1251,6 +1235,22 @@
       "duration_ms": 215729,
       "name": "Deep Green",
       "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
+        "name": "Seven + Mary",
+        "url": "https://open.spotify.com/album/5krQbJqzCCOxCGOQ3W8Tr6"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Devil Like Me",
+      "url": "https://open.spotify.com/track/5VJe8OKFcPBBjNEAPUeDuJ"
     },
     {
       "added_at": "2023-11-20 17:42:26",

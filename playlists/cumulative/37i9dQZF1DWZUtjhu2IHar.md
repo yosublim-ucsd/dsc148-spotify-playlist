@@ -4,7 +4,7 @@
 
 > Our editor’s picks for best songs from The Locker in 2023\. Cover: NOAHFINNCE
 
-172 songs - 8 hr 24 min
+173 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 | 2023-11-29 |  |
 | [Bathroom Floor](https://open.spotify.com/track/1m7lgJNH3l3vOm6DVs5QpZ) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Bathroom Floor](https://open.spotify.com/album/0lz6NWWx2xScDcqoB9R8PY) | 2:32 | 2023-11-29 |  |
 | [Big Cat Judgement Day](https://open.spotify.com/track/3zRrr0SS4saZOfihrSvlqy) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [With Confidence](https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp) | 2:31 | 2021-12-01 | 2022-12-01 |
-| [bLeSs uR hEaRt](https://open.spotify.com/track/4bjn7QMGA72zxqEfrm6fpE) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/16ybJSJV5vWOH4PjmnvWgO) | 3:11 | 2023-11-29 |  |
+| [bLeSs uR hEaRt](https://open.spotify.com/track/4bjn7QMGA72zxqEfrm6fpE) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/16ybJSJV5vWOH4PjmnvWgO) | 3:11 | 2023-11-29 | 2024-02-04 |
+| [bLeSs uR hEaRt](https://open.spotify.com/track/5dUgbxgqNmCBSmpH5GqKbD) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/7GDQZo95yvUhGpYCeEWYuU) | 3:11 | 2023-11-29 |  |
 | [BLOODSTREAM](https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [BLOODSTREAM](https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP) | 3:09 | 2023-11-29 |  |
 | [BOOM](https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [BOOM](https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7) | 2:22 | 2023-11-29 |  |
 | [Boring](https://open.spotify.com/track/3FfxSDPqcaUuisrMQmiheD) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Boring](https://open.spotify.com/album/6ScocnQZ8S77TH9iOKPY1o) | 3:28 | 2021-12-01 | 2022-12-01 |

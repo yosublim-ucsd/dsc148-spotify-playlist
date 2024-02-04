@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 456175,
+  "2024-02-04": 456186,
   "date_first_scraped": "2022-07-31",
   "description": "Country hits that will have you singing every word. Cover: Luke Combs",
   "name": "Country Favourites",
@@ -1161,7 +1161,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 183466,
       "name": "Dying Man",
       "url": "https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu"
@@ -2454,6 +2454,24 @@
     },
     {
       "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163854,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn"
+    },
+    {
+      "album": {
         "name": "Last Night Lonely",
         "url": "https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp"
       },
@@ -2595,7 +2613,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 179973,
       "name": "Looking for You",
       "url": "https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9"
@@ -5203,6 +5221,24 @@
       "duration_ms": 189368,
       "name": "Wide Open",
       "url": "https://open.spotify.com/track/5TUpyqeMd2q1rC2xDHN1JE"
+    },
+    {
+      "album": {
+        "name": "Blacktop",
+        "url": "https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201066,
+      "name": "Wild as Her",
+      "url": "https://open.spotify.com/track/3kXH9BQq0TyNliiP1MIE6N"
     },
     {
       "album": {

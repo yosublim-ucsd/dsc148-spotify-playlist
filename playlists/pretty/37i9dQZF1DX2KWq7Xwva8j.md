@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro está aquí\. Foto: Yarea
+> El futuro está aquí\. Foto: Mushkaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,555 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,561 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [22:22](https://open.spotify.com/track/6sgvEizEWx78hraou2YH1t) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [En qué pienso cuando lloro](https://open.spotify.com/album/2IkrQhvVdddjOMbwiW77nI) | 3:21 |
+| 1 | [El Disfraz](https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:44 |
 | 2 | [Supernova](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Supernova](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 |
 | 3 | [Algo Sencillito](https://open.spotify.com/track/2mlccfOj0SdzAoOQRca7vn) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Algo Sencillito](https://open.spotify.com/album/5KD3zAPmFm1uiTXDHTBDZm) | 2:57 |
 | 4 | [ME MATA\(S\)](https://open.spotify.com/track/6yFacR2XoribBixsZvXxvg) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [Alex Wall](https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp) | [ME MATA\(S\)](https://open.spotify.com/album/6uUM0HqOhv288VOY0gPvJR) | 3:04 |
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 17 | [Tiro Al Aire](https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tiro Al Aire](https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk) | 3:20 |
 | 18 | [En Otro Lugar](https://open.spotify.com/track/4cbYLSExjhetFfq2WHGYhR) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [En Otro Lugar](https://open.spotify.com/album/7yUGYSIUFrE4u335WYpXgx) | 2:58 |
 | 19 | [Agua al dolor](https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Agua al dolor](https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh) | 3:28 |
-| 20 | [Me Gustas Tanto](https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Me Gustas Tanto](https://open.spotify.com/album/51rmLgJi9VMG2IBqOxUJH2) | 2:01 |
+| 20 | [novio del año](https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [novio del año](https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn) | 2:34 |
 | 21 | [La Culpa](https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [La Culpa](https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ) | 2:54 |
 | 22 | [Desastre de persona](https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Desastre de persona](https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo) | 2:53 |
 | 23 | [Soy El Único \- Spotify Singles](https://open.spotify.com/track/7J6AQy64vqI4DYx5oJfgfi) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Spotify Singles](https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli) | 2:47 |
 | 24 | [Leyla](https://open.spotify.com/track/6wBtiIDVUTQzukngZ0dNGq) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [Leyla](https://open.spotify.com/album/1SmBBlgEby0mxo1DDGrT2J) | 2:31 |
-| 25 | [novio del año](https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [novio del año](https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn) | 2:34 |
+| 25 | [Que Te Vaya Bonito](https://open.spotify.com/track/1oQ3BtEsx8OutWKc6Pi4YO) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Que Te Vaya Bonito](https://open.spotify.com/album/2QP00xGExqHa6TSrnoEuXt) | 2:53 |
 | 26 | [Con Miedo a Ti](https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Alto Cielo](https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V) | 4:51 |
 | 27 | [Solo me gustas cuando yo te gusto a ti](https://open.spotify.com/track/6PdT8A35WPRr4r7JNjyTWO) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Solo me gustas cuando yo te gusto a ti](https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao) | 3:12 |
 | 28 | [Cápsula Espacial](https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [Cápsula Espacial](https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr) | 2:36 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 30 | [Nada ha cambiado](https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [NO ME PASA NADA](https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI) | 2:40 |
 | 31 | [favorita](https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [favorita](https://open.spotify.com/album/1S7trDsVlwschptph947TY) | 2:07 |
 | 32 | [No Me Salves](https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [No Me Salves](https://open.spotify.com/album/3fFodInCmkqeErsA3w551s) | 3:52 |
-| 33 | [Que Te Vaya Bonito](https://open.spotify.com/track/1oQ3BtEsx8OutWKc6Pi4YO) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Que Te Vaya Bonito](https://open.spotify.com/album/2QP00xGExqHa6TSrnoEuXt) | 2:53 |
+| 33 | [los chicos no lloran](https://open.spotify.com/track/2jD6X6gSLtynew2xj6qHRt) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [los chicos no lloran](https://open.spotify.com/album/7uKY4Ga9A9LDtaAWG7hV2H) | 3:18 |
 | 34 | [Del cielo](https://open.spotify.com/track/038sx40baI928rvHqvwlyC) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Del cielo](https://open.spotify.com/album/7B4fVDbdzPEwrpKxG87iRr) | 3:10 |
 | 35 | [Quiero Q Me Tatúes](https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [Quiero Q Me Tatúes](https://open.spotify.com/album/52Qsnxlu17DdbtiNZjAJWA) | 2:30 |
 | 36 | [quien me quiere \(no me quiere contigo\)](https://open.spotify.com/track/5wXsiahlfpyEdY152cbimc) | [INNMIR](https://open.spotify.com/artist/1cJQ1Keojk9HafwW0NGoJn), [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS) | [quien me quiere \(no me quiere contigo\)](https://open.spotify.com/album/3pM1o2Lmf6sKyQCFHqKKyp) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [hey, goodbye](https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Novia del Año](https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0) | 2:56 |
 | 50 | [novio del año](https://open.spotify.com/track/61N27UaFzOqJrhIOruw8Vy) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Novia del Año](https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0) | 2:34 |
 
-Snapshot ID: `MCw0NDY3ZjJjMTIwYzA5MmJjODkzOGVkYzk3MTNjN2YwZDViNGM2M2I1`
+Snapshot ID: `MCxiM2ExNDFhMTNlYTMyMjFmZWQ2ZWQyZmI0YTNlMmIxMWQ4MjYxNzhl`

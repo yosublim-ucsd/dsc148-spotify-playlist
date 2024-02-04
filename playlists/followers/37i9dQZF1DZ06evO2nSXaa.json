@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 158930,
+  "2024-02-04": 159203,
   "date_first_scraped": "2023-12-19",
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
   "name": "This Is Tate McRae",
@@ -65,10 +65,28 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 185155,
       "name": "all my friends are fake",
       "url": "https://open.spotify.com/track/6S6LyCOmUUQuIdre9DSVxd"
+    },
+    {
+      "album": {
+        "name": "all the things i never said",
+        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186213,
+      "name": "all my friends are fake",
+      "url": "https://open.spotify.com/track/3xF2FcXiJjWQUqUYvrp4NT"
     },
     {
       "album": {
@@ -239,7 +257,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 152786,
       "name": "don't come back",
       "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
@@ -329,7 +347,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 213613,
       "name": "go away",
       "url": "https://open.spotify.com/track/40yVW4Ywyxz8xkNcuLbP1N"
@@ -545,7 +563,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 146080,
       "name": "i'm so gone",
       "url": "https://open.spotify.com/track/6uNv4npQ8FZLsH7naE9GK4"
@@ -765,10 +783,28 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 187629,
       "name": "slower",
       "url": "https://open.spotify.com/track/1bd4heB3yXc5iFTPoOMPuo"
+    },
+    {
+      "album": {
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187880,
+      "name": "slower",
+      "url": "https://open.spotify.com/track/4X3Br7EVc8oy44zUwU1z5w"
     },
     {
       "album": {
@@ -783,10 +819,28 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 172915,
       "name": "stupid",
       "url": "https://open.spotify.com/track/4k3uABcX9iaGlt5pRJhumi"
+    },
+    {
+      "album": {
+        "name": "all the things i never said",
+        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173826,
+      "name": "stupid",
+      "url": "https://open.spotify.com/track/0gIxF0RR0miqWLs2fPQGBu"
     },
     {
       "album": {
@@ -949,7 +1003,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 166946,
       "name": "what would you do?",
       "url": "https://open.spotify.com/track/4ewmHD3aRBmLyTsbGreNLw"
@@ -1051,7 +1105,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 169265,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"

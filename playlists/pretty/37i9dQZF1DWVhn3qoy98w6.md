@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Juana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,694 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,692 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Modo Avión](https://open.spotify.com/track/5QzV685jfmasQaqvsK3ZaD) | [Poncelam](https://open.spotify.com/artist/72uNhLTihoU9rcAJR9T3Ak), [T\-Cun](https://open.spotify.com/artist/4JEJWFi359nLzW4uSo3Cfr) | [Modo Avión](https://open.spotify.com/album/7AXxQv5fYgcqiP62qXLcBP) | 3:07 |
 | 50 | [Un Sánduche de Queso](https://open.spotify.com/track/3Todhrq1PJJp9BepY5K993) | [Hijos de la Psicodelia](https://open.spotify.com/artist/6JxIskGsVf6ow8UU9ivNHU) | [Un Sánduche de Queso](https://open.spotify.com/album/2NdfvICaicJZntcZFzejrJ) | 2:19 |
 
-Snapshot ID: `MCxkZTczMTFkMzNmMmFkOWRiNDQ3MjQ0NjFjNWE0NmE1Mzc0OWIwYTc1`
+Snapshot ID: `MCwzMGVjYmQ4YWEwMmM5YzI5OTliOWUzYmZmYzBkN2UzZjc5MmRhMjg2`

@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 2,
+  "2024-02-04": 2,
   "date_first_scraped": "2023-07-13",
   "description": "",
   "name": "locked tf in\ud83d\udd12",
@@ -1664,6 +1664,24 @@
     },
     {
       "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147746,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+    },
+    {
+      "album": {
         "name": "Issa Album",
         "url": "https://open.spotify.com/album/4skCiJhVVSKrDOBtoFbsxU"
       },
@@ -3158,6 +3176,36 @@
     },
     {
       "album": {
+        "name": "XXXTENTACION Presents: Members Only, Vol. 3",
+        "url": "https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn"
+      },
+      "artists": [
+        {
+          "name": "Bass Santana",
+          "url": "https://open.spotify.com/artist/0O1cTzccAEKaEFShgzAK9V"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Cooliecut",
+          "url": "https://open.spotify.com/artist/19uEVh7y7Y9RfjMphMamXc"
+        },
+        {
+          "name": "Kin$oul",
+          "url": "https://open.spotify.com/artist/6HhsbprrJmKeaH8SgSlGge"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118360,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/5BYCMWNQqz4nqErN1ReRGL"
+    },
+    {
+      "album": {
         "name": "Who is Nardo Wick?? (Deluxe)",
         "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
       },
@@ -3631,6 +3679,24 @@
       "duration_ms": 157557,
       "name": "Do Not Disturb (feat. Lil Yachty & Offset)",
       "url": "https://open.spotify.com/track/5Ojb9dF8VoBHUwbDfPxMlg"
+    },
+    {
+      "album": {
+        "name": "digital druglord",
+        "url": "https://open.spotify.com/album/0a8WSH44kA5hR4MQ6LyFDB"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212027,
+      "name": "do re mi",
+      "url": "https://open.spotify.com/track/6Se3x9ANMLv0dCDsjGmEjh"
     },
     {
       "album": {
@@ -9303,6 +9369,24 @@
       "duration_ms": 153561,
       "name": "No Suburban, Pt. 2",
       "url": "https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f"
+    },
+    {
+      "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151285,
+      "name": "NO TRENDS",
+      "url": "https://open.spotify.com/track/1R7IfLjtJ4B9kqjIqaEeVf"
     },
     {
       "album": {

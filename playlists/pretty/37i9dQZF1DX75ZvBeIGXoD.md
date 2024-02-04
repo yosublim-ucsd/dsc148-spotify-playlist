@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75ZvBeIGXoD.md) - [plain]
 
 > a perfect soundtrack for eating the Mariah Carey happy meal in your car
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,337 likes - 78 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,324 likes - 78 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75ZvBeIGXoD.md) - [plain]
 | 72 | [Give Great Thanks](https://open.spotify.com/track/42Lx4iunLk0Vxkpw2OQfsE) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [My Agenda](https://open.spotify.com/album/0L53GIjCJxQXYeI3us0rgH) | 3:06 |
 | 73 | [We're the Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 |
 | 74 | [Christmas Saves The Year](https://open.spotify.com/track/6ZTFZm4IEFnMSDfO6mVgMY) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Christmas Saves The Year](https://open.spotify.com/album/5bh5kgZddiyd5ObXOP9Exu) | 3:32 |
-| 75 | [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 |
+| 75 | [Another Year](https://open.spotify.com/track/2PjhrIf3ro6skhdBHAUl1P) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/4QqbHVOhj56RKsBTHBxw9x) | 4:16 |
 | 76 | [A Great Big Sled](https://open.spotify.com/track/06IAtZZ8S6oeshqZpIJ00M) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Toni Halliday](https://open.spotify.com/artist/1k92N0jplAxEijUxiecNDk) | [Christmas Rock](https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2) | 4:18 |
 | 77 | [Have Yourself a Merry Little Christmas \- Jo Whiley, BBC Radio 1 Session](https://open.spotify.com/track/4cLMJLCJS4tXQoH416h77P) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Have Yourself a Merry Little Christmas \(Jo Whiley, BBC Radio 1 Session\)](https://open.spotify.com/album/1sPu7EQ1vbjG3A5GOqMVam) | 2:19 |
 | 78 | [I Need You Christmas](https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Need You Christmas](https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR) | 3:26 |
 
-Snapshot ID: `MCwyN2QyN2M4MzQwNGMyZmEyM2Y3MjY4MWY4YTA5MWM4YThjNzExNTA0`
+Snapshot ID: `MCxjNjA5ZWUwMTNlMjQ1OTU0MGJjZjEyZjE1Njc3YTE4YzM0MmYyMzNh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 
 > Our editors’ picks for the best of hip\-hop in Canada in 2023\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,389 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,359 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 | 49 | [First Day Out \(Freestyle\)](https://open.spotify.com/track/7idI4LLo9LVLqrvvzhSj3n) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\)](https://open.spotify.com/album/31UX5n39Siyj0nXs1s5DSZ) | 2:22 |
 | 50 | [JEEZ \- Remix](https://open.spotify.com/track/6nCWbZi88y0yWa8Kz6wypT) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Paris Richards](https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH) | [JEEZ \(Remix\)](https://open.spotify.com/album/4rVLtPPxZBFcxgwIFDavU3) | 2:08 |
 
-Snapshot ID: `MCxhNjYwNmZhYTk3MWUwZjBmZmM3Njg1ZjNjNTExZDgzMTM0OWViMTVi`
+Snapshot ID: `MCxlMGM2ZWJiZmE2MjEzNjk1NzJmOWExNWU3Y2M5NGJmMTc4ODQwMjVl`

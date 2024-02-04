@@ -4,7 +4,7 @@
 
 > Celebrate the legend Lata Mangeshkar with her evergreen songs \(1929 \- ∞\)
 
-63 songs - 5 hr 44 min
+64 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Bangle Ke Peechhe](https://open.spotify.com/track/2NptrDJFXKX6U7Xcrcg9F8) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Samadhi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42tJue2GQXcTMfOtP5q4TE) | 5:39 | 2023-02-12 | 2023-04-09 |
 | [Bheegi Bheegi Raaton Mein \(From "Ajnabee"\)](https://open.spotify.com/track/1MOguHUU3ebLM4C5u20duQ) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 3:53 | 2023-02-12 |  |
 | [Chalte Chalte Yun Hi Koi](https://open.spotify.com/track/1KpTS270MT96OszvcFVdlk) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Remembering Lata Didi](https://open.spotify.com/album/4kwcpIrNEAYXeSycvcqg6v) | 5:53 | 2023-02-12 |  |
-| [Chanda Hai Tu Mera Suraj Hai Tu](https://open.spotify.com/track/2QT3N16dYd2xAuzYmRRRMb) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Aradhana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kMiiLFW6EXspbezKJnFUe) | 4:02 | 2023-02-12 |  |
+| [Chanda Hai Tu Mera Suraj Hai Tu](https://open.spotify.com/track/2QT3N16dYd2xAuzYmRRRMb) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Aradhana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kMiiLFW6EXspbezKJnFUe) | 4:02 | 2023-02-12 | 2024-02-04 |
+| [Chanda Hai Tu Mera Suraj Hai Tu](https://open.spotify.com/track/3C7Jcyq99vgklpaGTcjQE1) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Meri Maa \- Lata Mangeshkar Hits](https://open.spotify.com/album/45POwp8zob7Zeie6nLGJsH) | 4:02 | 2024-01-29 |  |
 | [Dil Bechen Hai](https://open.spotify.com/track/1Etr6WQqv9eXG3CCK8HfAs) | [Anupma Yadav](https://open.spotify.com/artist/1npM7bcqlGK4UpD5LDLnEm) | [Dil Bechen Hai](https://open.spotify.com/album/6Yd6PIx8yUvcXvFsoqqpnl) | 5:47 | 2023-11-29 |  |
 | [DIL DEEWANA](https://open.spotify.com/track/4qHVuUaejwuIrrvuuMZyiA) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lata Didi \- Free Hits](https://open.spotify.com/album/3oNP4YgQxI9wzPmBlBkvr8) | 5:55 | 2023-03-29 |  |
 | [Dil Deewana \- Female Vocals](https://open.spotify.com/track/5M7LdQfurIG70nbvlSAO07) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Maine Pyar Kiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3flrttGG0qyeMjI08VeBEV) | 5:54 | 2023-02-12 | 2023-04-09 |

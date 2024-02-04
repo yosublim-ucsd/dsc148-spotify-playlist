@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 39489,
+  "2024-02-04": 39508,
   "date_first_scraped": "2022-04-19",
   "description": "The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.",
   "name": "Nursery Rhymes",
@@ -4979,6 +4979,24 @@
       "duration_ms": 119361,
       "name": "The Panda Bear Went Over the Mountain",
       "url": "https://open.spotify.com/track/6Y1zAR6pSenrSpZlXGz3cL"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes ABC : Children's Music for Learning and Fun!",
+        "url": "https://open.spotify.com/album/1uuqNKPgAF3DeJbZXjovws"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes ABC",
+          "url": "https://open.spotify.com/artist/26UV9EKIInWeV0jJysGZum"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146896,
+      "name": "The Runaway Train",
+      "url": "https://open.spotify.com/track/18FFz5c0nFx5Fka1sjmj2f"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 56976,
+  "2024-02-04": 56984,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
@@ -6474,6 +6474,28 @@
     },
     {
       "album": {
+        "name": "Ellaa Maatannu (from \"Ondu Sarala Prema Kathe\")",
+        "url": "https://open.spotify.com/album/1rQPkxAVUVyuGd9vk5WMui"
+      },
+      "artists": [
+        {
+          "name": "Shivani Swami",
+          "url": "https://open.spotify.com/artist/64VSAmd4CFfkJ4JQljYjsr"
+        },
+        {
+          "name": "Veer Samarth",
+          "url": "https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258445,
+      "name": "Ellaa Maatannu (from \"Ondu Sarala Prema Kathe\")",
+      "url": "https://open.spotify.com/track/2cbEhOVcx6eGNU1KX9cflQ"
+    },
+    {
+      "album": {
         "name": "Elli Hodane Sakhi (From \"Jalapaatha\")",
         "url": "https://open.spotify.com/album/3bzkNEzB6pie0YUZPbVhhA"
       },
@@ -8591,7 +8613,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 234011,
       "name": "Hattiri Nandu Super Scooter",
       "url": "https://open.spotify.com/track/1aWNLzd2uMEfI9nZyiZWAI"

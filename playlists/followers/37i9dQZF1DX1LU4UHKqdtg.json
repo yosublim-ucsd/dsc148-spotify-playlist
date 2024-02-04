@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 403525,
+  "2024-02-04": 403861,
   "date_first_scraped": "2021-12-28",
   "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: (G)I-DLE",
   "name": "K-Pop Fresh",
@@ -7074,6 +7074,24 @@
     },
     {
       "album": {
+        "name": "I GOT YOU",
+        "url": "https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173240,
+      "name": "I GOT YOU",
+      "url": "https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx"
+    },
+    {
+      "album": {
         "name": "Dearest",
         "url": "https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8"
       },
@@ -12071,7 +12089,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184400,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "name": "Seven (feat. Latto)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {

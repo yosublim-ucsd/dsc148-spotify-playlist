@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Nebrugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,244 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,255 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Ruas da Leste](https://open.spotify.com/track/5tpqkzcDvvIAHmkBJEhUyK) | [Teixeirw](https://open.spotify.com/artist/2pzOuwEHKoZ3ZRGz0ovblx) | [Ruas da Leste](https://open.spotify.com/album/0eBzFsIYzN6yZUAhmkCSYY) | 2:49 |
 | 50 | [Mais Preciso](https://open.spotify.com/track/4rz6sfePVV4bYWInrvaJnc) | [MC Murilo ZS](https://open.spotify.com/artist/4cZt4IBdd98Z4D0HcRGppp) | [Mais Preciso](https://open.spotify.com/album/4CblFwqBXxuBE4Bub9XPsv) | 1:28 |
 
-Snapshot ID: `MCxlMDVkMWEyNjk1MWU3NDE3MzFiY2IyNzQzZjZlZjVhOTY2Yzk5MWMy`
+Snapshot ID: `MCw3NjM5YzE2MTJjZWFmYWVjYjcxY2IwOWM5YTYyMTAwYjlhNWQxMjA2`

@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 199535,
+  "num_followers": 199504,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWIzMDE0ZDA1MTllZmVmY2Y3ZjYxYTk4MGM3ZDAwM2ZjYWEzYjYx",
+  "snapshot_id": "MCxhMjk1YzhlYjU5NDk3NmFkNTU3NTJiMDQwOTExMTNmZWVmZGYwNjk4",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "God Help Me",
-        "url": "https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 193934,
-      "name": "Loved By You",
-      "url": "https://open.spotify.com/track/08Kl8Vhr889IAfCuj8IZwK"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 179843,
       "name": "Run",
       "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "God Help Me",
+        "url": "https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 193934,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/08Kl8Vhr889IAfCuj8IZwK"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 237537,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Kyrie Eleison (It's Mercy We Need)",
         "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 261239,
       "name": "Kyrie Eleison (It's Mercy We Need)",
       "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 237537,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
       },
       "artists": [
         {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+          "name": "Equippers Revolution",
+          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
         }
       ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
+      "duration_ms": 204613,
+      "name": "Nothing But The Truth",
+      "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
       },
       "artists": [
         {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
         }
       ],
-      "duration_ms": 204613,
-      "name": "Nothing But The Truth",
-      "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
+        "name": "Known, Seen, Loved",
+        "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
       },
       "artists": [
         {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
         }
       ],
-      "duration_ms": 226295,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
+      "duration_ms": 188138,
+      "name": "Known, Seen, Loved",
+      "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Known, Seen, Loved",
-        "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
       },
       "artists": [
         {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
         }
       ],
-      "duration_ms": 188138,
-      "name": "Known, Seen, Loved",
-      "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
+      "duration_ms": 226295,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Overcomer: The Remixes",
-        "url": "https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        },
-        {
-          "name": "Julie Lov",
-          "url": "https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR"
-        }
-      ],
-      "duration_ms": 196738,
-      "name": "Overcomer - Julie and Ruslan Remix",
-      "url": "https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "ECHO",
         "url": "https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 195882,
       "name": "ECHO",
       "url": "https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Overcomer: The Remixes",
+        "url": "https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        },
+        {
+          "name": "Julie Lov",
+          "url": "https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR"
+        }
+      ],
+      "duration_ms": 196738,
+      "name": "Overcomer - Julie and Ruslan Remix",
+      "url": "https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv"
     },
     {
       "added_at": "2023-01-13 21:46:56",

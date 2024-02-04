@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Mirella, Mc Gabzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,301 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,321 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 38 | [Casal Mandrake](https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Casal Mandrake](https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI) | 2:19 |
 | 39 | [Moletom](https://open.spotify.com/track/4oNnEtS6QgwT8Co9P9TAVC) | [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Moletom](https://open.spotify.com/album/06lztEJw4cOCHFhFx88HCP) | 5:34 |
 | 40 | [Outras Vidas](https://open.spotify.com/track/70TOq8IEGaLgTum1SEu59X) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3) | [Outras Vidas](https://open.spotify.com/album/6wb4X7EEXq5e9EGtTjT31P) | 2:49 |
-| 41 | [Brutas Também Choram](https://open.spotify.com/track/7gTStq2OMkjtHyH09GGKkO) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 3:02 |
+| 41 | [Amo Te Ver de Juju](https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:40 |
 | 42 | [Tudo No Privê](https://open.spotify.com/track/53DZTymdCwUwL9yJdqSLjR) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Tudo No Privê](https://open.spotify.com/album/2QQXWeBTbUpJ6TxUbGL2qn) | 3:31 |
 | 43 | [Não Era pra Ficar](https://open.spotify.com/track/1nUlMrFnHfRl3oJ4ZMt5Xg) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [Mc Marcela GC](https://open.spotify.com/artist/4H9FxcmPgz79NR6FLxGBND) | [Não Era pra Ficar](https://open.spotify.com/album/5uC2FTc7S7Q2S3bb69Uaml) | 2:57 |
 | 44 | [Deixa Eu Te Chamar de Mozão](https://open.spotify.com/track/2YNG9JeshL9zj6WzcFn63T) | [Dj Juninho 22](https://open.spotify.com/artist/4T47gOchMUCmHFoVBE28NH), [Nega](https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8) | [Deixa Eu Te Chamar de Mozão](https://open.spotify.com/album/3YnHedfeESbbi1atWZzxHF) | 3:42 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 46 | [Mundo Pequeno](https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Mundo Pequeno](https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI) | 3:48 |
 | 47 | [Surtada](https://open.spotify.com/track/3gZXNwLzMQdlpDsfHC9PPz) | [CARTE](https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89), [Dona Lanôr](https://open.spotify.com/artist/78D1YLx2ttGLPXOLCceWMP) | [Surtada](https://open.spotify.com/album/3NYNo4VJJXOSpKMh0AAjMN) | 2:23 |
 | 48 | [Te Escolhi](https://open.spotify.com/track/1Kb5kcBZtriYUKznTchWQd) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3) | [Te Escolhi](https://open.spotify.com/album/0ELHnYigaQCw8JJhnzrAB0) | 1:48 |
-| 49 | [Amo Te Ver de Juju](https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:40 |
+| 49 | [Brutas Também Choram](https://open.spotify.com/track/7gTStq2OMkjtHyH09GGKkO) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 3:02 |
 | 50 | [Tom de Pele](https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2) | [Tom de Pele](https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY) | 2:45 |
 
-Snapshot ID: `MCwzN2NmNGVjMDJjZTFmY2M1NDFkNzQ5MzIzMzMyNGRlNDM0ZTI1NjE1`
+Snapshot ID: `MCwzMTE3ZWJkNjU5ODllYjcxYTAzY2E3MDU0NGJlZjA1NDhmYzJiYzE4`

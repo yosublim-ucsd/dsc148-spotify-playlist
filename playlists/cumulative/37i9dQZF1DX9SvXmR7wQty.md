@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Valence
 
-2,308 songs - 5 day 3 hr 10 min
+2,310 songs - 5 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,7 @@
 | [Comment tu vas?](https://open.spotify.com/track/3KsUnYbPcOMHetYdc3ftlZ) | [King Maliba](https://open.spotify.com/artist/5qdNvzjfLvWUkcbWVjuu08) | [Comment tu vas?](https://open.spotify.com/album/7GdSUvEjuoeKPF03foQpeD) | 3:02 | 2022-04-15 | 2022-04-23 |
 | [Commun maintenant \- Session live H2T](https://open.spotify.com/track/5cqlX4QK1VnaK0cT0d8vSL) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Commun maintenant \(Session Live H2T\)](https://open.spotify.com/album/7wgAYh8mujlxEtD8wtpQFQ) | 3:24 | 2022-05-27 | 2022-06-04 |
 | [Confetti \(VF\)](https://open.spotify.com/track/5Avs3gR4TlMVBZMp0YvsHN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti \(VF\)](https://open.spotify.com/album/4VJNLOXqF1aKhk2BIxMeuI) | 3:04 | 2023-05-05 | 2023-06-09 |
-| [CONNEXION](https://open.spotify.com/track/75Dy7b1yzlIJ8YNFMrWpV4) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [CONNEXION](https://open.spotify.com/album/2YzwklEbU1QAg2sR4MTpog) | 2:55 | 2024-01-05 |  |
+| [CONNEXION](https://open.spotify.com/track/75Dy7b1yzlIJ8YNFMrWpV4) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [CONNEXION](https://open.spotify.com/album/2YzwklEbU1QAg2sR4MTpog) | 2:55 | 2024-01-05 | 2024-02-04 |
 | [CONS’ DE LOVE](https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Amour...](https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML) | 2:45 | 2023-09-22 | 2023-11-18 |
 | [Contentement](https://open.spotify.com/track/2sSwrRdkrWSbtKNPvOAz39) | [Julie Aubé](https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM) | [Contentement](https://open.spotify.com/album/0JxgRw0X8dicjH6keF8f0M) | 3:25 | 2022-09-09 | 2022-09-24 |
 | [Contvct \(feat\. Aya Nakamura\)](https://open.spotify.com/track/7BIPJBIGoxQTn3i748Wk0j) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [LMDB](https://open.spotify.com/album/18xrakiypJXRVWnCD30zjD) | 2:56 | 2022-10-07 | 2022-10-22 |
@@ -701,6 +701,7 @@
 | [Fast life](https://open.spotify.com/track/6irpw70gHd8xI0ZLP0cP3G) | [PCL](https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg) | [Fast life](https://open.spotify.com/album/1ile4F0ioBX1a2J4U0p0bo) | 2:52 | 2022-11-11 | 2022-11-26 |
 | [Fatiguées](https://open.spotify.com/track/7hOIIR20Djb2uHzAFi5jGJ) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3) | [Fatiguées](https://open.spotify.com/album/0eSZLG7NKcfARAFFnJFKRF) | 3:31 | 2022-05-06 | 2022-05-14 |
 | [Faucheuse](https://open.spotify.com/track/66VGZlm05d0M5glTZEdrga) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [RWO](https://open.spotify.com/artist/7l8hwYKPcJcXl9oGS21ArP) | [Faucheuse](https://open.spotify.com/album/68yFTMEllxi1Loqv8UqdhX) | 2:48 | 2023-11-10 | 2023-11-18 |
+| [Faut pas](https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:18 | 2024-02-02 |  |
 | [Faut s'y mettre \(tellement\)](https://open.spotify.com/track/2FFFvXx5KGaua3459AO1bz) | [Anthony Gaudet](https://open.spotify.com/artist/2Acgfke9DIf3ZLRwiVMqCi) | [Faut s'y mettre \(tellement\)](https://open.spotify.com/album/0DpCxwwOVZ44AVV206Pk8e) | 2:49 | 2022-09-16 | 2022-09-24 |
 | [Faux Soleil](https://open.spotify.com/track/0CM7NZiGAhkKKAFTOC53vD) | [Bozko](https://open.spotify.com/artist/55diYJnywqtU2R6FkjGGCS), [Taga](https://open.spotify.com/artist/3yb7X8fR1v1agIya64pWlr) | [Faux Soleil](https://open.spotify.com/album/2uHuenadoIMRD4Ss9b58aN) | 2:13 | 2022-05-27 | 2022-06-04 |
 | [Faya](https://open.spotify.com/track/4les0O6MtkBDgWlgrn3Q5j) | [J\-Ron](https://open.spotify.com/artist/2utc2XhGTLpg0RHMTtfQ9k) | [Faya](https://open.spotify.com/album/5GGK96cbzqshgbePSScGgs) | 3:05 | 2022-07-08 | 2022-07-30 |
@@ -1668,7 +1669,7 @@
 | [Plus qu'assez](https://open.spotify.com/track/5TvGIuBUdc53iD6NrYfjK7) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Plus qu'assez](https://open.spotify.com/album/74eMYBI9D5AtWcVBogXz9o) | 3:23 | 2022-10-21 | 2022-10-29 |
 | [Plus que](https://open.spotify.com/track/4jYENrEA31fBzgCsEVc6x7) | [Lhéfé](https://open.spotify.com/artist/3bzQSOFEd6Zgzxi8nyhxOY) | [Mentir mon plaisir](https://open.spotify.com/album/5kG61u4EiSpCZhPw6QrSC0) | 3:41 | 2023-01-13 | 2023-01-21 |
 | [Plutôt déplacé](https://open.spotify.com/track/2jpbta5vtKmrIVBEdq4ExY) | [Kaziopée](https://open.spotify.com/artist/40WmSMLxlKOHuS5jHb93QW), [Liamliamliam](https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw) | [Plutôt déplacé](https://open.spotify.com/album/4zwILO2IYlpwTOk4d8kD9Q) | 3:23 | 2022-02-18 | 2022-03-05 |
-| [POISON](https://open.spotify.com/track/3Z29095berlRpJ3R31ZXmD) | [Dospunto](https://open.spotify.com/artist/74I7IwjAcqaomlLrjNRqvD), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [POISON](https://open.spotify.com/album/619vWtlvr2x1MopmkxmMvQ) | 3:09 | 2024-01-12 |  |
+| [POISON](https://open.spotify.com/track/3Z29095berlRpJ3R31ZXmD) | [Dospunto](https://open.spotify.com/artist/74I7IwjAcqaomlLrjNRqvD), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [POISON](https://open.spotify.com/album/619vWtlvr2x1MopmkxmMvQ) | 3:09 | 2024-01-12 | 2024-02-04 |
 | [Polaroid \#1 \- Blessé](https://open.spotify.com/track/0rliboiIZIlevZSkMFvKUW) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Polaroid \#1 \- Blessé](https://open.spotify.com/album/5CEiYd5axZBToAntA9BdZs) | 3:04 | 2022-01-28 | 2022-02-12 |
 | [Polaroid \#2 \- Sourire](https://open.spotify.com/track/0uvNqcBOSwX1ySykAFpxB3) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Polaroid \#2 \- Sourire](https://open.spotify.com/album/2egUuSRrujsuUcvjqM1sjP) | 2:24 | 2022-02-25 | 2022-03-12 |
 | [Police à ma porte](https://open.spotify.com/track/4efHCpCu3cmXSZPcZnemUS) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [Police à ma porte](https://open.spotify.com/album/6s1K0Koo24rGmV33PZYyzv) | 2:29 | 2023-02-10 | 2023-02-25 |
@@ -2039,6 +2040,7 @@
 | [Thinkin' We're In Love \- Version Française](https://open.spotify.com/track/6TIv5muaL2CenP27M7whq1) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Thinkin' We're In Love](https://open.spotify.com/album/2xgnv0PA9ibnyNbjrksmww) | 3:48 | 2022-07-08 | 2022-07-30 |
 | [THÉMISTOCLE](https://open.spotify.com/track/4EESHVnsX0GLc40MI1lBPn) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [THÉMISTOCLE](https://open.spotify.com/album/5gmIkClhwBRAvO4wo1h4lS) | 3:57 | 2022-11-11 | 2022-12-03 |
 | [Tiffany](https://open.spotify.com/track/3bKLR7Mc0SNBTBuN8OYPrj) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Tiffany](https://open.spotify.com/album/3Dy3beQddT9J0cTFje1uay) | 3:37 | 2023-10-20 | 2023-10-30 |
+| [Tiki Taka](https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Tiki Taka](https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq) | 2:45 | 2024-02-02 |  |
 | [Tikisson Woke](https://open.spotify.com/track/1jle97DJnKMS38gA3v0tC7) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [LAIT PATERNEL](https://open.spotify.com/album/3Lpk09crIfWNa05skISIUF) | 4:26 | 2023-09-01 | 2023-09-09 |
 | [Tintagel](https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Tintagel](https://open.spotify.com/album/2s083qeK8rq47FPVbjC8Bs) | 3:48 | 2022-02-04 | 2022-02-19 |
 | [Tipatshimushtunan](https://open.spotify.com/track/1KZZIDJ4DyS4dnhPyXdOw0) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE), [Allan Nabinacaboo](https://open.spotify.com/artist/18oZ6SjjkZ57N1kZZ6u2hT) | [Tipatshimushtunan](https://open.spotify.com/album/6N3926ij2Mfo7hZF41Rlca) | 3:40 | 2022-07-01 | 2022-07-23 |

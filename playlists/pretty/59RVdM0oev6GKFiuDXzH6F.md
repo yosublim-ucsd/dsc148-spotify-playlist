@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,169 likes - 156 songs - 7 hr 49 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,168 likes - 156 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 8 | [By Your Side](https://open.spotify.com/track/6Qb2N7m4ZTvthTrTsI99qM) | [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2) | [By Your Side](https://open.spotify.com/album/4mHNM8y1YILeova9UUP9b2) | 2:32 |
 | 9 | [If You Don't Like To Party](https://open.spotify.com/track/5dBTOZ3Rn6BIlDt470Btne) | [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [If You Don't Like To Party](https://open.spotify.com/album/55Sr4L5eif0q1mXLZ9LBOf) | 1:58 |
 | 10 | [Control](https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Control](https://open.spotify.com/album/6sD3U3E72UvI8Od8I6QoiA) | 2:55 |
-| 11 | [Crusade](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
+| 11 | [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
 | 12 | [Mary Go Wild \(Firebeatz Remix\)](https://open.spotify.com/track/51nYwjC41oOgVszBGL6mY8) | [Grooveyard](https://open.spotify.com/artist/3LThgBIEhmkTZCJ6q7Jkzf), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Mary Go Wild \(Firebeatz Remix\)](https://open.spotify.com/album/32hAkqc2mit3ilzkCgCEWX) | 2:15 |
 | 13 | [Medicine](https://open.spotify.com/track/0MPg3EG04vVQED40bMcZ8v) | [Zookëper](https://open.spotify.com/artist/2XvV82x6Qs0W3GBTkBSjPI), [Beachcrimes](https://open.spotify.com/artist/5xWycgZa4Oul2kU6o1QVo7), [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS) | [Medicine](https://open.spotify.com/album/1SEDacAYn94k9H2jUOrosm) | 3:39 |
 | 14 | [They Not Us](https://open.spotify.com/track/7lmyru1csct3dKD6KD8cpa) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [They Not Us](https://open.spotify.com/album/1jaBnYJ6vkb8iNIPNjetTu) | 3:24 |

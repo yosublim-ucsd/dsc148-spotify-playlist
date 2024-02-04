@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Delilah en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,487 likes - 51 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,713 likes - 51 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 50 | [Al No Tenerte](https://open.spotify.com/track/5TOSj4RD0DP9ntUD4ng3p1) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Al No Tenerte](https://open.spotify.com/album/4eQvcIFA0g1LN7lGWm4JgH) | 3:14 |
 | 51 | [Tú Goza](https://open.spotify.com/track/2CQk0GyIQzfcvdrthOKmu0) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8), [Lily Baez](https://open.spotify.com/artist/2q7elVTQXIgbMh5vA6mlFs) | [RefleXión](https://open.spotify.com/album/1yYqbbaHWQZsUeji3C3YGS) | 3:42 |
 
-Snapshot ID: `MCwxNjM3NDQ5YWM0OGEzNmM5ZjBhZGM1YjEzODFiMjQ2YTEzZjE3NTY2`
+Snapshot ID: `MCwxZDM3NTNkODBkNDZhZmU2Y2U1NTVkMjIzMGExNjkwYmU5N2Q3MzAz`

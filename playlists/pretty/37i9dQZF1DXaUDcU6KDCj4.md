@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Nolan Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,449 likes - 150 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,383 likes - 150 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 67 | [Honey Ain’t No Sweeter](https://open.spotify.com/track/5JS7aI8VQVsLd8nxrbn9Yx) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Honey Ain’t No Sweeter](https://open.spotify.com/album/4xnJf5yUfiE1SK736QTcQS) | 3:42 |
 | 68 | [Hard As Stone](https://open.spotify.com/track/6vcobS50d43h2edX7a3j38) | [Jake Kohn](https://open.spotify.com/artist/5tfKTqbUneP4J3dHeRiLSw) | [Hard As Stone](https://open.spotify.com/album/1BuisVIzD0wWQH86VDA0eS) | 3:39 |
 | 69 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 |
-| 70 | [Same Water](https://open.spotify.com/track/5cP4ZjWFGgimzGJOKRwB9g) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Same Water](https://open.spotify.com/album/6V2dNmY5aFZND3ueCFIOOo) | 4:20 |
+| 70 | [Same Water](https://open.spotify.com/track/5bmpMZDDkpOr2bGPptSruW) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Same Water](https://open.spotify.com/album/4Scuu3Z6gDXBg2N5yNNcVS) | 4:20 |
 | 71 | [All My Friends](https://open.spotify.com/track/61hdNqdXph9AAjX1ZG9PVC) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [The Knights](https://open.spotify.com/artist/3pZzcGCvhNTv3yoWmrXGNm), [The Westerlies](https://open.spotify.com/artist/7pQXfjCzKMCrcQnp9TAn3z), [San Francisco Girls Chorus](https://open.spotify.com/artist/7pbeqx6zhHDbm2veNtoYVg) | [All My Friends](https://open.spotify.com/album/3hqu0HT9ZY3JWkjYMilMzc) | 4:23 |
 | 72 | [Someday, Someday](https://open.spotify.com/track/7zbiEEPPkZjyLQpwJnes5h) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Someday, Someday](https://open.spotify.com/album/0cdiL4wlI4XSfYafHvvI0m) | 3:00 |
 | 73 | [Cold Hand](https://open.spotify.com/track/4SPd7Gg0ZZA2MyuuVG8yfq) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [Cold Hand](https://open.spotify.com/album/6KjFQ3qeJABjuDEuQGTenA) | 3:08 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 78 | [Memphis](https://open.spotify.com/track/7rmAYbFgyfR9NLuYsyaeHS) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Memphis](https://open.spotify.com/album/677PnAgPyrA9kKs3AocpHB) | 3:47 |
 | 79 | [Days Can Turn Around](https://open.spotify.com/track/2d69jnkYE4Yey8HJPHXfxz) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Days Can Turn Around](https://open.spotify.com/album/2bApvLHcHTG46g3EwfYjkE) | 3:58 |
 | 80 | [City On A Hill](https://open.spotify.com/track/4eklSuk7sHcFDVLQR74QLn) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [City On A Hill](https://open.spotify.com/album/14QqcZuUzIMFOFfphJq4Y4) | 2:50 |
-| 81 | [Hand to Hand](https://open.spotify.com/track/4AaVY4XuXeHJZwUBSRSoC6) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Hand to Hand](https://open.spotify.com/album/7HUM44SiRxsE6TXDjNF7wp) | 3:46 |
+| 81 | [Hand to Hand](https://open.spotify.com/track/7i4onkA2fRuV0viFNWINID) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 3:46 |
 | 82 | [Die Slower](https://open.spotify.com/track/7lwqr6NGpzsYVZK5ovcyRr) | [Brendan Abernathy](https://open.spotify.com/artist/39ETOzAilLp4bcJAUU8mmW), [Annie Omalley](https://open.spotify.com/artist/0TEaL7Y50jr7N3mjxqFGBK) | [die slower](https://open.spotify.com/album/2fGiVuDMhTGQNSjhKjc0zE) | 3:15 |
 | 83 | [Dandelions, Dandelions](https://open.spotify.com/track/191coUoVGfnFw9AKrHAcjm) | [Park Bird](https://open.spotify.com/artist/7bVJIMenC0rlgot8O60qpF) | [All to Bones](https://open.spotify.com/album/4Zn4YKoRpgesieWwWrKWX3) | 3:46 |
 | 84 | [Cuero Dudes](https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cuero Dudes / Beauty Opens Doors](https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr) | 4:58 |
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 119 | [Insane](https://open.spotify.com/track/4I5Z2HABk8xVgdBIMrxw6G) | [Jonathan Peyton](https://open.spotify.com/artist/1rKBNFP4jc1iLEH8ziP7O0) | [Insane](https://open.spotify.com/album/2wz4zgZvF4AXOloDTn5X0I) | 4:13 |
 | 120 | [Medicine](https://open.spotify.com/track/1QWyq6ewUIWZgsyVmzpo0Y) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/03bvJDhMjnOOXwqqw3NZ9B) | 4:15 |
 | 121 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 |
-| 122 | [Party of the Century](https://open.spotify.com/track/1JEyp69tRjo7mjW6mPSvtb) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Party of the Century](https://open.spotify.com/album/2pC55Z6LUmN76r3HSzE9Av) | 2:40 |
+| 122 | [Party of the Century](https://open.spotify.com/track/2IAEIzMfn4mZoDzkvtSz1G) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 2:40 |
 | 123 | [Belly Of The Beast](https://open.spotify.com/track/7Adyii0aPBfbjsnXpLWv2g) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Belly Of The Beast](https://open.spotify.com/album/4X7TVHpvoGfSK5qO1ghJP6) | 3:48 |
 | 124 | [Feel](https://open.spotify.com/track/5CiTYYKSBZchCLhJMgVkBc) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Feel](https://open.spotify.com/album/3uPy90TVYkqdO536ju07NZ) | 4:22 |
 | 125 | [Tetherball \(with Boyish\)](https://open.spotify.com/track/1OA2dCwth9ZlCh2UGEKhgh) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Tetherball \(with Boyish\)](https://open.spotify.com/album/1dHDuiZa2DxzgUZysJZspf) | 3:33 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 |
 | 150 | [Who Knows Where the Time Goes](https://open.spotify.com/track/2UhRzNnkitYWG88qt9YLTj) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Who Knows Where the Time Goes](https://open.spotify.com/album/2JVo6Xo58v5E8at4dLdGKY) | 5:06 |
 
-Snapshot ID: `MCwyZDllMjMzZDBiZmI0Yjk3YzE1MWJkMDAxMDRmNGQ2NGYyMDI4MDBj`
+Snapshot ID: `MCwzMTIzNDdjYmQ2ZmVlYzkyZjNmNGNhNDU2NjQ5YWE5ZjMyOTA1Mzlm`

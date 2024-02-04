@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 103881,
+  "2024-02-04": 104131,
   "date_first_scraped": "2022-10-01",
   "description": "If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist. A mix of both African and International songs. ",
   "name": "Praise and Worship",
@@ -281,6 +281,32 @@
       "duration_ms": 214850,
       "name": "Altar",
       "url": "https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK"
+    },
+    {
+      "album": {
+        "name": "Altar (Hosanna)",
+        "url": "https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko"
+      },
+      "artists": [
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172035,
+      "name": "Altar (Hosanna)",
+      "url": "https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU"
     },
     {
       "album": {
@@ -1697,7 +1723,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 355708,
       "name": "Fresh Fire - Live",
       "url": "https://open.spotify.com/track/6W9iuya71aSgxtn0g12SV0"

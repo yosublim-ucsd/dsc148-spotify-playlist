@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 290933,
+  "2024-02-04": 290917,
   "date_first_scraped": "2022-05-27",
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Ariel Donato, MC Cabelinho, Marina Sena",
   "name": "brisa",
@@ -1132,6 +1132,28 @@
     },
     {
       "album": {
+        "name": "Calor Dobrado",
+        "url": "https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Calor Dobrado",
+      "url": "https://open.spotify.com/track/3xzAK3eh6npZsoCybDtKXh"
+    },
+    {
+      "album": {
         "name": "Canto da Sereia",
         "url": "https://open.spotify.com/album/6oeLs83jPMK8JodH2bpSyO"
       },
@@ -1673,7 +1695,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 174736,
       "name": "De Volta Ao Sol",
       "url": "https://open.spotify.com/track/0qEY64txHguJ3DZwSIdXw0"

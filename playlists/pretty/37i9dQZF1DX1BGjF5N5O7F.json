@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjRmMDVjMDM3ODQ4NmMzMzk5OTNjNmRjZjM1YTgyZDhiZDM2MTU4",
+  "snapshot_id": "MCxhYmIyYTk4NjE4NjQ4M2Y3MzZjZGNlOTA3Mjk1YzA0MDIzNTRkMzgz",
   "tracks": [
     {
       "added_at": "2024-02-02 22:06:13",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-02-02 22:06:13",
       "album": {
-        "name": "The Civil Wars",
-        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Devil\u2019s Backbone",
-      "url": "https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M"
-    },
-    {
-      "added_at": "2024-02-02 22:06:13",
-      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 231786,
       "name": "Only When I",
       "url": "https://open.spotify.com/track/0ZzElIB9iulNYwycFVPXdl"
+    },
+    {
+      "added_at": "2024-02-02 22:06:13",
+      "album": {
+        "name": "The Civil Wars",
+        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Devil\u2019s Backbone",
+      "url": "https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M"
     },
     {
       "added_at": "2024-02-02 22:06:13",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-02-02 22:06:13",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
+    },
+    {
+      "added_at": "2024-02-02 22:06:13",
+      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 190093,
       "name": "Slow Mover",
       "url": "https://open.spotify.com/track/2lfr66vjbblfcA12mv0O9P"
-    },
-    {
-      "added_at": "2024-02-02 22:06:13",
-      "album": {
-        "name": "The Weather Station",
-        "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Thirty",
-      "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
     }
   ],
   "unique_name": "intertwined",

@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 126522,
+  "2024-02-04": 126564,
   "date_first_scraped": "2022-10-24",
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
   "name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
@@ -7894,6 +7894,24 @@
     },
     {
       "album": {
+        "name": "Hold You Again",
+        "url": "https://open.spotify.com/album/1ffToXM1wZRTerYmAiIu5g"
+      },
+      "artists": [
+        {
+          "name": "the engy",
+          "url": "https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290852,
+      "name": "RainRain",
+      "url": "https://open.spotify.com/track/30bOjGU8xpB1zvccSN9udZ"
+    },
+    {
+      "album": {
         "name": "RainRain",
         "url": "https://open.spotify.com/album/0gAGsoAIdUK5i1iGQWhoud"
       },
@@ -7905,7 +7923,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 290852,
       "name": "RainRain",
       "url": "https://open.spotify.com/track/5X3cQ46Ekm50vcdjpokdEC"

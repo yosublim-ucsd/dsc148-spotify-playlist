@@ -4,7 +4,7 @@
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-239 songs - 14 hr 10 min
+240 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Dream](https://open.spotify.com/track/1gg7VrHQD09dTZd8MzCsRA) | [Husbands](https://open.spotify.com/artist/006Mv4bnAJGVnasH1pbDEO) | [DREAM / OVERSEAS](https://open.spotify.com/album/5TSqxB0rEAWFXXApmFtwXf) | 3:37 | 2022-05-20 |  |
 | [Dreams](https://open.spotify.com/track/1E9CV1dv9AVVvmrNmRCErq) | [L'Epee](https://open.spotify.com/artist/4r0FnBMOPmKACPLYhkcBtU) | [Diabolique](https://open.spotify.com/album/42QXQwn8uWTOoDutKMEQLk) | 3:16 | 2022-05-20 |  |
 | [Déjà Vu](https://open.spotify.com/track/3RM94mQUmJlHeioY4oNGHs) | [Valhen](https://open.spotify.com/artist/6wSQGdU6LXjUC3HrjzhssE) | [Déjà Vu](https://open.spotify.com/album/3ooV0rKgg2gsLDA3LqSO9q) | 2:29 | 2022-12-21 |  |
-| [Dépêche\-toi](https://open.spotify.com/track/6tJz8gWCfs5amDvH7JTFyd) | [Weekend Affair](https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7) | [Quand vient la nuit](https://open.spotify.com/album/033hyagZK3RzlViVRIaW0f) | 3:16 | 2022-12-21 |  |
+| [Dépêche\-toi](https://open.spotify.com/track/0UTdvTTUauenSec2LiNuup) | [Weekend Affair](https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7) | [Quand vient la nuit](https://open.spotify.com/album/27TkfDjxPTD8vhzSzVdrtY) | 3:16 | 2022-12-21 |  |
+| [Dépêche\-toi](https://open.spotify.com/track/6tJz8gWCfs5amDvH7JTFyd) | [Weekend Affair](https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7) | [Quand vient la nuit](https://open.spotify.com/album/033hyagZK3RzlViVRIaW0f) | 3:16 | 2022-12-21 | 2024-02-04 |
 | [Désunis de l'univers](https://open.spotify.com/track/4VvstiLJvrQCJ9PXBtBLGz) | [Victorine](https://open.spotify.com/artist/6OcUYzUc21jzaUWQ13CKS9) | [Désunis de l'univers](https://open.spotify.com/album/4WomJlM4nR0aPWCBt2mErc) | 3:33 | 2022-05-20 |  |
 | [Eden](https://open.spotify.com/track/1Y6BVQLmAlfYtWPYUMmxJY) | [Futuro Pelo](https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN) | [Eden](https://open.spotify.com/album/4Fv2alfE4JSq9xgoJSRbJR) | 3:23 | 2022-05-20 |  |
 | [Eiffel Tower](https://open.spotify.com/track/07P7aIuCvpnXJx79YZrvhq) | [Paprika Kinski](https://open.spotify.com/artist/5xyTNHPE6Yfx0CbtErzqz9) | [Diamond Queen](https://open.spotify.com/album/6BzVsguHJevpF53zFh6t6i) | 3:18 | 2022-05-20 | 2023-01-20 |

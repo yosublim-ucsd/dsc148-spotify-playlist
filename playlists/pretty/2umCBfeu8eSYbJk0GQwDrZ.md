@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,237 likes - 60 songs - 3 hr 23 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,234 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 38 | [Oral](https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r) | 3:42 |
 | 39 | [rUN tHE FaDE](https://open.spotify.com/track/2ZrlFzDK4qmEGoUS7GqLzP) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [rUN tHE FaDE](https://open.spotify.com/album/4dPnAsC3Ql4SVtjkDCrnhG) | 4:13 |
 | 40 | [One Bad Day](https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [One Bad Day](https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M) | 3:20 |
-| 41 | [take yr time](https://open.spotify.com/track/7lQbnpAD7WJj6MaPowEcwx) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [take yr time](https://open.spotify.com/album/1VH9FaS0iG8QiB5cE475b0) | 3:56 |
+| 41 | [take yr time](https://open.spotify.com/track/7lQbnpAD7WJj6MaPowEcwx) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [take yr time](https://open.spotify.com/album/1VH9FaS0iG8QiB5cE475b0) | 3:55 |
 | 42 | [From Dark to Lightness](https://open.spotify.com/track/2T1fIoR1psHpEaPD4Ai1UZ) | [Close Talker](https://open.spotify.com/artist/4xyP3FGvSmDPFy9rsOifMh) | [From Dark to Lightness](https://open.spotify.com/album/6BD4bY1N6svGFpBPgvkjbg) | 4:17 |
 | 43 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 |
 | 44 | [Football](https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Football](https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h) | 3:24 |

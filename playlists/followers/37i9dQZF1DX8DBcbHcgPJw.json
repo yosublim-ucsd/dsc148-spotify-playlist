@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 1189551,
+  "2024-02-04": 1189237,
   "date_first_scraped": "2022-01-02",
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Marama, DJ Tao, Lauty Gram & Roze Oficial.",
   "name": "Dame M\u00e1s Cumbia",
@@ -527,6 +527,28 @@
       "duration_ms": 413580,
       "name": "Antes / Si Un Amor Se Va / Te Tengo Que Olvidar",
       "url": "https://open.spotify.com/track/0AvF7WFDUPgWmy8WbF6jdR"
+    },
+    {
+      "album": {
+        "name": "Aprend\u00ed",
+        "url": "https://open.spotify.com/album/6KkjdFOnCCc9kExXTHBOoG"
+      },
+      "artists": [
+        {
+          "name": "LemonChamp",
+          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
+        },
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158129,
+      "name": "Aprend\u00ed",
+      "url": "https://open.spotify.com/track/4BCinYkTxvQ1bObKFQb9YV"
     },
     {
       "album": {
@@ -3269,7 +3291,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 159567,
       "name": "Hasta El Amanecer",
       "url": "https://open.spotify.com/track/2Kc6wNFSoPWlXroJqEtSYX"
@@ -3851,7 +3873,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 194666,
       "name": "La Gira",
       "url": "https://open.spotify.com/track/0okUQOY50Ewk2qFUZM98C6"
@@ -5703,6 +5725,32 @@
       "duration_ms": 176864,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
+    },
+    {
+      "album": {
+        "name": "No Te Vas a Olvidar",
+        "url": "https://open.spotify.com/album/5HNIgxDU0zkg1VyuHGDUQB"
+      },
+      "artists": [
+        {
+          "name": "Diel Paris",
+          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "Jorgito Barrionuevo",
+          "url": "https://open.spotify.com/artist/192E8ptSuYPT0rgJRyImNH"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140790,
+      "name": "No Te Vas a Olvidar",
+      "url": "https://open.spotify.com/track/6RwAPBAOhvyS3BTK5JaSq2"
     },
     {
       "album": {

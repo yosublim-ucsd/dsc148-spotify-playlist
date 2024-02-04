@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,556,908 likes - 150 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,557,028 likes - 150 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 140 | [Normal](https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Normal](https://open.spotify.com/album/0vSwuVKVrx6L4RJuJkWiAL) | 2:42 |
 | 141 | [start again](https://open.spotify.com/track/4CmWJjmqSIjH2zXnF6nI4S) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [leave me where you found me](https://open.spotify.com/album/1f19gczYsoUBsqpiG2UFR3) | 2:51 |
 | 142 | [MORBID MIND](https://open.spotify.com/track/6eKfQnTHKeqyyfaGlwMIcG) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [MIXED EMOTIONS](https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN) | 2:16 |
-| 143 | [Same Room](https://open.spotify.com/track/6cUwBCnf5yiBkUwExpcni2) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Same Room](https://open.spotify.com/album/5YkVPpSWxikAxEn48uU6Mp) | 3:22 |
+| 143 | [Same Room](https://open.spotify.com/track/7JKcsNXSjFVKtA6YT7BNGZ) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/1G0VH29venEyfSgCtMddwo) | 3:22 |
 | 144 | [Key to My Heart](https://open.spotify.com/track/3safBWMqYnBJtNA2428Hmz) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [Key To My Heart](https://open.spotify.com/album/5MlRgizbT5l0vMtzSlBIvl) | 2:34 |
 | 145 | [Situation](https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [GREAF](https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP) | [TheWitch&TheWizard](https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O) | 1:48 |
 | 146 | [you never meant it](https://open.spotify.com/track/4LMlIX9Y8qziRafzW30mGc) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [cøzybøy](https://open.spotify.com/artist/3sWtaNsmsCx0TFaQkP8QAm) | [you never meant it](https://open.spotify.com/album/6qT7iBnEv3I56ESve2jgfn) | 1:57 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 149 | [North Star](https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY) | [Mackned](https://open.spotify.com/artist/68VUmnZEzmzZdd1zPtnbZZ) | [God Mom](https://open.spotify.com/album/7gBvEFzk4d13BOayesrAuB) | 2:03 |
 | 150 | [KIDS ARE GROWING UP \(PART 1\)](https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [KIDS ARE GROWING UP \(PART 1\)](https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV) | 2:01 |
 
-Snapshot ID: `MCw2NzJmYWUzYmM5NDNjZmMyNGY3MzIyMTc3N2M1ZmU3OGZlZmY5OGRi`
+Snapshot ID: `MCxlMGJlYWZmOWNmNTIyZWQ2ZTgyY2IxYzRmODA5ZDg1ZDgwOGM2NjQ2`

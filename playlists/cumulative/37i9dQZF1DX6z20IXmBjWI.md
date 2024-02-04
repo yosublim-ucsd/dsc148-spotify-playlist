@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems\. Cover: Trousdale
 
-372 songs - 23 hr 7 min
+373 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Love Brought Weight](https://open.spotify.com/track/1H56ffyFrFcvMEWUg3WFbM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Old Sea Brigade](https://open.spotify.com/album/4sRSCsGsXFMeOTmQ2G6sPV) | 3:05 | 2021-12-10 | 2022-07-29 |
 | [Love Brought Weight](https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Old Sea Brigade](https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20) | 3:05 | 2022-06-08 |  |
 | [Low](https://open.spotify.com/track/2OlPRzJZXGsOkJ6TwBgvs8) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Actor](https://open.spotify.com/album/1hdsLA6nR1UnYRW2J8jeGK) | 3:53 | 2022-01-21 | 2022-02-07 |
+| [Made To Love Someone](https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Made To Love Someone](https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i) | 3:06 | 2024-02-02 |  |
 | [Magical](https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:14 | 2023-09-29 |  |
 | [Manly Man](https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Manly Man](https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH) | 3:30 | 2022-06-08 | 2023-10-15 |
 | [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 | 2021-12-10 |  |
@@ -181,7 +182,7 @@
 | [Motion Sickness \(Demo \- Bonus Track\)](https://open.spotify.com/track/7xwyvVWewy01DhdgEt2WWq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 4:24 | 2022-06-08 |  |
 | [Mud\-Stained Dress](https://open.spotify.com/track/0uItDWscT3ytoQY5bPq9US) | [Elias Hix](https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV) | [Thinner](https://open.spotify.com/album/0gyb0gR5HiR1kLDXdvGPpA) | 3:26 | 2023-04-14 |  |
 | [My Arms Were Always Around You](https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [My Arms Were Always Around You](https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc) | 3:20 | 2021-12-10 |  |
-| [My City of Ruins](https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:16 | 2022-06-08 |  |
+| [My City of Ruins](https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:16 | 2022-06-08 | 2024-02-04 |
 | [My City of Ruins](https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ) | 4:16 | 2021-12-10 | 2022-07-29 |
 | [My Dreams Have All Come True](https://open.spotify.com/track/2s1c8h4P4u1GxzNQFws648) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [My Dreams Have All Come True](https://open.spotify.com/album/3AJw8vTaNDueiiJ85duVxY) | 4:24 | 2021-12-10 | 2022-07-21 |
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2021-12-10 |  |

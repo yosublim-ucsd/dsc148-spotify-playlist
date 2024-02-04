@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 465603,
+  "2024-02-04": 465691,
   "date_first_scraped": "2022-09-17",
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
   "name": "This Is Mumford & Sons",
@@ -793,7 +793,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 236883,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5RJeg1KeRTQxsgZcPrxWBD"

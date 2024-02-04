@@ -1,12 +1,12 @@
 {
   "description": "All the indelible tunes from the other side of the 00s. Cover: Santigold",
-  "num_followers": 696829,
+  "num_followers": 696887,
   "original_name": "Alternative 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjRkZWNmODlhNGM5MDAxNmM4YjhlOGEwZDBmYjBjOGNkMWQwYmM3",
+  "snapshot_id": "MCw3MTNmNTQwMTc2ZmUzMDU5OGI5OGM1OTRmZGEyOGM2NjUyM2U1ODJh",
   "tracks": [
     {
       "added_at": "2022-11-17 20:15:32",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Broken Boy Soldiers",
         "url": "https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 215266,
       "name": "Steady, As She Goes",
       "url": "https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -711,22 +711,6 @@
       "duration_ms": 157560,
       "name": "Blue Orchid",
       "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -807,6 +791,22 @@
       "duration_ms": 258453,
       "name": "Crimewave",
       "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "Eyelid Movies",
         "url": "https://open.spotify.com/album/6smJTxDxrnxi6fPfFWYSQV"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 249066,
       "name": "When I'm Small",
       "url": "https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
     },
     {
       "added_at": "2022-11-17 20:15:32",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-11-17 20:15:32",
       "album": {
-        "name": "Don't Look Back into the Sun",
-        "url": "https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Don't Look Back into the Sun",
-      "url": "https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm"
-    },
-    {
-      "added_at": "2022-11-17 20:15:32",
-      "album": {
         "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
         "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 181906,
       "name": "Move Your Feet",
       "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
+    },
+    {
+      "added_at": "2022-11-17 20:15:32",
+      "album": {
+        "name": "Don't Look Back into the Sun",
+        "url": "https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Don't Look Back into the Sun",
+      "url": "https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm"
     }
   ],
   "unique_name": "Alternative 00s",

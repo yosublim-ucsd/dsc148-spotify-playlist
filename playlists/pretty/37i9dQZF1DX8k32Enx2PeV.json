@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 9362,
+  "num_followers": 9371,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGZlMzNjYTBlYzQ5Njk1MzI1NGFkNmRmNzcxYWQwYTc1ODAwNDE0",
+  "snapshot_id": "MCw2NTBiMjkxODc3ZjI2NGQ5OWJhZjIzODFmYTAxMDM2ZjVhZGRiYmI5",
   "tracks": [
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/2jFiD51oGy84NQoHjtiRZb"
-      },
-      "artists": [
-        {
-          "name": "La Beat Machine",
-          "url": "https://open.spotify.com/artist/6mCAbMWEuo0uz3pRMVZZN6"
-        }
-      ],
-      "duration_ms": 202888,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7sIE5XUDPjx7W0kygSwQUU"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "En el Caribe Tambi\u00e9n Pasa Esto",
         "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 233613,
       "name": "Goz\u00e1 Goz\u00e1",
       "url": "https://open.spotify.com/track/1Mi4KFAuHfJKRORYYNEQ9B"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/2jFiD51oGy84NQoHjtiRZb"
+      },
+      "artists": [
+        {
+          "name": "La Beat Machine",
+          "url": "https://open.spotify.com/artist/6mCAbMWEuo0uz3pRMVZZN6"
+        }
+      ],
+      "duration_ms": 202888,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7sIE5XUDPjx7W0kygSwQUU"
     },
     {
       "added_at": "2023-09-22 05:25:00",

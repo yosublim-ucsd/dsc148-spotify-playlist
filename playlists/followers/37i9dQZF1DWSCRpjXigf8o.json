@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 85821,
+  "2024-02-04": 85821,
   "date_first_scraped": "2022-10-24",
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
   "name": "Mid Tempo Magic",
@@ -257,7 +257,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 285120,
-      "name": "A Thousand Years",
+      "name": "a thousand years",
       "url": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl"
     },
     {
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 168106,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl"
@@ -4795,7 +4795,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 208466,
       "name": "Lucy In The Sky With Diamonds - Remastered 2009",
       "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"

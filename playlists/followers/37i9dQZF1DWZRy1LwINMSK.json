@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 102086,
+  "2024-02-04": 102144,
   "date_first_scraped": "2022-01-24",
   "description": "La casa del trap chileno al mando de Lleflight.",
   "name": "Trapperz Chile",
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 229355,
       "name": "Aburrido",
       "url": "https://open.spotify.com/track/1QX8IaUVnmdZo8jqyGyZfZ"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 174915,
       "name": "El Extendo",
       "url": "https://open.spotify.com/track/13dOCMI6S2yLVvmC3CgDW5"
@@ -1351,6 +1351,28 @@
       "duration_ms": 247015,
       "name": "Fondo de Bikini",
       "url": "https://open.spotify.com/track/7tzj3k0Qm2g5oeD6TVdyoC"
+    },
+    {
+      "album": {
+        "name": "Frank Lukas (con Big Soto)",
+        "url": "https://open.spotify.com/album/2ybM3iuiHqqJYYxJGuviSr"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Frank Lukas (con Big Soto)",
+      "url": "https://open.spotify.com/track/7BWBRZQnjKpO9gvMCpg1pW"
     },
     {
       "album": {
@@ -3689,6 +3711,28 @@
       "duration_ms": 112071,
       "name": "Sin Bajarle",
       "url": "https://open.spotify.com/track/62CE9w9aL3LnDy9PShDUsy"
+    },
+    {
+      "album": {
+        "name": "Sin Coro",
+        "url": "https://open.spotify.com/album/0oV0vK4dwxaaxILPPO9Yyr"
+      },
+      "artists": [
+        {
+          "name": "Il Nene De Oro",
+          "url": "https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155548,
+      "name": "Sin Coro",
+      "url": "https://open.spotify.com/track/5qmiyYsNPiku1ogHGHn1iB"
     },
     {
       "album": {

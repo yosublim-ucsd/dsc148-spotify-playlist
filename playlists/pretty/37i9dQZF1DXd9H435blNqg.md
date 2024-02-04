@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,828 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,858 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 61 | [Them That Matter Don't Mind](https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 2:49 |
 | 62 | [Nobody's Wrong](https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Nobody's Wrong](https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp) | 3:55 |
 | 63 | [Sweetwater](https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Sweetwater](https://open.spotify.com/album/4Dj6dQExClkwocUsSrAYMg) | 5:40 |
-| 64 | [Blood In The Water](https://open.spotify.com/track/6tsRuvYMEMZkujPu4jiQCG) | [Rufus Black](https://open.spotify.com/artist/49Vne8CJANvjP9t0cvoQ14), [Ben Jones](https://open.spotify.com/artist/5fwhUGocXqNm9fQYkt4h0D), [Gavin Conder](https://open.spotify.com/artist/6GWDbdcSJn1PByFJyxuSDb), [Russ Parker](https://open.spotify.com/artist/73MneyMGWkvOiPeDvldHoe), [Scott McKeon](https://open.spotify.com/artist/1sfTHUBg3CWHk2cU3Mle9S) | [Blood In The Water](https://open.spotify.com/album/5lSY3MZOCvKsFsSniZMxrW) | 3:46 |
+| 64 | [Blood In The Water](https://open.spotify.com/track/1Rjo59fEVsnBdahY0ULQNd) | [Rufus Black](https://open.spotify.com/artist/49Vne8CJANvjP9t0cvoQ14), [Ben Jones](https://open.spotify.com/artist/5fwhUGocXqNm9fQYkt4h0D), [Gavin Conder](https://open.spotify.com/artist/6GWDbdcSJn1PByFJyxuSDb), [Russ Parker](https://open.spotify.com/artist/73MneyMGWkvOiPeDvldHoe), [Scott McKeon](https://open.spotify.com/artist/1sfTHUBg3CWHk2cU3Mle9S) | [Blood In The Water](https://open.spotify.com/album/09rxHR1agURAUCivjjFQBB) | 3:46 |
 | 65 | [Wishing Well](https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Moonshine Blue](https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw) | 2:48 |
 | 66 | [Get Yourself Some](https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Say the Word](https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb) | 3:00 |
 | 67 | [Pearl Cadillac \(feat\. Andra Day\)](https://open.spotify.com/track/5fcisGWiGPqr3hkPy0h1mr) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Pearl Cadillac \(feat\. Andra Day\)](https://open.spotify.com/album/5uVl49FsC9vFHCxNT2zoiJ) | 3:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 74 | [One Thing \(2020\)](https://open.spotify.com/track/3UN865e2RbOp2e5MEaKyH1) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/0yGqO8T0PFlvvOEB67SVw8) | 4:06 |
 | 75 | [Quarantine](https://open.spotify.com/track/7gde4dG4lg1LDEVAgwTeYE) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Quarantine](https://open.spotify.com/album/2WjzcRa6XEfaLmYqTMBrEE) | 2:52 |
 
-Snapshot ID: `MCw5MTZjMDZmMTNlMWIxYTA3MmRhNzExYmJhOTc4YzY0ZGYyZDYxODAz`
+Snapshot ID: `MCw4ODJkZjk2MWYyOWVhYjQ5Njk4YjAyZDYyOThjZjlhNzgxMDE2ZDY4`

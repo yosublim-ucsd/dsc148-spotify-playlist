@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Jazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,479 likes - 89 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,468 likes - 89 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shooting Star](https://open.spotify.com/track/1iD1Apn0i05NWYwOaSaRcb) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Constellations \(Expanded\)](https://open.spotify.com/album/6lIisbumiVx5fHO6e8ybLb) | 2:25 |
-| 2 | [Crusade](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
+| 2 | [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
 | 3 | [Who I Am](https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Who I Am](https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX) | 3:13 |
 | 4 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 |
 | 5 | [Loneliness](https://open.spotify.com/track/6fSFZusee1TtCLfxz3BuQ2) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Loneliness](https://open.spotify.com/album/0Lxcnu23IVYAYTUw5oHkeY) | 5:37 |
@@ -96,6 +96,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 86 | [YIN & YANG](https://open.spotify.com/track/4oXrLiCY9XLYMEuZ1drI1t) | [MOKABY](https://open.spotify.com/artist/3AXI2Qfty5IVrmtQzi8weo), [ALY$HIA](https://open.spotify.com/artist/38sMetc66ave6OQSpl1BW3) | [YIN & YANG](https://open.spotify.com/album/2oaODUP1pNIc4babSl3ivd) | 2:08 |
 | 87 | [Stars In The Sky](https://open.spotify.com/track/2FAxGUCF5HLf7ZOHyS2khP) | [YO\-TKHS](https://open.spotify.com/artist/4k44uZLHVsaJIrFYVxRhZy), [OSUSHI\-TABEZO](https://open.spotify.com/artist/72HnciA4L2T2EFcOq0mIvc) | [Stars In The Sky](https://open.spotify.com/album/2xsn7GoBaPmaKdgvyzTPXv) | 2:56 |
 | 88 | [Lose You](https://open.spotify.com/track/4zIdRT2HNsDmqPLGblw84B) | [Sielo](https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP) | [Lose You](https://open.spotify.com/album/7JA5UFGSEQVPlU9yXnZwWw) | 2:37 |
-| 89 | [To The Beat](https://open.spotify.com/track/1VdJthDXiTGmex8NA0SUtX) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [To The Beat](https://open.spotify.com/album/2ytVZwLicJi3ZudO9FYPYJ) | 2:34 |
+| 89 | [To The Beat](https://open.spotify.com/track/3i5JPUScbykbkAOCLfk7Wo) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [To The Beat](https://open.spotify.com/album/34VdSaTKOFKlgj5UTwN6p7) | 2:34 |
 
-Snapshot ID: `MCw3YTlmOGRiZTM0ZDY1MjQ0YmYzOTdmYjEzYjRjYWNlODkwNjBiY2Vm`
+Snapshot ID: `MCxjODNmYWMzYmRkZDA2MzRhZDhhYzU4ZWZjYWQ1N2I3NWVmNmFlNDc0`

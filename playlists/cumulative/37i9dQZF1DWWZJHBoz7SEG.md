@@ -4,7 +4,7 @@
 
 > ¡La playlist con las tres B's! Bellakath, Belinda y The Blessed Madonna 💅 La Licenciada del Perreo en Portada
 
-5,121 songs - 11 day 16 hr 31 min
+5,121 songs - 11 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1387,7 +1387,7 @@
 | [El Primo De La Costa](https://open.spotify.com/track/6VNCT2gN8kbFNio4SHT4ku) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Primo De La Costa](https://open.spotify.com/album/5Hv9CeNI7XcN0OHoMF153a) | 3:48 | 2023-12-29 | 2024-01-06 |
 | [El Profe](https://open.spotify.com/track/6Y5tKbcjaJ6G6QUFt4QkLi) | [Johann Vera](https://open.spotify.com/artist/3LP4XtcdBxAaO3ZevTTppB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK) | [El Profe](https://open.spotify.com/album/2l605nfzM6RDJlCAql8SwZ) | 3:26 | 2022-07-01 | 2022-07-09 |
 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 | 2022-08-12 | 2022-08-20 |
-| [El Que Resuelve](https://open.spotify.com/track/56Br9FPB36z1qf8gnu2Zib) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [El Gudi](https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB) | [El Que Resuelve](https://open.spotify.com/album/1PMRGdRKgG9nRwlX8XfasE) | 2:50 | 2024-02-02 |  |
+| [El Que Resuelve](https://open.spotify.com/track/56Br9FPB36z1qf8gnu2Zib) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [El Gudi](https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB) | [El Que Resuelve](https://open.spotify.com/album/1PMRGdRKgG9nRwlX8XfasE) | 3:08 | 2024-02-02 |  |
 | [El Rayo Vallecano](https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [El Rayo Vallecano](https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5) | 2:50 | 2023-05-26 | 2023-06-03 |
 | [EL RELOJ \(con Maluma\)](https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [EL RELOJ \(con Maluma\)](https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR) | 3:00 | 2023-07-28 | 2023-08-05 |
 | [EL RELOJITO](https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [EL RELOJITO](https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h) | 3:09 | 2024-01-12 | 2024-01-20 |

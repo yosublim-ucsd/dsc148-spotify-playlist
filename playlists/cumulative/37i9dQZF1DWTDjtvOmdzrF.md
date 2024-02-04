@@ -4,7 +4,7 @@
 
 > Racikan akustik dalam secangkir kopi.
 
-117 songs - 7 hr 47 min
+118 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Pelangi](https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:37 | 2022-12-07 |  |
 | [Pelukku Untuk Pelikmu \- OST Imperfect: Karier, Cinta, & Timbangan](https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Pelukku Untuk Pelikmu \(OST Imperfect: Karier, Cinta, & Timbangan\)](https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh) | 4:09 | 2022-12-07 |  |
 | [Perahu Kertas](https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Moments](https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI) | 3:54 | 2022-12-07 |  |
-| [Puisi](https://open.spotify.com/track/7GvaaOGxD63FHoCwWlOa5o) | [Dinda Kirana](https://open.spotify.com/artist/1OmLMt4qFQvVah6yrKwQ50) | [Puisi](https://open.spotify.com/album/7qu0piAv3wqjMYZDP5k4XH) | 4:34 | 2023-08-08 |  |
+| [Puisi](https://open.spotify.com/track/5beFAWW2hzgUYk8Bnn0phm) | [Dinda Kirana](https://open.spotify.com/artist/3M5VT9sSef85IF0LiiptxO) | [Puisi](https://open.spotify.com/album/2EpilSwm5p3ttGKyj0Tgxn) | 4:34 | 2023-12-06 |  |
+| [Puisi](https://open.spotify.com/track/7GvaaOGxD63FHoCwWlOa5o) | [Dinda Kirana](https://open.spotify.com/artist/1OmLMt4qFQvVah6yrKwQ50) | [Puisi](https://open.spotify.com/album/7qu0piAv3wqjMYZDP5k4XH) | 4:34 | 2023-08-08 | 2024-02-04 |
 | [Pupus](https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Cerita Hanin Dhiya](https://open.spotify.com/album/1MFgXbGxEoiVD1FUeOvlKH) | 3:54 | 2023-09-13 | 2023-10-09 |
 | [Putus Atau Terus](https://open.spotify.com/track/7HBW6yX8iRf81nn6NVOzHL) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Putus Atau Terus](https://open.spotify.com/album/1zqYuKvhLBILR5PZdyAMyW) | 4:08 | 2022-12-07 |  |
 | [Rasa Cinta Ini](https://open.spotify.com/track/14MjoIPXq5fzD842t0JoW7) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Rasa Cinta Ini](https://open.spotify.com/album/61WF65JIOXqQiYelyDttH6) | 4:01 | 2022-12-07 | 2023-10-06 |

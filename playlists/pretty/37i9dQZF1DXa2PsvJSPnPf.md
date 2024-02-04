@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,057 likes - 150 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,104 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wool \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/4hoqP9dIAu2Nk6u5LvxOR4) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:49 |
 | 2 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 |
-| 3 | [Wondering Why](https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wondering Why](https://open.spotify.com/album/5WtlaMCff9QS0I76EE7lge) | 3:52 |
+| 3 | [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 |
 | 4 | [Hurts so Good](https://open.spotify.com/track/0pERFI5FC1bCTH0n6EvyWo) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:55 |
 | 5 | [I Am Appalachia](https://open.spotify.com/track/6qmRm8Fq9SvOMT0Ekr06V5) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [I Am Appalachia](https://open.spotify.com/album/63626Q1PaEAugYbB4xAIDn) | 2:40 |
 | 6 | [For a Long While](https://open.spotify.com/track/2PNQZvAiJouT0v1XkyUrgF) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [For a Long While](https://open.spotify.com/album/1vOGxW3zlR7k5PsAawSxqD) | 3:19 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 149 | [You're Free Now \(feat\. Sarah Jarosz\)](https://open.spotify.com/track/271g7BFvo00WN1YN78m0JG) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [da Costa \(Deluxe\)](https://open.spotify.com/album/2VH2F0wlJCfm7wuUYYD87E) | 4:19 |
 | 150 | [Mint Condition](https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:02 |
 
-Snapshot ID: `MCw2ZmMyZDMxYTFjY2Y3MTQxZjFiYzZkNjhlNzZjY2Y0OWRkYzIyMzRl`
+Snapshot ID: `MCw5ZTMwMmI1NzZhZGM5MTk1MmUyMzNhMmY1YmYxMzNjOTY1MzBmZTI3`

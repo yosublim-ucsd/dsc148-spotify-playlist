@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 617745,
+  "num_followers": 617880,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2Y3OGI3ODM3N2ZjZThkZmRmMGY2NTI4MTg5NTYxMTViNmEwZWMz",
+  "snapshot_id": "MCxkZjZiZjIyZjU3YTYyNTI4OGVjYTZiODQyZWEzNjYwMjZkMjJkMTRl",
   "tracks": [
     {
       "added_at": "2023-11-14 11:01:57",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Who You Are",
-        "url": "https://open.spotify.com/album/3zO2PYueI0npVFlxEyl9R0"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Who You Are",
-      "url": "https://open.spotify.com/track/2ZK2PfpK0iri6UduhsblBM"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Weightless (jamesjamesjames Remix)",
         "url": "https://open.spotify.com/album/6Sv0gyjKWyrdij1ToQG6f0"
       },
@@ -195,6 +179,38 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Who You Are",
+        "url": "https://open.spotify.com/album/3zO2PYueI0npVFlxEyl9R0"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/2ZK2PfpK0iri6UduhsblBM"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "Colorize 2023 Spring Sampler",
+        "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "duration_ms": 240448,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 381322,
       "name": "Champion",
       "url": "https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Colorize 2023 Spring Sampler",
-        "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
-      },
-      "artists": [
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        }
-      ],
-      "duration_ms": 240448,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -639,6 +639,30 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Voices Above",
+        "url": "https://open.spotify.com/album/4U7wCpJuheM9IlV53aBLuJ"
+      },
+      "artists": [
+        {
+          "name": "Archila",
+          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "duration_ms": 190942,
+      "name": "Voices Above",
+      "url": "https://open.spotify.com/track/6ME9tv8WUbvUs7be9nt48J"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Mama Thula",
         "url": "https://open.spotify.com/album/6YMpRJfQ3fnI2v0NPJVwEJ"
       },
@@ -663,30 +687,6 @@
       "duration_ms": 361493,
       "name": "Mama Thula",
       "url": "https://open.spotify.com/track/5lyU83MdLTyJpnmCl3NjOi"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Voices Above",
-        "url": "https://open.spotify.com/album/4U7wCpJuheM9IlV53aBLuJ"
-      },
-      "artists": [
-        {
-          "name": "Archila",
-          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        }
-      ],
-      "duration_ms": 190942,
-      "name": "Voices Above",
-      "url": "https://open.spotify.com/track/6ME9tv8WUbvUs7be9nt48J"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -739,26 +739,6 @@
       "duration_ms": 193064,
       "name": "So Good",
       "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Osama (Edit)",
-        "url": "https://open.spotify.com/album/5q1Iq5mxmYODLmwTlmDw6u"
-      },
-      "artists": [
-        {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        },
-        {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "Osama - Edit",
-      "url": "https://open.spotify.com/track/5i2gTPIuhhA1mcFQpmD5rf"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -839,6 +819,26 @@
       "duration_ms": 416562,
       "name": "Don't Care Anymore",
       "url": "https://open.spotify.com/track/1Rpo5GI7BxWj2hXLaK39fq"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "Osama (Edit)",
+        "url": "https://open.spotify.com/album/5q1Iq5mxmYODLmwTlmDw6u"
+      },
+      "artists": [
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "Osama - Edit",
+      "url": "https://open.spotify.com/track/5i2gTPIuhhA1mcFQpmD5rf"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "No One Like You - EP",
-        "url": "https://open.spotify.com/album/3GSvcm4WssIPaJLilc5LCK"
-      },
-      "artists": [
-        {
-          "name": "Marten Lou",
-          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
-        }
-      ],
-      "duration_ms": 256721,
-      "name": "No One Like You - Edit",
-      "url": "https://open.spotify.com/track/262YCyt3bWO2U7sk3wHAhn"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Between Two Worlds",
         "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 464026,
       "name": "Between Two Worlds",
       "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "No One Like You - EP",
+        "url": "https://open.spotify.com/album/3GSvcm4WssIPaJLilc5LCK"
+      },
+      "artists": [
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        }
+      ],
+      "duration_ms": 256721,
+      "name": "No One Like You - Edit",
+      "url": "https://open.spotify.com/track/262YCyt3bWO2U7sk3wHAhn"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -975,26 +975,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Be Here and Now",
-        "url": "https://open.spotify.com/album/3pcwig8qvCceUoeo4xhLD7"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 209699,
-      "name": "Be Here and Now",
-      "url": "https://open.spotify.com/track/3uvfxpOixHqWdwpFfJb48F"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Speed Of Sound",
         "url": "https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 431419,
       "name": "Speed of Sound",
       "url": "https://open.spotify.com/track/7y36fE619nJ6071NI8dZHg"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "Be Here and Now",
+        "url": "https://open.spotify.com/album/3pcwig8qvCceUoeo4xhLD7"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 209699,
+      "name": "Be Here and Now",
+      "url": "https://open.spotify.com/track/3uvfxpOixHqWdwpFfJb48F"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/6Yxa8CBEMR8SQfeBxgObf3"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "duration_ms": 420115,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/3q0bx1u5sP4KYE3XldP0PP"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Lay It All On Me",
         "url": "https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 227384,
       "name": "Lay It All On Me",
       "url": "https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Kilian",
-        "url": "https://open.spotify.com/album/6Yxa8CBEMR8SQfeBxgObf3"
-      },
-      "artists": [
-        {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        }
-      ],
-      "duration_ms": 420115,
-      "name": "Kilian",
-      "url": "https://open.spotify.com/track/3q0bx1u5sP4KYE3XldP0PP"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Nice to Meet You",
+        "url": "https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 373487,
+      "name": "Nice to Meet You",
+      "url": "https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Howl (Logic1000 Remix)",
         "url": "https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 289156,
       "name": "Howl - Logic1000 Remix",
       "url": "https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Nice to Meet You",
-        "url": "https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 373487,
-      "name": "Nice to Meet You",
-      "url": "https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe"
     },
     {
       "added_at": "2023-11-14 11:01:57",

@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Norah Jones, Remi Wolf
 
-702 songs - 1 day 18 hr 52 min
+703 songs - 1 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,8 @@
 | [Half of forever](https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Half of forever](https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc) | 2:33 | 2024-01-05 |  |
 | [Hallelujah Anyway](https://open.spotify.com/track/2i6U0iTND18B5gD6QmCo2M) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Hallelujah Anyway](https://open.spotify.com/album/6iG1EIMbUXhXTpb99kcHhi) | 3:33 | 2023-05-12 | 2023-07-29 |
 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 | 2023-02-10 | 2023-07-15 |
-| [Hand to Hand](https://open.spotify.com/track/4AaVY4XuXeHJZwUBSRSoC6) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Hand to Hand](https://open.spotify.com/album/7HUM44SiRxsE6TXDjNF7wp) | 3:46 | 2024-01-05 |  |
+| [Hand to Hand](https://open.spotify.com/track/4AaVY4XuXeHJZwUBSRSoC6) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Hand to Hand](https://open.spotify.com/album/7HUM44SiRxsE6TXDjNF7wp) | 3:46 | 2024-01-05 | 2024-02-04 |
+| [Hand to Hand](https://open.spotify.com/track/7i4onkA2fRuV0viFNWINID) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 3:46 | 2024-02-02 |  |
 | [Hang On To Me](https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hang On To Me](https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL) | 3:22 | 2022-08-12 | 2022-11-12 |
 | [Hangover](https://open.spotify.com/track/57lBDEtlUhzU18Co0DToLg) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Hangover](https://open.spotify.com/album/304pJgIaQAkuG19OLfjfyi) | 3:35 | 2022-09-16 | 2022-10-15 |
 | [Happy As I've Never Been](https://open.spotify.com/track/2iMLSFj0IQ6rFs2LFojL8x) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [House of Dreams](https://open.spotify.com/album/74h20mjtdvHZXeDV7LujO2) | 3:36 | 2022-09-30 | 2023-04-09 |

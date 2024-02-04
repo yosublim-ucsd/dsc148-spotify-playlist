@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 358875,
+  "2024-02-04": 358953,
   "date_first_scraped": "2021-12-21",
   "description": "When the funk is just too funky for words to keep up.",
   "name": "Instrumental Funk",
@@ -1399,6 +1399,32 @@
       "duration_ms": 352374,
       "name": "False Prophets",
       "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
+    },
+    {
+      "album": {
+        "name": "Fat Nap",
+        "url": "https://open.spotify.com/album/2mJPMPqe29y3BtXOGTPkbe"
+      },
+      "artists": [
+        {
+          "name": "Sam Fribush",
+          "url": "https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "Calvin Napper",
+          "url": "https://open.spotify.com/artist/2PPOE2P2KXO3TdVOFluIzz"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226826,
+      "name": "Fat Nap",
+      "url": "https://open.spotify.com/track/4INxpyygHSWT4EF5YHfacG"
     },
     {
       "album": {
@@ -3803,7 +3829,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 316107,
       "name": "Smooth Move",
       "url": "https://open.spotify.com/track/6WFwC46XQapcmnToEcromu"

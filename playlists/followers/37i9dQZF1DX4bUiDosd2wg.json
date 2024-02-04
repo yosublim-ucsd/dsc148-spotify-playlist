@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 9041,
+  "2024-02-04": 9044,
   "date_first_scraped": "2022-11-23",
   "description": "90-00\ub144\ub300 \uc138\uae30\ub9d0 \uac10\uc131\uc744 \ud568\uaed8 \ud588\ub358 \uadf8 \ub54c \uadf8 \ubc1c\ub77c\ub4dc \uac10\uc131\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "\uc138\uae30\ub9d0 \ubc1c\ub77c\ub4dc",
@@ -21,6 +21,24 @@
       "duration_ms": 250680,
       "name": "A Beautiful Farewell",
       "url": "https://open.spotify.com/track/2dekdGGBynn4GIAJE1sIa5"
+    },
+    {
+      "album": {
+        "name": "Kim Gun Mo 3",
+        "url": "https://open.spotify.com/album/7MC1rUuYaRivDt9xHwxyPO"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250680,
+      "name": "A Beautiful Farewell",
+      "url": "https://open.spotify.com/track/4uYt1qSWwaXnPttPgDdEfZ"
     },
     {
       "album": {

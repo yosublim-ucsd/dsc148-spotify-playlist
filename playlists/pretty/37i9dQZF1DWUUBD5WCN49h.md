@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Yugo Szn
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,055 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,072 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 5 | [Gen\-Z Fuji](https://open.spotify.com/track/513bT5hsTWaLwIiwktuAPG) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Gen\-Z Fuji](https://open.spotify.com/album/0AkymHIm0pp983pVtsz9T9) | 2:02 |
 | 6 | [7 in the Morning](https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [7 in the Morning](https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7) | 3:34 |
 | 7 | [Celine Dion](https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Celine Dion](https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4) | 3:09 |
-| 8 | [Undress You](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/72Rav2u2DeRPJuA44Ng0n0), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 |
+| 8 | [Undress You](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 |
 | 9 | [All In \- Fender Acoustic](https://open.spotify.com/track/0ptUNefO7UXD5tSJv2cjUB) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [All In \(Fender Acoustic\)](https://open.spotify.com/album/28OBI9u2IlOmvZuDU9lNwC) | 3:52 |
 | 10 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 |
 | 11 | [Tension](https://open.spotify.com/track/3tZsUsu3PZ1V48hpApVOFF) | [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Fed Up / Tension](https://open.spotify.com/album/12l63NT7yZ7bFf0mRJ9Y0l) | 2:36 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 13 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 |
 | 14 | [NEW SEASON](https://open.spotify.com/track/01eJkNdcQfxmWBeeTXaLXJ) | [psiv](https://open.spotify.com/artist/2BP1UlQl2ket7YSsA8ocls), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [C3VN](https://open.spotify.com/artist/5M78DPxvvpqMbkMZ3WAPhh) | [NEW SEASON](https://open.spotify.com/album/0DhwBUGi5SnQ0Mldt9BYAk) | 1:41 |
 | 15 | [Osondi Owendi](https://open.spotify.com/track/0vG1ADDsKH633S42iVG6MW) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Osondi Owendi](https://open.spotify.com/album/72Ej57wkEwKeVt8oIBVW81) | 3:37 |
-| 16 | [Suleja](https://open.spotify.com/track/74dRyGZI4LRrfunus25OJ3) | [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Suleja](https://open.spotify.com/album/5i4vHD1u0bPDLQ7bhryOxh) | 2:32 |
+| 16 | [Suleja \(Remix\)](https://open.spotify.com/track/74dRyGZI4LRrfunus25OJ3) | [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Suleja \(Remix\)](https://open.spotify.com/album/5i4vHD1u0bPDLQ7bhryOxh) | 2:32 |
 | 17 | [Leave Me Now](https://open.spotify.com/track/7qGQ2W9yhmJNxe7ZxNHfdQ) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Leave Me Now](https://open.spotify.com/album/2mz2aVrry5imXM9ztzezfp) | 2:48 |
 | 18 | [Me & U](https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Me & U](https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf) | 3:04 |
 | 19 | [Tamu](https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5) | [Zaituni Wambui](https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me) | [Tamu](https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg) | 3:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [Don't Lemme Fall](https://open.spotify.com/track/4MVTqwtTHFu8DJ5UscmiQA) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Don't Lemme Fall](https://open.spotify.com/album/55v53pg1Ptr1jLNLl8ewwC) | 2:50 |
 | 80 | [Distance](https://open.spotify.com/track/4VfXcG4R34Wu0AMsQCMQKu) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Loved Ones](https://open.spotify.com/album/2uVBRxKpcJAh0LwANbtmRa) | 3:53 |
 
-Snapshot ID: `MCxhY2NlMTE1MGU4OWZjMzZjZWExMDI5M2Y2M2RlOWU1OWNmZjQ0MTE5`
+Snapshot ID: `MCwxZTNlMDlmM2JkMWNmNjFlODBhNGRkZWFhYjQ4ZTlhNDA3Yzg5ZDIx`

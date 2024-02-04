@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > اسمك فاشل بين البراكتسسس، بلعب بيهم يسطى ركتسسس، بكتفهم زي جكتسسس غلاف: أبيوسف
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,710 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,837 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 7 | [الدنيا ايه](https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [الدنيا ايه](https://open.spotify.com/album/3JqkIHvNZMoWe06n3oQKza) | 3:38 |
 | 8 | [Vida Loca](https://open.spotify.com/track/4WKcS5bpZNwg31wcGpO2o0) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [Mangesto](https://open.spotify.com/album/3t3dNFtSlwC5UBg9fRgKi5) | 1:59 |
 | 9 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 |
-| 10 | [SALEM](https://open.spotify.com/track/13IgYNe8Wm0CtPmJEfoyS5) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51), [Bashmohannad](https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m) | [SALEM](https://open.spotify.com/album/3B8uIcXsXw8SA8FU6oTZjM) | 3:18 |
+| 10 | [MADARETSH](https://open.spotify.com/track/20ug862pGPnJRSuENJp3ae) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51), [Bashmohannad](https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m) | [SALEM](https://open.spotify.com/album/3B8uIcXsXw8SA8FU6oTZjM) | 2:28 |
 | 11 | [1](https://open.spotify.com/track/27cKUc5nNI6uI5dpGlB1UF) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [1](https://open.spotify.com/album/6ybWRd5mQpRno5JtrxMkcZ) | 2:13 |
 | 12 | [Salt El Zein \- صلاة الزين](https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Salt El Zein \- صلاة الزين](https://open.spotify.com/album/2FLoi19Rf5ejnlHfPYF4zp) | 2:36 |
 | 13 | [Tripod](https://open.spotify.com/track/4nydbqIi7U7DMM3ZGQEjtE) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa) | 3:48 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 39 | [Gezira](https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Gezira](https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk) | 3:13 |
 | 40 | [Tarab](https://open.spotify.com/track/709KYvIszGGKs4vjmWzAPq) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [7a7a](https://open.spotify.com/artist/5yhMmeUQ0NZn1WuW0sbD5s) | [Red Bull Sika](https://open.spotify.com/album/3JPrrTh4yG6WZBXXYa6Wsy) | 2:19 |
 
-Snapshot ID: `MCxjNTU2NWQ4YWQ2YTc5MTdhMWM5M2Y1NjY3OGE3YTAwMmViMDZkNTEx`
+Snapshot ID: `MCwwNWQ2N2IxYjlkMjgwYmE4MThjMTU5Zjk4ODk1M2Q0YjQ0ZDQ5MjU5`

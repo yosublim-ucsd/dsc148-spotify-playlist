@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,661 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,674 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [ARIGATO](https://open.spotify.com/track/6vCmFt6aTwiJxEqZ2GRohr) | [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [ARIGATO](https://open.spotify.com/album/4WQkEorxDBgURiS5LlZXV2) | 2:36 |
 | 50 | [BRAND NEW](https://open.spotify.com/track/1BVsrwJGA5Uf1DNiHKWPCW) | [Won](https://open.spotify.com/artist/5cNZg8qn03Tuqe9xfLbeN5), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [YamieZimmer](https://open.spotify.com/artist/7aqyXIegZ72uUh7d1AXR3z) | [BRAND NEW](https://open.spotify.com/album/4QPBhQbCWxO3uvPbi4v5w3) | 2:50 |
 
-Snapshot ID: `MCwxYWZlZjZjOGZmNDczNjYwYTg1YjRjYmVhODBhZmM5ZGI3NjkxYjA5`
+Snapshot ID: `MCw0ZmVlNjdlODFkYjk1ZmU4Njc0OTI2OWE2NGVhNDVkYTRmZTE0N2Ni`

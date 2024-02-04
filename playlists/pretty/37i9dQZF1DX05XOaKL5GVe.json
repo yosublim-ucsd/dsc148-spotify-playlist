@@ -1,12 +1,12 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 773374,
+  "num_followers": 773982,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDdiNTlmMzE5NGViYTJkOTA1NmU2ZmNlOGEyMTcxYTFiMDJhOGM1",
+  "snapshot_id": "MCw2NzA1YjU4NzQzZGRkNGI1NjhmNDBjZDBiNTNlMzY5MmU4N2ZlMDI3",
   "tracks": [
     {
       "added_at": "2021-04-22 14:20:49",
@@ -187,18 +187,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Luz Y Sombra",
-        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy"
       },
       "artists": [
         {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
         }
       ],
-      "duration_ms": 280040,
-      "name": "Las Mil Y Una Noches",
-      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
+      "duration_ms": 201160,
+      "name": "\u00bfPorqu\u00e9 te vas?",
+      "url": "https://open.spotify.com/track/11rsK9GDZ9UdWsxtDqnMmN"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -235,18 +235,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Porque Te Vas",
-        "url": "https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy"
+        "name": "Luz Y Sombra",
+        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
       },
       "artists": [
         {
-          "name": "Jeanette",
-          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
         }
       ],
-      "duration_ms": 201160,
-      "name": "\u00bfPorqu\u00e9 te vas?",
-      "url": "https://open.spotify.com/track/11rsK9GDZ9UdWsxtDqnMmN"
+      "duration_ms": 280040,
+      "name": "Las Mil Y Una Noches",
+      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
     },
     {
-      "added_at": "2023-01-04 00:38:43",
-      "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/1hvkChT8svwpuA5b5v8Ksr"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 231200,
-      "name": "Qu\u00e9date Conmigo Esta Noche",
-      "url": "https://open.spotify.com/track/0QTJFY7wrFxL9JlJfQvJzv"
-    },
-    {
       "added_at": "2021-04-22 14:20:49",
       "album": {
         "name": "Vive",
@@ -1067,6 +1051,22 @@
       "duration_ms": 205560,
       "name": "Despues De Tanto",
       "url": "https://open.spotify.com/track/3nWYPT891FrWJTpdxLG4Xj"
+    },
+    {
+      "added_at": "2023-01-04 00:38:43",
+      "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/1hvkChT8svwpuA5b5v8Ksr"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 231200,
+      "name": "Qu\u00e9date Conmigo Esta Noche",
+      "url": "https://open.spotify.com/track/0QTJFY7wrFxL9JlJfQvJzv"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt"
     },
     {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 169720,
-      "name": "C\u00f3mo Quisiera Decirte",
-      "url": "https://open.spotify.com/track/7lmK8HJzXjD7JW88tQGVUT"
-    },
-    {
       "added_at": "2023-02-14 04:26:19",
       "album": {
         "name": "\u00bfD\u00f3nde Est\u00e1 el Pais de las Hadas? (Bonus Tracks Edition)",
@@ -1183,6 +1167,22 @@
       "duration_ms": 201186,
       "name": "Barco a Venus",
       "url": "https://open.spotify.com/track/11glwadtd8zwDamSDOX5cJ"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 169720,
+      "name": "C\u00f3mo Quisiera Decirte",
+      "url": "https://open.spotify.com/track/7lmK8HJzXjD7JW88tQGVUT"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "S\u00f3lo para enamorados",
-        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
-      },
-      "artists": [
-        {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Tri\u00e1ngulo",
-      "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Bienvenido al Club",
         "url": "https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 241733,
       "name": "Por volverte a ver",
       "url": "https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "S\u00f3lo para enamorados",
+        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
+      },
+      "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Tri\u00e1ngulo",
+      "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Mi Pueblo",
-        "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
-      },
-      "artists": [
-        {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
-        }
-      ],
-      "duration_ms": 152711,
-      "name": "Mi Pueblo",
-      "url": "https://open.spotify.com/track/3SSOvO40lo6wmz8r0Kt3M1"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Cien a\u00f1os... pensando en ti",
         "url": "https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 212706,
       "name": "Cien a\u00f1os",
       "url": "https://open.spotify.com/track/1Ag6NwYwfBxZuNixLMT5a8"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Mi Pueblo",
+        "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "duration_ms": 152711,
+      "name": "Mi Pueblo",
+      "url": "https://open.spotify.com/track/3SSOvO40lo6wmz8r0Kt3M1"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1579,6 +1579,38 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "Rock, Balada y Sentimiento, Vol. I",
+        "url": "https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "duration_ms": 199262,
+      "name": "Llamarada",
+      "url": "https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Las 15 Consagradas",
+        "url": "https://open.spotify.com/album/6m5h3OTjm2V0Jo5I2ckwTa"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "duration_ms": 292101,
+      "name": "Acariciame",
+      "url": "https://open.spotify.com/track/2Cg1fj6jAMXc3F9sobVfaR"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Lamento Borincano",
         "url": "https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl"
       },
@@ -1591,38 +1623,6 @@
       "duration_ms": 192444,
       "name": "Perdon",
       "url": "https://open.spotify.com/track/6Vdz67EdEfB0d7BItvj9kt"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Grandes \u00c9xitos Vol.2",
-        "url": "https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN"
-      },
-      "artists": [
-        {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
-        }
-      ],
-      "duration_ms": 160835,
-      "name": "La Historia de Tommy",
-      "url": "https://open.spotify.com/track/1LZZNt7iehSyCtsBvEk4EZ"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Disco De Oro: Baladas, Vol. 1",
-        "url": "https://open.spotify.com/album/4BqbJnEBxaFr21syHgr6bc"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "Hasta Que Amanezca",
-      "url": "https://open.spotify.com/track/7kEU8iwkKrFoxQwY9TREst"
     }
   ],
   "unique_name": "Viejitas pero Bonitas",

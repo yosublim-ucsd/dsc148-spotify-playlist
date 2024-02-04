@@ -4,7 +4,7 @@
 
 > The notes that will make you long for those days of yore.
 
-204 songs - 11 hr 3 min
+205 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [La Paloma](https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [La Paloma](https://open.spotify.com/album/3J96HGOfDoTV6H1Y2gK8Tu) | 2:33 | 2020-12-08 |  |
 | [La Playa](https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3) | [Francis Goya](https://open.spotify.com/artist/1qFy3FK37qaUCE2y2vWCak) | [The Gold Series \- Latin Romance](https://open.spotify.com/album/1whKZ8ETP2nATRiZPjN1ya) | 3:54 | 2020-12-08 |  |
 | [La Vie En Rose](https://open.spotify.com/track/4RRFpTX7hQRYSTo9efZ8yg) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Wonderland By Night \(Remastered\)](https://open.spotify.com/album/1CbLm2NzirrgPh2UcoSITF) | 2:38 | 2020-12-08 | 2024-01-22 |
+| [La Vie En Rose](https://open.spotify.com/track/2R5uw1Sa7XjU5AcriEeQER) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Wonderland By Night](https://open.spotify.com/album/4NJgRrbHDkPMBMkup98HpB) | 2:40 | 2020-12-08 |  |
 | [La Vie En Rose](https://open.spotify.com/track/2B8noBQPOHP87eWqpdAp4S) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Wonderland Archive '60 \(Stereo\)](https://open.spotify.com/album/2mtSKDt7Tnk6iSoUrSo9hI) | 2:44 | 2020-12-08 | 2022-07-28 |
 | [La Vita E' Bella](https://open.spotify.com/track/4GSDu8XFp3qikUcqpilsKa) | [Nicola Piovani](https://open.spotify.com/artist/11XlNd1KqePugYImzM1ZKJ) | [In Quintetto](https://open.spotify.com/album/0PMge6krTGNqG38khkPWXc) | 4:51 | 2020-12-08 | 2022-07-29 |
 | [La vita è bella](https://open.spotify.com/track/7ob7mrVX7FEQIT2gSClVtA) | [Nicola Piovani](https://open.spotify.com/artist/11XlNd1KqePugYImzM1ZKJ) | [In quintetto](https://open.spotify.com/album/6QRGjKHm12bdXFE2SJD7Rb) | 4:51 | 2020-12-08 |  |
@@ -202,7 +203,7 @@
 | [The Theme from "A Summer Place" \- Single Version](https://open.spotify.com/track/2kKL5kk4On8YRSKWDgXWMX) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Percy Faith'S Greatest Hits](https://open.spotify.com/album/4AdlSv0lu4ybv2PXv7Moma) | 2:24 | 2020-12-08 | 2022-07-26 |
 | [Tijuana Taxi](https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!Going Places!!](https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT) | 2:05 | 2020-12-08 |  |
 | [Tijuana Taxi](https://open.spotify.com/track/7JH6N7qstfxRhaB7PjiE9q) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!!Going Places!!!](https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2) | 2:05 | 2020-12-08 | 2022-07-29 |
-| [Too Young](https://open.spotify.com/track/2l6OsDqjoFFAKHMHcZ7nYi) | [Ricardo Juarez](https://open.spotify.com/artist/6IqlP90ae1omoteM4omT70) | [Presentando a Ricardo Juarez](https://open.spotify.com/album/5iC3GicPaENZWdTv2B1yON) | 2:55 | 2020-12-08 |  |
+| [Too Young](https://open.spotify.com/track/2l6OsDqjoFFAKHMHcZ7nYi) | [Ricardo Juarez](https://open.spotify.com/artist/6IqlP90ae1omoteM4omT70) | [Presentando a Ricardo Juarez](https://open.spotify.com/album/5iC3GicPaENZWdTv2B1yON) | 2:55 | 2020-12-08 | 2024-02-04 |
 | [Too Young](https://open.spotify.com/track/4xA82yaxvwY4AbhxSlurst) | [Ricardo Juarez](https://open.spotify.com/artist/6IqlP90ae1omoteM4omT70) | [Happy Time Cha Chas](https://open.spotify.com/album/7LbPRspn8h5NedA4QCkJPb) | 2:55 | 2020-12-08 | 2023-06-10 |
 | [Un homme et une femme \- Instrumental](https://open.spotify.com/track/062Cv5UXgBHWkMoRScGkt0) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [Un homme et une femme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GU4TR3nIDycmrQyGE7wpk) | 2:41 | 2020-12-08 |  |
 | [Wenn wir auseinandergeh'n \(Please Release Me\)](https://open.spotify.com/track/57QRlAasOg3CFH7sLmNqVD) | [Captain Cook Und Seine Singenden Saxophone](https://open.spotify.com/artist/4UtSK2tnFD8onyFS34QusX) | [Heimat Deine Sterne, Folge 4](https://open.spotify.com/album/6fdvYtn7d6Atb998x2iCvs) | 2:13 | 2020-12-08 | 2022-07-29 |

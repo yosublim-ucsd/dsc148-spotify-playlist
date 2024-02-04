@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 9842,
+  "num_followers": 9845,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjUwMDJjMjZiNjJhM2ViOGQwNGMzMmU0MzBkMDUwNTU5ZTFlNTQw",
+  "snapshot_id": "MCxkODNiMjNhMTBjMTFiMzQ4NmRlNzkxMDI3ZGFiMjRhODdhYzM2YmQ1",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Pigeon d'argile",
-        "url": "https://open.spotify.com/album/1GTX1BnzitW8M9h1Nrpofh"
-      },
-      "artists": [
-        {
-          "name": "Kevin Parent",
-          "url": "https://open.spotify.com/artist/5hOp5PaxAcdnaZtv4oqJCw"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/6xw1lHAsGmik1lu0k15zk9"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Les Dales Hawerchuk",
         "url": "https://open.spotify.com/album/5woV8wdB6mPBfgrVONkapY"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 132800,
       "name": "Dale Hawerchuk",
       "url": "https://open.spotify.com/track/25Yj66WWWgyXbPNJZNNXvS"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Pigeon d'argile",
+        "url": "https://open.spotify.com/album/1GTX1BnzitW8M9h1Nrpofh"
+      },
+      "artists": [
+        {
+          "name": "Kevin Parent",
+          "url": "https://open.spotify.com/artist/5hOp5PaxAcdnaZtv4oqJCw"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/6xw1lHAsGmik1lu0k15zk9"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -207,22 +207,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Danse sociale",
-        "url": "https://open.spotify.com/album/43HrZpsHePmMfgN69PTnFR"
-      },
-      "artists": [
-        {
-          "name": "Captaine R\u00e9volte",
-          "url": "https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "J'ai oubli\u00e9",
-      "url": "https://open.spotify.com/track/0fxyIaAHcZg6uBlFSHYyJM"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Fieldtrip",
         "url": "https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 190040,
       "name": "Gros tas d'marde",
       "url": "https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Danse sociale",
+        "url": "https://open.spotify.com/album/43HrZpsHePmMfgN69PTnFR"
+      },
+      "artists": [
+        {
+          "name": "Captaine R\u00e9volte",
+          "url": "https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "J'ai oubli\u00e9",
+      "url": "https://open.spotify.com/track/0fxyIaAHcZg6uBlFSHYyJM"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -543,22 +543,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Sur quelle plan\u00e8te",
-        "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9nus 3",
-          "url": "https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU"
-        }
-      ],
-      "duration_ms": 323400,
-      "name": "Dans les airs",
-      "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "D\u00e9jeuner sur l'herbe",
         "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 192093,
       "name": "J'pourrais pas vivre avec toi",
       "url": "https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Sur quelle plan\u00e8te",
+        "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9nus 3",
+          "url": "https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU"
+        }
+      ],
+      "duration_ms": 323400,
+      "name": "Dans les airs",
+      "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -655,6 +655,22 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "D\u00e9jeuner sur l'herbe",
+        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
+      },
+      "artists": [
+        {
+          "name": "Les Breastfeeders",
+          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Mini-jupe et watusi",
+      "url": "https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "l'amour la haine les animaux les automobiles",
         "url": "https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 279160,
       "name": "Le teint de Linda",
       "url": "https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "D\u00e9jeuner sur l'herbe",
-        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
-      },
-      "artists": [
-        {
-          "name": "Les Breastfeeders",
-          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Mini-jupe et watusi",
-      "url": "https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb"
     },
     {
       "added_at": "2020-06-23 14:47:30",

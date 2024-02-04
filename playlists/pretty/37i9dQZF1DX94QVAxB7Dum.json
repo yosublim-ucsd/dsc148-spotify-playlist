@@ -1,12 +1,12 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 719350,
+  "num_followers": 719633,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjQzOGFkZWVjMGNiYzQ4ZTZlOTQyNDFjZTNkMjljZjg3OGYxNDFh",
+  "snapshot_id": "MCxhZDQxYzY2YTViNzEzYWM5NzMwNWQ0ODk0ZjQ2Y2UyMTRkNjkxMGMz",
   "tracks": [
     {
       "added_at": "2021-04-29 10:16:48",
@@ -523,6 +523,22 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
+        "name": "King Floyd",
+        "url": "https://open.spotify.com/album/6r1VSCkbZaVj6FUhbh3aFQ"
+      },
+      "artists": [
+        {
+          "name": "King Floyd",
+          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/1sG3M0yjIYweejCR9Amyh6"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "King Floyd",
-        "url": "https://open.spotify.com/album/6r1VSCkbZaVj6FUhbh3aFQ"
-      },
-      "artists": [
-        {
-          "name": "King Floyd",
-          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Groove Me",
-      "url": "https://open.spotify.com/track/1sG3M0yjIYweejCR9Amyh6"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
         "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "The Undisputed Truth",
-        "url": "https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz"
-      },
-      "artists": [
-        {
-          "name": "The Undisputed Truth",
-          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Smiling Faces Sometimes",
-      "url": "https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "Everything Is Everything",
         "url": "https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 413773,
       "name": "The Ghetto",
       "url": "https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "The Undisputed Truth",
+        "url": "https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz"
+      },
+      "artists": [
+        {
+          "name": "The Undisputed Truth",
+          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Smiling Faces Sometimes",
+      "url": "https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm"
     },
     {
       "added_at": "2021-04-29 10:16:48",

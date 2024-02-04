@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 9101,
+  "2024-02-04": 9098,
   "date_first_scraped": "2022-06-10",
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
   "name": "Acoustic Driving Songs",
@@ -2061,7 +2061,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 144962,
       "name": "Made You Look - Acoustic",
       "url": "https://open.spotify.com/track/4c4S1XXmKxdUP9y4kP9kz6"
@@ -2797,7 +2797,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 153370,
       "name": "So Sick - Acoustic",
       "url": "https://open.spotify.com/track/1JnwWC2dcOHjjb85glfjKc"
@@ -3632,6 +3632,24 @@
     },
     {
       "album": {
+        "name": "You Got It (Acoustic)",
+        "url": "https://open.spotify.com/album/7hfuFxdCaXDCJe0hFfqye7"
+      },
+      "artists": [
+        {
+          "name": "Hannah's Yard",
+          "url": "https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204642,
+      "name": "You Got It - Acoustic",
+      "url": "https://open.spotify.com/track/5a6e3orRKXQa8DKDpK1Rvk"
+    },
+    {
+      "album": {
         "name": "You Gotta Be (Acoustic)",
         "url": "https://open.spotify.com/album/3pR8DUQuR6uy44pYmFGw52"
       },
@@ -3769,7 +3787,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 151991,
       "name": "You're the One That I Want - Acoustic",
       "url": "https://open.spotify.com/track/7rlsybGFVSyYq9tDdxloHd"

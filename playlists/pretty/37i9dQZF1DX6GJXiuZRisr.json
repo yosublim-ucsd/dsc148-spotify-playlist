@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1537894,
+  "num_followers": 1537955,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzFjN2VjNjgyNWRhNTNkZGYzY2Q0MWI0MTI3ZWYwNzQ0ODYzODg2",
+  "snapshot_id": "MCw4NGI3NjEwNGE4NTU0Y2Y4ZTJlNjhmMDAyNDM2MzM2MGFmMmJiNTRm",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -307,26 +307,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
-      },
-      "artists": [
-        {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Sweet Disposition (John Summit & Silver Panda Remix)",
         "url": "https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 251904,
       "name": "Sweet Disposition - John Summit & Silver Panda Remix",
       "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+      },
+      "artists": [
+        {
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Fall Again",
+        "url": "https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0"
+      },
+      "artists": [
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 206794,
+      "name": "Fall Again",
+      "url": "https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Fade Out (with MKLA)",
         "url": "https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 194160,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Fall Again",
-        "url": "https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0"
-      },
-      "artists": [
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 206794,
-      "name": "Fall Again",
-      "url": "https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -971,22 +971,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Numb (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
+        "name": "Friend Of Mine",
+        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
         },
         {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
         }
       ],
-      "duration_ms": 237865,
-      "name": "Numb - Joris Voorn Remix, Edit",
-      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
+      "duration_ms": 213333,
+      "name": "Friend Of Mine",
+      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1011,46 +1011,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Friend Of Mine",
-        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
+        "name": "Numb (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
       },
       "artists": [
         {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         },
         {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Friend Of Mine",
-      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "The World You See",
-        "url": "https://open.spotify.com/album/0V9gdn8ZnhvkpRAvdnkT7I"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "Artche",
-          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
-        }
-      ],
-      "duration_ms": 217515,
-      "name": "The World You See",
-      "url": "https://open.spotify.com/track/4TQgbkv9CF1Qy4GIfpZeSO"
+      "duration_ms": 237865,
+      "name": "Numb - Joris Voorn Remix, Edit",
+      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1079,6 +1055,30 @@
       "duration_ms": 329165,
       "name": "Dance Is The Answer (feat. Raja Ram)",
       "url": "https://open.spotify.com/track/56rqKeuhAVv2E6RK5BifIS"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "The World You See",
+        "url": "https://open.spotify.com/album/0V9gdn8ZnhvkpRAvdnkT7I"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Artche",
+          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
+        }
+      ],
+      "duration_ms": 217515,
+      "name": "The World You See",
+      "url": "https://open.spotify.com/track/4TQgbkv9CF1Qy4GIfpZeSO"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Turning Away",
+        "url": "https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 244543,
+      "name": "Turning Away",
+      "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
       },
@@ -1283,22 +1303,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Turning Away",
-        "url": "https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c"
+        "name": "Freyja",
+        "url": "https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM"
       },
       "artists": [
         {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 244543,
-      "name": "Turning Away",
-      "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
+      "duration_ms": 229959,
+      "name": "Freyja",
+      "url": "https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1323,42 +1339,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Slipstream (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 252073,
-      "name": "Slipstream (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Freyja",
-        "url": "https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 229959,
-      "name": "Freyja",
-      "url": "https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Anjunabeats Volume 14",
         "url": "https://open.spotify.com/album/3SppKnyNf5sdqLxCMwsTzX"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 308053,
       "name": "Need To Feel Loved - Tinlicker Remix",
       "url": "https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Slipstream (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 252073,
+      "name": "Slipstream (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Hypnotised / I Can Feel",
-        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Dosem",
-          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
-        }
-      ],
-      "duration_ms": 340114,
-      "name": "Hypnotised",
-      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 214578,
       "name": "Just The Kinda Feeling",
       "url": "https://open.spotify.com/track/1EkArBpT5yzmpQmQohGoqV"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Hypnotised / I Can Feel",
+        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+        }
+      ],
+      "duration_ms": 340114,
+      "name": "Hypnotised",
+      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1635,18 +1635,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
         }
       ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
+      "duration_ms": 205440,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1667,26 +1671,6 @@
       "duration_ms": 200952,
       "name": "Little Darling - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
-      },
-      "artists": [
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1759,6 +1743,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/1fqzT3Bwp9puo8c7kl0j3i"
       },
@@ -1795,30 +1795,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Fire With Fire",
-        "url": "https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "HRRTZ",
-          "url": "https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 188799,
-      "name": "Fire With Fire",
-      "url": "https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Elements Of A New Life",
         "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
       },
@@ -1839,18 +1815,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Nightvision EP",
-        "url": "https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ"
+        "name": "Fire With Fire",
+        "url": "https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB"
       },
       "artists": [
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "HRRTZ",
+          "url": "https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 172730,
-      "name": "Skin On Skin",
-      "url": "https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n"
+      "duration_ms": 188799,
+      "name": "Fire With Fire",
+      "url": "https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1887,6 +1871,22 @@
       "duration_ms": 213870,
       "name": "The Morning After",
       "url": "https://open.spotify.com/track/5XZwq5GzhyjjlMwtou1fWb"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Nightvision EP",
+        "url": "https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 172730,
+      "name": "Skin On Skin",
+      "url": "https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1967,26 +1967,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Radiant",
-        "url": "https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI"
-      },
-      "artists": [
-        {
-          "name": "Dyzen",
-          "url": "https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl"
-        },
-        {
-          "name": "Sideral",
-          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
-        }
-      ],
-      "duration_ms": 452682,
-      "name": "Dialogue",
-      "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Origin",
         "url": "https://open.spotify.com/album/5Z6mUYSbLGMoRyLq8JAuj1"
       },
@@ -2007,6 +1987,26 @@
       "duration_ms": 460780,
       "name": "Origin",
       "url": "https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Radiant",
+        "url": "https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI"
+      },
+      "artists": [
+        {
+          "name": "Dyzen",
+          "url": "https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl"
+        },
+        {
+          "name": "Sideral",
+          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
+        }
+      ],
+      "duration_ms": 452682,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2055,22 +2055,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Hard To Breathe (feat. Hannah Boleyn)",
-        "url": "https://open.spotify.com/album/7vGQzOXzYfLoEIkiZ26QXQ"
+        "name": "Yumi (edit)",
+        "url": "https://open.spotify.com/album/6Or1qZMDfcuXZyq0qceqsX"
       },
       "artists": [
         {
-          "name": "Hannah Wants",
-          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
         }
       ],
-      "duration_ms": 230497,
-      "name": "Hard To Breathe (feat. Hannah Boleyn)",
-      "url": "https://open.spotify.com/track/4aBLX1KrJim9OnvnTNfD2t"
+      "duration_ms": 197213,
+      "name": "Yumi - edit",
+      "url": "https://open.spotify.com/track/6PK96Y20GrGeiU8yptYGfl"
     }
   ],
   "unique_name": "Night Rider",

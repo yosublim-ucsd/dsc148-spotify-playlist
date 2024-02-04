@@ -4,7 +4,7 @@
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-149 songs - 10 hr 23 min
+150 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Holy Holy](https://open.spotify.com/track/4bAPk8AwHTAs5eMOt2yjbj) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [All Is Not Lost](https://open.spotify.com/album/3tFBH9TyKnenOi1E6bjRbz) | 2:33 | 2018-02-14 | 2023-07-29 |
 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 | 2023-07-28 |  |
 | [How Much You Mean To Me](https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [How Much You Mean To Me](https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0) | 3:38 | 2023-07-28 |  |
-| [How To Love](https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [How To Love](https://open.spotify.com/album/5GimHqufYnL4RwURn1kiMB) | 2:00 | 2023-07-28 |  |
+| [How To Love](https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [How To Love](https://open.spotify.com/album/5GimHqufYnL4RwURn1kiMB) | 2:00 | 2023-07-28 | 2024-02-04 |
 | [I Could Sing Of Your Love Forever \- Instrumental](https://open.spotify.com/track/2Lb8tCvwV9CVSEjO9uTWWI) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Rivers & Robots Presents: Still, Vol\. 1 \(Instrumentals\)](https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM) | 3:43 | 2018-02-14 |  |
 | [I Go](https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D) | [WILLO](https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N) | [Eternal Jetlag](https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk) | 3:56 | 2023-07-28 |  |
 | [I Will Remember](https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [I Will Remember](https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB) | 5:51 | 2023-07-28 |  |
@@ -94,6 +94,7 @@
 | [make stuff up & sing things](https://open.spotify.com/track/1D18cgyuEatXaEqKk5Ldvv) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [those lil god songs i posted on ig](https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4) | 3:36 | 2023-07-28 |  |
 | [More Love, More Power](https://open.spotify.com/track/04M4Yr4GwxR7S5rby2kC3M) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime \- Worship](https://open.spotify.com/album/4MQOwp7qP6PkADKeZG859X) | 5:46 | 2018-02-14 | 2022-07-29 |
 | [Mother's Love](https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f) | [Antonious](https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ) | [Mother's Love](https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0) | 1:00 | 2018-07-07 |  |
+| [Nearer My God to Thee \- Eventide Mix](https://open.spotify.com/track/5dsnVbeWMJCp4T3HNYZwZa) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Hymns for Eventide](https://open.spotify.com/album/77zIuv0Pxuvsn1QSPpAuRp) | 3:33 | 2023-07-28 |  |
 | [Nearer My God to Thee \- Eventide Mix](https://open.spotify.com/track/7nDGSAjfHIM0dgHvEfriCy) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Hymns for Eventide \(Eventide Mix\)](https://open.spotify.com/album/6rGvmBwpvhMxiZNPovW2oY) | 3:33 | 2023-07-28 | 2024-02-02 |
 | [Nineveh \- Live](https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Nineveh \(Live\)](https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a) | 4:28 | 2023-07-28 |  |
 | [Nothing Else](https://open.spotify.com/track/1noA1mip0whVmqAfOQGooU) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1) | [Nothing Else](https://open.spotify.com/album/4ZbxrL9T8SPMUYlgj0tZMm) | 4:24 | 2023-07-28 |  |

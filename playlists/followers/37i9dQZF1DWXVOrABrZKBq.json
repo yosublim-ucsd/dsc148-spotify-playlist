@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 15136,
+  "2024-02-04": 15147,
   "date_first_scraped": "2023-03-09",
-  "description": "Le rap francophone est en forme. Photo: Loud, EDGE \ud83d\udc54",
+  "description": "Le rap francophone est en forme. Photo: Zola",
   "name": "Connexion Rap",
   "tracks": [
     {
@@ -137,7 +137,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 159480,
       "name": "A l'envers",
       "url": "https://open.spotify.com/track/4CPKr0neKXh3q5BsnRp2HC"
@@ -495,6 +495,28 @@
       "duration_ms": 179386,
       "name": "CANADA",
       "url": "https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk"
+    },
+    {
+      "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229093,
+      "name": "CARTIER",
+      "url": "https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi"
     },
     {
       "album": {
@@ -1891,10 +1913,36 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 216386,
       "name": "NOTRE DAME",
       "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
+    },
+    {
+      "album": {
+        "name": "Oseille Des Francs-Ma\u00e7ons",
+        "url": "https://open.spotify.com/album/49LrhWQdrDcGQrIrFQemTw"
+      },
+      "artists": [
+        {
+          "name": "Obia le Chef",
+          "url": "https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3"
+        },
+        {
+          "name": "Cotola",
+          "url": "https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw"
+        },
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193070,
+      "name": "Oseille Des Francs-Ma\u00e7ons",
+      "url": "https://open.spotify.com/track/2q2LV84PZrUt7CkcmzOVeN"
     },
     {
       "album": {
@@ -2563,10 +2611,28 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 178266,
       "name": "TP",
       "url": "https://open.spotify.com/track/71BbAEWBJIaewEK5seMkCg"
+    },
+    {
+      "album": {
+        "name": "MAELSTR\u00d6M",
+        "url": "https://open.spotify.com/album/6EpLt7pH9qtQMxT3nmTEAl"
+      },
+      "artists": [
+        {
+          "name": "Malko",
+          "url": "https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108948,
+      "name": "TRISTE & C\u00c9L\u00c8BRE",
+      "url": "https://open.spotify.com/track/7n84GX5guMpcJTmSakw1zT"
     },
     {
       "album": {

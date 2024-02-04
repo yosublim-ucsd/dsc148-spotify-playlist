@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 146881,
+  "num_followers": 146953,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2YxMjY3OTJhNDA0YjcwOTRiNjllNmUxM2FmOGZlZjAwMzA3ZDM1",
+  "snapshot_id": "MCw4NzMzYTNkNTI3Y2I4MDg2YmFmMWM3NjgyODJhNDY2YmJmMWFlNGRk",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 267279,
-      "name": "Blackbird - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Tis Autumn",
         "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 130162,
       "name": "Tis Autumn",
       "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 267279,
+      "name": "Blackbird - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "You're Fine",
+        "url": "https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J"
+      },
+      "artists": [
+        {
+          "name": "Barbra Lica",
+          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "The Birds and the Bees",
+      "url": "https://open.spotify.com/track/3TwHdxdq4Ksb0mIPx2A6TA"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Make Someone Happy",
         "url": "https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 282702,
       "name": "Make Someone Happy",
       "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "You're Fine",
-        "url": "https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J"
-      },
-      "artists": [
-        {
-          "name": "Barbra Lica",
-          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "The Birds and the Bees",
-      "url": "https://open.spotify.com/track/3TwHdxdq4Ksb0mIPx2A6TA"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "For Seasons to Come",
+        "url": "https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G"
+      },
+      "artists": [
+        {
+          "name": "Ginne Marker",
+          "url": "https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39"
+        }
+      ],
+      "duration_ms": 229965,
+      "name": "Some Day",
+      "url": "https://open.spotify.com/track/21bjp8uUBmejTKO4axhhL9"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Don't Forget Me (When I'm Gone)",
         "url": "https://open.spotify.com/album/2cjK6kxgKI8C2cv4zYqezC"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "For Seasons to Come",
-        "url": "https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G"
-      },
-      "artists": [
-        {
-          "name": "Ginne Marker",
-          "url": "https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39"
-        }
-      ],
-      "duration_ms": 229965,
-      "name": "Some Day",
-      "url": "https://open.spotify.com/track/21bjp8uUBmejTKO4axhhL9"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "With Love",
         "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 368551,
       "name": "Goodbye Stranger",
       "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Taller",
-        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 189733,
-      "name": "Endings Are Beginnings",
-      "url": "https://open.spotify.com/track/2yURsJKJAQ8tqvArTu9BIL"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -803,18 +787,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Not For Me",
-        "url": "https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd"
+        "name": "Taller",
+        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
       },
       "artists": [
         {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 243170,
-      "name": "Not for Me",
-      "url": "https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB"
+      "duration_ms": 189733,
+      "name": "Endings Are Beginnings",
+      "url": "https://open.spotify.com/track/2yURsJKJAQ8tqvArTu9BIL"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -835,18 +819,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Listen To The Sky",
-        "url": "https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl"
+        "name": "Not For Me",
+        "url": "https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd"
       },
       "artists": [
         {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
         }
       ],
-      "duration_ms": 172042,
-      "name": "Listen To The Sky",
-      "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
+      "duration_ms": 243170,
+      "name": "Not for Me",
+      "url": "https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -891,6 +875,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Listen To The Sky",
+        "url": "https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 172042,
+      "name": "Listen To The Sky",
+      "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Rogue",
         "url": "https://open.spotify.com/album/51hmnwZrsDwbweZLJ1CbKK"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Bagatelles",
-        "url": "https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1"
-      },
-      "artists": [
-        {
-          "name": "Nellie McKay",
-          "url": "https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN"
-        }
-      ],
-      "duration_ms": 127426,
-      "name": "How About You",
-      "url": "https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 232004,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Bagatelles",
+        "url": "https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1"
+      },
+      "artists": [
+        {
+          "name": "Nellie McKay",
+          "url": "https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN"
+        }
+      ],
+      "duration_ms": 127426,
+      "name": "How About You",
+      "url": "https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Taller",
-        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "You Can't Hide Away From Love",
-      "url": "https://open.spotify.com/track/5wT4caQu7Qdom8A3ADhyYx"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "A Little Love",
         "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 200933,
       "name": "Just A Little Lovin' (Early In The Mornin')",
       "url": "https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Taller",
+        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 188413,
+      "name": "You Can't Hide Away From Love",
+      "url": "https://open.spotify.com/track/5wT4caQu7Qdom8A3ADhyYx"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "The Best of George White Group",
-        "url": "https://open.spotify.com/album/2Gyht2Z72A6pCwP8vQaw4P"
+        "name": "Luxury and Waste",
+        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
       },
       "artists": [
         {
-          "name": "George White Group",
-          "url": "https://open.spotify.com/artist/19fFXKAVON44FeIBScDl9j"
+          "name": "Torun Eriksen",
+          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
         }
       ],
-      "duration_ms": 248921,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/11w63dY47cyo5GhSexU6YS"
+      "duration_ms": 233384,
+      "name": "Be That Someone",
+      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Luxury and Waste",
-        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
+        "name": "The Best of George White Group",
+        "url": "https://open.spotify.com/album/2Gyht2Z72A6pCwP8vQaw4P"
       },
       "artists": [
         {
-          "name": "Torun Eriksen",
-          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
+          "name": "George White Group",
+          "url": "https://open.spotify.com/artist/19fFXKAVON44FeIBScDl9j"
         }
       ],
-      "duration_ms": 233384,
-      "name": "Be That Someone",
-      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
+      "duration_ms": 248921,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/11w63dY47cyo5GhSexU6YS"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1663,18 +1663,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Free Afternoon",
-        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
+        "name": "Collusion",
+        "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
       },
       "artists": [
         {
-          "name": "Guilherme Cunha Ribeiro",
-          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
+          "name": "Apollinare Rossi",
+          "url": "https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU"
+        },
+        {
+          "name": "Jules Renauld",
+          "url": "https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM"
         }
       ],
-      "duration_ms": 233013,
-      "name": "A Better One for You",
-      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
+      "duration_ms": 267302,
+      "name": "Let's Go to Bed",
+      "url": "https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1691,6 +1695,22 @@
       "duration_ms": 201000,
       "name": "When The Stars Align",
       "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Free Afternoon",
+        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Cunha Ribeiro",
+          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "A Better One for You",
+      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1715,22 +1735,50 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Collusion",
-        "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
+        "name": "River",
+        "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
       },
       "artists": [
         {
-          "name": "Apollinare Rossi",
-          "url": "https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU"
-        },
-        {
-          "name": "Jules Renauld",
-          "url": "https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM"
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
         }
       ],
-      "duration_ms": 267302,
-      "name": "Let's Go to Bed",
-      "url": "https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN"
+      "duration_ms": 177680,
+      "name": "River",
+      "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "The Window",
+        "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 311002,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Sunshine & Lullaby",
+        "url": "https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT"
+      },
+      "artists": [
+        {
+          "name": "Matthew Hermosura",
+          "url": "https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy"
+        }
+      ],
+      "duration_ms": 247986,
+      "name": "Sunshine & Lullaby",
+      "url": "https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1755,54 +1803,6 @@
       "duration_ms": 184835,
       "name": "Thinking of You",
       "url": "https://open.spotify.com/track/4pUe0F3de1wLLGYFkbhmmn"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
-      },
-      "artists": [
-        {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "River",
-      "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Sunshine & Lullaby",
-        "url": "https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT"
-      },
-      "artists": [
-        {
-          "name": "Matthew Hermosura",
-          "url": "https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy"
-        }
-      ],
-      "duration_ms": 247986,
-      "name": "Sunshine & Lullaby",
-      "url": "https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "The Window",
-        "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 311002,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Best Time Of The Year",
-        "url": "https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq"
-      },
-      "artists": [
-        {
-          "name": "Budbud",
-          "url": "https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF"
-        }
-      ],
-      "duration_ms": 189688,
-      "name": "Best Time Of The Year",
-      "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Chamomile Tea",
         "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 294421,
       "name": "Wake up Everybody",
       "url": "https://open.spotify.com/track/6eKbTjeUNFBBBnWNqMFAo7"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Best Time Of The Year",
+        "url": "https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq"
+      },
+      "artists": [
+        {
+          "name": "Budbud",
+          "url": "https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF"
+        }
+      ],
+      "duration_ms": 189688,
+      "name": "Best Time Of The Year",
+      "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "The Revolution of Me",
-        "url": "https://open.spotify.com/album/4NAP8F0xgasd8y44YScUmv"
-      },
-      "artists": [
-        {
-          "name": "Aden Ray",
-          "url": "https://open.spotify.com/artist/5k863ZBt4xV8lVCESSyJTc"
-        }
-      ],
-      "duration_ms": 242526,
-      "name": "Made Me Cry",
-      "url": "https://open.spotify.com/track/51xSOVzWcd1A8sCxZUYEel"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Enough to Be on Your Way",
         "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 318175,
       "name": "Enough to Be on Your Way",
       "url": "https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "The Revolution of Me",
+        "url": "https://open.spotify.com/album/4NAP8F0xgasd8y44YScUmv"
+      },
+      "artists": [
+        {
+          "name": "Aden Ray",
+          "url": "https://open.spotify.com/artist/5k863ZBt4xV8lVCESSyJTc"
+        }
+      ],
+      "duration_ms": 242526,
+      "name": "Made Me Cry",
+      "url": "https://open.spotify.com/track/51xSOVzWcd1A8sCxZUYEel"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Kettle",
-        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
-      },
-      "artists": [
-        {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Kettle",
-      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/14KfV7dED8JuA3C6NYnoTR"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 180000,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/4dumLEql3QNZfwVK4sTojD"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Kettle",
+        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
+      },
+      "artists": [
+        {
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Kettle",
+      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -2167,22 +2167,6 @@
       "duration_ms": 267355,
       "name": "Humphrey and me",
       "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Sorrows Into Silk",
-        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
-      },
-      "artists": [
-        {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
-        }
-      ],
-      "duration_ms": 138320,
-      "name": "Lime",
-      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -2271,6 +2255,22 @@
       "duration_ms": 282800,
       "name": "My Ship",
       "url": "https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Sorrows Into Silk",
+        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
+      },
+      "artists": [
+        {
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
+        }
+      ],
+      "duration_ms": 138320,
+      "name": "Lime",
+      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
     },
     {
       "added_at": "2024-02-02 00:01:00",

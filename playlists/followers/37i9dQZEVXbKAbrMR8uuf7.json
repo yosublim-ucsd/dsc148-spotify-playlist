@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 152828,
+  "2024-02-04": 152823,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Dominican Republic.",
   "name": "Top 50 - Dominican Republic",
@@ -3623,7 +3623,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 128785,
       "name": "Chu Chu",
       "url": "https://open.spotify.com/track/6RnTMsD7ygLNZ4QfbgudXg"
@@ -13643,7 +13643,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 207600,
       "name": "Mami",
       "url": "https://open.spotify.com/track/324ICzFVXU0iTqjuiNwErj"
@@ -14089,7 +14089,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 147692,
       "name": "Mbappe",
       "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
@@ -16279,7 +16279,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 252040,
       "name": "No Te Quieren Conmigo",
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
@@ -20427,7 +20427,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 177760,
       "name": "Rumine",
       "url": "https://open.spotify.com/track/3K8ek4n0oRmhNuygMyrMfQ"
@@ -24217,7 +24217,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 158446,
       "name": "Tu Ritmo",
       "url": "https://open.spotify.com/track/7JArcReBGffsbhMaosvQR0"

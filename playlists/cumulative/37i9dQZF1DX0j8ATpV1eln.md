@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-154 songs - 10 hr 3 min
+155 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Rakuen Toshi](https://open.spotify.com/track/2vOTY8M4Hb2gy72iI2ywSc) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Rakuen Toshi](https://open.spotify.com/album/11sAMfCkGSjIgHl4aKacKD) | 3:46 | 2022-07-26 |  |
 | [Role Playing](https://open.spotify.com/track/3j43VMghE6nhgQ8rDFerhf) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/0ZUMizpUDJ7FPhCY7ImpRu) | 3:39 | 2022-08-16 | 2022-11-13 |
 | [Role Playing](https://open.spotify.com/track/7AhXYCly0Z5vupZPEcLO0e) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:39 | 2022-07-26 |  |
+| [Saihate no Super star](https://open.spotify.com/track/4JCS6ndC9Mk45yPW5PJcKs) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK), [天月](https://open.spotify.com/artist/11DkKzyBmL2sQW0e4FCYil), [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [THE ORIGIN](https://open.spotify.com/album/1U5YQi9448UVvCTrcpr1Uj) | 2:43 | 2024-01-16 |  |
 | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda](https://open.spotify.com/track/7xTgtfIJ54hKynnZPPPQzq) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:43 | 2022-07-26 |  |
 | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda](https://open.spotify.com/track/7jNQBs0eqcRBnJYBi3uXA1) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda / Eiyu no Uta](https://open.spotify.com/album/2NH1SQE6jRoYQqS71bnGM2) | 3:44 | 2022-08-16 | 2022-11-13 |
 | [Shinda!](https://open.spotify.com/track/2wLuWWfrOHnPjbC3CUuuZ9) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Shinda!](https://open.spotify.com/album/2VQMSyKrXpA0m6PECjU8sm) | 3:40 | 2023-04-06 |  |
@@ -148,7 +149,7 @@
 | [奇天烈ポエマー\(弾き語りver.\)](https://open.spotify.com/track/4JFRAbNBC7f6QMJOL4RQMr) | [大石昌良](https://open.spotify.com/artist/2DCpkbmYB8FVjI0n15MdSR) | [パラレルワールド](https://open.spotify.com/album/4jrDUOqLbjReixDfvdlB0f) | 3:08 | 2022-08-16 | 2022-11-14 |
 | [春夏秋冬☆Blooming!](https://open.spotify.com/track/45RpTPKeWsGGRkX5onDCf4) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv), [佐久間咲也\(CV:酒井広大\)](https://open.spotify.com/artist/6rPornlr337BSL4cfY3dTC), [皇天馬\(CV:江口拓也\)](https://open.spotify.com/artist/5W3qMhWABumuWMdkg9tHH5), [摂津万里\(CV:沢城千春\)](https://open.spotify.com/artist/1tQ0ttx4p0OGK374aMxqFh), [月岡紬\(CV:田丸篤志\)](https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt) | [春夏秋冬☆Blooming!](https://open.spotify.com/album/4FG9dxPiMVyvZTiANQGLI6) | 3:21 | 2022-04-26 |  |
 | [最強の推し！](https://open.spotify.com/track/1XD1QrcvVJEE2MIKkzHT0r) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [最強の推し！](https://open.spotify.com/album/1CpgVE8KbNQfrP1aOyWFf9) | 3:42 | 2023-10-24 |  |
-| [最果てのスーパースター](https://open.spotify.com/track/2LFuq0tLY45nizYFHFpeT7) | [Gero×天月×FAKE TYPE.](https://open.spotify.com/artist/6jD8iEr7TX9hRAQOgcrncM) | [THE ORIGIN](https://open.spotify.com/album/6WJxW7FvMwPXkh27Yus0VB) | 2:43 | 2023-09-19 |  |
+| [最果てのスーパースター](https://open.spotify.com/track/2LFuq0tLY45nizYFHFpeT7) | [Gero×天月×FAKE TYPE.](https://open.spotify.com/artist/6jD8iEr7TX9hRAQOgcrncM) | [THE ORIGIN](https://open.spotify.com/album/6WJxW7FvMwPXkh27Yus0VB) | 2:43 | 2023-09-19 | 2024-02-04 |
 | [未来ノート](https://open.spotify.com/track/0OH9a0XlsXoEQPvd3CkeNx) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [未来ノート](https://open.spotify.com/album/5CaxVa8rlkAi9zQr4RO6lJ) | 4:25 | 2022-04-26 |  |
 | [枕男子](https://open.spotify.com/track/0lZm2bb74dls6EwTtdEjjs) | [めりぃ\(CV:花江夏樹\)](https://open.spotify.com/artist/1BMSB705CtH9G636Jjkdkx) | [枕男子](https://open.spotify.com/album/3aHyg1IqLSSkWRVLWTwag5) | 4:28 | 2022-04-26 |  |
 | [楽園都市](https://open.spotify.com/track/0ZBFfztO6e114GIuwAJVqS) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [楽園都市](https://open.spotify.com/album/6IShVEkA3GxKPvm5KgK6HN) | 3:46 | 2022-04-26 | 2022-07-29 |

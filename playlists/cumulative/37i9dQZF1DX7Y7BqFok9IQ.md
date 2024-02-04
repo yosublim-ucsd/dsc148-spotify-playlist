@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Rival Sons
 
-267 songs - 16 hr 53 min
+268 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 | 2021-08-27 |  |
 | [Step Aside](https://open.spotify.com/track/6CBRLsIvAeKj1MiPhHnPO9) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Step Aside](https://open.spotify.com/album/3uIHyMh4N7MtVz078AXchj) | 4:07 | 2021-08-27 | 2022-07-29 |
 | [Still Alive and Well](https://open.spotify.com/track/72sihXI4EcZjbbnoo2yyHQ) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Still Alive and Well](https://open.spotify.com/album/0pzypZjas4pni7g8u3xj5a) | 3:37 | 2022-04-26 |  |
-| [Stone's Throw](https://open.spotify.com/track/3yryKlZnD9rlmE8Vm2AOV1) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:20 | 2022-04-29 |  |
+| [Stone's Throw](https://open.spotify.com/track/3yryKlZnD9rlmE8Vm2AOV1) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:20 | 2022-04-29 | 2024-02-04 |
+| [Stone's Throw](https://open.spotify.com/track/65BmUqyPuH4QLfQjcoJPFL) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:20 | 2022-05-06 |  |
 | [Strange Light](https://open.spotify.com/track/3cI6ybZ2Wo5Xriz396gSH7) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/3n8eLvnrXECAFfLq1Vj7Wi) | 3:01 | 2021-08-13 | 2022-07-27 |
 | [STREET'S QUEEN](https://open.spotify.com/track/71wyFs3xWEHVCw8HBOXndJ) | [The Dream Roll](https://open.spotify.com/artist/0i36lN49PG20OUnWhEwy2x) | [SAVE YOUR SOUL](https://open.spotify.com/album/7wZHrhHK4AIjv3vhB2p4of) | 3:18 | 2022-04-08 |  |
 | [Sugar and Spice](https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9) | [Jocelyn & Chris Arndt](https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R) | [Sugar and Spice](https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL) | 3:34 | 2021-06-18 |  |

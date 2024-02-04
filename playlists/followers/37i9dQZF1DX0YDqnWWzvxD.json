@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 103888,
+  "2024-02-04": 104059,
   "date_first_scraped": "2022-09-09",
   "description": "Relax, heal and restore your energy",
   "name": "Savasana",
@@ -2217,10 +2217,36 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 913626,
       "name": "The Hierophant",
       "url": "https://open.spotify.com/track/4Vw5cNbZiNABO9Dh7dem5o"
+    },
+    {
+      "album": {
+        "name": "Spirit of Yoga",
+        "url": "https://open.spotify.com/album/1l3hBKUDwHTodVmr77MIXf"
+      },
+      "artists": [
+        {
+          "name": "Ben Leinbach",
+          "url": "https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX"
+        },
+        {
+          "name": "Jai Uttal",
+          "url": "https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw"
+        },
+        {
+          "name": "Manose",
+          "url": "https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 913626,
+      "name": "The Hierophant",
+      "url": "https://open.spotify.com/track/4nRhynmgCd9vL8Y9gcpuJL"
     },
     {
       "album": {

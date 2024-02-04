@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 194020,
+  "2024-02-04": 194067,
   "date_first_scraped": "2021-12-29",
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Dam\u00e1sio Brothers.  ",
   "name": "Dancing Kizomba",
@@ -2133,6 +2133,24 @@
       "duration_ms": 201253,
       "name": "Fa\u00e7o Como",
       "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
+    },
+    {
+      "album": {
+        "name": "Felicidade",
+        "url": "https://open.spotify.com/album/4co4MyVn8IfQ3pO2QiTXoR"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165986,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/4zFOzbjlrQTfGHP5gv1FTp"
     },
     {
       "album": {
@@ -5395,7 +5413,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 192702,
       "name": "Sentimento",
       "url": "https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A la antig\u00fcita, chiquitita! Las canciones escritas e interpretadas por Ed\u00e9n Mu\u00f1oz \ud83e\udd20",
-  "num_followers": 111319,
+  "num_followers": 111381,
   "original_name": "Cancionero Ed\u00e9n Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDRkNGZiMTc4Y2ZhMjA5N2E3MGRhZmE0MGNkN2M0OTI2OTJjZTQ5",
+  "snapshot_id": "MCxhM2RlNTFmNDkyMDc1YjIwZDc4OTAxOWY1Njg0YmQyZDEwYjRlNzYx",
   "tracks": [
     {
       "added_at": "2022-05-25 16:50:02",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Otra Vida",
-      "url": "https://open.spotify.com/track/7DhaFzkgaiAimge0yaRQc1"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Los Gustos Que Me Doy",
         "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 216013,
       "name": "Cuando Fuiste M\u00eda",
       "url": "https://open.spotify.com/track/2uMQxOPITUivAkAYrR02Br"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Otra Vida",
+      "url": "https://open.spotify.com/track/7DhaFzkgaiAimge0yaRQc1"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Con Toda La Fuerza",
-        "url": "https://open.spotify.com/album/3vxjpEj2z0ifn1ibOHAbaZ"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 216986,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/1HIK2PxTP1rTQFvCCiZuLk"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Un Hombre Nuevo",
         "url": "https://open.spotify.com/album/3bIJjK2zPTcPpi13Gnvs4Z"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 140840,
       "name": "Contigo Safo",
       "url": "https://open.spotify.com/track/63DlXPydg4aZqNQ4emXle1"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Con Toda La Fuerza",
+        "url": "https://open.spotify.com/album/3vxjpEj2z0ifn1ibOHAbaZ"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/1HIK2PxTP1rTQFvCCiZuLk"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Sigo De Pie",
-        "url": "https://open.spotify.com/album/23FhyIwGbJXIkPyB8xgQzB"
-      },
-      "artists": [
-        {
-          "name": "Banda Legal",
-          "url": "https://open.spotify.com/artist/6qzADkcD6NEhqaYRVfC7Sj"
-        }
-      ],
-      "duration_ms": 195223,
-      "name": "Y Si Es Posible",
-      "url": "https://open.spotify.com/track/5QKBZrSlpwzmLVeec2fdqD"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "La Casa Invita",
         "url": "https://open.spotify.com/album/7Hf1kRkgZA47DrA0Mimg5W"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 199533,
       "name": "Ya Estuvo Bueno",
       "url": "https://open.spotify.com/track/7a6ms6F6JzoRYtCQFntLdd"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Sigo De Pie",
+        "url": "https://open.spotify.com/album/23FhyIwGbJXIkPyB8xgQzB"
+      },
+      "artists": [
+        {
+          "name": "Banda Legal",
+          "url": "https://open.spotify.com/artist/6qzADkcD6NEhqaYRVfC7Sj"
+        }
+      ],
+      "duration_ms": 195223,
+      "name": "Y Si Es Posible",
+      "url": "https://open.spotify.com/track/5QKBZrSlpwzmLVeec2fdqD"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Por Si Te Interesa",
-        "url": "https://open.spotify.com/album/4WUwb4qI2fqQnGPzBWQS3Q"
-      },
-      "artists": [
-        {
-          "name": "Los Del Arroyo",
-          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
-        }
-      ],
-      "duration_ms": 164053,
-      "name": "Por Si Te Interesa",
-      "url": "https://open.spotify.com/track/6ny9xzVbdqDut4TPjyXnKB"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Estoy Listo",
         "url": "https://open.spotify.com/album/5l0ZVSptrcwNV1AkssAUd7"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 189633,
       "name": "Estoy Listo",
       "url": "https://open.spotify.com/track/22AOx5ARj7PtFvYGG3OquK"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Por Si Te Interesa",
+        "url": "https://open.spotify.com/album/4WUwb4qI2fqQnGPzBWQS3Q"
+      },
+      "artists": [
+        {
+          "name": "Los Del Arroyo",
+          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
+        }
+      ],
+      "duration_ms": 164053,
+      "name": "Por Si Te Interesa",
+      "url": "https://open.spotify.com/track/6ny9xzVbdqDut4TPjyXnKB"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "La Mejor Versi\u00f3n De M\u00ed",
-        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Si Me Hubieras Oido",
-      "url": "https://open.spotify.com/track/5LpItlraU0WzZqhH0FCHi5"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Historias de la Calle",
         "url": "https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 154680,
       "name": "Se Volvi\u00f3 a Pelar Mi Ap\u00e1",
       "url": "https://open.spotify.com/track/76wKy6yQjIJiMbuO0EQQsy"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "Si Me Hubieras Oido",
+      "url": "https://open.spotify.com/track/5LpItlraU0WzZqhH0FCHi5"
     },
     {
       "added_at": "2022-05-25 16:50:02",

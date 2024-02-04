@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 930362,
+  "2024-02-04": 930480,
   "date_first_scraped": "2021-12-21",
-  "description": "Rock at its loudest - turn it up \u2b06\ufe0f Cover: Dead Poet Society",
+  "description": "rock at its loudest - turn it up \u2b06\ufe0f Cover: The Warning",
   "name": "VOLUME",
   "tracks": [
     {
@@ -1523,6 +1523,32 @@
       "duration_ms": 169381,
       "name": "Baptize",
       "url": "https://open.spotify.com/track/68RUydoqlDT60rsirSIJWR"
+    },
+    {
+      "album": {
+        "name": "Barely Breathing (feat. Against The Current)",
+        "url": "https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        },
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        },
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "Barely Breathing (feat. Against The Current)",
+      "url": "https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE"
     },
     {
       "album": {
@@ -5351,7 +5377,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 263546,
       "name": "Down Here Waiting",
       "url": "https://open.spotify.com/track/5h1NZ13XUihD8HSJ3onZQX"
@@ -10537,7 +10563,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 167861,
       "name": "Losing My Grip (Feat. Jason Aalon Butler of Fever 333)",
       "url": "https://open.spotify.com/track/1sh5yKwsSfddAumS4rJyZi"
@@ -13711,7 +13737,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 188708,
       "name": "Pull Me Through",
       "url": "https://open.spotify.com/track/4EmnzJLkWYI9JyYTWtnOVT"
@@ -14397,6 +14423,24 @@
       "duration_ms": 233321,
       "name": "Running In Circles",
       "url": "https://open.spotify.com/track/4pEU0NT64oiem9lDT7nuJn"
+    },
+    {
+      "album": {
+        "name": "S!CK",
+        "url": "https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192734,
+      "name": "S!CK",
+      "url": "https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB"
     },
     {
       "album": {

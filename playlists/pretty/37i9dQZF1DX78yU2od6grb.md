@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 
 > Quer fazer aquele exercício empolgante e sem estresse? Fizemos uma playlist com o som certo para você alcançar novas metas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,045 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,900 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 | 79 | [Always Will](https://open.spotify.com/track/3ndUEyT1uOX5cPvsJScvEq) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Always Will](https://open.spotify.com/album/7tWc4pl3BkLrVKH02W5iWq) | 3:27 |
 | 80 | [Midnight Calls](https://open.spotify.com/track/6ZxsZWzg4pWzW9gEKvnLFl) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Midnight Calls](https://open.spotify.com/album/3ELMVr61XRoOsqDTC6r2sk) | 3:11 |
 
-Snapshot ID: `MCwzNjdjNDBhNGE3N2ZhMDlhNjIzYjNlOWFlOGEzNGE5Y2MwN2I4NTdm`
+Snapshot ID: `MCw4MTI1ZDE3OGYzYTllYmUxNTIxNjc3NjhhODZlZDc2OTBlYTUyZDI3`

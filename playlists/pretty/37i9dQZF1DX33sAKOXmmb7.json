@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 64287,
+  "num_followers": 64344,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzU1ZGZkMTg4ZGU3OWFhMmY5ZmM2NDRlZDEyNGJiMjQwMmEwMGNi",
+  "snapshot_id": "MCxkMGQ3YTI5ZjAxZDVmN2Q3NTBkZTUwYzMwOGMyYjIzMGI0ZmE3MGVm",
   "tracks": [
     {
       "added_at": "2022-02-04 21:53:01",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "By and By",
-        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 280794,
-      "name": "By and By",
-      "url": "https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 214720,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 280794,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "The Wild Hunt",
-        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 255853,
-      "name": "Love is All",
-      "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "New Ways",
         "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
@@ -1323,18 +1307,34 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "After Rain",
-        "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
+        "name": "The Wild Hunt",
+        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 294000,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
+      "duration_ms": 255853,
+      "name": "Love is All",
+      "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Civilian",
+        "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
+      },
+      "artists": [
+        {
+          "name": "Wye Oak",
+          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+        }
+      ],
+      "duration_ms": 220917,
+      "name": "Civilian",
+      "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Civilian",
-        "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
+        "name": "After Rain",
+        "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
       },
       "artists": [
         {
-          "name": "Wye Oak",
-          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 220917,
-      "name": "Civilian",
-      "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
+      "duration_ms": 294000,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "No No No",
-        "url": "https://open.spotify.com/album/6iAOkTDFRiWHVNNUjBqIxT"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 170640,
-      "name": "No No No",
-      "url": "https://open.spotify.com/track/1dD6UAnqCJotTyU1bhCnDQ"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Living Water",
         "url": "https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 242076,
       "name": "Recording 15",
       "url": "https://open.spotify.com/track/6YKyA96vWcOmcW62bd4M5F"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "No No No",
+        "url": "https://open.spotify.com/album/6iAOkTDFRiWHVNNUjBqIxT"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 170640,
+      "name": "No No No",
+      "url": "https://open.spotify.com/track/1dD6UAnqCJotTyU1bhCnDQ"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "The Rip Tide",
-        "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 254386,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "abysskiss",
         "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 229133,
       "name": "symbol",
       "url": "https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "The Rip Tide",
+        "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 254386,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "29 #Strafford APTS",
-      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Burn Your Fire For No Witness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
       },
@@ -1719,6 +1703,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "29 #Strafford APTS",
+      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "Wakin On A Pretty Daze",
         "url": "https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi"
       },
@@ -1731,6 +1731,22 @@
       "duration_ms": 570733,
       "name": "Wakin on a Pretty Day",
       "url": "https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 332986,
+      "name": "Don\u2019t Know How To Keep Loving You",
+      "url": "https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1767,18 +1783,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
+        "name": "Hundred Acres",
+        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
       },
       "artists": [
         {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
         }
       ],
-      "duration_ms": 332986,
-      "name": "Don\u2019t Know How To Keep Loving You",
-      "url": "https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG"
+      "duration_ms": 213666,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1795,22 +1811,6 @@
       "duration_ms": 273466,
       "name": "Appointments",
       "url": "https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "Hundred Acres",
-        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
     },
     {
       "added_at": "2022-02-04 21:53:01",

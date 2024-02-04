@@ -4,7 +4,7 @@
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-108 songs - 5 hr 49 min
+109 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Seasons](https://open.spotify.com/track/6M4wVZ5uXhKU9PvSpfuNEM) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z), [Jonathan Michel](https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Seasons](https://open.spotify.com/album/481ygPSZj9JRa09EFXbOBh) | 2:46 | 2023-11-10 |  |
 | [Silent Night](https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG) | [Silvio Thompson Band](https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C) | ['Tis The Season](https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ) | 3:20 | 2021-12-21 |  |
 | [Silver Bells](https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:15 | 2021-12-21 |  |
-| [Sleighride](https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [The Season](https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG) | 2:46 | 2021-12-21 |  |
+| [Sleighride](https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [The Season](https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG) | 2:46 | 2021-12-21 | 2024-02-04 |
 | [Snowfall](https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY) | [Don Sebesky](https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44) | [Let's Share Christmas](https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe) | 3:12 | 2021-12-21 |  |
 | [That's How I Picture Christmas Eve](https://open.spotify.com/track/7z7a4p1MrrSlnOIIYyMINs) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Sharon Dyall](https://open.spotify.com/artist/0RFCLAPk6HoM6vcwT39Q2e), [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c), [Johan Norberg](https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr), [Jessica Pilnäs](https://open.spotify.com/artist/3JejDgpeIfaq5wi5jZWYuf), [Jeanette Köhn](https://open.spotify.com/artist/2FAIick0YpbgvuJylGXRUj), [Clas Lassbo](https://open.spotify.com/artist/23eGVdEKiBmGYKEvFVlyzP) | [Christmas with My Friends VIII](https://open.spotify.com/album/3FozTn1Z7wjqbIz0TUa9aw) | 2:39 | 2023-11-10 |  |
 | [The Christmas Song](https://open.spotify.com/track/4dJEd1XcQODkOLAoEQd9Zp) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Christmas Favorites](https://open.spotify.com/album/6B4LTaCUBMlcSKgtld91wL) | 3:18 | 2022-11-10 | 2022-11-13 |
@@ -91,6 +91,7 @@
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/0n4aPxuxJ9QojwjNpVD4yT) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Christmas With Sinatra And Friends](https://open.spotify.com/album/6llYu8gxmvS2WrbVdGmoti) | 3:17 | 2021-12-21 | 2022-07-29 |
 | [The Christmas Song \(Chestnuts Roasting on an Open Fire\)](https://open.spotify.com/track/7o6agk7Uy395tk8ZYM5MEi) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Christmas Songs](https://open.spotify.com/album/3m5GSvrmG2wnDiiJsMm6Om) | 3:18 | 2021-12-21 | 2022-11-25 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2022-11-24 | 2023-11-11 |
+| [The Christmas Waltz](https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3) | 2:47 | 2023-12-19 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 | 2022-11-10 | 2024-02-01 |
 | [The Christmas Waltz](https://open.spotify.com/track/4eEdv0ZBTtWh8zS41SeUp8) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:47 | 2023-12-19 | 2024-02-03 |
 | [The Christmas Waltz](https://open.spotify.com/track/4DV9KToOaC0khx2MqOZstE) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Christmas Carousel](https://open.spotify.com/album/0IbfiaKXOENE7Wn3SzLZFd) | 2:53 | 2021-12-21 | 2022-11-11 |

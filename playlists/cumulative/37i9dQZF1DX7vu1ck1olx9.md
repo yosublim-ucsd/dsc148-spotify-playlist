@@ -4,12 +4,13 @@
 
 > Cool down with these chill beats
 
-278 songs - 11 hr 16 min
+279 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 Am](https://open.spotify.com/track/5LwxaewIXhdkWL0EDncFwY) | [Oui Lele](https://open.spotify.com/artist/3tbv8PcwIqfWdsgdGcWgdY) | [3 Am](https://open.spotify.com/album/69ea67ITA5EgIJPeF6qMVm) | 2:04 | 2020-11-12 | 2024-01-12 |
 | [3PM](https://open.spotify.com/track/0W8BAhQCzcccgD4EABB33E) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [3PM](https://open.spotify.com/album/4IP1cqhzUIMgb6KYzW8SZG) | 2:15 | 2020-11-12 |  |
+| [A New Dawn](https://open.spotify.com/track/4BopBYqzp4NXkkpjlE1hrJ) | [Mel Atonin](https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g) | [A New Dawn](https://open.spotify.com/album/2dHb6EPDsaT6i3jUBnhGq9) | 2:36 | 2024-02-02 |  |
 | [A Night Like This](https://open.spotify.com/track/7fk9IaVqs4DKkHQvcswJuL) | [Secret Corner](https://open.spotify.com/artist/7a40ZaJBGkEnOqrZyBCwQU) | [A Night Like This](https://open.spotify.com/album/207792NZ8lPpaJdAxBQrTx) | 1:52 | 2023-10-27 |  |
 | [A World at Peace](https://open.spotify.com/track/7dStBhN0AbvcisUF2IePZg) | [Ibrahim](https://open.spotify.com/artist/38osEo6ebgNhOrlD5Xi4iZ) | [A World at Peace](https://open.spotify.com/album/3Z2Q8BNUFsZbUlUk2FhBbU) | 3:06 | 2020-11-12 | 2023-11-24 |
 | [About You](https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu) | [xxyyxx](https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb) | [XXYYXX](https://open.spotify.com/album/7Lws9Z41rUQ9pnLgbNvxW0) | 4:07 | 2020-11-12 | 2023-11-24 |
@@ -185,7 +186,7 @@
 | [Open Sea](https://open.spotify.com/track/2U6agF4eXkclFkvVH6vipD) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Blocks EP](https://open.spotify.com/album/191XhtmTNCKVKH9qEgbhgx) | 2:33 | 2023-10-27 |  |
 | [Oracle Night](https://open.spotify.com/track/1tNpRWu5tHylrVuMAhzvNz) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2ZV5zCY2tJBRn0EtLOj3gr) | 2:30 | 2020-11-12 | 2022-07-28 |
 | [Oracle Night](https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM) | 2:30 | 2020-11-12 |  |
-| [over my head](https://open.spotify.com/track/1uX1mPdWxiACdx3QWOqbk6) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [over my head](https://open.spotify.com/album/2KpCazUYEmepSLcsL3fMeg) | 2:13 | 2024-02-02 |  |
+| [over my head](https://open.spotify.com/track/1uX1mPdWxiACdx3QWOqbk6) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [over my head](https://open.spotify.com/album/2KpCazUYEmepSLcsL3fMeg) | 2:13 | 2024-02-02 | 2024-02-04 |
 | [path of the wind](https://open.spotify.com/track/0ovVhnQz8l1HfVl94qxtuC) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 3:35 | 2020-11-12 | 2023-11-24 |
 | [peaceful](https://open.spotify.com/track/2I10CGsTmyf7Tr6CHPJSxe) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [peaceful](https://open.spotify.com/album/6qmArcn5bbGUpjGvqd2LH2) | 2:07 | 2023-12-15 |  |
 | [Pillow](https://open.spotify.com/track/5oCP76iSvjGdnMXJik0Cy3) | [Hickah](https://open.spotify.com/artist/16RKxwQxzkB7vEX6TdJz2V) | [Pillow](https://open.spotify.com/album/5hFTcd1iDgzTiXUli1lkCf) | 2:03 | 2023-12-15 |  |

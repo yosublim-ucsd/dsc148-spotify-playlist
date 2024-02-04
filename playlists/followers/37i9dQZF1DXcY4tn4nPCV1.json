@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 181017,
+  "2024-02-04": 181043,
   "date_first_scraped": "2022-04-20",
   "description": "A calm, instrumental reading playlist. ",
   "name": "Read and Unwind",
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 121518,
       "name": "Aislingeach",
       "url": "https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 172000,
       "name": "Amour naturel",
       "url": "https://open.spotify.com/track/39bh8hsTP2ZBQWH0E308rT"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 213737,
       "name": "Badzura: Muse d'eau",
       "url": "https://open.spotify.com/track/2X32IY314Mt7NRi2taldLX"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 214000,
       "name": "Candice",
       "url": "https://open.spotify.com/track/29jQKqToqxKPsDy2IeKjan"
@@ -1605,7 +1605,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 128873,
       "name": "erinna",
       "url": "https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB"
@@ -2689,7 +2689,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 160500,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/5jKUoCq3PWz3bpB1X5dIon"
@@ -3107,6 +3107,24 @@
       "duration_ms": 172750,
       "name": "Litany",
       "url": "https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9"
+    },
+    {
+      "album": {
+        "name": "Littoral",
+        "url": "https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC"
+      },
+      "artists": [
+        {
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141216,
+      "name": "Littoral",
+      "url": "https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd"
     },
     {
       "album": {
@@ -4097,7 +4115,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 276250,
       "name": "Ornamental",
       "url": "https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm"
@@ -4241,7 +4259,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 175110,
       "name": "Past and Present",
       "url": "https://open.spotify.com/track/0wGsqpAJcNNe7y8rF8Np2e"
@@ -4511,7 +4529,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 175186,
       "name": "Quando gli alberi incontrano il vento",
       "url": "https://open.spotify.com/track/1HByqL0NBv4U3EXobDUkiy"
@@ -4853,7 +4871,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 154729,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/5oKiEfM3YuGCOXrFKcZpbM"
@@ -4979,7 +4997,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 179500,
       "name": "Seeking The Autumn Wind",
       "url": "https://open.spotify.com/track/2TV5VWvY46I7k51reLMGvE"
@@ -5177,7 +5195,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 131500,
       "name": "Seuls ensemble",
       "url": "https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E"
@@ -5865,7 +5883,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 168000,
       "name": "The Farewell",
       "url": "https://open.spotify.com/track/2Mc7mVrymhooU24Hitf5D7"
@@ -6535,7 +6553,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 142323,
       "name": "Vale of Tears",
       "url": "https://open.spotify.com/track/64u8GamjVXCuKtjbPl0oIG"
@@ -6861,7 +6879,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 188025,
       "name": "Water Lilly Pond",
       "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
@@ -6883,6 +6901,24 @@
       "duration_ms": 126326,
       "name": "Wayfarer",
       "url": "https://open.spotify.com/track/0DfcL73wzcHapZVB95Tm3F"
+    },
+    {
+      "album": {
+        "name": "Whatever is left",
+        "url": "https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q"
+      },
+      "artists": [
+        {
+          "name": "Noemi Lucas",
+          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123628,
+      "name": "Whatever is left",
+      "url": "https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM"
     },
     {
       "album": {
@@ -6987,7 +7023,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 153500,
       "name": "Wings",
       "url": "https://open.spotify.com/track/1TMwDvcIQpZKiio3glvpq7"
@@ -7077,7 +7113,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 160625,
       "name": "You Make It Look So Easy",
       "url": "https://open.spotify.com/track/1K0EF5MVFglZjojGngwn6P"
@@ -7095,7 +7131,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 142556,
       "name": "\u00c0via",
       "url": "https://open.spotify.com/track/2bMzUi0VFTKvovl6stkgLw"

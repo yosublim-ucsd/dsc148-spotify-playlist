@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 658526,
+  "2024-02-04": 658576,
   "date_first_scraped": "2022-05-30",
   "description": "New Music from Kollywood.\nCover : Lal Salaam",
   "name": "Latest Tamil",
@@ -3523,7 +3523,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 205360,
       "name": "Boologame (From \"Mathimaran\")",
       "url": "https://open.spotify.com/track/5vzzTXcVVyyi5gqC4DzzQa"
@@ -8007,6 +8007,28 @@
       "duration_ms": 202607,
       "name": "Jalabulajangu (From \"Don\")",
       "url": "https://open.spotify.com/track/4HdzYTQiouB9BVYX7JOrhh"
+    },
+    {
+      "album": {
+        "name": "Lal Salaam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4z1B53UzRe5QLEoKSfzqLZ"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Sarath Santosh",
+          "url": "https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235157,
+      "name": "Jalali",
+      "url": "https://open.spotify.com/track/5UGPUaGjAKqOpEkvgjElCH"
     },
     {
       "album": {
@@ -18171,6 +18193,32 @@
       "duration_ms": 178709,
       "name": "Popopo",
       "url": "https://open.spotify.com/track/6Fi9IYh6YWX3y70dyK1rRQ"
+    },
+    {
+      "album": {
+        "name": "Por Theeruma (From \"Birthmark\")",
+        "url": "https://open.spotify.com/album/46uXMYJZ8cRmv7K94FUHDZ"
+      },
+      "artists": [
+        {
+          "name": "Shibi Srinivasan",
+          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
+        },
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Navin B",
+          "url": "https://open.spotify.com/artist/6TDQaaAsnv51t1kss39h5I"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248653,
+      "name": "Por Theeruma (From \"Birthmark\")",
+      "url": "https://open.spotify.com/track/3C5rbk5RY5VpymyotbsXT6"
     },
     {
       "album": {

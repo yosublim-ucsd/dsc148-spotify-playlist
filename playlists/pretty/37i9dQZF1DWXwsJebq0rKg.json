@@ -1,12 +1,12 @@
 {
   "description": "La favorita de dios, and she knows \ud83c\udf3c",
-  "num_followers": 26206,
+  "num_followers": 26350,
   "original_name": "coquette \ud83c\udf80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjNmNGJmNzUwZDBjMTlhN2I3OGFhYzJiOTEwNTViNDRjNzJlMjMw",
+  "snapshot_id": "MCxiYzU0OTU4ZTBlMDk1YmRiMTZlNzUwODRkNTZkNjVjYTQ0MzljYTY5",
   "tracks": [
     {
       "added_at": "2024-01-19 22:37:18",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-01-19 22:37:18",
       "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 139146,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
-    },
-    {
-      "added_at": "2024-01-19 22:37:18",
-      "album": {
         "name": "Cry Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 179867,
       "name": "Play Date",
       "url": "https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA"
+    },
+    {
+      "added_at": "2024-01-19 22:37:18",
+      "album": {
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 139146,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
     },
     {
       "added_at": "2024-01-19 22:37:18",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-01-19 22:37:18",
       "album": {
-        "name": "Piccolo Amore",
-        "url": "https://open.spotify.com/album/7744rXPM3L298rcwG4bX44"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "Sar\u00e0 perch\u00e9 ti amo",
-      "url": "https://open.spotify.com/track/6OMjtuz1sYVsHpdeZPUR1n"
-    },
-    {
-      "added_at": "2024-01-19 22:37:18",
-      "album": {
         "name": "Lovelove U",
         "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 175479,
       "name": "Lovelove U",
       "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
+    },
+    {
+      "added_at": "2024-01-19 22:37:18",
+      "album": {
+        "name": "Piccolo Amore",
+        "url": "https://open.spotify.com/album/7744rXPM3L298rcwG4bX44"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "Sar\u00e0 perch\u00e9 ti amo",
+      "url": "https://open.spotify.com/track/6OMjtuz1sYVsHpdeZPUR1n"
     },
     {
       "added_at": "2024-01-19 22:37:18",

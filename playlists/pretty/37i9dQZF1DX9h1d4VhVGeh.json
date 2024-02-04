@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 176533,
+  "num_followers": 176630,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGExZWIzZjI1NTZhYWM0OTc0NTkzMGJlZGE4MWZiZmU2NmI0NmFj",
+  "snapshot_id": "MCwxN2M5Zjc3OTI4NjBiZDQwZWE3ODlkMGMzMGEzZjBmOGQxNDhmNWM0",
   "tracks": [
     {
       "added_at": "2023-12-27 09:37:08",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Kol Yom Men Dah",
-        "url": "https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Hamaki",
-          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Mel Bedaya",
-      "url": "https://open.spotify.com/track/2j9B8YHcnxDwiDNZg6UXFl"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "\u0645\u064a\u062f\u0644\u064a \u0641\u0636\u0644 \u0634\u0627\u0643\u0631",
         "url": "https://open.spotify.com/album/3pBS7Adj6jJUOz5t1aoxjZ"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 219000,
       "name": "\u0645\u064a\u062f\u0644\u064a \u0641\u0636\u0644 \u0634\u0627\u0643\u0631",
       "url": "https://open.spotify.com/track/3OEVbHugLofLLdQgEpJUZy"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Kol Yom Men Dah",
+        "url": "https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Hamaki",
+          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Mel Bedaya",
+      "url": "https://open.spotify.com/track/2j9B8YHcnxDwiDNZg6UXFl"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
-        "url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf"
-      },
-      "artists": [
-        {
-          "name": "Amir Eid",
-          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
-        }
-      ],
-      "duration_ms": 49597,
-      "name": "\u064a\u0648\u0645 \u062c\u062f\u064a\u062f",
-      "url": "https://open.spotify.com/track/6sTUXelD4CIOSpyxDBD37D"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Deb",
         "url": "https://open.spotify.com/album/1xAPktZ9m3kt6TpgxAlukd"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 305653,
       "name": "Ghir Enta",
       "url": "https://open.spotify.com/track/738Ku4hI0ezRMNheUcW8Eh"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
+        "url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "duration_ms": 49597,
+      "name": "\u064a\u0648\u0645 \u062c\u062f\u064a\u062f",
+      "url": "https://open.spotify.com/track/6sTUXelD4CIOSpyxDBD37D"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Wein Rayheen",
-        "url": "https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        },
-        {
-          "name": "Noel Kharman",
-          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
-        }
-      ],
-      "duration_ms": 185164,
-      "name": "Wein Rayheen",
-      "url": "https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
         "url": "https://open.spotify.com/album/7lwzhzgV4j0WKksieLPrAs"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 276299,
       "name": "Shibren - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/0EyVOeAJ3kjfcVkFv2AxxB"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Wein Rayheen",
+        "url": "https://open.spotify.com/album/4bcHZwnRYGf63bmvfpUFDq"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        },
+        {
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
+        }
+      ],
+      "duration_ms": 185164,
+      "name": "Wein Rayheen",
+      "url": "https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Hobb W Mkattar",
-        "url": "https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0"
-      },
-      "artists": [
-        {
-          "name": "Joseph Attieh",
-          "url": "https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo"
-        }
-      ],
-      "duration_ms": 212767,
-      "name": "Weilak Acoustik",
-      "url": "https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "Bahwak",
         "url": "https://open.spotify.com/album/4qz2Q8NdUlkKckkRmFDhtl"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 198123,
       "name": "Bahwak",
       "url": "https://open.spotify.com/track/7D8m6yXM2yIITCjMrlEPOu"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Hobb W Mkattar",
+        "url": "https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0"
+      },
+      "artists": [
+        {
+          "name": "Joseph Attieh",
+          "url": "https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo"
+        }
+      ],
+      "duration_ms": 212767,
+      "name": "Weilak Acoustik",
+      "url": "https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-12-27 09:37:08",
       "album": {
-        "name": "Caf\u00e9 Sessions",
-        "url": "https://open.spotify.com/album/5SSTPqEYSx9SlO8AFx3nwg"
-      },
-      "artists": [
-        {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
-        }
-      ],
-      "duration_ms": 232456,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4Uag89IBUeSUvugURZaLnl"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
         "name": "A Time to Cry - a Lament over Jerusalem",
         "url": "https://open.spotify.com/album/5Q1IFJcO2UoccuVQkIukc8"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 208626,
       "name": "Mum, Sing to the Wind",
       "url": "https://open.spotify.com/track/6DdxuWERjRsWofoIuZJiwA"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Caf\u00e9 Sessions",
+        "url": "https://open.spotify.com/album/5SSTPqEYSx9SlO8AFx3nwg"
+      },
+      "artists": [
+        {
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+        }
+      ],
+      "duration_ms": 232456,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4Uag89IBUeSUvugURZaLnl"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -1515,22 +1515,6 @@
       "duration_ms": 330152,
       "name": "Denia Dour",
       "url": "https://open.spotify.com/track/6BLSn19vlhGLwoQWmPaDUc"
-    },
-    {
-      "added_at": "2023-12-27 09:37:08",
-      "album": {
-        "name": "Daba",
-        "url": "https://open.spotify.com/album/11OL1xFGIU33aWk1Hf964R"
-      },
-      "artists": [
-        {
-          "name": "Oum",
-          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
-        }
-      ],
-      "duration_ms": 272333,
-      "name": "Fasl",
-      "url": "https://open.spotify.com/track/0hylQMqabreoX3yi9Tfk8M"
     },
     {
       "added_at": "2023-12-27 09:37:08",
@@ -1687,6 +1671,22 @@
       "duration_ms": 367880,
       "name": "Que ferons nous",
       "url": "https://open.spotify.com/track/3TcPJvkqdgPezRa5jvJ7BO"
+    },
+    {
+      "added_at": "2023-12-27 09:37:08",
+      "album": {
+        "name": "Ya Ashikata Al Wardi",
+        "url": "https://open.spotify.com/album/19UIdLolCgvbCkZrSsofqc"
+      },
+      "artists": [
+        {
+          "name": "Samer Doumet",
+          "url": "https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47"
+        }
+      ],
+      "duration_ms": 112744,
+      "name": "Ya Ashikata Al Wardi",
+      "url": "https://open.spotify.com/track/6gkq5hlwu8ZVK6JUUcLgkI"
     }
   ],
   "unique_name": "Arabic Coffee",

@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 7985,
+  "2024-02-04": 7988,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Luxembourg.",
   "name": "Top 50 - Luxembourg",
@@ -2459,7 +2459,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -4499,7 +4499,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 176746,
       "name": "Bolide allemand",
       "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
@@ -5701,7 +5701,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -20370,6 +20370,32 @@
     },
     {
       "album": {
+        "name": "Levante",
+        "url": "https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "JD On Tha Track",
+          "url": "https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Movimento",
+      "url": "https://open.spotify.com/track/08PxSFCTjMjLWiKkS22CAD"
+    },
+    {
+      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -20667,7 +20693,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -20689,6 +20715,24 @@
       "duration_ms": 255400,
       "name": "My Only Wish (This Year)",
       "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
+    },
+    {
+      "album": {
+        "name": "My Time",
+        "url": "https://open.spotify.com/album/7xE3btNJsOGQ2P2FM1dLhi"
+      },
+      "artists": [
+        {
+          "name": "Ayokunle",
+          "url": "https://open.spotify.com/artist/3YIAAueeWTrjMcuQjGewkG"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180009,
+      "name": "My Time",
+      "url": "https://open.spotify.com/track/5h2xBATTBRySZYrlYic7Wr"
     },
     {
       "album": {
@@ -27114,6 +27158,36 @@
     },
     {
       "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/5qELUKsnMwrfNvZnoufbVf"
+      },
+      "artists": [
+        {
+          "name": "Tribe Boyz",
+          "url": "https://open.spotify.com/artist/2rRuuVPwOT2CMpX0IfeL6r"
+        },
+        {
+          "name": "Maxijonez",
+          "url": "https://open.spotify.com/artist/5Pj8VYeVRCBJEQeMDxVs6e"
+        },
+        {
+          "name": "Napoleon TBFI",
+          "url": "https://open.spotify.com/artist/2aknrsRYgCKgQo3VQRILoE"
+        },
+        {
+          "name": "Tawati",
+          "url": "https://open.spotify.com/artist/47qrxGPDjibJ9DGh7HVUO8"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129488,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/7yVs9qdyWrbiSofXeFHdFE"
+    },
+    {
+      "album": {
         "name": "Himmel \u00fcber Berlin",
         "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
       },
@@ -32459,7 +32533,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 147973,
       "name": "What Happened",
       "url": "https://open.spotify.com/track/1KdLOxVGvRI5hChujmt1qr"
@@ -32513,7 +32587,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
@@ -32589,7 +32663,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"

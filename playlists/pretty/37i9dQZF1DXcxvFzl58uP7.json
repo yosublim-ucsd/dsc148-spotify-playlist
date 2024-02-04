@@ -1,12 +1,12 @@
 {
   "description": "Dreamy melodies and hushed vocals.  Cover: Clairo",
-  "num_followers": 1104853,
+  "num_followers": 1104911,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDFiYmU5MTU2MDU1ZjRjODVkMjI5MjY2MzU5YTQ3NGI3NDcyODRj",
+  "snapshot_id": "MCxhYzE0MzU4Yjg3N2YwYWIwNjYyNGVhOTY4MDY2YzM4YjYxYTQxZDhl",
   "tracks": [
     {
       "added_at": "2024-01-12 16:54:40",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 209273,
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 181586,
       "name": "Still Beating",
       "url": "https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "i'll be okay",
-        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
-      },
-      "artists": [
-        {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
-        }
-      ],
-      "duration_ms": 98750,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
+        "name": "i'll be okay",
+        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
         }
       ],
-      "duration_ms": 209273,
-      "name": "SLOW DANCING IN THE DARK",
-      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
+      "duration_ms": 98750,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "OUTTA MY MIND",
-        "url": "https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL"
-      },
-      "artists": [
-        {
-          "name": "Monsune",
-          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
-        }
-      ],
-      "duration_ms": 226005,
-      "name": "OUTTA MY MIND",
-      "url": "https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "touch tank",
         "url": "https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 179133,
       "name": "touch tank",
       "url": "https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "OUTTA MY MIND",
+        "url": "https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL"
+      },
+      "artists": [
+        {
+          "name": "Monsune",
+          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
+        }
+      ],
+      "duration_ms": 226005,
+      "name": "OUTTA MY MIND",
+      "url": "https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "You Tear Me Apart",
-        "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 177957,
-      "name": "You Tear Me Apart",
-      "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "MESS U MADE",
         "url": "https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "You Tear Me Apart",
+        "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 177957,
+      "name": "You Tear Me Apart",
+      "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "amphetamine",
-        "url": "https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN"
-      },
-      "artists": [
-        {
-          "name": "boylife",
-          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
-        }
-      ],
-      "duration_ms": 120241,
-      "name": "amphetamine",
-      "url": "https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "Eternal Slowdown",
         "url": "https://open.spotify.com/album/0ZHd1Jd0l3pc7t6DfVlDbd"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 260480,
       "name": "Pond Weed",
       "url": "https://open.spotify.com/track/2Tq8kdQuyuQNudS7PO3fSw"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "amphetamine",
+        "url": "https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN"
+      },
+      "artists": [
+        {
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
+        }
+      ],
+      "duration_ms": 120241,
+      "name": "amphetamine",
+      "url": "https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa"
     },
     {
       "added_at": "2024-01-12 16:54:40",

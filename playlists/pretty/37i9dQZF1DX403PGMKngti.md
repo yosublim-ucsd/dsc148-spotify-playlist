@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX403PGMKngti.md) - [plain]
 
 > ¡Los éxitos más champetúos de ayer y hoy se vacilan en Spotify! Foto: Ovy On the Drums, Luister La Voz, Dekko
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,607 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,613 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX403PGMKngti.md) - [plain]
 | 58 | [El Serrucho](https://open.spotify.com/track/2ZR50pvQ1lpMWyQAMO4Y5b) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [El Presidente de la Champeta](https://open.spotify.com/album/5jLW2hl3FsoXtVqWl6bDLc) | 3:23 |
 | 59 | [La Condena](https://open.spotify.com/track/1GzbeDWwCGc8jYGU3a6ixx) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [La Condena](https://open.spotify.com/album/2P34iXQ1y9DBWvzU9Q86JX) | 4:22 |
 | 60 | [Los Trapitos al Agua](https://open.spotify.com/track/5uY067t7HIaEfCmhgRaA7m) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Los Trapitos al Agua](https://open.spotify.com/album/7CwbUzZX90EMQubtrwxn8X) | 4:07 |
-| 61 | [Champetua \(feat\. Grupo Bip\)](https://open.spotify.com/track/56opHoczTBGMkxFDONXvAy) | [Oscar Prince](https://open.spotify.com/artist/5XnGhskwJJ0JdXASSM3OIp), [Lesee](https://open.spotify.com/artist/0wvlvGUyJ4tzNtZStd9CZz), [Grupo Bip](https://open.spotify.com/artist/3mNrdPWEavOdOa3PEnU6RC) | [Champetua \(feat\. Grupo Bip\)](https://open.spotify.com/album/0D9sIElKSpKVWJl5Gi8jFc) | 3:56 |
+| 61 | [Champetua](https://open.spotify.com/track/6qUVpuObKhwKiXeC5zBXz1) | [Oscar Prince](https://open.spotify.com/artist/5XnGhskwJJ0JdXASSM3OIp), [Bip](https://open.spotify.com/artist/3n1HlTtsRQZysVe8QPjOIB) | [Champetua](https://open.spotify.com/album/4joMs1H6WBYzUIv17uYN5N) | 3:58 |
 | 62 | [Asómate a la Ventana \- Remix](https://open.spotify.com/track/4Gm7anWU6jrLaaloWnyWcc) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [El Rey de la Champeta Urbana](https://open.spotify.com/album/4aMBLeJPJiwHMPoNZxqoCj) | 3:28 |
 | 63 | [El Bololo](https://open.spotify.com/track/5k9sIPVVC0OpPEGRVlf1iZ) | [Bazurto All Stars](https://open.spotify.com/artist/0BhgcfRYexO5WqUGuqOgGF) | [The Champeta's Journey](https://open.spotify.com/album/6XwRjWAfxPqxWWpYhjBa32) | 3:02 |
 | 64 | [Apretaito al Pickup](https://open.spotify.com/track/5A3dCPrg1suWtFZs6CHYe1) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [15 Años Maquinando](https://open.spotify.com/album/6lSheRHavdGGTFpwYmca0v) | 3:41 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX403PGMKngti.md) - [plain]
 | 69 | [Tantina](https://open.spotify.com/track/74yHwOKLit0jRwkbhGH3MG) | [Soukous Stars](https://open.spotify.com/artist/7wcl2LtA0w6O3KveN0Nico) | [Gozando](https://open.spotify.com/album/6MvseAqeMGJXzKr1dns0SN) | 7:53 |
 | 70 | [La Espelucá](https://open.spotify.com/track/36d8uosAAyY4PNSEITEaVJ) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx), [Mr Steve](https://open.spotify.com/artist/0TgEaSmA1DuHClb6dblt3Z) | [La Espelucá](https://open.spotify.com/album/1SaExsIeidGacFT3gnVdtX) | 4:04 |
 
-Snapshot ID: `MCw0NjIyM2U4ZmMzN2ZmODBkN2ViOGQ2MzA4ZDIyMjkwOWE2ZjBiNTRl`
+Snapshot ID: `MCxmYjRhNDljOWMxOTNiYjVmMThmZDQ1N2Y3MzNkMmRjOTVkOGE4NzFk`

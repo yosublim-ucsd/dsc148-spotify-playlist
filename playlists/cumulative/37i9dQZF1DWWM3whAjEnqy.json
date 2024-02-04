@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 214647,
       "name": "Days in the Sun",
       "url": "https://open.spotify.com/track/3VhfYeteFO8rrhBapl7keF"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 353211,
       "name": "Every Day Is A Holiday (feat. Winston Surfshirt)",
       "url": "https://open.spotify.com/track/2FYPHlCcEzere9tj4vAouv"
@@ -600,6 +600,24 @@
       "duration_ms": 202440,
       "name": "Home",
       "url": "https://open.spotify.com/track/6SGoFZFKjF1ZbGDkImEaS7"
+    },
+    {
+      "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158946,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
     },
     {
       "album": {
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 272733,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0"
@@ -1458,7 +1476,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 242999,
       "name": "together",
       "url": "https://open.spotify.com/track/0ZJw3XElRNa29UmEqHTboR"
@@ -1534,6 +1552,24 @@
       "duration_ms": 236808,
       "name": "Waking Up Easy",
       "url": "https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1"
+    },
+    {
+      "album": {
+        "name": "Same Kind Of Different (Acoustic)",
+        "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248176,
+      "name": "Waves - Acoustic",
+      "url": "https://open.spotify.com/track/78wMD0pLwum3Xmm76VMQel"
     },
     {
       "album": {

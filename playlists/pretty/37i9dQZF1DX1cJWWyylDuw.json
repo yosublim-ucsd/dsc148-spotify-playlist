@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: Humanity's Last Breath",
-  "num_followers": 184283,
+  "num_followers": 184468,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2Y3YjFmNzEzNWExYjMxODIzZjg1YWVhY2JjNjY4MTdkYzBhYjA4",
+  "snapshot_id": "MCwwMTEyOTE4ODk3MjA4MTkxNmU4MDY1MWMxYWI3Y2ZhYjVjMzM0YWZk",
   "tracks": [
     {
       "added_at": "2024-01-30 15:19:18",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
+        "name": "Take Me To Hell",
+        "url": "https://open.spotify.com/album/2vtORmA1SG9KAvzm95wao7"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "duration_ms": 210464,
+      "name": "Take Me To Hell",
+      "url": "https://open.spotify.com/track/5rbK2Z6ufVtEFEnBeafhwB"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
         "name": "Pain Remains I: Dancing Like Flames",
         "url": "https://open.spotify.com/album/2HRhcuqmyel4Zn92eeE3Cg"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 230390,
       "name": "Boy",
       "url": "https://open.spotify.com/track/1w0ZidtOTM9Jx5WNuPLE42"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "Take Me To Hell",
-        "url": "https://open.spotify.com/album/2vtORmA1SG9KAvzm95wao7"
-      },
-      "artists": [
-        {
-          "name": "Bodysnatcher",
-          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
-        }
-      ],
-      "duration_ms": 210464,
-      "name": "Take Me To Hell",
-      "url": "https://open.spotify.com/track/5rbK2Z6ufVtEFEnBeafhwB"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "End Of Existence",
-        "url": "https://open.spotify.com/album/69OWwAT3a244xtQhmHn16e"
-      },
-      "artists": [
-        {
-          "name": "The Browning",
-          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
-        }
-      ],
-      "duration_ms": 240823,
-      "name": "End Of Existence",
-      "url": "https://open.spotify.com/track/4PsJwwJP7I7rpK1dOnZeAQ"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "This Heavy Void",
         "url": "https://open.spotify.com/album/7svL45hiXd5Ms0MBn3saXS"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 200307,
       "name": "Behind the Hand of God",
       "url": "https://open.spotify.com/track/3c34ZTRGIuBX6MfRJmmqOW"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "End Of Existence",
+        "url": "https://open.spotify.com/album/69OWwAT3a244xtQhmHn16e"
+      },
+      "artists": [
+        {
+          "name": "The Browning",
+          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
+        }
+      ],
+      "duration_ms": 240823,
+      "name": "End Of Existence",
+      "url": "https://open.spotify.com/track/4PsJwwJP7I7rpK1dOnZeAQ"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1107,18 +1107,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Bleed-Abide",
-        "url": "https://open.spotify.com/album/1PcvrxS7q5g9n1MxC7BOo4"
+        "name": "Forest of Lust",
+        "url": "https://open.spotify.com/album/2t51pbixg76sMxiLnCgiCt"
       },
       "artists": [
         {
-          "name": "Bodysnatcher",
-          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+          "name": "Scarlet Rot",
+          "url": "https://open.spotify.com/artist/6IAkJBTXy5Bf5J438qF1R6"
+        },
+        {
+          "name": "Dal Av",
+          "url": "https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri"
         }
       ],
-      "duration_ms": 194208,
-      "name": "Behind the Crowd",
-      "url": "https://open.spotify.com/track/0RaMMxG2LIexxGz4a3fEZt"
+      "duration_ms": 238222,
+      "name": "Forest of Lust",
+      "url": "https://open.spotify.com/track/2OioZqscBMwmPXMQ2eS4Nj"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1139,6 +1143,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
+        "name": "Bleed-Abide",
+        "url": "https://open.spotify.com/album/1PcvrxS7q5g9n1MxC7BOo4"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "duration_ms": 194208,
+      "name": "Behind the Crowd",
+      "url": "https://open.spotify.com/track/0RaMMxG2LIexxGz4a3fEZt"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/7ACxLfrkh5ADpD0Xwry40J"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 194656,
       "name": "Demigod",
       "url": "https://open.spotify.com/track/1YuFLFos4LMkns1xJFaeow"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "Forest of Lust",
-        "url": "https://open.spotify.com/album/2t51pbixg76sMxiLnCgiCt"
-      },
-      "artists": [
-        {
-          "name": "Scarlet Rot",
-          "url": "https://open.spotify.com/artist/6IAkJBTXy5Bf5J438qF1R6"
-        },
-        {
-          "name": "Dal Av",
-          "url": "https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri"
-        }
-      ],
-      "duration_ms": 238222,
-      "name": "Forest of Lust",
-      "url": "https://open.spotify.com/track/2OioZqscBMwmPXMQ2eS4Nj"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1267,18 +1267,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Step Into The Light",
-        "url": "https://open.spotify.com/album/61G3s23PmUvfgZMBJ7EGu3"
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2AAnQSF4VAUQzIg8BSETpz"
       },
       "artists": [
         {
-          "name": "The Acacia Strain",
-          "url": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        },
+        {
+          "name": "Tim Lambesis",
+          "url": "https://open.spotify.com/artist/5ZRwRGRwqJbmGUDlmxKsP9"
         }
       ],
-      "duration_ms": 148560,
-      "name": "FRESH BONES",
-      "url": "https://open.spotify.com/track/1RyFKeilrtVz6fDekeIiMJ"
+      "duration_ms": 269142,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/7deQhRSrzcKOoID5EPvHCl"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1299,22 +1303,18 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/2AAnQSF4VAUQzIg8BSETpz"
+        "name": "Step Into The Light",
+        "url": "https://open.spotify.com/album/61G3s23PmUvfgZMBJ7EGu3"
       },
       "artists": [
         {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
-        },
-        {
-          "name": "Tim Lambesis",
-          "url": "https://open.spotify.com/artist/5ZRwRGRwqJbmGUDlmxKsP9"
+          "name": "The Acacia Strain",
+          "url": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
         }
       ],
-      "duration_ms": 269142,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/7deQhRSrzcKOoID5EPvHCl"
+      "duration_ms": 148560,
+      "name": "FRESH BONES",
+      "url": "https://open.spotify.com/track/1RyFKeilrtVz6fDekeIiMJ"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/1ywnN4cbTEzEidQxfKAFTN"
-      },
-      "artists": [
-        {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/013gFBH6Qqs79Zbj7WOdsu"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "Black Heart",
         "url": "https://open.spotify.com/album/3PwsDlnJqqIwBgMJ53uBJN"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 275875,
       "name": "Black Heart",
       "url": "https://open.spotify.com/track/6LSrYyleml59eVadTzvaXD"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/1ywnN4cbTEzEidQxfKAFTN"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/013gFBH6Qqs79Zbj7WOdsu"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Fathomless Maw",
-        "url": "https://open.spotify.com/album/6RdK7lIglSnuA9xLqwTyMM"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
-        }
-      ],
-      "duration_ms": 205058,
-      "name": "Fathomless Maw",
-      "url": "https://open.spotify.com/track/3SSc3dcDRsvLuLYTSbyeYM"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "World War X",
         "url": "https://open.spotify.com/album/5OiCqo3u7tuY74x5ShFOO1"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 268331,
       "name": "World War X",
       "url": "https://open.spotify.com/track/49PBZfQrzFeU5VNlUNl52j"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "Fathomless Maw",
+        "url": "https://open.spotify.com/album/6RdK7lIglSnuA9xLqwTyMM"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+        }
+      ],
+      "duration_ms": 205058,
+      "name": "Fathomless Maw",
+      "url": "https://open.spotify.com/track/3SSc3dcDRsvLuLYTSbyeYM"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm"
-      },
-      "artists": [
-        {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
-        }
-      ],
-      "duration_ms": 241767,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "Satanic Panic",
         "url": "https://open.spotify.com/album/5MtCtbhIdjgxJRbk9slWJl"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 199186,
       "name": "Satanic Panic",
       "url": "https://open.spotify.com/track/57KZXPyLADbF6S6Q8izGcZ"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm"
+      },
+      "artists": [
+        {
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+        }
+      ],
+      "duration_ms": 241767,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Cut Off The Head",
-        "url": "https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv"
-      },
-      "artists": [
-        {
-          "name": "To The Grave",
-          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
-        }
-      ],
-      "duration_ms": 210352,
-      "name": "Cut off the Head",
-      "url": "https://open.spotify.com/track/3Dvk2S4NL3KYU4S4QRW8P8"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "I Hope We Make It Out of This Alive",
         "url": "https://open.spotify.com/album/46V8n8Ws2mYTRFqVXc7IMx"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 384285,
       "name": "For Whom the Banshee Cries",
       "url": "https://open.spotify.com/track/2wwbK9hDUHFaZO13XG5N5n"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "Cut Off The Head",
+        "url": "https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv"
+      },
+      "artists": [
+        {
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+        }
+      ],
+      "duration_ms": 210352,
+      "name": "Cut off the Head",
+      "url": "https://open.spotify.com/track/3Dvk2S4NL3KYU4S4QRW8P8"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
+        "name": "Dead Rabbit",
+        "url": "https://open.spotify.com/album/1VMwMOt7ka9NWKwdaynncb"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "duration_ms": 191023,
+      "name": "Dead Rabbit",
+      "url": "https://open.spotify.com/track/6YnVxaVJSDi12MJD6XMUFI"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
         "name": "Culling Culture",
         "url": "https://open.spotify.com/album/3ILJRDzXPGR8104VfpAz0U"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 197614,
       "name": "The Isnis",
       "url": "https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "Dead Rabbit",
-        "url": "https://open.spotify.com/album/1VMwMOt7ka9NWKwdaynncb"
-      },
-      "artists": [
-        {
-          "name": "Bodysnatcher",
-          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
-        }
-      ],
-      "duration_ms": 191023,
-      "name": "Dead Rabbit",
-      "url": "https://open.spotify.com/track/6YnVxaVJSDi12MJD6XMUFI"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -2095,22 +2095,18 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Reapers",
-        "url": "https://open.spotify.com/album/7woFAbfwUDeSRxDKMraMvk"
+        "name": "Negative Energy",
+        "url": "https://open.spotify.com/album/30Ggyx6pEhcfLDLJ5mtXEh"
       },
       "artists": [
         {
-          "name": "Sunfall",
-          "url": "https://open.spotify.com/artist/740XnUGK1y8DMyMZSgRjVN"
-        },
-        {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+          "name": "VEXED",
+          "url": "https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH"
         }
       ],
-      "duration_ms": 238208,
-      "name": "Reapers",
-      "url": "https://open.spotify.com/track/1KtGs6R84lkQGWWDYI3jqz"
+      "duration_ms": 238625,
+      "name": "Anti-Fetish",
+      "url": "https://open.spotify.com/track/1DNJEei0Cn2KoUl8U3SyCe"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -2147,6 +2143,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr"
+      },
+      "artists": [
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "duration_ms": 199741,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
         "name": "Bestial Devastation",
         "url": "https://open.spotify.com/album/7daofMPFpO2A5zfIfWWJo3"
       },
@@ -2163,34 +2175,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Negative Energy",
-        "url": "https://open.spotify.com/album/30Ggyx6pEhcfLDLJ5mtXEh"
+        "name": "Reapers",
+        "url": "https://open.spotify.com/album/7woFAbfwUDeSRxDKMraMvk"
       },
       "artists": [
         {
-          "name": "VEXED",
-          "url": "https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH"
-        }
-      ],
-      "duration_ms": 238625,
-      "name": "Anti-Fetish",
-      "url": "https://open.spotify.com/track/1DNJEei0Cn2KoUl8U3SyCe"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr"
-      },
-      "artists": [
+          "name": "Sunfall",
+          "url": "https://open.spotify.com/artist/740XnUGK1y8DMyMZSgRjVN"
+        },
         {
-          "name": "Within Destruction",
-          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
         }
       ],
-      "duration_ms": 199741,
-      "name": "Survival",
-      "url": "https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA"
+      "duration_ms": 238208,
+      "name": "Reapers",
+      "url": "https://open.spotify.com/track/1KtGs6R84lkQGWWDYI3jqz"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Dying Life",
-        "url": "https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX"
-      },
-      "artists": [
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 200629,
-      "name": "Dying Life",
-      "url": "https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "Death Magick",
         "url": "https://open.spotify.com/album/1wU3JkqJnu6jj3AnTas0Tq"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 427513,
       "name": "Death Magick",
       "url": "https://open.spotify.com/track/0XcyTZVnvgnvgDIQEIb1S6"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "Dying Life",
+        "url": "https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 200629,
+      "name": "Dying Life",
+      "url": "https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Necromanteum",
-        "url": "https://open.spotify.com/album/2RZ0KrPK6mMo4XGjY0Ag8X"
-      },
-      "artists": [
-        {
-          "name": "Carnifex",
-          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
-        }
-      ],
-      "duration_ms": 266908,
-      "name": "Necromanteum",
-      "url": "https://open.spotify.com/track/4BsyVbO7MkrVTJzBOQHS1M"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "Everything Bleeds",
         "url": "https://open.spotify.com/album/0K4FU1lM08akPusYYsEaBX"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 251884,
       "name": "Nail Funeral",
       "url": "https://open.spotify.com/track/4LUQbb45rZ0dK0WdnFPnEA"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "Necromanteum",
+        "url": "https://open.spotify.com/album/2RZ0KrPK6mMo4XGjY0Ag8X"
+      },
+      "artists": [
+        {
+          "name": "Carnifex",
+          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
+        }
+      ],
+      "duration_ms": 266908,
+      "name": "Necromanteum",
+      "url": "https://open.spotify.com/track/4BsyVbO7MkrVTJzBOQHS1M"
     },
     {
       "added_at": "2024-01-30 15:19:18",

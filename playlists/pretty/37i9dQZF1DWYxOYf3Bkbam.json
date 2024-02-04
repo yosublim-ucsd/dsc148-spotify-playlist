@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 45976,
+  "num_followers": 46001,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTE1MDM4MzQ5ZWJkMTgxZjZiNWMxYmNjMThkMWVmMTE3MDg0Mzdl",
+  "snapshot_id": "MCxlZjk2MjZkMGJmMDI1MDg2M2VjZGY2NGRlYTY2NjM1MWZmMTNhNTEz",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Pastor Luna - Chamemecero de Ley",
-        "url": "https://open.spotify.com/album/7pPRjpDYUvkJWrO3dJv82C"
-      },
-      "artists": [
-        {
-          "name": "Pastor Luna",
-          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Meta lonja y chamam\u00e9",
-      "url": "https://open.spotify.com/track/0kS3kKMctu2HLy2zljzsMF"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Hilvanando Recuerdos",
         "url": "https://open.spotify.com/album/0vAxrwxF8Xs2aEQkryfBcS"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 159693,
       "name": "El Gateao",
       "url": "https://open.spotify.com/track/22DsqUz2nEwX0shUrgHb9I"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Pastor Luna - Chamemecero de Ley",
+        "url": "https://open.spotify.com/album/7pPRjpDYUvkJWrO3dJv82C"
+      },
+      "artists": [
+        {
+          "name": "Pastor Luna",
+          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Meta lonja y chamam\u00e9",
+      "url": "https://open.spotify.com/track/0kS3kKMctu2HLy2zljzsMF"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Damasio Esquivel",
-          "url": "https://open.spotify.com/artist/1BWqJJLlVyTRaKbyf6bibt"
-        }
-      ],
-      "duration_ms": 111893,
-      "name": "Granja San Antonio",
-      "url": "https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Enganchados en Vivo Desde San Jos\u00e9 Feliciano / Nacional, Vol. 2",
         "url": "https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 455840,
       "name": "Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos - En Vivo",
       "url": "https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Damasio Esquivel",
+          "url": "https://open.spotify.com/artist/1BWqJJLlVyTRaKbyf6bibt"
+        }
+      ],
+      "duration_ms": 111893,
+      "name": "Granja San Antonio",
+      "url": "https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Reyes de la Alegr\u00eda",
-        "url": "https://open.spotify.com/album/4nHGvyIggXJIgOnhvCDgQK"
-      },
-      "artists": [
-        {
-          "name": "Los Sena",
-          "url": "https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv"
-        }
-      ],
-      "duration_ms": 130785,
-      "name": "Adi\u00f3s Ciudad de Mercedes",
-      "url": "https://open.spotify.com/track/01XFm4g3gKr0Hmw2cjNn13"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Coraz\u00f3n Chamamecero",
         "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 208346,
       "name": "El Gaucho Gil",
       "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Reyes de la Alegr\u00eda",
+        "url": "https://open.spotify.com/album/4nHGvyIggXJIgOnhvCDgQK"
+      },
+      "artists": [
+        {
+          "name": "Los Sena",
+          "url": "https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv"
+        }
+      ],
+      "duration_ms": 130785,
+      "name": "Adi\u00f3s Ciudad de Mercedes",
+      "url": "https://open.spotify.com/track/01XFm4g3gKr0Hmw2cjNn13"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Chamam\u00e9 para las Bailantas (En Vivo)",
-        "url": "https://open.spotify.com/album/69uqtQKovnsA0EbUkcp9vc"
-      },
-      "artists": [
-        {
-          "name": "El Angel De Las 2 Hileras",
-          "url": "https://open.spotify.com/artist/7DTPEQlrd18ycCOpiVG3a5"
-        }
-      ],
-      "duration_ms": 445173,
-      "name": "Estaci\u00f3n Solari / La Mal Peinada / El Curuzucuate\u00f1o - En Vivo",
-      "url": "https://open.spotify.com/track/7ua5qCQZyy2LrZELAJxSlF"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Me Dicen el Rey",
         "url": "https://open.spotify.com/album/6CA6JZ9igKWBTxi18sdTo8"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 166480,
       "name": "Amanecer Campero",
       "url": "https://open.spotify.com/track/1WOW5dpVavNNqNA83WY0IM"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Chamam\u00e9 para las Bailantas (En Vivo)",
+        "url": "https://open.spotify.com/album/69uqtQKovnsA0EbUkcp9vc"
+      },
+      "artists": [
+        {
+          "name": "El Angel De Las 2 Hileras",
+          "url": "https://open.spotify.com/artist/7DTPEQlrd18ycCOpiVG3a5"
+        }
+      ],
+      "duration_ms": 445173,
+      "name": "Estaci\u00f3n Solari / La Mal Peinada / El Curuzucuate\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/7ua5qCQZyy2LrZELAJxSlF"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Mi Estrella Perdida",
-        "url": "https://open.spotify.com/album/1gZEqHoM4jZF6OCHNZWuAu"
-      },
-      "artists": [
-        {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
-        }
-      ],
-      "duration_ms": 248320,
-      "name": "Mi Estrella Perdida",
-      "url": "https://open.spotify.com/track/47ugki7NC3Nb0lwUZQEqzd"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Sobredosis De Chamame",
         "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 296653,
       "name": "La Fiesta Del Chamam\u00e9",
       "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Mi Estrella Perdida",
+        "url": "https://open.spotify.com/album/1gZEqHoM4jZF6OCHNZWuAu"
+      },
+      "artists": [
+        {
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        }
+      ],
+      "duration_ms": 248320,
+      "name": "Mi Estrella Perdida",
+      "url": "https://open.spotify.com/track/47ugki7NC3Nb0lwUZQEqzd"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Segundo Contacto",
-        "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
-      },
-      "artists": [
-        {
-          "name": "Herencia Chamamecera",
-          "url": "https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym"
-        },
-        {
-          "name": "Ricardo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "Para Volver a So\u00f1ar",
-      "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Mano a mano",
         "url": "https://open.spotify.com/album/5qeGWTgeMnjCSa28z2Ki9y"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 144906,
       "name": "El pe\u00f3n de Obraje",
       "url": "https://open.spotify.com/track/7HG7rEI3qkOukfGvRxj9ge"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Segundo Contacto",
+        "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
+      },
+      "artists": [
+        {
+          "name": "Herencia Chamamecera",
+          "url": "https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym"
+        },
+        {
+          "name": "Ricardo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "Para Volver a So\u00f1ar",
+      "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
     },
     {
       "added_at": "2023-06-09 03:00:00",

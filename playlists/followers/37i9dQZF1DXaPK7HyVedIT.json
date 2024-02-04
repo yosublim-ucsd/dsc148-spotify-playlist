@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 1195623,
+  "2024-02-04": 1195234,
   "date_first_scraped": "2023-07-23",
   "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Cat Dealers",
   "name": "Dance Paradise",
@@ -513,6 +513,28 @@
       "duration_ms": 158293,
       "name": "Baila (La Banda)",
       "url": "https://open.spotify.com/track/6AY8ze5ZtHhkygQryAvdHI"
+    },
+    {
+      "album": {
+        "name": "Baile Lotad\u00e3o",
+        "url": "https://open.spotify.com/album/7LWs9wqCZIUPsZAllaKjEY"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        },
+        {
+          "name": "Gesualdi",
+          "url": "https://open.spotify.com/artist/0ddLKgLdOJFY0ghicM70Wk"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Baile Lotad\u00e3o",
+      "url": "https://open.spotify.com/track/6R8sBJjTQnFffxSU4u4Kg9"
     },
     {
       "album": {
@@ -1123,6 +1145,28 @@
       "duration_ms": 144648,
       "name": "Deep In Your Love",
       "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
+    },
+    {
+      "album": {
+        "name": "DEEPER",
+        "url": "https://open.spotify.com/album/4xft6Pa0NAhIAJTJzccqHZ"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        },
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "DEEPER",
+      "url": "https://open.spotify.com/track/1BxtUxsBmTxUOdH2f1LVXx"
     },
     {
       "album": {
@@ -1769,7 +1813,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 208969,
       "name": "Get Tired",
       "url": "https://open.spotify.com/track/0OsC2OHCq07p1tYYox7sIg"
@@ -2037,7 +2081,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 163278,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/2FhLQm7ijvsaF7USkwPe9H"
@@ -3040,6 +3084,32 @@
     },
     {
       "album": {
+        "name": "On My Skin",
+        "url": "https://open.spotify.com/album/7FnOzqbZpl4Cj3LoIL4F2U"
+      },
+      "artists": [
+        {
+          "name": "Gutto Serta",
+          "url": "https://open.spotify.com/artist/3wDkTxqGD8YXsfH3qVwzTD"
+        },
+        {
+          "name": "Bill Browne",
+          "url": "https://open.spotify.com/artist/117df8lXyTyAdjyaJ2Aukl"
+        },
+        {
+          "name": "Ren Ocean",
+          "url": "https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277896,
+      "name": "On My Skin - Original Mix - Edit",
+      "url": "https://open.spotify.com/track/7G4GWwMoTBTauoc5uwXXkt"
+    },
+    {
+      "album": {
         "name": "Plants",
         "url": "https://open.spotify.com/album/3nXABuiKY57Jk2nJKFqYZs"
       },
@@ -3801,7 +3871,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 172500,
       "name": "Shingaling Shingaling",
       "url": "https://open.spotify.com/track/7mMgH7AulApCvRqiMtVuBS"
@@ -4365,6 +4435,32 @@
       "duration_ms": 262500,
       "name": "Tina",
       "url": "https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz"
+    },
+    {
+      "album": {
+        "name": "Told You",
+        "url": "https://open.spotify.com/album/1pBrVcrcW1nUUZIT3w2xUN"
+      },
+      "artists": [
+        {
+          "name": "Kiko Franco",
+          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+        },
+        {
+          "name": "Moser",
+          "url": "https://open.spotify.com/artist/65SpeN8U0BX9M36pxgiigT"
+        },
+        {
+          "name": "Dyve",
+          "url": "https://open.spotify.com/artist/1u2imct5j7WJaYoVCA1sKE"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242560,
+      "name": "Told You",
+      "url": "https://open.spotify.com/track/4UHPdV0a90USlUxUgnXIU2"
     },
     {
       "album": {

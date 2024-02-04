@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,905 likes - 110 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,942 likes - 110 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 109 | [Fierce and Shady Tens \(Gurl\) \[feat\. Miss Jay\]](https://open.spotify.com/track/2nNEOEmQoSCJ2DMGlDDtUl) | [Vjuan Allure](https://open.spotify.com/artist/6XsYyM6VcCkFglSRqzUMXJ), [Miss Jay](https://open.spotify.com/artist/1IU4hPWrwgn5oJlSNDmL7Y) | [Jeffree's, Vol\. 8](https://open.spotify.com/album/5qE2aOPfLshaK0qvZrkZ6B) | 6:28 |
 | 110 | [Realness](https://open.spotify.com/track/1Fh6UKeOozklnE9a24GSSh) | [Ash B.](https://open.spotify.com/artist/73C4in0N0LZovDdQBtCoez) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 2:03 |
 
-Snapshot ID: `MCxiMjgyOWNiMWY4ZDI5M2QxMGNiZmEwNWYyN2Q2MjNhOWUxZDQ0MzE4`
+Snapshot ID: `MCw2YjE0OWQyOGMwMThhOGQyZjRhZTRkNTZhYzAzYTgzMjhlYTY1YTE0`

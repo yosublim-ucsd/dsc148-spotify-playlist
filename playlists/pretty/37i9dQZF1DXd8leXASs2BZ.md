@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 炒炒
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,821 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,834 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [YAKINIKU, SUSHI](https://open.spotify.com/track/0HKwHQxyzVL3IWmn9reSgw) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF) | [PLAY PURE 3](https://open.spotify.com/album/0Ae1o6q05ZzP47z7bW2UXZ) | 3:02 |
 | 100 | [Care free](https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [Oichi](https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn), [XF MENEW](https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH) | [Care free](https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0) | 2:44 |
 
-Snapshot ID: `MCw0Zjc3NTc3MDViNzg5YjExMzVhNTMwMDhlMTc1NjljNjk3ZWU0MGZl`
+Snapshot ID: `MCxjOGM2NGYyN2YyN2VjZTlhZjlkN2Q1Y2FiZmM5OWU0ZjYwNjg0NThk`

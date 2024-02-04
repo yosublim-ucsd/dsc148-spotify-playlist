@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Nothing But Thieves
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,688 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,893 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 39 | [There's Nothing After](https://open.spotify.com/track/36OZre827rTdSFuDDY3eiI) | [Moloch/Monolyth](https://open.spotify.com/artist/2UpTActP8LhN6FZcEm35bm) | [There's Nothing After](https://open.spotify.com/album/0Nf7La4ySI1rx0nbWhhdqb) | 3:38 |
 | 40 | [Healing](https://open.spotify.com/track/2FTECyHv2eDT7LGxXCtDvn) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [Healing](https://open.spotify.com/album/0HGYZoDXRFyztQMuZV1I68) | 4:16 |
 
-Snapshot ID: `MCxjMjBiYWVmMTgyYzk0YjhlNGIyNWE3NWM3YTViMjkyM2Q0MTRkODg4`
+Snapshot ID: `MCw5MmZmZmMyOTBlNDIyYTMwODliOGVkNzljNzc0YWRkYWI3ZDNhMWJh`

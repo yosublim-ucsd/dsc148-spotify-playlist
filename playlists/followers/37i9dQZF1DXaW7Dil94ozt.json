@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 1713,
+  "2024-02-04": 1715,
   "date_first_scraped": "2023-09-05",
   "description": "Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! (Let's Rock Festival 2023\uc5d0 \ucd9c\uc5f0\ud558\ub294 \ub77c\uc778\uc5c5\uc758 \ub178\ub798\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "Let's Rock Festival 2023",
@@ -691,6 +691,24 @@
       "duration_ms": 263441,
       "name": "Let's Do Well",
       "url": "https://open.spotify.com/track/3LC2XvIgfPpJChlceA82qU"
+    },
+    {
+      "album": {
+        "name": "hom'ea'ge",
+        "url": "https://open.spotify.com/album/3GZ2bTWjX8d4L4rvtWcagA"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Like We Turn the pages (Remaster)",
+      "url": "https://open.spotify.com/track/4W7MrbhSg8o2v5lBz0wLBV"
     },
     {
       "album": {
@@ -2371,7 +2389,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 192857,
       "name": "\ucc45\uc744 \ub118\uae30\ub294 \ub4ef\ud55c \ub9c8\uc74c\uc73c\ub85c",
       "url": "https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk"

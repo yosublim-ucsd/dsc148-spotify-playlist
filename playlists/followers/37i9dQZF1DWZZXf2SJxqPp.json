@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 132245,
+  "2024-02-04": 132444,
   "date_first_scraped": "2023-05-16",
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
   "name": "\u00a1A la Alberca!",
@@ -677,7 +677,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 263265,
       "name": "El Sabor del Viejo Mar",
       "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
@@ -2107,6 +2107,28 @@
       "duration_ms": 136618,
       "name": "Rain Check",
       "url": "https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B"
+    },
+    {
+      "album": {
+        "name": "Regresar (feat. Sobrino)",
+        "url": "https://open.spotify.com/album/36DPVqczZaPYeZixap7HYu"
+      },
+      "artists": [
+        {
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        },
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237985,
+      "name": "Regresar - feat. Sobrino",
+      "url": "https://open.spotify.com/track/3VwprychzaU5tWM09PsoAv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 緑黄色社会
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,313 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,361 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 59 | [Nothing Special](https://open.spotify.com/track/4XDrpxrYvXJ8SCGF2J524I) | [gb](https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6) | [Nothing Special](https://open.spotify.com/album/7gBuSF8BhzjHrgnjhDn56t) | 2:43 |
 | 60 | [MOTTAI](https://open.spotify.com/track/6mHZYuJSurWBl6ne142xiz) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [MOTTAI](https://open.spotify.com/album/2hzMW3wgt1nmHUhTjAR7bF) | 2:40 |
 
-Snapshot ID: `MCxiYTY1OTEwNjQ4NzA5YmE1ZDM1OTBjYWJlMmE2MTM5ZWViYmFkODE0`
+Snapshot ID: `MCw3MzExYTY5ZTMwMWRlNDVjM2JkYThhZTBmOGY2ZjNmNzM4ZjcwNmFk`

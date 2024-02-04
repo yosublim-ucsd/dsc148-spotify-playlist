@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 64302,
+  "2024-02-04": 64342,
   "date_first_scraped": "2023-05-28",
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
   "name": "Ranchera Chilena",
@@ -381,7 +381,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 194481,
       "name": "Como T\u00fa Decidas",
       "url": "https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7"
@@ -1409,7 +1409,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 210693,
       "name": "Mil Cantinas",
       "url": "https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf"
@@ -1839,8 +1839,8 @@
       },
       "artists": [
         {
-          "name": "Los Pincheira del sur Oficial",
-          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
+          "name": "Los Pincheira del Sur",
+          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
         }
       ],
       "date_added": "2023-03-03",

@@ -4,7 +4,7 @@
 
 > Your everyday pick\-me\-up playlist.
 
-104 songs - 5 hr 38 min
+105 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2023-04-21 | 2023-09-08 |
 | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/track/70eFcWOvlMObDhURTqT4Fv) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:17 | 2020-09-07 |  |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-07-23 | 2023-01-17 |
-| [Belong](https://open.spotify.com/track/573RbecAqWAVbmMQXPjO1m) | [Pascal & Pearce](https://open.spotify.com/artist/05EUuIFVDSu6ZquGa7wSny), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Belong](https://open.spotify.com/album/6ru3z0a7zW2B0q0VQz6WgU) | 3:17 | 2023-11-03 |  |
+| [Belong](https://open.spotify.com/track/573RbecAqWAVbmMQXPjO1m) | [Pascal & Pearce](https://open.spotify.com/artist/05EUuIFVDSu6ZquGa7wSny), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Belong](https://open.spotify.com/album/6ru3z0a7zW2B0q0VQz6WgU) | 3:17 | 2023-11-03 | 2024-02-04 |
+| [Belong](https://open.spotify.com/track/5lPf1wQtNQDq78Y2KvcDZA) | [Pascal & Pearce](https://open.spotify.com/artist/05EUuIFVDSu6ZquGa7wSny), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Belong](https://open.spotify.com/album/59EAaGnlNp2GVjnMB4MeGn) | 3:17 | 2023-11-03 |  |
 | [Best Night of My Life](https://open.spotify.com/track/3oSGH1ibFHx3aCHS4Fk3vV) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Best Night of My Life](https://open.spotify.com/album/4XxDkLqQfNsGHHsiWOTGpB) | 2:34 | 2023-01-16 |  |
 | [Bikini Bottom](https://open.spotify.com/track/0rR7viRrWI8HN2tgfa2ILw) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bikini Bottom](https://open.spotify.com/album/3moo248lwSwzx1I3G7PmVq) | 1:46 | 2022-11-16 | 2023-03-23 |
 | [Born To Be Yours](https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Born To Be Yours](https://open.spotify.com/album/3Nlbg1BHLXDKqQVQ9ErCmg) | 3:13 | 2018-09-24 | 2023-03-23 |

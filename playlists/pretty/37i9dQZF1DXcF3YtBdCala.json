@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Adri\u00e1n Barraza en portada. ",
-  "num_followers": 131207,
+  "num_followers": 131188,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODIyZjFlN2VmMTM5MGFjZGU4ZWE0ZTM2OWNhY2M2ZTNkZDg4OGNj",
+  "snapshot_id": "MCwzOWVkMDIyYjZkMjRhM2E3OGEwYWYwODVlNjI1ODUxYjg0ZDFhZTg0",
   "tracks": [
     {
       "added_at": "2024-01-19 06:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Y Lo Volv\u00ed a Hacer",
-        "url": "https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 179108,
-      "name": "No Lo Pod\u00eda Hacer Mejor",
-      "url": "https://open.spotify.com/track/2aJTy5XK52GzfOMQVTddni"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "El Karma",
         "url": "https://open.spotify.com/album/6C9xQuTD01lOujdRjYYwqx"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 176632,
       "name": "El Karma",
       "url": "https://open.spotify.com/track/6mKQ6QdpAMc7cFrMVCqexx"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Y Lo Volv\u00ed a Hacer",
+        "url": "https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 179108,
+      "name": "No Lo Pod\u00eda Hacer Mejor",
+      "url": "https://open.spotify.com/track/2aJTy5XK52GzfOMQVTddni"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
+        "name": "Y Lo Volv\u00ed a Hacer",
+        "url": "https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 165290,
+      "name": "Como Si No Se Hubiera Ido",
+      "url": "https://open.spotify.com/track/70PSXz2LwViugV9ZPBlZlZ"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
         "name": "Si No Es Muy Tarde (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/4NZmU0T1ixQM0xgh3mI0x8"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 241466,
       "name": "Si No Es Muy Tarde - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/2VmXYSPm82hQ0xotthshnU"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "Y Lo Volv\u00ed a Hacer",
-        "url": "https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 165290,
-      "name": "Como Si No Se Hubiera Ido",
-      "url": "https://open.spotify.com/track/70PSXz2LwViugV9ZPBlZlZ"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
         }
       ],
-      "duration_ms": 177893,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
+      "duration_ms": 157607,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
       },
       "artists": [
         {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 157607,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO"
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Fue Tan Poco Tu Cari\u00f1o",
-        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
+        "name": "Navajas En El Viento",
+        "url": "https://open.spotify.com/album/0u5lLihhLNdPKv67arQ8nN"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 195466,
-      "name": "Fue Tan Poco Tu Cari\u00f1o",
-      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
+      "duration_ms": 225133,
+      "name": "Navajas En El Viento",
+      "url": "https://open.spotify.com/track/70Hvhlm3IleKpNZyA6PdXx"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Navajas En El Viento",
-        "url": "https://open.spotify.com/album/0u5lLihhLNdPKv67arQ8nN"
+        "name": "Fue Tan Poco Tu Cari\u00f1o",
+        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
       },
       "artists": [
         {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 225133,
-      "name": "Navajas En El Viento",
-      "url": "https://open.spotify.com/track/70Hvhlm3IleKpNZyA6PdXx"
+      "duration_ms": 195466,
+      "name": "Fue Tan Poco Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Dime Qu\u00e9 Se Siente",
-        "url": "https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP"
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
         }
       ],
-      "duration_ms": 161373,
-      "name": "Dime Qu\u00e9 Se Siente",
-      "url": "https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS"
+      "duration_ms": 175306,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
+        "name": "Uno De Cuarenta",
+        "url": "https://open.spotify.com/album/3RTG2z5r6pgDpkwFgTiUgu"
       },
       "artists": [
         {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+          "name": "Pablo Montero",
+          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
         }
       ],
-      "duration_ms": 175306,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
+      "duration_ms": 157579,
+      "name": "Uno De Cuarenta",
+      "url": "https://open.spotify.com/track/0N0aOurZf0G4hTndgQ9E5Z"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1263,22 +1263,6 @@
       "duration_ms": 168866,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
-        "name": "Uno De Cuarenta",
-        "url": "https://open.spotify.com/album/3RTG2z5r6pgDpkwFgTiUgu"
-      },
-      "artists": [
-        {
-          "name": "Pablo Montero",
-          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
-        }
-      ],
-      "duration_ms": 157579,
-      "name": "Uno De Cuarenta",
-      "url": "https://open.spotify.com/track/0N0aOurZf0G4hTndgQ9E5Z"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
+        "name": "Dime Qu\u00e9 Se Siente",
+        "url": "https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Dime Qu\u00e9 Se Siente",
+      "url": "https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
         "name": "...Y Lleg\u00f3 Para Quedarse",
         "url": "https://open.spotify.com/album/1CYA2MjGmAUvoNG5rUMYxf"
       },
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "NO HAY NADA M\u00c1S",
-        "url": "https://open.spotify.com/album/06JBns9E0YypUBapj5kuQC"
-      },
-      "artists": [
-        {
-          "name": "ARRIOLA",
-          "url": "https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked"
-        }
-      ],
-      "duration_ms": 150891,
-      "name": "EL CHAPUL\u00cdN",
-      "url": "https://open.spotify.com/track/2Bk7TqMfkc0ihSBapbZKel"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "El Mejor Regalo",
         "url": "https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 163381,
       "name": "El Mejor Regalo",
       "url": "https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "NO HAY NADA M\u00c1S",
+        "url": "https://open.spotify.com/album/06JBns9E0YypUBapj5kuQC"
+      },
+      "artists": [
+        {
+          "name": "ARRIOLA",
+          "url": "https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked"
+        }
+      ],
+      "duration_ms": 150891,
+      "name": "EL CHAPUL\u00cdN",
+      "url": "https://open.spotify.com/track/2Bk7TqMfkc0ihSBapbZKel"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
+        "name": "Por Ti Me Abrazar\u00e9",
+        "url": "https://open.spotify.com/album/5qndP6JceszrhYHRcXwVBp"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        },
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 194604,
+      "name": "Por Ti Me Abrazar\u00e9",
+      "url": "https://open.spotify.com/track/6bvHqGVqf320Sn3bkQcOyp"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
         "name": "Javier Camarena - La Voz de M\u00e9xico",
         "url": "https://open.spotify.com/album/0XGgZddNyq7ueKObEBKpdg"
       },
@@ -1523,22 +1543,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 185781,
-      "name": "Apur\u00e9 Mi Caf\u00e9 - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/543GxK1Fbq64kfhMB4j7Dq"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Ven Porque Te Necesito",
         "url": "https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX"
       },
@@ -1555,22 +1559,18 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Por Ti Me Abrazar\u00e9",
-        "url": "https://open.spotify.com/album/5qndP6JceszrhYHRcXwVBp"
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
       "artists": [
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        },
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 194604,
-      "name": "Por Ti Me Abrazar\u00e9",
-      "url": "https://open.spotify.com/track/6bvHqGVqf320Sn3bkQcOyp"
+      "duration_ms": 185781,
+      "name": "Apur\u00e9 Mi Caf\u00e9 - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/543GxK1Fbq64kfhMB4j7Dq"
     },
     {
       "added_at": "2024-01-19 06:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-01-19 06:00:00",
       "album": {
-        "name": "Otra Cruda",
-        "url": "https://open.spotify.com/album/2EKI28iW0w1uy303XrOZkV"
-      },
-      "artists": [
-        {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Otra Cruda",
-      "url": "https://open.spotify.com/track/3BxKSTYJdszlmMJJF2rlrJ"
-    },
-    {
-      "added_at": "2024-01-19 06:00:00",
-      "album": {
         "name": "Paloma Negra",
         "url": "https://open.spotify.com/album/7jwFjJII2NnVw38p86G9EF"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 278250,
       "name": "Paloma Negra",
       "url": "https://open.spotify.com/track/2zG4Mt4Wfc9XC0NHSBui3E"
+    },
+    {
+      "added_at": "2024-01-19 06:00:00",
+      "album": {
+        "name": "Otra Cruda",
+        "url": "https://open.spotify.com/album/2EKI28iW0w1uy303XrOZkV"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Otra Cruda",
+      "url": "https://open.spotify.com/track/3BxKSTYJdszlmMJJF2rlrJ"
     },
     {
       "added_at": "2024-01-19 06:00:00",

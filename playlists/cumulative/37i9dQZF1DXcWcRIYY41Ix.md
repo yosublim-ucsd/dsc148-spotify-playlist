@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Natalia Lafourcade y Kevin Johansen.
 
-519 songs - 1 day 7 hr 21 min
+520 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Ficción](https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [OTRX](https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly) | 2:55 | 2024-02-02 |  |
 | [Fiebre](https://open.spotify.com/track/0BU7XScRdY1cSfuS6bdeub) | [Andrés Iwasaki](https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj) | [Fiebre](https://open.spotify.com/album/7mdcHlznhmw6mb8Sq4Z9fK) | 3:19 | 2021-12-24 | 2021-12-29 |
 | [FLORECE](https://open.spotify.com/track/3YLaVgfS9HfSpmtDvOwRjk) | [IRIA M](https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa) | [FLORECE](https://open.spotify.com/album/0sNr91K6lSawOWJm3gswSK) | 3:22 | 2022-01-14 | 2022-01-21 |
+| [Florecer](https://open.spotify.com/track/4q8zBK2tiTaVKgzroaITdH) | [Carla Collado](https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S), [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [Florecer](https://open.spotify.com/album/01Xe3VW1jvJEv9rngI9YEI) | 3:37 | 2024-02-02 |  |
 | [Flores Muertas \- Exasperación](https://open.spotify.com/track/1vqms5cN3piIB1VdH0zsfI) | [Emilia y Pablo](https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP) | [Flores Muertas \- Exasperación](https://open.spotify.com/album/40nmbLLwLKedYbZMloYwi5) | 4:24 | 2021-12-24 | 2022-07-24 |
 | [Fluya](https://open.spotify.com/track/428Td36ZF4FyzY6lKrHczS) | [Carranza](https://open.spotify.com/artist/3GxtrZqcvn42ODpJi0EM22) | [Conecta](https://open.spotify.com/album/3lXdJ1Rbh6bDkmEGzHGhyn) | 3:06 | 2021-12-24 | 2022-01-22 |
 | [frío al verte](https://open.spotify.com/track/0a9eIP2YPBqL7vNaoy9RQx) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [frío al verte](https://open.spotify.com/album/5hAepKuo5WYkn0ut6z2Jky) | 2:54 | 2024-01-12 | 2024-02-03 |
@@ -381,7 +382,7 @@
 | [Portarse Bien](https://open.spotify.com/track/1b4wKuDw9JCcAaQff5gc98) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [Tecnología: Colección](https://open.spotify.com/album/1lb23XAYTsS9kmeg39DJGh) | 4:59 | 2023-07-21 | 2023-08-18 |
 | [Prefiero No Decir Nada](https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Fuimos Los Dos](https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd) | 2:17 | 2022-10-28 | 2023-02-18 |
 | [Profecía](https://open.spotify.com/track/1dZcZjX03L5midWLI0XOVV) | [Las Nietas del Charli](https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS) | [Profecía](https://open.spotify.com/album/1QoK9uWN9aQZFBlrmWH4Np) | 2:59 | 2024-01-26 |  |
-| [Propuestas Imposibles](https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Propuestas Imposibles](https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb) | 3:43 | 2021-12-24 |  |
+| [Propuestas Imposibles](https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Propuestas Imposibles](https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb) | 3:43 | 2021-12-24 | 2024-02-04 |
 | [Pulmón](https://open.spotify.com/track/0cawJnGa5dqxVTBakjrfGd) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [Pulmón](https://open.spotify.com/album/5oTyIaIFvkOpeCPU4UJ3cl) | 3:49 | 2022-04-01 | 2022-05-16 |
 | [Punto de No Retorno](https://open.spotify.com/track/5e0YvZ9pN4KJmhxkboPCpp) | [Victoria Lerma](https://open.spotify.com/artist/0k6LayErsqG0p2pgWUmBsF) | [Punto de No Retorno](https://open.spotify.com/album/7FhO2Owgg8bs15TB4vhChh) | 3:33 | 2022-02-04 | 2022-03-12 |
 | [Puntos Equidistantes](https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Puntos Equidistantes](https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D) | 3:47 | 2023-12-01 |  |

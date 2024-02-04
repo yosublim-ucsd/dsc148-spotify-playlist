@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Jinan Laetitia
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,939 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,944 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 21 | [Pangeran](https://open.spotify.com/track/5K80gfz6FDnQtvL8V8xCno) | [Amylea](https://open.spotify.com/artist/0wKBxTlgjMQvntR1t7JhZR) | [Pangeran](https://open.spotify.com/album/1NizhBkON4nuAKniUxmy7T) | 3:56 |
 | 22 | [I Choose U](https://open.spotify.com/track/4LCsmgexfiFAqgNK40FN8N) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [I Choose U](https://open.spotify.com/album/4iXugqQS3ke03i6GnFKTaI) | 3:27 |
 | 23 | [Noktah Epilog Cinta](https://open.spotify.com/track/4UBHKZfRmC1QCrPk9OuoUV) | [FORTEEN](https://open.spotify.com/artist/0HAnGLbEJN7LlLdJgpy6XP), [Izzue Islam](https://open.spotify.com/artist/4Vd6huYuaSZ39EbAVc5HiO) | [Noktah Epilog Cinta](https://open.spotify.com/album/7yE1xTrutcxqZ6gU1AMpR6) | 4:03 |
-| 24 | [Satu Jiwa](https://open.spotify.com/track/0pfupExF7edYP8h1yYKqAK) | [Pay](https://open.spotify.com/artist/3iwIndMecfEbbkg7tYaUq3) | [Satu Jiwa](https://open.spotify.com/album/37Qao5D1bpO5WCFNk06Q5a) | 6:07 |
+| 24 | [Satu Jiwa](https://open.spotify.com/track/0pfupExF7edYP8h1yYKqAK) | [Pay](https://open.spotify.com/artist/0lrV8N2EK53DjfuDtp5QVh) | [Satu Jiwa](https://open.spotify.com/album/37Qao5D1bpO5WCFNk06Q5a) | 6:07 |
 | 25 | [Don't Feel](https://open.spotify.com/track/7n3H1ztzXRBQEj34jF0bCy) | [The Peachskins](https://open.spotify.com/artist/6slLx3tKNbSTpbAkkikwzd) | [Don't Feel](https://open.spotify.com/album/0ToF9PkXCO8pU7x09TKJRg) | 3:38 |
 | 26 | [BY YOUR SIDE](https://open.spotify.com/track/7gG4zvBiCXLSiTi5M6qqhv) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby) | [BY YOUR SIDE](https://open.spotify.com/album/2uuBBXx7DYRQF7jAg06SsT) | 2:41 |
 | 27 | [Passion](https://open.spotify.com/track/2b6OKMa6k6wvsoVk5NtDMa) | [HANISA](https://open.spotify.com/artist/12aAsVqTdYv0Tp3bv3g7xk), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [Passion](https://open.spotify.com/album/0jnnt5REE89oV5E5QrV6Au) | 3:03 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 47 | [terima kasih](https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ) | 3:24 |
 | 48 | [Diri](https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:00 |
 | 49 | [Tega](https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tega](https://open.spotify.com/album/6VbwcSfUBjsGTReD8wTh5Z) | 4:35 |
-| 50 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 |
+| 50 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 |
 
-Snapshot ID: `MCxjYjVmMThiMTE3ZTZkMzg4YWFlYjRmNDExYTQyZGE1NzhlNGY2OGE2`
+Snapshot ID: `MCxjZTFmZjJkY2VhNThlNTVlZTc2YzI3NTM3YzE5Y2VmNWQ1YzU1NTFl`

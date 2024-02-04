@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 1062600,
+  "num_followers": 1062735,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTk2MWY3OThlZGUwNGU4YjRjMTQ0OWFiOTgxNjA0NzU5N2ZlZDlk",
+  "snapshot_id": "MCw1MjMzOWY5MDZjMmE1NDhlMzlhNzU1OTA1YzFhZWI1MjVjMTRmYTRm",
   "tracks": [
     {
       "added_at": "2023-12-18 19:12:30",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Mt. Joy",
         "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 186133,
       "name": "Astrovan",
       "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Carnavas",
-        "url": "https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO"
-      },
-      "artists": [
-        {
-          "name": "Silversun Pickups",
-          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
-        }
-      ],
-      "duration_ms": 354360,
-      "name": "Lazy Eye",
-      "url": "https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Sofa Kings",
         "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Carnavas",
+        "url": "https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "duration_ms": 354360,
+      "name": "Lazy Eye",
+      "url": "https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Days Are Gone",
-        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Everything Else Has Gone Wrong",
         "url": "https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 219893,
       "name": "Eat, Sleep, Wake (Nothing But You)",
       "url": "https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Days Are Gone",
+        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Yoshimi Battles the Pink Robots",
-        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 287506,
-      "name": "Yoshimi Battles the Pink Robots, Pt. 1",
-      "url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Consolers of the Lonely",
         "url": "https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 179973,
       "name": "Salute Your Solution",
       "url": "https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Yoshimi Battles the Pink Robots",
+        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 287506,
+      "name": "Yoshimi Battles the Pink Robots, Pt. 1",
+      "url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 299440,
-      "name": "The Barrel",
-      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Con Law",
         "url": "https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 264813,
       "name": "Missed the Boat",
       "url": "https://open.spotify.com/track/4asjU3sDnn3002bTJIg2vZ"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 299440,
+      "name": "The Barrel",
+      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
     },
     {
       "added_at": "2023-12-18 19:12:30",

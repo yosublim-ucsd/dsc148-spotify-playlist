@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: JAMIE WEBSTER
 
-214 songs - 12 hr 16 min
+215 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Lost Without You](https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Lost Without You](https://open.spotify.com/album/6bjbaKvxQUftREKm8amxOe) | 3:47 | 2023-01-10 | 2024-01-27 |
 | [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 | 2023-12-22 |  |
 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 | 2023-01-10 | 2023-02-03 |
+| [Lovely Day](https://open.spotify.com/track/3OptQsKWA43St7z56bhN1M) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Dylan John Thomas](https://open.spotify.com/album/4o77eiunHdBLE7KguFZA9E) | 3:08 | 2024-02-02 |  |
 | [Lovers Come and Lovers Go](https://open.spotify.com/track/0JWafcuc5QarfXoWSs5MLO) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Lovers Come and Lovers Go](https://open.spotify.com/album/6K7sOJaH3TEsJ764csQ5MS) | 2:39 | 2023-03-13 | 2024-01-27 |
 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 | 2023-03-13 |  |
 | [Lucy](https://open.spotify.com/track/3BUjgjs6DCpu0pYT7PWEr8) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Lucy](https://open.spotify.com/album/3uRlTeGvjVcrNYk1mqJTgf) | 4:20 | 2023-04-18 |  |
@@ -160,7 +161,7 @@
 | [Patsy Decline](https://open.spotify.com/track/5e0X1BgUtlx8930aZ2QWU0) | [RATS](https://open.spotify.com/artist/0xS02ATWv2azbvKGV4Evc0) | [Jenny / Patsy Decline](https://open.spotify.com/album/7iFb0X7ZlAVkeb917gi2CD) | 2:46 | 2023-01-10 | 2024-01-25 |
 | [People Should Know Better](https://open.spotify.com/track/3jB0zfTTSyyQZpKMb53I2f) | [SPINN](https://open.spotify.com/artist/3VRqGLyj4cnRers46I0Yk4) | [Outside Of The Blue](https://open.spotify.com/album/67gfgBg54Xsi0xWtPZmYU4) | 3:15 | 2023-09-19 | 2023-12-22 |
 | [People Should Know Better](https://open.spotify.com/track/4Bpbxr9vcHMeGli1o6kdfP) | [SPINN](https://open.spotify.com/artist/3VRqGLyj4cnRers46I0Yk4) | [Outside Of The Blue](https://open.spotify.com/album/0FF4blsWcpcL8pnUYimqyf) | 3:15 | 2023-01-10 | 2023-08-11 |
-| [PRAWN SOUP](https://open.spotify.com/track/5PEH48ZYmU1Ewx15tFJz6w) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN) | [Prawn Soup](https://open.spotify.com/album/79n2NMO61v0yMwY65V0t9y) | 2:33 | 2023-09-19 |  |
+| [PRAWN SOUP](https://open.spotify.com/track/5PEH48ZYmU1Ewx15tFJz6w) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN) | [Prawn Soup](https://open.spotify.com/album/79n2NMO61v0yMwY65V0t9y) | 2:33 | 2023-09-19 | 2024-02-04 |
 | [Pretend](https://open.spotify.com/track/4JyTqHzS1hrQO62v0mGRep) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Pretend](https://open.spotify.com/album/02h2495vFYmNXvFZlFMavz) | 3:37 | 2023-01-10 | 2023-03-14 |
 | [Propaganda](https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Propaganda](https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr) | 2:26 | 2023-01-10 | 2023-11-21 |
 | [Puppy](https://open.spotify.com/track/6lKPZsX33G9uTJ3mDU3pVB) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Puppy](https://open.spotify.com/album/0qjJwpkIck9Qj5IoGdHnT2) | 3:15 | 2024-01-26 |  |

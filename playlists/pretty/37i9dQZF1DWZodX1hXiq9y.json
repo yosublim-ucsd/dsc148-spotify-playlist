@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 91435,
+  "num_followers": 91557,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTJkNThmNThkMWUzOWZlOWNmOWI5ZjkzMTZjMjgwYjJlNDMzMjdm",
+  "snapshot_id": "MCwwMDc4ZmZhZjMxNDdlZGI4Njg0YzMxYTJlMTBmMDRhZTE1M2NlMzgz",
   "tracks": [
     {
       "added_at": "2024-02-01 09:18:34",
@@ -607,8 +607,8 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "Ben Webster Plays Ballads Remastered",
-        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
         }
       ],
-      "duration_ms": 378784,
-      "name": "Stardust - Remastered",
-      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
+      "duration_ms": 185800,
+      "name": "Don't Get Around Much Any More",
+      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -723,8 +723,8 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+        "name": "Ben Webster Plays Ballads Remastered",
+        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
         }
       ],
-      "duration_ms": 185800,
-      "name": "Don't Get Around Much Any More",
-      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+      "duration_ms": 378784,
+      "name": "Stardust - Remastered",
+      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "Wrapped Tight",
-        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Wrapped Tight",
-      "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
         "name": "The Jazz Giants '56",
         "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 602173,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/1lAoG1TBej7gYJQ3UHUxjT"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
+        "name": "Wrapped Tight",
+        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Wrapped Tight",
+      "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 309253,
+      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
         "name": "Jazz Alive! A Night At The Half Note (Live)",
         "url": "https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 614533,
       "name": "It Had To Be You - Live At The Half Note, NYC, 1959",
       "url": "https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 309253,
-      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+        "name": "You're Driving Me Crazy",
+        "url": "https://open.spotify.com/album/0BE0WOuZalUmHhg76lKup5"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
         }
       ],
-      "duration_ms": 229866,
-      "name": "Pepper Steak",
-      "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
+      "duration_ms": 188226,
+      "name": "Blues in Pig Alley",
+      "url": "https://open.spotify.com/track/0KH7vOWkGMs1IXgrllV20R"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "You're Driving Me Crazy",
-        "url": "https://open.spotify.com/album/0BE0WOuZalUmHhg76lKup5"
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
       },
       "artists": [
         {
-          "name": "Phil Woods",
-          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 188226,
-      "name": "Blues in Pig Alley",
-      "url": "https://open.spotify.com/track/0KH7vOWkGMs1IXgrllV20R"
+      "duration_ms": 229866,
+      "name": "Pepper Steak",
+      "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "On Impulse!",
-        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 417333,
-      "name": "Three Little Words",
-      "url": "https://open.spotify.com/track/6bR6BWEAtfxB6XNbS85Ua0"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
         "name": "Rights Of Swing (Remastered)",
         "url": "https://open.spotify.com/album/3o9hV5EHfdTas5OgNCJ56V"
       },
@@ -1827,6 +1811,42 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
+        "name": "On Impulse!",
+        "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 417333,
+      "name": "Three Little Words",
+      "url": "https://open.spotify.com/track/6bR6BWEAtfxB6XNbS85Ua0"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
+        "name": "Two Of A Mind",
+        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        },
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 395440,
+      "name": "Blight of the Fumble Bee",
+      "url": "https://open.spotify.com/track/7GKJ9q5mCCFhTFEHTjDe9O"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
         "name": "Cliff Craft",
         "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
       },
@@ -1839,22 +1859,6 @@
       "duration_ms": 511093,
       "name": "Soul-Lo Blues - Remastered 1997",
       "url": "https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
-        "name": "Cool Imagination",
-        "url": "https://open.spotify.com/album/4HRKjc0n2Vo2WxRvTbe6UY"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 345240,
-      "name": "That Old Feeling",
-      "url": "https://open.spotify.com/track/3IMc9STtRwcCwT7Nfk9rDa"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -1907,6 +1911,22 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
+        "name": "Cool Imagination",
+        "url": "https://open.spotify.com/album/4HRKjc0n2Vo2WxRvTbe6UY"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 345240,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/3IMc9STtRwcCwT7Nfk9rDa"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
         "name": "Out There (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/2GTMwdiWPXKD6wvKgbolIp"
       },
@@ -1919,22 +1939,6 @@
       "duration_ms": 412720,
       "name": "Out There",
       "url": "https://open.spotify.com/track/7xe7XwmN5t2lF4yULpVYug"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
-        "name": "Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith",
-        "url": "https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp"
-      },
-      "artists": [
-        {
-          "name": "Roland Kirk Quartet",
-          "url": "https://open.spotify.com/artist/0SCzoP5VlkILozXUjaf3Gk"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Once In A While",
-      "url": "https://open.spotify.com/track/4T43EB5BkiOq3XpYB3VPts"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -1955,22 +1959,18 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "Two Of A Mind",
-        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
+        "name": "Rip Rig And Panic / Now Please Don't You Cry Beautiful Edith",
+        "url": "https://open.spotify.com/album/0yAbp9pGErWGyK3g8n0KFp"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        },
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Roland Kirk Quartet",
+          "url": "https://open.spotify.com/artist/0SCzoP5VlkILozXUjaf3Gk"
         }
       ],
-      "duration_ms": 395440,
-      "name": "Blight of the Fumble Bee",
-      "url": "https://open.spotify.com/track/7GKJ9q5mCCFhTFEHTjDe9O"
+      "duration_ms": 238493,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/4T43EB5BkiOq3XpYB3VPts"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "Year Of The Snake",
-        "url": "https://open.spotify.com/album/7qVhLKleQh9hqqUdTtZJSh"
-      },
-      "artists": [
-        {
-          "name": "Fly Trio",
-          "url": "https://open.spotify.com/artist/7ygwEivK0GOVKlrtEPK1y7"
-        }
-      ],
-      "duration_ms": 304733,
-      "name": "Salt And Pepper",
-      "url": "https://open.spotify.com/track/1FISZKmm2qIIbh5dZttoFi"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
         "name": "David Liebman Quartet / Quintet Live",
         "url": "https://open.spotify.com/album/43gMWHr1qI8I4QXXRxADoz"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 799425,
       "name": "The Last Train",
       "url": "https://open.spotify.com/track/5H1HQb0Sma4TVuFbKDRQWO"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
+        "name": "Year Of The Snake",
+        "url": "https://open.spotify.com/album/7qVhLKleQh9hqqUdTtZJSh"
+      },
+      "artists": [
+        {
+          "name": "Fly Trio",
+          "url": "https://open.spotify.com/artist/7ygwEivK0GOVKlrtEPK1y7"
+        }
+      ],
+      "duration_ms": 304733,
+      "name": "Salt And Pepper",
+      "url": "https://open.spotify.com/track/1FISZKmm2qIIbh5dZttoFi"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "Moving In",
-        "url": "https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 463640,
-      "name": "The Forest",
-      "url": "https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
         "name": "Rhythm In Mind (The Carnegie Project)",
         "url": "https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 549520,
       "name": "Zec",
       "url": "https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
+        "name": "Moving In",
+        "url": "https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 463640,
+      "name": "The Forest",
+      "url": "https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -2295,6 +2295,22 @@
       "duration_ms": 223960,
       "name": "A Side Order of Hijiki",
       "url": "https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
+        "name": "Escaping Shadows",
+        "url": "https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW"
+      },
+      "artists": [
+        {
+          "name": "Benny Reid",
+          "url": "https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "New Days",
+      "url": "https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -2335,22 +2351,6 @@
       "duration_ms": 315520,
       "name": "Nigeria",
       "url": "https://open.spotify.com/track/0p9mkM9GtASH9tF73Qo5H3"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
-        "name": "Escaping Shadows",
-        "url": "https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW"
-      },
-      "artists": [
-        {
-          "name": "Benny Reid",
-          "url": "https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "New Days",
-      "url": "https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -2403,18 +2403,22 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "The Sirens",
-        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
+        "name": "Yun Kan 12345",
+        "url": "https://open.spotify.com/album/0oaZ1uYPkqx6Zm3KHvLsN5"
       },
       "artists": [
         {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+          "name": "Fredrik Ljungkvist",
+          "url": "https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w"
+        },
+        {
+          "name": "Yun Kan 5",
+          "url": "https://open.spotify.com/artist/0q6wWSnM3PoDwYAmgUBCOW"
         }
       ],
-      "duration_ms": 504266,
-      "name": "Kalypso",
-      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
+      "duration_ms": 410373,
+      "name": "Abraxas",
+      "url": "https://open.spotify.com/track/4TLC5QFrgt4STktauA5G68"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -2435,22 +2439,18 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "Yun Kan 12345",
-        "url": "https://open.spotify.com/album/0oaZ1uYPkqx6Zm3KHvLsN5"
+        "name": "The Sirens",
+        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
       },
       "artists": [
         {
-          "name": "Fredrik Ljungkvist",
-          "url": "https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w"
-        },
-        {
-          "name": "Yun Kan 5",
-          "url": "https://open.spotify.com/artist/0q6wWSnM3PoDwYAmgUBCOW"
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
         }
       ],
-      "duration_ms": 410373,
-      "name": "Abraxas",
-      "url": "https://open.spotify.com/track/4TLC5QFrgt4STktauA5G68"
+      "duration_ms": 504266,
+      "name": "Kalypso",
+      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
     },
     {
       "added_at": "2024-02-01 09:18:34",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2024-02-01 09:18:34",
       "album": {
-        "name": "Lenox Avenue Breakdown",
-        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
-      },
-      "artists": [
-        {
-          "name": "Arthur Blythe",
-          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
-        }
-      ],
-      "duration_ms": 578880,
-      "name": "Slidin' Through",
-      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
-    },
-    {
-      "added_at": "2024-02-01 09:18:34",
-      "album": {
         "name": "On This Night",
         "url": "https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 447466,
       "name": "The Mac Man",
       "url": "https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t"
+    },
+    {
+      "added_at": "2024-02-01 09:18:34",
+      "album": {
+        "name": "Lenox Avenue Breakdown",
+        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
+      },
+      "artists": [
+        {
+          "name": "Arthur Blythe",
+          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
+        }
+      ],
+      "duration_ms": 578880,
+      "name": "Slidin' Through",
+      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
     },
     {
       "added_at": "2024-02-01 09:18:34",

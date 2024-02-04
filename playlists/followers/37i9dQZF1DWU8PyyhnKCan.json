@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 12720,
+  "2024-02-04": 12729,
   "date_first_scraped": "2022-12-01",
   "description": "Best VOCALOID Songs in 2023! 2023\u5e74\u306e<a href=\"https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU?si=eeff84f267c74f49\">\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f</a>\u7dcf\u307e\u3068\u3081\uff01\u4eca\u5e74\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f\u3067\u518d\u751f\u3055\u308c\u305f\u697d\u66f2\u5225\u30d9\u30b9\u30c8100 ! <a href=\"https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag_click\">#Spotify\u307e\u3068\u3081</a> cover: Kanaria",
   "name": "Best of VOCALOID 2023",
@@ -2083,7 +2083,7 @@
     {
       "album": {
         "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q"
+        "url": "https://open.spotify.com/album/7gxXuvmdsCaoM4Li1GR9gB"
       },
       "artists": [
         {
@@ -2094,6 +2094,24 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 223400,
+      "name": "\u4e59\u5973\u89e3\u5256",
+      "url": "https://open.spotify.com/track/1otg7FUDBkXTWGjputlbxR"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-03",
       "duration_ms": 223400,
       "name": "\u4e59\u5973\u89e3\u5256",
       "url": "https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ"

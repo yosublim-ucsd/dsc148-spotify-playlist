@@ -1,12 +1,12 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1070368,
+  "num_followers": 1070249,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjQ0MjViNjgzOTM1NjNkNWMxNGFjZWE1YjE2MTVmMjZmNWUzNjg3",
+  "snapshot_id": "MCxjYTdiZDY4NDZlMTBhNjdjMzQwZTFlZDVkNjYxYzEzMWYzMTQ2OGU2",
   "tracks": [
     {
       "added_at": "2022-02-25 03:00:00",
@@ -183,26 +183,6 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
-        }
-      ],
-      "duration_ms": 220454,
-      "name": "Glorious (feat. Skylar Grey)",
-      "url": "https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 193000,
       "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
       "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "duration_ms": 220454,
+      "name": "Glorious (feat. Skylar Grey)",
+      "url": "https://open.spotify.com/track/0CokSRCu5hZgPxcZBaEzVE"
     },
     {
       "added_at": "2022-02-25 03:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "duration_ms": 161322,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 204664,
       "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
       "url": "https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        }
-      ],
-      "duration_ms": 161322,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
     },
     {
       "added_at": "2022-02-25 03:00:00",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-786 songs - 1 day 22 hr 31 min
+787 songs - 1 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [I DO](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I DO](https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN) | 3:10 | 2023-07-15 | 2023-07-22 |
 | [i don't smoke & i don't drink](https://open.spotify.com/track/2BQIL0U5QdqK17n5o8KZB1) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [i don't smoke & i don't drink](https://open.spotify.com/album/3p2buXwB34FSSt8c7PJxc4) | 2:50 | 2022-03-24 | 2022-08-18 |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2021-11-21 | 2021-11-26 |
+| [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 | 2024-02-03 |  |
 | [I Know \(feat\. AGA\)](https://open.spotify.com/track/35bTq9CeIvJQTKrPuSoDv8) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D), [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [I Know \(feat\. AGA\)](https://open.spotify.com/album/1LaIUEunRC8X3f5dxnHDtm) | 3:39 | 2021-12-18 | 2022-07-10 |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-05 | 2022-08-04 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-09-27 | 2022-10-16 |
@@ -635,7 +636,7 @@
 | [擁抱後的歌](https://open.spotify.com/track/3Frg7nyANyCvDpbyaOxtdf) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [擁抱後的歌](https://open.spotify.com/album/2vHgMiFnp2RvlIogHnIzfz) | 3:38 | 2023-07-25 |  |
 | [擱淺](https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 3:56 | 2023-05-07 | 2023-05-27 |
 | [攀上天梯的螞蟻 \(電影 《過時.過節》主題曲\)](https://open.spotify.com/track/2Z0nzG4jTLJCTx69vvrLCb) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [攀上天梯的螞蟻 \(電影 《過時.過節》主題曲\)](https://open.spotify.com/album/63uXlV6CWOZGDhf7SRTMzA) | 4:23 | 2022-11-13 | 2022-12-08 |
-| [救命稻草](https://open.spotify.com/track/4WBNWQZR2TCDanKIg95gpT) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [救命稻草](https://open.spotify.com/album/5OlvQy8lBirp1AiU1ce8u7) | 4:21 | 2023-11-10 |  |
+| [救命稻草](https://open.spotify.com/track/4WBNWQZR2TCDanKIg95gpT) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [救命稻草](https://open.spotify.com/album/5OlvQy8lBirp1AiU1ce8u7) | 4:21 | 2023-11-10 | 2024-02-04 |
 | [日出時讓街燈安睡 \(feat\. Jacky Cheung 張學友\)](https://open.spotify.com/track/1JUBwmyI8NXHwGO0SygEC3) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1), [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [日出時讓街燈安睡](https://open.spotify.com/album/6ObjdJaVenfMHwA8EYu7Za) | 4:16 | 2021-09-15 | 2021-10-08 |
 | [明年見 \- Duet Version](https://open.spotify.com/track/1SvgBClOuipapA4pPgToDW) | [ONE PROMISE](https://open.spotify.com/artist/3GwQM8FuFMkdHSPu4qvKli), [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [明年見 \(Duet Version\)](https://open.spotify.com/album/5P1ROMSpZ92Y5l19RrIv9g) | 3:45 | 2021-04-21 | 2021-07-25 |
 | [春夏秋冬](https://open.spotify.com/track/0mYTwy2yY2vI2ruJzoTe9X) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [Forever Leslie](https://open.spotify.com/album/2FTDSvJfBSyQX4rPdCaTwz) | 4:06 | 2021-04-03 | 2021-04-04 |

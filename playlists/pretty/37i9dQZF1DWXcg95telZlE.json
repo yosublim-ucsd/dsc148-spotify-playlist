@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 341923,
+  "num_followers": 342079,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWZkNmM2OTg0MmE2NDU1MGZmNmFkY2YzOWI4M2NkZTMyOWY1NzRj",
+  "snapshot_id": "MCw4Y2JiM2UyMjE4YWMyYWJhOGNjZTM0NTRmNDgyNDQ4OTU3YWNmMTlh",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "Mr. Lonely",
-      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Ricky Nelson (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 153933,
       "name": "Poor Little Fool - Remastered",
       "url": "https://open.spotify.com/track/5ayybTSXNwcarDtxQKqvWX"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Born Too Late",
+        "url": "https://open.spotify.com/album/3TnMW3EicWwdyFAze9Y0og"
+      },
+      "artists": [
+        {
+          "name": "The Poni-Tails",
+          "url": "https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN"
+        }
+      ],
+      "duration_ms": 139013,
+      "name": "Born Too Late",
+      "url": "https://open.spotify.com/track/3ZyJfbh2Y9y15f45qY1pDJ"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 280000,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Born Too Late",
-        "url": "https://open.spotify.com/album/3TnMW3EicWwdyFAze9Y0og"
-      },
-      "artists": [
-        {
-          "name": "The Poni-Tails",
-          "url": "https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN"
-        }
-      ],
-      "duration_ms": 139013,
-      "name": "Born Too Late",
-      "url": "https://open.spotify.com/track/3ZyJfbh2Y9y15f45qY1pDJ"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Rock with Sedaka (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "You Mean Everything to Me",
-      "url": "https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "The Skyliners",
         "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 158840,
       "name": "Since I Don't Have You (Alternative Take)",
       "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Rock with Sedaka (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "You Mean Everything to Me",
+      "url": "https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Sarah Vaughan Sings George Gershwin",
-        "url": "https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 246161,
-      "name": "I've Got A Crush On You",
-      "url": "https://open.spotify.com/track/6f4Zazr4tHJ8iekdSwbBpT"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Presenting Marilyn Monroe",
         "url": "https://open.spotify.com/album/7Hw28V8PQSnZRO9H5NxRjb"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 133520,
       "name": "River of No Return",
       "url": "https://open.spotify.com/track/6B9SSmR5pQ8goIU8lCf7Lz"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Sarah Vaughan Sings George Gershwin",
+        "url": "https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 246161,
+      "name": "I've Got A Crush On You",
+      "url": "https://open.spotify.com/track/6f4Zazr4tHJ8iekdSwbBpT"
     },
     {
       "added_at": "2022-05-30 12:59:00",

@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 332154,
+  "num_followers": 332237,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzE4NmJlMWIzZmMwYmM3YWQxZDQwZDI1ODNlOGI2YmM0ODIzZmY3",
+  "snapshot_id": "MCxhNGE2MzQ0MDhjYjNkYzBkYTkwNGFiMmNjNTk3Y2YxMzhkZmY2MjNj",
   "tracks": [
     {
       "added_at": "2023-12-01 11:00:00",
@@ -171,18 +171,22 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "One In A Million",
-        "url": "https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f"
+        "name": "Boots",
+        "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
       },
       "artists": [
         {
-          "name": "LANN\u00c9",
-          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+          "name": "TMW",
+          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
+        },
+        {
+          "name": "BE.TH",
+          "url": "https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF"
         }
       ],
-      "duration_ms": 128951,
-      "name": "One In A Million",
-      "url": "https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw"
+      "duration_ms": 161000,
+      "name": "Boots",
+      "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -207,22 +211,18 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Boots",
-        "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
+        "name": "One In A Million",
+        "url": "https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f"
       },
       "artists": [
         {
-          "name": "TMW",
-          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
-        },
-        {
-          "name": "BE.TH",
-          "url": "https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF"
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
         }
       ],
-      "duration_ms": 161000,
-      "name": "Boots",
-      "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
+      "duration_ms": 128951,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -247,22 +247,18 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
+        "name": "Slap House Party",
+        "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
       },
       "artists": [
         {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Hook N Sling",
-          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
         }
       ],
-      "duration_ms": 160849,
-      "name": "Afterparty",
-      "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
+      "duration_ms": 165428,
+      "name": "Drunk in Love",
+      "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
     },
     {
       "added_at": "2023-12-01 11:00:00",
@@ -287,18 +283,22 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Slap House Party",
-        "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
       },
       "artists": [
         {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
         }
       ],
-      "duration_ms": 165428,
-      "name": "Drunk in Love",
-      "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
+      "duration_ms": 160849,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
     },
     {
       "added_at": "2023-12-01 11:00:00",

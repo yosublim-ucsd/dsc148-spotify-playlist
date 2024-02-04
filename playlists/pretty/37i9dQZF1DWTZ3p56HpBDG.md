@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: Jonita Gandhi, Ali Sethi
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,100 likes - 52 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,117 likes - 52 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 51 | [Jini](https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Jini](https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u) | 2:02 |
 | 52 | [Beautiful](https://open.spotify.com/track/6bkSlqDEou4Juvkz4vivQ6) | [Muza](https://open.spotify.com/artist/79jA5f2Sa3pgRT0ZTtYplo), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Beautiful](https://open.spotify.com/album/2QSnKAK5bBtLHtOqtmJbwC) | 4:01 |
 
-Snapshot ID: `MCwzOTQ4ZTFlYzkyYzQwZTdlODhiYTllMjFhOGVkNGY0MTZiMWQwNzUw`
+Snapshot ID: `MCxjMzZkYmNiMzg0NzgxOWQxMzEzNmU4NWQ2NjQwOGVjZTAyMGNkZWYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  Sarkodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,814 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,836 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 7 | [Abronoma](https://open.spotify.com/track/6ilwDSiCw5N9108ykDjvf1) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Abronoma](https://open.spotify.com/album/5wkgLP3g2t87ag2ZcNolpO) | 3:23 |
 | 8 | [Presidential Flow](https://open.spotify.com/track/0T7RP4RexQAzcJEH3zEmun) | [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Presidential Flow](https://open.spotify.com/album/75BOIUImVfqmTO0Nc1ZVnP) | 2:55 |
 | 9 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 |
-| 10 | [Zongo](https://open.spotify.com/track/5snX4aH3FyF3sAdoUJFJfc) | [Dj Adwoa](https://open.spotify.com/artist/3JfFJpaSpXYHQKivBzJhZ1), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Sasco Gh](https://open.spotify.com/artist/3d4sCBA9tFXhzzA7nUDYKT) | [Zongo](https://open.spotify.com/album/3WPdsRkKEDmgwp2qmwkXjV) | 3:10 |
+| 10 | [Zongo](https://open.spotify.com/track/5snX4aH3FyF3sAdoUJFJfc) | [Dj Adwoa](https://open.spotify.com/artist/3JfFJpaSpXYHQKivBzJhZ1), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Sasco Gh](https://open.spotify.com/artist/3d4sCBA9tFXhzzA7nUDYKT) | [Zongo](https://open.spotify.com/album/3WPdsRkKEDmgwp2qmwkXjV) | 3:10 |
 | 11 | [Oh Ma Linda](https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Most High](https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5) | 2:56 |
 | 12 | [OH NO](https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [OH NO](https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd) | 2:33 |
 | 13 | [Sa Me](https://open.spotify.com/track/0JHLFj7g5S6PVL0sBl7mxR) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/02D9f4yJWVjTViNDyXzgMj) | 2:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 69 | [Business](https://open.spotify.com/track/12nwov2pJwGWo46edmeMha) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Business](https://open.spotify.com/album/0OUfH78gM0AI6ey3moKq1S) | 2:38 |
 | 70 | [Afrafranto](https://open.spotify.com/track/4Nr8zmrAdnJBnFs4CpMxnr) | [Limuel](https://open.spotify.com/artist/3NBnMiLgFDVmRmPEFTaWT8) | [Afrafranto](https://open.spotify.com/album/6eaqs8ArRnHL7kpSeqj4mK) | 3:21 |
 
-Snapshot ID: `MCwzODk2ZTBkMWMxZDY5NjNkYjIxYThiYmY2MTNlNjExMmUxOTI0ZTIy`
+Snapshot ID: `MCw2NmQ5OGFlMTJkNTdmYmFhMmIxMWY3NGY2ZGMxYWQ1MmFhOTA5NTE5`

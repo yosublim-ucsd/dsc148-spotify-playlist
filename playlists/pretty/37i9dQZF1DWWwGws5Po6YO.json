@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 33731,
+  "num_followers": 33745,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2M0ZDM4ZDhlNjU2MDBjOGIwYjk5ZWRjMmY4ZTg3ZWFlMDhkZmFk",
+  "snapshot_id": "MCxhMjg1N2VkZTI1Mzk4Mzk0MThjYTFhNTk3MDFlZjYyN2E1OGJiODEx",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:07",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+        "name": "outside of your lifetime",
+        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
       },
       "artists": [
         {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
         }
       ],
-      "duration_ms": 447000,
-      "name": "25\u00b0C",
-      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
+      "duration_ms": 121000,
+      "name": "Withdrawal",
+      "url": "https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "outside of your lifetime",
-        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
       "artists": [
         {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
         }
       ],
-      "duration_ms": 121000,
-      "name": "Withdrawal",
-      "url": "https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6"
+      "duration_ms": 447000,
+      "name": "25\u00b0C",
+      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Antiphonals",
+        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 394863,
+      "name": "Rushes Recede",
+      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "Deep Listening",
         "url": "https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 1496133,
       "name": "Lear",
       "url": "https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Antiphonals",
-        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 394863,
-      "name": "Rushes Recede",
-      "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 468000,
-      "name": "Long Dizzying Air Through A Balcony Door",
-      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Holotropica",
         "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 468000,
+      "name": "Long Dizzying Air Through A Balcony Door",
+      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "Kali",
         "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 400000,
       "name": "Kali",
       "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Selected Works Preview",
+        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 381496,
+      "name": "Composition Of Flowers (Excerpt)",
+      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1023,22 +1039,6 @@
       "duration_ms": 446000,
       "name": "Mountain of Air",
       "url": "https://open.spotify.com/track/5yMNNTsImr64llPwqtB6p4"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Selected Works Preview",
-        "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 381496,
-      "name": "Composition Of Flowers (Excerpt)",
-      "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Possessed (Original Score)",
-        "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
-      },
-      "artists": [
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        }
-      ],
-      "duration_ms": 387268,
-      "name": "Hyphae",
-      "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Collagen",
         "url": "https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 321693,
       "name": "In Her Hair",
       "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Possessed (Original Score)",
+        "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "duration_ms": 387268,
+      "name": "Hyphae",
+      "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Evensong: Canticles for the Earth",
-        "url": "https://open.spotify.com/album/1icSVeUwGqXdwVMCjO2D5z"
-      },
-      "artists": [
-        {
-          "name": "Meg Bowles",
-          "url": "https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW"
-        }
-      ],
-      "duration_ms": 351493,
-      "name": "Berceuse for a Star Child",
-      "url": "https://open.spotify.com/track/2fDzwhRSzke7JwvDAFSa7G"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Chain Reaction at Dusk",
         "url": "https://open.spotify.com/album/5ZHQ26B7GrALEvdtx2fymP"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 448119,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/1OqQpPHXWlfEZDEwHH1BFa"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Evensong: Canticles for the Earth",
+        "url": "https://open.spotify.com/album/1icSVeUwGqXdwVMCjO2D5z"
+      },
+      "artists": [
+        {
+          "name": "Meg Bowles",
+          "url": "https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW"
+        }
+      ],
+      "duration_ms": 351493,
+      "name": "Berceuse for a Star Child",
+      "url": "https://open.spotify.com/track/2fDzwhRSzke7JwvDAFSa7G"
     },
     {
       "added_at": "2023-09-08 14:04:07",

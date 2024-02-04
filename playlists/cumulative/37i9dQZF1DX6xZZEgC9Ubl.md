@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: The Kid LAROI
 
-918 songs - 1 day 17 hr 38 min
+919 songs - 1 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,7 +669,8 @@
 | [Safe Zone](https://open.spotify.com/track/6JzZwGyrjWIAZrVoAjSMw2) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Safe Zone](https://open.spotify.com/album/0oYq4KPQO3VBWQpNF8eI4a) | 2:35 | 2021-01-15 | 2021-04-24 |
 | [Salt](https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:43 | 2022-10-07 | 2023-09-02 |
 | [Salt](https://open.spotify.com/track/6zYuVQdkZNbeqx5UMmoAOH) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Salt](https://open.spotify.com/album/6ups5M7odd5WAoRPBa6QVk) | 2:45 | 2022-05-27 | 2022-09-17 |
-| [Same Room](https://open.spotify.com/track/6cUwBCnf5yiBkUwExpcni2) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Same Room](https://open.spotify.com/album/5YkVPpSWxikAxEn48uU6Mp) | 3:22 | 2022-05-13 |  |
+| [Same Room](https://open.spotify.com/track/6cUwBCnf5yiBkUwExpcni2) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Same Room](https://open.spotify.com/album/5YkVPpSWxikAxEn48uU6Mp) | 3:22 | 2022-05-13 | 2024-02-04 |
+| [Same Room](https://open.spotify.com/track/7JKcsNXSjFVKtA6YT7BNGZ) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/1G0VH29venEyfSgCtMddwo) | 3:22 | 2024-02-02 |  |
 | [Sarcoma](https://open.spotify.com/track/6gTbAJOvivFXwkOEhSIOtS) | [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [The Two of Us Are Dying](https://open.spotify.com/album/6vEqNDFYyv3rakykPzpYwu) | 2:14 | 2022-07-22 |  |
 | [Saturn](https://open.spotify.com/track/1a9rOeuuSEYpyRupt4D1Po) | [6 Dogs](https://open.spotify.com/artist/3Ps6le7tj5BdNtdnfNgTU4) | [Saturn](https://open.spotify.com/album/5RfXww7Xb62g8KlCdXPIoI) | 1:36 | 2021-01-27 | 2021-03-26 |
 | [Save Me](https://open.spotify.com/track/0n9OEnwslUYp35GIPC4gV3) | [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG), [7ru7h](https://open.spotify.com/artist/5WnlPOcTodnSWDtjnrjmzv) | [Save Me](https://open.spotify.com/album/2dgQA8Ugkyp9ou9K0dHz2t) | 2:52 | 2021-01-26 | 2022-04-21 |

@@ -8660,7 +8660,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 143802,
       "name": "Ora Domani",
       "url": "https://open.spotify.com/track/3Hd21AmIE6MLzBR3C2lzdm"
@@ -12164,6 +12164,24 @@
       "duration_ms": 182949,
       "name": "Tout, sauf mon ombre",
       "url": "https://open.spotify.com/track/18gxWtwvPc7BtLfcL52K9i"
+    },
+    {
+      "album": {
+        "name": "Tranquil Landscape",
+        "url": "https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta"
+      },
+      "artists": [
+        {
+          "name": "Ametrine Skies",
+          "url": "https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Tranquil Landscape",
+      "url": "https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189,338 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,347 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 11 | [Breezy](https://open.spotify.com/track/3l9Aqy9iid5NgeabqYiCW7) | [Kenny Muney](https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX) | [Breezy](https://open.spotify.com/album/4ahIzihsE2ZraXUOHtD8k5) | 2:22 |
 | 12 | [Sundown \(feat\. JID\)](https://open.spotify.com/track/0peWrHmZmYS4D77vJJDMhJ) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Sundown \(feat\. JID\)](https://open.spotify.com/album/3Bhw6mGopsWHhS4OlCGDe3) | 2:37 |
 | 13 | [100+ \(feat\. Lil Baby\)](https://open.spotify.com/track/6NJYGSDR7I0Bz7NlUhmlxE) | [Young Shiners](https://open.spotify.com/artist/3j8KnvnrydBHrj5y4BblMp), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [EST Marti](https://open.spotify.com/artist/5DZRcxS14ntEBa4mAJkikV), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Shiners Are Forever](https://open.spotify.com/album/15xQHdl4XG9vWf7dU48IBX) | 2:59 |
-| 14 | [Right Now \(feat\. Bossman Dlow\)](https://open.spotify.com/track/49jjnR1W3KVX3SHHM1GHOR) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Lil Wet](https://open.spotify.com/artist/71EPXRgyizFZBe54AlzCSn), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Right Now \(feat\. Bossman Dlow\)](https://open.spotify.com/album/154BzHnwn19x9GlItFYoqU) | 3:24 |
+| 14 | [Right Now \(feat\. Bossman Dlow & Lil Wet\)](https://open.spotify.com/track/49jjnR1W3KVX3SHHM1GHOR) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Lil Wet](https://open.spotify.com/artist/71EPXRgyizFZBe54AlzCSn) | [Right Now \(feat\. Bossman Dlow & Lil Wet\)](https://open.spotify.com/album/154BzHnwn19x9GlItFYoqU) | 3:24 |
 | 15 | [SpinDatBac](https://open.spotify.com/track/1WzuY075zswuk0pgMNrqCT) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [SpinDatBac](https://open.spotify.com/album/1FSxhiCNZgovaqCQnlnHbX) | 2:35 |
 | 16 | [Bubba Man](https://open.spotify.com/track/03Z1yhSewsReSk6a5GBZOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Welcome To Bubba Land](https://open.spotify.com/album/2gxWI53PddwWddJQyrII3h) | 2:28 |
 | 17 | [Convos with the Dead](https://open.spotify.com/track/6HjOnFtuHx7VBEJ67ZUBF1) | [Getrichzay](https://open.spotify.com/artist/01sRAlXLyCWV87EKztPMz6), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Convos with the Dead](https://open.spotify.com/album/7gec7ApOzaWqaxEUl8pxTq) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Swing My Doe \(feat\. BiC Fizzle\)](https://open.spotify.com/track/4ZTbRGeqWhzv4T5gjcyoJE) | [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [Swing My Doe \(feat\. BiC Fizzle\)](https://open.spotify.com/album/5eCGSttMU2qvrL9iisj4Zm) | 2:38 |
 | 100 | [Get Lucki](https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger \(Deluxe Edition\)](https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn) | 2:59 |
 
-Snapshot ID: `MCxlMGQ1NTMwNGU2NDY1NDdkMzkyOTA0MDFjM2FmOGMxM2QxNjUxOTFi`
+Snapshot ID: `MCwzNzg3MDk3MWM0ZTQ5MjM4NjVkODRlZWIxMzhhYjQ5OTk3YWMyNmRl`

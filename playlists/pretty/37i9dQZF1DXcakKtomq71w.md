@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,562 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,580 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Desconocidos](https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Argia](https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4) | [Desconocidos](https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade) | 5:22 |
 | 2 | [The Veil](https://open.spotify.com/track/4sXNEwBs1f7scjkmwy5J0u) | [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [The Veil](https://open.spotify.com/album/3q0jrW1dv7O5qSjrIr9mMS) | 4:11 |
-| 3 | [Delakufa](https://open.spotify.com/track/6Ipr0DdH8VnsxjlBEmbFcB) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Delakufa](https://open.spotify.com/album/20aEmw9ZXPhddycV490ObL) | 3:26 |
+| 3 | [Delakufa](https://open.spotify.com/track/6Ipr0DdH8VnsxjlBEmbFcB) | [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Delakufa](https://open.spotify.com/album/20aEmw9ZXPhddycV490ObL) | 3:26 |
 | 4 | [Beso \(Fruta Fresca\)](https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Beso \(Fruta Fresca\)](https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV) | 3:17 |
 | 5 | [Historia De Un Amor](https://open.spotify.com/track/0Ftna4jjTEiXBgN7TydtqK) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Historia De Un Amor](https://open.spotify.com/album/7xDHGRg5PuEyiD38LrcVzN) | 4:20 |
 | 6 | [De Anda \- Bonus Track](https://open.spotify.com/track/7sjk5iceNdb0w5ev1H42VM) | [Chez Tropics](https://open.spotify.com/artist/1ipLoOAM6e3zqbqUeDPpbs) | [De Anda \(Bonus Track\)](https://open.spotify.com/album/3ib0JUHDDEyfrdD2tUygfL) | 4:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 49 | [Ay Ay](https://open.spotify.com/track/4uEK01LoXTEbZZe7CBWYIz) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [Ay Ay](https://open.spotify.com/album/3loKmWn8CS98SJ9fYvTSDM) | 5:16 |
 | 50 | [Libertad](https://open.spotify.com/track/717rz2nyFu8hXlN2UmbjY2) | [Murmusica](https://open.spotify.com/artist/7jdrU9OQr55FHQVztoanvY), [TAI](https://open.spotify.com/artist/6PNofY2OXuhLu0R8stkGLh), [Tolga Bilgin](https://open.spotify.com/artist/2n0mROXhyTtUEk8cb8Fyck) | [Libertad](https://open.spotify.com/album/1nH5x8lJWoCtWUTD7gnjd7) | 6:04 |
 
-Snapshot ID: `MCxmMmY3MTk1NWFjZjNmZTM1MTY4ZWJiNjZkNmQ1MzczYzhiMjlkYWQz`
+Snapshot ID: `MCwwZTY1ZGIxMzAwZGFmNDc1Y2MwYzBmZmI0ZTQzNDQzNDdlYTlhNTVj`

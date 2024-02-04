@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。あいみょん, USHER, Daniel Ceasar, Billy Joel and more! Cover: あいみょん
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,355 likes - 67 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,363 likes - 67 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 58 | [We are Stars](https://open.spotify.com/track/2LXpZf7U9G8cbyeIveH0D0) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [We are Stars](https://open.spotify.com/album/49EQIoTtn7img0wUDcnUNh) | 3:15 |
 | 59 | [Sweet Romance](https://open.spotify.com/track/1JkN3wOaw4lv8xAo9TC938) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [raychel jay](https://open.spotify.com/artist/7zjhhasa5SAMXbDcbmhkoj) | [Sweet Romance](https://open.spotify.com/album/1iqRA83gRxVje7uTuQSyIx) | 3:04 |
 | 60 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 |
-| 61 | [WEATHERTEC](https://open.spotify.com/track/0bfQxDoay4S828CTlELHLr) | [Tha Jointz](https://open.spotify.com/artist/0J7djFMwBhnbgAN11Gggvg), [GOTU](https://open.spotify.com/artist/14UuKo9McStiWxcOOPvczh), [JNK](https://open.spotify.com/artist/7HYvkJOGJLSVOsyIxCJ4lY), [MFS](https://open.spotify.com/artist/5qH4hGRUWoLtBVgMD0alcb), [JASS](https://open.spotify.com/artist/4c25QyMjYv7MSQV24Qhofv), [WELL\-DONE](https://open.spotify.com/artist/5pBvGEECNZdaPCXcZGe8hQ), [KOH](https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb) | [WEATHERTEC](https://open.spotify.com/album/5danpSUvfdLUQuEGEQszrD) | 2:46 |
+| 61 | [WEATHERTEC](https://open.spotify.com/track/3nMGzAkZ2ICWyILMH4nTSQ) | [Tha Jointz](https://open.spotify.com/artist/0J7djFMwBhnbgAN11Gggvg), [GOTU](https://open.spotify.com/artist/14UuKo9McStiWxcOOPvczh), [JNK](https://open.spotify.com/artist/7HYvkJOGJLSVOsyIxCJ4lY), [MFS](https://open.spotify.com/artist/5qH4hGRUWoLtBVgMD0alcb), [JASS](https://open.spotify.com/artist/5PYaF7q6SqPMfWFqiFSHNw), [WELL\-DONE](https://open.spotify.com/artist/5pBvGEECNZdaPCXcZGe8hQ), [KOH](https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb) | [WEATHERTEC](https://open.spotify.com/album/0UCZdQLgbX3E7XoZ63kJEV) | 2:46 |
 | 62 | [Dopamine Detox](https://open.spotify.com/track/1L1EKS4V4fXLuXfOduyZ9t) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [This Is A Reminder That You Are Not Behind Your Face](https://open.spotify.com/album/3VcbVj4rqE1ICcd14Hp3La) | 3:06 |
 | 63 | [Do or Die \(ft\. DPR IAN\)](https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo) | [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ), [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [KINEMA](https://open.spotify.com/album/5bikiolrxKPQiFfPt7bdv8) | 3:34 |
 | 64 | [Ape Shit](https://open.spotify.com/track/0n0gpo87pFPzXMbQ4l3laH) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [Ape Shit](https://open.spotify.com/album/2XIvEKG4tudF3cQKreQr7d) | 3:08 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 66 | [RED BEANIE](https://open.spotify.com/track/6I37Ah6683XO8YS69rcoXy) | [高岩 遼](https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd) | [RED BEANIE](https://open.spotify.com/album/2s5qxdJRT2nqikoCVTMGLw) | 2:41 |
 | 67 | [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 |
 
-Snapshot ID: `MCw0NzdlODhhMzY5YzM2MDcyMzAzOWZlZDZmN2ZjNGVlZjRjNDc1OTE5`
+Snapshot ID: `MCwyYTRmZjA5Y2FjZDk2ZTIzNWNmOGZiNTA2ODYzYzgzODM2NjM4MmQ0`

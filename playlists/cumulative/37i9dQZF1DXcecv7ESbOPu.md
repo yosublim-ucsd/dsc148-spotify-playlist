@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-11,693 songs - 25 day 5 hr 58 min
+11,693 songs - 25 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2101,7 +2101,7 @@
 | [Crowded Roomz](https://open.spotify.com/track/2bnatDQSIhiZBVfVUT0PUe) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Crowded Roomz](https://open.spotify.com/album/6noU224rd5kmYt0KPBhtgG) | 2:52 | 2024-01-18 | 2024-01-26 |
 | [Cruel and Unusual](https://open.spotify.com/track/106ctYErVQpDqvIFGTtOjR) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Cruel and Unusual](https://open.spotify.com/album/5MG2GwzVa5KifUDokyBNM4) | 4:00 | 2021-12-30 | 2022-01-07 |
 | [Cruise Control](https://open.spotify.com/track/53NLq6SSyKSkLBdWkoYrE7) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 3:26 | 2022-07-21 | 2022-07-29 |
-| [Crusade](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 | 2024-02-01 |  |
+| [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 | 2024-02-01 |  |
 | [Crush](https://open.spotify.com/track/00Apys6jYrWA0Bse9Yon6O) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Crush](https://open.spotify.com/album/4zhSWdHOuYGS7EoJiY6PaE) | 2:55 | 2023-09-14 | 2023-09-22 |
 | [Crush](https://open.spotify.com/track/7cV58Bvu5K4WzbIBg6hX6t) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Crush](https://open.spotify.com/album/1CWq7PQ64ramfG01Tsocb8) | 3:00 | 2023-02-02 | 2023-02-10 |
 | [Crush](https://open.spotify.com/track/3GldXbSFOqFbLVsluOkm4M) | [Nardeccs](https://open.spotify.com/artist/74nG9D3t3DVqtGjkCBc5cR) | [Crush](https://open.spotify.com/album/1YfQe8ZDLXXlwBWQp9RzO6) | 3:43 | 2022-02-11 | 2022-02-18 |
@@ -10187,7 +10187,7 @@
 | [Thick Skull \(Re: Julien Baker\)](https://open.spotify.com/track/7JH2H8oc2LfcEfiiEN0mML) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 4:54 | 2023-10-05 | 2023-10-13 |
 | [Thieves](https://open.spotify.com/track/6Af3ncYlnMUubDYKcoHZIF) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [Thieves](https://open.spotify.com/album/2jxT4u5M7wykbnYp46RYkd) | 2:25 | 2023-12-14 | 2023-12-22 |
 | [Thin](https://open.spotify.com/track/36DjnovGfaU6tWduDb0skt) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Thin](https://open.spotify.com/album/1AmKGq5TXiKTxYrEAe5KQn) | 3:33 | 2022-01-27 | 2022-02-04 |
-| [Things Is 'Bout Comin' My Way](https://open.spotify.com/track/0hankmoITw2Ujkm2YUvqRs) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Things Is 'Bout Comin' My Way](https://open.spotify.com/album/2xmpiYdM4H5iCW54Pw0f00) | 3:36 | 2024-02-01 |  |
+| [Things Is 'Bout Comin' My Way](https://open.spotify.com/track/0hankmoITw2Ujkm2YUvqRs) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Things Is 'Bout Comin' My Way](https://open.spotify.com/album/2xmpiYdM4H5iCW54Pw0f00) | 4:39 | 2024-02-01 |  |
 | [Things That Fall](https://open.spotify.com/track/44gcQBCYmUk2c3LU37SYHM) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Things That Fall](https://open.spotify.com/album/0wvEMYuE2QyCP2oWPiRsEf) | 2:55 | 2023-08-31 | 2023-09-08 |
 | [Things will be fine](https://open.spotify.com/track/0TQ1cfWKYRSvt3eCEMvGoK) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Things will be fine](https://open.spotify.com/album/0t5NSGhYDnKqU621QfqJTy) | 3:30 | 2022-01-13 | 2022-01-21 |
 | [Think About Me](https://open.spotify.com/track/7axdUvn03RFWqD7mnJGoir) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Swedish Red Elephant](https://open.spotify.com/artist/6fT9phXpEYVm2zB0QzGqDJ) | [Think About Me](https://open.spotify.com/album/7083s09Camu5zbVWYuzVbo) | 3:07 | 2023-08-24 | 2023-09-01 |

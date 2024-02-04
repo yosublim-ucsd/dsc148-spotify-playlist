@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 914914,
+  "2024-02-04": 915005,
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Nubya Garcia",
+  "description": "New jazz for open minds. Cover: Yussef Dayes",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -4656,6 +4656,36 @@
     },
     {
       "album": {
+        "name": "Cloud Message",
+        "url": "https://open.spotify.com/album/044dgnwqHNq3tdND5t2SDp"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425239,
+      "name": "Cloud Message",
+      "url": "https://open.spotify.com/track/7FiSFsAWu6sm9ojpzPs4Sz"
+    },
+    {
+      "album": {
         "name": "Six",
         "url": "https://open.spotify.com/album/0k821NyEThNcYPxBa6fO6E"
       },
@@ -5675,7 +5705,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 256840,
       "name": "Defiant, Tender Warrior",
       "url": "https://open.spotify.com/track/3ZgOKCq8uyStnHJzHA0ly4"
@@ -7421,7 +7451,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 170314,
       "name": "Eyyy",
       "url": "https://open.spotify.com/track/0y3De9aDdRr6kRw2SaR1tf"
@@ -14430,6 +14460,24 @@
     },
     {
       "album": {
+        "name": "Monk's Dance",
+        "url": "https://open.spotify.com/album/1DdArZHtbXQb1zrWa7vvPl"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409991,
+      "name": "Monk\u2019s Dance",
+      "url": "https://open.spotify.com/track/0HVl277oAQFQbVJHnsIKRb"
+    },
+    {
+      "album": {
         "name": "NOT TiGHT",
         "url": "https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j"
       },
@@ -20323,7 +20371,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 272000,
       "name": "Sombras",
       "url": "https://open.spotify.com/track/0grgt5IGw4oSRBKkpvoBwH"
@@ -20581,7 +20629,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 266116,
       "name": "Space Chill (WPAA TV Session)",
       "url": "https://open.spotify.com/track/7DaBjiBYscRYcivVIE4u7Q"
@@ -20681,6 +20729,24 @@
       "duration_ms": 164000,
       "name": "Special Blend",
       "url": "https://open.spotify.com/track/3z0rugDkzlyoF2cIj8x9mu"
+    },
+    {
+      "album": {
+        "name": "Speedball",
+        "url": "https://open.spotify.com/album/6kaxJijC17zXt3unXvxgTQ"
+      },
+      "artists": [
+        {
+          "name": "Simon Denizart",
+          "url": "https://open.spotify.com/artist/1dFQ2v1uSzlTVLwfHQWgJk"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338727,
+      "name": "Speedball",
+      "url": "https://open.spotify.com/track/4zi4lHM0rXngR2uRUVQ2yQ"
     },
     {
       "album": {
@@ -21077,6 +21143,24 @@
       "duration_ms": 293106,
       "name": "Stomping Gamay",
       "url": "https://open.spotify.com/track/3ZV8bAhDtf8zfIktp6oF6B"
+    },
+    {
+      "album": {
+        "name": "Stony Gate",
+        "url": "https://open.spotify.com/album/48zM6egxQ6G4fHRxEok8QL"
+      },
+      "artists": [
+        {
+          "name": "Fergus McCreadie",
+          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326240,
+      "name": "Stony Gate",
+      "url": "https://open.spotify.com/track/2VOrpfVIDkJVC8hdQQzueQ"
     },
     {
       "album": {
@@ -26342,6 +26426,24 @@
     },
     {
       "album": {
+        "name": "Workin\u2019",
+        "url": "https://open.spotify.com/album/1SNDMR0wPtWgZ2wgM3lQkK"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Workin\u2019",
+      "url": "https://open.spotify.com/track/1M4GpUZblSV9bqngI7DIaS"
+    },
+    {
+      "album": {
         "name": "Xodokan Iko - Hu Na Ney",
         "url": "https://open.spotify.com/album/6xVXkePfuTyWmFxapFAfIG"
       },
@@ -27147,7 +27249,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 202000,
       "name": "\u98db\u3070\u3057\u305f\u3063\u3057\u3087",
       "url": "https://open.spotify.com/track/0k1VXxgEeXsdQ9BeYimc29"

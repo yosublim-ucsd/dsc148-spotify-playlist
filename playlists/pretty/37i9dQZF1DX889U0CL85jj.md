@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill, and potentially disassociate, in 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,471,399 likes - 140 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,471,402 likes - 140 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 139 | [Satellites](https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW), [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Satellites](https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO) | 4:00 |
 | 140 | [Star Song](https://open.spotify.com/track/4EZIrBbmC9MqtxXNUrlho4) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Star Song](https://open.spotify.com/album/1YXaxdoQwwzdpLQDDDpmPD) | 3:30 |
 
-Snapshot ID: `MCw2ZWQ5NWI3OWI4YTk1Mjk5MzNkMDM1NzQ3YThjMTFiNDk4NDljY2Y3`
+Snapshot ID: `MCxjYjA0YjA5NTMxYzY0NmZhOWUwMjkwNTUxNzVjNDc0MmJjNTJiMzE0`

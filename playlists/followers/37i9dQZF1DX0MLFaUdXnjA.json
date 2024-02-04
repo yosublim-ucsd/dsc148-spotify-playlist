@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 1814611,
+  "2024-02-04": 1814382,
   "date_first_scraped": "2020-04-26",
   "description": "Keeping it lowkey with the best chill pop. Cover: The Kid Laroi",
   "name": "Chill Pop",
@@ -169,7 +169,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 200305,
       "name": "21 Days",
       "url": "https://open.spotify.com/track/5FXjoF2qI7scNEL56dzcAN"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 246466,
       "name": "24",
       "url": "https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE"
@@ -6547,7 +6547,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 183252,
       "name": "Don\u2019t Leave Me Behind",
       "url": "https://open.spotify.com/track/4jyjUMIYaarfo4ap7WNFbF"
@@ -8391,6 +8391,24 @@
       "duration_ms": 198798,
       "name": "Fix It to Break It",
       "url": "https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt"
+    },
+    {
+      "album": {
+        "name": "FLIGHT RISK",
+        "url": "https://open.spotify.com/album/5p1LIZxLu9O2AMzPKAR8kX"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "FLIGHT RISK",
+      "url": "https://open.spotify.com/track/5gQO8Ik1hBmcDMMMjvmRtL"
     },
     {
       "album": {
@@ -13211,7 +13229,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 158130,
       "name": "Isn't It Obvious",
       "url": "https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj"
@@ -15349,6 +15367,28 @@
       "duration_ms": 187000,
       "name": "Love Come Around",
       "url": "https://open.spotify.com/track/01nz6KVz1nOwV1brJeKpX3"
+    },
+    {
+      "album": {
+        "name": "Love Is",
+        "url": "https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        },
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155270,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN"
     },
     {
       "album": {
@@ -20947,7 +20987,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 208517,
       "name": "Running",
       "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"
@@ -21233,6 +21273,24 @@
       "duration_ms": 219584,
       "name": "Sand",
       "url": "https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q"
+    },
+    {
+      "album": {
+        "name": "A Wake EP",
+        "url": "https://open.spotify.com/album/6GBvGuiOtnV21QQRLNIp5r"
+      },
+      "artists": [
+        {
+          "name": "American Teeth",
+          "url": "https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231138,
+      "name": "Sand Dollars",
+      "url": "https://open.spotify.com/track/1djse5LD9mJ9LW4RKwalTQ"
     },
     {
       "album": {
@@ -21771,6 +21829,24 @@
       "duration_ms": 156963,
       "name": "Shade of Yellow",
       "url": "https://open.spotify.com/track/7qHXEShpUpCcSUbgVjEAoQ"
+    },
+    {
+      "album": {
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/6vxwXV8w20fsU50YID7cKI"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163700,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/3Uf7CHxUovGESEK2YvcGAY"
     },
     {
       "album": {
@@ -22755,7 +22831,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 209995,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/17pqfS8M0lNrtuc5hVDAhe"
@@ -24113,6 +24189,24 @@
       "duration_ms": 174520,
       "name": "Sure Don't Miss You",
       "url": "https://open.spotify.com/track/4k6WZXbHUFEZR02X9FhOuT"
+    },
+    {
+      "album": {
+        "name": "Swallow",
+        "url": "https://open.spotify.com/album/1lF9N8KTJe8rEuCTVRwyV8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179698,
+      "name": "Swallow",
+      "url": "https://open.spotify.com/track/2xtF0pR5YIroM6MzKUhJBy"
     },
     {
       "album": {

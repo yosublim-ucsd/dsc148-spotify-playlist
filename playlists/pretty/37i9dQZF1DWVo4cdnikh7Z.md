@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Lal Salaam
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,526 likes - 76 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,576 likes - 76 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 21 | [Kaaliyamma \(From "Alangu"\)](https://open.spotify.com/track/52tq4zgFDS7uYTVD49IPBR) | [Ajesh](https://open.spotify.com/artist/7zneCNzf0wfXcjCOvirRlX), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Kaaliyamma \(From "Alangu"\)](https://open.spotify.com/album/2qYCgGkdKx15Si2QghHMDl) | 3:24 |
 | 22 | [Anjanadri Theme Song \(From "HanuMan"\) \[Tamil\]](https://open.spotify.com/track/5DZWxORqChvez8QVS3RTaP) | [GowraHari](https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80), [Sai Charan](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU), [Siva Sakthi Datta](https://open.spotify.com/artist/4yyVabDrnKm1Z9nfGVdSO8) | [Anjanadri Theme Song \(From "HanuMan"\) \[Tamil\]](https://open.spotify.com/album/0ti5bpBJ7t3XUkAyBseGmz) | 2:00 |
 | 23 | [Ae Pulla \(From "Lal Salaam"\)](https://open.spotify.com/track/0Qe8uzIYTnnz4BOJw4Hki7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ae Pulla \(From "Lal Salaam"\)](https://open.spotify.com/album/6oFnu5xpV7fCXJMiAODder) | 4:40 |
-| 24 | [Babu \(No.1 Bullshit Guy\) Title Song](https://open.spotify.com/track/7uqywamyCdTjAIxfw8AZgH) | [Pavan](https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp), [Shivam](https://open.spotify.com/artist/4XJbBF8I2RxG9RNWTdYyon) | [Babu \(No.1 Bullshit Guy\) \- Tamil](https://open.spotify.com/album/0oibpTUaeSE7AOBxpRsSX0) | 2:54 |
+| 24 | [Babu \(No.1 Bullshit Guy\) Title Song](https://open.spotify.com/track/7uqywamyCdTjAIxfw8AZgH) | [Pavan](https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp), [Shivam](https://open.spotify.com/artist/4XJbBF8I2RxG9RNWTdYyon), [Madhurakavi](https://open.spotify.com/artist/4HNFPBEsradUUxFbtQNPKh) | [Babu \(No.1 Bullshit Guy\) \- Tamil](https://open.spotify.com/album/0oibpTUaeSE7AOBxpRsSX0) | 2:54 |
 | 25 | [Maanja Nee](https://open.spotify.com/track/2evmZa93wRifY0BBcPW6SZ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [A\. R\. Ameen](https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE) | [Ayalaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7LaGxMvMmaBHrXGN43v6J2) | 3:54 |
 | 26 | [Azhahey](https://open.spotify.com/track/6kArmKkuRWsBOx6hrmYM3w) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Kavingar Snekan](https://open.spotify.com/artist/4CbX6dWcxEoYH8sj0nNlKT) | [Bhairava Kottai](https://open.spotify.com/album/3TGpMfLJhwBedlGNo9zC1v) | 3:48 |
 | 27 | [Nee En Ulagam \(Child's Version\)](https://open.spotify.com/track/6poasZN74NvMOto5gii8AI) | [Harshavardhan Rameshwar](https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU), [R.P\. Krishaang](https://open.spotify.com/artist/7yH2kiixlrhNSxZNo0zfv1), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [ANIMAL \(TAMIL\) \(Deluxe Edition Album\)](https://open.spotify.com/album/35lsR6nAfi4hcmpaWyP8fL) | 5:25 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 75 | [Thaalam](https://open.spotify.com/track/7dIyC8fFRmYYevMQrUCYAP) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Fight Club \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4lBvBSjtIVeGFkRqDdhTTV) | 2:48 |
 | 76 | [Arakkonam Style \- From "Blue Star"](https://open.spotify.com/track/51NhQWfzmCMK6hB1PFKmPc) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL) | [Arakkonam Style \(From "Blue Star"\)](https://open.spotify.com/album/4LsdHtrT3Xy4XeLnQ8oFLm) | 3:11 |
 
-Snapshot ID: `MCw0ZWJhMjM3Mzk3OGVhNzgwODUzMmRmZTJmYmYxZWVmZGZmNDNkNGRh`
+Snapshot ID: `MCw1ZTVmNmExNmJiY2FlNGMyMWJiOTc3YTlhMTY2OGJmN2U2Nzk4OTNi`

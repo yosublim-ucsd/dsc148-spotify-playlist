@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Nikita, the Wicked\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,822 likes - 85 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,886 likes - 85 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 84 | [Hyperdream](https://open.spotify.com/track/4bL2exKkLpkKveLKnIltSQ) | [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [Hyperdream](https://open.spotify.com/album/54yMMbi29Ta7xnouSuEs6J) | 2:48 |
 | 85 | [Forward Step](https://open.spotify.com/track/1ftMMNpvUuhFQhyptugUpo) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Forward Step](https://open.spotify.com/album/6uto8zjUa1Ght3zklDnqDi) | 6:47 |
 
-Snapshot ID: `MCxjMzBmMGU4MjgxMzg0NjJmOGU4M2JkNDRiODg2MjVlMWEyMjlkZjRm`
+Snapshot ID: `MCw1ZTYzYzE1YjFjZTUzYjRjZTMxNjkwOGRhNDI0YTU4MzFjNTBkYTMy`

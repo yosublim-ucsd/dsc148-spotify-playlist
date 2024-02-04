@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,583,678 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,583,642 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 66 | [Bloodbath](https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Bloodbath](https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt) | 3:20 |
 | 67 | [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 |
 | 68 | [Burn Up The Floor](https://open.spotify.com/track/5nz3dwffS8W2WDWRa9SgfR) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Jantsen](https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg) | [Rainbow Brain](https://open.spotify.com/album/0jbN6pCIbmO9hPXMynQ2P8) | 3:46 |
-| 69 | [Forgive Forget](https://open.spotify.com/track/3DyZ0jw7mjRdcwiDvAL26Q) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Forgive Forget](https://open.spotify.com/album/6yoKpY3SB8swU6VtwRq8Zs) | 3:18 |
-| 70 | [NEW WIP](https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [NEW WIP](https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn) | 3:06 |
+| 69 | [NEW WIP](https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [NEW WIP](https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn) | 3:06 |
+| 70 | [Forgive Forget](https://open.spotify.com/track/3DyZ0jw7mjRdcwiDvAL26Q) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Forgive Forget](https://open.spotify.com/album/6yoKpY3SB8swU6VtwRq8Zs) | 3:18 |
 | 71 | [Cheatcode](https://open.spotify.com/track/3iDtphWASBHIjVEB8lWBqs) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Cheatcode](https://open.spotify.com/album/52PFrVESS61Ghel6SJtIFI) | 3:07 |
 | 72 | [Moshpit](https://open.spotify.com/track/6EgTYGPIKWgKUf4QnJ3dr7) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u) | [Moshpit / Comin For Ya Neck](https://open.spotify.com/album/0W1fVHmZ0s1E5l8EOWI5T6) | 2:57 |
-| 73 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 |
-| 74 | [Trenches](https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Trenches](https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4) | 2:49 |
+| 73 | [Trenches](https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Trenches](https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4) | 2:49 |
+| 74 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 |
 | 75 | [REDLIGHT \- VIP](https://open.spotify.com/track/1b1TQHFL6lSFh8hb1mgiHs) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [REDLIGHT \(VIP\)](https://open.spotify.com/album/6PzcABQ8AD86QvMzDtBWIV) | 3:19 |
 
-Snapshot ID: `MCxmYzQ4MzQwNGEyYzUzMzZmOTQxYWRkNTVjNGFmOTE3ODNlOWY2ZWE0`
+Snapshot ID: `MCwwMzAwNGU0YmI2MGZmNjM0MTk5YzliY2YzODJlNThiZTlhMWIxZjIz`

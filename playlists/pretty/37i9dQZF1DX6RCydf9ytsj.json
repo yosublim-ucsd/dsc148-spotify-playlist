@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 603737,
+  "num_followers": 603976,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTA4ODI1Y2I2NTM1MzUxZjk0NzA5M2ZmNmI5YWI3ODZjNDQ5ZmZl",
+  "snapshot_id": "MCw5NjJhNDI5NjhjZWFiNzZkOTgxMDE4OWE4MDEyZmY2MzQyNWQyMjlm",
   "tracks": [
     {
       "added_at": "2023-08-21 19:29:52",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
-      },
-      "artists": [
-        {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
-        }
-      ],
-      "duration_ms": 222493,
-      "name": "When You Say Nothing at All",
-      "url": "https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Fancy Free",
         "url": "https://open.spotify.com/album/5B089xYxcKyuZOE2B9jj1J"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        }
+      ],
+      "duration_ms": 222493,
+      "name": "When You Say Nothing at All",
+      "url": "https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "There's No Gettin' Over Me",
         "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
       },
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
         }
       ],
-      "duration_ms": 199680,
-      "name": "(There's) No Gettin' Over Me",
-      "url": "https://open.spotify.com/track/2bRnP6FjtlASGsDtcgRVuI"
+      "duration_ms": 217826,
+      "name": "I Wouldn't Have Missed It For The World",
+      "url": "https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
         }
       ],
-      "duration_ms": 217826,
-      "name": "I Wouldn't Have Missed It For The World",
-      "url": "https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5"
+      "duration_ms": 199680,
+      "name": "(There's) No Gettin' Over Me",
+      "url": "https://open.spotify.com/track/2bRnP6FjtlASGsDtcgRVuI"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Very Best Of Rosanne Cash",
-        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        }
-      ],
-      "duration_ms": 195080,
-      "name": "Tennessee Flat Top Box",
-      "url": "https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "The Very Best Of David Frizzell & Shelly West",
         "url": "https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI"
       },
@@ -1519,18 +1503,34 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Whoever's In New England",
-        "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
+        "name": "The Very Best Of Rosanne Cash",
+        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
         }
       ],
-      "duration_ms": 187066,
-      "name": "Little Rock",
-      "url": "https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk"
+      "duration_ms": 195080,
+      "name": "Tennessee Flat Top Box",
+      "url": "https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Milestones- Greatest Hits",
+        "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
+      },
+      "artists": [
+        {
+          "name": "Holly Dunn",
+          "url": "https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "Daddy's Hands",
+      "url": "https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Whoever's In New England",
+        "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "Little Rock",
+      "url": "https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "West By West",
         "url": "https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 160533,
       "name": "Jose Cuervo",
       "url": "https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Milestones- Greatest Hits",
-        "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
-      },
-      "artists": [
-        {
-          "name": "Holly Dunn",
-          "url": "https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "Daddy's Hands",
-      "url": "https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66"
     },
     {
       "added_at": "2023-08-21 19:29:52",

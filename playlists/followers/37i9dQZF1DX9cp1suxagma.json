@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 117150,
+  "2024-02-04": 117170,
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Morat",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Susana Cala",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -307,6 +307,24 @@
       "duration_ms": 217805,
       "name": "Aqu\u00ed",
       "url": "https://open.spotify.com/track/7tcZXVCBzWYqoL5xlW35yc"
+    },
+    {
+      "album": {
+        "name": "Asiento De Atras",
+        "url": "https://open.spotify.com/album/0jg03bZ19R8FQ4x55Kyfrp"
+      },
+      "artists": [
+        {
+          "name": "Vibarco",
+          "url": "https://open.spotify.com/artist/1oVPt5RzxWvUjZKCgnbQul"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192088,
+      "name": "Asiento De Atras",
+      "url": "https://open.spotify.com/track/4dRIxLukSEDkfhf9FyHud9"
     },
     {
       "album": {
@@ -1274,6 +1292,24 @@
     },
     {
       "album": {
+        "name": "la otra cara",
+        "url": "https://open.spotify.com/album/7lm0XYr2ENJ40dOgfYGTlj"
+      },
+      "artists": [
+        {
+          "name": "Arevalo",
+          "url": "https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147275,
+      "name": "la otra cara",
+      "url": "https://open.spotify.com/track/7pn1SS8zolJoQbQgmz3fLj"
+    },
+    {
+      "album": {
         "name": "La Primera Vez",
         "url": "https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp"
       },
@@ -1673,7 +1709,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 149250,
       "name": "Mi Mejor Versi\u00f3n",
       "url": "https://open.spotify.com/track/12h7391GtB8rPilYJIMTGn"
@@ -1839,7 +1875,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 146818,
       "name": "No soy yo",
       "url": "https://open.spotify.com/track/47Q1O0vKdL4QTC9FZdSwT1"
@@ -2487,7 +2523,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 191924,
       "name": "Si Volviera A Conocerte",
       "url": "https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49"
@@ -2899,6 +2935,24 @@
       "duration_ms": 173642,
       "name": "Tengo Sed",
       "url": "https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA"
+    },
+    {
+      "album": {
+        "name": "Triste (Arial 1)",
+        "url": "https://open.spotify.com/album/6MfUhAGiZ9FizmSn0F8KQj"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177727,
+      "name": "Triste (Arial 1)",
+      "url": "https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F"
     },
     {
       "album": {

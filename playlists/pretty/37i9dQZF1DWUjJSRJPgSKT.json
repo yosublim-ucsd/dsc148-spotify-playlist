@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics. Cover: McCoy Tyner",
-  "num_followers": 27363,
+  "num_followers": 27449,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTE5NjMwYTM4ZDBlMmI3NjIwZGEzOTgzNjNhNzI3ZDM2M2I3MmE4",
+  "snapshot_id": "MCxhM2UyNDNiYTJkZjJmNWQ2NjhiNGQxNzU0Y2Y0ZWQ0OGFiNGMxNWJl",
   "tracks": [
     {
       "added_at": "2024-02-01 09:52:32",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Airegin",
-      "url": "https://open.spotify.com/track/32mnjN5E4cGbaEogtZdHMh"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
         "name": "An Electrifying Evening With The Dizzy Gillespie Quintet",
         "url": "https://open.spotify.com/album/2dO705Y22N0bczDyF9h5U0"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 428373,
       "name": "Salt Peanuts",
       "url": "https://open.spotify.com/track/65hcrO0589fUJwDMJSdN2h"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Airegin",
+      "url": "https://open.spotify.com/track/32mnjN5E4cGbaEogtZdHMh"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -543,26 +543,6 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "The Best Of Horace Silver",
-        "url": "https://open.spotify.com/album/0f4Iku8uXyH9ZANdbpWUoT"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver Quintet",
-          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
-        },
-        {
-          "name": "J.J. Johnson",
-          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
-        }
-      ],
-      "duration_ms": 435560,
-      "name": "Nutville",
-      "url": "https://open.spotify.com/track/5C3djIv5cQpGDhR6sKeOBo"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
         "name": "Everybody Digs Bill Evans",
         "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
@@ -579,18 +559,22 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Smokin' At The Half Note (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
+        "name": "The Best Of Horace Silver",
+        "url": "https://open.spotify.com/album/0f4Iku8uXyH9ZANdbpWUoT"
       },
       "artists": [
         {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+          "name": "Horace Silver Quintet",
+          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+        },
+        {
+          "name": "J.J. Johnson",
+          "url": "https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS"
         }
       ],
-      "duration_ms": 303333,
-      "name": "Impressions - Live At The Half Note /1965",
-      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
+      "duration_ms": 435560,
+      "name": "Nutville",
+      "url": "https://open.spotify.com/track/5C3djIv5cQpGDhR6sKeOBo"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -647,6 +631,22 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
+        "name": "Smokin' At The Half Note (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Impressions - Live At The Half Note /1965",
+      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
         "name": "Here Comes Louis Smith (Remastered)",
         "url": "https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Stitt Plays Bird (Remastered Version)",
-        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Now's the Time - Remastered Version",
-      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
         "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
         "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 401560,
       "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
+        "name": "Stitt Plays Bird (Remastered Version)",
+        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Now's the Time - Remastered Version",
+      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Nippon Soul",
-        "url": "https://open.spotify.com/album/1REPOxK1OcOZtJHPAJgabn"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley Sextet",
-          "url": "https://open.spotify.com/artist/02jb3iJUcjIVwucRa5YXTn"
-        }
-      ],
-      "duration_ms": 226933,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/2HOw5nhsI0MQEBfFHGBqcx"
-    },
-    {
-      "added_at": "2024-02-01 09:52:32",
-      "album": {
         "name": "Genius Of Modern Music (Vol.1, Expanded Edition)",
         "url": "https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 370626,
       "name": "The Natives Are Restless Tonight - Rudy Van Gelder Edition/1999 Digital Remaster",
       "url": "https://open.spotify.com/track/76gFB8HutMskfRvOR2jcd9"
+    },
+    {
+      "added_at": "2024-02-01 09:52:32",
+      "album": {
+        "name": "Nippon Soul",
+        "url": "https://open.spotify.com/album/1REPOxK1OcOZtJHPAJgabn"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley Sextet",
+          "url": "https://open.spotify.com/artist/02jb3iJUcjIVwucRa5YXTn"
+        }
+      ],
+      "duration_ms": 226933,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/2HOw5nhsI0MQEBfFHGBqcx"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -847,26 +847,18 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Ken Burns Jazz: The Definitive Dizzy Gillespie",
-        "url": "https://open.spotify.com/album/5d5lbciRoWO4WdlSbJQVer"
+        "name": "Now He Sings, Now He Sobs",
+        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        },
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
         }
       ],
-      "duration_ms": 853266,
-      "name": "The Eternal Triangle",
-      "url": "https://open.spotify.com/track/68cLT7rcwLt6dW3qBxJUlD"
+      "duration_ms": 830000,
+      "name": "Steps-What Was - Digitally Remastered",
+      "url": "https://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF"
     },
     {
       "added_at": "2024-02-01 09:52:32",
@@ -887,18 +879,26 @@
     {
       "added_at": "2024-02-01 09:52:32",
       "album": {
-        "name": "Now He Sings, Now He Sobs",
-        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
+        "name": "Ken Burns Jazz: The Definitive Dizzy Gillespie",
+        "url": "https://open.spotify.com/album/5d5lbciRoWO4WdlSbJQVer"
       },
       "artists": [
         {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
         }
       ],
-      "duration_ms": 830000,
-      "name": "Steps-What Was - Digitally Remastered",
-      "url": "https://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF"
+      "duration_ms": 853266,
+      "name": "The Eternal Triangle",
+      "url": "https://open.spotify.com/track/68cLT7rcwLt6dW3qBxJUlD"
     },
     {
       "added_at": "2024-02-01 09:52:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Gold Fang\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,042 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,041 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [High School Drama](https://open.spotify.com/track/4R5Mf6PT2EwgkZIXwoKjAD) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [High School Drama](https://open.spotify.com/album/4MBtDxeecH2fTMfs2wSPaM) | 2:52 |
 | 100 | [I Want It \(Danny DeVito\)](https://open.spotify.com/track/3aXT30VvzkodMqmCicZ4SK) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [I Want It \(Danny DeVito\)](https://open.spotify.com/album/3WjI8Rip86vK7b1XwvrZ4D) | 2:14 |
 
-Snapshot ID: `MCxmYWUwNTc2NjUyZDU3MjZlZmFlMGRlZWI3OGU4Y2RkMWNlYmE3YWEy`
+Snapshot ID: `MCxlZmRhNzAxODg4YWQxMWQ1NWY5ZGU2OWM5ZmJlNjBkZGU4OGFjMGQ0`

@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 119716,
+  "2024-02-04": 119712,
   "date_first_scraped": "2023-08-09",
   "description": "Un parque de diversiones para gustos inconformes y sofisticados. Future Islands en portada.",
   "name": "Indielandia",
@@ -346,6 +346,24 @@
     },
     {
       "album": {
+        "name": "Burning Down the House",
+        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
+    },
+    {
+      "album": {
         "name": "Burning In Flames",
         "url": "https://open.spotify.com/album/5E97jRPfvqIazBexNqZCjI"
       },
@@ -357,7 +375,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 188640,
       "name": "Burning in Flames",
       "url": "https://open.spotify.com/track/1vp0sTWWZVcs8gW0PmDhM8"
@@ -393,7 +411,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 254000,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/4K2hu1I4tuRpgDLiNTTEi2"
@@ -853,7 +871,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 212760,
       "name": "Hunt You Down",
       "url": "https://open.spotify.com/track/18BXVZ04Xm9eiSyFpD5PJE"
@@ -1092,6 +1110,24 @@
     },
     {
       "album": {
+        "name": "ketamine",
+        "url": "https://open.spotify.com/album/0458RCI6qdYAnUHtGShBMV"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149204,
+      "name": "ketamine",
+      "url": "https://open.spotify.com/track/7tF1CqPkS8BHIG88WDdpHx"
+    },
+    {
+      "album": {
         "name": "kisses",
         "url": "https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj"
       },
@@ -1237,6 +1273,28 @@
       "duration_ms": 176578,
       "name": "Lunar Eclipse",
       "url": "https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd"
+    },
+    {
+      "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/1GD5LEi9PqcG53COfp3LsQ"
+      },
+      "artists": [
+        {
+          "name": "meija",
+          "url": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
+        },
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "MAGIC",
+      "url": "https://open.spotify.com/track/3hB6fPgud6yt1MRKHJ58Mg"
     },
     {
       "album": {
@@ -1473,7 +1531,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 192730,
       "name": "One Call, That's All",
       "url": "https://open.spotify.com/track/2tQ1tPYwG39Gv8LuRI5G0Z"
@@ -1801,7 +1859,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 180480,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/4KQ9oQ7XR2eOzl6dEMLL7S"
@@ -2036,6 +2094,24 @@
     },
     {
       "album": {
+        "name": "Take What's Given",
+        "url": "https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174257,
+      "name": "Take What's Given",
+      "url": "https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY"
+    },
+    {
+      "album": {
         "name": "The Conflict of the Mind",
         "url": "https://open.spotify.com/album/7bGzvyccrDzn32gieBu3tE"
       },
@@ -2047,7 +2123,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 255800,
       "name": "The Conflict of the Mind",
       "url": "https://open.spotify.com/track/4BFYRUjuuesHjLTJdvo1XR"
@@ -2069,6 +2145,24 @@
       "duration_ms": 167293,
       "name": "The Deceiving",
       "url": "https://open.spotify.com/track/3GXVVxYAL6sTG8ICC6pD9R"
+    },
+    {
+      "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206571,
+      "name": "The Feminine Urge",
+      "url": "https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc"
     },
     {
       "album": {
@@ -2101,7 +2195,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 245225,
       "name": "The Narcissist",
       "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
@@ -2224,6 +2318,24 @@
     },
     {
       "album": {
+        "name": "How Have You Been?",
+        "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "Under Your Wings",
+      "url": "https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS"
+    },
+    {
+      "album": {
         "name": "Untidy Creature",
         "url": "https://open.spotify.com/album/7iB1U6TK6DtjX7Jt69SEPB"
       },
@@ -2289,7 +2401,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 305946,
       "name": "Wall Of Eyes",
       "url": "https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J"

@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 474763,
+  "2024-02-04": 474870,
   "date_first_scraped": "2021-12-21",
   "description": "alternative meets electronic Cover: Layto",
   "name": "Alternative Beats",
@@ -1857,7 +1857,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 231851,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd"
@@ -3193,6 +3193,28 @@
       "duration_ms": 166000,
       "name": "LOST IT",
       "url": "https://open.spotify.com/track/7KdQojjqg4mjgfUCWFAXmP"
+    },
+    {
+      "album": {
+        "name": "LOST IT",
+        "url": "https://open.spotify.com/album/0kHS4bvtYbAaBREla4DtLt"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        },
+        {
+          "name": "P!X!E",
+          "url": "https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "LOST IT",
+      "url": "https://open.spotify.com/track/0BpRdpbGMQ18OLpU0r0kPb"
     },
     {
       "album": {

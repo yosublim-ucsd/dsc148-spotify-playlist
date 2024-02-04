@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 43731,
+  "2024-02-04": 43794,
   "date_first_scraped": "2022-08-13",
   "description": "Everything Broadway-adjacent. Cover: WONKA",
   "name": "Off Broadway",
@@ -1887,7 +1887,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 227224,
       "name": "Lifeline - From the Original Motion Picture \u201cThe Color Purple\u201d",
       "url": "https://open.spotify.com/track/66Z7xWbRpjO7mZJ8U8scrw"
@@ -2437,6 +2437,24 @@
       "duration_ms": 64834,
       "name": "Oompa Loompa",
       "url": "https://open.spotify.com/track/17bN37TI0A1ZqTB5XGvQj7"
+    },
+    {
+      "album": {
+        "name": "Opening Doors / What More Do I Need?",
+        "url": "https://open.spotify.com/album/2u3NgDtlfTtAhEYdSlQTph"
+      },
+      "artists": [
+        {
+          "name": "Melissa Errico",
+          "url": "https://open.spotify.com/artist/1FgbndX43rDxGvserrIb1l"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232422,
+      "name": "Opening Doors / What More Do I Need?",
+      "url": "https://open.spotify.com/track/3FZ9coVkYL2iMzcFtSW9M4"
     },
     {
       "album": {

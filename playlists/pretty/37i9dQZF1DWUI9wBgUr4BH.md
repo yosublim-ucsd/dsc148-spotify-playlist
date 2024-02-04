@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : P!nk
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,357 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,450 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [Plus de place pour ta peine](https://open.spotify.com/track/5mKlpOIgCnIQpiTLsgXPUF) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Eloïz](https://open.spotify.com/album/4zZpibujGFVsI6foiaWJhj) | 2:32 |
 | 40 | [Heart Still Beating](https://open.spotify.com/track/1IYlFAw4SThAoRx5DWwAjT) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Still Beating](https://open.spotify.com/album/7jLbqg4aQyJdd9Wq6zrB2m) | 2:29 |
 
-Snapshot ID: `MCxhNTEwNzY3ODhlZDNhY2MyMGNlMmFkODU3ZmZjYzdhOWVkMDM2MDdj`
+Snapshot ID: `MCxiODA0ZTI2NDhhNWMyODRiODg0MGVlNzEyMTM2YjliZjlhYTkxMTBi`

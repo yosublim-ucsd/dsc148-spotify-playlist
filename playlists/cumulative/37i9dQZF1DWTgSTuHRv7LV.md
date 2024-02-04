@@ -4,12 +4,12 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Akapellah, Al2 El Aldeano
 
-596 songs - 1 day 10 hr 10 min
+597 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 MILLONES](https://open.spotify.com/track/4Ixc50wY5pbUvNEogTQ2wL) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [100 MILLONES](https://open.spotify.com/album/5nqsQ0kfgdhrN8is8FR2rP) | 3:57 | 2022-01-19 |  |
-| [100 TRACKS](https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:44 | 2022-05-13 |  |
+| [100 TRACKS](https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:44 | 2022-05-13 | 2024-02-04 |
 | [100 TRACKS](https://open.spotify.com/track/4Aljhc4Fbs5HnkvqMD50U0) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [100 TRACKS](https://open.spotify.com/album/6bCWlTPqOKwHRJ20aMPvqI) | 2:44 | 2022-03-09 | 2022-05-14 |
 | [12A12](https://open.spotify.com/track/3VBJjUHbgNMrrAp8QFKTAm) | [VICE MENTA](https://open.spotify.com/artist/5Aw0EHnWZ9YBfsYN3bjZJH), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [12A12](https://open.spotify.com/album/5GZKbxkInVwMRPQtRsRxsk) | 3:12 | 2022-01-19 | 2022-04-20 |
 | [22HS](https://open.spotify.com/track/3cCTNbeGVsoANK3pbLXOz7) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [POCHOCLOS](https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP) | 2:34 | 2022-10-07 | 2023-09-06 |
@@ -351,6 +351,7 @@
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-10-13 |  |
 | [Montecarlo](https://open.spotify.com/track/0AGTMYewBJqWX8VltU4gVe) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Montecarlo](https://open.spotify.com/album/1499LDt8XAKTpIPgtbn2zd) | 2:34 | 2023-05-26 |  |
 | [Morena 420](https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Morena 420](https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC) | 3:56 | 2023-05-26 |  |
+| [Movin' loko](https://open.spotify.com/track/6SMC0zf1HBVJuZwHTWexX1) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Movin' loko](https://open.spotify.com/album/2jdPHwa5lfRgItAPCmSDGs) | 2:38 | 2024-02-02 |  |
 | [MR\. OCTOBER](https://open.spotify.com/track/1ODFVLQszq0hCOdZtqV5wq) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:09 | 2023-10-13 |  |
 | [Mucho Brillo](https://open.spotify.com/track/3REVYw7xBn8zWLDhjpoY2P) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno) | [Mucho Brillo](https://open.spotify.com/album/3cXFSV6uBvPOv3H16IDg4k) | 3:52 | 2022-01-19 | 2022-10-08 |
 | [Mujer De Fuego](https://open.spotify.com/track/0Nb4vPSBX9mpoQg41wK6al) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Mujer De Fuego](https://open.spotify.com/album/5NvV2UDzWL0STSOsmljLSz) | 3:17 | 2022-01-19 | 2022-05-14 |

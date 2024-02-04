@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 131098,
+  "2024-02-04": 131101,
   "date_first_scraped": "2022-04-09",
   "description": "Well known songs in a soft Bossa landscape.",
   "name": "Summer Cocktails",
@@ -1957,6 +1957,24 @@
       "duration_ms": 224160,
       "name": "It Ain't Me Babe",
       "url": "https://open.spotify.com/track/0LHm4kBHO8rFmjoCVu5MN8"
+    },
+    {
+      "album": {
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/5nhTzqSBGhnEot3V89luGV"
+      },
+      "artists": [
+        {
+          "name": "Senti2",
+          "url": "https://open.spotify.com/artist/3Bae7rEUTuL7Vj4rf853N4"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144427,
+      "name": "It Must Have Been Love",
+      "url": "https://open.spotify.com/track/7f0h3FtS5IIm5PhnnEC2eh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-577 songs - 1 day 6 hr 14 min
+578 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Christmas Day](https://open.spotify.com/track/3ZeiRbXkwVn9u3noDvO42G) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Christmas Day](https://open.spotify.com/album/64HJ82KDUHN1HBnuqqITGB) | 3:04 | 2021-12-24 | 2022-07-29 |
 | [Christmas Dirtbag](https://open.spotify.com/track/05lLXO1gallwajxAD4aTvE) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Just A Dirtbag Christmas EP](https://open.spotify.com/album/3Xy6ARO2MgjPUSFIuP86uA) | 4:12 | 2023-10-13 |  |
 | [christmas dream](https://open.spotify.com/track/5rXnCsVZqIajZ7iEGXExbv) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for christmas](https://open.spotify.com/album/0NenoS449ulgwbz6vGx3ui) | 2:30 | 2023-11-03 |  |
-| [Christmas Dreaming](https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:33 | 2023-11-03 |  |
+| [Christmas Dreaming](https://open.spotify.com/track/2IChCRHxRCVbo8i2zP4NVF) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3) | 2:33 | 2023-11-20 |  |
+| [Christmas Dreaming](https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:33 | 2023-11-03 | 2024-02-04 |
 | [Christmas Eve](https://open.spotify.com/track/5QeZzTUBpqB8iRF4S1SyKg) | [Alicia & Jasmina](https://open.spotify.com/artist/4oIaWRV1DDb72BMTTpTKF7) | [Christmas Eve](https://open.spotify.com/album/10IfWmIQFfTvHTJ4r1bcT4) | 2:38 | 2023-11-17 |  |
 | [Christmas Eve](https://open.spotify.com/track/7HCP77tbX3oeof77tPzmrB) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Christmas Eve](https://open.spotify.com/album/1YvmWJbpAqVtjL1MbSFJMn) | 2:53 | 2022-11-18 | 2023-10-04 |
 | [Christmas Every Day](https://open.spotify.com/track/2NSYqhkf943kTNJ56A3DNT) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Christmas Every Day](https://open.spotify.com/album/086NkigzdWKxY3CbDQO4CX) | 3:38 | 2021-12-24 | 2022-07-28 |

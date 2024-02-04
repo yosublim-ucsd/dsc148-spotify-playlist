@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 378095,
+  "2024-02-04": 378106,
   "date_first_scraped": "2021-12-21",
   "description": "Bringing the roaring 20s into the 2020s",
   "name": "Electro Swing",
@@ -1282,6 +1282,24 @@
     },
     {
       "album": {
+        "name": "Doin' the Jive (Electro Swing Bot Mix)",
+        "url": "https://open.spotify.com/album/6Fpt2EakjGJv1XgieKXX9p"
+      },
+      "artists": [
+        {
+          "name": "The Swing Bot",
+          "url": "https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205151,
+      "name": "Doin' the Jive - Electro Swing Bot Mix",
+      "url": "https://open.spotify.com/track/2qbiime4UphiqfrbwOnWly"
+    },
+    {
+      "album": {
         "name": "Don't Drink & Jive",
         "url": "https://open.spotify.com/album/6ZvqaxzphRJf0RU7Mdpigk"
       },
@@ -2204,6 +2222,32 @@
     },
     {
       "album": {
+        "name": "Hep Cat Boogie (Atom Smith Remix)",
+        "url": "https://open.spotify.com/album/16PfGNGI4i9eHcM9l2wIUg"
+      },
+      "artists": [
+        {
+          "name": "Balduin",
+          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
+        },
+        {
+          "name": "Atom Smith",
+          "url": "https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2"
+        },
+        {
+          "name": "Kate Thomas",
+          "url": "https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "Hep Cat Boogie - Atom Smith Remix",
+      "url": "https://open.spotify.com/track/7qnlVQA90dYjO4BcXtaz2W"
+    },
+    {
+      "album": {
         "name": "Hep Cat Boogie (Lounge Version)",
         "url": "https://open.spotify.com/album/4h3VdYq6ARCmzbdcffIOR9"
       },
@@ -2219,7 +2263,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 170637,
       "name": "Hep Cat Boogie - Lounge Version",
       "url": "https://open.spotify.com/track/1d8Yqf3t0eWYFapcQFhDtB"
@@ -4655,7 +4699,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 166648,
       "name": "See You Later",
       "url": "https://open.spotify.com/track/4j2OB7zz0CgzwS8mOO1Kws"

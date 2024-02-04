@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 84127,
+  "2024-02-04": 84120,
   "date_first_scraped": "2022-05-11",
   "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: I Segreti",
   "name": "Rock Italia",
@@ -12331,10 +12331,28 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 174507,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/5xXHDzHyqXvrA3ZI9FGrXJ"
+    },
+    {
+      "album": {
+        "name": "Animali",
+        "url": "https://open.spotify.com/album/6miMjVFzV3P93IYRS0oRlV"
+      },
+      "artists": [
+        {
+          "name": "Pu\u00e0",
+          "url": "https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174507,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/7dMzrhoxYtLXYcZ2TZWPeg"
     },
     {
       "album": {

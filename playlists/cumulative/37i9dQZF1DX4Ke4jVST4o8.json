@@ -736,7 +736,7 @@
     {
       "album": {
         "name": "Calamari Tuesday",
-        "url": "https://open.spotify.com/album/1AHCElkEl3EKimlINxtGBP"
+        "url": "https://open.spotify.com/album/6eamRXvrKVz5VN1noerGMr"
       },
       "artists": [
         {
@@ -751,6 +751,28 @@
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 185917,
+      "name": "Love Is All I Got",
+      "url": "https://open.spotify.com/track/3INFQGizSgnmEJJlLIUJt1"
+    },
+    {
+      "album": {
+        "name": "Calamari Tuesday",
+        "url": "https://open.spotify.com/album/1AHCElkEl3EKimlINxtGBP"
+      },
+      "artists": [
+        {
+          "name": "Feed Me",
+          "url": "https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby"
+        },
+        {
+          "name": "Crystal Fighters",
+          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-04",
       "duration_ms": 185917,
       "name": "Love Is All I Got",
       "url": "https://open.spotify.com/track/3qLGSJpnDsK03FnT8tBO23"

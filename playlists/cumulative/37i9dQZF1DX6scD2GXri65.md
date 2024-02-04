@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-175 songs - 9 hr 42 min
+176 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Fighting For](https://open.spotify.com/track/22JELf6p8cyWBDwa91e7pL) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Fighting For](https://open.spotify.com/album/14Iltp0WL3VLdyxWz6FQAB) | 3:37 | 2022-12-08 | 2023-05-11 |
 | [Fire](https://open.spotify.com/track/34ODPTM2TT6AqYE496EvBG) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Fire](https://open.spotify.com/album/6oqHa4g8L3BQdDLQ7sZXOQ) | 4:09 | 2022-12-08 | 2023-03-14 |
 | [Firestarter](https://open.spotify.com/track/0mGmrLTe4VlaWZ5DFWpnil) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Crystal Lake](https://open.spotify.com/artist/5DzNxD4vwCDEIa20oEzB9l), [XCEPTION](https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm) | [Firestarter](https://open.spotify.com/album/6KKaf1IJOw4BiPnxbTLul0) | 3:21 | 2022-12-08 |  |
+| [Firestone](https://open.spotify.com/track/1zCGt1MomJgyEHzdSmh93f) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX) | [Firestone](https://open.spotify.com/album/0SAZNDGtwi8bZfqgqmtd8e) | 4:01 | 2024-01-31 |  |
 | [Firestone](https://open.spotify.com/track/5rlO2Wr2jifgjiBbPy25Su) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW), [Ava Silver](https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX) | [Firestone](https://open.spotify.com/album/2GHFB4DuUJ68WuI5hD2HvX) | 4:01 | 2022-12-08 | 2024-01-18 |
 | [For You](https://open.spotify.com/track/5VGRWK6AgM3BifNn5WPsXs) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [For You](https://open.spotify.com/album/1CAyRb6HyVWV9k7Pr7jntA) | 2:56 | 2022-12-08 | 2022-12-16 |
 | [Free Fall](https://open.spotify.com/track/7BNuc3medoxeqd4qnOhGCA) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ) | [Free Fall](https://open.spotify.com/album/4gpWr19Zz1Et4GZmBKtYaS) | 3:15 | 2023-03-30 | 2023-06-08 |
@@ -177,7 +178,7 @@
 | [Way Of The Warrior](https://open.spotify.com/track/74i3mwBXn9RpmiYhy6krAu) | [MYST](https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej) | [Way Of The Warrior](https://open.spotify.com/album/6OJw0qC7WWsHEQ17o1hpuI) | 3:58 | 2023-05-10 | 2023-05-16 |
 | [WE AIN'T THE SAME](https://open.spotify.com/track/5qRAZhmiBhlAAznrdyExqE) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w) | [WE AIN'T THE SAME](https://open.spotify.com/album/5ql8Jq6Ze6CJTD9rIgg2Hq) | 2:51 | 2023-02-09 | 2023-02-15 |
 | [We Go Up \- Da Tweekaz Remix](https://open.spotify.com/track/21eGoV8gNSgKWuYE6HCqXO) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [We Go Up \(Remixes\)](https://open.spotify.com/album/0lmlSYKEwEBY3U0c1haM5a) | 3:38 | 2023-02-09 | 2023-04-26 |
-| [What You Give Is What You Get](https://open.spotify.com/track/2Gt8l0oXk0ZuGtpwkN67z0) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Clockartz](https://open.spotify.com/artist/7GVB7uYTgkeYtLJxYMYYDp) | [What You Give Is What You Get](https://open.spotify.com/album/5cR4r1R6oN6v5DNXNUx2AK) | 3:27 | 2022-12-08 |  |
+| [What You Give Is What You Get](https://open.spotify.com/track/2Gt8l0oXk0ZuGtpwkN67z0) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Clockartz](https://open.spotify.com/artist/7GVB7uYTgkeYtLJxYMYYDp) | [What You Give Is What You Get](https://open.spotify.com/album/5cR4r1R6oN6v5DNXNUx2AK) | 3:27 | 2022-12-08 | 2024-02-04 |
 | [What You Heard](https://open.spotify.com/track/6n6xZkucdDYETMuqOmZ8OI) | [Phrantic](https://open.spotify.com/artist/2Bg6vhG3aY7ixxqEGZeos6), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [What You Heard](https://open.spotify.com/album/5cUjfZQV7IaaYi89yzz3L4) | 2:42 | 2022-12-15 |  |
 | [With You](https://open.spotify.com/track/2qR8jsXwHJccStxQUQFXyx) | [MYST](https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej) | [With You](https://open.spotify.com/album/3kHnXUrJmc696tghdqE2d5) | 3:18 | 2023-02-28 | 2023-04-23 |
 | [Won't Forget](https://open.spotify.com/track/7JXZuqmi5XC8pfiNgeF1yZ) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Xillions](https://open.spotify.com/artist/4bi8SmsdSp5AoD6RFZjyjW) | [Won't Forget](https://open.spotify.com/album/6PnHSLrP5IYAubIo3fT2n7) | 2:32 | 2022-12-08 |  |

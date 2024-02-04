@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,921 likes - 69 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,972 likes - 69 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 4 | [A Mesa](https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [A Mesa](https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV) | 5:06 |
 | 5 | [Eu Te Vejo Em Tudo \- Acoustic Session](https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Acoustic Session, Vol\. 01](https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig) | 4:40 |
 | 6 | [17 de janeiro](https://open.spotify.com/track/6JhK1r09ZViJy723xux4Ty) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Mais](https://open.spotify.com/album/4s3DJODPpSqMtiC5rARb0Y) | 4:31 |
-| 7 | [Bote o Pé](https://open.spotify.com/track/3KZPBw2GyCEbh2zdsmeisl) | [Projeto Norte](https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe), [Ane Alma](https://open.spotify.com/artist/6agfTxA0kY25JrnIKKo35r) | [Bote o Pé](https://open.spotify.com/album/3UOCHsSCEyPzusLJpZksqH) | 3:20 |
-| 8 | [Recomeçar](https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Recomeçar](https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv) | 3:50 |
+| 7 | [Recomeçar](https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Recomeçar](https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv) | 3:50 |
+| 8 | [Bote o Pé](https://open.spotify.com/track/3KZPBw2GyCEbh2zdsmeisl) | [Projeto Norte](https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe), [Ane Alma](https://open.spotify.com/artist/6agfTxA0kY25JrnIKKo35r) | [Bote o Pé](https://open.spotify.com/album/3UOCHsSCEyPzusLJpZksqH) | 3:20 |
 | 9 | [Só Tenho a Ti](https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Só Tenho a Ti](https://open.spotify.com/album/2c2UDN3jf4onnd4TfeqimJ) | 2:33 |
 | 10 | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq) | 3:13 |
 | 11 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/1QUEVvbXjEYytdZLmO58uI) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/album/4kRftqxEYbHFCsWIJ8qKSk) | 5:12 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 68 | [Visita](https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6) | [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Visita](https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr) | 4:47 |
 | 69 | [Meu Grande Amor \- Versão Cordas](https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i) | [Giselle Knevitz](https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM), [Brasa Church Music](https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A) | [Meu Grande Amor \(Versão Cordas\)](https://open.spotify.com/album/2B1yYnuXCiZQ5GCDUHEdIe) | 7:22 |
 
-Snapshot ID: `MCwyOTIzYzlhNTYwMDNkYTEzZWI0YWY0ZTMzYTkzZDA0NDY1YzU2OWQ1`
+Snapshot ID: `MCw0ZGU2YWM1ZDBkZDY0YTM5NTNhODZlM2I1NTBhZjY0ZGUyZmY3M2Jk`

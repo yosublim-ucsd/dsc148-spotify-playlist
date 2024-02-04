@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121100,
+  "num_followers": 121099,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGYwNDJmMWM3ZjEyMzc5OWVlYmE5MThlYzcyNGI3ZWMwZGUxYzU0",
+  "snapshot_id": "MCw0YjliYzIwNjNmNjU3ZTA4YWI4MjAyZmJmMWE2YmFiZGQwMzlmZjQ3",
   "tracks": [
     {
       "added_at": "2024-02-01 23:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Reconnect",
+        "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 193377,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Let Me",
         "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Reconnect",
-        "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 193377,
-      "name": "Elsewhere",
-      "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4ROrdn8vpQyKPP1PBKHcuZ"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 223682,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Little Airplanes",
+        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 330614,
+      "name": "Little Airplanes",
+      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -447,22 +463,6 @@
       "duration_ms": 364226,
       "name": "Of Sea",
       "url": "https://open.spotify.com/track/5XYSBPFLufUCyMo3hXD9uP"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Little Airplanes",
-        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 330614,
-      "name": "Little Airplanes",
-      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Gotta Dance",
+        "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 197796,
+      "name": "Gotta Dance",
+      "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Speak Like the Hurricane",
         "url": "https://open.spotify.com/album/1S6lVG4Fe19Y1XN6qBewrF"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 417391,
       "name": "Pelicanism",
       "url": "https://open.spotify.com/track/6LC4enBqq1ywrDXlr0pnG1"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Gotta Dance",
-        "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 197796,
-      "name": "Gotta Dance",
-      "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -927,6 +927,38 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Cherry Skies",
+        "url": "https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Cherry Skies",
+      "url": "https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Golden Cage EP",
+        "url": "https://open.spotify.com/album/4rF9lZgtSHe1blrCPGFyGY"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 239249,
+      "name": "Mercury Moments",
+      "url": "https://open.spotify.com/track/3c8hntpeHHoS8BxppJoBBW"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Don't Stop the Dance (Kraak & Smaak Radio Edit)",
         "url": "https://open.spotify.com/album/1Mbgn2dBhxJZUDP5nAaRgY"
       },
@@ -955,38 +987,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Golden Cage EP",
-        "url": "https://open.spotify.com/album/4rF9lZgtSHe1blrCPGFyGY"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 239249,
-      "name": "Mercury Moments",
-      "url": "https://open.spotify.com/track/3c8hntpeHHoS8BxppJoBBW"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Cherry Skies",
-        "url": "https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Cherry Skies",
-      "url": "https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Resilience",
         "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
       },
@@ -1007,22 +1007,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Electric Visions",
-        "url": "https://open.spotify.com/album/3VMT3Z40rMJ85HkvfsASZb"
+        "name": "Echo Of Youth Remodel",
+        "url": "https://open.spotify.com/album/736ZHBrEbC3XvvacaoA1t6"
       },
       "artists": [
         {
-          "name": "End of Time",
-          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
+          "name": "Menke",
+          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
         },
         {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
         }
       ],
-      "duration_ms": 369346,
-      "name": "Electric Visions",
-      "url": "https://open.spotify.com/track/6WQ3ZhGLfGWVLNBvu9t29v"
+      "duration_ms": 298440,
+      "name": "Youth - Satin Jackets Remix",
+      "url": "https://open.spotify.com/track/3Vm1sSi0FyIpQ7fYHHMW8Q"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1043,22 +1043,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Echo Of Youth Remodel",
-        "url": "https://open.spotify.com/album/736ZHBrEbC3XvvacaoA1t6"
+        "name": "Electric Visions",
+        "url": "https://open.spotify.com/album/3VMT3Z40rMJ85HkvfsASZb"
       },
       "artists": [
         {
-          "name": "Menke",
-          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
+          "name": "End of Time",
+          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
         },
         {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
         }
       ],
-      "duration_ms": 298440,
-      "name": "Youth - Satin Jackets Remix",
-      "url": "https://open.spotify.com/track/3Vm1sSi0FyIpQ7fYHHMW8Q"
+      "duration_ms": 369346,
+      "name": "Electric Visions",
+      "url": "https://open.spotify.com/track/6WQ3ZhGLfGWVLNBvu9t29v"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "<3DAYSOFLOVE",
-        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
-      },
-      "artists": [
-        {
-          "name": "Hypsidia",
-          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
-        }
-      ],
-      "duration_ms": 305370,
-      "name": "<3DAYSOFLOVE",
-      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Aftergold (5 Year Anniversary)",
         "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 228573,
       "name": "Aftergold - obli Remix",
       "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "<3DAYSOFLOVE",
+        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+      },
+      "artists": [
+        {
+          "name": "Hypsidia",
+          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+        }
+      ],
+      "duration_ms": 305370,
+      "name": "<3DAYSOFLOVE",
+      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "V\u00edn",
+        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
+      },
+      "artists": [
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "duration_ms": 309596,
+      "name": "April",
+      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Falling Upwards",
         "url": "https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 343384,
       "name": "Falling Upwards",
       "url": "https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "V\u00edn",
-        "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
-      },
-      "artists": [
-        {
-          "name": "Janus Rasmussen",
-          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
-        }
-      ],
-      "duration_ms": 309596,
-      "name": "April",
-      "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "small talk",
+        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 325680,
+      "name": "small talk",
+      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/08SC4H56dAvQNwqhbOo18k"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 191005,
       "name": "Always",
       "url": "https://open.spotify.com/track/2PXDK2k7QSjGLfzBjuZ1hw"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "small talk",
-        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 325680,
-      "name": "small talk",
-      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Arturia",
-        "url": "https://open.spotify.com/album/1UUSyhcmb2F9ifsCuUZVuT"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 331960,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/7dJwMUluT7ZmMF0bEEDzbR"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Golven",
         "url": "https://open.spotify.com/album/4hnKYfEXxxRnGlr8PrAkXN"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 194421,
       "name": "Golven",
       "url": "https://open.spotify.com/track/50i5vfuzSeaWIcVH5PjPO1"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Arturia",
+        "url": "https://open.spotify.com/album/1UUSyhcmb2F9ifsCuUZVuT"
+      },
+      "artists": [
+        {
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+        }
+      ],
+      "duration_ms": 331960,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/7dJwMUluT7ZmMF0bEEDzbR"
     },
     {
       "added_at": "2024-02-01 23:00:00",

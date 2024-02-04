@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 164483,
+  "2024-02-04": 164500,
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Mumford & Sons",
+  "description": "A laid-back trip in the folk scene. Cover: Norah Jones, Remi Wolf",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -543,7 +543,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 216044,
       "name": "Amy",
       "url": "https://open.spotify.com/track/3owz5csR9o9BTxkaHWa4MP"
@@ -1055,7 +1055,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 362786,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/1uMazr2OwFSC4SHqfkoY7h"
@@ -1754,6 +1754,28 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289964,
+      "name": "Change (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e"
       },
@@ -1805,6 +1827,24 @@
       "duration_ms": 203107,
       "name": "christian scientist",
       "url": "https://open.spotify.com/track/1JCSCizyaMq8FlGzLu2Axw"
+    },
+    {
+      "album": {
+        "name": "Cincinnati Heart",
+        "url": "https://open.spotify.com/album/7q4GSv2PuFyj0m7viXGEfS"
+      },
+      "artists": [
+        {
+          "name": "Nolan Taylor",
+          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171388,
+      "name": "Cincinnati Heart",
+      "url": "https://open.spotify.com/track/4yqzPEy3QxniyBzWPm35WO"
     },
     {
       "album": {
@@ -2867,7 +2907,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 141773,
       "name": "Easy Violence",
       "url": "https://open.spotify.com/track/5ej9MfgSDNbc1qiPfrtIP2"
@@ -9409,6 +9449,24 @@
       "duration_ms": 260721,
       "name": "Salt Circle",
       "url": "https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju"
+    },
+    {
+      "album": {
+        "name": "Same Old Me",
+        "url": "https://open.spotify.com/album/0Ew9EKV0vC9lHqf0RHH5Rv"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Racette",
+          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262797,
+      "name": "Same Old Me",
+      "url": "https://open.spotify.com/track/5gwNVbApnuJODGSQuEC997"
     },
     {
       "album": {

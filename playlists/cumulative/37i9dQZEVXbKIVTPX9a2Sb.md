@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-1,595 songs - 3 day 10 hr 56 min
+1,596 songs - 3 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -702,7 +702,7 @@
 | [Lavazza](https://open.spotify.com/track/5kx4nxFLJpXVAjey3vy1dS) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Příběhy a sny](https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4) | 3:40 | 2021-11-20 | 2021-12-10 |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-22 | 2022-11-06 |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-03-05 | 2023-04-23 |
-| [Lay Low](https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:33 | 2023-04-22 |  |
+| [Lay Low](https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:33 | 2023-04-22 | 2024-02-04 |
 | [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 | 2021-10-07 | 2021-11-05 |
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-03-31 | 2021-06-23 |
 | [leavemealone](https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 3:42 | 2024-01-09 |  |
@@ -761,6 +761,7 @@
 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 | 2021-09-26 | 2021-11-20 |
 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-06-01 |
 | [Love Tonight \- Edit](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2021-05-19 | 2021-11-03 |
+| [Lovesick](https://open.spotify.com/track/3XVPhuF6FdaK25OfW4ljzz) | [Marko Damian](https://open.spotify.com/artist/7AqU9NR1gQwKApJyxxTC0z), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [SKEETER](https://open.spotify.com/album/67cert3BRIaXt0PgGV9VmC) | 2:40 | 2024-02-03 |  |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-21 |  |
 | [lowkey](https://open.spotify.com/track/4FzolvZnrZN06cZm6eFZJm) | [WEN](https://open.spotify.com/artist/4521qGQWk4pQU8lvGgjNUx), [Porsche Boy](https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH) | [EAST SIDE SOUND](https://open.spotify.com/album/3hWoSWX6AqeoxCmRnrcC86) | 2:45 | 2023-03-04 | 2023-03-12 |
 | [Lows](https://open.spotify.com/track/2CUSISoJHsVlanxEfaRn7k) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Planeta opic](https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl) | 2:56 | 2023-10-14 | 2023-10-29 |

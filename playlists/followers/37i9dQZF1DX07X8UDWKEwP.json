@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 251608,
+  "2024-02-04": 251563,
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Marc Anthony",
+  "description": "Lo nuevo del mundo tropical. Cover: Tiago PZK & Ke Personajes",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -4928,6 +4928,28 @@
     },
     {
       "album": {
+        "name": "Piel",
+        "url": "https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141079,
+      "name": "Piel",
+      "url": "https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1"
+    },
+    {
+      "album": {
         "name": "Por Ah\u00ed",
         "url": "https://open.spotify.com/album/0xyOFYEp9QbDSOmEcTp1md"
       },
@@ -5665,7 +5687,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 228239,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/1i8WqT23IvvVPyKZc94Zol"

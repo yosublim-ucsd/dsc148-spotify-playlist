@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Henrik
 
-347 songs - 19 hr 55 min
+348 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 | 2023-04-28 | 2023-08-24 |
 | [4runner](https://open.spotify.com/track/3sIKldlKWC5TICO2Tcz7uu) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7HI6B7UBPjpK0I4PoTfsVu) | 4:25 | 2023-08-18 | 2023-10-06 |
 | [4runner](https://open.spotify.com/track/6ofFq0aQ8aXG73pjfFKwFv) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD) | 4:25 | 2023-09-29 |  |
+| [Alaska](https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB) | 3:45 | 2023-12-15 |  |
 | [Alaska](https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh) | 3:45 | 2022-10-14 | 2024-01-27 |
 | [Alaska](https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Only Real When Shared](https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn) | 3:45 | 2021-11-12 | 2022-12-04 |
 | [All Day Long](https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [All Day Long](https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z) | 2:49 | 2022-08-19 | 2023-11-08 |
@@ -86,7 +87,7 @@
 | [DANDELION](https://open.spotify.com/track/5eMzR6D1oiZd6uPbYijJVs) | [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [DANDELION](https://open.spotify.com/album/4C3Okl0eCT7wBlHWHB6ett) | 3:03 | 2021-11-12 | 2022-07-29 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-10-27 |  |
 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 | 2023-09-22 |  |
-| [december](https://open.spotify.com/track/4i8pYDNVzAs8lyblY7rM3i) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [december](https://open.spotify.com/album/6x3R8vqlTxaT4bMkSaw8mh) | 3:12 | 2023-12-15 |  |
+| [december](https://open.spotify.com/track/4i8pYDNVzAs8lyblY7rM3i) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [december](https://open.spotify.com/album/6x3R8vqlTxaT4bMkSaw8mh) | 3:12 | 2023-12-15 | 2024-02-04 |
 | [Devastating](https://open.spotify.com/track/6ZCrjDxawDuN5CA2Wv5lQw) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Devastating](https://open.spotify.com/album/0Um7o0i84H6WIdYJPbMSAQ) | 4:23 | 2021-11-12 | 2022-07-29 |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-06-16 | 2023-07-29 |
 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 | 2023-07-21 |  |
@@ -262,7 +263,7 @@
 | [Rivals](https://open.spotify.com/track/0okjBFrVbXrqYoZASV6tRB) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Rivals](https://open.spotify.com/album/6OZvJcCStOv1Wes1023GKd) | 3:15 | 2021-11-12 | 2022-07-29 |
 | [River](https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa) | [Soll](https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1) | [River](https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux) | 4:03 | 2021-11-12 | 2023-03-18 |
 | [Runaway](https://open.spotify.com/track/4kg3VwDhN1NYZnqCV4opvs) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Four Feet in the Forest](https://open.spotify.com/album/6tb5Y6m0GxlqlcxljgR9KW) | 4:32 | 2021-11-12 | 2022-07-26 |
-| [Runaway](https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Runaway](https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc) | 4:32 | 2022-03-12 |  |
+| [Runaway](https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Runaway](https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc) | 4:32 | 2022-03-12 | 2024-02-04 |
 | [running shoes](https://open.spotify.com/track/5V1v1CtvbiImJzuet2Un5I) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [so it goes...](https://open.spotify.com/album/4r9nkAAU6oKLRsGAltedIu) | 2:40 | 2023-03-24 | 2023-05-14 |
 | [same old eyes](https://open.spotify.com/track/6nrtAP312bEU352crkOQtu) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [same old eyes](https://open.spotify.com/album/037rgatHuGpK38geQio3H0) | 3:10 | 2023-12-01 |  |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-12 |  |
@@ -343,7 +344,7 @@
 | [Wintergreen](https://open.spotify.com/track/4SZKuCSzKbKWSFkg7yHeHp) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Wintergreen](https://open.spotify.com/album/7qlEqLyATaydg82FdhOAwT) | 3:31 | 2021-11-12 | 2022-07-29 |
 | [Wintergreen](https://open.spotify.com/track/6U6xkMgaFgR0LEWHAOcD4F) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Yours to Break](https://open.spotify.com/album/7d4zInmL1k7M6t6GmGlwuJ) | 3:31 | 2022-10-14 | 2023-02-04 |
 | [Wintergreen](https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Yours to Break](https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL) | 3:31 | 2023-01-27 |  |
-| [Without You](https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Without You](https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT) | 2:56 | 2023-10-27 | 2024-01-29 |
+| [Without You](https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Without You](https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT) | 2:56 | 2023-10-27 |  |
 | [Wonderland](https://open.spotify.com/track/29Eswc8MgqA24TyhmyM7Lf) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Wonderland](https://open.spotify.com/album/3Qg4NwL9X3k6EUDA6bQ5pC) | 3:32 | 2023-07-07 | 2023-09-23 |
 | [Wonderland](https://open.spotify.com/track/69OY9Ujexp9qK4MHtD6Tzr) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Wonderland](https://open.spotify.com/album/770No61AWG74gR1xQaRYzL) | 3:32 | 2023-03-17 | 2023-07-08 |
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2021-11-12 |  |

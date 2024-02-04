@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 195974,
+  "2024-02-04": 196072,
   "date_first_scraped": "2024-01-30",
   "description": "Your weekly update of the most played tracks right now - Brazil.",
   "name": "Top Songs - Brazil",
@@ -65,6 +65,32 @@
       "duration_ms": 172548,
       "name": "Anestesiado - Ao Vivo",
       "url": "https://open.spotify.com/track/7vCtJ5u7dFM4tAWtgFf4l8"
+    },
+    {
+      "album": {
+        "name": "Baby Eu Tava na Rua da \u00c1gua",
+        "url": "https://open.spotify.com/album/6HIPvZhnf9Pb6rFLQb7vmD"
+      },
+      "artists": [
+        {
+          "name": "TR",
+          "url": "https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu"
+        },
+        {
+          "name": "Mc Menor RV",
+          "url": "https://open.spotify.com/artist/5MH9v8KacsyTetJmnrAO1W"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115846,
+      "name": "Baby Eu Tava na Rua da \u00c1gua",
+      "url": "https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD"
     },
     {
       "album": {
@@ -161,6 +187,28 @@
     {
       "album": {
         "name": "Para\u00edso Particular Vol. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5xbSsOJsCXNSodcAE7IsAA"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124511,
+      "name": "Canudinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/3wShSQczmwl6BwPqzRy1J9"
+    },
+    {
+      "album": {
+        "name": "Para\u00edso Particular Vol. 01 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7pF7Bi0zusKrMneMjYPE6h"
       },
       "artists": [
@@ -175,7 +223,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 124511,
       "name": "Canudinho - Ao Vivo",
       "url": "https://open.spotify.com/track/6Lpba0Yk8NPvMf7djCKtJf"
@@ -355,7 +403,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 156942,
       "name": "Duas Tr\u00eas",
       "url": "https://open.spotify.com/track/0redQHBfejmPUhonR5ppGC"
@@ -402,6 +450,32 @@
     },
     {
       "album": {
+        "name": "Let's Bora UDI, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2LwT0vZAXJCOciOvTbAZdf"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169559,
+      "name": "Eu N\u00e3o Dou Conta - Ao Vivo",
+      "url": "https://open.spotify.com/track/0MHA5BjCqtYL3T0yZ138mz"
+    },
+    {
+      "album": {
         "name": "Eu N\u00e3o Dou Conta (Ao Vivo)",
         "url": "https://open.spotify.com/album/6UBLAsfIQMtOdWaDgpgz2G"
       },
@@ -421,7 +495,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 169559,
       "name": "Eu N\u00e3o Dou Conta - Ao Vivo",
       "url": "https://open.spotify.com/track/6rpUGV7bcWW9ro65Bf8uYY"
@@ -653,10 +727,54 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 167786,
       "name": "Macetando",
       "url": "https://open.spotify.com/track/1T9dxi40GuNW3gNRHwk8P4"
+    },
+    {
+      "album": {
+        "name": "Macetando",
+        "url": "https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167786,
+      "name": "Macetando",
+      "url": "https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO"
+    },
+    {
+      "album": {
+        "name": "Para\u00edso Particular Vol. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5xbSsOJsCXNSodcAE7IsAA"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153237,
+      "name": "Mala dos Porta-Mala - Ao Vivo",
+      "url": "https://open.spotify.com/track/6k5QJ60Ee9UNLnJD2yksf9"
     },
     {
       "album": {
@@ -675,7 +793,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 153237,
       "name": "Mala dos Porta-Mala - Ao Vivo",
       "url": "https://open.spotify.com/track/7CD4Y7E3KMf6iCp0ilx8Wo"
@@ -792,6 +910,24 @@
     },
     {
       "album": {
+        "name": "Nuuu Que Trem B\u00e3o (Ao vivo)",
+        "url": "https://open.spotify.com/album/3IamZ5ClhBYjPJF0hoXXS2"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o & Raphael",
+          "url": "https://open.spotify.com/artist/68cvVh3HBHdwWfccCTaq0T"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132247,
+      "name": "Nuuu Que Trem B\u00e3o - Ao vivo",
+      "url": "https://open.spotify.com/track/4j43glFTBnFmFCiiV9CHoy"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Recomendo (Ao Vivo)",
         "url": "https://open.spotify.com/album/38P68ZCxri4SUQXSK15CxW"
       },
@@ -821,7 +957,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 159158,
       "name": "Oi Balde - Ao Vivo",
       "url": "https://open.spotify.com/track/4xAGuRRKOgoaZbMGdmTD3N"
@@ -890,6 +1026,68 @@
     },
     {
       "album": {
+        "name": "Ritmista 1.0",
+        "url": "https://open.spotify.com/album/3WGjmOFzUrvNmkiiqevMbJ"
+      },
+      "artists": [
+        {
+          "name": "DJ WN",
+          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "MC GH do 7",
+          "url": "https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 615810,
+      "name": "Ritmista 1.0",
+      "url": "https://open.spotify.com/track/3ZNjlT5zR0jkEVzSSZCQeJ"
+    },
+    {
+      "album": {
         "name": "Ciclone",
         "url": "https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v"
       },
@@ -901,10 +1099,32 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 167445,
       "name": "Sai Da Frente",
       "url": "https://open.spotify.com/track/3OirlIOGwFgwcQgVru6IUG"
+    },
+    {
+      "album": {
+        "name": "Silverado (AgroPlay Ver\u00e3o)",
+        "url": "https://open.spotify.com/album/0jc1n9dACj0B3LxivgmrQb"
+      },
+      "artists": [
+        {
+          "name": "AgroPlay",
+          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162194,
+      "name": "Silverado (AgroPlay Ver\u00e3o)",
+      "url": "https://open.spotify.com/track/26l5FAEVr9cfaILS0szvvt"
     },
     {
       "album": {
@@ -1045,7 +1265,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 163200,
       "name": "Toca o Trompete",
       "url": "https://open.spotify.com/track/54u86CmMqGI1rRuULlTqaB"

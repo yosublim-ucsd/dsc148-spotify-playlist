@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,907 likes - 65 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,924 likes - 65 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 15 | [La Fortaleza](https://open.spotify.com/track/1VXPKfgMIAn95PFK4TlyDD) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [La Fortaleza](https://open.spotify.com/album/73V6n1hTD93z5VVOm8eRb9) | 3:55 |
 | 16 | [Lisístrata](https://open.spotify.com/track/0zU49ugNNhip8mmrleoOzQ) | [Gata Cattana](https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo) | [Anclas](https://open.spotify.com/album/7qaPfXArvKUdTbC2qCwIgG) | 3:57 |
 | 17 | [Te Mereces Un Amor](https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te Mereces Un Amor](https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl) | 3:46 |
-| 18 | [Báilalo Mujer](https://open.spotify.com/track/1RdQkmD04McqnaiN76PohD) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Báilalo Mujer](https://open.spotify.com/album/3TqIGSpoilpG6QXGpwn5X5) | 2:52 |
-| 19 | [Historika](https://open.spotify.com/track/11LBXStTNnMsUjMLRpurqe) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [La hija del loco](https://open.spotify.com/album/0Jyzj8fLiBzZc5i0jbtCfU) | 4:26 |
+| 18 | [Historika](https://open.spotify.com/track/11LBXStTNnMsUjMLRpurqe) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [La hija del loco](https://open.spotify.com/album/0Jyzj8fLiBzZc5i0jbtCfU) | 4:26 |
+| 19 | [Báilalo Mujer](https://open.spotify.com/track/1RdQkmD04McqnaiN76PohD) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Báilalo Mujer](https://open.spotify.com/album/3TqIGSpoilpG6QXGpwn5X5) | 2:52 |
 | 20 | [Rompe \(Vencer el Miedo\)](https://open.spotify.com/track/6mQGZKKZR8EdUvfxqs4fko) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Rompe \(Vencer el Miedo\)](https://open.spotify.com/album/7z2IbqRX10fz29da0hN2bm) | 2:56 |
 | 21 | [Mujeres](https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Mujeres](https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P) | 3:35 |
 | 22 | [Ni una Menos](https://open.spotify.com/track/73sv7ERsv0E9dFRJkmTroF) | [Chocolate Remix](https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m) | [Sátira](https://open.spotify.com/album/4HsyhBMFmRLmTxEQeuROub) | 2:23 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 32 | [El Sol](https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m), [MULAMBA](https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN) | [El Sol](https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf) | 3:09 |
 | 33 | [Gitanas](https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Gitanas](https://open.spotify.com/album/2S6OhCz266448hlUEzIduB) | 3:10 |
 | 34 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 |
-| 35 | [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 |
-| 36 | [Guerrera](https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Guerrera](https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD) | 4:11 |
+| 35 | [Guerrera](https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Guerrera](https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD) | 4:11 |
+| 36 | [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 |
 | 37 | [Volando en la nube](https://open.spotify.com/track/1H4MZgDsdMXwmIhsfZy4C2) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Volando en la nube](https://open.spotify.com/album/2tqgFSQTNinupDQBPqNov9) | 3:11 |
 | 38 | [Libres](https://open.spotify.com/track/1XZ3fMlt3ajzDAPDkMqh6C) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Libres](https://open.spotify.com/album/1O16JRkcbct2LxYaanL3ye) | 3:41 |
 | 39 | [Despiertas](https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ) | [Despiertas](https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu) | 2:51 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 64 | [La Manada](https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [La Manada](https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK) | 2:44 |
 | 65 | [Yanara](https://open.spotify.com/track/5a9THIgXiVQYFbmwwoKZaw) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Canciones Que Acunan](https://open.spotify.com/album/5pcVQVkLAg5dl2L2Y0DhEN) | 4:05 |
 
-Snapshot ID: `MCwwMzUzN2QyNGE5MmFiYjg4Mzc4MzQ1ZGQ0NmQ1M2I1ZWYzZjBjNTQ2`
+Snapshot ID: `MCwyMTJjNjE1Njk2ZjFmNDE3MjQwMGNlZGUyZjczMTljZDBhNjc2YTRm`

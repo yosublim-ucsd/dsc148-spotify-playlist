@@ -6699,6 +6699,28 @@
     },
     {
       "album": {
+        "name": "Lagabog",
+        "url": "https://open.spotify.com/album/2eTeeKM6MBnbU67LAlPRqC"
+      },
+      "artists": [
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        },
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186812,
+      "name": "Lagabog",
+      "url": "https://open.spotify.com/track/0pZ1RKuQnKK3TetoSHyx7i"
+    },
+    {
+      "album": {
         "name": "Lagi",
         "url": "https://open.spotify.com/album/5hGBqZJVQVvxGQSA4WfEeV"
       },
@@ -14186,7 +14208,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 213826,
       "name": "When I Was Your Man",
       "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"

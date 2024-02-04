@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,643 likes - 47 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,671 likes - 47 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 46 | [Luz del Mundo](https://open.spotify.com/track/0qrFSjXsn1lecSDNQepSnc) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Luz del Mundo](https://open.spotify.com/album/6iLsSwfhvcF8WPu0pfSJeL) | 4:45 |
 | 47 | [Permaneceré En Tí](https://open.spotify.com/track/1JSo33oU2B2DdC0eFv6TBo) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 4:18 |
 
-Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDBlOTJlZmFlNjVhZDUwNzkxNDJhOThiODM1YTdlMzVmZQ==`
+Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA4N2FiNGFiN2Q1MjlkYmI4MTRlNTEzNDUyZmI2ODY5ZQ==`

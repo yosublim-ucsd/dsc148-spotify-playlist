@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 22 | [Hillside Boys](https://open.spotify.com/track/6oXd6W1WrxE2P499dUFNFT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Hillside Boys](https://open.spotify.com/album/3sTVtHbbmq5LsP4EBezDD3) | 3:38 |
 | 23 | [Future Starts Now](https://open.spotify.com/track/3p2wS6G159mBIU50xl7uvc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Future Starts Now](https://open.spotify.com/album/0mhiYBnL1wLGc0CgMhvBe2) | 4:39 |
 | 24 | [Slut Pop](https://open.spotify.com/track/5GUz1LkyUwjMxC5aC1H5zW) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:57 |
-| 25 | [Got My Number](https://open.spotify.com/track/1R6WBIXtlNUAMEXN6dba2q) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 2:54 |
-| 26 | [King of Hearts](https://open.spotify.com/track/0RKR9cd6tqMSJmbNVBQsuS) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:51 |
+| 25 | [King of Hearts](https://open.spotify.com/track/0RKR9cd6tqMSJmbNVBQsuS) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:51 |
+| 26 | [Got My Number](https://open.spotify.com/track/1R6WBIXtlNUAMEXN6dba2q) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 2:54 |
 | 27 | [Throat Goat](https://open.spotify.com/track/2eKFa10K8Hu1VCTLm3DUkO) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:20 |
 | 28 | [brrr](https://open.spotify.com/track/1mkzOD6x9qpMS9FV7NmCXK) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:32 |
 | 29 | [In The Next Life](https://open.spotify.com/track/4q9EwMju6FNZEhRyJe2Fw5) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT, VOL\. 1](https://open.spotify.com/album/06dIF5QLVJ4YLAHqhvn88H) | 3:44 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 91 | [Flight to Paris](https://open.spotify.com/track/3TxgHmuQhR6KIw70GllvOM) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Flight To Paris](https://open.spotify.com/album/69R61npQJZiMr8GrDO2I8w) | 6:04 |
 | 92 | [That's What's Up](https://open.spotify.com/track/1hGKDzYbd9lHbhD50y0nnj) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
 
-Snapshot ID: `Mjg0NDg3NzAsMDAwMDAwMDAyNDcxNDBlN2JhNzRlODk5NDJmM2IxOTYxZmU3OTlmMQ==`
+Snapshot ID: `Mjg0NTAyMTAsMDAwMDAwMDBiNDc2NjJlMTEzZjU2ZDA4Y2MxN2ExNjcxNDA2NTI5OA==`

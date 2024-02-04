@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 152273,
+  "2024-02-04": 152353,
   "date_first_scraped": "2022-06-10",
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u30d2\u30b0\u30c1\u30a2\u30a4 (Ai Higuchi)",
   "name": "EQUAL Anime",
@@ -78,6 +78,24 @@
     },
     {
       "album": {
+        "name": "5 Seconds Ago",
+        "url": "https://open.spotify.com/album/4HJBfxhBwz6eLiq5stV6MR"
+      },
+      "artists": [
+        {
+          "name": "\u6771 \u516b\u5343\u7a42(CV:\u7a17\u7530\u5be7\u3005)",
+          "url": "https://open.spotify.com/artist/4JSFkjTr98Px1NKZH6a8on"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225760,
+      "name": "5 Seconds Ago",
+      "url": "https://open.spotify.com/track/23rTOO5162vM1lWvVzw64K"
+    },
+    {
+      "album": {
         "name": "5 seconds ago",
         "url": "https://open.spotify.com/album/3ELRgYerX3smXzYWTIwnS3"
       },
@@ -89,7 +107,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 225760,
       "name": "5 seconds ago",
       "url": "https://open.spotify.com/track/2dWpeauDYzZ5kfl6OOn9gk"
@@ -2409,8 +2427,8 @@
       },
       "artists": [
         {
-          "name": "\u5357\u689d\u611b\u4e43",
-          "url": "https://open.spotify.com/artist/1UVUtRS6I6rZji2w8o1CXd"
+          "name": "Yoshino Nanjo",
+          "url": "https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew"
         }
       ],
       "date_added": "2024-01-18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Nsqk is bringing the heat to Fuego\. Listen to all mixtapes <a href="spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b">HERE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,888,429 likes - 20 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,888,055 likes - 20 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 19 | [HOOKEADO](https://open.spotify.com/track/3sHkuZjIaeLuMYLJAV0UVr) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Zaucy](https://open.spotify.com/artist/5DXdqxleQWNIESR33s0Bwv) | [DE CERO](https://open.spotify.com/album/0xxxP3nQaHw6JAHUVBvGFi) | 3:17 |
 | 20 | [LA DEMON](https://open.spotify.com/track/0l8KCle1S0GwSURZp0sPNT) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 3:50 |
 
-Snapshot ID: `MCw4YTFlZjFkOWI3MWE4ZmU4MzVmYjZmMjk4N2YzMzQxZWY0MjQ5MjZi`
+Snapshot ID: `MCw0NTc2YTViZDFjNTRiMjE2ZjdkZDRjZGI1ZTBmMDI1ODRjODE2ZmM4`

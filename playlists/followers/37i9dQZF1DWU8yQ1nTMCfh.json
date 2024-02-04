@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 280185,
+  "2024-02-04": 280155,
   "date_first_scraped": "2022-05-26",
-  "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: No Te Va Gustar & Zoe Gotusso",
+  "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Isla Mujeres",
   "name": "Rock Total",
   "tracks": [
     {
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 213179,
       "name": "11 RAZONES",
       "url": "https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W"
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 114000,
       "name": "EL PEOR",
       "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 154070,
       "name": "Eutanasia",
       "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
@@ -3237,6 +3237,24 @@
       "duration_ms": 192346,
       "name": "Otra Vez (Otra Vez)",
       "url": "https://open.spotify.com/track/17yD1QTXS8nlfKOForUgzC"
+    },
+    {
+      "album": {
+        "name": "Barato Ideal",
+        "url": "https://open.spotify.com/album/3vHJZa6kVgGjot5mgsjOUg"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171294,
+      "name": "Pagando de M\u00e1s",
+      "url": "https://open.spotify.com/track/4BMyL8QxN9W5jE4ia12l2G"
     },
     {
       "album": {

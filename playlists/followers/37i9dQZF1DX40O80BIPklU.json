@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 328450,
+  "2024-02-04": 328503,
   "date_first_scraped": "2022-01-02",
-  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Ana Tijoux en portada. ",
+  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Trueno en portada. ",
   "name": "Rap en Espa\u00f1ol",
   "tracks": [
     {
@@ -211,7 +211,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 210148,
       "name": "Agua Bendita",
       "url": "https://open.spotify.com/track/4V7GYSaTVhulizZ0a3dwFV"
@@ -1330,6 +1330,62 @@
     },
     {
       "album": {
+        "name": "Cuervos",
+        "url": "https://open.spotify.com/album/0XSlJq1I6jb5EpZt7WZJS2"
+      },
+      "artists": [
+        {
+          "name": "Primobeatz",
+          "url": "https://open.spotify.com/artist/72LTyD9Rh8nqOCvb3uyLxG"
+        },
+        {
+          "name": "Murder",
+          "url": "https://open.spotify.com/artist/5tdug7wnpNPEAOesKa1Aw1"
+        },
+        {
+          "name": "Noizy Black",
+          "url": "https://open.spotify.com/artist/10RLEwuNazdSJUr3QrLeLN"
+        },
+        {
+          "name": "Russhade",
+          "url": "https://open.spotify.com/artist/1AS7icKiA8yptArBjbm05f"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234482,
+      "name": "Cuervos",
+      "url": "https://open.spotify.com/track/5AobkOUXrsRz0oQpMpkLDO"
+    },
+    {
+      "album": {
+        "name": "Cypher MND #16: DUKI",
+        "url": "https://open.spotify.com/album/3iHcY5LYKnGIdNqA9kXH3C"
+      },
+      "artists": [
+        {
+          "name": "Mundialista Crew",
+          "url": "https://open.spotify.com/artist/6EcQO0oH1Bk27HMRlRNwYv"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Shigant-G",
+          "url": "https://open.spotify.com/artist/16zBWpyiDMtWDpGIueLZbC"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177902,
+      "name": "Cypher MND #16 v.1 : Duki",
+      "url": "https://open.spotify.com/track/2AxzQded8FgpiikNxP2dDc"
+    },
+    {
+      "album": {
         "name": "Humo en la Trampa 3",
         "url": "https://open.spotify.com/album/52pj5NqKKtffjSmxvMzhlY"
       },
@@ -2375,6 +2431,28 @@
       "duration_ms": 225393,
       "name": "Hip Hop Terapia",
       "url": "https://open.spotify.com/track/2BTdud0C6KRZYTUNPlNPwS"
+    },
+    {
+      "album": {
+        "name": "Honda Civik",
+        "url": "https://open.spotify.com/album/5d0Neo5ZvifgFdTxUArV6t"
+      },
+      "artists": [
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Alak",
+          "url": "https://open.spotify.com/artist/0lnmuoifLjmlIHwd7H5AS1"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208714,
+      "name": "Honda Civik",
+      "url": "https://open.spotify.com/track/44Q3DZanQtcznTidObbxho"
     },
     {
       "album": {
@@ -3700,6 +3778,24 @@
     },
     {
       "album": {
+        "name": "Mi Vida",
+        "url": "https://open.spotify.com/album/7h9QYjMl1MdvKQSvnXj6c5"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117112,
+      "name": "Mi Vida",
+      "url": "https://open.spotify.com/track/55WHGRh8av3cHRMX2MuWFk"
+    },
+    {
+      "album": {
         "name": "Migas",
         "url": "https://open.spotify.com/album/5lZC1pTFVb0b5rz6j86now"
       },
@@ -4437,7 +4533,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 196208,
       "name": "Perseverancia",
       "url": "https://open.spotify.com/track/1YfRiuIjPlAQagj1AoqAew"
@@ -4521,7 +4617,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 212316,
       "name": "Posdata",
       "url": "https://open.spotify.com/track/0KNbSGfz4A8qSNEv45kykQ"
@@ -5333,7 +5429,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 207619,
       "name": "Sosiego",
       "url": "https://open.spotify.com/track/3DCpNEyzKPwF8gWKbwyiEw"
@@ -5553,6 +5649,24 @@
       "duration_ms": 170306,
       "name": "THE ROOKIE",
       "url": "https://open.spotify.com/track/3Q2iwtxmzLEIQm0mrSXr5N"
+    },
+    {
+      "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/4mnAwRH9rHUHCeiVKgpdaO"
+      },
+      "artists": [
+        {
+          "name": "Las Ninyas del Corro",
+          "url": "https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187865,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/3qdtPhFUPKEwOzgcoQg5z4"
     },
     {
       "album": {
@@ -5907,7 +6021,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 194723,
       "name": "Una Calada",
       "url": "https://open.spotify.com/track/3dO4nlMMWLo08eiprSMJqN"

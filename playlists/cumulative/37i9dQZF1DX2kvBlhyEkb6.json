@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 743466,
       "name": "Symphony No. 1 in G Minor, Op. 13 \"Winter Daydreams\": I. Daydreams on a Winter Journey (Allegro tranquillo)",
       "url": "https://open.spotify.com/track/6pE5uWjUDTSiM338Gvi0Nx"
@@ -2596,6 +2596,32 @@
       "duration_ms": 327826,
       "name": "Tchaikovsky: Swan Lake, Op. 20, TH.12 / Act 4 - No. 27 Danses des petits cygnes (Moderato)",
       "url": "https://open.spotify.com/track/07eTnaYwUhqzkLXy8wgZwX"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Swan Lake and Other Masterpieces",
+        "url": "https://open.spotify.com/album/7xwRw0xwWOCPVWN3NDg9uq"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 743466,
+      "name": "Tchaikovsky: Symphony No. 1, Op. 13 \"Winter Daydreams\": I. Daydreams on a Winter Journey. Allegro tranquillo",
+      "url": "https://open.spotify.com/track/2ZR3RxDORaaAIzX6eHKFG0"
     },
     {
       "album": {

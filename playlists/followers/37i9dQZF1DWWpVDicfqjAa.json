@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 35766,
+  "2024-02-04": 35775,
   "date_first_scraped": "2022-09-15",
   "description": "<a href=\"spotify:artist:5ITI6SEoUZMIXXkzCfr4oE\">Aluna</a>'s favorite tracks. Updated regularly. Curated by Aluna. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Aluna's track IDs",
@@ -1310,6 +1310,28 @@
     },
     {
       "album": {
+        "name": "Cyclone",
+        "url": "https://open.spotify.com/album/12HB01nCCLAjjyGDX1H76r"
+      },
+      "artists": [
+        {
+          "name": "TYDN",
+          "url": "https://open.spotify.com/artist/2dpParazLrjuhscQyIqTeQ"
+        },
+        {
+          "name": "Brooke Harmony",
+          "url": "https://open.spotify.com/artist/29kTw9OU2D3QgtJzC76fzM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265401,
+      "name": "Cyclone",
+      "url": "https://open.spotify.com/track/0jBfzqDHsIQ2HrXUQwDTOc"
+    },
+    {
+      "album": {
         "name": "Empress",
         "url": "https://open.spotify.com/album/6WMZNFEdj2g4VQRKeC4XaG"
       },
@@ -1889,7 +1911,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 290813,
       "name": "Get Down Lil Bit - Street Bangers Factory 16",
       "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
@@ -2437,6 +2459,24 @@
       "duration_ms": 205241,
       "name": "Inhale Exhale",
       "url": "https://open.spotify.com/track/0jl8XWES6VNZ5eMVvzZN0M"
+    },
+    {
+      "album": {
+        "name": "IT GIRL",
+        "url": "https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH"
+      },
+      "artists": [
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161760,
+      "name": "IT GIRL",
+      "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
     },
     {
       "album": {
@@ -3210,6 +3250,24 @@
     },
     {
       "album": {
+        "name": "Main Character Energy",
+        "url": "https://open.spotify.com/album/3knwM6Dfo9PtunJSOBLN4X"
+      },
+      "artists": [
+        {
+          "name": "J Nikol\u00e9",
+          "url": "https://open.spotify.com/artist/30dMoBPzZLynOC8wZzaGpA"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Main Character Energy",
+      "url": "https://open.spotify.com/track/7My9AddEpGbyxgFyt7hLxd"
+    },
+    {
+      "album": {
         "name": "Make It Shake",
         "url": "https://open.spotify.com/album/7fCWxquLQra8kTrUKi4UEo"
       },
@@ -3469,6 +3527,24 @@
       "duration_ms": 191367,
       "name": "Mirror Maru",
       "url": "https://open.spotify.com/track/0DLgcXpJ8xUALnArVKox3k"
+    },
+    {
+      "album": {
+        "name": "Mollyraw",
+        "url": "https://open.spotify.com/album/5o4SyYUwVLTkIHFv9hxyu6"
+      },
+      "artists": [
+        {
+          "name": "Storm Mollison",
+          "url": "https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Mollyraw",
+      "url": "https://open.spotify.com/track/358dNeuLELfexwK2WAzDjp"
     },
     {
       "album": {
@@ -4491,7 +4567,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 178240,
       "name": "Ring-a-Ling",
       "url": "https://open.spotify.com/track/0CAisIL2Tjy47oEkzQUMns"
@@ -5047,7 +5123,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 193790,
       "name": "Strut",
       "url": "https://open.spotify.com/track/1rgfeVIxhmB9M2fx80NnXf"
@@ -5189,7 +5265,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 208422,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7wcqafiGn5oZrBHvo9tEjS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,851 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,877 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 17 | [Watch Out](https://open.spotify.com/track/3ZzUOWnQuNxenx2MbZqtYq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Watch Out](https://open.spotify.com/album/11tfAS197RiPG4po110Tre) | 3:56 |
 | 18 | [Nakhro](https://open.spotify.com/track/5wTJUBrXap0YwoXLEYMAn9) | [DJ Flow](https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Nakhro](https://open.spotify.com/album/5hskIdcDek1mjsLDzLErbn) | 2:29 |
 | 19 | [Gang Boliyan](https://open.spotify.com/track/3JzIXwROWkSMEdkrCjFcsI) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [The Plot](https://open.spotify.com/album/3kcnt7o6VQ5QvCSMhtfuDX) | 1:54 |
-| 20 | [Mainstream](https://open.spotify.com/track/5NVKb40uUdjWbo8TINPtWU) | [NADAR](https://open.spotify.com/artist/1Bgk62DL2Mc8CthtepdVBr), [Dabrown](https://open.spotify.com/artist/5HBHViJYgCsbJtSUq3dGkS) | [Mainstream](https://open.spotify.com/album/3V47YjpWRzCma2P0jFB1Cm) | 2:52 |
+| 20 | [Mainstream](https://open.spotify.com/track/5NVKb40uUdjWbo8TINPtWU) | [NADAR](https://open.spotify.com/artist/1Bgk62DL2Mc8CthtepdVBr), [DaBrown](https://open.spotify.com/artist/4xAjp5uHf1HTQnXMGPZEMC) | [Mainstream](https://open.spotify.com/album/3V47YjpWRzCma2P0jFB1Cm) | 2:52 |
 | 21 | [PO](https://open.spotify.com/track/1W6r5thD9Tadno47turNR0) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [PO](https://open.spotify.com/album/3dDTeOeKChpAltxDRciLXD) | 3:35 |
 | 22 | [Hustla](https://open.spotify.com/track/2ucjApErbM9GZ6aJl2HGWF) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Still Here](https://open.spotify.com/album/55nYYOQPH0AUrbfsV0Nhgl) | 2:53 |
 | 23 | [WAR](https://open.spotify.com/track/4Tr9TEb18Jb6hQxeXXzZcX) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [WAR](https://open.spotify.com/album/5hIEc8FpmTpxkaCGc09IgN) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Nah They Can't](https://open.spotify.com/track/5RXc1cmSNl3DSRThl2Ii4W) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:24 |
 | 100 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 |
 
-Snapshot ID: `MCw5YjkxNTRjNjg5NmE0ZGYwZTI0MTU4MzEzMjgyMDQyOWFiYjE3ZjAz`
+Snapshot ID: `MCwxYjE2YTMwYmE2OTg5MmZmOTUwYTYzYjAxM2FhNWRmMWY4NjIzMmQ0`

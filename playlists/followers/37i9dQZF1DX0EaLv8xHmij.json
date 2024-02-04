@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 26932,
+  "2024-02-04": 26951,
   "date_first_scraped": "2022-03-24",
   "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: Oklin, Prod. 2t",
   "name": "Rima Avan\u00e7ada",
@@ -87,7 +87,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 154520,
       "name": "16 Toneladas",
       "url": "https://open.spotify.com/track/1sL8jrQOc3lG2Tow2lpjDj"
@@ -5362,6 +5362,40 @@
     },
     {
       "album": {
+        "name": "Sem Ind\u00edcios",
+        "url": "https://open.spotify.com/album/2qdVlvKiOxwsMKwBxxokoT"
+      },
+      "artists": [
+        {
+          "name": "Redd AllFavela",
+          "url": "https://open.spotify.com/artist/7dBIQV6aOgRUGFzvC3gTkt"
+        },
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        },
+        {
+          "name": "RiverST",
+          "url": "https://open.spotify.com/artist/5Qa5X4DyStWx7TS3wWkun8"
+        },
+        {
+          "name": "@maiarealplug",
+          "url": "https://open.spotify.com/artist/7hqQlEwI15CFbayxHc42L3"
+        },
+        {
+          "name": "AllFavela",
+          "url": "https://open.spotify.com/artist/4DqW9Yj3JdScO6gSUlVyqS"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148900,
+      "name": "Sem Ind\u00edcios",
+      "url": "https://open.spotify.com/track/7gTXqvvcKYz4Gqmn358AjF"
+    },
+    {
+      "album": {
         "name": "Sem Remorso",
         "url": "https://open.spotify.com/album/3QzXO1kcPGHrtPuouwSsN7"
       },
@@ -5735,10 +5769,36 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 136666,
       "name": "TBT",
       "url": "https://open.spotify.com/track/5prIJikSCVovHL7wADbkB4"
+    },
+    {
+      "album": {
+        "name": "Tecnologia Nova",
+        "url": "https://open.spotify.com/album/2swJdgvFv1bwcKHL1FebLF"
+      },
+      "artists": [
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
+        },
+        {
+          "name": "Ciro Daniel",
+          "url": "https://open.spotify.com/artist/3Rso0khSv7X2ENbc0OsjxJ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "Tecnologia Nova",
+      "url": "https://open.spotify.com/track/1NDmdoZa9Jv4squxaCpA8d"
     },
     {
       "album": {

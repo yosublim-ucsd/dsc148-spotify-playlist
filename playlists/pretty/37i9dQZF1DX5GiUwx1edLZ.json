@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 276312,
+  "num_followers": 276307,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjQ3NGEwYTU5MzY3NWIyOTZlMjVlNzdmMGNmZjhiODdiNmM4NGY2",
+  "snapshot_id": "MCwwZGM2MjRjMmRlNzNhZjUyOWMwYjA0MTk0ZmVmMGI2NjZlNjI4NjUy",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/5xHR6285R5JhrTwXIjtP8D"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        }
+      ],
+      "duration_ms": 174266,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3s8GJ1A9ujxsKcLaJ2wY7Q"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Acoustic Collection (Vol. 1)",
         "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 184815,
       "name": "Take Me Home (feat. Bebe Rexha) - Acoustic",
       "url": "https://open.spotify.com/track/3j9AY9emI5H45iMxTpT4TJ"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/5xHR6285R5JhrTwXIjtP8D"
-      },
-      "artists": [
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        }
-      ],
-      "duration_ms": 174266,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3s8GJ1A9ujxsKcLaJ2wY7Q"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -363,26 +363,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "I Miss You (feat. Julia Michaels) [Acoustic]",
-        "url": "https://open.spotify.com/album/4oVuagXHRZZZIvhocptEaU"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 216294,
-      "name": "I Miss You (feat. Julia Michaels) - Acoustic",
-      "url": "https://open.spotify.com/track/2HfKpWYPx4Os46z1K7yE4k"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "All That Really Matters (Stripped Version)",
         "url": "https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 198568,
       "name": "All That Really Matters - Stripped Version",
       "url": "https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "I Miss You (feat. Julia Michaels) [Acoustic]",
+        "url": "https://open.spotify.com/album/4oVuagXHRZZZIvhocptEaU"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 216294,
+      "name": "I Miss You (feat. Julia Michaels) - Acoustic",
+      "url": "https://open.spotify.com/track/2HfKpWYPx4Os46z1K7yE4k"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -515,6 +515,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Symphony (feat. Zara Larsson) [Acoustic]",
+        "url": "https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "Symphony (feat. Zara Larsson) - Acoustic Version",
+      "url": "https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 250506,
       "name": "Happier - Stripped",
       "url": "https://open.spotify.com/track/0Gz1nOeTeNoMnKzb9vflds"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Symphony (feat. Zara Larsson) [Acoustic]",
-        "url": "https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "Symphony (feat. Zara Larsson) - Acoustic Version",
-      "url": "https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Spectrum EP",
-        "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Matthew Koma",
-          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
-        }
-      ],
-      "duration_ms": 110440,
-      "name": "Spectrum - Acoustic Version",
-      "url": "https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Ferrari (Acoustic)",
         "url": "https://open.spotify.com/album/706d3fxyjF2C03PxtyueQK"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 141890,
       "name": "Ferrari - Acoustic",
       "url": "https://open.spotify.com/track/5eaYAQU1cr3M8hLdF71Fg7"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Spectrum EP",
+        "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        }
+      ],
+      "duration_ms": 110440,
+      "name": "Spectrum - Acoustic Version",
+      "url": "https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Florida",
-        "url": "https://open.spotify.com/album/5W6DaTWwEqOQMdLjTHxf50"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 96866,
-      "name": "Florida",
-      "url": "https://open.spotify.com/track/6caZJt9HJb4Oi8eUwofGBy"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Brighter Future",
         "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
       },
@@ -1607,22 +1591,38 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Used To Have It All (Acoustic Version)",
-        "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
+        "name": "Florida",
+        "url": "https://open.spotify.com/album/5W6DaTWwEqOQMdLjTHxf50"
       },
       "artists": [
         {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         }
       ],
-      "duration_ms": 181934,
-      "name": "Used To Have It All - Acoustic",
-      "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
+      "duration_ms": 96866,
+      "name": "Florida",
+      "url": "https://open.spotify.com/track/6caZJt9HJb4Oi8eUwofGBy"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Kids in Love (Remixes)",
+        "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "The Night Game",
+          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
+        }
+      ],
+      "duration_ms": 245066,
+      "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
+      "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1651,22 +1651,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Kids in Love (Remixes)",
-        "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
+        "name": "Used To Have It All (Acoustic Version)",
+        "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
         },
         {
-          "name": "The Night Game",
-          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 245066,
-      "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
-      "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
+      "duration_ms": 181934,
+      "name": "Used To Have It All - Acoustic",
+      "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "No Time For Tears (Acoustic)",
-        "url": "https://open.spotify.com/album/6JdEdTE43TPbQ49iawf3uw"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 205305,
-      "name": "No Time For Tears - Acoustic",
-      "url": "https://open.spotify.com/track/6j7JXcBcgkqiMV7RMWzcpk"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
         "url": "https://open.spotify.com/album/3hKRY4DD8oIvlKOsfaMqcM"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 161146,
       "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
       "url": "https://open.spotify.com/track/5SaWCxHm3nONtaL0pNxiJZ"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "No Time For Tears (Acoustic)",
+        "url": "https://open.spotify.com/album/6JdEdTE43TPbQ49iawf3uw"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 205305,
+      "name": "No Time For Tears - Acoustic",
+      "url": "https://open.spotify.com/track/6j7JXcBcgkqiMV7RMWzcpk"
     },
     {
       "added_at": "2023-10-06 04:01:00",

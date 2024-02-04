@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Ivan Cornejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,937 likes - 54 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,943 likes - 54 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 27 | [Si Una Vez](https://open.spotify.com/track/1b9VGldop6GGiTdcVoshUl) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Si Una Vez](https://open.spotify.com/album/6aW8Fk5hy1LtljeI7EscKM) | 2:55 |
 | 28 | [Muy Tarde](https://open.spotify.com/track/5FH58kM8Q3h2vS5LKhJf9H) | [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Casa Lumbre](https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR) | 3:09 |
 | 29 | [A Mi Cama](https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [A Mi Cama](https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6) | 2:34 |
-| 30 | [Cuéntame](https://open.spotify.com/track/08XOjWbCPNQZ9QQmR8cvVM) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Cuéntame](https://open.spotify.com/album/1YElPMls8uTayRx3ubFRaS) | 2:56 |
-| 31 | [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 |
+| 30 | [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 |
+| 31 | [Cuéntame](https://open.spotify.com/track/08XOjWbCPNQZ9QQmR8cvVM) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Cuéntame](https://open.spotify.com/album/1YElPMls8uTayRx3ubFRaS) | 2:56 |
 | 32 | [VAN A VER](https://open.spotify.com/track/3DMbXac1r9ZOwOZKs1Pd1O) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L) | [Town Shit Vol\. 3](https://open.spotify.com/album/6vRbcfIeASWMzW5xXoaPUA) | 2:24 |
 | 33 | [PLAYMAKER PT.2](https://open.spotify.com/track/1tP8v0BZQCnag97DnzLWII) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [PLAYMAKER PT.2](https://open.spotify.com/album/15wZIGdnEszokWI7R8knwN) | 2:45 |
 | 34 | [¿quién dice?](https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [¿quién dice?](https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN) | 3:33 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 43 | [Olivia Rodrigo](https://open.spotify.com/track/2jSijYfc6NxLkh1NvmSLCM) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [Olivia Rodrigo](https://open.spotify.com/album/793yH9COaJR4F2qAXM0MAu) | 2:21 |
 | 44 | [freak](https://open.spotify.com/track/1sPrKOJyjhFKGJdwaHvzZQ) | [Cassie Marin](https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH) | [mundo dulce](https://open.spotify.com/album/1Vbm9eKF88bWRkPNNz8uC1) | 2:32 |
 | 45 | [EN LA MAÑANA](https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [EN LA MAÑANA](https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX) | 2:33 |
-| 46 | [LA TANGA](https://open.spotify.com/track/100QTgMwBISQLjrime1jF8) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [LA TANGA](https://open.spotify.com/album/0S6Z8MgGVuGxC3ubKfEQSf) | 2:18 |
-| 47 | [Si Se Siente](https://open.spotify.com/track/3pTm05Q4Ba4uawoAK8T6tH) | [Los Bravos De La H](https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr) | [Si Se Siente](https://open.spotify.com/album/2JA2xyMPBjqvJVz9Cdlrl9) | 3:04 |
-| 48 | [XO clubeteado](https://open.spotify.com/track/2COPgOa1buFP656rkQ3Dgr) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH) | [XO clubeteado](https://open.spotify.com/album/20PMJCFApDLBdML8TWDBdq) | 2:34 |
+| 46 | [XO clubeteado](https://open.spotify.com/track/2COPgOa1buFP656rkQ3Dgr) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH) | [XO clubeteado](https://open.spotify.com/album/20PMJCFApDLBdML8TWDBdq) | 2:34 |
+| 47 | [LA TANGA](https://open.spotify.com/track/100QTgMwBISQLjrime1jF8) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [LA TANGA](https://open.spotify.com/album/0S6Z8MgGVuGxC3ubKfEQSf) | 2:18 |
+| 48 | [Si Se Siente](https://open.spotify.com/track/3pTm05Q4Ba4uawoAK8T6tH) | [Los Bravos De La H](https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr) | [Si Se Siente](https://open.spotify.com/album/2JA2xyMPBjqvJVz9Cdlrl9) | 3:04 |
 | 49 | [Luces De La Calle](https://open.spotify.com/track/0FpLsbGzRlspvM1Hr0sxCj) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Raíces \(Así Se Hace\)](https://open.spotify.com/album/1zek5N9ai5ZoXdgFhTVu1d) | 3:09 |
 | 50 | [HOLY WATER](https://open.spotify.com/track/5Vu2AUQgliS6r2GxIplfUG) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [HOLY WATER](https://open.spotify.com/album/7ibXmW6H7m9ypNAlJXCO8y) | 3:27 |
 | 51 | [NISSAN](https://open.spotify.com/track/2UpUXtRKh1yaPW3p0UpEo3) | [Harlay](https://open.spotify.com/artist/0aN1efj8fytfb8PUYyjZus) | [NISSAN](https://open.spotify.com/album/66NvqSro6inz5pGKQnIxdK) | 1:56 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 53 | [guestlist](https://open.spotify.com/track/6RoVyGRo2NNIPfL6euEbuz) | [ARIEL](https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3) | [guestlist](https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9) | 3:31 |
 | 54 | [Fría](https://open.spotify.com/track/7eqgrmkz5xhqZYKyWk8X5j) | [Ratchetón](https://open.spotify.com/artist/3KtoMerxi4LwxzYytFbgx5) | [Fría](https://open.spotify.com/album/2PSESkGglaCfC4Qvk1XLSc) | 2:26 |
 
-Snapshot ID: `MCxjOTNmY2JkYjM1ZTJkZGFmMDA2MGNiOGI2Yzk2NGY0NDMwMWQxMTRi`
+Snapshot ID: `MCwyNGI5MDZiZTlhYTlmMzg4YzZhZTcxMWZkYTNiMWQxOWVkMDAwZTI1`

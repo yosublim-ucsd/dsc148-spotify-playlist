@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 46260,
+  "2024-02-04": 46253,
   "date_first_scraped": "2023-11-08",
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: Tate McRae.",
   "name": "Trending Now",
@@ -65,7 +65,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 192479,
       "name": "100 Million",
       "url": "https://open.spotify.com/track/3EJslhR33350RLGMb6eOAg"
@@ -105,7 +105,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 175161,
       "name": "42",
       "url": "https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 198514,
       "name": "Airplane Tickets",
       "url": "https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 165799,
       "name": "Bitter Sweet Love",
       "url": "https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv"
@@ -724,6 +724,24 @@
     },
     {
       "album": {
+        "name": "Can't Be a Friend",
+        "url": "https://open.spotify.com/album/2x0OZkL3g1sQpMcGu3JCMB"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157808,
+      "name": "Can't Be a Friend",
+      "url": "https://open.spotify.com/track/1cDJRRbIJAf0pF3pIzEWq7"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
@@ -757,6 +775,24 @@
       "duration_ms": 208626,
       "name": "Changes",
       "url": "https://open.spotify.com/track/60yKLmHERaj5dSqHHc8HKh"
+    },
+    {
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/49WXECyPBx84Kw0E33sjCY"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137813,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/54fIT6FB4H6z3BJXQai1hm"
     },
     {
       "album": {
@@ -947,7 +983,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 144253,
       "name": "Entrapreneur",
       "url": "https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh"
@@ -965,10 +1001,32 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 159400,
       "name": "exes",
       "url": "https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o"
+    },
+    {
+      "album": {
+        "name": "exes (Regard Remix)",
+        "url": "https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182508,
+      "name": "exes - Regard Remix",
+      "url": "https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA"
     },
     {
       "album": {
@@ -1059,6 +1117,24 @@
       "duration_ms": 190373,
       "name": "Foolish",
       "url": "https://open.spotify.com/track/6Ul6j61QulfLucooYMcrtV"
+    },
+    {
+      "album": {
+        "name": "Frank Miller (Kill Again) / I'm So Glad",
+        "url": "https://open.spotify.com/album/39hIwDeKCBkErqbUJ7Q5pJ"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131544,
+      "name": "Frank Miller (Kill Again)",
+      "url": "https://open.spotify.com/track/7HZl2VrEC0wODesG5W5q0o"
     },
     {
       "album": {
@@ -1223,7 +1299,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 180000,
       "name": "Good in Goodbye",
       "url": "https://open.spotify.com/track/3MaPMbwBZSyBQOob8QFnRV"
@@ -1436,6 +1512,24 @@
     },
     {
       "album": {
+        "name": "Head Underwater",
+        "url": "https://open.spotify.com/album/52IA9m2bwmNyVWdf1QypOz"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195625,
+      "name": "Head Underwater",
+      "url": "https://open.spotify.com/track/6aVuhf1DaTNoFgpDgIQku0"
+    },
+    {
+      "album": {
         "name": "Heartbeat Highway",
         "url": "https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r"
       },
@@ -1469,6 +1563,42 @@
       "duration_ms": 174595,
       "name": "HEAVEN",
       "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
+    },
+    {
+      "album": {
+        "name": "Heaven In Your Hands",
+        "url": "https://open.spotify.com/album/57ZBVLIHtcXfBdicj7K1Tr"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178032,
+      "name": "Heaven In Your Hands",
+      "url": "https://open.spotify.com/track/0Bfu8xiBLLtNk66S0CWnPY"
+    },
+    {
+      "album": {
+        "name": "HOLLA",
+        "url": "https://open.spotify.com/album/4ycMyOweF6LL67STCsFTc1"
+      },
+      "artists": [
+        {
+          "name": "J. Rey Soul",
+          "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181565,
+      "name": "HOLLA",
+      "url": "https://open.spotify.com/track/7olddX0hHcDyQnhySU6caA"
     },
     {
       "album": {
@@ -1858,6 +1988,46 @@
     },
     {
       "album": {
+        "name": "Lose Me Too",
+        "url": "https://open.spotify.com/album/3RefMIz84KfrcdStL6A5N7"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204561,
+      "name": "Lose Me Too",
+      "url": "https://open.spotify.com/track/6v588XewELMxOECYe2Hyig"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1sF7sruZ4NXlCi4YKRZAka"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156716,
+      "name": "Lost In Paradise",
+      "url": "https://open.spotify.com/track/2F7w7kDFmUuMtyTR3TyLVC"
+    },
+    {
+      "album": {
         "name": "Love On You (feat. Griff Clawson)",
         "url": "https://open.spotify.com/album/7hijxy3rso2MSNyHf0K5kj"
       },
@@ -1899,7 +2069,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 212250,
       "name": "Lover/Friend",
       "url": "https://open.spotify.com/track/0A3MUy6ifDxog1zfy4m7de"
@@ -2478,6 +2648,24 @@
     },
     {
       "album": {
+        "name": "Oh No :: He Said What?",
+        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228138,
+      "name": "Oh No :: He Said What?",
+      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
+    },
+    {
+      "album": {
         "name": "OK (feat. Young Thug)",
         "url": "https://open.spotify.com/album/76GwLI1nybtKiwJ1maeFIw"
       },
@@ -2785,7 +2973,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 224274,
       "name": "Pressure (feat. Kojey Radical)",
       "url": "https://open.spotify.com/track/1QUJFuJbhEyEutqd5TRBBv"
@@ -3122,6 +3310,24 @@
     },
     {
       "album": {
+        "name": "Slow Decay",
+        "url": "https://open.spotify.com/album/3WcOJPn6pzdftLyzrmpOCK"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199221,
+      "name": "Slow Decay",
+      "url": "https://open.spotify.com/track/5dQ6k002CdfiBXVtjA93ra"
+    },
+    {
+      "album": {
         "name": "Smurk Carter",
         "url": "https://open.spotify.com/album/0VSgeOD7TUUPesGNwaLadN"
       },
@@ -3445,7 +3651,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 194782,
       "name": "this is what winter feels like",
       "url": "https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ"
@@ -3481,7 +3687,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 168814,
       "name": "Told Ya",
       "url": "https://open.spotify.com/track/315z94HWFxprz0cqLv8oiD"
@@ -3547,6 +3753,24 @@
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "album": {
+        "name": "Turn the Lights Back On",
+        "url": "https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238939,
+      "name": "Turn the Lights Back On",
+      "url": "https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw"
     },
     {
       "album": {
@@ -3659,7 +3883,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 198306,
       "name": "Walked In The Room",
       "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,304 likes - 131 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,590 likes - 131 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 9 | [INVOKE \-インヴォーク\-](https://open.spotify.com/track/6mwBMPGpO0gtvR8QKxVCyo) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [coordinate](https://open.spotify.com/album/1Nz1JrJKCsAtTiIu5A3pw2) | 4:19 |
 | 10 | [Believe](https://open.spotify.com/track/7qWFvRnS2nI0iIjPfJb72x) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Greeting](https://open.spotify.com/album/1tSpBQpRxeTychxGR9NhiQ) | 3:54 |
 | 11 | [Realize](https://open.spotify.com/track/1c6hdEBSFwutFim9pyaDHm) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Greeting](https://open.spotify.com/album/1tSpBQpRxeTychxGR9NhiQ) | 4:41 |
-| 12 | [Annani Isshodattanoni](https://open.spotify.com/track/6Ms0UlshNzmPu4pJ3GmjCQ) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Annani Isshodattanoni](https://open.spotify.com/album/6ZZlobrWjLf1VGtCDNl1dJ) | 4:48 |
+| 12 | [あんなに一緒だったのに](https://open.spotify.com/track/5P97xlvOl6IadKTLVId5ap) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Dream Field](https://open.spotify.com/album/4e57AGxBR7VRGMYZxBmxBH) | 4:49 |
 | 13 | [RIVER](https://open.spotify.com/track/5mf0n04gtpdXbl9ZGgX1uY) | [Tatsuya Ishii](https://open.spotify.com/artist/07xwiTdCD7TbFYdwXcgr5V) | [super nipops](https://open.spotify.com/album/75agQWCXwsZZWL0ndw9AiU) | 4:51 |
 | 14 | [FIND THE WAY](https://open.spotify.com/track/6mj3XXPRbBXUPG2yynVWO3) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [LOVE](https://open.spotify.com/album/1h4Lf9DpKDdO8gNSmedtht) | 5:26 |
 | 15 | [Distance](https://open.spotify.com/track/7DR1RA2JopBM7Teb1ftefA) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [『elemental』](https://open.spotify.com/album/4sCdhpUKz1dCg97RWZ89Id) | 4:07 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 130 | [Next 2 U \-eUC\-](https://open.spotify.com/track/4Jhe1n8G2obpW4NWMifSrB) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [ななみ](https://open.spotify.com/artist/7CORvdMKsZAngZc3kK2GaR) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 4:04 |
 | 131 | [Hoshizora no Believe](https://open.spotify.com/track/3cST7z20txQesotATAQQ7l) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Hoshizora no Believe](https://open.spotify.com/album/6NZQluArYPWSujVrIK2xX1) | 3:30 |
 
-Snapshot ID: `MCwyNzI5YTBlNDA2MWJkNzg0NTNiOTAzYzAzMTRjNjZmZWMwYmFhM2I3`
+Snapshot ID: `MCxhZmRlZjE1NTcxZDViYTg5OGVjMGJhMjZjN2FkYmNlOGNjNzU0NGQ3`

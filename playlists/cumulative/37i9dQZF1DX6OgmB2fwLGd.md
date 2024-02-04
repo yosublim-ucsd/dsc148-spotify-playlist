@@ -4,7 +4,7 @@
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-942 songs - 1 day 14 hr 26 min
+943 songs - 1 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [556 \(Green Tip\)](https://open.spotify.com/track/35WdGjpHVOHLepJl543eyC) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [556 \(Green Tip\)](https://open.spotify.com/album/7JAE90R7Qq45PAG4RnoP9h) | 1:57 | 2022-02-21 | 2022-04-09 |
 | [556 \(Green Tip\) \(Spotem G\-Mix\)](https://open.spotify.com/track/6foIbQlxDlg5RzMqY0uOwR) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa), [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [556 \(Green Tip\) \(Spotem G\-Mix\)](https://open.spotify.com/album/0K5ueKr5c9ZBfkl3kHNR9v) | 2:52 | 2022-04-08 | 2022-09-17 |
 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 | 2022-12-02 | 2023-01-05 |
+| [5ive4our](https://open.spotify.com/track/29QCdDTlQnPhFlnxQeIcPb) | [IDY bran](https://open.spotify.com/artist/5rc3NuCtECQu3KfAN2kdE3) | [5ive4our](https://open.spotify.com/album/4nmAobgW3pMddugCFJF6lq) | 2:08 | 2024-02-03 |  |
 | [6 Ft](https://open.spotify.com/track/0kwtcexUeuGMmduCFp6x8H) | [Mudrigo](https://open.spotify.com/artist/301jinGFu9ZVQZTPXMwRoM) | [6 Ft](https://open.spotify.com/album/4ZcfQUAWisqbHcOL7wfYf6) | 1:43 | 2022-10-25 | 2023-01-14 |
 | [60 Miles](https://open.spotify.com/track/3dyhk17fDgslADTDnU6sgG) | [Lil RT](https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H) | [60 Miles](https://open.spotify.com/album/0ZERBpDfUs0o3ZULTzb3cj) | 2:06 | 2023-10-27 |  |
 | [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH) | 1:42 | 2022-11-15 | 2023-03-21 |
@@ -181,7 +182,7 @@
 | [Cherry](https://open.spotify.com/track/1ElVUkyuyrFbyfwbXAK5j5) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Cherry](https://open.spotify.com/album/2DrqcEEEU1hGgWvZslvg12) | 2:19 | 2023-12-01 |  |
 | [Chill Speedy](https://open.spotify.com/track/2e6nLAMw6z7H4gFmClyxhZ) | [IShowSpeed](https://open.spotify.com/artist/6fq2794JwAdmCXVaz5tDym) | [Chill Speedy](https://open.spotify.com/album/30qGOdpoLeLCIPUOMPCRa0) | 1:13 | 2023-04-21 | 2023-05-20 |
 | [circus](https://open.spotify.com/track/0NVE77h0628NFCL2Xc2fUg) | [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [circus](https://open.spotify.com/album/18N7OqbHFi8CMatvhdrN5r) | 2:13 | 2022-10-14 | 2022-10-26 |
-| [Clocking U](https://open.spotify.com/track/4hNdFY5XiWlcdVY8zBoE8b) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Pretty Girls Love Slizzy](https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO) | 2:56 | 2023-09-22 |  |
+| [Clocking U](https://open.spotify.com/track/4hNdFY5XiWlcdVY8zBoE8b) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Pretty Girls Love Slizzy](https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO) | 2:56 | 2023-09-22 | 2024-02-04 |
 | [CLUBHOUSE! \(FEAT\. MIKE DIMES\)](https://open.spotify.com/track/2UKEafEb8WaCuMJFfHNq5n) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [CLUBHOUSE! / UNCIVILIZED! \(GO!\)](https://open.spotify.com/album/4BPihCuvLuLFhxc1pzUk7R) | 2:33 | 2022-06-17 | 2022-07-30 |
 | [Clumsy Dancer](https://open.spotify.com/track/6LuD2JSlTWmidYCxwoDwMw) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [exiit](https://open.spotify.com/album/5VAWrWrATNYTgUojcJtn8g) | 3:16 | 2023-06-16 | 2023-09-23 |
 | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/track/0FZUgV8DchbInBN1S7INnM) | [5Star](https://open.spotify.com/artist/493Nd7z7FKZXJOwQmuDng3), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/album/6yrKgdAGnLWgmaYP6pKUDw) | 2:44 | 2022-04-04 | 2022-09-17 |
@@ -230,7 +231,7 @@
 | [Diamonds](https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Side Effects EP](https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx) | 3:26 | 2023-01-30 | 2023-07-22 |
 | [Diamonds Cry](https://open.spotify.com/track/3lq7nObJRC3GXoPDe8zZIW) | [Tevomxntana](https://open.spotify.com/artist/4R1Ph1IPb4wG0XWzzOcvQa) | [Diamonds Cry](https://open.spotify.com/album/7EW3I0378mL1kzW8x9ddp2) | 2:01 | 2023-10-20 |  |
 | [Diamondz n Roses](https://open.spotify.com/track/2s7pqJkHxJg9RNPxjtf46K) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Diamondz n Roses](https://open.spotify.com/album/7vcvxwMBYbiCHiLwVCPj7k) | 1:39 | 2024-02-02 |  |
-| [Diamondz n Roses \(Back It Up!\)](https://open.spotify.com/track/1kJSda5yj2yM7NLXItqgZD) | [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Back It Up! \(Diamondz n Roses\)](https://open.spotify.com/album/5LIRiZrStdRIY3xGL4qQUL) | 1:33 | 2023-12-06 |  |
+| [Diamondz n Roses \(Back It Up!\)](https://open.spotify.com/track/1kJSda5yj2yM7NLXItqgZD) | [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Back It Up! \(Diamondz n Roses\)](https://open.spotify.com/album/5LIRiZrStdRIY3xGL4qQUL) | 1:33 | 2023-12-06 | 2024-02-04 |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-05-26 | 2022-10-08 |
 | [Different Goals](https://open.spotify.com/track/5ntzWMwkB9bwCKKOtE2aJ8) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Different Goals](https://open.spotify.com/album/0fWDgzqcJIOy5bcsBgyCIt) | 2:29 | 2023-08-25 | 2023-10-21 |
 | [Dipset](https://open.spotify.com/track/35ql06xhVmimjFBGYdUVIB) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Dipset](https://open.spotify.com/album/2PlaKZHxuVxAQI5AdD57sC) | 1:41 | 2022-08-07 | 2022-10-04 |

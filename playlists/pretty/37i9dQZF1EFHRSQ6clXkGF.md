@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,034 likes - 43 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,033 likes - 43 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 2 | [A Case of You](https://open.spotify.com/track/3T0jdpgl4uKsHfYNI0r5Er) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Duvet Day Songs](https://open.spotify.com/album/1lMRhtNybZjQXMRwlMaSEO) | 4:23 |
 | 3 | [Got 'Til It's Gone](https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 4:01 |
 | 4 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 5:42 |
-| 5 | [Both Sides Now](https://open.spotify.com/track/5axSuQGnf09yJ5drAQGJyZ) | [discord.ggcanbequit](https://open.spotify.com/artist/4vOqejI6IzCQgLZjg6l9yb), [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I), [krmd](https://open.spotify.com/artist/33hKWOTTkOaDrINMAlQtht) | [Both Sides Now](https://open.spotify.com/album/5dVryKBnge38j2MLkqOEIv) | 5:45 |
+| 5 | [Both Sides Now](https://open.spotify.com/track/15M4x5mwE8sYE0jry4U1Kz) | [yiqit](https://open.spotify.com/artist/6tC54KzFQ30JKxpiBKPrDd), [Liwn](https://open.spotify.com/artist/3UcGRRLC2gosxXDMhXnIal), [Arzz](https://open.spotify.com/artist/5QQsS5bFMV5irKLFceJ9M4) | [Both Sides Now](https://open.spotify.com/album/2Xd00l6mmozpNJnAlkwkXM) | 5:45 |
 | 6 | [This Flight Tonight](https://open.spotify.com/track/07o4FSeAOX1vTK15OXwojs) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Loud 'N' Proud \(Expanded Edition\)](https://open.spotify.com/album/1Q6OqKX8MLO7MIJbOWlBRJ) | 3:24 |
 | 7 | [Unchained Melody](https://open.spotify.com/track/1mZdHKc1D5r24qNbvfDdVg) | [Richard Clayderman](https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6) | [Memories](https://open.spotify.com/album/2vwcwDfQI0aCUVfctGmAon) | 3:06 |
 | 8 | [For Free](https://open.spotify.com/track/2lhfd0CF0dFlwRVH8NG8vv) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:11 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 42 | [Captain O'Kane/River](https://open.spotify.com/track/3HgFxy7BIHKjb0uDysU9WM) | [Banshee In The Kitchen](https://open.spotify.com/artist/3OnauhYf1tNeiecYoI8Y9x) | [Invite the Light](https://open.spotify.com/album/4zgvZlVrERYdIcLnn9fEdX) | 6:40 |
 | 43 | [Last Time I Saw Richard](https://open.spotify.com/track/58MZivql2RjFPtMppY7N9a) | [Kevin Sandbloom](https://open.spotify.com/artist/3AeCqchDnjbQYA68wWTXIK) | [Still Blue](https://open.spotify.com/album/68DoM5Dt9XUpisi6Btf4hG) | 2:54 |
 
-Snapshot ID: `Mjg0NDg3ODAsMDAwMDAwMDAxYjA3ZTExMjlhYmRiODUwZmJiYjg1MGMxZjZmNWVmOQ==`
+Snapshot ID: `Mjg0NTAyMjAsMDAwMDAwMDBkMGM2OWViYWIzNWE3YjMyZWMxMzE2OGU4NGRhOWQ2Yw==`

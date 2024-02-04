@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 1148566,
+  "2024-02-04": 1148615,
   "date_first_scraped": "2022-12-14",
   "description": "Os hits do rock internacional e nacional est\u00e3o reunidos nesta playlist. Foto: Eddie Van Halen.",
   "name": "Rock Forever",
@@ -1036,6 +1036,28 @@
     },
     {
       "album": {
+        "name": "Band On The Run (Underdubbed Mixes)",
+        "url": "https://open.spotify.com/album/6lhPEUxM0mfnA2GNwrHulD"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252680,
+      "name": "Jet - Underdubbed Mix",
+      "url": "https://open.spotify.com/track/0G7qdV0Rql4sCe0EcPlwVr"
+    },
+    {
+      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -1353,7 +1375,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 185093,
       "name": "Parklife - 2012 Remaster",
       "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"

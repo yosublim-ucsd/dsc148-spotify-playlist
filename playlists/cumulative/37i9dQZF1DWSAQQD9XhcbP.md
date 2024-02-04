@@ -4,7 +4,7 @@
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-132 songs - 7 hr 20 min
+133 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,9 @@
 | [2000 Miles](https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [2000 Miles](https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4) | 2:46 | 2021-12-23 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/7fySB29rqpSG2fzPhEVmUE) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [Ingrid Michaelson's Songs for the Season Deluxe Edition](https://open.spotify.com/album/0tm7TvcrD6xUUAZhisIUZJ) | 3:55 | 2021-12-23 |  |
 | [Alone on Christmas With You](https://open.spotify.com/track/2tuUhtDoHYw3EssfMZaH8F) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Christmas Music: The Complete Collection](https://open.spotify.com/album/4J9Op7laWoUENBxpb8Ry8i) | 4:14 | 2021-12-23 |  |
-| [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 | 2021-12-23 |  |
+| [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 | 2021-12-23 | 2024-02-04 |
 | [Another Year](https://open.spotify.com/track/1v4HRWBmiwBcJODNWyhKO6) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/6Mr0pFl9kcZQJt9OCULVwC) | 4:16 | 2021-12-23 | 2022-10-14 |
+| [Another Year](https://open.spotify.com/track/2PjhrIf3ro6skhdBHAUl1P) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/4QqbHVOhj56RKsBTHBxw9x) | 4:16 | 2023-12-13 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/1xLEZzyPlldPLRpbvQH3uO) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [The Christmas Album](https://open.spotify.com/album/3dtH58hWKPjBEiKXRs69PJ) | 1:44 | 2021-12-23 | 2022-11-23 |
 | [Ave Maria](https://open.spotify.com/track/1i7JjMvpzUCFR6GiqSaenp) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 4:03 | 2021-12-23 |  |
 | [Believe](https://open.spotify.com/track/3GRrReIVJ4C71ajUvk7O1e) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Believe](https://open.spotify.com/album/0Wr6JfWQD7bzK7ipLyeiOD) | 3:19 | 2021-12-23 |  |

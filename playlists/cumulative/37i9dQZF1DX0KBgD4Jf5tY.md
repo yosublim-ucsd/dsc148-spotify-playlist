@@ -4,7 +4,7 @@
 
 > Il meglio della musica indipendente italiana, aggiornata il terzo mercoledì di ogni mese\. Cover: <a href="spotify:artist:0PvxzN9MSvVMYj0b0fuwzA">Arianna Pasini</a>
 
-1,070 songs - 2 day 5 hr 9 min
+1,071 songs - 2 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [CASTAGNE](https://open.spotify.com/track/7Glx1KkN6lPI9hs076BCB1) | [Palinurus](https://open.spotify.com/artist/2jWuoqM1TWSxreh6GEYTIY) | [CASTAGNE](https://open.spotify.com/album/3yLxvRZDKQIo3FORxsBoBa) | 2:34 | 2023-09-26 | 2023-10-19 |
 | [Catania](https://open.spotify.com/track/6qKFECzVLpAtAkKEr4rR9V) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Catania](https://open.spotify.com/album/2A6056JqZgERDnkuAfLCLh) | 3:11 | 2023-07-04 | 2023-08-16 |
 | [CATENE](https://open.spotify.com/track/5fMgrtXaDlFYwlp0GXZOIM) | [Red Roses](https://open.spotify.com/artist/3dA6K34y5FCgngffHJTjpY) | [CATENE](https://open.spotify.com/album/7zQzotpUtavfLrrBVQsoRZ) | 2:24 | 2024-01-24 |  |
-| [Cattedrale](https://open.spotify.com/track/1TgzFBLwSxINLbMD8u4UgB) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh), [CARBONE](https://open.spotify.com/artist/4H2y2DozNgECCjo87R1K1J) | [Inverno cenere](https://open.spotify.com/album/4pmZuDJbDIPcca2d7WQ2Nc) | 3:29 | 2024-01-24 |  |
+| [Cattedrale](https://open.spotify.com/track/1TgzFBLwSxINLbMD8u4UgB) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh), [CARBONE](https://open.spotify.com/artist/4H2y2DozNgECCjo87R1K1J) | [Inverno cenere](https://open.spotify.com/album/4pmZuDJbDIPcca2d7WQ2Nc) | 3:29 | 2024-01-24 | 2024-02-04 |
+| [Cattedrale](https://open.spotify.com/track/69jgzHyONnInQo86OfEmtg) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh), [CARBONE](https://open.spotify.com/artist/4H2y2DozNgECCjo87R1K1J) | [Inverno cenere](https://open.spotify.com/album/2fPmkP5HVQpgf1DMJvFsba) | 3:29 | 2024-02-01 |  |
 | [CCC](https://open.spotify.com/track/6F9L4qAPNYGOsZSEYdGk3U) | [Michelle, The Listless](https://open.spotify.com/artist/0Qk6tmdYV2gBJo4lS07hhz), [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq) | [CCC](https://open.spotify.com/album/0EcUuIu2kejaSul2I0e2jH) | 3:08 | 2022-09-11 | 2022-10-21 |
 | [Cena di famiglia](https://open.spotify.com/track/1CwKHSfKqHywOxnuqbkcvA) | [Réclame](https://open.spotify.com/artist/2olteAWcog6K5LBMX77dpf) | [Cena di famiglia](https://open.spotify.com/album/4xevKhQuT5IDAzl6X49djr) | 3:27 | 2023-01-05 | 2023-01-27 |
 | [Cenere](https://open.spotify.com/track/4vGp3JRMvgReM7suaUphjn) | [Beatrice Dellacasa](https://open.spotify.com/artist/5piFIZ88zHRxklw95h5v4L) | [Cenere](https://open.spotify.com/album/5wBHUSY3Oc6eytdfMWpbZT) | 2:30 | 2022-02-17 | 2022-03-25 |

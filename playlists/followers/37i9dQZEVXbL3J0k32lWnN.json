@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 206350,
+  "2024-02-04": 206400,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Denmark.",
   "name": "Top 50 - Denmark",
@@ -1185,7 +1185,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 114366,
       "name": "ANARCHY - Radio Edit",
       "url": "https://open.spotify.com/track/7yISDabQTwkhyWCDnEJiuh"
@@ -19389,6 +19389,24 @@
       "duration_ms": 226652,
       "name": "Praise God",
       "url": "https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK"
+    },
+    {
+      "album": {
+        "name": "Praise Jah In The Moonlight",
+        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
     },
     {
       "album": {

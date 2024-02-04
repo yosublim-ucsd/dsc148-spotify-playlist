@@ -4,7 +4,7 @@
 
 > ¡Los éxitos más champetúos de ayer y hoy se vacilan en Spotify! Foto: Ovy On the Drums, Luister La Voz, Dekko
 
-70 songs - 4 hr 20 min
+71 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Catalina](https://open.spotify.com/track/46W0RhOuD4nUPCCc6Gjsg7) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Catalina](https://open.spotify.com/album/5EWHECPipXWnr60afW3Rf8) | 3:18 | 2023-12-15 |  |
 | [Champeta con Dancehall](https://open.spotify.com/track/5ALJKghizrQpTuCHXSQc5J) | [Rey Three Latino](https://open.spotify.com/artist/1rPEfTLbDVGyONtRnaFm50) | [Champeta con Dancehall](https://open.spotify.com/album/1QnQ1wwtxwIOMS2Wp3354x) | 3:58 | 2023-12-15 |  |
 | [Champetizate](https://open.spotify.com/track/0Gtel40pycY1MkjJM9RtrR) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf), [Busy Twist](https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI), [Caien Madoka](https://open.spotify.com/artist/5MIxiZifqGJen5N9tOScQ8) | [Champetizate](https://open.spotify.com/album/2d9gmyTBEWmxg0FxQoXn8W) | 4:13 | 2023-12-15 |  |
-| [Champetua \(feat\. Grupo Bip\)](https://open.spotify.com/track/56opHoczTBGMkxFDONXvAy) | [Oscar Prince](https://open.spotify.com/artist/5XnGhskwJJ0JdXASSM3OIp), [Lesee](https://open.spotify.com/artist/0wvlvGUyJ4tzNtZStd9CZz), [Grupo Bip](https://open.spotify.com/artist/3mNrdPWEavOdOa3PEnU6RC) | [Champetua \(feat\. Grupo Bip\)](https://open.spotify.com/album/0D9sIElKSpKVWJl5Gi8jFc) | 3:56 | 2023-12-15 |  |
+| [Champetua](https://open.spotify.com/track/6qUVpuObKhwKiXeC5zBXz1) | [Oscar Prince](https://open.spotify.com/artist/5XnGhskwJJ0JdXASSM3OIp), [Bip](https://open.spotify.com/artist/3n1HlTtsRQZysVe8QPjOIB) | [Champetua](https://open.spotify.com/album/4joMs1H6WBYzUIv17uYN5N) | 3:58 | 2023-12-15 |  |
+| [Champetua \(feat\. Grupo Bip\)](https://open.spotify.com/track/56opHoczTBGMkxFDONXvAy) | [Oscar Prince](https://open.spotify.com/artist/5XnGhskwJJ0JdXASSM3OIp), [Lesee](https://open.spotify.com/artist/0wvlvGUyJ4tzNtZStd9CZz), [Grupo Bip](https://open.spotify.com/artist/3mNrdPWEavOdOa3PEnU6RC) | [Champetua \(feat\. Grupo Bip\)](https://open.spotify.com/album/0D9sIElKSpKVWJl5Gi8jFc) | 3:56 | 2023-12-15 | 2024-02-04 |
 | [Cipriano \- MIx](https://open.spotify.com/track/7cLwbh71QxRirkzuLQX05G) | [Ham Music](https://open.spotify.com/artist/5nE6xHkOaPlHPkmQdL5giI), [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Invasión de Champeta](https://open.spotify.com/album/2q2wLCQn9wHU3JJQCkk8PV) | 4:00 | 2023-12-15 |  |
 | [DALE SACA](https://open.spotify.com/track/16HD1r8VkGh90tVqNOgV7R) | [Criss & Ronny](https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq), [La Colectiva Élite](https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa) | [DALE SACA](https://open.spotify.com/album/4ht2wZaivZe5IvGFhEotGO) | 2:51 | 2023-12-15 |  |
 | [El Avion](https://open.spotify.com/track/4rwZNe3ZJZbOiFMcGpYEbX) | [Koffee el Kafetero](https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm) | [El Avion](https://open.spotify.com/album/7b2xoQUyB04BeC8cNgOuRu) | 4:21 | 2023-12-15 |  |

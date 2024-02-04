@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Bilal Wahib & Zoë Tauran
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,751 likes - 37 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,796 likes - 37 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 36 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 |
 | 37 | [Ghetto](https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Ghetto](https://open.spotify.com/album/3Q3X8WomzpzwEWCC8bjoH6) | 2:17 |
 
-Snapshot ID: `MCwxMmVlMDNlYjg3MTNlMjYwY2RmNDQ4MmJhMzFhZDE5Y2RmMDMxZWY5`
+Snapshot ID: `MCwxOWMwNGMwNTgxYWZiN2U3OTZjZThiNjA5YTFmZDE4Mzg3N2E2NjZl`

@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Jósean Log
 
-538 songs - 1 day 5 hr 53 min
+539 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Dama](https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Dama](https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru) | 3:46 | 2023-11-03 | 2023-12-06 |
 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 | 2022-09-06 | 2023-03-11 |
 | [Dance With U](https://open.spotify.com/track/2oj6wE7WBxaf9C5s3ALiJ3) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Short Life](https://open.spotify.com/artist/0xRCyCqeWZmNSCrvpI0DnO) | [Dance With U](https://open.spotify.com/album/2LrInB9iLjGJXVye5Doi9l) | 2:36 | 2023-05-05 | 2023-09-22 |
-| [Dance With U](https://open.spotify.com/track/3oNyVJz1msPy4OdiD04F6C) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Short Life](https://open.spotify.com/artist/0xRCyCqeWZmNSCrvpI0DnO) | [Dance With U](https://open.spotify.com/album/2K9PN6gScQc0WhtdGKI3Fy) | 2:36 | 2024-01-26 |  |
+| [Dance With U](https://open.spotify.com/track/3oNyVJz1msPy4OdiD04F6C) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Short Life](https://open.spotify.com/artist/0xRCyCqeWZmNSCrvpI0DnO) | [Dance With U](https://open.spotify.com/album/2K9PN6gScQc0WhtdGKI3Fy) | 2:36 | 2024-01-26 | 2024-02-04 |
 | [DARK CLOUDS](https://open.spotify.com/track/2DR4WqM6nPQu9WYZkfA3h4) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [DARK CLOUDS](https://open.spotify.com/album/24TvL2gRe3EGpHOQ36fjWz) | 3:08 | 2022-12-09 | 2023-01-07 |
 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 | 2021-11-18 | 2022-11-25 |
 | [desde arriba](https://open.spotify.com/track/1vcN4qmLq4loYfEopGLGap) | [SWÏSSA](https://open.spotify.com/artist/1FrfvYtYgNnkVnwVAB9cCC), [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [desde arriba](https://open.spotify.com/album/4uxf2klmTRNeveJn7zX5jX) | 4:44 | 2022-11-24 | 2022-12-17 |
@@ -494,6 +494,7 @@
 | [Turistas](https://open.spotify.com/track/63FbeYkl2RYS4t3NlstoDR) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Buen Pez](https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV) | 3:47 | 2023-01-06 | 2023-08-05 |
 | [tus mensajes](https://open.spotify.com/track/2fiIr0wRXwxWojsCDIsy6h) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [clásico vol\. 1](https://open.spotify.com/album/2Wv1dTQ8dbxJTpC4IYRf6r) | 2:58 | 2023-05-05 | 2023-06-03 |
 | [tus ojos](https://open.spotify.com/track/3VWpfOSxv0h8W98iyHbc8E) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [tus ojos](https://open.spotify.com/album/4Gf3X9qjiQMjkzFJHn6Wie) | 2:22 | 2021-11-18 | 2022-07-27 |
+| [Tuyo](https://open.spotify.com/track/3X0lef4eZlP1u8v2oEq4Qi) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Tuyo](https://open.spotify.com/album/1Sv7uosU6z24BvsEm5AG7g) | 3:18 | 2024-02-02 |  |
 | [TUYO](https://open.spotify.com/track/3rXaUHSp1NtX2RRreQ0IoF) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp), [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [TUYO](https://open.spotify.com/album/5hFop9d6kuaYJnGcGwB1UZ) | 3:09 | 2023-08-18 | 2023-10-14 |
 | [Tú Me Dejaste de Querer \- Tigre Den Session](https://open.spotify.com/track/0HylNfozeWymkQ8T6hIWPU) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Tú Me Dejaste de Querer \(Tigre Den Session\)](https://open.spotify.com/album/5WaKQ4jWa5DP6AjwukSThj) | 4:30 | 2022-09-06 | 2022-10-28 |
 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Tú Me Llevas a Un Espacio](https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8) | 3:13 | 2023-04-14 |  |

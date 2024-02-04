@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,327 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,303 likes - 51 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 46 | [Dembow 2020](https://open.spotify.com/track/0j1VxrPkMyFGvz0jZzxUoZ) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 2:48 |
 | 47 | [Discoteca](https://open.spotify.com/track/2ZWBNTg6Mn6NQkkq4gVec1) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 4:09 |
 | 48 | [Te Gusta](https://open.spotify.com/track/4l4AiTqEyjCAJui6xVREH7) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:20 |
-| 49 | [Trajecito XS](https://open.spotify.com/track/535EyYs5tDynf3kt9niGa4) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Trajecito XS](https://open.spotify.com/album/7GBVZbQlOaJzfzxo7kCHQ1) | 3:40 |
-| 50 | [Mi Religión](https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [\#Update](https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq) | 3:57 |
+| 49 | [Mi Religión](https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [\#Update](https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq) | 3:57 |
+| 50 | [Trajecito XS](https://open.spotify.com/track/535EyYs5tDynf3kt9niGa4) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Trajecito XS](https://open.spotify.com/album/7GBVZbQlOaJzfzxo7kCHQ1) | 3:40 |
 | 51 | [Ginza \- Remix](https://open.spotify.com/track/1tJw60G9KHl7fYVdQ2JDgo) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Alejandro "Mosty" Patiño](https://open.spotify.com/artist/4iDI9qh9SzcTm6vZeTT258) | [Ginza \(Remix\)](https://open.spotify.com/album/3O2EaZnLoktLEnBqiMcOEJ) | 6:13 |
 
-Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDBmZmU3MjAxZDEzNmY1ZGVhOTZmY2Q2YjkzMWI0ZmMxNQ==`
+Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA2YTUyYzliNDI3OTY0ZTE3M2NiMTc5NzRlMTViYjE4MQ==`

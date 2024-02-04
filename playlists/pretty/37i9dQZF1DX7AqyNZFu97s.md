@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Trooh Hippi
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,395 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,406 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 11 | [Honest](https://open.spotify.com/track/6PLzH9i1NSz6zPH1qTPegc) | [Lavelle](https://open.spotify.com/artist/21dEtJtNZWIDNMe5hPXzhQ) | [Honest](https://open.spotify.com/album/7DlAC7HYluy7xKgV5goFgQ) | 3:12 |
 | 12 | [Blue Blood](https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Blue Blood](https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4) | 2:34 |
 | 13 | [closer](https://open.spotify.com/track/7Jw0gxgX2PD8Vc8tkNz1sk) | [pecq](https://open.spotify.com/artist/7dtoq4U0UlyvMomL00qPDf) | [closer](https://open.spotify.com/album/2e12I4bXlv7aNGTBkXzCH9) | 3:07 |
-| 14 | [I Like It Here](https://open.spotify.com/track/4WQs8z0X7ZLYSGJ3bb0TmP) | [The Great Leslie](https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W) | [I Like It Here](https://open.spotify.com/album/6vBqjw4tGr24yk3mJfBhmK) | 3:40 |
+| 14 | [I Like It Here](https://open.spotify.com/track/4A9ZeTK77J0B2yDRDkHgkJ) | [The Great Leslie](https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W) | [I Like It Here](https://open.spotify.com/album/70YBLwHfAZ8EGRHlq3WKy3) | 3:40 |
 | 15 | [Sad Sundays](https://open.spotify.com/track/5dX9yUyd9uariDN1HGlPYA) | [Caitlin](https://open.spotify.com/artist/1JfNRa6vkoWP0k2UASfk7e) | [Sad Sundays](https://open.spotify.com/album/5ZcUV4g5jsi2AEpB3E2Gak) | 3:56 |
 | 16 | [dearly departed](https://open.spotify.com/track/7FT7w5X5tEsXS9YRpGXTV3) | [sona blue](https://open.spotify.com/artist/6JUkNmQtHbz5GWN6Ej3z9f) | [dearly departed](https://open.spotify.com/album/09YvDzBqbuM3cunTMxmXod) | 3:31 |
 | 17 | [Shy Girl](https://open.spotify.com/track/3t8Je9muMyTq9S8qP3umCn) | [Kumala](https://open.spotify.com/artist/7pTy6exSveN24maklsxT5d) | [Shy Girl](https://open.spotify.com/album/3lzQr1GABO09ZvQSkUsAh4) | 3:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [The Chase](https://open.spotify.com/track/0hX1Sc2QkcVHzvgy1kMaAD) | [Tamara Dos Santos](https://open.spotify.com/artist/1GhWD01U6kf5djUGOD523H) | [The Chase](https://open.spotify.com/album/17F03Nv5crXD0S8grbmNYB) | 3:05 |
 | 80 | [“gaslighting isn’t real, you’re just mental”](https://open.spotify.com/track/7DyGyXWXKbr2yeSc5JNr6k) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [“gaslighting isn’t real, you’re just mental”](https://open.spotify.com/album/7ttWuNfN7myZ4tT5Kwxx34) | 2:26 |
 
-Snapshot ID: `MCxiNzgwODA1ODM0ZjdhM2Y1MDIxMzQ5YjQ2NTZkYjhkOTk3Y2UwZTU5`
+Snapshot ID: `MCw2ODY1NWJmZDdkNTgxMmU2MDBiZDM2OWU5NzM5YjkwMDIxMjg2OGUy`

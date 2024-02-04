@@ -4,7 +4,7 @@
 
 > This is Hombres G\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 59 min
+64 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Marta tiene un marcapasos](https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 2:12 | 2022-10-26 |  |
 | [Me siento bien](https://open.spotify.com/track/1BhVIZ0fuduQfpB7AD3AeY) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [10](https://open.spotify.com/album/6HCNZr7n6OwPhWP2cVRfLg) | 3:39 | 2022-10-26 |  |
 | [Mis amigos](https://open.spotify.com/track/4wR6BFCeMHtQUlVh7gshuR) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 4:30 | 2022-10-30 |  |
+| [Nada que perder](https://open.spotify.com/track/5hemFV7r667VHvm0mrQPWV) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Nada que perder](https://open.spotify.com/album/7HcGohAEZob2YPzhcJzk4u) | 3:17 | 2024-02-03 |  |
 | [Nassau](https://open.spotify.com/track/3CLgtUfOIHnh7tGc4mez56) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 4:30 | 2022-10-26 |  |
 | [No aguanto a tu prima](https://open.spotify.com/track/2RlGxlLA26Je05MCjinvQX) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 2:40 | 2023-09-15 |  |
 | [No eres nadie](https://open.spotify.com/track/4wVTDF3hzYHSrEtPYP8oR5) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La esquina de Rowland](https://open.spotify.com/album/1FE8pGBD3kW5jRGspwmCku) | 4:07 | 2022-10-26 | 2022-10-31 |

@@ -1,12 +1,12 @@
 {
   "description": "Country tracks to pump up your gaming.",
-  "num_followers": 67071,
+  "num_followers": 67169,
   "original_name": "Country Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTI0MTkwZWEyNGQwMzdjODRiZTJjZGZmY2E1ZTE5M2NlZWY0YWMw",
+  "snapshot_id": "MCwxNTEzYzgxZjk1Yzg4YzQzMGFiMzVlOWE5YjBhOGJhNjI4NTYxNWJi",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Less Wise",
+        "url": "https://open.spotify.com/album/4TeULghzyCR6UEe2Y2wgHa"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 300680,
+      "name": "Hippies and Cowboys",
+      "url": "https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 223320,
       "name": "Does To Me (feat. Eric Church)",
       "url": "https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Less Wise",
-        "url": "https://open.spotify.com/album/4TeULghzyCR6UEe2Y2wgHa"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 300680,
-      "name": "Hippies and Cowboys",
-      "url": "https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg"
     },
     {
       "added_at": "2023-11-10 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,638 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,732 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 40 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 |
 | 41 | [Never Wanted To Be That Girl \- Acoustic Version](https://open.spotify.com/track/0CbnbBGQGXK3tXieapv9sk) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl \(Acoustic Version\)](https://open.spotify.com/album/5MNdQpKMxTRTjQbJ14qtQC) | 3:31 |
 | 42 | [Save The Roses \(Acoustic\)](https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Save The Roses \(Acoustic\)](https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N) | 3:17 |
-| 43 | [Under My Skin \- Stripped](https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Under My Skin \(Stripped\)](https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD) | 3:05 |
+| 43 | [Hell Of A Way To Go \- Acoustic](https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Hell Of A Way To Go \(Acoustic\)](https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9) | 2:53 |
 | 44 | [Small Town Hypocrite](https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Small Town Hypocrite](https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ) | 4:02 |
-| 45 | [Hell Of A Way To Go \- Acoustic](https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Hell Of A Way To Go \(Acoustic\)](https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9) | 2:53 |
+| 45 | [Under My Skin \- Stripped](https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Under My Skin \(Stripped\)](https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD) | 3:05 |
 | 46 | [Love Like I Drink](https://open.spotify.com/track/3w4Lrrr2Gz5TidpwCzhgCR) | [Carter Winter](https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3), [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [Love Like I Drink](https://open.spotify.com/album/4HQicLU4xhAT21zfVgVEfl) | 3:15 |
 | 47 | [Burn It Down \- Live Acoustic](https://open.spotify.com/track/1zOFqMnCN7DUpwJmuc7GV1) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Burn It Down \(Live Acoustic\)](https://open.spotify.com/album/0njPZgMRssflpa2zicNaWf) | 3:46 |
 | 48 | [Prayed For You \- Wedding Version](https://open.spotify.com/track/3nxrXt836ZmhwhOj3bwtNX) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Prayed For You \(Wedding Version\)](https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO) | 3:25 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 73 | [Wanna Be Saved \(Acoustic\)](https://open.spotify.com/track/5epVsitL7tbdUM8FoIywYj) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [All Out Acoustic Sessions](https://open.spotify.com/album/6gjHiXBlEdFs4WpBlV66KB) | 3:07 |
 | 74 | [Little More Be Alright](https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Little More Be Alright](https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM) | 3:35 |
 | 75 | [I'm Not Pretty \- Acoustic](https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [I'm Not Prettier](https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy) | 2:58 |
-| 76 | [St\. Louis](https://open.spotify.com/track/3J8QHat7k7nfLwjjece9Ux) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/11jsnuDKgMn6IjelspL30z) | 4:34 |
-| 77 | [Pretty Little Poison \- Piano Version](https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison \(Piano Version\)](https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb) | 3:36 |
+| 76 | [Pretty Little Poison \- Piano Version](https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison \(Piano Version\)](https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb) | 3:36 |
+| 77 | [St\. Louis](https://open.spotify.com/track/3J8QHat7k7nfLwjjece9Ux) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/11jsnuDKgMn6IjelspL30z) | 4:34 |
 | 78 | [Forever and Always \(Acoustic\)](https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Forever and Always \(Acoustic\)](https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3) | 3:10 |
 | 79 | [Faithfully \- Acoustic](https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum) | [Heath Sanders](https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP) | [Faithfully \(Acoustic\)](https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh) | 4:37 |
 | 80 | [Waves \(Live\)](https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Live from Layman](https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL) | 4:20 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 93 | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/track/3nigSojrGL9YcS9RIt8X8U) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG) | 2:40 |
 | 94 | [Yearbook](https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:32 |
 | 95 | [Drinking Alone \- Sunset Session](https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Drinking Alone](https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI) | 2:55 |
-| 96 | [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 |
-| 97 | [Neon Moon](https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Neon Moon](https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT) | 2:41 |
+| 96 | [Neon Moon](https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Neon Moon](https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT) | 2:41 |
+| 97 | [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 |
 | 98 | [Secret \- Gravel Drive Sounds](https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Secret \(Gravel Drive Sounds\)](https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG) | 3:45 |
 | 99 | [Creek Will Rise \- Acoustic](https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Creek Will Rise \(Acoustic\)](https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z) | 2:51 |
 | 100 | [Landslide \- Live from Nashville](https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:17 |
 
-Snapshot ID: `MCxhNGM2ODA4OTEyOWUwMGQyZTlmZGYxMjRiMmU2ZjMzMGQxMzY3MDAx`
+Snapshot ID: `MCxmYjg0MzczODJjZmE0ZTRkZTIyM2JiOWM3ZmU1ZjRjNWQyNmFkNmUx`

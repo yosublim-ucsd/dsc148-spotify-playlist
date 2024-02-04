@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Hiatus Kaiyote
 
-1,070 songs - 2 day 9 hr 3 min
+1,071 songs - 2 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [careless \(feat\. daniel caesar\)](https://open.spotify.com/track/3xqtvSfofDvSMVwwSbuvKi) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:36 | 2022-07-15 | 2023-03-04 |
 | [cascade road](https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [it's not you, it's me](https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j) | 2:00 | 2023-06-23 |  |
 | [Cashmere](https://open.spotify.com/track/6xszMomofJTQMICSVVNNDL) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/7x32TKnMbuS6pALWFn4DFW) | 3:03 | 2021-06-11 | 2022-07-29 |
-| [Caught Me Running](https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Caught Me Running](https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP) | 3:14 | 2023-05-19 |  |
+| [Caught Me Running](https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Caught Me Running](https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP) | 3:14 | 2023-05-19 | 2024-02-04 |
 | [Ce Soir](https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Ce Soir](https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl) | 2:42 | 2022-08-05 | 2023-02-04 |
 | [Celebrate](https://open.spotify.com/track/4GWYtknluqDyrsANhmf1hR) | [Parker Louis](https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD) | [Celebrate](https://open.spotify.com/album/2jHoignz0YlzkIRwzLqXiL) | 3:12 | 2022-06-10 | 2022-07-07 |
 | [Celebrate](https://open.spotify.com/track/6oNwXGQLCZS42nrdfYeT0I) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Persona](https://open.spotify.com/album/5EilDjxUUvRqY1iPoX23ix) | 3:23 | 2022-04-01 | 2022-07-29 |
@@ -602,6 +602,7 @@
 | [Midnight](https://open.spotify.com/track/7pnVHbcqbmP7LA1ey3ydvu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 5:14 | 2022-06-10 | 2022-08-06 |
 | [Midnight Charm](https://open.spotify.com/track/4KvwFkvB19nL2hWM096blY) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Midnight Charm](https://open.spotify.com/album/7IKdNQ7VckGnLhnp0y2eL2) | 2:58 | 2021-06-18 | 2022-04-26 |
 | [Mile End \- A COLORS SHOW](https://open.spotify.com/track/6mASxVYgPVdBdtAFxZZO21) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Mile End \- A COLORS SHOW](https://open.spotify.com/album/0KrUum0XYaw2JEErYAxLBE) | 2:33 | 2023-07-07 | 2023-09-17 |
+| [Millionth Time](https://open.spotify.com/track/3IoF0Dezdcv1VP6sX4GfXS) | [Joël Lobban](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik) | [Millionth Time](https://open.spotify.com/album/6wLI2RFwsRXMCUOOglSzm6) | 2:41 | 2024-01-19 |  |
 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 | 2021-03-19 | 2022-01-29 |
 | [mine](https://open.spotify.com/track/11Alrz5mSQvQNt6VYtCh4t) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [soft thing](https://open.spotify.com/album/1iBeLmJBT417B8XHmIuctN) | 3:58 | 2021-06-25 | 2022-07-28 |
 | [Minotaur](https://open.spotify.com/track/0JPVY47L4Dwi0kjbVbEO6a) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Minotaur](https://open.spotify.com/album/7dHYk2N7AgCFh1eAfHpGlz) | 4:38 | 2022-04-01 | 2022-04-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 360672,
+  "num_followers": 360710,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWY3OTdkZDM2NWZhMWRlYmM1N2M3NDFmNTBmZWI3NGIyZmVmOTg4",
+  "snapshot_id": "MCxmMWJmY2JkZmZmMjIyYjcxZGMwZjRhMjZkMjZmZWQwYTIzMGU2MTZh",
   "tracks": [
     {
       "added_at": "2023-11-24 11:28:11",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-11-24 11:28:11",
       "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "The Most Beautiful Thing",
-      "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
-    },
-    {
-      "added_at": "2023-11-24 11:28:11",
-      "album": {
         "name": "Will I See You Again?",
         "url": "https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 240653,
       "name": "Will I See You Again?",
       "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl"
+    },
+    {
+      "added_at": "2023-11-24 11:28:11",
+      "album": {
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "The Most Beautiful Thing",
+      "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
     },
     {
       "added_at": "2023-11-24 11:28:11",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-11-24 11:28:11",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "i'm a mess",
-      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
-    },
-    {
-      "added_at": "2023-11-24 11:28:11",
-      "album": {
         "name": "Gravity (feat. Tyler, The Creator)",
         "url": "https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 214692,
       "name": "GRAVITY (FEAT. TYLER, THE CREATOR)",
       "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
+    },
+    {
+      "added_at": "2023-11-24 11:28:11",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
     },
     {
       "added_at": "2023-11-24 11:28:11",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-11-24 11:28:11",
       "album": {
-        "name": "Hu Man",
-        "url": "https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "Hu Man",
-      "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
-    },
-    {
-      "added_at": "2023-11-24 11:28:11",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 226118,
       "name": "Shine",
       "url": "https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR"
+    },
+    {
+      "added_at": "2023-11-24 11:28:11",
+      "album": {
+        "name": "Hu Man",
+        "url": "https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Hu Man",
+      "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
     },
     {
       "added_at": "2023-11-24 11:28:11",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-11-24 11:28:11",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
-    },
-    {
-      "added_at": "2023-11-24 11:28:11",
-      "album": {
         "name": "Inside Friend (feat. John Mayer)",
         "url": "https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 175432,
       "name": "Inside Friend (feat. John Mayer)",
       "url": "https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu"
+    },
+    {
+      "added_at": "2023-11-24 11:28:11",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
     },
     {
       "added_at": "2023-11-24 11:28:11",

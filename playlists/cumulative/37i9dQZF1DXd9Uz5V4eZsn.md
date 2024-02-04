@@ -4,7 +4,7 @@
 
 > Ambient Indian sounds for your daily Yoga practise.
 
-56 songs - 5 hr 59 min
+57 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [OM CHANTS](https://open.spotify.com/track/4M0HVS8WwKyPlEgLUJZ8wU) | [Rajkumar Bharathi](https://open.spotify.com/artist/7qmDhVWCrIHIvIAo7b7KTa) | [DIVINE CHANTS](https://open.spotify.com/album/5BYvQ5dsJXnSBpTnoGldOf) | 5:10 | 2023-06-30 |  |
 | [Om Shanti Shanti \(Edit\) \[Chant for Yoga Class\] \[feat\. Adham Shaikh\]](https://open.spotify.com/track/4wjYQMw7dg2oB9mrO8fQsl) | [The Yoga Mantra and Chant Music Project](https://open.spotify.com/artist/0zjett5LduAKxk0NfLC3NZ) | [Yoga Music Mantras & Chants](https://open.spotify.com/album/55qbMjcJd92Po54nkLmukm) | 3:58 | 2023-06-30 |  |
 | [Papa Tau \(A Tribute to Papa Tau Moe\)](https://open.spotify.com/track/7aJUSnGZYW4S5YsGu6hYei) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Hawaii to Calcutta: A Tribute to Tau Moe](https://open.spotify.com/album/1Cp0LRQxzKZ2PbG8lNYGr7) | 6:08 | 2023-06-30 |  |
-| [Peace](https://open.spotify.com/track/0JQ0zIQxvpz8XvMphwdRZj) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub) | 5:05 | 2023-06-30 |  |
+| [Peace](https://open.spotify.com/track/0JQ0zIQxvpz8XvMphwdRZj) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub) | 5:05 | 2023-06-30 | 2024-02-04 |
+| [Peace](https://open.spotify.com/track/5Ap8FLACa9WqPzIxmI4jki) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/3JXXSLswIpf1GNoptaXXvx) | 5:05 | 2023-12-20 |  |
 | [Purnamadah](https://open.spotify.com/track/0xHmA4WUsQFbMAUHRJwJVG) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [The Love Window](https://open.spotify.com/album/1K3wOcXCIZFQlVdjQTIVqU) | 8:35 | 2023-12-20 |  |
 | [Purnamadah](https://open.spotify.com/track/73iMOvR544T1n5QIVGHLuX) | [Shantala](https://open.spotify.com/artist/6z6YXTlyMCY6fvT79yxDgi) | [The Love Window](https://open.spotify.com/album/2LBLfPrjJ8ofb5iWfvPjn8) | 8:35 | 2023-06-30 | 2024-01-29 |
 | [Raga Bhoopali](https://open.spotify.com/track/2FvS3T9QA1K7RibQDrTYqc) | [Sangit Om](https://open.spotify.com/artist/51OgTOMeriyJbz07cpve3u) | [The Spirit of Yoga](https://open.spotify.com/album/3twYsK4gKVEaBVOUUdeT88) | 3:52 | 2023-06-30 |  |

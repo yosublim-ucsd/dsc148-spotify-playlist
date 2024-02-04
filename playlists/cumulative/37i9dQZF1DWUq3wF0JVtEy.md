@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-433 songs - 21 hr 14 min
+434 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,9 +39,9 @@
 | [Bang Bang](https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [Bang Bang](https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ) | 2:24 | 2022-07-22 |  |
 | [Banga](https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/3HGGWYXPmiZ7d3qMbCi3ZD) | 2:21 | 2022-09-16 | 2023-02-26 |
 | [Banga](https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw) | 2:21 | 2023-02-17 |  |
+| [Bass Face](https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Young Lyxx](https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk) | [Bass Face](https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw) | 3:03 | 2024-02-02 |  |
 | [Bass Face](https://open.spotify.com/track/4n93qqnMDU7n5LRj5O2wh7) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Bass Face](https://open.spotify.com/album/3w7pSN07nFeY7fqlVEBkFc) | 2:30 | 2021-10-29 | 2022-06-10 |
 | [Bass Goes Down](https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Bass Goes Down](https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0) | 2:24 | 2021-10-29 | 2022-03-21 |
-| [Bassface](https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Young Lyxx](https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk) | [Bassface](https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw) | 3:03 | 2024-02-02 |  |
 | [BB Got Me Like](https://open.spotify.com/track/75lHY2V0DN0SvRoF2BJQfn) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [BB Got Me Like](https://open.spotify.com/album/04F6eKFDiQUnVJvICSKwjV) | 2:28 | 2021-10-29 | 2022-07-24 |
 | [Be Good](https://open.spotify.com/track/5AZLFrMsM9URNM77tqxdNZ) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Be Good](https://open.spotify.com/album/2ryWx4gB4evXAKlIIFwup4) | 2:51 | 2021-10-29 | 2022-11-12 |
 | [Be With You](https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Be With You](https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk) | 2:46 | 2023-10-06 | 2023-10-28 |
@@ -408,7 +408,8 @@
 | [TikTak](https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [TikTak](https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u) | 2:17 | 2023-09-22 |  |
 | [Time](https://open.spotify.com/track/55f2O4I6eZ8GLCinoWRF6y) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Time](https://open.spotify.com/album/2d2ED1cEdtypHWeJR9RxOl) | 2:56 | 2022-03-18 | 2023-03-06 |
 | [Time Of Our Lives](https://open.spotify.com/track/1HJNnXAS60bWQKun865Od0) | [Alannys Weber](https://open.spotify.com/artist/5vj4CW7CNhPrHbD7zc8SAu) | [Time Of Our Lives](https://open.spotify.com/album/3gQB7Q4AdqvH9BB3gwX8u5) | 2:32 | 2023-12-08 | 2024-01-27 |
-| [To The Beat](https://open.spotify.com/track/1VdJthDXiTGmex8NA0SUtX) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [To The Beat](https://open.spotify.com/album/2ytVZwLicJi3ZudO9FYPYJ) | 2:34 | 2024-01-12 |  |
+| [To The Beat](https://open.spotify.com/track/1VdJthDXiTGmex8NA0SUtX) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [To The Beat](https://open.spotify.com/album/2ytVZwLicJi3ZudO9FYPYJ) | 2:34 | 2024-01-12 | 2024-02-04 |
+| [To The Beat](https://open.spotify.com/track/3i5JPUScbykbkAOCLfk7Wo) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [To The Beat](https://open.spotify.com/album/34VdSaTKOFKlgj5UTwN6p7) | 2:34 | 2024-02-02 |  |
 | [Together](https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Together](https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg) | 3:06 | 2021-10-29 | 2022-08-06 |
 | [Tonight](https://open.spotify.com/track/4QoMRrDVsT1RVFq7Wy6xLM) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Tonight](https://open.spotify.com/album/7erfcSAjDkFRRHo4bTsXit) | 3:40 | 2022-02-18 | 2023-09-23 |
 | [Too Soon](https://open.spotify.com/track/0ybwuh7d9YF7dVWBqDgpzd) | [Benwah](https://open.spotify.com/artist/5MDZ4Vx0HejqeFJXMDBYIG) | [Too Soon](https://open.spotify.com/album/72lIoWchPeGzLPUZXhgZHs) | 4:09 | 2021-10-29 | 2022-07-29 |

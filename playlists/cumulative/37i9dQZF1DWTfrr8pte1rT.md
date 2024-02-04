@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Steve Aoki and Yellowcard \\m/
 
-365 songs - 20 hr 51 min
+366 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Take It Back](https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Take It Back](https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td) | 3:31 | 2024-01-26 |  |
 | [Taking Over \(feat\. Sam Nelson\)](https://open.spotify.com/track/7gcYawraNqOWLGclp34H4G) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Sam Nelson](https://open.spotify.com/artist/3PjJuYoEAZcozJezfxdvPK) | [Friends: The Album](https://open.spotify.com/album/2tyOHEHmXj2RoMjiRxNNbu) | 3:01 | 2021-12-10 | 2022-06-25 |
 | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r) | 2:23 | 2021-12-10 | 2023-12-14 |
+| [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/track/6JZe3sy9UXaYVysRTHss6l) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/album/2bJnYJCrS8T5TimCq7gXcP) | 2:23 | 2024-01-26 |  |
 | [The Bottom \(feat\. Kellin Quinn\)](https://open.spotify.com/track/1s2xUbLU0bcNRWKK04X9NO) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [The Bottom \(feat\. Kellin Quinn\)](https://open.spotify.com/album/6ahBlUlwjPVKgUYqiirD3E) | 3:18 | 2021-12-10 | 2022-06-19 |
 | [The Change \(feat\. DMA'S\)](https://open.spotify.com/track/28MN5zcvOPm5OD49gOsBZ8) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [The Change \(feat\. DMA'S\)](https://open.spotify.com/album/0I27sjTMzV3PQT1XNuwDxO) | 4:37 | 2021-12-10 | 2022-07-29 |
 | [The Change \(feat\. DMA'S\) \[Ekko & Sidetrack Remix\]](https://open.spotify.com/track/7mXsoAXspKX5Ql93l2q8Wa) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4), [Ekko & Sidetrack](https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL) | [The Change \(Remixes\)](https://open.spotify.com/album/0opJLAvzuBXqIMEia4wlHN) | 4:28 | 2021-12-10 | 2022-07-29 |
@@ -372,6 +373,6 @@
 | [Years](https://open.spotify.com/track/2hwgLB5lv2AZrxAj9Q4Ywl) | [Crystal Lake](https://open.spotify.com/artist/5DzNxD4vwCDEIa20oEzB9l), [Matty McDonald](https://open.spotify.com/artist/6alaCEzPwrS1kaxQ07vtyw) | [Years](https://open.spotify.com/album/0UqEIFa92Mrjr3BT1ShIDL) | 3:19 | 2021-12-10 | 2022-05-25 |
 | [You Can't Break Me \(feat\. Brandon Saller of Atreyu\)](https://open.spotify.com/track/61lywMXKiITBED8Do8LQHQ) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [You Can't Break Me \(feat\. Brandon Saller of Atreyu\)](https://open.spotify.com/album/6k7ASb40R8wBiQymSSwwh0) | 3:50 | 2023-09-29 |  |
 | [Your Shoes](https://open.spotify.com/track/6tssyzOMVjrQs8qj2NgmcP) | [GAWM](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2), [heydukeyousuck](https://open.spotify.com/artist/3qDYeLBAZEdBO1DuTTk8qz), [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Your Shoes](https://open.spotify.com/album/4QmefR7H5kwn2L1Lyrc5xc) | 2:41 | 2023-11-17 | 2024-01-09 |
-| [you’ve changed, i’ve changed](https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [you’ve changed, i’ve changed](https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu) | 5:11 | 2021-12-10 |  |
+| [you’ve changed, i’ve changed](https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [you’ve changed, i’ve changed](https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu) | 5:11 | 2021-12-10 | 2024-02-04 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

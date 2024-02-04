@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,872 likes - 137 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,795 likes - 137 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 5 | [O Come All Ye Faithful](https://open.spotify.com/track/1p1E8aR3qUxZZ1uC65qRz4) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 5:27 |
 | 6 | [Silver Bells](https://open.spotify.com/track/24Vowd4cVtxt1WcahC23dZ) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Jingle Your Bells](https://open.spotify.com/album/0t6BIKhlVZHdKv4ocFmqr6) | 4:10 |
 | 7 | [O Holy Night](https://open.spotify.com/track/7hWs7SHdvZQVtEyWBha5QG) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [O Holy Night](https://open.spotify.com/album/0xj9dGod1YUIMOgYHto1nU) | 2:35 |
-| 8 | [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 |
+| 8 | [Another Year](https://open.spotify.com/track/2PjhrIf3ro6skhdBHAUl1P) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/4QqbHVOhj56RKsBTHBxw9x) | 4:16 |
 | 9 | [Little Drummer Boy](https://open.spotify.com/track/1MsQrudFU2meSwhQufVqVZ) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Mellow Christmas Acoustic](https://open.spotify.com/album/7a9xO4nvdqFcrMb2eHtojJ) | 3:10 |
 | 10 | [Silver Bells](https://open.spotify.com/track/6g2yyTTnyEVr9VZjVexg1J) | [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB), [Tancred](https://open.spotify.com/artist/4rdoYKpVduYtHfKJgUnOkS), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Fireside](https://open.spotify.com/album/1RQbuf7X5Xy2KfrTwi6DR9) | 2:43 |
 | 11 | [Blue Christmas](https://open.spotify.com/track/7rTHZv5l8ibgPUW24qfmwj) | [David Shaw](https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe) | [Blue Christmas](https://open.spotify.com/album/2NnZ0WkPHuDd3IYiROdB7E) | 2:05 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 136 | [Christmas Wish](https://open.spotify.com/track/4juMWUhR22wHYG4MxxUdSp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:57 |
 | 137 | [What Are You Doing New Year’s Eve?](https://open.spotify.com/track/0SZim5k1ypcgRsWmFcrGfs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:28 |
 
-Snapshot ID: `MCw3YmE1MjkxM2YzM2Y5ZDk2YTgzNGU0ODcwMGExNDRkYTU5OGI0ZDY2`
+Snapshot ID: `MCw4YzI3Zjg4YjQzOTlhOTQ5NGNlNjg3OWUzY2RmMWU5NGZkMTAxMjJh`

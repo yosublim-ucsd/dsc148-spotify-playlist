@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,410 songs - 3 day 3 hr 8 min
+1,411 songs - 3 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Barbie](https://open.spotify.com/track/1Mo0mUoAJ15QaYRYjlcI2Y) | [ROPEX LATERIO](https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Barbie](https://open.spotify.com/album/5ljOcnoiccIAFXtAsorfAc) | 2:06 | 2023-10-13 | 2023-11-16 |
 | [Barcode](https://open.spotify.com/track/42mmyfhNOjoLBdAYirszzB) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [Barcode](https://open.spotify.com/album/7JNgf2upfqPr8WNZIkLT7f) | 2:33 | 2021-04-09 | 2021-06-05 |
 | [BAZOOKA](https://open.spotify.com/track/2Oi95MuaeyJqTnGynhLB0x) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [BAZOOKA](https://open.spotify.com/album/7lxWnG62anTfNOoymSEV8Q) | 3:33 | 2023-03-11 | 2023-05-21 |
+| [BBL](https://open.spotify.com/track/5PcFy1S7mLSZedQaRA0R1u) | [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [BBL](https://open.spotify.com/album/1TbCnLNBi0MTyvyiEt3wfl) | 3:12 | 2024-02-03 |  |
 | [BBQ\-2](https://open.spotify.com/track/2LSmxmTJ7DsSNTkf4tE9Ku) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX), [Savv](https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1) | [BBQ\-2](https://open.spotify.com/album/0yKyKUABTM9AXmsx5lvN0p) | 3:33 | 2021-05-18 | 2021-05-27 |
 | [BCC Gang](https://open.spotify.com/track/15UvmYxbkwDKmRm2Y9TWuU) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Rackattack](https://open.spotify.com/album/7yVBbv5rns5WJmpQaDSEK3) | 2:56 | 2021-05-21 | 2021-08-30 |
 | [BEAMERS](https://open.spotify.com/track/2FfEQCLOBJcfBoeW4jH3AJ) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Esaw](https://open.spotify.com/artist/3mil6Fz5Ettkb6BZM45cU0), [Vincent](https://open.spotify.com/artist/0sjMSmsI0PwRZYrl9KYMAU) | [Saskepticism Vol\. 2](https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP) | 2:56 | 2022-04-23 | 2022-04-28 |
@@ -562,7 +563,7 @@
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-09-10 | 2023-01-26 |
 | [Ibiza](https://open.spotify.com/track/1I8WeuAQ7UAfLZiExVRiKt) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Bad Boy \(Summer Hits\)](https://open.spotify.com/album/21rySo430y5dVWknVK0JAB) | 3:26 | 2022-05-28 | 2022-08-28 |
 | [Ibiza](https://open.spotify.com/track/1VuKTIwRSERLp4Y1kghzpl) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Ibiza](https://open.spotify.com/album/06lnz8zuPoloBmNCWVCZ0J) | 3:29 | 2022-05-21 | 2022-05-31 |
-| [IBRA](https://open.spotify.com/track/0loJREraQLLtQxO6oq1R5X) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [IBRA](https://open.spotify.com/album/2rECNULAoj208MVJNRh2yt) | 2:19 | 2023-10-11 |  |
+| [IBRA](https://open.spotify.com/track/0loJREraQLLtQxO6oq1R5X) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [IBRA](https://open.spotify.com/album/2rECNULAoj208MVJNRh2yt) | 2:19 | 2023-10-11 | 2024-02-04 |
 | [Ice BOYZ](https://open.spotify.com/track/3mgfECSAnvo2cADUvLjHqB) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn) | [Ice BOYZ](https://open.spotify.com/album/0g2n5pvDvupyq0aTuCc2ed) | 2:31 | 2021-04-28 | 2021-05-23 |
 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-10-07 | 2023-10-22 |
 | [Idrogeios](https://open.spotify.com/track/77S1MD14JNFGwTVlr1NLTh) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy) | [Idrogeios](https://open.spotify.com/album/0CZ66Y3fWW3kptJQyM5kDC) | 2:50 | 2023-03-01 | 2024-02-03 |

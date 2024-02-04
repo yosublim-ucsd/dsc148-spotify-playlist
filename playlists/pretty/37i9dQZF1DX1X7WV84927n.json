@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Atreyu",
-  "num_followers": 348964,
+  "num_followers": 349085,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWJmNmVlZWJmMTdlZDU2OTBhMGFkNjhmNWZjMTIyMzFlNDY4OTkx",
+  "snapshot_id": "MCwxOWJhZDMwNDNlMzA3YTUzOTE4MjlmOWJmM2Y2MTQ1M2VhNDA0Zjg2",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "CMF2",
-        "url": "https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt"
-      },
-      "artists": [
-        {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
-        }
-      ],
-      "duration_ms": 257969,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1490WwKimLxIeRgejYGFU2"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Separate Ways (Worlds Apart)",
         "url": "https://open.spotify.com/album/4hYWzikXRPg5I80ZqLPGAC"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 316458,
       "name": "Separate Ways (Worlds Apart)",
       "url": "https://open.spotify.com/track/7goFhrbCC2m2HI3EbBYgU4"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "CMF2",
+        "url": "https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "duration_ms": 257969,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1490WwKimLxIeRgejYGFU2"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Prepare For Despair",
+        "url": "https://open.spotify.com/album/0ykmroLBGEswLI1xjg2tqv"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        },
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "duration_ms": 201402,
+      "name": "Safe And Sound",
+      "url": "https://open.spotify.com/track/12D1KLVjHdKiAckFi6ZEP1"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Rumble of Thunder (Deluxe)",
         "url": "https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 228406,
       "name": "Perhaps",
       "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Prepare For Despair",
-        "url": "https://open.spotify.com/album/0ykmroLBGEswLI1xjg2tqv"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        },
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        }
-      ],
-      "duration_ms": 201402,
-      "name": "Safe And Sound",
-      "url": "https://open.spotify.com/track/12D1KLVjHdKiAckFi6ZEP1"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 205679,
-      "name": "Lux \u00c6terna",
-      "url": "https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "The Optimist",
         "url": "https://open.spotify.com/album/4rkuMkZkDrZ4ls8cWe0lN9"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 178415,
       "name": "The Optimist",
       "url": "https://open.spotify.com/track/55ET0bFCVKpGJOXATqLe0x"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 205679,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Mammoth II",
-        "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
-      },
-      "artists": [
-        {
-          "name": "Mammoth WVH",
-          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
-        }
-      ],
-      "duration_ms": 275739,
-      "name": "I\u2019m Alright",
-      "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Pawns & Kings",
         "url": "https://open.spotify.com/album/6GfoBh7p2LS5fMbYYMjj5b"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 258786,
       "name": "Silver Tongue",
       "url": "https://open.spotify.com/track/5uNazTJV7Rpd8zAtWDiSiG"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Mammoth II",
+        "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
+      },
+      "artists": [
+        {
+          "name": "Mammoth WVH",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
+        }
+      ],
+      "duration_ms": 275739,
+      "name": "I\u2019m Alright",
+      "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/2wErOkh2cGvaROMlWTQ3Dw"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
-        }
-      ],
-      "duration_ms": 227678,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2wN75EXN0qbYFH6hNjZ4LJ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Dinosaur",
         "url": "https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 235736,
       "name": "Paranoid (Crash & Burn)",
       "url": "https://open.spotify.com/track/1Q1SYwGXe7dFtcTgkgblwF"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/2wErOkh2cGvaROMlWTQ3Dw"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 227678,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2wN75EXN0qbYFH6hNjZ4LJ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "I Felt It All",
+        "url": "https://open.spotify.com/album/11McPmOi54GIS6J8XbZqnZ"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "I Felt It All",
+      "url": "https://open.spotify.com/track/1ZAzqG4uS98aYfFGEIqY6T"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Lighting Up The Sky",
         "url": "https://open.spotify.com/album/178SPEdKkCkZI05AGiZXad"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 185542,
       "name": "Faded Out (feat. Within Temptation)",
       "url": "https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "I Felt It All",
-        "url": "https://open.spotify.com/album/11McPmOi54GIS6J8XbZqnZ"
-      },
-      "artists": [
-        {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "I Felt It All",
-      "url": "https://open.spotify.com/track/1ZAzqG4uS98aYfFGEIqY6T"
     },
     {
       "added_at": "2024-01-26 05:00:00",

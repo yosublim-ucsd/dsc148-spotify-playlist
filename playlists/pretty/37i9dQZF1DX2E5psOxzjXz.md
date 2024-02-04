@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Annural Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,896 likes - 88 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,924 likes - 88 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 87 | [NAAL](https://open.spotify.com/track/4ZCIQlHFG44NvcwpoXvEob) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [NAAL](https://open.spotify.com/album/62DhFkn8ipPEpbmokdXyaM) | 2:36 |
 | 88 | [Double Game](https://open.spotify.com/track/1bike5aQ7ZndnBodizi1oi) | [Mooroo](https://open.spotify.com/artist/2RfI4XISnS6FG3xXryReUh), [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Qirdaar](https://open.spotify.com/album/1jqTs5oGoHXrcr9M3EWyho) | 3:46 |
 
-Snapshot ID: `MCw1ZWYzNDYzMjBkOGJmY2VjY2YwMWUzMTI2M2YyY2JhZGJlNGFhZjcz`
+Snapshot ID: `MCw0ZDkwZDgyNTEzNmY2YjEwMzE2NDE2YmU4OTc4MDk5MTIwZDBiNzgy`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjYyOTcxZjI5MGZhMGUxN2RmMmI5YTZmMWQzMjQ4ZTliNDYzNDE0",
+  "snapshot_id": "MCwyN2Y5YjFlMzlmNGMxMzE3NDMwZTg5MjkzMDllNjZlZTExMDQ3ZjA5",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Learning",
-        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "Eulogy For Nobody",
-      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Deadeye",
         "url": "https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 190120,
       "name": "Bees",
       "url": "https://open.spotify.com/track/13otFWMHR8dlJ73XnSEW8y"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Eulogy For Nobody",
+      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Love Like That (Words from Her)",
-        "url": "https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy"
-      },
-      "artists": [
-        {
-          "name": "Suriel Hess",
-          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
-        }
-      ],
-      "duration_ms": 174489,
-      "name": "Love Like That (Words from Her)",
-      "url": "https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "In Our Own Sweet Time",
         "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 190253,
       "name": "Don't Fade",
       "url": "https://open.spotify.com/track/1Dgcy5t2hwVGWqvbMJr88F"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Love Like That (Words from Her)",
+        "url": "https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy"
+      },
+      "artists": [
+        {
+          "name": "Suriel Hess",
+          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
+        }
+      ],
+      "duration_ms": 174489,
+      "name": "Love Like That (Words from Her)",
+      "url": "https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Light (Edit)",
-        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Light - Edit",
-      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Volume I",
         "url": "https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 236626,
       "name": "Hollow - Acoustic",
       "url": "https://open.spotify.com/track/2K4uwGeeT2AmZgAgdxdDNM"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Light (Edit)",
+        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Light - Edit",
+      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Cautionary Tale",
-        "url": "https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ"
-      },
-      "artists": [
-        {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Cautionary Tale",
-      "url": "https://open.spotify.com/track/2zEByOH565rMCSacbB56Pd"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Can't See Straight (Acoustic)",
         "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 188057,
       "name": "Can't See Straight - Acoustic",
       "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Cautionary Tale",
+        "url": "https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Cautionary Tale",
+      "url": "https://open.spotify.com/track/2zEByOH565rMCSacbB56Pd"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/6AQJsRagE26OAfMcqNoo11"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 154124,
       "name": "Perfect Stranger",
       "url": "https://open.spotify.com/track/0aX5kjSlup9iqZbf1chTr3"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1595,6 +1595,30 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Strict Joy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6VuvqpeSGgdtJrrmPJFxld"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        },
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        }
+      ],
+      "duration_ms": 287186,
+      "name": "Low Rising",
+      "url": "https://open.spotify.com/track/3JCmCB7e1dazCO2hTEHL6a"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Joy of Nothing",
         "url": "https://open.spotify.com/album/2NvXp1Yq7mslZYfZiRmGUq"
       },
@@ -1627,30 +1651,6 @@
       "duration_ms": 253006,
       "name": "Care for Your Mother",
       "url": "https://open.spotify.com/track/0hkYjDHkQ0vFw1H2fqo08z"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Strict Joy (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6VuvqpeSGgdtJrrmPJFxld"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        },
-        {
-          "name": "Mark\u00e9ta Irglov\u00e1",
-          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
-        },
-        {
-          "name": "The Swell Season",
-          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
-        }
-      ],
-      "duration_ms": 287186,
-      "name": "Low Rising",
-      "url": "https://open.spotify.com/track/3JCmCB7e1dazCO2hTEHL6a"
     },
     {
       "added_at": "2023-12-08 05:00:00",

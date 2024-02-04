@@ -1273,6 +1273,32 @@
     },
     {
       "album": {
+        "name": "THE ORIGIN",
+        "url": "https://open.spotify.com/album/1U5YQi9448UVvCTrcpr1Uj"
+      },
+      "artists": [
+        {
+          "name": "Gero",
+          "url": "https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK"
+        },
+        {
+          "name": "\u5929\u6708",
+          "url": "https://open.spotify.com/artist/11DkKzyBmL2sQW0e4FCYil"
+        },
+        {
+          "name": "FAKE TYPE.",
+          "url": "https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "Saihate no Super star",
+      "url": "https://open.spotify.com/track/4JCS6ndC9Mk45yPW5PJcKs"
+    },
+    {
+      "album": {
         "name": "Entertainer",
         "url": "https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm"
       },
@@ -2668,7 +2694,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 163133,
       "name": "\u6700\u679c\u3066\u306e\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/2LFuq0tLY45nizYFHFpeT7"

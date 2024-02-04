@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 195810,
+  "num_followers": 195802,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzU0MTE3MGM5NWIxYjNmOWJkMzZiNjY3NzQyMWI0YTg1NDZmMzY1",
+  "snapshot_id": "MCw5MTY5NDM4NGE2NTJmNmI3NmE3ODU1NmVjZDZkZjE3ZWU0MDIxY2Ni",
   "tracks": [
     {
       "added_at": "2024-02-02 10:32:16",
@@ -179,38 +179,6 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
-        "name": "I F\u00f6nstret P\u00e5 Andra Sidan Gatan",
-        "url": "https://open.spotify.com/album/2qRhY1t2uORSkz41CrReSh"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 187950,
-      "name": "I F\u00f6nstret P\u00e5 Andra Sidan Gatan",
-      "url": "https://open.spotify.com/track/6SJomf6sODucVq2Jc7cfjv"
-    },
-    {
-      "added_at": "2024-02-02 10:32:16",
-      "album": {
-        "name": "Genom Eld & Vatten - Spotify Singles",
-        "url": "https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq"
-      },
-      "artists": [
-        {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
-        }
-      ],
-      "duration_ms": 186449,
-      "name": "Genom Eld & Vatten - Spotify Singles",
-      "url": "https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA"
-    },
-    {
-      "added_at": "2024-02-02 10:32:16",
-      "album": {
         "name": "Vakna (Wake Me Up)",
         "url": "https://open.spotify.com/album/5PSqlOEp3NoiHCGExXg963"
       },
@@ -231,34 +199,34 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
-        "name": "Dirt",
-        "url": "https://open.spotify.com/album/193Hqvyp5LbPRv9jBd03uB"
+        "name": "Genom Eld & Vatten - Spotify Singles",
+        "url": "https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq"
       },
       "artists": [
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
         }
       ],
-      "duration_ms": 218719,
-      "name": "Dirt",
-      "url": "https://open.spotify.com/track/2xGG2OZyI8Z5jlWRBAdfFa"
+      "duration_ms": 186449,
+      "name": "Genom Eld & Vatten - Spotify Singles",
+      "url": "https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA"
     },
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
-        "name": "V\u00e5gar",
-        "url": "https://open.spotify.com/album/2TfQ5HuVuEKMq7f2SjT99i"
+        "name": "I F\u00f6nstret P\u00e5 Andra Sidan Gatan",
+        "url": "https://open.spotify.com/album/2qRhY1t2uORSkz41CrReSh"
       },
       "artists": [
         {
-          "name": "Anders Robert",
-          "url": "https://open.spotify.com/artist/3ORm1UuQlm3AsbEtV4Lmte"
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
         }
       ],
-      "duration_ms": 196999,
-      "name": "V\u00e5gar",
-      "url": "https://open.spotify.com/track/05AFsQh8RRqe06G3iPM1lv"
+      "duration_ms": 187950,
+      "name": "I F\u00f6nstret P\u00e5 Andra Sidan Gatan",
+      "url": "https://open.spotify.com/track/6SJomf6sODucVq2Jc7cfjv"
     },
     {
       "added_at": "2024-02-02 10:32:16",
@@ -279,18 +247,34 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
-        "name": "Springer",
-        "url": "https://open.spotify.com/album/4Umy4dQySiy0DqRufmUroe"
+        "name": "V\u00e5gar",
+        "url": "https://open.spotify.com/album/2TfQ5HuVuEKMq7f2SjT99i"
       },
       "artists": [
         {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+          "name": "Anders Robert",
+          "url": "https://open.spotify.com/artist/3ORm1UuQlm3AsbEtV4Lmte"
         }
       ],
-      "duration_ms": 203504,
-      "name": "Springer",
-      "url": "https://open.spotify.com/track/7Hq0AAorMD6oxJoqL7qZS0"
+      "duration_ms": 196999,
+      "name": "V\u00e5gar",
+      "url": "https://open.spotify.com/track/05AFsQh8RRqe06G3iPM1lv"
+    },
+    {
+      "added_at": "2024-02-02 10:32:16",
+      "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/193Hqvyp5LbPRv9jBd03uB"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 218719,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/2xGG2OZyI8Z5jlWRBAdfFa"
     },
     {
       "added_at": "2024-02-02 10:32:16",
@@ -311,6 +295,22 @@
       "duration_ms": 214666,
       "name": "H\u00e5lla tillbaks (feat. Hurula)",
       "url": "https://open.spotify.com/track/213I7nc8IcgnDS5GyVKxO7"
+    },
+    {
+      "added_at": "2024-02-02 10:32:16",
+      "album": {
+        "name": "Springer",
+        "url": "https://open.spotify.com/album/4Umy4dQySiy0DqRufmUroe"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 203504,
+      "name": "Springer",
+      "url": "https://open.spotify.com/track/7Hq0AAorMD6oxJoqL7qZS0"
     },
     {
       "added_at": "2024-02-02 10:32:16",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/6nhRB6c39feuGdqh9aLH9N"
+      },
+      "artists": [
+        {
+          "name": "Klara Hammarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+        }
+      ],
+      "duration_ms": 148812,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/3c0uWc9wFRPeHjDKkYy4zz"
+    },
+    {
+      "added_at": "2024-02-02 10:32:16",
+      "album": {
         "name": "Minimum",
         "url": "https://open.spotify.com/album/7ntbKzzrRi4jgxNoPCKMjb"
       },
@@ -395,18 +411,18 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
-        "name": "One Of Us",
-        "url": "https://open.spotify.com/album/6nhRB6c39feuGdqh9aLH9N"
+        "name": "tr\u00f6tt p\u00e5 det",
+        "url": "https://open.spotify.com/album/66IhgUUfX0mE9TmNnxRouz"
       },
       "artists": [
         {
-          "name": "Klara Hammarstr\u00f6m",
-          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
         }
       ],
-      "duration_ms": 148812,
-      "name": "One Of Us",
-      "url": "https://open.spotify.com/track/3c0uWc9wFRPeHjDKkYy4zz"
+      "duration_ms": 144842,
+      "name": "tr\u00f6tt p\u00e5 det",
+      "url": "https://open.spotify.com/track/4AyU1dA0MJN7nyWHgFwfak"
     },
     {
       "added_at": "2024-02-02 10:32:16",
@@ -443,22 +459,6 @@
       "duration_ms": 175923,
       "name": "Jaguar",
       "url": "https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy"
-    },
-    {
-      "added_at": "2024-02-02 10:32:16",
-      "album": {
-        "name": "tr\u00f6tt p\u00e5 det",
-        "url": "https://open.spotify.com/album/66IhgUUfX0mE9TmNnxRouz"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 144842,
-      "name": "tr\u00f6tt p\u00e5 det",
-      "url": "https://open.spotify.com/track/4AyU1dA0MJN7nyWHgFwfak"
     },
     {
       "added_at": "2024-02-02 10:32:16",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
+        "name": "Vi Tv\u00e5",
+        "url": "https://open.spotify.com/album/7rsQ9C50dn0H8mQiNbALYr"
+      },
+      "artists": [
+        {
+          "name": "UPPENBARA",
+          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
+        }
+      ],
+      "duration_ms": 157090,
+      "name": "Vi Tv\u00e5",
+      "url": "https://open.spotify.com/track/1aaZRBB3UW9H9KJbV4mfQZ"
+    },
+    {
+      "added_at": "2024-02-02 10:32:16",
+      "album": {
         "name": "Clap",
         "url": "https://open.spotify.com/album/7lEMMNH7c4Dca2V1nQOlIn"
       },
@@ -547,18 +563,18 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
-        "name": "Vi Tv\u00e5",
-        "url": "https://open.spotify.com/album/7rsQ9C50dn0H8mQiNbALYr"
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/5JvejhNPdxVVPTP9P8bxXf"
       },
       "artists": [
         {
-          "name": "UPPENBARA",
-          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
         }
       ],
-      "duration_ms": 157090,
-      "name": "Vi Tv\u00e5",
-      "url": "https://open.spotify.com/track/1aaZRBB3UW9H9KJbV4mfQZ"
+      "duration_ms": 206285,
+      "name": "Jag vill ha allt",
+      "url": "https://open.spotify.com/track/5LQqxkVZnA5kvbzHOMFjde"
     },
     {
       "added_at": "2024-02-02 10:32:16",
@@ -659,22 +675,6 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
-        "name": "Heartstrings",
-        "url": "https://open.spotify.com/album/328NMDlL1I9SemrTEUTQOw"
-      },
-      "artists": [
-        {
-          "name": "maybealice",
-          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
-        }
-      ],
-      "duration_ms": 160714,
-      "name": "Heartstrings",
-      "url": "https://open.spotify.com/track/2pohuzN9EF18O5cFEi0qaW"
-    },
-    {
-      "added_at": "2024-02-02 10:32:16",
-      "album": {
         "name": "Stockholm l\u00e4mnar s\u00e5r (REMAZE Remix)",
         "url": "https://open.spotify.com/album/5ZyicRFZ5ojBzcLP0GrGYf"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 210937,
       "name": "Stockholm l\u00e4mnar s\u00e5r - REMAZE Remix",
       "url": "https://open.spotify.com/track/3oEX4kXtOkHqtFr2Vj8KIK"
+    },
+    {
+      "added_at": "2024-02-02 10:32:16",
+      "album": {
+        "name": "Heartstrings",
+        "url": "https://open.spotify.com/album/328NMDlL1I9SemrTEUTQOw"
+      },
+      "artists": [
+        {
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "Heartstrings",
+      "url": "https://open.spotify.com/track/2pohuzN9EF18O5cFEi0qaW"
     },
     {
       "added_at": "2024-02-02 10:32:16",
@@ -723,6 +739,22 @@
       "duration_ms": 216520,
       "name": "Down",
       "url": "https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw"
+    },
+    {
+      "added_at": "2024-02-02 10:32:16",
+      "album": {
+        "name": "Girls Girls Girls",
+        "url": "https://open.spotify.com/album/5EB4A1XebKg1zN6qAOZJ3k"
+      },
+      "artists": [
+        {
+          "name": "Dolly Style",
+          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
+        }
+      ],
+      "duration_ms": 182759,
+      "name": "Girls Girls Girls",
+      "url": "https://open.spotify.com/track/5kMu9t0U11YXMpyxmkGvi5"
     },
     {
       "added_at": "2024-02-02 10:32:16",
@@ -775,22 +807,6 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
-        "name": "Girls Girls Girls",
-        "url": "https://open.spotify.com/album/5EB4A1XebKg1zN6qAOZJ3k"
-      },
-      "artists": [
-        {
-          "name": "Dolly Style",
-          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
-        }
-      ],
-      "duration_ms": 182759,
-      "name": "Girls Girls Girls",
-      "url": "https://open.spotify.com/track/5kMu9t0U11YXMpyxmkGvi5"
-    },
-    {
-      "added_at": "2024-02-02 10:32:16",
-      "album": {
         "name": "Lilla Jag",
         "url": "https://open.spotify.com/album/7CfdeTN5Bsb9fbnZGHwrTP"
       },
@@ -839,22 +855,6 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
-        "name": "En av ungarna",
-        "url": "https://open.spotify.com/album/6ekSfXbb6ry0JE0hhq5VMI"
-      },
-      "artists": [
-        {
-          "name": "Den svenska bj\u00f6rnstammen",
-          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "En av ungarna",
-      "url": "https://open.spotify.com/track/0d7I3Dlg0uAwkZOtUpUYIl"
-    },
-    {
-      "added_at": "2024-02-02 10:32:16",
-      "album": {
         "name": "Historier och liv",
         "url": "https://open.spotify.com/album/5M3FQkPMjBlsLRPssprSYH"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 200625,
       "name": "Historier och liv",
       "url": "https://open.spotify.com/track/0LhnOov4l5H0yLsH0dvQL5"
+    },
+    {
+      "added_at": "2024-02-02 10:32:16",
+      "album": {
+        "name": "En av ungarna",
+        "url": "https://open.spotify.com/album/6ekSfXbb6ry0JE0hhq5VMI"
+      },
+      "artists": [
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "En av ungarna",
+      "url": "https://open.spotify.com/track/0d7I3Dlg0uAwkZOtUpUYIl"
     },
     {
       "added_at": "2024-02-02 10:32:16",
@@ -939,6 +955,22 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
+        "name": "Third strike",
+        "url": "https://open.spotify.com/album/7h303GqBrFucrhaLiOSmzG"
+      },
+      "artists": [
+        {
+          "name": "Takida",
+          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+        }
+      ],
+      "duration_ms": 187106,
+      "name": "Third strike",
+      "url": "https://open.spotify.com/track/5lXZPdOi7mGABQPEKJ8qG5"
+    },
+    {
+      "added_at": "2024-02-02 10:32:16",
+      "album": {
         "name": "Ruta Noll",
         "url": "https://open.spotify.com/album/543XPoKgO1q8T2Yj1Rsmk7"
       },
@@ -955,18 +987,18 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
-        "name": "Third strike",
-        "url": "https://open.spotify.com/album/7h303GqBrFucrhaLiOSmzG"
+        "name": "Ocean In Me",
+        "url": "https://open.spotify.com/album/02lUjkyXOvzAEoRUmrkXBg"
       },
       "artists": [
         {
-          "name": "Takida",
-          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+          "name": "sixten",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
         }
       ],
-      "duration_ms": 187106,
-      "name": "Third strike",
-      "url": "https://open.spotify.com/track/5lXZPdOi7mGABQPEKJ8qG5"
+      "duration_ms": 178000,
+      "name": "Ocean In Me",
+      "url": "https://open.spotify.com/track/5gW2cExcvFhma0Eb9ROVVp"
     },
     {
       "added_at": "2024-02-02 10:32:16",
@@ -1007,34 +1039,18 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
-        "name": "Ocean In Me",
-        "url": "https://open.spotify.com/album/02lUjkyXOvzAEoRUmrkXBg"
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/7akLNZ7EOOAZuNqNEc2zNA"
       },
       "artists": [
         {
-          "name": "sixten",
-          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Ocean In Me",
-      "url": "https://open.spotify.com/track/5gW2cExcvFhma0Eb9ROVVp"
-    },
-    {
-      "added_at": "2024-02-02 10:32:16",
-      "album": {
-        "name": "b\u00e4stis",
-        "url": "https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp"
-      },
-      "artists": [
-        {
-          "name": "IMAN",
-          "url": "https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e"
-        }
-      ],
-      "duration_ms": 208832,
-      "name": "b\u00e4stis",
-      "url": "https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD"
+      "duration_ms": 159360,
+      "name": "I\u2019m His, He\u2019s Mine",
+      "url": "https://open.spotify.com/track/4ssi26oVcUXWLooc1Ac0Ni"
     },
     {
       "added_at": "2024-02-02 10:32:16",
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/7akLNZ7EOOAZuNqNEc2zNA"
+        "name": "b\u00e4stis",
+        "url": "https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp"
       },
       "artists": [
         {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+          "name": "IMAN",
+          "url": "https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e"
         }
       ],
-      "duration_ms": 159360,
-      "name": "I\u2019m His, He\u2019s Mine",
-      "url": "https://open.spotify.com/track/4ssi26oVcUXWLooc1Ac0Ni"
+      "duration_ms": 208832,
+      "name": "b\u00e4stis",
+      "url": "https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD"
     },
     {
       "added_at": "2024-02-02 10:32:16",
@@ -1119,6 +1135,22 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
+        "name": "Taste Of Heaven",
+        "url": "https://open.spotify.com/album/0Cbt2xiCAc1vjTCHnPdFDG"
+      },
+      "artists": [
+        {
+          "name": "Cazzi Opeia",
+          "url": "https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Taste Of Heaven",
+      "url": "https://open.spotify.com/track/2ByE2T6q6xsJ4540xka3pz"
+    },
+    {
+      "added_at": "2024-02-02 10:32:16",
+      "album": {
         "name": "Let The Good Times In",
         "url": "https://open.spotify.com/album/4mtnaJTBxcNZ9sw4fsIpRh"
       },
@@ -1147,22 +1179,6 @@
       "duration_ms": 139429,
       "name": "Tennis",
       "url": "https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E"
-    },
-    {
-      "added_at": "2024-02-02 10:32:16",
-      "album": {
-        "name": "Taste Of Heaven",
-        "url": "https://open.spotify.com/album/0Cbt2xiCAc1vjTCHnPdFDG"
-      },
-      "artists": [
-        {
-          "name": "Cazzi Opeia",
-          "url": "https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Taste Of Heaven",
-      "url": "https://open.spotify.com/track/2ByE2T6q6xsJ4540xka3pz"
     },
     {
       "added_at": "2024-02-02 10:32:16",
@@ -1303,6 +1319,22 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
+        "name": "Varje g\u00e5ng",
+        "url": "https://open.spotify.com/album/6aTU5aSCB5dahAWEvmBViu"
+      },
+      "artists": [
+        {
+          "name": "TRENDEN",
+          "url": "https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S"
+        }
+      ],
+      "duration_ms": 173696,
+      "name": "Varje g\u00e5ng",
+      "url": "https://open.spotify.com/track/5F63IuJAxScBwhGSO51N4r"
+    },
+    {
+      "added_at": "2024-02-02 10:32:16",
+      "album": {
         "name": "Hung The Moon",
         "url": "https://open.spotify.com/album/3zHTImFs0h0GkMiDl1GlFW"
       },
@@ -1335,70 +1367,18 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
-        "name": "Siri",
-        "url": "https://open.spotify.com/album/7mUoHkdkOSw6SRU6Zms8P8"
+        "name": "Ensam",
+        "url": "https://open.spotify.com/album/06s9itJ8oHEe9YZMLJm3id"
       },
       "artists": [
         {
-          "name": "Maxida M\u00e4rak",
-          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
+          "name": "Petrus",
+          "url": "https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG"
         }
       ],
-      "duration_ms": 243703,
-      "name": "Siri",
-      "url": "https://open.spotify.com/track/6TpiEC8TyqjUqhX29msNFB"
-    },
-    {
-      "added_at": "2024-02-02 10:32:16",
-      "album": {
-        "name": "Tillsammans",
-        "url": "https://open.spotify.com/album/2QO70oJcBK5tRNHZWk3Z2t"
-      },
-      "artists": [
-        {
-          "name": "Tim Damerau",
-          "url": "https://open.spotify.com/artist/17YXRoI6Gj8EXyQM1lpxNZ"
-        },
-        {
-          "name": "Linnea Andersson",
-          "url": "https://open.spotify.com/artist/3TKl5dwSBx0gQG0O4qNon4"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Tillsammans",
-      "url": "https://open.spotify.com/track/3ibHLzsA6cJzAtJSwpRzpZ"
-    },
-    {
-      "added_at": "2024-02-02 10:32:16",
-      "album": {
-        "name": "TRENCH",
-        "url": "https://open.spotify.com/album/1nKbVqSp1GqpI3ggyihitK"
-      },
-      "artists": [
-        {
-          "name": "Elliphant",
-          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
-        }
-      ],
-      "duration_ms": 193777,
-      "name": "TRENCH",
-      "url": "https://open.spotify.com/track/3eYJ0WYNccALQAYoTZyidU"
-    },
-    {
-      "added_at": "2024-02-02 10:32:16",
-      "album": {
-        "name": "K\u00e4rleksv\u00e4rk",
-        "url": "https://open.spotify.com/album/3qcmiU3Erv7DhvEh9zHKh1"
-      },
-      "artists": [
-        {
-          "name": "TRENDEN",
-          "url": "https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S"
-        }
-      ],
-      "duration_ms": 130707,
-      "name": "K\u00e4rleksv\u00e4rk",
-      "url": "https://open.spotify.com/track/6jUynpgWKtsv1HC1S37wOI"
+      "duration_ms": 182053,
+      "name": "Ensam",
+      "url": "https://open.spotify.com/track/045fEItPCP4cEElam3hpcb"
     },
     {
       "added_at": "2024-02-02 10:32:16",
@@ -1419,6 +1399,38 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
+        "name": "Siri",
+        "url": "https://open.spotify.com/album/7mUoHkdkOSw6SRU6Zms8P8"
+      },
+      "artists": [
+        {
+          "name": "Maxida M\u00e4rak",
+          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
+        }
+      ],
+      "duration_ms": 243703,
+      "name": "Siri",
+      "url": "https://open.spotify.com/track/6TpiEC8TyqjUqhX29msNFB"
+    },
+    {
+      "added_at": "2024-02-02 10:32:16",
+      "album": {
+        "name": "Stay The Same",
+        "url": "https://open.spotify.com/album/74i4fawNhn1B7aXv2s6BSa"
+      },
+      "artists": [
+        {
+          "name": "Vide",
+          "url": "https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539"
+        }
+      ],
+      "duration_ms": 178541,
+      "name": "Stay The Same",
+      "url": "https://open.spotify.com/track/1x2HCmiEv5CSEltweAkOW8"
+    },
+    {
+      "added_at": "2024-02-02 10:32:16",
+      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/1SEG2kYABTDeOs2WMwxD0d"
       },
@@ -1431,22 +1443,6 @@
       "duration_ms": 190572,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/76hEkLg6onuuxavpw4aqlq"
-    },
-    {
-      "added_at": "2024-02-02 10:32:16",
-      "album": {
-        "name": "Tusen & en natt",
-        "url": "https://open.spotify.com/album/3rJlT9m1LM7qYXQ1DPXs50"
-      },
-      "artists": [
-        {
-          "name": "Teck Noir",
-          "url": "https://open.spotify.com/artist/38YJI7lbvZiO9nvcjHqUtE"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Tusen & en natt",
-      "url": "https://open.spotify.com/track/5PXSHIjTloXZr7Aw6BM0zC"
     },
     {
       "added_at": "2024-02-02 10:32:16",
@@ -1471,18 +1467,34 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
-        "name": "Stay The Same",
-        "url": "https://open.spotify.com/album/74i4fawNhn1B7aXv2s6BSa"
+        "name": "K\u00e4rleksv\u00e4rk",
+        "url": "https://open.spotify.com/album/3qcmiU3Erv7DhvEh9zHKh1"
       },
       "artists": [
         {
-          "name": "Vide",
-          "url": "https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539"
+          "name": "TRENDEN",
+          "url": "https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S"
         }
       ],
-      "duration_ms": 178541,
-      "name": "Stay The Same",
-      "url": "https://open.spotify.com/track/1x2HCmiEv5CSEltweAkOW8"
+      "duration_ms": 130707,
+      "name": "K\u00e4rleksv\u00e4rk",
+      "url": "https://open.spotify.com/track/6jUynpgWKtsv1HC1S37wOI"
+    },
+    {
+      "added_at": "2024-02-02 10:32:16",
+      "album": {
+        "name": "Tusen & en natt",
+        "url": "https://open.spotify.com/album/3rJlT9m1LM7qYXQ1DPXs50"
+      },
+      "artists": [
+        {
+          "name": "Teck Noir",
+          "url": "https://open.spotify.com/artist/38YJI7lbvZiO9nvcjHqUtE"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Tusen & en natt",
+      "url": "https://open.spotify.com/track/5PXSHIjTloXZr7Aw6BM0zC"
     },
     {
       "added_at": "2024-02-02 10:32:16",
@@ -1499,6 +1511,22 @@
       "duration_ms": 233160,
       "name": "Drown out the noise",
       "url": "https://open.spotify.com/track/1BH975zc82rAvbJZrmkbgH"
+    },
+    {
+      "added_at": "2024-02-02 10:32:16",
+      "album": {
+        "name": "Cut Them Out",
+        "url": "https://open.spotify.com/album/6tdkOD0oV6jwXYRmQClfSR"
+      },
+      "artists": [
+        {
+          "name": "Amanda Fondell",
+          "url": "https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Cut Them Out",
+      "url": "https://open.spotify.com/track/2qg6GGfDdQpK2108Cs0pzv"
     },
     {
       "added_at": "2024-02-02 10:32:16",
@@ -1551,6 +1579,54 @@
     {
       "added_at": "2024-02-02 10:32:16",
       "album": {
+        "name": "TROLL",
+        "url": "https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx"
+      },
+      "artists": [
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "duration_ms": 193777,
+      "name": "TRENCH",
+      "url": "https://open.spotify.com/track/5btPCzSpdxxnxuGuHhcD35"
+    },
+    {
+      "added_at": "2024-02-02 10:32:16",
+      "album": {
+        "name": "Tv\u00e5 idioter",
+        "url": "https://open.spotify.com/album/2VgpCTBPtS3jhFeGGaUGMm"
+      },
+      "artists": [
+        {
+          "name": "Simon Forslund",
+          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
+        }
+      ],
+      "duration_ms": 124687,
+      "name": "Tv\u00e5 idioter",
+      "url": "https://open.spotify.com/track/7icBZz6DwrqQ2z2vCca9HA"
+    },
+    {
+      "added_at": "2024-02-02 10:32:16",
+      "album": {
+        "name": "Out Of Feelings",
+        "url": "https://open.spotify.com/album/3rkCxhZ9Kj7ylr5LjjA5BK"
+      },
+      "artists": [
+        {
+          "name": "ELMA",
+          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Out Of Feelings",
+      "url": "https://open.spotify.com/track/6Xy2N0VoXewxdXheSW0Rw8"
+    },
+    {
+      "added_at": "2024-02-02 10:32:16",
+      "album": {
         "name": "Beneath Your Scars",
         "url": "https://open.spotify.com/album/0opqZfmdLnbaOgkmw6GdK1"
       },
@@ -1579,86 +1655,6 @@
       "duration_ms": 192775,
       "name": "Confession",
       "url": "https://open.spotify.com/track/6x5NfhXW4N83aGsWGlnH2k"
-    },
-    {
-      "added_at": "2024-02-02 10:32:16",
-      "album": {
-        "name": "The Beginning of the End",
-        "url": "https://open.spotify.com/album/1UFU82EL3Qntb2GOyb9nnW"
-      },
-      "artists": [
-        {
-          "name": "4ever Falling",
-          "url": "https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG"
-        }
-      ],
-      "duration_ms": 145429,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1a5b1Tu7wtgqDZJ9l1x3Cy"
-    },
-    {
-      "added_at": "2024-02-02 10:32:16",
-      "album": {
-        "name": "Silhouettes",
-        "url": "https://open.spotify.com/album/2mpr7yVbCCHDX3lGEeAYb1"
-      },
-      "artists": [
-        {
-          "name": "Jacob Frohde",
-          "url": "https://open.spotify.com/artist/2RP1zUSMIGi2YfuW9CHwGz"
-        }
-      ],
-      "duration_ms": 200227,
-      "name": "Silhouettes",
-      "url": "https://open.spotify.com/track/0TJHqGkznVqhRLvuboiSE8"
-    },
-    {
-      "added_at": "2024-02-02 10:32:16",
-      "album": {
-        "name": "Side Effects",
-        "url": "https://open.spotify.com/album/0APh33IURQVK8qhsKVxq7g"
-      },
-      "artists": [
-        {
-          "name": "Helly",
-          "url": "https://open.spotify.com/artist/3QGI6lFDEJq5o2yxhEtT16"
-        }
-      ],
-      "duration_ms": 204461,
-      "name": "Do I Make Sense",
-      "url": "https://open.spotify.com/track/3C4a9QSUcFnPv92pejg3wf"
-    },
-    {
-      "added_at": "2024-02-02 10:32:16",
-      "album": {
-        "name": "Ska det r\u00e4cka",
-        "url": "https://open.spotify.com/album/5vhWhP7gNCzmI7PdbAVI6j"
-      },
-      "artists": [
-        {
-          "name": "Ambivalensen",
-          "url": "https://open.spotify.com/artist/0ZF9JhwucCz0sMbxOGVa4Z"
-        }
-      ],
-      "duration_ms": 235636,
-      "name": "Ska det r\u00e4cka",
-      "url": "https://open.spotify.com/track/570r4eJskCF4cas9ryRgxx"
-    },
-    {
-      "added_at": "2024-02-02 10:32:16",
-      "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/7sehUFnd0iMNS5gp07kiXD"
-      },
-      "artists": [
-        {
-          "name": "Mopiano",
-          "url": "https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ"
-        }
-      ],
-      "duration_ms": 194223,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/5IZJ31eeQqEmP4itTVadGt"
     }
   ],
   "unique_name": "Made in Sweden",

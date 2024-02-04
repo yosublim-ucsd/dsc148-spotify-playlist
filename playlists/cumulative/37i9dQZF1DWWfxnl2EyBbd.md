@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-542 songs - 1 day 17 hr 46 min
+543 songs - 1 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,11 +397,12 @@
 | [Secret Love \- Live](https://open.spotify.com/track/7MyLgFPfvcjpUXq4YDAjPI) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Progression: The Art of the Trio, Vol\. 5](https://open.spotify.com/album/6b6b4JqCmmzwD4enWK8lf0) | 10:08 | 2022-08-11 | 2022-11-09 |
 | [Send In The Clowns](https://open.spotify.com/track/4Le0NVbXXqQbHzpaABq1zv) | [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Goodbye](https://open.spotify.com/album/4qj4LfQdDQUgohrOtYHgVD) | 4:14 | 2022-02-10 | 2022-11-12 |
 | [She Was Too Good to Me](https://open.spotify.com/track/6kxKb8daYjHGP7BSLPP4Yw) | [Dave Peck](https://open.spotify.com/artist/2KzrnvIOUq0N3w0fEcJlES) | [Good Road](https://open.spotify.com/album/1Nwcgl33Y7WlcXvJgl3xZW) | 6:44 | 2022-02-10 |  |
+| [Short Intermission](https://open.spotify.com/track/2RLd480e9nMzuvgds9fSqg) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Short Intermission](https://open.spotify.com/album/6bDsTyNw02QSceWcDRmNKd) | 2:32 | 2024-02-02 |  |
 | [Signs in the Wind](https://open.spotify.com/track/3qSBy2qrGqxiZ0dtikcgk1) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Signs in the Wind](https://open.spotify.com/album/4ZsfPweycVfmBNlgJh8NgP) | 2:16 | 2022-11-12 |  |
 | [Silent Dreams](https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Silent Dreams](https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa) | 4:08 | 2022-11-12 |  |
 | [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 | 2022-11-12 |  |
 | [Sleepless in the City](https://open.spotify.com/track/76ZXW9ifRtf4Ds4r3Dg22N) | [The Belleville Band](https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW) | [Sleepless in the City](https://open.spotify.com/album/7qRSYJd1QNwxD1XBbGu7eQ) | 3:37 | 2023-04-20 |  |
-| [Slow Boat to China](https://open.spotify.com/track/49ZabI6v41balII6X6u3BM) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time For Ballads \- The Studio Sessions](https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q) | 4:08 | 2022-06-30 |  |
+| [Slow Boat to China](https://open.spotify.com/track/49ZabI6v41balII6X6u3BM) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time For Ballads \- The Studio Sessions](https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q) | 4:08 | 2022-06-30 | 2024-02-04 |
 | [Smile](https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:33 | 2022-02-10 |  |
 | [Smoke Gets In Your Eyes \- Live](https://open.spotify.com/track/3FwzNfCgyYSIafAG9QGvRZ) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Tribute](https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx) | 8:26 | 2022-02-10 |  |
 | [Snow Ghost](https://open.spotify.com/track/2UBumdntcd5ufINFo9w9ZX) | [Jacob Wutzke](https://open.spotify.com/artist/0gl2Q0OE8JZmq22KORDaJQ) | [Snow Ghost](https://open.spotify.com/album/104OQ6yd9vbKLHCo6XxyZH) | 6:03 | 2023-03-10 |  |

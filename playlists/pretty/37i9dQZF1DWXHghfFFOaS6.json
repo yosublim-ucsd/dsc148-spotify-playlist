@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 324627,
+  "num_followers": 324707,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2EyNGIwMzE0ODJlMmEzY2JkNjJiMGNlYjBhZGMxOTM4MmExOGFj",
+  "snapshot_id": "MCwzN2FjNjY5ODcxYzNhZDkyMDY5NTEwYjBmNmQwZjg3OWFiNmQyY2Fi",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Pop Music: The Modern Era 1976-1999",
-        "url": "https://open.spotify.com/album/0Jh7XIEQrNQAXm7a6hbJ1h"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "Virtual Insanity",
-      "url": "https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Mecca And The Soul Brother",
         "url": "https://open.spotify.com/album/2AgTKAULjbHpqqtyI53hdp"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 286693,
       "name": "They Reminisce Over You (T.R.O.Y.)",
       "url": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Pop Music: The Modern Era 1976-1999",
+        "url": "https://open.spotify.com/album/0Jh7XIEQrNQAXm7a6hbJ1h"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "Virtual Insanity",
+      "url": "https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Mellow My Man",
+      "url": "https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Welcome 2 Detroit",
         "url": "https://open.spotify.com/album/2KvJwjA8SxHUn1JPG09W4g"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 277333,
       "name": "Where Are We Going?",
       "url": "https://open.spotify.com/track/3E26XqV2an7iMYoEcUVdj4"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Mellow My Man",
-      "url": "https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
+      },
+      "artists": [
+        {
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Stomp And Buck Dance",
+      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "In Pursuit Of The 13th Note",
         "url": "https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S"
       },
@@ -1223,38 +1239,6 @@
       "duration_ms": 319733,
       "name": "I Am The Black Gold Of The Sun",
       "url": "https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
-      },
-      "artists": [
-        {
-          "name": "The Crusaders",
-          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
-        }
-      ],
-      "duration_ms": 348760,
-      "name": "Stomp And Buck Dance",
-      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Stoned Woman",
-        "url": "https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe"
-      },
-      "artists": [
-        {
-          "name": "Mother Earth",
-          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
-        }
-      ],
-      "duration_ms": 165560,
-      "name": "Theme from Riot on 103rd Street",
-      "url": "https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn"
     },
     {
       "added_at": "2022-07-18 17:17:22",
@@ -1295,6 +1279,22 @@
       "duration_ms": 199560,
       "name": "Pushin' On",
       "url": "https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Stoned Woman",
+        "url": "https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe"
+      },
+      "artists": [
+        {
+          "name": "Mother Earth",
+          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
+        }
+      ],
+      "duration_ms": 165560,
+      "name": "Theme from Riot on 103rd Street",
+      "url": "https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn"
     },
     {
       "added_at": "2022-07-14 19:24:43",

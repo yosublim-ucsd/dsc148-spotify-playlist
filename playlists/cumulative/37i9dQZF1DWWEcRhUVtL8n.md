@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Del Water Gap & Holly Humberstone
 
-1,749 songs - 3 day 20 hr 11 min
+1,750 songs - 3 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -734,7 +734,7 @@
 | [I Believe](https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:07 | 2023-02-21 | 2023-07-29 |
 | [I Believe in You](https://open.spotify.com/track/0Ml7rd3x4n1CVqqqWa1OVj) | [more\*](https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i) | [I Believe in You](https://open.spotify.com/album/7r4vwcfdbzyR1L2tHugI6G) | 4:09 | 2022-06-17 | 2022-07-29 |
 | [I Believe In You \(feat\. Francis and The Lights\)](https://open.spotify.com/track/6RVfUzvTSESecF5ESmVRh8) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [I Believe In You \(feat\. Francis and The Lights\)](https://open.spotify.com/album/61bKlCe2mqLCWI24BFCA9k) | 3:35 | 2020-10-20 | 2021-05-28 |
-| [I Can't Get My Head Around You](https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:26 | 2023-03-24 |  |
+| [I Can't Get My Head Around You](https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:26 | 2023-03-24 | 2024-02-04 |
 | [I Can't Get My Head Around You](https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can't Get My Head Around You](https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e) | 3:26 | 2023-03-24 | 2023-04-10 |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2021-03-19 | 2021-05-05 |
 | [I Can’t Grow Up](https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [I Can't Grow Up](https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm) | 3:20 | 2022-10-21 | 2022-11-12 |
@@ -1706,6 +1706,7 @@
 | [wide eyed](https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [wide eyed](https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC) | 3:34 | 2022-10-18 | 2023-04-11 |
 | [Widow Dreams Forever](https://open.spotify.com/track/0lo0uTr01YwLsquOAuwUEA) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Widow Dreams Forever](https://open.spotify.com/album/0bknUVrYD2YRTbmCzF7r2L) | 3:03 | 2023-02-17 | 2023-02-25 |
 | [Will We Ever Get This Right](https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Will We Ever Get This Right](https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ) | 2:41 | 2022-03-31 | 2022-07-29 |
+| [Willow \(feat\. Lucy Rose\)](https://open.spotify.com/track/7m1qFwzJnebBiWkzE7RgDq) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Willow \(feat\. Lucy Rose\)](https://open.spotify.com/album/2ZbZBB7CCWqi9kgnmlSHM3) | 4:09 | 2024-02-02 |  |
 | [Windows \- No Rome Remix](https://open.spotify.com/track/5q0Y1svWIHkmx4Q9uH0VxB) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Windows \(No Rome Remix\)](https://open.spotify.com/album/4WjVO6STzyMQ21tGnAqtO4) | 2:08 | 2021-06-03 | 2021-10-16 |
 | [Wine](https://open.spotify.com/track/4ovL2qMHSSGEqFZXOeuSB8) | [Simone](https://open.spotify.com/artist/5k6BuuGye7fUjFvPOOJ8C2) | [Wine](https://open.spotify.com/album/5rpR4Eqlx55HnGwvxmx2x4) | 3:35 | 2021-05-27 | 2021-11-25 |
 | [Winnie Crush](https://open.spotify.com/track/0d9xixmHAusZVsdJQPnRxr) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Winnie Crush](https://open.spotify.com/album/0tS826DRVWxkDg9al34Rdj) | 2:54 | 2021-10-11 | 2021-10-12 |

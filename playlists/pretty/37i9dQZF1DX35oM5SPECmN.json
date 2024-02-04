@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2341562,
+  "num_followers": 2340971,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTlhOTRkZWYyMDg5ZDc2OGEzNjM3ZmMxOGNlMjBjNThkNGM4OWQ2",
+  "snapshot_id": "MCxjYWU1NDFkMjU5YTY3ZmM4ZTljZjczMTMwZTU0MjZkMjMyYjBkOGQ2",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "As We Ran",
-        "url": "https://open.spotify.com/album/5n3pUUjhGl3ZrKiQeBB7qi"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 200321,
-      "name": "As We Ran",
-      "url": "https://open.spotify.com/track/2VDKSRDTpqWgczc33Lk9h5"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 220333,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/3pMUTmKGA5hWOWpzf82xn0"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "As We Ran",
+        "url": "https://open.spotify.com/album/5n3pUUjhGl3ZrKiQeBB7qi"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 200321,
+      "name": "As We Ran",
+      "url": "https://open.spotify.com/track/2VDKSRDTpqWgczc33Lk9h5"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Bears & Bulls",
+        "url": "https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt"
+      },
+      "artists": [
+        {
+          "name": "The Stone Foxes",
+          "url": "https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t"
+        }
+      ],
+      "duration_ms": 110293,
+      "name": "Stomp",
+      "url": "https://open.spotify.com/track/2GqgXmOkCYkmnNo4EEz4DU"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 168760,
       "name": "The Way We Move",
       "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Bears & Bulls",
-        "url": "https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt"
-      },
-      "artists": [
-        {
-          "name": "The Stone Foxes",
-          "url": "https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t"
-        }
-      ],
-      "duration_ms": 110293,
-      "name": "Stomp",
-      "url": "https://open.spotify.com/track/2GqgXmOkCYkmnNo4EEz4DU"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "I\u2019m On Your Side",
-      "url": "https://open.spotify.com/track/3rBi3Y2miFgPHm8OAcLRoL"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 224106,
       "name": "Can\u2019t Do Much",
       "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "I\u2019m On Your Side",
+      "url": "https://open.spotify.com/track/3rBi3Y2miFgPHm8OAcLRoL"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 241800,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 162673,
       "name": "Take The Journey",
       "url": "https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 241800,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Expectations",
-      "url": "https://open.spotify.com/track/5j5bXVwxBapNPj0MbYBa6f"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "All Or Nothin'",
         "url": "https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 201666,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "Expectations",
+      "url": "https://open.spotify.com/track/5j5bXVwxBapNPj0MbYBa6f"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 253599,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Highway Queen",
         "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Fight",
-        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
       "artists": [
         {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
         }
       ],
-      "duration_ms": 225360,
-      "name": "Fire & Fury",
-      "url": "https://open.spotify.com/track/0R1DETYaiMMobDi2TkQmlj"
+      "duration_ms": 253599,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1227,6 +1211,22 @@
       "duration_ms": 327853,
       "name": "Edge of Seventeen",
       "url": "https://open.spotify.com/track/42HGl10TZF0LLfLgMWNtfw"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Fire & Fury",
+      "url": "https://open.spotify.com/track/0R1DETYaiMMobDi2TkQmlj"
     }
   ],
   "unique_name": "Run Wild",

@@ -1,12 +1,12 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26136,
+  "num_followers": 26132,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGVlY2JmZmNjOWQ1YWM5YzE1M2Y2Mzg0MzY5YWZjMjJjYzNlNzg0",
+  "snapshot_id": "MCxjNWM2OGYxMmE5MTg3NzAyZTM5OWMzMjhmMDE0Y2IyODEyNzRjM2Qw",
   "tracks": [
     {
       "added_at": "2023-03-10 17:59:10",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/7DMS5dzWQu7R3D59CKw4TA"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 181899,
-      "name": "365",
-      "url": "https://open.spotify.com/track/2XWjPtKdi5sucFYtVav07d"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "Magnets EP",
         "url": "https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH"
       },
@@ -823,18 +803,22 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+        "name": "365",
+        "url": "https://open.spotify.com/album/7DMS5dzWQu7R3D59CKw4TA"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 192621,
-      "name": "Solar Power",
-      "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
+      "duration_ms": 181899,
+      "name": "365",
+      "url": "https://open.spotify.com/track/2XWjPtKdi5sucFYtVav07d"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -851,6 +835,22 @@
       "duration_ms": 153293,
       "name": "blind",
       "url": "https://open.spotify.com/track/0NuWgxEp51CutD2pJoF4OM"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 192621,
+      "name": "Solar Power",
+      "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1927,26 +1927,22 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "FRIENDS KEEP SECRETS 2",
-        "url": "https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C"
+        "name": "Church (feat. EARTHGANG)",
+        "url": "https://open.spotify.com/album/1jAJCdLpq8lMwN7oTPRCQN"
       },
       "artists": [
         {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
         },
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 169094,
-      "name": "You (with Marshmello & Vance Joy)",
-      "url": "https://open.spotify.com/track/3wCk9LASPqyp2VovekThtF"
+      "duration_ms": 228117,
+      "name": "Church (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/1T37rmthd8KPcRPcD5Tm7u"
     }
   ],
   "unique_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",

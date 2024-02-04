@@ -1,12 +1,12 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 479446,
+  "num_followers": 479414,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjg5NWEwN2JiNjc4YjIzYTRhMGM5MGMyMTMwZjEwMjA4NmQxMTlh",
+  "snapshot_id": "MCwzM2M0NjBjODZjZmIwOGFmNjllNmIzMzc2MTYyZWFmZjE2YTk4ODQ0",
   "tracks": [
     {
       "added_at": "2023-06-09 16:26:46",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Wanted on Voyage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
         "name": "Beast Epic",
         "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 231754,
       "name": "Call It Dreaming",
       "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
         "name": "Oh My Messy Mind",
         "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 176826,
       "name": "Peer Pressure",
       "url": "https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Like Strangers Do",
-        "url": "https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ"
-      },
-      "artists": [
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        }
-      ],
-      "duration_ms": 160790,
-      "name": "Like Strangers Do",
-      "url": "https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
         "name": "Know.",
         "url": "https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 226106,
       "name": "Have It All",
       "url": "https://open.spotify.com/track/7BXW1QCg56yzEBV8pW8pah"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
+        "name": "Like Strangers Do",
+        "url": "https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "duration_ms": 160790,
+      "name": "Like Strangers Do",
+      "url": "https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
         "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
         "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 178355,
       "name": "Ain't Nobody (Loves Me Better) - Acoustic",
       "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Superhero",
-        "url": "https://open.spotify.com/album/3CzwQEWpViOABDuwIPmlNW"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 179997,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/6mipiX3H43Lz4vIJTG6cdO"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
         "name": "Process (Bonus Edition)",
         "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 218160,
       "name": "(No One Knows Me) Like the Piano",
       "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/3CzwQEWpViOABDuwIPmlNW"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 179997,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/6mipiX3H43Lz4vIJTG6cdO"
     },
     {
       "added_at": "2023-06-09 16:26:46",

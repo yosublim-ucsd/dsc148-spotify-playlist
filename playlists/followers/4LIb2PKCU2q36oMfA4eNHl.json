@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 42185,
+  "2024-02-04": 42187,
   "date_first_scraped": "2023-12-14",
   "description": "The best tracks in downtempo &amp; chill, curated by Anjuna. Perfect for studying, meditating &amp; relaxing. ",
   "name": "Chill with Anjuna",
@@ -393,7 +393,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 228027,
       "name": "Green",
       "url": "https://open.spotify.com/track/4EcQ8GHyJGLw45jkA9SzmD"
@@ -423,6 +423,24 @@
       "duration_ms": 100000,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/42dXKrKWJwYf7tnRbdsrfo"
+    },
+    {
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx"
+      },
+      "artists": [
+        {
+          "name": "Omfeel",
+          "url": "https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239803,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u"
     },
     {
       "album": {
@@ -689,6 +707,24 @@
       "duration_ms": 263877,
       "name": "Lunar Tides",
       "url": "https://open.spotify.com/track/3B9pDB6SV0TO99dg20CD62"
+    },
+    {
+      "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/5WyNgwQ9DQ1GPPGquKmj5F"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153487,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/5sa8RhxrOzLUOuCgwpGpWb"
     },
     {
       "album": {
@@ -1015,7 +1051,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 216751,
       "name": "Tides",
       "url": "https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM"

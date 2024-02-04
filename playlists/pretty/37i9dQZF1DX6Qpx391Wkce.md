@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,265 likes - 64 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,295 likes - 64 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 40 | [Hydra](https://open.spotify.com/track/24TLhKH7Sa89pSPchSjd7a) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Hydra](https://open.spotify.com/album/1MvcVnDrefnFTV3swzFAvs) | 4:30 |
 | 41 | [After Six Years](https://open.spotify.com/track/0WRSrfxHM3ife3XjVKsFxb) | [Adoo](https://open.spotify.com/artist/5jffouMWTx8Fhyr8MTjG8I) | [After Seven Years EP](https://open.spotify.com/album/6IChVG8EpPGKtoigW1Nfbb) | 6:22 |
 | 42 | [3 Minutes to Midnight](https://open.spotify.com/track/17vUDLauEwEjjU07yPfFke) | [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [3 Minutes to Midnight](https://open.spotify.com/album/27g2GDQgR5sWnPubtotYAJ) | 3:37 |
-| 43 | [The Club Is My House \- Hardspace Mix](https://open.spotify.com/track/1aY2jvZEQmxXSQOutrnQVi) | [Viers](https://open.spotify.com/artist/3vOu5BmXfs5rwPh9cE95i1), [Hardspace](https://open.spotify.com/artist/5oI2WY5wdZNuEl7mKOxqPz), [Len Faki](https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4) | [Hardspace, Vol\. 1](https://open.spotify.com/album/1BwicBcXkbBL1BSkZaSX2e) | 6:44 |
+| 43 | [The Club Is My House \- Hardspace Mix](https://open.spotify.com/track/1aY2jvZEQmxXSQOutrnQVi) | [Viers](https://open.spotify.com/artist/3vOu5BmXfs5rwPh9cE95i1), [Len Faki](https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4), [Hardspace](https://open.spotify.com/artist/5oI2WY5wdZNuEl7mKOxqPz) | [Hardspace, Vol\. 1](https://open.spotify.com/album/1BwicBcXkbBL1BSkZaSX2e) | 6:44 |
 | 44 | [It Won't Always Be Like This](https://open.spotify.com/track/3vAPK7dH7q6FdRFPXZ76A6) | [3STRANGE](https://open.spotify.com/artist/4H9nlRIz8akpjJurwlFf6i) | [It Won't Always Be Like This](https://open.spotify.com/album/5eWOkUD20APFcjQNxzm7Yp) | 4:02 |
 | 45 | [Stella \- Wehbba Remix](https://open.spotify.com/track/32JUzPc2PLBsNzYcYAvdoo) | [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Tripomatic Fairytales \[The Official Remixes\]](https://open.spotify.com/album/34xvadE4k0DrkAluYYHdk7) | 4:13 |
 | 46 | [Get on the Dancefloor](https://open.spotify.com/track/4A2JFMF7LSbRiMCQbLoZEV) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Get on the Dancefloor](https://open.spotify.com/album/657G6dfFZQ3GtiwVs6165G) | 4:29 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 63 | [Method](https://open.spotify.com/track/5mlGbqK6kYoJOkg8X97bCd) | [Drumsauw](https://open.spotify.com/artist/5PYI7iXojjJqfWoxZrJtBb) | [Crypto EP](https://open.spotify.com/album/2Zf3hzeDAGJNL5xnmSDjoz) | 5:49 |
 | 64 | [Space Cowboys \- Deetron Remix](https://open.spotify.com/track/4wWAcfa5LCyz9YXlOnJLrq) | [Fabio Vanore](https://open.spotify.com/artist/19WfpuODWsvrlHGvZYkigs), [Bellville](https://open.spotify.com/artist/3R70yaBEmHf0VbsxY3uVih), [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Incroyable Music \- Cabin in the Woods \(Remixes\)](https://open.spotify.com/album/2OTRW5teR3iq6DMMbnj0O5) | 9:03 |
 
-Snapshot ID: `MCxkOWUzMWJlZjMxMDNkMjk2YWM1NDdhNDRiZGYzZjY5YzE3MTBhNzU0`
+Snapshot ID: `MCxjODIzOTY1OWEwZGNiNjQxOGM5ODI2OTk4NzEyYjE0ZGRmYmEzM2I3`

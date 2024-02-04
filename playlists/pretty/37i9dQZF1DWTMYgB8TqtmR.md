@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,334 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,356 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 32 | [GÅRDSBÖG](https://open.spotify.com/track/15bpfAQPFdJqu13tPruMTI) | [Edvin Törnblom](https://open.spotify.com/artist/1DA1Zox6VID0zJWCeLY3n2) | [GÅRDSBÖG](https://open.spotify.com/album/1cSam6r2OR6aXQ688a1pTZ) | 2:22 |
 | 33 | [Are You Gone Already](https://open.spotify.com/track/1WTdZjiHI4vYnENXLn69x0) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 4:30 |
 | 34 | [Det kommer aldrig va över för mig \- Spotify Singles](https://open.spotify.com/track/6It5iAtU0foJMMNaUv1jie) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Det kommer aldrig va över för mig \- Spotify Singles](https://open.spotify.com/album/6zEEpctC1joN7KkqsWIm1j) | 3:11 |
-| 35 | [Överallt](https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Överallt](https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM) | 2:05 |
+| 35 | [Överallt](https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Bestämda Kliv](https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG) | 2:04 |
 | 36 | [Dans från dig](https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Sara Kurt](https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [Dans från dig](https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g) | 2:16 |
 | 37 | [I'm Sorry](https://open.spotify.com/track/4MxVVKHpLRaIAnOqT1pNSV) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [I'm Sorry](https://open.spotify.com/album/69rwGy6j7etGpJUQ2OMH9f) | 3:23 |
 | 38 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 50 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 
-Snapshot ID: `MCxlYTcxNzVmM2M2NDNmNzM1OTM5MzUwNmQwYTM2NjdhZmU4NDMzY2U1`
+Snapshot ID: `MCw2NDU1NTNiZGMwNjNlMjc3YmI0ZmI1YjRkNmFlNmM0MDEwYTZhY2Qx`

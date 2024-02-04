@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: SPOOKYPBL
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,671 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,653 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Mediaset](https://open.spotify.com/track/1WTvu7hnPnWayJfg6qB5V8) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [Mediaset](https://open.spotify.com/album/1SsWKaUceW83r2Z4yA5Ax5) | 2:21 |
 | 50 | [Bicrave](https://open.spotify.com/track/57NOAYZEQVxUcQvAYL6pwd) | [Kalash247](https://open.spotify.com/artist/0uWqSeCUMHjnUwa3Ia3ZcL) | [Bicrave](https://open.spotify.com/album/7rYb6F4EJMOyF64Aqve4Aa) | 2:59 |
 
-Snapshot ID: `MCw3NzBlNjdmMTgyZGE4M2UxOTlmY2NhNzY3MTAzOGJkY2I2YTZmMjQz`
+Snapshot ID: `MCxlYjg5OWQzNzg5MGViNmU5OThiZDBhOTQ5MmQ4NjA0YTg5ODQ3YjA0`

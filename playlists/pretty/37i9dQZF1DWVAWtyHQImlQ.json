@@ -1,12 +1,12 @@
 {
   "description": "All 60s, all ballads. Cover: Etta James",
-  "num_followers": 142396,
+  "num_followers": 142441,
   "original_name": "60s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDM2MjBkN2QxOTBmYzRhZTFiOTZkZmNkYzY2OWVkYThiNTY2MzE5",
+  "snapshot_id": "MCxmZTY2YmVhOTBiYjYzZjg5MmUxZDVlZmI4MTcwNjVhMWRhOWI1YWVm",
   "tracks": [
     {
       "added_at": "2023-01-02 17:54:36",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "Pain in My Heart",
         "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 154533,
       "name": "These Arms of Mine",
       "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Mr. Soul",
-        "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "Nothing Can Change This Love",
-      "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "Elvis 30 #1 Hits",
         "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
       },
@@ -303,6 +287,22 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "I've Been Loving You Too Long",
+      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+        "name": "Mr. Soul",
+        "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 181666,
-      "name": "I've Been Loving You Too Long",
-      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
+      "duration_ms": 158680,
+      "name": "Nothing Can Change This Love",
+      "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
+        "name": "Insight Out",
+        "url": "https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta"
+      },
+      "artists": [
+        {
+          "name": "The Association",
+          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Never My Love - Remastered Version",
+      "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 187266,
       "name": "Your Precious Love",
       "url": "https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
-        "name": "Insight Out",
-        "url": "https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta"
-      },
-      "artists": [
-        {
-          "name": "The Association",
-          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Never My Love - Remastered Version",
-      "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
     },
     {
       "added_at": "2023-01-02 17:54:36",

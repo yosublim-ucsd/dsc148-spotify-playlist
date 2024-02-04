@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 462202,
+  "num_followers": 462336,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDZkMzRmMzU5ZjM2NDQ0ZGE5OGZjNzU5MjJmZGZhOTQwZmVlMWRh",
+  "snapshot_id": "MCxmOWFmNmJjNmM4YmZhNjExNGI1YjM1ZWE3Mjg5MGQ4NmJkZjQ3OTY5",
   "tracks": [
     {
       "added_at": "2024-01-05 03:01:00",
@@ -927,6 +927,26 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
+        "name": "Oh! Chuva",
+        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 144796,
+      "name": "Oh! Chuva",
+      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
         "name": "Bololo (Remixes)",
         "url": "https://open.spotify.com/album/3bC1j0lxI66MJl2T3anvF2"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 143255,
       "name": "Bololo - MichaelBM & Francesco V Remix",
       "url": "https://open.spotify.com/track/6H0Jp0W6K5arH3w38rE8ZU"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
-        "name": "Oh! Chuva",
-        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 144796,
-      "name": "Oh! Chuva",
-      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "Que Dia",
-        "url": "https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl"
-      },
-      "artists": [
-        {
-          "name": "Zabot",
-          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
-        },
-        {
-          "name": "Serginho Moah",
-          "url": "https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1"
-        }
-      ],
-      "duration_ms": 175546,
-      "name": "Que Dia",
-      "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "Se Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 174219,
       "name": "Se Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "Que Dia",
+        "url": "https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl"
+      },
+      "artists": [
+        {
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
+        },
+        {
+          "name": "Serginho Moah",
+          "url": "https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1"
+        }
+      ],
+      "duration_ms": 175546,
+      "name": "Que Dia",
+      "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"
     },
     {
       "added_at": "2024-01-05 03:01:00",

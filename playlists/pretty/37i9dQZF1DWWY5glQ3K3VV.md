@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: Rhove, ANNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,768 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,810 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 38 | [Bambola](https://open.spotify.com/track/7k0jyx1nNnHPnkhp41jem6) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Bambola](https://open.spotify.com/album/74cIsmvEjOe32y80S8UdoB) | 2:49 |
 | 39 | [FASHION \(feat\. ANNA, Lazza, Tony Effe & Benny Benassi\)](https://open.spotify.com/track/3wld38PU9xGmtSbO5elWSt) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [10](https://open.spotify.com/album/0wseGI0Yw53Ys8W7QGX36a) | 3:02 |
 | 40 | [In My Feelings](https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:37 |
-| 41 | [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:21 |
-| 42 | [Baby U Want Me \(feat\. Geolier & Michelangelo\)](https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 3:43 |
+| 41 | [Baby U Want Me \(feat\. Geolier & Michelangelo\)](https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 3:43 |
+| 42 | [Chico \(feat\. Rose Villain & Luchè\)](https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:21 |
 | 43 | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP) | 3:02 |
 | 44 | [La Bellavita \(feat\. Jul\)](https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 3:14 |
 | 45 | [ON FIRE \- paid in full](https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 79 | [DIOSA \(feat\. Peppe Soks\) \- Remix](https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys) | [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [DIOSA \(feat\. Peppe Soks\) \[Remix\]](https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE) | 2:23 |
 | 80 | [Gli Occhi del Blocco \(feat\. Escomar\)](https://open.spotify.com/track/2dKfIsCs1XhlDZrLjuTbX5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [EP1](https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP) | 2:55 |
 
-Snapshot ID: `MCw1OTcwMTAyY2Q4NGU2YzhmYjBkZjViOTY1YmJhZjZhMWUxOTMwNDMz`
+Snapshot ID: `MCw5YzQzMWRmY2VkMTUxMmU1MzQ5YmRlNWJmYjZlYzgyMWYzODBkMTJm`

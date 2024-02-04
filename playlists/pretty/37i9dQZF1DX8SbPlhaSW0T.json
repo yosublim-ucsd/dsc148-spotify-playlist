@@ -1,12 +1,12 @@
 {
   "description": "Los mejores del Trap de todos los tiempos! \ud83d\udc10 Cover: Bad Bunny",
-  "num_followers": 9731,
+  "num_followers": 9749,
   "original_name": "Latin Trap GOATs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGE3YjZiNzU2MDY4ZTI3NDczOGNiYjc4YWQ0OTg1MGFmNDQwMzZh",
+  "snapshot_id": "MCw1ZTBjNmVlZWJhOWQ4MDgxYWYyNjhjNWZiNjA0YjllZjRmYTNkYzg4",
   "tracks": [
     {
       "added_at": "2023-10-19 21:46:14",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-10-19 21:46:14",
       "album": {
-        "name": "Po' encima (feat. Bryant Myers)",
-        "url": "https://open.spotify.com/album/2Z1xWYZFxCz2QNIVpAZ3xf"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 211408,
-      "name": "Po' encima (feat. Bryant Myers)",
-      "url": "https://open.spotify.com/track/7sWdGtYvzlzuQRAoZ7fGeO"
-    },
-    {
-      "added_at": "2023-10-19 21:46:14",
-      "album": {
         "name": "Tu Me Enamoraste (Remix)",
         "url": "https://open.spotify.com/album/4uA0PdlRCnd0zpodu1K5qM"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 341134,
       "name": "Tu Me Enamoraste - Remix",
       "url": "https://open.spotify.com/track/7b6QP0Pz2sqyW7yyXodpm6"
+    },
+    {
+      "added_at": "2023-10-19 21:46:14",
+      "album": {
+        "name": "Po' encima (feat. Bryant Myers)",
+        "url": "https://open.spotify.com/album/2Z1xWYZFxCz2QNIVpAZ3xf"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 211408,
+      "name": "Po' encima (feat. Bryant Myers)",
+      "url": "https://open.spotify.com/track/7sWdGtYvzlzuQRAoZ7fGeO"
     },
     {
       "added_at": "2023-10-19 21:46:14",

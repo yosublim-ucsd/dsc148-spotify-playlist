@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Age Factory
 
-1,293 songs - 3 day 8 hr 22 min
+1,294 songs - 3 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [Feel So Good](https://open.spotify.com/track/2ScCKoZz0DOgpnSUNlsQZc) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Feel So Good](https://open.spotify.com/album/4eAiq2DTuvLntga5pN5zp8) | 4:17 | 2023-08-24 | 2023-08-30 |
 | [Feet Feet](https://open.spotify.com/track/0LhOjOaUIdQHwdYjQJIbYx) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Feet Feet](https://open.spotify.com/album/4Fw194NfogwEO1WNbDHEYe) | 3:41 | 2023-10-10 | 2023-11-02 |
 | [Field of Flowers](https://open.spotify.com/track/1KAEFpUZkkGQKvhFTTen4p) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Calla](https://open.spotify.com/album/5JW6kKPUEf6vLLNoC6jg8z) | 4:09 | 2023-11-09 | 2024-01-10 |
-| [Final Girl](https://open.spotify.com/track/7wpVsVWTKPUpgvaRQNrOVa) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Final Girl](https://open.spotify.com/album/1Biax0BCWarMhtWhdsgAfm) | 3:30 | 2024-01-30 |  |
+| [Final Girl](https://open.spotify.com/track/3mNo6Wh3QfKh8yBymGumBA) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Final Girl](https://open.spotify.com/album/0GZZCnHOMUx134tHJqocIm) | 3:30 | 2024-02-01 |  |
+| [Final Girl](https://open.spotify.com/track/7wpVsVWTKPUpgvaRQNrOVa) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Final Girl](https://open.spotify.com/album/1Biax0BCWarMhtWhdsgAfm) | 3:30 | 2024-01-30 | 2024-02-04 |
 | [FIVE](https://open.spotify.com/track/1zn0JzlJ9NtW96a3ZCsTfV) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:30 | 2023-03-23 | 2023-04-19 |
 | [Fizzy Life](https://open.spotify.com/track/4EEBytoxlhXDV5jSbtcjQw) | [Nelko](https://open.spotify.com/artist/3Glq3QEL1BjWbCjIokyytB) | [Fizzy Life](https://open.spotify.com/album/2HpURTHrZRV0BZtYEjOEZi) | 3:59 | 2023-08-30 | 2023-09-06 |
 | [FLOOR IS MINE](https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [FLOOR IS MINE](https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9) | 3:15 | 2023-01-12 |  |

@@ -4,7 +4,7 @@
 
 > consider this an RSVP to littest wedding parties
 
-92 songs - 4 hr 48 min
+94 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Ahoufe](https://open.spotify.com/track/4XU0t33ITYzP8D0YroWBRV) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [Ahoufe](https://open.spotify.com/album/6eYHMWlLzFeUZChXI7raVY) | 2:58 | 2023-08-11 | 2024-02-03 |
 | [All My Life \(feat\. Oxlade\)](https://open.spotify.com/track/3LX3pPK1cQYDPNyxY4DM2M) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [All My Life \(feat\. Oxlade\)](https://open.spotify.com/album/5FhkyiAok4WxNKalz0saPJ) | 4:10 | 2022-02-11 | 2023-03-25 |
 | [All Over](https://open.spotify.com/track/23nv9GP4iBcQsCyN1bj2nF) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [All Over](https://open.spotify.com/album/3lrdjLWnNdopRayM1NrH1d) | 3:31 | 2022-02-11 |  |
-| [Angela](https://open.spotify.com/track/0pPaHAsyHLYt45J42IXKuG) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb) | 3:07 | 2022-02-11 |  |
+| [Angela](https://open.spotify.com/track/0pPaHAsyHLYt45J42IXKuG) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb) | 3:07 | 2022-02-11 | 2024-02-04 |
+| [Angela](https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE) | 3:07 | 2024-02-02 |  |
 | [Angelus](https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:06 | 2023-06-22 |  |
 | [Assurance](https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:09 | 2022-02-11 |  |
 | [Auntie Martha](https://open.spotify.com/track/7KJk6qepGGM1Nl8gsLZhW3) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Best of El](https://open.spotify.com/album/5kH9iKfsMVoHfl9UgZhh5d) | 4:28 | 2022-02-11 | 2023-03-25 |
@@ -28,7 +29,8 @@
 | [Case](https://open.spotify.com/track/5HqngsF3BE19077Ilnw7N5) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Case](https://open.spotify.com/album/3vhhduoyZmze3Av47M9OvM) | 3:22 | 2022-02-11 |  |
 | [CCTV](https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:13 | 2022-02-11 |  |
 | [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 | 2023-03-24 |  |
-| [Come and See My Moda \(feat\. Yemi Alade\)](https://open.spotify.com/track/5W4iLxBJknbKAjNAUSH2L5) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Come and See My Moda \(feat\. Yemi Alade\)](https://open.spotify.com/album/6SHyTplp5zoiYCtmCjCSSi) | 3:40 | 2022-02-11 |  |
+| [Come and See My Moda](https://open.spotify.com/track/3nhUUcq9YDF5FgMlaZ6jCv) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Come and See My Moda](https://open.spotify.com/album/36ayAOmHgXYzJEKhXVwZcu) | 3:40 | 2024-02-02 |  |
+| [Come and See My Moda \(feat\. Yemi Alade\)](https://open.spotify.com/track/5W4iLxBJknbKAjNAUSH2L5) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Come and See My Moda \(feat\. Yemi Alade\)](https://open.spotify.com/album/6SHyTplp5zoiYCtmCjCSSi) | 3:40 | 2022-02-11 | 2024-02-04 |
 | [Daberechi](https://open.spotify.com/track/1crExoYD5sOsGOr1CLkYND) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [African Royalty](https://open.spotify.com/album/2bh6NRrRmiKVSST5ia5JpK) | 2:24 | 2023-12-01 |  |
 | [Dollar On You](https://open.spotify.com/track/6ftfTiJhWNZskedEv5ZYM0) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Dollar On You](https://open.spotify.com/album/2eZBiiR0ojio53AhwS3JPF) | 3:09 | 2022-02-11 | 2022-11-25 |
 | [Duro](https://open.spotify.com/track/4t59zVbRoCgnvyQ9hM3xP1) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Duro](https://open.spotify.com/album/6CIcLjMo4Wjnj2zp6dQSTH) | 3:32 | 2022-02-11 | 2022-10-15 |

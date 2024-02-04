@@ -4,7 +4,7 @@
 
 > Kick it with some of the hottest bars from Uganda +256
 
-147 songs - 8 hr 26 min
+148 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [The Light](https://open.spotify.com/track/19cwYaC0NLUA7B3Q3LvQS7) | [Kween G](https://open.spotify.com/artist/4u6bHNyuB19sp2uin2m4f1), [Drea](https://open.spotify.com/artist/5y8t1h8bv3Rpj4nRiGkgXz) | [Sensible Rebel](https://open.spotify.com/album/1nmdOZzdcFJLHnBwLX7Y8p) | 3:37 | 2022-09-08 |  |
 | [Till the Sun Come Up](https://open.spotify.com/track/7hfmd4M2UqADLZkCVI4KVr) | [Baru](https://open.spotify.com/artist/24SGSn5dBrSqZ4qzakxMrj), [Julius Sese](https://open.spotify.com/artist/00Y8QKiQhDuuJLQrEmrE2k), [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp) | [Chwez Funk](https://open.spotify.com/album/5JjbFmQFnJYzKBOTz1Dqw0) | 4:10 | 2023-01-20 |  |
 | [Told You So](https://open.spotify.com/track/5bnX5oi9viuOLqaehmyhYt) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 2:44 | 2022-09-22 |  |
-| [Tough Timez](https://open.spotify.com/track/5RL5hn75OUOFcLeC9VI1aZ) | [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz), [Lenoirbois](https://open.spotify.com/artist/4NinFBdaIbsWHe8OnsXlSQ) | [Tough Timez](https://open.spotify.com/album/3ml6m4oXvFut3cwmH9yrYO) | 3:41 | 2022-09-08 |  |
+| [Tough Timez](https://open.spotify.com/track/5RL5hn75OUOFcLeC9VI1aZ) | [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz), [Lenoirbois](https://open.spotify.com/artist/4NinFBdaIbsWHe8OnsXlSQ) | [Tough Timez](https://open.spotify.com/album/3ml6m4oXvFut3cwmH9yrYO) | 3:41 | 2022-09-08 | 2024-02-04 |
+| [Tough Timez](https://open.spotify.com/track/6HlV4tWyzvYsjhJqALInJJ) | [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz), [Lenoirbois](https://open.spotify.com/artist/4NinFBdaIbsWHe8OnsXlSQ) | [Tough Timez](https://open.spotify.com/album/79Z6HX577GPeUdKD4CUWgW) | 3:41 | 2024-01-12 |  |
 | [Trap House](https://open.spotify.com/track/43zm30JtK99xSDIGGnGnXU) | [YBKPO](https://open.spotify.com/artist/4zpBA01pzPN4x3VvlO5y1B), [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB), [ACE.](https://open.spotify.com/artist/1Cliz3Lx3b9qzsHraYmKh1) | [Trap House](https://open.spotify.com/album/1KdZif8ksWZUllwYBSxTwO) | 2:20 | 2022-09-08 |  |
 | [Trophy Season](https://open.spotify.com/track/4OsqHANw0wJI3g6QzESXQQ) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Strength In Numbers](https://open.spotify.com/album/28volG5cNQEUI0U8CdD6DF) | 4:25 | 2022-09-08 | 2023-09-12 |
 | [TROUBLE](https://open.spotify.com/track/0LPP4zOfgKg20oFMRKP7fg) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [PRIDE](https://open.spotify.com/album/60KRJm8atxdl15fUM9t9Ht) | 3:42 | 2023-09-01 | 2023-09-12 |

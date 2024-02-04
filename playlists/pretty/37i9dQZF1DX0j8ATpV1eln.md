@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,511 likes - 86 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,516 likes - 86 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 3 | [Suki ni Naccha Dame na Hito](https://open.spotify.com/track/4qnO8leJ0xIAvEkEnYB4nu) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Suki ni Naccha Dame na Hito](https://open.spotify.com/album/2VnYRRWGs3kat0GeFjwzwl) | 3:37 |
 | 4 | [最強の推し！](https://open.spotify.com/track/1XD1QrcvVJEE2MIKkzHT0r) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [最強の推し！](https://open.spotify.com/album/1CpgVE8KbNQfrP1aOyWFf9) | 3:42 |
 | 5 | [Princess' Happy Ending](https://open.spotify.com/track/24vRXvYkICy96v83qLHhMT) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Princess' Happy Ending](https://open.spotify.com/album/35HvSyER3h21DPhsyv545F) | 3:28 |
-| 6 | [最果てのスーパースター](https://open.spotify.com/track/2LFuq0tLY45nizYFHFpeT7) | [Gero×天月×FAKE TYPE.](https://open.spotify.com/artist/6jD8iEr7TX9hRAQOgcrncM) | [THE ORIGIN](https://open.spotify.com/album/6WJxW7FvMwPXkh27Yus0VB) | 2:43 |
+| 6 | [Saihate no Super star](https://open.spotify.com/track/4JCS6ndC9Mk45yPW5PJcKs) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK), [天月](https://open.spotify.com/artist/11DkKzyBmL2sQW0e4FCYil), [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [THE ORIGIN](https://open.spotify.com/album/1U5YQi9448UVvCTrcpr1Uj) | 2:43 |
 | 7 | [Ogon Koro](https://open.spotify.com/track/6NKTXbkkPNBtqNMXUXgOfj) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Ogon Koro](https://open.spotify.com/album/6D5OUhDJ00zkuHe2Xk2WsH) | 3:21 |
 | 8 | [Shinda!](https://open.spotify.com/track/2wLuWWfrOHnPjbC3CUuuZ9) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Shinda!](https://open.spotify.com/album/2VQMSyKrXpA0m6PECjU8sm) | 3:40 |
 | 9 | [AHATTE TEPPEN](https://open.spotify.com/track/3CJF0sc6OrgAHnPUG1bWEI) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Prismverse](https://open.spotify.com/album/0QImbhzOSVS3RfMwArx8jK) | 3:30 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 85 | [Moratorium Dance Floor \- Live](https://open.spotify.com/track/6YImKwLnSElvNSeMVbWixk) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:54 |
 | 86 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 |
 
-Snapshot ID: `MCw4Mjk1Y2NmOWM1MDVmMDUyMDU5OTVmMzZlNTlmZGU1YTM4N2QxYzNi`
+Snapshot ID: `MCwyZmQxYzI2MGM3ZjQwN2VjYjhkYmMzMTE5YmZhZTRjZWZmYmFiOTg0`

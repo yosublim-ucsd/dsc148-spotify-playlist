@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:4UGA0TDpRVVt2SCz8FZOMm">Un Corazón</a> y <a href="spotify:artist:5njxJJEEXE6Kxkr4yiFeJi">Kim Richards</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,368 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,395 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Mi Alma Clama \(feat\. Laila Olivera\)](https://open.spotify.com/track/47ZJ19AEiODy34xxg8wFmr) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX) | [Mi Alma Clama](https://open.spotify.com/album/5z2pRMl0mN3tQvJsZ1hbrI) | 8:18 |
 | 100 | [Cordero y León](https://open.spotify.com/track/0dw8miCVMqM1nHamZuf4wj) | [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [Raffi Greco](https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza) | [FLUIR 2](https://open.spotify.com/album/5pLu7Ml14FuBK8wa5W4OlZ) | 5:13 |
 
-Snapshot ID: `MCwwMjhlZTQwOGU1NDA1NDQwNTRmOWUzMWY3ZTYzNzU0YmRjMmM4Zjhl`
+Snapshot ID: `MCxkNzc0OTMzOGVlZWQ0YzNlODk0OTcwNjcwNDVjMGVmMDQ4Y2I5M2Q5`

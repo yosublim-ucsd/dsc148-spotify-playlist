@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk?si=JvKPycNvTJCSkQ73WwDcDA\"> Jeriq </a> and <a href=\"https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=q5HdY1aKQ0aPWERT9SuRMw\"> PsychoYP</a>",
-  "num_followers": 42385,
+  "num_followers": 42455,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWMxMGM4Njk1YTRkYTlmZWU4MmM4MzMzMDg5ZGI0NWFiODgwZGNi",
+  "snapshot_id": "MCw4YTM0N2MwOGI1YmFjN2VmNjVlNGUzYWE5NDVjYzgxNDNjZjI2YzFm",
   "tracks": [
     {
       "added_at": "2024-02-02 05:57:22",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-02-02 05:57:22",
       "album": {
+        "name": "Do I",
+        "url": "https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 155044,
+      "name": "Do I",
+      "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
+    },
+    {
+      "added_at": "2024-02-02 05:57:22",
+      "album": {
         "name": "Cast",
         "url": "https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 129123,
       "name": "Cast",
       "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
-    },
-    {
-      "added_at": "2024-02-02 05:57:22",
-      "album": {
-        "name": "Do I",
-        "url": "https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 155044,
-      "name": "Do I",
-      "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
     },
     {
       "added_at": "2024-02-02 05:57:22",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2024-02-02 05:57:22",
       "album": {
-        "name": "Pop Sermon",
-        "url": "https://open.spotify.com/album/4sJRYRgfoFyQrI7qlDmnCb"
-      },
-      "artists": [
-        {
-          "name": "Dope Caesar",
-          "url": "https://open.spotify.com/artist/0EEbHnHvCvomjaPszMvJxL"
-        },
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 149684,
-      "name": "Pop Sermon",
-      "url": "https://open.spotify.com/track/3jGkAgjo3IwwcCsuUptm0W"
-    },
-    {
-      "added_at": "2024-02-02 05:57:22",
-      "album": {
         "name": "Vawulence (Remix)",
         "url": "https://open.spotify.com/album/1hkosTcAidMQWeEdYgMEri"
       },
@@ -1107,6 +1083,30 @@
     {
       "added_at": "2024-02-02 05:57:22",
       "album": {
+        "name": "Pop Sermon",
+        "url": "https://open.spotify.com/album/4sJRYRgfoFyQrI7qlDmnCb"
+      },
+      "artists": [
+        {
+          "name": "Dope Caesar",
+          "url": "https://open.spotify.com/artist/0EEbHnHvCvomjaPszMvJxL"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 149684,
+      "name": "Pop Sermon",
+      "url": "https://open.spotify.com/track/3jGkAgjo3IwwcCsuUptm0W"
+    },
+    {
+      "added_at": "2024-02-02 05:57:22",
+      "album": {
         "name": "No Wam",
         "url": "https://open.spotify.com/album/72EQ052XrPOGeHp1M7ruYE"
       },
@@ -1119,6 +1119,26 @@
       "duration_ms": 183529,
       "name": "No Wam",
       "url": "https://open.spotify.com/track/2ZoMTHk3A1IiChH9h6BW5b"
+    },
+    {
+      "added_at": "2024-02-02 05:57:22",
+      "album": {
+        "name": "Jowo",
+        "url": "https://open.spotify.com/album/0vtBtHGWGE1f6OwlWfA9V4"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 163130,
+      "name": "Jowo",
+      "url": "https://open.spotify.com/track/6x4Kpfpwx9Eld9qbexRiX2"
     },
     {
       "added_at": "2024-02-02 05:57:22",
@@ -1275,6 +1295,30 @@
     {
       "added_at": "2024-02-02 05:57:22",
       "album": {
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        },
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        }
+      ],
+      "duration_ms": 186401,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
+    },
+    {
+      "added_at": "2024-02-02 05:57:22",
+      "album": {
         "name": "BILLION DOLLAR DREAM (Deluxe Version)",
         "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
       },
@@ -1311,30 +1355,6 @@
       "duration_ms": 166556,
       "name": "Philo - Remix",
       "url": "https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN"
-    },
-    {
-      "added_at": "2024-02-02 05:57:22",
-      "album": {
-        "name": "Sweet Life",
-        "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        },
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        }
-      ],
-      "duration_ms": 186401,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
     },
     {
       "added_at": "2024-02-02 05:57:22",
@@ -1379,26 +1399,6 @@
       "duration_ms": 150857,
       "name": "BACK IN UNI",
       "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
-    },
-    {
-      "added_at": "2024-02-02 05:57:22",
-      "album": {
-        "name": "Jowo",
-        "url": "https://open.spotify.com/album/0vtBtHGWGE1f6OwlWfA9V4"
-      },
-      "artists": [
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        },
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 163130,
-      "name": "Jowo",
-      "url": "https://open.spotify.com/track/6x4Kpfpwx9Eld9qbexRiX2"
     },
     {
       "added_at": "2024-02-02 05:57:22",

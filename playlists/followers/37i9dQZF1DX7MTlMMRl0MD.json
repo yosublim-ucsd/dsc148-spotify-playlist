@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 1861305,
+  "2024-02-04": 1860858,
   "date_first_scraped": "2022-03-22",
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Prince Royce & Gabito Ballesteros",
   "name": "Bachata Lovers",
@@ -607,7 +607,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 196461,
       "name": "Bachatica",
       "url": "https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I"
@@ -2347,7 +2347,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 244573,
       "name": "En Peligro de Extinci\u00f3n",
       "url": "https://open.spotify.com/track/2gH9IUIvYNKea0ONXnB3Ex"
@@ -3989,7 +3989,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 175637,
       "name": "MI HOGAR (with maye)",
       "url": "https://open.spotify.com/track/19MC63Kwcy5eETHclYnXhe"
@@ -4211,6 +4211,28 @@
       "duration_ms": 264266,
       "name": "Necio (feat. Carlos Santana)",
       "url": "https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag"
+    },
+    {
+      "album": {
+        "name": "Ni Me Debes Ni Te Debo",
+        "url": "https://open.spotify.com/album/1ai5secpUyx9sDD8nB1OPg"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Lares",
+          "url": "https://open.spotify.com/artist/5NC4sxfhlMUwOHtAqSWgRA"
+        },
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Ni Me Debes Ni Te Debo",
+      "url": "https://open.spotify.com/track/6uzGp5faL6sils5J2hdCQM"
     },
     {
       "album": {
@@ -6177,6 +6199,24 @@
       "duration_ms": 285226,
       "name": "Todav\u00eda Me Amas",
       "url": "https://open.spotify.com/track/6eB5YDhEiJ2vsNajJP3732"
+    },
+    {
+      "album": {
+        "name": "Todo Cansa",
+        "url": "https://open.spotify.com/album/05J8ZaGTOnHxGKHT7TKm09"
+      },
+      "artists": [
+        {
+          "name": "Joe Veras",
+          "url": "https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Todo Cansa",
+      "url": "https://open.spotify.com/track/6dSfOKkfLJpy7hfCH6uGci"
     },
     {
       "album": {

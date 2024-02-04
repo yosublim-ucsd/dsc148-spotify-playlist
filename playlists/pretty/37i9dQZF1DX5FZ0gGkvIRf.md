@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 
 > Our editor’s picks for best metal and hard rock songs of the year\. Cover: Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,333 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,411 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FZ0gGkvIRf.md) - [plain]
 | 99 | [Harvest](https://open.spotify.com/track/50oQWJ18RA54OEftbo7Ss2) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Rivers Of Heresy](https://open.spotify.com/album/6ro94rJ539uMG9hDwDtICk) | 2:50 |
 | 100 | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 |
 
-Snapshot ID: `MCwwZDc3NDY3ZjNkN2QxNjJjMzAwOWEyZGI2OGZmZTAwN2Y5MmZjN2Qy`
+Snapshot ID: `MCw5MzZhZTM3Njk1ZjkzNTZjZTE4ZWQ1Nzc2Njg4NDUzYTUyOTQ5MzZi`

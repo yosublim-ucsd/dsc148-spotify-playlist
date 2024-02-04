@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DuLTTdhPY3.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9?si=f6b8b9d6e0e44920">Mannequin Pussy's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=b348e88a39a74578">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,558 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,654 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DuLTTdhPY3.md) - [plain]
 | 29 | [Public Witness Program](https://open.spotify.com/track/0MiBvroVblvPVD3cdmPQ9S) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [In On The Kill Taker](https://open.spotify.com/album/6jEiEcjAa97b3uktiUSK8J) | 2:04 |
 | 30 | [Yuk Foo](https://open.spotify.com/track/5RmOHOEZxoMryrW3WiE9Jg) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz) | 2:13 |
 
-Snapshot ID: `MCwzYjZiYTQxNmNlNzNmODE2YjA5NzgyYzZiNTA1YTM5ZDM3MmY1Y2I4`
+Snapshot ID: `MCw4ODAwMGUzN2RlNWI4Y2I4MGJjYjQ5MzdkNDgzYTUwZDRkNTFkOWM3`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-780 songs - 1 day 22 hr 50 min
+781 songs - 1 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [KLWKN](https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN) | [Music Hero](https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq) | [KLWKN](https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV) | 4:16 | 2021-03-27\* | 2021-05-15 |
 | [Kumpas \- Theme of “2 Good 2 Be True”](https://open.spotify.com/track/4tyEfRWLgYkWQaowoHXoba) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kumpas \(Theme of “2 Good 2 Be True”\)](https://open.spotify.com/album/553BAcjEAWT7R0TQjlazXA) | 4:28 | 2022-06-19 | 2023-01-14 |
 | [Labyrinth](https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:07 | 2022-10-22 | 2022-11-27 |
+| [Lagabog](https://open.spotify.com/track/0pZ1RKuQnKK3TetoSHyx7i) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Lagabog](https://open.spotify.com/album/2eTeeKM6MBnbU67LAlPRqC) | 3:06 | 2024-02-03 |  |
 | [Lagi](https://open.spotify.com/track/2aw9gph33z3qCtAD6pmTPx) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Lagi](https://open.spotify.com/album/5hGBqZJVQVvxGQSA4WfEeV) | 3:34 | 2021-06-27 | 2022-03-23 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-11-14 |
 | [Langyang Pag\-Ibig](https://open.spotify.com/track/3NxCPoPvxK6QQgmMCX6QYV) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Langyang Pag\-Ibig](https://open.spotify.com/album/7fbhKyegOq5B2lT8W3Li72) | 4:21 | 2022-06-23 | 2022-06-25 |
@@ -755,7 +756,7 @@
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-23 | 2023-11-14 |
 | [When Emma Falls in Love \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/0zo975x58DlXbZllWvfYhg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:12 | 2023-07-08 | 2023-07-14 |
 | [When I Met You](https://open.spotify.com/track/1t7AA4xxqEseapeIJCiQ5l) | [APO Hiking Society](https://open.spotify.com/artist/4RA4PC3WHM9OHZLExirTcU) | [True to My Music](https://open.spotify.com/album/25NWcQxX3c34YyHlsxed7H) | 4:19 | 2022-02-24 | 2022-03-11 |
-| [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2023-06-26 |  |
+| [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2023-06-26 | 2024-02-04 |
 | [When Scars Become Art](https://open.spotify.com/track/2q3LzfknBzye3xXjgiJBjS) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Brooke Young](https://open.spotify.com/artist/0oFqrawlj2uVL2EPRLR08l) | [...When Scars Become Art](https://open.spotify.com/album/6R6z9djotDZUhI7psuSM6G) | 4:47 | 2022-02-15 | 2022-06-12 |
 | [White Horse \(Taylor’s Version\)](https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:54 | 2021-04-11 | 2021-04-18 |
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [조유진](https://open.spotify.com/artist/3q0PSaHVp33t2VowSS7ZnW) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-03 | 2022-12-06 |

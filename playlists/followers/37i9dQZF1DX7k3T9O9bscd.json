@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 405591,
+  "2024-02-04": 405756,
   "date_first_scraped": "2022-05-11",
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
   "name": "Neo-Psychedelic Rock",
@@ -2329,7 +2329,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 236253,
       "name": "In The Eve",
       "url": "https://open.spotify.com/track/5VQq8M6cGARgFSLnialsvJ"
@@ -3159,6 +3159,24 @@
       "duration_ms": 180000,
       "name": "M\u00fasica para una Ciudad Solitaria",
       "url": "https://open.spotify.com/track/7yTrFuwZWsC2q4OQ55wJ1o"
+    },
+    {
+      "album": {
+        "name": "Ne Yapt\u0131ysam Senin \u0130\u00e7in",
+        "url": "https://open.spotify.com/album/63RJH91Yv0sEBD02zPFxWD"
+      },
+      "artists": [
+        {
+          "name": "Durukan Betses",
+          "url": "https://open.spotify.com/artist/4bwCObMA0kPsoCaDEz3eid"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292340,
+      "name": "Ne Yapt\u0131ysam Senin \u0130\u00e7in",
+      "url": "https://open.spotify.com/track/1BGAAf5sBYsob5EWCgLWdB"
     },
     {
       "album": {
@@ -4600,6 +4618,24 @@
     },
     {
       "album": {
+        "name": "The Moon Is In The Wrong Place",
+        "url": "https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf"
+      },
+      "artists": [
+        {
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179543,
+      "name": "The Moon Is In The Wrong Place",
+      "url": "https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ"
+    },
+    {
+      "album": {
         "name": "Reap the Storm",
         "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
       },
@@ -5143,7 +5179,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 192386,
       "name": "Victor's Belt",
       "url": "https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp"

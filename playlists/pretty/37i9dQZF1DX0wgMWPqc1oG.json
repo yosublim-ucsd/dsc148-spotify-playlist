@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 27317,
+  "num_followers": 27355,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDYxNDBmYmEyODA5MGIzMmMwYjgyOTliOWY0N2ZjZWMzM2I5ZGRk",
+  "snapshot_id": "MCxhZjliNTkwYzdmZWY5NTVmMWZkZTA4ZDE1Mjc4ZjIxYWI0ZDYzZThj",
   "tracks": [
     {
       "added_at": "2024-01-18 14:03:29",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Life Between The Exit Signs",
-        "url": "https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Margot",
-      "url": "https://open.spotify.com/track/1tqXFvOa69R2ay434QqLqr"
-    },
-    {
-      "added_at": "2024-01-18 14:03:29",
-      "album": {
         "name": "The Best Of Art Blakey",
         "url": "https://open.spotify.com/album/1UqQnjYh6B04eH4vDhjlJS"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "East Broadway Run Down",
-        "url": "https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ"
+        "name": "Life Between The Exit Signs",
+        "url": "https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
         }
       ],
-      "duration_ms": 742960,
-      "name": "Blessing In Disguise",
-      "url": "https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn"
+      "duration_ms": 222013,
+      "name": "Margot",
+      "url": "https://open.spotify.com/track/1tqXFvOa69R2ay434QqLqr"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -979,6 +963,22 @@
       "duration_ms": 424733,
       "name": "Mr. Jin - Remastered",
       "url": "https://open.spotify.com/track/4LH1EhRiBEDeb7TtMpNKAJ"
+    },
+    {
+      "added_at": "2024-01-18 14:03:29",
+      "album": {
+        "name": "East Broadway Run Down",
+        "url": "https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 742960,
+      "name": "Blessing In Disguise",
+      "url": "https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Happenings",
-        "url": "https://open.spotify.com/album/4TbWPn2fJUrQc924iTylFi"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
-        }
-      ],
-      "duration_ms": 314026,
-      "name": "Head Start - Rudy Van Gelder Edition / 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0knaLLhdMU69U4byKTIeim"
-    },
-    {
-      "added_at": "2024-01-18 14:03:29",
-      "album": {
         "name": "Spring (Remastered)",
         "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 504000,
       "name": "Love Song - Remastered 2009/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/03nB9wT5HW9OLgH40zqnKi"
+    },
+    {
+      "added_at": "2024-01-18 14:03:29",
+      "album": {
+        "name": "Happenings",
+        "url": "https://open.spotify.com/album/4TbWPn2fJUrQc924iTylFi"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+        }
+      ],
+      "duration_ms": 314026,
+      "name": "Head Start - Rudy Van Gelder Edition / 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0knaLLhdMU69U4byKTIeim"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
+        "name": "Down With It! (Remastered 2005/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
+      },
+      "artists": [
+        {
+          "name": "The Blue Mitchell Quintet",
+          "url": "https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj"
+        }
+      ],
+      "duration_ms": 450400,
+      "name": "One Shirt - Remastered 2005/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6JmgSVF28ADJ3S8KWODQuk"
+    },
+    {
+      "added_at": "2024-01-18 14:03:29",
+      "album": {
         "name": "Destination...Out!",
         "url": "https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 624335,
       "name": "Kahlil The Prophet",
       "url": "https://open.spotify.com/track/25UXC18kep4qTng1062Fjf"
-    },
-    {
-      "added_at": "2024-01-18 14:03:29",
-      "album": {
-        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
-        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
-      },
-      "artists": [
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
-        }
-      ],
-      "duration_ms": 313733,
-      "name": "Off My Back Jack",
-      "url": "https://open.spotify.com/track/3AtuHU0gxC9210nu0wK3tU"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Down With It! (Remastered 2005/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
+        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
+        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
       },
       "artists": [
         {
-          "name": "The Blue Mitchell Quintet",
-          "url": "https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj"
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
         }
       ],
-      "duration_ms": 450400,
-      "name": "One Shirt - Remastered 2005/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6JmgSVF28ADJ3S8KWODQuk"
+      "duration_ms": 313733,
+      "name": "Off My Back Jack",
+      "url": "https://open.spotify.com/track/3AtuHU0gxC9210nu0wK3tU"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 569453,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi"
-    },
-    {
-      "added_at": "2024-01-18 14:03:29",
-      "album": {
         "name": "Spring (Remastered)",
         "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 629053,
       "name": "Tee - Remastered 2009/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4Jfk9tUIZOmwmNb86Qd9uu"
+    },
+    {
+      "added_at": "2024-01-18 14:03:29",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 569453,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Let Freedom Ring (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 510973,
-      "name": "Omega - Rudy Van Gelder Edition; 2003 Digital Remaster; 24 Bit Mastering",
-      "url": "https://open.spotify.com/track/6v9Dj4ouMavS8IAcRtvf9l"
-    },
-    {
-      "added_at": "2024-01-18 14:03:29",
-      "album": {
         "name": "Consequence",
         "url": "https://open.spotify.com/album/1fIhToDoSSkcQa0L0DK2Dx"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 332840,
       "name": "Consequence - Remastered",
       "url": "https://open.spotify.com/track/0wl0WUMMe94DuZhc4qKe7X"
+    },
+    {
+      "added_at": "2024-01-18 14:03:29",
+      "album": {
+        "name": "Let Freedom Ring (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 510973,
+      "name": "Omega - Rudy Van Gelder Edition; 2003 Digital Remaster; 24 Bit Mastering",
+      "url": "https://open.spotify.com/track/6v9Dj4ouMavS8IAcRtvf9l"
     },
     {
       "added_at": "2024-01-18 14:03:29",

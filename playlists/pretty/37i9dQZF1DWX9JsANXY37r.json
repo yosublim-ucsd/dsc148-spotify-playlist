@@ -1,12 +1,12 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 120847,
+  "num_followers": 120861,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzE3ZGIwMmNjOTkyYmI3N2JmNGFjNTRlMGZiODA0ODE0NmE3ODg3",
+  "snapshot_id": "MCwzMWZlM2M4ZGIxMjQxZWVmM2NkZDQ4ODg1MGQ3ODZiOTIwNjM5YzI4",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -27,6 +27,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 196730,
+      "name": "Billie Bossa Nova",
+      "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "boyfriend",
         "url": "https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 186106,
       "name": "boyfriend (with Social House)",
       "url": "https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 196730,
-      "name": "Billie Bossa Nova",
-      "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -171,18 +171,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+        "name": "STELLA & STEVE",
+        "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
         }
       ],
-      "duration_ms": 368758,
-      "name": "VIRGO'S GROOVE",
-      "url": "https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q"
+      "duration_ms": 223480,
+      "name": "Supalonely",
+      "url": "https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -203,22 +207,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "STELLA & STEVE",
-        "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        },
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 223480,
-      "name": "Supalonely",
-      "url": "https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw"
+      "duration_ms": 368758,
+      "name": "VIRGO'S GROOVE",
+      "url": "https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -739,6 +739,26 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Pressure (with SG Lewis)",
+        "url": "https://open.spotify.com/album/5SpHQeSQDWZSrpF4axn4jW"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Pressure (with SG Lewis)",
+      "url": "https://open.spotify.com/track/04ToULF2xWTbVtfAUk6K7P"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Superclean, Vol. II",
         "url": "https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 186781,
       "name": "Bedroom",
       "url": "https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Pressure (with SG Lewis)",
-        "url": "https://open.spotify.com/album/5SpHQeSQDWZSrpF4axn4jW"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Pressure (with SG Lewis)",
-      "url": "https://open.spotify.com/track/04ToULF2xWTbVtfAUk6K7P"
     },
     {
       "added_at": "2023-12-08 03:00:00",

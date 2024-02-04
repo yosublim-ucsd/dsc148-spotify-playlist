@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 4107,
+  "2024-02-04": 4111,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - UAE.",
   "name": "Top 50 - UAE",
@@ -705,6 +705,28 @@
       "duration_ms": 155108,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/40BomFCBuJok3OjxM9oG7e"
+    },
+    {
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/2SKECYjA8cvIOxpEDD31pK"
+      },
+      "artists": [
+        {
+          "name": "EZD in the House",
+          "url": "https://open.spotify.com/artist/7MBuc7qZ47gkxYkrlrNQWW"
+        },
+        {
+          "name": "Chrystal Farrell",
+          "url": "https://open.spotify.com/artist/6xfs6hMduqabgfvogWa5Di"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185593,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/2W1VGArk9P0scRrarMaujm"
     },
     {
       "album": {
@@ -3047,7 +3069,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -4993,7 +5015,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -20419,7 +20441,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"

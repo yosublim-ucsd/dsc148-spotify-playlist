@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r0FByV5U4C.md) - [plain]
 
 > Saluting the voices of legends who have carried the movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,472 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,536 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r0FByV5U4C.md) - [plain]
 | 49 | [Oprah 75th Golden Globes Cecil B\. DeMille Award Acceptance Speech](https://open.spotify.com/track/1xGn1kNBQe21ZDBiQ8igBJ) | [Oprah Winfrey](https://open.spotify.com/artist/1pzHHVOWwwvu4IPWVle6RW) | [75th Golden Globes](https://open.spotify.com/album/0qkgX98Mjgslj9ycSEh8Ed) | 8:24 |
 | 50 | [We Are One \(feat\. A More Perfect Union\)](https://open.spotify.com/track/2DrtkKqEMnMsskLzl2QeoR) | [Barack Obama](https://open.spotify.com/artist/4FySKEW0F2fAmS8Jc5ClRv) | [Hope, Change and History \(Barack Obama's Greatest Speeches including Inaugural Oath and Address\)](https://open.spotify.com/album/4iwrI3d40QAX8ufR6ltAHO) | 4:38 |
 
-Snapshot ID: `MCw3MjNiZjA5YjU5YzM3MzYxY2EzY2Y5MzAxYWRjYjhmNWZkNjkyNWQw`
+Snapshot ID: `MCw5N2IyMTRlMGI3ZjI2ZjQ4NjkyZDY5N2E0ODM2MmY3OGU3YmY1YTIw`

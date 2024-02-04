@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 60430,
+  "num_followers": 60466,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjgzYzhkYTdjZjMyNTUzZmFhZGM4OTI0ZTNlZDEyMjIwYjRkNmM4",
+  "snapshot_id": "MCxlZjU2YmUxZDZkMDI2YTZlOGU4ZGEzMjc5ZjZhMGJmNWRlZDVlZDEz",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -171,6 +171,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "Soul To Souls",
+        "url": "https://open.spotify.com/album/7mIp9ANntd1SpsOEzT0yUM"
+      },
+      "artists": [
+        {
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+        }
+      ],
+      "duration_ms": 333880,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/6Idc9PDrhpxmiCB9Juescw"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
       },
@@ -203,22 +219,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Soul To Souls",
-        "url": "https://open.spotify.com/album/7mIp9ANntd1SpsOEzT0yUM"
-      },
-      "artists": [
-        {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
-        }
-      ],
-      "duration_ms": 333880,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/6Idc9PDrhpxmiCB9Juescw"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Night On The Town",
         "url": "https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq"
       },
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Pacific Coast Highway",
-        "url": "https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ"
-      },
-      "artists": [
-        {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
-        }
-      ],
-      "duration_ms": 238853,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/61S3v0zujG9J171zdMEap7"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "It's On Tonight",
         "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 234000,
       "name": "Dreaming Of You",
       "url": "https://open.spotify.com/track/5ClGoF3ctjs65gRIhqJR7Y"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Pacific Coast Highway",
+        "url": "https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ"
+      },
+      "artists": [
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+        }
+      ],
+      "duration_ms": 238853,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/61S3v0zujG9J171zdMEap7"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Just Around The Corner",
-        "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
-      },
-      "artists": [
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 254333,
-      "name": "Blue Water",
-      "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
@@ -347,18 +331,18 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Tim Bowman",
-        "url": "https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e"
+        "name": "Just Around The Corner",
+        "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
       },
       "artists": [
         {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
         }
       ],
-      "duration_ms": 302813,
-      "name": "Soul Dream",
-      "url": "https://open.spotify.com/track/7LdSiHHU6cynBDc7j3DDoc"
+      "duration_ms": 254333,
+      "name": "Blue Water",
+      "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -375,6 +359,22 @@
       "duration_ms": 332293,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Tim Bowman",
+        "url": "https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 302813,
+      "name": "Soul Dream",
+      "url": "https://open.spotify.com/track/7LdSiHHU6cynBDc7j3DDoc"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -483,22 +483,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 270773,
-      "name": "Who's That Lady",
-      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 282506,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0qD9zBjyp5GRhdkXxFFSVQ"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 270773,
+      "name": "Who's That Lady",
+      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
     },
     {
       "added_at": "2020-08-19 19:15:51",

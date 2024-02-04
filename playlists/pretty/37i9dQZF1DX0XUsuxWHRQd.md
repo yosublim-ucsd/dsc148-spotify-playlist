@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Don Toliver and YNW Melly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,626,135 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,626,216 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Red Moon](https://open.spotify.com/track/6odqveUIgvpWWvtANLcZpH) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Red Moon](https://open.spotify.com/album/1Qps54HR7OJ8GJsmoRl6ob) | 2:51 |
 | 50 | [Beep Beep \(feat\. 50 Cent\)](https://open.spotify.com/track/6Hn4RAq9DerZedTzgyCgvC) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Beep Beep](https://open.spotify.com/album/5R6AzRUZMA5j38lpgrQ388) | 2:27 |
 
-Snapshot ID: `MCxlOTBhMTA4ODA5ZjZkMWYzNzRlYWQ1MGMzMDYwZmJkOTlhMzNkOGQz`
+Snapshot ID: `MCwzMGY2YTAxNTBkMjE2MTZiZjMxNjFkMGViMWZhNjA1YjQ5NmViNTJm`

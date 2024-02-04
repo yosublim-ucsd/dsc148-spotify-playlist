@@ -4,12 +4,12 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: SVDDEN DEATH
 
-533 songs - 1 day 6 hr 9 min
+534 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Never Gonna\) Be Alone](https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [\(Never Gonna\) Be Alone](https://open.spotify.com/album/6R9I1SuHSwmZ54XzZY9Gba) | 3:18 | 2022-06-17 | 2023-05-13 |
-| [24/7](https://open.spotify.com/track/252xDqb6Td8BCFqvX3QmM7) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [24/7](https://open.spotify.com/album/3iTuXWdNjq2uPoi2tW0rZW) | 3:16 | 2023-11-17 |  |
+| [24/7](https://open.spotify.com/track/252xDqb6Td8BCFqvX3QmM7) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [24/7](https://open.spotify.com/album/3iTuXWdNjq2uPoi2tW0rZW) | 3:16 | 2023-11-17 | 2024-02-04 |
 | [2Nite](https://open.spotify.com/track/6Jw4guwTyYoV8bsMhK1mTG) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [2Nite](https://open.spotify.com/album/6UnSBFydjgagyhNaN2JJ1o) | 3:47 | 2022-10-28 | 2023-04-15 |
 | [776](https://open.spotify.com/track/6REKxS2cHlZxLgdGcxtwCv) | [Dack Janiels](https://open.spotify.com/artist/4F8JGeO6bJO7Z309mxHlP0), [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL) | [776](https://open.spotify.com/album/5vEzgYeS6UyCHKlXKNWho9) | 2:38 | 2022-01-21 | 2022-10-30 |
 | [A Brief Tutorial On Dubstep Production \- Kayzo Remix](https://open.spotify.com/track/2mHY0y8Gw7dtsTYHX7fjvy) | [Dubba Jonny](https://open.spotify.com/artist/4rv9ymvcXOcbHrjkMkoA32), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [A Brief Tutorial On Dubstep Production \(Kayzo Remix\)](https://open.spotify.com/album/5XtE33BRDYkaXo80TS9Yr0) | 2:13 | 2023-02-10 |  |
@@ -471,6 +471,7 @@
 | [Switzerland](https://open.spotify.com/track/3FCayE3jBJijv56xbtl179) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Switzerland](https://open.spotify.com/album/711I1FS2T6BqFWtOWZQWfW) | 3:21 | 2023-09-15 | 2023-11-11 |
 | [Sword In Stone](https://open.spotify.com/track/7vq6EwYSOUHoUwzLoR0OdV) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Sword In Stone](https://open.spotify.com/album/62m1HkDMOhYnZyZv7IiOfq) | 3:36 | 2023-09-29 |  |
 | [Sylky](https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2) | [Sylky](https://open.spotify.com/album/0om04yGw0cfWgvyrAxsd5S) | 2:16 | 2023-10-06 |  |
+| [Symphony of the Dead](https://open.spotify.com/track/6xaRlWKa6wPQX2PqYFaD0z) | [Stoned Level](https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd) | [Symphony of the Dead](https://open.spotify.com/album/5XkKTwFUQj0GtgNxrMGr1H) | 3:13 | 2024-01-26 |  |
 | [T.O.A.D.](https://open.spotify.com/track/255aqjr60zsuqvu7yJPUZM) | [BARELY ALIVE](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [T.O.A.D.](https://open.spotify.com/album/0Qb8vmQGWo0UYTF3oc3iya) | 2:58 | 2023-02-10 |  |
 | [Tactix](https://open.spotify.com/track/4qx3idnPftLmV1XmDWiIGP) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Tactix](https://open.spotify.com/album/3cfVMh4rTeeJZbeHRjoWCV) | 4:04 | 2023-04-21 |  |
 | [Take A Trip](https://open.spotify.com/track/5CZo2k6Ru1wJYbcvQVaoub) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [Take A Trip](https://open.spotify.com/album/5HMJ6OOT8Z6WjNbdK61P2u) | 4:22 | 2022-04-15 | 2023-05-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Rhove, ANNA",
-  "num_followers": 94768,
+  "num_followers": 94810,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTcwMTAyY2Q4NGU2YzhmYjBkZjViOTY1YmJhZjZhMWUxOTMwNDMz",
+  "snapshot_id": "MCw5YzQzMWRmY2VkMTUxMmU1MzQ5YmRlNWJmYjZlYzgyMWYzODBkMTJm",
   "tracks": [
     {
       "added_at": "2024-01-25 23:02:00",
@@ -811,30 +811,6 @@
     {
       "added_at": "2024-01-25 23:02:00",
       "album": {
-        "name": "Mr. Fini",
-        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        },
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "Chico (feat. Rose Villain & Luch\u00e8)",
-      "url": "https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd"
-    },
-    {
-      "added_at": "2024-01-25 23:02:00",
-      "album": {
         "name": "Lamborghini a Via Marina",
         "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 223360,
       "name": "Baby U Want Me (feat. Geolier & Michelangelo)",
       "url": "https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7"
+    },
+    {
+      "added_at": "2024-01-25 23:02:00",
+      "album": {
+        "name": "Mr. Fini",
+        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "Chico (feat. Rose Villain & Luch\u00e8)",
+      "url": "https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd"
     },
     {
       "added_at": "2024-01-25 23:02:00",

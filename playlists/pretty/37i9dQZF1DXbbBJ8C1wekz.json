@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 129639,
+  "num_followers": 129659,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWJhMDE4YjRiNmQzYTFjZWU2YTA3MTlmZjNkYjQyYmIxYWI4Y2Vl",
+  "snapshot_id": "MCxlZDcyNDIwZTIyOTZkYTEzMWRjOTcxMjg1Zjc3YjE0MjkwYzBiNzQ0",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 134282,
+      "name": "Melhor Agora - Ao Vivo",
+      "url": "https://open.spotify.com/track/7x4CWAxos6wdfX9LbjeIfE"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Lista De Contato",
         "url": "https://open.spotify.com/album/03uQr7q1MyOiW7qOQ1atNG"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 122826,
       "name": "Lista De Contato",
       "url": "https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "FRXV (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 134282,
-      "name": "Melhor Agora - Ao Vivo",
-      "url": "https://open.spotify.com/track/7x4CWAxos6wdfX9LbjeIfE"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -851,6 +851,26 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Hylander",
+        "url": "https://open.spotify.com/album/0XbOcrzCIIltxgcBdBUGAs"
+      },
+      "artists": [
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "somynem.grin",
+          "url": "https://open.spotify.com/artist/5AQpcBCqfE0mHDM4dh02mf"
+        }
+      ],
+      "duration_ms": 96624,
+      "name": "Hylander",
+      "url": "https://open.spotify.com/track/3sOcmmmWB7dqyziUVLXpTi"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "PERSONNALITE",
         "url": "https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 208910,
       "name": "PERSONNALITE",
       "url": "https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Hylander",
-        "url": "https://open.spotify.com/album/0XbOcrzCIIltxgcBdBUGAs"
-      },
-      "artists": [
-        {
-          "name": "Abbot",
-          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
-        },
-        {
-          "name": "somynem.grin",
-          "url": "https://open.spotify.com/artist/5AQpcBCqfE0mHDM4dh02mf"
-        }
-      ],
-      "duration_ms": 96624,
-      "name": "Hylander",
-      "url": "https://open.spotify.com/track/3sOcmmmWB7dqyziUVLXpTi"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1063,30 +1063,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "O Retorno de Jedi",
-        "url": "https://open.spotify.com/album/0BTjFs3Pbs2QwHktnSbBWL"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        }
-      ],
-      "duration_ms": 170655,
-      "name": "O Retorno de Jedi",
-      "url": "https://open.spotify.com/track/1OCtpTqJdhOrn00sJYnWSt"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "237",
         "url": "https://open.spotify.com/album/3VGvkH5X8bhjIV0rSohaVU"
       },
@@ -1111,6 +1087,30 @@
       "duration_ms": 228012,
       "name": "S\u00f3 Quando Ela Me Quer",
       "url": "https://open.spotify.com/track/70D4ZYmLC8Kxxw4rGthU0Q"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "O Retorno de Jedi",
+        "url": "https://open.spotify.com/album/0BTjFs3Pbs2QwHktnSbBWL"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        }
+      ],
+      "duration_ms": 170655,
+      "name": "O Retorno de Jedi",
+      "url": "https://open.spotify.com/track/1OCtpTqJdhOrn00sJYnWSt"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1375,30 +1375,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 138305,
-      "name": "Famigerado",
-      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Bail\u00e3o",
         "url": "https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp"
       },
@@ -1419,6 +1395,30 @@
       "duration_ms": 210616,
       "name": "Bail\u00e3o",
       "url": "https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 138305,
+      "name": "Famigerado",
+      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -2007,26 +2007,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Nintendo Switch",
-        "url": "https://open.spotify.com/album/5fc2wwSt0HNPNskNwt4k3s"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
-        },
-        {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
-        }
-      ],
-      "duration_ms": 259672,
-      "name": "Nintendo Switch",
-      "url": "https://open.spotify.com/track/2yESwIR0YXuAmH8vhKd0RO"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Bvlgari",
         "url": "https://open.spotify.com/album/4KSMA20Et20Z4BBhxSYzrS"
       },
@@ -2047,6 +2027,26 @@
       "duration_ms": 188035,
       "name": "Bvlgari",
       "url": "https://open.spotify.com/track/1qIQO5BW2AyVVkTCzBwcUu"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Nintendo Switch",
+        "url": "https://open.spotify.com/album/5fc2wwSt0HNPNskNwt4k3s"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "duration_ms": 259672,
+      "name": "Nintendo Switch",
+      "url": "https://open.spotify.com/track/2yESwIR0YXuAmH8vhKd0RO"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -2239,6 +2239,26 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Como a chuva cai",
+        "url": "https://open.spotify.com/album/4RF07dFHIZhmBLFU9kUU4R"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Hungria Hip Hop",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 152086,
+      "name": "Como a chuva cai",
+      "url": "https://open.spotify.com/track/26dxrRJqzLXS6PTtOq7zgm"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Drink Azul",
         "url": "https://open.spotify.com/album/7wNuG0zJUQQomWNHXPhWOR"
       },
@@ -2291,26 +2311,6 @@
       "duration_ms": 190153,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/61DpiQz5Jli2KNwJZn6s4r"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Como a chuva cai",
-        "url": "https://open.spotify.com/album/4RF07dFHIZhmBLFU9kUU4R"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Hungria Hip Hop",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 152086,
-      "name": "Como a chuva cai",
-      "url": "https://open.spotify.com/track/26dxrRJqzLXS6PTtOq7zgm"
     },
     {
       "added_at": "2024-02-02 03:01:00",

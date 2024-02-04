@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 10784464,
+  "2024-02-04": 10781956,
   "date_first_scraped": "2021-12-28",
-  "description": "Reggaeton hits from Maluma & J Balvin, Feid, Myke Towers and more.\ud83d\udd25\ud83e\udd75",
+  "description": "Reggaeton hits from Bad Gyal, Feid, Myke Towers and more.\ud83d\udd25\ud83e\udd75",
   "name": "Baila Reggaeton",
   "tracks": [
     {
@@ -337,7 +337,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 170480,
       "name": "AMARGURA",
       "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
@@ -4968,6 +4968,46 @@
     },
     {
       "album": {
+        "name": "Mi Otra Mitad (Remix)",
+        "url": "https://open.spotify.com/album/668u02QByaBqOr2YiJE0hW"
+      },
+      "artists": [
+        {
+          "name": "Elio Leiros",
+          "url": "https://open.spotify.com/artist/3oOY07QqOUrLSEJ4AOv9rz"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194885,
+      "name": "Mi Otra Mitad (Remix)",
+      "url": "https://open.spotify.com/track/5nkVhLA1qnWbH1QN1aR6lG"
+    },
+    {
+      "album": {
+        "name": "Mis Amigas",
+        "url": "https://open.spotify.com/album/1u2Lre6OsLp51FghhQra6G"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198560,
+      "name": "Mis Amigas",
+      "url": "https://open.spotify.com/track/3UFQS4N8U8BvmfBB7O2Xzj"
+    },
+    {
+      "album": {
         "name": "Mojando Asientos (feat. Feid)",
         "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
       },
@@ -6131,7 +6171,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 225661,
       "name": "Piscina",
       "url": "https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW"
@@ -7071,7 +7111,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 191588,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0FmIDOVz1wI7F8axO6elnu"
@@ -8179,6 +8219,24 @@
       "duration_ms": 205144,
       "name": "UNA NOCHE EN MEDELL\u00cdN - REMIX",
       "url": "https://open.spotify.com/track/6ejks4eS7DOoYW8hrpRcDV"
+    },
+    {
+      "album": {
+        "name": "UNA NOTi",
+        "url": "https://open.spotify.com/album/3lxVIFq3Bv8oMoLwyFKbwG"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "UNA NOTi",
+      "url": "https://open.spotify.com/track/3siASmLFyTye8QbGkZQOlz"
     },
     {
       "album": {

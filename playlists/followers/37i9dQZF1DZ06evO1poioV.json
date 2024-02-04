@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 107653,
+  "2024-02-04": 107683,
   "date_first_scraped": "2022-09-17",
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
   "name": "This Is Brandi Carlile",
@@ -375,7 +375,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 276146,
       "name": "Dear Insecurity (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 248240,
       "name": "Raise Hell",
       "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"

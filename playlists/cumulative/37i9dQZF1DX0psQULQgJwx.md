@@ -4,7 +4,7 @@
 
 > Lounge sounds for SPA
 
-126 songs - 7 hr 24 min
+127 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Lidia's Song](https://open.spotify.com/track/2cPfYDD11tZSALRgFBrAtK) | [Snow Orchid](https://open.spotify.com/artist/4IA09oabGSDGrVzs9cQyRF) | [Lidia's Song](https://open.spotify.com/album/5OYV4MgU4EYervsWemH396) | 4:14 | 2022-09-02 | 2023-07-29 |
 | [Lightness](https://open.spotify.com/track/4H2G70RcWqs2flfAAHzaZT) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Lightness](https://open.spotify.com/album/3aSBJNmy9uKEisAza3qOkQ) | 4:04 | 2023-03-10 |  |
 | [Lilac Dreams](https://open.spotify.com/track/3X71zGyeqaTLYnI1PO0yW7) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/0OOUG19z97HpHhoLIfMXlE) | 4:29 | 2022-09-02 | 2022-12-01 |
-| [Lilac Dreams](https://open.spotify.com/track/4GabGOCeMRKXL5saC9xGqa) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/5ZxXawZx4LSHdQtZvdj7pt) | 4:29 | 2022-11-22 |  |
+| [Lilac Dreams](https://open.spotify.com/track/4GabGOCeMRKXL5saC9xGqa) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/5ZxXawZx4LSHdQtZvdj7pt) | 4:29 | 2022-11-22 | 2024-02-04 |
+| [Lilac Dreams](https://open.spotify.com/track/5bdxHbc288MBWc2tOjfaxe) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/0ZGHDo3OIhjU40AwHByJRy) | 4:29 | 2024-01-30 |  |
 | [Lustre and Mist](https://open.spotify.com/track/2tCQYWs43KyIximDIklg7z) | [The Goldlight](https://open.spotify.com/artist/35zOaLSrpQwL9mSBQjbK7f) | [Lustre and Mist](https://open.spotify.com/album/1cqYxODeCDRlnOqERNtXn5) | 4:26 | 2022-09-02 |  |
 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 | 2022-09-02 |  |
 | [Me Segure](https://open.spotify.com/track/7pkRv94aXaSd5wYzMzM0OT) | [Fleur Harmon](https://open.spotify.com/artist/3LzyV3YGTAhie6tKAGAdh7) | [Me Segure](https://open.spotify.com/album/74YPxHGHyuInkemmIUMnGl) | 3:13 | 2022-09-02 |  |

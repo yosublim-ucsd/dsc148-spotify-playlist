@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 
 > Beats que le suben el ánimo a tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,229 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,263 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 59 | [Whatuptho \(Instrumental\)](https://open.spotify.com/track/3cEBPjgsxmelctGjeaB7wY) | [9th Wonder & Murs](https://open.spotify.com/artist/3tf9lKXejZeU5gzGvRK5zj) | [The Final Adventure \(Instrumentals\)](https://open.spotify.com/album/0z0rbyEtYkisRJBja0FmRk) | 3:35 |
 | 60 | [Beside April](https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:13 |
 
-Snapshot ID: `MCw3YjAxNDUzNmVlNTZjZTM2Y2NjNTAyMmIyY2YyNGI2NTVmM2UxNjE2`
+Snapshot ID: `MCwyMWY0YTcxZjNlMDdhZGRmNmNiZTNmYWVhMzg3MWMzNTQwZDMwN2Rk`

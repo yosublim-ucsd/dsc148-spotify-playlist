@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 2796684,
+  "num_followers": 2797446,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGMwNDA1NTc1NmFjYjMyZmU5YzY1ZTE1N2NmYzBlZWNlZmYxMTc1",
+  "snapshot_id": "MCxjMGNjOTRiYmE1MWJiYWQ4YmE4NTUzYzBlOGQzOWUzOGZlZTUzMjVj",
   "tracks": [
     {
       "added_at": "2023-12-05 22:35:20",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-12-05 22:35:20",
       "album": {
-        "name": "Zenyatta Mondatta (Remastered 2003)",
-        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Don't Stand So Close To Me",
-      "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
-    },
-    {
-      "added_at": "2023-12-05 22:35:20",
-      "album": {
         "name": "Hatful of Hollow",
         "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 408173,
       "name": "How Soon Is Now? - 2011 Remaster",
       "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
+    },
+    {
+      "added_at": "2023-12-05 22:35:20",
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Don't Stand So Close To Me",
+      "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
     },
     {
       "added_at": "2023-12-05 22:35:20",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-12-05 22:35:20",
       "album": {
-        "name": "Document (R.E.M. No. 5)",
-        "url": "https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 246933,
-      "name": "It's The End Of The World As We Know It (And I Feel Fine)",
-      "url": "https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku"
-    },
-    {
-      "added_at": "2023-12-05 22:35:20",
-      "album": {
         "name": "Survivor Greatest Hits",
         "url": "https://open.spotify.com/album/2wBiw6c2bGb4c9pnRdHw6X"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 230106,
       "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
       "url": "https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a"
+    },
+    {
+      "added_at": "2023-12-05 22:35:20",
+      "album": {
+        "name": "Document (R.E.M. No. 5)",
+        "url": "https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 246933,
+      "name": "It's The End Of The World As We Know It (And I Feel Fine)",
+      "url": "https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku"
     },
     {
       "added_at": "2023-12-05 22:35:20",

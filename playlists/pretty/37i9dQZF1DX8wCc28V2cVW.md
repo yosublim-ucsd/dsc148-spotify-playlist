@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song\. 最新作『FFXVI』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,559 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,598 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 70 | [Full Speed Ahead](https://open.spotify.com/track/5wPrzT7xRJ0RPw5Hlje4b1) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:54 |
 | 71 | [My Life to Live](https://open.spotify.com/track/4CkP7nDkSq5F14mIUy4dva) | [鈴木克崇](https://open.spotify.com/artist/7deF5okxPdwvOkzbtLg0xh) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 1:04 |
 | 72 | [FFVII REMAKE: クラッシュボックス \(Whack\-a\-Box\)](https://open.spotify.com/track/7IIla7luNVBvMyb7vNLDri) | [石川 大樹](https://open.spotify.com/artist/3VWDLXwsN4H5YF755MmhnB), [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 1:52 |
-| 73 | [「Prelude \- menu \-」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/21yzCKqAqVaBYes3Gz8P9t) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 3:00 |
-| 74 | [ゼロ](https://open.spotify.com/track/6O1P8CN7tzPix5jv5HxscJ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [ゼロ](https://open.spotify.com/album/7ybuAuPzYxmrKloxVt7NgU) | 6:55 |
-| 75 | [FFVII REMAKE: 魔晄中毒 \(Mako Poisoning\)](https://open.spotify.com/track/56wHjCR8US6aASzRhIRlJU) | [中村佳紀](https://open.spotify.com/artist/1wbsKYjdDOirrBJAHdZlJU) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 1:27 |
+| 73 | [FFVII REMAKE: 魔晄中毒 \(Mako Poisoning\)](https://open.spotify.com/track/56wHjCR8US6aASzRhIRlJU) | [中村佳紀](https://open.spotify.com/artist/1wbsKYjdDOirrBJAHdZlJU) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 1:27 |
+| 74 | [FFVII REMAKE: スカーレットのテーマ \(Scarlet's Theme\)](https://open.spotify.com/track/3tnuyMU0FohoFg77aAghTn) | [Tsuyoshi Sekito](https://open.spotify.com/artist/0NTNUSfkUTEAPRcwSyl7a9), [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg), [土岐 望](https://open.spotify.com/artist/1DYPIMSm286DfApyzJmwW2) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 4:10 |
+| 75 | [「Prelude \- menu \-」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/21yzCKqAqVaBYes3Gz8P9t) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 3:00 |
 
-Snapshot ID: `MCxhZTNjNDBjYjFkZTU1ZmNmOWMwMTM3MzM4NjE4YjZhMWFkMDI5MzRh`
+Snapshot ID: `MCw1OTk3NWNkZTdlM2FiMTVmZmQwYmY4MDBkMWYyY2RhZTI0YmQ0YmUw`

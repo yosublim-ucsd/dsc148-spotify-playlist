@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 8602,
+  "2024-02-04": 8599,
   "date_first_scraped": "2023-11-08",
-  "description": "A playlist showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Medium Build",
+  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Hovvdy",
   "name": "Chill Indie Music",
   "tracks": [
     {
@@ -183,7 +183,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 273492,
       "name": "alife",
       "url": "https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 271126,
       "name": "Cool Water - Single Mix",
       "url": "https://open.spotify.com/track/7Ki9OmvTAsczQSJO1h99WM"
@@ -863,6 +863,24 @@
       "duration_ms": 257668,
       "name": "Everywhere, Everything (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
     },
     {
       "album": {
@@ -1000,6 +1018,24 @@
     },
     {
       "album": {
+        "name": "Heavy Bag",
+        "url": "https://open.spotify.com/album/1iRs718PyZr1dlAggFEFCe"
+      },
+      "artists": [
+        {
+          "name": "Ducks Ltd.",
+          "url": "https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170653,
+      "name": "Heavy Bag",
+      "url": "https://open.spotify.com/track/1bLHGMMW3QuUplAamFETCK"
+    },
+    {
+      "album": {
         "name": "Hollowed Out",
         "url": "https://open.spotify.com/album/3ZBkAMm7iU777wAqkBzURy"
       },
@@ -1119,7 +1155,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 181416,
       "name": "Jean",
       "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
@@ -1333,7 +1369,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 195599,
       "name": "Nomads - Radio Edit",
       "url": "https://open.spotify.com/track/7Gfj9XSrrE3vbzVpOyKifh"
@@ -1798,6 +1834,24 @@
     },
     {
       "album": {
+        "name": "Take What\u2019s Given",
+        "url": "https://open.spotify.com/album/68Ty6HjRWh9np1sfwnXyTB"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177578,
+      "name": "Take What\u2019s Given",
+      "url": "https://open.spotify.com/track/5ai9YGfkYzJ6WHtFIPiIdD"
+    },
+    {
+      "album": {
         "name": "The Tower",
         "url": "https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD"
       },
@@ -1907,6 +1961,28 @@
       "duration_ms": 240058,
       "name": "When Everything Was Lost",
       "url": "https://open.spotify.com/track/6KpFwd5bRdGizEXTaUSoLi"
+    },
+    {
+      "album": {
+        "name": "Willow (feat. Lucy Rose)",
+        "url": "https://open.spotify.com/album/5CebXMy0hXQrIbGZmlBCK9"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249693,
+      "name": "Willow (feat. Lucy Rose)",
+      "url": "https://open.spotify.com/track/2Xho3gchhwVvViD3HmRe0S"
     },
     {
       "album": {

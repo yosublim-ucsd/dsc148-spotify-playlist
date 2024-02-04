@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 19971,
+  "2024-02-04": 19977,
   "date_first_scraped": "2023-06-18",
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
   "name": "This Is John Williamson",
@@ -345,7 +345,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 202560,
       "name": "Dingo",
       "url": "https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 142440,
       "name": "Please Don't Forget Me",
       "url": "https://open.spotify.com/track/4MXQODzOgncAf1nZ5ViEXH"

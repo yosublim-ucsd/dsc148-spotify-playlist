@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 8452,
+  "2024-02-04": 8459,
   "date_first_scraped": "2022-10-01",
   "description": "The songs that defined Nigeria's Alt\u00e9 era ",
   "name": "Alt\u00e9 Classics ",
@@ -852,6 +852,32 @@
     },
     {
       "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193515,
+      "name": "In A Loop",
+      "url": "https://open.spotify.com/track/4n1SykKn2Da29B4riTa41U"
+    },
+    {
+      "album": {
         "name": "In The Morning",
         "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
       },
@@ -1429,6 +1455,24 @@
       "duration_ms": 206750,
       "name": "Reason You",
       "url": "https://open.spotify.com/track/3IG4kHTN6zIFODRL1TFOni"
+    },
+    {
+      "album": {
+        "name": "SARO",
+        "url": "https://open.spotify.com/album/1JdN8S4EfHgISO3mx9medU"
+      },
+      "artists": [
+        {
+          "name": "Jinmi Abduls",
+          "url": "https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182475,
+      "name": "SARO",
+      "url": "https://open.spotify.com/track/6PnGYVp7RwB5m3qMoD7ldp"
     },
     {
       "album": {

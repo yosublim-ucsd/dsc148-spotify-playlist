@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 73058,
+  "num_followers": 73082,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjMxYWE4Y2I4ZThkOTdmZTkxMDM3MDk0YzI5Yjg1ZTFjZWRmYTRm",
+  "snapshot_id": "MCwwNzdhNjI3ZjBkYTQzYzdjZmUyMmI3ZWVkMWI5NzMyYzAxMDY3ZWJi",
   "tracks": [
     {
       "added_at": "2024-02-01 23:00:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Kamilla Og Tyven",
-        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
+        "name": "Original Nilsen",
+        "url": "https://open.spotify.com/album/60ho1oZFKQpCjkNqQigoSz"
       },
       "artists": [
         {
-          "name": "Morten Harket",
-          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
+          "name": "Lillebj\u00f8rn Nilsen",
+          "url": "https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Kamilla Og Tyven",
-      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
+      "duration_ms": 288078,
+      "name": "God Natt Oslo",
+      "url": "https://open.spotify.com/track/39cEoZCXgx4SFYxnxp3ECu"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Original Nilsen",
-        "url": "https://open.spotify.com/album/60ho1oZFKQpCjkNqQigoSz"
+        "name": "Kamilla Og Tyven",
+        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
       },
       "artists": [
         {
-          "name": "Lillebj\u00f8rn Nilsen",
-          "url": "https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e"
+          "name": "Morten Harket",
+          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
         }
       ],
-      "duration_ms": 288078,
-      "name": "God Natt Oslo",
-      "url": "https://open.spotify.com/track/39cEoZCXgx4SFYxnxp3ECu"
+      "duration_ms": 214186,
+      "name": "Kamilla Og Tyven",
+      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -843,18 +843,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Hilsen Halvdan",
-        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
+        "name": "Imellom to Evigheter",
+        "url": "https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya"
       },
       "artists": [
         {
-          "name": "Halvdan Sivertsen",
-          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
+          "name": "Finn Kalvik",
+          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
+        },
+        {
+          "name": "Cajsa Stina \u00c5kerstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7"
         }
       ],
-      "duration_ms": 258638,
-      "name": "Sommerfuggel I Vinterland",
-      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
+      "duration_ms": 254680,
+      "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
+      "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"
     }
   ],
   "unique_name": "Norske viser",

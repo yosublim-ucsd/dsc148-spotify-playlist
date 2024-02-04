@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 3869,
+  "2024-02-04": 3874,
   "date_first_scraped": "2022-05-13",
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
   "name": "Alma",
@@ -225,7 +225,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 160615,
       "name": "Baila Mi Gente",
       "url": "https://open.spotify.com/track/6TJvvAp8YA41ZAsZDonWUS"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 173280,
       "name": "Balafon",
       "url": "https://open.spotify.com/track/2vcqzc01WxIDUVSqPxGrtd"
@@ -309,6 +309,28 @@
       "duration_ms": 168960,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
+    },
+    {
+      "album": {
+        "name": "Bandolera (feat. Buza)",
+        "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
+      },
+      "artists": [
+        {
+          "name": "Los Padres",
+          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
+        },
+        {
+          "name": "Buza",
+          "url": "https://open.spotify.com/artist/3PQjCufnBvS9y5d7a37fHB"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175040,
+      "name": "Bandolera (feat. Buza)",
+      "url": "https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h"
     },
     {
       "album": {
@@ -392,6 +414,28 @@
     },
     {
       "album": {
+        "name": "Boca",
+        "url": "https://open.spotify.com/album/7ivFg8nNaoMCZRLSsN5wyu"
+      },
+      "artists": [
+        {
+          "name": "Freaky DJs",
+          "url": "https://open.spotify.com/artist/2tZINeGiB74TsojN6RF0b0"
+        },
+        {
+          "name": "GeeKan",
+          "url": "https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Boca",
+      "url": "https://open.spotify.com/track/4c0HhHcw6gIyRoVpkw4Mxr"
+    },
+    {
+      "album": {
         "name": "Bololo (Remixes)",
         "url": "https://open.spotify.com/album/3bC1j0lxI66MJl2T3anvF2"
       },
@@ -466,6 +510,28 @@
     },
     {
       "album": {
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
+    },
+    {
+      "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE"
       },
@@ -477,7 +543,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 153750,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3"
@@ -575,7 +641,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 136586,
       "name": "Carioca",
       "url": "https://open.spotify.com/track/3INCMRvvxcLpK5gdOqDBc1"
@@ -762,6 +828,28 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n Parti\u00f3 (feat. Dateless)",
+        "url": "https://open.spotify.com/album/5J1JjIlgMzcTvmR4OwYHH5"
+      },
+      "artists": [
+        {
+          "name": "Franklyn Watts",
+          "url": "https://open.spotify.com/artist/4cS1RS2vIhO2NStH2ktLYn"
+        },
+        {
+          "name": "Dateless",
+          "url": "https://open.spotify.com/artist/03B64rAQB4s7ewgX3wWYty"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370000,
+      "name": "Coraz\u00f3n Parti\u00f3 (feat. Dateless)",
+      "url": "https://open.spotify.com/track/2BCOH9nwaqUadJLOhSRBWP"
+    },
+    {
+      "album": {
         "name": "Cuban Riddim",
         "url": "https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1"
       },
@@ -851,6 +939,24 @@
       "duration_ms": 214969,
       "name": "Dame",
       "url": "https://open.spotify.com/track/1UAcCJPaCXLYOoHrbb5xPV"
+    },
+    {
+      "album": {
+        "name": "Delante",
+        "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
+      },
+      "artists": [
+        {
+          "name": "Lodgerz",
+          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145908,
+      "name": "Delante",
+      "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
     },
     {
       "album": {
@@ -953,6 +1059,28 @@
       "duration_ms": 175252,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy"
+    },
+    {
+      "album": {
+        "name": "Dile Que",
+        "url": "https://open.spotify.com/album/3vYAAKqfsMY6JAs24Kq1Ko"
+      },
+      "artists": [
+        {
+          "name": "FIGHT CLVB",
+          "url": "https://open.spotify.com/artist/7d6RF1h3kPu6Ij0RXcTeJg"
+        },
+        {
+          "name": "Chuwe",
+          "url": "https://open.spotify.com/artist/7rJzxhgAkMeLK3jKJ8qKhn"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246430,
+      "name": "Dile Que - Original Mix",
+      "url": "https://open.spotify.com/track/3LfUI8MFuiJTCwuUcqv7ng"
     },
     {
       "album": {
@@ -1108,6 +1236,28 @@
     },
     {
       "album": {
+        "name": "El Nacimiento",
+        "url": "https://open.spotify.com/album/7AvAEDeUXJjKYJZOrCMhM1"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Saidi",
+          "url": "https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g"
+        },
+        {
+          "name": "Sinner & James",
+          "url": "https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "El Nacimiento",
+      "url": "https://open.spotify.com/track/0tEmmDt0jqU28IIpgWGvSb"
+    },
+    {
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj"
       },
@@ -1119,7 +1269,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 221538,
       "name": "Envolvid\u00e3o",
       "url": "https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK"
@@ -1137,7 +1287,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Esta Pegao",
       "url": "https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK"
@@ -1363,7 +1513,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 197209,
       "name": "Gitrox",
       "url": "https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ"
@@ -1767,7 +1917,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 161760,
       "name": "Labios (La Noche)",
       "url": "https://open.spotify.com/track/7IXMuwxUl31NmFfisypx7d"
@@ -1837,7 +1987,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 201720,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM"
@@ -2173,7 +2323,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 170625,
       "name": "Morena",
       "url": "https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE"
@@ -2239,7 +2389,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 212307,
       "name": "Mueve Los Dos Pies",
       "url": "https://open.spotify.com/track/4ZSAH3KeoaQ17VpplxkdVQ"
@@ -2479,7 +2629,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 231562,
       "name": "Q' Pario",
       "url": "https://open.spotify.com/track/1WITm8WzXW6sTDvHGKQI4i"
@@ -2519,7 +2669,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 126707,
       "name": "Quema Quema",
       "url": "https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau"
@@ -2697,7 +2847,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 152362,
       "name": "Sandia",
       "url": "https://open.spotify.com/track/0nVv2VpTQg8P52xdnEGrmu"
@@ -2858,6 +3008,46 @@
     },
     {
       "album": {
+        "name": "Te Marchar",
+        "url": "https://open.spotify.com/album/6F7DYs7EZRgEg3fUOuvVSN"
+      },
+      "artists": [
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180005,
+      "name": "Te Marchar",
+      "url": "https://open.spotify.com/track/6INdWhk0oJqeVLZQiTwpIx"
+    },
+    {
+      "album": {
+        "name": "Tikitro",
+        "url": "https://open.spotify.com/album/5urqD5lw9nAIFh5QQDWECs"
+      },
+      "artists": [
+        {
+          "name": "Band&dos",
+          "url": "https://open.spotify.com/artist/68OOyVnaUOq7m4cxQmZslI"
+        },
+        {
+          "name": "Tony Guerra",
+          "url": "https://open.spotify.com/artist/5qURuhcV6ZjUfe1iYsC2Py"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332307,
+      "name": "Tikitro",
+      "url": "https://open.spotify.com/track/3PUNw4b3t5xgANXPhvOioW"
+    },
+    {
+      "album": {
         "name": "Toma Dale",
         "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
       },
@@ -2953,7 +3143,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 167441,
       "name": "Tr\u00e1gatelo",
       "url": "https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl"
@@ -3169,7 +3359,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 195826,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/5DH3GEG0X9sRdLUPIxbhez"

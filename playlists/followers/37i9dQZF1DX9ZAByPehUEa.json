@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 95186,
+  "2024-02-04": 95282,
   "date_first_scraped": "2022-02-13",
   "description": "A happy place.",
   "name": "DISCOLAND",
@@ -1217,6 +1217,28 @@
       "duration_ms": 398095,
       "name": "Do you Feel Like I do?",
       "url": "https://open.spotify.com/track/5xbKD51JPTqbqLjWnvmnmF"
+    },
+    {
+      "album": {
+        "name": "Don't Abuse It",
+        "url": "https://open.spotify.com/album/3z8N7BrygP8gQIrirqvE6v"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135967,
+      "name": "Don't Abuse It",
+      "url": "https://open.spotify.com/track/5E9ulwLRaDx2tO9liULCuE"
     },
     {
       "album": {
@@ -4659,7 +4681,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 219933,
       "name": "Please - Single Edit",
       "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
@@ -4681,7 +4703,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 164912,
       "name": "Pleasure Love",
       "url": "https://open.spotify.com/track/22itU9LO5xcgMIQ2wDYg3b"
@@ -5177,6 +5199,24 @@
       "duration_ms": 196035,
       "name": "Seventies",
       "url": "https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP"
+    },
+    {
+      "album": {
+        "name": "She's a Lady (Disco Mix)",
+        "url": "https://open.spotify.com/album/0Hpu0hHFUjcGijSVZTR6Qw"
+      },
+      "artists": [
+        {
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "She's a Lady (Disco Mix)",
+      "url": "https://open.spotify.com/track/4PkyBwZolHSrkPiBB7418h"
     },
     {
       "album": {

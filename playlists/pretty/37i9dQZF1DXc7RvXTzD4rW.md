@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 雨宮天 \(Sora Amamiya\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,920 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,923 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 23 | [Lilac Melody](https://open.spotify.com/track/527mtmddRtbAguiGUhOgrh) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Lilac Melody](https://open.spotify.com/album/1q1pLsLvofX0HDjn21HWbm) | 4:23 |
 | 24 | [RISE FROM DEAD](https://open.spotify.com/track/0drusw4d19L4kgzkYrgkkC) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima \(Division All Stars\)](https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8) | [RISE FROM DEAD](https://open.spotify.com/album/4XuDdSGWx2G7i4MVtDrMAZ) | 3:40 |
 | 25 | [HELP](https://open.spotify.com/track/5fTk6RfTbySiEyjRnrpHNV) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/2hJ603Bso9KCAAHwQD606w) | 3:47 |
-| 26 | [閃 \-Sen\-](https://open.spotify.com/track/6UjRCdLRF9uBgELHiPOdu4) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [閃 \-Sen\-](https://open.spotify.com/album/7CJlc9nZISFfXwRBWieQrt) | 4:16 |
+| 26 | [Sen](https://open.spotify.com/track/04BKIpjb3JcgPzmL1YQ7BP) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [The Fantasic Garden](https://open.spotify.com/album/2oiX7ihGwFq0p22uhxfYqv) | 4:14 |
 | 27 | [Intaglio](https://open.spotify.com/track/5gfg4CeVkH3CO4mlBuIAM0) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Intaglio](https://open.spotify.com/album/1s545o9utWeng35VY7h26o) | 4:32 |
 | 28 | [ものたんない](https://open.spotify.com/track/2Cm59feNSyFniTp93vhY4M) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [ものたんない](https://open.spotify.com/album/6W497iLP0CdHyn1tVILV1F) | 3:41 |
 | 29 | [Sequel](https://open.spotify.com/track/2fodS2u01KCFoPknzkJGcN) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py) | [Sequel](https://open.spotify.com/album/3cgQcgyVE0xXR1wZUNjafw) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Emerald](https://open.spotify.com/track/5rQwo1SwmsvhZbLWB2SH7u) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 3:40 |
 | 50 | [PIZZA SUSHI planet walking](https://open.spotify.com/track/5lJHS8EfRTYSgw46g3YmV6) | [江口拓也](https://open.spotify.com/artist/7M4999xcRPjRunHN5lu9Oj) | [PIZZA SUSHI planet walking](https://open.spotify.com/album/7aigCG5fTuzU3uLCestYbj) | 3:16 |
 
-Snapshot ID: `MCxhYzlmMjY1ZjMyMzU1MDg1YmRiNzk5ZjU0YzQwZjQ2NjI4NDE2MDI5`
+Snapshot ID: `MCxjNDQzN2IyZjE4MDVhYTM1NDI2MTEzYzA0MDIzMWI5ZjllMjZiZjc2`

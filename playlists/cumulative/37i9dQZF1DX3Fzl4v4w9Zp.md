@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: The Red Clay Strays
 
-596 songs - 1 day 12 hr 49 min
+598 songs - 1 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,7 +431,8 @@
 | [Runaway Train](https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Polaroid Lovers](https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG) | 3:00 | 2024-01-26 |  |
 | [Rusty](https://open.spotify.com/track/14bk3wzV22GaMBx52kQXEd) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [The Hometown Kid](https://open.spotify.com/album/0BcZyoVBPOaZyjm8E4Kc4H) | 4:26 | 2022-11-18 | 2023-07-15 |
 | [Saint Anthony](https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Saint Anthony](https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A) | 2:43 | 2024-01-12 |  |
-| [Same Water](https://open.spotify.com/track/5cP4ZjWFGgimzGJOKRwB9g) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Same Water](https://open.spotify.com/album/6V2dNmY5aFZND3ueCFIOOo) | 4:20 | 2024-01-12 |  |
+| [Same Water](https://open.spotify.com/track/5bmpMZDDkpOr2bGPptSruW) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Same Water](https://open.spotify.com/album/4Scuu3Z6gDXBg2N5yNNcVS) | 4:20 | 2024-01-12 |  |
+| [Same Water](https://open.spotify.com/track/5cP4ZjWFGgimzGJOKRwB9g) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Same Water](https://open.spotify.com/album/6V2dNmY5aFZND3ueCFIOOo) | 4:20 | 2024-01-12 | 2024-02-04 |
 | [San Joaquin](https://open.spotify.com/track/7nP9n9SA5ciXDfO9b23FVK) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [San Joaquin](https://open.spotify.com/album/0fLgwVBGuJd8E3NcMyBhiG) | 2:37 | 2023-06-30 | 2023-07-22 |
 | [Sanctuary](https://open.spotify.com/track/4w5nZwiTpDMTVQdugsXWW7) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Sanctuary](https://open.spotify.com/album/20lfleUVkws7cTsMiPD1aF) | 4:26 | 2021-12-17 | 2022-02-23 |
 | [Satellite](https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Satellite](https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh) | 2:54 | 2022-06-24 | 2022-12-03 |
@@ -581,7 +582,8 @@
 | [Winter's Come and Gone \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/7vN6yDVTOphQUXJ1leQgPB) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 2:49 | 2023-11-17 |  |
 | [Wise River](https://open.spotify.com/track/4vWyfagrb0TMBLrdm0ppT9) | [Kitchen Dwellers](https://open.spotify.com/artist/5JiwO4LnQq3F6MGCRh3D31) | [Wise River](https://open.spotify.com/album/6mO5zwMf0C8msEZSP8P05P) | 3:53 | 2022-02-04 | 2022-06-18 |
 | [Wish for You](https://open.spotify.com/track/3vcWkX0FKNN2bMuFVsSCVi) | [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Wish for You](https://open.spotify.com/album/0QgUjMT60yrIhWhEppXHkg) | 3:24 | 2022-01-21 | 2022-05-14 |
-| [Wondering Why](https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wondering Why](https://open.spotify.com/album/5WtlaMCff9QS0I76EE7lge) | 3:52 | 2023-11-17 |  |
+| [Wondering Why](https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wondering Why](https://open.spotify.com/album/5WtlaMCff9QS0I76EE7lge) | 3:52 | 2023-11-17 | 2024-02-04 |
+| [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 | 2023-12-15 |  |
 | [Workin' On A World](https://open.spotify.com/track/3oRtsritMRck27VJpy7gLr) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Workin' On A World](https://open.spotify.com/album/3FZlD5JhglhV1LJKHQyGFD) | 3:49 | 2023-04-28 |  |
 | [Workin' On A World](https://open.spotify.com/track/7iNIav1ARUCoXCj5bKAfvq) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Workin' On A World / Goin' Down To Sing In Texas](https://open.spotify.com/album/0eWjR6Bw5j7cBraXBVbAUF) | 3:49 | 2023-01-13 | 2023-04-30 |
 | [Workin' On A World](https://open.spotify.com/track/7yyGEv2aSNb2fdaS0Z08Xh) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Workin' On A World](https://open.spotify.com/album/4U3WkH4IzvJM2FE6Ie40aZ) | 3:49 | 2023-03-17 | 2023-04-30 |

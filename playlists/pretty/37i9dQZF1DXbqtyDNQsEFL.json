@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 60922,
+  "num_followers": 60999,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDViMTk2YTVmZjA4NWEzNGJlNzI3N2JiMzg5ZDRjYzUxNmRkYjMz",
+  "snapshot_id": "MCwwNjExM2EwZDdmYTM2MWQ5OTdjOGY0MDlhZTk0ZWZhYWFkMjQzNTc2",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -497,6 +497,26 @@
       "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
     },
     {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "New Generation",
+        "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 648235,
+      "name": "New Generation",
+      "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "The Hill",
@@ -531,26 +551,6 @@
       "duration_ms": 338194,
       "name": "Believe For It (feat. Lauren Daigle)",
       "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "New Generation",
-        "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 648235,
-      "name": "New Generation",
-      "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -627,58 +627,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "We Behold(Qavah Anthem)",
-        "url": "https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM"
-      },
-      "artists": [
-        {
-          "name": "Abbey Ojomu",
-          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
-        },
-        {
-          "name": "Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
-        }
-      ],
-      "duration_ms": 773605,
-      "name": "We Behold(Qavah Anthem)",
-      "url": "https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Trust In God (Radio Version)",
-        "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 243715,
-      "name": "Trust In God - Radio Version",
-      "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Shout It Loud (Live)",
-        "url": "https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "I Know Who I Am - Live",
-      "url": "https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Jesus Oh",
         "url": "https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL"
       },
@@ -699,18 +647,74 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Kingdom Now",
-        "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
+        "name": "Trust In God (Radio Version)",
+        "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 243715,
+      "name": "Trust In God - Radio Version",
+      "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Emperor of the Universe",
+        "url": "https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK"
       },
       "artists": [
         {
           "name": "Dunsin Oyekan",
           "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
         }
       ],
-      "duration_ms": 696179,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
+      "duration_ms": 965565,
+      "name": "Emperor of the Universe",
+      "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "We Behold(Qavah Anthem)",
+        "url": "https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM"
+      },
+      "artists": [
+        {
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
+        },
+        {
+          "name": "Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
+        }
+      ],
+      "duration_ms": 773605,
+      "name": "We Behold(Qavah Anthem)",
+      "url": "https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Shout It Loud (Live)",
+        "url": "https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "I Know Who I Am - Live",
+      "url": "https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -795,6 +799,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Kingdom Now",
+        "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 696179,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 502333,
       "name": "Believe For It - Live",
       "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Emperor of the Universe",
-        "url": "https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
-        }
-      ],
-      "duration_ms": 965565,
-      "name": "Emperor of the Universe",
-      "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -861,30 +861,6 @@
       "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Ebenezeri",
-        "url": "https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03"
-      },
-      "artists": [
-        {
-          "name": "Kent Edunjobi",
-          "url": "https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE"
-        },
-        {
-          "name": "APEX CHOIR",
-          "url": "https://open.spotify.com/artist/6tbSCyDNRxBtF922LryPyn"
-        },
-        {
-          "name": "EmmaOMG",
-          "url": "https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz"
-        }
-      ],
-      "duration_ms": 293782,
-      "name": "Ebenezeri",
-      "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "Altar (Hosanna)",
@@ -911,22 +887,42 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Daddy wey dey Pamper",
-        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Lyrical HI",
-          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 760597,
-      "name": "Daddy wey dey Pamper",
-      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Ebenezeri",
+        "url": "https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03"
+      },
+      "artists": [
+        {
+          "name": "Kent Edunjobi",
+          "url": "https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE"
+        },
+        {
+          "name": "APEX CHOIR",
+          "url": "https://open.spotify.com/artist/6tbSCyDNRxBtF922LryPyn"
+        },
+        {
+          "name": "EmmaOMG",
+          "url": "https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz"
+        }
+      ],
+      "duration_ms": 293782,
+      "name": "Ebenezeri",
+      "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -951,6 +947,26 @@
       "duration_ms": 173290,
       "name": "My Matter",
       "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Daddy wey dey Pamper",
+        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+        }
+      ],
+      "duration_ms": 760597,
+      "name": "Daddy wey dey Pamper",
+      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -991,22 +1007,6 @@
       "duration_ms": 173262,
       "name": "Elijah Level (with Limoblaze)",
       "url": "https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -1329,6 +1329,22 @@
       "url": "https://open.spotify.com/track/4svNtsUGDRGLRCfQq8LSMg"
     },
     {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Worship SZN",
+        "url": "https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI"
+      },
+      "artists": [
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "duration_ms": 449142,
+      "name": "Holy Spirit",
+      "url": "https://open.spotify.com/track/0vdwSEcvTdrbfa58Q9RR7r"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "A Sound from Heaven",
@@ -1355,22 +1371,6 @@
       "duration_ms": 402782,
       "name": "Yes You Are the Lord",
       "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Worship SZN",
-        "url": "https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI"
-      },
-      "artists": [
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
-        }
-      ],
-      "duration_ms": 449142,
-      "name": "Holy Spirit",
-      "url": "https://open.spotify.com/track/0vdwSEcvTdrbfa58Q9RR7r"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 395810,
+      "name": "Maranatha",
+      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Apostolos (Sounds of Transition)",
         "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 382499,
       "name": "Prophetic Chant (Live)",
       "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 395810,
-      "name": "Maranatha",
-      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1521,6 +1521,46 @@
       "url": "https://open.spotify.com/track/5DXFUaVUCxYvpvrzbjfhQP"
     },
     {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Blessed Year",
+        "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Vin Mokay",
+          "url": "https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz"
+        }
+      ],
+      "duration_ms": 184337,
+      "name": "Blessed Year",
+      "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Yhwh",
+        "url": "https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 583858,
+      "name": "Yhwh",
+      "url": "https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "The Name of Jesus (Live in Concert)",
@@ -1551,42 +1591,6 @@
       "duration_ms": 208588,
       "name": "Blessing Now",
       "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Watching All over Me",
-        "url": "https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Watching All over Me",
-      "url": "https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Journey To The Deep (Prayer Chants)",
-        "url": "https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag"
-      },
-      "artists": [
-        {
-          "name": "Praiz Singz",
-          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
-        }
-      ],
-      "duration_ms": 131640,
-      "name": "Eyes of The Spirit Chant (Prayer Chant)",
-      "url": "https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B"
     }
   ],
   "unique_name": "Be Lifted ",

@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-253 songs - 13 hr 59 min
+254 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [All I Want For Christmas Is You \(SuperFestive!\) Duet with Mariah Carey](https://open.spotify.com/track/1IUtgwxLYzDVd41EgbKUjX) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 4:00 | 2021-12-24 | 2022-10-26 |
 | [Also It's Christmas](https://open.spotify.com/track/4pyDAtf3qYZAX0Eu7o3aQe) | [Matt Rogers](https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ) | [Also It’s Christmas](https://open.spotify.com/album/1e8C8bsdMow7SMIRbSsnze) | 3:26 | 2023-10-27 | 2023-11-04 |
 | [Angels We Have Heard On High \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/3mORNTAlAguOAiP7Habmo2) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Angels We Have Heard On High \(Recorded At Electric Lady Studios NYC\)](https://open.spotify.com/album/0jYV35MYyEIRXCuZWKK3Mw) | 2:58 | 2021-12-24 | 2022-10-26 |
-| [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 | 2021-12-24 |  |
+| [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 | 2021-12-24 | 2024-02-04 |
 | [Another Year](https://open.spotify.com/track/1v4HRWBmiwBcJODNWyhKO6) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/6Mr0pFl9kcZQJt9OCULVwC) | 4:16 | 2021-12-24 | 2022-10-14 |
+| [Another Year](https://open.spotify.com/track/2PjhrIf3ro6skhdBHAUl1P) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/4QqbHVOhj56RKsBTHBxw9x) | 4:16 | 2023-12-22 |  |
 | [Baby I'm Coming Home](https://open.spotify.com/track/2HxSczAUouo61zJJIq3Ypl) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Baby I'm Coming Home](https://open.spotify.com/album/6TTJxPose5KFhRgHYp1PBm) | 3:15 | 2021-12-24 | 2022-10-26 |
 | [Baby It's Cold Outside \(duet with Michael Bublé\)](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Holiday Wishes](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) | 2:46 | 2021-12-24 | 2022-10-26 |
 | [Back Home For Christmas](https://open.spotify.com/track/06b5RW4WE4wa0rr62PMA7s) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Back Home For Christmas](https://open.spotify.com/album/2MgK4cYEZ5g5tx1K1AEWeG) | 3:35 | 2023-11-10 |  |

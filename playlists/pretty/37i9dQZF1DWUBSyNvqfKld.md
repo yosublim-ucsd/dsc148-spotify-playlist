@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain]
 
 > <a href="spotify:artist:3sgVVFFM7mom04OAR0eNCL">DEAS</a>'s favorite tracks\. Updated regularly\. Curated by DEAS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,038 likes - 27 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,046 likes - 27 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain]
 | 22 | [Exhibit 1](https://open.spotify.com/track/7KJGovfuzFsXQ6GfyqMJKd) | [Slam](https://open.spotify.com/artist/0Y0Kj7BOR5DM0UevuY7IvO) | [Slam Presents Exhibit 1](https://open.spotify.com/album/51pADQWA0GSvf3nJQvR9Y1) | 6:38 |
 | 23 | [The Girl with the Red Hair](https://open.spotify.com/track/44OVIUxNaAbppP1kLaII3l) | [Danny Wabbit](https://open.spotify.com/artist/57vSMXKEfRZ02gI0D0frvP) | [The Girl with the Red Hair](https://open.spotify.com/album/1bENUWXdsH0PYcYUaLwVpC) | 4:56 |
 | 24 | [Flash](https://open.spotify.com/track/3JRyCCHuf4UEjgoXC4qaOf) | [Arjun Vagale](https://open.spotify.com/artist/5VL3jFaGca1I18S1a9N6cs) | [Function 88](https://open.spotify.com/album/5KLs6luZVlBzsBWAbcELis) | 4:37 |
-| 25 | [Some Weird Drum Shit \- Hardspace Mix](https://open.spotify.com/track/35c3ZpY3Z2rPsuZcbSm8At) | [Viers](https://open.spotify.com/artist/3vOu5BmXfs5rwPh9cE95i1), [Hardspace](https://open.spotify.com/artist/5oI2WY5wdZNuEl7mKOxqPz), [Len Faki](https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4) | [Hardspace, Vol\. 1](https://open.spotify.com/album/1BwicBcXkbBL1BSkZaSX2e) | 4:51 |
+| 25 | [Some Weird Drum Shit \- Hardspace Mix](https://open.spotify.com/track/35c3ZpY3Z2rPsuZcbSm8At) | [Viers](https://open.spotify.com/artist/3vOu5BmXfs5rwPh9cE95i1), [Len Faki](https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4), [Hardspace](https://open.spotify.com/artist/5oI2WY5wdZNuEl7mKOxqPz) | [Hardspace, Vol\. 1](https://open.spotify.com/album/1BwicBcXkbBL1BSkZaSX2e) | 4:51 |
 | 26 | [Ghouse](https://open.spotify.com/track/5UqSSOTe2a5yDN2PucVvkZ) | [CRAVO](https://open.spotify.com/artist/0h3LDqJWxHfdM76kVnfGcY) | [Hits](https://open.spotify.com/album/6fp8mAN5ElaVB8e4BPsWCK) | 6:18 |
 | 27 | [AF 97](https://open.spotify.com/track/4QXZWqTqFFTxCucmUNep5f) | [Alarico](https://open.spotify.com/artist/3160Uht6QdGT17EECSPWAO) | [AF 97](https://open.spotify.com/album/0rc1NsAYfw6THSPAxGQLbM) | 6:09 |
 
-Snapshot ID: `MCwwOWEwMzQ3OGUwODliYWI1YjllODQwNjRlY2RhNWVhODhhNmMzNGUw`
+Snapshot ID: `MCwxYjAwNGMwMjUyYmU0NjIxZTUxNzQxNjIzZmI1OGZkODQzM2I2MDVl`

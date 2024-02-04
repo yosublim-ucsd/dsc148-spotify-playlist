@@ -1,12 +1,12 @@
 {
   "description": "Deejay Telio entra na zona. ",
-  "num_followers": 175588,
+  "num_followers": 175608,
   "original_name": "Na Zona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWI5MzFmZTBmODFmYjhiZDVjOGMzYTBiNWI4OTgwNjA1YTk5Mjc3",
+  "snapshot_id": "MCw2Nzk5NDAxNDUwYTQ0OWIwMDg0ZjNmYzA1YjlmODBmZjM0OTQyYmQz",
   "tracks": [
     {
       "added_at": "2024-02-02 00:00:00",
@@ -187,7 +187,7 @@
     {
       "added_at": "2024-02-02 00:00:00",
       "album": {
-        "name": "hello",
+        "name": "Hello",
         "url": "https://open.spotify.com/album/2OZkkoRlZu8Fe4MNETsW9H"
       },
       "artists": [
@@ -197,7 +197,7 @@
         }
       ],
       "duration_ms": 146000,
-      "name": "hello",
+      "name": "Hello",
       "url": "https://open.spotify.com/track/6d0iSU9wwOk3sxSRxPkr7O"
     },
     {

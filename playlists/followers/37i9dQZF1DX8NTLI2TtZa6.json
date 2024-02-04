@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 2435176,
+  "2024-02-04": 2434882,
   "date_first_scraped": "2021-12-21",
   "description": "Get. It. Done. Focus-enhancing piano music to keep you motivated during your study session. ",
   "name": "Intense Studying",
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 145188,
       "name": "Because I Miss You",
       "url": "https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL"
@@ -1415,6 +1415,24 @@
       "duration_ms": 136400,
       "name": "Cascade",
       "url": "https://open.spotify.com/track/17kS1C8S66paes4e3YNYsb"
+    },
+    {
+      "album": {
+        "name": "Cascading Lights",
+        "url": "https://open.spotify.com/album/5hMqxgIDgagQTtQ1KsGu5Y"
+      },
+      "artists": [
+        {
+          "name": "George Agate",
+          "url": "https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166514,
+      "name": "Cascading Lights",
+      "url": "https://open.spotify.com/track/2L8yyBhhZnwBPNwxEois4G"
     },
     {
       "album": {
@@ -1807,7 +1825,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 140170,
       "name": "Der Vogel auf dem Felsen",
       "url": "https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M"
@@ -6667,6 +6685,24 @@
       "duration_ms": 169578,
       "name": "silbermond",
       "url": "https://open.spotify.com/track/1sWI71ajS4mERuwG2k5vvD"
+    },
+    {
+      "album": {
+        "name": "Silent Waltz",
+        "url": "https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg"
+      },
+      "artists": [
+        {
+          "name": "Alix Claude",
+          "url": "https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162968,
+      "name": "Silent Waltz",
+      "url": "https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys"
     },
     {
       "album": {

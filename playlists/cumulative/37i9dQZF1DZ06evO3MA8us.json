@@ -64,7 +64,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 310409,
       "name": "A Thousand Hallelujahs - Live From Passion 2022",
       "url": "https://open.spotify.com/track/2CZnmq9N9q6dqI478nXdae"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 526306,
       "name": "Great Are You Lord - Live",
       "url": "https://open.spotify.com/track/5IUBzdrhj5rFz87PJjLpQH"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 239613,
       "name": "One Thing Remains",
       "url": "https://open.spotify.com/track/1bVVKpdOuQ77Ti3kcTdfTy"
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 239628,
       "name": "One Thing Remains - Radio Version",
       "url": "https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5"
@@ -1615,6 +1615,28 @@
     },
     {
       "album": {
+        "name": "The Lord Will Provide (Live From Passion 2024)",
+        "url": "https://open.spotify.com/album/7vj92osEZGcvAfQrOwDnMJ"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Landon Wolfe",
+          "url": "https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336249,
+      "name": "The Lord Will Provide - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/3uqLs8EuMOuCNxKtqUWElW"
+    },
+    {
+      "album": {
         "name": "There\u2019s Nothing That Our God Can\u2019t Do (Live)",
         "url": "https://open.spotify.com/album/1jvZlWc0ey7irzdsJkZlEg"
       },
@@ -1756,7 +1778,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 420826,
       "name": "Worthy Of Your Name - Live",
       "url": "https://open.spotify.com/track/1hQEZ8Bm6cXO1mZ7fXZqkU"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,197 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,199 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 23 | [Make a Move](https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Make a Move](https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX) | 2:24 |
 | 24 | [Going To Work](https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going To Work \- Single](https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd) | 3:17 |
 | 25 | [Mad](https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:38 |
-| 26 | [Boy](https://open.spotify.com/track/4tWfESbIYebRHdMqlwy04T) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [B\-Legit](https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Connected And Respected](https://open.spotify.com/album/3RXaP3Adt3TLsnIKRPBb1x) | 3:41 |
-| 27 | [Talkin Bout](https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Talkin Bout](https://open.spotify.com/album/6L5CxmKI39lczQsNncVrhx) | 1:57 |
-| 28 | [LEMONADE FREESTYLE REMIX](https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD) | [Darrell Medellin](https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [LEMONADE FREESTYLE REMIX](https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4) | 2:22 |
+| 26 | [Talkin Bout](https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Talkin Bout](https://open.spotify.com/album/6L5CxmKI39lczQsNncVrhx) | 1:57 |
+| 27 | [Boy](https://open.spotify.com/track/4tWfESbIYebRHdMqlwy04T) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [B\-Legit](https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Connected And Respected](https://open.spotify.com/album/3RXaP3Adt3TLsnIKRPBb1x) | 3:41 |
+| 28 | [Too Faded Remix](https://open.spotify.com/track/6kAyNOwKKB1h7d6Lx0E9gY) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Stone Cold: DELUXE EDITION](https://open.spotify.com/album/3n0uYyyL4ONNrl6RwbZ2ql) | 4:28 |
 | 29 | [On One](https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:25 |
-| 30 | [Too Faded Remix](https://open.spotify.com/track/6kAyNOwKKB1h7d6Lx0E9gY) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Stone Cold: DELUXE EDITION](https://open.spotify.com/album/3n0uYyyL4ONNrl6RwbZ2ql) | 4:28 |
-| 31 | [That’s Facts \(feat\. P\-Lo\)](https://open.spotify.com/track/6Ufq2wlLLK4fUo6yiWuR4c) | [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [True Story](https://open.spotify.com/album/0dZTK3XkHIQgNjR5og8fNZ) | 2:22 |
-| 32 | [Walked In](https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Walked In](https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq) | 2:20 |
+| 30 | [LEMONADE FREESTYLE REMIX](https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD) | [Darrell Medellin](https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [LEMONADE FREESTYLE REMIX](https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4) | 2:22 |
+| 31 | [Walked In](https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Walked In](https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq) | 2:20 |
+| 32 | [That’s Facts \(feat\. P\-Lo\)](https://open.spotify.com/track/6Ufq2wlLLK4fUo6yiWuR4c) | [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [True Story](https://open.spotify.com/album/0dZTK3XkHIQgNjR5og8fNZ) | 2:22 |
 | 33 | [bamboo](https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:39 |
 | 34 | [One Thing](https://open.spotify.com/track/5ZnQor3xvwoHpsOSP3q0uO) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 1:35 |
 | 35 | [Just Gang](https://open.spotify.com/track/5KhphLWMvY7f4OZRI8tL10) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 49 | [nirvana](https://open.spotify.com/track/0qgDLbVDqWaD95BFMcOBut) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 3:16 |
 | 50 | [Zen Mode \(feat\. P\-Lo\)](https://open.spotify.com/track/3PnklmqqCm1caXi093GlVH) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [No Saints on Knight Street](https://open.spotify.com/album/4NcVOJfCpGq5BFEhhvjge4) | 2:37 |
 
-Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDAwODhhNjg1ZmQ4ODE5OWU4NDgwYjVlNDBlNjI1ZjRmYg==`
+Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDAxYzkxNzkxZWMyYjU3M2NhYTEyNWM1MTI5YTVmZTgzNw==`

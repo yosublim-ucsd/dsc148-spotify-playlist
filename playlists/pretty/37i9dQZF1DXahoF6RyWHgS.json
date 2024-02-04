@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 42257,
+  "num_followers": 42259,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzViYjdhMDgzMDhkMTIxYzkzNGEyYmRjOTA3YzRmN2RiY2RkZDY2",
+  "snapshot_id": "MCw3ZmJhZWIwZDZhZGM4ZTUxMjk2MjhjMDkwOWIwOGE2Yjc5NTFmZmNi",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -331,18 +331,18 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Esencia Solar",
-        "url": "https://open.spotify.com/album/1pOY7m74U5eY0H7QdlTbN4"
+        "name": "March of the Zapotec and Real People Holland",
+        "url": "https://open.spotify.com/album/33A6xiJRrWUuZWgq37O41V"
       },
       "artists": [
         {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
         }
       ],
-      "duration_ms": 129306,
-      "name": "Color Caf\u00e9",
-      "url": "https://open.spotify.com/track/0Yy0tg52vRTXPB0bsU3e5T"
+      "duration_ms": 214413,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/24LDPVMwvoFOLzqsi6ll3I"
     },
     {
       "added_at": "2023-04-12 23:58:01",
@@ -379,18 +379,18 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "March of the Zapotec and Real People Holland",
-        "url": "https://open.spotify.com/album/33A6xiJRrWUuZWgq37O41V"
+        "name": "Esencia Solar",
+        "url": "https://open.spotify.com/album/1pOY7m74U5eY0H7QdlTbN4"
       },
       "artists": [
         {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
         }
       ],
-      "duration_ms": 214413,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/24LDPVMwvoFOLzqsi6ll3I"
+      "duration_ms": 129306,
+      "name": "Color Caf\u00e9",
+      "url": "https://open.spotify.com/track/0Yy0tg52vRTXPB0bsU3e5T"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -895,22 +895,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
-        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
-      },
-      "artists": [
-        {
-          "name": "Marimba Cuquita de los Hermanos Narvaez",
-          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
-        }
-      ],
-      "duration_ms": 181253,
-      "name": "Merecumb\u00e9 del cantinero",
-      "url": "https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Guantanamera - The Essential Album",
         "url": "https://open.spotify.com/album/4W6m2GSdqjaJET161icuDU"
       },
@@ -941,20 +925,20 @@
       "url": "https://open.spotify.com/track/0TkBSy6fOFWe0whp6b37qC"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
+      "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo"
+        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
+        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
       },
       "artists": [
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
         }
       ],
-      "duration_ms": 163420,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ"
+      "duration_ms": 181253,
+      "name": "Merecumb\u00e9 del cantinero",
+      "url": "https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -971,6 +955,22 @@
       "duration_ms": 176653,
       "name": "Michoacan",
       "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 163420,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "15 Super Exitos De Lobo Y Melon - Versiones Originales",
-        "url": "https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO"
-      },
-      "artists": [
-        {
-          "name": "Lobo",
-          "url": "https://open.spotify.com/artist/1KfWU6b8CeeGutVLWFF34Y"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "La Sitiera",
-      "url": "https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "It's Time",
         "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 300226,
       "name": "Mujer Soy",
       "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "15 Super Exitos De Lobo Y Melon - Versiones Originales",
+        "url": "https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO"
+      },
+      "artists": [
+        {
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/1KfWU6b8CeeGutVLWFF34Y"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "La Sitiera",
+      "url": "https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK"
     },
     {
       "added_at": "2020-05-28 20:45:13",

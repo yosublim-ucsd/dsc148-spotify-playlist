@@ -4,7 +4,7 @@
 
 > Las favoritas de los patrones\. Markitos Toys, Pantera de Culiacán en portada.
 
-77 songs - 4 hr 7 min
+78 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/album/480oASOS6npWutZkW7zeNf) | 2:33 | 2024-01-26 |  |
 | [El Chavo Felix](https://open.spotify.com/track/32n9g4H0H85AzOeiMAbSjE) | [Kirri Enigma](https://open.spotify.com/artist/36nV3psZJft6vV1G7YEz9X) | [El Chavo Felix](https://open.spotify.com/album/6RQfFsFKkWX0X5Vrz9i6XA) | 2:47 | 2024-01-26 |  |
 | [El Chino \(En Vivo\)](https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [El Chino \(En Vivo\)](https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK) | 3:00 | 2024-01-26 |  |
-| [El Cinco De Las Cuatro](https://open.spotify.com/track/1TUszLjyHqWjruuOMOv0ro) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Cinco De Las Cuatro](https://open.spotify.com/album/6aIKbjrdIynZPF4nKRgwSI) | 3:01 | 2024-01-26 |  |
+| [El Cinco De Las Cuatro](https://open.spotify.com/track/1TUszLjyHqWjruuOMOv0ro) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Cinco De Las Cuatro](https://open.spotify.com/album/6aIKbjrdIynZPF4nKRgwSI) | 3:01 | 2024-01-26 | 2024-02-04 |
 | [El Corrido Del MC](https://open.spotify.com/track/4yV80LJGxo6LxrTRglFyLJ) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [El Corrido Del MC](https://open.spotify.com/album/2zhxO2yyAg7TPDZJkyvpXo) | 2:37 | 2024-01-26 |  |
 | [El De La Defender Blanca](https://open.spotify.com/track/1hWwQlh8IX6RroVqPpZmbc) | [Grupo Cartel](https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J) | [El De La Defender Blanca](https://open.spotify.com/album/4B4JQCRfMSBbsnZfGGJ1Xk) | 3:02 | 2024-01-26 |  |
 | [El De Las Mieles](https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El De Las Mieles](https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp) | 3:25 | 2024-01-26 |  |
@@ -82,6 +82,7 @@
 | [Siempre Pendientes](https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN) | 3:06 | 2024-01-26 |  |
 | [Somos Gente Del Sombrero \- En Vivo](https://open.spotify.com/track/5cJUpAtZBY253aPOo0QmId) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Somos Gente Del Sombrero \(En Vivo\)](https://open.spotify.com/album/2qaSacTJoTXZHZShAIRkZK) | 3:23 | 2024-01-26 |  |
 | [También Me Llamo Ismael](https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [También Me Llamo Ismael](https://open.spotify.com/album/18EBLg9eT1VizyqevunXWq) | 3:06 | 2024-01-26 |  |
+| [Vida Recia \(En Vivo\)](https://open.spotify.com/track/1N6SIgC4ewG3FneF13z20a) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Vida Recia \(En Vivo\)](https://open.spotify.com/album/44VBDrpn41Vy7FDceUSrsy) | 4:28 | 2024-01-26 |  |
 | [Yo Soy El Bueno \- En Vivo](https://open.spotify.com/track/7DNJkRM915Hm6B7i1Blhrp) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Yo Soy El Bueno \(En Vivo\)](https://open.spotify.com/album/3aDn1xUk7p7Ec9CCgl1NtY) | 2:56 | 2024-01-26 |  |
 | [Yo Soy Serafin](https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu) | [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Yo Soy Serafin](https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM) | 2:41 | 2024-01-26 |  |
 | [Zutano \(En Vivo\)](https://open.spotify.com/track/4aI8jecrUY2zEbwNHIKmj9) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Más Vivo Que En Vivo \(Vol\. 3\)](https://open.spotify.com/album/6cPwBTKQHLhBydkcaHRpbs) | 3:28 | 2024-01-26 |  |

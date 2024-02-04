@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 835857,
+  "num_followers": 835708,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjRhMjBmZTQ2YjUxZmMxZTY1ODliMTg0NDQzNDlmZDAyYjgxZWJj",
+  "snapshot_id": "MCxmZmI0YWM0ZGQyOWMxOGUxM2YzMzBjYzk2N2I5YTg5YmVmZTBmOWFj",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 385653,
-      "name": "God Turn Me Into a Flower",
-      "url": "https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Con Todo El Mundo",
         "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 225153,
       "name": "C\u00f3mo Me Quieres",
       "url": "https://open.spotify.com/track/11AURg9Kbju7LOcwQnR17f"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 385653,
+      "name": "God Turn Me Into a Flower",
+      "url": "https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Salt",
-        "url": "https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "Everyone's Moving Out East",
-      "url": "https://open.spotify.com/track/2mg17l3EfdZ6bFX82rCwcU"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Permanent Way",
         "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 219013,
       "name": "Don't Go Far",
       "url": "https://open.spotify.com/track/5mslFLg97Oelh0rGpt82yQ"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "Everyone's Moving Out East",
+      "url": "https://open.spotify.com/track/2mg17l3EfdZ6bFX82rCwcU"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Holding On, Holding Out",
-        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 229760,
       "name": "Plans",
       "url": "https://open.spotify.com/track/1svJlQzq22Erm3P87wGYgk"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Holding On, Holding Out",
+        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "You and I",
-        "url": "https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe"
-      },
-      "artists": [
-        {
-          "name": "shiv",
-          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Permanent Way",
         "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 212826,
       "name": "Bite",
       "url": "https://open.spotify.com/track/3K8puYhgILDNgQL3IfGFGw"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe"
+      },
+      "artists": [
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "No Burden",
-        "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 175777,
-      "name": "...Familiar Place",
-      "url": "https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Uranium Heart",
         "url": "https://open.spotify.com/album/0XLCfcLsv31oEwcvEDC8v6"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 166291,
       "name": "Stick with You",
       "url": "https://open.spotify.com/track/6TZ9adRRarZhhfzBD1b4GF"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "No Burden",
+        "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 175777,
+      "name": "...Familiar Place",
+      "url": "https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Lake Jons",
-        "url": "https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1"
-      },
-      "artists": [
-        {
-          "name": "Lake Jons",
-          "url": "https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB"
-        }
-      ],
-      "duration_ms": 184661,
-      "name": "Up Here North",
-      "url": "https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Branscombe",
         "url": "https://open.spotify.com/album/6vO858dUxPCg994jjTGaBP"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 199160,
       "name": "Golden",
       "url": "https://open.spotify.com/track/5nL6QICzZuoVfxLBI9UTh5"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Lake Jons",
+        "url": "https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1"
+      },
+      "artists": [
+        {
+          "name": "Lake Jons",
+          "url": "https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB"
+        }
+      ],
+      "duration_ms": 184661,
+      "name": "Up Here North",
+      "url": "https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW"
     },
     {
       "added_at": "2023-10-20 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 44841,
+  "num_followers": 44899,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzQ5ODE1NjQ0MTJiNDkyZjJiMjFhMDA3MThkNzRmYWY2ZTJjYjdh",
+  "snapshot_id": "MCxjZjViY2ZmZDYxMmU0MzRlNTNmMGJkYjBkNWRkZGFhNDI0MzEwN2Uw",
   "tracks": [
     {
       "added_at": "2022-10-01 20:14:07",
@@ -623,22 +623,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
       },
       "artists": [
         {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         },
         {
           "name": "Nipsey Hussle",
           "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
         }
       ],
-      "duration_ms": 240895,
-      "name": "None of This",
-      "url": "https://open.spotify.com/track/3sG8wVhIbQjJfPWICb4TVk"
+      "duration_ms": 171970,
+      "name": "CANDY (feat. Nipsey Hussle)",
+      "url": "https://open.spotify.com/track/4bLzLU8wDul8hV1YNEBekn"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -679,22 +679,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
         },
         {
           "name": "Nipsey Hussle",
           "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
         }
       ],
-      "duration_ms": 171970,
-      "name": "CANDY (feat. Nipsey Hussle)",
-      "url": "https://open.spotify.com/track/4bLzLU8wDul8hV1YNEBekn"
+      "duration_ms": 240895,
+      "name": "None of This",
+      "url": "https://open.spotify.com/track/3sG8wVhIbQjJfPWICb4TVk"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -795,26 +795,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
-      },
-      "artists": [
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        },
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 185155,
-      "name": "Effortless",
-      "url": "https://open.spotify.com/track/0Zx7njsXzVa0rTX1h2K9qd"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Back of My Mind",
         "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 197413,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/3CtfBYewF9YoIj4tN1Xuh6"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
+      },
+      "artists": [
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 185155,
+      "name": "Effortless",
+      "url": "https://open.spotify.com/track/0Zx7njsXzVa0rTX1h2K9qd"
     },
     {
       "added_at": "2022-10-01 20:14:07",

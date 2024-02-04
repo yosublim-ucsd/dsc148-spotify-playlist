@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Jungeli
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,179 likes - 86 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,183 likes - 86 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 29 | [TIESTO](https://open.spotify.com/track/6AOW1nBs5C4YCvwTZEt4WZ) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ) | [TIESTO](https://open.spotify.com/album/0L2D5vnjrP7TWYoYu1Bvnv) | 3:12 |
 | 30 | [Thinking 'Bout Us](https://open.spotify.com/track/5Ud5RWUsSqRqX2jq0phPji) | [Dannii Minogue](https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6), [Autone](https://open.spotify.com/artist/0WGyRlpVIGUFhFxdJI3pue) | [Thinking 'Bout Us](https://open.spotify.com/album/2ZmsDNGEAlthhi9HErACpr) | 3:01 |
 | 31 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 |
-| 32 | [ALS DU GINGST](https://open.spotify.com/track/2RnSHgipbIPAaVScbCZsPW) | [Vega](https://open.spotify.com/artist/6F9QTYrJgiLY80BZGzWIHO) | [WIESO SIE STÜRME NACH MENSCHEN BENENNEN](https://open.spotify.com/album/5sqRWoZI8FflgBilhLgU1a) | 2:42 |
+| 32 | [ALS DU GINGST](https://open.spotify.com/track/2RnSHgipbIPAaVScbCZsPW) | [Vega](https://open.spotify.com/artist/6F9QTYrJgiLY80BZGzWIHO), [VITO](https://open.spotify.com/artist/7chtUnj6tYDO1bXxLSL7OA) | [WIESO SIE STÜRME NACH MENSCHEN BENENNEN](https://open.spotify.com/album/5sqRWoZI8FflgBilhLgU1a) | 2:42 |
 | 33 | [aneinander vorbei](https://open.spotify.com/track/5j8Zxqv3HdWAOh4IhbF5jN) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [aneinander vorbei](https://open.spotify.com/album/7tLkOPBp3hwymhk56KFep0) | 4:19 |
 | 34 | [phones in heaven](https://open.spotify.com/track/18xwBmM2Xa8gJzaU0fYoiX) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [phones in heaven](https://open.spotify.com/album/2v7JtVCBL54vchN6JkYyTv) | 2:17 |
 | 35 | [Started A Fire](https://open.spotify.com/track/05vf5Vu9iIaS4gmVpGS3hB) | [Evelinn Trouble](https://open.spotify.com/artist/49GbMjOzWCx2QZHPCY6F5K) | [Started A Fire](https://open.spotify.com/album/2Qlt2Oz5XnabHccDow32y6) | 2:59 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 46 | [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 |
 | 47 | [Shooting Star](https://open.spotify.com/track/4xXJQUEc3lE3W8cgwgMBdW) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Shooting Star](https://open.spotify.com/album/3ULWzIkI8mL1ukNwoUagWl) | 2:25 |
 | 48 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 |
-| 49 | [Crusade](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
+| 49 | [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
 | 50 | [find mich](https://open.spotify.com/track/03S9KJa8pBjjV7K71pNQgf) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD), [Whitey](https://open.spotify.com/artist/31HMcpiwcEdIUpPOQuqQfW) | [find mich](https://open.spotify.com/album/2Z8dDJt41rXa5xCET8mdn7) | 2:04 |
 | 51 | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo) | 3:01 |
 | 52 | [YGxOG \(feat\. Motis\)](https://open.spotify.com/track/5IS0vVGGJZ5VMeVPNRK49f) | [Midas](https://open.spotify.com/artist/6JaMzYQxHHPK8sF9AXizJd), [Motis](https://open.spotify.com/artist/5D5A1DJDHJJbRYHk2B9VIa) | [YGxOG \(feat\. Motis\)](https://open.spotify.com/album/3CYQRNQgwwLGIOd7vSBYI5) | 2:26 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 85 | [Gegen die Zeit](https://open.spotify.com/track/0UYvm3zOmSXcU7Bb490lTi) | [Bang Babsy](https://open.spotify.com/artist/3OKjSvEHXiqzpW4MXRBklt) | [Gegen die Zeit](https://open.spotify.com/album/3evpE9WpC4h6aOBICkC7Gw) | 2:05 |
 | 86 | [Alles erlaubt](https://open.spotify.com/track/7goSTmQz0ePkBY6RlGB6Ru) | [HILLA](https://open.spotify.com/artist/2XPKrrCwMa3wB1ML1g5Ywg) | [Alles erlaubt](https://open.spotify.com/album/48jxN0AOOYpd3Cbr8H1hSE) | 3:17 |
 
-Snapshot ID: `MCxiM2U5ZmQ5NTJkYmQ4Y2JkY2VkYzc3ODVkMGE0OTZmOGFkNWI0MDMx`
+Snapshot ID: `MCxmMDZjMDQyZGZjZWUxMTVkNmNiNzlkNDBjYmZkMGJhNTg1MmJkYzFl`

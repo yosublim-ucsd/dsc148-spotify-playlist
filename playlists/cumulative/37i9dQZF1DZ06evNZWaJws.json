@@ -737,6 +737,28 @@
     },
     {
       "album": {
+        "name": "No Me Quejo Ni Me Rajo",
+        "url": "https://open.spotify.com/album/3hcRZhvc6KxTUVzRSWogW0"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186414,
+      "name": "No Me Quejo Ni Me Rajo",
+      "url": "https://open.spotify.com/track/3K1vm5rc5pQ9yWXXP3E8qf"
+    },
+    {
+      "album": {
         "name": "Corridos Time Season Two \"Los Implacables\"",
         "url": "https://open.spotify.com/album/2xumkDb8a5iqmPz5a0EmAh"
       },

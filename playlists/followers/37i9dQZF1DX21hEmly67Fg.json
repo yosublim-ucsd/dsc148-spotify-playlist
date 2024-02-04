@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 161875,
+  "2024-02-04": 162003,
   "date_first_scraped": "2021-12-28",
   "description": "Chill to these laid-back classical covers. ",
   "name": "Chilled Classical Covers",
@@ -2994,6 +2994,24 @@
     },
     {
       "album": {
+        "name": "Story of My Life",
+        "url": "https://open.spotify.com/album/09ixsulaxQcFKTymb42Is8"
+      },
+      "artists": [
+        {
+          "name": "Ashton Foster",
+          "url": "https://open.spotify.com/artist/6lleSq8jhlTKsIH0GeGSM4"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148184,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/0knSe1sGQkIyE3rTIvQRl1"
+    },
+    {
+      "album": {
         "name": "Vitamin String Quartet Performs the Hits of 2019",
         "url": "https://open.spotify.com/album/56EI9Mhw87g3NADBYQNQac"
       },
@@ -3085,6 +3103,24 @@
       "duration_ms": 190588,
       "name": "The Sound of Silence",
       "url": "https://open.spotify.com/track/0ckgm8yGyTYAo9WwtCXcpS"
+    },
+    {
+      "album": {
+        "name": "The Sound of Silence",
+        "url": "https://open.spotify.com/album/7zFQhoJ9Disc3upcoiNnJu"
+      },
+      "artists": [
+        {
+          "name": "Morgan Fleich",
+          "url": "https://open.spotify.com/artist/0fA5ejVShbNdZWiw5CB1l1"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136385,
+      "name": "The Sound of Silence",
+      "url": "https://open.spotify.com/track/0YTPlP7MjW8pPBGdARXuIJ"
     },
     {
       "album": {

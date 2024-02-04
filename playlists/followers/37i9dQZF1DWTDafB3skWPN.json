@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 898570,
+  "2024-02-04": 898655,
   "date_first_scraped": "2022-03-28",
   "description": "Celebrate yourself with a fun pop & hip hop mix ",
   "name": "Feeling Accomplished",
@@ -105,7 +105,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 196693,
       "name": "679 (feat. Remy Boyz)",
       "url": "https://open.spotify.com/track/5NQbUaeTEOGdD6hHcre0dZ"
@@ -717,6 +717,24 @@
       "duration_ms": 219560,
       "name": "Conceited (There's Something About Remy)",
       "url": "https://open.spotify.com/track/2OcBwebjQsdJy76zWvLQvn"
+    },
+    {
+      "album": {
+        "name": "Conquer",
+        "url": "https://open.spotify.com/album/6rFe0D0d7h5xbC49yXrWsK"
+      },
+      "artists": [
+        {
+          "name": "Ruelle",
+          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191211,
+      "name": "Conquer",
+      "url": "https://open.spotify.com/track/19Dzreszyxy7dJDJuVRCoZ"
     },
     {
       "album": {

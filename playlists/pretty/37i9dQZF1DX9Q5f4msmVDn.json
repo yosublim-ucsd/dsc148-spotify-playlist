@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 18994,
+  "num_followers": 19007,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWI4NzI1MDExNzk2Nzk2ZTUwNzczZmNlNWJhNzJkY2E3Y2IyMjA3",
+  "snapshot_id": "MCxjMzc1MzQwYWViMWNlMDM4YTkzYWE5YTg3M2YyNTVjNmUxMDA2MzNh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "gold fronts (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 235978,
-      "name": "gold fronts (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Greatest Slow Jams",
         "url": "https://open.spotify.com/album/5bnLsmE5xb2EzTbq7JMoeG"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 431133,
       "name": "Happy Feelin's",
       "url": "https://open.spotify.com/track/6OxTGWA4bxZ1u1auaeTDNv"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "gold fronts (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 235978,
+      "name": "gold fronts (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm"
     },
     {
       "added_at": "2022-10-01 16:00:00",

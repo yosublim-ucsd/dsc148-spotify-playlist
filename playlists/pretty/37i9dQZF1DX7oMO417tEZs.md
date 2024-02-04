@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,811 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,851 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 9 | [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 |
 | 10 | [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 |
 | 11 | [Ezekiel's Wheel](https://open.spotify.com/track/4jB5y3nekrMH0HOFSm1rC0) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Ezekiel's Wheel](https://open.spotify.com/album/1zy6nQsdVNRXPFRsbW2Q3M) | 3:55 |
-| 12 | [take yr time](https://open.spotify.com/track/7lQbnpAD7WJj6MaPowEcwx) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [take yr time](https://open.spotify.com/album/1VH9FaS0iG8QiB5cE475b0) | 3:56 |
+| 12 | [take yr time](https://open.spotify.com/track/7lQbnpAD7WJj6MaPowEcwx) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [take yr time](https://open.spotify.com/album/1VH9FaS0iG8QiB5cE475b0) | 3:55 |
 | 13 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 |
 | 14 | [New Shoes](https://open.spotify.com/track/6s02C7oN8eAbhDnHQ00zE2) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Allina](https://open.spotify.com/artist/5nys5JMkNdnpE7bYevIQHX) | [Allina](https://open.spotify.com/album/2SYF214s2NIu7xfT41eHMx) | 2:04 |
 | 15 | [Easy](https://open.spotify.com/track/2X7D3Pg9gNuQ5iwFHuyCr0) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-2](https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp) | 2:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Jungle](https://open.spotify.com/track/2awBXPPzbOhux8MwSLozg9) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh), [Ladji Mouflet](https://open.spotify.com/artist/2NNTIDSDRlsf4lzYW9fpKm) | [Jungle](https://open.spotify.com/album/4bZ6u5RDYajHIfSenUNdwe) | 2:45 |
 | 100 | [Orlando](https://open.spotify.com/track/0rkwsDBRGsK8Qrr6xGQJzQ) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [Orlando](https://open.spotify.com/album/43gDrPnCoCL2W0F8Sonrng) | 6:25 |
 
-Snapshot ID: `MCw0YWEzMWU0ZjYzNTE5YTI2ODNjYTVkMTUxNzJjZGI2ZGQ4YWUyMjFl`
+Snapshot ID: `MCw1NzEwN2UzMzkwNDJhOTc5YTVjODQyMzQyZDBjODJjMDBjNzFjOTJm`

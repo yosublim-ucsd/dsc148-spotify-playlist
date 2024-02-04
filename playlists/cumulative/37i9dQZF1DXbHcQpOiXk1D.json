@@ -867,6 +867,32 @@
     },
     {
       "album": {
+        "name": "Be Myself",
+        "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "TAMBALA",
+          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227835,
+      "name": "Be Myself",
+      "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
+    },
+    {
+      "album": {
         "name": "Beetle Juice",
         "url": "https://open.spotify.com/album/0BBeS3P56yDZnQEbB6RjaI"
       },
@@ -3866,7 +3892,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 286890,
       "name": "Hide To Seek",
       "url": "https://open.spotify.com/track/14v0RznQuTisy9dHVoXcbI"

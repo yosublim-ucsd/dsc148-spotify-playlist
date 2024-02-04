@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 32808,
+  "num_followers": 32824,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTQwNzIxZTRhN2FmYjI3MjNhZGExZjU2MGMxOTMxYWM5M2Q3YWQ4",
+  "snapshot_id": "MCxjNWZiN2E5YzY2ZmU0OThlZmFhOTQ1MmNmNDkzZjNlOTc2MzNjNGVl",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Feel It / Waterfalls",
-        "url": "https://open.spotify.com/album/3mZYy0NtvBFp679UJ66GnT"
-      },
-      "artists": [
-        {
-          "name": "After Hours",
-          "url": "https://open.spotify.com/artist/1y27W02EFVbp6nPfM1LFh7"
-        }
-      ],
-      "duration_ms": 358680,
-      "name": "Waterfalls (3 A.M. Mix)",
-      "url": "https://open.spotify.com/track/5G0YQmoqgJQaffES8hkeIO"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Zulu",
         "url": "https://open.spotify.com/album/4iVlfhatg1p0IlyUb2bMwo"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 474560,
       "name": "Zulu (Change Mix)",
       "url": "https://open.spotify.com/track/3K0HgKUzvMjggsHMWbq8EY"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Feel It / Waterfalls",
+        "url": "https://open.spotify.com/album/3mZYy0NtvBFp679UJ66GnT"
+      },
+      "artists": [
+        {
+          "name": "After Hours",
+          "url": "https://open.spotify.com/artist/1y27W02EFVbp6nPfM1LFh7"
+        }
+      ],
+      "duration_ms": 358680,
+      "name": "Waterfalls (3 A.M. Mix)",
+      "url": "https://open.spotify.com/track/5G0YQmoqgJQaffES8hkeIO"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/3BLGNLZATTflFNr861JgiQ"
+      },
+      "artists": [
+        {
+          "name": "James Roach",
+          "url": "https://open.spotify.com/artist/6rop3rDr8Dtl7uNwsONcyP"
+        }
+      ],
+      "duration_ms": 369461,
+      "name": "Special (Club Mix)",
+      "url": "https://open.spotify.com/track/7oOS89jZA2PS7YyvCf2A6m"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Tyler Moore Mary (Mixes)",
         "url": "https://open.spotify.com/album/0yLhyujDegVpusv5ILwz0S"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 471692,
       "name": "Tyler Moore Mary",
       "url": "https://open.spotify.com/track/2GR2SyVgjnJCDyCxajyCEB"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/3BLGNLZATTflFNr861JgiQ"
-      },
-      "artists": [
-        {
-          "name": "James Roach",
-          "url": "https://open.spotify.com/artist/6rop3rDr8Dtl7uNwsONcyP"
-        }
-      ],
-      "duration_ms": 369461,
-      "name": "Special (Club Mix)",
-      "url": "https://open.spotify.com/track/7oOS89jZA2PS7YyvCf2A6m"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -791,38 +791,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
-      },
-      "artists": [
-        {
-          "name": "Krimp",
-          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
-        }
-      ],
-      "duration_ms": 410967,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Spark da Meth",
-        "url": "https://open.spotify.com/album/0CK0eq8QWkn1xRp4LXYx8j"
-      },
-      "artists": [
-        {
-          "name": "Da Mongoloids",
-          "url": "https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG"
-        }
-      ],
-      "duration_ms": 398566,
-      "name": "Spark da Meth (Bangin Like a Benzi Mix)",
-      "url": "https://open.spotify.com/track/1IOM3ZT5FbNk9PgGieEdRg"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Club Cuts Vol. 9",
         "url": "https://open.spotify.com/album/46qLvcWO3P4AN5RwIvEspN"
       },
@@ -839,6 +807,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
+      },
+      "artists": [
+        {
+          "name": "Krimp",
+          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
+        }
+      ],
+      "duration_ms": 410967,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Swing Doctor",
         "url": "https://open.spotify.com/album/00V3nccGV3eXjxWRPkmqmD"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 343720,
       "name": "Dance to the Rhythm",
       "url": "https://open.spotify.com/track/27JQqhKAZ2LnQv2hZtumUb"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Spark da Meth",
+        "url": "https://open.spotify.com/album/0CK0eq8QWkn1xRp4LXYx8j"
+      },
+      "artists": [
+        {
+          "name": "Da Mongoloids",
+          "url": "https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG"
+        }
+      ],
+      "duration_ms": 398566,
+      "name": "Spark da Meth (Bangin Like a Benzi Mix)",
+      "url": "https://open.spotify.com/track/1IOM3ZT5FbNk9PgGieEdRg"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Love Trax",
-        "url": "https://open.spotify.com/album/5JI7FL0GncLmee3QK617rc"
-      },
-      "artists": [
-        {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
-        }
-      ],
-      "duration_ms": 406131,
-      "name": "Love Trax (Love Izz)",
-      "url": "https://open.spotify.com/track/3XlsIeTlYuDf78ol5mc6t2"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Set My Spirit Free",
         "url": "https://open.spotify.com/album/26niUzngjZz2T00CSUek56"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Boom / I Need Your Love",
-        "url": "https://open.spotify.com/album/1G7KXTJydP5w5UIQCQBL2t"
+        "name": "Love Trax",
+        "url": "https://open.spotify.com/album/5JI7FL0GncLmee3QK617rc"
       },
       "artists": [
         {
-          "name": "House 2 House",
-          "url": "https://open.spotify.com/artist/70iQImFp3CMD1MXnDvmAIz"
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
         }
       ],
-      "duration_ms": 358546,
-      "name": "Boom (Radio Mix)",
-      "url": "https://open.spotify.com/track/2Mnqeirws7LI60BXCKRA3S"
+      "duration_ms": 406131,
+      "name": "Love Trax (Love Izz)",
+      "url": "https://open.spotify.com/track/3XlsIeTlYuDf78ol5mc6t2"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -955,18 +939,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/1GrIg6TtWx42HcBpIHu1gh"
+        "name": "Boom / I Need Your Love",
+        "url": "https://open.spotify.com/album/1G7KXTJydP5w5UIQCQBL2t"
       },
       "artists": [
         {
-          "name": "Full Swing",
-          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+          "name": "House 2 House",
+          "url": "https://open.spotify.com/artist/70iQImFp3CMD1MXnDvmAIz"
         }
       ],
-      "duration_ms": 472984,
-      "name": "Choices (Choices Vocal Mix)",
-      "url": "https://open.spotify.com/track/5N7cwa4semi11gavRLxWGu"
+      "duration_ms": 358546,
+      "name": "Boom (Radio Mix)",
+      "url": "https://open.spotify.com/track/2Mnqeirws7LI60BXCKRA3S"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/1GrIg6TtWx42HcBpIHu1gh"
+      },
+      "artists": [
+        {
+          "name": "Full Swing",
+          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+        }
+      ],
+      "duration_ms": 472984,
+      "name": "Choices (Choices Vocal Mix)",
+      "url": "https://open.spotify.com/track/5N7cwa4semi11gavRLxWGu"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Muevete Mama",
         "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
       },
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Alright (feat. Earl Bennett)",
-        "url": "https://open.spotify.com/album/6Vvh6fiEizIRiigggApDXR"
-      },
-      "artists": [
-        {
-          "name": "BOP",
-          "url": "https://open.spotify.com/artist/4z0VQ5H4ENxPT0983Rsf8Z"
-        },
-        {
-          "name": "Earl Bennett",
-          "url": "https://open.spotify.com/artist/23RcTVzVbJsEOQYsp4CQKe"
-        }
-      ],
-      "duration_ms": 605294,
-      "name": "Alright (feat. Earl Bennett) (BOP Journey Remix)",
-      "url": "https://open.spotify.com/track/6W93D6tMKu7lyE4jjgxhcv"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/55amN0lWdcvH5QVZ5egjor"
       },
@@ -1075,6 +1055,26 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Alright (feat. Earl Bennett)",
+        "url": "https://open.spotify.com/album/6Vvh6fiEizIRiigggApDXR"
+      },
+      "artists": [
+        {
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/4z0VQ5H4ENxPT0983Rsf8Z"
+        },
+        {
+          "name": "Earl Bennett",
+          "url": "https://open.spotify.com/artist/23RcTVzVbJsEOQYsp4CQKe"
+        }
+      ],
+      "duration_ms": 605294,
+      "name": "Alright (feat. Earl Bennett) (BOP Journey Remix)",
+      "url": "https://open.spotify.com/track/6W93D6tMKu7lyE4jjgxhcv"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Just An Organ / Getting Bigger (Mixes)",
         "url": "https://open.spotify.com/album/5BnDOPtqUI0eR3yIorHn7j"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 337901,
       "name": "Just an Organ (Just An Organ Mix)",
       "url": "https://open.spotify.com/track/5sUqzg4M6ghFpcTciCiSiH"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Sweet Ambience (Mixes)",
-        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
-      },
-      "artists": [
-        {
-          "name": "Lovechild",
-          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
-        }
-      ],
-      "duration_ms": 300943,
-      "name": "Sweet Ambience (Club Mix)",
-      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Everybody Dance",
-        "url": "https://open.spotify.com/album/6cLUkcaFe8voggxAoWXEDS"
+        "name": "Sweet Ambience (Mixes)",
+        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
       },
       "artists": [
         {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+          "name": "Lovechild",
+          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
         }
       ],
-      "duration_ms": 479440,
-      "name": "Everybody Dance (M.A.S. Club Vocal)",
-      "url": "https://open.spotify.com/track/2kAjEH6vpzYTrp5vRnJkBE"
+      "duration_ms": 300943,
+      "name": "Sweet Ambience (Club Mix)",
+      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1155,6 +1139,22 @@
       "duration_ms": 364347,
       "name": "Carnival '95 (Pride Vocal Mix)",
       "url": "https://open.spotify.com/track/5ZEFcwgWOta5rCobcLTUKO"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Everybody Dance",
+        "url": "https://open.spotify.com/album/6cLUkcaFe8voggxAoWXEDS"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 479440,
+      "name": "Everybody Dance (M.A.S. Club Vocal)",
+      "url": "https://open.spotify.com/track/2kAjEH6vpzYTrp5vRnJkBE"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Jump & Sing / Work Me",
-        "url": "https://open.spotify.com/album/1o2QtNuAMWhMDnOeEvfal6"
-      },
-      "artists": [
-        {
-          "name": "Scram",
-          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
-        }
-      ],
-      "duration_ms": 341200,
-      "name": "Jump & Sing (Hard Metro Mix)",
-      "url": "https://open.spotify.com/track/0a47CdRlKFkKTMX6ZSH2nL"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "In Da Clouds",
         "url": "https://open.spotify.com/album/62sUlFutPV4Txj0H1NyDun"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 518960,
       "name": "In Da Clouds (Da Dub)",
       "url": "https://open.spotify.com/track/7iKcjAQmWCTSEOKiL2krbm"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Jump & Sing / Work Me",
+        "url": "https://open.spotify.com/album/1o2QtNuAMWhMDnOeEvfal6"
+      },
+      "artists": [
+        {
+          "name": "Scram",
+          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
+        }
+      ],
+      "duration_ms": 341200,
+      "name": "Jump & Sing (Hard Metro Mix)",
+      "url": "https://open.spotify.com/track/0a47CdRlKFkKTMX6ZSH2nL"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Straight from the Bario EP",
-        "url": "https://open.spotify.com/album/6h4R4lF6pLr6ZxtyKcaG9J"
-      },
-      "artists": [
-        {
-          "name": "RBM",
-          "url": "https://open.spotify.com/artist/5xIJpFh1VA7BD7uJSuWnGo"
-        }
-      ],
-      "duration_ms": 369987,
-      "name": "The Bombero Remix 96",
-      "url": "https://open.spotify.com/track/1uApzgJThhGdsQgIe8kud4"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
         "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 260065,
       "name": "Shine (Sundown Dub)",
       "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Straight from the Bario EP",
+        "url": "https://open.spotify.com/album/6h4R4lF6pLr6ZxtyKcaG9J"
+      },
+      "artists": [
+        {
+          "name": "RBM",
+          "url": "https://open.spotify.com/artist/5xIJpFh1VA7BD7uJSuWnGo"
+        }
+      ],
+      "duration_ms": 369987,
+      "name": "The Bombero Remix 96",
+      "url": "https://open.spotify.com/track/1uApzgJThhGdsQgIe8kud4"
     },
     {
       "added_at": "2022-03-03 13:59:16",

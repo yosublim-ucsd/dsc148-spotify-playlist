@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-654 songs - 1 day 8 hr 56 min
+655 songs - 1 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,6 +661,7 @@
 | [Återvändsgränd](https://open.spotify.com/track/3y6qyXYv3C0BaYehuAQTLv) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Återvändsgränd](https://open.spotify.com/album/0HcXNRFN67R6c7uFKLSQxA) | 3:15 | 2022-11-24 | 2023-01-25 |
 | [åtta shots](https://open.spotify.com/track/6fdZ0dGYPVMgwlextDDJDs) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [åtta shots](https://open.spotify.com/album/6noUcSo95FnWv2yUGH8H42) | 2:28 | 2023-01-26 | 2023-03-03 |
 | [Över](https://open.spotify.com/track/1enxBOSOQnVVHMNI6BBv8q) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr) | [Över](https://open.spotify.com/album/0jbr13J0q4bxhSCiqjYQwR) | 2:10 | 2023-04-20 | 2023-05-19 |
-| [Överallt](https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Överallt](https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM) | 2:05 | 2023-11-07 |  |
+| [Överallt](https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Bestämda Kliv](https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG) | 2:04 | 2024-02-01 |  |
+| [Överallt](https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Överallt](https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM) | 2:05 | 2023-11-07 | 2024-02-04 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

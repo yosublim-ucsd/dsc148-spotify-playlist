@@ -4,7 +4,7 @@
 
 > اسمك فاشل بين البراكتسسس، بلعب بيهم يسطى ركتسسس، بكتفهم زي جكتسسس غلاف: أبيوسف
 
-281 songs - 14 hr 13 min
+282 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Ma 3Aleena](https://open.spotify.com/track/5QGPHt2jSENWFe6rHjMOz5) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Ma 3Aleena](https://open.spotify.com/album/1AO98h2bmjf2IOy0aRuRlc) | 3:26 | 2023-01-31 | 2023-03-10 |
 | [Ma3lesh Ana Toht](https://open.spotify.com/track/5bWMX0CAw3ZSuUmBStnI23) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ma3lesh Ana Toht](https://open.spotify.com/album/1Bto2XiqyMEb9FHB1BkGFI) | 3:33 | 2022-05-10 | 2022-06-21 |
 | [Ma3rafnish](https://open.spotify.com/track/35f5B1FqqHkHIJhi85wDYz) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:40 | 2023-05-25 | 2023-06-16 |
+| [MADARETSH](https://open.spotify.com/track/20ug862pGPnJRSuENJp3ae) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51), [Bashmohannad](https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m) | [SALEM](https://open.spotify.com/album/3B8uIcXsXw8SA8FU6oTZjM) | 2:28 | 2024-02-03 |  |
 | [Mafesh Mane3](https://open.spotify.com/track/3oE8bLxqY4L14n7GPLSRR3) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Mafesh Mane3](https://open.spotify.com/album/3pkXXciOn1FgsroRvaR9Lj) | 3:40 | 2023-08-08 | 2023-08-18 |
 | [MAGANEEN](https://open.spotify.com/track/128stPZbUIBhJU6cYiyNrU) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51) | [MAGANEEN](https://open.spotify.com/album/7qDjmgVN6jRPH2Kue0njD8) | 4:00 | 2023-09-09 | 2023-10-01 |
 | [Maged El Masry](https://open.spotify.com/track/29AFznq7V8b5C5w5fAaQTx) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ras Shitan](https://open.spotify.com/album/5xs1hPBH7vjLHf8UY7TxDY) | 3:38 | 2022-07-06 | 2022-10-11 |
@@ -189,7 +190,7 @@
 | [Roo7](https://open.spotify.com/track/14LYuWUVCDPDcmzLfYxwMj) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Cabina](https://open.spotify.com/album/21JkvWs6mwc3G2r8ifbyAp) | 3:09 | 2022-09-13 | 2022-12-19 |
 | [Saa'e3](https://open.spotify.com/track/0Fbl0jYUJkLzz5BIUJ2t7r) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [OV \(The Mixtape\)](https://open.spotify.com/album/4krw20D1j4humTzgD8l8GM) | 2:51 | 2022-10-10 | 2022-12-30 |
 | [SAFINA](https://open.spotify.com/track/2imCmZa01FzAv5j0BiD9ab) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [El Sahaba](https://open.spotify.com/album/3YLhKiHp1tyCZWM5OnkpPt) | 3:07 | 2022-05-10 | 2022-05-17 |
-| [SALEM](https://open.spotify.com/track/13IgYNe8Wm0CtPmJEfoyS5) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51), [Bashmohannad](https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m) | [SALEM](https://open.spotify.com/album/3B8uIcXsXw8SA8FU6oTZjM) | 3:18 | 2024-01-30 |  |
+| [SALEM](https://open.spotify.com/track/13IgYNe8Wm0CtPmJEfoyS5) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51), [Bashmohannad](https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m) | [SALEM](https://open.spotify.com/album/3B8uIcXsXw8SA8FU6oTZjM) | 3:18 | 2024-01-30 | 2024-02-04 |
 | [Salt El Zein \- صلاة الزين](https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Salt El Zein \- صلاة الزين](https://open.spotify.com/album/2FLoi19Rf5ejnlHfPYF4zp) | 2:36 | 2023-05-11 |  |
 | [SAM3 AKHINA](https://open.spotify.com/track/55mj9EYItGVGjrvyiY9rlw) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [ZAZA ELWASEEM](https://open.spotify.com/album/4gYfyZHNfpZdI4ebAybyUD) | 2:08 | 2023-07-26 |  |
 | [SAME3 EL HAKY](https://open.spotify.com/track/4TsCqhS1FsmVTXrNzjykbr) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Lorenzoo](https://open.spotify.com/artist/2xKNNvun5ikWnywLrU5Gr7) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:14 | 2023-07-10 | 2023-08-18 |

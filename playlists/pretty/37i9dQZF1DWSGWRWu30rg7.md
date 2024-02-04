@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Aditya Manggala
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,864 likes - 71 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,856 likes - 71 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 70 | [Lukisan Hati](https://open.spotify.com/track/3CbxrtGkEJdlS1Evhw5xuZ) | [Devandaru](https://open.spotify.com/artist/3etpdjvsu7htAwDXLju00K) | [Lukisan Hati](https://open.spotify.com/album/1JxkSy8s69ss5SWOZAdcC7) | 3:43 |
 | 71 | [Dimiliki Dia](https://open.spotify.com/track/4oYO0bHAPtZFDhgnBBZuKQ) | [Allan Andersn](https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk) | [Dimiliki Dia](https://open.spotify.com/album/5ZMba9BNuaqMcnNjoAhDqo) | 3:48 |
 
-Snapshot ID: `MCw5OWQ1NjM3NjEwZWViYzk4ZjIyNmZjODE4NzUwZWU3OTQ1NmIzMjQx`
+Snapshot ID: `MCw3OTZiNzM0MmQ4NjM0YjIyZjZmYTg5NzczNzNkZDc0NGI2YWNhNmQ2`

@@ -1,12 +1,12 @@
 {
   "description": "Move your way through the day with the dance tracks you love.",
-  "num_followers": 58477,
+  "num_followers": 58500,
   "original_name": "Dance All Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjExOWMzN2ExNDdlNTM5OGJmZjg3NmI4OGRiZjAzZTRiOTE5NzUx",
+  "snapshot_id": "MCw5MjJjNjMxZjk2NTE0NjNmZGNlYzBhNTZjYmJkM2MzZjJmOGZjYzg4",
   "tracks": [
     {
       "added_at": "2023-12-04 19:34:02",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-12-04 19:34:02",
       "album": {
+        "name": "COULD BE WRONG",
+        "url": "https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP"
+      },
+      "artists": [
+        {
+          "name": "LOSTBOYJAY",
+          "url": "https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL"
+        }
+      ],
+      "duration_ms": 186046,
+      "name": "COULD BE WRONG",
+      "url": "https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu"
+    },
+    {
+      "added_at": "2023-12-04 19:34:02",
+      "album": {
         "name": "Don\u2019t Wake Me Up",
         "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 188894,
       "name": "Don\u2019t Wake Me Up",
       "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
-    },
-    {
-      "added_at": "2023-12-04 19:34:02",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2023-12-04 19:34:02",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-12-04 19:34:02",
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
+    },
+    {
+      "added_at": "2023-12-04 19:34:02",
+      "album": {
         "name": "Liquor & Cigarettes (feat. ArrDee)",
         "url": "https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 189257,
       "name": "Liquor & Cigarettes (feat. ArrDee)",
       "url": "https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g"
-    },
-    {
-      "added_at": "2023-12-04 19:34:02",
-      "album": {
-        "name": "COULD BE WRONG",
-        "url": "https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP"
-      },
-      "artists": [
-        {
-          "name": "LOSTBOYJAY",
-          "url": "https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL"
-        }
-      ],
-      "duration_ms": 186046,
-      "name": "COULD BE WRONG",
-      "url": "https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu"
     },
     {
       "added_at": "2023-12-04 19:34:02",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-12-04 19:34:02",
       "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 242880,
-      "name": "Redlight",
-      "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
-    },
-    {
-      "added_at": "2023-12-04 19:34:02",
-      "album": {
         "name": "Cognition",
         "url": "https://open.spotify.com/album/6T8lsInCHvVedcVchEBS2l"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 226206,
       "name": "Used To This",
       "url": "https://open.spotify.com/track/1iL5lMhZdMmVg34AM6xQxx"
+    },
+    {
+      "added_at": "2023-12-04 19:34:02",
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 242880,
+      "name": "Redlight",
+      "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
     },
     {
       "added_at": "2023-12-04 19:34:02",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2023-12-04 19:34:02",
       "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        }
+      ],
+      "duration_ms": 188260,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/44xO8889yUQHn70P73NILS"
+    },
+    {
+      "added_at": "2023-12-04 19:34:02",
+      "album": {
         "name": "Jet Plane",
         "url": "https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 229282,
       "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
       "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
-    },
-    {
-      "added_at": "2023-12-04 19:34:02",
-      "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E"
-      },
-      "artists": [
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        }
-      ],
-      "duration_ms": 188260,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/44xO8889yUQHn70P73NILS"
     },
     {
       "added_at": "2023-12-04 19:34:02",

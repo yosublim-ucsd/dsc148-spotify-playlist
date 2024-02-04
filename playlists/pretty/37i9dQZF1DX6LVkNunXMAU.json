@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Paola Navarrete & Adanowsky.",
-  "num_followers": 56553,
+  "num_followers": 56559,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDM3MjI5ZTVmODFhY2NiMmVjM2ZjY2ViNTY3MmQwZThjMjA2YmI0",
+  "snapshot_id": "MCxjYTcyMGI1YWI4MjU3MDRjYmMwY2E3NTAwOGVlNWE3NDYyOTZhZjI0",
   "tracks": [
     {
       "added_at": "2024-02-01 19:52:25",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Soda de Uva",
-        "url": "https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 162077,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
         "name": "Me Gustas Tanto (Remix)",
         "url": "https://open.spotify.com/album/76AkbUyhoc5LgqeroxLXw4"
       },
@@ -371,6 +355,22 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
+        "name": "Soda de Uva",
+        "url": "https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 162077,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
         "name": "Para Siempre Joven",
         "url": "https://open.spotify.com/album/5umvuDuDhHfv6mrfwKtqm7"
       },
@@ -387,6 +387,22 @@
       "duration_ms": 201667,
       "name": "Para Siempre Joven",
       "url": "https://open.spotify.com/track/2Uv1xKRSxG7Z5XUoEKAVIt"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
+        "name": "Pensando en Ti",
+        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -671,22 +687,6 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Para\u00edso Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ"
-      },
-      "artists": [
-        {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
-        }
-      ],
-      "duration_ms": 206777,
-      "name": "M\u00fasica de Computadora",
-      "url": "https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
         "name": "Alguien Como T\u00fa",
         "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 237978,
       "name": "Alguien Como T\u00fa",
       "url": "https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
+        "name": "Para\u00edso Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ"
+      },
+      "artists": [
+        {
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+        }
+      ],
+      "duration_ms": 206777,
+      "name": "M\u00fasica de Computadora",
+      "url": "https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -935,6 +951,22 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
+      },
+      "artists": [
+        {
+          "name": "Mayra C\u00e1rdenas",
+          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
+        }
+      ],
+      "duration_ms": 245217,
+      "name": "Negro",
+      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
         "name": "NUNCA DA IGUAL",
         "url": "https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu"
       },
@@ -975,22 +1007,6 @@
       "duration_ms": 172725,
       "name": "El Plan Mayor",
       "url": "https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
-        "name": "Negro",
-        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
-      },
-      "artists": [
-        {
-          "name": "Mayra C\u00e1rdenas",
-          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
-        }
-      ],
-      "duration_ms": 245217,
-      "name": "Negro",
-      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1091,6 +1107,22 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
+        "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+        "url": "https://open.spotify.com/album/2AonQQKJGi66GsGSaajA7L"
+      },
+      "artists": [
+        {
+          "name": "Marina Wil",
+          "url": "https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4"
+        }
+      ],
+      "duration_ms": 214010,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/1oFbEDVpdRzwHzHUFzvYXB"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
         "name": "Suerte para m\u00ed",
         "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
       },
@@ -1107,22 +1139,6 @@
       "duration_ms": 183786,
       "name": "Suerte para m\u00ed",
       "url": "https://open.spotify.com/track/464idwypVzujFVCo6XdgeI"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
-        "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-        "url": "https://open.spotify.com/album/2AonQQKJGi66GsGSaajA7L"
-      },
-      "artists": [
-        {
-          "name": "Marina Wil",
-          "url": "https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4"
-        }
-      ],
-      "duration_ms": 214010,
-      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-      "url": "https://open.spotify.com/track/1oFbEDVpdRzwHzHUFzvYXB"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
         "name": "Los Abrazos son Instantes Decisivos Vol. II",
         "url": "https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 224492,
       "name": "Polvo de estrellas",
       "url": "https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Pensando en Ti",
-        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Vosque",
+          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
         }
       ],
-      "duration_ms": 173206,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
+      "duration_ms": 213159,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1259,22 +1275,6 @@
       "duration_ms": 182866,
       "name": "Cu\u00e9ntanos Lo Que Pas\u00f3\u2026",
       "url": "https://open.spotify.com/track/2qNkCvTOfJFdXglLsjzwBO"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
-      },
-      "artists": [
-        {
-          "name": "Vosque",
-          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1563,22 +1563,22 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Perderse (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5AsFyNt74exZrhSxo1pAXn"
+        "name": "Particular",
+        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Soubir\u00f3n",
-          "url": "https://open.spotify.com/artist/4fr7eMVVZXNnqlYVchk8YP"
+          "name": "TORO",
+          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
         },
         {
-          "name": "Josearmen",
-          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
         }
       ],
-      "duration_ms": 193082,
-      "name": "Perderse - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5cIBKumn6Q2taeTNlJTKYe"
+      "duration_ms": 165808,
+      "name": "Particular",
+      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1627,22 +1627,22 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Particular",
-        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
+        "name": "Perderse (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5AsFyNt74exZrhSxo1pAXn"
       },
       "artists": [
         {
-          "name": "TORO",
-          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
+          "name": "Jos\u00e9 Soubir\u00f3n",
+          "url": "https://open.spotify.com/artist/4fr7eMVVZXNnqlYVchk8YP"
         },
         {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+          "name": "Josearmen",
+          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
         }
       ],
-      "duration_ms": 165808,
-      "name": "Particular",
-      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
+      "duration_ms": 193082,
+      "name": "Perderse - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5cIBKumn6Q2taeTNlJTKYe"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Cuando Estemos Solos",
-        "url": "https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        }
-      ],
-      "duration_ms": 193025,
-      "name": "Cuando Estemos Solos",
-      "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
         "name": "Lo Que Hicimos",
         "url": "https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh"
       },
@@ -1699,6 +1683,46 @@
       "duration_ms": 157725,
       "name": "Lo Que Hicimos",
       "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
+        "name": "Cuando Estemos Solos",
+        "url": "https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        }
+      ],
+      "duration_ms": 193025,
+      "name": "Cuando Estemos Solos",
+      "url": "https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
+        "name": "Volc\u00e1n",
+        "url": "https://open.spotify.com/album/4ii6T1Fyt693umGZcYzhP3"
+      },
+      "artists": [
+        {
+          "name": "Agata Prisma",
+          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
+        },
+        {
+          "name": "Leo Salinas",
+          "url": "https://open.spotify.com/artist/3AyxootFsf60iAcaQlOawD"
+        },
+        {
+          "name": "Paula P\u00e1vez",
+          "url": "https://open.spotify.com/artist/2aJMvTqheNrisBUbV9zDPM"
+        }
+      ],
+      "duration_ms": 236086,
+      "name": "Volc\u00e1n",
+      "url": "https://open.spotify.com/track/4GxXdJPyw9IPuhBw7wyTNM"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1771,26 +1795,6 @@
       "duration_ms": 219834,
       "name": "Noche Tem\u00e1tica",
       "url": "https://open.spotify.com/track/7k6lLVdDN1pczDJzUhm4n7"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
-        "name": "Nuestras Formas",
-        "url": "https://open.spotify.com/album/30TBSDnmG0b4mjZHuUeXYE"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        },
-        {
-          "name": "Peperina",
-          "url": "https://open.spotify.com/artist/3lDXYMlB5VIBZdLoIZNC2r"
-        }
-      ],
-      "duration_ms": 151653,
-      "name": "Nuestras Formas",
-      "url": "https://open.spotify.com/track/3FsYdqpzwud7ZRjLRHi21S"
     },
     {
       "added_at": "2024-02-01 19:52:25",

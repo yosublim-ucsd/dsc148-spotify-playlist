@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,492 likes - 150 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,550 likes - 150 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 9 | [Deep Stays Down](https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:19 |
 | 10 | [Voodoo Woman \- Album Outtake](https://open.spotify.com/track/6py94KJo9s8JN9aj4cbkMu) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Voodoo Woman](https://open.spotify.com/album/6fakYyAJYgpmeKBsZ6sqZU) | 3:57 |
 | 11 | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/track/001c1daR1pFdqfpe1vAWzh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/album/1GCjwU2CejKwooZG68QBqb) | 5:22 |
-| 12 | [Wondering Why](https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wondering Why](https://open.spotify.com/album/5WtlaMCff9QS0I76EE7lge) | 3:52 |
+| 12 | [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 |
 | 13 | [Nashville Money](https://open.spotify.com/track/36XYWC37Rai5NjYNP8OHfD) | [Myron Elkins](https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi) | [Factories, Farms & Amphetamines](https://open.spotify.com/album/3ZUO4WvP0zVHg0vdchYGTr) | 3:33 |
 | 14 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 |
 | 15 | [Scared Money](https://open.spotify.com/track/77mszRgKKwWtTj5DvJrt85) | [Southall](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Scared Money](https://open.spotify.com/album/6aVoRUTwojtJp3dGw5PjEi) | 2:57 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 149 | [Breathing Bullets \- US Radio Mix](https://open.spotify.com/track/3afn6c2nBmPqogKrYO06qd) | [Owen Campbell](https://open.spotify.com/artist/3euYobDxHiDFZFGnVu23qe) | [Breathing Bullets \(US Radio Mix\)](https://open.spotify.com/album/3Kb4S90XjZF8qekzIc2Wbq) | 3:46 |
 | 150 | [I Killed Robert Johnson](https://open.spotify.com/track/7eogexfpzqrkrJ8Z6B9kHQ) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt) | 5:25 |
 
-Snapshot ID: `MCw4MTg1OWE4NzAzOGYxOWJkMDU4YTk0MjY3OGM5M2ZiMTYwZmI4Y2Jm`
+Snapshot ID: `MCwxZDI2NjYwZjdjNDRkYTk1YjlkOGJlN2FiYmExMmMzZmE3MTVhY2Ey`

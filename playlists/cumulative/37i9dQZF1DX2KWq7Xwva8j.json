@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "El futuro est\u00e1 aqu\u00ed. Foto: Yarea",
+  "description": "El futuro est\u00e1 aqu\u00ed. Foto: Mushkaa",
   "name": "RADAR Espa\u00f1a",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 201903,
       "name": "22:22",
       "url": "https://open.spotify.com/track/6sgvEizEWx78hraou2YH1t"
@@ -1105,6 +1105,28 @@
     },
     {
       "album": {
+        "name": "SexySensible",
+        "url": "https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164138,
+      "name": "El Disfraz",
+      "url": "https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2"
+    },
+    {
+      "album": {
         "name": "En Dos",
         "url": "https://open.spotify.com/album/7AMe9ECyROJ6z0mQCQUjQ2"
       },
@@ -1817,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "los chicos no lloran",
+        "url": "https://open.spotify.com/album/7uKY4Ga9A9LDtaAWG7hV2H"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198674,
+      "name": "los chicos no lloran",
+      "url": "https://open.spotify.com/track/2jD6X6gSLtynew2xj6qHRt"
+    },
+    {
+      "album": {
         "name": "Los Ni\u00f1os del Parque",
         "url": "https://open.spotify.com/album/6hkJjr8eUF53zDqxXcc4Lf"
       },
@@ -1988,7 +2028,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 121674,
       "name": "Me Gustas Tanto",
       "url": "https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P"

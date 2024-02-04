@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: \u00c1ngela Aguilar",
-  "num_followers": 80220,
+  "num_followers": 80271,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmUyZWU1OTQxOWI5YzEwMjlkZjI5NGRkMDYwZGMwMTE2OGU3OTE5",
+  "snapshot_id": "MCw5MjJlMzg1YjdmZWViZDk2ZWE5ZDY0MDkxY2UyMGIyZjFmMmUzMzgw",
   "tracks": [
     {
       "added_at": "2024-02-02 15:45:34",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-02-02 15:45:34",
       "album": {
+        "name": "Diablo",
+        "url": "https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP"
+      },
+      "artists": [
+        {
+          "name": "MIA",
+          "url": "https://open.spotify.com/artist/364nwDA1paIChosKjuNMV3"
+        }
+      ],
+      "duration_ms": 191750,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6"
+    },
+    {
+      "added_at": "2024-02-02 15:45:34",
+      "album": {
         "name": "Ojos de Serpiente",
         "url": "https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 236200,
       "name": "traguito",
       "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
-    },
-    {
-      "added_at": "2024-02-02 15:45:34",
-      "album": {
-        "name": "Diablo",
-        "url": "https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP"
-      },
-      "artists": [
-        {
-          "name": "MIA",
-          "url": "https://open.spotify.com/artist/364nwDA1paIChosKjuNMV3"
-        }
-      ],
-      "duration_ms": 191750,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6"
     },
     {
       "added_at": "2024-02-02 15:45:34",

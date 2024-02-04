@@ -730,10 +730,28 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 256255,
       "name": "O Amor Que Cura",
       "url": "https://open.spotify.com/track/27kYyisy1Or7SFxUdyWZIL"
+    },
+    {
+      "album": {
+        "name": "O Amor Que Cura (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261999,
+      "name": "O Amor Que Cura - Ao Vivo",
+      "url": "https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG"
     },
     {
       "album": {
@@ -1148,10 +1166,28 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 269739,
       "name": "Romanos 8:26 (Ao Vivo)",
       "url": "https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG"
+    },
+    {
+      "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269739,
+      "name": "Romanos 8:26 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5FLqZs5pQa9XXtcdbfILsa"
     },
     {
       "album": {
@@ -1450,7 +1486,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 334506,
       "name": "\u00c9s Real Pra Mim",
       "url": "https://open.spotify.com/track/1lkGggSQYb4s6JKDuR9xfm"

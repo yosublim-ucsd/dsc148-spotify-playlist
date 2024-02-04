@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-179 songs - 13 hr 2 min
+180 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,8 +117,9 @@
 | [Papa Tau \(A Tribute to Papa Tau Moe\)](https://open.spotify.com/track/4gE7Vsah50s9rAjaEHrHw5) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Hawaii to Calcutta: A Tribute to Tau Moe](https://open.spotify.com/album/3SHQeIFw6Sk5gPg7yelWul) | 6:08 | 2022-04-04 | 2022-07-29 |
 | [Papa Tau \(A Tribute to Papa Tau Moe\)](https://open.spotify.com/track/4ALOB46Dbms57RBlFE3y5N) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Hawaii to Calcutta: A Tribute to Tau Moe](https://open.spotify.com/album/73rdAlOupP5QlbpZsLuD9Q) | 6:08 | 2022-07-18 | 2023-04-29 |
 | [Papa Tau \(A Tribute to Papa Tau Moe\)](https://open.spotify.com/track/7aJUSnGZYW4S5YsGu6hYei) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Hawaii to Calcutta: A Tribute to Tau Moe](https://open.spotify.com/album/1Cp0LRQxzKZ2PbG8lNYGr7) | 6:08 | 2023-04-28 |  |
-| [Peace](https://open.spotify.com/track/0JQ0zIQxvpz8XvMphwdRZj) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub) | 5:05 | 2022-10-08 |  |
+| [Peace](https://open.spotify.com/track/0JQ0zIQxvpz8XvMphwdRZj) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub) | 5:05 | 2022-10-08 | 2024-02-04 |
 | [Peace](https://open.spotify.com/track/2G05MCwb1Cnk1csGaU3ZY5) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion Collection 1 \- Blessings of the Heart](https://open.spotify.com/album/02CVgMWdeo6X7VfqajyEry) | 5:05 | 2022-04-04 | 2022-07-29 |
+| [Peace](https://open.spotify.com/track/5Ap8FLACa9WqPzIxmI4jki) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/3JXXSLswIpf1GNoptaXXvx) | 5:05 | 2023-12-04 |  |
 | [Peace](https://open.spotify.com/track/5afSZKizZ8G9PFX9FOrLCA) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/3vERpdSCKMGDzreizY178B) | 5:05 | 2022-07-18 | 2022-10-14 |
 | [Peaceful Being](https://open.spotify.com/track/6IKGWm6XdJMs8YxMh2wr8W) | [Maneesh de Moor](https://open.spotify.com/artist/7CUmdcvfZJrSsg4jnNNwHA) | [Sadhana](https://open.spotify.com/album/1oZRS0AoopzdEbW623lcRZ) | 5:28 | 2022-04-04 |  |
 | [Pipers](https://open.spotify.com/track/7wDZOZiMJxjOH8R9Xv6yvw) | [Yakamora](https://open.spotify.com/artist/5aAi2J1r2GmSXMeiG20jJp) | [Pipers](https://open.spotify.com/album/6wh12iQPshA8QQq7Xtunc3) | 4:06 | 2022-04-04 |  |

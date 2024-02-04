@@ -4,7 +4,7 @@
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-73 songs - 3 hr 47 min
+74 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Ride Out](https://open.spotify.com/track/59PL9AwYjIrIpP04n9gmMR) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Furious 7: Original Motion Picture Soundtrack](https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm) | 3:31 | 2023-06-07 |  |
 | [Rubber Band Man](https://open.spotify.com/track/6D4HaQHb9fWjDn60o98rTO) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Hit Me When U Leave The Klub: The Playlist](https://open.spotify.com/album/46ewpqal8NF1SSkarlK7FZ) | 2:32 | 2023-11-10 | 2023-12-14 |
 | [Run \(feat\. Tyga, 21 Savage & BIA\)](https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Run](https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv) | 3:57 | 2023-06-07 | 2023-08-07 |
+| [Sensei](https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sensei](https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu) | 1:58 | 2024-02-03 |  |
 | [Sheikh Talk](https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sheikh Talk](https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi) | 2:40 | 2023-06-07 |  |
 | [Skechers \(feat\. Tyga\) \- Remix](https://open.spotify.com/track/4KppkflX7I3vJQk7urOJaS) | [DripReport](https://open.spotify.com/artist/3O5HD95HTEPgoPFOjAb7yV), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Skechers \(feat\. Tyga\) \[Remix\]](https://open.spotify.com/album/4y9V5m70YgbZTYNZBsiXBM) | 2:43 | 2023-12-13 | 2024-01-11 |
 | [soak city \(feat\. Mustard, OhGeesy & BlueBucksClan\)](https://open.spotify.com/track/2EYdheS1WcwbBv8bRmbvvW) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [soak city \(feat\. Mustard, OhGeesy & BlueBucksClan\)](https://open.spotify.com/album/3htlZheOSXN2DdT7L1HtDF) | 4:14 | 2023-09-15 |  |

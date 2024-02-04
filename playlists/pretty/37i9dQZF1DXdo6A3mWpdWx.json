@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Jennifer Lopez.",
-  "num_followers": 779192,
+  "num_followers": 780143,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2QwYzExMDczNGZkZGY0YTMyZTU2MzBmM2ZkOTIwN2MxNGJhM2I3",
+  "snapshot_id": "MCwzMDlhZTMxNjdlZWZkMDliNmRiN2U3YzAzMzk3OTY4MWEzODIzMmFh",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Saturday Night Single",
-        "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
-      },
-      "artists": [
-        {
-          "name": "Whigfield",
-          "url": "https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq"
-        }
-      ],
-      "duration_ms": 247405,
-      "name": "Saturday Night - Radio Mix",
-      "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Love Hurts",
         "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 170000,
       "name": "The Shoop Shoop Song (It's In His Kiss)",
       "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Saturday Night Single",
+        "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
+      },
+      "artists": [
+        {
+          "name": "Whigfield",
+          "url": "https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq"
+        }
+      ],
+      "duration_ms": 247405,
+      "name": "Saturday Night - Radio Mix",
+      "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Life Thru A Lens",
-        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Let Me Entertain You",
-      "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 290493,
       "name": "Hey Boy Hey Girl",
       "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Life Thru A Lens",
+        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Let Me Entertain You",
+      "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 328680,
-      "name": "Da Funk",
-      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "The Power",
         "url": "https://open.spotify.com/album/02RKBqDzmc2uSo3L1CZM04"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 227030,
       "name": "The Power (7\" Version)",
       "url": "https://open.spotify.com/track/0gRhXiFgrIz8OfSW4up1k1"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 328680,
+      "name": "Da Funk",
+      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1883,6 +1883,26 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "You Don't Know Me (feat. Duane Harden)",
+        "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Duane Harden",
+          "url": "https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
+      "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "No Time To Chill",
         "url": "https://open.spotify.com/album/0sFHr1bZ6mPOnICWWRJA01"
       },
@@ -1915,22 +1935,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "You Don't Know Me (feat. Duane Harden)",
-        "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
+        "name": "There Is a Party",
+        "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
       },
       "artists": [
         {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Duane Harden",
-          "url": "https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0"
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
         }
       ],
-      "duration_ms": 242333,
-      "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
-      "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"
+      "duration_ms": 241066,
+      "name": "Let the Dream Come True",
+      "url": "https://open.spotify.com/track/1ZMrT3IGGyTCvZg4Ijuxzs"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1951,18 +1967,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "There Is a Party",
-        "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
+        "name": "Experience: Expanded",
+        "url": "https://open.spotify.com/album/4Ch1rT1sIURz12ZVKH0a4p"
       },
       "artists": [
         {
-          "name": "DJ BoBo",
-          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
         }
       ],
-      "duration_ms": 241066,
-      "name": "Let the Dream Come True",
-      "url": "https://open.spotify.com/track/1ZMrT3IGGyTCvZg4Ijuxzs"
+      "duration_ms": 302106,
+      "name": "Out of Space",
+      "url": "https://open.spotify.com/track/5D6mTwP8jlAaLPbuHSZadz"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1995,22 +2011,6 @@
       "duration_ms": 252133,
       "name": "Macarena - Bayside Boys Remix",
       "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Experience: Expanded",
-        "url": "https://open.spotify.com/album/4Ch1rT1sIURz12ZVKH0a4p"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 302106,
-      "name": "Out of Space",
-      "url": "https://open.spotify.com/track/5D6mTwP8jlAaLPbuHSZadz"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Whoomp! There It Is (Radio Edit)",
+        "url": "https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw"
+      },
+      "artists": [
+        {
+          "name": "Tag Team",
+          "url": "https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Whoomp! There It Is - Radio Edit",
+      "url": "https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Peaceful Journey",
         "url": "https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY"
       },
@@ -2155,22 +2171,6 @@
       "duration_ms": 258200,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Whoomp! There It Is (Radio Edit)",
-        "url": "https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw"
-      },
-      "artists": [
-        {
-          "name": "Tag Team",
-          "url": "https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Whoomp! There It Is - Radio Edit",
-      "url": "https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "duration_ms": 209803,
+      "name": "Back in My Life",
+      "url": "https://open.spotify.com/track/557q3cfw95ChPhoupTVUUZ"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Secrets (Remix Package)",
         "url": "https://open.spotify.com/album/0Uy6GD6CqvEkWAdzxy7S1x"
       },
@@ -2291,22 +2307,6 @@
       "duration_ms": 267400,
       "name": "Un-Break My Heart - Classic Radio Mix",
       "url": "https://open.spotify.com/track/5lxWBU8FM7pqidZcDsgvb3"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Who Needs Guitars Anyway?",
-        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
-      },
-      "artists": [
-        {
-          "name": "Alice Deejay",
-          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
-        }
-      ],
-      "duration_ms": 209803,
-      "name": "Back in My Life",
-      "url": "https://open.spotify.com/track/557q3cfw95ChPhoupTVUUZ"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2391,6 +2391,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Tom's Diner",
+        "url": "https://open.spotify.com/album/3iaUAs1zHrPBaYIpLmskEV"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+        }
+      ],
+      "duration_ms": 133400,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/0LpF3BJplNYWei6BmgZJwq"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
       },
@@ -2403,26 +2419,6 @@
       "duration_ms": 247001,
       "name": "Everybody Everybody",
       "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "This Is How We Do It",
-        "url": "https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ"
-      },
-      "artists": [
-        {
-          "name": "Montell Jordan",
-          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
-        },
-        {
-          "name": "Wino",
-          "url": "https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx"
-        }
-      ],
-      "duration_ms": 277293,
-      "name": "This Is How We Do It",
-      "url": "https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2443,18 +2439,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Tom's Diner",
-        "url": "https://open.spotify.com/album/3iaUAs1zHrPBaYIpLmskEV"
+        "name": "This Is How We Do It",
+        "url": "https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ"
       },
       "artists": [
         {
-          "name": "Suzanne Vega",
-          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+          "name": "Montell Jordan",
+          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
+        },
+        {
+          "name": "Wino",
+          "url": "https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx"
         }
       ],
-      "duration_ms": 133400,
-      "name": "Tom's Diner",
-      "url": "https://open.spotify.com/track/0LpF3BJplNYWei6BmgZJwq"
+      "duration_ms": 277293,
+      "name": "This Is How We Do It",
+      "url": "https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX"
     },
     {
       "added_at": "2022-10-11 00:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: JJJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,030 likes - 81 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,069 likes - 81 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 35 | [VEETHOV3N](https://open.spotify.com/track/4grS0qdeitPb5QSxuiVBSm) | [L.O.S.T](https://open.spotify.com/artist/1myOg2DWby1xHMKHDKRFPV), [M3R](https://open.spotify.com/artist/0YjscyVinO9rRbTTRSHIUm), [BiLL](https://open.spotify.com/artist/5TovkEpM2OxYnrXHz4COhv) | [VEETHOV3N](https://open.spotify.com/album/11gwuit4cLqR3mnEW2Z26L) | 2:44 |
 | 36 | [Skrrrby Doo \- Delux](https://open.spotify.com/track/2Q8i83kzoXTCNPqx4DBcuu) | [Playsson](https://open.spotify.com/artist/53zqQpFYtM8Z0N1KYdNjmp), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Real Trap 2 \(Delux\)](https://open.spotify.com/album/5pqqxStYqI2WwipOMtt0xe) | 2:12 |
 | 37 | [KARMA](https://open.spotify.com/track/2eDB6uccsr3tkfL8TnOE7n) | [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO), [Naothelaiza](https://open.spotify.com/artist/4E2QYdTcANut4Oga8XTUQQ), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [T.U.R.N\. \(Deluxe\)](https://open.spotify.com/album/6feeyV5zOG7aMFJnj6qitj) | 3:10 |
-| 38 | [WEATHERTEC](https://open.spotify.com/track/0bfQxDoay4S828CTlELHLr) | [Tha Jointz](https://open.spotify.com/artist/0J7djFMwBhnbgAN11Gggvg), [GOTU](https://open.spotify.com/artist/14UuKo9McStiWxcOOPvczh), [JNK](https://open.spotify.com/artist/7HYvkJOGJLSVOsyIxCJ4lY), [MFS](https://open.spotify.com/artist/5qH4hGRUWoLtBVgMD0alcb), [JASS](https://open.spotify.com/artist/4c25QyMjYv7MSQV24Qhofv), [WELL\-DONE](https://open.spotify.com/artist/5pBvGEECNZdaPCXcZGe8hQ), [KOH](https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb) | [WEATHERTEC](https://open.spotify.com/album/5danpSUvfdLUQuEGEQszrD) | 2:46 |
+| 38 | [WEATHERTEC](https://open.spotify.com/track/3nMGzAkZ2ICWyILMH4nTSQ) | [Tha Jointz](https://open.spotify.com/artist/0J7djFMwBhnbgAN11Gggvg), [GOTU](https://open.spotify.com/artist/14UuKo9McStiWxcOOPvczh), [JNK](https://open.spotify.com/artist/7HYvkJOGJLSVOsyIxCJ4lY), [MFS](https://open.spotify.com/artist/5qH4hGRUWoLtBVgMD0alcb), [JASS](https://open.spotify.com/artist/5PYaF7q6SqPMfWFqiFSHNw), [WELL\-DONE](https://open.spotify.com/artist/5pBvGEECNZdaPCXcZGe8hQ), [KOH](https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb) | [WEATHERTEC](https://open.spotify.com/album/0UCZdQLgbX3E7XoZ63kJEV) | 2:46 |
 | 39 | [Carnival](https://open.spotify.com/track/77WtzFdjX0hWD5OthFOCMO) | [CK the Shake](https://open.spotify.com/artist/3JnlT2qWcBqH8Bd6LCsFxs), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1), [J'Da Skit](https://open.spotify.com/artist/2JoqX2KHh4qjreZpCZHAwL) | [Carnival](https://open.spotify.com/album/71j13DGYOWnEiIFxsvxZZt) | 2:50 |
 | 40 | [6 Years In The Game \(feat\. Awich\)](https://open.spotify.com/track/5Xdkl9fc87XMF17yspWsdj) | [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [6 Years In The Game \(feat\. Awich\)](https://open.spotify.com/album/1KvJrTQgijVXODRXF59v6K) | 4:13 |
 | 41 | [Lovers & Friends](https://open.spotify.com/track/6YghSDBOpbzqFj7PymW93D) | [Ym3boi](https://open.spotify.com/artist/200hgruptiem9UnOCoU2fg) | [Lovers & Friends](https://open.spotify.com/album/2DD1Xy3CjEcsepJEBStfGg) | 2:33 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 80 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 |
 | 81 | [Do u remember me](https://open.spotify.com/track/3M8hUUiLXqKkk4PCh1KZJN) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape 2](https://open.spotify.com/album/0f5URCBlzbh7u7TuSduM6n) | 3:28 |
 
-Snapshot ID: `MCwwYzZiYTliZGNhMDMwZjgyN2ZkZDJiNTc2NDc1ZjFjZDQyODM0MzBm`
+Snapshot ID: `MCw4NDkyNzdmMmExZDcwYjRlMWJhZDFjNjM3NDRiM2I1NDgzNjE3MzU4`

@@ -4,7 +4,7 @@
 
 > Uplifting anthems to power you through 'til the weekend.
 
-479 songs - 1 day 4 hr 53 min
+480 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,8 @@
 | [Safe And Sound](https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:12 | 2019-08-06 | 2019-08-08 |
 | [Sax](https://open.spotify.com/track/20dJUFrfY0TBZ7HHhJgjsg) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Sax](https://open.spotify.com/album/5rywm2MmNo44XiEXaVyMJ8) | 3:56 | 2020-08-27 | 2023-05-12 |
 | [Sax](https://open.spotify.com/track/2IFl6p0LoIfIZOn5IaxZOO) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Love, Sax & Flashbacks \(Track by Track\)](https://open.spotify.com/album/1nFgJpjh2doGfve56uADlm) | 3:56 | 2020-02-18 | 2022-07-29 |
-| [Sax](https://open.spotify.com/track/2spGtGG6aNK8Rsj6bf79py) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Love, Sax and Flashbacks](https://open.spotify.com/album/7HWc06QmkhSe9sif36Mm1i) | 3:56 | 2020-08-27 |  |
+| [Sax](https://open.spotify.com/track/2lqgZDZnlXmVZgToWuoC0l) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Love, Sax and Flashbacks \(Deluxe\)](https://open.spotify.com/album/07dWJeuKJEHbVrAwTGqnKc) | 3:56 | 2020-08-27 |  |
+| [Sax](https://open.spotify.com/track/2spGtGG6aNK8Rsj6bf79py) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Love, Sax and Flashbacks](https://open.spotify.com/album/7HWc06QmkhSe9sif36Mm1i) | 3:56 | 2020-08-27 | 2024-02-04 |
 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 | 2019-08-05 | 2019-08-06 |
 | [Send Me on My Way](https://open.spotify.com/track/6hs3SDnbO3f6VQuPO4KBEb) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [Music From Party of Five](https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3) | 4:23 | 2020-02-18 |  |
 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 3:43 | 2020-08-27 |  |

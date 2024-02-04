@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Simply Texas blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,067 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,133 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 27 | [Shake](https://open.spotify.com/track/4hB2r4trPkpdHTVinASchh) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 3:17 |
 | 28 | [Let The Good Times Roll](https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Things I Used To Do](https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA) | 2:53 |
 | 29 | [Me And My Guitar](https://open.spotify.com/track/0QpxUzXEI3ZjJeo6dDFgV7) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:04 |
-| 30 | [My Way Down](https://open.spotify.com/track/2VZYQKBRyGQdVMrzUhRf7J) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Texas Sugar Strat Magik](https://open.spotify.com/album/6nsMGqPX8iHHB7FN8XaO6p) | 4:36 |
-| 31 | [Pay the Band](https://open.spotify.com/track/7nVvyXdvMJ8Ocaravj5edN) | [Buddy Whittington](https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS) | [Buddy Whittington](https://open.spotify.com/album/4gnhWohgp2PfU6h7dYkXSp) | 4:33 |
+| 30 | [Pay the Band](https://open.spotify.com/track/7nVvyXdvMJ8Ocaravj5edN) | [Buddy Whittington](https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS) | [Buddy Whittington](https://open.spotify.com/album/4gnhWohgp2PfU6h7dYkXSp) | 4:33 |
+| 31 | [My Way Down](https://open.spotify.com/track/2VZYQKBRyGQdVMrzUhRf7J) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Texas Sugar Strat Magik](https://open.spotify.com/album/6nsMGqPX8iHHB7FN8XaO6p) | 4:36 |
 | 32 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 | 33 | [My Texas Home](https://open.spotify.com/track/16UV31f3UunkFqMOsIMU5n) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba) | 4:53 |
-| 34 | [Don't Lose My Number](https://open.spotify.com/track/7gcjudElezAMCD28CxD8cr) | [Smokin' Joe Kubek](https://open.spotify.com/artist/5XkftMVm7vxTLcj05etN6B), [Bnois King](https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1) | [Blood Brothers](https://open.spotify.com/album/3TYX7tmA1rKq7I8qOVuvFs) | 3:33 |
-| 35 | [Rolling With The Punches](https://open.spotify.com/track/0ECyZFXS02fUPW1AxMCUBQ) | [Johnny Copeland](https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL) | [Catch Up With The Blues](https://open.spotify.com/album/7j9s4SGnWipClu5teWbqqV) | 6:34 |
+| 34 | [Rolling With The Punches](https://open.spotify.com/track/0ECyZFXS02fUPW1AxMCUBQ) | [Johnny Copeland](https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL) | [Catch Up With The Blues](https://open.spotify.com/album/7j9s4SGnWipClu5teWbqqV) | 6:34 |
+| 35 | [Don't Lose My Number](https://open.spotify.com/track/7gcjudElezAMCD28CxD8cr) | [Smokin' Joe Kubek](https://open.spotify.com/artist/5XkftMVm7vxTLcj05etN6B), [Bnois King](https://open.spotify.com/artist/17jKRJyvcPLKu8GrxAwff1) | [Blood Brothers](https://open.spotify.com/album/3TYX7tmA1rKq7I8qOVuvFs) | 3:33 |
 | 36 | [Since I Met You Baby](https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR) | [Omar Kent Dykes](https://open.spotify.com/artist/68ltmxNcXSeODTeh0YYuAF), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Big Town Playboy](https://open.spotify.com/album/37wiuEczE2EcWPci1VIZKH) | 3:20 |
 | 37 | [Sugar Coated Love](https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [Read My Lips](https://open.spotify.com/album/6SjrPRIoiQnQsokUpFc5hN) | 3:56 |
 | 38 | [Starting All Over](https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N) | [Tutu Jones](https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L) | [Inside Out](https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 49 | [Shakin' Dem Bones](https://open.spotify.com/track/6kz99KqDf43kfDGF2R7qsf) | [U.P\. Wilson](https://open.spotify.com/artist/6Nuiw9n4KzWqrcfn2m4u3F) | [Best Of \- The Texas Blues Guitar Tornado](https://open.spotify.com/album/3YNjUN1C7ZqYanMOcKdcOs) | 3:47 |
 | 50 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 
-Snapshot ID: `MCxjNzg1ZDEyY2Y0NzE4MWExMTJjMGUxMGY3OTQyM2YzMzI1OGQ0MzEy`
+Snapshot ID: `MCw3OWE1MzhkZDAwN2JjNjNkODYyNWYxMjE4MjgxMDgyNmYxMzBiNzU3`

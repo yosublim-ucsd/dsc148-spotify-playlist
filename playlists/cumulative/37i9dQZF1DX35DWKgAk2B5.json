@@ -1860,6 +1860,24 @@
     {
       "album": {
         "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220160,
+      "name": "Helicopter",
+      "url": "https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr"
+    },
+    {
+      "album": {
+        "name": "Silent Alarm",
         "url": "https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB"
       },
       "artists": [
@@ -1874,24 +1892,6 @@
       "duration_ms": 220173,
       "name": "Helicopter",
       "url": "https://open.spotify.com/track/4kxYIvDIpWTrZgHn3sYxxC"
-    },
-    {
-      "album": {
-        "name": "Silent Alarm",
-        "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "date_added": "2022-01-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220573,
-      "name": "Helicopter",
-      "url": "https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr"
     },
     {
       "album": {

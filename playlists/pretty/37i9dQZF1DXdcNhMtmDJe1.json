@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 83569,
+  "num_followers": 83596,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2YzYjRmZmFjMGJiYjAzY2YzZWU5NmVkN2QyMTYyOWM1OTc4MjY2",
+  "snapshot_id": "MCxiOGU2MzFkOTFlZjU3YTczMzMwMzc2NDE4ODFlNThiNDFiZDA4ZmIx",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin Take Two",
-        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Simon Tedeschi",
-          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
-        }
-      ],
-      "duration_ms": 47426,
-      "name": "I'll Build a Stairway to Paradise",
-      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
         "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 417640,
       "name": "Strike Up the Band: Overture (arr. D. Rose for orchestra)",
       "url": "https://open.spotify.com/track/5jCqqnrR9X6NwbS6q3jgRc"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin Take Two",
+        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Simon Tedeschi",
+          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
+        }
+      ],
+      "duration_ms": 47426,
+      "name": "I'll Build a Stairway to Paradise",
+      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
     },
     {
       "added_at": "2022-08-05 04:02:00",

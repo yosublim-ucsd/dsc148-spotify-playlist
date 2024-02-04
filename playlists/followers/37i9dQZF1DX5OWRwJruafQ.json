@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 76851,
+  "2024-02-04": 76877,
   "date_first_scraped": "2023-03-30",
   "description": "Keep it Punjabi, Keep it Real. Cover: Wazir Patar",
   "name": "Ghaint Flow",
@@ -2574,6 +2574,24 @@
     },
     {
       "album": {
+        "name": "Chobar",
+        "url": "https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163298,
+      "name": "Hot Shit",
+      "url": "https://open.spotify.com/track/5olluo8Xh733gDwhmchDlp"
+    },
+    {
+      "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/55nYYOQPH0AUrbfsV0Nhgl"
       },
@@ -3303,7 +3321,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 148277,
       "name": "Katal Hai",
       "url": "https://open.spotify.com/track/0ppQ1j4cxF7ASw4wI9xa07"
@@ -5405,7 +5423,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 188110,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/1n7t90EHOJGQWhiJqo5mYi"
@@ -6171,6 +6189,24 @@
       "duration_ms": 236168,
       "name": "Watch Out",
       "url": "https://open.spotify.com/track/3ZzUOWnQuNxenx2MbZqtYq"
+    },
+    {
+      "album": {
+        "name": "Chobar",
+        "url": "https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160631,
+      "name": "Way Bigger",
+      "url": "https://open.spotify.com/track/1HJhiNWURFxcHbCdQ2y7jt"
     },
     {
       "album": {

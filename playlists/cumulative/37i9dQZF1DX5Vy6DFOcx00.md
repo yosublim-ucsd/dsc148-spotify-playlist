@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,290 songs - 2 day 21 hr 28 min
+1,291 songs - 2 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1259,7 +1259,8 @@
 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 | 2023-10-11 | 2023-10-28 |
 | [Wobble](https://open.spotify.com/track/6JLcz9UGiVxAmEZXlCucn5) | [V.I.C.](https://open.spotify.com/artist/49mHZzhcsoQB1JXWv8Q9gU) | [Beast](https://open.spotify.com/album/2xaFAO5ejxbxjL5gund9Dk) | 5:21 | 2022-11-01 | 2022-11-16 |
 | [Womp Womp](https://open.spotify.com/track/1G5ho820Xi2Qu3HsBZ26ft) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Womp Womp](https://open.spotify.com/album/7o66H14uvkdLb6dI866lOW) | 3:46 | 2022-01-09 | 2022-02-14 |
-| [Wondering Why](https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:52 | 2023-11-15 |  |
+| [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 | 2023-11-15 |  |
+| [Wondering Why](https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:52 | 2023-11-15 | 2024-02-04 |
 | [Woo](https://open.spotify.com/track/3HQcsqRjRdruUjkbDSgmVF) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:55 | 2022-06-03 | 2023-04-01 |
 | [Work](https://open.spotify.com/track/3yx6eryOZgO54bt3B671cn) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:43 | 2024-01-04 |  |
 | [Work Song](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:49 | 2023-07-17 | 2023-09-22 |

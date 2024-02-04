@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 89562,
+  "2024-02-04": 89641,
   "date_first_scraped": "2022-03-28",
   "description": "Walk the bridge between indie and folk. Cover: Abby Sage",
   "name": "Folk Arc",
@@ -1338,6 +1338,28 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289964,
+      "name": "Change (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
+    },
+    {
+      "album": {
         "name": "More Better",
         "url": "https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA"
       },
@@ -1353,7 +1375,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 240124,
       "name": "Changes (feat. Laura Elliott)",
       "url": "https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ"
@@ -2498,6 +2520,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
+    },
+    {
+      "album": {
         "name": "Same History, New Feelings",
         "url": "https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9"
       },
@@ -2705,6 +2745,24 @@
       "duration_ms": 208689,
       "name": "Gone",
       "url": "https://open.spotify.com/track/72wXVHnHpgRUYB8d8XhO9A"
+    },
+    {
+      "album": {
+        "name": "Good Stuff",
+        "url": "https://open.spotify.com/album/0UaN6Vd5pxhNe44APBIUUu"
+      },
+      "artists": [
+        {
+          "name": "Bnny",
+          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183320,
+      "name": "Good Stuff",
+      "url": "https://open.spotify.com/track/1aFPbPKOfsfgdZMmF3PQqt"
     },
     {
       "album": {
@@ -3897,7 +3955,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 217066,
       "name": "Lawn",
       "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
@@ -7385,7 +7443,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 235773,
       "name": "Visions",
       "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 
 > The Smashing Pumpkins au top des meilleurs morceaux rock du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,973 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,932 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 | 49 | [Engage](https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr) | [Rain Check](https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj) | [Engage](https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f) | 3:06 |
 | 50 | [Rearview](https://open.spotify.com/track/0eQEiz74qCxTqbprWu03og) | [HALF CAB](https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34) | [Rearview](https://open.spotify.com/album/1yAho8rcGoW4O1QXbObxyu) | 3:11 |
 
-Snapshot ID: `MCw0M2QxOTViMGQ3NmI3MDQ1MzBhM2JhYjVmYTQ1ZTYyYTE1YjY1NzE0`
+Snapshot ID: `MCw3NmRiMGQ4ZjhmNjYxMzIwNTkxOWU3ZDZmZWJhNTQwZDMzYTUzNDEy`

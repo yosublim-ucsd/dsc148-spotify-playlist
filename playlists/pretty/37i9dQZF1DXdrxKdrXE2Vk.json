@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. Cover: <a href=\"spotify:artist:3yAv8udgy9z6yF6rREcgfB\">Rock City Worship</a> ",
-  "num_followers": 887773,
+  "num_followers": 887806,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjY3MzgwNDg1NTQyOGRmODIyNzNlMTNhYTA5ZTdjMTc5NTY2YmQ2",
+  "snapshot_id": "MCwzNjlhYjM2M2Q4ZmYyZjdlMzdiMjc0YjZkMmU0MjQ3MDMwM2M5NzNm",
   "tracks": [
     {
       "added_at": "2024-01-12 07:43:13",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Better Hands",
-        "url": "https://open.spotify.com/album/2HE7p1vbiurUmc6dTuCGnJ"
+        "name": "Here For It",
+        "url": "https://open.spotify.com/album/09RjBOAUSdKzernJEEqxGy"
       },
       "artists": [
         {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+          "name": "VIVE Worship",
+          "url": "https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy"
         }
       ],
-      "duration_ms": 239480,
-      "name": "Better Hands",
-      "url": "https://open.spotify.com/track/2Hb74c1PVOMy5XYYUNIoU3"
+      "duration_ms": 510057,
+      "name": "Wind and Waves - Live",
+      "url": "https://open.spotify.com/track/55eZmwsHhxdBiv9Z8CVRY5"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Here For It",
-        "url": "https://open.spotify.com/album/09RjBOAUSdKzernJEEqxGy"
+        "name": "Better Hands",
+        "url": "https://open.spotify.com/album/2HE7p1vbiurUmc6dTuCGnJ"
       },
       "artists": [
         {
-          "name": "VIVE Worship",
-          "url": "https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy"
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
         }
       ],
-      "duration_ms": 510057,
-      "name": "Wind and Waves - Live",
-      "url": "https://open.spotify.com/track/55eZmwsHhxdBiv9Z8CVRY5"
+      "duration_ms": 239480,
+      "name": "Better Hands",
+      "url": "https://open.spotify.com/track/2Hb74c1PVOMy5XYYUNIoU3"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1039,18 +1039,22 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Lamb of God (Live)",
-        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
+        "name": "Only God (Live From Costa Mesa, CA, 2023)",
+        "url": "https://open.spotify.com/album/3FO3dV5JlM5oD4kINskNT4"
       },
       "artists": [
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Lucas McCloud",
+          "url": "https://open.spotify.com/artist/3O8ssrHqGYnyGdPg7nOGDJ"
         }
       ],
-      "duration_ms": 251612,
-      "name": "King of Calvary - Live",
-      "url": "https://open.spotify.com/track/0K1LaXw17T5uiHsclFVxiB"
+      "duration_ms": 436188,
+      "name": "Only God - Live From Costa Mesa, CA, 2023",
+      "url": "https://open.spotify.com/track/3aOEV0SCViQ61mrjIyzGP3"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1079,22 +1083,18 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Only God (Live From Costa Mesa, CA, 2023)",
-        "url": "https://open.spotify.com/album/3FO3dV5JlM5oD4kINskNT4"
+        "name": "Lamb of God (Live)",
+        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
       },
       "artists": [
         {
-          "name": "Circuit Rider Music",
-          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
-        },
-        {
-          "name": "Lucas McCloud",
-          "url": "https://open.spotify.com/artist/3O8ssrHqGYnyGdPg7nOGDJ"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 436188,
-      "name": "Only God - Live From Costa Mesa, CA, 2023",
-      "url": "https://open.spotify.com/track/3aOEV0SCViQ61mrjIyzGP3"
+      "duration_ms": 251612,
+      "name": "King of Calvary - Live",
+      "url": "https://open.spotify.com/track/0K1LaXw17T5uiHsclFVxiB"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "ALL AGES ADMITTED",
-        "url": "https://open.spotify.com/album/2MLykMg4A3Xurzk8kwjyNs"
-      },
-      "artists": [
-        {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
-        }
-      ],
-      "duration_ms": 380964,
-      "name": "Beautiful (Hidden Worlds) - Live",
-      "url": "https://open.spotify.com/track/3bnvYVdaSgf2NBVPz1aqUE"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
         "name": "Lamb of God (Live)",
         "url": "https://open.spotify.com/album/6291e3R6aw8Vy6FgoZ6aq2"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 335849,
       "name": "Lamb of God - Live",
       "url": "https://open.spotify.com/track/3Qh7WTXJYgxVG0lr2TUK6o"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
+        "name": "ALL AGES ADMITTED",
+        "url": "https://open.spotify.com/album/2MLykMg4A3Xurzk8kwjyNs"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        }
+      ],
+      "duration_ms": 380964,
+      "name": "Beautiful (Hidden Worlds) - Live",
+      "url": "https://open.spotify.com/track/3bnvYVdaSgf2NBVPz1aqUE"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "This Is How We Know What Love Is",
-        "url": "https://open.spotify.com/album/0Oy6Fd3YTLFPmWrvfPr9GG"
-      },
-      "artists": [
-        {
-          "name": "Anchor Hymns",
-          "url": "https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE"
-        },
-        {
-          "name": "Jasmine Mullen",
-          "url": "https://open.spotify.com/artist/4OxSdUYHCbfXU6J84jskDj"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "This Is How We Know What Love Is",
-      "url": "https://open.spotify.com/track/7Ang7ZFjMao4Xkiyl2M73v"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
         "name": "As The Deer / Nothing But The Blood (Live)",
         "url": "https://open.spotify.com/album/1tldcRrDJAaBSTtHQyY1Rx"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 391407,
       "name": "As The Deer / Nothing But The Blood - Live",
       "url": "https://open.spotify.com/track/0txOPgvIVpVZf8YosrjEx2"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
+        "name": "This Is How We Know What Love Is",
+        "url": "https://open.spotify.com/album/0Oy6Fd3YTLFPmWrvfPr9GG"
+      },
+      "artists": [
+        {
+          "name": "Anchor Hymns",
+          "url": "https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE"
+        },
+        {
+          "name": "Jasmine Mullen",
+          "url": "https://open.spotify.com/artist/4OxSdUYHCbfXU6J84jskDj"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "This Is How We Know What Love Is",
+      "url": "https://open.spotify.com/track/7Ang7ZFjMao4Xkiyl2M73v"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Gratitude: 10 Live Worship Songs From Spring Harvest 2022",
-        "url": "https://open.spotify.com/album/33QIgV6G5UIDN2neiShgyM"
-      },
-      "artists": [
-        {
-          "name": "Spring Harvest",
-          "url": "https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Greater Than It All - Live",
-      "url": "https://open.spotify.com/track/36v3znbKACA4BkhaUHSjbE"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
         "name": "Pour Over Me (Live)",
         "url": "https://open.spotify.com/album/3FOHB4HifsQur0uyQoOmTW"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 598000,
       "name": "Pour Over Me - Live",
       "url": "https://open.spotify.com/track/5Nzcv9MhQd8VkrvYgTy3IW"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
+        "name": "Gratitude: 10 Live Worship Songs From Spring Harvest 2022",
+        "url": "https://open.spotify.com/album/33QIgV6G5UIDN2neiShgyM"
+      },
+      "artists": [
+        {
+          "name": "Spring Harvest",
+          "url": "https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Greater Than It All - Live",
+      "url": "https://open.spotify.com/track/36v3znbKACA4BkhaUHSjbE"
     },
     {
       "added_at": "2024-01-12 07:43:13",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2024-01-12 07:43:13",
       "album": {
-        "name": "Pursuit (As The Deer) [Live]",
-        "url": "https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F"
-      },
-      "artists": [
-        {
-          "name": "Citipointe Worship",
-          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
-        },
-        {
-          "name": "Chardon Lewis",
-          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
-        }
-      ],
-      "duration_ms": 374437,
-      "name": "Pursuit (As The Deer) - Live",
-      "url": "https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa"
-    },
-    {
-      "added_at": "2024-01-12 07:43:13",
-      "album": {
         "name": "Every Season Is Holy Ground (Live)",
         "url": "https://open.spotify.com/album/6y1YPH0kyXCV1WN18Zjkfu"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 441973,
       "name": "Every Season Is Holy Ground (Live)",
       "url": "https://open.spotify.com/track/4df54lW3hCbohXGctOx6HG"
+    },
+    {
+      "added_at": "2024-01-12 07:43:13",
+      "album": {
+        "name": "Pursuit (As The Deer) [Live]",
+        "url": "https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F"
+      },
+      "artists": [
+        {
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        },
+        {
+          "name": "Chardon Lewis",
+          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
+        }
+      ],
+      "duration_ms": 374437,
+      "name": "Pursuit (As The Deer) - Live",
+      "url": "https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa"
     },
     {
       "added_at": "2024-01-12 07:43:13",

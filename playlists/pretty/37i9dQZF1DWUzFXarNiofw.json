@@ -1,13 +1,33 @@
 {
   "description": "The newest r&b drops, every week. Cover: Usher",
-  "num_followers": 1032465,
+  "num_followers": 1032578,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTBhNWNlMTMzODRmNDRlM2RmMGQ0NTM4MWNmZDllYTQ2ZmVjYTNh",
+  "snapshot_id": "MCxjNDlkNjhjOTA0MzBmMTZjOTlhNTEyYjhiN2QzMGVkODAzMzlhNmVj",
   "tracks": [
+    {
+      "added_at": "2024-02-03 22:37:33",
+      "album": {
+        "name": "Ruin",
+        "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 181646,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
+    },
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {

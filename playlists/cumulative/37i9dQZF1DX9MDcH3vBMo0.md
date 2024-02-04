@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-698 songs - 1 day 6 hr 19 min
+699 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Old Flame](https://open.spotify.com/track/64th3RAbJNNkh96S3lcMRZ) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/7sN26SlOzcl1ey6NuPPQfg) | 2:08 | 2022-04-21 | 2022-09-24 |
 | [Older](https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl) | [C.J\. Wilkins](https://open.spotify.com/artist/6cG2racndnT8Xeb4HvR5Pa) | [Older](https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk) | 2:45 | 2022-04-21 | 2023-01-19 |
 | [Ombre](https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Ombre](https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT) | 2:05 | 2022-04-21 |  |
+| [Once](https://open.spotify.com/track/5GaveEKpBohYBe6liGnTpT) | [Isaac Tira](https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7) | [Once](https://open.spotify.com/album/0sxYxNcxnOFwqO0n5TuMHR) | 2:39 | 2024-02-02 |  |
 | [Once Again](https://open.spotify.com/track/7D7QszPJ4qhcdqY4bV5BOo) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Recollection](https://open.spotify.com/album/33xkBxyjcytIaKn3Xfq06Q) | 2:47 | 2022-04-21 | 2022-09-24 |
 | [Once Upon an Autumn](https://open.spotify.com/track/19Ngdrq60emLeiLvGLnwbY) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Once Upon an Autumn](https://open.spotify.com/album/0DAq1lRzcSb2BCgeksrb2A) | 1:57 | 2022-04-21 | 2022-07-21 |
 | [Once when I was young](https://open.spotify.com/track/4FRPWTwl40uOHMslTL7fGa) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Once when I was young](https://open.spotify.com/album/4EpZkFkz3jGxSFAq7exAeH) | 2:01 | 2022-04-21 | 2023-10-11 |
@@ -527,7 +528,7 @@
 | [Seuls ensemble](https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E) | [Jean\-Marie Daviau](https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e) | [Seuls ensemble](https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH) | 2:11 | 2022-04-21 | 2023-07-04 |
 | [Shadow Lake](https://open.spotify.com/track/670ju7vreYMZdh22AfhQ9N) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Shadow Lake](https://open.spotify.com/album/5ERM8QWfXBDp2ohI01V0Xz) | 2:31 | 2023-12-18 | 2024-02-03 |
 | [Shadows](https://open.spotify.com/track/2OQmujYu7g2xFB61Syic6X) | [Mark Pike](https://open.spotify.com/artist/5tgpewfGPEl1Xt7ZfpL0rU) | [Shadows](https://open.spotify.com/album/6euODh2yNm4Jkt8mej5RHF) | 4:12 | 2022-04-21 | 2022-07-21 |
-| [Shapes of Shadows](https://open.spotify.com/track/2UxUFKb6Fo7zxrjQVNXEGz) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Shapes of Shadows](https://open.spotify.com/album/0qxvEI2Shp9ezZIzth2Jpg) | 3:26 | 2022-07-20 |  |
+| [Shapes of Shadows](https://open.spotify.com/track/2UxUFKb6Fo7zxrjQVNXEGz) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Shapes of Shadows](https://open.spotify.com/album/0qxvEI2Shp9ezZIzth2Jpg) | 3:26 | 2022-07-20 | 2024-02-04 |
 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 | 2022-04-21 | 2023-08-15 |
 | [Shinsetsu](https://open.spotify.com/track/7sa4kCV6pezAQOSBASKFLH) | [Ida Aoi](https://open.spotify.com/artist/02jiWzihJtpS94vvCnlDUK) | [Shinsetsu](https://open.spotify.com/album/4KqwgOHEsdXnYtrCgGJp0A) | 2:59 | 2022-04-21 | 2023-05-04 |
 | [Shoganai](https://open.spotify.com/track/2Pmiz2tOtQxnrHsQ9RZuKp) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Shoganai](https://open.spotify.com/album/5pOX595aLHeczDXUz0HsL1) | 3:11 | 2022-04-21 | 2022-07-21 |

@@ -1,9 +1,27 @@
 {
-  "2024-02-03": 1431,
+  "2024-02-04": 1431,
   "date_first_scraped": "2024-01-03",
   "description": "",
   "name": "TERMINAL UNDERGROUND WEEKLY HITTERS",
   "tracks": [
+    {
+      "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/1kBqRa2e2terLD72aVHvsk"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196904,
+      "name": "444",
+      "url": "https://open.spotify.com/track/7gjxXndvML1DoJeB6izQPa"
+    },
     {
       "album": {
         "name": "Ain't No Other Man (Rework)",
@@ -46,6 +64,24 @@
     },
     {
       "album": {
+        "name": "Aqui Se Baila Pegao (Radio Edit)",
+        "url": "https://open.spotify.com/album/6dfLb8X74BL8O1dmT4pBzJ"
+      },
+      "artists": [
+        {
+          "name": "CASUAL SX",
+          "url": "https://open.spotify.com/artist/2b3NCMLmYD1WZXZe6kpCTG"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Aqui Se Baila Pegao - Radio Edit",
+      "url": "https://open.spotify.com/track/1bBIK0L2ljmibGnXD9Jk5c"
+    },
+    {
+      "album": {
         "name": "Ass To The Back",
         "url": "https://open.spotify.com/album/6lcQlZjJFS4tYVXv3ufIPQ"
       },
@@ -57,7 +93,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 156751,
       "name": "Ass To The Back",
       "url": "https://open.spotify.com/track/3KlITvvpOjfOugac2vLfSM"
@@ -123,7 +159,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 129375,
       "name": "Beat It Up",
       "url": "https://open.spotify.com/track/1dS6VAsEVuazc6OmYpRo0H"
@@ -141,7 +177,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 214527,
       "name": "BEATS FOR THE UNDERGROUND",
       "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
@@ -189,7 +225,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 183750,
       "name": "Bills, Bills (feat. MRYN) - Radio Edit",
       "url": "https://open.spotify.com/track/1bIOPOZlC6SQtyP1gRFZHD"
@@ -211,7 +247,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 157558,
       "name": "Bitch, Don't Kill My Vibe",
       "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
@@ -288,6 +324,28 @@
     },
     {
       "album": {
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
+    },
+    {
+      "album": {
         "name": "Buzzin'",
         "url": "https://open.spotify.com/album/1GnGIX0syw8NIl6WmyWpwD"
       },
@@ -361,7 +419,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 276495,
       "name": "Cash For Love",
       "url": "https://open.spotify.com/track/1QCjgRff7EzAtIUlOpWSJV"
@@ -536,6 +594,28 @@
     },
     {
       "album": {
+        "name": "Don't Abuse It",
+        "url": "https://open.spotify.com/album/3z8N7BrygP8gQIrirqvE6v"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135967,
+      "name": "Don't Abuse It",
+      "url": "https://open.spotify.com/track/5E9ulwLRaDx2tO9liULCuE"
+    },
+    {
+      "album": {
         "name": "Learning To Fly EP",
         "url": "https://open.spotify.com/album/0IBSsqh8INOEbkxegEhdfJ"
       },
@@ -619,7 +699,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 159600,
       "name": "Electric",
       "url": "https://open.spotify.com/track/7FGj2A4yT1wUIj3xf9EUhA"
@@ -671,7 +751,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 211428,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
@@ -769,7 +849,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 184047,
       "name": "Formulate",
       "url": "https://open.spotify.com/track/5hIikVMKkHbcqWf5RssqfC"
@@ -813,7 +893,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 208804,
       "name": "GENESIS",
       "url": "https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34"
@@ -886,6 +966,28 @@
     },
     {
       "album": {
+        "name": "Give Me",
+        "url": "https://open.spotify.com/album/4VX0z1gIfnSzQnGHga7E2w"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        },
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Give Me",
+      "url": "https://open.spotify.com/track/2qtEMFFGe7hODRfTLjkRLl"
+    },
+    {
+      "album": {
         "name": "Give You",
         "url": "https://open.spotify.com/album/65Rww1fKgqIbp0QvuFX9gy"
       },
@@ -901,6 +1003,24 @@
       "duration_ms": 155076,
       "name": "Give You",
       "url": "https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf"
+    },
+    {
+      "album": {
+        "name": "Go And Crazy",
+        "url": "https://open.spotify.com/album/0idnUEMzYrTD8WontAsctb"
+      },
+      "artists": [
+        {
+          "name": "G. Peixoto",
+          "url": "https://open.spotify.com/artist/029ml5OQVsSeYWMwVgEP9p"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Go And Crazy",
+      "url": "https://open.spotify.com/track/6Jo01QOLI5F5SPHPlfWmDQ"
     },
     {
       "album": {
@@ -959,7 +1079,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 138139,
       "name": "Hit It Back",
       "url": "https://open.spotify.com/track/7maOJYreyKXNVpSdYNoOPn"
@@ -988,6 +1108,24 @@
     },
     {
       "album": {
+        "name": "I Know A Place",
+        "url": "https://open.spotify.com/album/1nyd1mlE54h52ZrjpTa1iB"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185615,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/5mLjx2b0uwuA75KqWBey5N"
+    },
+    {
+      "album": {
         "name": "In The Air",
         "url": "https://open.spotify.com/album/3tQ1xtLmqmc1llutbiCOyn"
       },
@@ -1003,6 +1141,68 @@
       "duration_ms": 215433,
       "name": "In The Air",
       "url": "https://open.spotify.com/track/7aasXv1PUt4t0DLo2nGzMV"
+    },
+    {
+      "album": {
+        "name": "Jump In",
+        "url": "https://open.spotify.com/album/07BxOVzzyMBEkff8GEczSG"
+      },
+      "artists": [
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Jump In",
+      "url": "https://open.spotify.com/track/7KPM73DEawK8fsogmx87HX"
+    },
+    {
+      "album": {
+        "name": "Kanji Elegante",
+        "url": "https://open.spotify.com/album/41wDY6iniDp03hgrUJtiX0"
+      },
+      "artists": [
+        {
+          "name": "Castion",
+          "url": "https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361176,
+      "name": "Kanji Elegante",
+      "url": "https://open.spotify.com/track/2Eu4CcuMiQoJ0y9kNvCtwt"
+    },
+    {
+      "album": {
+        "name": "Let's Go Dancing (Matroda Remix)",
+        "url": "https://open.spotify.com/album/4bNMns2prUJi3cJwEF7dKc"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Audion",
+          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
+        },
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195473,
+      "name": "Let's Go Dancing - Matroda Remix",
+      "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
     },
     {
       "album": {
@@ -1025,6 +1225,24 @@
       "duration_ms": 182325,
       "name": "Let's Live It Up",
       "url": "https://open.spotify.com/track/38UucfghEi4ywjyhVRe4yT"
+    },
+    {
+      "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/3T6dLIs7QJWYflHcVLAB1A"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5BC4a9zX4qOAuIM7HUgVrG"
     },
     {
       "album": {
@@ -1082,6 +1300,24 @@
     },
     {
       "album": {
+        "name": "Love & Dance EP",
+        "url": "https://open.spotify.com/album/29TaoTMHbabORQ54oH4nXK"
+      },
+      "artists": [
+        {
+          "name": "Little Fritter",
+          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208062,
+      "name": "Love & Dance",
+      "url": "https://open.spotify.com/track/3q75So783qdHzJhW77lv1E"
+    },
+    {
+      "album": {
         "name": "Love Another Time (JADED Remix)",
         "url": "https://open.spotify.com/album/1UFRFNgMUGOjoVbPVQawCZ"
       },
@@ -1133,7 +1369,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 187472,
       "name": "Make It Work",
       "url": "https://open.spotify.com/track/5j2WkmIgSmaggh5tBzAA5g"
@@ -1177,6 +1413,36 @@
       "duration_ms": 214174,
       "name": "ME",
       "url": "https://open.spotify.com/track/7dyJugljupi044oQfkrzlc"
+    },
+    {
+      "album": {
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/22Z8CbFvdfcfHhkCV4hdpd"
+      },
+      "artists": [
+        {
+          "name": "Mijangos",
+          "url": "https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf"
+        },
+        {
+          "name": "dbasser",
+          "url": "https://open.spotify.com/artist/5psF4RFR5m6MyLC7whUI2b"
+        },
+        {
+          "name": "Anlly Mar\u00edn",
+          "url": "https://open.spotify.com/artist/1CkiILgUUV8OFr0t9AUpkr"
+        },
+        {
+          "name": "Markem",
+          "url": "https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357120,
+      "name": "Me Voy - Markem Remix",
+      "url": "https://open.spotify.com/track/6AJRuBEJU1GTwIhK9eoDUj"
     },
     {
       "album": {
@@ -1267,7 +1533,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 158906,
       "name": "No Guest List",
       "url": "https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE"
@@ -1289,7 +1555,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 213750,
       "name": "No Pares",
       "url": "https://open.spotify.com/track/0r2tv5UOCiSyXE0AG98lxQ"
@@ -1315,6 +1581,28 @@
       "duration_ms": 257419,
       "name": "No Reason - Chris Lake Remix",
       "url": "https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR"
+    },
+    {
+      "album": {
+        "name": "Pondos, Saccapoche, Obsession",
+        "url": "https://open.spotify.com/album/560du0wMuCVtzvlKjP1Y5q"
+      },
+      "artists": [
+        {
+          "name": "Qubiko",
+          "url": "https://open.spotify.com/artist/7GklfVLAXAgRjh6Y0yOgMq"
+        },
+        {
+          "name": "Denis Ago",
+          "url": "https://open.spotify.com/artist/5wDz0vNl13NmC3DJ8RFjlV"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203538,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/2joQApSpPOTt6JWkZmiX4W"
     },
     {
       "album": {
@@ -1413,10 +1701,32 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 390000,
       "name": "Playing With Foc...",
       "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
+    },
+    {
+      "album": {
+        "name": "Dance Floor Shrooms",
+        "url": "https://open.spotify.com/album/6MCwRlG9hDW62DnylbYB88"
+      },
+      "artists": [
+        {
+          "name": "Sokotta",
+          "url": "https://open.spotify.com/artist/3bEls8HnOhnvwVd3ia88k1"
+        },
+        {
+          "name": "Melly OHH",
+          "url": "https://open.spotify.com/artist/6WCzypzZRcBwpRhyxoNPsN"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337920,
+      "name": "Positive",
+      "url": "https://open.spotify.com/track/4FDMhQCia8qjRzHxqxdjJ4"
     },
     {
       "album": {
@@ -1559,10 +1869,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 163409,
       "name": "Ride Out",
       "url": "https://open.spotify.com/track/7o4psLIggxOLOIW1DOfzqM"
+    },
+    {
+      "album": {
+        "name": "Rising High",
+        "url": "https://open.spotify.com/album/1dxLhxAzURALhiXQRsy4bc"
+      },
+      "artists": [
+        {
+          "name": "Shadow Child",
+          "url": "https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228026,
+      "name": "Rising High",
+      "url": "https://open.spotify.com/track/57k1kWRJSLUsj8HXpAZnOD"
     },
     {
       "album": {
@@ -1599,7 +1927,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 193432,
       "name": "Saving Up - Odd Mob Remix",
       "url": "https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk"
@@ -1658,6 +1986,24 @@
     },
     {
       "album": {
+        "name": "Shake What Yo Mama",
+        "url": "https://open.spotify.com/album/64upmd4XuphLblnHNe5TFB"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193488,
+      "name": "Shake What Yo Mama",
+      "url": "https://open.spotify.com/track/6LDI9NkKCTCK3Dhu7s5iSd"
+    },
+    {
+      "album": {
         "name": "Smoke In Your Eyes",
         "url": "https://open.spotify.com/album/5EEitGHmxCB0XD0rtV3bE7"
       },
@@ -1702,6 +2048,28 @@
     },
     {
       "album": {
+        "name": "Sound Of The Drums",
+        "url": "https://open.spotify.com/album/0m6A8RrKlJ5bTTz3XyV4v7"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Sound Of The Drums",
+      "url": "https://open.spotify.com/track/4s538QEQhTSOJGnasd1FAZ"
+    },
+    {
+      "album": {
         "name": "Space Bump",
         "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
       },
@@ -1742,6 +2110,28 @@
     },
     {
       "album": {
+        "name": "Subby",
+        "url": "https://open.spotify.com/album/62vg6zoC6Glijf2oMG5YwX"
+      },
+      "artists": [
+        {
+          "name": "Nic Vesperi",
+          "url": "https://open.spotify.com/artist/3znC6KgbVp8ooXQJwWgQFg"
+        },
+        {
+          "name": "Marmoon",
+          "url": "https://open.spotify.com/artist/5xkp4qyria4ea8GrVCwX3G"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Subby",
+      "url": "https://open.spotify.com/track/4RFhtMBMGG1ZKk36YPy0UO"
+    },
+    {
+      "album": {
         "name": "Sudando",
         "url": "https://open.spotify.com/album/3SS2CBEzuoHsJEyr5t6ZpX"
       },
@@ -1768,6 +2158,32 @@
     },
     {
       "album": {
+        "name": "Sweet Disposition (John Summit & Silver Panda Remix)",
+        "url": "https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Silver Panda",
+          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251904,
+      "name": "Sweet Disposition - John Summit & Silver Panda Remix",
+      "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"
+    },
+    {
+      "album": {
         "name": "Take Control",
         "url": "https://open.spotify.com/album/3rq4101MuEru4u127GwiTz"
       },
@@ -1779,7 +2195,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 213809,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/2dWKTZg1rQJtob68OUyQ5D"
@@ -1881,7 +2297,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 173296,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/1k8tGEqjmXqjkYW9sMTd8V"
@@ -2025,7 +2441,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 195348,
       "name": "You Don't Know (feat. PVC)",
       "url": "https://open.spotify.com/track/17f8MQbbICShN6ChgIbmwb"

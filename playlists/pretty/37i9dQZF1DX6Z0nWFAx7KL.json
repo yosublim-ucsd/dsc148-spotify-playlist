@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 47611,
+  "num_followers": 47639,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTczNWJkYzc0OTVhMTY2YWY1MzJhZTU1OTNhZjJmZWM1ZDExYzYx",
+  "snapshot_id": "MCxkNDdiYzYzNjM1OWU2ZGZjNDViMjZiNTE0NTU1NzBlNjc0MDNlZGRh",
   "tracks": [
     {
       "added_at": "2024-01-31 10:55:36",
@@ -367,22 +367,18 @@
     {
       "added_at": "2024-01-31 10:55:36",
       "album": {
-        "name": "Where did you go",
-        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Where did you go",
-      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
     },
     {
       "added_at": "2024-01-31 10:55:36",
@@ -403,18 +399,22 @@
     {
       "added_at": "2024-01-31 10:55:36",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
+        "name": "Where did you go",
+        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
       },
       "artists": [
         {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
         }
       ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
+      "duration_ms": 168000,
+      "name": "Where did you go",
+      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
     },
     {
       "added_at": "2024-01-31 10:55:36",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-01-31 10:55:36",
       "album": {
-        "name": "Thousand Lullabies",
-        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        }
-      ],
-      "duration_ms": 129573,
-      "name": "Thousand Lullabies",
-      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
-    },
-    {
-      "added_at": "2024-01-31 10:55:36",
-      "album": {
         "name": "That Kinda Love",
         "url": "https://open.spotify.com/album/55CLCdTPdK4EhfeHqeZ5Zc"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 164125,
       "name": "That Kinda Love",
       "url": "https://open.spotify.com/track/1Mpo8ZIbEYMVQYZeEHlF15"
+    },
+    {
+      "added_at": "2024-01-31 10:55:36",
+      "album": {
+        "name": "Thousand Lullabies",
+        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        }
+      ],
+      "duration_ms": 129573,
+      "name": "Thousand Lullabies",
+      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
     },
     {
       "added_at": "2024-01-31 10:55:36",
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-01-31 10:55:36",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        },
-        {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
-    },
-    {
-      "added_at": "2024-01-31 10:55:36",
-      "album": {
         "name": "Summer Jams",
         "url": "https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 137149,
       "name": "Summer Jams",
       "url": "https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b"
+    },
+    {
+      "added_at": "2024-01-31 10:55:36",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        },
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
     },
     {
       "added_at": "2024-01-31 10:55:36",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2024-01-31 10:55:36",
       "album": {
-        "name": "Take Me",
-        "url": "https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X"
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
       },
       "artists": [
         {
-          "name": "W\u00e4nderlost",
-          "url": "https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb"
-        },
-        {
-          "name": "MEDEIA",
-          "url": "https://open.spotify.com/artist/0uR3roDczoaOss4Ro7D30s"
+          "name": "Cogitation",
+          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
         }
       ],
-      "duration_ms": 136800,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs"
+      "duration_ms": 171944,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
     },
     {
       "added_at": "2024-01-31 10:55:36",
@@ -1299,18 +1295,22 @@
     {
       "added_at": "2024-01-31 10:55:36",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X"
       },
       "artists": [
         {
-          "name": "Cogitation",
-          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
+          "name": "W\u00e4nderlost",
+          "url": "https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb"
+        },
+        {
+          "name": "MEDEIA",
+          "url": "https://open.spotify.com/artist/0uR3roDczoaOss4Ro7D30s"
         }
       ],
-      "duration_ms": 171944,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
+      "duration_ms": 136800,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs"
     },
     {
       "added_at": "2024-01-31 10:55:36",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-01-31 10:55:36",
       "album": {
-        "name": "STAY",
-        "url": "https://open.spotify.com/album/013a6sw3mwlatsiiMDvoJV"
-      },
-      "artists": [
-        {
-          "name": "Ayko",
-          "url": "https://open.spotify.com/artist/7DoGkyQETbcynITmyOlWJf"
-        },
-        {
-          "name": "George",
-          "url": "https://open.spotify.com/artist/3sedn32ScoPV1uUo54el2E"
-        }
-      ],
-      "duration_ms": 162393,
-      "name": "STAY",
-      "url": "https://open.spotify.com/track/2t0wgon3zNi2rK5RmBI6PB"
-    },
-    {
-      "added_at": "2024-01-31 10:55:36",
-      "album": {
         "name": "Heartbreak In Seychelles",
         "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 176307,
       "name": "Heartbreak In Seychelles",
       "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
+    },
+    {
+      "added_at": "2024-01-31 10:55:36",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
+      },
+      "artists": [
+        {
+          "name": "MNI",
+          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 167380,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
     },
     {
       "added_at": "2024-01-31 10:55:36",
@@ -1431,38 +1431,22 @@
     {
       "added_at": "2024-01-31 10:55:36",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/013a6sw3mwlatsiiMDvoJV"
       },
       "artists": [
         {
-          "name": "MNI",
-          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
+          "name": "Ayko",
+          "url": "https://open.spotify.com/artist/7DoGkyQETbcynITmyOlWJf"
         },
         {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+          "name": "George",
+          "url": "https://open.spotify.com/artist/3sedn32ScoPV1uUo54el2E"
         }
       ],
-      "duration_ms": 167380,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
-    },
-    {
-      "added_at": "2024-01-31 10:55:36",
-      "album": {
-        "name": "See You On The Other Side",
-        "url": "https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 241061,
-      "name": "See You On The Other Side",
-      "url": "https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS"
+      "duration_ms": 162393,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/2t0wgon3zNi2rK5RmBI6PB"
     },
     {
       "added_at": "2024-01-31 10:55:36",
@@ -1479,6 +1463,22 @@
       "duration_ms": 279960,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2OrmvwrqfGH0C0I70w4SRZ"
+    },
+    {
+      "added_at": "2024-01-31 10:55:36",
+      "album": {
+        "name": "See You On The Other Side",
+        "url": "https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 241061,
+      "name": "See You On The Other Side",
+      "url": "https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS"
     },
     {
       "added_at": "2024-01-31 10:55:36",
@@ -1543,22 +1543,22 @@
     {
       "added_at": "2024-01-31 10:55:36",
       "album": {
-        "name": "Don't Hide",
-        "url": "https://open.spotify.com/album/2uY0MsQmoCLdCNcD7D9vkr"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
       },
       "artists": [
         {
-          "name": "SIQUE",
-          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
         },
         {
-          "name": "Safe Wave",
-          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
+          "name": "Chris Howard",
+          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
         }
       ],
-      "duration_ms": 135272,
-      "name": "Don't Hide",
-      "url": "https://open.spotify.com/track/51tISgVeWkKE3BhgGKQJ8w"
+      "duration_ms": 220644,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
     }
   ],
   "unique_name": "Dance Chill",

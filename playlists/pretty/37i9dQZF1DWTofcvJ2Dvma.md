@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,028 likes - 103 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,060 likes - 103 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 33 | [Summer Sleepy](https://open.spotify.com/track/2BGHOiKSO7pR93tRVz3Sns) | [CARLO](https://open.spotify.com/artist/3nIXVYOAqFzJuHWga0nGr0) | [Summer Sleepy](https://open.spotify.com/album/1iH4nyb3lQnA0kTRmmn6SC) | 2:00 |
 | 34 | [Pillow Retreat](https://open.spotify.com/track/3c8ruuQkemApqagMhbqSdE) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Pillow Retreat](https://open.spotify.com/album/3BnPwguYMYzXtSQZAnuKd2) | 2:22 |
 | 35 | [Moonlight](https://open.spotify.com/track/0lPJh8EP9kStGPLw1IC4a0) | [Slumbering Elk](https://open.spotify.com/artist/3W4MGKEEUJe6RfPWvIq5Nc) | [Moonlight](https://open.spotify.com/album/5M9gQ8RqT4Ryqgmf0qv98E) | 2:23 |
-| 36 | [graining](https://open.spotify.com/track/4AkNFW2EVDK3k4nmr7kdhA) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07) | [graining](https://open.spotify.com/album/7BNnuGbXLHHdM9CEw6vCqJ) | 2:12 |
+| 36 | [graining](https://open.spotify.com/track/4AkNFW2EVDK3k4nmr7kdhA) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [graining](https://open.spotify.com/album/7BNnuGbXLHHdM9CEw6vCqJ) | 2:12 |
 | 37 | [rounded](https://open.spotify.com/track/1hWQ2g5lhisTnOMWHJeHFW) | [yellow book](https://open.spotify.com/artist/6JE9upCogY91a2Tm5UB8fe) | [rounded](https://open.spotify.com/album/2bcjechlcxRXyO1yGjFHTh) | 1:48 |
 | 38 | [ethereal](https://open.spotify.com/track/4fC9s3NtmRHeK1B3xJC45M) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [ethereal](https://open.spotify.com/album/0UZKU872aVTdCf71eDHLkH) | 2:26 |
 | 39 | [Pillow](https://open.spotify.com/track/5oCP76iSvjGdnMXJik0Cy3) | [Hickah](https://open.spotify.com/artist/16RKxwQxzkB7vEX6TdJz2V) | [Pillow](https://open.spotify.com/album/5hFTcd1iDgzTiXUli1lkCf) | 2:03 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 102 | [Floating Stones](https://open.spotify.com/track/0ZotW8k8AHAkFpkJjp7BZL) | [stella light](https://open.spotify.com/artist/2WxlX59yWZg3hi99qQ8nch) | [Floating Stones](https://open.spotify.com/album/2eZZotBSXmgv3Bnoh4fKov) | 2:03 |
 | 103 | [need a vacation?](https://open.spotify.com/track/1sHID1bINevTLGNkvfLQfC) | [kobicha](https://open.spotify.com/artist/4nJ6L5ADQdv6cZHXcvsRNd) | [need a vacation?](https://open.spotify.com/album/5xadz5QNEgrbOSKCje5wSf) | 2:08 |
 
-Snapshot ID: `MCw1OGNlMTczYmQxMzUyMmMwNjFiMWY4YzhlY2VhYmM2MDcwNTM2YTdk`
+Snapshot ID: `MCxiYzkzZTdkMDg3MjhjNjY4OTNkMTRlNmY4ODAzNjg2MWYxMWU4ZGJj`

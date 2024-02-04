@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Lizz Wright
 
-342 songs - 21 hr 30 min
+342 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [The Reckoning](https://open.spotify.com/track/0JoT21QZNDV1f52oKAiyCA) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [The Reckoning](https://open.spotify.com/album/4SpmzZschXxbCnNAFTTESm) | 3:38 | 2022-06-17 | 2022-06-25 |
 | [The Tools](https://open.spotify.com/track/28l58QQjZkeghQ60oJciFZ) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [Are You Mad Yet?](https://open.spotify.com/album/5hqt9vPCSmnDdcJMX1VG0h) | 2:27 | 2022-03-18 | 2022-03-30 |
 | [These Hands](https://open.spotify.com/track/2LN7oMYv9m9xzDrCy4AMqu) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [The Sound Experiment 2 \- EP](https://open.spotify.com/album/2RVHro1akoqXxD5ZHB7mgO) | 3:21 | 2021-12-17 | 2023-03-11 |
-| [Things Is 'Bout Comin' My Way](https://open.spotify.com/track/0hankmoITw2Ujkm2YUvqRs) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Things Is 'Bout Comin' My Way](https://open.spotify.com/album/2xmpiYdM4H5iCW54Pw0f00) | 3:36 | 2024-02-02 |  |
+| [Things Is 'Bout Comin' My Way](https://open.spotify.com/track/0hankmoITw2Ujkm2YUvqRs) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Things Is 'Bout Comin' My Way](https://open.spotify.com/album/2xmpiYdM4H5iCW54Pw0f00) | 4:39 | 2024-02-02 |  |
 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 | 2023-09-08 |  |
 | [Thinking 'Bout Myself](https://open.spotify.com/track/3cOKBor2QHIg1V9n7Mue5Q) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Push The Blues Away](https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl) | 3:41 | 2022-05-27 | 2024-01-13 |
 | [Thinking 'Bout Myself](https://open.spotify.com/track/2JF0vG0CsoDEjLZdd9QMm1) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Thinking 'Bout Myself](https://open.spotify.com/album/7syVmnY6K5xSSeeeRcx9yX) | 3:41 | 2021-12-17 | 2022-11-28 |

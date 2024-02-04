@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 45207,
+  "2024-02-04": 45391,
   "date_first_scraped": "2023-04-15",
   "description": "all the stutter, all the feels.",
   "name": "Emotional Dance",
@@ -7007,6 +7007,28 @@
       "duration_ms": 187341,
       "name": "the search",
       "url": "https://open.spotify.com/track/6YGQnwuKcbKIMkDwjwLBWA"
+    },
+    {
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
     },
     {
       "album": {

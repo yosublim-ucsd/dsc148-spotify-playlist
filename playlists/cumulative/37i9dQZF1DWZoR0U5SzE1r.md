@@ -4,7 +4,7 @@
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-183 songs - 17 hr 58 min
+184 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Great Redeemer](https://open.spotify.com/track/2JoojhYT5czjfxQF9YLyuJ) | [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq) | [Great Redeemer](https://open.spotify.com/album/0nX0WKiG9z8YqiKFqZaYiq) | 5:05 | 2020-06-26 | 2022-07-28 |
 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Hallelujah For The Cross \(Live\)](https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL) | 5:31 | 2020-06-26 |  |
 | [Hallelujah Lives in Me](https://open.spotify.com/track/6j6opS2iByXTthkq2rKEz0) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 5:28 | 2020-06-26 | 2022-07-29 |
+| [Healer](https://open.spotify.com/track/1XnfyPsvKZq7r2h2YHnHp3) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Healer \(Audio Performance Trax\)](https://open.spotify.com/album/54WL5362PxxVIa6GZEiOaN) | 5:07 | 2020-06-26 |  |
 | [Healer](https://open.spotify.com/track/2uDngplEd0RW5hqcAur5uY) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 5:07 | 2020-06-26 | 2024-01-28 |
 | [Here as in Heaven](https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 8:19 | 2020-06-26 |  |
 | [Heroes](https://open.spotify.com/track/1vM5pCVUvxKQMtJKxlR7Q3) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Brave New World](https://open.spotify.com/album/3oQQHU0q1xYRXOLZuaqFwb) | 4:17 | 2020-06-26 | 2022-07-29 |
@@ -85,7 +86,7 @@
 | [Holy Desire \(From Worship Nights at the Barn\)](https://open.spotify.com/track/37o1DSQq5WzSFjYKKXDDIR) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 9:29 | 2020-06-26 | 2023-12-22 |
 | [Holy Spirit \- Live](https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 8:09 | 2020-06-26 |  |
 | [Hosanna \- Live](https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 6:29 | 2020-06-26 |  |
-| [I Stand Here](https://open.spotify.com/track/51eNSYUSTzMn1iPxtkgXWd) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Overflow](https://open.spotify.com/album/36zbRaoRByQr4yNEdFxe9Y) | 3:44 | 2020-06-26 |  |
+| [I Stand Here](https://open.spotify.com/track/51eNSYUSTzMn1iPxtkgXWd) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Overflow](https://open.spotify.com/album/36zbRaoRByQr4yNEdFxe9Y) | 3:44 | 2020-06-26 | 2024-02-04 |
 | [I'm Listening \- Live](https://open.spotify.com/track/4H8aHbObTT2BD16ZUZjD5Y) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Breakthrough \(Live\)](https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi) | 4:45 | 2020-06-26 |  |
 | [In The River \- Live](https://open.spotify.com/track/2qHScCZ9f4FPBNVBpFMZ0G) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Let It Echo \(Live\)](https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO) | 4:37 | 2020-06-26 |  |
 | [Inhabit \- Live](https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 5:51 | 2020-06-26 |  |

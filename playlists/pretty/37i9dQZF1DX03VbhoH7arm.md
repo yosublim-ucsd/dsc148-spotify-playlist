@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 
 > a gente só pensa numa coisa....Foto: Ivete Sangalo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526,555 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,527,662 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 | 48 | [Não Para](https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9) | [Belle Kaffer](https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Charles New](https://open.spotify.com/artist/7CK5FIA9viaFGVnDnfbuw8) | [Não Para](https://open.spotify.com/album/4CijUEw802sAukzjveQ0Re) | 3:00 |
 | 49 | [Tá OK](https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK](https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp) | 1:32 |
 
-Snapshot ID: `MCw1OTRjZWQxMDYyNmRlYTZhYThjOTFhZWI1MDVjNTNjN2NmODdmNzA0`
+Snapshot ID: `MCxjM2EzOTIwYTczMjA4ZTk2MzI4MTFkNTBhMTUwOGI2ODFjZTA2NDU4`

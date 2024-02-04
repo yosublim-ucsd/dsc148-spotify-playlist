@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 
 > Guided meditations for a variety of needs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,900 likes - 74 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,075 likes - 74 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 | 73 | [Deepening Relaxation with Guided Sleep Visualization](https://open.spotify.com/track/0gMTqpdHED35G1REqaPUK5) | [Sacred Body Scans](https://open.spotify.com/artist/0mpuyeMeBxHhE1JTGLWyic) | [Serenity Slumber: Guided Body Scan Meditation for Deep Sleep](https://open.spotify.com/album/6AyZZ64fA5O9Wl84vtRIcg) | 2:04 |
 | 74 | [Anytime, Anywhere](https://open.spotify.com/track/5iw3xnWclMJW4VJdyAweRH) | [Kate Harding](https://open.spotify.com/artist/14JxP2DWfGKgBB9LE6xfob) | [Relax and Breathe, Vol\. 2](https://open.spotify.com/album/3N4Nl8ETa1ftKAVRd2uA4m) | 1:07 |
 
-Snapshot ID: `MCwwODJhYTFiMTYwMjBiM2M1MjQ3ZGJhNDhlZDhhNDkzNDk1YjkyZDg5`
+Snapshot ID: `MCwwYjhkZWJkMzlhZThhMjRmNGI2MGY0OWQ3YjhmYjgwNjBmZmQwYzFj`

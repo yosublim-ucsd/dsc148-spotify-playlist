@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 24138,
+  "2024-02-04": 24149,
   "date_first_scraped": "2022-10-01",
   "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL?si=44ypFljwS7KHqFvdra2eFg\"> Medikal</a>  ",
   "name": "Asakaa",
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 224744,
       "name": "Ekorso",
       "url": "https://open.spotify.com/track/04qEuAt4TR3p2KQlJecNsu"
@@ -3507,6 +3507,36 @@
       "duration_ms": 231500,
       "name": "Yenda",
       "url": "https://open.spotify.com/track/1abFIyT0fh4LV15Wsa9mFo"
+    },
+    {
+      "album": {
+        "name": "Zongo",
+        "url": "https://open.spotify.com/album/3WPdsRkKEDmgwp2qmwkXjV"
+      },
+      "artists": [
+        {
+          "name": "Dj Adwoa",
+          "url": "https://open.spotify.com/artist/3JfFJpaSpXYHQKivBzJhZ1"
+        },
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        },
+        {
+          "name": "Sasco Gh",
+          "url": "https://open.spotify.com/artist/3d4sCBA9tFXhzzA7nUDYKT"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190985,
+      "name": "Zongo",
+      "url": "https://open.spotify.com/track/5snX4aH3FyF3sAdoUJFJfc"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7ygLlsNqPvp"

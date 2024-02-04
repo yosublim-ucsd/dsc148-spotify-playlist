@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 277400,
+  "2024-02-04": 277690,
   "date_first_scraped": "2023-12-31",
-  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Bom Gosto, Vitinho",
+  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thiaguinho, Sorriso Maroto",
   "name": "Domingu\u00eara",
   "tracks": [
     {
@@ -145,7 +145,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 216818,
       "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
       "url": "https://open.spotify.com/track/4GbEcznuSiPW8HeWubVrVt"
@@ -290,6 +290,24 @@
     },
     {
       "album": {
+        "name": "Pra Quem N\u00e3o Conhece, Ep. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4NGOlC5CIiLYoLEGI12TEr"
+      },
+      "artists": [
+        {
+          "name": "Puro Clima",
+          "url": "https://open.spotify.com/artist/0tqBQWnmKCi741dnOHbVkq"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362692,
+      "name": "Clich\u00ea / Sobrenome / Amanh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/77ya2SnTsokkD7s2Gq82L1"
+    },
+    {
+      "album": {
         "name": "Climatizar/ O Que Tinha Que Dar/ Idem (Ao vivo)",
         "url": "https://open.spotify.com/album/75qLqfUtjDj2eVa0qn8TY0"
       },
@@ -305,6 +323,28 @@
       "duration_ms": 205733,
       "name": "Climatizar/ O Que Tinha Que Dar/ Idem - Ao vivo",
       "url": "https://open.spotify.com/track/6SnlW8RYmTSf0ONc1TL2Vr"
+    },
+    {
+      "album": {
+        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243129,
+      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
     },
     {
       "album": {
@@ -441,6 +481,24 @@
       "duration_ms": 326201,
       "name": "Erro Gostoso / Mal Acostumado / A Gente Se Entrega",
       "url": "https://open.spotify.com/track/2CU2o0jyWO8xq0TiJPXZ6y"
+    },
+    {
+      "album": {
+        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250348,
+      "name": "Eu Choro / Vinhos E Lingeries - Ao Vivo",
+      "url": "https://open.spotify.com/track/3JuVsbmJssQmZs3wSEASBk"
     },
     {
       "album": {
@@ -615,7 +673,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 595002,
       "name": "Fortaleza / M\u00f4 / Fernando de Noronha / Acende o Celular / O Pai T\u00e1 On - Ao Vivo",
       "url": "https://open.spotify.com/track/2HxKNgDtFGJMd4BSGRNn9V"
@@ -1451,7 +1509,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 249617,
       "name": "Shortinho Saint-Tropez / Pare\u00e7o Um Menino - Medley",
       "url": "https://open.spotify.com/track/0oqDk1YPvFcvJTLAFmoTHI"

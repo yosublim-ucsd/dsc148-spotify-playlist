@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > Eddy de Pretto au top des 50 hits de variété française du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 971,601 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 971,528 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 49 | [Stigmate \- Radio Edit](https://open.spotify.com/track/1CCglTzgQP2UCQtRwkpHOc) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Stigmate \(Radio Edit\)](https://open.spotify.com/album/7qVz48nAVwSdEje5MUTqTf) | 2:25 |
 | 50 | [À force](https://open.spotify.com/track/6JitZ8llxZ6d8XXzP0lMc2) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [À force / Charlotte](https://open.spotify.com/album/037C6V7kBMy2TrkqZKeC2w) | 3:17 |
 
-Snapshot ID: `MCxkODIxNTFmMTZhZDc5MGUxNDI1MGRiYzdjMGQ1ZTc0MjA0NzE2MjQ2`
+Snapshot ID: `MCwzNGE1ZjJjNmIxMWRhYmFhZDc1N2Q3ZTA4YzNkYjc2Y2RkMWRjNGU1`

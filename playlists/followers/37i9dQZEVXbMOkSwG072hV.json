@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 353717,
+  "2024-02-04": 353666,
   "date_first_scraped": "2022-01-18",
   "description": "Your daily update of the most viral tracks right now - Brazil.",
   "name": "Viral 50 - Brazil",
@@ -3750,7 +3750,7 @@
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 116307,
+      "duration_ms": 115846,
       "name": "Baby Eu Tava na Rua da \u00c1gua",
       "url": "https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD"
     },
@@ -9865,7 +9865,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 166979,
       "name": "DASH",
       "url": "https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1"
@@ -26034,6 +26034,24 @@
     },
     {
       "album": {
+        "name": "NA SUA VIDA SOU O PROBLEMA",
+        "url": "https://open.spotify.com/album/7adLx71Xqjsuc8RG76QjCJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Guilherme Borges",
+          "url": "https://open.spotify.com/artist/6N36j5ScPDfEJGKtqgXIo0"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127523,
+      "name": "NA SUA VIDA SOU O PROBLEMA",
+      "url": "https://open.spotify.com/track/6MLf0qQuv2HugbRcUOEZZc"
+    },
+    {
+      "album": {
         "name": "NA TRETA DO PL",
         "url": "https://open.spotify.com/album/2bB9lOTv906qy9x9BpqJQK"
       },
@@ -26857,7 +26875,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 161277,
       "name": "Nossa Resenha",
       "url": "https://open.spotify.com/track/5EaOVYUrQB5Hp9zkXxcFpL"
@@ -32565,6 +32583,32 @@
       "duration_ms": 175217,
       "name": "Quem o Louco Entre Nos?",
       "url": "https://open.spotify.com/track/0UOR0azT6xaBs35DqLzV47"
+    },
+    {
+      "album": {
+        "name": "Quem Sera Sortuda",
+        "url": "https://open.spotify.com/album/4nfwTLPctnXGiKn05R3mBd"
+      },
+      "artists": [
+        {
+          "name": "Mc chefe original",
+          "url": "https://open.spotify.com/artist/3NQ7C9Z5KVBTCOA2jbJx9U"
+        },
+        {
+          "name": "Gelado No Beat",
+          "url": "https://open.spotify.com/artist/3X7VxdZdaVTzUFCuAsjpIO"
+        },
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131541,
+      "name": "Quem Sera Sortuda",
+      "url": "https://open.spotify.com/track/4auUiEZ3XnaNr5GlMNO9Vn"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152457,
+  "num_followers": 152462,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjcxOWUxNTE1OGRkN2RiYzVmMGFhNTU0ZDhlNzM2YTFiNDAzN2Mw",
+  "snapshot_id": "MCw1Zjc2OWU2NWVhMjU4ZjM0OGQ4MWJmYjc3MjAzMmE3YzQ2MTBhNjc4",
   "tracks": [
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "I Wouldn't Know Any Better Than You",
-        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
-      },
-      "artists": [
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        }
-      ],
-      "duration_ms": 151041,
-      "name": "I Wouldn't Know Any Better Than You",
-      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "love + everything else",
         "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 217161,
       "name": "6 months",
       "url": "https://open.spotify.com/track/2LjeUVxf9m9ugARNcTlbHT"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "I Wouldn't Know Any Better Than You",
+        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 151041,
+      "name": "I Wouldn't Know Any Better Than You",
+      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "A Song For Every Moon",
-        "url": "https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 205029,
-      "name": "Just The Same",
-      "url": "https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "It's Gotta Be You",
         "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 191433,
       "name": "It's Gotta Be You",
       "url": "https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "A Song For Every Moon",
+        "url": "https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 205029,
+      "name": "Just The Same",
+      "url": "https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Perfect to Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Perfect To Me - Acoustic",
+      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "i loved you first",
         "url": "https://open.spotify.com/album/77GA1E8JXxpzlFFnGxbLEg"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 283696,
       "name": "What Am I Here For",
       "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
-        "name": "Perfect to Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Perfect To Me - Acoustic",
-      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
     },
     {
       "added_at": "2024-01-12 09:52:44",

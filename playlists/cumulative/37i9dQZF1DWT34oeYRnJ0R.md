@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: Hamilton
 
-386 songs - 20 hr 5 min
+387 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Fogata](https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg) | [XAXO](https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Fogata](https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry) | 2:53 | 2022-03-21 | 2022-09-07 |
 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 | 2022-09-06 |  |
 | [Fresh Water](https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [Fresh Water](https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH) | 2:37 | 2022-09-06 | 2023-08-27 |
+| [Fría](https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Fría](https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ) | 2:56 | 2024-02-02 |  |
 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [fue mejor \(feat\. SZA\)](https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI) | 3:50 | 2022-03-21 | 2022-09-07 |
 | [Fuego](https://open.spotify.com/track/1XlcDTgLG4B7IZU9UFmvRB) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [VAYU](https://open.spotify.com/album/0rHCpDokbS3UGKGB64mOhY) | 2:36 | 2022-09-06 | 2023-05-27 |
 | [Fumando](https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Fumando](https://open.spotify.com/album/26gxlnGOcwQsUheyskEuMV) | 3:23 | 2022-09-06 |  |
@@ -259,7 +260,7 @@
 | [No me queda más](https://open.spotify.com/track/4z3vTxnIfdET5ja47yYXRE) | [Fabiø Guerra](https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp) | [No me queda más](https://open.spotify.com/album/5JOLE4jmdFpweNnLTvrE9o) | 3:24 | 2023-12-15 |  |
 | [No Pero Sí](https://open.spotify.com/track/4S2ZWFS0PbSMbXGXkjqhEB) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Daniela Garsal](https://open.spotify.com/artist/5UA1oMfQ2oISh5SaZiVjXe), [InnerCut](https://open.spotify.com/artist/0GABUps2B17UMu6M8tkEDS) | [No Pero Sí](https://open.spotify.com/album/4m5mdLW6aCgCXuo4yeq1p3) | 2:40 | 2022-03-21 | 2022-07-28 |
 | [No Pero Sí \(feat\. InnerCut\)](https://open.spotify.com/track/2KU8HMDJ1efeuADnnIF2fc) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Daniela Garsal](https://open.spotify.com/artist/5UA1oMfQ2oISh5SaZiVjXe), [InnerCut](https://open.spotify.com/artist/0GABUps2B17UMu6M8tkEDS) | [No Pero Sí \(feat\. InnerCut\)](https://open.spotify.com/album/6ablYVrbrL5FfO04HAotjF) | 2:40 | 2022-07-26 | 2022-09-07 |
-| [No Te Creas Tanto](https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 3:11 | 2023-09-01 |  |
+| [No Te Creas Tanto](https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 3:11 | 2023-09-01 | 2024-02-04 |
 | [No Te Deseo el Mal](https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:52 | 2022-09-06 |  |
 | [No te lo niego, ma dolío](https://open.spotify.com/track/3o0OhPbX6vz6lzn63kg2CE) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [Lágrimas pa otro día](https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp) | 2:04 | 2023-05-01 |  |
 | [NOBODY GOT IT \(Remix\)](https://open.spotify.com/track/3838Rsovb7CmNIHcrhlfr7) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Nobody Got It \(Remix\)](https://open.spotify.com/album/06tbAH14600bPLsZ97s9WJ) | 2:48 | 2023-05-01 | 2023-10-07 |

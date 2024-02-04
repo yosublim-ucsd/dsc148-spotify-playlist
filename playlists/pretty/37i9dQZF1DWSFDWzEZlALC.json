@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: ENNIO",
-  "num_followers": 413837,
+  "num_followers": 413990,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWFhZDhlZGFmYTI0OGM2MDQ0MmM3OGUyNzAzNzM3MzBhOGFlMTM5",
+  "snapshot_id": "MCw1YzZjMDU0Y2VjOTI1ZWE3ODY2Yzk1ZTFmODBjOWQ5NTAyODBjZWNm",
   "tracks": [
     {
       "added_at": "2024-02-01 23:01:00",
@@ -99,6 +99,22 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
+        "name": "F\u00fcr immer Fr\u00fchling",
+        "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
+      },
+      "artists": [
+        {
+          "name": "soffie",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "F\u00fcr immer Fr\u00fchling",
+      "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/2xPTxfLnobXeRMtwX4KRrt"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 175400,
       "name": "Galaxis",
       "url": "https://open.spotify.com/track/2ngK3wxFAWhsn3oyKFAaeb"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
-        "name": "Rosenkohl",
-        "url": "https://open.spotify.com/album/3NQOMc1QfESj79ZSzfA0C5"
-      },
-      "artists": [
-        {
-          "name": "soffie",
-          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Rosenkohl",
-      "url": "https://open.spotify.com/track/2cJYzrox3QphJpiwqAVwis"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "F\u00fcr immer Fr\u00fchling",
-        "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
-      },
-      "artists": [
-        {
-          "name": "soffie",
-          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "F\u00fcr immer Fr\u00fchling",
-      "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
         "name": "Schritt f\u00fcr Schritt",
         "url": "https://open.spotify.com/album/5m1TXHF7JagAB954yDSn6w"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 138963,
       "name": "Schritt f\u00fcr Schritt",
       "url": "https://open.spotify.com/track/3uQFTCi3SuEdBO5MEZLYhz"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
+        "name": "Rosenkohl",
+        "url": "https://open.spotify.com/album/3NQOMc1QfESj79ZSzfA0C5"
+      },
+      "artists": [
+        {
+          "name": "soffie",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Rosenkohl",
+      "url": "https://open.spotify.com/track/2cJYzrox3QphJpiwqAVwis"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
+        "name": "Sterne Sehen",
+        "url": "https://open.spotify.com/album/3wD3VRmKxHgUpQ9NdngzZx"
+      },
+      "artists": [
+        {
+          "name": "Sandra",
+          "url": "https://open.spotify.com/artist/3cnQzVpUDcSTevTmiDthJ7"
+        }
+      ],
+      "duration_ms": 176013,
+      "name": "Sterne Sehen",
+      "url": "https://open.spotify.com/track/4vNMyM0fSjooHCBFOH0q8d"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
         "name": "oftgefragt_cover",
         "url": "https://open.spotify.com/album/7KxBfTvOv8iThCQuYyloMC"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Sterne Sehen",
-        "url": "https://open.spotify.com/album/3wD3VRmKxHgUpQ9NdngzZx"
+        "name": "schwarze SUVs",
+        "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
       },
       "artists": [
         {
-          "name": "Sandra",
-          "url": "https://open.spotify.com/artist/3cnQzVpUDcSTevTmiDthJ7"
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
         }
       ],
-      "duration_ms": 176013,
-      "name": "Sterne Sehen",
-      "url": "https://open.spotify.com/track/4vNMyM0fSjooHCBFOH0q8d"
+      "duration_ms": 169761,
+      "name": "schwarze SUVs",
+      "url": "https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -723,22 +739,6 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "schwarze SUVs",
-        "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
-      },
-      "artists": [
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        }
-      ],
-      "duration_ms": 169761,
-      "name": "schwarze SUVs",
-      "url": "https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
         "name": "Lippen wie Rotwein",
         "url": "https://open.spotify.com/album/18pxDQ7pIWTiBbZvoFYJny"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 146346,
       "name": "luft holen",
       "url": "https://open.spotify.com/track/4IvZk9sjOkN8cG8kL710GI"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
-        "name": "Candy Crush",
-        "url": "https://open.spotify.com/album/5e2FeKsOQEjGRiHLUOfTEq"
-      },
-      "artists": [
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        }
-      ],
-      "duration_ms": 157216,
-      "name": "Candy Crush",
-      "url": "https://open.spotify.com/track/7zhRYYYqtKqWEtPUcc4YSF"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -851,22 +835,18 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Schlaf gut",
-        "url": "https://open.spotify.com/album/1Swdd6ktgwOrIYVCk3v4m7"
+        "name": "Candy Crush",
+        "url": "https://open.spotify.com/album/5e2FeKsOQEjGRiHLUOfTEq"
       },
       "artists": [
         {
-          "name": "Betterov",
-          "url": "https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ"
-        },
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
         }
       ],
-      "duration_ms": 201193,
-      "name": "Schlaf gut",
-      "url": "https://open.spotify.com/track/1gUDyPpx99jRTVgSvrWEjl"
+      "duration_ms": 157216,
+      "name": "Candy Crush",
+      "url": "https://open.spotify.com/track/7zhRYYYqtKqWEtPUcc4YSF"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -935,6 +915,26 @@
       "duration_ms": 160813,
       "name": "Mann vom Fach",
       "url": "https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
+        "name": "Schlaf gut",
+        "url": "https://open.spotify.com/album/1Swdd6ktgwOrIYVCk3v4m7"
+      },
+      "artists": [
+        {
+          "name": "Betterov",
+          "url": "https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ"
+        },
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 201193,
+      "name": "Schlaf gut",
+      "url": "https://open.spotify.com/track/1gUDyPpx99jRTVgSvrWEjl"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
+        "name": "1000 Liter Teer",
+        "url": "https://open.spotify.com/album/17xJVBmWiOyJVjCRb2bVaT"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "duration_ms": 188716,
+      "name": "1000 Liter Teer",
+      "url": "https://open.spotify.com/track/6rO1YKvGeBdLQ0h2IuLvLt"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
         "name": "so k.o.",
         "url": "https://open.spotify.com/album/4lEsfnmMIQKOn21J4PMwmc"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 214506,
       "name": "so k.o.",
       "url": "https://open.spotify.com/track/0B4gBXd4XLXGvaBl7pI2vL"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
-        "name": "1000 Liter Teer",
-        "url": "https://open.spotify.com/album/17xJVBmWiOyJVjCRb2bVaT"
-      },
-      "artists": [
-        {
-          "name": "error",
-          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
-        }
-      ],
-      "duration_ms": 188716,
-      "name": "1000 Liter Teer",
-      "url": "https://open.spotify.com/track/6rO1YKvGeBdLQ0h2IuLvLt"
     },
     {
       "added_at": "2024-02-01 23:01:00",

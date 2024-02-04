@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 128754,
+  "2024-02-04": 129022,
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Yeri Mua y Uzielito Mix en portada ",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Bellakath en portada ",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -1484,6 +1484,28 @@
     },
     {
       "album": {
+        "name": "Combiaton",
+        "url": "https://open.spotify.com/album/1q3zeAg3m4ccvrAhZz7mqt"
+      },
+      "artists": [
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        },
+        {
+          "name": "Casper Mx",
+          "url": "https://open.spotify.com/artist/0QjuV8gi45r33s5vwgIyIn"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139218,
+      "name": "Combiaton",
+      "url": "https://open.spotify.com/track/1h3It2uHrJAShvEzTRjP70"
+    },
+    {
+      "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/7rNprFES6lD2zMTaK2Vf2A"
       },
@@ -1803,7 +1825,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 91472,
       "name": "Cuca",
       "url": "https://open.spotify.com/track/0KYIDzjHNAgMbJgVOwt2ee"
@@ -2573,6 +2595,28 @@
       "duration_ms": 169173,
       "name": "El Party",
       "url": "https://open.spotify.com/track/6pcMRZwjqZKNxWCPL5Sn3s"
+    },
+    {
+      "album": {
+        "name": "El Que Resuelve",
+        "url": "https://open.spotify.com/album/1PMRGdRKgG9nRwlX8XfasE"
+      },
+      "artists": [
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+        },
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170399,
+      "name": "El Que Resuelve",
+      "url": "https://open.spotify.com/track/56Br9FPB36z1qf8gnu2Zib"
     },
     {
       "album": {
@@ -5152,6 +5196,28 @@
     },
     {
       "album": {
+        "name": "MAMI CHAKALOSA",
+        "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136843,
+      "name": "MAMI CHAKALOSA",
+      "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
+    },
+    {
+      "album": {
         "name": "Viaje",
         "url": "https://open.spotify.com/album/357zeMgmmEe5JS0N568ugH"
       },
@@ -5495,6 +5561,32 @@
       "duration_ms": 190666,
       "name": "Menta",
       "url": "https://open.spotify.com/track/1a7BzukLRIIsOvJGozrFja"
+    },
+    {
+      "album": {
+        "name": "Metele",
+        "url": "https://open.spotify.com/album/0LIUCjZD8j3yg8nlTNHCmm"
+      },
+      "artists": [
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        },
+        {
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        },
+        {
+          "name": "Dj Alexis",
+          "url": "https://open.spotify.com/artist/1qBWQyXZqXoAVqpII7KsAv"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152293,
+      "name": "Metele",
+      "url": "https://open.spotify.com/track/6gIpqKqIGRcegupuLUnNv3"
     },
     {
       "album": {
@@ -7709,7 +7801,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 148073,
       "name": "Rosita Sakura",
       "url": "https://open.spotify.com/track/3eMgAnyfJ6Ax6GymY2rjsD"
@@ -7911,7 +8003,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 156537,
       "name": "SANTOBELLAKO",
       "url": "https://open.spotify.com/track/1CbyWChnprjBBbPFAQXllE"
@@ -9393,7 +9485,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 155454,
       "name": "UY (feat. Milo Mae)",
       "url": "https://open.spotify.com/track/6cFVj4HsrKwq8slnigLjDy"

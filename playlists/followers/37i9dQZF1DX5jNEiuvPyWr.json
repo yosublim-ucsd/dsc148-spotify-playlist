@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 352669,
+  "2024-02-04": 352658,
   "date_first_scraped": "2022-07-17",
   "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : mademoiselle lou",
   "name": "Cloud Rap",
@@ -2807,6 +2807,24 @@
     {
       "album": {
         "name": "ALPHA (Parties 1&2)",
+        "url": "https://open.spotify.com/album/1NTYNLaNEoAiZwT3mcNuP5"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147986,
+      "name": "J'connais",
+      "url": "https://open.spotify.com/track/1aZVHOARM5FLgfAlHBtntr"
+    },
+    {
+      "album": {
+        "name": "ALPHA (Parties 1&2)",
         "url": "https://open.spotify.com/album/2P0rDh5cLuiMGBYNSxpX5u"
       },
       "artists": [
@@ -2817,7 +2835,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 147986,
       "name": "J'connais",
       "url": "https://open.spotify.com/track/30XqjaNJxeglrqz79AQWwo"

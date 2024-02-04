@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 424711,
+  "num_followers": 424801,
   "original_name": "Trap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWI1NTZhZjJmYjAwOTA4MmZhZjU5MGIyMzI0YTczZmUyOGExYWE0",
+  "snapshot_id": "MCwzNmU0YmJhODVmOTg5M2NjNTY5ODlmMDFhMTk2NWY4YjE4YzljYTM1",
   "tracks": [
     {
       "added_at": "2022-06-08 18:27:09",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "M\u00e1quina do Tempo",
-      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Chosen Few: New Generation",
         "url": "https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 335736,
       "name": "0 Sentimientos (Remix) [feat. Baby Rasta, Noriel, Darkiel, Messiah & Lyan]",
       "url": "https://open.spotify.com/track/3gYco8uoFBmpxqYlz3Zhs7"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "M\u00e1quina do Tempo",
+      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -719,22 +719,18 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Un Ratito Mas",
-        "url": "https://open.spotify.com/album/0AIoxEYCgmfD856498j2dq"
+        "name": "Flakk Daniel's Lp",
+        "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
       },
       "artists": [
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 283120,
-      "name": "Un Ratito Mas",
-      "url": "https://open.spotify.com/track/2SzgK8i6si6ETtu57nTdSn"
+      "duration_ms": 194851,
+      "name": "Lejos de T\u00ed",
+      "url": "https://open.spotify.com/track/30pCOQE19RvNmHq78Svlkm"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -767,18 +763,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Flakk Daniel's Lp",
-        "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
+        "name": "Un Ratito Mas",
+        "url": "https://open.spotify.com/album/0AIoxEYCgmfD856498j2dq"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 194851,
-      "name": "Lejos de T\u00ed",
-      "url": "https://open.spotify.com/track/30pCOQE19RvNmHq78Svlkm"
+      "duration_ms": 283120,
+      "name": "Un Ratito Mas",
+      "url": "https://open.spotify.com/track/2SzgK8i6si6ETtu57nTdSn"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
-        "url": "https://open.spotify.com/album/4fz9Lm8O94dPFo3uga9Cm4"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 276768,
-      "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
-      "url": "https://open.spotify.com/track/1WDDZngXuT5o8ePqXeNtvM"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "The Greatest Hits, Vol. I",
         "url": "https://open.spotify.com/album/3oDUZCH3VNFKYNBCZbrFkM"
       },
@@ -1427,22 +1407,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Ella Es una G",
-        "url": "https://open.spotify.com/album/0LZvdr6kQETllHmCgnmzIh"
+        "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
+        "url": "https://open.spotify.com/album/4fz9Lm8O94dPFo3uga9Cm4"
       },
       "artists": [
         {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
         },
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 216916,
-      "name": "Ella Es una G",
-      "url": "https://open.spotify.com/track/0auXrMuY60r1lfRozhloTk"
+      "duration_ms": 276768,
+      "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
+      "url": "https://open.spotify.com/track/1WDDZngXuT5o8ePqXeNtvM"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1463,6 +1443,26 @@
       "duration_ms": 182183,
       "name": "Vete",
       "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Ella Es una G",
+        "url": "https://open.spotify.com/album/0LZvdr6kQETllHmCgnmzIh"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 216916,
+      "name": "Ella Es una G",
+      "url": "https://open.spotify.com/track/0auXrMuY60r1lfRozhloTk"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Flexin'",
-        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 179383,
-      "name": "Flexin'",
-      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Flakk Daniel's Lp",
         "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 304733,
       "name": "Ojala",
       "url": "https://open.spotify.com/track/63EJDEfcZwwRlPt5qEWPjV"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Flexin'",
+        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 179383,
+      "name": "Flexin'",
+      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "No Quiere Amor (feat. Farruko)",
-        "url": "https://open.spotify.com/album/1IREmSsAW11sdfG8gDUygU"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "No Quiere Amor (feat. Farruko)",
-      "url": "https://open.spotify.com/track/4NGlDkTO27uxg8del4oTAr"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Gan-Ga (Remix)",
         "url": "https://open.spotify.com/album/18gdcJyZklZ0iuvVTc5QRj"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 193363,
       "name": "Gan-Ga - Remix",
       "url": "https://open.spotify.com/track/6MpJR5hR1pS8xi3clcx9uv"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "No Quiere Amor (feat. Farruko)",
+        "url": "https://open.spotify.com/album/1IREmSsAW11sdfG8gDUygU"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "No Quiere Amor (feat. Farruko)",
+      "url": "https://open.spotify.com/track/4NGlDkTO27uxg8del4oTAr"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2187,6 +2187,34 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/7BgcHmgYP3sp0AAYLKyc0s"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        },
+        {
+          "name": "Halpe",
+          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 214615,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/1thzPqoQxXhh6YHhANIFnj"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "DUDADE",
         "url": "https://open.spotify.com/album/4iAnukID7GT1dclIsrnyxx"
       },
@@ -2227,54 +2255,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/7BgcHmgYP3sp0AAYLKyc0s"
-      },
-      "artists": [
-        {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-        },
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        },
-        {
-          "name": "Halpe",
-          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 214615,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/1thzPqoQxXhh6YHhANIFnj"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Nivel",
-        "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
-      },
-      "artists": [
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Perdoname Si Llego Tarde",
-      "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Si Me Muero (feat. Farruko, Lary Over, Nengo Flow & Darell)",
         "url": "https://open.spotify.com/album/6pL4zBmPeNUAyCxCJnVR42"
       },
@@ -2303,6 +2283,26 @@
       "duration_ms": 293767,
       "name": "Si Me Muero",
       "url": "https://open.spotify.com/track/6iPwLPlliVlCtrhghwZ6es"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Nivel",
+        "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Perdoname Si Llego Tarde",
+      "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
     },
     {
       "added_at": "2022-06-08 18:27:09",

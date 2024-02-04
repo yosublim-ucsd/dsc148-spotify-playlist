@@ -4,7 +4,7 @@
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Puppy
 
-1,492 songs - 3 day 15 hr 19 min
+1,493 songs - 3 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1495,7 +1495,8 @@
 | [Ấm Êm](https://open.spotify.com/track/5eV8fYdQOXzKnPfRH9qubz) | [Hưng Cao](https://open.spotify.com/artist/6NgAx7a1qFwLpTCC43sZrV), [Raise](https://open.spotify.com/artist/4CvxPKJDJe1QN8mI2zi9xL) | [Ấm Êm](https://open.spotify.com/album/4rpFjz5s6DvhJRwlOW0RHT) | 3:08 | 2023-11-09 | 2023-11-30 |
 | [Ấm Êm](https://open.spotify.com/track/07V898tEbqF67AMb5Nn9h8) | [Lahi](https://open.spotify.com/artist/1uENTg8Fy1U7lEsQWcjIFF), [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC) | [Ấm Êm](https://open.spotify.com/album/4TCIX5c9H4Z2k2ElFOVTFO) | 2:52 | 2023-02-15 |  |
 | [ẾCH NGỒI ĐÁY GIẾNG](https://open.spotify.com/track/3vJz6A6xfiGwjC4xKoRoUP) | [NÂN](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB), [maiki](https://open.spotify.com/artist/4XrL4M8qhP14zpdqfb5F9a) | [XT\-TX](https://open.spotify.com/album/5BFT5j8R4db316nYCG8KGo) | 3:16 | 2024-01-18 | 2024-01-27 |
-| [Ổn Thôi Mà \(Gwenchana\)](https://open.spotify.com/track/3SBMoue4CeHUdCbvb8bh5u) | [Alex TKN](https://open.spotify.com/artist/2mF5v2VRxRAgRAuBb1LYL9) | [Ổn Thôi Mà \(Gwenchana\)](https://open.spotify.com/album/0oE1rOLxnokX9QuYL0XecD) | 4:57 | 2024-01-24 |  |
+| [Ổn Thôi Mà \(Gwenchana\)](https://open.spotify.com/track/3SBMoue4CeHUdCbvb8bh5u) | [Alex TKN](https://open.spotify.com/artist/2mF5v2VRxRAgRAuBb1LYL9) | [Ổn Thôi Mà \(Gwenchana\)](https://open.spotify.com/album/0oE1rOLxnokX9QuYL0XecD) | 4:57 | 2024-01-24 | 2024-02-04 |
+| [Ổn Thôi Mà \(Gwenchana\)](https://open.spotify.com/track/4Z0pQVOggxLvK1qbSDNDMj) | [Alex TKN](https://open.spotify.com/artist/2mF5v2VRxRAgRAuBb1LYL9) | [Ổn Thôi Mà \(Gwenchana\)](https://open.spotify.com/album/6NXNgfbcUqAGJMyLmWISnO) | 4:57 | 2024-02-01 |  |
 | [Ở Lại](https://open.spotify.com/track/62UfSSzyX2K1hvhZbvDTEo) | [Bigg Vu](https://open.spotify.com/artist/7g4X3YRbkUfB5WTS0KOc4B) | [Ở Lại](https://open.spotify.com/album/1JEaYwhP18VqbwHylQwMP8) | 3:12 | 2023-01-26 | 2023-02-01 |
 | [Ở lại](https://open.spotify.com/track/4h7QyJlxwmgqC5TrYyigba) | [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh), [Bí Nhe](https://open.spotify.com/artist/3nQIlmGkxvwm2kZ1ueopqx) | [Ở lại](https://open.spotify.com/album/6K2QEIPH7MOn9jDEg5FYYR) | 2:18 | 2023-03-23 | 2023-05-23 |
 | [Ở Trong Em](https://open.spotify.com/track/0s0miHlc60MwKktiRgY9SQ) | [Droppy](https://open.spotify.com/artist/4EqEodSfNgQPwoHxbdZlpT), [NHATNGUYEN](https://open.spotify.com/artist/3pxke5x7WfMfs5IwsSAh0u), [Hổ](https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ) | [Ở Trong Em](https://open.spotify.com/album/1SZCulOLZl9NneKPDouGOj) | 3:23 | 2023-09-08 | 2023-09-26 |

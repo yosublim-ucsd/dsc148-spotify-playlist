@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Rezz",
-  "num_followers": 976021,
+  "num_followers": 976048,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmNjZDliYTIwMjUwYTRlNzQ5OTUwMjkzODJkNmIwZWI4MWY3NWRi",
+  "snapshot_id": "MCw0YTk2ZTIxNzk5OWQyNDM0NTM4NWNiOTMwMjMzNjU2MjI1NDVlZjYw",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1009,46 +1009,6 @@
       "url": "https://open.spotify.com/track/6XalOWSuUETUT1YEXqMWmJ"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd"
-      },
-      "artists": [
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "L\u00f8 Spirit",
-          "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
-    },
-    {
-      "added_at": "2024-01-26 05:00:36",
-      "album": {
-        "name": "Everclear",
-        "url": "https://open.spotify.com/album/6Vj8sFK3LiPzkUWZeNrPzi"
-      },
-      "artists": [
-        {
-          "name": "Crumb Pit",
-          "url": "https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Everclear",
-      "url": "https://open.spotify.com/track/6tRizE7J8YOkXS0Xw6P1QE"
-    },
-    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "OneHundred",
@@ -1071,6 +1031,46 @@
       "duration_ms": 189376,
       "name": "OneHundred",
       "url": "https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP"
+    },
+    {
+      "added_at": "2024-01-26 05:00:36",
+      "album": {
+        "name": "Everclear",
+        "url": "https://open.spotify.com/album/6Vj8sFK3LiPzkUWZeNrPzi"
+      },
+      "artists": [
+        {
+          "name": "Crumb Pit",
+          "url": "https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Everclear",
+      "url": "https://open.spotify.com/track/6tRizE7J8YOkXS0Xw6P1QE"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "L\u00f8 Spirit",
+          "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1189,6 +1189,22 @@
       "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
     },
     {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "INFERNO / Ratchets",
+        "url": "https://open.spotify.com/album/6doPpUdLA2hRzbE4YJDTHI"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 167533,
+      "name": "INFERNO",
+      "url": "https://open.spotify.com/track/0qGWp7DlpMBeD1ol9uTHfV"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Pour Your Heart Out (feat. 070 Shake)",
@@ -1229,26 +1245,6 @@
       "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "I Found You",
-        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 176548,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
-    },
-    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Nan Slapper",
@@ -1269,40 +1265,24 @@
       "url": "https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "INFERNO / Ratchets",
-        "url": "https://open.spotify.com/album/6doPpUdLA2hRzbE4YJDTHI"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "INFERNO",
-      "url": "https://open.spotify.com/track/0qGWp7DlpMBeD1ol9uTHfV"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Sweet Dreams (Are Made Of This)",
-        "url": "https://open.spotify.com/album/6TCJvwsIvDhoSlJQEhWWKI"
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
       },
       "artists": [
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
         },
         {
-          "name": "fknsyd",
-          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Sweet Dreams (Are Made Of This)",
-      "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
+      "duration_ms": 176548,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1331,22 +1311,38 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf"
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
       },
       "artists": [
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
         }
       ],
-      "duration_ms": 243200,
-      "name": "Asteroid",
-      "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Sweet Dreams (Are Made Of This)",
+        "url": "https://open.spotify.com/album/6TCJvwsIvDhoSlJQEhWWKI"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Sweet Dreams (Are Made Of This)",
+      "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1371,6 +1367,26 @@
       "duration_ms": 245333,
       "name": "Don't Look Down (Hold On)",
       "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Asteroid",
+      "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
     },
     {
       "added_at": "2024-01-05 05:03:38",
@@ -1465,22 +1481,6 @@
       "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Walk On Water (Wooli & Trivecta Remix)",
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Omnidirectional",
-        "url": "https://open.spotify.com/album/1JffeD5SMNcg2DmFNkjrLF"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 222608,
-      "name": "Omnidirectional",
-      "url": "https://open.spotify.com/track/3Uadv5DQG3qXZ1jFYIQBVT"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "kidsgonemad!",
@@ -1559,6 +1543,22 @@
       "duration_ms": 221142,
       "name": "dontstopme!",
       "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Omnidirectional",
+        "url": "https://open.spotify.com/album/1JffeD5SMNcg2DmFNkjrLF"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 222608,
+      "name": "Omnidirectional",
+      "url": "https://open.spotify.com/track/3Uadv5DQG3qXZ1jFYIQBVT"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1625,26 +1625,6 @@
       "url": "https://open.spotify.com/track/6DVZpwOZyjhPkL09b0mqtg"
     },
     {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Out For Blood",
-        "url": "https://open.spotify.com/album/4dYVktttrR5GVE6JEFA0Xp"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Omar LinX",
-          "url": "https://open.spotify.com/artist/6fSNDuge2fLINdnCCbpZx6"
-        }
-      ],
-      "duration_ms": 316734,
-      "name": "Out For Blood",
-      "url": "https://open.spotify.com/track/0UNpHzs0Sm29tiIl6Wq6RN"
-    },
-    {
       "added_at": "2023-12-15 05:13:07",
       "album": {
         "name": "Mind Control",
@@ -1663,6 +1643,26 @@
       "duration_ms": 198000,
       "name": "Mind Control",
       "url": "https://open.spotify.com/track/28vsBdSYrVngw6b7hA6bos"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Out For Blood",
+        "url": "https://open.spotify.com/album/4dYVktttrR5GVE6JEFA0Xp"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Omar LinX",
+          "url": "https://open.spotify.com/artist/6fSNDuge2fLINdnCCbpZx6"
+        }
+      ],
+      "duration_ms": 316734,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/0UNpHzs0Sm29tiIl6Wq6RN"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1725,6 +1725,26 @@
       "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
     },
     {
+      "added_at": "2023-12-15 05:13:07",
+      "album": {
+        "name": "DUST",
+        "url": "https://open.spotify.com/album/0uN2BI1IXYXmWpa2W1fbb9"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "DUST",
+      "url": "https://open.spotify.com/track/2wLZwbz7jsZcUMC6wV4Mf4"
+    },
+    {
       "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "ANGELS IN HELL",
@@ -1747,26 +1767,6 @@
       "duration_ms": 234350,
       "name": "ANGELS IN HELL",
       "url": "https://open.spotify.com/track/6g7dSKYqZTuaGSLsf4o0s5"
-    },
-    {
-      "added_at": "2023-12-15 05:13:07",
-      "album": {
-        "name": "DUST",
-        "url": "https://open.spotify.com/album/0uN2BI1IXYXmWpa2W1fbb9"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "DUST",
-      "url": "https://open.spotify.com/track/2wLZwbz7jsZcUMC6wV4Mf4"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1793,26 +1793,6 @@
       "url": "https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL"
     },
     {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "Bonesaw (Remixes)",
-        "url": "https://open.spotify.com/album/332X85iYJtHx8xuPel4H68"
-      },
-      "artists": [
-        {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
-        },
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Bonesaw - K Motionz Remix",
-      "url": "https://open.spotify.com/track/72b38XDyJAjCjXBT8hQizD"
-    },
-    {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "LOYAL",
@@ -1831,6 +1811,26 @@
       "duration_ms": 255882,
       "name": "LOYAL",
       "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Bonesaw (Remixes)",
+        "url": "https://open.spotify.com/album/332X85iYJtHx8xuPel4H68"
+      },
+      "artists": [
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        },
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Bonesaw - K Motionz Remix",
+      "url": "https://open.spotify.com/track/72b38XDyJAjCjXBT8hQizD"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1865,26 +1865,6 @@
       "url": "https://open.spotify.com/track/4Xo0c4AtfUUuprVEKzyNYW"
     },
     {
-      "added_at": "2023-12-15 05:13:07",
-      "album": {
-        "name": "Skanka (P Money Vocal Dub)",
-        "url": "https://open.spotify.com/album/70GlGp3nB4wbZasLKDh707"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 192049,
-      "name": "Skanka - P Money Vocal Dub",
-      "url": "https://open.spotify.com/track/4n7PlmHa8DU1elvSbYTOFY"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "kidsgonemad!",
@@ -1903,6 +1883,26 @@
       "duration_ms": 208941,
       "name": "SHYPOP",
       "url": "https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s"
+    },
+    {
+      "added_at": "2023-12-15 05:13:07",
+      "album": {
+        "name": "Skanka (P Money Vocal Dub)",
+        "url": "https://open.spotify.com/album/70GlGp3nB4wbZasLKDh707"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 192049,
+      "name": "Skanka - P Money Vocal Dub",
+      "url": "https://open.spotify.com/track/4n7PlmHa8DU1elvSbYTOFY"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Forgive Forget",
-        "url": "https://open.spotify.com/album/6yoKpY3SB8swU6VtwRq8Zs"
-      },
-      "artists": [
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Forgive Forget",
-      "url": "https://open.spotify.com/track/3DyZ0jw7mjRdcwiDvAL26Q"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Feel Ur Touch",
         "url": "https://open.spotify.com/album/7pfd5jFr6TMpb9x7U04eAs"
       },
@@ -2075,6 +2059,30 @@
       "duration_ms": 201379,
       "name": "Feel Ur Touch",
       "url": "https://open.spotify.com/track/6Ic1geNctwh66xumQ3qyyw"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "HEARTWAVE",
+        "url": "https://open.spotify.com/album/4FevY6KzCiRMzeCO2D4jcB"
+      },
+      "artists": [
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        },
+        {
+          "name": "Xotix",
+          "url": "https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW"
+        }
+      ],
+      "duration_ms": 245536,
+      "name": "RAD",
+      "url": "https://open.spotify.com/track/6fdEHZu9ESPsZ2yc8wKwlP"
     }
   ],
   "unique_name": "Bass Arcade",

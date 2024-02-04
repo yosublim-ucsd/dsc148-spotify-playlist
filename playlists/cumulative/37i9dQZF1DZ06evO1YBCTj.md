@@ -4,7 +4,7 @@
 
 > This is keshi\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 8 min
+45 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [bandaids](https://open.spotify.com/track/2ZP85Jq4K27V6WWVXfINSR) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 3:35 | 2024-01-29 |  |
 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 | 2024-01-29 |  |
 | [blue](https://open.spotify.com/track/21yCOhgaDMc0KEtxhZHTbI) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 2:58 | 2024-01-29 |  |
-| [don't leave](https://open.spotify.com/track/4TyxaQOzNegSypklOwwDgv) | [Ionika](https://open.spotify.com/artist/1GVuqedQwOPdtbQSIhKt9i), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [don't leave](https://open.spotify.com/album/6eYsINX4Fsct8hbYdJ4KPY) | 2:08 | 2024-01-29 |  |
+| [don't leave](https://open.spotify.com/track/4QNofaokr9HLlDR685RkMS) | [Ionika](https://open.spotify.com/artist/1GVuqedQwOPdtbQSIhKt9i), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [don't leave](https://open.spotify.com/album/34kgbmk0mmFjw8gzyVbQCL) | 2:08 | 2024-02-03 |  |
+| [don't leave](https://open.spotify.com/track/4TyxaQOzNegSypklOwwDgv) | [Ionika](https://open.spotify.com/artist/1GVuqedQwOPdtbQSIhKt9i), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [don't leave](https://open.spotify.com/album/6eYsINX4Fsct8hbYdJ4KPY) | 2:08 | 2024-01-29 | 2024-02-04 |
 | [drunk](https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:47 | 2024-01-29 |  |
 | [GODSPLAN](https://open.spotify.com/track/6aytsGpo91kYvyiT0qZca3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [good days](https://open.spotify.com/album/6xOdE0k7H5TY9x74dhLdti) | 3:21 | 2024-01-29 |  |
 | [goes to waste](https://open.spotify.com/track/3bPoXD94h9nopjEUeqdb97) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [if you're not the one for me who is](https://open.spotify.com/album/3NhJAWT9TfMOxpOhtfzSAM) | 2:16 | 2024-01-29 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 139180,
+  "2024-02-04": 139242,
   "date_first_scraped": "2022-05-30",
   "description": "Walk the threshold into the netherworld...",
   "name": "Hauntology",
@@ -367,6 +367,24 @@
       "duration_ms": 258625,
       "name": "Aurelie (Lido Pimienta Remix)",
       "url": "https://open.spotify.com/track/0vFdrzcSex0hPwLnw3SFa1"
+    },
+    {
+      "album": {
+        "name": "Everywhere at the End of Time (Stage 1)",
+        "url": "https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T"
+      },
+      "artists": [
+        {
+          "name": "The Caretaker",
+          "url": "https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244373,
+      "name": "B4 - The loves of my entire life",
+      "url": "https://open.spotify.com/track/6806PuNd2YyEuzjtBo1yMv"
     },
     {
       "album": {
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 277524,
       "name": "Dero",
       "url": "https://open.spotify.com/track/25HisYhsb9dXkcFQJC7FgL"
@@ -3329,7 +3347,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 195269,
       "name": "Strangled To Death In A Public Toilet",
       "url": "https://open.spotify.com/track/656AfjtJiPra3BmDJihzbA"
@@ -3611,6 +3629,24 @@
       "duration_ms": 309334,
       "name": "The Black Mill Video Tape",
       "url": "https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk"
+    },
+    {
+      "album": {
+        "name": "The Bloodwren pt. II",
+        "url": "https://open.spotify.com/album/1Tc8SGlaDltVNRgU80EjsF"
+      },
+      "artists": [
+        {
+          "name": "Ceiling Spirits",
+          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496300,
+      "name": "The Bloodwren pt. II",
+      "url": "https://open.spotify.com/track/7bTVWXk2jJUipSfGaSZG8b"
     },
     {
       "album": {

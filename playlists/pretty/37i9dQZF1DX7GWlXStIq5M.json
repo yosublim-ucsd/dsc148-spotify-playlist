@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes pop dividindo o mesmo palco!  / Foto: DUDA BEAT",
-  "num_followers": 364148,
+  "num_followers": 364077,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTBjOTU5MDZmODk2NjhhMzM3YjdiOWU3NjllYmU3YjBhNjIwZmEz",
+  "snapshot_id": "MCwxZmU3ZDAyNmJkMjU3ZmQ2Yzk4NTFiZTQwMTQ0Y2I0OWZmNjM2YTll",
   "tracks": [
     {
       "added_at": "2024-02-02 18:50:20",
@@ -186,6 +186,10 @@
         {
           "name": "Nairo",
           "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
       "duration_ms": 156000,
@@ -259,6 +263,22 @@
     {
       "added_at": "2024-02-02 18:50:20",
       "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 76248,
+      "name": "Campo De Morango",
+      "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
+    },
+    {
+      "added_at": "2024-02-02 18:50:20",
+      "album": {
         "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
         "url": "https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL"
       },
@@ -283,22 +303,6 @@
       "duration_ms": 135892,
       "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
       "url": "https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk"
-    },
-    {
-      "added_at": "2024-02-02 18:50:20",
-      "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 76248,
-      "name": "Campo De Morango",
-      "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
     },
     {
       "added_at": "2024-02-02 18:50:20",
@@ -359,6 +363,26 @@
       "duration_ms": 127992,
       "name": "Monstr\u00e3o",
       "url": "https://open.spotify.com/track/2LZjtOXWZMSpRbQyd89HyQ"
+    },
+    {
+      "added_at": "2024-02-02 18:50:20",
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        }
+      ],
+      "duration_ms": 234730,
+      "name": "Surreal",
+      "url": "https://open.spotify.com/track/1dv8qeBPtLAli7J3xNeTDR"
     },
     {
       "added_at": "2024-02-02 18:50:20",
@@ -451,22 +475,6 @@
     {
       "added_at": "2024-02-02 18:50:20",
       "album": {
-        "name": "V\u00edcio Inerente",
-        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 205111,
-      "name": "Dano Sarrada",
-      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
-    },
-    {
-      "added_at": "2024-02-02 18:50:20",
-      "album": {
         "name": "Labirinto",
         "url": "https://open.spotify.com/album/1VqFCDs5i27SB11y6aPs8Y"
       },
@@ -491,22 +499,18 @@
     {
       "added_at": "2024-02-02 18:50:20",
       "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+        "name": "V\u00edcio Inerente",
+        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 234730,
-      "name": "Surreal",
-      "url": "https://open.spotify.com/track/1dv8qeBPtLAli7J3xNeTDR"
+      "duration_ms": 205111,
+      "name": "Dano Sarrada",
+      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
     },
     {
       "added_at": "2024-02-02 18:50:20",
@@ -555,6 +559,22 @@
     {
       "added_at": "2024-02-02 18:50:20",
       "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 140196,
+      "name": "Carnificina",
+      "url": "https://open.spotify.com/track/6V6fcreiDPSsxTlVKveaiI"
+    },
+    {
+      "added_at": "2024-02-02 18:50:20",
+      "album": {
         "name": "SUPER",
         "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 167076,
       "name": "Nu",
       "url": "https://open.spotify.com/track/74myq4QbO9E8bTtLQuOWYY"
-    },
-    {
-      "added_at": "2024-02-02 18:50:20",
-      "album": {
-        "name": "V\u00edcio Inerente",
-        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Que Tal",
-      "url": "https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68"
     },
     {
       "added_at": "2024-02-02 18:50:20",
@@ -651,34 +651,38 @@
     {
       "added_at": "2024-02-02 18:50:20",
       "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+        "name": "V\u00edcio Inerente",
+        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
         }
       ],
-      "duration_ms": 140196,
-      "name": "Carnificina",
-      "url": "https://open.spotify.com/track/6V6fcreiDPSsxTlVKveaiI"
+      "duration_ms": 190000,
+      "name": "Que Tal",
+      "url": "https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68"
     },
     {
       "added_at": "2024-02-02 18:50:20",
       "album": {
-        "name": "Funk Generation: A Favela Love Story",
-        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 172950,
-      "name": "Used To Be",
-      "url": "https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi"
+      "duration_ms": 201612,
+      "name": "Alinhamento Milenar",
+      "url": "https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m"
     },
     {
       "added_at": "2024-02-02 18:50:20",
@@ -703,34 +707,38 @@
     {
       "added_at": "2024-02-02 18:50:20",
       "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
+        "name": "MAMA.CITA (hasta la vista)",
+        "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
       },
       "artists": [
         {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         }
       ],
-      "duration_ms": 201612,
-      "name": "Alinhamento Milenar",
-      "url": "https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m"
+      "duration_ms": 152358,
+      "name": "MAMA.CITA (hasta la vista)",
+      "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
     },
     {
       "added_at": "2024-02-02 18:50:20",
       "album": {
-        "name": "V\u00edcio Inerente",
-        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
+        "name": "Funk Generation: A Favela Love Story",
+        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
       },
       "artists": [
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Tudo Pra Amar Voc\u00ea",
-      "url": "https://open.spotify.com/track/729wf3M4niTm0Cw7J8p63a"
+      "duration_ms": 172950,
+      "name": "Used To Be",
+      "url": "https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi"
     },
     {
       "added_at": "2024-02-02 18:50:20",
@@ -763,22 +771,18 @@
     {
       "added_at": "2024-02-02 18:50:20",
       "album": {
-        "name": "MAMA.CITA (hasta la vista)",
-        "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
+        "name": "V\u00edcio Inerente",
+        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 152358,
-      "name": "MAMA.CITA (hasta la vista)",
-      "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
+      "duration_ms": 175000,
+      "name": "Tudo Pra Amar Voc\u00ea",
+      "url": "https://open.spotify.com/track/729wf3M4niTm0Cw7J8p63a"
     },
     {
       "added_at": "2024-02-02 18:50:20",
@@ -843,22 +847,6 @@
       "duration_ms": 150142,
       "name": "Falta De Aten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4KPZyTXOMkBxCo2e4KXbDf"
-    },
-    {
-      "added_at": "2024-02-02 18:50:20",
-      "album": {
-        "name": "Funk Generation: A Favela Love Story",
-        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 133140,
-      "name": "Casi Casi",
-      "url": "https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma"
     },
     {
       "added_at": "2024-02-02 18:50:20",
@@ -951,6 +939,22 @@
     {
       "added_at": "2024-02-02 18:50:20",
       "album": {
+        "name": "Funk Generation: A Favela Love Story",
+        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 133140,
+      "name": "Casi Casi",
+      "url": "https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma"
+    },
+    {
+      "added_at": "2024-02-02 18:50:20",
+      "album": {
         "name": "NOVA ERA Part. I",
         "url": "https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr"
       },
@@ -1007,6 +1011,22 @@
     {
       "added_at": "2024-02-02 18:50:20",
       "album": {
+        "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+        "url": "https://open.spotify.com/album/4d44mgau5zT5kYTcIvbHoj"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/597FnKApiz3TfkE8MB1wom"
+    },
+    {
+      "added_at": "2024-02-02 18:50:20",
+      "album": {
         "name": "Baile do Papato",
         "url": "https://open.spotify.com/album/2xReweSuwmZbdogHMILeek"
       },
@@ -1035,22 +1055,6 @@
       "duration_ms": 181670,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/3Q0LWpLuhEcCCWjpfBRnzH"
-    },
-    {
-      "added_at": "2024-02-02 18:50:20",
-      "album": {
-        "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-        "url": "https://open.spotify.com/album/4d44mgau5zT5kYTcIvbHoj"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 192421,
-      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-      "url": "https://open.spotify.com/track/597FnKApiz3TfkE8MB1wom"
     },
     {
       "added_at": "2024-02-02 18:50:20",
@@ -1167,6 +1171,22 @@
     {
       "added_at": "2024-02-02 18:50:20",
       "album": {
+        "name": "ADMIR\u00c1VEL CHIP NOVO (RE)ATIVADO",
+        "url": "https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Equalize",
+      "url": "https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0"
+    },
+    {
+      "added_at": "2024-02-02 18:50:20",
+      "album": {
         "name": "Groove",
         "url": "https://open.spotify.com/album/77TVmhsrBT7AVvlqEajZrt"
       },
@@ -1203,38 +1223,6 @@
     {
       "added_at": "2024-02-02 18:50:20",
       "album": {
-        "name": "Segredos da Vida",
-        "url": "https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 142136,
-      "name": "Segredos da Vida",
-      "url": "https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm"
-    },
-    {
-      "added_at": "2024-02-02 18:50:20",
-      "album": {
-        "name": "ADMIR\u00c1VEL CHIP NOVO (RE)ATIVADO",
-        "url": "https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Equalize",
-      "url": "https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0"
-    },
-    {
-      "added_at": "2024-02-02 18:50:20",
-      "album": {
         "name": "Deixe-me Ir",
         "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
       },
@@ -1247,6 +1235,22 @@
       "duration_ms": 219534,
       "name": "Deixe-me Ir",
       "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
+    },
+    {
+      "added_at": "2024-02-02 18:50:20",
+      "album": {
+        "name": "Segredos da Vida",
+        "url": "https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 142136,
+      "name": "Segredos da Vida",
+      "url": "https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm"
     },
     {
       "added_at": "2024-02-02 18:50:20",
@@ -1315,26 +1319,6 @@
     {
       "added_at": "2024-02-02 18:50:20",
       "album": {
-        "name": "Amorzin de Sacanage",
-        "url": "https://open.spotify.com/album/0R5cf0gW93CE17TYRU9rJZ"
-      },
-      "artists": [
-        {
-          "name": "Casa Comigo",
-          "url": "https://open.spotify.com/artist/28YHM1DOOJIWBvPpXzRkp6"
-        },
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Amorzin de Sacanage",
-      "url": "https://open.spotify.com/track/4LxprXblggpW2WnQb0gUI9"
-    },
-    {
-      "added_at": "2024-02-02 18:50:20",
-      "album": {
         "name": "Bandida N\u00e3o, Solteira",
         "url": "https://open.spotify.com/album/1eEyYWbAegi9oJ0DmgrkOd"
       },
@@ -1355,6 +1339,26 @@
     {
       "added_at": "2024-02-02 18:50:20",
       "album": {
+        "name": "Amorzin de Sacanage",
+        "url": "https://open.spotify.com/album/0R5cf0gW93CE17TYRU9rJZ"
+      },
+      "artists": [
+        {
+          "name": "Casa Comigo",
+          "url": "https://open.spotify.com/artist/28YHM1DOOJIWBvPpXzRkp6"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Amorzin de Sacanage",
+      "url": "https://open.spotify.com/track/4LxprXblggpW2WnQb0gUI9"
+    },
+    {
+      "added_at": "2024-02-02 18:50:20",
+      "album": {
         "name": "Oops!...I did it again",
         "url": "https://open.spotify.com/album/461OzAXwOEkJizU1lbjePv"
       },
@@ -1367,6 +1371,22 @@
       "duration_ms": 138064,
       "name": "Oops!\u2026I Did It Again",
       "url": "https://open.spotify.com/track/2kepUX44klRnnfcaYGqF0C"
+    },
+    {
+      "added_at": "2024-02-02 18:50:20",
+      "album": {
+        "name": "N\u00e3o consigo ir embora",
+        "url": "https://open.spotify.com/album/206GxB67tKFcuG70Sg9tr8"
+      },
+      "artists": [
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "N\u00e3o consigo ir embora",
+      "url": "https://open.spotify.com/track/5OLUTfWPXyMGL696s54mnW"
     },
     {
       "added_at": "2024-02-02 18:50:20",
@@ -1391,22 +1411,6 @@
     {
       "added_at": "2024-02-02 18:50:20",
       "album": {
-        "name": "N\u00e3o consigo ir embora",
-        "url": "https://open.spotify.com/album/206GxB67tKFcuG70Sg9tr8"
-      },
-      "artists": [
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "N\u00e3o consigo ir embora",
-      "url": "https://open.spotify.com/track/5OLUTfWPXyMGL696s54mnW"
-    },
-    {
-      "added_at": "2024-02-02 18:50:20",
-      "album": {
         "name": "Sonhei com voc\u00ea / Me Amarro Nela",
         "url": "https://open.spotify.com/album/5jtqUMEDYPccKAPINHCm2o"
       },
@@ -1427,6 +1431,22 @@
       "duration_ms": 130914,
       "name": "Me Amarro Nela",
       "url": "https://open.spotify.com/track/2gf5XAIP3Vb94V4RhpuJX4"
+    },
+    {
+      "added_at": "2024-02-02 18:50:20",
+      "album": {
+        "name": "Nem Sei Fingir",
+        "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Nem Sei Fingir",
+      "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
     },
     {
       "added_at": "2024-02-02 18:50:20",
@@ -1467,22 +1487,6 @@
       "duration_ms": 206000,
       "name": "Blayblayde",
       "url": "https://open.spotify.com/track/5LWf6aSIrK4Bj7exlmnDRB"
-    },
-    {
-      "added_at": "2024-02-02 18:50:20",
-      "album": {
-        "name": "Nem Sei Fingir",
-        "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Nem Sei Fingir",
-      "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
     },
     {
       "added_at": "2024-02-02 18:50:20",
@@ -1615,26 +1619,6 @@
     {
       "added_at": "2024-02-02 18:50:20",
       "album": {
-        "name": "flores de outono",
-        "url": "https://open.spotify.com/album/7nJAnAjYEtAnygSbPLrK2o"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 123664,
-      "name": "Flores de Outono",
-      "url": "https://open.spotify.com/track/0hJBTlBTold7SfouHAEhs9"
-    },
-    {
-      "added_at": "2024-02-02 18:50:20",
-      "album": {
         "name": "Pro Dia Nascer Feliz",
         "url": "https://open.spotify.com/album/5dePvauWlTrFFIwPsA3EHB"
       },
@@ -1655,6 +1639,26 @@
       "duration_ms": 195467,
       "name": "Pro Dia Nascer Feliz",
       "url": "https://open.spotify.com/track/0pciCbK80mgjXTYeVxbIru"
+    },
+    {
+      "added_at": "2024-02-02 18:50:20",
+      "album": {
+        "name": "flores de outono",
+        "url": "https://open.spotify.com/album/7nJAnAjYEtAnygSbPLrK2o"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 123664,
+      "name": "Flores de Outono",
+      "url": "https://open.spotify.com/track/0hJBTlBTold7SfouHAEhs9"
     },
     {
       "added_at": "2024-02-02 18:50:20",

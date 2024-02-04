@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Gabry Ponte
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,858 likes - 25 songs - 1 hr 12 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,863 likes - 25 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Crusade](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
+| 1 | [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
 | 2 | [If You Don't Like To Party](https://open.spotify.com/track/5dBTOZ3Rn6BIlDt470Btne) | [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [If You Don't Like To Party](https://open.spotify.com/album/55Sr4L5eif0q1mXLZ9LBOf) | 1:58 |
 | 3 | [Control](https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Control](https://open.spotify.com/album/6sD3U3E72UvI8Od8I6QoiA) | 2:55 |
 | 4 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 |

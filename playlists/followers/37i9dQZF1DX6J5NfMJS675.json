@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 2384326,
+  "2024-02-04": 2385000,
   "date_first_scraped": "2020-04-18",
   "description": "Welcome to the dark side of the club.",
   "name": "TECHNO BUNKER",
@@ -5941,6 +5941,24 @@
       "duration_ms": 292154,
       "name": "Lehmann Club",
       "url": "https://open.spotify.com/track/0VkDJuw8fCuaLFRk8L7O3w"
+    },
+    {
+      "album": {
+        "name": "Let's Begin",
+        "url": "https://open.spotify.com/album/3G95YugyYcr8ty6fIM1P5P"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250147,
+      "name": "Let's Begin",
+      "url": "https://open.spotify.com/track/008Q1wg8oH594VO9XkolM8"
     },
     {
       "album": {

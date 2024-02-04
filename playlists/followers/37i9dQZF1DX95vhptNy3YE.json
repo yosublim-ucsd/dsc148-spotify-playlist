@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 225595,
+  "2024-02-04": 225606,
   "date_first_scraped": "2022-03-24",
   "description": "Budah, Sotam, Aka Rasta e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
   "name": "AMPLIFIKA",
@@ -1531,7 +1531,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 146490,
       "name": "Boa Sorte Mesmo",
       "url": "https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx"
@@ -2969,6 +2969,48 @@
       "duration_ms": 205172,
       "name": "Deixa Alagar",
       "url": "https://open.spotify.com/track/33gI0PsuMH9dY5xlckLFMH"
+    },
+    {
+      "album": {
+        "name": "Desacato",
+        "url": "https://open.spotify.com/album/0pJN3wcy6eveGD29QGBJt8"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "MC Gui Da Norte",
+          "url": "https://open.spotify.com/artist/1PC8RPtwfgPPdlxyAsd1Bw"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438748,
+      "name": "Desacato",
+      "url": "https://open.spotify.com/track/1fzaUKQv7sgGW0udQVghSW"
     },
     {
       "album": {
@@ -7645,7 +7687,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 102400,
       "name": "Namora & Disfar\u00e7a - Bonus Track",
       "url": "https://open.spotify.com/track/3qm36Zh1qGQC2PHDQNdify"
@@ -8179,7 +8221,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 125624,
       "name": "N\u00e3o Tenho Tempo",
       "url": "https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1"

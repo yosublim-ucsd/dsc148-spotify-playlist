@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ES6W0ExTX9.md) - [plain]
 
 > Can you survive? Listen to the music from and inspired by FNAF.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,761 likes - 43 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,679 likes - 43 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ES6W0ExTX9.md) - [plain]
 | 37 | [Showtime](https://open.spotify.com/track/6iGZRvcbjg5GPUEntivzbU) | [Madame Macabre](https://open.spotify.com/artist/2sHOxFG2CONssMUkFac1BW) | [Macabre Musique, Vol\. 1](https://open.spotify.com/album/6MA9TpDZd63TPAOBP6OrWa) | 4:00 |
 | 38 | [The Finale](https://open.spotify.com/track/4nWggiIQIV9Etk40Pfxoic) | [NateWantsToBattle](https://open.spotify.com/artist/0Vb15td3iKkAzdGD5Sj9Ky) | [Five Nights at Freddy's](https://open.spotify.com/album/42d8kZUSMWuiE7B6MONuZB) | 4:34 |
 | 39 | [Total Insecurity \(FNAF Security Breach\)](https://open.spotify.com/track/1Jw6U7RwZPIVTB3nqTIPbJ) | [Rockit Music](https://open.spotify.com/artist/0pPN4tp51uXAhkDux1Mmn4) | [Total Insecurity \(FNAF Security Breach\)](https://open.spotify.com/album/2H0OkIVu19oADjkyuHbKf0) | 3:28 |
-| 40 | [We Are the Phantoms](https://open.spotify.com/track/2yoj2SYJCtxvrkG7y43V4H) | [Axie](https://open.spotify.com/artist/3aGcyUfKO5lAKGyFY0MSyF), [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O), [Swiblet](https://open.spotify.com/artist/49BDJl2S6var6tjqa4qRrx) | [We Are the Phantoms](https://open.spotify.com/album/49nLC15BWXgVROgiEcyzIa) | 4:29 |
+| 40 | [We Are the Phantoms](https://open.spotify.com/track/2yoj2SYJCtxvrkG7y43V4H) | [AXIE](https://open.spotify.com/artist/3aGcyUfKO5lAKGyFY0MSyF), [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O), [Swiblet](https://open.spotify.com/artist/49BDJl2S6var6tjqa4qRrx) | [We Are the Phantoms](https://open.spotify.com/album/49nLC15BWXgVROgiEcyzIa) | 4:29 |
 | 41 | [Game over \(Y.G.I.O.\) \- Remastered](https://open.spotify.com/track/5SUC51QOfxjmolQRdI3bps) | [MiatriSs](https://open.spotify.com/artist/7s5A0SlNGTXP4EPKIthpaS) | [Fnaf, Vol​\. ​1 \(Remastered\)](https://open.spotify.com/album/06TvYnn9CnVUqomWikhjpa) | 4:22 |
 | 42 | [Never Coming Home](https://open.spotify.com/track/3eda5oVs9sQmajrLdHkzYz) | [Not a Robot](https://open.spotify.com/artist/29MVYfZicV6Hxa8SgzWuWB), [Christina Rotondo](https://open.spotify.com/artist/0JLPvCgJch8H8gdiez8HSY) | [Never Coming Home](https://open.spotify.com/album/4sKwsv7vJHcw5bMkfQ8IOd) | 3:17 |
 | 43 | [In Your Eyes Now](https://open.spotify.com/track/4QN92N8khw9VBK1G9iqA9r) | [NightCove\_thefox](https://open.spotify.com/artist/6yYJBwT8q1KYXucYLroowZ) | [In Your Eyes Now](https://open.spotify.com/album/5tXn2I6iQJjntrMIZKBGTa) | 3:28 |
 
-Snapshot ID: `MCw4MzMxYzI0N2M2NTczOGYzNDlhNGI0ZTlmNjU4ZjAxM2Y3NGI1MWFh`
+Snapshot ID: `MCxiY2I1NThlODdiMThmYzM2NTQxMTA5ZjA4NTc0OWM0ODE5YjVlYWY1`

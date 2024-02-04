@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 21486,
+  "2024-02-04": 21516,
   "date_first_scraped": "2022-08-06",
   "description": "afrobeats: best served chill",
   "name": "Afro Chill",
@@ -801,7 +801,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 174964,
       "name": "Beautiful Lies",
       "url": "https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS"
@@ -1291,6 +1291,28 @@
       "duration_ms": 181745,
       "name": "Catch-22",
       "url": "https://open.spotify.com/track/3Rs7oJOhAAqqyouYBYFQ18"
+    },
+    {
+      "album": {
+        "name": "Celine Dion",
+        "url": "https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189701,
+      "name": "Celine Dion",
+      "url": "https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv"
     },
     {
       "album": {
@@ -2744,6 +2766,32 @@
     },
     {
       "album": {
+        "name": "I Made It (feat. Bobby Shmurda & Bien)",
+        "url": "https://open.spotify.com/album/7yJk5o612tCEOe2mEaCX7t"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Bien-aime Baraza",
+          "url": "https://open.spotify.com/artist/3MNSiKXQ08jmcwzhQD5JFv"
+        },
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268303,
+      "name": "I Made It (feat. Bobby Shmurda & Bien)",
+      "url": "https://open.spotify.com/track/2xCAYXRU26CeRNchBUs91p"
+    },
+    {
+      "album": {
         "name": "Heart Of The Heavenly Undeniable (HOTHU)",
         "url": "https://open.spotify.com/album/198JrQy13MkMT65kWGoo59"
       },
@@ -3039,6 +3087,28 @@
       "duration_ms": 163467,
       "name": "Joo",
       "url": "https://open.spotify.com/track/0gsUEvfyck7i7cZknquaD6"
+    },
+    {
+      "album": {
+        "name": "Jowo",
+        "url": "https://open.spotify.com/album/0vtBtHGWGE1f6OwlWfA9V4"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163130,
+      "name": "Jowo",
+      "url": "https://open.spotify.com/track/6x4Kpfpwx9Eld9qbexRiX2"
     },
     {
       "album": {
@@ -3641,7 +3711,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 138000,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/5ExWQrTxlHdfCssnKpIxu9"
@@ -3659,7 +3729,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 162178,
       "name": "Lupita",
       "url": "https://open.spotify.com/track/5ztMPCPahIhORg15k8KOQu"

@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 723098,
+  "num_followers": 723072,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWVmMmJhMTk4OTUyOTM4NmE4MzhmZGVjODgzZWY4YmMwOTIyZTUx",
+  "snapshot_id": "MCw5OTk4NGJjMzU0ZTRkNTQyNTNiOTk3ZDg1NzU1Yjg4MzRkN2U1ODUy",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD"
+        "name": "Numbered Doors",
+        "url": "https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y"
       },
       "artists": [
         {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
         }
       ],
-      "duration_ms": 225146,
-      "name": "Wait Up For Me",
-      "url": "https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX"
+      "duration_ms": 213249,
+      "name": "The Time I've Wasted",
+      "url": "https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Numbered Doors",
-        "url": "https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y"
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD"
       },
       "artists": [
         {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
         }
       ],
-      "duration_ms": 213249,
-      "name": "The Time I've Wasted",
-      "url": "https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C"
+      "duration_ms": 225146,
+      "name": "Wait Up For Me",
+      "url": "https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "firstborn",
-        "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
+        "name": "Home To Me",
+        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
       },
       "artists": [
         {
-          "name": "Nicolle Galyon",
-          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
         }
       ],
-      "duration_ms": 213340,
-      "name": "sunflower.",
-      "url": "https://open.spotify.com/track/3jVjq0O6ZpfQVGhRR6JTOZ"
+      "duration_ms": 186316,
+      "name": "Home To Me",
+      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
     }
   ],
   "unique_name": "Country Coffeehouse",

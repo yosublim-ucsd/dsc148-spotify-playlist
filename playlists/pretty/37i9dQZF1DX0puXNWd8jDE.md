@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 
 > 偷練不是罪、抖音無所謂、最新曲目讓你全台包廂任意走跳！
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,093 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,114 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 59 | [Without You](https://open.spotify.com/track/0KWnRv3wxjltYVB3MqjNd2) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [\#osnrap](https://open.spotify.com/album/4b65l6XzLp2Eg6lDTMmO1k) | 2:55 |
 | 60 | [挪威的森林](https://open.spotify.com/track/5KdZLYyoBP0qsjDTDP28do) | [Wu Bai](https://open.spotify.com/artist/5H8TJITZE1sPjVR2ACzXNS) | [愛情的盡頭](https://open.spotify.com/album/37APLKUvRzY9200fwrpAR6) | 6:31 |
 
-Snapshot ID: `MCwzYzhjNzhjNTNjMDI4OTczNjZmZDg1YjMwNTFiYjgxZTRkODBkZWJk`
+Snapshot ID: `MCwyODI4NzQxM2E0YjhmN2IxNTExMDk4MjljNTQ4Mzc1MDA2Mzc2MGM1`

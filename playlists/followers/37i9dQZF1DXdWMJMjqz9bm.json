@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 216477,
+  "2024-02-04": 216525,
   "date_first_scraped": "2022-02-06",
   "description": "A little bit of pop, a little bit of rap. Cover: Arden Jones",
   "name": "Varsity Bars",
@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 203502,
       "name": "adios",
       "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
@@ -1525,7 +1525,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 171844,
       "name": "C'est la vie",
       "url": "https://open.spotify.com/track/0EYAj4bb4v3r4S3lXBJ37r"
@@ -1551,7 +1551,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 160161,
       "name": "C'est La Vie (with bbno$ & Rich Brian)",
       "url": "https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB"
@@ -2169,6 +2169,24 @@
       "duration_ms": 197855,
       "name": "Compensating (feat. Young Thug)",
       "url": "https://open.spotify.com/track/61KoN6PlBhQD7sivCcf0hA"
+    },
+    {
+      "album": {
+        "name": "complicated",
+        "url": "https://open.spotify.com/album/2SPneqDpoBxPsvdbcPNWSe"
+      },
+      "artists": [
+        {
+          "name": "gianni & kyle",
+          "url": "https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132852,
+      "name": "complicated",
+      "url": "https://open.spotify.com/track/2JrRXrgB359mP3QBrObDXI"
     },
     {
       "album": {
@@ -2802,6 +2820,24 @@
     },
     {
       "album": {
+        "name": "Drives",
+        "url": "https://open.spotify.com/album/7fe0FHC1dSAzgBI6hix4zQ"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173009,
+      "name": "Drives",
+      "url": "https://open.spotify.com/track/4MOjkGH2sVPELfgpZ5AvwK"
+    },
+    {
+      "album": {
         "name": "Autopilot",
         "url": "https://open.spotify.com/album/3nkc2fRxBrUp9X02PBcMjg"
       },
@@ -3089,6 +3125,24 @@
       "duration_ms": 233786,
       "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
+    },
+    {
+      "album": {
+        "name": "FACETIME",
+        "url": "https://open.spotify.com/album/5pZq3XZDSKXQahKz9eCiTS"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "FACETIME",
+      "url": "https://open.spotify.com/track/2Yj6z7338KEuVa2YxU2vqk"
     },
     {
       "album": {
@@ -4897,7 +4951,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 180555,
       "name": "I Don\u2019t Wanna Know",
       "url": "https://open.spotify.com/track/0JCpXJE996Bc6MAbPfiSg1"
@@ -9352,6 +9406,24 @@
     },
     {
       "album": {
+        "name": "Somebody New",
+        "url": "https://open.spotify.com/album/59PAAx06alV3da3WBAO1NK"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143402,
+      "name": "Somebody New",
+      "url": "https://open.spotify.com/track/6Se74aLQWLjOsVvg5GRQY7"
+    },
+    {
+      "album": {
         "name": "Ur in My World",
         "url": "https://open.spotify.com/album/7jtuIiYuftTgdkZzPLn3pL"
       },
@@ -10428,6 +10500,24 @@
     },
     {
       "album": {
+        "name": "Throwing Parties",
+        "url": "https://open.spotify.com/album/5i7EkzpzKG2lfQn0gozp8d"
+      },
+      "artists": [
+        {
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Throwing Parties",
+      "url": "https://open.spotify.com/track/6EDJUMi6j6GwcOgkK3bICo"
+    },
+    {
+      "album": {
         "name": "Tidal Wave",
         "url": "https://open.spotify.com/album/3bRmPk6JsO9fXbCOhVsOEL"
       },
@@ -10631,7 +10721,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 182382,
       "name": "Tripping Over Air",
       "url": "https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd"

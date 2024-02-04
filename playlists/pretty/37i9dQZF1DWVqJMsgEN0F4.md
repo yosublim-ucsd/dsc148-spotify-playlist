@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Gary Clark Jr\. along with the best alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,764 likes - 66 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,832 likes - 66 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 65 | [Carsick](https://open.spotify.com/track/0vk4PPSvobFbKhnAPro0ju) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Carsick](https://open.spotify.com/album/3TynRnLMuOcoFJf88r5qio) | 2:44 |
 | 66 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 |
 
-Snapshot ID: `MCxmMmU5Y2NmZDcyYWViYzkzYTAwY2MwNDYyYWNhN2Y2ZDJjM2FkOGIx`
+Snapshot ID: `MCxkZDFmNDFkOWIyNjQ0OTI0YjlmMzIxOWE5OTE4M2QyYjNkMmM1MWMy`

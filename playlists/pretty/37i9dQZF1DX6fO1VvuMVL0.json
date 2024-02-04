@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 69639,
+  "num_followers": 69702,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzBkYjU5OWFlMmU1MGMwZTYxMzNiNDc3YWE2MzkyZjBiODE0MGU4",
+  "snapshot_id": "MCxlNDQ5OGViNGUzNWFlZDg0NDA3NjE5NWYyOTg5ODI3M2FlZThjZGRh",
   "tracks": [
     {
       "added_at": "2024-02-01 12:01:22",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-02-01 12:01:22",
       "album": {
-        "name": "Jazz Moments",
-        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
+        "name": "Two Of A Mind",
+        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
       "artists": [
         {
-          "name": "George Shearing Trio",
-          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
+      "duration_ms": 351280,
+      "name": "All the Things You Are",
+      "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
     },
     {
       "added_at": "2024-02-01 12:01:22",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-02-01 12:01:22",
       "album": {
-        "name": "Two Of A Mind",
-        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
+        "name": "Jazz Moments",
+        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "George Shearing Trio",
+          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
         }
       ],
-      "duration_ms": 351280,
-      "name": "All the Things You Are",
-      "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
+      "duration_ms": 240133,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
     },
     {
       "added_at": "2024-02-01 12:01:22",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-01 12:01:22",
       "album": {
-        "name": "Moonlight In Vermont",
-        "url": "https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Smith",
-          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
-        }
-      ],
-      "duration_ms": 146880,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb"
-    },
-    {
-      "added_at": "2024-02-01 12:01:22",
-      "album": {
         "name": "Lennie Tristano / The New Tristano",
         "url": "https://open.spotify.com/album/1NONihvQGQ4aVVV956pGH9"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 365840,
       "name": "Ghost of a Chance",
       "url": "https://open.spotify.com/track/5vTBSWHl0qXtM1980R2pVM"
+    },
+    {
+      "added_at": "2024-02-01 12:01:22",
+      "album": {
+        "name": "Moonlight In Vermont",
+        "url": "https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Smith",
+          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
+        }
+      ],
+      "duration_ms": 146880,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb"
     },
     {
       "added_at": "2024-02-01 12:01:22",

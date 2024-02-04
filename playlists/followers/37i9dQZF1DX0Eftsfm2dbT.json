@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 130030,
+  "2024-02-04": 130069,
   "date_first_scraped": "2023-09-23",
   "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: JJJ",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
@@ -9061,6 +9061,48 @@
       "duration_ms": 253526,
       "name": "Wasurenaide",
       "url": "https://open.spotify.com/track/3belJRGyvPLYgiCSXSpqO8"
+    },
+    {
+      "album": {
+        "name": "WEATHERTEC",
+        "url": "https://open.spotify.com/album/5danpSUvfdLUQuEGEQszrD"
+      },
+      "artists": [
+        {
+          "name": "Tha Jointz",
+          "url": "https://open.spotify.com/artist/0J7djFMwBhnbgAN11Gggvg"
+        },
+        {
+          "name": "GOTU",
+          "url": "https://open.spotify.com/artist/14UuKo9McStiWxcOOPvczh"
+        },
+        {
+          "name": "JNK",
+          "url": "https://open.spotify.com/artist/7HYvkJOGJLSVOsyIxCJ4lY"
+        },
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/5qH4hGRUWoLtBVgMD0alcb"
+        },
+        {
+          "name": "JASS",
+          "url": "https://open.spotify.com/artist/4c25QyMjYv7MSQV24Qhofv"
+        },
+        {
+          "name": "WELL-DONE",
+          "url": "https://open.spotify.com/artist/5pBvGEECNZdaPCXcZGe8hQ"
+        },
+        {
+          "name": "KOH",
+          "url": "https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "WEATHERTEC",
+      "url": "https://open.spotify.com/track/0bfQxDoay4S828CTlELHLr"
     },
     {
       "album": {

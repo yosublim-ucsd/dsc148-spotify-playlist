@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-775 songs - 1 day 21 hr 2 min
+776 songs - 1 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Astronaut in the Ocean](https://open.spotify.com/track/27ErCu5vx463lPyabA87oi) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Astronaut in the Ocean](https://open.spotify.com/album/4JupiYe3WiIJwzA0BxXvXl) | 2:14 | 2021-04-03 | 2021-04-04 |
 | [Atary](https://open.spotify.com/track/082HYgmGx9V6hG5tpwwpp7) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS) | 3:24 | 2021-03-31 | 2021-10-06 |
 | [Awadeeh](https://open.spotify.com/track/6X3T09NqZfGACrko9EYN7r) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Awadeeh](https://open.spotify.com/album/6mf7g9yvxZmfLVVLVB0dyv) | 2:22 | 2021-09-02 | 2022-02-20 |
+| [Awkat Ashouf Malamhak](https://open.spotify.com/track/2eyEsqY6J8b4KqaVEkXa8l) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Hazz El Adala](https://open.spotify.com/album/1HYYSw5VSQROznWGaqlUBd) | 6:00 | 2024-02-03 |  |
 | [Baad El Kalam](https://open.spotify.com/track/0Oz1kaka4qeWhjntOZTRFv) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Baad Montasaf Al Leil](https://open.spotify.com/album/1Ssez3FFutWFtAvENJ3WDH) | 3:52 | 2023-02-18 |  |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-06 | 2022-08-30 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-28 | 2021-07-28 |
@@ -706,7 +707,7 @@
 | [شيراتون](https://open.spotify.com/track/3S2aU4rUZXbVOxyVzgzXQ5) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [شيراتون](https://open.spotify.com/album/0aB2clpFGE0NgXtRKtO5PS) | 3:34 | 2021-03-27\* | 2022-03-01 |
 | [شيماء](https://open.spotify.com/track/4neYwcLQvLZ6kEdgF0cicX) | [Yousef Sosta \- يوسف سوسته](https://open.spotify.com/artist/65Nyf594MWahWOsMrgcFq9) | [شيماء](https://open.spotify.com/album/1iyn88en2SMsBTW6JEUMmf) | 2:04 | 2021-12-02 | 2021-12-06 |
 | [صاحبي من غبائه](https://open.spotify.com/track/3RLpfYSIQlW1YI6bIexpUy) | [Mody Amin](https://open.spotify.com/artist/65PQtmRWkjiL4TrRyLo2Gx), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [صاحبي من غبائه](https://open.spotify.com/album/1K9oCdpNQGZfDGDvHzLEbb) | 4:09 | 2021-05-06 | 2023-04-25 |
-| [طب هص](https://open.spotify.com/track/7mqrrDU5Yvbr4SuEROMS0U) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Miso misara](https://open.spotify.com/artist/3c3wEE1EKZR8yXvzG82U1v) | [طب هص](https://open.spotify.com/album/1SkYBFUnXVJi8Y9Gtcc2z8) | 5:55 | 2024-01-13 | 2024-02-03 |
+| [طب هص](https://open.spotify.com/track/7mqrrDU5Yvbr4SuEROMS0U) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Miso misara](https://open.spotify.com/artist/3c3wEE1EKZR8yXvzG82U1v) | [طب هص](https://open.spotify.com/album/1SkYBFUnXVJi8Y9Gtcc2z8) | 5:55 | 2024-01-13 |  |
 | [طلقاتى راشقه](https://open.spotify.com/track/4iYtRR9CT61D5pLQDx24BO) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طلقاتى راشقه](https://open.spotify.com/album/3Tua3fOucXngD1nxbFqWtJ) | 3:58 | 2022-04-06 | 2022-05-07 |
 | [طلقاتى راشقه](https://open.spotify.com/track/4zMOcP4as07aQl2MY14Raf) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [طلقاتى راشقه](https://open.spotify.com/album/2l85aOtYtkfIecw0UJDnRW) | 3:58 | 2021-12-27 | 2022-04-07 |
 | [طمنى عليك](https://open.spotify.com/track/44IiIpdfudUAV3np87r3gk) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [ولا نص كلمة](https://open.spotify.com/album/3FXWjjh9LaJQLEZh4GHaVN) | 4:27 | 2023-04-08 | 2023-04-11 |
@@ -742,11 +743,11 @@
 | [لمون نعناع](https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [لمون نعناع](https://open.spotify.com/album/5IJllrLdWkmEYDJ6N4tw1Y) | 3:26 | 2023-07-27 | 2023-09-27 |
 | [لو جاي في رجوع انساني \(بأماره مين\)](https://open.spotify.com/track/1VDFqucFhHuldAZGNYrNt1) | [Bodyykhaledd](https://open.spotify.com/artist/5iIuR1hkhyNJNzB9aVPbGj), [Farid](https://open.spotify.com/artist/60H8oTIvEmE39gGGVTfNku) | [لو جاي في رجوع انساني \(بأماره مين\)](https://open.spotify.com/album/7eVzmFhRfoA5Xg576aoopt) | 3:21 | 2022-10-15 | 2022-10-19 |
 | [ليلى \- كايروكي من الاستوديو](https://open.spotify.com/track/5JtRiVuQRKqoEfueP1FVvU) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [كايروكي من الاستوديو](https://open.spotify.com/album/7h5YXGDPG5nC2yNfRe5lLp) | 3:32 | 2023-11-16 | 2023-11-24 |
-| [لِلّي](https://open.spotify.com/track/0Kb87SCKl8pFyKm0yD9TYf) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [لِلّي](https://open.spotify.com/album/5UHmwqHjPdCFXv1Vucwf9z) | 2:43 | 2022-07-24 |  |
+| [لِلّي](https://open.spotify.com/track/0Kb87SCKl8pFyKm0yD9TYf) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [لِلّي](https://open.spotify.com/album/5UHmwqHjPdCFXv1Vucwf9z) | 2:43 | 2022-07-24 | 2024-02-04 |
 | [متغاظ عارفك يلا مننا متغاظ](https://open.spotify.com/track/0sRMA5RMTncLpfZ6Uk9Wi1) | [Mostafa el Degwy](https://open.spotify.com/artist/58Aady92Ax4EADOATwDJWC), [Mohamed Zizo](https://open.spotify.com/artist/3h9YTec0GeWBcIFCFJRDgG) | [متغاظ عارفك يلا مننا متغاظ](https://open.spotify.com/album/5SQGV3iWGYOKzxLNay9jad) | 2:48 | 2021-04-02 | 2021-10-24 |
 | [مخصماك](https://open.spotify.com/track/2YMwxis2lMtraN0CW8IaaD) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/7j5g1nljPtCwJHftBXIZUU) | 3:14 | 2023-12-04 |  |
 | [مخصماك](https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf) | 3:18 | 2023-06-23 | 2023-12-05 |
-| [مرجعليش](https://open.spotify.com/track/7JTf7bVijxgDdkmozrswvE) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [مرجعليش](https://open.spotify.com/album/7aKK7jGo8ONkv0HX0vrisi) | 5:04 | 2024-01-06 |  |
+| [مرجعليش](https://open.spotify.com/track/7JTf7bVijxgDdkmozrswvE) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [مرجعليش](https://open.spotify.com/album/7aKK7jGo8ONkv0HX0vrisi) | 5:04 | 2024-01-06 | 2024-02-04 |
 | [مرحب شهر الصوم](https://open.spotify.com/track/2dukxPxYLqSL8p0JqAEeFG) | [Abd El Aziz Mahmoud](https://open.spotify.com/artist/0Ck6zEWZW4tN5exqSWrrGq) | [مرحب شهر الصوم](https://open.spotify.com/album/2qwjTs4ZIBzIkxfc0ev3cE) | 8:26 | 2023-03-24 | 2023-03-26 |
 | [مسا مني ليكوا](https://open.spotify.com/track/7qnR06N2Ekj9iBOQHiFqdq) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [مسا منى ليكوا](https://open.spotify.com/album/7xJews3EUUzYDq1Ycez0Kq) | 3:39 | 2023-01-13 |  |
 | [مسجون حزين](https://open.spotify.com/track/0TxEBrs9Py9uOxwOSYBROV) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [مسجون حزين](https://open.spotify.com/album/5bCHHycTY8di9iZoGO6hYI) | 4:24 | 2021-11-27 | 2022-01-03 |

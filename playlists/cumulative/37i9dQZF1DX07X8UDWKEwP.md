@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Tiago PZK & Ke Personajes
 
-346 songs - 20 hr 8 min
+347 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [OJITOS ROJOS](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [OJITOS ROJOS](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 | 2023-07-21 |  |
 | [Olor a Kush \- Merengue](https://open.spotify.com/track/4ic68ItCjS1yyO6IgLs9s0) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Olor a Kush \(Merengue\)](https://open.spotify.com/album/4QNc3T3uQhNg6nncMnqXsY) | 2:52 | 2022-04-29 | 2022-06-30 |
 | [ORGULLO](https://open.spotify.com/track/6FChr93F3ECYRaIKwL7DOa) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [DESAHOGO](https://open.spotify.com/album/1mMPzNKVMKcgux2WtZx5ak) | 3:22 | 2023-07-28 |  |
-| [Otra Oportunidad](https://open.spotify.com/track/14P7QoGuWWFe7xxzmyQA4o) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ) | [Otra Oportunidad](https://open.spotify.com/album/0dBnPH1ZzYfB6gOUfRUJOZ) | 3:28 | 2023-07-14 |  |
+| [Otra Oportunidad](https://open.spotify.com/track/14P7QoGuWWFe7xxzmyQA4o) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ) | [Otra Oportunidad](https://open.spotify.com/album/0dBnPH1ZzYfB6gOUfRUJOZ) | 3:28 | 2023-07-14 | 2024-02-04 |
 | [Otra Vez](https://open.spotify.com/track/4PAZkIDhWvMJMF6nO3HyJX) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot](https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4) | 2:30 | 2022-06-29 | 2023-03-26 |
 | [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 | 2022-01-28 | 2022-06-30 |
 | [Pa' Chingar](https://open.spotify.com/track/275YJY0cO4UcAt9MLHy3kl) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Pa' Chingar](https://open.spotify.com/album/0ypIFf0OFftKO6pm7VHHNa) | 2:38 | 2022-04-29 | 2022-06-30 |
@@ -328,6 +328,7 @@
 | [Un Amor Bonito](https://open.spotify.com/track/0OxXwVoPuyoDG20ZKFX93k) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sin Par](https://open.spotify.com/album/6oiSNtHH7vCAor8nVogNdG) | 4:16 | 2022-04-29 | 2022-06-30 |
 | [Un Cigarro](https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Un Cigarro](https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9) | 2:54 | 2023-08-18 | 2023-11-07 |
 | [Un Minuto Mas](https://open.spotify.com/track/4mAA0PR2CAs2AUvkFa1kbo) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL) | [Un Minuto Mas](https://open.spotify.com/album/11VqlQPChAvgagBbMkIDTc) | 2:29 | 2022-01-01 | 2022-01-29 |
+| [UNA BACHATA](https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:37 | 2024-02-02 |  |
 | [Una Vida Buena](https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Una Vida Buena](https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW) | 2:10 | 2023-11-10 |  |
 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-05-12 |  |
 | [Vallenato Apretao](https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Vallenato Apretao](https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo) | 2:38 | 2022-01-01 | 2022-06-30 |

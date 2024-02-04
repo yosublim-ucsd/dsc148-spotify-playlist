@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 254235,
+  "2024-02-04": 254343,
   "date_first_scraped": "2022-04-19",
   "description": "All 70s, all ballads. Cover: Barbra Streisand",
   "name": "70s Ballads",
@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 233506,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/34E0Higz6fFVXlbVsn6TIW"
@@ -1429,7 +1429,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 220520,
       "name": "We're All Alone",
       "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"

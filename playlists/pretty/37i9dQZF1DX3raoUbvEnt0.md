@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3raoUbvEnt0.md) - [plain]
 
 > Music from "GOLDEN KAMUY"! /アニメ「ゴールデンカムイ」の楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,306 likes - 43 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,323 likes - 43 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3raoUbvEnt0.md) - [plain]
 | 10 | [YUUSETSU \- Subscription ver.](https://open.spotify.com/track/3JuEcNCr9TWTZPAX6gPmcG) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [YUUSETSU \(Subscription ver.\)](https://open.spotify.com/album/56Stb6WkjnibmZQHidXVYo) | 4:02 |
 | 11 | [Ainukotan](https://open.spotify.com/track/2xKiclsOBkF8kVEzYzp0oq) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY Original Soundtrack](https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv) | 2:49 |
 | 12 | [Kamuimosiri](https://open.spotify.com/track/6xojnW6ogKmo3NElC8nZaP) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY Original Soundtrack](https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv) | 2:24 |
-| 13 | [樺太の旅](https://open.spotify.com/track/7HvxmQvMoI6wtnTuWNcLJX) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラックⅡ](https://open.spotify.com/album/47l4joWRRiUK9z9R8t3aLK) | 2:50 |
+| 13 | [Karafuto no Tabi](https://open.spotify.com/track/548YmLJmqjPba4GghGSBSG) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY ORIGINAL SOUNDTRACK \(II\)](https://open.spotify.com/album/6ARXIlpx54lRWmBrLPYrEP) | 2:50 |
 | 14 | [Futari no Kyori](https://open.spotify.com/track/6bsLRp4mkUr3tNpTWVs2Qa) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY ORIGINAL SOUNDTRACK \(III\)](https://open.spotify.com/album/3NhgupAOdPjPFXCKbscWpO) | 3:03 |
 | 15 | [Hibana \- English ver.](https://open.spotify.com/track/3rzqNq4y2COpNXAv3HANYu) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [Hibana \(English ver.\)](https://open.spotify.com/album/1uh4N4W2mFUiGGaGGMTtXB) | 4:13 |
 | 16 | [YUUSETSU \- English ver.](https://open.spotify.com/track/0ntdcMNEm7NaYadX57uzXV) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [YUUSETSU \(English ver.\)](https://open.spotify.com/album/4rcFLjMrflx4nxmCdgzANr) | 4:12 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3raoUbvEnt0.md) - [plain]
 | 42 | [Sogeki](https://open.spotify.com/track/1uA6JO5BzM4O3PgqWpcxhf) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY Original Soundtrack](https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv) | 2:39 |
 | 43 | [Karafuto e](https://open.spotify.com/track/3B4dGp0vE44rB06olaPfBT) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY Original Soundtrack](https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv) | 2:41 |
 
-Snapshot ID: `MCxiYzFjODRjY2Y2NGNmZmQ3MTE0Njk3ZWJlYTNhZWEwYjVjN2YxMzFm`
+Snapshot ID: `MCw5OTI1MWExYTA3NGU0MGIxN2M0NzEwMTJmMzM4NTUxMzQxNzMyZGU3`

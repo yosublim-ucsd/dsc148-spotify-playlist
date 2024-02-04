@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 226775,
+  "num_followers": 226841,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzNhMGVkMGNiYTNhODEwNjQzMDgyMmIxYTI5Mzc4MzUwZDljY2Uy",
+  "snapshot_id": "MCxmNzY4ZDcwZGQ0ZTFmOWI5M2JlMTFmZjZiNmI4MDAzMGY5OTRhNTkw",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Nigeria 70 - Funky Lagos",
-        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
-      },
-      "artists": [
-        {
-          "name": "Joni Haastrup",
-          "url": "https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu"
-        }
-      ],
-      "duration_ms": 373333,
-      "name": "Greetings",
-      "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Goody Goody",
         "url": "https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 383093,
       "name": "It Looks Like Love",
       "url": "https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
+      },
+      "artists": [
+        {
+          "name": "Joni Haastrup",
+          "url": "https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu"
+        }
+      ],
+      "duration_ms": 373333,
+      "name": "Greetings",
+      "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Mysteries of the World",
-        "url": "https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN"
-      },
-      "artists": [
-        {
-          "name": "MFSB",
-          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
-        }
-      ],
-      "duration_ms": 330080,
-      "name": "Mysteries of the World",
-      "url": "https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Straight From The Heart",
         "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 408142,
       "name": "Number One - 12\" Version",
       "url": "https://open.spotify.com/track/3vSgRQYNEUEjcFOGMiSTw3"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Mysteries of the World",
+        "url": "https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN"
+      },
+      "artists": [
+        {
+          "name": "MFSB",
+          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
+        }
+      ],
+      "duration_ms": 330080,
+      "name": "Mysteries of the World",
+      "url": "https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Funk / Soul / Disco",
-        "url": "https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj"
-      },
-      "artists": [
-        {
-          "name": "Jackson Sisters",
-          "url": "https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ"
-        }
-      ],
-      "duration_ms": 177573,
-      "name": "I Believe In Miracles",
-      "url": "https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "M.V.P. (Expanded Edition)",
         "url": "https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 300826,
       "name": "On and On",
       "url": "https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Funk / Soul / Disco",
+        "url": "https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj"
+      },
+      "artists": [
+        {
+          "name": "Jackson Sisters",
+          "url": "https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ"
+        }
+      ],
+      "duration_ms": 177573,
+      "name": "I Believe In Miracles",
+      "url": "https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Taana Gardner",
-        "url": "https://open.spotify.com/album/3Cry53QsMK0kF7Z59FUml0"
+        "name": "Get It Right (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
       },
       "artists": [
         {
-          "name": "Taana Gardner",
-          "url": "https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 587029,
-      "name": "Heartbeat (Club Mix) (2012 - Remaster)",
-      "url": "https://open.spotify.com/track/281WOsKoaGN9lMttUL7tjs"
+      "duration_ms": 259413,
+      "name": "Get It Right - Single Version",
+      "url": "https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Get It Right (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH"
+        "name": "Taana Gardner",
+        "url": "https://open.spotify.com/album/3Cry53QsMK0kF7Z59FUml0"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Taana Gardner",
+          "url": "https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF"
         }
       ],
-      "duration_ms": 259413,
-      "name": "Get It Right - Single Version",
-      "url": "https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ"
+      "duration_ms": 587029,
+      "name": "Heartbeat (Club Mix) (2012 - Remaster)",
+      "url": "https://open.spotify.com/track/281WOsKoaGN9lMttUL7tjs"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
-        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 438199,
-      "name": "Haven't You Heard - 12\" Version",
-      "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Chicago Service",
         "url": "https://open.spotify.com/album/098htENdjaFFSWNegkNoWe"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 328858,
       "name": "Disco Fantasy",
       "url": "https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
+        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 438199,
+      "name": "Haven't You Heard - 12\" Version",
+      "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Best Of Disco Funk (Disco Nights Vol.2)",
-        "url": "https://open.spotify.com/album/58STS86oy7HcgvP6yt6mca"
+        "name": "Disco Illusion",
+        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
       },
       "artists": [
         {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+          "name": "Stephen Encinas",
+          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
         }
       ],
-      "duration_ms": 362240,
-      "name": "Put Your Body In It - 12\" Version",
-      "url": "https://open.spotify.com/track/5abxwASaBFQDyZVh983qRD"
+      "duration_ms": 284985,
+      "name": "Lypso Illusion",
+      "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
     }
   ],
   "unique_name": "Disco Hi-Life",

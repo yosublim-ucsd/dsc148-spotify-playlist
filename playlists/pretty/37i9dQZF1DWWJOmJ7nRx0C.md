@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > rock at its loudest \- turn it up ⬆️ Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,362 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,480 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 74 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 |
 | 75 | [Right Side of Wrong](https://open.spotify.com/track/787VnvRnGZatxoIzv2yNkc) | [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc) | [Right Side of Wrong](https://open.spotify.com/album/4H1ejQ2JLKUgKy3bCgW9g1) | 3:14 |
 
-Snapshot ID: `MCxkOGYxMGFkZGYzNWY3ZjgyMmUwNGUxM2FmYTQxZTZmODQ2NmZjNjc3`
+Snapshot ID: `MCwwYTBmMDEyMzU1YzA2ZDM2ODdkMmVlNDI0NjI4Mzg4ZGUzMjdhYTAz`

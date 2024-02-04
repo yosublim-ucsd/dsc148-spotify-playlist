@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,412 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,414 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 56 | [TEMPTED!](https://open.spotify.com/track/5WEqt1UFhpdZaSdrnjp5I4) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE), [XENONYEO](https://open.spotify.com/artist/2LWgTr7tjg9VfnLh3ZLsNk) | [T3MPTED!](https://open.spotify.com/album/2AHQ2LYxqLi3OOPzqMGG81) | 2:54 |
 | 57 | [Nobody](https://open.spotify.com/track/6krUogRWd9GJTqmLX4qiGH) | [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp), [J\-Wats](https://open.spotify.com/artist/5SICeSfCoS3DTaNhNnZj94) | [Nobody](https://open.spotify.com/album/6jLFWGaIVgdgKXBIJZKkNn) | 3:43 |
 | 58 | [I Give Her Love](https://open.spotify.com/track/6haw04b2NBB93aG0xeuZ5c) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Herbert Ssensamba](https://open.spotify.com/artist/551y4ECPYt7eD0EIlew8sg) | [The Ugandan](https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8) | 4:38 |
-| 59 | [Tough Timez](https://open.spotify.com/track/5RL5hn75OUOFcLeC9VI1aZ) | [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz), [Lenoirbois](https://open.spotify.com/artist/4NinFBdaIbsWHe8OnsXlSQ) | [Tough Timez](https://open.spotify.com/album/3ml6m4oXvFut3cwmH9yrYO) | 3:41 |
+| 59 | [Tough Timez](https://open.spotify.com/track/6HlV4tWyzvYsjhJqALInJJ) | [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz), [Lenoirbois](https://open.spotify.com/artist/4NinFBdaIbsWHe8OnsXlSQ) | [Tough Timez](https://open.spotify.com/album/79Z6HX577GPeUdKD4CUWgW) | 3:41 |
 | 60 | [Zinge](https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk) | [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG), [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo) | [Zinge](https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo) | 3:25 |
 
-Snapshot ID: `MCxmZThiYWVjYmEwYTA1NGNiNDM2MmIwZmZlZTcxMjU1MmNmMGI4NmJi`
+Snapshot ID: `MCwxYWM4ODhiNTcxZTVkYzQ3YjY0ZGU0NGIxMWI5NzFjYTk3MTQ3NGM3`

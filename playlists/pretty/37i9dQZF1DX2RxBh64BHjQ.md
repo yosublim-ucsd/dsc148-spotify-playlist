@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:508weSx4HBumrGggFmc7br">Hunxho</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,772,045 likes - 99 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,771,659 likes - 99 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 24 | [CRAYON](https://open.spotify.com/track/44Rtuc5OuZtwMwPfkrAsp6) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [CRAYON](https://open.spotify.com/album/04cqIVlhRK13cRoRm6TuCB) | 2:16 |
 | 25 | [32 Bars](https://open.spotify.com/track/3F8b80zjERYnKDDBiag615) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [32 Bars](https://open.spotify.com/album/64bJrpjuW1J7V2WeeZYn1u) | 2:13 |
 | 26 | [Trick](https://open.spotify.com/track/4Inza1lYiwj1XWGaEoY3B5) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Trick](https://open.spotify.com/album/5C9QBRFVfenix80twC2bj1) | 2:02 |
-| 27 | [Right Now \(feat\. Bossman Dlow\)](https://open.spotify.com/track/49jjnR1W3KVX3SHHM1GHOR) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Lil Wet](https://open.spotify.com/artist/71EPXRgyizFZBe54AlzCSn), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Right Now \(feat\. Bossman Dlow\)](https://open.spotify.com/album/154BzHnwn19x9GlItFYoqU) | 3:24 |
+| 27 | [Right Now \(feat\. Bossman Dlow & Lil Wet\)](https://open.spotify.com/track/49jjnR1W3KVX3SHHM1GHOR) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Lil Wet](https://open.spotify.com/artist/71EPXRgyizFZBe54AlzCSn) | [Right Now \(feat\. Bossman Dlow & Lil Wet\)](https://open.spotify.com/album/154BzHnwn19x9GlItFYoqU) | 3:24 |
 | 28 | [Jordan Year](https://open.spotify.com/track/4InhSroLUMR1niKA53Z2ni) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Still Playing The Shadows](https://open.spotify.com/album/700VLsUT8tC9EaGocYexAw) | 2:47 |
 | 29 | [Wop Wop](https://open.spotify.com/track/0XPbfOslBygbuNk3Is3j8v) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [Wop Wop](https://open.spotify.com/album/4ZEblJvTAE6sWq8fDnqeEZ) | 3:43 |
 | 30 | [60 Miles](https://open.spotify.com/track/3dyhk17fDgslADTDnU6sgG) | [Lil RT](https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H) | [60 Miles](https://open.spotify.com/album/0ZERBpDfUs0o3ZULTzb3cj) | 2:06 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 98 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 |
 | 99 | [Running Late](https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Running Late](https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq) | 2:07 |
 
-Snapshot ID: `MCxmZmIzYzllY2I3ZDFkYmQwM2Y1M2NjNzM1MTcwZDdiZTg3ZDhjNDQ4`
+Snapshot ID: `MCxhNmFlZjJlYjJmZWNmOWQ5MmJjYjZmMjhiODJkNmUzODI2NzdlZTgz`

@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 567054,
+  "2024-02-04": 567003,
   "date_first_scraped": "2022-06-10",
   "description": "Features greatest hits from the world-famous virtual singer \"HATSUNE MIKU\"! /\u4e16\u754c\u3092\u821e\u53f0\u306b\u6d3b\u8e8d\u3059\u308b\u30d0\u30fc\u30c1\u30e3\u30eb\u30fb\u30b7\u30f3\u30ac\u30fc\u3001\u521d\u97f3\u30df\u30af\u306e\u697d\u66f2\u3092\u7db2\u7f85\u3057\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u00a9Pok\u00e9mon/Nintendo/CR/GF\n\u00a9CFM <a href=\"https://piapro.net/\">www.piapro.net</a>",
   "name": "This Is \u521d\u97f3\u30df\u30af (HATSUNE MIKU)",
@@ -1845,6 +1845,24 @@
     {
       "album": {
         "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/7gxXuvmdsCaoM4Li1GR9gB"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223400,
+      "name": "\u4e59\u5973\u89e3\u5256",
+      "url": "https://open.spotify.com/track/1otg7FUDBkXTWGjputlbxR"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb",
         "url": "https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q"
       },
       "artists": [
@@ -1855,7 +1873,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 223400,
       "name": "\u4e59\u5973\u89e3\u5256",
       "url": "https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ"

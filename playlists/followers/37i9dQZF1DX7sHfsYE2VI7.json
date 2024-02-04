@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 53883,
+  "2024-02-04": 53914,
   "date_first_scraped": "2022-12-10",
   "description": "Chilled out dance classics to set the mood.",
   "name": "Chill Dance Classics",
@@ -841,6 +841,28 @@
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
+    },
+    {
+      "album": {
+        "name": "Love Generation (Radio Edit)",
+        "url": "https://open.spotify.com/album/65crznT6OSNgS5riyglAKu"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Gary Pine",
+          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204105,
+      "name": "Love Generation - Radio Edit",
+      "url": "https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF"
     },
     {
       "album": {
@@ -1771,7 +1793,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 214053,
       "name": "With You Forever",
       "url": "https://open.spotify.com/track/3wRSZvxk09S0Tvuwg1L69N"

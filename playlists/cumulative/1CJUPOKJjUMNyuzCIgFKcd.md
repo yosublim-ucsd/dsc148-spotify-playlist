@@ -4,7 +4,7 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-102 songs - 4 hr 23 min
+102 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Man Up](https://open.spotify.com/track/2RqkLttkL59wqTbGd9VbaB) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [No Socks 3](https://open.spotify.com/album/0TuZ9izuLgcVvN7dKyqRRb) | 3:24 | 2023-09-29 | 2024-01-13 |
 | [Mean Girl Era](https://open.spotify.com/track/1oyhhLwrIeYmreTTzDBAhw) | [Pretty Brayah](https://open.spotify.com/artist/04T13CNEP9VzNd4jMNQrQb) | [Mean Girl Era](https://open.spotify.com/album/2GyCuFBhreLo52VYaDfPqC) | 1:48 | 2023-10-30 |  |
 | [Misery](https://open.spotify.com/track/37WO9r4U3LLqFkwHqZ2qg1) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Misery](https://open.spotify.com/album/0cWD3IQM9T3kYvIc5w7vpv) | 1:39 | 2023-08-28 | 2024-01-13 |
-| [Mob](https://open.spotify.com/track/4zeLNybpK3UO6p3QhCYNGl) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Mob](https://open.spotify.com/album/3t4MBMVuq9899LgkqGSAAr) | 1:27 | 2024-01-12 |  |
+| [Mob](https://open.spotify.com/track/4zeLNybpK3UO6p3QhCYNGl) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Mob](https://open.spotify.com/album/3t4MBMVuq9899LgkqGSAAr) | 3:12 | 2024-01-12 |  |
 | [Mr\. Put That Shit On](https://open.spotify.com/track/4r2pxdCocBEyQ93xbsaYof) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Mr\. Put That Shit On](https://open.spotify.com/album/0iB4O5HImR5jopE1vf7WYr) | 5:48 | 2023-10-30 |  |
 | [MY PEOPLES](https://open.spotify.com/track/74drVzQ7gk2jTVd3EhzQ4J) | [HMT TRAY](https://open.spotify.com/artist/5PI3T8xABdYHl8b0NvHTxH) | [CAPONE SEASON, VOL\. 1](https://open.spotify.com/album/53Odk9ErtFr6x4cqh8cT1X) | 1:20 | 2023-09-08 | 2024-01-13 |
 | [Name It](https://open.spotify.com/track/2InR3L7CyHjMizFvckKhs7) | [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ) | [Owe It To Myself](https://open.spotify.com/album/78IUjNkNcWvE6IdJJaAq3Q) | 1:34 | 2023-08-11 | 2023-11-18 |

@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-337 songs - 19 hr 40 min
+338 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Kiss Me \- Acoustic](https://open.spotify.com/track/7xQUulzggtLVXbo8tLwpjc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Kiss Me](https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy) | 4:00 | 2023-02-23 |  |
 | [Knocked Out](https://open.spotify.com/track/13cFJziN6qRk7ZBQ57DtZ4) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Wrecks We Adore](https://open.spotify.com/album/1jf8StBAfVpC7IBPtqdcqx) | 4:39 | 2023-02-23 |  |
 | [Laps Around The Sun](https://open.spotify.com/track/3U0UzEdzd45T81FHdPPbfC) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/6JYmn58l1Lj90pF1a9mdh5) | 3:26 | 2023-02-23 | 2024-02-03 |
+| [Laps Around The Sun](https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O) | 3:26 | 2024-01-16 |  |
 | [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 | 2023-02-23 |  |
 | [Last Train Home](https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:07 | 2023-02-23 |  |
 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/0O2yLXhJtcp69Ll233Q6xS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/54F0VYmKpYQok1ydOZhsYC) | 2:54 | 2023-04-06 |  |
@@ -224,7 +225,7 @@
 | [Places To Go](https://open.spotify.com/track/2kIMDGHkZPCwK0MD2IlXzR) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Paradise And Back Again](https://open.spotify.com/album/1taypDxNMQORzlU7YfZlk1) | 3:46 | 2023-02-23 |  |
 | [Plage](https://open.spotify.com/track/6jPNXRnTy37ADxbihf56rM) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star Of Love](https://open.spotify.com/album/00v21bgN2da5KonMWEAMec) | 3:50 | 2023-02-23 |  |
 | [Plan B](https://open.spotify.com/track/5VznAumfWkTREKil1KIr2Z) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Plan B](https://open.spotify.com/album/6oRNdc43yuhj9QC0IJgmzd) | 3:05 | 2023-02-23 |  |
-| [Queen of Elba](https://open.spotify.com/track/1e402nE03yvaw6YFruqc25) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [Elba](https://open.spotify.com/album/5C2h4RDpIKiuRFchSy9oeZ) | 3:56 | 2023-04-25 |  |
+| [Queen of Elba](https://open.spotify.com/track/1e402nE03yvaw6YFruqc25) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [Elba](https://open.spotify.com/album/5C2h4RDpIKiuRFchSy9oeZ) | 3:56 | 2023-04-25 | 2024-02-04 |
 | [Recognise \- Acoustic Version](https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Recognise \(Remixes\)](https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8) | 2:49 | 2023-02-23 | 2023-12-30 |
 | [Resolution](https://open.spotify.com/track/6C2PcJaxG7OXRU86zZiQOz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Resolution](https://open.spotify.com/album/0V49RmdI91QvHAayrLPyS0) | 4:16 | 2023-02-23 |  |
 | [Rewind](https://open.spotify.com/track/5Po20XWC11YJ3TMLfHqMdB) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [EP6](https://open.spotify.com/album/6ZSh7q2E1I6tpESZA6j4nE) | 2:59 | 2023-02-23 |  |

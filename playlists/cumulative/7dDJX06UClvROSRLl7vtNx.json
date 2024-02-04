@@ -803,6 +803,28 @@
     },
     {
       "album": {
+        "name": "Contagious",
+        "url": "https://open.spotify.com/album/0xTPuaT0954KYgAY48GZon"
+      },
+      "artists": [
+        {
+          "name": "Panuma",
+          "url": "https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH"
+        },
+        {
+          "name": "Maike",
+          "url": "https://open.spotify.com/artist/1CVoPwlZCLiNxVqLMJlR9G"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179393,
+      "name": "Contagious",
+      "url": "https://open.spotify.com/track/0hnWAbE0pBpODu0geQpb2C"
+    },
+    {
+      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/2gOoME3JTw3QxNsRo257pG"
       },

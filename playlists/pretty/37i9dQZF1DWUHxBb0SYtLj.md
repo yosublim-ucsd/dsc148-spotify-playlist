@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume una selezione di spettacolari artiste italiane! Cover: Camilla Magli
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,911 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,916 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [Maledetta nostalgia](https://open.spotify.com/track/1I25THbR7z0QIEvQoYQf3q) | [Cecile](https://open.spotify.com/artist/2V71DNcQsRW0Vp8vCOy9Vw) | [Maledetta nostalgia](https://open.spotify.com/album/76YSYaGxqRYbXh35ib5pQX) | 3:50 |
 | 50 | [Femmena](https://open.spotify.com/track/2kk1qTOl3BGZTZWHQiP7Wn) | [Keyra](https://open.spotify.com/artist/5Y0hkP4UJmxdajANUr1IoC) | [Femmena](https://open.spotify.com/album/48B8m0PJxV8wJcmMah500u) | 2:38 |
 
-Snapshot ID: `MCw4OTllYTI4OWZhNTBjMWQ3MTNmMTBkNjcyM2IyNzEyMjBjYzZiZTVi`
+Snapshot ID: `MCw5YTBiZTMzZjgwY2EwMWZiMDA3MmJhNjRiOTRiNWFmOGI4ZWY5ZWNi`

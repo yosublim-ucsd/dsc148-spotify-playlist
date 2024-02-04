@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 3534,
+  "2024-02-04": 3532,
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO\">KAYTRANADA</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By KAYTRANADA",
@@ -1854,6 +1854,24 @@
     },
     {
       "album": {
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Lookin for Ya",
+      "url": "https://open.spotify.com/track/1ulXrCzBYnG3JJW11IXVZ8"
+    },
+    {
+      "album": {
         "name": "Ocean & Montana",
         "url": "https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv"
       },
@@ -1869,6 +1887,28 @@
       "duration_ms": 177396,
       "name": "Love Or Something",
       "url": "https://open.spotify.com/track/7oARln7vvm7pxWXvJmiVxH"
+    },
+    {
+      "album": {
+        "name": "Lover/Friend",
+        "url": "https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Lover/Friend",
+      "url": "https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP"
     },
     {
       "album": {
@@ -1935,7 +1975,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 258784,
       "name": "Meditation (feat. Jazmine Sullivan & KAYTRANADA)",
       "url": "https://open.spotify.com/track/7jaYiqwCFQDdtxfQaSzZuM"
@@ -2029,7 +2069,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 137706,
       "name": "Need It",
       "url": "https://open.spotify.com/track/11NwaUSqSYmZrFWo2qO2Ng"
@@ -2171,6 +2211,24 @@
       "duration_ms": 157251,
       "name": "ON THE LOW",
       "url": "https://open.spotify.com/track/698woGLcYhbvbeQtRNvksr"
+    },
+    {
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292824,
+      "name": "On the Run",
+      "url": "https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW"
     },
     {
       "album": {
@@ -2505,6 +2563,28 @@
       "duration_ms": 156000,
       "name": "Sossaup",
       "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
+    },
+    {
+      "album": {
+        "name": "Lover/Friend",
+        "url": "https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182265,
+      "name": "Stuntin",
+      "url": "https://open.spotify.com/track/44CSjBjs3mcn5c66XnB8It"
     },
     {
       "album": {

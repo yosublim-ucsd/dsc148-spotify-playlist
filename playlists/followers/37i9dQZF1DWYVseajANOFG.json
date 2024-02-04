@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 108791,
+  "2024-02-04": 108843,
   "date_first_scraped": "2022-03-22",
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: BARBEL",
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: JEYSON",
   "name": "Flow Panam\u00e1",
   "tracks": [
     {
@@ -309,7 +309,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 212347,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/1xaaZegdY4RVUXHvgnvWZ3"
@@ -1041,6 +1041,24 @@
       "duration_ms": 128906,
       "name": "DESDE EL IPHONE",
       "url": "https://open.spotify.com/track/4Cf0UM9DGWCOWgwTnAZpIx"
+    },
+    {
+      "album": {
+        "name": "Desv\u00edstete Lento",
+        "url": "https://open.spotify.com/album/0faOv9t3FWL37OtpCQm7sV"
+      },
+      "artists": [
+        {
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151894,
+      "name": "Desv\u00edstete Lento",
+      "url": "https://open.spotify.com/track/6cJLmo2HIP4Z8ZbceoSBK6"
     },
     {
       "album": {
@@ -2644,6 +2662,24 @@
     },
     {
       "album": {
+        "name": "Latina",
+        "url": "https://open.spotify.com/album/2HOCALmr2sbjOrAo8J1AiG"
+      },
+      "artists": [
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Latina",
+      "url": "https://open.spotify.com/track/4eS5VbDoCjgwfgQJfDxXHp"
+    },
+    {
+      "album": {
         "name": "Family Ties",
         "url": "https://open.spotify.com/album/4Ni9i51tUpUzJB0fhCOwVJ"
       },
@@ -3987,7 +4023,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 261648,
       "name": "Polvo Sano - Remix",
       "url": "https://open.spotify.com/track/2Czhk9PBWdo15wrRc7O7iW"
@@ -4351,10 +4387,32 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 213078,
       "name": "San Andr\u00e9s",
       "url": "https://open.spotify.com/track/2cPCGkVzozHLsdylZb7x5T"
+    },
+    {
+      "album": {
+        "name": "SANANDO HERIDAS",
+        "url": "https://open.spotify.com/album/3qXcyGNzcG0orK6xDg3k4j"
+      },
+      "artists": [
+        {
+          "name": "T.O.T",
+          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "SANANDO HERIDAS",
+      "url": "https://open.spotify.com/track/5UzF4eX6nHxBoMq7M1KHzx"
     },
     {
       "album": {
@@ -4806,6 +4864,36 @@
     },
     {
       "album": {
+        "name": "Literatura",
+        "url": "https://open.spotify.com/album/2T3rh7997NyCPKmMefGKYS"
+      },
+      "artists": [
+        {
+          "name": "SMILE BEATS",
+          "url": "https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        },
+        {
+          "name": "Tachi",
+          "url": "https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289624,
+      "name": "TEK",
+      "url": "https://open.spotify.com/track/7bkGJ5EGPf4x6MAnzG7TaA"
+    },
+    {
+      "album": {
         "name": "Bucle",
         "url": "https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55"
       },
@@ -4839,7 +4927,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 195918,
       "name": "Tequila Con Sal",
       "url": "https://open.spotify.com/track/7CdZmhxFtRzZfaeanncPFk"

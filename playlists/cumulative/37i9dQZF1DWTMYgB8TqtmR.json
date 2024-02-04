@@ -12923,6 +12923,24 @@
     },
     {
       "album": {
+        "name": "Best\u00e4mda Kliv",
+        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124752,
+      "name": "\u00d6verallt",
+      "url": "https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2"
+    },
+    {
+      "album": {
         "name": "\u00d6verallt",
         "url": "https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM"
       },
@@ -12934,7 +12952,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 125092,
       "name": "\u00d6verallt",
       "url": "https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH"

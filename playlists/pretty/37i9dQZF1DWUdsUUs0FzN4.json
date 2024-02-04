@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Bellakath en portada ",
-  "num_followers": 17397,
+  "num_followers": 17416,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzlkMzg5YWVkMDc1Yjk5YTAzZWI3Y2VhNGY1OWYwNzk2YzcyYzAw",
+  "snapshot_id": "MCwzMGFhNzcwM2E2MzIxN2Q5NzkzOGI0ZWVmODA0ZDY2OTViY2RhMzQ2",
   "tracks": [
     {
       "added_at": "2024-02-02 06:00:00",
@@ -252,7 +252,7 @@
           "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
         }
       ],
-      "duration_ms": 170399,
+      "duration_ms": 188862,
       "name": "El Que Resuelve",
       "url": "https://open.spotify.com/track/56Br9FPB36z1qf8gnu2Zib"
     },
@@ -931,34 +931,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "G Low Kitty",
-        "url": "https://open.spotify.com/album/6IvwdLnra2eCGtQnCYIXTN"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
-        }
-      ],
-      "duration_ms": 214897,
-      "name": "G Low Kitty",
-      "url": "https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Tu Diablo Remix (feat. El Jordan 23, Nickoog Clk & Tunechikidd)",
         "url": "https://open.spotify.com/album/77AYQ8GhjyHUOKRWNtqnKs"
       },
@@ -995,6 +967,34 @@
       "duration_ms": 385674,
       "name": "Tu Diablo Remix (feat. El Jordan 23, Nickoog Clk & Tunechikidd)",
       "url": "https://open.spotify.com/track/1tsWLeicLYHRuKi1sNbCWk"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "G Low Kitty",
+        "url": "https://open.spotify.com/album/6IvwdLnra2eCGtQnCYIXTN"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "duration_ms": 214897,
+      "name": "G Low Kitty",
+      "url": "https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Hora de Salir",
-        "url": "https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 183040,
-      "name": "Hora de Salir",
-      "url": "https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Helicoptero",
         "url": "https://open.spotify.com/album/3XmNrq8rYZX54P2WGd1pQ7"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 137014,
       "name": "Helicoptero",
       "url": "https://open.spotify.com/track/2Gt9PTqiQdE4ZGbsBwssqJ"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Hora de Salir",
+        "url": "https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "Hora de Salir",
+      "url": "https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1967,30 +1967,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Chakaleo",
-        "url": "https://open.spotify.com/album/1AFiAS14jLq3BE4xXJ16zz"
-      },
-      "artists": [
-        {
-          "name": "Profeta Yao Yao",
-          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
-        },
-        {
-          "name": "Smi-Lee",
-          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
-        },
-        {
-          "name": "Alberto Producer",
-          "url": "https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93"
-        }
-      ],
-      "duration_ms": 183331,
-      "name": "Chakaleo",
-      "url": "https://open.spotify.com/track/6cfFlDz8iGUVedHJLZjbXI"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "PARTY DE MALEANTES (RMX)",
         "url": "https://open.spotify.com/album/5kZF7dNdOpXm66JJ4Taxp2"
       },
@@ -2023,6 +1999,30 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Chakaleo",
+        "url": "https://open.spotify.com/album/1AFiAS14jLq3BE4xXJ16zz"
+      },
+      "artists": [
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        },
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        },
+        {
+          "name": "Alberto Producer",
+          "url": "https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93"
+        }
+      ],
+      "duration_ms": 183331,
+      "name": "Chakaleo",
+      "url": "https://open.spotify.com/track/6cfFlDz8iGUVedHJLZjbXI"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Alexxxa",
         "url": "https://open.spotify.com/album/2Fd1umwwTUXYviKHrfuNcp"
       },
@@ -2043,30 +2043,6 @@
       "duration_ms": 137142,
       "name": "Alexxxa",
       "url": "https://open.spotify.com/track/0iclHfV1JXHL29EUpK7o2B"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Chakalona",
-        "url": "https://open.spotify.com/album/67EjstfrVdX0ogEFfsYSFi"
-      },
-      "artists": [
-        {
-          "name": "De la Rosa Mx",
-          "url": "https://open.spotify.com/artist/5vqTcQeQsS5ypqWxufGUOo"
-        },
-        {
-          "name": "Flowker Slick",
-          "url": "https://open.spotify.com/artist/08Jl77YAzZDOfkM3OY4OrN"
-        },
-        {
-          "name": "DimeloooLexx",
-          "url": "https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO"
-        }
-      ],
-      "duration_ms": 168769,
-      "name": "Chakalona",
-      "url": "https://open.spotify.com/track/6LxKefLfvUJQ4gDifOmajM"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -2099,26 +2075,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "A Mover Ese Booty",
-        "url": "https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A"
-      },
-      "artists": [
-        {
-          "name": "Pablito Mix",
-          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
-        },
-        {
-          "name": "Nyel",
-          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
-        }
-      ],
-      "duration_ms": 157347,
-      "name": "A Mover Ese Booty",
-      "url": "https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Barby Bellaka",
         "url": "https://open.spotify.com/album/1MvKvhWkQ942ln0WbWz3PR"
       },
@@ -2143,6 +2099,50 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "A Mover Ese Booty",
+        "url": "https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "Nyel",
+          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
+        }
+      ],
+      "duration_ms": 157347,
+      "name": "A Mover Ese Booty",
+      "url": "https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Chakalona",
+        "url": "https://open.spotify.com/album/67EjstfrVdX0ogEFfsYSFi"
+      },
+      "artists": [
+        {
+          "name": "De la Rosa Mx",
+          "url": "https://open.spotify.com/artist/5vqTcQeQsS5ypqWxufGUOo"
+        },
+        {
+          "name": "Flowker Slick",
+          "url": "https://open.spotify.com/artist/08Jl77YAzZDOfkM3OY4OrN"
+        },
+        {
+          "name": "DimeloooLexx",
+          "url": "https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO"
+        }
+      ],
+      "duration_ms": 168769,
+      "name": "Chakalona",
+      "url": "https://open.spotify.com/track/6LxKefLfvUJQ4gDifOmajM"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "El Bellako",
         "url": "https://open.spotify.com/album/1jTPG5Ta9ynl446ZzOhuEq"
       },
@@ -2159,30 +2159,6 @@
       "duration_ms": 189473,
       "name": "A la pared",
       "url": "https://open.spotify.com/track/0RXGUnF9cCVn4w6n9lc6rP"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Paleta",
-        "url": "https://open.spotify.com/album/2DZ3uDCcvlRMclDxa7XZV1"
-      },
-      "artists": [
-        {
-          "name": "Ceaese",
-          "url": "https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9"
-        },
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 161216,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/625y4TWL5q781xk7LOBTkv"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -2211,22 +2187,42 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Maldades",
-        "url": "https://open.spotify.com/album/7uJRnxKIlIfh29O7EGCVkX"
+        "name": "Paleta",
+        "url": "https://open.spotify.com/album/2DZ3uDCcvlRMclDxa7XZV1"
       },
       "artists": [
         {
-          "name": "Mendoza",
-          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
+          "name": "Ceaese",
+          "url": "https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9"
         },
         {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
         }
       ],
-      "duration_ms": 161739,
-      "name": "Maldades",
-      "url": "https://open.spotify.com/track/6C8XeTHHVoqNEgg20x4J1t"
+      "duration_ms": 161216,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/625y4TWL5q781xk7LOBTkv"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "CULETEO",
+        "url": "https://open.spotify.com/album/7IGufkYRaam4cn196RMR2G"
+      },
+      "artists": [
+        {
+          "name": "Arturo Challa",
+          "url": "https://open.spotify.com/artist/5hbTewixuDJk5PGugClaj6"
+        }
+      ],
+      "duration_ms": 133580,
+      "name": "CULETEO",
+      "url": "https://open.spotify.com/track/1elKwtcNQfOs6bmpXRMNgJ"
     }
   ],
   "unique_name": "CHAKAL\u00d3N ",

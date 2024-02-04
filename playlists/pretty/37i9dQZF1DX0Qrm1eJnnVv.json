@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 4822,
+  "num_followers": 4827,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjQ4MjAxMGQzMjRmMTA0ODVlNGEyZGQ1ODUwZTE2OGVjNTZjM2Ey",
+  "snapshot_id": "MCwzYWMwMjg0ZTcyNjU1ZjFkMTJjNmM5MGVhMjQ1M2NmNDQ0Y2YzOTc5",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -195,38 +195,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Handful of Keys: Face-Melting Ragtime Played by Martin Spitznagel",
-        "url": "https://open.spotify.com/album/2eDQ5CG2GFO7tClYNS9S9b"
-      },
-      "artists": [
-        {
-          "name": "Martin Spitznagel",
-          "url": "https://open.spotify.com/artist/2FANFYc7uOUVwemb0jm9vX"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "The Easy Winners",
-      "url": "https://open.spotify.com/track/2JG7qkeDRvk7QA8CKZBXsJ"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
-        "name": "The World Of Scott Joplin",
-        "url": "https://open.spotify.com/album/5hg3Km0IQSIa8I1Q8YB2Pl"
-      },
-      "artists": [
-        {
-          "name": "Max Morath",
-          "url": "https://open.spotify.com/artist/34Mreq5fPf8HWbVhNFTJIF"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Top Liner Rag",
-      "url": "https://open.spotify.com/track/3wQVZKxvSnaSiBaNFX80Od"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "World's Greatest Piano Rags",
         "url": "https://open.spotify.com/album/0wVhPHbbIBmNKVbQdvI9tQ"
       },
@@ -247,18 +215,50 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "50 Ragtime Classics: The Best of Scott Joplin",
-        "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
+        "name": "The World Of Scott Joplin",
+        "url": "https://open.spotify.com/album/5hg3Km0IQSIa8I1Q8YB2Pl"
       },
       "artists": [
         {
-          "name": "Donald Beavers",
-          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
+          "name": "Max Morath",
+          "url": "https://open.spotify.com/artist/34Mreq5fPf8HWbVhNFTJIF"
         }
       ],
-      "duration_ms": 112684,
-      "name": "Wall Street Rag",
-      "url": "https://open.spotify.com/track/3hTDYslHMaFW29u4yU07Vb"
+      "duration_ms": 233000,
+      "name": "Top Liner Rag",
+      "url": "https://open.spotify.com/track/3wQVZKxvSnaSiBaNFX80Od"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Handful of Keys: Face-Melting Ragtime Played by Martin Spitznagel",
+        "url": "https://open.spotify.com/album/2eDQ5CG2GFO7tClYNS9S9b"
+      },
+      "artists": [
+        {
+          "name": "Martin Spitznagel",
+          "url": "https://open.spotify.com/artist/2FANFYc7uOUVwemb0jm9vX"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "The Easy Winners",
+      "url": "https://open.spotify.com/track/2JG7qkeDRvk7QA8CKZBXsJ"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Ragtime Revival",
+        "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
+      },
+      "artists": [
+        {
+          "name": "Scott Cotton",
+          "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bohemia Rag",
+      "url": "https://open.spotify.com/track/036qpba8Fn5TspX2QrN8wO"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -283,18 +283,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime Revival",
-        "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
+        "name": "50 Ragtime Classics: The Best of Scott Joplin",
+        "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
       },
       "artists": [
         {
-          "name": "Scott Cotton",
-          "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
+          "name": "Donald Beavers",
+          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Bohemia Rag",
-      "url": "https://open.spotify.com/track/036qpba8Fn5TspX2QrN8wO"
+      "duration_ms": 112684,
+      "name": "Wall Street Rag",
+      "url": "https://open.spotify.com/track/3hTDYslHMaFW29u4yU07Vb"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -379,18 +379,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "100 Years of Ragtime",
-        "url": "https://open.spotify.com/album/5DHHZDFHXM1iBKCvG45ODR"
+        "name": "Ragtime Revival",
+        "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
       },
       "artists": [
         {
-          "name": "Donald Beavers",
-          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
+          "name": "Scott Cotton",
+          "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
         }
       ],
-      "duration_ms": 209247,
-      "name": "American Beauty Rag",
-      "url": "https://open.spotify.com/track/69suUSUufKh4IlTRG2t88Z"
+      "duration_ms": 210000,
+      "name": "Ragtime Oriole",
+      "url": "https://open.spotify.com/track/7jp3NMj2U44WSBGHtjrGGp"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -411,18 +411,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime Revival",
-        "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
+        "name": "100 Years of Ragtime",
+        "url": "https://open.spotify.com/album/5DHHZDFHXM1iBKCvG45ODR"
       },
       "artists": [
         {
-          "name": "Scott Cotton",
-          "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
+          "name": "Donald Beavers",
+          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Ragtime Oriole",
-      "url": "https://open.spotify.com/track/7jp3NMj2U44WSBGHtjrGGp"
+      "duration_ms": 209247,
+      "name": "American Beauty Rag",
+      "url": "https://open.spotify.com/track/69suUSUufKh4IlTRG2t88Z"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -615,8 +615,8 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Joseph F. Lamb: The Complete Stark Rags (1908-1919)",
-        "url": "https://open.spotify.com/album/0b5ts7qqK1ovw09OJFOUiv"
+        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
+        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
         }
       ],
-      "duration_ms": 251906,
-      "name": "Ethiopia",
-      "url": "https://open.spotify.com/track/6vKrEa3NCMxkGstSrBI71I"
+      "duration_ms": 177000,
+      "name": "Great Scott Rag",
+      "url": "https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -727,8 +727,8 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
-        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
+        "name": "Joseph F. Lamb: The Complete Stark Rags (1908-1919)",
+        "url": "https://open.spotify.com/album/0b5ts7qqK1ovw09OJFOUiv"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Great Scott Rag",
-      "url": "https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6"
+      "duration_ms": 251906,
+      "name": "Ethiopia",
+      "url": "https://open.spotify.com/track/6vKrEa3NCMxkGstSrBI71I"
     },
     {
       "added_at": "2020-08-19 17:18:36",

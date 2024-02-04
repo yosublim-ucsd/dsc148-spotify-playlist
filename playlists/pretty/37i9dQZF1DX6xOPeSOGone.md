@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 
 > It's like rock, but softer\. Cover: Fleetwood Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,588,551 likes - 110 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,588,456 likes - 110 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 74 | [This Time I'm In It For Love](https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:25 |
 | 75 | [Moonlighting](https://open.spotify.com/track/6GOTL6XgV6eiDTBsKIhzc9) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Another Year](https://open.spotify.com/album/2p2kou1Eo0lr9dADvLfjn7) | 4:13 |
 | 76 | [Sweet Seasons](https://open.spotify.com/track/2CQhvHR4xM8uyAKwZYCaJx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/7ghZpirxJtjGt4QzPtnkqT) | 3:13 |
-| 77 | [Glamour Profession](https://open.spotify.com/track/3Q2Xxc7y6g4OrYmO53J7Yf) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 7:28 |
+| 77 | [Glamour Profession](https://open.spotify.com/track/6WQKyeXBzA9oRyENIYTmU3) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb) | 7:28 |
 | 78 | [You're the Love](https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Takin' It Easy](https://open.spotify.com/album/7DnYwuOkSK6qoZmfzx5erL) | 3:20 |
 | 79 | [Hot Rod Hearts \- Remastered](https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Robbie Dupree](https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW) | 3:41 |
 | 80 | [\(Remember the Days of The\) Old Schoolyard](https://open.spotify.com/track/6FvBlii7noUCNdImVN0aqG) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Izitso](https://open.spotify.com/album/2TZXbrgNOBD5RAQlTLHqnl) | 2:44 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 109 | [Tranquillo \(Melt My Heart\)](https://open.spotify.com/track/0i8s3YyZjFcJoV41GxZjhg) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Boys in the Trees](https://open.spotify.com/album/6TUPBFLSBxRwHDXV0y3AHs) | 4:03 |
 | 110 | [Float On By](https://open.spotify.com/track/3i4cFJr2Ka8b4HpxfvQyje) | [Rhythm Heritage](https://open.spotify.com/artist/2ZGlJUO9hdjZEvl710OpVX) | [Sky's The Limit](https://open.spotify.com/album/5m0YX0qek6vg8hzdsBluaK) | 3:31 |
 
-Snapshot ID: `MCwzOGUwMWJmNmMwMDZjZjliMmI0ZjVkODM0ZjVkNTRjZjY0MmE4MTU0`
+Snapshot ID: `MCxlZjQ1YzRjZjYxNzRkMDliNWMxMzA2NGYyM2EzYjhiMjhiZTk1ZWMy`

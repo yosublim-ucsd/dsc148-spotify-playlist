@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 178632,
+  "num_followers": 178665,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTE5OTFkYTY2MGU1M2VmZWU0ODM3MGY1ODQ3OWYzMDA5MmU2ODY3",
+  "snapshot_id": "MCwyNTdkYWNhNWVkYzAwYzY1NDEwOGYzNzY1N2UwZTcxNDY1MWI4NjJj",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1467,8 +1467,8 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Soy Tan Feliz",
-        "url": "https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap"
+        "name": "Para Amarte",
+        "url": "https://open.spotify.com/album/2AkQCQd9z3gSs8krOGWi8C"
       },
       "artists": [
         {
@@ -1476,17 +1476,13 @@
           "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
         },
         {
-          "name": "DOMINICO GONZALEZ",
-          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
-        },
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
         }
       ],
-      "duration_ms": 266571,
-      "name": "Soy Tan Feliz",
-      "url": "https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW"
+      "duration_ms": 228000,
+      "name": "Para Amarte",
+      "url": "https://open.spotify.com/track/5R1xv6pkvMCRVu7de9B1pj"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1511,22 +1507,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Noches Enteras",
-        "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
+        "name": "Medicina",
+        "url": "https://open.spotify.com/album/5YA0A93iPTXk5poS3x49XF"
       },
       "artists": [
         {
           "name": "Omy Alka",
           "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 231008,
-      "name": "Noches Enteras",
-      "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
+      "duration_ms": 186602,
+      "name": "Medicina",
+      "url": "https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1603,8 +1595,8 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Para Amarte",
-        "url": "https://open.spotify.com/album/2AkQCQd9z3gSs8krOGWi8C"
+        "name": "Soy Tan Feliz",
+        "url": "https://open.spotify.com/album/3xlOCuI8MHKetGn68YbQap"
       },
       "artists": [
         {
@@ -1612,13 +1604,17 @@
           "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
         },
         {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+          "name": "DOMINICO GONZALEZ",
+          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
+        },
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Para Amarte",
-      "url": "https://open.spotify.com/track/5R1xv6pkvMCRVu7de9B1pj"
+      "duration_ms": 266571,
+      "name": "Soy Tan Feliz",
+      "url": "https://open.spotify.com/track/3iBkvOdbJ6V1vhZjSnCoKW"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1679,18 +1675,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Medicina",
-        "url": "https://open.spotify.com/album/5YA0A93iPTXk5poS3x49XF"
+        "name": "Noches Enteras",
+        "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
       },
       "artists": [
         {
           "name": "Omy Alka",
           "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 186602,
-      "name": "Medicina",
-      "url": "https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J"
+      "duration_ms": 231008,
+      "name": "Noches Enteras",
+      "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
     },
     {
       "added_at": "2022-08-27 05:04:45",

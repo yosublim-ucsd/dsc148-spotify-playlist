@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 8513,
+  "2024-02-04": 8523,
   "date_first_scraped": "2021-12-29",
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
   "name": "This Is Patoranking",
@@ -353,7 +353,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 239706,
       "name": "Celebrate Me",
       "url": "https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4"
@@ -2697,7 +2697,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 173547,
       "name": "Wonder (feat. Patoranking)",
       "url": "https://open.spotify.com/track/4cr9TB2EIAb3uDgvjbYYL0"

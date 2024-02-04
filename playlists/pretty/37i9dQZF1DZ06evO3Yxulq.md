@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,729 likes - 50 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,744 likes - 50 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 16 | [Tantas Historias](https://open.spotify.com/track/6f1jhlNzYyUvK2XwxCk2pT) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Stories On Stories](https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr) | 4:00 |
 | 17 | [Admirable](https://open.spotify.com/track/2ImRcOX7kKBGsqF0BvdVI5) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 10:32 |
 | 18 | [Lugar Secreto \- Español](https://open.spotify.com/track/2ZtyevyY9zXjSICcCfBdM2) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Lugar Secreto \(Español\)](https://open.spotify.com/album/4Q56BcFRQXYiNMDuAYenpV) | 5:34 |
-| 19 | [Fidelidad \(Grande Es Tu Fidelidad\)](https://open.spotify.com/track/1ybRNixD4WbiPwGOKbRtCh) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 4:56 |
-| 20 | [Donde Está El Espíritu de Dios](https://open.spotify.com/track/0zXTW0J4XLhqsNSrmwk9sp) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Donde Está El Espíritu de Dios](https://open.spotify.com/album/3Yi2UipOGBlp03eUNT6tpj) | 4:05 |
+| 19 | [Donde Está El Espíritu de Dios](https://open.spotify.com/track/0zXTW0J4XLhqsNSrmwk9sp) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Donde Está El Espíritu de Dios](https://open.spotify.com/album/3Yi2UipOGBlp03eUNT6tpj) | 4:05 |
+| 20 | [Fidelidad \(Grande Es Tu Fidelidad\)](https://open.spotify.com/track/1ybRNixD4WbiPwGOKbRtCh) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 4:56 |
 | 21 | [Stories On Stories](https://open.spotify.com/track/3GLialPfon3PHfwNjZvgi2) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Stories On Stories](https://open.spotify.com/album/7rqxrTJYrTRSszKiqn6VXK) | 4:00 |
 | 22 | [Hasta poder ver](https://open.spotify.com/track/3MH2bwGyeqHBAefP8UDj6x) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta poder ver](https://open.spotify.com/album/5g5Vcw8n4yjZHNhFIruR9J) | 5:09 |
 | 23 | [Loco Amor \(Spanish Version\)](https://open.spotify.com/track/4ycyCxaQyVOA0hOELiU8wf) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Loco Amor \(Spanish Version\)](https://open.spotify.com/album/0fdRBSdw56pU3F5F3TJORK) | 5:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 49 | [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 |
 | 50 | [Famous For \(I Believe\) \[Spanish/English Version\]](https://open.spotify.com/track/5ZO6LwgpjWDqLjK54kO4EB) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Famous For \(I Believe\) \- Collection](https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu) | 4:02 |
 
-Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDA3OTVjY2RkNTE5M2Q5YmRkMTZkZTZjMDEwMDMzODUxOQ==`
+Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA0ZDhiYTc1MDQ1OTQxZTg0ZWZmMmU1MTc1YmZkOGU3Yg==`

@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 8252,
+  "2024-02-04": 8251,
   "date_first_scraped": "2022-01-29",
   "description": "Your daily update of the most viral tracks right now - Honduras.",
   "name": "Viral 50 - Honduras",
@@ -4942,6 +4942,24 @@
     },
     {
       "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190546,
+      "name": "Can I Call You Rose?",
+      "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
+    },
+    {
+      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3"
       },
@@ -7227,6 +7245,24 @@
       "duration_ms": 209062,
       "name": "Dame Amor",
       "url": "https://open.spotify.com/track/5pzdnCfGS2uz5XjXx6gem3"
+    },
+    {
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215666,
+      "name": "Dame Beso // Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/21RAJfkAbaq85RWJQWoxkx"
     },
     {
       "album": {
@@ -11445,7 +11481,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 163317,
       "name": "Fly",
       "url": "https://open.spotify.com/track/17wZYqV156CQfuWqWV3nbb"
@@ -11463,7 +11499,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 161567,
       "name": "FLY HIGHH",
       "url": "https://open.spotify.com/track/0tr4QmSTXDBOrrqkOV26Gt"

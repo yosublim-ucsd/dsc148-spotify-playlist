@@ -1185,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "6G",
+        "url": "https://open.spotify.com/album/54LK6dIRTx4gRYznkLdjzt"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "6G",
+      "url": "https://open.spotify.com/track/4MsOD2fBtHHIyyKY4acddP"
+    },
+    {
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -4673,6 +4691,24 @@
     },
     {
       "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147746,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+    },
+    {
+      "album": {
         "name": "BANDITA (feat. Noizy)",
         "url": "https://open.spotify.com/album/0TaB7abwiiDuxiQdmAJBaQ"
       },
@@ -5462,6 +5498,24 @@
       "duration_ms": 110680,
       "name": "Beverly Hills Freestyle",
       "url": "https://open.spotify.com/track/7FmVdjiGILAEESFekUyZ0D"
+    },
+    {
+      "album": {
+        "name": "Bevor du gehst",
+        "url": "https://open.spotify.com/album/06Dt7sJUujotgRHk4x3f9b"
+      },
+      "artists": [
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209327,
+      "name": "Bevor du gehst",
+      "url": "https://open.spotify.com/track/5pddRrf8WMrCU7u7LsAzxL"
     },
     {
       "album": {
@@ -10356,7 +10410,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 175200,
       "name": "Demons",
       "url": "https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"
@@ -13925,6 +13979,28 @@
     },
     {
       "album": {
+        "name": "Chambre 140 (Part.3)",
+        "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138933,
+      "name": "Faut pas",
+      "url": "https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts"
+    },
+    {
+      "album": {
         "name": "Favorites",
         "url": "https://open.spotify.com/album/733TX6DRqF4JMZaF1CjN2G"
       },
@@ -15268,6 +15344,24 @@
       "duration_ms": 178185,
       "name": "F\u00fcr immer",
       "url": "https://open.spotify.com/track/4pIm5Jysk3jlthetctdmpe"
+    },
+    {
+      "album": {
+        "name": "F\u00fcr immer Fr\u00fchling",
+        "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
+      },
+      "artists": [
+        {
+          "name": "soffie",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "F\u00fcr immer Fr\u00fchling",
+      "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
     },
     {
       "album": {
@@ -18458,7 +18552,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -27727,6 +27821,32 @@
     },
     {
       "album": {
+        "name": "AKELA",
+        "url": "https://open.spotify.com/album/2J4MQ5VDmWZ1P5ZPtfp3OI"
+      },
+      "artists": [
+        {
+          "name": "Safraoui",
+          "url": "https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX"
+        },
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176698,
+      "name": "MONTENEGRO (feat. RAF Camora)",
+      "url": "https://open.spotify.com/track/0xuaMTaQFsfaLPuMoYUQoP"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -28468,7 +28588,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -40384,7 +40504,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 206142,
       "name": "Time",
       "url": "https://open.spotify.com/track/32QpSQhOWrFbSYOEVvXV8F"
@@ -43898,7 +44018,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
@@ -44696,7 +44816,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 170550,
       "name": "WONDERFUL LIFE",
       "url": "https://open.spotify.com/track/5Tpojb1ynbO0MgfAwgDza5"

@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 11608,
+  "2024-02-04": 11612,
   "date_first_scraped": "2022-06-30",
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
   "name": "Krautrock Highway",
@@ -2491,7 +2491,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 1087840,
       "name": "Jenny Ondioline",
       "url": "https://open.spotify.com/track/2DMZvrvsxEPEN6OmwYis6h"
@@ -2750,6 +2750,24 @@
     },
     {
       "album": {
+        "name": "Future Sounds Of Kraut, Vol. 2 - Teaser 1",
+        "url": "https://open.spotify.com/album/7vOtMSWn1d4iKjIGcNG8E1"
+      },
+      "artists": [
+        {
+          "name": "Lucas Croon",
+          "url": "https://open.spotify.com/artist/0KB64He7gdUpIIfg3DzH5Z"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439529,
+      "name": "Krautwickel",
+      "url": "https://open.spotify.com/track/5lM4npHv57txmyWH9wUnkh"
+    },
+    {
+      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s"
       },
@@ -2981,7 +2999,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 245093,
       "name": "Les Yper-Sound",
       "url": "https://open.spotify.com/track/7EBrYvNV6ZeTFld2I1m8n2"
@@ -6137,7 +6155,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 319853,
       "name": "Yatton",
       "url": "https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh"

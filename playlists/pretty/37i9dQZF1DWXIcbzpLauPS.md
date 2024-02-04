@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Polaris
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,585 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,792 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 99 | [Reap](https://open.spotify.com/track/0sG0I67b53eGXCKryNCgmC) | [Shallowsky](https://open.spotify.com/artist/0OggfRsxbs119D8rf3rXvG) | [Reap](https://open.spotify.com/album/4cBmWgK6BWMuh5NakqcOIi) | 3:27 |
 | 100 | [Broken Bloodlines](https://open.spotify.com/track/66HeAsE4CABgtGJxE8Fyg6) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Broken Bloodlines](https://open.spotify.com/album/0osYFo3GUQBBXDNA6i7XxM) | 4:36 |
 
-Snapshot ID: `MCxhZmIwNTE4OTY5MTE4NTM3NWVjYjA5ODk2ZjA1OTk2N2Y2NWRlNzc1`
+Snapshot ID: `MCxiZWE2MmE4ZGIxMjc5MmM5OGI2OTRjODRhNzFlY2U3NDA3MTBkMzJi`

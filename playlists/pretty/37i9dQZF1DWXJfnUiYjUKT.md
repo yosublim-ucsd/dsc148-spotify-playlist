@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,165 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,173 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 22 | [Don't Like Anybody](https://open.spotify.com/track/4DCYG3wov1XGZx2mIVVmnj) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Don't Like Anybody](https://open.spotify.com/album/3vaIMrgZEsIipXunpjLA4B) | 2:10 |
 | 23 | [Sensei](https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sensei](https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu) | 1:58 |
 | 24 | [Good For You](https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Good For You](https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD) | 2:50 |
-| 25 | [even when the sun is dead](https://open.spotify.com/track/7zH3Qm6lu296i2owAENBLk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [even when the sun is dead](https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn) | 2:16 |
+| 25 | [Even When The Sun is Dead](https://open.spotify.com/track/7zH3Qm6lu296i2owAENBLk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn) | 2:16 |
 | 26 | [Liar](https://open.spotify.com/track/0jHnEevYYvE7B2YJoBwz1S) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Liar](https://open.spotify.com/album/3R6tZohZ0UgpffwNA9Q54e) | 2:04 |
 | 27 | [Dance Like No One’s Watching](https://open.spotify.com/track/5FpEdufuunZqzyQbyetevf) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Chapter & Verse](https://open.spotify.com/album/4pfspuo0DUzho0hGtZHI9r) | 3:51 |
 | 28 | [Dreaming](https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs) | 3:28 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 98 | [MAMI CHAKALOSA](https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L) | [MAMI CHAKALOSA](https://open.spotify.com/album/7qNA059vQm84DreXknnuHr) | 2:16 |
 | 99 | [You Did It Too](https://open.spotify.com/track/0rurBqyN7b9tKSp78YYc4v) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [You Did It Too](https://open.spotify.com/album/3LU2HeXJYSdxfFcPXVLA6U) | 3:04 |
 
-Snapshot ID: `MCxjOWVlMjFlOTZhODVkZjA0MDIxMjA1MTRkNzk3MTY2ZjgwYTdhODhj`
+Snapshot ID: `MCxmNDU0YTRjNTA5NTJlMGFjYzM0NjJjNjMzZGI3NDA1ZDg3MTM4MTIy`

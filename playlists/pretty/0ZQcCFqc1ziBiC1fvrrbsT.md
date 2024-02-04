@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 10,116 likes - 25 songs - 1 hr 47 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 10,129 likes - 25 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Big Love](https://open.spotify.com/track/5TlQaUReZtviIA3AWrAazB) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Big Love](https://open.spotify.com/album/4fgwPlwnatn7LfaMiziOJh) | 2:57 |
 | 2 | [Eternal](https://open.spotify.com/track/265WBgFx8YH6lGFN4CS6fh) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Eternal](https://open.spotify.com/album/1QO1HlCWGZgozbDy0AsW8b) | 2:18 |
-| 3 | [Dreamfear](https://open.spotify.com/track/57edrlN0230hrXhLrbctAE) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Dreamfear/Boy Sent From Above](https://open.spotify.com/album/6gfaxkb8AwQpr0idbYnsAm) | 12:53 |
+| 3 | [Dreamfear](https://open.spotify.com/track/57edrlN0230hrXhLrbctAE) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Dreamfear / Boy Sent From Above](https://open.spotify.com/album/6gfaxkb8AwQpr0idbYnsAm) | 12:53 |
 | 4 | [Loneliness \- radio edit](https://open.spotify.com/track/7ejlbv0Nt4JZk6rebfUky9) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Loneliness](https://open.spotify.com/album/0Lxcnu23IVYAYTUw5oHkeY) | 3:17 |
 | 5 | [Got to Be Who U Are](https://open.spotify.com/track/1wR9z4uingKfOuqSnvHW0e) | [Ibibio Sound Machine](https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c) | [Got to Be Who U Are](https://open.spotify.com/album/5Ezx5v9OnS0uF7KLuGuKVp) | 3:39 |
 | 6 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 |

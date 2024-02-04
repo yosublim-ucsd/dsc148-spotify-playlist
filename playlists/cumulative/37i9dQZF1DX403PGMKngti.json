@@ -205,6 +205,28 @@
     },
     {
       "album": {
+        "name": "Champetua",
+        "url": "https://open.spotify.com/album/4joMs1H6WBYzUIv17uYN5N"
+      },
+      "artists": [
+        {
+          "name": "Oscar Prince",
+          "url": "https://open.spotify.com/artist/5XnGhskwJJ0JdXASSM3OIp"
+        },
+        {
+          "name": "Bip",
+          "url": "https://open.spotify.com/artist/3n1HlTtsRQZysVe8QPjOIB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238066,
+      "name": "Champetua",
+      "url": "https://open.spotify.com/track/6qUVpuObKhwKiXeC5zBXz1"
+    },
+    {
+      "album": {
         "name": "Champetua (feat. Grupo Bip)",
         "url": "https://open.spotify.com/album/0D9sIElKSpKVWJl5Gi8jFc"
       },
@@ -224,7 +246,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 236826,
       "name": "Champetua (feat. Grupo Bip)",
       "url": "https://open.spotify.com/track/56opHoczTBGMkxFDONXvAy"

@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 45361,
+  "num_followers": 45405,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWU3ZWEwMWY5YzUyYTExM2M5NzRlYjg2NDZkMjVkN2I0NDFiZjJk",
+  "snapshot_id": "MCwzMDA1Njk0Njc2ZDFkNzNkZDJiZTI4NDU2MGM5YTJmNjQyMTMwOTdh",
   "tracks": [
     {
       "added_at": "2023-08-23 10:15:28",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Lil's Big Hits",
-        "url": "https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08"
-      },
-      "artists": [
-        {
-          "name": "Lilgreen",
-          "url": "https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7"
-        }
-      ],
-      "duration_ms": 202964,
-      "name": "Romance In The Dark",
-      "url": "https://open.spotify.com/track/5eLdg6SFlue27XADwrAxzS"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Boogie Woogie Gals",
         "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 155813,
       "name": "Boogie'n My Woogie",
       "url": "https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Lil's Big Hits",
+        "url": "https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08"
+      },
+      "artists": [
+        {
+          "name": "Lilgreen",
+          "url": "https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7"
+        }
+      ],
+      "duration_ms": 202964,
+      "name": "Romance In The Dark",
+      "url": "https://open.spotify.com/track/5eLdg6SFlue27XADwrAxzS"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Raunchy Business: Hot Nuts & Lollypops",
-        "url": "https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx"
-      },
-      "artists": [
-        {
-          "name": "Bernice Edwards",
-          "url": "https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "Butcher Shop Blues",
-      "url": "https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Anthology: The Deluxe Collection (Remastered)",
         "url": "https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 156373,
       "name": "Rock Me - Remastered",
       "url": "https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Raunchy Business: Hot Nuts & Lollypops",
+        "url": "https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx"
+      },
+      "artists": [
+        {
+          "name": "Bernice Edwards",
+          "url": "https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Butcher Shop Blues",
+      "url": "https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr"
     },
     {
       "added_at": "2023-08-23 10:15:28",

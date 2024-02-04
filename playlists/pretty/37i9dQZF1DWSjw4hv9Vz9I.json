@@ -1,12 +1,12 @@
 {
   "description": "A neo-classic sound for the road. Cover: Thee Sacred Souls",
-  "num_followers": 129591,
+  "num_followers": 129649,
   "original_name": "Retro Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzI3OTViNjY0OTA3MmY2ZmIzN2FjOTdhY2Y3ZGUxMjdkZjgxZTkw",
+  "snapshot_id": "MCwwMThmNDE4Y2NlZjkxMWI5MTgxNjY5MjllMGZjYWJjMGQzNjZkNWI4",
   "tracks": [
     {
       "added_at": "2021-07-13 21:11:09",
@@ -947,6 +947,38 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "Beacon",
+        "url": "https://open.spotify.com/album/4LM0yqf8JFZM0znpmZ3N2x"
+      },
+      "artists": [
+        {
+          "name": "Matt Duncan",
+          "url": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Beacon",
+      "url": "https://open.spotify.com/track/4BzL0gi5iQAEoXvISn95Md"
+    },
+    {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "Call It Home, Vol. 1",
+        "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 275346,
+      "name": "Live Learn",
+      "url": "https://open.spotify.com/track/1pRjwKEEx9ddfevbXNyJdi"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "Uncommon Good",
         "url": "https://open.spotify.com/album/29r3Vl3AHVHiYIQB3mwkW7"
       },
@@ -977,22 +1009,6 @@
       "url": "https://open.spotify.com/track/6XxsaUGWRXc30HgewJ10M8"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Call It Home, Vol. 1",
-        "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 275346,
-      "name": "Live Learn",
-      "url": "https://open.spotify.com/track/1pRjwKEEx9ddfevbXNyJdi"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "The Dip Delivers",
@@ -1007,22 +1023,6 @@
       "duration_ms": 212680,
       "name": "Adeline",
       "url": "https://open.spotify.com/track/3wZqS73n0ivz3o6yPZPjxI"
-    },
-    {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
-        "name": "Some Of Us Are Brave",
-        "url": "https://open.spotify.com/album/3U9lnLFMvyzJfBq6Twv06y"
-      },
-      "artists": [
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 143715,
-      "name": "So Long",
-      "url": "https://open.spotify.com/track/3wdWnJbBPFExinktlqD4d7"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1061,20 +1061,20 @@
       "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
-      "added_at": "2021-10-29 04:01:00",
+      "added_at": "2022-12-13 18:45:33",
       "album": {
-        "name": "Starchild",
-        "url": "https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx"
+        "name": "Some Of Us Are Brave",
+        "url": "https://open.spotify.com/album/3U9lnLFMvyzJfBq6Twv06y"
       },
       "artists": [
         {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
         }
       ],
-      "duration_ms": 231853,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
+      "duration_ms": 143715,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/3wdWnJbBPFExinktlqD4d7"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1093,6 +1093,38 @@
       "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
     },
     {
+      "added_at": "2021-10-29 04:01:00",
+      "album": {
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx"
+      },
+      "artists": [
+        {
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+        }
+      ],
+      "duration_ms": 231853,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Soft Times",
+        "url": "https://open.spotify.com/album/2uYzXe3PhOs9p7jW3jDZue"
+      },
+      "artists": [
+        {
+          "name": "Matt Duncan",
+          "url": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "The Keys",
+      "url": "https://open.spotify.com/track/3IKEgC5BTp0hzQxl5GTujD"
+    },
+    {
       "added_at": "2023-07-11 18:58:28",
       "album": {
         "name": "Look Closer",
@@ -1107,22 +1139,6 @@
       "duration_ms": 211413,
       "name": "Hot Shot",
       "url": "https://open.spotify.com/track/39DKVXSa1NaJXo9Ud4G4Io"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Beacon",
-        "url": "https://open.spotify.com/album/4LM0yqf8JFZM0znpmZ3N2x"
-      },
-      "artists": [
-        {
-          "name": "Matt Duncan",
-          "url": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Beacon",
-      "url": "https://open.spotify.com/track/4BzL0gi5iQAEoXvISn95Md"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Soft Times",
-        "url": "https://open.spotify.com/album/2uYzXe3PhOs9p7jW3jDZue"
+        "name": "Terra Incognita",
+        "url": "https://open.spotify.com/album/6VK61AziX6omTcpPU1RjbP"
       },
       "artists": [
         {
-          "name": "Matt Duncan",
-          "url": "https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl"
+          "name": "Joe Hertler & The Rainbow Seekers",
+          "url": "https://open.spotify.com/artist/2bqcjvd6ETkqubaQnx3OtS"
         }
       ],
-      "duration_ms": 217058,
-      "name": "The Keys",
-      "url": "https://open.spotify.com/track/3IKEgC5BTp0hzQxl5GTujD"
+      "duration_ms": 211173,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/6TpEvRDyKjLYAreDsdbiU9"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1239,22 +1255,6 @@
       "duration_ms": 241706,
       "name": "On And On",
       "url": "https://open.spotify.com/track/2NwwdNPSlvoRBqomWa4S2N"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Terra Incognita",
-        "url": "https://open.spotify.com/album/6VK61AziX6omTcpPU1RjbP"
-      },
-      "artists": [
-        {
-          "name": "Joe Hertler & The Rainbow Seekers",
-          "url": "https://open.spotify.com/artist/2bqcjvd6ETkqubaQnx3OtS"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/6TpEvRDyKjLYAreDsdbiU9"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "California Wine",
+        "url": "https://open.spotify.com/album/2egHeaeAhGjsZ4PUc4A1Xa"
+      },
+      "artists": [
+        {
+          "name": "Quinn Devlin",
+          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
+        }
+      ],
+      "duration_ms": 187231,
+      "name": "California Wine",
+      "url": "https://open.spotify.com/track/02uuyfMVDPh81EirCFoyhi"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "A Change Is Gonna Come",
         "url": "https://open.spotify.com/album/5sP7f67CACltHoODXenmhw"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 276609,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/2RONhC3MSnfZx3P7b3csF5"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "California Wine",
-        "url": "https://open.spotify.com/album/2egHeaeAhGjsZ4PUc4A1Xa"
-      },
-      "artists": [
-        {
-          "name": "Quinn Devlin",
-          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
-        }
-      ],
-      "duration_ms": 187231,
-      "name": "California Wine",
-      "url": "https://open.spotify.com/track/02uuyfMVDPh81EirCFoyhi"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1517,6 +1517,22 @@
       "url": "https://open.spotify.com/track/41xg3SjdwFyAp0kao72944"
     },
     {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Honest Man",
+        "url": "https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2"
+      },
+      "artists": [
+        {
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+        }
+      ],
+      "duration_ms": 325145,
+      "name": "Honest Man",
+      "url": "https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX"
+    },
+    {
       "added_at": "2022-02-11 05:02:00",
       "album": {
         "name": "Written All over My Heart",
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Honest Man",
-        "url": "https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2"
+        "name": "My Name Is Earl",
+        "url": "https://open.spotify.com/album/4ZFj9ZGycCJdFCeZrFyOlz"
       },
       "artists": [
         {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+          "name": "Earl St. Clair",
+          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
         }
       ],
-      "duration_ms": 325145,
-      "name": "Honest Man",
-      "url": "https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX"
+      "duration_ms": 191666,
+      "name": "Feeling Alive",
+      "url": "https://open.spotify.com/track/3WUiiqaOUI1K6ttDLS2dJ1"
     },
     {
       "added_at": "2023-12-13 17:43:50",
@@ -1563,22 +1579,6 @@
       "duration_ms": 182821,
       "name": "Woman (Single Edit)",
       "url": "https://open.spotify.com/track/3tW5b01kiWfMJKQWddwPNl"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "My Name Is Earl",
-        "url": "https://open.spotify.com/album/4ZFj9ZGycCJdFCeZrFyOlz"
-      },
-      "artists": [
-        {
-          "name": "Earl St. Clair",
-          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "Feeling Alive",
-      "url": "https://open.spotify.com/track/3WUiiqaOUI1K6ttDLS2dJ1"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1617,6 +1617,22 @@
       "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
     },
     {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Wait Til I Get Over",
+        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 204024,
+      "name": "See It Through",
+      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
+    },
+    {
       "added_at": "2023-12-13 17:43:50",
       "album": {
         "name": "Takin' All My Lovin'",
@@ -1635,22 +1651,6 @@
       "duration_ms": 207920,
       "name": "Takin' All My Lovin'",
       "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Wait Til I Get Over",
-        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 204024,
-      "name": "See It Through",
-      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1699,22 +1699,6 @@
       "duration_ms": 204500,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/71xdcSZMYmrBzw0RVnvJEF"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Shed a Little Light",
-        "url": "https://open.spotify.com/album/2JVchfGAOejBNAA2mc2bUA"
-      },
-      "artists": [
-        {
-          "name": "GoldFord",
-          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
-        }
-      ],
-      "duration_ms": 204720,
-      "name": "Ray of Sunshine",
-      "url": "https://open.spotify.com/track/3MxGvARK9bWt0uuGOJezLd"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -1891,54 +1875,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "a tree planted by water",
-        "url": "https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 228926,
-      "name": "Feel The Need",
-      "url": "https://open.spotify.com/track/6Wxm950nfluMnIt3YsF2RT"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Hit the Floor",
-        "url": "https://open.spotify.com/album/5LB6qc1BVvnigKvBeUIoqO"
-      },
-      "artists": [
-        {
-          "name": "Breakestra",
-          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/6MfFc289i2TeCvYDDXmjui"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Movin' On",
-        "url": "https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID"
-      },
-      "artists": [
-        {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Movin' On",
-      "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Medicine Man",
         "url": "https://open.spotify.com/album/4lWBwTzsdHz0fZqAl369FL"
       },
@@ -1959,18 +1895,34 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "High On You",
-        "url": "https://open.spotify.com/album/1wtPKN1ppxjJT7ywdcnvzy"
+        "name": "Hit the Floor",
+        "url": "https://open.spotify.com/album/5LB6qc1BVvnigKvBeUIoqO"
       },
       "artists": [
         {
-          "name": "Jeangu Macrooy",
-          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+          "name": "Breakestra",
+          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
         }
       ],
-      "duration_ms": 203488,
-      "name": "High On You",
-      "url": "https://open.spotify.com/track/6Vbv1NYbnegCxzWx1hC65b"
+      "duration_ms": 271160,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/6MfFc289i2TeCvYDDXmjui"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "a tree planted by water",
+        "url": "https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB"
+      },
+      "artists": [
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 228926,
+      "name": "Feel The Need",
+      "url": "https://open.spotify.com/track/6Wxm950nfluMnIt3YsF2RT"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1991,18 +1943,34 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Dusk Till Dawn",
-        "url": "https://open.spotify.com/album/34Qst6FA4Af9CogPQN3LSv"
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID"
       },
       "artists": [
         {
-          "name": "Breakestra",
-          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
         }
       ],
-      "duration_ms": 266186,
-      "name": "Come On Over feat. Afrodyete",
-      "url": "https://open.spotify.com/track/4Q0Qx5khaN6qJZ5AN7durj"
+      "duration_ms": 214666,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "High On You",
+        "url": "https://open.spotify.com/album/1wtPKN1ppxjJT7ywdcnvzy"
+      },
+      "artists": [
+        {
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+        }
+      ],
+      "duration_ms": 203488,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/6Vbv1NYbnegCxzWx1hC65b"
     },
     {
       "added_at": "2023-12-13 17:43:50",
@@ -2019,6 +1987,46 @@
       "duration_ms": 175949,
       "name": "Lover Boy",
       "url": "https://open.spotify.com/track/0jUr0WvsfRuBO1FruKIo9O"
+    },
+    {
+      "added_at": "2021-10-29 04:01:00",
+      "album": {
+        "name": "WE ARE (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Hot 8 Brass Band",
+          "url": "https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD"
+        }
+      ],
+      "duration_ms": 223815,
+      "name": "ADULTHOOD",
+      "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/34Qst6FA4Af9CogPQN3LSv"
+      },
+      "artists": [
+        {
+          "name": "Breakestra",
+          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
+        }
+      ],
+      "duration_ms": 266186,
+      "name": "Come On Over feat. Afrodyete",
+      "url": "https://open.spotify.com/track/4Q0Qx5khaN6qJZ5AN7durj"
     }
   ],
   "unique_name": "Retro Road Trip",

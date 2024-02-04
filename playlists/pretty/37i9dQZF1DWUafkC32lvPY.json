@@ -1,12 +1,12 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 11368,
+  "num_followers": 11401,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWZiOGJmZWFjMTE2YmY4MzU2MWQwYWE2YTQ4OWM3ZjFlMmVjNmUy",
+  "snapshot_id": "MCwxMDk0NWMwNjJhNzQ3OGQ5MTQxOTNjMTA5N2I0MWU5MDAzOGNlMDA2",
   "tracks": [
     {
       "added_at": "2024-01-26 17:51:21",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
+        "name": "Floripa",
+        "url": "https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce"
+      },
+      "artists": [
+        {
+          "name": "Ray Ben Rue",
+          "url": "https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv"
+        }
+      ],
+      "duration_ms": 119998,
+      "name": "Floripa",
+      "url": "https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 149647,
       "name": "Morena",
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
-        "name": "Floripa",
-        "url": "https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce"
-      },
-      "artists": [
-        {
-          "name": "Ray Ben Rue",
-          "url": "https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv"
-        }
-      ],
-      "duration_ms": 119998,
-      "name": "Floripa",
-      "url": "https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
+        "name": "Guaguansoul",
+        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        }
+      ],
+      "duration_ms": 175156,
+      "name": "Cat\u00e1 Surf",
+      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
         "name": "Monte Nativo",
         "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
       },
@@ -403,18 +419,18 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "Guaguansoul",
-        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+        "name": "Lofi Chill",
+        "url": "https://open.spotify.com/album/1HstApWi4IFpuz5HJmoXpf"
       },
       "artists": [
         {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
         }
       ],
-      "duration_ms": 175156,
-      "name": "Cat\u00e1 Surf",
-      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
+      "duration_ms": 115017,
+      "name": "El Malec\u00f3n",
+      "url": "https://open.spotify.com/track/1Svr9y0d5DpH5SswUuMQv5"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -451,22 +467,6 @@
       "duration_ms": 153857,
       "name": "Parque de Bugambilias",
       "url": "https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
-        "name": "Lofi Chill",
-        "url": "https://open.spotify.com/album/1HstApWi4IFpuz5HJmoXpf"
-      },
-      "artists": [
-        {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        }
-      ],
-      "duration_ms": 115017,
-      "name": "El Malec\u00f3n",
-      "url": "https://open.spotify.com/track/1Svr9y0d5DpH5SswUuMQv5"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -519,26 +519,6 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "Remixes lofi del Regional Chill",
-        "url": "https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 123875,
-      "name": "Los d\u00edas grises (Remix)",
-      "url": "https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
         "name": "Dalia",
         "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 115714,
       "name": "Vueltas",
       "url": "https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
+        "name": "Remixes lofi del Regional Chill",
+        "url": "https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 123875,
+      "name": "Los d\u00edas grises (Remix)",
+      "url": "https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -767,18 +767,22 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "Good things take time",
-        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
+        "name": "Areca",
+        "url": "https://open.spotify.com/album/39i5NpLsjgm59O39sy0iks"
       },
       "artists": [
         {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Ozymandias' Dream",
+          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
         }
       ],
-      "duration_ms": 99428,
-      "name": "Good things take time",
-      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
+      "duration_ms": 119741,
+      "name": "Areca",
+      "url": "https://open.spotify.com/track/3r5sRubnsV13HpvP1Hv3E8"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -795,6 +799,22 @@
       "duration_ms": 269800,
       "name": "Nos Usamos",
       "url": "https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
+        "name": "Good things take time",
+        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 99428,
+      "name": "Good things take time",
+      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -827,26 +847,6 @@
       "duration_ms": 197588,
       "name": "G\u00e9minis",
       "url": "https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
-        "name": "Areca",
-        "url": "https://open.spotify.com/album/39i5NpLsjgm59O39sy0iks"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Ozymandias' Dream",
-          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
-        }
-      ],
-      "duration_ms": 119741,
-      "name": "Areca",
-      "url": "https://open.spotify.com/track/3r5sRubnsV13HpvP1Hv3E8"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "Sample Saga: Brazil",
-        "url": "https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe"
-      },
-      "artists": [
-        {
-          "name": "Beagle Bonnie",
-          "url": "https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3"
-        },
-        {
-          "name": "DJ No\u00e9",
-          "url": "https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3"
-        }
-      ],
-      "duration_ms": 117446,
-      "name": "Devagar",
-      "url": "https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
         "name": "Primer Beso",
         "url": "https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g"
       },
@@ -1075,18 +1055,22 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "are you kidding?",
-        "url": "https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v"
+        "name": "Sample Saga: Brazil",
+        "url": "https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe"
       },
       "artists": [
         {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+          "name": "Beagle Bonnie",
+          "url": "https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3"
+        },
+        {
+          "name": "DJ No\u00e9",
+          "url": "https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3"
         }
       ],
-      "duration_ms": 131091,
-      "name": "are you kidding?",
-      "url": "https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2"
+      "duration_ms": 117446,
+      "name": "Devagar",
+      "url": "https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
+        "name": "are you kidding?",
+        "url": "https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 131091,
+      "name": "are you kidding?",
+      "url": "https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
         "name": "Playa del Amor",
         "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "Metro Mexico",
-        "url": "https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO"
-      },
-      "artists": [
-        {
-          "name": "Jouta",
-          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Metro Mexico",
-      "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
         "name": "Viendo el mundial con pap\u00e1",
         "url": "https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 129854,
       "name": "Viendo el mundial con pap\u00e1",
       "url": "https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
+        "name": "Metro Mexico",
+        "url": "https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO"
+      },
+      "artists": [
+        {
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Metro Mexico",
+      "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
+        "name": "Monte Nativo",
+        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        }
+      ],
+      "duration_ms": 146933,
+      "name": "Rambla Sur",
+      "url": "https://open.spotify.com/track/4lHldDrYVmjTxxZ4F7K9jp"
+    },
+    {
+      "added_at": "2024-01-26 17:51:21",
+      "album": {
         "name": "Mi\u00e9rcoles Azul",
         "url": "https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2024-01-26 17:51:21",
       "album": {
-        "name": "Monte Nativo",
-        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
+        "name": "El D\u00eda M\u00e1s Largo",
+        "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
       },
       "artists": [
         {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
         }
       ],
-      "duration_ms": 146933,
-      "name": "Rambla Sur",
-      "url": "https://open.spotify.com/track/4lHldDrYVmjTxxZ4F7K9jp"
+      "duration_ms": 146239,
+      "name": "Cholomuco",
+      "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
     },
     {
       "added_at": "2024-01-26 17:51:21",
@@ -1251,22 +1267,6 @@
       "duration_ms": 189629,
       "name": "Guaran\u00ed Landscape",
       "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
-    },
-    {
-      "added_at": "2024-01-26 17:51:21",
-      "album": {
-        "name": "El D\u00eda M\u00e1s Largo",
-        "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
-      },
-      "artists": [
-        {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
-        }
-      ],
-      "duration_ms": 146239,
-      "name": "Cholomuco",
-      "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
     },
     {
       "added_at": "2024-01-26 17:51:21",

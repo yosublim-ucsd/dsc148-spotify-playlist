@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,354 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,356 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 46 | [Involved](https://open.spotify.com/track/4Zj2W1HdImJ9mN779m9jHt) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Involved](https://open.spotify.com/album/2UL9j77BeQLGS9IMoh5SUv) | 3:00 |
 | 47 | [Liquor and Weed](https://open.spotify.com/track/0o4HDwcuJ6RVHVtcOGq8rB) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 2:37 |
 | 48 | [The One \(Sprite Limelight\)](https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [The One \(Sprite Limelight\)](https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV) | 2:15 |
-| 49 | [Better Days \(feat\. Fetty Wap\)](https://open.spotify.com/track/0DW8r8w96IoIsxqqV2VNXf) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Better Days](https://open.spotify.com/album/72III2Pl6XTrDBdbjUheSW) | 2:29 |
-| 50 | [I Like It \(feat\. Kiana Lede & Sevyn Streeter\)](https://open.spotify.com/track/6C1yG7dmGZQcIxtHADDLeS) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Now or Never](https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G) | 3:30 |
+| 49 | [I Like It \(feat\. Kiana Lede & Sevyn Streeter\)](https://open.spotify.com/track/6C1yG7dmGZQcIxtHADDLeS) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Now or Never](https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G) | 3:30 |
+| 50 | [Better Days \(feat\. Fetty Wap\)](https://open.spotify.com/track/0DW8r8w96IoIsxqqV2VNXf) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Better Days](https://open.spotify.com/album/72III2Pl6XTrDBdbjUheSW) | 2:29 |
 
-Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDA1NDRiMThiNjU2NmU0OTk3MGQ4NTc4YWIzY2RhMjVjNg==`
+Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBmYzBhZmJmYjRiNGI3MmMyMTdiNDRkYTczODU5ZmQ4Mw==`

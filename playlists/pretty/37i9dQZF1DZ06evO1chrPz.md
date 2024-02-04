@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,213 likes - 50 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,234 likes - 50 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 34 | [Too Good To Not Believe \- Live](https://open.spotify.com/track/2ZUEopklc3lUm4OXUPB6WS) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Too Good To Not Believe \(Live\)](https://open.spotify.com/album/2KgvpDpy6tpCQoqy3ZzwIZ) | 10:33 |
 | 35 | [Precious Blood](https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 4:41 |
 | 36 | [Be Enthroned \- Live](https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Have It All \(Live\)](https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2) | 8:05 |
-| 37 | [Reason To Praise \- Live](https://open.spotify.com/track/4wiv0itDHcgSB8IjOxn4SA) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Homecoming \(Live\)](https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL) | 8:30 |
-| 38 | [Reign Above It All \- Live](https://open.spotify.com/track/1zhp0SM5CkGUdoCFagzVPe) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 5:47 |
+| 37 | [Reign Above It All \- Live](https://open.spotify.com/track/1zhp0SM5CkGUdoCFagzVPe) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 5:47 |
+| 38 | [Reason To Praise \- Live](https://open.spotify.com/track/4wiv0itDHcgSB8IjOxn4SA) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Homecoming \(Live\)](https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL) | 8:30 |
 | 39 | [We Dance \- Live](https://open.spotify.com/track/32DCSsnAxX8jpmu9w6C8DW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 4:41 |
 | 40 | [This Is Amazing Grace](https://open.spotify.com/track/3ExKJt4K8duUfEG49QWzPi) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [For the Sake of the World](https://open.spotify.com/album/4cYPV8aF3JL4AKdbJeFZ86) | 7:32 |
 | 41 | [The Light in You](https://open.spotify.com/track/4dx1Mf0Cl6luHghe58xKAV) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [Extravagant \- Live](https://open.spotify.com/track/5UivJ02lC3RH9MmAysIltU) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Starlight \(Live\)](https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh) | 6:11 |
 | 50 | [Cómo No Voy A Creer](https://open.spotify.com/track/1zZ9eHeIQuufBgUd8rnkRf) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Homecoming \(Español\)](https://open.spotify.com/album/20CnEGNCGv7sCWnV3AaC2o) | 10:33 |
 
-Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDAwNTYzNDkwMDMxNTNkNTJhOGIxYzIxZGVmZmZjOGUxZA==`
+Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA1ZTQ2MmJlNzVlZWU4YjcwNGU2Y2M2Nzk1OTFkNTkzNQ==`

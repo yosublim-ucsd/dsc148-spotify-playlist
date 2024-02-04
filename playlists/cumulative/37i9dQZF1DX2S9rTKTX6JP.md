@@ -4,7 +4,7 @@
 
 > killer rock & alternative covers\. Cover: Paramore
 
-336 songs - 21 hr 47 min
+337 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [I Am The Walrus – Live Glasgow Cathouse June '94 \- Remastered](https://open.spotify.com/track/71vIYl6DeQH8cXggFt38wN) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan \(Remastered Edition\)](https://open.spotify.com/album/3TOqth4BResSHzsrnREbbh) | 6:25 | 2023-11-17 |  |
 | [I Can't Give Everything Away](https://open.spotify.com/track/5uLtfWEqn5ngoWySZkI9ii) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [I Can't Give Everything Away](https://open.spotify.com/album/58NC5JxuV17ealBQ1lZ0tj) | 3:55 | 2023-03-24 | 2023-04-20 |
 | [I Don't Care Anymore \(Acoustic\)](https://open.spotify.com/track/5ncrAJweQsGKQWOhf2isOK) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [I Don't Care Anymore \(Acoustic\)](https://open.spotify.com/album/2nTs39rXgArWOd9Z8Pcc4t) | 4:07 | 2020-12-16 | 2022-11-13 |
+| [I Don't Care Anymore \- Acoustic](https://open.spotify.com/track/5Je7sK7Fu1FteAEalxpQgv) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [I Don't Care Anymore \(Acoustic\)](https://open.spotify.com/album/5HaLKxgY6mP43Rs1JNYbt7) | 4:07 | 2024-02-02 |  |
 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 | 2020-12-16 |  |
 | [I Get Around \- Live](https://open.spotify.com/track/06JprR8etx1u9C9k55lT1x) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Rock & Roll Hall of Fame Covers \- EP](https://open.spotify.com/album/2DKXYxXlATCLvg6SVcJsxB) | 2:19 | 2020-12-16 | 2022-07-29 |
 | [I Heard It Through The Grapevine](https://open.spotify.com/track/06sJNNMQV77SYLJQUcmGJ2) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [I Heard It Through The Grapevine](https://open.spotify.com/album/2hPu2z9AePEkhzooZxc8bY) | 3:49 | 2022-03-25 | 2022-04-18 |
@@ -257,7 +258,7 @@
 | [Separate Ways](https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Blow EP](https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv) | 5:00 | 2022-04-15 | 2024-02-03 |
 | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/7goFhrbCC2m2HI3EbBYgU4) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/album/4hYWzikXRPg5I80ZqLPGAC) | 5:16 | 2023-01-13 |  |
 | [Separate Ways \(Worlds Apart\) \[feat\. Lzzy Hale\]](https://open.spotify.com/track/1H0HP2mqLRJtgfYisSEDWo) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Separate Ways \(Worlds Apart\) \[feat\. Lzzy Hale\]](https://open.spotify.com/album/6q3H4YDdXRgKmXeNEdECrQ) | 5:16 | 2023-01-10 | 2023-01-21 |
-| [Seven Nation Army](https://open.spotify.com/track/1NdfWHmjZkJDi1YpgoBZyS) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Seven Nation Army](https://open.spotify.com/album/6H2VIw0KwJx8YxL23wQfQ3) | 4:02 | 2022-03-25 |  |
+| [Seven Nation Army](https://open.spotify.com/track/1NdfWHmjZkJDi1YpgoBZyS) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Seven Nation Army](https://open.spotify.com/album/6H2VIw0KwJx8YxL23wQfQ3) | 4:02 | 2022-03-25 | 2024-02-04 |
 | [Shape of my Heart](https://open.spotify.com/track/04Bg0IZ8mMs7OniLNGibX4) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Shape of my Heart](https://open.spotify.com/album/6RD8qEnRpGirna7pYeXTPe) | 5:37 | 2022-06-17 | 2022-07-30 |
 | [Shape of my Heart](https://open.spotify.com/track/2TCJJKuEV1VkVi5D5Y3RKK) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Songs That Saved My Life](https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI) | 5:37 | 2022-03-25 | 2022-07-08 |
 | [Showdown](https://open.spotify.com/track/444cxF1udEVZRyFoJXg5QV) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 3:23 | 2020-12-16 | 2022-07-29 |

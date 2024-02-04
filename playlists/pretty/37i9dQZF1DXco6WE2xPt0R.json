@@ -1,12 +1,12 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 110992,
+  "num_followers": 111033,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzQ1MTFiYTYzOWRkNmFiMTdhNzBkZDUwNjY5MWJmMWQyZjZmZTY2",
+  "snapshot_id": "MCw2YmQ4Yjg4MjdmYmMxMDQxMDQ2YmI5ZTBmZWI1ZDU4ZjBhMDkyNjMw",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Thought U Knew",
-        "url": "https://open.spotify.com/album/21hotFpTsSBEofaYnbecMQ"
-      },
-      "artists": [
-        {
-          "name": "Leela James",
-          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
-        }
-      ],
-      "duration_ms": 222588,
-      "name": "Right Back In It",
-      "url": "https://open.spotify.com/track/03y3sE8OXK9PecrdjnX6dB"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Obsession (feat. Muni Long) [Remix]",
         "url": "https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 201869,
       "name": "Obsession (feat. Muni Long) - Remix",
       "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Thought U Knew",
+        "url": "https://open.spotify.com/album/21hotFpTsSBEofaYnbecMQ"
+      },
+      "artists": [
+        {
+          "name": "Leela James",
+          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
+        }
+      ],
+      "duration_ms": 222588,
+      "name": "Right Back In It",
+      "url": "https://open.spotify.com/track/03y3sE8OXK9PecrdjnX6dB"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/7t8M65IwqNUBrmrElXW8dX"
+      },
+      "artists": [
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        }
+      ],
+      "duration_ms": 214054,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3FjHTALrJ66zzELMcge5vn"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0vwcoBJSy5vfb9MAt4hibx"
       },
@@ -1027,6 +1043,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/7LzMXczfHrBcokv1j6FZev"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Love and Be Loved",
         "url": "https://open.spotify.com/album/3ynGv03Sdz2FIWxsLPhVJ3"
       },
@@ -1043,22 +1075,6 @@
       "duration_ms": 207203,
       "name": "Love and Be Loved",
       "url": "https://open.spotify.com/track/7DPXIv3DSRxRB7N75HMrH8"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Ready",
-      "url": "https://open.spotify.com/track/7LzMXczfHrBcokv1j6FZev"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1119,6 +1135,26 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Nu Beginning",
+        "url": "https://open.spotify.com/album/0cDn0DpGWprEjyZtH455xm"
+      },
+      "artists": [
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        },
+        {
+          "name": "Amber Navran",
+          "url": "https://open.spotify.com/artist/4NRkD92d03MJcb326Jo9mt"
+        }
+      ],
+      "duration_ms": 234943,
+      "name": "Nu Beginning",
+      "url": "https://open.spotify.com/track/35btHqeeA6qR7ToMRNKI3D"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Still Wonder",
         "url": "https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi"
       },
@@ -1143,26 +1179,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Nu Beginning",
-        "url": "https://open.spotify.com/album/0cDn0DpGWprEjyZtH455xm"
-      },
-      "artists": [
-        {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        },
-        {
-          "name": "Amber Navran",
-          "url": "https://open.spotify.com/artist/4NRkD92d03MJcb326Jo9mt"
-        }
-      ],
-      "duration_ms": 234943,
-      "name": "Nu Beginning",
-      "url": "https://open.spotify.com/track/35btHqeeA6qR7ToMRNKI3D"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Right Time (feat. Reggie Becton)",
         "url": "https://open.spotify.com/album/68GpIwLR39Lkm6B5QqmEIi"
       },
@@ -1183,6 +1199,22 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Juslisen (Special Edition)",
+        "url": "https://open.spotify.com/album/4qPIDLGtEYMRV10MbtKWbQ"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Previouscats",
+      "url": "https://open.spotify.com/track/7JmTY2JCt484HEgCuMOSA4"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "City Girl",
         "url": "https://open.spotify.com/album/6Yb2iAl9GFYc0QjurOGgsn"
       },
@@ -1199,6 +1231,26 @@
       "duration_ms": 159365,
       "name": "City Girl",
       "url": "https://open.spotify.com/track/7HaAuZBOJTp0bpZPnccBUm"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Perfect Stranger (feat. Kenny Lattimore)",
+        "url": "https://open.spotify.com/album/4VAxIlO6cvGFgF6SudtKwW"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        },
+        {
+          "name": "Kenny Lattimore",
+          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
+        }
+      ],
+      "duration_ms": 231580,
+      "name": "Perfect Stranger (feat. Kenny Lattimore)",
+      "url": "https://open.spotify.com/track/2u2ji0HpSmNJkklMTDwg0i"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1235,22 +1287,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Juslisen (Special Edition)",
-        "url": "https://open.spotify.com/album/4qPIDLGtEYMRV10MbtKWbQ"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Previouscats",
-      "url": "https://open.spotify.com/track/7JmTY2JCt484HEgCuMOSA4"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
       },
@@ -1263,22 +1299,6 @@
       "duration_ms": 183373,
       "name": "Comeback.",
       "url": "https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/6Z9wZe07ALndfH3Q0Ne876"
-      },
-      "artists": [
-        {
-          "name": "Kid Travis",
-          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/7H4SWnkASjuDpQ0IBJMdxN"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1307,6 +1327,22 @@
       "duration_ms": 227132,
       "name": "Better Than I Imagined [Feat. H.E.R. & Meshell Ndegeocello] - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/5A3aEJL7HkijkxLFXMv7FN"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/6Z9wZe07ALndfH3Q0Ne876"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/7H4SWnkASjuDpQ0IBJMdxN"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1375,22 +1411,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Let Me See Your Phone",
-        "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 202371,
-      "name": "Let Me See Your Phone",
-      "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Midnight Snacks",
         "url": "https://open.spotify.com/album/1EEE1VEoFi5y8lqe7NGfHM"
       },
@@ -1403,6 +1423,22 @@
       "duration_ms": 195000,
       "name": "Midnight Snacks",
       "url": "https://open.spotify.com/track/7lampoWFogPIJZRxThSOBq"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Let Me See Your Phone",
+        "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 202371,
+      "name": "Let Me See Your Phone",
+      "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1459,22 +1495,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "New Growth",
-        "url": "https://open.spotify.com/album/5FqqxmI6py4VQuCDCvGFJO"
-      },
-      "artists": [
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
-        }
-      ],
-      "duration_ms": 177053,
-      "name": "No Pussy For Losers",
-      "url": "https://open.spotify.com/track/5VDF6rpkDLlbmB8Vf8sxea"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "No Love Song",
         "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
       },
@@ -1487,6 +1507,22 @@
       "duration_ms": 239173,
       "name": "No Love Song",
       "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "New Growth",
+        "url": "https://open.spotify.com/album/5FqqxmI6py4VQuCDCvGFJO"
+      },
+      "artists": [
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "No Pussy For Losers",
+      "url": "https://open.spotify.com/track/5VDF6rpkDLlbmB8Vf8sxea"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1579,22 +1615,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Most Wanted",
-        "url": "https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H"
-      },
-      "artists": [
-        {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Stay Down",
-      "url": "https://open.spotify.com/track/2kE7QJTNVVr3P0iYi7D0ia"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Starfruit",
         "url": "https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz"
       },
@@ -1611,22 +1631,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Eventually Pt. 1",
-        "url": "https://open.spotify.com/album/2lF9k8tmdXYRj36Qwrn3tQ"
-      },
-      "artists": [
-        {
-          "name": "MAAD",
-          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "ILM",
-      "url": "https://open.spotify.com/track/7aiVxe226qNgGf16rsv9Ip"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "The Beauty Created",
         "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
       },
@@ -1639,6 +1643,38 @@
       "duration_ms": 271453,
       "name": "Come To My Room",
       "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H"
+      },
+      "artists": [
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Stay Down",
+      "url": "https://open.spotify.com/track/2kE7QJTNVVr3P0iYi7D0ia"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Eventually Pt. 1",
+        "url": "https://open.spotify.com/album/2lF9k8tmdXYRj36Qwrn3tQ"
+      },
+      "artists": [
+        {
+          "name": "MAAD",
+          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "ILM",
+      "url": "https://open.spotify.com/track/7aiVxe226qNgGf16rsv9Ip"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1687,22 +1723,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/7t8M65IwqNUBrmrElXW8dX"
-      },
-      "artists": [
-        {
-          "name": "Zacari",
-          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
-        }
-      ],
-      "duration_ms": 214054,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/3FjHTALrJ66zzELMcge5vn"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Imperfections",
         "url": "https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm"
       },
@@ -1735,26 +1755,6 @@
       "duration_ms": 235000,
       "name": "Wake Up Baby",
       "url": "https://open.spotify.com/track/4dYeHoqnh0sBhgmByab3ME"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Perfect Stranger (feat. Kenny Lattimore)",
-        "url": "https://open.spotify.com/album/4VAxIlO6cvGFgF6SudtKwW"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        },
-        {
-          "name": "Kenny Lattimore",
-          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
-        }
-      ],
-      "duration_ms": 231580,
-      "name": "Perfect Stranger (feat. Kenny Lattimore)",
-      "url": "https://open.spotify.com/track/2u2ji0HpSmNJkklMTDwg0i"
     },
     {
       "added_at": "2024-02-02 03:01:00",

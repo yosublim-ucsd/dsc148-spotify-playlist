@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,115 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,084 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 54 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/7D7hkD9QjhSb385O23Vr5K) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Happy Xmas \(War Is Over\)](https://open.spotify.com/album/076YZeSsRS01JRYazQplIj) | 3:55 |
 | 55 | [Snow](https://open.spotify.com/track/7aDE5prcsZuHtui9YDgShF) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Snow](https://open.spotify.com/album/1YcOJ4stnsTYYzFmjy0QYE) | 3:45 |
 | 56 | [Silver Bells](https://open.spotify.com/track/07FpmgWdTUjWBiRP3ON6OJ) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Silver Bells](https://open.spotify.com/album/2GPICARHZjMAxMu15hhT3M) | 3:33 |
-| 57 | [Christmas Dreaming](https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:33 |
+| 57 | [Christmas Dreaming](https://open.spotify.com/track/2IChCRHxRCVbo8i2zP4NVF) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3) | 2:33 |
 | 58 | [Christmas Time](https://open.spotify.com/track/3NlghT7vgsSB8UJjcJqO94) | [Sebastian Javier](https://open.spotify.com/artist/7jEax0MCKxovBHDU6AaFca) | [Christmas Time](https://open.spotify.com/album/2jURLzMPgGdJYJh0WZqGT8) | 2:54 |
 | 59 | [How Can It Be Christmas](https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [How Can It Be Christmas](https://open.spotify.com/album/1NWaOsKAEnp5rdg4jmmK5f) | 3:15 |
 | 60 | [Christmas Without You](https://open.spotify.com/track/7LcA08RfpEFEV0vJUsyDkA) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/4hj1YWhD0NfnO22F8rm21b) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 99 | [All I Want for Christmas Is You](https://open.spotify.com/track/12AFI7eYoN5gl3kAxOe2n2) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [December](https://open.spotify.com/album/21G2Mj8q3H4CFNrkBo6f0Y) | 4:39 |
 | 100 | [Christmas Through Your Eyes](https://open.spotify.com/track/01ZUp6PoqFuRtMTMODnPOf) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Deluxe\)](https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu) | 3:59 |
 
-Snapshot ID: `MCw5YzJmMDk1ZWEwZTQ4OGJmMjY2ODJjZTA4NTAyZGRmNzM5OTcwM2Vj`
+Snapshot ID: `MCxkZDdmZGQzOTZhOTU5ZjU3NDM3MTRjOWY0ZjM4ZGFjZTQ5YzUyMWM4`

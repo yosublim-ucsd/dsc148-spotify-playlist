@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,926 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,937 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 99 | [Bebé](https://open.spotify.com/track/2elwWMHTuAEiPwG9IWg5dP) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Bebé](https://open.spotify.com/album/4e7N0a611cO24FwRxD0Rdp) | 2:32 |
 | 100 | [Cê Não Tem Noção](https://open.spotify.com/track/0iDNkj4n9xuU7SwfKSd4f2) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Cê Não Tem Noção](https://open.spotify.com/album/6E8YCf91O1AaKIh0B1MlL0) | 2:39 |
 
-Snapshot ID: `MCw1ZTNiOTU1OWIyY2MyNDJhZGNiOTJmNzMyYWNhZjY3NDVlODczMGYz`
+Snapshot ID: `MCxiMzk0MzJjN2QxM2JjYjMyZDc0YWQ0ZTczOTg1ODIzZDcxMmExYWU4`

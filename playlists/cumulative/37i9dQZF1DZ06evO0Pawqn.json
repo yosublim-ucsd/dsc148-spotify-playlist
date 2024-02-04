@@ -1159,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "Que Se Ponga Bueno",
+        "url": "https://open.spotify.com/album/59GDfzRZVdT2C24usuvrWJ"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160923,
+      "name": "Que Se Ponga Bueno",
+      "url": "https://open.spotify.com/track/11HWyg7HjFhrYndw5NFR73"
+    },
+    {
+      "album": {
         "name": "Hermosa Tirana",
         "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 161554,
+  "2024-02-04": 161578,
   "date_first_scraped": "2022-04-22",
   "description": "Sangre fresca en las escenas del indie y el rock. Bersuit Vergarabat en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
@@ -2143,7 +2143,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 205175,
       "name": "En Tu Orilla",
       "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
@@ -2179,7 +2179,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 242840,
       "name": "Enemigo (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp"
@@ -4614,6 +4614,28 @@
     },
     {
       "album": {
+        "name": "Nada que perder",
+        "url": "https://open.spotify.com/album/7HcGohAEZob2YPzhcJzk4u"
+      },
+      "artists": [
+        {
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        },
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197978,
+      "name": "Nada que perder",
+      "url": "https://open.spotify.com/track/5hemFV7r667VHvm0mrQPWV"
+    },
+    {
+      "album": {
         "name": "Nada Te Lastima",
         "url": "https://open.spotify.com/album/7bINF9zY5uRXEssR7PKvhM"
       },
@@ -5725,6 +5747,24 @@
       "duration_ms": 216000,
       "name": "Rotura",
       "url": "https://open.spotify.com/track/4MNwrAigvEocVgWDGxkS10"
+    },
+    {
+      "album": {
+        "name": "S!CK",
+        "url": "https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192734,
+      "name": "S!CK",
+      "url": "https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB"
     },
     {
       "album": {

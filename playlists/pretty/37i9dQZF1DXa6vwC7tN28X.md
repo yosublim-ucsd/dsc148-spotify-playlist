@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,290 likes - 45 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,314 likes - 45 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 28 | [Malena](https://open.spotify.com/track/4fpCB6Xu0cs8kBDFWb15iW) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 2:27 |
 | 29 | [El Vino Triste](https://open.spotify.com/track/7KO3n68SPMyh9MFAQDWU9j) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [El Vino Triste \(feat\. Raúl Lavié\)](https://open.spotify.com/album/07G5T8FaZTFYRNtawKaPHQ) | 2:53 |
 | 30 | [Por Una Cabeza](https://open.spotify.com/track/2ENmZ1pXioaCPhFqE6rArK) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 4:38 |
-| 31 | [Carabelas Nada](https://open.spotify.com/track/6vgPBFsZOOjrlVPLlamQHj) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Carabelas Nada](https://open.spotify.com/album/6i37stRS1hsLchPh8qpBtz) | 4:43 |
-| 32 | [Laura Va](https://open.spotify.com/track/0IfhIK11A9J3IqQIf5WhRo) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 2:52 |
+| 31 | [Laura Va](https://open.spotify.com/track/0IfhIK11A9J3IqQIf5WhRo) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 2:52 |
+| 32 | [Carabelas Nada](https://open.spotify.com/track/6vgPBFsZOOjrlVPLlamQHj) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Carabelas Nada](https://open.spotify.com/album/6i37stRS1hsLchPh8qpBtz) | 4:43 |
 | 33 | [Ya No Sos Igual \(with 2 Minutos\)](https://open.spotify.com/track/05W9ouh0IXab67HKIqBMYE) | [Quinteto Negro La Boca](https://open.spotify.com/artist/5bvLSQv0SB2cD7aWcDB3iR), [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Cruces Urbanos](https://open.spotify.com/album/1G8hdqse9sS1CP032rELMt) | 3:19 |
-| 34 | [Imágenes Paganas](https://open.spotify.com/track/3lmGeqAuMWrplZLL378Cng) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE) | [Menesunda: Tangolencia Rockera](https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf) | 2:22 |
-| 35 | [Volver Ni A Palos](https://open.spotify.com/track/1sVcH6JpkTidkzcfKQuioM) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Otro Le Travaladna](https://open.spotify.com/album/78CgEIHzH8TtgNmV63lMbF) | 2:55 |
+| 34 | [Volver Ni A Palos](https://open.spotify.com/track/1sVcH6JpkTidkzcfKQuioM) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Otro Le Travaladna](https://open.spotify.com/album/78CgEIHzH8TtgNmV63lMbF) | 2:55 |
+| 35 | [Imágenes Paganas](https://open.spotify.com/track/3lmGeqAuMWrplZLL378Cng) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE) | [Menesunda: Tangolencia Rockera](https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf) | 2:22 |
 | 36 | [La Despedida \(feat\. Fito Páez & Paula Pomeraniek\)](https://open.spotify.com/track/3p9ebspnr6evao7kZ99BpH) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc), [Fito Páez](https://open.spotify.com/artist/4ZgWNQWb0Qz9QeF67IUVk8), [Paula Pomeraniek](https://open.spotify.com/artist/31dHfRj6P93GP3be6JsYIe) | [Avellaneda](https://open.spotify.com/album/49Xq9ybXE17iQoJox5qegK) | 4:39 |
 | 37 | [Mano a mano](https://open.spotify.com/track/1AqNn5SBTndUxzCqFI6brK) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 3:18 |
 | 38 | [Tomo y Obligo](https://open.spotify.com/track/7vom0QDBkmCppCpusL97zQ) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5) | [Villavicio](https://open.spotify.com/album/0caLBmefMPuGsowMfTuMeh) | 2:42 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 44 | [Barro Tal Vez](https://open.spotify.com/track/0X5l6Oljnw9PPU1zVCn3PO) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2), [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:42 |
 | 45 | [Flaca](https://open.spotify.com/track/2ZuC6YJTATt0VvUt46eNHB) | [Max Aguirre](https://open.spotify.com/artist/7Bl5WcUdWdWAwDpCD3o8lk) | [Flaca](https://open.spotify.com/album/2rosHFjIB4u8xiG8nej8t0) | 2:49 |
 
-Snapshot ID: `MCw2ODM5NWRmMDM5MjZlYWYwMDAxOWZiZDFjNzA1ZDZhY2VhMDUxNmNh`
+Snapshot ID: `MCwwY2EzMWYwMjE2YzdmOWQyMTM5ZWVhMmQyOTQ4NzI0YmNmZDcxMDQ0`

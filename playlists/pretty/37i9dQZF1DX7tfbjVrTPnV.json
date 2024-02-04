@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Lori McKenna",
-  "num_followers": 201280,
+  "num_followers": 201334,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjJjNTk0YjgwYTU3NTY0YzFkY2U5ODlkYzYzMTBkNTIyYjBkYzRh",
+  "snapshot_id": "MCw2NDc3MzU3YmIzNGQzM2UxYTg5ZjFlYmQ3OTMzYTk2ZDBkNWQ1ZWJj",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "At Folsom Prison",
-        "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
-      "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 171853,
       "name": "Walkin\u2019 Back to Georgia",
       "url": "https://open.spotify.com/track/1y4fbtHSJLqpaQXduQw88e"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "At Folsom Prison",
+        "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 162653,
+      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "A Hundred Miles Or More: A Collection",
-        "url": "https://open.spotify.com/album/2i3Fr0qXGyR57MfWNPcMKP"
+        "name": "Attempted Mustache",
+        "url": "https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM"
       },
       "artists": [
         {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+          "name": "Loudon Wainwright III",
+          "url": "https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L"
         }
       ],
-      "duration_ms": 176360,
-      "name": "Down To The River To Pray - From \u201cO Brother, Where Art Thou\u201d Soundtrack",
-      "url": "https://open.spotify.com/track/3WJ8xIHrNTtP5YsXOqqyml"
+      "duration_ms": 147466,
+      "name": "The Swimming Song",
+      "url": "https://open.spotify.com/track/6scUEism6pBnY0IXYr8fw3"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Attempted Mustache",
-        "url": "https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM"
+        "name": "A Hundred Miles Or More: A Collection",
+        "url": "https://open.spotify.com/album/2i3Fr0qXGyR57MfWNPcMKP"
       },
       "artists": [
         {
-          "name": "Loudon Wainwright III",
-          "url": "https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L"
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
         }
       ],
-      "duration_ms": 147466,
-      "name": "The Swimming Song",
-      "url": "https://open.spotify.com/track/6scUEism6pBnY0IXYr8fw3"
+      "duration_ms": 176360,
+      "name": "Down To The River To Pray - From \u201cO Brother, Where Art Thou\u201d Soundtrack",
+      "url": "https://open.spotify.com/track/3WJ8xIHrNTtP5YsXOqqyml"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 296906,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Out Among The Stars",
         "url": "https://open.spotify.com/album/33jUyJOx4j6BWJ7VkzWoth"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 180760,
       "name": "Out Among the Stars",
       "url": "https://open.spotify.com/track/7FiJpVqkeiMHH3AzUgyJqx"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Strangers Almanac",
-        "url": "https://open.spotify.com/album/29gnqAHOpVJJL3h8wPrlMl"
-      },
-      "artists": [
-        {
-          "name": "Whiskeytown",
-          "url": "https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "16 Days",
-      "url": "https://open.spotify.com/track/3aFMz2anc9vurZw6bPunI6"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Made Up Mind",
         "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 273693,
       "name": "Do I Look Worried",
       "url": "https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Strangers Almanac",
+        "url": "https://open.spotify.com/album/29gnqAHOpVJJL3h8wPrlMl"
+      },
+      "artists": [
+        {
+          "name": "Whiskeytown",
+          "url": "https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "16 Days",
+      "url": "https://open.spotify.com/track/3aFMz2anc9vurZw6bPunI6"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Servant of Love",
+        "url": "https://open.spotify.com/album/5ISnw1aCUfzN5D3EVTQ77e"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 317213,
+      "name": "Shine a Different Way",
+      "url": "https://open.spotify.com/track/0idcoARtmuQYpMuU1gMzZW"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "The Traveling Kind",
         "url": "https://open.spotify.com/album/2lyBmILucpN3Wxy1Cna2Ch"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 220600,
       "name": "The Traveling Kind",
       "url": "https://open.spotify.com/track/5OHTqUeUeV09qhqszxS541"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Servant of Love",
-        "url": "https://open.spotify.com/album/5ISnw1aCUfzN5D3EVTQ77e"
-      },
-      "artists": [
-        {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        }
-      ],
-      "duration_ms": 317213,
-      "name": "Shine a Different Way",
-      "url": "https://open.spotify.com/track/0idcoARtmuQYpMuU1gMzZW"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Calling Me Home (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Django and Jimmie",
         "url": "https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 173453,
       "name": "Django and Jimmie",
       "url": "https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Calling Me Home (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1835,18 +1835,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
+        "name": "For the Birds",
+        "url": "https://open.spotify.com/album/6T7XXP2wnOMgeEAyDhF03i"
       },
       "artists": [
         {
-          "name": "John Fullbright",
-          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
+          "name": "Paula Cole",
+          "url": "https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        },
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
         }
       ],
-      "duration_ms": 222626,
-      "name": "When You're Here",
-      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
+      "duration_ms": 338126,
+      "name": "Mother, Son and Holy Ghost",
+      "url": "https://open.spotify.com/track/0Sf4Miqjok7iImlzEaSKHq"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1875,46 +1883,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "For the Birds",
-        "url": "https://open.spotify.com/album/6T7XXP2wnOMgeEAyDhF03i"
-      },
-      "artists": [
-        {
-          "name": "Paula Cole",
-          "url": "https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1"
-        },
-        {
-          "name": "Jason Isbell",
-          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
-        },
-        {
-          "name": "John Paul White",
-          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
-        }
-      ],
-      "duration_ms": 338126,
-      "name": "Mother, Son and Holy Ghost",
-      "url": "https://open.spotify.com/track/0Sf4Miqjok7iImlzEaSKHq"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Love Calling",
-        "url": "https://open.spotify.com/album/60H0TY0XqRGEsXKovVOHAY"
-      },
-      "artists": [
-        {
-          "name": "Darden Smith",
-          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "Angel Flight",
-      "url": "https://open.spotify.com/track/5HXIx1TnpLAJtWS9O10kls"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Big Day in a Small Town",
         "url": "https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl"
       },
@@ -1927,6 +1895,38 @@
       "duration_ms": 177560,
       "name": "Drinkin' Smokin' Cheatin'",
       "url": "https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
+      },
+      "artists": [
+        {
+          "name": "John Fullbright",
+          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "When You're Here",
+      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Happy Prisoner: The Bluegrass Sessions",
+        "url": "https://open.spotify.com/album/3WVvNhEvAjTKjYUNubfHtd"
+      },
+      "artists": [
+        {
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "East Virginia Blues",
+      "url": "https://open.spotify.com/track/1fqHUqYBIsG2Ssz4CaHiKZ"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1947,18 +1947,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Happy Prisoner: The Bluegrass Sessions",
-        "url": "https://open.spotify.com/album/3WVvNhEvAjTKjYUNubfHtd"
+        "name": "Love Calling",
+        "url": "https://open.spotify.com/album/60H0TY0XqRGEsXKovVOHAY"
       },
       "artists": [
         {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+          "name": "Darden Smith",
+          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
         }
       ],
-      "duration_ms": 214293,
-      "name": "East Virginia Blues",
-      "url": "https://open.spotify.com/track/1fqHUqYBIsG2Ssz4CaHiKZ"
+      "duration_ms": 239266,
+      "name": "Angel Flight",
+      "url": "https://open.spotify.com/track/5HXIx1TnpLAJtWS9O10kls"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Canola Fields",
-        "url": "https://open.spotify.com/album/5KvJY1u6NhPHkOR3F5iWue"
-      },
-      "artists": [
-        {
-          "name": "James McMurtry",
-          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
-        }
-      ],
-      "duration_ms": 289791,
-      "name": "Canola Fields",
-      "url": "https://open.spotify.com/track/1ik1NCsVOJsp5g0ZLKGCXI"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Shine a Light: Field Recordings from the Great American Railroad",
         "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 175783,
       "name": "Rock Island Line",
       "url": "https://open.spotify.com/track/4ngwge7Of6xRIdmqMHZoxb"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Canola Fields",
+        "url": "https://open.spotify.com/album/5KvJY1u6NhPHkOR3F5iWue"
+      },
+      "artists": [
+        {
+          "name": "James McMurtry",
+          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
+        }
+      ],
+      "duration_ms": 289791,
+      "name": "Canola Fields",
+      "url": "https://open.spotify.com/track/1ik1NCsVOJsp5g0ZLKGCXI"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "I Contain Multitudes",
-        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "I Contain Multitudes",
-      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Way Out West",
         "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 341026,
       "name": "Way Out West",
       "url": "https://open.spotify.com/track/5Nr59BVUdfkVi591cj20qi"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "I Contain Multitudes",
+        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "I Contain Multitudes",
+      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Trouble and Love",
-        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 326746,
-      "name": "Oh Soul",
-      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Still Woman Enough",
         "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
       },
@@ -2243,6 +2227,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Trouble and Love",
+        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 326746,
+      "name": "Oh Soul",
+      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Too Blessed to Be Stressed",
         "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
       },
@@ -2255,22 +2255,6 @@
       "duration_ms": 284253,
       "name": "Everything's Gonna Be Alright",
       "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Night Surfer",
-        "url": "https://open.spotify.com/album/1E3Cb8Xor2dqNBnAGU1idb"
-      },
-      "artists": [
-        {
-          "name": "Chuck Prophet",
-          "url": "https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT"
-        }
-      ],
-      "duration_ms": 202541,
-      "name": "Tell Me Anything (Turn to Gold)",
-      "url": "https://open.spotify.com/track/5p44y6jXREhxuh3rpxaNjg"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2355,18 +2339,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Live at the Old Quarter, Houston, Texas",
-        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
+        "name": "Night Surfer",
+        "url": "https://open.spotify.com/album/1E3Cb8Xor2dqNBnAGU1idb"
       },
       "artists": [
         {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+          "name": "Chuck Prophet",
+          "url": "https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT"
         }
       ],
-      "duration_ms": 270040,
-      "name": "Tecumseh Valley - Live",
-      "url": "https://open.spotify.com/track/1vYY7pi267AR3t2rmAxMgv"
+      "duration_ms": 202541,
+      "name": "Tell Me Anything (Turn to Gold)",
+      "url": "https://open.spotify.com/track/5p44y6jXREhxuh3rpxaNjg"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2383,6 +2367,22 @@
       "duration_ms": 329746,
       "name": "Time After Time - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Live at the Old Quarter, Houston, Texas",
+        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 270040,
+      "name": "Tecumseh Valley - Live",
+      "url": "https://open.spotify.com/track/1vYY7pi267AR3t2rmAxMgv"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2555,22 +2555,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Into The Purple Valley",
-        "url": "https://open.spotify.com/album/0bPPam9K2Pyuxr8T9WH1Vk"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Taxes on the Farmer Feeds Us All",
-      "url": "https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Invisible Hour",
         "url": "https://open.spotify.com/album/39RUJggKYbPF85mppr8jJy"
       },
@@ -2583,6 +2567,22 @@
       "duration_ms": 331013,
       "name": "Grave Angels",
       "url": "https://open.spotify.com/track/1tOe4416Cr15amXc5rqpal"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Into The Purple Valley",
+        "url": "https://open.spotify.com/album/0bPPam9K2Pyuxr8T9WH1Vk"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Taxes on the Farmer Feeds Us All",
+      "url": "https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq"
     },
     {
       "added_at": "2023-08-11 04:00:00",

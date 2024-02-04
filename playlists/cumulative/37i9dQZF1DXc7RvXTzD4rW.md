@@ -4,7 +4,7 @@
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 雨宮天 \(Sora Amamiya\)
 
-316 songs - 21 hr 6 min
+317 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Salt & Sugar](https://open.spotify.com/track/2X0wvwTrhRC9oDdCa48DPR) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Salt & Sugar](https://open.spotify.com/album/3VFrgDd3xHNejGad8vyBh3) | 3:51 | 2023-04-06 | 2023-06-01 |
 | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/track/6wH9VrMaadUjcAVZp4G5Ss) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Secret Base \~Kimi ga Kureta Mono\~ \- From CrosSing](https://open.spotify.com/album/0K16qvRY8hUyyQysEvzyFG) | 5:12 | 2023-03-01 | 2023-09-23 |
 | [Self Satisfaction](https://open.spotify.com/track/4lqyDbJAXk4ChvQGRkzKTN) | [小野大輔](https://open.spotify.com/artist/4Zhv2MWk8LmJHgy1qSyss0) | [Sounds of Love](https://open.spotify.com/album/0ADWqHxUuWrth4DkM5OAQq) | 5:48 | 2022-11-02 | 2023-03-02 |
+| [Sen](https://open.spotify.com/track/04BKIpjb3JcgPzmL1YQ7BP) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [The Fantasic Garden](https://open.spotify.com/album/2oiX7ihGwFq0p22uhxfYqv) | 4:14 | 2024-01-16 |  |
 | [Sepia Rainbow](https://open.spotify.com/track/2XT5czmMaKQUE9HsmNTXAk) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [It's a small world](https://open.spotify.com/album/0vV30Z3xDerDxaixsUseIQ) | 5:17 | 2022-07-13 | 2022-08-06 |
 | [Sequel](https://open.spotify.com/track/2fodS2u01KCFoPknzkJGcN) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py) | [Sequel](https://open.spotify.com/album/3cgQcgyVE0xXR1wZUNjafw) | 4:15 | 2023-10-12 |  |
 | [Shiko](https://open.spotify.com/track/7oerru3Cs2zeC0QhzNvNkM) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiko](https://open.spotify.com/album/2jXcc6MdtXQYetzqkllveN) | 4:01 | 2023-01-13 | 2023-05-09 |
@@ -318,7 +319,7 @@
 | [衝天](https://open.spotify.com/track/2q8MqgPevufTYXjFamHIuw) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [衝天](https://open.spotify.com/album/42tl64WVINS2Gj6bHBMMIc) | 4:17 | 2024-01-16 |  |
 | [輪廻のパラドクス](https://open.spotify.com/track/4pse20eO6UxqETzbOQd86V) | [Kleissis](https://open.spotify.com/artist/7yQ3JBUyIQV1tOusKvRTXM) | [輪廻のパラドクス](https://open.spotify.com/album/7IGD6aHHkgSOTrTlze8uoq) | 4:22 | 2022-11-18 | 2023-04-26 |
 | [遣らずの雨](https://open.spotify.com/track/6vQ8WVHugsqwRYxU68mdu8) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [遣らずの雨](https://open.spotify.com/album/4y7XFPKaws67aaYusg0md8) | 4:10 | 2022-06-23 | 2022-08-06 |
-| [閃 \-Sen\-](https://open.spotify.com/track/6UjRCdLRF9uBgELHiPOdu4) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [閃 \-Sen\-](https://open.spotify.com/album/7CJlc9nZISFfXwRBWieQrt) | 4:16 | 2023-10-12 |  |
+| [閃 \-Sen\-](https://open.spotify.com/track/6UjRCdLRF9uBgELHiPOdu4) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [閃 \-Sen\-](https://open.spotify.com/album/7CJlc9nZISFfXwRBWieQrt) | 4:16 | 2023-10-12 | 2024-02-04 |
 | [集結の果てに](https://open.spotify.com/track/41ChAWF2xtTY27QzeLVpns) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [集結の果てに](https://open.spotify.com/album/7f3CzXWceuQ4UEoEmXE1Xa) | 3:58 | 2022-12-21 | 2023-04-26 |
 | [霞の向こうへ](https://open.spotify.com/track/5W4Jz81qUijp9EoC6vJYPJ) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [霞の向こうへ\(TVアニメ｢ゴブリンスレイヤーⅡ｣エンディングテーマ\)](https://open.spotify.com/album/60Is723U0djCaYTjIJdTnr) | 4:08 | 2023-09-22 | 2024-02-01 |
 | [青100色](https://open.spotify.com/track/6tP2bYIUMcDFn9Zfs9ZAE4) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [青100色 \(TVアニメ「古見さんは、コミュ症です。」オープニング・テーマ\)](https://open.spotify.com/album/3SpGjj6yNjbv5OvObTrPNy) | 3:56 | 2022-05-31 | 2022-08-31 |

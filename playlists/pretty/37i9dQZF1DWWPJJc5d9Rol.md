@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWPJJc5d9Rol.md) - [plain]
 
 > Featuring Rauw Alejandro, Bad Bunny, Saiko & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 711 likes - 25 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 751 likes - 25 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWPJJc5d9Rol.md) - [plain]
 | 24 | [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 |
 | 25 | [Inestable](https://open.spotify.com/track/6iLG2K2RA0wrD4HrdYG7WZ) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Inestable](https://open.spotify.com/album/7aKtEaIfO6g28YtGkKRqX1) | 3:38 |
 
-Snapshot ID: `MCw5MTVhMmM1NGJhZTc0OGU2MWMxZjVhNjBjMmY4NDcxMGNiZDVlMzhi`
+Snapshot ID: `MCxjYTM0N2IwMTMzYTRhNzhkYmE4YTk5ZDU3MTU5ZThhNTU1MWFkZjYw`

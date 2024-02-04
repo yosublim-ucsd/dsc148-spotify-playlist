@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,763 likes - 120 songs - 13 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,838 likes - 120 songs - 13 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 99 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 |
 | 100 | [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 |
 | 101 | [4:14](https://open.spotify.com/track/1NBVSiaJ750DBKnd4lhKWk) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/0CCYU4pfINH3Lt5krDd9JO) | 4:14 |
-| 102 | [Submersible](https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA) | 3:50 |
+| 102 | [Submersible](https://open.spotify.com/track/0VLHVVJ67LemumV38DDb5b) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/7H6gso8aBfKK7mlouLCsW3) | 3:50 |
 | 103 | [Wisdom Eye](https://open.spotify.com/track/0XLH43dcYq2pOe7COx8gPT) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Eternity](https://open.spotify.com/album/4mv5aLE0vrWGPzLYfEsUxw) | 3:10 |
 | 104 | [Island No\. 1](https://open.spotify.com/track/0RcYcNvHFFLkMb9F0Dku5c) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl) | 8:01 |
 | 105 | [Astrosat](https://open.spotify.com/track/0WbJUUbu4swufvj49wHYWm) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/48gGsyx07SAITVjkbyFZED) | 5:00 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 | 119 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 |
 | 120 | [Ferrum](https://open.spotify.com/track/0s5x2cr3VyJYez1W8SKXC0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Mirror](https://open.spotify.com/album/66d3xKf4p6CDloe6I7HaE9) | 16:13 |
 
-Snapshot ID: `MCw3MTM0YzhiZTcxYTdjYzliMzU2YzRlMjgxZjA3M2U1N2ExYmVlMWQ0`
+Snapshot ID: `MCxjY2NiMTcwY2M1OWQ3OTRkYTE3Mzk2NmIxOWVhYzg1ZDZlY2I5ZTli`

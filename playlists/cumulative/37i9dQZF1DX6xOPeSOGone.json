@@ -2208,10 +2208,28 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 448240,
       "name": "Glamour Profession",
       "url": "https://open.spotify.com/track/3Q2Xxc7y6g4OrYmO53J7Yf"
+    },
+    {
+      "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448740,
+      "name": "Glamour Profession",
+      "url": "https://open.spotify.com/track/6WQKyeXBzA9oRyENIYTmU3"
     },
     {
       "album": {

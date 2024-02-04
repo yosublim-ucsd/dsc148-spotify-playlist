@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Ariel Donato, MC Cabelinho, Marina Sena",
-  "num_followers": 290933,
+  "num_followers": 290917,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODM4OTdhMGEwZTZhOTZjMzJiYTA2YzgzZjIyNTdlYTc4MDJkMmFi",
+  "snapshot_id": "MCxjOGQzNWQ4OTNlZmM5YzRjN2E5NjNjZTQ4ODE2MzU1NGYyY2ZjZjQ2",
   "tracks": [
     {
       "added_at": "2024-02-02 18:51:33",
@@ -286,6 +286,10 @@
         {
           "name": "Nairo",
           "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
       "duration_ms": 156000,
@@ -471,6 +475,30 @@
     {
       "added_at": "2024-02-02 18:51:33",
       "album": {
+        "name": "Medida Certa",
+        "url": "https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "duration_ms": 244571,
+      "name": "Medida Certa",
+      "url": "https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT"
+    },
+    {
+      "added_at": "2024-02-02 18:51:33",
+      "album": {
         "name": "Te Pe\u00e7o Pra Ficar",
         "url": "https://open.spotify.com/album/4ekM383zmPmwR4S4EPinIl"
       },
@@ -495,30 +523,6 @@
       "duration_ms": 235862,
       "name": "Te Pe\u00e7o Pra Ficar",
       "url": "https://open.spotify.com/track/74JYs66H7a8iEM1CJdkBwA"
-    },
-    {
-      "added_at": "2024-02-02 18:51:33",
-      "album": {
-        "name": "Medida Certa",
-        "url": "https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
-        }
-      ],
-      "duration_ms": 244571,
-      "name": "Medida Certa",
-      "url": "https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT"
     },
     {
       "added_at": "2024-02-02 18:51:33",
@@ -615,18 +619,26 @@
     {
       "added_at": "2024-02-02 18:51:33",
       "album": {
-        "name": "Arcano 19",
-        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
+        "name": "Luz Acesa",
+        "url": "https://open.spotify.com/album/1MVOG9MC3OaC4Mli2NPsQX"
       },
       "artists": [
         {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
-      "duration_ms": 244999,
-      "name": "Amor Bandido",
-      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
+      "duration_ms": 138139,
+      "name": "Luz Acesa",
+      "url": "https://open.spotify.com/track/2GNXsFAXEdPDxHxN4NSDSE"
     },
     {
       "added_at": "2024-02-02 18:51:33",
@@ -699,26 +711,46 @@
     {
       "added_at": "2024-02-02 18:51:33",
       "album": {
-        "name": "Luz Acesa",
-        "url": "https://open.spotify.com/album/1MVOG9MC3OaC4Mli2NPsQX"
+        "name": "Arcano 19",
+        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
       },
       "artists": [
         {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
         }
       ],
-      "duration_ms": 138139,
-      "name": "Luz Acesa",
-      "url": "https://open.spotify.com/track/2GNXsFAXEdPDxHxN4NSDSE"
+      "duration_ms": 244999,
+      "name": "Amor Bandido",
+      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
+    },
+    {
+      "added_at": "2024-02-02 18:51:33",
+      "album": {
+        "name": "Outro Patamar",
+        "url": "https://open.spotify.com/album/2gt5vOzXJxJIa6MCXss0Wj"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        }
+      ],
+      "duration_ms": 224842,
+      "name": "Outro Patamar",
+      "url": "https://open.spotify.com/track/76klxh7fnauuROKC2kDuHG"
     },
     {
       "added_at": "2024-02-02 18:51:33",
@@ -763,34 +795,6 @@
       "duration_ms": 183265,
       "name": "Teu Sorriso",
       "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
-    },
-    {
-      "added_at": "2024-02-02 18:51:33",
-      "album": {
-        "name": "Outro Patamar",
-        "url": "https://open.spotify.com/album/2gt5vOzXJxJIa6MCXss0Wj"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        }
-      ],
-      "duration_ms": 224842,
-      "name": "Outro Patamar",
-      "url": "https://open.spotify.com/track/76klxh7fnauuROKC2kDuHG"
     },
     {
       "added_at": "2024-02-02 18:51:33",
@@ -1455,8 +1459,8 @@
     {
       "added_at": "2024-02-02 18:51:33",
       "album": {
-        "name": "Desliga",
-        "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
       },
       "artists": [
         {
@@ -1464,13 +1468,13 @@
           "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
         },
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
         }
       ],
-      "duration_ms": 167478,
-      "name": "Desliga",
-      "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
+      "duration_ms": 174315,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2024-02-02 18:51:33",
@@ -1579,8 +1583,8 @@
     {
       "added_at": "2024-02-02 18:51:33",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
+        "name": "Desliga",
+        "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
       },
       "artists": [
         {
@@ -1588,13 +1592,13 @@
           "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
         },
         {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
         }
       ],
-      "duration_ms": 174315,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
+      "duration_ms": 167478,
+      "name": "Desliga",
+      "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
     },
     {
       "added_at": "2024-02-02 18:51:33",
@@ -1683,6 +1687,30 @@
     {
       "added_at": "2024-02-02 18:51:33",
       "album": {
+        "name": "Malandra Treinada",
+        "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Malandra Treinada",
+      "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
+    },
+    {
+      "added_at": "2024-02-02 18:51:33",
+      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/716CE4q0Mg2HXKjjv11fXz"
       },
@@ -1727,30 +1755,6 @@
       "duration_ms": 196363,
       "name": "Aquelas Coisas",
       "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
-    },
-    {
-      "added_at": "2024-02-02 18:51:33",
-      "album": {
-        "name": "Malandra Treinada",
-        "url": "https://open.spotify.com/album/6TTjOK1SNS9QyTFr0Ejngx"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Malandra Treinada",
-      "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
     },
     {
       "added_at": "2024-02-02 18:51:33",

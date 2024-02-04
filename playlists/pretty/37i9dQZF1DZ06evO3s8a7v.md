@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 
 > This is MYA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,830 likes - 52 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,854 likes - 52 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 27 | [4 Meses](https://open.spotify.com/track/1hsy09WbfLFq21OVS4FaMe) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:17 |
 | 28 | [Desbloqueo](https://open.spotify.com/track/0Rr3a98X7aP1sADDsfm16w) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Desbloqueo](https://open.spotify.com/album/7HbweJj6G9SCy6oQQy314d) | 3:12 |
 | 29 | [Online](https://open.spotify.com/track/1QpmpEDCrlVJJfyt5eFYSS) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:45 |
-| 30 | [Una y Mil Veces](https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Una y Mil Veces](https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa) | 3:02 |
-| 31 | [Te Quiero X Eso](https://open.spotify.com/track/6MXtWx5mWkj8XJaEqouzCW) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Te Quiero X Eso](https://open.spotify.com/album/6EMS97vhi3QuWjD8xkt7Uc) | 3:30 |
+| 30 | [Te Quiero X Eso](https://open.spotify.com/track/6MXtWx5mWkj8XJaEqouzCW) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Te Quiero X Eso](https://open.spotify.com/album/6EMS97vhi3QuWjD8xkt7Uc) | 3:30 |
+| 31 | [Una y Mil Veces](https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Una y Mil Veces](https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa) | 3:02 |
 | 32 | [25 NOCHES \(feat\. Abraham Mateo\)](https://open.spotify.com/track/71Z2uovM8qCIxpv5BTtc3A) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [25 NOCHES \(feat\. Abraham Mateo\)](https://open.spotify.com/album/5ue3Pfzf6Wy9c2EJjKROPI) | 3:03 |
 | 33 | [La Difícil](https://open.spotify.com/track/6lobzm99pbHbAadY6VdMgd) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:45 |
 | 34 | [Loco por Ti](https://open.spotify.com/track/01GkSQ5gDn2BHOfgfdUepy) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Loco por Ti](https://open.spotify.com/album/09FTxhACpY7V8604fTYQRi) | 3:14 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 51 | [Fuego](https://open.spotify.com/track/1sOQKZHaEo2SKzVfUqMriM) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Fuego](https://open.spotify.com/album/481GrNpsZ4fKzykR8FRxMi) | 2:46 |
 | 52 | [No Regreses](https://open.spotify.com/track/6CMH3PlVAObXs4aHHR4Hu8) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:20 |
 
-Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDBiZDZjNDA4MmEwZGY0YWU5ODcwM2QzY2QzYmNhMjlmMw==`
+Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA5NDRmYmMyZjNiMTU1M2EwOGZiMzA3MDc1ZmQxZGMwMg==`

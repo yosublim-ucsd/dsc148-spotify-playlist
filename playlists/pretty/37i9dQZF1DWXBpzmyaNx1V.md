@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > Un paseo por la ciudad pintada de violeta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,165 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,176 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 19 | [Home](https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 2:36 |
 | 20 | [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 |
 | 21 | [Feel Good](https://open.spotify.com/track/3NMFWhIDAdDGX3xmXOxHyo) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Feel Good](https://open.spotify.com/album/7bV4wxsjlnAq7hJ4y4MTQm) | 3:58 |
-| 22 | [Swingin' Spathiphyllums](https://open.spotify.com/track/4BhNfgW04FWCSgY0YKdQCG) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv) | 2:58 |
-| 23 | [Aire](https://open.spotify.com/track/6KD13DHZyT3hRvcVg1sZfZ) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Aire](https://open.spotify.com/album/3JUzKnPSx25f6XGmFlmOQM) | 2:54 |
+| 22 | [Aire](https://open.spotify.com/track/6KD13DHZyT3hRvcVg1sZfZ) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Aire](https://open.spotify.com/album/3JUzKnPSx25f6XGmFlmOQM) | 2:54 |
+| 23 | [Swingin' Spathiphyllums](https://open.spotify.com/track/4BhNfgW04FWCSgY0YKdQCG) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv) | 2:58 |
 | 24 | [Love Song \- Helado Negro Remix](https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Love Song \(Helado Negro Remix\)](https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF) | 4:19 |
 | 25 | [Claro de Luna](https://open.spotify.com/track/7FIi8xh0J96N60yN1oE36r) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN) | [Claro de Luna](https://open.spotify.com/album/1IWoyDhqcmIEFs6VmjIt1s) | 4:16 |
 | 26 | [Exotica](https://open.spotify.com/track/2eC43PWHMbUnwqCRZcbGfo) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 5:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 49 | [Purple Tones](https://open.spotify.com/track/7zwVwVs7N46n5AsrNvD74b) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Far In](https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e) | 3:26 |
 | 50 | [Jacaranda](https://open.spotify.com/track/1kZ1Zm6zFYxypwn4GVQz4S) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jacaranda](https://open.spotify.com/album/574GqifDRYz5907qCC7TgU) | 4:09 |
 
-Snapshot ID: `MCwwNzg0NzA2MTg4NGRkYmU2ZDRkZDk1ZDliZjU2OWQyMDFjNTMzMTdh`
+Snapshot ID: `MCw0NGIxYTliYmRmMDVjMGFkMmUwYTZmMGZlYTFkZDg3YjgwYjE4NDIx`

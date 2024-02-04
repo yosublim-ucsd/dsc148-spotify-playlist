@@ -4,7 +4,7 @@
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Mong Tong
 
-52 songs - 3 hr 1 min
+53 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [The Way We Were \- Remix](https://open.spotify.com/track/4mBjUaCp1tituvl2n9azzE) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0), [Flowstrong](https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [The Way We Were \(Remix\)](https://open.spotify.com/album/3mZj6uUirkPHRde458W9R2) | 3:49 | 2024-01-25 |  |
 | [Thinking About You](https://open.spotify.com/track/5JDoRZ0rgo9cbvSsCdFJQt) | [DEW](https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk) | [Thinking About You](https://open.spotify.com/album/4m1mEGiXCzSqOm4l7Caroe) | 3:16 | 2024-01-25 |  |
 | [To My Audience](https://open.spotify.com/track/6qQsWs0vbFbFsr6Mroh20x) | [Kalabebe](https://open.spotify.com/artist/1MUaWt8Y92WoQfhLnjumVZ) | [Be My Guest](https://open.spotify.com/album/6RFsBhZK7IWIZirIU2oS3X) | 3:11 | 2024-01-25 |  |
-| [To The Beat](https://open.spotify.com/track/1VdJthDXiTGmex8NA0SUtX) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [To The Beat](https://open.spotify.com/album/2ytVZwLicJi3ZudO9FYPYJ) | 2:34 | 2024-01-25 |  |
+| [To The Beat](https://open.spotify.com/track/1VdJthDXiTGmex8NA0SUtX) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [To The Beat](https://open.spotify.com/album/2ytVZwLicJi3ZudO9FYPYJ) | 2:34 | 2024-01-25 | 2024-02-04 |
+| [To The Beat](https://open.spotify.com/track/3i5JPUScbykbkAOCLfk7Wo) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [To The Beat](https://open.spotify.com/album/34VdSaTKOFKlgj5UTwN6p7) | 2:34 | 2024-02-01 |  |
 | [UMAMI](https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [whoosh](https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA) | [UMAMI](https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g) | 3:22 | 2024-01-25 |  |
 | [Unwind](https://open.spotify.com/track/4cAVjrQKhvYrirCdD3u4Iu) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Boomerang](https://open.spotify.com/album/2V2VAi4Rb2aDUWBtSvICMR) | 3:17 | 2024-01-25 |  |
 | [What Can I Do \(feat\. J.Sheon\)](https://open.spotify.com/track/7E3E4nQdBTv2rm3uMtGFgA) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK), [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [AD ASTRA](https://open.spotify.com/album/0robvGvRNoSzos2Ae9KRyX) | 3:08 | 2024-01-25 |  |

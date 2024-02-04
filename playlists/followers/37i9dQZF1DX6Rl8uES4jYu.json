@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 236274,
+  "2024-02-04": 236226,
   "date_first_scraped": "2021-12-21",
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
   "name": "Ready for the Day",
@@ -389,6 +389,32 @@
       "duration_ms": 162062,
       "name": "All Together Now",
       "url": "https://open.spotify.com/track/1BAG6lcuJip6wd0Kd9PRoY"
+    },
+    {
+      "album": {
+        "name": "All Ur Luv",
+        "url": "https://open.spotify.com/album/1KrS7daFwtHSyT5aPsI0so"
+      },
+      "artists": [
+        {
+          "name": "Wavedash",
+          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
+        },
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161771,
+      "name": "All Ur Luv",
+      "url": "https://open.spotify.com/track/3K1RnBxBkrMwoBE8gC63eY"
     },
     {
       "album": {
@@ -7707,7 +7733,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 141002,
       "name": "Turn Up",
       "url": "https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI"

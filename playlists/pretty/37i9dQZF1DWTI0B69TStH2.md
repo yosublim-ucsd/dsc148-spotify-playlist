@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:6OK0BGPIHWTsTUPd6UTVAz">Szumal</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,433 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,263 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Kwadratowy](https://open.spotify.com/track/0ODb9zKQ7uguK091ecGhJH) | [Szumy](https://open.spotify.com/artist/0nREt0xGVu7pgRF4MFX72m) | [Kwadratowy](https://open.spotify.com/album/1t0Lg4YPTx1zwJuG52d4Oa) | 3:30 |
 | 100 | [Stroboskopy \- Bootleg](https://open.spotify.com/track/20uKUjFaTHDRyjLjzfwRqB) | [Laudi](https://open.spotify.com/artist/3OYKPuAilTxyA2tsmnlTdQ) | [DDA](https://open.spotify.com/album/1XaVY88al8QdQLrWS45ld1) | 2:57 |
 
-Snapshot ID: `MCwwZGY3ZmQwMDY4NGFlNzMyZjYzZTM3Y2U4NDQ3MDIzYWVlMWJjNDVm`
+Snapshot ID: `MCxhNDg3N2VjMzI2OTJmNTQyMDViM2Y3YTZlOWZlMTBkOGEwMWQ0NTZh`

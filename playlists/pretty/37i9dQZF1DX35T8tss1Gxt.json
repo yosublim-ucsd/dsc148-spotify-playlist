@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 229755,
+  "num_followers": 229890,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDBiYzIyYzJjYmUwMDU3ZGY3YzRiNzhkNmU0NjdkNjA0YmM3ODFl",
+  "snapshot_id": "MCwwZjUzZmZjYjRiZjYyOGE3MTc3MGNmMDA5MTNiNTFhYjNiOTM4OWUy",
   "tracks": [
     {
       "added_at": "2024-01-12 07:49:20",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Way Home",
-        "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
-      },
-      "artists": [
-        {
-          "name": "Grace Tena",
-          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Way Home",
-      "url": "https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Belongs To You (Remix Pack)",
         "url": "https://open.spotify.com/album/4JFyOepnA6LzoCMgDc8T7X"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "God Be Praised",
-        "url": "https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i"
+        "name": "Way Home",
+        "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
       },
       "artists": [
         {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+          "name": "Grace Tena",
+          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
         }
       ],
-      "duration_ms": 213920,
-      "name": "Yes I Do",
-      "url": "https://open.spotify.com/track/5Hq0aYRj1p1vD6w6JTe2sy"
+      "duration_ms": 284800,
+      "name": "Way Home",
+      "url": "https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -595,6 +579,22 @@
       "duration_ms": 188133,
       "name": "Memories",
       "url": "https://open.spotify.com/track/0Yv88gXq362a9oTSeC7J67"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "God Be Praised",
+        "url": "https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Yes I Do",
+      "url": "https://open.spotify.com/track/5Hq0aYRj1p1vD6w6JTe2sy"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 224606,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "pillow soft",
         "url": "https://open.spotify.com/album/27ToXf5vltBPO8rnssYEUp"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 143439,
       "name": "pillow soft",
       "url": "https://open.spotify.com/track/0t8fKvRdEPoDf7995BN5gX"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/7MVBNLbOp2MyvWRbbPvkNZ"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 224606,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Wilder Wonderland",
-        "url": "https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF"
-      },
-      "artists": [
-        {
-          "name": "V. Rose",
-          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
-        }
-      ],
-      "duration_ms": 220684,
-      "name": "Just Wondering",
-      "url": "https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "My Worship",
         "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 180292,
       "name": "ALL MY LIFE",
       "url": "https://open.spotify.com/track/44HijDTWOym4XWqEFQD28Y"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Wilder Wonderland",
+        "url": "https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF"
+      },
+      "artists": [
+        {
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+        }
+      ],
+      "duration_ms": 220684,
+      "name": "Just Wondering",
+      "url": "https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "More In Seconds",
-        "url": "https://open.spotify.com/album/6D8jfseyzo6aID0WbA5pgj"
-      },
-      "artists": [
-        {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
-        }
-      ],
-      "duration_ms": 244493,
-      "name": "More In Seconds",
-      "url": "https://open.spotify.com/track/6Jiyh1uhwo7q2I8Yx9vgsT"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "With Him",
         "url": "https://open.spotify.com/album/6U0fKpZM5MAnmN6QAgRftH"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 167586,
       "name": "With Him",
       "url": "https://open.spotify.com/track/7s7wag1cue3SVabZAQjVwh"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "More In Seconds",
+        "url": "https://open.spotify.com/album/6D8jfseyzo6aID0WbA5pgj"
+      },
+      "artists": [
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "duration_ms": 244493,
+      "name": "More In Seconds",
+      "url": "https://open.spotify.com/track/6Jiyh1uhwo7q2I8Yx9vgsT"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 275726,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Simple Ways",
         "url": "https://open.spotify.com/album/7vs8N6AbGXg8i0K4y6aEpc"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 177214,
       "name": "Simple Ways",
       "url": "https://open.spotify.com/track/4pRmJstStQ4d23TUhjDj6a"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 275726,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "JUST BE US",
-        "url": "https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7"
-      },
-      "artists": [
-        {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
-        }
-      ],
-      "duration_ms": 142889,
-      "name": "JUST BE US",
-      "url": "https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "For Your Grace",
         "url": "https://open.spotify.com/album/7D8B8My0dXsIoviSbw4Ej2"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 200605,
       "name": "For Your Grace",
       "url": "https://open.spotify.com/track/5iZP8YJeKHZticyPAbJjyW"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "JUST BE US",
+        "url": "https://open.spotify.com/album/6OTEkrlDNbCaFfjr46CEY7"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        }
+      ],
+      "duration_ms": 142889,
+      "name": "JUST BE US",
+      "url": "https://open.spotify.com/track/3pdHgrjBEBZPY8AM7voeCb"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "WORTHY",
-        "url": "https://open.spotify.com/album/0rSrNBf65mgV4DHXb73Kbp"
-      },
-      "artists": [
-        {
-          "name": "Paulade",
-          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
-        }
-      ],
-      "duration_ms": 175020,
-      "name": "WORTHY",
-      "url": "https://open.spotify.com/track/4rrfTx3W7ro82OvV0R6Uiy"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "SURREAL",
         "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
       },
@@ -1467,50 +1451,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
+        "name": "WORTHY",
+        "url": "https://open.spotify.com/album/0rSrNBf65mgV4DHXb73Kbp"
       },
       "artists": [
         {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+          "name": "Paulade",
+          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
         }
       ],
-      "duration_ms": 222918,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Awesome",
-        "url": "https://open.spotify.com/album/0uWIKYtMsCNMlYMNyCcvBt"
-      },
-      "artists": [
-        {
-          "name": "Melissa Bethea",
-          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
-        }
-      ],
-      "duration_ms": 218948,
-      "name": "Awesome",
-      "url": "https://open.spotify.com/track/1CCi2rldOo75tHL5kau6WA"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Sun Son",
-        "url": "https://open.spotify.com/album/0ftye6YVCqWInEykok7IJt"
-      },
-      "artists": [
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Sun Son",
-      "url": "https://open.spotify.com/track/57Rq8hVJ3rZIS4LoHE2kBb"
+      "duration_ms": 175020,
+      "name": "WORTHY",
+      "url": "https://open.spotify.com/track/4rrfTx3W7ro82OvV0R6Uiy"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1531,6 +1483,54 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "Awesome",
+        "url": "https://open.spotify.com/album/0uWIKYtMsCNMlYMNyCcvBt"
+      },
+      "artists": [
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "duration_ms": 218948,
+      "name": "Awesome",
+      "url": "https://open.spotify.com/track/1CCi2rldOo75tHL5kau6WA"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 222918,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Sun Son",
+        "url": "https://open.spotify.com/album/0ftye6YVCqWInEykok7IJt"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Sun Son",
+      "url": "https://open.spotify.com/track/57Rq8hVJ3rZIS4LoHE2kBb"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "Lover of My Soul",
         "url": "https://open.spotify.com/album/2S3qRBiuvL9pD5oHPvobHd"
       },
@@ -1547,26 +1547,6 @@
       "duration_ms": 202434,
       "name": "Lover of My Soul",
       "url": "https://open.spotify.com/track/4YvMr5qhiFghZLsf0KUXio"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Give Myself Away",
-        "url": "https://open.spotify.com/album/3Sjbg2zl6AaCWxhqhQG0u6"
-      },
-      "artists": [
-        {
-          "name": "Chris Howland",
-          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
-        },
-        {
-          "name": "Eris Ford",
-          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
-        }
-      ],
-      "duration_ms": 204179,
-      "name": "Give Myself Away",
-      "url": "https://open.spotify.com/track/23XaBkQt12DgsSZk7elnUL"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1595,18 +1575,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Cornerstone",
-        "url": "https://open.spotify.com/album/4C2ROejT301KgDkPakUU0R"
+        "name": "Give Myself Away",
+        "url": "https://open.spotify.com/album/3Sjbg2zl6AaCWxhqhQG0u6"
       },
       "artists": [
         {
-          "name": "Keyondra Lockett",
-          "url": "https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7"
+          "name": "Chris Howland",
+          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
+        },
+        {
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
         }
       ],
-      "duration_ms": 237650,
-      "name": "You Your Love",
-      "url": "https://open.spotify.com/track/3hKRb7aCt4JDilacNxeMk0"
+      "duration_ms": 204179,
+      "name": "Give Myself Away",
+      "url": "https://open.spotify.com/track/23XaBkQt12DgsSZk7elnUL"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1623,6 +1607,22 @@
       "duration_ms": 238545,
       "name": "LESS OF ME",
       "url": "https://open.spotify.com/track/7hTsieYGUm5VxZJlfLvVe1"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Cornerstone",
+        "url": "https://open.spotify.com/album/4C2ROejT301KgDkPakUU0R"
+      },
+      "artists": [
+        {
+          "name": "Keyondra Lockett",
+          "url": "https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7"
+        }
+      ],
+      "duration_ms": 237650,
+      "name": "You Your Love",
+      "url": "https://open.spotify.com/track/3hKRb7aCt4JDilacNxeMk0"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1655,6 +1655,66 @@
       "duration_ms": 250295,
       "name": "Let It Be Your Will",
       "url": "https://open.spotify.com/track/4c6cmc4E57dKujV20KAa4I"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Keep me",
+        "url": "https://open.spotify.com/album/5RM33r3cYmWgSZCxwIyT0G"
+      },
+      "artists": [
+        {
+          "name": "Stephen Willo",
+          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+        },
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "duration_ms": 248999,
+      "name": "Keep me",
+      "url": "https://open.spotify.com/track/6VNixtccaXI23rKht6kQQg"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/1iPG6Dzwp4vOHahDCsNaTI"
+      },
+      "artists": [
+        {
+          "name": "William Demps",
+          "url": "https://open.spotify.com/artist/3i1rCueHW9lYOAoOBEv3c5"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "duration_ms": 242181,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/5Ta0V7LXXNnfgl2RRxqG9u"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "duration_ms": 201829,
+      "name": "Perfect Love",
+      "url": "https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1695,66 +1755,6 @@
       "duration_ms": 176062,
       "name": "Emmanuel",
       "url": "https://open.spotify.com/track/4O5TT3kmWaL5c4K1HU1SyQ"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Keep me",
-        "url": "https://open.spotify.com/album/5RM33r3cYmWgSZCxwIyT0G"
-      },
-      "artists": [
-        {
-          "name": "Stephen Willo",
-          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
-        },
-        {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
-        }
-      ],
-      "duration_ms": 248999,
-      "name": "Keep me",
-      "url": "https://open.spotify.com/track/6VNixtccaXI23rKht6kQQg"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Perfect Love",
-        "url": "https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd"
-      },
-      "artists": [
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        },
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        }
-      ],
-      "duration_ms": 201829,
-      "name": "Perfect Love",
-      "url": "https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/1iPG6Dzwp4vOHahDCsNaTI"
-      },
-      "artists": [
-        {
-          "name": "William Demps",
-          "url": "https://open.spotify.com/artist/3i1rCueHW9lYOAoOBEv3c5"
-        },
-        {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
-        }
-      ],
-      "duration_ms": 242181,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/5Ta0V7LXXNnfgl2RRxqG9u"
     }
   ],
   "unique_name": "Rhythm & Praise",

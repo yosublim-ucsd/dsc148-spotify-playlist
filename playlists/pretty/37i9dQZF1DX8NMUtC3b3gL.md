@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,891 likes - 211 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,892 likes - 211 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 41 | [Mirages](https://open.spotify.com/track/24EO0A4OgkJJMxd3MT5uvj) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Mirages](https://open.spotify.com/album/7gO57WSFQ0xoBH4XRrhSQ3) | 4:08 |
 | 42 | [Oysterz](https://open.spotify.com/track/2TdkjlncY2p0VM4HxavJY9) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [ramen noodles](https://open.spotify.com/album/4HCYUlbLLPHu0Jo4UCvxLx) | 2:21 |
 | 43 | [Cloudy Haze](https://open.spotify.com/track/6tcHiMVFJ2mSL8S0xFZafh) | [Rein Dayz](https://open.spotify.com/artist/7wiw28FhChBCUr3VYQ68HI) | [Cloudy Haze](https://open.spotify.com/album/5fzU8llBFqIRTGbVweNrQl) | 2:16 |
-| 44 | [graining](https://open.spotify.com/track/4AkNFW2EVDK3k4nmr7kdhA) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07) | [graining](https://open.spotify.com/album/7BNnuGbXLHHdM9CEw6vCqJ) | 2:12 |
+| 44 | [graining](https://open.spotify.com/track/4AkNFW2EVDK3k4nmr7kdhA) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [graining](https://open.spotify.com/album/7BNnuGbXLHHdM9CEw6vCqJ) | 2:12 |
 | 45 | [morning vibes](https://open.spotify.com/track/5n1DPnDhK6yWe8BjNIt9p8) | [flotate](https://open.spotify.com/artist/1WCXAKhgy8iunT7CJfHXZS) | [morning vibes](https://open.spotify.com/album/2KdexWlZI2sqY6HTdz2G75) | 2:03 |
 | 46 | [Must've Been the Wind](https://open.spotify.com/track/6dJ9y9bauSaavJbkPcEjkk) | [Luna Rossa](https://open.spotify.com/artist/5KM0Pgy2NxMnZrxtOhM9nW) | [Must've Been the Wind](https://open.spotify.com/album/1ZcDCFhsueOAXABOPaN6QT) | 2:17 |
 | 47 | [soft crease](https://open.spotify.com/track/4EvjMS9j7oolUc8i5PHWLW) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [soft crease](https://open.spotify.com/album/47Pe1jyvlETHKsMTiN0c3P) | 2:18 |
@@ -220,4 +220,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 210 | [Patterns Of Nature](https://open.spotify.com/track/3RjNoeYW7Xfyw72744iEDJ) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL) | [Patterns Of Nature](https://open.spotify.com/album/2oq1tmjN0vPEE7xDycGydt) | 2:29 |
 | 211 | [Morning Coffee](https://open.spotify.com/track/5TdUqOVDbmmMUSTj5qne8U) | [Dr\. EuroDollar](https://open.spotify.com/artist/5kw3yDJJ3pSvEOSDvTsT7n) | [Morning Coffee](https://open.spotify.com/album/7h1FIH78FdkuzVW0VGunpy) | 2:09 |
 
-Snapshot ID: `MCw4ODY1NWFlZmQ2OWU2NWVjNzNjYmQ5NmZkYTllN2Y2YjkzZGJlZjdj`
+Snapshot ID: `MCwyYzFlMzM5NTlhY2NhYzM2YzQwYTA4OTIxNDIzM2ZiYjcxMTdmZmIy`

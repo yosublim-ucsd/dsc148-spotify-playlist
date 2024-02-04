@@ -4,7 +4,7 @@
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-106 songs - 6 hr 8 min
+107 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Bagan](https://open.spotify.com/track/4MhjizjsOZjYBGiifFVvFv) | [Manel Ferreira](https://open.spotify.com/artist/69mSWyvvdOS1WOkznwkz7N), [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV) | [Bagan](https://open.spotify.com/album/59r3QA7GXxLOsJLSBNk3fz) | 3:56 | 2023-12-14 | 2024-01-11 |
 | [Bella Donna](https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Bella Donna](https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4) | 2:19 | 2022-06-16 |  |
 | [Between Tears](https://open.spotify.com/track/20Cza13QvCTbsOYD5jTSuy) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Sol Luna Tierra](https://open.spotify.com/album/0AkGAyCe6uqilxSFb0LLbd) | 5:20 | 2022-06-16 | 2022-12-01 |
-| [Between Tears](https://open.spotify.com/track/72EueUlnXQAzFJUB77EABa) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Sol Luna Tierra](https://open.spotify.com/album/3FIOfekQqrHL0foZlusbCv) | 5:20 | 2022-10-27 |  |
+| [Between Tears](https://open.spotify.com/track/22qA0bkGzNbYYsi65HAZG9) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Sol Luna Tierra](https://open.spotify.com/album/0aAhoTPlNIu0v2SK9MqsNF) | 5:20 | 2024-01-16 |  |
+| [Between Tears](https://open.spotify.com/track/72EueUlnXQAzFJUB77EABa) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Sol Luna Tierra](https://open.spotify.com/album/3FIOfekQqrHL0foZlusbCv) | 5:20 | 2022-10-27 | 2024-02-04 |
 | [Black Orpheus](https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z) | [Denisinho](https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6) | [Blue Bossa](https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g) | 3:01 | 2022-06-16 |  |
 | [Blue Bossa](https://open.spotify.com/track/1K4zSQ6U1gU9JCHFMKqcAC) | [Denisinho](https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6) | [Blue Bossa](https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g) | 2:40 | 2022-06-16 |  |
 | [Bola](https://open.spotify.com/track/5z6iKYv8uzFgK5NGAPPo6k) | [Strunz & Farah](https://open.spotify.com/artist/2Vr1fub6eNIztdUNeFPvJj) | [The Best Of Strunz & Farah](https://open.spotify.com/album/4vPtICfyKU7bOaSlQLRtub) | 5:10 | 2022-06-16 | 2022-07-22 |

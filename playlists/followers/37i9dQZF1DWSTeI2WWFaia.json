@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 1603491,
+  "2024-02-04": 1603310,
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Smoke DZA",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Benny The Butcher",
   "name": "Spilled Ink",
   "tracks": [
     {
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 193973,
       "name": "beauty supply",
       "url": "https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF"
@@ -1295,7 +1295,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 341233,
       "name": "Beyond Spiritual (feat. Wiz Khalifa, Big K.R.I.T. & Curren$y)",
       "url": "https://open.spotify.com/track/2Fy4jOsRb58vn9bgJw1TxA"
@@ -3143,6 +3143,28 @@
       "duration_ms": 203906,
       "name": "Don't Remind Me",
       "url": "https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh"
+    },
+    {
+      "album": {
+        "name": "THEODORE & ANDRE",
+        "url": "https://open.spotify.com/album/1JBRIRH3jc4VUHI9UjfQPj"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193693,
+      "name": "DON\u2019T BE GONE",
+      "url": "https://open.spotify.com/track/0E0cP3se7canDtzIm8Sy1V"
     },
     {
       "album": {
@@ -10173,6 +10195,28 @@
       "duration_ms": 186167,
       "name": "Skegee",
       "url": "https://open.spotify.com/track/4MwhUpDkOOb4UU7BtKznlu"
+    },
+    {
+      "album": {
+        "name": "Ski'd Up",
+        "url": "https://open.spotify.com/album/6ZCJKxS9Vx9Aq9XrEf9JjV"
+      },
+      "artists": [
+        {
+          "name": "Chuck Strangers",
+          "url": "https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130194,
+      "name": "Ski'd Up",
+      "url": "https://open.spotify.com/track/5t75pNr8pZCnllaSWw1LtK"
     },
     {
       "album": {

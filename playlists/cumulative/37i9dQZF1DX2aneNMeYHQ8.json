@@ -6488,7 +6488,7 @@
     {
       "album": {
         "name": "Moment of Truth",
-        "url": "https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI"
+        "url": "https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF"
       },
       "artists": [
         {
@@ -6499,6 +6499,24 @@
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 232917,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
+    },
+    {
+      "album": {
+        "name": "Moment of Truth",
+        "url": "https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2024-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-04",
       "duration_ms": 232917,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0"

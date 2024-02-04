@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 67026,
+  "num_followers": 67063,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWQ3ODBlZTU0MmRhY2I5OGVjZjIxMzY1YzIyYjhjNWJjZTU0ZjBi",
+  "snapshot_id": "MCwyNGVjN2IxMjIzZGEwMjUzZmRlYzA4MzQwOWQ5ZGI4MDI4ZTE5ZjBi",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:41",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 176001,
-      "name": "The Dolls Are Sleeping",
-      "url": "https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Atlanta Twelve String",
         "url": "https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 240360,
       "name": "I Got the Cross the River Jordan",
       "url": "https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 176001,
+      "name": "The Dolls Are Sleeping",
+      "url": "https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Love Transcends",
-        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
-      },
-      "artists": [
-        {
-          "name": "Jackie Venson",
-          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
-        }
-      ],
-      "duration_ms": 258696,
-      "name": "Rollin' On (Acoustic)",
-      "url": "https://open.spotify.com/track/2lFGq1alf0bQKUx3uoTA4Z"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "First Recordings",
         "url": "https://open.spotify.com/album/5OfjjEzy7ofCj2EZDOKZ87"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 120920,
       "name": "Feels so Good #2",
       "url": "https://open.spotify.com/track/0IlJfv6ACOvNyjd9vvgKzm"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Love Transcends",
+        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
+      },
+      "artists": [
+        {
+          "name": "Jackie Venson",
+          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
+        }
+      ],
+      "duration_ms": 258696,
+      "name": "Rollin' On (Acoustic)",
+      "url": "https://open.spotify.com/track/2lFGq1alf0bQKUx3uoTA4Z"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "The 1928 Sessions",
+        "url": "https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 263319,
+      "name": "Avalon Blues",
+      "url": "https://open.spotify.com/track/4scvylI3GR9z1yB0DE2uKM"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "Mama Roux",
         "url": "https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 280400,
       "name": "Mama Roux",
       "url": "https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "The 1928 Sessions",
-        "url": "https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 263319,
-      "name": "Avalon Blues",
-      "url": "https://open.spotify.com/track/4scvylI3GR9z1yB0DE2uKM"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Down in Mississippi",
-        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "Down in Mississippi",
-      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Complete Studio Recordings",
         "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Between Midnight And Day",
-        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
+        "name": "Down in Mississippi",
+        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
       },
       "artists": [
         {
-          "name": "Corey Harris",
-          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
         }
       ],
-      "duration_ms": 160213,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
+      "duration_ms": 203453,
+      "name": "Down in Mississippi",
+      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Between Midnight And Day",
+        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
+      },
+      "artists": [
+        {
+          "name": "Corey Harris",
+          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "Been Worryin'",
         "url": "https://open.spotify.com/album/0wqmYZL5CugLyro5p73EtD"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "I Like It When It Rains",
-        "url": "https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Sittin on Top of the World",
-      "url": "https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Help Me",
         "url": "https://open.spotify.com/album/2jmS1jYAeh5mpl7DSfZS0B"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 249806,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/6LfPMqwKz9h4Vs3Lf2hMDz"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "I Like It When It Rains",
+        "url": "https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Sittin on Top of the World",
+      "url": "https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Aboogi",
+        "url": "https://open.spotify.com/album/3h6QffNxkTZPEPFzBqyTUk"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "Assossam",
+      "url": "https://open.spotify.com/track/4mrDCkjzLhi9CfxYfHWPaD"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "Dear America",
         "url": "https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 227503,
       "name": "Born Of A Woman",
       "url": "https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Aboogi",
-        "url": "https://open.spotify.com/album/3h6QffNxkTZPEPFzBqyTUk"
-      },
-      "artists": [
-        {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "Assossam",
-      "url": "https://open.spotify.com/track/4mrDCkjzLhi9CfxYfHWPaD"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1391,22 +1391,6 @@
       "duration_ms": 187893,
       "name": "Till the Real Thing Comes Along",
       "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Don't Be Late",
-        "url": "https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P"
-      },
-      "artists": [
-        {
-          "name": "Serenity State of Mind",
-          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
-        }
-      ],
-      "duration_ms": 174313,
-      "name": "Foolin'",
-      "url": "https://open.spotify.com/track/2eTN6VZR6vX7CHCTILen1n"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Don't Be Late",
+        "url": "https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P"
+      },
+      "artists": [
+        {
+          "name": "Serenity State of Mind",
+          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
+        }
+      ],
+      "duration_ms": 174313,
+      "name": "Foolin'",
+      "url": "https://open.spotify.com/track/2eTN6VZR6vX7CHCTILen1n"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "The Road to Liberty, Pt. 1",
         "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Colt 45",
-        "url": "https://open.spotify.com/album/43rZvzAOV4kJkDW4gffAJK"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 165172,
-      "name": "Colt 45",
-      "url": "https://open.spotify.com/track/0uwXnVmR7o8PPHajHCq2Uv"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Rory Gallagher (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 305160,
       "name": "For The Last Time - Alternate Take 1",
       "url": "https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Colt 45",
+        "url": "https://open.spotify.com/album/43rZvzAOV4kJkDW4gffAJK"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 165172,
+      "name": "Colt 45",
+      "url": "https://open.spotify.com/track/0uwXnVmR7o8PPHajHCq2Uv"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Newbury",
+        "url": "https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Savini",
+          "url": "https://open.spotify.com/artist/46GUtbDolQDzC9WU2gYIqv"
+        },
+        {
+          "name": "Liliana Richter",
+          "url": "https://open.spotify.com/artist/7BaNCwzekjzjD4aRrysKms"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Newbury",
+      "url": "https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "Outdated Emotion",
         "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
       },
@@ -1679,42 +1699,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Newbury",
-        "url": "https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Savini",
-          "url": "https://open.spotify.com/artist/46GUtbDolQDzC9WU2gYIqv"
-        },
-        {
-          "name": "Liliana Richter",
-          "url": "https://open.spotify.com/artist/7BaNCwzekjzjD4aRrysKms"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Newbury",
-      "url": "https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Shake It Up",
-        "url": "https://open.spotify.com/album/2uda262NCN5VZeMQVjtaox"
-      },
-      "artists": [
-        {
-          "name": "Mitch Grainger",
-          "url": "https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G"
-        }
-      ],
-      "duration_ms": 241722,
-      "name": "Shake It Up - Acoustic",
-      "url": "https://open.spotify.com/track/01lLPrIDxsRdPpx0jpkS4S"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Whole Lotta Blues: Songs Of Led Zeppelin",
         "url": "https://open.spotify.com/album/5QLrtYMED7v2em3rl8wKFZ"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 139146,
       "name": "When The Levee Breaks (Part One)",
       "url": "https://open.spotify.com/track/0kQuE7df1Dhji3XvekSCet"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Shake It Up",
+        "url": "https://open.spotify.com/album/2uda262NCN5VZeMQVjtaox"
+      },
+      "artists": [
+        {
+          "name": "Mitch Grainger",
+          "url": "https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G"
+        }
+      ],
+      "duration_ms": 241722,
+      "name": "Shake It Up - Acoustic",
+      "url": "https://open.spotify.com/track/01lLPrIDxsRdPpx0jpkS4S"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Forever On My Mind",
-        "url": "https://open.spotify.com/album/4wZsN1DR2EUgMwDW5IEf4a"
-      },
-      "artists": [
-        {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
-        }
-      ],
-      "duration_ms": 336280,
-      "name": "Forever On My Mind",
-      "url": "https://open.spotify.com/track/7HOXfx0rEgpQFufREOKFvD"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Turn Me Loose",
         "url": "https://open.spotify.com/album/7qYPsrVyyy12xAcSfqPPz0"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 176980,
       "name": "Praying for Daylight",
       "url": "https://open.spotify.com/track/44g9peXGLkmhN61xdpPhkt"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Forever On My Mind",
+        "url": "https://open.spotify.com/album/4wZsN1DR2EUgMwDW5IEf4a"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 336280,
+      "name": "Forever On My Mind",
+      "url": "https://open.spotify.com/track/7HOXfx0rEgpQFufREOKFvD"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1919,18 +1919,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Mississippi",
-        "url": "https://open.spotify.com/album/6eZrs4qARcRDdJf1I0ZUwC"
+        "name": "The Country Blues Of John Lee Hooker",
+        "url": "https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt"
       },
       "artists": [
         {
-          "name": "Mitch Grainger",
-          "url": "https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 220500,
-      "name": "Mississippi - Acoustic",
-      "url": "https://open.spotify.com/track/6K9sjEFkoH0bSiaAk8WrCY"
+      "duration_ms": 167400,
+      "name": "She's Long, She's Tall, She Weeps Like A Willow Tree",
+      "url": "https://open.spotify.com/track/22DUP4yldr66HQPT3n0utz"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -1971,18 +1971,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "The Country Blues Of John Lee Hooker",
-        "url": "https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt"
+        "name": "Mississippi",
+        "url": "https://open.spotify.com/album/6eZrs4qARcRDdJf1I0ZUwC"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+          "name": "Mitch Grainger",
+          "url": "https://open.spotify.com/artist/20YnCe7GdPL4jRwAT2B73G"
         }
       ],
-      "duration_ms": 167400,
-      "name": "She's Long, She's Tall, She Weeps Like A Willow Tree",
-      "url": "https://open.spotify.com/track/22DUP4yldr66HQPT3n0utz"
+      "duration_ms": 220500,
+      "name": "Mississippi - Acoustic",
+      "url": "https://open.spotify.com/track/6K9sjEFkoH0bSiaAk8WrCY"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Folk Songs for Old Times' Sake",
-        "url": "https://open.spotify.com/album/1aer0tW0fu6Zv2XPpDQWBv"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Edward Williams",
-          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "Railroad Bill",
-      "url": "https://open.spotify.com/track/3mxfxxfDxftkdvZIpLKtHk"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Isolation Blues",
         "url": "https://open.spotify.com/album/3aPnXFSkP9NVggOjdsH9Ho"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 181120,
       "name": "God Moves on the Water",
       "url": "https://open.spotify.com/track/4lLBd2YSJddTlpx67egIgQ"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "Folk Songs for Old Times' Sake",
+        "url": "https://open.spotify.com/album/1aer0tW0fu6Zv2XPpDQWBv"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Edward Williams",
+          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
+        }
+      ],
+      "duration_ms": 145533,
+      "name": "Railroad Bill",
+      "url": "https://open.spotify.com/track/3mxfxxfDxftkdvZIpLKtHk"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Shake and Bake",
-        "url": "https://open.spotify.com/album/6BVD4ZapJOmzCND0XJfkOG"
-      },
-      "artists": [
-        {
-          "name": "Kerri Powers",
-          "url": "https://open.spotify.com/artist/6OET1llczQiGh2bEvxMm5c"
-        }
-      ],
-      "duration_ms": 241529,
-      "name": "Shake and Bake",
-      "url": "https://open.spotify.com/track/5pcrKXHNn0Yd20cpI5dgha"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
         "name": "Be Cool",
         "url": "https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27"
       },
@@ -2259,18 +2243,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+        "name": "Shake and Bake",
+        "url": "https://open.spotify.com/album/6BVD4ZapJOmzCND0XJfkOG"
       },
       "artists": [
         {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+          "name": "Kerri Powers",
+          "url": "https://open.spotify.com/artist/6OET1llczQiGh2bEvxMm5c"
         }
       ],
-      "duration_ms": 232133,
-      "name": "Everyday I Have the Blues",
-      "url": "https://open.spotify.com/track/5Qizcr47Esrf54Pu1eF30E"
+      "duration_ms": 241529,
+      "name": "Shake and Bake",
+      "url": "https://open.spotify.com/track/5pcrKXHNn0Yd20cpI5dgha"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2287,6 +2271,22 @@
       "duration_ms": 197237,
       "name": "Meet Me In The City",
       "url": "https://open.spotify.com/track/0wZjNvRyk3gSOfWhndf5Lw"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Everyday I Have the Blues",
+      "url": "https://open.spotify.com/track/5Qizcr47Esrf54Pu1eF30E"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
+        "name": "Mashing Rain",
+        "url": "https://open.spotify.com/album/3x9VyS2BCTAWtW71X2Yhbu"
+      },
+      "artists": [
+        {
+          "name": "Honky Fish",
+          "url": "https://open.spotify.com/artist/0Cnqt7ZhpE7wDK5hJzbU96"
+        }
+      ],
+      "duration_ms": 134333,
+      "name": "Mashing Rain",
+      "url": "https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI"
+    },
+    {
+      "added_at": "2023-09-15 11:42:41",
+      "album": {
         "name": "Traveling Medicine Man",
         "url": "https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l"
       },
@@ -2391,18 +2407,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Mashing Rain",
-        "url": "https://open.spotify.com/album/3x9VyS2BCTAWtW71X2Yhbu"
+        "name": "Agnes Water Blues",
+        "url": "https://open.spotify.com/album/54JCp9ubDGQMF6LBIt3yAd"
       },
       "artists": [
         {
-          "name": "Honky Fish",
-          "url": "https://open.spotify.com/artist/0Cnqt7ZhpE7wDK5hJzbU96"
+          "name": "Maynard Heap",
+          "url": "https://open.spotify.com/artist/1nmAtilssSpG1QoyPUb3f9"
         }
       ],
-      "duration_ms": 134333,
-      "name": "Mashing Rain",
-      "url": "https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI"
+      "duration_ms": 236655,
+      "name": "Agnes Water Blues",
+      "url": "https://open.spotify.com/track/3KHch8x9xtStE9pbw0Bvni"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2443,18 +2459,18 @@
     {
       "added_at": "2023-09-15 11:42:41",
       "album": {
-        "name": "Agnes Water Blues",
-        "url": "https://open.spotify.com/album/54JCp9ubDGQMF6LBIt3yAd"
+        "name": "Jalopy Records 7\" Series: Jerron Paxton",
+        "url": "https://open.spotify.com/album/50LQ4ShQydsjdlZq46tEUT"
       },
       "artists": [
         {
-          "name": "Maynard Heap",
-          "url": "https://open.spotify.com/artist/1nmAtilssSpG1QoyPUb3f9"
+          "name": "Blind Boy Paxton",
+          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
         }
       ],
-      "duration_ms": 236655,
-      "name": "Agnes Water Blues",
-      "url": "https://open.spotify.com/track/3KHch8x9xtStE9pbw0Bvni"
+      "duration_ms": 144763,
+      "name": "Painting the Clouds with Sunshine",
+      "url": "https://open.spotify.com/track/3iJ7zN5gMrIoL5Q3oVpe5g"
     },
     {
       "added_at": "2023-09-15 11:42:41",
@@ -2471,22 +2487,6 @@
       "duration_ms": 322437,
       "name": "Good to You Blues",
       "url": "https://open.spotify.com/track/671nwzfH2ruB5CRyhNaeiw"
-    },
-    {
-      "added_at": "2023-09-15 11:42:41",
-      "album": {
-        "name": "Jalopy Records 7\" Series: Jerron Paxton",
-        "url": "https://open.spotify.com/album/50LQ4ShQydsjdlZq46tEUT"
-      },
-      "artists": [
-        {
-          "name": "Blind Boy Paxton",
-          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
-        }
-      ],
-      "duration_ms": 144763,
-      "name": "Painting the Clouds with Sunshine",
-      "url": "https://open.spotify.com/track/3iJ7zN5gMrIoL5Q3oVpe5g"
     },
     {
       "added_at": "2023-09-15 11:42:41",

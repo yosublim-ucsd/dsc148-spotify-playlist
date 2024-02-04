@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 451695,
+  "2024-02-04": 452672,
   "date_first_scraped": "2022-12-29",
   "description": "The biggest dance floor bangers of the 2000s.",
   "name": "Dance Hits 2000s",
@@ -129,7 +129,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 440266,
       "name": "Becoming Insane",
       "url": "https://open.spotify.com/track/1Nukcy7xk7AbS7MtkaiOe3"
@@ -1203,6 +1203,28 @@
     {
       "album": {
         "name": "Love Generation (Radio Edit)",
+        "url": "https://open.spotify.com/album/65crznT6OSNgS5riyglAKu"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Gary Pine",
+          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204105,
+      "name": "Love Generation - Radio Edit",
+      "url": "https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF"
+    },
+    {
+      "album": {
+        "name": "Love Generation (Radio Edit)",
         "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
       },
       "artists": [
@@ -1279,7 +1301,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 445390,
       "name": "Moan - Trentem\u00f8ller Remix",
       "url": "https://open.spotify.com/track/7a4BMX5kI8P2CqXZrwoyrC"
@@ -1637,6 +1659,40 @@
       "duration_ms": 145764,
       "name": "Riverside - Radio Mix",
       "url": "https://open.spotify.com/track/3YwOh5FSxwhRnvO1yGduEi"
+    },
+    {
+      "album": {
+        "name": "Rock This Party (Everybody Dance Now)",
+        "url": "https://open.spotify.com/album/57mlkm7WBwmoT0DZ6EDYpH"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Cutee B.",
+          "url": "https://open.spotify.com/artist/5PTDGbHPxxXf81RrubpIOO"
+        },
+        {
+          "name": "DollarMan",
+          "url": "https://open.spotify.com/artist/0TsTesOYlZmHOLnFPLPKLZ"
+        },
+        {
+          "name": "Big Ali",
+          "url": "https://open.spotify.com/artist/4LqXqd68BBoEk9RDYeS0ls"
+        },
+        {
+          "name": "Makedah",
+          "url": "https://open.spotify.com/artist/0f5cjky3a6ee9e0WicpzhW"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245466,
+      "name": "Rock This Party (Everybody Dance Now)",
+      "url": "https://open.spotify.com/track/5qiIxojpo8YTFgOOcDuOaB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡La playlist con las tres B's! Bellakath, Belinda y The Blessed Madonna 💅 La Licenciada del Perreo en Portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,082 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,191 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 30 | [De a poco](https://open.spotify.com/track/5n89KAstAaCpx1KLh8ioFL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [De a poco](https://open.spotify.com/album/0q7wEGw99hj9dbGe3LLCIQ) | 2:58 |
 | 31 | [Botellas](https://open.spotify.com/track/46dlt0HuKR9LR0FdRouvll) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Botellas](https://open.spotify.com/album/3SKmGzOOnHEVVk0Z9sX8W8) | 3:42 |
 | 32 | [Mi Primer Amor](https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Mi Primer Amor](https://open.spotify.com/album/53YxUPkUs8V8w9DQcC8GMF) | 3:01 |
-| 33 | [El Que Resuelve](https://open.spotify.com/track/56Br9FPB36z1qf8gnu2Zib) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [El Gudi](https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB) | [El Que Resuelve](https://open.spotify.com/album/1PMRGdRKgG9nRwlX8XfasE) | 2:50 |
+| 33 | [El Que Resuelve](https://open.spotify.com/track/56Br9FPB36z1qf8gnu2Zib) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [El Gudi](https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB) | [El Que Resuelve](https://open.spotify.com/album/1PMRGdRKgG9nRwlX8XfasE) | 3:08 |
 | 34 | [Despierta y Mata](https://open.spotify.com/track/4UVSywSk2DYi6gHWU9OoZV) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Par De Quina](https://open.spotify.com/album/36dIYKnpAFMPUr6pBm8rob) | 2:33 |
 | 35 | [Tuyo](https://open.spotify.com/track/3X0lef4eZlP1u8v2oEq4Qi) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Tuyo](https://open.spotify.com/album/1Sv7uosU6z24BvsEm5AG7g) | 3:18 |
 | 36 | [Under Your Wings](https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Me Lo Busqué](https://open.spotify.com/track/1uDocPbWtfTqHNUlpYzFIb) | [Dany Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS) | [Me Lo Busqué](https://open.spotify.com/album/2AmKHpdFhHgROYj9Iq8ZxW) | 2:58 |
 | 50 | [DUCATI](https://open.spotify.com/track/1u0OLzzryuk3A80sQVhevv) | [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2) | [DUCATI](https://open.spotify.com/album/4jpRKdLZe85C7kL2wJZaf3) | 2:36 |
 
-Snapshot ID: `MCw5YjRkZjNmMzY0YjA2YzNkNDhkMjU2M2RjNzk2MTdlYmI4OGRlYjlm`
+Snapshot ID: `MCw0NThiZTQwNzlhZDBhNDEyMWQ3MDgzNzA5NTI5OWU2NzRhY2E3YzVh`

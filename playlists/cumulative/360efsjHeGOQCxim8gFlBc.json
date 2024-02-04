@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 140000,
       "name": "Brush Strokes",
       "url": "https://open.spotify.com/track/3jFs0PPLJO7FRwapViFdxo"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 172000,
       "name": "Cie\u0144",
       "url": "https://open.spotify.com/track/6VG0ittu1KfLn8FofKd227"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 115200,
       "name": "Dragonspine Ice Crystal (Piano)",
       "url": "https://open.spotify.com/track/40PDgSac63TceR2qfg4Lu7"
@@ -1336,6 +1336,24 @@
       "duration_ms": 97125,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/58kHAfcUFSZ0Pp3jATXdqh"
+    },
+    {
+      "album": {
+        "name": "ethereal",
+        "url": "https://open.spotify.com/album/6jEntWpDnbAaGra2LG4Gsm"
+      },
+      "artists": [
+        {
+          "name": "laurel green",
+          "url": "https://open.spotify.com/artist/0D4IT1f1VhnbLSluIogLkk"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130832,
+      "name": "ethereal",
+      "url": "https://open.spotify.com/track/5SRgjrPdfePZJweDXbe6RR"
     },
     {
       "album": {
@@ -1504,6 +1522,28 @@
       "duration_ms": 103864,
       "name": "Floating Away",
       "url": "https://open.spotify.com/track/7GSyagbj0E9OI6mJDAPPDO"
+    },
+    {
+      "album": {
+        "name": "Forget-Me-Not",
+        "url": "https://open.spotify.com/album/4CZcwkCF1e2yG8cvZ34oMW"
+      },
+      "artists": [
+        {
+          "name": "Naekun Naekan",
+          "url": "https://open.spotify.com/artist/1aV4QGGSXCmQJxTcV3g0DX"
+        },
+        {
+          "name": "Saki.",
+          "url": "https://open.spotify.com/artist/7qWv4b0xOHAuGnCdrq80rC"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156732,
+      "name": "Flora Memoir",
+      "url": "https://open.spotify.com/track/2tBTKkyiM4bNH0pWMxf8Go"
     },
     {
       "album": {
@@ -1747,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "galaxy",
+        "url": "https://open.spotify.com/album/2DEt3nbJUkxY0gaMt6msSf"
+      },
+      "artists": [
+        {
+          "name": "Melodique",
+          "url": "https://open.spotify.com/artist/0upqSGuW20Xp5lBpKbc34n"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92999,
+      "name": "galaxy",
+      "url": "https://open.spotify.com/track/7pMVdZFOOZ3RtuQuT3JHuY"
+    },
+    {
+      "album": {
         "name": "gentle",
         "url": "https://open.spotify.com/album/6JA3chXmV8FvSBvM34ervY"
       },
@@ -1969,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "Her Blue Eyes",
+        "url": "https://open.spotify.com/album/5Nx6GD4bBYEhtkqvsEDdRd"
+      },
+      "artists": [
+        {
+          "name": "Helder Boutens",
+          "url": "https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126621,
+      "name": "Her Blue Eyes",
+      "url": "https://open.spotify.com/track/4K8DM0umPafXsYOnQTYWAw"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2HrbVGg6S8khRN1Uwyj9OI"
       },
@@ -2104,6 +2180,24 @@
       "duration_ms": 65632,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/0m3g26QiIPYtGjmHI827s6"
+    },
+    {
+      "album": {
+        "name": "I fell in love",
+        "url": "https://open.spotify.com/album/3Cwx1bEmTsduosX12zS5Vq"
+      },
+      "artists": [
+        {
+          "name": "dvw logic",
+          "url": "https://open.spotify.com/artist/54tlInME01xeaPj66tZkre"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "I fell in love",
+      "url": "https://open.spotify.com/track/0zV2joUovnWPbnUC2pLU2T"
     },
     {
       "album": {
@@ -3685,6 +3779,46 @@
     },
     {
       "album": {
+        "name": "Recollection",
+        "url": "https://open.spotify.com/album/1NgdKBwZDslKQxY6fzvDHb"
+      },
+      "artists": [
+        {
+          "name": "Naekun Naekan",
+          "url": "https://open.spotify.com/artist/1aV4QGGSXCmQJxTcV3g0DX"
+        },
+        {
+          "name": "Saki.",
+          "url": "https://open.spotify.com/artist/7qWv4b0xOHAuGnCdrq80rC"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165436,
+      "name": "Recollection",
+      "url": "https://open.spotify.com/track/0qIAvPpdiaTXkNoW797lz4"
+    },
+    {
+      "album": {
+        "name": "Redwoods",
+        "url": "https://open.spotify.com/album/1h1kHa99naYLXKQffIVtCi"
+      },
+      "artists": [
+        {
+          "name": "Josh Jacobson",
+          "url": "https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120561,
+      "name": "Redwoods",
+      "url": "https://open.spotify.com/track/1aG1d3YgeXnjBnZx6SFBwg"
+    },
+    {
+      "album": {
         "name": "Genshin Impact Relaxing Beside Bed Collection",
         "url": "https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3"
       },
@@ -4053,6 +4187,24 @@
     },
     {
       "album": {
+        "name": "Soft Launch",
+        "url": "https://open.spotify.com/album/0RQxvPS191T60TVJVzUZQe"
+      },
+      "artists": [
+        {
+          "name": "crycry",
+          "url": "https://open.spotify.com/artist/6iQciJJNdypNafonRdUQ4x"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133867,
+      "name": "Soft Launch",
+      "url": "https://open.spotify.com/track/5uTSZWLeWAZWn1et9JuPSF"
+    },
+    {
+      "album": {
         "name": "Solas",
         "url": "https://open.spotify.com/album/2XZXXXuThQ8JwPjoTcGIkF"
       },
@@ -4288,6 +4440,24 @@
       "duration_ms": 97621,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/12BhGc66xd134OiVIvwHVy"
+    },
+    {
+      "album": {
+        "name": "Steady Growth [Beat Tape 2]",
+        "url": "https://open.spotify.com/album/1XNXmxCRud8PxPNS6e6J8t"
+      },
+      "artists": [
+        {
+          "name": "Big Vezy",
+          "url": "https://open.spotify.com/artist/0SaNQuStc7DacNTN9WHpsJ"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Steady Growth",
+      "url": "https://open.spotify.com/track/4uI6IbADgCBBcVlGQQNJgs"
     },
     {
       "album": {
@@ -4937,6 +5107,24 @@
     },
     {
       "album": {
+        "name": "warm",
+        "url": "https://open.spotify.com/album/1PNkM2b0KGy6rh1XBmXbtP"
+      },
+      "artists": [
+        {
+          "name": "Sonyakisa",
+          "url": "https://open.spotify.com/artist/728hgfnSJp9RITrCa8Se51"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92727,
+      "name": "warm",
+      "url": "https://open.spotify.com/track/6dfxPQYJcE5h2IEQOu3zQs"
+    },
+    {
+      "album": {
         "name": "Warmth",
         "url": "https://open.spotify.com/album/3nSu4UnCngz855S6Au2nNJ"
       },
@@ -5051,6 +5239,24 @@
     },
     {
       "album": {
+        "name": "When We Met",
+        "url": "https://open.spotify.com/album/2eGK9PCQPH0nBo77yGkRdX"
+      },
+      "artists": [
+        {
+          "name": "Neil Tatar",
+          "url": "https://open.spotify.com/artist/2mOlDl6Cor1vtv5FKeaTaf"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268093,
+      "name": "When We Met",
+      "url": "https://open.spotify.com/track/5C59k8XGBGMhTrUNvnY8yg"
+    },
+    {
+      "album": {
         "name": "Whenever We Speak",
         "url": "https://open.spotify.com/album/21dwQheJ9HzsOrfpYfai8m"
       },
@@ -5069,6 +5275,24 @@
     },
     {
       "album": {
+        "name": "Where It All Began",
+        "url": "https://open.spotify.com/album/5cZYWw6XoJmRVIDK7nKZMG"
+      },
+      "artists": [
+        {
+          "name": "Yanson",
+          "url": "https://open.spotify.com/artist/3T4foO5qUmQtPlgcgRUBn0"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111500,
+      "name": "Where It All Began",
+      "url": "https://open.spotify.com/track/0zTAsyfrkBW1tzu61LvEi4"
+    },
+    {
+      "album": {
         "name": "Where The Path Ended",
         "url": "https://open.spotify.com/album/1JlDOlxIu0XTTb2jtIwoNi"
       },
@@ -5084,6 +5308,24 @@
       "duration_ms": 118227,
       "name": "Where The Path Ended",
       "url": "https://open.spotify.com/track/7cafgrlVL3ECw0rIeTqFSd"
+    },
+    {
+      "album": {
+        "name": "whisker whispers",
+        "url": "https://open.spotify.com/album/6N3OnowmPYF9raQ2H2NUjD"
+      },
+      "artists": [
+        {
+          "name": "Sonyakisa",
+          "url": "https://open.spotify.com/artist/728hgfnSJp9RITrCa8Se51"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153116,
+      "name": "whisker whispers",
+      "url": "https://open.spotify.com/track/2swRwSNhVpAMRySKDme7H3"
     },
     {
       "album": {

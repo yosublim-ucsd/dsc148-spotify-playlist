@@ -4,7 +4,7 @@
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Mica Sotera
 
-125 songs - 7 hr 29 min
+126 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Hay Momentos \- Acústico](https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Hay Momentos \(Acústico\)](https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG) | 4:39 | 2023-11-10 |  |
 | [Heridas \- Acoustic Version](https://open.spotify.com/track/2hqgGbTxWK7fToF9QELlgD) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Heridas \(Acoustic Version\)](https://open.spotify.com/album/7FKndOez6kYh87LWvgdB4p) | 3:16 | 2023-09-29 | 2023-12-23 |
 | [INTENSIDAD](https://open.spotify.com/track/3Uxv4vwiTiVFq53vJGtVzJ) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [INTENSIDAD](https://open.spotify.com/album/1YF0w8x0aPfLp8kdWhIhI5) | 2:38 | 2023-08-18 |  |
-| [Irresponsables \- En Vivo](https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Repuesto de Fe \(En Vivo\)](https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc) | 2:44 | 2023-11-10 |  |
+| [Irresponsables \- En Vivo](https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Repuesto de Fe \(En Vivo\)](https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc) | 2:44 | 2023-11-10 | 2024-02-04 |
 | [La Danza del Espacio Tiempo](https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Danza del Espacio Tiempo](https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b) | 2:08 | 2023-08-18 |  |
 | [La Flor Azul](https://open.spotify.com/track/0BRtjY6BHMic4e901yeGil) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Amapola del 66](https://open.spotify.com/album/6folUtOTlV2d6FiczqCGYs) | 2:40 | 2023-08-18 |  |
 | [La Pibita](https://open.spotify.com/track/5y1fGA0357uOjtoN3iPsnF) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Guandanara](https://open.spotify.com/album/48mgLSOZ2CI3E6FdHg1vWQ) | 4:22 | 2023-08-18 |  |
@@ -76,6 +76,7 @@
 | [Los Caminos de la Vida](https://open.spotify.com/track/1crk0MXXyFQ1zVow6YTJOo) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Los Rayos](https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF) | 3:59 | 2023-08-18 |  |
 | [Mal Marzo](https://open.spotify.com/track/766ijuYNzQTsmaaUonOvM4) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [Pulsión](https://open.spotify.com/album/19atAigwiE58wvFBfoqmQ2) | 2:25 | 2023-08-18 | 2023-10-27 |
 | [María](https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:49 | 2023-08-18 |  |
+| [Me Estás Tratando Mal \- Acústico Gran Rex Vol\. 2](https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Me Estás Tratando Mal \(Acústico Gran Rex Vol\. 2\)](https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM) | 4:26 | 2024-02-02 |  |
 | [Me Gusta \(Acústico\)](https://open.spotify.com/track/1Cv81Tk7LCeTgZgQPwKxUe) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 4:24 | 2023-10-26 |  |
 | [Mensajes en el Mar](https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre) | 4:07 | 2023-08-18 |  |
 | [Mira Garúa \- Version Acústica](https://open.spotify.com/track/2q3KfJdYpjAcfA70crkfyF) | [Rocio Igarzabal](https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ) | [Que Me Hablen De Amor \(Edición De Lujo\)](https://open.spotify.com/album/2bYJQ6F8uQI0O0nFzBv3F9) | 3:47 | 2023-09-29 | 2023-10-27 |

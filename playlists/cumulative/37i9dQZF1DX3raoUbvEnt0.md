@@ -4,7 +4,7 @@
 
 > Music from "GOLDEN KAMUY"! /アニメ「ゴールデンカムイ」の楽曲を1つのプレイリストで。
 
-83 songs - 4 hr 24 min
+84 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Kakeru](https://open.spotify.com/track/1F85Wv1l5vVdWZEIJCb05B) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY Original Soundtrack](https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv) | 2:41 | 2023-12-28 |  |
 | [Kamuimosiri](https://open.spotify.com/track/6xojnW6ogKmo3NElC8nZaP) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY Original Soundtrack](https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv) | 2:24 | 2023-12-28 |  |
 | [Karafuto e](https://open.spotify.com/track/3B4dGp0vE44rB06olaPfBT) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY Original Soundtrack](https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv) | 2:41 | 2023-12-28 |  |
+| [Karafuto no Tabi](https://open.spotify.com/track/548YmLJmqjPba4GghGSBSG) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY ORIGINAL SOUNDTRACK \(II\)](https://open.spotify.com/album/6ARXIlpx54lRWmBrLPYrEP) | 2:50 | 2023-12-28 |  |
 | [Kemono to Kemono](https://open.spotify.com/track/0onLBR75P4nsmpkfe85ND8) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY Original Soundtrack](https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv) | 2:23 | 2023-12-28 |  |
 | [Koou](https://open.spotify.com/track/26tM5PYrsgu1dplKfQl3TY) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY Original Soundtrack](https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv) | 4:48 | 2023-12-28 |  |
 | [Koroshino Nioi](https://open.spotify.com/track/76vnbiygCUeFNj3cDqwePC) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [GOLDEN KAMUY Original Soundtrack](https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv) | 2:21 | 2023-12-28 |  |
@@ -71,7 +72,7 @@
 | [新月の夜に](https://open.spotify.com/track/6uyKHr77uBJnOeNJZELpzy) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 3:32 | 2022-10-04 | 2024-02-02 |
 | [旅の幕開け](https://open.spotify.com/track/2TJEk9uBkJQHN81OuRPaiK) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 3:43 | 2022-10-04 | 2024-02-02 |
 | [時計台の鐘](https://open.spotify.com/track/4fJC5DUwH9xy8ofjFPXuUJ) | [eastern youth](https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH) | [時計台の鐘](https://open.spotify.com/album/3NjtYF9lvn0lR5JTP9CcfU) | 4:13 | 2023-01-17 | 2024-02-02 |
-| [樺太の旅](https://open.spotify.com/track/7HvxmQvMoI6wtnTuWNcLJX) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラックⅡ](https://open.spotify.com/album/47l4joWRRiUK9z9R8t3aLK) | 2:50 | 2023-12-28 |  |
+| [樺太の旅](https://open.spotify.com/track/7HvxmQvMoI6wtnTuWNcLJX) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラックⅡ](https://open.spotify.com/album/47l4joWRRiUK9z9R8t3aLK) | 2:50 | 2023-12-28 | 2024-02-04 |
 | [樺太へ](https://open.spotify.com/track/6RnOeDXEDBypAJLU9X1Agk) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:41 | 2022-10-04 | 2024-02-02 |
 | [殺しの匂い](https://open.spotify.com/track/43sqLLmiiulez3cMoNZrY2) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:21 | 2022-10-04 | 2024-02-03 |
 | [無い物ねだり](https://open.spotify.com/track/06HDuFiRR1FerMuhqKR56U) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 3:37 | 2022-10-04 | 2024-02-02 |

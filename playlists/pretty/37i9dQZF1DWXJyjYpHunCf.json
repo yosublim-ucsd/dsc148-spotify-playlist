@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Henrik",
-  "num_followers": 888570,
+  "num_followers": 888766,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWEwYWZmMjA2YjJkZDNkZDkyOWE0MTVjNmQzNTk5YTkyYTFjYWE2",
+  "snapshot_id": "MCxiOThkODkwNTg4ZDg0ZjdhNTU1NzMzMzY2ZGRkZTk2MDA2YTE2Nzhm",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -453,6 +453,22 @@
       "url": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
     },
     {
+      "added_at": "2023-12-27 16:57:47",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/5hJtcqGwi9lmFElCqPRnlS"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 164227,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/7hVZJGsh5fxFtwaqgJq1nf"
+    },
+    {
       "added_at": "2023-12-15 05:00:00",
       "album": {
         "name": "Songs to Break Up To",
@@ -483,22 +499,6 @@
       "duration_ms": 274870,
       "name": "Dead Man",
       "url": "https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH"
-    },
-    {
-      "added_at": "2023-12-27 16:57:47",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/5hJtcqGwi9lmFElCqPRnlS"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 164227,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/7hVZJGsh5fxFtwaqgJq1nf"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Miserable Man",
-        "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 232991,
-      "name": "Miserable Man",
-      "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Sonder (2023)",
         "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 198221,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Miserable Man",
+        "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 232991,
+      "name": "Miserable Man",
+      "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -763,22 +763,6 @@
       "duration_ms": 177880,
       "name": "Evangeline",
       "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 272733,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -981,22 +965,6 @@
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 179173,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
-    },
-    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "How Much Longer?",
@@ -1011,6 +979,22 @@
       "duration_ms": 243798,
       "name": "How Much Longer?",
       "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 179173,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 185583,
+      "name": "My Repair",
+      "url": "https://open.spotify.com/track/4dxzf0bWuBb0AYs25VNL3y"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "We\u2019re All Gonna Die",
         "url": "https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 179202,
       "name": "We\u2019re All Gonna Die (with Noah Kahan)",
       "url": "https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 185583,
-      "name": "My Repair",
-      "url": "https://open.spotify.com/track/4dxzf0bWuBb0AYs25VNL3y"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
+      },
+      "artists": [
+        {
+          "name": "Family and Friends",
+          "url": "https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe"
+        }
+      ],
+      "duration_ms": 207519,
+      "name": "Amadeus",
+      "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/4DiQ4IeyIWXdexDkikRTRJ"
       },
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx"
       },
       "artists": [
         {
-          "name": "Family and Friends",
-          "url": "https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe"
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
         }
       ],
-      "duration_ms": 207519,
-      "name": "Amadeus",
-      "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
+      "duration_ms": 158568,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1251,22 +1251,6 @@
       "duration_ms": 231724,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 158568,
-      "name": "dopamine",
-      "url": "https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1335,22 +1319,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Mom & Dad",
-        "url": "https://open.spotify.com/album/0VfH1xz9pcm8RkjXN0INmn"
-      },
-      "artists": [
-        {
-          "name": "Darren Kiely",
-          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
-        }
-      ],
-      "duration_ms": 203683,
-      "name": "Mom & Dad",
-      "url": "https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Yard Sale",
         "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
       },
@@ -1363,6 +1331,22 @@
       "duration_ms": 223240,
       "name": "Misnomer",
       "url": "https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Mom & Dad",
+        "url": "https://open.spotify.com/album/0VfH1xz9pcm8RkjXN0INmn"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "duration_ms": 203683,
+      "name": "Mom & Dad",
+      "url": "https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1503,22 +1487,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2q2sRqH8kcKVf1bFsqvx7w"
-      },
-      "artists": [
-        {
-          "name": "Darren Kiely",
-          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
-        }
-      ],
-      "duration_ms": 179731,
-      "name": "Blood Red",
-      "url": "https://open.spotify.com/track/3tJ3FGEU3wKpE8cNDiu060"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Pretty Picture, Dirty Brush",
         "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
       },
@@ -1535,6 +1503,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2q2sRqH8kcKVf1bFsqvx7w"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "duration_ms": 179731,
+      "name": "Blood Red",
+      "url": "https://open.spotify.com/track/3tJ3FGEU3wKpE8cNDiu060"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Worry No More",
         "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 221066,
       "name": "Worry No More",
       "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 136378,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 136378,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Heart In The Water",
         "url": "https://open.spotify.com/album/5Uie78uNFG2u2VTVBA8ckG"
       },
@@ -1663,6 +1647,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "same old eyes",
         "url": "https://open.spotify.com/album/037rgatHuGpK38geQio3H0"
       },
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "december",
-        "url": "https://open.spotify.com/album/6x3R8vqlTxaT4bMkSaw8mh"
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT"
       },
       "artists": [
         {
-          "name": "asiris",
-          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
         }
       ],
-      "duration_ms": 192631,
-      "name": "december",
-      "url": "https://open.spotify.com/track/4i8pYDNVzAs8lyblY7rM3i"
+      "duration_ms": 176321,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq"
     }
   ],
   "unique_name": "Folk Pop",

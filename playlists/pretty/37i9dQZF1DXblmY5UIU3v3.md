@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,780 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,162 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 11 | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio) | 2:54 |
 | 12 | [Get Low](https://open.spotify.com/track/6o2FQGObDH7kCpYlvJH2ai) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o) | [Get Low](https://open.spotify.com/album/7vjky38QfkVvkXF1ueWyZT) | 3:41 |
 | 13 | [Just A Lil Bit](https://open.spotify.com/track/6Wwi5V7VAR9KOo8c9gksh1) | [Murdbrain](https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn), [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv), [Flyn Stoned](https://open.spotify.com/artist/0O7upj4KBKaTdQJ6WM0m9k) | [Just A Lil Bit](https://open.spotify.com/album/4XjtQUIBZEkOiGLXbUwEoe) | 2:08 |
-| 14 | [The Motto](https://open.spotify.com/track/5r6axyEqpdxog8T8u6gm5D) | [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd), [Newroad](https://open.spotify.com/artist/7fMVmvW8MFpSAeJBHAbyf9), [DVNAIR](https://open.spotify.com/artist/61A7lqEfBx8ghvKGtzWqWU), [Snoblack](https://open.spotify.com/artist/03ED5pKDk5KVVlCEtxH2bX) | [The Motto](https://open.spotify.com/album/4HoTfH5ggbjjTSH8rP7eHQ) | 2:54 |
-| 15 | [Enemy](https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Enemy](https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF) | 3:31 |
+| 14 | [Enemy](https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Enemy](https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF) | 3:31 |
+| 15 | [The Motto](https://open.spotify.com/track/5r6axyEqpdxog8T8u6gm5D) | [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd), [Newroad](https://open.spotify.com/artist/7fMVmvW8MFpSAeJBHAbyf9), [DVNAIR](https://open.spotify.com/artist/61A7lqEfBx8ghvKGtzWqWU), [Snoblack](https://open.spotify.com/artist/03ED5pKDk5KVVlCEtxH2bX) | [The Motto](https://open.spotify.com/album/4HoTfH5ggbjjTSH8rP7eHQ) | 2:54 |
 | 16 | [JEEP](https://open.spotify.com/track/2gUGnkgQaNTpfo2d5hZNPT) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [JEEP](https://open.spotify.com/album/0bKFhX2Ybcf4PMtArNZa5c) | 2:11 |
 | 17 | [Magic Violin](https://open.spotify.com/track/1VlHp8KvN31LdtDC9orfyV) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7) | [Magic Violin](https://open.spotify.com/album/6oRdtpTdhRpyAZQlQGNCMB) | 2:16 |
 | 18 | [Hey Mama](https://open.spotify.com/track/2bYKTzh5TZ8iFRinHIz5vO) | [Mosees](https://open.spotify.com/artist/1Bff29cYcg0JkyYiyhFguD), [Ozlig](https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L), [NVSV](https://open.spotify.com/artist/1ZoBPI6LQ3gSXuU2BRPyUD), [Ely May](https://open.spotify.com/artist/4bGLLUNFXUnAbfnvpUnXHg) | [Hey Mama](https://open.spotify.com/album/2VW6poqvjOWN1LOFAQcphV) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 49 | [Ethnic](https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [Ethnic](https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj) | 3:37 |
 | 50 | [Night Tales](https://open.spotify.com/track/2Xc6xRbyiBpVCgShumtXpV) | [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM), [WONGA](https://open.spotify.com/artist/4xq4vuvsEgo8UzaAn8HlIY) | [Night Tales](https://open.spotify.com/album/0ByvoTP8BJwZG3P09gaKMO) | 2:34 |
 
-Snapshot ID: `MCwxOWVkZDdlZWJhODVkMmYyOTNjNTBhY2U0Zjg2NWJmMjEyZmI1ZDg5`
+Snapshot ID: `MCxmMmVhZjY4ODM2YzU1MDY2YTgwZTE2N2MxY2EzMDUzZmMyZTE4YzRk`

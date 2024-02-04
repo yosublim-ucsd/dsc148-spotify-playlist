@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rawayana, Mr Eazi & Micro TDH",
-  "num_followers": 114593,
+  "num_followers": 114586,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjBkMmQzMDUwNGFlZmNjMmZhYmY2M2JkMjEyYTU2NTQ0NWI4YTE4",
+  "snapshot_id": "MCw1NjA1YWM5YjU1ZjBhZWViOTk1ZjUyNGRiM2ZmMWI2ZWU5MTNjZDQ0",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Parcerita",
+        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
+      },
+      "artists": [
+        {
+          "name": "Dahili",
+          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
+        }
+      ],
+      "duration_ms": 166950,
+      "name": "Parcerita",
+      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Guava Rose",
         "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 192108,
       "name": "Guava Rose",
       "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Parcerita",
-        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
-      },
-      "artists": [
-        {
-          "name": "Dahili",
-          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "Parcerita",
-      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Toko Challenge",
+        "url": "https://open.spotify.com/album/6mupZJ1WPJMhR2BPJo0kRN"
+      },
+      "artists": [
+        {
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+        },
+        {
+          "name": "Kreatunez",
+          "url": "https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv"
+        }
+      ],
+      "duration_ms": 98772,
+      "name": "Toko Challenge",
+      "url": "https://open.spotify.com/track/4AkvzAhFnq7IDTHn5SXQY0"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Sanga Zoo (feat. Farruko)",
         "url": "https://open.spotify.com/album/5StbSlzS0COrqrPJDhQr9V"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 231520,
       "name": "Sanga Zoo (feat. Farruko)",
       "url": "https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Toko Challenge",
-        "url": "https://open.spotify.com/album/6mupZJ1WPJMhR2BPJo0kRN"
-      },
-      "artists": [
-        {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
-        },
-        {
-          "name": "Kreatunez",
-          "url": "https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv"
-        }
-      ],
-      "duration_ms": 98772,
-      "name": "Toko Challenge",
-      "url": "https://open.spotify.com/track/4AkvzAhFnq7IDTHn5SXQY0"
     },
     {
       "added_at": "2023-12-08 05:00:00",

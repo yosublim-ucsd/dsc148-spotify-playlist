@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,312 likes - 97 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,325 likes - 97 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 20 | [Veda](https://open.spotify.com/track/2OxOoySnpuC7Hq5pnqGM6d) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Asana](https://open.spotify.com/album/5jKt8AOgsOYMaEdIykJ3bo) | 3:00 |
 | 21 | [Awakening Gaia](https://open.spotify.com/track/5eoH9HajJgIynunJ67VMEU) | [Juno Yang](https://open.spotify.com/artist/56eIS6isBmK4l3hoJlzCxP) | [Awakening Gaia](https://open.spotify.com/album/5josYCC1kuTj4wnYmnV26X) | 2:21 |
 | 22 | [Aamani](https://open.spotify.com/track/4XnDI3ILPViOW41CExGjtt) | [Mathura Horizon](https://open.spotify.com/artist/6uEOyPNPXNONqZlwhsOMSm) | [Aamani](https://open.spotify.com/album/03AsF5mqDr8QiokyguydHT) | 2:42 |
-| 23 | [Fata Morgana](https://open.spotify.com/track/6zRvf3jurHHzJ1n0le2Sv9) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw), [Elise](https://open.spotify.com/artist/1s2FeB2te4ulS2txcWxWiT) | [Fata Morgana](https://open.spotify.com/album/505m8WKfTZiorTjwGvxZHX) | 8:29 |
+| 23 | [Fata Morgana](https://open.spotify.com/track/0OlJvKTd4vZWjvN0xSO6Di) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw), [Elise](https://open.spotify.com/artist/1s2FeB2te4ulS2txcWxWiT) | [Phenomena](https://open.spotify.com/album/7KVOWJWzUvawq9Jj3iDEWc) | 8:29 |
 | 24 | [Flow](https://open.spotify.com/track/24S8iaidseXQRjB95t3P4E) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Flow](https://open.spotify.com/album/7zh4s3MKpQp4Rv878PH9J5) | 4:17 |
 | 25 | [Wander](https://open.spotify.com/track/5S2QBHpK9SrxeuOHHTpHqd) | [Nima Noi](https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy) | [Wander](https://open.spotify.com/album/4NjEMm80IvOoNIqJYk4CrY) | 3:20 |
 | 26 | [A Careful Distance](https://open.spotify.com/track/1aK9OifDpy3VWWxrKrSQ7l) | [Theo Travis](https://open.spotify.com/artist/4wnrnvlmW7Mn2H7vRW1Xli), [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl) | [Discretion](https://open.spotify.com/album/5umJSwOxDAU0wHLS51rr5O) | 8:01 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 80 | [Lamrim](https://open.spotify.com/track/0x8k5gECEEFCJV5x29S8z3) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/0Dg7fosaqmafdKYLWiDp0m) | 5:08 |
 | 81 | [Crystal Bowl & Shamanic Shells](https://open.spotify.com/track/3htZk2uZHjlkRhlaqaM3d8) | [Crystal Relaxations](https://open.spotify.com/artist/2fOp9yWKqkoEaLevqSKkHi) | [Crystal Bowl & Shamanic Shells](https://open.spotify.com/album/448uGKK2wcs9EXl8NX8KMO) | 4:28 |
 | 82 | [Melting Snow](https://open.spotify.com/track/3P7VUd2zZQiAGoHVv5kx6P) | [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Buddha's Dream](https://open.spotify.com/album/4I6REoU5dcDWZts0uMiFbH) | 7:11 |
-| 83 | [Lilac Dreams](https://open.spotify.com/track/4GabGOCeMRKXL5saC9xGqa) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/5ZxXawZx4LSHdQtZvdj7pt) | 4:29 |
+| 83 | [Lilac Dreams](https://open.spotify.com/track/5bdxHbc288MBWc2tOjfaxe) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/0ZGHDo3OIhjU40AwHByJRy) | 4:29 |
 | 84 | [Autumn Moon Over The Han Palace](https://open.spotify.com/track/1dhiCB2adQsroqpK7KinTB) | [Jiang Fengzhi](https://open.spotify.com/artist/2R6xnMGOazNpsU8GTB7eAY) | [Treasures Of Chinese Instrumental Music: Erhu](https://open.spotify.com/album/78viJ5XqBADz1Jvwfk3ReB) | 6:06 |
 | 85 | [Kitsune Village](https://open.spotify.com/track/7fQDGOxvHnfG5WGqcxifcQ) | [Brandon Fiechter](https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x) | [The Tea House](https://open.spotify.com/album/2i4lMaPmAzJvzrZskBuEut) | 3:49 |
 | 86 | [A Prayer to Dispel Sickness and Harm](https://open.spotify.com/track/5EuimjtVGkKmRVnuuVGzd5) | [Kelsang Chukie Tethong](https://open.spotify.com/artist/4Cmf9jS7jDovDDUDXul2LS) | [Putumayo Presents World Yoga](https://open.spotify.com/album/1ZSdMCRDh2dInEgRqFDZOq) | 4:52 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 96 | [Hot Stone Massage](https://open.spotify.com/track/6ECjbXSjaUHBkAig0SipLD) | [Healing Oriental Spa Collection](https://open.spotify.com/artist/0LohrwJvGCI9TAxhXIDf2v) | [Asian Meditation and Relax \(Oriental Soothing Music, Yoga, Massage & Zen Spa\)](https://open.spotify.com/album/1j3G1QVFmF1twCSAA0zgL9) | 3:59 |
 | 97 | [Dream Birds](https://open.spotify.com/track/10XcNcTJsPmsnqjiI0aUeE) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Dream Birds](https://open.spotify.com/album/16PvXp8E8Sw3IxQRrokYq3) | 2:20 |
 
-Snapshot ID: `MCw3MGNlMzFjMGE1ODVhYWVkNzg3OTRmOGY4YzZjMTFhY2I3OTFjMGUz`
+Snapshot ID: `MCw5MDc4MGQ4OGY3YWQwZTc0ZWM3YzFjYzI3NzA0ODRlZDA5ZTc4OGE5`

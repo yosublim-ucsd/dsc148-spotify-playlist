@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 1959286,
+  "2024-02-04": 1960987,
   "date_first_scraped": "2021-01-25",
   "description": "Hottest Hindi music served here. Cover - Animal",
   "name": "Hot Hits Hindi",
@@ -311,6 +311,24 @@
       "duration_ms": 329080,
       "name": "Aise Kyun - Ghazal Version",
       "url": "https://open.spotify.com/track/02wf1NAQdIpe5S1NJYPwvB"
+    },
+    {
+      "album": {
+        "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+        "url": "https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171147,
+      "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "url": "https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW"
     },
     {
       "album": {
@@ -2321,7 +2339,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 223107,
       "name": "Heer Ranjha",
       "url": "https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT"

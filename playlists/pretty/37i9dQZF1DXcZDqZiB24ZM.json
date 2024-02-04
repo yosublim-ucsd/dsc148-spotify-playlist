@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
-  "num_followers": 8880,
+  "num_followers": 8882,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGU4NzI1NWZiMWEzNDJhYjUyN2QxNThhNWFiNmNmOWYyZjhkODEx",
+  "snapshot_id": "MCxlYzU0MzNmZjM0N2VlMDY2ZDJlM2I1ZmFhNmY3ZTJkYzg0OTZjMjgz",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Personne ne touche le ciel",
-        "url": "https://open.spotify.com/album/6BisJ6xLM0ZtRHtjAwMg7E"
-      },
-      "artists": [
-        {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "Plume",
-      "url": "https://open.spotify.com/track/4S67VsQJoZVaRKpzdVT7IM"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Sex In The City",
         "url": "https://open.spotify.com/album/43QKj7lqltgm5UYQlUpviO"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 226653,
       "name": "Nana",
       "url": "https://open.spotify.com/track/3at8iNHLzE5EizkFWoQzCK"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Personne ne touche le ciel",
+        "url": "https://open.spotify.com/album/6BisJ6xLM0ZtRHtjAwMg7E"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "Plume",
+      "url": "https://open.spotify.com/track/4S67VsQJoZVaRKpzdVT7IM"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Free Cdf2",
-        "url": "https://open.spotify.com/album/1j1pDD3I8KnwFepYoybEnh"
-      },
-      "artists": [
-        {
-          "name": "Rowjay",
-          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Astral Drill",
-      "url": "https://open.spotify.com/track/3P2nTvpN0ehBz8etebwtam"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Dead Summer",
         "url": "https://open.spotify.com/album/3sOQNYpBqJ4ycOhcDTxUy5"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 165569,
       "name": "Dead Summer",
       "url": "https://open.spotify.com/track/6HYFlCcMKPENq5hJOwGXGE"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Free Cdf2",
+        "url": "https://open.spotify.com/album/1j1pDD3I8KnwFepYoybEnh"
+      },
+      "artists": [
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Astral Drill",
+      "url": "https://open.spotify.com/track/3P2nTvpN0ehBz8etebwtam"
     },
     {
       "added_at": "2022-03-11 05:02:00",

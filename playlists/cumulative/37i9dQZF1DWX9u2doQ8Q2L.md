@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,287 songs - 3 day 7 hr 3 min
+1,288 songs - 3 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,8 @@
 | [Family](https://open.spotify.com/track/6siwPNfUD301D36FEgOQKJ) | [PEAVIS](https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe) | [The Blooms Album \(Deluxe\)](https://open.spotify.com/album/1Ux82ncijuGTAdEl7w3Xsh) | 2:33 | 2024-01-09 | 2024-01-17 |
 | [Feather](https://open.spotify.com/track/0N3Vauee5r2AnqwscyK1Ot) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [World](https://open.spotify.com/album/75pDhSjbAaNzRkCPpHDKB1) | 3:52 | 2023-12-14 | 2023-12-20 |
 | [Feet Feet](https://open.spotify.com/track/0LhOjOaUIdQHwdYjQJIbYx) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Feet Feet](https://open.spotify.com/album/4Fw194NfogwEO1WNbDHEYe) | 3:41 | 2023-10-10 | 2023-10-18 |
-| [Final Girl](https://open.spotify.com/track/7wpVsVWTKPUpgvaRQNrOVa) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Final Girl](https://open.spotify.com/album/1Biax0BCWarMhtWhdsgAfm) | 3:30 | 2024-01-30 |  |
+| [Final Girl](https://open.spotify.com/track/3mNo6Wh3QfKh8yBymGumBA) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Final Girl](https://open.spotify.com/album/0GZZCnHOMUx134tHJqocIm) | 3:30 | 2024-02-01 |  |
+| [Final Girl](https://open.spotify.com/track/7wpVsVWTKPUpgvaRQNrOVa) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Final Girl](https://open.spotify.com/album/1Biax0BCWarMhtWhdsgAfm) | 3:30 | 2024-01-30 | 2024-02-04 |
 | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P) | 2:59 | 2023-03-28 | 2024-01-31 |
 | [Fire and Gold](https://open.spotify.com/track/4QBs4j1pzocVbVmsnw2jCA) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Fire and Gold](https://open.spotify.com/album/7AgDuTh3DKHTie5WqQB1b7) | 3:02 | 2022-05-26 | 2022-06-01 |
 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 | 2022-12-08 | 2023-07-05 |

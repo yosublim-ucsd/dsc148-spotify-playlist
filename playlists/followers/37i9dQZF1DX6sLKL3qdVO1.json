@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 578525,
+  "2024-02-04": 578552,
   "date_first_scraped": "2022-01-02",
   "description": "Shawty lo que necesitas es darle flow. Bad Gyal en portada. ",
   "name": "Dale Flow",
@@ -2935,7 +2935,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 180521,
       "name": "EL RELOJ (con Maluma)",
       "url": "https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ"
@@ -6128,6 +6128,28 @@
     },
     {
       "album": {
+        "name": "MAMI CHAKALOSA",
+        "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136843,
+      "name": "MAMI CHAKALOSA",
+      "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
+    },
+    {
+      "album": {
         "name": "Mami Chula",
         "url": "https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS"
       },
@@ -8606,6 +8628,32 @@
     },
     {
       "album": {
+        "name": "PRIORIDAD",
+        "url": "https://open.spotify.com/album/2wx7fW5RIsBhJ7DQY6YEv3"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147706,
+      "name": "PRIORIDAD",
+      "url": "https://open.spotify.com/track/6EfJMTo0FRqKTo3zatGUF0"
+    },
+    {
+      "album": {
         "name": "Problem\u00f3n",
         "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
       },
@@ -9939,7 +9987,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 183613,
       "name": "SIGUE ROMPIENDO",
       "url": "https://open.spotify.com/track/4ooUVU8ZrGyY0dBwyOZhUl"

@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-169 songs - 9 hr 59 min
+170 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Can I Be Me](https://open.spotify.com/track/6EUtGHQUEvqH1LzaitgSXw) | [훈정양](https://open.spotify.com/artist/4dv6MuOGWS4Y6tt7IbTnfp) | [Destined with You \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/14gtejc7d8d85MVpb8mL2E) | 3:26 | 2023-09-19 |  |
 | [Candy For You](https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Candy For You](https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA) | 2:38 | 2023-04-03 | 2023-07-08 |
 | [Carsickness \(feat\. Kim Sawol\)](https://open.spotify.com/track/5HeyiQZ9sHSsaJsj7OPyDp) | [Hwang Puha](https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [My Home](https://open.spotify.com/album/4Q7GAqOIHSNtkJtD2uYntT) | 3:34 | 2022-05-03 | 2022-07-24 |
+| [Cat, work for me](https://open.spotify.com/track/2NXf2ErFCHX3Gta6TvBcmo) | [Homemade recording](https://open.spotify.com/artist/18FWmGuOPqQ4xTp4dpLaGi) | [Cat, work for me](https://open.spotify.com/album/2yvD6zmNrO9uV4QcDE1tyH) | 3:02 | 2023-11-04 |  |
 | [Cheer Up \- Acoustic Version](https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [RE: CORD](https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L) | 3:11 | 2022-05-03 | 2023-09-21 |
 | [COLOR](https://open.spotify.com/track/1j7yH1RclkVPCcmV1p0RJj) | [Yoo Jiwoo](https://open.spotify.com/artist/2k7rQewM9Z0SJwhij9ddAs) | [COLOR](https://open.spotify.com/album/1CQL4TsmG6v2ISzMCz5rOv) | 3:04 | 2022-05-03 | 2022-07-29 |
 | [Concrete \(feat\. CHEEZE\)](https://open.spotify.com/track/1lQGsABYCrdPuzzdrgkeoS) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/2xcQMwlQVpYtz52pzpLEJI) | 3:05 | 2022-07-08 | 2023-07-08 |
@@ -51,7 +52,7 @@
 | [Gently, By Your Side](https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ) | [Siwa](https://open.spotify.com/artist/4Ov1By1bw2tZ0bWYn2mHlX) | [Gently, By Your Side](https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI) | 2:58 | 2022-05-03 | 2022-12-03 |
 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 | 2022-07-04 | 2023-12-13 |
 | [Good Night](https://open.spotify.com/track/1CVcNHLd6oSMpI5zt8y15e) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 2:45 | 2022-05-03 | 2022-06-18 |
-| [Goodbye](https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Goodbye](https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK) | 4:14 | 2022-08-12 |  |
+| [Goodbye](https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Goodbye](https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK) | 4:14 | 2022-08-12 | 2024-02-04 |
 | [Greetings rain](https://open.spotify.com/track/4ngEkVwwoXVioWGwla4NKX) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [Greetings rain](https://open.spotify.com/album/4xC9UnFviL7DNmGzCBFRFv) | 3:57 | 2022-07-08 | 2022-07-20 |
 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 | 2022-06-18 | 2023-07-08 |
 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(Original Television Soundtrack\) \(O′PENing\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 | 2022-07-04 | 2022-11-25 |

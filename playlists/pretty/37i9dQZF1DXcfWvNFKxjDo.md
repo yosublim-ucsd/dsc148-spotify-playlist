@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: HBz
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,935 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,321 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 3 | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/track/7v79EuvJq69p2keEsCd08A) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/album/4XBjD0YdqN3FjIyPT48AxD) | 2:11 |
 | 4 | [Good For You](https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Good For You](https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD) | 2:50 |
 | 5 | [Die For Me](https://open.spotify.com/track/67gYpZ9Kl4EwuQa3hZX6wR) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me](https://open.spotify.com/album/5Spe5tAY7QIn04uSBiGYt9) | 2:43 |
-| 6 | [Crusade](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
+| 6 | [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
 | 7 | [Torn](https://open.spotify.com/track/04nyFUuwYgLfrckvk0MIU9) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Torn](https://open.spotify.com/album/5kzC7Vg7h0uVoZIiBT0hFy) | 2:24 |
 | 8 | [Low Again](https://open.spotify.com/track/6WyIu9kPKkyEjmsP4aWJni) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Low Again](https://open.spotify.com/album/45zvKE4yw9Ta4utD8tRWsB) | 3:08 |
 | 9 | [London](https://open.spotify.com/track/1Ne1J7BRqU6cVMD1LNp4qY) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [London](https://open.spotify.com/album/2zDlmYKFbkF87XPHaIvuJQ) | 2:48 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 28 | [Erinner mich](https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Erinner mich](https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl) | 2:31 |
 | 29 | [Sorry](https://open.spotify.com/track/2b905nPVvT0CXk9IgR5XCs) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Joe Kox](https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G), [Öwes](https://open.spotify.com/artist/1UoiLeG7ekZ1B6AWggwQ8X) | [Sorry](https://open.spotify.com/album/3P8BS9F8Qt9swDhgfpPMBn) | 2:56 |
 | 30 | [When We Were Young \(The Logical Song\) \- BENNETT Remix](https://open.spotify.com/track/4zUMK17iTUdds8IbSPmUiR) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [When We Were Young \(The Logical Song\) \[BENNETT Remix\]](https://open.spotify.com/album/5dgDVopLUILtRSDQxriFMw) | 2:39 |
-| 31 | [Open Sesame \(Abracadabra\)](https://open.spotify.com/track/4ygydEkcYBt05oS9sHxZ8h) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Open Sesame feat\. Leila K](https://open.spotify.com/album/1tx6xMbBZE2CbstHPHVWo5) | 3:39 |
+| 31 | [Open Sesame \(Abracadabra\) \[feat\. Leila K\]](https://open.spotify.com/track/4ygydEkcYBt05oS9sHxZ8h) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Open Sesame \(Abracadabra\) \[feat\. Leila K\]](https://open.spotify.com/album/1tx6xMbBZE2CbstHPHVWo5) | 3:39 |
 | 32 | [WTF R U!?](https://open.spotify.com/track/7IrBKNBMGIDv8od1EEaQPk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [WTF R U!?](https://open.spotify.com/album/1qNBQh6STwsh2iP8bFecSg) | 2:32 |
 | 33 | [Empire \- Club Mix](https://open.spotify.com/track/1wgDpWtoQRhpvS3WlUgHIT) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Empire \(Club Mix\)](https://open.spotify.com/album/59T4u34ZWz6Rh13acYthC7) | 3:06 |
 | 34 | [My Speakers](https://open.spotify.com/track/72yy4wpyE5aOjfRTMT4sDr) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [My Speakers](https://open.spotify.com/album/1Mav9pJ9cuT999BhzdbR5y) | 2:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Give It to Me](https://open.spotify.com/track/7GUKliw8tYg2TtzfLpYg1S) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [TRITICUM](https://open.spotify.com/artist/4ZoQmoFXF0JJAMTcgopOjd) | [Give It to Me](https://open.spotify.com/album/6uuKUqOoXBTttANgKXdfHA) | 2:16 |
 | 75 | [Shower](https://open.spotify.com/track/19ThLx9IwEpMG45DlHd7fp) | [Chris El Greco](https://open.spotify.com/artist/3TvatwVBsckmLkhtoaxp3K) | [Shower](https://open.spotify.com/album/48iiBdroLKZOIwoexsRMDH) | 2:18 |
 
-Snapshot ID: `MCw2MTM1ZTEzZmNjZWEwYWIzY2ExMDkyMjc1NmRiOGIzMTAyNmVlZWQy`
+Snapshot ID: `MCxiMGMwYmMxOGM5ZWFiZGNjODA2ZTVjNGQ0NDY3NDM0ZjdlZGJmMmYx`

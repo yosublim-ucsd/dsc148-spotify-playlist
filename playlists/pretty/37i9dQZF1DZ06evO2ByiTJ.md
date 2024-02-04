@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,220 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,225 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 34 | [Ninguém Explica Deus \(Ao Vivo\)](https://open.spotify.com/track/0ncjOJnEhVGr4oJaTzEDsY) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 5:13 |
 | 35 | [Raridade \- Live MK 10 MI](https://open.spotify.com/track/6uMYKg90PUb1ShNbQ2l5pH) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\) \- Live MK 10 MI](https://open.spotify.com/album/18FC3cu0Q7b8F2pCPc2DuD) | 4:58 |
 | 36 | [Santificação \(Ao Vivo\)](https://open.spotify.com/track/3Bg1HJtKZAH0sH07vY9dn9) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação \(Ao Vivo\)](https://open.spotify.com/album/0w3FVZ8PUX84dgKIhOBjns) | 4:14 |
-| 37 | [És Meu Tudo \(Ao Vivo\)](https://open.spotify.com/track/2nfr7wuyjoI5gqvVIOpABT) | [Ministério Sarando a Terra Ferida](https://open.spotify.com/artist/2sv3lMFX1GnZ7AxUFq6oT3), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ministério Sarando a Terra Ferida \(Ao Vivo\)](https://open.spotify.com/album/4nwCvJGaTRJkBHo8BDRAnz) | 7:39 |
-| 38 | [Buscar Tua Face é Preciso](https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Vencedor](https://open.spotify.com/album/3YRcrviBE1y6ogqSYiOHe4) | 4:31 |
+| 37 | [Buscar Tua Face é Preciso](https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Vencedor](https://open.spotify.com/album/3YRcrviBE1y6ogqSYiOHe4) | 4:31 |
+| 38 | [És Meu Tudo \(Ao Vivo\)](https://open.spotify.com/track/2nfr7wuyjoI5gqvVIOpABT) | [Ministério Sarando a Terra Ferida](https://open.spotify.com/artist/2sv3lMFX1GnZ7AxUFq6oT3), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ministério Sarando a Terra Ferida \(Ao Vivo\)](https://open.spotify.com/album/4nwCvJGaTRJkBHo8BDRAnz) | 7:39 |
 | 39 | [Ninguém Pode Impedir \(Ao Vivo\)](https://open.spotify.com/track/5fW9C9umBX7lTh9y8ksAMi) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ninguém Pode Impedir \(Ao Vivo\)](https://open.spotify.com/album/6QowG4tkRC3lBEYzgk5Guj) | 4:13 |
-| 40 | [Prefiro Ser Fiel](https://open.spotify.com/track/7o9F3AppB3jRhohJexa7ri) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Lágrimas Ensinam](https://open.spotify.com/album/2MFTze1Xttlv9M8I4TKpOu) | 4:26 |
-| 41 | [Minha Alma Canta](https://open.spotify.com/track/5vgZp2mXu7M9YbbRLr30zU) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Teu Querer](https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy) | 4:54 |
+| 40 | [Minha Alma Canta](https://open.spotify.com/track/5vgZp2mXu7M9YbbRLr30zU) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Teu Querer](https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy) | 4:54 |
+| 41 | [Prefiro Ser Fiel](https://open.spotify.com/track/7o9F3AppB3jRhohJexa7ri) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Lágrimas Ensinam](https://open.spotify.com/album/2MFTze1Xttlv9M8I4TKpOu) | 4:26 |
 | 42 | [O Reino \(Ao Vivo\)](https://open.spotify.com/track/3s7xaNrVYc93UhrGrJyX2t) | [Álvaro Tito](https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Cumpra o Seu Chamado \(Ao Vivo\)](https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS) | 4:18 |
 | 43 | [El Elyon](https://open.spotify.com/track/4HR1BrHYKNZin2zkcVtYoP) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [El Elyon](https://open.spotify.com/album/272oxL4xvmw243Wo81OF9T) | 4:00 |
 | 44 | [Deus Te Consola Outra Vez](https://open.spotify.com/track/1WNY1BB98CAgej6yQZtPfL) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus Te Consola Outra Vez](https://open.spotify.com/album/55BQlFbH9mNmlH2lIQSEUc) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 49 | [Você Não Imagina \(Ao Vivo\)](https://open.spotify.com/track/0AhtuMEn7keStaLysGWJdc) | [Letícia Vitória](https://open.spotify.com/artist/5TiYZA0hvaVGzez5lg9WhR), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Você Não Imagina \(Ao Vivo\)](https://open.spotify.com/album/27LMbl86nfBJtbAj3LiNDv) | 5:10 |
 | 50 | [O Cirineu](https://open.spotify.com/track/5pPviO1Xd2xywi4i4iDXT6) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Teu Querer](https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy) | 4:37 |
 
-Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDA4NzA0YjhiOWFlNDMwZTVjZWNjZmYzNDI3Y2EyNjJlNQ==`
+Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBhMGE5MDExMjY0NjM5NThkNzU0Njk2YjExNDY0ZmFiMw==`

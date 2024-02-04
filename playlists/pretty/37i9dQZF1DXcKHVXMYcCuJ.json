@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 144103,
+  "num_followers": 144105,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmRiN2FlMjZjMzY4YTQ3YjY4ZGIxMTgzZjM0YTc1YzQ3MGIzMWM4",
+  "snapshot_id": "MCxkMTFhZjQ4YWViYTIyMTg2NTFlOWY5MmUyNzNhMDYxZTU4Zjc2NDAy",
   "tracks": [
     {
       "added_at": "2024-01-18 09:41:12",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Pedestrian Verse",
-        "url": "https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x"
-      },
-      "artists": [
-        {
-          "name": "Frightened Rabbit",
-          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
-        }
-      ],
-      "duration_ms": 207560,
-      "name": "The Woodpile",
-      "url": "https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Comfort in Sound",
         "url": "https://open.spotify.com/album/75qYHeS22EEn0neCZZ7kng"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 263253,
       "name": "Just the Way I'm Feeling",
       "url": "https://open.spotify.com/track/08DO757dzPTgeHSwOQvnIS"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "Pedestrian Verse",
+        "url": "https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x"
+      },
+      "artists": [
+        {
+          "name": "Frightened Rabbit",
+          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "The Woodpile",
+      "url": "https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "You'd Prefer An Astronaut",
-        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
-      },
-      "artists": [
-        {
-          "name": "Hum",
-          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
-        }
-      ],
-      "duration_ms": 277560,
-      "name": "The Pod",
-      "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Nothing But Thieves (Deluxe)",
         "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 235826,
       "name": "Neon Brother",
       "url": "https://open.spotify.com/track/3onvqHzdPZXZrPo5GfLqGE"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "You'd Prefer An Astronaut",
+        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
+      },
+      "artists": [
+        {
+          "name": "Hum",
+          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
+        }
+      ],
+      "duration_ms": 277560,
+      "name": "The Pod",
+      "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6"
+        "name": "Repetition",
+        "url": "https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn"
       },
       "artists": [
         {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+          "name": "Unwound",
+          "url": "https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0"
         }
       ],
-      "duration_ms": 172867,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
+      "duration_ms": 185467,
+      "name": "Corpse Pose",
+      "url": "https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 172867,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
         "name": "Pedestrian Verse",
         "url": "https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 219080,
       "name": "Holy",
       "url": "https://open.spotify.com/track/2irFDtyw34II0pdCWIOBaN"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
-        "name": "Repetition",
-        "url": "https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn"
-      },
-      "artists": [
-        {
-          "name": "Unwound",
-          "url": "https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0"
-        }
-      ],
-      "duration_ms": 185467,
-      "name": "Corpse Pose",
-      "url": "https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "The Rift",
-        "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
-      },
-      "artists": [
-        {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 228852,
-      "name": "The Rift",
-      "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "RARE",
         "url": "https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 217133,
       "name": "Neurotic",
       "url": "https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "The Rift",
+        "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 228852,
+      "name": "The Rift",
+      "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Here at All",
-        "url": "https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU"
-      },
-      "artists": [
-        {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "In Your Way",
-      "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "No Good Left To Give",
         "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 236986,
       "name": "Don\u2019t Give Up Your Ghost",
       "url": "https://open.spotify.com/track/0o0orlqmDZFKNbmAm1Rzgc"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "Here at All",
+        "url": "https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU"
+      },
+      "artists": [
+        {
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "In Your Way",
+      "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7"
-      },
-      "artists": [
-        {
-          "name": "Modern Baseball",
-          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
-        }
-      ],
-      "duration_ms": 229075,
-      "name": "Note To Self",
-      "url": "https://open.spotify.com/track/7CX4fbtJXUvlV7RNNqBOpO"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Brave Faces Everyone",
         "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 242365,
       "name": "Kick",
       "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7"
+      },
+      "artists": [
+        {
+          "name": "Modern Baseball",
+          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
+        }
+      ],
+      "duration_ms": 229075,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/7CX4fbtJXUvlV7RNNqBOpO"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "12th House Rock",
-        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
-      },
-      "artists": [
-        {
-          "name": "Narrow Head",
-          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Night Tryst",
-      "url": "https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Abstract Figures in the Dark",
         "url": "https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 246005,
       "name": "Control",
       "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "12th House Rock",
+        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Night Tryst",
+      "url": "https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1"
     },
     {
       "added_at": "2024-01-18 09:41:12",

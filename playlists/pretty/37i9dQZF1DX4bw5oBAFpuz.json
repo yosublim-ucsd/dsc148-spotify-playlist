@@ -1,29 +1,13 @@
 {
   "description": "Ideale muziek voor de werkdag",
-  "num_followers": 35572,
+  "num_followers": 35577,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWE1ODc0YjM0NTY5MGNmZDNmMWNiN2FkM2RjNWU2YjU0Zjg5YzJh",
+  "snapshot_id": "MCxkNzZiODBkNDVjZmNmY2Y3YjZiZjRlZTQzZmRmZjgyMDMxNWFhY2Fj",
   "tracks": [
-    {
-      "added_at": "2024-01-16 13:06:39",
-      "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 186251,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
-    },
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY"
+    },
+    {
+      "added_at": "2024-01-16 13:06:39",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 186251,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
-        "name": "3 (The Purple Album)",
-        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
-    },
-    {
-      "added_at": "2024-01-16 13:06:39",
-      "album": {
         "name": "Man of the Woods",
         "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 278893,
       "name": "Say Something (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS"
+    },
+    {
+      "added_at": "2024-01-16 13:06:39",
+      "album": {
+        "name": "3 (The Purple Album)",
+        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
-        "name": "Swim With Sam",
-        "url": "https://open.spotify.com/album/3NSLHcKHZ8422YD7MQO8Ch"
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/0WxWpSTJASFJofnbr7vA76"
       },
       "artists": [
         {
-          "name": "a balladeer",
-          "url": "https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U"
+          "name": "Tomas Ferdinand",
+          "url": "https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf"
         }
       ],
-      "duration_ms": 263726,
-      "name": "Swim With Sam - rerecorded",
-      "url": "https://open.spotify.com/track/7HWxIBizOFNo505Ljw6IcV"
+      "duration_ms": 155884,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/00s6DXiI1QKcmC6Rgpv5rA"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -1435,18 +1435,34 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/0WxWpSTJASFJofnbr7vA76"
+        "name": "Swim With Sam",
+        "url": "https://open.spotify.com/album/3NSLHcKHZ8422YD7MQO8Ch"
       },
       "artists": [
         {
-          "name": "Tomas Ferdinand",
-          "url": "https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf"
+          "name": "a balladeer",
+          "url": "https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U"
         }
       ],
-      "duration_ms": 155884,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/00s6DXiI1QKcmC6Rgpv5rA"
+      "duration_ms": 263726,
+      "name": "Swim With Sam - rerecorded",
+      "url": "https://open.spotify.com/track/7HWxIBizOFNo505Ljw6IcV"
+    },
+    {
+      "added_at": "2024-01-16 13:06:39",
+      "album": {
+        "name": "Tascam Tapes",
+        "url": "https://open.spotify.com/album/43LoWypu3rYrv2TuJmxxaT"
+      },
+      "artists": [
+        {
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "It Ain't Easy",
+      "url": "https://open.spotify.com/track/0sWfdO70PRIzqpX2swtFNy"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -1479,22 +1495,6 @@
       "duration_ms": 203869,
       "name": "Anyone For You (Tiger Lily) - Acoustic",
       "url": "https://open.spotify.com/track/1Fh2slksBn9TpTu3tSHSMa"
-    },
-    {
-      "added_at": "2024-01-16 13:06:39",
-      "album": {
-        "name": "Tascam Tapes",
-        "url": "https://open.spotify.com/album/43LoWypu3rYrv2TuJmxxaT"
-      },
-      "artists": [
-        {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "It Ain't Easy",
-      "url": "https://open.spotify.com/track/0sWfdO70PRIzqpX2swtFNy"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/453z5Es9h6XsvPCZWKzYdf"
-      },
-      "artists": [
-        {
-          "name": "Sophia",
-          "url": "https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/2HEudAZWEH9NsygtkWXs5s"
-    },
-    {
-      "added_at": "2024-01-16 13:06:39",
-      "album": {
         "name": "Born In A Storm",
         "url": "https://open.spotify.com/album/7i7i0cvJwTsw1ILF6Gy5Lt"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 146426,
       "name": "You Don't Have To Stay",
       "url": "https://open.spotify.com/track/2Kt8OMRNO40i42Cxf2KO4H"
+    },
+    {
+      "added_at": "2024-01-16 13:06:39",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/453z5Es9h6XsvPCZWKzYdf"
+      },
+      "artists": [
+        {
+          "name": "Sophia",
+          "url": "https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/2HEudAZWEH9NsygtkWXs5s"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
-        "name": "Paradise And Back Again",
-        "url": "https://open.spotify.com/album/1taypDxNMQORzlU7YfZlk1"
-      },
-      "artists": [
-        {
-          "name": "Anouk",
-          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
-        }
-      ],
-      "duration_ms": 226613,
-      "name": "Places To Go",
-      "url": "https://open.spotify.com/track/2kIMDGHkZPCwK0MD2IlXzR"
-    },
-    {
-      "added_at": "2024-01-16 13:06:39",
-      "album": {
         "name": "Nobody Just Like You",
         "url": "https://open.spotify.com/album/1T17JPPFnkMa9hd9fkqblx"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 164554,
       "name": "Nobody Just Like You",
       "url": "https://open.spotify.com/track/6c1LPZcvGFR61iNceP77q9"
+    },
+    {
+      "added_at": "2024-01-16 13:06:39",
+      "album": {
+        "name": "Paradise And Back Again",
+        "url": "https://open.spotify.com/album/1taypDxNMQORzlU7YfZlk1"
+      },
+      "artists": [
+        {
+          "name": "Anouk",
+          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
+        }
+      ],
+      "duration_ms": 226613,
+      "name": "Places To Go",
+      "url": "https://open.spotify.com/track/2kIMDGHkZPCwK0MD2IlXzR"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -2115,18 +2115,22 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/0sNisQsHNxOQ4P1DL14hCI"
+        "name": "Singles Only (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1CU246tMIaAhMfAfmtR2h6"
       },
       "artists": [
         {
-          "name": "Josephien",
-          "url": "https://open.spotify.com/artist/43baNkimEScblxgIPkyroW"
+          "name": "KANE",
+          "url": "https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6"
+        },
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
         }
       ],
-      "duration_ms": 181156,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/2kqAlHqzn3vURg8kOGvXS3"
+      "duration_ms": 224573,
+      "name": "High Places - Radio Edit",
+      "url": "https://open.spotify.com/track/2LNgXgVzyqeIUTWX1gqJpg"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -2159,6 +2163,22 @@
       "duration_ms": 226173,
       "name": "Carry It Well - Acoustic",
       "url": "https://open.spotify.com/track/5WD2D369riKav4v92rzFjz"
+    },
+    {
+      "added_at": "2024-01-16 13:06:39",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/0sNisQsHNxOQ4P1DL14hCI"
+      },
+      "artists": [
+        {
+          "name": "Josephien",
+          "url": "https://open.spotify.com/artist/43baNkimEScblxgIPkyroW"
+        }
+      ],
+      "duration_ms": 181156,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/2kqAlHqzn3vURg8kOGvXS3"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -2207,26 +2227,6 @@
       "duration_ms": 125800,
       "name": "Ballad Of Easy Rider",
       "url": "https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV"
-    },
-    {
-      "added_at": "2024-01-16 13:06:39",
-      "album": {
-        "name": "Singles Only (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1CU246tMIaAhMfAfmtR2h6"
-      },
-      "artists": [
-        {
-          "name": "KANE",
-          "url": "https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6"
-        },
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
-        }
-      ],
-      "duration_ms": 224573,
-      "name": "High Places - Radio Edit",
-      "url": "https://open.spotify.com/track/2LNgXgVzyqeIUTWX1gqJpg"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -2467,18 +2467,18 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/5WZbBRS9f7IXaGFSoDXa7S"
+        "name": "Laps Around The Sun",
+        "url": "https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O"
       },
       "artists": [
         {
-          "name": "Jack and the Weatherman",
-          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 151200,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/2Ge2inARTv0tXh2CxozJCu"
+      "duration_ms": 206293,
+      "name": "Laps Around The Sun",
+      "url": "https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -2499,6 +2499,22 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/5WZbBRS9f7IXaGFSoDXa7S"
+      },
+      "artists": [
+        {
+          "name": "Jack and the Weatherman",
+          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/2Ge2inARTv0tXh2CxozJCu"
+    },
+    {
+      "added_at": "2024-01-16 13:06:39",
+      "album": {
         "name": "Loop & Dream Go",
         "url": "https://open.spotify.com/album/6mqRQ2RqCs9UdlUPArUcXo"
       },
@@ -2511,6 +2527,22 @@
       "duration_ms": 179265,
       "name": "Dream Go",
       "url": "https://open.spotify.com/track/7DwtE2gzC9yzmd5EyZKRid"
+    },
+    {
+      "added_at": "2024-01-16 13:06:39",
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/4zlJk4dH9eE5wQGOrKvKhs"
+      },
+      "artists": [
+        {
+          "name": "Simon Webbe",
+          "url": "https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/0Q95QAw0HKaykvMZA3tMOb"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -2563,22 +2595,6 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/4zlJk4dH9eE5wQGOrKvKhs"
-      },
-      "artists": [
-        {
-          "name": "Simon Webbe",
-          "url": "https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/0Q95QAw0HKaykvMZA3tMOb"
-    },
-    {
-      "added_at": "2024-01-16 13:06:39",
-      "album": {
         "name": "_UP_",
         "url": "https://open.spotify.com/album/6L4Cw7UGLQxUAVaY1RNYBr"
       },
@@ -2595,22 +2611,6 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
-        "name": "Fatherhood",
-        "url": "https://open.spotify.com/album/3EIuPSXucrog6yYBwITBXB"
-      },
-      "artists": [
-        {
-          "name": "Euan Allison",
-          "url": "https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem"
-        }
-      ],
-      "duration_ms": 178518,
-      "name": "Fatherhood",
-      "url": "https://open.spotify.com/track/22W5OLsXEcu5qc6cSblrvr"
-    },
-    {
-      "added_at": "2024-01-16 13:06:39",
-      "album": {
         "name": "The Movies Without You",
         "url": "https://open.spotify.com/album/5a481Xvo5zQ08yWRgYFEnv"
       },
@@ -2623,6 +2623,22 @@
       "duration_ms": 249733,
       "name": "Joni",
       "url": "https://open.spotify.com/track/7sGxQVaN9xwWdo4p8S0kwN"
+    },
+    {
+      "added_at": "2024-01-16 13:06:39",
+      "album": {
+        "name": "Fatherhood",
+        "url": "https://open.spotify.com/album/3EIuPSXucrog6yYBwITBXB"
+      },
+      "artists": [
+        {
+          "name": "Euan Allison",
+          "url": "https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem"
+        }
+      ],
+      "duration_ms": 178518,
+      "name": "Fatherhood",
+      "url": "https://open.spotify.com/track/22W5OLsXEcu5qc6cSblrvr"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -2811,22 +2827,6 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
-        "name": "Happy in Hindsight",
-        "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        }
-      ],
-      "duration_ms": 213161,
-      "name": "Happy in Hindsight",
-      "url": "https://open.spotify.com/track/5TTI3j2PFfhjQ9LQT7Xllx"
-    },
-    {
-      "added_at": "2024-01-16 13:06:39",
-      "album": {
         "name": "Lay Your Weapons Down (Acoustic)",
         "url": "https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m"
       },
@@ -2839,22 +2839,6 @@
       "duration_ms": 205108,
       "name": "Lay Your Weapons Down - Acoustic",
       "url": "https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv"
-    },
-    {
-      "added_at": "2024-01-16 13:06:39",
-      "album": {
-        "name": "Songs to Soothe",
-        "url": "https://open.spotify.com/album/0MRyCWBOc0EyOiLmPYRg7K"
-      },
-      "artists": [
-        {
-          "name": "Jacqueline Govaert",
-          "url": "https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "Going Back Home",
-      "url": "https://open.spotify.com/track/2CujSydnhdFygZpsjyytZU"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -2875,18 +2859,34 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
-        "name": "Who Gave You The Right",
-        "url": "https://open.spotify.com/album/3IEWVzWYms4ivv3cQ2xX8f"
+        "name": "Happy in Hindsight",
+        "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
       },
       "artists": [
         {
-          "name": "Krystl",
-          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
         }
       ],
-      "duration_ms": 206952,
-      "name": "Who Gave You The Right",
-      "url": "https://open.spotify.com/track/5t6IYCmM6KFyPLDQo2smtr"
+      "duration_ms": 213161,
+      "name": "Happy in Hindsight",
+      "url": "https://open.spotify.com/track/5TTI3j2PFfhjQ9LQT7Xllx"
+    },
+    {
+      "added_at": "2024-01-16 13:06:39",
+      "album": {
+        "name": "Songs to Soothe",
+        "url": "https://open.spotify.com/album/0MRyCWBOc0EyOiLmPYRg7K"
+      },
+      "artists": [
+        {
+          "name": "Jacqueline Govaert",
+          "url": "https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "Going Back Home",
+      "url": "https://open.spotify.com/track/2CujSydnhdFygZpsjyytZU"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -2903,6 +2903,22 @@
       "duration_ms": 202135,
       "name": "Golden Lovers",
       "url": "https://open.spotify.com/track/5SgWKAMXnGT8yp4wMDjtik"
+    },
+    {
+      "added_at": "2024-01-16 13:06:39",
+      "album": {
+        "name": "Who Gave You The Right",
+        "url": "https://open.spotify.com/album/3IEWVzWYms4ivv3cQ2xX8f"
+      },
+      "artists": [
+        {
+          "name": "Krystl",
+          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
+        }
+      ],
+      "duration_ms": 206952,
+      "name": "Who Gave You The Right",
+      "url": "https://open.spotify.com/track/5t6IYCmM6KFyPLDQo2smtr"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -2975,18 +2991,18 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
-        "name": "In This Together",
-        "url": "https://open.spotify.com/album/15hSw3L6AIOOhiiliJkx95"
+        "name": "Company",
+        "url": "https://open.spotify.com/album/0nUk17FZxbfpK1AOQF4cHD"
       },
       "artists": [
         {
-          "name": "Tim Dawn",
-          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+          "name": "Lea Rue",
+          "url": "https://open.spotify.com/artist/1RPZu5nxPrakSD5NumbgSn"
         }
       ],
-      "duration_ms": 196312,
-      "name": "In This Together",
-      "url": "https://open.spotify.com/track/5lCEexD5JfA6YnCNCGcVR6"
+      "duration_ms": 182808,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/6lf2e8a0NOf8877D78GpaP"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -3011,34 +3027,18 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
-        "name": "Company",
-        "url": "https://open.spotify.com/album/0nUk17FZxbfpK1AOQF4cHD"
+        "name": "In This Together",
+        "url": "https://open.spotify.com/album/15hSw3L6AIOOhiiliJkx95"
       },
       "artists": [
         {
-          "name": "Lea Rue",
-          "url": "https://open.spotify.com/artist/1RPZu5nxPrakSD5NumbgSn"
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
         }
       ],
-      "duration_ms": 182808,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/6lf2e8a0NOf8877D78GpaP"
-    },
-    {
-      "added_at": "2024-01-16 13:06:39",
-      "album": {
-        "name": "Can't Love",
-        "url": "https://open.spotify.com/album/3Qx7wu5jT1IKEG0SGE6Qsl"
-      },
-      "artists": [
-        {
-          "name": "Navarone",
-          "url": "https://open.spotify.com/artist/0He0YUY91AmJKZQ9eDs7j0"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "Can't Love",
-      "url": "https://open.spotify.com/track/2UZhtIE0dBdPAPzBHzdkwF"
+      "duration_ms": 196312,
+      "name": "In This Together",
+      "url": "https://open.spotify.com/track/5lCEexD5JfA6YnCNCGcVR6"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -3063,18 +3063,18 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
-        "name": "One Last Chance (I Won't Let You Down)",
-        "url": "https://open.spotify.com/album/0O04QO41IgvIAV7GIy1Ai2"
+        "name": "Can't Love",
+        "url": "https://open.spotify.com/album/3Qx7wu5jT1IKEG0SGE6Qsl"
       },
       "artists": [
         {
-          "name": "FRIDAY",
-          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
+          "name": "Navarone",
+          "url": "https://open.spotify.com/artist/0He0YUY91AmJKZQ9eDs7j0"
         }
       ],
-      "duration_ms": 199169,
-      "name": "One Last Chance (I Won't Let You Down) - Acoustic",
-      "url": "https://open.spotify.com/track/1TE4d1HGXHnkSo2vA4ZV5n"
+      "duration_ms": 173040,
+      "name": "Can't Love",
+      "url": "https://open.spotify.com/track/2UZhtIE0dBdPAPzBHzdkwF"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -3095,34 +3095,18 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
-        "name": "Call It Luck",
-        "url": "https://open.spotify.com/album/7bA32Baio6U41HINomt4KY"
+        "name": "One Last Chance (I Won't Let You Down)",
+        "url": "https://open.spotify.com/album/0O04QO41IgvIAV7GIy1Ai2"
       },
       "artists": [
         {
-          "name": "VanVelzen",
-          "url": "https://open.spotify.com/artist/3Lq6Tb3SbS4n6dVuCx0Zzi"
+          "name": "FRIDAY",
+          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
         }
       ],
-      "duration_ms": 197532,
-      "name": "Call It Luck",
-      "url": "https://open.spotify.com/track/7yTfxJLtcHqcHlQev1pdbL"
-    },
-    {
-      "added_at": "2024-01-16 13:06:39",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/3nziLyYhBlU55CVhB7PDGC"
-      },
-      "artists": [
-        {
-          "name": "Jeangu Macrooy",
-          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
-        }
-      ],
-      "duration_ms": 214953,
-      "name": "Second Hand Lover",
-      "url": "https://open.spotify.com/track/4uFws0rPYlbDCcPXTMjbfC"
+      "duration_ms": 199169,
+      "name": "One Last Chance (I Won't Let You Down) - Acoustic",
+      "url": "https://open.spotify.com/track/1TE4d1HGXHnkSo2vA4ZV5n"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -3143,6 +3127,22 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
+        "name": "Call It Luck",
+        "url": "https://open.spotify.com/album/7bA32Baio6U41HINomt4KY"
+      },
+      "artists": [
+        {
+          "name": "VanVelzen",
+          "url": "https://open.spotify.com/artist/3Lq6Tb3SbS4n6dVuCx0Zzi"
+        }
+      ],
+      "duration_ms": 197532,
+      "name": "Call It Luck",
+      "url": "https://open.spotify.com/track/7yTfxJLtcHqcHlQev1pdbL"
+    },
+    {
+      "added_at": "2024-01-16 13:06:39",
+      "album": {
         "name": "Pennies From Heaven",
         "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
       },
@@ -3155,6 +3155,22 @@
       "duration_ms": 255000,
       "name": "Pennies From Heaven",
       "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
+    },
+    {
+      "added_at": "2024-01-16 13:06:39",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/3nziLyYhBlU55CVhB7PDGC"
+      },
+      "artists": [
+        {
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+        }
+      ],
+      "duration_ms": 214953,
+      "name": "Second Hand Lover",
+      "url": "https://open.spotify.com/track/4uFws0rPYlbDCcPXTMjbfC"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -3271,6 +3287,22 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
+        "name": "Dog in the Park",
+        "url": "https://open.spotify.com/album/6jdS8PKHxrOCoB15wv2QYD"
+      },
+      "artists": [
+        {
+          "name": "Elephant",
+          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
+        }
+      ],
+      "duration_ms": 180346,
+      "name": "Dog in the Park",
+      "url": "https://open.spotify.com/track/7aIt9y0iirchcmXvHOrjBs"
+    },
+    {
+      "added_at": "2024-01-16 13:06:39",
+      "album": {
         "name": "Project Me",
         "url": "https://open.spotify.com/album/63Dbmdt0RTxUDXzQl4ZhIj"
       },
@@ -3315,22 +3347,6 @@
       "duration_ms": 227657,
       "name": "Seatbelts",
       "url": "https://open.spotify.com/track/5LpNNr02dABUYZ6ofq0xkY"
-    },
-    {
-      "added_at": "2024-01-16 13:06:39",
-      "album": {
-        "name": "Dog in the Park",
-        "url": "https://open.spotify.com/album/6jdS8PKHxrOCoB15wv2QYD"
-      },
-      "artists": [
-        {
-          "name": "Elephant",
-          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "Dog in the Park",
-      "url": "https://open.spotify.com/track/7aIt9y0iirchcmXvHOrjBs"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -3383,22 +3399,6 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/2xmOMHzLhu5BgzpGOWkOWe"
-      },
-      "artists": [
-        {
-          "name": "Melle",
-          "url": "https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp"
-        }
-      ],
-      "duration_ms": 218203,
-      "name": "17",
-      "url": "https://open.spotify.com/track/0ipSZJxKLs1F2LNTl0GF6y"
-    },
-    {
-      "added_at": "2024-01-16 13:06:39",
-      "album": {
         "name": "This Is For The Ones",
         "url": "https://open.spotify.com/album/49vhTXDSj6b0zXzJiFEkPg"
       },
@@ -3443,6 +3443,22 @@
       "duration_ms": 235800,
       "name": "The Wait Is Over!",
       "url": "https://open.spotify.com/track/71ngUdvQfCsmK6pVWv9twa"
+    },
+    {
+      "added_at": "2024-01-16 13:06:39",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/2xmOMHzLhu5BgzpGOWkOWe"
+      },
+      "artists": [
+        {
+          "name": "Melle",
+          "url": "https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp"
+        }
+      ],
+      "duration_ms": 218203,
+      "name": "17",
+      "url": "https://open.spotify.com/track/0ipSZJxKLs1F2LNTl0GF6y"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -3647,22 +3663,6 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
-        "name": "ROND\u00c9",
-        "url": "https://open.spotify.com/album/7oQWTdzb0SHFhWp5cZZvZv"
-      },
-      "artists": [
-        {
-          "name": "ROND\u00c9",
-          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
-        }
-      ],
-      "duration_ms": 216544,
-      "name": "Why Do You Care",
-      "url": "https://open.spotify.com/track/4miesggrLA9agA9lusKhV9"
-    },
-    {
-      "added_at": "2024-01-16 13:06:39",
-      "album": {
         "name": "Actually, I Can.",
         "url": "https://open.spotify.com/album/4JXNlrGjAQUvx4qFA5Yban"
       },
@@ -3675,6 +3675,22 @@
       "duration_ms": 186853,
       "name": "Lost In You",
       "url": "https://open.spotify.com/track/7unsohvCybAQ55vfxMp5vX"
+    },
+    {
+      "added_at": "2024-01-16 13:06:39",
+      "album": {
+        "name": "ROND\u00c9",
+        "url": "https://open.spotify.com/album/7oQWTdzb0SHFhWp5cZZvZv"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "duration_ms": 216544,
+      "name": "Why Do You Care",
+      "url": "https://open.spotify.com/track/4miesggrLA9agA9lusKhV9"
     },
     {
       "added_at": "2024-01-16 13:06:39",
@@ -3759,6 +3775,22 @@
     {
       "added_at": "2024-01-16 13:06:39",
       "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/5YFH2ZhzYhWltkgmMd1mmU"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "duration_ms": 217944,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/7hz3BdldMUmj81yy2JjYaj"
+    },
+    {
+      "added_at": "2024-01-16 13:06:39",
+      "album": {
         "name": "Valerius",
         "url": "https://open.spotify.com/album/2AZbBVLDiQ9Vm52MNe3UaG"
       },
@@ -3787,38 +3819,6 @@
       "duration_ms": 213466,
       "name": "My Baby Left Me",
       "url": "https://open.spotify.com/track/2Pz0nvk2bpxZSfoBFdiZuc"
-    },
-    {
-      "added_at": "2024-01-16 13:06:39",
-      "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/5YFH2ZhzYhWltkgmMd1mmU"
-      },
-      "artists": [
-        {
-          "name": "ROND\u00c9",
-          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
-        }
-      ],
-      "duration_ms": 217944,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/7hz3BdldMUmj81yy2JjYaj"
-    },
-    {
-      "added_at": "2024-01-16 13:06:39",
-      "album": {
-        "name": "Elba",
-        "url": "https://open.spotify.com/album/5C2h4RDpIKiuRFchSy9oeZ"
-      },
-      "artists": [
-        {
-          "name": "Laura Jansen",
-          "url": "https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM"
-        }
-      ],
-      "duration_ms": 236981,
-      "name": "Queen of Elba",
-      "url": "https://open.spotify.com/track/1e402nE03yvaw6YFruqc25"
     }
   ],
   "unique_name": "Werkdag FM",

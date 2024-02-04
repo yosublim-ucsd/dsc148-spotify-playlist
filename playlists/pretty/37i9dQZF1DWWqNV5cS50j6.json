@@ -1,12 +1,12 @@
 {
   "description": "The anti pop archive: tracks added by our editors over the last year. Cover: Gorillaz",
-  "num_followers": 700185,
+  "num_followers": 700289,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTNiMzZjM2FmZjVlOWJlMDg4YjgzZTBmZTk0N2IyZWEwZDA4NzUw",
+  "snapshot_id": "MCxmZTJkZmE2N2U5NDE4Mzc5YWQzNDcyMzIwZDdlYTk0NmFjZWI2NzQw",
   "tracks": [
     {
       "added_at": "2024-01-09 14:46:15",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 214557,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "NO THANK YOU",
         "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 130666,
       "name": ">one - greater than one",
       "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 214557,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "marry me",
+        "url": "https://open.spotify.com/album/3YQB61zHmPUUNFVHEtqKP1"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 157604,
+      "name": "marry me",
+      "url": "https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "SCRAPYARD I",
         "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 181915,
       "name": "A LA CARTE (feat. brakence)",
       "url": "https://open.spotify.com/track/5L6F6siaHwwpuR1exuZPnH"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "marry me",
-        "url": "https://open.spotify.com/album/3YQB61zHmPUUNFVHEtqKP1"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 157604,
-      "name": "marry me",
-      "url": "https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "JASMINE",
-        "url": "https://open.spotify.com/album/0J93kMZWjwAX2Ln1GREcq5"
-      },
-      "artists": [
-        {
-          "name": "Renao",
-          "url": "https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "JASMINE",
-      "url": "https://open.spotify.com/track/6EYaL5ach3SUCQSebLMops"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "lazy",
         "url": "https://open.spotify.com/album/6kymj5mHk1YZupsLrKuzF4"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 125090,
       "name": "lazy (haste)",
       "url": "https://open.spotify.com/track/4oU1f0xXoSCSB4tpKPSwc7"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "JASMINE",
+        "url": "https://open.spotify.com/album/0J93kMZWjwAX2Ln1GREcq5"
+      },
+      "artists": [
+        {
+          "name": "Renao",
+          "url": "https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "JASMINE",
+      "url": "https://open.spotify.com/track/6EYaL5ach3SUCQSebLMops"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Erotic Probiotic 2",
-        "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
-      },
-      "artists": [
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 246626,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "stuck.",
         "url": "https://open.spotify.com/album/7dBT7hYdoqjKmge72tftyR"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 134272,
       "name": "stuck.",
       "url": "https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Erotic Probiotic 2",
+        "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 246626,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1325,20 +1325,20 @@
       "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
     },
     {
-      "added_at": "2024-01-09 14:46:15",
+      "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "SCRAPYARD I",
-        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
+        "name": "Apartment A",
+        "url": "https://open.spotify.com/album/3QZBxL6hF9ePj3qGJw6iPx"
       },
       "artists": [
         {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+          "name": "Isaac Dunbar",
+          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
         }
       ],
-      "duration_ms": 209289,
-      "name": "U DON'T KNOW ME LIKE THAT",
-      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
+      "duration_ms": 192133,
+      "name": "Apartment A",
+      "url": "https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "SCRAPYARD I",
+        "url": "https://open.spotify.com/album/0EVBIlbbAPSiXj2tRH5nE4"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "duration_ms": 209289,
+      "name": "U DON'T KNOW ME LIKE THAT",
+      "url": "https://open.spotify.com/track/2Dp0qki35K3PMjRvnKQ5o0"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "Hearth Room",
         "url": "https://open.spotify.com/album/4Jxk91uFsdzMWcZNyqj6eO"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 202466,
       "name": "Marigold",
       "url": "https://open.spotify.com/track/44rWKhxzR6hsa04LKavgoC"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Apartment A",
-        "url": "https://open.spotify.com/album/3QZBxL6hF9ePj3qGJw6iPx"
-      },
-      "artists": [
-        {
-          "name": "Isaac Dunbar",
-          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Apartment A",
-      "url": "https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "Stay Blessed",
+        "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 177731,
+      "name": "Stay Blessed",
+      "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "Fishnets",
         "url": "https://open.spotify.com/album/3mfeRfnXvnOSGr3BgHWAIs"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 254500,
       "name": "www she hot",
       "url": "https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "Stay Blessed",
-        "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 177731,
-      "name": "Stay Blessed",
-      "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
     },
     {
       "added_at": "2024-01-09 14:46:15",

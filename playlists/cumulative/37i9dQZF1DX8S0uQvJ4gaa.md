@@ -4,7 +4,7 @@
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Dylan Gossett
 
-1,941 songs - 4 day 9 hr 8 min
+1,942 songs - 4 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1890,7 +1890,8 @@
 | [Women Ain’t Whiskey](https://open.spotify.com/track/3axBDZmJLbGw61413B8XIS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S) | 2:46 | 2023-09-08 | 2023-11-25 |
 | [Wonder Woman](https://open.spotify.com/track/0s2f8k9pavqKj9NfCXRZNH) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wonder Woman](https://open.spotify.com/album/30ptHEO695RvtGdyEMAeDZ) | 3:25 | 2023-10-27 |  |
 | [Wonderful Tonight](https://open.spotify.com/track/21Z3B5PE2ocrIpKMduWPSr) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:37 | 2020-04-12 | 2020-04-18 |
-| [Wondering Why](https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:52 | 2023-11-17 |  |
+| [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 | 2024-02-02 |  |
+| [Wondering Why](https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:52 | 2023-11-17 | 2024-02-04 |
 | [Wood On The Fire](https://open.spotify.com/track/4U25YVWSMJ7glekBTsNMUQ) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Wood On The Fire](https://open.spotify.com/album/2h27NOoPTkhHSjU1K79EST) | 3:27 | 2022-09-09 | 2022-11-12 |
 | [Work Boots](https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Work Boots and More from Leather](https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0) | 2:49 | 2023-09-22 | 2023-11-04 |
 | [World For Two](https://open.spotify.com/track/4wXLHJf9b22cxFvgSw5Ijf) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [King Calaway](https://open.spotify.com/album/5J2QWaK5lqtv6OrpLoMxUj) | 3:05 | 2019-05-26\* | 2019-06-15 |

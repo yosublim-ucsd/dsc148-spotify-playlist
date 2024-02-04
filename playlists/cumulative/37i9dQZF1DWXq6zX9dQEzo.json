@@ -6531,6 +6531,28 @@
     },
     {
       "album": {
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/35h3Iss6wIlNYGl71cvylY"
+      },
+      "artists": [
+        {
+          "name": "Cardec Drums",
+          "url": "https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG"
+        },
+        {
+          "name": "El Artista",
+          "url": "https://open.spotify.com/artist/23O4ZjgHiBYcTQKciRZwI9"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114933,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/4E6m89eLYaw4cajBsEpHCz"
+    },
+    {
+      "album": {
         "name": "My Banner",
         "url": "https://open.spotify.com/album/0msCROB5BcYESQ1YD3N98w"
       },
@@ -9166,7 +9188,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 102857,
       "name": "STOP WHAT YOU DIDNT START (SWYDS)",
       "url": "https://open.spotify.com/track/0ag2DC97eI1difIz35ycfU"

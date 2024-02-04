@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Bicep
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,422 likes - 100 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,420 likes - 100 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CHROMA 001 HELIUM](https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 001](https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ) | 4:47 |
-| 2 | [Dreamfear](https://open.spotify.com/track/57edrlN0230hrXhLrbctAE) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Dreamfear/Boy Sent From Above](https://open.spotify.com/album/6gfaxkb8AwQpr0idbYnsAm) | 12:53 |
+| 2 | [Dreamfear](https://open.spotify.com/track/57edrlN0230hrXhLrbctAE) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Dreamfear / Boy Sent From Above](https://open.spotify.com/album/6gfaxkb8AwQpr0idbYnsAm) | 12:53 |
 | 3 | [tell me](https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [tell me](https://open.spotify.com/album/0JScyUkeeX2YaQXUQT9e09) | 2:43 |
 | 4 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
 | 5 | [5th Way](https://open.spotify.com/track/0SfE3lDOaaPrxHdht7Br6b) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Stoned Camel](https://open.spotify.com/album/2r0ZXPnNfvzYbGLHAhgJV1) | 5:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
 | 100 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 |
 
-Snapshot ID: `MCxlYzU4ZWZhZjk5ZWJmNjY3ZTcxMzRhOTk2Y2ViZmEwYTQ5ZWE0NjFh`
+Snapshot ID: `MCxmOTVjMWQ0ZGIwMzQyNzQ2MGIzMzM4MDI1YzA2MWM4NDcwZGVjNWZm`

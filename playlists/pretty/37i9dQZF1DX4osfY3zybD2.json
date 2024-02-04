@@ -1,12 +1,12 @@
 {
   "description": "Up for a nostalgic running session?",
-  "num_followers": 682541,
+  "num_followers": 683481,
   "original_name": "Retro Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjZhZDI4MjA1YWYxNWZlOGUxNDU2ZDQxOGU4MmUzNWY0MjAxM2Rm",
+  "snapshot_id": "MCwwMjA1ZDc5ZDkwMzczMWE3NDM1MmFkNjY0NzE1Y2ZkYWI2NGJiNGRl",
   "tracks": [
     {
       "added_at": "2023-01-03 14:52:35",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-01-03 14:52:35",
       "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
+    },
+    {
+      "added_at": "2023-01-03 14:52:35",
+      "album": {
         "name": "Storm Front",
         "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 215773,
       "name": "She Drives Me Crazy",
       "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
-    },
-    {
-      "added_at": "2023-01-03 14:52:35",
-      "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 261413,
-      "name": "Psycho Killer - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
     },
     {
       "added_at": "2023-01-03 14:52:35",

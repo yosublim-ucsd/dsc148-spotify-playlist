@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 277412,
+  "2024-02-04": 277500,
   "date_first_scraped": "2022-05-11",
   "description": "The biggest rock bands/artists in Japan right now!  Cover: \u30c9\u30df\u30b3",
   "name": "Big in Japan",
@@ -11883,7 +11883,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 214088,
       "name": "\u30a2\u30b2\u30a4\u30f3",
       "url": "https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh"
@@ -14345,6 +14345,24 @@
       "duration_ms": 89563,
       "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
       "url": "https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG"
+    },
+    {
+      "album": {
+        "name": "JUICE UP!!",
+        "url": "https://open.spotify.com/album/37KhIsdSPhactF4XrvJyds"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117484,
+      "name": "\u5207\u624b\u306e\u306a\u3044\u304a\u304f\u308a\u3082\u306e",
+      "url": "https://open.spotify.com/track/1kVL0b3nQfoFhClBCuKFM5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Soft piano to help you focus, work or study.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,773 likes - 273 songs - 11 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,794 likes - 273 songs - 11 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 272 | [Bubbles](https://open.spotify.com/track/2IdLxL6CPq1bUiMRIenO9J) | [Michel Jean](https://open.spotify.com/artist/4ctoiVR4Okq67Q9vyl3jcz) | [Bubbles](https://open.spotify.com/album/1LrUfRnXCEQCCP3OL48I8K) | 2:14 |
 | 273 | [Promenade](https://open.spotify.com/track/7mRoJ7GqlDNNRfhjoc3Jk9) | [Louis Mercier](https://open.spotify.com/artist/3Pew2vdzxrnyQjjs7wsOa2) | [Promenade](https://open.spotify.com/album/3LW1XhKVlovivBri0LDZwB) | 2:00 |
 
-Snapshot ID: `MCxkNGQ0NDcwOTRmYWExNzFmNWJjNjcyZGYzYzEyYTMxYjA2ZmZlYWM2`
+Snapshot ID: `MCxlZDg0NDgyNjgwOTE4ODRlYjhiNDM0ZmE4MjcwMjk0MGNlYTliYWI5`

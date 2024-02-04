@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Os destaques de 2023! Simone Mendes e mais mulheres poderosas para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,279 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,323 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 21 | [Karma](https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 2:57 |
 | 22 | [Ponto Final \- Ao Vivo](https://open.spotify.com/track/78UZagNegqHZAKv3491xB2) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Continua, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy) | 2:27 |
 | 23 | [e se for pra ser sincera:](https://open.spotify.com/track/1b0xzVRr8fIGa8dftdW3S8) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [e se for pra ser sincera:](https://open.spotify.com/album/3T8pak58PgFxme2Iu3mHet) | 3:14 |
-| 24 | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/track/2BZvNHHo8bxS90MoKwRPAc) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/album/13Q7kbWqa4y3atnMHDKvuw) | 2:36 |
+| 24 | [PLAYLIST DE SEXO](https://open.spotify.com/track/4lxDwxNxvod11PZzYMPcmw) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 2:38 |
 | 25 | [Meu Paraíso Sou Eu](https://open.spotify.com/track/0vzum63gEJ458xzIiaXCZY) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 1:57 |
-| 26 | [PLAYLIST DE SEXO](https://open.spotify.com/track/4lxDwxNxvod11PZzYMPcmw) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 2:38 |
+| 26 | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/track/2BZvNHHo8bxS90MoKwRPAc) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/album/13Q7kbWqa4y3atnMHDKvuw) | 2:36 |
 | 27 | [Ciclone](https://open.spotify.com/track/2J4nJffXU569d2ld9yxH6D) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Ciclone](https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v) | 2:54 |
 | 28 | [Perigo](https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 2:38 |
 | 29 | [que mal que tem?](https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [que mal que tem?](https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Pimenta De Cheiro](https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:27 |
 | 50 | [Homenagem](https://open.spotify.com/track/2EzZnXR3UgkoX92WHgoNYD) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 3:26 |
 
-Snapshot ID: `MCwyOGU2ODA3MjY4N2QyNDA1ZjBiZGI4MjJmNzAwYTY2MTI4MGRkMDY0`
+Snapshot ID: `MCxhMzJiODQwNGUwZDE2OTZiZDVjMmYzNjc1Mjc5YWQ4MmNhZjYzYmUz`

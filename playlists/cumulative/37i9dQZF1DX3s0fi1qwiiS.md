@@ -4,7 +4,7 @@
 
 > Who order Azul?
 
-65 songs - 4 hr 12 min
+66 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [AKWAABA](https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Patapaa](https://open.spotify.com/artist/2IiQaWRKteXMGLUcdHLBO9), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [AKWAABA](https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj) | 3:26 | 2022-12-02 |  |
 | [Amanfuor Girls](https://open.spotify.com/track/01q9VZfRk6bCEe2jgx64tN) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Amanfuor Girls](https://open.spotify.com/album/1NU6M9KwNpddbZGa1xqlBi) | 3:13 | 2022-12-02 |  |
 | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano Remix \(You Wanna Bamba\)](https://open.spotify.com/album/6831TJYXJuShA212mn1yVi) | 3:47 | 2022-12-02 |  |
-| [Angela](https://open.spotify.com/track/0pPaHAsyHLYt45J42IXKuG) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb) | 3:07 | 2022-12-02 |  |
+| [Angela](https://open.spotify.com/track/0pPaHAsyHLYt45J42IXKuG) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb) | 3:07 | 2022-12-02 | 2024-02-04 |
+| [Angela](https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE) | 3:07 | 2023-12-08 |  |
 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 | 2022-12-02 |  |
 | [Big Thug Boys](https://open.spotify.com/track/64f7mZuEkeNeKOuzSjrIGm) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Big Thug Boys](https://open.spotify.com/album/79PtaeN11NuACxUaeipBom) | 2:51 | 2022-12-02 |  |
 | [Chalice](https://open.spotify.com/track/189NJ59FgEoGzBnyKZzreG) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp), [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Chalice](https://open.spotify.com/album/2rSg6SEnAxqaokg6egTGU6) | 3:54 | 2022-12-02 |  |

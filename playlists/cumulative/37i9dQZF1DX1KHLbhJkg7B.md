@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-365 songs - 22 hr 53 min
+366 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Into the Mystic](https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Under the Covers](https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq) | 3:41 | 2021-12-10 | 2023-08-19 |
 | [Islands In The Stream](https://open.spotify.com/track/2etkMv2Oj2aZCmvmUG1P3e) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [COUNTRYPOLITAN](https://open.spotify.com/artist/4HoYBvug2SLrGfJOdTgqyn) | [Islands In The Stream](https://open.spotify.com/album/1jGvHea1wNSqYDu2iHiTFq) | 3:55 | 2021-12-10 |  |
 | [It Must Be Love](https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 2:51 | 2021-12-10 |  |
+| [It's A Great Day To Be Alive \(Live From The Ryman\)](https://open.spotify.com/track/7gwvx0fFiEQLSUhrZ4TQ3l) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [It's A Great Day To Be Alive \(Live From The Ryman\)](https://open.spotify.com/album/2LLIkF8XJg15bZyGuHhjH0) | 3:58 | 2024-02-02 |  |
 | [It's Just a Matter of Time](https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [No Holdin' Back](https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP) | 3:55 | 2021-12-10 |  |
 | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/track/001c1daR1pFdqfpe1vAWzh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/album/1GCjwU2CejKwooZG68QBqb) | 5:22 | 2023-11-17 |  |
 | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS) | 5:22 | 2022-11-04 | 2023-11-05 |
@@ -266,7 +267,7 @@
 | [Shallow \(The Duet with Garth Brooks and Trisha Yearwood\)](https://open.spotify.com/track/0SA1RVvy3x161K2PcW2CSO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Shallow \(The Duet with Garth Brooks and Trisha Yearwood\)](https://open.spotify.com/album/3cWhv1rqi54T1eRzM9kfPJ) | 3:41 | 2021-12-10 |  |
 | [Shotgun Willie](https://open.spotify.com/track/5eFPPAsdBF57JnZIQw92K3) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Shotgun Willie](https://open.spotify.com/album/7oYeYzP4kGMUxJJwqCNylk) | 2:35 | 2023-02-24 | 2023-03-11 |
 | [Should've Been A Cowboy](https://open.spotify.com/track/7c20lA9sS4c5CeulMOSAZt) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Should've Been A Cowboy](https://open.spotify.com/album/4qU7lxvipvrDnPVfydiiaH) | 3:35 | 2022-03-11 | 2022-07-26 |
-| [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 | 2022-01-07 |  |
+| [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 | 2022-01-07 | 2024-02-04 |
 | [Six Days On The Road](https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Six Days On The Road](https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX) | 2:53 | 2021-12-10 | 2023-01-06 |
 | [Six Days On The Road](https://open.spotify.com/track/032sAei1X5MdodhFWfTwE2) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [The Ice Road](https://open.spotify.com/album/2gaHEZAkAegkmjJnej9xLS) | 2:50 | 2022-03-11 | 2022-04-20 |
 | [Slow Dancing In A Burning Room \(Circle Sessions\)](https://open.spotify.com/track/4BdJ29tKViIvXhSKoB2dSS) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [ERNEST & The Fellas Unplugged](https://open.spotify.com/album/25Kg2AqcqSY4FtrUtXc1s7) | 3:54 | 2023-10-27 |  |

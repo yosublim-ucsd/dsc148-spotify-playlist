@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring Juan Baro.",
-  "num_followers": 17415,
+  "num_followers": 17421,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQwMzhhMDRiNmIyNWE2NTNkMDE2MDY0MmM1MWU2OWVhZTM3ZGVk",
+  "snapshot_id": "MCwyZjRjYTcxZTdlODE3MDM4NmJjN2JkODYwODQxNjhhYWFjZTM3MmYy",
   "tracks": [
     {
       "added_at": "2024-02-02 03:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Hay que venir al Sur",
-        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
-      },
-      "artists": [
-        {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Hay que venir al Sur",
-      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Fuck el Police (Remix)",
         "url": "https://open.spotify.com/album/3CHiQzPxbqvfkkm2QM3BlM"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 261532,
       "name": "Fuck el Police - Remix",
       "url": "https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Hay que venir al Sur",
+        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
+      },
+      "artists": [
+        {
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Hay que venir al Sur",
+      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "dionysian",
+        "url": "https://open.spotify.com/album/5CVy40cgzPpI1nhOSxx2Iz"
+      },
+      "artists": [
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        }
+      ],
+      "duration_ms": 190742,
+      "name": "dionysian",
+      "url": "https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "ESFERA DE AMOR",
         "url": "https://open.spotify.com/album/2MxR4pWsCM8n0Bp8RhYcu9"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 151698,
       "name": "POLIDRAMA",
       "url": "https://open.spotify.com/track/541cVQIUsnOYmOna54whVE"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "El d\u00eda libre de Polux",
-        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 229010,
-      "name": "Venenos",
-      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "dionysian",
-        "url": "https://open.spotify.com/album/5CVy40cgzPpI1nhOSxx2Iz"
+        "name": "El d\u00eda libre de Polux",
+        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
       },
       "artists": [
         {
-          "name": "wiranda johansen",
-          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
         }
       ],
-      "duration_ms": 190742,
-      "name": "dionysian",
-      "url": "https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP"
+      "duration_ms": 229010,
+      "name": "Venenos",
+      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -647,6 +647,46 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "No te sueltes",
+        "url": "https://open.spotify.com/album/1ol52rgBgzxAVG9e9u3J36"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Ubilla",
+          "url": "https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN"
+        },
+        {
+          "name": "Felicia Morales",
+          "url": "https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC"
+        }
+      ],
+      "duration_ms": 225002,
+      "name": "No te sueltes",
+      "url": "https://open.spotify.com/track/2dLmnd5RQmCA913yR2mEAD"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "aquiles </3",
+        "url": "https://open.spotify.com/album/7dsvbWKSHY2BroTfogx1uK"
+      },
+      "artists": [
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        },
+        {
+          "name": "doppel gangs",
+          "url": "https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "aquiles </3",
+      "url": "https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Tu Olor",
         "url": "https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3"
       },
@@ -695,26 +735,6 @@
       "duration_ms": 273056,
       "name": "Cuando la Luna Caiga",
       "url": "https://open.spotify.com/track/4kbQVab7ftejREWGo8ebUi"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "aquiles </3",
-        "url": "https://open.spotify.com/album/7dsvbWKSHY2BroTfogx1uK"
-      },
-      "artists": [
-        {
-          "name": "wiranda johansen",
-          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
-        },
-        {
-          "name": "doppel gangs",
-          "url": "https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "aquiles </3",
-      "url": "https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -771,26 +791,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "\u00a1Tierra a la Vista!",
-        "url": "https://open.spotify.com/album/0OSJkds9VzdHHAZB3nI8ca"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        },
-        {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Mapa - TLSCPS2023",
-      "url": "https://open.spotify.com/track/01cQ2zQ2wQ3gpanSWJST4x"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Cuando Sea Grande",
         "url": "https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL"
       },
@@ -807,22 +807,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "No te sueltes",
-        "url": "https://open.spotify.com/album/1ol52rgBgzxAVG9e9u3J36"
+        "name": "\u00a1Tierra a la Vista!",
+        "url": "https://open.spotify.com/album/0OSJkds9VzdHHAZB3nI8ca"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 Ubilla",
-          "url": "https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN"
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
         },
         {
-          "name": "Felicia Morales",
-          "url": "https://open.spotify.com/artist/7kR5ApwlIHd7ket5zyDwTC"
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
         }
       ],
-      "duration_ms": 225002,
-      "name": "No te sueltes",
-      "url": "https://open.spotify.com/track/2dLmnd5RQmCA913yR2mEAD"
+      "duration_ms": 169000,
+      "name": "Mapa - TLSCPS2023",
+      "url": "https://open.spotify.com/track/01cQ2zQ2wQ3gpanSWJST4x"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "coraz\u00f3n dinamita",
-        "url": "https://open.spotify.com/album/3Ud6DxbZ5a0vXaMyOTdMjf"
-      },
-      "artists": [
-        {
-          "name": "wiranda johansen",
-          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
-        }
-      ],
-      "duration_ms": 181532,
-      "name": "coraz\u00f3n dinamita",
-      "url": "https://open.spotify.com/track/4vqiuKUsAPkO0DzDrrIdzP"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "NO MAS PROMESAS",
         "url": "https://open.spotify.com/album/3I5Io6jrsxPFYAQAghhoFw"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 173793,
       "name": "SIN TITULOS (feat. Ill Quentin)",
       "url": "https://open.spotify.com/track/3482mjPy9pVBrZYLdepECc"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "coraz\u00f3n dinamita",
+        "url": "https://open.spotify.com/album/3Ud6DxbZ5a0vXaMyOTdMjf"
+      },
+      "artists": [
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        }
+      ],
+      "duration_ms": 181532,
+      "name": "coraz\u00f3n dinamita",
+      "url": "https://open.spotify.com/track/4vqiuKUsAPkO0DzDrrIdzP"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "No Necesito",
-        "url": "https://open.spotify.com/album/2pPKMucF7pMaqa8N1teTrD"
-      },
-      "artists": [
-        {
-          "name": "Entr\u00f3pica",
-          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
-        },
-        {
-          "name": "Micaela Salaverry",
-          "url": "https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo"
-        }
-      ],
-      "duration_ms": 193715,
-      "name": "No Necesito",
-      "url": "https://open.spotify.com/track/6eLr3TwOOa3VYkfJmjKLGl"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Fuera de Campo (Edici\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/5MvyTXQx5v4SUQ9A5BdPSz"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 296909,
       "name": "Revista de Gimnasia - Alejandro Paz Remix",
       "url": "https://open.spotify.com/track/5FR4gA58DZ7rzDb3LQVYyW"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "No Necesito",
+        "url": "https://open.spotify.com/album/2pPKMucF7pMaqa8N1teTrD"
+      },
+      "artists": [
+        {
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+        },
+        {
+          "name": "Micaela Salaverry",
+          "url": "https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo"
+        }
+      ],
+      "duration_ms": 193715,
+      "name": "No Necesito",
+      "url": "https://open.spotify.com/track/6eLr3TwOOa3VYkfJmjKLGl"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Blue Planet",
-        "url": "https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S"
-      },
-      "artists": [
-        {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
-        }
-      ],
-      "duration_ms": 153193,
-      "name": "Blue Planet",
-      "url": "https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "La Luna de Madrid",
         "url": "https://open.spotify.com/album/3Ji3Q5aaBM7kp3dmP5ALbu"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 219800,
       "name": "La Luna de Madrid",
       "url": "https://open.spotify.com/track/3PK51yIv33XfpD3jfBxy76"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Blue Planet",
+        "url": "https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "duration_ms": 153193,
+      "name": "Blue Planet",
+      "url": "https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb"
     },
     {
       "added_at": "2024-02-02 03:00:00",

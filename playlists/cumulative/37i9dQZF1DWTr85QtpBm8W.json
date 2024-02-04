@@ -2312,7 +2312,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 524468,
       "name": "Woe Is the Transgression I",
       "url": "https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr"
@@ -2334,6 +2334,24 @@
       "duration_ms": 524468,
       "name": "Woe Is the Transgression I",
       "url": "https://open.spotify.com/track/549E9zf4YxHcUQ2R5oLZ1C"
+    },
+    {
+      "album": {
+        "name": "Betrayed in the Octagon",
+        "url": "https://open.spotify.com/album/0ixr1lXtxFcj31ZGmtqjue"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524468,
+      "name": "Woe is the Transgression I",
+      "url": "https://open.spotify.com/track/5f64HunynQvPdqsLFs2wcx"
     },
     {
       "album": {

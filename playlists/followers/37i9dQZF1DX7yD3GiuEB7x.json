@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 83156,
+  "2024-02-04": 83154,
   "date_first_scraped": "2022-05-30",
   "description": "Are you trapped in some kind of haunted Hell? What is your favorite nightmare?",
   "name": "This Is Dreamcatcher",
@@ -863,10 +863,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 223760,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/0dCdQvk03zbYUXpoEEFJCl"
+    },
+    {
+      "album": {
+        "name": "\uc545\ubabd",
+        "url": "https://open.spotify.com/album/0H35i31IzpWMrLXSV6h2YN"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223760,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2CIvNK8ErkogYbGrOi2FhE"
     },
     {
       "album": {
@@ -2861,10 +2879,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 40204,
       "name": "Welcome to Dream",
       "url": "https://open.spotify.com/track/1mMMltAd8i5qyv0nSwae8T"
+    },
+    {
+      "album": {
+        "name": "\uc545\ubabd",
+        "url": "https://open.spotify.com/album/0H35i31IzpWMrLXSV6h2YN"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40204,
+      "name": "Welcome to Dream (Intro)",
+      "url": "https://open.spotify.com/track/33ECboskPxMsPzNgVx0WM5"
     },
     {
       "album": {

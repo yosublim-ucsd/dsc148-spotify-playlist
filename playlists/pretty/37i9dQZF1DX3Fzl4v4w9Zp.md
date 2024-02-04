@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: The Red Clay Strays
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,961 likes - 150 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,908 likes - 150 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wondering Why](https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wondering Why](https://open.spotify.com/album/5WtlaMCff9QS0I76EE7lge) | 3:52 |
+| 1 | [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 |
 | 2 | [Dollar Bill Bar](https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Dollar Bill Bar](https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47) | 3:29 |
 | 3 | [$10 Cowboy](https://open.spotify.com/track/0wkAesjWf52ubUT4ZK8VN0) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/0wuHhJqV63y0KGQ2nNod2S) | 3:35 |
 | 4 | [F\*ck My Life Up Again](https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [F\*ck My Life Up Again](https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g) | 4:18 |
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 7 | [Runaway Train](https://open.spotify.com/track/3cebUq89Iq26AHYYu5sLac) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Polaroid Lovers](https://open.spotify.com/album/5vzRjqCajfWrWhE92o9gPG) | 3:00 |
 | 8 | [Save Me](https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Hello, I'm Britti.](https://open.spotify.com/album/09WQABIo1U9D8H8SO7WK0a) | 3:21 |
 | 9 | [Ahead Of The Game](https://open.spotify.com/track/0lZHfXYmrWmnemBF3rAorq) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Ahead Of The Game](https://open.spotify.com/album/6FkxomPxNTWvIPcuau3FN6) | 3:56 |
-| 10 | [Same Water](https://open.spotify.com/track/5cP4ZjWFGgimzGJOKRwB9g) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Same Water](https://open.spotify.com/album/6V2dNmY5aFZND3ueCFIOOo) | 4:20 |
+| 10 | [Same Water](https://open.spotify.com/track/5bmpMZDDkpOr2bGPptSruW) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Same Water](https://open.spotify.com/album/4Scuu3Z6gDXBg2N5yNNcVS) | 4:20 |
 | 11 | [Only So Much You Can Do](https://open.spotify.com/track/19a2wE63XeHzz0rWdY7fQW) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Only So Much You Can Do](https://open.spotify.com/album/0FMNUahZhLsKOF7EMem8jg) | 3:18 |
 | 12 | [Colossus of Roads](https://open.spotify.com/track/39sI9RzlYbtsYfRri6ZD6H) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Colossus of Roads / Snake Plant \(The Past Is Still Alive\)](https://open.spotify.com/album/7u69dlIPfJeuuMifREZkiP) | 2:45 |
 | 13 | [White Lies, White Jesus And You](https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [White Lies, White Jesus And You](https://open.spotify.com/album/4PxGWmuTtzAxkPCzmWQ5Al) | 4:24 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [Burlesque Desert Window](https://open.spotify.com/track/2VRlBQCorJfk9QNWVyCMpy) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [A Lifetime to Find](https://open.spotify.com/album/3lxavXQElVKfCmqZSIrRV1) | 2:59 |
 | 150 | [Long Journey Home](https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Long Journey Home / Life To Go](https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C) | 2:57 |
 
-Snapshot ID: `MCw4MDhjZjgzNWVmYzA1Y2U1MWY5ODQ4MjQ2OGEyNTBkOTIxMjI1MTli`
+Snapshot ID: `MCw5MDljYWVjNDA1MjcwMjZjNDdlYjRhNTQ0NzQyMGQ3YjJhYmIxNDdk`

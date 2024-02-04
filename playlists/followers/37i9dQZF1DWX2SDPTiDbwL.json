@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 31094,
+  "2024-02-04": 31119,
   "date_first_scraped": "2023-12-19",
   "description": "El precioso sonido de la guitarra flamenca, perfecto para evadirte.",
   "name": "Guitarra Flamenca Relajante",
@@ -1133,6 +1133,24 @@
     {
       "album": {
         "name": "Cuchama",
+        "url": "https://open.spotify.com/album/4pVKGwZmlCJAj87KgN48KW"
+      },
+      "artists": [
+        {
+          "name": "Govi",
+          "url": "https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306440,
+      "name": "Torero",
+      "url": "https://open.spotify.com/track/28wsuYdlvWeUDQCxJDbo5r"
+    },
+    {
+      "album": {
+        "name": "Cuchama",
         "url": "https://open.spotify.com/album/4l6MESQt1Y9UVmF0ugDOOI"
       },
       "artists": [
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 307773,
       "name": "Torero",
       "url": "https://open.spotify.com/track/6Ql5ovfv38vALEkP00TMzJ"

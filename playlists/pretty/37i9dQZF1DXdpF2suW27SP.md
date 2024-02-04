@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Deejay Telio entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,588 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,608 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 7 | [Visão Noturna](https://open.spotify.com/track/3UCqd9sT0C9qDayjFHBQjd) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Gorilleyez](https://open.spotify.com/album/686H1mlR6VMgl0wqijQFrf) | 4:41 |
 | 8 | [Pensamento](https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Pensamento](https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO) | 2:19 |
 | 9 | [Tata](https://open.spotify.com/track/0fPOFtS7ZylYKcC9b64cSj) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Afro Fado](https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI) | 2:39 |
-| 10 | [hello](https://open.spotify.com/track/6d0iSU9wwOk3sxSRxPkr7O) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [hello](https://open.spotify.com/album/2OZkkoRlZu8Fe4MNETsW9H) | 2:26 |
+| 10 | [Hello](https://open.spotify.com/track/6d0iSU9wwOk3sxSRxPkr7O) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Hello](https://open.spotify.com/album/2OZkkoRlZu8Fe4MNETsW9H) | 2:26 |
 | 11 | [Chamadas](https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Chamadas](https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH) | 2:36 |
 | 12 | [G3](https://open.spotify.com/track/4Vo6xhWP515MuQRK55927I) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:01 |
 | 13 | [Free](https://open.spotify.com/track/63Jjy7fGgU2ktyQGPKbFIH) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV) | [Free](https://open.spotify.com/album/4phICo5aQYrUQfiojNZsoN) | 3:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Yeye](https://open.spotify.com/track/0k4lqIUYVQ3aFLDqFrx2Yu) | [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2) | [Yeye](https://open.spotify.com/album/6bvQP6p2Gm3FL3Zy0762e4) | 3:22 |
 | 75 | [Placas](https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Placas](https://open.spotify.com/album/0pTCFWtiniY7Mi4nQpFVvn) | 3:32 |
 
-Snapshot ID: `MCwxNWI5MzFmZTBmODFmYjhiZDVjOGMzYTBiNWI4OTgwNjA1YTk5Mjc3`
+Snapshot ID: `MCw2Nzk5NDAxNDUwYTQ0OWIwMDg0ZjNmYzA1YjlmODBmZjM0OTQyYmQz`

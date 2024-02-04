@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Bombay Bicycle Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,261 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,252 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 99 | [Pay the Toll](https://open.spotify.com/track/4NrSr7PgOTkmERYRUpbI1g) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Pay the Toll](https://open.spotify.com/album/2zwd3YMj8jEgFLkmRQY6lw) | 2:57 |
 | 100 | [I Feel Something Like That](https://open.spotify.com/track/0JbrWWQiqT0L45zUNM6GYQ) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3), [RUZZY TATTOO COLOUR](https://open.spotify.com/artist/5umzj4PGA5pKpgr40TMbsz) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:29 |
 
-Snapshot ID: `MCw1ZDA4NWM0NDIzMWNhNTlmODUyNzQxYmFkNzYxZWQ5MTM5ODE0ZDkz`
+Snapshot ID: `MCwxM2Y2YTlkMDQ3M2QzNjUxODUzNjY4MzI2NDA2YTYxNjI5ZDMzYTI1`

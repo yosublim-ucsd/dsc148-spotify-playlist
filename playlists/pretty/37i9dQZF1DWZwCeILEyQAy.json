@@ -1,12 +1,12 @@
 {
   "description": "Real Rap. All Pressure. Cover: ScarLip",
-  "num_followers": 490464,
+  "num_followers": 490384,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTM4MzNiNTIwOTNlYTkzNGE1MjZlZWU0YzIzMjBkYzhlOGQyMzI4",
+  "snapshot_id": "MCw1NTkzNGFkNmY1MjE5NTM2ZjRlODIwNmFhMDc4YTQzMzg1ZGFjNTI2",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "You Wish + Trashboi",
+        "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "duration_ms": 120015,
+      "name": "You Wish",
+      "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
         "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 217213,
       "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "You Wish + Trashboi",
-        "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
-      },
-      "artists": [
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        }
-      ],
-      "duration_ms": 120015,
-      "name": "You Wish",
-      "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "The Grinch Freestyle (feat. Latto)",
-        "url": "https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 146673,
-      "name": "The Grinch Freestyle (feat. Latto)",
-      "url": "https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "BING BONG (Remix) [feat. Sexyy Red]",
         "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 166956,
       "name": "BING BONG (Remix) [feat. Sexyy Red]",
       "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "The Grinch Freestyle (feat. Latto)",
+        "url": "https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146673,
+      "name": "The Grinch Freestyle (feat. Latto)",
+      "url": "https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -935,34 +935,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Paper Right",
-        "url": "https://open.spotify.com/album/2krzaPYb1lDEb6vkCa3UGq"
+        "name": "Conceited (feat. Lola Brooke & Maiya The Don)",
+        "url": "https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5"
       },
       "artists": [
         {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         },
         {
           "name": "Lola Brooke",
           "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
         },
         {
-          "name": "Capella Grey",
-          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
-        },
-        {
-          "name": "Flau'jae",
-          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
         }
       ],
-      "duration_ms": 192989,
-      "name": "Paper Right",
-      "url": "https://open.spotify.com/track/0Kf0XFiNQF9poPU5fElDYK"
+      "duration_ms": 195254,
+      "name": "Conceited (feat. Lola Brooke & Maiya The Don)",
+      "url": "https://open.spotify.com/track/53acd3PVcgGCux58YABBr5"
     }
   ],
   "unique_name": "Pressure",

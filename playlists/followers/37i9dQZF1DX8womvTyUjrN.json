@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 283084,
+  "2024-02-04": 283055,
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Leon Leiden & DannyLux",
+  "description": "Fresh Latin pop on the rise. Cover: Zoe Gotusso",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -111,6 +111,24 @@
       "duration_ms": 203786,
       "name": "20 Minutos",
       "url": "https://open.spotify.com/track/64tJTziuLk4Q3NJKT4j0xK"
+    },
+    {
+      "album": {
+        "name": "26 (ni tarde ni temprano)",
+        "url": "https://open.spotify.com/album/7fhRpgRxxa7FUZWQXpRitl"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203149,
+      "name": "26 - ni tarde ni temprano",
+      "url": "https://open.spotify.com/track/6ClF0j9hpvx0PcNBbiUZT9"
     },
     {
       "album": {
@@ -288,6 +306,24 @@
     },
     {
       "album": {
+        "name": "Sensible",
+        "url": "https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216389,
+      "name": "Acto Final",
+      "url": "https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6"
+    },
+    {
+      "album": {
         "name": "After",
         "url": "https://open.spotify.com/album/7sHETRN0d1Drl92z6jawH2"
       },
@@ -325,6 +361,24 @@
       "duration_ms": 213434,
       "name": "Agua Salada",
       "url": "https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v"
+    },
+    {
+      "album": {
+        "name": "ag\u00fcita con sal",
+        "url": "https://open.spotify.com/album/3zGOqF828QOc0A5KcRpJJo"
+      },
+      "artists": [
+        {
+          "name": "ISADORA",
+          "url": "https://open.spotify.com/artist/3y581XbiJyiM9Y0HBoZk8C"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156258,
+      "name": "ag\u00fcita con sal",
+      "url": "https://open.spotify.com/track/3ECMn8Zl2A1o1lQBxg9xvb"
     },
     {
       "album": {
@@ -1608,6 +1662,24 @@
     },
     {
       "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+    },
+    {
+      "album": {
         "name": "Caf\u00e9",
         "url": "https://open.spotify.com/album/4xWKfkBOyOca4gEy1Vvd7g"
       },
@@ -2198,6 +2270,24 @@
     },
     {
       "album": {
+        "name": "Cora Fr\u00edo",
+        "url": "https://open.spotify.com/album/5NfVkHKItmD5GfGmTSwy9e"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164693,
+      "name": "Cora Fr\u00edo",
+      "url": "https://open.spotify.com/track/02St1isK2dC8LVWn8BBDoY"
+    },
+    {
+      "album": {
         "name": "CORAZONES ROTOS",
         "url": "https://open.spotify.com/album/28V2AlGwC1tF5Ph9f5WGy4"
       },
@@ -2649,7 +2739,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 170250,
       "name": "Demasiado",
       "url": "https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H"
@@ -2667,7 +2757,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 179123,
       "name": "Demasiado Lejos",
       "url": "https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I"
@@ -3503,7 +3593,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 191232,
       "name": "Entr\u00e9gate",
       "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
@@ -5391,7 +5481,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 230867,
       "name": "Lo Que Queda de M\u00ed",
       "url": "https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6"
@@ -7734,6 +7824,24 @@
     },
     {
       "album": {
+        "name": "Pensando en Ti",
+        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173206,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
+    },
+    {
+      "album": {
         "name": "Perd\u00f3n",
         "url": "https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu"
       },
@@ -8743,7 +8851,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 184633,
       "name": "running water",
       "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
@@ -9097,7 +9205,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 166120,
       "name": "Sin Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/2xJnBtLmBjITEcjIJIVHs8"
@@ -10176,6 +10284,24 @@
     },
     {
       "album": {
+        "name": "Triste (Arial 1)",
+        "url": "https://open.spotify.com/album/6MfUhAGiZ9FizmSn0F8KQj"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177727,
+      "name": "Triste (Arial 1)",
+      "url": "https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F"
+    },
+    {
+      "album": {
         "name": "Tu Apodo",
         "url": "https://open.spotify.com/album/1VOfSXkm9fGGhIbZ0GzP5q"
       },
@@ -11095,7 +11221,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 162816,
       "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
       "url": "https://open.spotify.com/track/4FJHG1aW704Cq66OxuyOrq"

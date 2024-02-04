@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGE5NDUwNzcyNTc2ZWJjZjY5MDM2Njk1OTBkM2IyMTVmZDk3MmJm",
+  "snapshot_id": "MCxhMjdlNGY1YzdmYTQ5NzM2MzkxZTU4MTAyNzM3M2QzN2JmNjE2Njdl",
   "tracks": [
     {
       "added_at": "2023-12-07 01:08:32",
@@ -331,26 +331,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Mientras Tanto",
         "url": "https://open.spotify.com/album/5GgeCHEvsDIpUR5AzHkYxK"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 135000,
       "name": "Mientras Tanto",
       "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
       "added_at": "2023-05-26 18:30:42",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
-      "added_at": "2023-06-02 01:07:56",
-      "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 252574,
-      "name": "Dibujos De Mi Alma",
-      "url": "https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls"
-    },
-    {
       "added_at": "2023-12-07 01:08:32",
       "album": {
         "name": "Aguas",
@@ -475,6 +459,22 @@
       "duration_ms": 184391,
       "name": "Nunca Paran",
       "url": "https://open.spotify.com/track/19o5QsrxcPEgTqVIokkfcc"
+    },
+    {
+      "added_at": "2023-08-11 06:00:00",
+      "album": {
+        "name": "Silvia",
+        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 153139,
+      "name": "Silvia",
+      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -497,40 +497,20 @@
       "url": "https://open.spotify.com/track/523LPmnALvNfHfmxRXkVw6"
     },
     {
-      "added_at": "2023-08-11 06:00:00",
+      "added_at": "2023-06-02 01:07:56",
       "album": {
-        "name": "Silvia",
-        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
         }
       ],
-      "duration_ms": 153139,
-      "name": "Silvia",
-      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Porque Yo",
-        "url": "https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 181914,
-      "name": "Porque Yo",
-      "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
+      "duration_ms": 252574,
+      "name": "Dibujos De Mi Alma",
+      "url": "https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -551,6 +531,26 @@
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Porque Yo",
+        "url": "https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 181914,
+      "name": "Porque Yo",
+      "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Te Olvidaste",
-        "url": "https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ"
+        "name": "Piedras del Sol",
+        "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
       },
       "artists": [
         {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
         }
       ],
-      "duration_ms": 182470,
-      "name": "Te Olvidaste",
-      "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
+      "duration_ms": 222426,
+      "name": "Piedras del Sol",
+      "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
     },
     {
       "added_at": "2023-10-12 02:18:45",
@@ -1035,38 +1039,18 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Piedras del Sol",
-        "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
+        "name": "Te Olvidaste",
+        "url": "https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ"
       },
       "artists": [
         {
-          "name": "Don Couto",
-          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
         }
       ],
-      "duration_ms": 222426,
-      "name": "Piedras del Sol",
-      "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Canoas",
-        "url": "https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Canoas",
-      "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
+      "duration_ms": 182470,
+      "name": "Te Olvidaste",
+      "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
     },
     {
       "added_at": "2023-06-01 16:51:17",
@@ -1087,6 +1071,22 @@
       "duration_ms": 307882,
       "name": "Rama",
       "url": "https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Canoas",
+        "url": "https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Canoas",
+      "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1145,6 +1145,30 @@
       "url": "https://open.spotify.com/track/33cDr0F2NZHw0HonZ24aZh"
     },
     {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Negro Santo",
+        "url": "https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW"
+      },
+      "artists": [
+        {
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        },
+        {
+          "name": "Melisa Castellanos",
+          "url": "https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC"
+        },
+        {
+          "name": "Monstruos del Ma\u00f1ana",
+          "url": "https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V"
+        }
+      ],
+      "duration_ms": 267111,
+      "name": "Negro Santo",
+      "url": "https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q"
+    },
+    {
       "added_at": "2023-12-07 01:08:32",
       "album": {
         "name": "Miss Universos",
@@ -1183,6 +1207,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "El Sonido Nuevo de",
+        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Towards The Mountain",
+      "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "Sagitario",
         "url": "https://open.spotify.com/album/0caakYqzmMN6U2kOsdBugO"
       },
@@ -1199,46 +1239,6 @@
       "duration_ms": 265187,
       "name": "Sagitario",
       "url": "https://open.spotify.com/track/47o3EFBMHF6d7HgKbmA0oo"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Negro Santo",
-        "url": "https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW"
-      },
-      "artists": [
-        {
-          "name": "Don Couto",
-          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
-        },
-        {
-          "name": "Melisa Castellanos",
-          "url": "https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC"
-        },
-        {
-          "name": "Monstruos del Ma\u00f1ana",
-          "url": "https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V"
-        }
-      ],
-      "duration_ms": 267111,
-      "name": "Negro Santo",
-      "url": "https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Towards The Mountain",
-      "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
     },
     {
       "added_at": "2023-11-23 02:53:45",
@@ -1297,22 +1297,6 @@
       "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
     },
     {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 157267,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
-    },
-    {
       "added_at": "2023-05-05 23:46:53",
       "album": {
         "name": "Flores",
@@ -1327,6 +1311,22 @@
       "duration_ms": 198048,
       "name": "Flores",
       "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
+    },
+    {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 157267,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Noest\u00e1saqu\u00ed",
-        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
+        "name": "So\u00f1ando",
+        "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
       },
       "artists": [
         {
-          "name": "Caramelo Haze",
-          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
         }
       ],
-      "duration_ms": 202066,
-      "name": "Window Seat",
-      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
+      "duration_ms": 242215,
+      "name": "So\u00f1ando",
+      "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
     }
   ],
   "unique_name": "tropic.alt",

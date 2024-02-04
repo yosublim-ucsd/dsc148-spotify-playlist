@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: I Segreti
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,127 likes - 77 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,120 likes - 77 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 76 | [Riparliamone Domani](https://open.spotify.com/track/2FNnxj2DX3KJ7SMVEFw1CH) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [DIRTY \(Deluxe\)](https://open.spotify.com/album/1p5swkw2kYdhom08qbCQfc) | 3:11 |
 | 77 | [LA FINE DI UN RAGAZZO](https://open.spotify.com/track/09AN0C4hAhXzbwTbM3K1fE) | [Appino](https://open.spotify.com/artist/4DZifQP0B5j53Hw4KuMOnH) | [HUMANIZE](https://open.spotify.com/album/0OkZmSBdLAVLDfKh6OWTRl) | 3:18 |
 
-Snapshot ID: `MCxlMDM1YzcyZTNlNWFhNDM3NmMyMmNiMzE1MDM1ZmRkNWEwODc2ZjMz`
+Snapshot ID: `MCwxODA2OWIxMGNjNzU1NDAzYTEzOWZjODljZjgxODBhN2U5MjUyNjE2`

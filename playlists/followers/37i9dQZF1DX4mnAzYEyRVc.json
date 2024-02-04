@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 45755,
+  "2024-02-04": 45797,
   "date_first_scraped": "2022-05-26",
   "description": "The world series of Ska. Cover: Out Of Control Army",
   "name": "Ska Around The Globe",
@@ -1760,6 +1760,36 @@
     },
     {
       "album": {
+        "name": "Como un Rayo",
+        "url": "https://open.spotify.com/album/5pIR00URS8Wn6g5UZBGzSd"
+      },
+      "artists": [
+        {
+          "name": "Gato L\u00f3pez",
+          "url": "https://open.spotify.com/artist/07HWPf2PLYzx38I3lJIsCH"
+        },
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        },
+        {
+          "name": "Salida Nula",
+          "url": "https://open.spotify.com/artist/6PhjQPENxSE6grsBqEq1Ph"
+        },
+        {
+          "name": "Sinaia",
+          "url": "https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160633,
+      "name": "Como un Rayo",
+      "url": "https://open.spotify.com/track/0h19BHLtwLka1kBoJSITle"
+    },
+    {
+      "album": {
         "name": "King Chang\u00f3",
         "url": "https://open.spotify.com/album/3fINfP9orKcEtgwLTOdVyJ"
       },
@@ -2374,6 +2404,24 @@
     },
     {
       "album": {
+        "name": "Don't Stop Me Now",
+        "url": "https://open.spotify.com/album/67fHb4XQlWTiH9WWjtmaC4"
+      },
+      "artists": [
+        {
+          "name": "Joe Samba",
+          "url": "https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189601,
+      "name": "Don't Stop Me Now",
+      "url": "https://open.spotify.com/track/69Eq4fi8N7JvSazDTC7Us5"
+    },
+    {
+      "album": {
         "name": "Ruder Than Rude",
         "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
       },
@@ -2385,7 +2433,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 177800,
       "name": "Don't Worry, Be Happy",
       "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
@@ -3237,7 +3285,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 169688,
       "name": "Get Me Ready",
       "url": "https://open.spotify.com/track/2R6xSW1Z50F8CT31BNWMhM"
@@ -3357,7 +3405,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 225397,
       "name": "Gotta Keep It Going",
       "url": "https://open.spotify.com/track/1pBrnr4hWlpQl2a2TXyd8j"
@@ -7355,6 +7403,28 @@
       "duration_ms": 134500,
       "name": "Safe or Sorry",
       "url": "https://open.spotify.com/track/49po17vjnvi7tZ2D21fRDn"
+    },
+    {
+      "album": {
+        "name": "Salida 32",
+        "url": "https://open.spotify.com/album/236QUbOHOXCb4gosnr1gsD"
+      },
+      "artists": [
+        {
+          "name": "Funambulista",
+          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
+        },
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187040,
+      "name": "Salida 32",
+      "url": "https://open.spotify.com/track/6tWkhkZ7SHR3fDyX058p2s"
     },
     {
       "album": {

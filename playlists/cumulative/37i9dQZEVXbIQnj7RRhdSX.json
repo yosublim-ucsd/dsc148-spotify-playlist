@@ -5386,7 +5386,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 208323,
       "name": "CENERE",
       "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
@@ -18097,6 +18097,32 @@
     },
     {
       "album": {
+        "name": "Lucky Luciano (feat. Emis Killa, Kid Yugi)",
+        "url": "https://open.spotify.com/album/2GDzZ9DmKAraikV2f44plr"
+      },
+      "artists": [
+        {
+          "name": "Cancun",
+          "url": "https://open.spotify.com/artist/2CFSNUGQpQF9w7UhYIpKVY"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189805,
+      "name": "Lucky Luciano (feat. Emis Killa, Kid Yugi)",
+      "url": "https://open.spotify.com/track/2RZR9XRof0ivCXsMXhNV43"
+    },
+    {
+      "album": {
         "name": "Aka 7even",
         "url": "https://open.spotify.com/album/2bqAWd0VQTvIaAxIQSKe7i"
       },
@@ -25966,7 +25992,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
@@ -28776,7 +28802,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 230841,
       "name": "Soli A Milano (feat. Elodie)",
       "url": "https://open.spotify.com/track/2ySUSHhkltyM9LGaFbFXbj"

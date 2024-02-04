@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 242327,
+  "2024-02-04": 242430,
   "date_first_scraped": "2023-01-14",
   "description": "The biggest Japanese rock hits right now.  Cover: SUPER BEAVER\u3000\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "J-Rock ON!!",
@@ -8806,6 +8806,24 @@
     },
     {
       "album": {
+        "name": "rhythm 64",
+        "url": "https://open.spotify.com/album/0dqofszfjI1qN76jWqFiyp"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268980,
+      "name": "rhythm 64",
+      "url": "https://open.spotify.com/track/4KWMnXGQ4wCiDU1vP8uGVb"
+    },
+    {
+      "album": {
         "name": "RIDE TOUGH!",
         "url": "https://open.spotify.com/album/15ilf9j2ihJbr2JXW3lMkW"
       },
@@ -17295,7 +17313,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 268980,
       "name": "\u30ea\u30ba\u30e064",
       "url": "https://open.spotify.com/track/74GJbmNHys47ZfdoQCySpM"

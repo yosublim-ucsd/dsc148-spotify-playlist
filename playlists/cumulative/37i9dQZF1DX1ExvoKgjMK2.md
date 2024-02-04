@@ -4,7 +4,7 @@
 
 > 마침내 파인애플 섬에서 열리는 '섬머소다 락페스타'! 그 생생한 현장과 함께 뮤지션 쿠키들의 추천곡을 만나보세요! \(Finally, 'Summer Soda Rock Festa' held on Pineapple Island! Meet the recommended songs of musician Cookies along with the vivid scene!\)
 
-39 songs - 2 hr 2 min
+40 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Eye To Eye](https://open.spotify.com/track/6IEz7AX56qZ2PDH4cCEVpq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:19 | 2023-07-11 |  |
 | [Fast Slow Disco](https://open.spotify.com/track/6Xk5AaN4n4SnW71473GI7A) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Fast Slow Disco](https://open.spotify.com/album/1uuB4aCSbe5h5ga0wKUi3q) | 3:17 | 2023-07-11 |  |
 | [Glittering Dreams \(Feat\. Lee Yongshin\)](https://open.spotify.com/track/7ka3DtYOq1iYs26gVXcCJ2) | [DEVSISTERS](https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX), [Lee Yongshin](https://open.spotify.com/artist/7IupjPUInYSwlSmdCL3mKM) | [Cookie Run: Kingdom OST Summer Soda Rock Festa](https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG) | 3:27 | 2023-07-11 |  |
-| [Gorilla](https://open.spotify.com/track/3HJJBIkgywcEeJLWJcOEuN) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Message dedicated to you alone](https://open.spotify.com/album/7iEFSE5ZWUcNplkokbJMXJ) | 3:22 | 2023-07-11 |  |
+| [Gorilla](https://open.spotify.com/track/1tGoc83oIp34xqWNaO78a3) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Message dedicated to you alone](https://open.spotify.com/album/14jbz5zotwHEfJEQbt1DZQ) | 3:22 | 2023-07-20 |  |
+| [Gorilla](https://open.spotify.com/track/3HJJBIkgywcEeJLWJcOEuN) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Message dedicated to you alone](https://open.spotify.com/album/7iEFSE5ZWUcNplkokbJMXJ) | 3:22 | 2023-07-11 | 2024-02-04 |
 | [Half Clear](https://open.spotify.com/track/29OarHJDQN4Pm7SE1VmlQf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 4:25 | 2023-07-11 |  |
 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 | 2023-07-11 |  |
 | [Lemon](https://open.spotify.com/track/1I7LDTkosplUNc69ISjKJs) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Vivid](https://open.spotify.com/album/0qpYN6nZdr4CCp8Jj3EVPz) | 3:43 | 2023-07-11 |  |

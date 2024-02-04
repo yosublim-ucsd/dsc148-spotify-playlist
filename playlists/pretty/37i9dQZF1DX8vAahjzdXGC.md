@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Afgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,032 likes - 98 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,025 likes - 98 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 26 | [Do or Die \(ft\. DPR IAN\)](https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo) | [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ), [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [KINEMA](https://open.spotify.com/album/5bikiolrxKPQiFfPt7bdv8) | 3:34 |
 | 27 | [GO!!](https://open.spotify.com/track/69cgQ078J6h7IxBXwJ0a7t) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [GO!!](https://open.spotify.com/album/29T4LezOXJ6i9j0Fy2EQkf) | 3:22 |
 | 28 | [Sendiri Itu Tak Mudah 2024](https://open.spotify.com/track/2afV8bPs54dh8WGjWXRGfx) | [Yuni Shara](https://open.spotify.com/artist/23Oj0QXzYD7iIWYG2sfMDI) | [Sendiri Itu Tak Mudah 2024](https://open.spotify.com/album/062BHz6Bvi1rFu8iBHgHYj) | 4:03 |
-| 29 | [Satu Jiwa](https://open.spotify.com/track/0pfupExF7edYP8h1yYKqAK) | [Pay](https://open.spotify.com/artist/3iwIndMecfEbbkg7tYaUq3) | [Satu Jiwa](https://open.spotify.com/album/37Qao5D1bpO5WCFNk06Q5a) | 6:07 |
+| 29 | [Satu Jiwa](https://open.spotify.com/track/0pfupExF7edYP8h1yYKqAK) | [Pay](https://open.spotify.com/artist/0lrV8N2EK53DjfuDtp5QVh) | [Satu Jiwa](https://open.spotify.com/album/37Qao5D1bpO5WCFNk06Q5a) | 6:07 |
 | 30 | [Runaway](https://open.spotify.com/track/7D15PfitaVrupJoxLpyyQ0) | [Ras Muhamad](https://open.spotify.com/artist/71Qmd6sBkz4127R4KVvtl3) | [Runaway](https://open.spotify.com/album/4xgPWAfVbBeyhHKq7Fxpxy) | 4:25 |
 | 31 | [Sekali Lagi Memelukmu](https://open.spotify.com/track/2aTdF9AXq8VakWcWiE4xrX) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj), [Dinda Imelda](https://open.spotify.com/artist/6zfV1hqykwrkJ9ogTMEZ7N) | [Sekali Lagi Memelukmu](https://open.spotify.com/album/42CixxHsvKVBRyvAc6ogHI) | 3:28 |
 | 32 | [Chocolat Cadabra](https://open.spotify.com/track/0AKxVjQmNYwYuNY5sCJuPn) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Chocolat Cadabra](https://open.spotify.com/album/2grvAfP3pjbRwkhaTbbNS9) | 3:03 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 97 | [liar](https://open.spotify.com/track/5KjJiwSwzhF7lGLjfLkoxp) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [liar](https://open.spotify.com/album/54mhTR3nIgCG5jJa0bf5ME) | 3:14 |
 | 98 | [YHH \(It's You\)](https://open.spotify.com/track/2H9mlWjyOR2lK57LjvOwBy) | [Jira](https://open.spotify.com/artist/1nEMvNilshRdPzyDhFiZ7R) | [Faraway, So Close](https://open.spotify.com/album/1LGO5nhhTYJu7RrhApTU7m) | 3:45 |
 
-Snapshot ID: `MCwxOGIxYjUzZTgyMjFjZWYzZDY3MzBiMDhlZDExOWFhZDA2NTRhZDFm`
+Snapshot ID: `MCw0Y2FkYTUzMmZkMzY0NTE4N2E3YzAxZDE4NzNmYjkwN2I3NTRjYjYz`

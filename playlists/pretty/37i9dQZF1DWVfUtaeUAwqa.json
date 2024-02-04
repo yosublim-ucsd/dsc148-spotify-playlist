@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7685,
+  "num_followers": 7688,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWQ5NzQwN2MxYmM3NTIzMmI5NDMwMTM5M2FiZjZjM2U3MjAyYzU4",
+  "snapshot_id": "MCwyOTQxMTQwNTU5ZTM5YmY4MTY1MTFkNGZjM2Q2ZDc0MDY0OWZmNTNi",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "1939-1944",
-        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
-      },
-      "artists": [
-        {
-          "name": "Muggsy Spanier",
-          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
-        }
-      ],
-      "duration_ms": 175600,
-      "name": "I Wish I Could Shimmy Like My Sister Kate",
-      "url": "https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Doctor Jazz",
         "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 274808,
       "name": "Walkin' The Dog",
       "url": "https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "1939-1944",
+        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
+      },
+      "artists": [
+        {
+          "name": "Muggsy Spanier",
+          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
+        }
+      ],
+      "duration_ms": 175600,
+      "name": "I Wish I Could Shimmy Like My Sister Kate",
+      "url": "https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Goes South!",
-        "url": "https://open.spotify.com/album/4e7OZWSm43uGotnZ4Js8lc"
-      },
-      "artists": [
-        {
-          "name": "Firehouse Five Plus Two",
-          "url": "https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg"
-        }
-      ],
-      "duration_ms": 220540,
-      "name": "Milenberg Joys",
-      "url": "https://open.spotify.com/track/0XVHUN98T5As7UgtEM4bQG"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "The Complete Set - 1923-1926",
         "url": "https://open.spotify.com/album/2zkPkIqQvN9Br6jHpemVGR"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 153506,
       "name": "Stock Yards Strut",
       "url": "https://open.spotify.com/track/5O7xHPPhdMtwEsOpn1cvu7"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Goes South!",
+        "url": "https://open.spotify.com/album/4e7OZWSm43uGotnZ4Js8lc"
+      },
+      "artists": [
+        {
+          "name": "Firehouse Five Plus Two",
+          "url": "https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg"
+        }
+      ],
+      "duration_ms": 220540,
+      "name": "Milenberg Joys",
+      "url": "https://open.spotify.com/track/0XVHUN98T5As7UgtEM4bQG"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -619,18 +619,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "1939-1944",
-        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
+        "name": "Mardi Gras Parade Music from New Orleans",
+        "url": "https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o"
       },
       "artists": [
         {
-          "name": "Muggsy Spanier",
-          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
+          "name": "Sharkey Bonano",
+          "url": "https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM"
         }
       ],
-      "duration_ms": 181133,
-      "name": "Livery Stable Blues (Barnyard Blues)",
-      "url": "https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn"
+      "duration_ms": 285139,
+      "name": "While We Danced at Mardi Gras",
+      "url": "https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -651,18 +651,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Mardi Gras Parade Music from New Orleans",
-        "url": "https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o"
+        "name": "1939-1944",
+        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
       },
       "artists": [
         {
-          "name": "Sharkey Bonano",
-          "url": "https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM"
+          "name": "Muggsy Spanier",
+          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
         }
       ],
-      "duration_ms": 285139,
-      "name": "While We Danced at Mardi Gras",
-      "url": "https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d"
+      "duration_ms": 181133,
+      "name": "Livery Stable Blues (Barnyard Blues)",
+      "url": "https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -683,22 +683,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Marie Laveau",
-        "url": "https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw"
-      },
-      "artists": [
-        {
-          "name": "Papa Celestin",
-          "url": "https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx"
-        }
-      ],
-      "duration_ms": 199550,
-      "name": "Old Time Religion",
-      "url": "https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Preservation Hall Hot 4 With Duke Dejan",
         "url": "https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 250986,
       "name": "Ain't She Sweet",
       "url": "https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Marie Laveau",
+        "url": "https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw"
+      },
+      "artists": [
+        {
+          "name": "Papa Celestin",
+          "url": "https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx"
+        }
+      ],
+      "duration_ms": 199550,
+      "name": "Old Time Religion",
+      "url": "https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -827,6 +827,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "All Time Jazz: New Orleans Rhythm Kings",
+        "url": "https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl"
+      },
+      "artists": [
+        {
+          "name": "New Orleans Rhythm Kings",
+          "url": "https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA"
+        }
+      ],
+      "duration_ms": 142026,
+      "name": "Bugle Call Blues",
+      "url": "https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Jazz Chronicles: Frank Teschemacher, Vol. 1",
         "url": "https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 182906,
       "name": "Nobody's Sweetheart",
       "url": "https://open.spotify.com/track/67OgTF92JaK5nJfLFqLEEu"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "All Time Jazz: New Orleans Rhythm Kings",
-        "url": "https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl"
-      },
-      "artists": [
-        {
-          "name": "New Orleans Rhythm Kings",
-          "url": "https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA"
-        }
-      ],
-      "duration_ms": 142026,
-      "name": "Bugle Call Blues",
-      "url": "https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr"
     },
     {
       "added_at": "2020-08-19 17:19:14",

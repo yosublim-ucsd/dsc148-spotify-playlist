@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 
 > New Orleans kind of funk\. Cover: Cha Wa
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,668 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,673 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 | 11 | [My People](https://open.spotify.com/track/5Oyetsx1wOyE5P9WoyT6OA) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [My People](https://open.spotify.com/album/5Z1GzBZmKbok1f6iCacE6c) | 3:50 |
 | 12 | [Yes We Can](https://open.spotify.com/track/0y1ZUstwTl10V96fE6K3yH) | [Steven Bernstein](https://open.spotify.com/artist/5pCNKFvPUY8L47ExfM4WLj), [Steven Bernstein's Millennial Territory Orchestra](https://open.spotify.com/artist/4hhciHHoRTp619fuChfJeJ), [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Yes We Can](https://open.spotify.com/album/5hJZQ77IHFsSefcc5nRw9e) | 6:29 |
 | 13 | [Hey Pocky A\-Way \(A Way\)](https://open.spotify.com/track/6X7IfhMcE0yaYfsxjsuRTC) | [The Wild Tchoupitoulas](https://open.spotify.com/artist/1WE9X6cq7c067LtIvikUKx) | [The Wild Tchoupitoulas](https://open.spotify.com/album/5ZIIy56yYdZDkjI5tYma5L) | 3:59 |
-| 14 | [New Kind of Funk](https://open.spotify.com/track/285YwutNH5xUdow96XhkIS) | [Bo Dollis Jr](https://open.spotify.com/artist/7amHzGsj8KS7mgAYCR8czW), [The Wild Magnolias](https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz) | [New Kind of Funk](https://open.spotify.com/album/5Hn5Gplj2tYu6OQz54lltJ) | 3:32 |
+| 14 | [New Kind of Funk](https://open.spotify.com/track/285YwutNH5xUdow96XhkIS) | [Bo Dollis Jr](https://open.spotify.com/artist/4JOEF1EykbzByJXRoIuhmq), [The Wild Magnolias](https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz) | [New Kind of Funk](https://open.spotify.com/album/5Hn5Gplj2tYu6OQz54lltJ) | 3:32 |
 | 15 | [Git Up](https://open.spotify.com/track/56jMWNwEhXzatfZZmvLDLY) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Twenty Dozen](https://open.spotify.com/album/5F2NuTif1Tz4cE47DKJbQA) | 5:56 |
 | 16 | [Keepin' It Funky](https://open.spotify.com/track/3DwJcbUHZmoQKvNz5tU7Ua) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [On the Spot](https://open.spotify.com/album/2OlkUpfFyca0jPZSfLYnO9) | 6:36 |
 | 17 | [New Funk](https://open.spotify.com/track/16BdtvW5Wr8eFEyyy1istF) | [Big Sam's Funky Nation](https://open.spotify.com/artist/6Ydc3Hjjy7W964wZm2NX7G) | [Birth Of A Nation](https://open.spotify.com/album/2zOFhVE6qD8ikgNMwKb7DM) | 6:19 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 | 27 | [Pop, Popcorn Children](https://open.spotify.com/track/0YUzEKoTak7VHts4p1jglt) | [Eldridge Holmes](https://open.spotify.com/artist/25aWvOh8uTg8ZZSZvOPB9P) | [Soul Jazz Records Presents New Orleans Funk 4: Voodoo Fire In New Orleans 1951\-75](https://open.spotify.com/album/0U19UvTHNfTrxKlXe3FvcA) | 2:51 |
 | 28 | [Monk's Mardi Gras](https://open.spotify.com/track/3ts8VLXkDDZhjXYTSOKB0J) | [Big Chief Monk Boudreaux](https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer) | [Won't Bow Down](https://open.spotify.com/album/5H5loW7aKraS3pVG4BnSLP) | 3:45 |
 | 29 | [The Booger Man](https://open.spotify.com/track/0urdlB0O4g9GmevYMKt7y6) | [The Gaturs](https://open.spotify.com/artist/2EHyjVJsfQWhloS0nJErz9), [Willie Tee](https://open.spotify.com/artist/0J4hhNPKGkF96BvCakh2Ab) | [Wasted](https://open.spotify.com/album/2KGCGxusSMQukNV8mvGvFS) | 2:33 |
-| 30 | [Tootie Ma](https://open.spotify.com/track/0xNdufdlEJeBDXAYv7xxgd) | [Bo Dollis Jr](https://open.spotify.com/artist/7amHzGsj8KS7mgAYCR8czW), [The Wild Magnolias](https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz) | [New Kind of Funk](https://open.spotify.com/album/5Hn5Gplj2tYu6OQz54lltJ) | 4:08 |
+| 30 | [Tootie Ma](https://open.spotify.com/track/0xNdufdlEJeBDXAYv7xxgd) | [Bo Dollis Jr](https://open.spotify.com/artist/4JOEF1EykbzByJXRoIuhmq), [The Wild Magnolias](https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz) | [New Kind of Funk](https://open.spotify.com/album/5Hn5Gplj2tYu6OQz54lltJ) | 4:08 |
 | 31 | [Keep on Smiling](https://open.spotify.com/track/2KNatZaPy6fOzas5TPf6Va) | [Billy Iuso](https://open.spotify.com/artist/2y2GDrJ10IXjf08XEls0zW) | [Restless Natives](https://open.spotify.com/album/2MNWfX3dYF1tQjHoz1JqWj) | 4:19 |
 | 32 | [Can I Be Your Squeeze](https://open.spotify.com/track/5yJYA6dvIH4zmw7Ku2dn5f) | [Chuck Carbo](https://open.spotify.com/artist/4pbFsZJ317vxLwtAvmilGJ) | [Can I Be Your Squeeze / Take Care of Your Homework, Friend \(Digital 45\)](https://open.spotify.com/album/0HjvXbHZY3jjs0XyzX8gZo) | 2:29 |
 | 33 | [Cha Wa](https://open.spotify.com/track/4N1XezxVYISff0Bxvelbpp) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [Spyboy](https://open.spotify.com/album/5kjYBEXnL4PkBRAkgIGT9t) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 | 49 | [Going On](https://open.spotify.com/track/6E6yIFd8X0XGCbjMHJ9mPH) | [Johnny Sketch & The Dirty Notes](https://open.spotify.com/artist/4euiFJVFE4gijlrQl4b7DF) | [Sketch](https://open.spotify.com/album/0yvRNAIe87HXEiQtxV3DmM) | 4:26 |
 | 50 | [Four Horsemen](https://open.spotify.com/track/2rnxsfbS4peLw0ZP71YRO8) | [Big Chief Monk Boudreaux](https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer) | [Won't Bow Down](https://open.spotify.com/album/5H5loW7aKraS3pVG4BnSLP) | 6:47 |
 
-Snapshot ID: `MCwyZTZlYjQ2NmQ2NDMyMGRmMzc2Zjc1NTRkMzQ1OWY4ZjAzMGI3NzI1`
+Snapshot ID: `MCxkMzYxOGViMzcwOTBiY2UxNDBjYWQyMWVjNTEyOThmMzcyZWMzMWJl`

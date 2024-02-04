@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
-  "num_followers": 566037,
+  "num_followers": 566045,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmZkM2YyMzQ4MGZhODZlOWQzNmE3NWI1ZGI4MzcwNzA4NzAwNWU5",
+  "snapshot_id": "MCxjYTNkMjE4Y2VjYmNkNGUyNWEyNjNjZjFmYjU2ZmE2YTFlMzRlYmY4",
   "tracks": [
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Par-Tusa",
-        "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 190850,
-      "name": "Par-Tusa",
-      "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Cumbia Callejera",
         "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 233247,
       "name": "Coraz\u00f3n de Madre (Destapate Una Cerveza)",
       "url": "https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Par-Tusa",
+        "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 190850,
+      "name": "Par-Tusa",
+      "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1735,30 +1735,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Mujer yo te amo (Remix)",
-        "url": "https://open.spotify.com/album/5plCO9O4DlTBlmkxqY2aOp"
-      },
-      "artists": [
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Papacho Mc Caco",
-          "url": "https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM"
-        },
-        {
-          "name": "R Jota",
-          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
-        }
-      ],
-      "duration_ms": 239036,
-      "name": "Mujer yo te amo - Remix",
-      "url": "https://open.spotify.com/track/6lZVRLyjzx6SbBMbyMv5I4"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Batalla de los Dj Mixerzone",
         "url": "https://open.spotify.com/album/1J3PnGjU5bj5b02D87zzxQ"
       },
@@ -1807,6 +1783,30 @@
       "duration_ms": 1047973,
       "name": "Batalla Villera",
       "url": "https://open.spotify.com/track/3RxFQSlNXtcH3gVlAsCRhE"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Mujer yo te amo (Remix)",
+        "url": "https://open.spotify.com/album/5plCO9O4DlTBlmkxqY2aOp"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Papacho Mc Caco",
+          "url": "https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM"
+        },
+        {
+          "name": "R Jota",
+          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
+        }
+      ],
+      "duration_ms": 239036,
+      "name": "Mujer yo te amo - Remix",
+      "url": "https://open.spotify.com/track/6lZVRLyjzx6SbBMbyMv5I4"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 125239,
+      "name": "Culito Pa' Tras",
+      "url": "https://open.spotify.com/track/5B14jERiIjU6iPW7wP1x1i"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "38",
         "url": "https://open.spotify.com/album/4YtUu37m5y31rp8jrWJ9wk"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 161000,
       "name": "38",
       "url": "https://open.spotify.com/track/4My1ij0QUaZrojxzkV0OEx"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 125239,
-      "name": "Culito Pa' Tras",
-      "url": "https://open.spotify.com/track/5B14jERiIjU6iPW7wP1x1i"
     },
     {
       "added_at": "2024-02-02 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 122447,
+  "num_followers": 122560,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGI0M2JhOTNjNDkxM2VkMDY3MWZkZWMwMzcwZWU1MjllODk3MDlh",
+  "snapshot_id": "MCw2YjIyZjRjYmNmNjVkZjhkN2YyMTVlYzhiZmY4MzZiOTEzZGZmZTEx",
   "tracks": [
     {
       "added_at": "2023-12-01 06:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "La nena",
-      "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
         "name": "10 Pa' Huapanguear",
         "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Tu Regalo",
-        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 204640,
-      "name": "La Peinada (La Peinadita)",
-      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
+      "duration_ms": 174106,
+      "name": "La nena",
+      "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -767,6 +751,22 @@
       "duration_ms": 180560,
       "name": "Ojal\u00e1 Te Animes",
       "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
+        "name": "Tu Regalo",
+        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 204640,
+      "name": "La Peinada (La Peinadita)",
+      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
+        "name": "Soy El Aventurero",
+        "url": "https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy"
+      },
+      "artists": [
+        {
+          "name": "Los Felinos",
+          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
+        }
+      ],
+      "duration_ms": 186247,
+      "name": "Yo Quiero Quebrarte",
+      "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 155908,
       "name": "Que la Dejen Ir al Baile Sola",
       "url": "https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
-        "name": "Soy El Aventurero",
-        "url": "https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy"
-      },
-      "artists": [
-        {
-          "name": "Los Felinos",
-          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
-        }
-      ],
-      "duration_ms": 186247,
-      "name": "Yo Quiero Quebrarte",
-      "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -1123,22 +1123,6 @@
       "duration_ms": 201084,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 124680,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/4XlXcQZQrNJdsVjJX4ZWIy"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 124680,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/4XlXcQZQrNJdsVjJX4ZWIy"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
         "name": "Los Amos del Norte\u00f1o Sax",
         "url": "https://open.spotify.com/album/3y0EMw7EMNra80UBx1bMAM"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Los S\u00faper \u00c9xitos",
-        "url": "https://open.spotify.com/album/1zew7ZgJGk5PElzwUAsTgG"
-      },
-      "artists": [
-        {
-          "name": "K-Paz De La Sierra",
-          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "La Vecinita",
-      "url": "https://open.spotify.com/track/2zc9alxx3d15ZjdaFkWSU0"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
         "name": "Provocame",
         "url": "https://open.spotify.com/album/2Ii85DNWkjtaGgBa7LgTsQ"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 189653,
       "name": "Provocame",
       "url": "https://open.spotify.com/track/6I80AujjkdCKzMfMjDVxHx"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
+        "name": "Los S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/1zew7ZgJGk5PElzwUAsTgG"
+      },
+      "artists": [
+        {
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "La Vecinita",
+      "url": "https://open.spotify.com/track/2zc9alxx3d15ZjdaFkWSU0"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
-      },
-      "artists": [
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
-        }
-      ],
-      "duration_ms": 195103,
-      "name": "B\u00e9same Morenita",
-      "url": "https://open.spotify.com/track/0oyYP7CW5V4wwU9KkrCdY4"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
         "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
         "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 153893,
       "name": "Tumbando Ca\u00f1a (El Alacr\u00e1n)",
       "url": "https://open.spotify.com/track/1nYctdlrpFVSId9yEkxYQi"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
+      },
+      "artists": [
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
+        }
+      ],
+      "duration_ms": 195103,
+      "name": "B\u00e9same Morenita",
+      "url": "https://open.spotify.com/track/0oyYP7CW5V4wwU9KkrCdY4"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "A Mover el Guayin",
-        "url": "https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct"
-      },
-      "artists": [
-        {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Las mujeres quieren bailar",
-      "url": "https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
         "name": "Mas Control",
         "url": "https://open.spotify.com/album/4Ni4cnbjZe1V6nBrjhDn4A"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 194986,
       "name": "Cumbia Morena",
       "url": "https://open.spotify.com/track/0RW9lpU6FOyGNawOa3MbH8"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
+        "name": "A Mover el Guayin",
+        "url": "https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Las mujeres quieren bailar",
+      "url": "https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Es Viernes",
-        "url": "https://open.spotify.com/album/6wxNV1UqQ5r80Dee8C1QOJ"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "A.B. Quintanilla III",
-          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
-        }
-      ],
-      "duration_ms": 216550,
-      "name": "Es Viernes",
-      "url": "https://open.spotify.com/track/6SXlVEDXV7bMS4A3kbAGlc"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
         "name": "Cumbia Del Clavi",
         "url": "https://open.spotify.com/album/4ICPECk52pvNK0J0nvVPYY"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 169738,
       "name": "Cumbia Del Clavi",
       "url": "https://open.spotify.com/track/7H5t2fboweenWJMXeNGRVu"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
+        "name": "Es Viernes",
+        "url": "https://open.spotify.com/album/6wxNV1UqQ5r80Dee8C1QOJ"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "A.B. Quintanilla III",
+          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
+        }
+      ],
+      "duration_ms": 216550,
+      "name": "Es Viernes",
+      "url": "https://open.spotify.com/track/6SXlVEDXV7bMS4A3kbAGlc"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Chimenea (En Vivo)",
-        "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
-      },
-      "artists": [
-        {
-          "name": "Milla 22",
-          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
-        }
-      ],
-      "duration_ms": 180491,
-      "name": "Chimenea - En Vivo",
-      "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
         "name": "Tan Bonita",
         "url": "https://open.spotify.com/album/2Y6AdUP44txJRiTizYo5nj"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 193440,
       "name": "Tan Bonita",
       "url": "https://open.spotify.com/track/0AWQyrVXztj04u4DCECbGG"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
+        "name": "Chimenea (En Vivo)",
+        "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "duration_ms": 180491,
+      "name": "Chimenea - En Vivo",
+      "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "La Banda Del Carro Rojo",
-        "url": "https://open.spotify.com/album/7fetk69EbFu3iKqjhrKJdA"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "La Yaquecita",
-      "url": "https://open.spotify.com/track/6oWUM4OHFV1F6tft35yzPt"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
         "name": "Los Saxofones Alegres",
         "url": "https://open.spotify.com/album/5TxTOWMPcucYoAe1yFlKJC"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 179748,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/5PZaVbwGxAWt3jcr9rMKzW"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
+        "name": "La Banda Del Carro Rojo",
+        "url": "https://open.spotify.com/album/7fetk69EbFu3iKqjhrKJdA"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "La Yaquecita",
+      "url": "https://open.spotify.com/track/6oWUM4OHFV1F6tft35yzPt"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Los \u00danicos del Huapango Michoacano",
-        "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
-      },
-      "artists": [
-        {
-          "name": "Guizador Norte\u00f1o de Zirahu\u00e9n Mich.",
-          "url": "https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP"
-        }
-      ],
-      "duration_ms": 148375,
-      "name": "Lucesita",
-      "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
         "name": "Mujer Interesada",
         "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 160011,
       "name": "Mujer Interesada",
       "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
+        "name": "Los \u00danicos del Huapango Michoacano",
+        "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
+      },
+      "artists": [
+        {
+          "name": "Guizador Norte\u00f1o de Zirahu\u00e9n Mich.",
+          "url": "https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP"
+        }
+      ],
+      "duration_ms": 148375,
+      "name": "Lucesita",
+      "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "El wiri wiri",
-        "url": "https://open.spotify.com/album/1s5YwH3eSuRbLufdF9LHdc"
-      },
-      "artists": [
-        {
-          "name": "Clave Suprema",
-          "url": "https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK"
-        }
-      ],
-      "duration_ms": 158165,
-      "name": "El wiri wiri",
-      "url": "https://open.spotify.com/track/5qwtpyavx0oyGlKAQDiRll"
-    },
-    {
-      "added_at": "2023-12-01 06:00:00",
-      "album": {
         "name": "La Boca Les Callamos",
         "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 211626,
       "name": "El Rezado",
       "url": "https://open.spotify.com/track/0aeDePMtkPY23XbgD67orU"
+    },
+    {
+      "added_at": "2023-12-01 06:00:00",
+      "album": {
+        "name": "El wiri wiri",
+        "url": "https://open.spotify.com/album/1s5YwH3eSuRbLufdF9LHdc"
+      },
+      "artists": [
+        {
+          "name": "Clave Suprema",
+          "url": "https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK"
+        }
+      ],
+      "duration_ms": 158165,
+      "name": "El wiri wiri",
+      "url": "https://open.spotify.com/track/5qwtpyavx0oyGlKAQDiRll"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -2355,18 +2355,18 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "Puros Popurris De Sones",
-        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
+        "name": "El Baile de la Iguana (En Vivo)",
+        "url": "https://open.spotify.com/album/0XCIsMhMKAVnmTZfN8RV8o"
       },
       "artists": [
         {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+          "name": "Banda Primos de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
         }
       ],
-      "duration_ms": 199307,
-      "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
-      "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
+      "duration_ms": 163285,
+      "name": "El Baile de la Iguana (En Vivo)",
+      "url": "https://open.spotify.com/track/4Pgecg5ZeQ0qdjb8O3YRiM"
     },
     {
       "added_at": "2023-12-01 06:00:00",
@@ -2391,18 +2391,18 @@
     {
       "added_at": "2023-12-01 06:00:00",
       "album": {
-        "name": "El Baile de la Iguana (En Vivo)",
-        "url": "https://open.spotify.com/album/0XCIsMhMKAVnmTZfN8RV8o"
+        "name": "Puros Popurris De Sones",
+        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
       },
       "artists": [
         {
-          "name": "Banda Primos de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
         }
       ],
-      "duration_ms": 163285,
-      "name": "El Baile de la Iguana (En Vivo)",
-      "url": "https://open.spotify.com/track/4Pgecg5ZeQ0qdjb8O3YRiM"
+      "duration_ms": 199307,
+      "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
+      "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
     },
     {
       "added_at": "2023-12-01 06:00:00",

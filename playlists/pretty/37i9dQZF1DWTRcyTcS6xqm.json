@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 11133,
+  "num_followers": 11136,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDY3MjA5NWUzMTg1ZjJiMDJiN2U0NjExYTM4ZjhlYTBhYTc2NzE5",
+  "snapshot_id": "MCw2NzhkMWNkNzcxM2NhNDhlYzY2MTA3ZjRlM2M0ZmZlNDVkNzJlNTA2",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Benton County Relic",
-        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 143013,
-      "name": "Get Your Groove On",
-      "url": "https://open.spotify.com/track/7rTMCY2QFWN8iHD1JjCWye"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Got Soul",
         "url": "https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 239853,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Benton County Relic",
+        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 143013,
+      "name": "Get Your Groove On",
+      "url": "https://open.spotify.com/track/7rTMCY2QFWN8iHD1JjCWye"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Bookends",
-        "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "Whatcha Gon' Do",
-      "url": "https://open.spotify.com/track/3vuaT3eh47OoyjFtCjDyta"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Best Of Freddie King: The Shelter Years",
         "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 220706,
       "name": "Palace Of The King - Remastered",
       "url": "https://open.spotify.com/track/6u71ueCmdXNGjbbAX4bkOU"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Bookends",
+        "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 207720,
+      "name": "Whatcha Gon' Do",
+      "url": "https://open.spotify.com/track/3vuaT3eh47OoyjFtCjDyta"
     },
     {
       "added_at": "2020-12-01 05:01:00",

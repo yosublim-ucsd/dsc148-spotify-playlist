@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 3793547,
+  "2024-02-04": 3796002,
   "date_first_scraped": "2022-02-06",
   "description": "iykyk",
   "name": "big on the internet",
@@ -9216,6 +9216,24 @@
     },
     {
       "album": {
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
       },
@@ -16147,7 +16165,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 125252,
       "name": "older sped up",
       "url": "https://open.spotify.com/track/75EIDyYc0excxUOzold15R"

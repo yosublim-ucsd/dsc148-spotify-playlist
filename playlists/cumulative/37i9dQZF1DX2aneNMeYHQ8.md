@@ -4,7 +4,7 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Hozier
 
-357 songs - 21 hr 44 min
+358 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,8 @@
 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 | 2023-05-12 | 2023-08-27 |
 | [Wolves](https://open.spotify.com/track/1trQf7Ly3FwPJByDs5c0fX) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Wolves](https://open.spotify.com/album/2ckiJN7kAi3lTdxUumBGYE) | 3:30 | 2023-08-26 | 2023-11-08 |
 | [Wolves](https://open.spotify.com/track/7vfjYZWxOAjw5N7DLNAxvo) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Georgiana](https://open.spotify.com/album/1Kr6FJQ10sddvW8E2PeG2v) | 3:51 | 2022-02-11 | 2022-07-29 |
-| [Wondering Why](https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:52 | 2024-01-24 |  |
+| [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 | 2024-01-24 |  |
+| [Wondering Why](https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:52 | 2024-01-24 | 2024-02-04 |
 | [Worry With You](https://open.spotify.com/track/4UcjIVkjhPd33gYvR5hYw7) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Worry With You](https://open.spotify.com/album/5KLKj0easvhHlP39QUXovl) | 3:51 | 2021-05-14 | 2022-07-29 |
 | [Young Lady, You're Scaring Me](https://open.spotify.com/track/1z9tECYvYsvautkr8G2XDK) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [Heavy Meta](https://open.spotify.com/album/397kqeXjazlPQ3JqquxDz5) | 3:40 | 2021-01-29 | 2022-01-15 |
 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Your Song Saved My Life \(From Sing 2\)](https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu) | 3:30 | 2021-11-05 | 2022-10-01 |

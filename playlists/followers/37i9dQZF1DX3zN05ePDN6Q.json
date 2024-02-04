@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 55079,
+  "2024-02-04": 55094,
   "date_first_scraped": "2022-03-24",
   "description": "boom bap renasce todo dia. Foto: Parteum",
   "name": "Boom Rap",
@@ -7537,7 +7537,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 220661,
       "name": "Sigo Ligeiro",
       "url": "https://open.spotify.com/track/1jwQLspfvLF5YdMFwfJj6F"
@@ -8429,6 +8429,32 @@
       "duration_ms": 67197,
       "name": "Um Fardo (Speedup)",
       "url": "https://open.spotify.com/track/4M6qPVMKH6G5OkG3iGqNnV"
+    },
+    {
+      "album": {
+        "name": "Um Passo \u00c0 Frente",
+        "url": "https://open.spotify.com/album/4Gc0Lp4fw3fh9LJzsxMEdS"
+      },
+      "artists": [
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "TiaGuinn",
+          "url": "https://open.spotify.com/artist/2kuYQG9Ag9EKlu25ziQKbX"
+        },
+        {
+          "name": "Sombra",
+          "url": "https://open.spotify.com/artist/54cBoDN5Z8F9chRzmQz7V3"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237951,
+      "name": "Um Passo \u00c0 Frente",
+      "url": "https://open.spotify.com/track/5IlAKLd2LvB1tquxwUKDKE"
     },
     {
       "album": {

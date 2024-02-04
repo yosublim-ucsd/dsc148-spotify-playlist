@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 430136,
+  "2024-02-04": 430123,
   "date_first_scraped": "2021-12-29",
   "description": "The ultimate Lo-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
   "name": "Road Trip To Tokyo",
@@ -521,6 +521,24 @@
       "duration_ms": 120605,
       "name": "Agua",
       "url": "https://open.spotify.com/track/1FxClYw5oCPtta2I6jsqP1"
+    },
+    {
+      "album": {
+        "name": "MAHORO (Instrumental)",
+        "url": "https://open.spotify.com/album/7iPCwmAAliYJEfAU1UPWoR"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251800,
+      "name": "Ai Ga Sutaretatte - Instrumental",
+      "url": "https://open.spotify.com/track/02jGDV1UmoVugsWbd8lqt6"
     },
     {
       "album": {
@@ -13515,7 +13533,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 251800,
       "name": "\u611b\u304c\u5ec3\u308c\u305f\u3063\u3066 - Instrumental",
       "url": "https://open.spotify.com/track/3JCWebd4sVMpxStBvFpoJS"

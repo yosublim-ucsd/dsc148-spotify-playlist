@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 38467,
+  "num_followers": 38470,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjQ0NjdkNDczZTc0MGQyZmI5OWE5MWJkNmJiZGY5NzI5YjBjZTlk",
+  "snapshot_id": "MCw1ZTRlNWIyOTE1NjFjMmQzOTdhYTU4YWUwYzY2ZjJkNDJlNmM3OGRk",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Marcos Valle",
         "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 313493,
       "name": "Estrelar",
       "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Blue Note Trip 7: Birds / Beats",
-        "url": "https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 135093,
-      "name": "A R\u00e3",
-      "url": "https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Entre Dos Aguas",
         "url": "https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 362093,
       "name": "Entre Dos Aguas",
       "url": "https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Blue Note Trip 7: Birds / Beats",
+        "url": "https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 135093,
+      "name": "A R\u00e3",
+      "url": "https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -951,22 +951,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Elegance: The Birth Of The Modern Jazz Quartet",
-        "url": "https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "Softly As In A Morning Sunrise",
-      "url": "https://open.spotify.com/track/4vWMrM0AwlhRlkAdQtC2zn"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "The Original Recordings",
         "url": "https://open.spotify.com/album/2Yc5i2E3EU89eIX8QshY2W"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 243240,
       "name": "Alegria",
       "url": "https://open.spotify.com/track/4mNU7ddD6fRyjMRBOOfj28"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Elegance: The Birth Of The Modern Jazz Quartet",
+        "url": "https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "Softly As In A Morning Sunrise",
+      "url": "https://open.spotify.com/track/4vWMrM0AwlhRlkAdQtC2zn"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "The Vintage Series",
+        "url": "https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD"
+      },
+      "artists": [
+        {
+          "name": "Pat Kelly",
+          "url": "https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi"
+        }
+      ],
+      "duration_ms": 166186,
+      "name": "Little Boy Blue",
+      "url": "https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Reggae Greats - Toots & The Maytals",
         "url": "https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 269066,
       "name": "Captain Bacardi",
       "url": "https://open.spotify.com/track/0WP3ohqwUavEJHGxVpsQqY"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "The Vintage Series",
-        "url": "https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD"
-      },
-      "artists": [
-        {
-          "name": "Pat Kelly",
-          "url": "https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi"
-        }
-      ],
-      "duration_ms": 166186,
-      "name": "Little Boy Blue",
-      "url": "https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn"
     },
     {
       "added_at": "2021-03-15 16:04:53",

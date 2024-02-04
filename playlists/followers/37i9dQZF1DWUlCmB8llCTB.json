@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 742638,
+  "2024-02-04": 742667,
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con Justin Quiles, Anitta y Lenny Tav\u00e1rez.",
+  "description": "Perreando toda la noche con Bellakath.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -631,7 +631,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 242819,
       "name": "AL CALLAO'",
       "url": "https://open.spotify.com/track/110wwp2SRousmXjvx8zIoI"
@@ -2193,6 +2193,32 @@
       "duration_ms": 223750,
       "name": "Callejera",
       "url": "https://open.spotify.com/track/6DoeuCz4P0NmD4aCghjgpf"
+    },
+    {
+      "album": {
+        "name": "antes de volverme a enamorar",
+        "url": "https://open.spotify.com/album/1EafhR0yyfNwVuBoVk78L2"
+      },
+      "artists": [
+        {
+          "name": "Itzza Primera",
+          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
+        },
+        {
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        },
+        {
+          "name": "Koora",
+          "url": "https://open.spotify.com/artist/3mWID7rld1CKPADQLJnqQI"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186976,
+      "name": "CAMARO",
+      "url": "https://open.spotify.com/track/4SCTkSA6qR3jlDqbShyMRa"
     },
     {
       "album": {
@@ -8302,6 +8328,28 @@
     },
     {
       "album": {
+        "name": "MAMI CHAKALOSA",
+        "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136843,
+      "name": "MAMI CHAKALOSA",
+      "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
+    },
+    {
+      "album": {
         "name": "Mami Chula",
         "url": "https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS"
       },
@@ -9163,6 +9211,28 @@
       "duration_ms": 213818,
       "name": "Mmmm",
       "url": "https://open.spotify.com/track/2jleU5RN760PwXvHxIirFs"
+    },
+    {
+      "album": {
+        "name": "Modo Avion",
+        "url": "https://open.spotify.com/album/0AfpUvuyMDBXpwyRG4h42C"
+      },
+      "artists": [
+        {
+          "name": "AGUDELO888",
+          "url": "https://open.spotify.com/artist/3awRE6jqoFW9iipvpPTCMM"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151710,
+      "name": "Modo Avion",
+      "url": "https://open.spotify.com/track/3J4o53SjMVc005uHVNS17q"
     },
     {
       "album": {
@@ -11401,7 +11471,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 280868,
       "name": "Podemos Repetirlo (Remix)",
       "url": "https://open.spotify.com/track/6AkCPRgpyt2jMF3RGjzJsw"
@@ -12347,7 +12417,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 159170,
       "name": "Reggaeton Champagne",
       "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"

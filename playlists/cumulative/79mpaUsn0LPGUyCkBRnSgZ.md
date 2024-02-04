@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-546 songs - 1 day 11 hr 42 min
+547 songs - 1 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Dolphin](https://open.spotify.com/track/10n7ftA9Y0hAdaFMWDYsk2) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Buoys](https://open.spotify.com/album/3vnTHiTvlOcNFg2wCK0Uyl) | 3:41 | 2024-01-31 | 2024-02-01 |
 | [Don't Break The Silence](https://open.spotify.com/track/7fTEiF3rNCc8TDagCAXjhd) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 1:44 | 2023-04-24 |  |
 | [Don't Go Near The Water \- Remastered 2009](https://open.spotify.com/track/1bqc35qbUzNP7kH19ql8PF) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 2:41 | 2023-08-04 |  |
+| [Don't Know Why](https://open.spotify.com/track/7f5zk7bC3XL5AuGvrg6rsp) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Remastered 2022\)](https://open.spotify.com/album/3ul9GmXlTkmRMh3OciXxFR) | 3:06 | 2024-02-03 |  |
 | [Don't Stop Believin' \(2022 Remaster\)](https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:09 | 2024-01-18 |  |
 | [Donkey Show](https://open.spotify.com/track/2QvOY8Vsy4ZOvV2id0QmTP) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:10 | 2023-09-17 |  |
 | [Doris](https://open.spotify.com/track/01psXbOBykOM12RHATPCjr) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:50 | 2022-07-04 |  |

@@ -4,7 +4,7 @@
 
 > This is Liran' Roll\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 49 min
+58 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Barco Azul \- Remastered](https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 6:58 | 2023-01-14 |  |
 | [California](https://open.spotify.com/track/5ElUJL40Y3LI4KQHbEjQLv) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Disco de Aniversario](https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc) | 3:20 | 2023-01-14 |  |
 | [Chamán](https://open.spotify.com/track/4RWdBsWdQ2VBEOMz58EXa8) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Chamán](https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU) | 4:45 | 2023-01-14 |  |
+| [Chucho el Roto \- En Vivo](https://open.spotify.com/track/1lveoKohEpXmhc73uVrmkg) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [En Vivo, Vol\. 1](https://open.spotify.com/album/5qU2H5w2q5zcvJC8K2YXZD) | 1:19 | 2024-02-03 |  |
 | [Cinco Minutos](https://open.spotify.com/track/0pBNdm9fBnHwQwaCrXASnr) | [Susanne Smolinska](https://open.spotify.com/artist/31GlKkTwDtUaNgtWFiM7o9), [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Cinco Minutos](https://open.spotify.com/album/2unwZbPaSvrV5Z3FLVKw4v) | 4:41 | 2023-01-14 | 2023-04-16 |
 | [Cuarto para las Dos](https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 3:50 | 2023-01-14 |  |
 | [Diez Cuarenta y Siete](https://open.spotify.com/track/3imJOXUD815t4kSwrY8HwA) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 4:03 | 2023-01-14 |  |
@@ -63,7 +64,7 @@
 | [Tu Cariño](https://open.spotify.com/track/5UGbVlpbOP666CxjZ1ma5A) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 2:38 | 2023-04-15 |  |
 | [Un Adiós](https://open.spotify.com/track/452k6YfwmgEowaTVupBo9s) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [D.F.](https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh) | 4:03 | 2023-01-14 |  |
 | [Una Oportunidad](https://open.spotify.com/track/6RmwaYf0muJ2WnDwc9rc3G) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 5:01 | 2023-01-14 |  |
-| [Ya Lo Se \- Remastered](https://open.spotify.com/track/25XLmWiicRdRlcoaHSrAkW) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 2:54 | 2023-01-14 |  |
+| [Ya Lo Se \- Remastered](https://open.spotify.com/track/25XLmWiicRdRlcoaHSrAkW) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 2:54 | 2023-01-14 | 2024-02-04 |
 | [Ya no quiero verte](https://open.spotify.com/track/0wX4Lj26Hy8WiPeentJPhU) | [Alma Callejera](https://open.spotify.com/artist/5XI6PvbOvooRX47lw2VOyO), [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Drogas, Sexo y Alcohol](https://open.spotify.com/album/3MGjJJHH8Jc7ZVbgab0hwO) | 3:35 | 2023-01-14 | 2023-12-14 |
 
 \*This playlist was first scraped on 2023-01-14. Prior content cannot be recovered.

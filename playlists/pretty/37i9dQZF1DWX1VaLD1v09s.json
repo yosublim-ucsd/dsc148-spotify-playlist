@@ -1,12 +1,12 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 76404,
+  "num_followers": 76395,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGMyYjRkNTUzNmM3NWJmZWY1MGVlYmE1NGQxNTMwZDEzNThiNjY3",
+  "snapshot_id": "MCxiM2I5MzhjMjJhNTBjZWI0OTQwNmFmMzhlMzgyOWI4NzhlNzY2M2Vl",
   "tracks": [
     {
       "added_at": "2023-04-09 08:59:03",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 498426,
-      "name": "Break Every Chain - Live",
-      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Surrounded",
         "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 300026,
       "name": "Surrounded (Fight My Battles)",
       "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 498426,
+      "name": "Break Every Chain - Live",
+      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Best News Ever",
-      "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Poets & Saints",
         "url": "https://open.spotify.com/album/4Ep9pR8RIXphUEEkgeELBK"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 253706,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/13p3U002Sv8z722mFjTuWi"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "Best News Ever",
+      "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1143,18 +1143,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Everything And Nothing Less (Live)",
-        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
+        "name": "You Hold It All (Live)",
+        "url": "https://open.spotify.com/album/7ELf5tQ4o4MQP1d6Ps8t5R"
       },
       "artists": [
         {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+          "name": "New Life Worship",
+          "url": "https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g"
+        },
+        {
+          "name": "Integrity's Hosanna! Music",
+          "url": "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
         }
       ],
-      "duration_ms": 326613,
-      "name": "God Of Miracles - Live",
-      "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
+      "duration_ms": 328933,
+      "name": "Great I Am - Live",
+      "url": "https://open.spotify.com/track/3rJAP9G6hjx2kN8Jsvas09"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1183,22 +1187,18 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "You Hold It All (Live)",
-        "url": "https://open.spotify.com/album/7ELf5tQ4o4MQP1d6Ps8t5R"
+        "name": "Everything And Nothing Less (Live)",
+        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
       },
       "artists": [
         {
-          "name": "New Life Worship",
-          "url": "https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g"
-        },
-        {
-          "name": "Integrity's Hosanna! Music",
-          "url": "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
         }
       ],
-      "duration_ms": 328933,
-      "name": "Great I Am - Live",
-      "url": "https://open.spotify.com/track/3rJAP9G6hjx2kN8Jsvas09"
+      "duration_ms": 326613,
+      "name": "God Of Miracles - Live",
+      "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1459,8 +1459,8 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "My Hope Secure",
-        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
+        "name": "The Narrow Sea",
+        "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
       },
       "artists": [
         {
@@ -1468,25 +1468,9 @@
           "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
         }
       ],
-      "duration_ms": 256734,
-      "name": "My Hope Secure",
-      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "Saints and Sinners",
-        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Because He Lives (Amen)",
-      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
+      "duration_ms": 313489,
+      "name": "O Rock Eternal",
+      "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1511,6 +1495,22 @@
       "duration_ms": 537866,
       "name": "Your Glory / Nothing But The Blood - Live",
       "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Because He Lives (Amen)",
+      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1623,8 +1623,8 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "The Narrow Sea",
-        "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
+        "name": "My Hope Secure",
+        "url": "https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6"
       },
       "artists": [
         {
@@ -1632,9 +1632,9 @@
           "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
         }
       ],
-      "duration_ms": 313489,
-      "name": "O Rock Eternal",
-      "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
+      "duration_ms": 256734,
+      "name": "My Hope Secure",
+      "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "Inheritance",
+        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 278779,
+      "name": "Even Unto Death",
+      "url": "https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -1795,18 +1811,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Inheritance",
-        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
+        "name": "Fear No More EP",
+        "url": "https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE"
       },
       "artists": [
         {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        },
+        {
+          "name": "brook(e)",
+          "url": "https://open.spotify.com/artist/1VEX0MeLsiGvEq2OYP9hri"
         }
       ],
-      "duration_ms": 278779,
-      "name": "Even Unto Death",
-      "url": "https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA"
+      "duration_ms": 233216,
+      "name": "Blessing I Can\u2019t See",
+      "url": "https://open.spotify.com/track/21Inq0qVklN60Sn15ye3bS"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1847,26 +1867,6 @@
       "duration_ms": 497560,
       "name": "All Hail King Jesus",
       "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "Fear No More EP",
-        "url": "https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        },
-        {
-          "name": "brook(e)",
-          "url": "https://open.spotify.com/artist/1VEX0MeLsiGvEq2OYP9hri"
-        }
-      ],
-      "duration_ms": 233216,
-      "name": "Blessing I Can\u2019t See",
-      "url": "https://open.spotify.com/track/21Inq0qVklN60Sn15ye3bS"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "The Life Project",
-        "url": "https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 446666,
-      "name": "You're Bigger",
-      "url": "https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Passion: Everything Glorious",
         "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 327400,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "The Life Project",
+        "url": "https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 446666,
+      "name": "You're Bigger",
+      "url": "https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "Just As I Am (A Legacy Of Hymns And Worship)",
+        "url": "https://open.spotify.com/album/5Wm8dbKLD7ermzHvC9hIRv"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 356440,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/086YlKy50RFarVYtRFFTGJ"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "Cutting Edge 1 & 2",
         "url": "https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v"
       },
@@ -2179,22 +2195,6 @@
       "duration_ms": 505120,
       "name": "If God / Nothing But the Blood",
       "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "Just As I Am (A Legacy Of Hymns And Worship)",
-        "url": "https://open.spotify.com/album/5Wm8dbKLD7ermzHvC9hIRv"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 356440,
-      "name": "Revelation Song",
-      "url": "https://open.spotify.com/track/086YlKy50RFarVYtRFFTGJ"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2415,6 +2415,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "Reunited",
+        "url": "https://open.spotify.com/album/7ygK4tK0qSpdlMau3sBnO5"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "duration_ms": 216226,
+      "name": "Because He Lives",
+      "url": "https://open.spotify.com/track/1OqKHs0OGzlOib5BtuUT7L"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "My Utmost For His Highest",
         "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
       },
@@ -2431,22 +2447,6 @@
       "duration_ms": 201401,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/0tXaXcuDbaX0Jhzns45Gx5"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "Reunited",
-        "url": "https://open.spotify.com/album/7ygK4tK0qSpdlMau3sBnO5"
-      },
-      "artists": [
-        {
-          "name": "Gaither Vocal Band",
-          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
-        }
-      ],
-      "duration_ms": 216226,
-      "name": "Because He Lives",
-      "url": "https://open.spotify.com/track/1OqKHs0OGzlOib5BtuUT7L"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2623,6 +2623,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "Covered: Alive In Asia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 338466,
+      "name": "Risen",
+      "url": "https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "God You Are",
         "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
       },
@@ -2639,22 +2655,6 @@
       "duration_ms": 265286,
       "name": "God You Are (feat. Josh Baldwin)",
       "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "Covered: Alive In Asia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 338466,
-      "name": "Risen",
-      "url": "https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh"
     }
   ],
   "unique_name": "Easter",

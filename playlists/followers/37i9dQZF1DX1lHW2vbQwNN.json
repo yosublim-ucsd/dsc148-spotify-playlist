@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 169623,
+  "2024-02-04": 169972,
   "date_first_scraped": "2022-05-22",
-  "description": "Taking it back to the 2000s. Cover: Twista",
+  "description": "Taking it back to the 2000s. Cover: Drake",
   "name": "I Love My 2000s Hip-Hop",
   "tracks": [
     {
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 313400,
       "name": "EveryGirl In The World",
       "url": "https://open.spotify.com/track/1EjzkhMFJgl08Qkn2uDV1d"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 204346,
       "name": "Good Googly Moogly (feat. Three 6 Mafia) - Explicit Album Version",
       "url": "https://open.spotify.com/track/6GfKswgRCAm4dvzrwrH2ud"
@@ -1211,6 +1211,24 @@
       "duration_ms": 228240,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290791,
+      "name": "Houstatlantavegas",
+      "url": "https://open.spotify.com/track/3XLSlQLJf3Ut0zvMUxnF1h"
     },
     {
       "album": {
@@ -3039,6 +3057,32 @@
       "duration_ms": 267293,
       "name": "Stuntin' Like My Daddy - Street",
       "url": "https://open.spotify.com/track/3rMyMv8EjKXoPnaRo2hdJN"
+    },
+    {
+      "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375050,
+      "name": "Successful (feat. Trey Songz & Lil Wayne)",
+      "url": "https://open.spotify.com/track/6NwhtCYkfwWlcR62Ac4E7y"
     },
     {
       "album": {

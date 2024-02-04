@@ -660,7 +660,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 291866,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn"
@@ -1609,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312333,
+      "name": "Dejame Llorar",
+      "url": "https://open.spotify.com/track/3dH0WIQ1noUsRvA4OtHSrl"
+    },
+    {
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
       },
@@ -1861,24 +1879,6 @@
     },
     {
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "date_added": "2022-01-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 312333,
-      "name": "D\u00e9jame llorar",
-      "url": "https://open.spotify.com/track/3dH0WIQ1noUsRvA4OtHSrl"
-    },
-    {
-      "album": {
         "name": "Romances",
         "url": "https://open.spotify.com/album/7k5Wb6g7tsGezxQc2dwCK1"
       },
@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 228493,
       "name": "El Cielo a Mi Favor",
       "url": "https://open.spotify.com/track/0BJwrbkZKf7KwlwBOJbD8i"
@@ -3446,7 +3446,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 257773,
-      "name": "La cima del cielo",
+      "name": "La Cima del Cielo",
       "url": "https://open.spotify.com/track/3C9fAn3IgajBTwR274huch"
     },
     {
@@ -4106,7 +4106,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 281800,
       "name": "Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/5pSfMKeflHUgtXJHIXzioQ"
@@ -4216,7 +4216,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 298293,
-      "name": "Me va a extra\u00f1ar (aka Unchain My Heart)",
+      "name": "Me Va a Extra\u00f1ar (Unchain My Heart)",
       "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
     },
     {
@@ -6958,7 +6958,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 289866,
-      "name": "Tan enamorados",
+      "name": "Tan Enamorados",
       "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
     },
     {
@@ -7256,7 +7256,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 292760,
       "name": "Te Llor\u00e9 Un R\u00edo",
       "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"

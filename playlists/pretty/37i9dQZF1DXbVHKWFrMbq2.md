@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 
 > Canciones chill para ayudarte a bajar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,307 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,318 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 | 67 | [Me Gustas Tú](https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Nocturna](https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3) | 2:29 |
 | 68 | [POCA FE](https://open.spotify.com/track/122xkWF4LRrAIZPzZEogy9) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [POCA FE](https://open.spotify.com/album/5fdkUi9K20VRbdYLdfJJEn) | 3:01 |
 | 69 | [Volverte a Ver](https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Volverte a Ver](https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta) | 3:34 |
-| 70 | [Beso de Luna](https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:03 |
-| 71 | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/track/2R2BQLVW5l8eStyuQB4EJh) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/album/6CiyiAWLFRiEQRK6lSSRRh) | 3:09 |
+| 70 | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/track/2R2BQLVW5l8eStyuQB4EJh) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/album/6CiyiAWLFRiEQRK6lSSRRh) | 3:09 |
+| 71 | [Beso de Luna](https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:03 |
 | 72 | [El Momento Perfecto](https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [El Momento Perfecto](https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS) | 3:21 |
 | 73 | [Ya Borré Tu Número del Celular](https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Ya Borré Tu Número del Celular](https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8) | 3:31 |
 | 74 | [No Voy a Ser Yo](https://open.spotify.com/track/1eMgItwutbGkckkl3JTKFH) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [No Voy a Ser Yo](https://open.spotify.com/album/1tnAVXOqJfrqGUgG6ZUm3e) | 2:55 |
 | 75 | [Una Lágrima y Un Beso](https://open.spotify.com/track/1WKQltJAgWGgBi038RjysV) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Una Lágrima y Un Beso](https://open.spotify.com/album/5rnUwBTdluUlt8sJIxyRCS) | 3:20 |
 
-Snapshot ID: `MCwxYTQ2YjZhNGY1OGIzMzg3M2Y2ODMxZGE1ZjEyYjU5MzdhNzE4NTBk`
+Snapshot ID: `MCwzYWQzOWI2ZWM3MzU0NTgyMjZmOTM0ZmFkZDQ0MGE1NTQ0MjNlNjBm`

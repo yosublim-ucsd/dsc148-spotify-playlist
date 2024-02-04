@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,362 likes - 192 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,321 likes - 192 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 93 | [Thee Three Kings](https://open.spotify.com/track/0gLhQlK93kSNd4YqwG3aoV) | [Syntax Records](https://open.spotify.com/artist/1mPIhSlmK2lSB18kG8pqIU) | [Merry Christmas](https://open.spotify.com/album/2FIfNBD8O0krrT9nPNuvZP) | 3:59 |
 | 94 | [Christmas In The Backyard](https://open.spotify.com/track/4tb8C9aWere1hZXiC5CQcR) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Christmas In The Backyard](https://open.spotify.com/album/29beFzNrz6x5wI3vAqJytO) | 2:36 |
 | 95 | [Angels we have Heard](https://open.spotify.com/track/36kN6zMizaH3nfp5dzQYZZ) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Kaskade Christmas Volume 2](https://open.spotify.com/album/1ad4N7iaoiJtwXZDEX085v) | 3:11 |
-| 96 | [Christmas Dreaming](https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:33 |
+| 96 | [Christmas Dreaming](https://open.spotify.com/track/2IChCRHxRCVbo8i2zP4NVF) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3) | 2:33 |
 | 97 | [This Christmas](https://open.spotify.com/track/76Mvd1n5DHtoDdvBoVLzd0) | [Lexi Cline](https://open.spotify.com/artist/6lEoCGXHaKRE9SjA3qZIIr) | [This Christmas](https://open.spotify.com/album/14P91aNI4dA7XxVAGggSKz) | 2:58 |
 | 98 | [Let It Snow](https://open.spotify.com/track/7w5wZh6w1Ipa8jqf2nLnZY) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1), [Brigetta](https://open.spotify.com/artist/6dAOkHEQVpVD8mFj7OQv8M) | [Let It Snow](https://open.spotify.com/album/0o6JmDYSQR6qy8Ya3QKLvy) | 1:54 |
 | 99 | [Last Christmas](https://open.spotify.com/track/2OzSyKZBBVvFcZ7Ddr3VKU) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Last Christmas](https://open.spotify.com/album/0hWKsbIJAxQsvd0Yzt7TAY) | 3:41 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 191 | [Please Come Home for Christmas](https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Please Come Home for Christmas](https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8) | 2:45 |
 | 192 | [At Least I Have Santa](https://open.spotify.com/track/78InQyI314pCq9GVTrUBib) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [At Least I Have Santa](https://open.spotify.com/album/6cpaLiEmVaQrpPUPiAePDF) | 3:24 |
 
-Snapshot ID: `MCxiMDkwYmI1N2MxYjY2MTFiNGQ1NDRjYWUxYTFhOTZiYzkwYTlkMjYx`
+Snapshot ID: `MCwxMmU2M2EzZTFkODBkZjg2OGM4NWVlNTUyMzY0NTg1MmQ3YjZjYmRi`

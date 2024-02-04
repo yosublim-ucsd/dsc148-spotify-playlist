@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,111 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,096 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 70 | [Life, Love & Laughter](https://open.spotify.com/track/4d0mp3RK1yCY2RkWvLibNV) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Pass It Around](https://open.spotify.com/album/5UGyKjOCdpxPkamcLkJNZL) | 3:10 |
 | 71 | [Brother the Cloud](https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Brother the Cloud](https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB) | 4:22 |
 | 72 | [Living Single](https://open.spotify.com/track/2mVjzhHBcqZ9WRzGsX59Tf) | [Kayavibe](https://open.spotify.com/artist/4tuJL0fsbiMtUyKNGCQxox) | [Kayavibe](https://open.spotify.com/album/6oHQpLOX2QXBhZXbMBFo3u) | 3:22 |
-| 73 | [Drinkin' Tonight](https://open.spotify.com/track/2uIHbGPZtzNwHbj20lc1ZD) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Postcards from Paradise](https://open.spotify.com/album/4IPsLOsqfr9AROZ7r0u6ZG) | 3:05 |
-| 74 | [What's My Scene](https://open.spotify.com/track/5Dpv08jVFM3UHvmY6zp7qi) | [Hoodoo Gurus](https://open.spotify.com/artist/7HZQqtnOYmjJl8XAB3Vg8y) | [Blow Your Cool](https://open.spotify.com/album/47CRqx6c9sIWmzpM5GXFYG) | 3:49 |
+| 73 | [What's My Scene](https://open.spotify.com/track/5Dpv08jVFM3UHvmY6zp7qi) | [Hoodoo Gurus](https://open.spotify.com/artist/7HZQqtnOYmjJl8XAB3Vg8y) | [Blow Your Cool](https://open.spotify.com/album/47CRqx6c9sIWmzpM5GXFYG) | 3:49 |
+| 74 | [Drinkin' Tonight](https://open.spotify.com/track/2uIHbGPZtzNwHbj20lc1ZD) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Postcards from Paradise](https://open.spotify.com/album/4IPsLOsqfr9AROZ7r0u6ZG) | 3:05 |
 | 75 | [Free da Herb](https://open.spotify.com/track/1SzqBvS1g7jTvRWTmsvWjL) | [Sashamon](https://open.spotify.com/artist/3EogSxYXgnES1hVk0nxB8X) | [Free da Herb](https://open.spotify.com/album/4DNg55sslW9KlxU7UcDFEx) | 4:39 |
 
-Snapshot ID: `MCwzY2NkNmNmMzhlYjg3ZmY0NmZiNzllNDU1ODhjOGU2ZTRmY2VlZjVi`
+Snapshot ID: `MCwzNGEyMDAzMjkzZDQ4M2ExZjYxNzQ1MDQ1ZTU3ZTI2ZDQ3NDU1ZWUz`

@@ -4,7 +4,7 @@
 
 > This is Britney Spears\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 56 min
+66 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,8 +39,9 @@
 | [I'm Not a Girl, Not Yet a Woman](https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:51 | 2023-07-28 |  |
 | [I'm Not a Girl, Not Yet a Woman \- Snakehips Remix](https://open.spotify.com/track/4AWNbyE153F4Olg7fTJFD5) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [I'm Not a Girl, Not Yet a Woman \(Snakehips Remix\)](https://open.spotify.com/album/6hB0pjxCzWPAIZDwpxQ5yh) | 2:47 | 2023-11-10 | 2023-12-14 |
 | [If U Seek Amy](https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:36 | 2023-07-28 |  |
-| [Inside Out](https://open.spotify.com/track/1MXmaCZEtfPrCbtYjJIbzl) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:38 | 2024-02-01 |  |
+| [Inside Out](https://open.spotify.com/track/1MXmaCZEtfPrCbtYjJIbzl) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:38 | 2024-02-01 | 2024-02-04 |
 | [Kill the Lights](https://open.spotify.com/track/263w5yLLnexUUOMc5Py9m5) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:59 | 2023-07-28 |  |
+| [Liar](https://open.spotify.com/track/0neX5EbmpmOBvoMd6H9sJ0) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Deluxe\)](https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV) | 3:16 | 2024-02-03 |  |
 | [Lucky](https://open.spotify.com/track/2TTYIwTM2iLC1YOyHuhRMt) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:26 | 2023-07-28 |  |
 | [Make Me..\. \(feat\. G\-Eazy\)](https://open.spotify.com/track/7JGoiIouGqreRXOrHFAIyr) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Glory \(Deluxe\)](https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV) | 3:50 | 2023-07-28 |  |
 | [Matches](https://open.spotify.com/track/5x0ON9RTinvk06U7SwLXjW) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Glory \(Deluxe\)](https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV) | 2:52 | 2023-07-28 |  |

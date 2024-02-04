@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Norah Jones, Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,483 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,500 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 38 | [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 |
 | 39 | [On The Way](https://open.spotify.com/track/0TvxrH69oDuV4k9NZAvs3l) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [On The Way](https://open.spotify.com/album/3H2v38YigQUXP24Yhq49YA) | 3:12 |
 | 40 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 |
-| 41 | [Hand to Hand](https://open.spotify.com/track/4AaVY4XuXeHJZwUBSRSoC6) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Hand to Hand](https://open.spotify.com/album/7HUM44SiRxsE6TXDjNF7wp) | 3:46 |
+| 41 | [Hand to Hand](https://open.spotify.com/track/7i4onkA2fRuV0viFNWINID) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 3:46 |
 | 42 | [I Promise](https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [I Promise](https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs) | 3:41 |
 | 43 | [Days Can Turn Around](https://open.spotify.com/track/2d69jnkYE4Yey8HJPHXfxz) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Days Can Turn Around](https://open.spotify.com/album/2bApvLHcHTG46g3EwfYjkE) | 3:58 |
 | 44 | [lagunas](https://open.spotify.com/track/4lB3bD59ItctK9ii4Thy3y) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [lagunas](https://open.spotify.com/album/1pCNxr8UOeAaWuJ67ZFsfx) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Birds Of San Francisco](https://open.spotify.com/track/7j3cj3HJThPKIu6yqSJvm0) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Birds Of San Francisco](https://open.spotify.com/album/3qdgHPEHBc8QgfU5nCtEDS) | 3:30 |
 | 100 | [Wasn’t Easy](https://open.spotify.com/track/4WFgUozeQqYpohlO0T09Av) | [Sorry Girls](https://open.spotify.com/artist/5tMARXM4XOsODrCmJ0zI2M) | [Wasn’t Easy](https://open.spotify.com/album/6MCd261C9Nuk0K3Ckjr6Nv) | 2:19 |
 
-Snapshot ID: `MCxhZjIwYzFjZTI2ZTQxN2EyZWYxOWM4NGJhMGQzOWJmZGFiZTdlNzg4`
+Snapshot ID: `MCw3OGVjMjU2MDViNTcwM2UzNjU5YWM2YWU1OWYzOGQzNDZkNzRjZTM0`

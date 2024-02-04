@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,541 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,553 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 7 | [El\-Shaddai](https://open.spotify.com/track/7rJlIt0X1SZXLyCNOerJWu) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 4:08 |
 | 8 | [That's What Love Is For](https://open.spotify.com/track/367dmPOxuMP8FsrZHenNnq) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 4:17 |
 | 9 | [Baby Baby \- 7" No Getting Over You Mix](https://open.spotify.com/track/3SkVJ7vpdmLSWPgnGTPqsW) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion \(30th Anniversary Edition\)](https://open.spotify.com/album/10TrG0LzNwYP8nvAckpPtD) | 4:01 |
-| 10 | [Better Than A Hallelujah](https://open.spotify.com/track/6RlliUfY8hTxnaK85e6D5Z) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Somewhere Down The Road](https://open.spotify.com/album/0JUPgkd0kgGqVxVAZTEsKY) | 3:42 |
-| 11 | [Thy Word](https://open.spotify.com/track/58OoLCgCm83Wogp7JLl30g) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 3:20 |
+| 10 | [Thy Word](https://open.spotify.com/track/58OoLCgCm83Wogp7JLl30g) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 3:20 |
+| 11 | [Better Than A Hallelujah](https://open.spotify.com/track/6RlliUfY8hTxnaK85e6D5Z) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Somewhere Down The Road](https://open.spotify.com/album/0JUPgkd0kgGqVxVAZTEsKY) | 3:42 |
 | 12 | [Joyful, Joyful, We Adore Thee](https://open.spotify.com/track/5hU9GCuztvoXlhKTJAlql6) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Rock Of Ages...Hymns & Faith](https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi) | 3:25 |
 | 13 | [Holy, Holy, Holy](https://open.spotify.com/track/5EYbEcW9oURdvzhpWzSSwb) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 2:26 |
 | 14 | [Every Heartbeat](https://open.spotify.com/track/55lX3vm1G35mUpawXHK5Te) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 3:33 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 34 | [House Of Love](https://open.spotify.com/track/1NLUdUNqji3A8G1UMKHicV) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 4:36 |
 | 35 | [My Jesus, I Love Thee](https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:34 |
 | 36 | [I Belong](https://open.spotify.com/track/4wsWAFT2FNbju838Mip9gJ) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [I Belong](https://open.spotify.com/album/6EhiVZsRCe402TDY6GdnxQ) | 3:25 |
-| 37 | [Good For Me](https://open.spotify.com/track/2GwDKcTJlvoRDaJXkA7ULJ) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 3:59 |
-| 38 | [Doubly Good To You \- Remastered](https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 3:14 |
+| 37 | [Doubly Good To You \- Remastered](https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 3:14 |
+| 38 | [Good For Me](https://open.spotify.com/track/2GwDKcTJlvoRDaJXkA7ULJ) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 3:59 |
 | 39 | [Could I Have This Dance](https://open.spotify.com/track/0eXpvoN6ReEXq8jAMDOxxD) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Duets: Friends & Legends](https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd) | 3:18 |
 | 40 | [Fairest Lord Jesus](https://open.spotify.com/track/1gGys8A5N7pMOU7ULx616U) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:15 |
 | 41 | [Lead Me On](https://open.spotify.com/track/0viCxBdQvd5WE4M1lXzv7u) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Lead Me On](https://open.spotify.com/album/7ETJhSThtcyCrQg4CuZfrX) | 5:36 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 44 | [Power In The Blood](https://open.spotify.com/track/1qpejsyCvpyZAtkg8J3r8q) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Be Still And Know..\. Hymns & Faith](https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu) | 3:51 |
 | 45 | [I'm With You \(Ruth & Naomi\)](https://open.spotify.com/track/4eGgsvwDvWz6ElLvo2zY7P) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Music Inspired By The Story](https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg) | 4:14 |
 | 46 | [Stay For A While](https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Collection](https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi) | 5:35 |
-| 47 | [Everywhere I Go](https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Unguarded](https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp) | 4:35 |
-| 48 | [Trees We'll Never See](https://open.spotify.com/track/4eRp7LuamE8Jn8RQgBcGF4) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Trees We'll Never See](https://open.spotify.com/album/7aiVLC89sRra8FSVao9p0E) | 4:07 |
+| 47 | [Trees We'll Never See](https://open.spotify.com/track/4eRp7LuamE8Jn8RQgBcGF4) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Trees We'll Never See](https://open.spotify.com/album/7aiVLC89sRra8FSVao9p0E) | 4:07 |
+| 48 | [Everywhere I Go](https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Unguarded](https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp) | 4:35 |
 | 49 | [Galileo](https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 4:20 |
 | 50 | [Father's Eyes](https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Father's Eyes](https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S) | 4:06 |
 
-Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDBmOGY5MDViMTEyN2Y2YzZkZTVjYmM4MGYzOGJmZDk4Yw==`
+Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA2ODI0MDJkMjliNDM5ZWNlNDY2MTNlMWM0OTcwM2VlNQ==`

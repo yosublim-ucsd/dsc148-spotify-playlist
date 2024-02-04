@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 157304,
+  "num_followers": 157313,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWUxNjE2NTcwODhmNTBmZDg4NDAwMTYzYTE0NmNkMTY2ZjQ1ZDQ0",
+  "snapshot_id": "MCwyZDY5ZjdjMmNlYzcxOTM3Njc4OGUxNDBhOTlmOWI5MzZmYmYxNWZm",
   "tracks": [
     {
       "added_at": "2024-01-29 03:21:36",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-01-29 03:21:36",
       "album": {
-        "name": "Lately EP",
-        "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 157303,
-      "name": "Lava",
-      "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
-    },
-    {
-      "added_at": "2024-01-29 03:21:36",
-      "album": {
         "name": "always",
         "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 172354,
       "name": "always",
       "url": "https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc"
+    },
+    {
+      "added_at": "2024-01-29 03:21:36",
+      "album": {
+        "name": "Lately EP",
+        "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 157303,
+      "name": "Lava",
+      "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
     },
     {
       "added_at": "2024-01-29 03:21:36",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-01-29 03:21:36",
       "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "alright",
-      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
-    },
-    {
-      "added_at": "2024-01-29 03:21:36",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 185991,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz"
+    },
+    {
+      "added_at": "2024-01-29 03:21:36",
+      "album": {
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
     },
     {
       "added_at": "2024-01-29 03:21:36",
@@ -667,6 +667,26 @@
     {
       "added_at": "2024-01-29 03:21:36",
       "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 158726,
+      "name": "R.I.P. (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/4HKWrGhNxub4PTLg5CM5fW"
+    },
+    {
+      "added_at": "2024-01-29 03:21:36",
+      "album": {
         "name": "Watching Movies with the Sound Off (10th Anniversary)",
         "url": "https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 204400,
       "name": "Sorry - Original Demo",
       "url": "https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3"
-    },
-    {
-      "added_at": "2024-01-29 03:21:36",
-      "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 158726,
-      "name": "R.I.P. (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/4HKWrGhNxub4PTLg5CM5fW"
     },
     {
       "added_at": "2024-01-29 03:21:36",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-01-29 03:21:36",
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 195275,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
+    },
+    {
+      "added_at": "2024-01-29 03:21:36",
+      "album": {
         "name": "Tell Me About You (feat. Mishaal)",
         "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 194400,
       "name": "Tell Me About You (feat. Mishaal)",
       "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
-    },
-    {
-      "added_at": "2024-01-29 03:21:36",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195275,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
     },
     {
       "added_at": "2024-01-29 03:21:36",
@@ -1075,26 +1075,18 @@
     {
       "added_at": "2024-01-29 03:21:36",
       "album": {
-        "name": "roundabout",
-        "url": "https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT"
+        "name": "Chilly",
+        "url": "https://open.spotify.com/album/0uxUV7HJLD9xFD0Zh0ZAhA"
       },
       "artists": [
         {
-          "name": "fcj",
-          "url": "https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js"
-        },
-        {
-          "name": "Ivoris",
-          "url": "https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji"
-        },
-        {
-          "name": "Ryce",
-          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 132931,
-      "name": "roundabout",
-      "url": "https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92"
+      "duration_ms": 230000,
+      "name": "Chilly",
+      "url": "https://open.spotify.com/track/2WrZX7qILvKZkw0tldzkmP"
     },
     {
       "added_at": "2024-01-29 03:21:36",
@@ -1119,6 +1111,30 @@
       "duration_ms": 190769,
       "name": "It's Not This",
       "url": "https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P"
+    },
+    {
+      "added_at": "2024-01-29 03:21:36",
+      "album": {
+        "name": "roundabout",
+        "url": "https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT"
+      },
+      "artists": [
+        {
+          "name": "fcj",
+          "url": "https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js"
+        },
+        {
+          "name": "Ivoris",
+          "url": "https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji"
+        },
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "duration_ms": 132931,
+      "name": "roundabout",
+      "url": "https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92"
     },
     {
       "added_at": "2024-01-29 03:21:36",
@@ -1159,22 +1175,6 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
-    },
-    {
-      "added_at": "2024-01-29 03:21:36",
-      "album": {
-        "name": "Chilly",
-        "url": "https://open.spotify.com/album/0uxUV7HJLD9xFD0Zh0ZAhA"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Chilly",
-      "url": "https://open.spotify.com/track/2WrZX7qILvKZkw0tldzkmP"
     },
     {
       "added_at": "2024-01-29 03:21:36",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-01-29 03:21:36",
       "album": {
-        "name": "Want U Bad",
-        "url": "https://open.spotify.com/album/2CNJGfWY7q1ZwiQa3Gk8IT"
-      },
-      "artists": [
-        {
-          "name": "Fern.",
-          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Want U Bad",
-      "url": "https://open.spotify.com/track/5Oh1oHKCGN0LhlOp9RUhP3"
-    },
-    {
-      "added_at": "2024-01-29 03:21:36",
-      "album": {
         "name": "Mordechai",
         "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 238215,
       "name": "Dearest Alfred",
       "url": "https://open.spotify.com/track/1g8I4x4Hl8LEvTMlOmTkiS"
+    },
+    {
+      "added_at": "2024-01-29 03:21:36",
+      "album": {
+        "name": "Want U Bad",
+        "url": "https://open.spotify.com/album/2CNJGfWY7q1ZwiQa3Gk8IT"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Want U Bad",
+      "url": "https://open.spotify.com/track/5Oh1oHKCGN0LhlOp9RUhP3"
     },
     {
       "added_at": "2024-01-29 03:21:36",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-01-29 03:21:36",
       "album": {
-        "name": "TRAVELIN'",
-        "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
-      },
-      "artists": [
-        {
-          "name": "((( O )))",
-          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "TRAVELIN'",
-      "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
-    },
-    {
-      "added_at": "2024-01-29 03:21:36",
-      "album": {
         "name": "Gone 2 Long",
         "url": "https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 195013,
       "name": "Gone 2 Long",
       "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
+    },
+    {
+      "added_at": "2024-01-29 03:21:36",
+      "album": {
+        "name": "TRAVELIN'",
+        "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
+      },
+      "artists": [
+        {
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
+        }
+      ],
+      "duration_ms": 217846,
+      "name": "TRAVELIN'",
+      "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
     },
     {
       "added_at": "2024-01-29 03:21:36",

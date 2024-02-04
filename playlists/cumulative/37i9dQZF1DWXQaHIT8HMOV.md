@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: $hyli
 
-204 songs - 10 hr 32 min
+205 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bwepaba](https://open.spotify.com/track/5zxBCElTKxOF2FptuZBjDt) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5), [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Bwepaba](https://open.spotify.com/album/3KTcQeURSAxN6ubdoh9QKa) | 2:52 | 2023-09-22 |  |
 | [Bwereere](https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Bwereere](https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX) | 3:05 | 2023-06-02 |  |
 | [Byowaba](https://open.spotify.com/track/0gyH24GQiQDOGHn40goN8X) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Byowaba](https://open.spotify.com/album/20BSAYhSq4zpyNlSJD210x) | 3:44 | 2023-04-01 | 2023-05-24 |
+| [Calamity](https://open.spotify.com/track/2ZaBPMbEwWnjm8FlFhEL2h) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Nita Nita](https://open.spotify.com/artist/7Igo15vDJK428W5K36dnFB) | [Calamity](https://open.spotify.com/album/3qHoFyU8txLp4UtvlUgElv) | 3:24 | 2024-02-02 |  |
 | [Camille](https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Camille](https://open.spotify.com/album/0TuVjq7KoUQdIEq9agdjFo) | 2:38 | 2022-05-12 | 2022-09-10 |
 | [Can't Let Go](https://open.spotify.com/track/649lRLV5y06Z04kiudT1Eb) | [HerbertSkillz](https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba), [Papa cyangwe](https://open.spotify.com/artist/5gw4Q3SlH6GBv3e3yaEwjn) | [Can't Let Go](https://open.spotify.com/album/0rIsYwm15sIqkiTitNDK8R) | 2:52 | 2022-07-29 | 2023-02-12 |
 | [Captain](https://open.spotify.com/track/4t0AscNyN1Bb2o1IRrN1YF) | [Kivumbi King](https://open.spotify.com/artist/3HUSbkQozU4gXUD82jAbRv), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Captain](https://open.spotify.com/album/7q5fBbqtu0Ypcb3mCvlKjE) | 2:12 | 2023-08-11 |  |
@@ -52,7 +53,7 @@
 | [Chop Life](https://open.spotify.com/track/67C63vdbFde7T1Mj1QH4Jq) | [Viboyo Oweyo](https://open.spotify.com/artist/4nNWboFa5mjFsHBVTx2zcy), [Whisper Acon](https://open.spotify.com/artist/3kFyZYflThSwTDNLnU5F8W) | [Hand Made Triumph \(Omupambanyi\)](https://open.spotify.com/album/1Eoq5CtZFKHJ7bDXy6rq56) | 3:14 | 2024-02-02 |  |
 | [Cinderella](https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Cinderella](https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2) | 3:47 | 2023-02-10 | 2024-02-03 |
 | [Clock](https://open.spotify.com/track/3hwqcsoXvbq2n0USeZCttL) | [Mark Stel](https://open.spotify.com/artist/1UdEDQFkWIBAfTgJVPAx1U), [ALLAN TONIKS](https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s) | [Clock](https://open.spotify.com/album/2M1ox2H825rpzaOovVvGLd) | 2:56 | 2022-12-02 | 2023-02-01 |
-| [Dai](https://open.spotify.com/track/0Z0NfTjSEIv8REnMt8z7W6) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx) | [Sunflowers in Sahara \(SiS\)](https://open.spotify.com/album/6qtPTO6Ob7N3j59FV2AGb8) | 3:05 | 2024-02-02 |  |
+| [Dai](https://open.spotify.com/track/0Z0NfTjSEIv8REnMt8z7W6) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx) | [Sunflowers in Sahara \(SiS\)](https://open.spotify.com/album/6qtPTO6Ob7N3j59FV2AGb8) | 3:05 | 2024-02-02 | 2024-02-04 |
 | [Dalilah](https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Growing Pains](https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx) | 2:47 | 2023-12-08 |  |
 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 | 2022-08-12 | 2023-03-27 |
 | [Don't Stopp](https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Don't Stopp](https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH) | 2:52 | 2022-12-16 | 2023-07-12 |

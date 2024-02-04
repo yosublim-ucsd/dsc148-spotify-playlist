@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy rock & alt songs for your workout.",
-  "num_followers": 612945,
+  "num_followers": 612933,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTMwYzRiNTM5ZTc5ZTE1MjdiZGFhN2RmMjVjN2ZlM2Q3YWE5MTU4",
+  "snapshot_id": "MCxiNzQ5NDk2YzYyZTgxYzlkOTM5NGZlYTg1MTJiNGM0ZjlhZjFmY2Yy",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Overcome",
-        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Crooked Teeth",
         "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 211119,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/4Xgono4pmRbojXlCIYh8or"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Welcome to the DCC",
-        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 198798,
-      "name": "Welcome to the DCC",
-      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Story Of My Life (feat. Trippie Redd)",
         "url": "https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 167287,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "In Times New Roman...",
         "url": "https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk"
       },
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
+        "name": "Welcome to the DCC",
+        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
       },
       "artists": [
         {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 167287,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
+      "duration_ms": 198798,
+      "name": "Welcome to the DCC",
+      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "hotline",
-        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 137404,
-      "name": "hotline",
-      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 222738,
       "name": "Planet Zero",
       "url": "https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "hotline",
+        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 137404,
+      "name": "hotline",
+      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "The Matrix",
-        "url": "https://open.spotify.com/album/6gqw69YjxD8oXGZ2rp1pPd"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 201722,
-      "name": "The Matrix",
-      "url": "https://open.spotify.com/track/0bpmBKuehVqxXeYtdeTqEG"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Life's Coming in Slow (from GRAN TURISMO 7)",
         "url": "https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 169655,
       "name": "Life's Coming in Slow - from GRAN TURISMO 7",
       "url": "https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "The Matrix",
+        "url": "https://open.spotify.com/album/6gqw69YjxD8oXGZ2rp1pPd"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 201722,
+      "name": "The Matrix",
+      "url": "https://open.spotify.com/track/0bpmBKuehVqxXeYtdeTqEG"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Running In Circles / HURT",
-        "url": "https://open.spotify.com/album/4TLVu9jrPLKpyPj1R3m2RW"
-      },
-      "artists": [
-        {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
-        }
-      ],
-      "duration_ms": 233321,
-      "name": "Running In Circles",
-      "url": "https://open.spotify.com/track/3EjHI10QuKMoVBxcgpHrf3"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Rescued",
         "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "We Need More Bricks",
-        "url": "https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK"
+        "name": "Running In Circles / HURT",
+        "url": "https://open.spotify.com/album/4TLVu9jrPLKpyPj1R3m2RW"
       },
       "artists": [
         {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
         }
       ],
-      "duration_ms": 228600,
-      "name": "We Need More Bricks",
-      "url": "https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW"
+      "duration_ms": 233321,
+      "name": "Running In Circles",
+      "url": "https://open.spotify.com/track/3EjHI10QuKMoVBxcgpHrf3"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1251,6 +1235,22 @@
       "duration_ms": 194826,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "We Need More Bricks",
+        "url": "https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "We Need More Bricks",
+      "url": "https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Here\u2019s To Us",
         "url": "https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/4FjcgEhcOTostSAHQ0YYHj"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Love From The Other Side",
-        "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
+        "name": "Angel Miners & The Lightning Riders",
+        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 247320,
-      "name": "Love From The Other Side - Edit",
-      "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
+      "duration_ms": 223320,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Angel Miners & The Lightning Riders",
-        "url": "https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j"
+        "name": "Love From The Other Side",
+        "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
       },
       "artists": [
         {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 223320,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u"
+      "duration_ms": 247320,
+      "name": "Love From The Other Side - Edit",
+      "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Pretty Monster",
+        "url": "https://open.spotify.com/album/1ZSM06t6wMNeIaNMXxCuL6"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Don't Miss",
+      "url": "https://open.spotify.com/track/1ggbqc7jhg454UpFfSmdam"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Pretty Vicious",
         "url": "https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 187140,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Pretty Monster",
-        "url": "https://open.spotify.com/album/1ZSM06t6wMNeIaNMXxCuL6"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Don't Miss",
-      "url": "https://open.spotify.com/track/1ggbqc7jhg454UpFfSmdam"
     },
     {
       "added_at": "2023-12-15 05:00:00",

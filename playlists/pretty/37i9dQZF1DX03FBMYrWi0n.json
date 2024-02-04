@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Corridor",
-  "num_followers": 3984,
+  "num_followers": 3991,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzA0Y2U1N2VhYjY1NTYyYmMwYTAxZDhiMjdiZDAwMmExYzZlMDUw",
+  "snapshot_id": "MCw2ZDVmNGI2YWU5MmUxMzdmNmZiZmMwOWM4MzE0MGM5MzgzOTZhYTVm",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Maison ouverte",
-        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
-      },
-      "artists": [
-        {
-          "name": "Simon Kearney",
-          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
-        }
-      ],
-      "duration_ms": 239573,
-      "name": "Maison ouverte",
-      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Tu ne mourras pas",
         "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 200765,
       "name": "Demande-moi",
       "url": "https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Maison ouverte",
+        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
+      },
+      "artists": [
+        {
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+        }
+      ],
+      "duration_ms": 239573,
+      "name": "Maison ouverte",
+      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Les gens qu'on aime",
-        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
-      },
-      "artists": [
-        {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Un peu de magie",
-      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Diorama",
         "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 218627,
       "name": "Astronaute amateur",
       "url": "https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "Un peu de magie",
+      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "We Are Sunshine",
-        "url": "https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV"
-      },
-      "artists": [
-        {
-          "name": "The Blaze Velluto Collection",
-          "url": "https://open.spotify.com/artist/1mULn3KCTsGLL3CvZyvn8x"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "The Rabbit Song",
-      "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "PICTURA DE IPSE : Musique directe",
         "url": "https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 189712,
       "name": "DIMANCHE SOIR",
       "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "We Are Sunshine",
+        "url": "https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV"
+      },
+      "artists": [
+        {
+          "name": "The Blaze Velluto Collection",
+          "url": "https://open.spotify.com/artist/1mULn3KCTsGLL3CvZyvn8x"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "The Rabbit Song",
+      "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Depuis",
-        "url": "https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va"
+        "name": "\u00c0 demain peut-\u00eatre",
+        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
       },
       "artists": [
         {
-          "name": "Lydia K\u00e9pinski",
-          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
         }
       ],
-      "duration_ms": 293200,
-      "name": "Depuis",
-      "url": "https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG"
+      "duration_ms": 179706,
+      "name": "Anomie",
+      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -919,6 +919,22 @@
       "duration_ms": 222002,
       "name": "Chalet",
       "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Depuis",
+        "url": "https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va"
+      },
+      "artists": [
+        {
+          "name": "Lydia K\u00e9pinski",
+          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
+        }
+      ],
+      "duration_ms": 293200,
+      "name": "Depuis",
+      "url": "https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -971,22 +987,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Razz",
-        "url": "https://open.spotify.com/album/17aE8q34Jq6gYImpF2O4g5"
-      },
-      "artists": [
-        {
-          "name": "Ev Bird",
-          "url": "https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI"
-        }
-      ],
-      "duration_ms": 155380,
-      "name": "Razz",
-      "url": "https://open.spotify.com/track/7pvzD6IH4mQiPCviN6W42v"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 131015,
       "name": "Shine",
       "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Premier juin",
+        "url": "https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86"
+      },
+      "artists": [
+        {
+          "name": "Lydia K\u00e9pinski",
+          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
+        }
+      ],
+      "duration_ms": 268426,
+      "name": "Ma\u00efa",
+      "url": "https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1019,6 +1035,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Razz",
+        "url": "https://open.spotify.com/album/17aE8q34Jq6gYImpF2O4g5"
+      },
+      "artists": [
+        {
+          "name": "Ev Bird",
+          "url": "https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI"
+        }
+      ],
+      "duration_ms": 155380,
+      "name": "Razz",
+      "url": "https://open.spotify.com/track/7pvzD6IH4mQiPCviN6W42v"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "sadguitar_V777.wav",
         "url": "https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq"
       },
@@ -1031,22 +1063,6 @@
       "duration_ms": 237022,
       "name": "sadguitar_V777.wav",
       "url": "https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Premier juin",
-        "url": "https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86"
-      },
-      "artists": [
-        {
-          "name": "Lydia K\u00e9pinski",
-          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
-        }
-      ],
-      "duration_ms": 268426,
-      "name": "Ma\u00efa",
-      "url": "https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1215,22 +1231,6 @@
       "duration_ms": 87272,
       "name": "PHOTO",
       "url": "https://open.spotify.com/track/3i1nFr97pA3hRz0nqDIQVD"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "L'heure id\u00e9ale",
-        "url": "https://open.spotify.com/album/2QsjTHO6QeITKll9jecLwR"
-      },
-      "artists": [
-        {
-          "name": "Jesuslesfilles",
-          "url": "https://open.spotify.com/artist/4lg0G5z7GXpJtAYTR9WC0W"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "Doux doux",
-      "url": "https://open.spotify.com/track/4NuOtpcC2inuP8vucJgz0D"
     }
   ],
   "unique_name": "ALT_QC",

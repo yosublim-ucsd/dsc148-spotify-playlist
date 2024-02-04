@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Sister Sadie",
-  "num_followers": 131404,
+  "num_followers": 131434,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzRmNzJjNWYxYjhiMDNmMDg5NmZlNzZkYTFkZDc4MDU0OGE2MjRk",
+  "snapshot_id": "MCxjYTQzMGI5YmVmM2JkZWIwM2VkNzE3Njg4NDEyNGM5Y2ZhYWIxZTdi",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Narrow Line",
-        "url": "https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm"
-      },
-      "artists": [
-        {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
-        }
-      ],
-      "duration_ms": 199840,
-      "name": "How It Ends",
-      "url": "https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Celebrants",
         "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 204618,
       "name": "Where the Long Line Leads",
       "url": "https://open.spotify.com/track/2nl7VPKy1XQ2NiUrdI5AeY"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Narrow Line",
+        "url": "https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "duration_ms": 199840,
+      "name": "How It Ends",
+      "url": "https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 481641,
+      "name": "Stress Dreams",
+      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "For Your Love",
         "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 306440,
       "name": "For Your Love",
       "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 481641,
-      "name": "Stress Dreams",
-      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 225941,
+      "name": "Smoky Mountain Girl",
+      "url": "https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Squareneck Soul",
         "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN"
+        "name": "Radio John: Songs of John Hartford",
+        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
       },
       "artists": [
         {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
         }
       ],
-      "duration_ms": 225941,
-      "name": "Smoky Mountain Girl",
-      "url": "https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP"
+      "duration_ms": 208026,
+      "name": "In Tall Buildings",
+      "url": "https://open.spotify.com/track/7cSbzBovpSOfe19Qbn3qWK"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1095,38 +1111,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Jubilation",
-        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
-      },
-      "artists": [
-        {
-          "name": "Appalachian Road Show",
-          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
-        }
-      ],
-      "duration_ms": 179140,
-      "name": "Graveyard Fields",
-      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Radio John: Songs of John Hartford",
-        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
-      },
-      "artists": [
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "In Tall Buildings",
-      "url": "https://open.spotify.com/track/7cSbzBovpSOfe19Qbn3qWK"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Black Cowboys",
         "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 162473,
       "name": "Lonesome Old River Blues",
       "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Jubilation",
+        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
+      },
+      "artists": [
+        {
+          "name": "Appalachian Road Show",
+          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
+        }
+      ],
+      "duration_ms": 179140,
+      "name": "Graveyard Fields",
+      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 263662,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Black Banjo",
         "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 198478,
       "name": "Crooked Mind",
       "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "The Light We Bring",
-        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
-      },
-      "artists": [
-        {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
-        }
-      ],
-      "duration_ms": 207319,
-      "name": "The Heart Wants",
-      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV"
+        "name": "The Light We Bring",
+        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
       },
       "artists": [
         {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
         }
       ],
-      "duration_ms": 263662,
-      "name": "Sweet Spot",
-      "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
+      "duration_ms": 207319,
+      "name": "The Heart Wants",
+      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Fire in the Dark",
-        "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
-      },
-      "artists": [
-        {
-          "name": "Gary Nichols",
-          "url": "https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Fire in the Dark",
-      "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Rhinestone Revival",
         "url": "https://open.spotify.com/album/7cblTcbIValrJcdwLdUDvv"
       },
@@ -1303,18 +1287,34 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Heartbreak Train",
-        "url": "https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0"
+        "name": "Fire in the Dark",
+        "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
       },
       "artists": [
         {
-          "name": "Caroline Owens",
-          "url": "https://open.spotify.com/artist/5cz6yza4UO8jUweDYxKakE"
+          "name": "Gary Nichols",
+          "url": "https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n"
         }
       ],
-      "duration_ms": 160471,
-      "name": "Heartbreak Train",
-      "url": "https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ"
+      "duration_ms": 186000,
+      "name": "Fire in the Dark",
+      "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Ain\u2019t Through Honky Tonkin\u2019 Yet",
+        "url": "https://open.spotify.com/album/3sSHGWiYpEhC0W2MvWISop"
+      },
+      "artists": [
+        {
+          "name": "Brennen Leigh",
+          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Running Out Of Hope, Arkansas",
+      "url": "https://open.spotify.com/track/36I4TdV7yZNZJVOz1WQZpf"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Ain\u2019t Through Honky Tonkin\u2019 Yet",
-        "url": "https://open.spotify.com/album/3sSHGWiYpEhC0W2MvWISop"
+        "name": "Heartbreak Train",
+        "url": "https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0"
       },
       "artists": [
         {
-          "name": "Brennen Leigh",
-          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
+          "name": "Caroline Owens",
+          "url": "https://open.spotify.com/artist/5cz6yza4UO8jUweDYxKakE"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Running Out Of Hope, Arkansas",
-      "url": "https://open.spotify.com/track/36I4TdV7yZNZJVOz1WQZpf"
+      "duration_ms": 160471,
+      "name": "Heartbreak Train",
+      "url": "https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
+      },
+      "artists": [
+        {
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Maybelle",
+      "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Rosa Lee McFall (Live)",
         "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 150575,
       "name": "Rosa Lee McFall - Live",
       "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
-      },
-      "artists": [
-        {
-          "name": "The Grascals",
-          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Maybelle",
-      "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Bluefinger",
-        "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        },
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Even The Bad Ends Badly",
-      "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Blue Railroad Train",
         "url": "https://open.spotify.com/album/30ccEntmZBvjhe7KuuP0vm"
       },
@@ -1559,6 +1539,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Bluefinger",
+        "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        },
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Even The Bad Ends Badly",
+      "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Snake Charmer",
         "url": "https://open.spotify.com/album/2UH01cDPXCH1ln2zcn08Vc"
       },
@@ -1571,22 +1571,6 @@
       "duration_ms": 179000,
       "name": "Snake Charmer",
       "url": "https://open.spotify.com/track/2gCwXdJiQdwislATbhC3NG"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Blues Are Close at Hand",
-        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
-      },
-      "artists": [
-        {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
-        }
-      ],
-      "duration_ms": 159427,
-      "name": "Blues Are Close at Hand",
-      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1607,6 +1591,22 @@
       "duration_ms": 222646,
       "name": "East Virginia Blues",
       "url": "https://open.spotify.com/track/4du2Q7sk9Kp8qw6jPHcENA"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Blues Are Close at Hand",
+        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
+      },
+      "artists": [
+        {
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+        }
+      ],
+      "duration_ms": 159427,
+      "name": "Blues Are Close at Hand",
+      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Something Higher",
+        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Winter's Gone",
+      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "+ 1",
         "url": "https://open.spotify.com/album/0WerA63tJFged7ZimsZGxZ"
       },
@@ -1723,18 +1739,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Something Higher",
-        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
+        "name": "Odds of Getting Even",
+        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
       },
       "artists": [
         {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
         }
       ],
-      "duration_ms": 207600,
-      "name": "Winter's Gone",
-      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
+      "duration_ms": 195776,
+      "name": "Odds of Getting Even",
+      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1755,34 +1771,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Odds of Getting Even",
-        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
+        "name": "Authentic Unlimited",
+        "url": "https://open.spotify.com/album/4jAGbUaqVKU00V2JpV2Izn"
       },
       "artists": [
         {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
         }
       ],
-      "duration_ms": 195776,
-      "name": "Odds of Getting Even",
-      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Bridge You're Gonna Burn",
-        "url": "https://open.spotify.com/album/2jhtDobqNHp2sEPSiEJran"
-      },
-      "artists": [
-        {
-          "name": "Tina Adair",
-          "url": "https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS"
-        }
-      ],
-      "duration_ms": 135746,
-      "name": "Bridge You're Gonna Burn",
-      "url": "https://open.spotify.com/track/1JNopLLdrPqDljHPtAcwuj"
+      "duration_ms": 180480,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/2Qgq33OeGVBY3FjZI3LxWc"
     },
     {
       "added_at": "2024-02-02 05:00:00",

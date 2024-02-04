@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7BYwVvoF9t2.md) - [plain]
 
 > ¡A mover el bote con este mix guapachoso!
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,286 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,290 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7BYwVvoF9t2.md) - [plain]
 | 46 | [Donde Estas?](https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Donde Estas?](https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX) | 4:50 |
 | 47 | [Vuelvo A Sentir](https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Hasta El Cielo Lloro](https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT) | 5:27 |
 | 48 | [Mia](https://open.spotify.com/track/3x4oECarDKCZxecqOYis52) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:43 |
-| 49 | [En Mi Escritorio \(La Carta\)](https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 4:47 |
-| 50 | [Ya No Te Puedo Amar](https://open.spotify.com/track/0SpeO0AlcVWQVcAZV3RUjZ) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Sin Apariencias](https://open.spotify.com/album/5ZHCO172wRxkcOAx9RbHmO) | 5:05 |
-| 51 | [Sin Escencia](https://open.spotify.com/track/3rIFRsEwKXVZCZBvGgMwLq) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Sin Escencia](https://open.spotify.com/album/3G4proiHOSagEvS94X2txr) | 3:15 |
+| 49 | [Sin Escencia](https://open.spotify.com/track/3rIFRsEwKXVZCZBvGgMwLq) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Sin Escencia](https://open.spotify.com/album/3G4proiHOSagEvS94X2txr) | 3:15 |
+| 50 | [En Mi Escritorio \(La Carta\)](https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 4:47 |
+| 51 | [Ya No Te Puedo Amar](https://open.spotify.com/track/0SpeO0AlcVWQVcAZV3RUjZ) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Sin Apariencias](https://open.spotify.com/album/5ZHCO172wRxkcOAx9RbHmO) | 5:05 |
 | 52 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 |
 | 53 | [Lluvia](https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:56 |
 | 54 | [El Final De Nuestra Historia](https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [El Final De Nuestra Historia](https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu) | 3:55 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7BYwVvoF9t2.md) - [plain]
 | 64 | [Si Te Hubieras Quedado](https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ) | [Grupo la Ley Siete de Enrike Fortunato](https://open.spotify.com/artist/6NXg2WVQSGgmOfdtHI7CbI) | [Si Te Hubieras Quedado](https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F) | 4:38 |
 | 65 | [Vete Ya](https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:53 |
 | 66 | [Una Aventura](https://open.spotify.com/track/4F8IB14Sjvqb9qJUOxndRZ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:16 |
-| 67 | [Otra Noche](https://open.spotify.com/track/6YUYwOLhR01HusDZkttH7k) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Cumbia Del Corazón](https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm) | 3:19 |
-| 68 | [Día Tras Día](https://open.spotify.com/track/7q0BkDZKmszpgBUgIecmE9) | [Cheo Andujar](https://open.spotify.com/artist/6OuCYhqpODU9Df9qBszYXe) | [Poder Íntimo](https://open.spotify.com/album/3EmOFHCxHyiuCnXBUWVM9c) | 4:22 |
+| 67 | [Día Tras Día](https://open.spotify.com/track/7q0BkDZKmszpgBUgIecmE9) | [Cheo Andujar](https://open.spotify.com/artist/6OuCYhqpODU9Df9qBszYXe) | [Poder Íntimo](https://open.spotify.com/album/3EmOFHCxHyiuCnXBUWVM9c) | 4:22 |
+| 68 | [Otra Noche](https://open.spotify.com/track/6YUYwOLhR01HusDZkttH7k) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Cumbia Del Corazón](https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm) | 3:19 |
 | 69 | [No Puedo Olvidarte](https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [No Puedo Olvidarte](https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS) | 5:31 |
 | 70 | [Cañita Cañaveral](https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sus Mejores Exitos](https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD) | 3:15 |
 | 71 | [Perdóname](https://open.spotify.com/track/4Qr4M2eMQCLmpMdnLjDKYB) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 3:19 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7BYwVvoF9t2.md) - [plain]
 | 85 | [Desvelo](https://open.spotify.com/track/1PQx9MPARk2DWTxAc1i8bG) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Desvelo](https://open.spotify.com/album/18PmOgLMJbv3lT5wqueTrU) | 3:31 |
 | 86 | [Cumbia Del Chavito Medio Metro](https://open.spotify.com/track/0fmA5PobE7ipHpYC58JwF7) | [GUERRAS EL VOLCAN DEL WEPA](https://open.spotify.com/artist/057Yi2nzw4hJ30anLnLIAD) | [Cumbia Del Chavito Medio Metro](https://open.spotify.com/album/6bgiXPx0Zxi3WIKJLNIAhl) | 4:07 |
 | 87 | [Si Tu Te Atreves](https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Si Tu Te Atreves](https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG) | 3:46 |
-| 88 | [He Creído](https://open.spotify.com/track/0fMzTLsgDy9zRUjvOdWUGV) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 4:21 |
-| 89 | [Enamorada de un Amigo Mio](https://open.spotify.com/track/3z2T45ct8degaDYLsbQyBw) | [La Suerte Sonidera](https://open.spotify.com/artist/6OUVtbAqtQ3lm9F7AvGx3v) | [30 Exitos de Oro 30, Vol\. 1](https://open.spotify.com/album/5aBKyVNMaVkWSwWtDGeByf) | 4:03 |
+| 88 | [Enamorada de un Amigo Mio](https://open.spotify.com/track/3z2T45ct8degaDYLsbQyBw) | [La Suerte Sonidera](https://open.spotify.com/artist/6OUVtbAqtQ3lm9F7AvGx3v) | [30 Exitos de Oro 30, Vol\. 1](https://open.spotify.com/album/5aBKyVNMaVkWSwWtDGeByf) | 4:03 |
+| 89 | [He Creído](https://open.spotify.com/track/0fMzTLsgDy9zRUjvOdWUGV) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 4:21 |
 | 90 | [Se Me Nota](https://open.spotify.com/track/2ydhtOdJdUjzPZRfNTZKnb) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Hansel & Raul 33](https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0) | 4:39 |
 | 91 | [Cumbia De Los Patos](https://open.spotify.com/track/2XpSj3HHl5GjYkQBhtxQxb) | [Danny Y Su Grupo](https://open.spotify.com/artist/2ImM0esZBVzieN7AxMU3ji) | [Lo Maximo De Los Sonideros, Vol\. 1](https://open.spotify.com/album/3Cdt3zjueq3lkq5dXNDFBX) | 3:41 |
 | 92 | [Déjala](https://open.spotify.com/track/4Aa6TYTI7q9SqnPKVA7Lfq) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [A Fuego](https://open.spotify.com/album/3W7PrpNjJDSFkOpAiITb7m) | 5:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7BYwVvoF9t2.md) - [plain]
 | 99 | [20 años](https://open.spotify.com/track/27sE27R2IzI7BR65DRK6tQ) | [Paco Silva y su Tropa Colombiana](https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE) | [Me Voy Pa'Chiriguaná \(Incluye el Éxito 20 Años\)](https://open.spotify.com/album/3aOD0U6WWViN8XoLqaWJwx) | 3:45 |
 | 100 | [Te Voy A Conquistar](https://open.spotify.com/track/6OyXy9MzQmHelQ06faSjMU) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [NZO](https://open.spotify.com/artist/6SWdWsEfebEsNwD1dYKj2d) | [Te Voy A Conquistar](https://open.spotify.com/album/1sDXcM414HAxpoB36OLB1I) | 3:46 |
 
-Snapshot ID: `MCw0NmMxYWExYmE5NzVhMDNkMWI0YWFmYWU4MjU2NTQwYmNhYmI3N2Q1`
+Snapshot ID: `MCwzMDNkZDJiY2NmMjY5MTNkMzllYWRiMDhjNmRlMjlhNmRkMzdjMTdh`

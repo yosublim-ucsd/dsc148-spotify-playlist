@@ -3315,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "Baila para M\u00ed",
+        "url": "https://open.spotify.com/album/3oPF99WsqhHc1CujeiGTrj"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217840,
+      "name": "Ojitos Mentirosos",
+      "url": "https://open.spotify.com/track/1e1xg1VPnD0XQ1tRLZDdOj"
+    },
+    {
+      "album": {
         "name": "Exitos Quemantes Vol. IV",
         "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
       },
@@ -5100,7 +5118,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 305253,
       "name": "\u00c1ngel Malvado",
       "url": "https://open.spotify.com/track/3VHLSQsQXQWnEMQwrM5R8p"

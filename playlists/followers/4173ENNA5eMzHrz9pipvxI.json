@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 120858,
+  "2024-02-04": 120863,
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: SEVENN x Space Motion",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Gabry Ponte",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -3232,6 +3232,32 @@
     },
     {
       "album": {
+        "name": "Call Me Maybe",
+        "url": "https://open.spotify.com/album/1sAkbRVs8vYYHdMv5ZEJip"
+      },
+      "artists": [
+        {
+          "name": "Lenny Pearce",
+          "url": "https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8"
+        },
+        {
+          "name": "Charming Horses",
+          "url": "https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3"
+        },
+        {
+          "name": "Lotus",
+          "url": "https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/5WH44mM5Q3oXGSIanJbTPt"
+    },
+    {
+      "album": {
         "name": "Call You Out",
         "url": "https://open.spotify.com/album/6VsY5WXjTuHvnJe3oPhpqt"
       },
@@ -3395,7 +3421,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 181333,
       "name": "Can't Find My Friends (feat. Midian)",
       "url": "https://open.spotify.com/track/32cxRQ0zD63AdWFKCqe1Fg"
@@ -4107,10 +4133,36 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 131246,
       "name": "Club Bizarre",
       "url": "https://open.spotify.com/track/0CSV3CbzC0tlIINQMRhfHw"
+    },
+    {
+      "album": {
+        "name": "Club Bizarre (Club Mix)",
+        "url": "https://open.spotify.com/album/1UGAjgkh5blyiJsCScKlNe"
+      },
+      "artists": [
+        {
+          "name": "U96",
+          "url": "https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd"
+        },
+        {
+          "name": "Sunlike Brothers",
+          "url": "https://open.spotify.com/artist/6ag0HxAKmKQFDXVdt6FUVx"
+        },
+        {
+          "name": "ToneNation",
+          "url": "https://open.spotify.com/artist/6vOhTSLHpmIlGK8IeS2caU"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169376,
+      "name": "Club Bizarre (Club Mix)",
+      "url": "https://open.spotify.com/track/2BguCFLlnybjX8FouFTP4o"
     },
     {
       "album": {
@@ -4213,7 +4265,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 184765,
       "name": "Combinator",
       "url": "https://open.spotify.com/track/1y38XyAHV1MYjjfhBtWd3U"
@@ -4395,6 +4447,24 @@
       "duration_ms": 206769,
       "name": "Conquest",
       "url": "https://open.spotify.com/track/7pQM8VVm0tUwGiRKyiKVZy"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/6sD3U3E72UvI8Od8I6QoiA"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175781,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ"
     },
     {
       "album": {
@@ -4622,6 +4692,24 @@
     },
     {
       "album": {
+        "name": "Crusade",
+        "url": "https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Crusade",
+      "url": "https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK"
+    },
+    {
+      "album": {
         "name": "Cry For You",
         "url": "https://open.spotify.com/album/2eIUTbijLZp5fTb2W5eghF"
       },
@@ -4637,7 +4725,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 152758,
       "name": "Cry For You",
       "url": "https://open.spotify.com/track/3rgTtY3yfOtJas1hxTye3x"
@@ -4795,7 +4883,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 329165,
       "name": "Dance Is The Answer (feat. Raja Ram)",
       "url": "https://open.spotify.com/track/56rqKeuhAVv2E6RK5BifIS"
@@ -5247,7 +5335,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 174375,
       "name": "Desire",
       "url": "https://open.spotify.com/track/02wLZcPEl7xt0L9OpBKpS0"
@@ -7570,6 +7658,24 @@
     },
     {
       "album": {
+        "name": "Love & Dance EP",
+        "url": "https://open.spotify.com/album/29TaoTMHbabORQ54oH4nXK"
+      },
+      "artists": [
+        {
+          "name": "Little Fritter",
+          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226110,
+      "name": "Fiiyaa Uppaa",
+      "url": "https://open.spotify.com/track/6XHUVKQnUvE5SuBbvrxUy6"
+    },
+    {
+      "album": {
         "name": "Find Out Who We Are (feat. Lusaint)",
         "url": "https://open.spotify.com/album/1vjph34Y6lOE0t6FXwz9AV"
       },
@@ -7829,6 +7935,24 @@
       "duration_ms": 164769,
       "name": "Flutech (feat. Ivan Ooze)",
       "url": "https://open.spotify.com/track/65yTIStAjXN1YmUAleXv57"
+    },
+    {
+      "album": {
+        "name": "Fly Guy",
+        "url": "https://open.spotify.com/album/3Cc9gge8ZBzIsjeqrJ5Ynf"
+      },
+      "artists": [
+        {
+          "name": "SNBRN",
+          "url": "https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193819,
+      "name": "Fly Guy",
+      "url": "https://open.spotify.com/track/3PkpK6a2TgzgYuxXH4FQi8"
     },
     {
       "album": {
@@ -10090,6 +10214,32 @@
     },
     {
       "album": {
+        "name": "I Like That",
+        "url": "https://open.spotify.com/album/0RoXiwMsrb8JzH2CkbWMww"
+      },
+      "artists": [
+        {
+          "name": "Fahjah",
+          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
+        },
+        {
+          "name": "Amber Na",
+          "url": "https://open.spotify.com/artist/4Gi7SM27OSfhOHCjiK4Xeo"
+        },
+        {
+          "name": "DJ Mie",
+          "url": "https://open.spotify.com/artist/5WFbYwCCWDArxgBuHonry9"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154850,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/5pW3Wm5SMKgALdKrjV5T0E"
+    },
+    {
+      "album": {
         "name": "I Like Your Body",
         "url": "https://open.spotify.com/album/5MZMOH4y53KBd4wadUoAFj"
       },
@@ -10564,6 +10714,32 @@
     },
     {
       "album": {
+        "name": "If You Don't Like To Party",
+        "url": "https://open.spotify.com/album/55Sr4L5eif0q1mXLZ9LBOf"
+      },
+      "artists": [
+        {
+          "name": "Supafly",
+          "url": "https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV"
+        },
+        {
+          "name": "HVRR",
+          "url": "https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118285,
+      "name": "If You Don't Like To Party",
+      "url": "https://open.spotify.com/track/5dBTOZ3Rn6BIlDt470Btne"
+    },
+    {
+      "album": {
         "name": "If You Want",
         "url": "https://open.spotify.com/album/2DgKfkTkmGUWzXA2IcKDzm"
       },
@@ -10777,7 +10953,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 157619,
       "name": "In The Weekend",
       "url": "https://open.spotify.com/track/4o0GYoWybEPL1fTb31rkii"
@@ -13249,7 +13425,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 194285,
       "name": "Lost Without You (Tom & Jame Remix)",
       "url": "https://open.spotify.com/track/4qlOEEFmKVb9kjfgjjljJ0"
@@ -13297,6 +13473,24 @@
       "duration_ms": 174192,
       "name": "Lost Your Love - Sped Up",
       "url": "https://open.spotify.com/track/1BHXHikOFSaaGiEeBh2vGI"
+    },
+    {
+      "album": {
+        "name": "Love & Dance EP",
+        "url": "https://open.spotify.com/album/29TaoTMHbabORQ54oH4nXK"
+      },
+      "artists": [
+        {
+          "name": "Little Fritter",
+          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208062,
+      "name": "Love & Dance",
+      "url": "https://open.spotify.com/track/3q75So783qdHzJhW77lv1E"
     },
     {
       "album": {
@@ -14326,6 +14520,28 @@
     },
     {
       "album": {
+        "name": "Mary Go Wild (Firebeatz Remix)",
+        "url": "https://open.spotify.com/album/32hAkqc2mit3ilzkCgCEWX"
+      },
+      "artists": [
+        {
+          "name": "Grooveyard",
+          "url": "https://open.spotify.com/artist/3LThgBIEhmkTZCJ6q7Jkzf"
+        },
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135111,
+      "name": "Mary Go Wild (Firebeatz Remix)",
+      "url": "https://open.spotify.com/track/51nYwjC41oOgVszBGL6mY8"
+    },
+    {
+      "album": {
         "name": "Mary Go Wild (Hel:sl\u00f8wed Remix)",
         "url": "https://open.spotify.com/album/3LMxM37yIB6vtGHy5AIXFa"
       },
@@ -14489,6 +14705,32 @@
       "duration_ms": 152000,
       "name": "Me Loco",
       "url": "https://open.spotify.com/track/2jBmMdhZEgOhMAnpoXqtxD"
+    },
+    {
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/1SEDacAYn94k9H2jUOrosm"
+      },
+      "artists": [
+        {
+          "name": "Zook\u00ebper",
+          "url": "https://open.spotify.com/artist/2XvV82x6Qs0W3GBTkBSjPI"
+        },
+        {
+          "name": "Beachcrimes",
+          "url": "https://open.spotify.com/artist/5xWycgZa4Oul2kU6o1QVo7"
+        },
+        {
+          "name": "Tia Tia",
+          "url": "https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219245,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/0MPg3EG04vVQED40bMcZ8v"
     },
     {
       "album": {
@@ -16305,7 +16547,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 152000,
       "name": "No Limit To Our Love (feat. Jantine)",
       "url": "https://open.spotify.com/track/0T4AEmyVegZkqHw1TOHXkZ"
@@ -17053,7 +17295,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 189376,
       "name": "OneHundred",
       "url": "https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP"
@@ -17601,7 +17843,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 189913,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/6ZVj7rTW2lkgR69LO4OO1r"
@@ -18363,7 +18605,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 168750,
       "name": "Que Pasa",
       "url": "https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv"
@@ -22874,6 +23116,28 @@
     },
     {
       "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
+    },
+    {
+      "album": {
         "name": "The Void",
         "url": "https://open.spotify.com/album/3HH5h3BAgDYvaHz2B8obK5"
       },
@@ -23069,6 +23333,24 @@
       "duration_ms": 186260,
       "name": "There\u2019s Nothing Else",
       "url": "https://open.spotify.com/track/3379x2xu9JNFFjY3XFn61Z"
+    },
+    {
+      "album": {
+        "name": "They Not Us",
+        "url": "https://open.spotify.com/album/1jaBnYJ6vkb8iNIPNjetTu"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204651,
+      "name": "They Not Us",
+      "url": "https://open.spotify.com/track/7lmyru1csct3dKD6KD8cpa"
     },
     {
       "album": {
@@ -24111,6 +24393,28 @@
       "duration_ms": 175230,
       "name": "Vibe With It (feat. The Melody Men)",
       "url": "https://open.spotify.com/track/35ujkehsna0t7Ns3FE1pzE"
+    },
+    {
+      "album": {
+        "name": "Vibrate (feat. Jordan Grace)",
+        "url": "https://open.spotify.com/album/1q2glSTenT4fYh12fly4a5"
+      },
+      "artists": [
+        {
+          "name": "Taurus",
+          "url": "https://open.spotify.com/artist/0CuFrDO1gvky7Ozc0pL78K"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183111,
+      "name": "Vibrate (feat. Jordan Grace)",
+      "url": "https://open.spotify.com/track/0x8TgNgKoDDESEcO6YsDDZ"
     },
     {
       "album": {

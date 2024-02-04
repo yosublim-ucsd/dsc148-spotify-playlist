@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 889496,
+  "2024-02-04": 889450,
   "date_first_scraped": "2021-12-21",
-  "description": "The best of electronic trap. Cover: TWERL",
+  "description": "The best of electronic trap. Cover: Tisoki and Godlands",
   "name": "Trap Mojito",
   "tracks": [
     {
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 195520,
       "name": "COWBOYGHOST 3024",
       "url": "https://open.spotify.com/track/1CjcWmbdwBLOdrhwWkC9vh"
@@ -1763,6 +1763,24 @@
       "duration_ms": 211200,
       "name": "East Bridge",
       "url": "https://open.spotify.com/track/1ppxq2JdEEAUL5K8imMVTj"
+    },
+    {
+      "album": {
+        "name": "Boy in a Dream",
+        "url": "https://open.spotify.com/album/4rna1XdsVQ63rJK8lu9SvX"
+      },
+      "artists": [
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Easy for them",
+      "url": "https://open.spotify.com/track/7ITGxCXJnBrPIzH4KYai0e"
     },
     {
       "album": {
@@ -2511,7 +2529,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 171200,
       "name": "Get Up [VIP]",
       "url": "https://open.spotify.com/track/6uEJz3hTPQZBbpTwi9I9Bs"
@@ -3542,6 +3560,36 @@
     },
     {
       "album": {
+        "name": "I\u2018ll show you",
+        "url": "https://open.spotify.com/album/00Vu9HdeCsVz8EFgEG54Ob"
+      },
+      "artists": [
+        {
+          "name": "NECROLX",
+          "url": "https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ"
+        },
+        {
+          "name": "HXI",
+          "url": "https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU"
+        },
+        {
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+        },
+        {
+          "name": "YOUK3IV",
+          "url": "https://open.spotify.com/artist/4ftc3UZdpRIPlQVWZRnEg4"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "I\u2018ll show you",
+      "url": "https://open.spotify.com/track/3O3EIVJiqzyiyHFDnHMIym"
+    },
+    {
+      "album": {
         "name": "Jungle Juice",
         "url": "https://open.spotify.com/album/3ZWcx0FGgPqxpxcQ87cuZM"
       },
@@ -4439,7 +4487,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 147131,
       "name": "Moon",
       "url": "https://open.spotify.com/track/1dQ12CgNnqjO1BpAywqlc0"
@@ -5050,6 +5098,32 @@
     },
     {
       "album": {
+        "name": "ORIGINAL STEPPA",
+        "url": "https://open.spotify.com/album/4atLTvYvrVroGsB8qwiBrc"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "ORIGINAL STEPPA",
+      "url": "https://open.spotify.com/track/55ucCWk6NNfQBDDEiVvBIQ"
+    },
+    {
+      "album": {
         "name": "Out of Order",
         "url": "https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM"
       },
@@ -5178,6 +5252,28 @@
     },
     {
       "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/20FpYfQM3CE0lZ0hWSKetz"
+      },
+      "artists": [
+        {
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        },
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239220,
+      "name": "PRISM",
+      "url": "https://open.spotify.com/track/4v4EcZ7Yz50KaiAiDyFnDm"
+    },
+    {
+      "album": {
         "name": "Push Me Away",
         "url": "https://open.spotify.com/album/7y9QrijlFPM7ss6Tj6lmLz"
       },
@@ -5269,7 +5365,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 183428,
       "name": "Raw Talent",
       "url": "https://open.spotify.com/track/0dsCsCrnuAhS3SfBhRZw8f"
@@ -6484,6 +6580,24 @@
     },
     {
       "album": {
+        "name": "Floorspace RMX-S",
+        "url": "https://open.spotify.com/album/4N81KuegkW5ggoY8bPsGe4"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "THE POWER! (VIP)",
+      "url": "https://open.spotify.com/track/7glJ2Na5YRyUzql3CosaOf"
+    },
+    {
+      "album": {
         "name": "Thief (Flux Pavilion Remix)",
         "url": "https://open.spotify.com/album/4kFd3dIqukGfolHILzWddZ"
       },
@@ -6579,7 +6693,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 142800,
       "name": "Top Tier",
       "url": "https://open.spotify.com/track/16soCDQar48LYvuRe2VOLA"
@@ -6884,6 +6998,28 @@
     },
     {
       "album": {
+        "name": "u want me 2.0",
+        "url": "https://open.spotify.com/album/7rxq7ndz7RxCN6PiELPyfl"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        },
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129103,
+      "name": "u want me 2.0",
+      "url": "https://open.spotify.com/track/3kkdLxiHkkDO76KXJdDKhG"
+    },
+    {
+      "album": {
         "name": "NOVA",
         "url": "https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy"
       },
@@ -7009,7 +7145,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 271981,
       "name": "UOH",
       "url": "https://open.spotify.com/track/3PwQn4PixhUv9ydjuuXmng"

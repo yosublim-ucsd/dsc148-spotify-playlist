@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Karataka Damanaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,976 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,984 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Byadadha Bhavne \(from "Sugar Factory"\)](https://open.spotify.com/track/4cHz1tcQX6oKqjeBDfU0ND) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Kareemullah](https://open.spotify.com/artist/04xyKkk9EW7xvbxWQOOXZf), [Kabir Rafi](https://open.spotify.com/artist/2gx6BYmlzkiKtN5QlcUhm2) | [Byadadha Bhavne \(from "Sugar Factory"\)](https://open.spotify.com/album/2Uzl7ccP2DKV2MorfA2Ssa) | 3:27 |
 | 75 | [Sapta Sagaradaache Ello \- Side B Title Track \(From "Sapta Sagaradaache Ello \- Side B"\)](https://open.spotify.com/track/6NYDLGkaITUCpnLtkxSBpx) | [Charanraj MR](https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k), [Dhananjay Ranjan](https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p), [Karthik Chennoji Rao](https://open.spotify.com/artist/5KgNFugdTwo3Ut6cO4rBKu) | [Sapta Sagaradaache Ello \- Side B Title Track \(From "Sapta Sagaradaache Ello \- Side B"\)](https://open.spotify.com/album/0uVxwxuzk53IbEa5SAAvKm) | 4:05 |
 
-Snapshot ID: `MCxlODcyMGQ0N2MwNzcxZmQzYmI0ODc4MWJjOGE1MDU4OTI1ZGQwZTU5`
+Snapshot ID: `MCwzZGE1YmYzZDBiMDE0ZDhkMzEzMzNmN2M3NGU0NTdiZmMwMzVlNGE4`

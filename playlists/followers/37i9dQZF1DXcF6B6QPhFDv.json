@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 4675403,
+  "2024-02-04": 4673865,
   "date_first_scraped": "2021-10-20",
-  "description": "Neck Deep along with today's Rock songs you need to know.",
+  "description": "The Last Dinner Party along with today's Rock songs you need to know.",
   "name": "Rock This",
   "tracks": [
     {
@@ -1674,6 +1674,24 @@
     },
     {
       "album": {
+        "name": "Life Under The Gun",
+        "url": "https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107665,
+      "name": "Do It Faster",
+      "url": "https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy"
+    },
+    {
+      "album": {
         "name": "Don't Hate Me",
         "url": "https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4"
       },
@@ -2961,7 +2979,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 215601,
       "name": "Hold Me Like a Grudge",
       "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
@@ -5029,10 +5047,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182623,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk"
     },
     {
       "album": {
@@ -6511,6 +6547,24 @@
       "duration_ms": 206276,
       "name": "So Called Life",
       "url": "https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53"
+    },
+    {
+      "album": {
+        "name": "So Much (For) Stardust [Edit]",
+        "url": "https://open.spotify.com/album/2iUM65V96tt0d1J5IfRQzH"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232300,
+      "name": "So Much (For) Stardust - Edit",
+      "url": "https://open.spotify.com/track/6jdAeEV54SoWW9eqejGQlC"
     },
     {
       "album": {

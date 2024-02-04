@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: DI\-RECT
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,861 likes - 84 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,855 likes - 84 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 37 | [Better](https://open.spotify.com/track/6sVpYIMty1Y20RxjaGUm1y) | [MC MC](https://open.spotify.com/artist/7eMoHqrg7fdrVTjhrQE0Go), [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh), [BUR Savants](https://open.spotify.com/artist/4MSObfou6zR5uE6FM2dYAr) | [Better](https://open.spotify.com/album/2y8PQI8kE0k7AZdraYXl3l) | 2:24 |
 | 38 | [Willow \(feat\. Lucy Rose\)](https://open.spotify.com/track/7m1qFwzJnebBiWkzE7RgDq) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Willow \(feat\. Lucy Rose\)](https://open.spotify.com/album/2ZbZBB7CCWqi9kgnmlSHM3) | 4:09 |
 | 39 | [GEEKIN \(feat\. AJ Tracey\)](https://open.spotify.com/track/3R9AZOrnO20E5MVMBiofqH) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [GEEKIN \(feat\. AJ Tracey\)](https://open.spotify.com/album/4Aq9PhYsSQU4N6mUyXA2kV) | 2:45 |
-| 40 | [Crusade](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
+| 40 | [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
 | 41 | [Don't Like Anybody](https://open.spotify.com/track/4DCYG3wov1XGZx2mIVVmnj) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Don't Like Anybody](https://open.spotify.com/album/3vaIMrgZEsIipXunpjLA4B) | 2:10 |
 | 42 | [Verpest](https://open.spotify.com/track/0RooKeyPhYGc4opSdYHctf) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [LouiVos](https://open.spotify.com/artist/0lzYw5xI9jgMg8O5i4bTre) | [Verpest](https://open.spotify.com/album/79bpm2wlIFr2M6tFAyQ403) | 4:00 |
 | 43 | [trouble](https://open.spotify.com/track/4tRUbPTB8CpQqPPW4zVs1P) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [trouble](https://open.spotify.com/album/2iEZpstaXItfUJTlaXTWNE) | 3:08 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 83 | [Little Bitty \(featuring Rens Ottink\)](https://open.spotify.com/track/3SVF7EqwDroHMeZjNLDfB4) | [Tricklebolt](https://open.spotify.com/artist/1ZAx1trsNb2poWyQOgrw8w), [Rens Ottink](https://open.spotify.com/artist/54FutznFl1x1ysi8a32XON) | [Little Bitty \(featuring Rens Ottink\)](https://open.spotify.com/album/1mow1mMAnuuk1fJcNy92yU) | 2:49 |
 | 84 | [Forest Fruit](https://open.spotify.com/track/2m1vFWhpZPWupCMDAh2bth) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [Forest Fruit](https://open.spotify.com/album/4VFUU4mwnvrT0nV5KEfxsW) | 3:02 |
 
-Snapshot ID: `MCxiNTM3NjBmODI3ZjIwYTQxZjM1OTgzZjVmMmY5MjI1ODEyYTY3MTdl`
+Snapshot ID: `MCxjMWZkOTQ5ODE2N2UwNjMzYTMxMjhmNzEyOGMxMDJlODBhNTdlZTE4`

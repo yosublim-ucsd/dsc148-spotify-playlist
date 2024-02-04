@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Rawayana con Danny Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,972 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,072 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 | 59 | [Bici My Love](https://open.spotify.com/track/7AudEYaMS2zngG78sugbJh) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [Bici My Love](https://open.spotify.com/album/1iMiFBnmq3nSEkTt9URhO1) | 2:39 |
 | 60 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 |
 
-Snapshot ID: `MCwxYzFhMDdkNjU3OGViOWNhMzJmZGZlODgwMjVmOGY0OTI0OWJmMTg1`
+Snapshot ID: `MCw4OGYzMzM3ZmQ1MTUzYmZiNDVkMGZkZjQ0ZWI2YWZlMjNhZWFiMWZh`

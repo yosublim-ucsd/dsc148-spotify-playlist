@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,043 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,042 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 59 | [Diamond](https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Diamond](https://open.spotify.com/album/58T3Mkgs37IjcximP129MP) | 2:59 |
 | 60 | [Missing You \(feat\. Dvwn\)](https://open.spotify.com/track/7j7p9sU2Obtf3daiEDMF8e) | [SOOVI](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [a tempo](https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno) | 3:13 |
 
-Snapshot ID: `MCxjZWJlOGY2NzVmN2NkYWU2YTIwNmMxMzEyYmRiNWEwMDg3NWQ1NTBi`
+Snapshot ID: `MCw3Y2EzYWI4NjAxODcyZjBlYTI5NDc1NGMyOTExZTNiZjdlZTU0Nzcz`

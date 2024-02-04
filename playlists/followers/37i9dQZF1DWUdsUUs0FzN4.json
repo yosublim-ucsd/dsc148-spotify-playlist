@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 17397,
+  "2024-02-04": 17416,
   "date_first_scraped": "2022-01-09",
   "description": "Con licuachela en mano y perreando hasta el piso. Bellakath en portada ",
   "name": "CHAKAL\u00d3N ",
@@ -817,7 +817,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 174971,
       "name": "Bellatonika",
       "url": "https://open.spotify.com/track/5LZmNN1i28G1paszTfCGZh"
@@ -1386,6 +1386,28 @@
     },
     {
       "album": {
+        "name": "Combiaton",
+        "url": "https://open.spotify.com/album/1q3zeAg3m4ccvrAhZz7mqt"
+      },
+      "artists": [
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        },
+        {
+          "name": "Casper Mx",
+          "url": "https://open.spotify.com/artist/0QjuV8gi45r33s5vwgIyIn"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139218,
+      "name": "Combiaton",
+      "url": "https://open.spotify.com/track/1h3It2uHrJAShvEzTRjP70"
+    },
+    {
+      "album": {
         "name": "Como Me Muevo",
         "url": "https://open.spotify.com/album/4UX6wYvUssV4rHu35NHJEx"
       },
@@ -1471,7 +1493,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 133580,
       "name": "CULETEO",
       "url": "https://open.spotify.com/track/1elKwtcNQfOs6bmpXRMNgJ"
@@ -2052,6 +2074,28 @@
     },
     {
       "album": {
+        "name": "El Que Resuelve",
+        "url": "https://open.spotify.com/album/1PMRGdRKgG9nRwlX8XfasE"
+      },
+      "artists": [
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+        },
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170399,
+      "name": "El Que Resuelve",
+      "url": "https://open.spotify.com/track/56Br9FPB36z1qf8gnu2Zib"
+    },
+    {
+      "album": {
         "name": "El Trenecito Chu-Chu",
         "url": "https://open.spotify.com/album/6kzfXY7y9qpyvbiBsqDXlP"
       },
@@ -2221,6 +2265,32 @@
       "duration_ms": 221751,
       "name": "En Llamas",
       "url": "https://open.spotify.com/track/4C9lz7XcINbbknMDsc23LC"
+    },
+    {
+      "album": {
+        "name": "Esc\u00e1ndalo",
+        "url": "https://open.spotify.com/album/46JilI1ZEthwwO2dydqiDs"
+      },
+      "artists": [
+        {
+          "name": "Jahz",
+          "url": "https://open.spotify.com/artist/0zZurlOYddmTcMKbsZzdeq"
+        },
+        {
+          "name": "De la Rosa Mx",
+          "url": "https://open.spotify.com/artist/5vqTcQeQsS5ypqWxufGUOo"
+        },
+        {
+          "name": "La5Gto",
+          "url": "https://open.spotify.com/artist/3F3RZUoryZWSUJ08xpuBoR"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142812,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/1va5EUQEKHCMXl9OHaD2lL"
     },
     {
       "album": {
@@ -3474,6 +3544,28 @@
     },
     {
       "album": {
+        "name": "MAMI CHAKALOSA",
+        "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136843,
+      "name": "MAMI CHAKALOSA",
+      "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
+    },
+    {
+      "album": {
         "name": "Cumbiaton Total",
         "url": "https://open.spotify.com/album/4BlAGrb8qPYX1TuaInheT4"
       },
@@ -3845,10 +3937,40 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 167295,
       "name": "MUAY THAI",
       "url": "https://open.spotify.com/track/7M0jV4EvUzzodGbHepL7Ov"
+    },
+    {
+      "album": {
+        "name": "Mu\u00e9velo",
+        "url": "https://open.spotify.com/album/3OUA4GnEvRO7wVGVaiAZxO"
+      },
+      "artists": [
+        {
+          "name": "El Carli",
+          "url": "https://open.spotify.com/artist/7BZAkhYaYQxuuGqcqcN8L1"
+        },
+        {
+          "name": "Champa",
+          "url": "https://open.spotify.com/artist/2s10iZMYENf3VE33sHx65f"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Lil Geniuz",
+          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213066,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/542zBbKjNNZk5saWO6u3VU"
     },
     {
       "album": {
@@ -4041,7 +4163,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 241341,
       "name": "No Traje Naki",
       "url": "https://open.spotify.com/track/6wZVFscvWZbJaTl4Ju5MOF"
@@ -5101,7 +5223,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 228981,
       "name": "Putazo",
       "url": "https://open.spotify.com/track/4Ms3gJz40k4bikKwJklZNu"

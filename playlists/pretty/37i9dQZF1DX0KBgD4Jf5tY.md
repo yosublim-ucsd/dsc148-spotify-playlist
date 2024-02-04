@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Il meglio della musica indipendente italiana, aggiornata il terzo mercoledì di ogni mese\. Cover: <a href="spotify:artist:0PvxzN9MSvVMYj0b0fuwzA">Arianna Pasini</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,943 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,945 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 36 | [Funi](https://open.spotify.com/track/3RVDxFKROVLWtBqs2wYuLG) | [Clode](https://open.spotify.com/artist/4wJwVMQ2Dm2VIwxzMAvriE) | [Funi](https://open.spotify.com/album/3tYgrqALjs3h9diUxalfUK) | 3:03 |
 | 37 | [Hollywood](https://open.spotify.com/track/2gQPX4NIUUt3zgsqAWZgh9) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [Hollywood](https://open.spotify.com/album/7clj5P7PGm0VA6on0XLG21) | 3:21 |
 | 38 | [:Nessuno](https://open.spotify.com/track/3kAZPtFAR07V0bmDAr2Yd5) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [ERA LA FINE](https://open.spotify.com/album/0yOfxSG8PDbpkQaMkPCRls) | 3:34 |
-| 39 | [Cattedrale](https://open.spotify.com/track/1TgzFBLwSxINLbMD8u4UgB) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh), [CARBONE](https://open.spotify.com/artist/4H2y2DozNgECCjo87R1K1J) | [Inverno cenere](https://open.spotify.com/album/4pmZuDJbDIPcca2d7WQ2Nc) | 3:29 |
+| 39 | [Cattedrale](https://open.spotify.com/track/69jgzHyONnInQo86OfEmtg) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh), [CARBONE](https://open.spotify.com/artist/4H2y2DozNgECCjo87R1K1J) | [Inverno cenere](https://open.spotify.com/album/2fPmkP5HVQpgf1DMJvFsba) | 3:29 |
 | 40 | [Bambino](https://open.spotify.com/track/1NZ9jKK8nKjCxedhagWmSA) | [solodavide](https://open.spotify.com/artist/4kYIKaTeyaXcLLKvqwHK3N) | [Bambino](https://open.spotify.com/album/2LgBUgcJHAJ4A0l0EVz7Cs) | 3:00 |
 | 41 | [120 KM/H](https://open.spotify.com/track/4otcjodGGKLZ7SjRIB8ET1) | [SANTO BLUE](https://open.spotify.com/artist/5sV954iubTAhghPdzITK5v) | [120 KM/H / GIACINTI](https://open.spotify.com/album/13rVNvALnHWDKAZbCclUqD) | 2:39 |
 | 42 | [Mare in Tempesta](https://open.spotify.com/track/2O814L7id34BCDXF0S5ukx) | [Pandorea](https://open.spotify.com/artist/6tWC5Umk7qZ8gOXZLFALvk) | [Mare in Tempesta](https://open.spotify.com/album/1LvR1uSENLaoldywyxt2Ci) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Participio presente](https://open.spotify.com/track/3CDsLDD6NEPXMmQueo0igD) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [Participio presente](https://open.spotify.com/album/4YViPL4lZonhU6aGSRTJfU) | 2:58 |
 | 50 | [Buio \(al sicuro\)](https://open.spotify.com/track/4l0x8auMApmHiMNyNBNVFr) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr), [Maëlys](https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ) | [Buio \(al sicuro\)](https://open.spotify.com/album/5e0vV5aXeDX55cMrwSXoA5) | 2:12 |
 
-Snapshot ID: `MCwwOWIzZmExOTZmMjdlNDI2NmQzY2RmMTM1M2UyN2M1NDQ4Y2ExNzU1`
+Snapshot ID: `MCwwMDdhZjllNTk3OTkyNzlhNjM0ODJlZjc4ZTQwNzk4NjlhODI2NDk2`

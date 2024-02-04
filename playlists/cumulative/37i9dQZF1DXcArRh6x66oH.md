@@ -4,7 +4,7 @@
 
 > from Stillwater to Nashville with Wyatt Flores
 
-254 songs - 15 hr 17 min
+256 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bible and a .44](https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:55 | 2023-02-24 | 2024-01-05 |
 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 | 2023-02-24 | 2023-12-09 |
 | [Blowin' Smoke](https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:08 | 2023-03-24 | 2023-09-27 |
+| [Blue](https://open.spotify.com/track/6BAlpVMHkCSpHlf7bJbFM5) | [Caleb Mitchell](https://open.spotify.com/artist/6JkbFE2ZN13DVR1Z0lXZ7Z) | [Blue](https://open.spotify.com/album/6RB33mYpEqHVVPE0QnZmiT) | 3:16 | 2024-02-03 |  |
 | [Blue](https://open.spotify.com/track/0FJqXBo7ZHrskhH4owaL9S) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:38 | 2023-11-21 |  |
 | [Blue Eyed Constellation](https://open.spotify.com/track/2qslrX6hylkvFTfQ6p8Rhm) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Blue Eyed Constellation](https://open.spotify.com/album/6y45mq9RVJVkAiZiOmUvpw) | 3:53 | 2023-07-27 | 2023-10-01 |
 | [Boys Back Home](https://open.spotify.com/track/6aMCyqX0t9BZGF4VCRJvud) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc) | 3:16 | 2023-02-24 | 2023-10-01 |
@@ -258,7 +259,8 @@
 | [With You Gone](https://open.spotify.com/track/2obuXeXtTvUx2O3cppurXN) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [With You Gone](https://open.spotify.com/album/4fPB3brCS9rOmoU54rIBK6) | 4:06 | 2023-02-24 | 2023-11-18 |
 | [Women And Horses \(feat\. Brandy Clark\)](https://open.spotify.com/track/0KjtzuS5bDYoICk5t2xMyE) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Women And Horses](https://open.spotify.com/album/2QcJKU6A5kUpzIR2LfCIqR) | 4:13 | 2023-06-21 | 2023-10-04 |
 | [Women And Horses \(feat\. Brandy Clark\)](https://open.spotify.com/track/34udLlmfibjlLc5hEVkdXb) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Side Effects Of The Heart](https://open.spotify.com/album/5NyxBYEqQFpOCS4Gn3wNCK) | 4:13 | 2023-09-29 | 2023-12-09 |
-| [Wondering Why](https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:52 | 2023-09-28 |  |
+| [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 | 2024-02-03 |  |
+| [Wondering Why](https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:52 | 2023-09-28 | 2024-02-04 |
 | [Wouldn't Have to Miss You](https://open.spotify.com/track/1yFIxmYBYEm8WhuYnuq3nD) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Red Eye EP](https://open.spotify.com/album/3tKu9bTu6dfnXHZot0kKFy) | 4:27 | 2023-02-24 | 2023-12-09 |
 | [You Don’t Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 | 2023-05-12 |  |
 | [Young Heart](https://open.spotify.com/track/1lrMhK5zQJYTarnm2UggNZ) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Young Heart](https://open.spotify.com/album/6LfENbSpcG3QX421jC5eYz) | 2:50 | 2023-11-10 | 2023-12-09 |

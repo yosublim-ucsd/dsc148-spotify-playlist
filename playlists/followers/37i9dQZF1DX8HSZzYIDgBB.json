@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 36374,
+  "2024-02-04": 36374,
   "date_first_scraped": "2022-03-28",
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Jarina De Marco en portada.",
   "name": "tropic.alt",
@@ -989,7 +989,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 212821,
       "name": "Comadre",
       "url": "https://open.spotify.com/track/3Dw2wGorKeviZOLkJrI4Fm"
@@ -1963,6 +1963,24 @@
       "duration_ms": 257799,
       "name": "Flores de Abril",
       "url": "https://open.spotify.com/track/0QrVadfaRJIApi1dRE1FZL"
+    },
+    {
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/4UBSEvuaR4v2zJkC0aroby"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206533,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj"
     },
     {
       "album": {
@@ -3020,6 +3038,28 @@
     },
     {
       "album": {
+        "name": "Los Halcones",
+        "url": "https://open.spotify.com/album/0VtAPQ89V7neq7B8RyevIz"
+      },
+      "artists": [
+        {
+          "name": "Santiago Moraes",
+          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
+        },
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326973,
+      "name": "Los Halcones",
+      "url": "https://open.spotify.com/track/5TdKAGXN0JBooUcGP5jE0j"
+    },
+    {
+      "album": {
         "name": "Los ojos",
         "url": "https://open.spotify.com/album/2YwK74FkaMLpLA3Ql8cFkk"
       },
@@ -3169,7 +3209,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 182001,
       "name": "Masa",
       "url": "https://open.spotify.com/track/3f1sD5hO3N1loYO79wX27L"
@@ -4602,6 +4642,24 @@
     },
     {
       "album": {
+        "name": "intentos",
+        "url": "https://open.spotify.com/album/1WCOuQJEvzFmDg4bZvqkgu"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122331,
+      "name": "quiz\u00e1s en otra vida",
+      "url": "https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh"
+    },
+    {
+      "album": {
         "name": "Qui\u00e9n Podr\u00e1 Saberlo",
         "url": "https://open.spotify.com/album/5cvmkQT4H1rfZT8reSzanZ"
       },
@@ -5115,7 +5173,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 242215,
       "name": "So\u00f1ando",
       "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"

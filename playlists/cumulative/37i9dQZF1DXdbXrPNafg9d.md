@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Hovvdy
 
-6,481 songs - 15 day 18 hr 28 min
+6,482 songs - 15 day 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2321,7 +2321,8 @@
 | [Hamptons City Cowboy](https://open.spotify.com/track/6JXO6V9nNKwBeJMIyeeL1s) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Hamptons City Cowboy](https://open.spotify.com/album/2ykNdEeV01TEjq7inVoNCS) | 2:57 | 2022-06-24 | 2022-07-23 |
 | [Hand of God](https://open.spotify.com/track/05CUNiGW5O9hbpMBD9pVI9) | [Lower Dens](https://open.spotify.com/artist/5uTJLo3c4ZHpH8oEwGxYUN) | [The Competition](https://open.spotify.com/album/6rx96PrG4n2r80W391kTfZ) | 3:54 | 2019-09-06 | 2019-10-25 |
 | [hand solo](https://open.spotify.com/track/7eM6U25zy0rS4rbF2bicWS) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Any Human Friend](https://open.spotify.com/album/1MyAYzrDvFNjNY689PtpWF) | 3:50 | 2019-08-09 | 2019-09-13 |
-| [Hand to Hand](https://open.spotify.com/track/4AaVY4XuXeHJZwUBSRSoC6) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Hand to Hand](https://open.spotify.com/album/7HUM44SiRxsE6TXDjNF7wp) | 3:46 | 2024-01-05 |  |
+| [Hand to Hand](https://open.spotify.com/track/4AaVY4XuXeHJZwUBSRSoC6) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Hand to Hand](https://open.spotify.com/album/7HUM44SiRxsE6TXDjNF7wp) | 3:46 | 2024-01-05 | 2024-02-04 |
+| [Hand to Hand](https://open.spotify.com/track/7i4onkA2fRuV0viFNWINID) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 3:46 | 2024-01-05 |  |
 | [Handyman](https://open.spotify.com/track/4wykWbZswhsDAhiCaSdN9F) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Handyman](https://open.spotify.com/album/583KpgaKbGKj6XqMjhfE4h) | 3:06 | 2022-02-18 | 2022-03-26 |
 | [hangar](https://open.spotify.com/track/1nXiUKuAu4mHte6Gt2HRdJ) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [plague town](https://open.spotify.com/album/4vE4Kr73Pai0UGZ98J4tW6) | 2:45 | 2021-04-17 | 2021-05-29 |
 | [Hanger\-on](https://open.spotify.com/track/3ZxPU3puN1OqItx1pwKZh4) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Just Now](https://open.spotify.com/album/4eyEhLGWV79klaEqDrHpfT) | 3:28 | 2023-05-19 | 2023-06-24 |
@@ -5417,7 +5418,7 @@
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/62kHSw6wBh4c6UemJCb5p6) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Take Me Where Your Heart Is](https://open.spotify.com/album/6XkgiL7F2lC1pnZgioUyYd) | 3:12 | 2020-10-09 | 2020-12-22 |
 | [Take What's Given](https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Take What's Given](https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F) | 2:54 | 2024-02-02 |  |
 | [Take You Back](https://open.spotify.com/track/5xjDVAPLOovtYtzswnCxRS) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Take You Back](https://open.spotify.com/album/4KQ1bIDdoQgUILRQBxiWkB) | 3:36 | 2019-09-06 | 2019-10-18 |
-| [take yr time](https://open.spotify.com/track/7lQbnpAD7WJj6MaPowEcwx) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [take yr time](https://open.spotify.com/album/1VH9FaS0iG8QiB5cE475b0) | 3:56 | 2024-01-12 |  |
+| [take yr time](https://open.spotify.com/track/7lQbnpAD7WJj6MaPowEcwx) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [take yr time](https://open.spotify.com/album/1VH9FaS0iG8QiB5cE475b0) | 3:55 | 2024-01-12 |  |
 | [Taker](https://open.spotify.com/track/0ZdSPHnoFUAE1tck8oxSyJ) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Taker](https://open.spotify.com/album/12Iv5xAKpg2fnS1apJ0lp5) | 4:28 | 2019-08-23 | 2019-09-20 |
 | [Taking a Page](https://open.spotify.com/track/11cqytp0lTmyVhYbmtHC72) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Taking a Page](https://open.spotify.com/album/0RRkqjUcHquTecV4vh1PJm) | 3:36 | 2019-09-06 | 2019-09-27 |
 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 | 2022-06-03 | 2022-07-16 |
@@ -5438,7 +5439,7 @@
 | [Tangerine](https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Bluebeard](https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC) | 3:08 | 2023-09-15 | 2023-11-11 |
 | [Tangled dreams](https://open.spotify.com/track/375bXAagCpRqKryMnAPIFE) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Tangled dreams](https://open.spotify.com/album/3SF7QZpzKxAWJZCx1PyrgJ) | 4:17 | 2023-06-02 | 2023-07-08 |
 | [Tapeworms](https://open.spotify.com/track/1tRqkzDbWCxDq2wBiI5vhm) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Tapeworms](https://open.spotify.com/album/1EfIsnaZOJ9FK6cWFg53J8) | 3:07 | 2022-07-08 | 2022-08-06 |
-| [Taste of Metal](https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Taste of Metal](https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N) | 2:53 | 2024-02-02 |  |
+| [Taste of Metal](https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Taste of Metal](https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N) | 2:54 | 2024-02-02 |  |
 | [TATA](https://open.spotify.com/track/40mFnSVfCWRGqFdPIgQvMR) | [POLIÇA](https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ) | [When We Stay Alive](https://open.spotify.com/album/7IBhWoqJNbJtTityLHPYaT) | 3:20 | 2020-01-31 | 2020-03-13 |
 | [Te Olvidaste](https://open.spotify.com/track/6Nr40AS5eNsfFjpMrisCY3) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:07 | 2021-02-26 | 2021-04-10 |
 | [teach me love](https://open.spotify.com/track/0n5CbnlJoCcaHSwdqcSNlO) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [forest avenue](https://open.spotify.com/album/5n1cTgcLYpugGWHNQJqAba) | 3:23 | 2022-02-04 | 2022-03-12 |

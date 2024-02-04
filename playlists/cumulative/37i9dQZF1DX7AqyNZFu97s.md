@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Trooh Hippi
 
-1,556 songs - 3 day 11 hr 2 min
+1,557 songs - 3 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,7 +669,8 @@
 | [I Just Wana Love You](https://open.spotify.com/track/7oE6G53UTW8SaWkziAFyE8) | [Oktae](https://open.spotify.com/artist/4PxFr57PZWOCVJ5HkJyaoD) | [I Just Wana Love You](https://open.spotify.com/album/4L7Y16bYU8qBFKvRixf0Ox) | 2:48 | 2022-07-06 | 2023-03-09 |
 | [I Kind Of Liked It](https://open.spotify.com/track/0qIPT5pPXs2jKQ6wVbwv2U) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [I Kind Of Liked It](https://open.spotify.com/album/3hi5FcU8vnXf0QzYeinjTo) | 2:48 | 2024-01-24 |  |
 | [I Know It Happened But I Can't Explain](https://open.spotify.com/track/1PRY3whxLdyRwOWROuakG8) | [Zoe Konez](https://open.spotify.com/artist/56zdMqayB3Ja8iwUmdKumu) | [I Know It Happened But I Can't Explain](https://open.spotify.com/album/0Qxnmt9laQJu48svYZQ6Xt) | 3:08 | 2023-07-04 | 2023-08-09 |
-| [I Like It Here](https://open.spotify.com/track/4WQs8z0X7ZLYSGJ3bb0TmP) | [The Great Leslie](https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W) | [I Like It Here](https://open.spotify.com/album/6vBqjw4tGr24yk3mJfBhmK) | 3:40 | 2024-01-31 |  |
+| [I Like It Here](https://open.spotify.com/track/4A9ZeTK77J0B2yDRDkHgkJ) | [The Great Leslie](https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W) | [I Like It Here](https://open.spotify.com/album/70YBLwHfAZ8EGRHlq3WKy3) | 3:40 | 2024-01-31 |  |
+| [I Like It Here](https://open.spotify.com/track/4WQs8z0X7ZLYSGJ3bb0TmP) | [The Great Leslie](https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W) | [I Like It Here](https://open.spotify.com/album/6vBqjw4tGr24yk3mJfBhmK) | 3:40 | 2024-01-31 | 2024-02-04 |
 | [I Look at You \(It's Over\)](https://open.spotify.com/track/1IBqsc5rDQO9WXFYYEitRB) | [SHEARS](https://open.spotify.com/artist/2xlYBgG5r6QTLpmF1u04nK) | [I Look at You \(It's Over\)](https://open.spotify.com/album/4ae8ToNzILdGMW6zzwFvln) | 3:33 | 2023-07-04 | 2023-08-02 |
 | [I LUV MY LIFE](https://open.spotify.com/track/6FhiHZH9IOxLOWZnpO6AOJ) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ), [Jason Kwan](https://open.spotify.com/artist/6wy50ZiJ5BfTmEusgYQhX3), [iamkyami](https://open.spotify.com/artist/65m2oSongX6P3iLDeI57U0), [Tascha Jerawan](https://open.spotify.com/artist/0D3PwMT9TYck0jZRTX2cME), [Vishal Chopra](https://open.spotify.com/artist/01GItcv9Ci5mrLEAQ08n11), [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [I LUV MY LIFE](https://open.spotify.com/album/2rFvdojoWmwPUsKgQHqn15) | 2:46 | 2023-10-10 | 2023-11-22 |
 | [I Need](https://open.spotify.com/track/0fIgQSLtWNMhpCQLqeJY6r) | [Danko](https://open.spotify.com/artist/6xGIa8HycTuCltuAIm8ph9) | [I Need](https://open.spotify.com/album/7jsyOGdQyKEmk69EgxbGiA) | 4:03 | 2022-08-24 | 2022-10-13 |

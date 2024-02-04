@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Paola Navarrete & Adanowsky.
 
-286 songs - 15 hr 37 min
+287 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Noss de tempo](https://open.spotify.com/track/2aW8bmykoLKUbeYAFYGFVv) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2), [PADAWVN](https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE), [Dumelefant](https://open.spotify.com/artist/6Yaka3hMhE4DvmtSgxVgA2) | [Noss de tempo](https://open.spotify.com/album/2FSEx60QIuOYXWsSZGBf3A) | 3:10 | 2022-05-20 | 2023-04-15 |
 | [Novio Intelectual](https://open.spotify.com/track/3FY0MSjwKGbviDgvwMmix1) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Novio Intelectual](https://open.spotify.com/album/7MhKDU7f5tAR6DjtUoLNNg) | 3:14 | 2023-06-09 | 2023-09-16 |
 | [Nube Negra](https://open.spotify.com/track/3ZeKDpDvthhspRGiosXkIQ) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Nube Negra](https://open.spotify.com/album/1hfFHStwTqvGuaERkgjyka) | 3:05 | 2023-05-12 | 2023-06-24 |
-| [Nuestras Formas](https://open.spotify.com/track/3FsYdqpzwud7ZRjLRHi21S) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof), [Peperina](https://open.spotify.com/artist/3lDXYMlB5VIBZdLoIZNC2r) | [Nuestras Formas](https://open.spotify.com/album/30TBSDnmG0b4mjZHuUeXYE) | 2:31 | 2023-10-26 |  |
+| [Nuestras Formas](https://open.spotify.com/track/3FsYdqpzwud7ZRjLRHi21S) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof), [Peperina](https://open.spotify.com/artist/3lDXYMlB5VIBZdLoIZNC2r) | [Nuestras Formas](https://open.spotify.com/album/30TBSDnmG0b4mjZHuUeXYE) | 2:31 | 2023-10-26 | 2024-02-04 |
 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 | 2023-08-18 |  |
 | [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN) | 2:58 | 2023-06-09 | 2023-06-24 |
 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 | 2022-05-20 | 2022-08-27 |
@@ -282,6 +282,7 @@
 | [Velocidad Crucero](https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Velocidad Crucero](https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1) | 3:52 | 2023-07-07 |  |
 | [Vencimiento](https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Sueño Cítrico](https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf) | 3:22 | 2023-04-21 |  |
 | [Volar](https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Volar](https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly) | 3:19 | 2023-12-01 |  |
+| [Volcán](https://open.spotify.com/track/4GxXdJPyw9IPuhBw7wyTNM) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2), [Leo Salinas](https://open.spotify.com/artist/3AyxootFsf60iAcaQlOawD), [Paula Pávez](https://open.spotify.com/artist/2aJMvTqheNrisBUbV9zDPM) | [Volcán](https://open.spotify.com/album/4ii6T1Fyt693umGZcYzhP3) | 3:56 | 2024-02-01 |  |
 | [Volver Atrás](https://open.spotify.com/track/37tcPLggz0Jeo2cz6hgerF) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Volver Atrás](https://open.spotify.com/album/0kDzfXdEsvV9RVDze0PRg7) | 3:35 | 2022-05-20 | 2023-05-20 |
 | [X AMOR](https://open.spotify.com/track/7mePOahmzjcf3ollKqNqiW) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [X AMOR](https://open.spotify.com/album/49azHYzQZOev9lrqjyqDTz) | 4:02 | 2022-05-20 | 2023-04-15 |
 | [y las flores? \(en bruto 1/2\)](https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:36 | 2023-07-28 | 2023-10-07 |

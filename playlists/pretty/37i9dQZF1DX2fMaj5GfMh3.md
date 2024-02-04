@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Froukje op de cover van Fresh Pop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,668 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,676 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 74 | [WHAT JUST HAPPENED](https://open.spotify.com/track/2djNsYsA71cIs4A8YaF59J) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [WHAT JUST HAPPENED](https://open.spotify.com/album/5cFhETbBm8L6tybXY4AZSj) | 2:42 |
 | 75 | [One More Night](https://open.spotify.com/track/5EFs8BlwPJ6ceMqxYfcizM) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [One More Night](https://open.spotify.com/album/1x6c7A7bkrcHIeNyH2UPRa) | 2:47 |
 
-Snapshot ID: `MCw1YjEzNTIwODczOGVmM2UwZWFhYTVhNjA3MzRhMTlhYTQyMDIzMGEx`
+Snapshot ID: `MCxmNDIxNTA3YjViM2FhYmNhNGU2MmE3ZGQ1MmM4ODk0NzY4YmU1MTFm`

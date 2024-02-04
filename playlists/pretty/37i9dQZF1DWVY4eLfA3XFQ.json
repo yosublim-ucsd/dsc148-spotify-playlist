@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Mau P",
-  "num_followers": 606393,
+  "num_followers": 606527,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWQxNTMxZDkyM2NkYzEyOTlkYzAyMGRkMjRjNmE5ZTEzMDBjNjI5",
+  "snapshot_id": "MCxkMjllNjgyZTc0OTkyMTQ5MzhiY2M3NjI2NDAyOWM4OTFkNTM1NmYw",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1125,6 +1125,22 @@
       "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "The Function",
+        "url": "https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 192848,
+      "name": "The Function",
+      "url": "https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Tututu (Radio Edit)",
@@ -1159,22 +1175,6 @@
       "duration_ms": 127250,
       "name": "Tututu - Radio Edit",
       "url": "https://open.spotify.com/track/3BRn1Iue3q3VQNwka4Cweq"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "The Function",
-        "url": "https://open.spotify.com/album/1dDEeKb8vS0R7AtNA0OAbx"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 192848,
-      "name": "The Function",
-      "url": "https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "Dancing At The Disco",
+        "url": "https://open.spotify.com/album/2zRVSA2HEm7bVR5R9EjJgt"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Cherry Tooth",
+          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
+        }
+      ],
+      "duration_ms": 194423,
+      "name": "Dancing At The Disco",
+      "url": "https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Chakachaka",
         "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
       },
@@ -1351,46 +1371,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Dancing At The Disco",
-        "url": "https://open.spotify.com/album/2zRVSA2HEm7bVR5R9EjJgt"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Cherry Tooth",
-          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
-        }
-      ],
-      "duration_ms": 194423,
-      "name": "Dancing At The Disco",
-      "url": "https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Better Recognize",
-        "url": "https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Better Recognize",
-      "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Spring Girl (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/5b704SG8QwJJhRVDzDk4yv"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 228779,
       "name": "Spring Girl - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/2SCkpXTuQOvXySjlz9O1JH"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Better Recognize",
+        "url": "https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 211586,
+      "name": "Better Recognize",
+      "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1561,26 +1561,6 @@
       "url": "https://open.spotify.com/track/7KDkVer6KDHahrjFABNGww"
     },
     {
-      "added_at": "2023-12-29 05:00:00",
-      "album": {
-        "name": "Perfect Love (Biscits Remix)",
-        "url": "https://open.spotify.com/album/1HVIOPdgDaSIdKy79G1Dbj"
-      },
-      "artists": [
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        },
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 191355,
-      "name": "Perfect Love - Biscits Remix",
-      "url": "https://open.spotify.com/track/6SxpLVRmhMubmYLrvxGp22"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Freddie's Warmup",
@@ -1615,6 +1595,26 @@
       "duration_ms": 215091,
       "name": "Weeping Willow",
       "url": "https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT"
+    },
+    {
+      "added_at": "2023-12-29 05:00:00",
+      "album": {
+        "name": "Perfect Love (Biscits Remix)",
+        "url": "https://open.spotify.com/album/1HVIOPdgDaSIdKy79G1Dbj"
+      },
+      "artists": [
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        },
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 191355,
+      "name": "Perfect Love - Biscits Remix",
+      "url": "https://open.spotify.com/track/6SxpLVRmhMubmYLrvxGp22"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1787,6 +1787,26 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "I Want Your Soul (Mau P Remix)",
+        "url": "https://open.spotify.com/album/0TmEMpGtt0nhpowS8B8qj3"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 210826,
+      "name": "I Want Your Soul - Mau P Remix",
+      "url": "https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Favela Joint",
         "url": "https://open.spotify.com/album/5tGqwxDFlJMRXm4Iiwnqb9"
       },
@@ -1805,24 +1825,20 @@
       "url": "https://open.spotify.com/track/1ygoSdSGNwK3PIWxizJRnm"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
+      "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "I Want Your Soul (Mau P Remix)",
-        "url": "https://open.spotify.com/album/0TmEMpGtt0nhpowS8B8qj3"
+        "name": "Drug Loop",
+        "url": "https://open.spotify.com/album/04GTNpzHseEOyXNZG2gSDq"
       },
       "artists": [
         {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "Phil Harris",
+          "url": "https://open.spotify.com/artist/06icPsYb2sw6FlJKYhwsv0"
         }
       ],
-      "duration_ms": 210826,
-      "name": "I Want Your Soul - Mau P Remix",
-      "url": "https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT"
+      "duration_ms": 189374,
+      "name": "Drug Loop",
+      "url": "https://open.spotify.com/track/3Jc7DQJL8qb2ShoAMzY7oZ"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1847,22 +1863,6 @@
       "duration_ms": 228070,
       "name": "Worship Technology",
       "url": "https://open.spotify.com/track/6pRJ9VO7XB7W0CIcrOFmDy"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Drug Loop",
-        "url": "https://open.spotify.com/album/04GTNpzHseEOyXNZG2gSDq"
-      },
-      "artists": [
-        {
-          "name": "Phil Harris",
-          "url": "https://open.spotify.com/artist/06icPsYb2sw6FlJKYhwsv0"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Drug Loop",
-      "url": "https://open.spotify.com/track/3Jc7DQJL8qb2ShoAMzY7oZ"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1963,6 +1963,26 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "More Baby",
+        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 264996,
+      "name": "More Baby - VIP Mix",
+      "url": "https://open.spotify.com/track/4ddRKTrv4fXl47Jzigwyit"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "LALALA",
         "url": "https://open.spotify.com/album/6hxVFjWlFEeezccloBHDKW"
       },
@@ -1983,26 +2003,6 @@
       "duration_ms": 169635,
       "name": "LALALA",
       "url": "https://open.spotify.com/track/0vMAY6AodrM6yXH8Gi9Xzq"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "More Baby",
-        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 264996,
-      "name": "More Baby - VIP Mix",
-      "url": "https://open.spotify.com/track/4ddRKTrv4fXl47Jzigwyit"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2189,6 +2189,22 @@
       "url": "https://open.spotify.com/track/3dyVoiP0ILIhXX2M7vLbb4"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Tighten Up",
+        "url": "https://open.spotify.com/album/7B0HytuKozCrtOQ9PxSTsp"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/1k8tGEqjmXqjkYW9sMTd8V"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Space Bump",
@@ -2223,22 +2239,6 @@
       "duration_ms": 166380,
       "name": "Are You Feeling This?",
       "url": "https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Tighten Up",
-        "url": "https://open.spotify.com/album/7B0HytuKozCrtOQ9PxSTsp"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/1k8tGEqjmXqjkYW9sMTd8V"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2373,20 +2373,20 @@
       "url": "https://open.spotify.com/track/3j8TbHVc4Kg4mWApoXnUL4"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "The Rhythm",
-        "url": "https://open.spotify.com/album/2kYXFfxK4k5IRtVWiUHug2"
+        "name": "Bend N Snap",
+        "url": "https://open.spotify.com/album/4drwTrVblA1u7ac2r27dxY"
       },
       "artists": [
         {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+          "name": "Jack Wins",
+          "url": "https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt"
         }
       ],
-      "duration_ms": 167903,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/04KlP6jVpk4lbOnBCPKUlg"
+      "duration_ms": 134430,
+      "name": "Bend N Snap",
+      "url": "https://open.spotify.com/track/0cIfTCAE7fLAgvFzBA4XAW"
     },
     {
       "added_at": "2023-11-03 04:00:00",

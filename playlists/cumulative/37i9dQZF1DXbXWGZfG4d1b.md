@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-547 songs - 1 day 8 hr 28 min
+548 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Julia](https://open.spotify.com/track/5t7sGOswn980bSMcXw4YTv) | [Salvador García](https://open.spotify.com/artist/2b3MB5Eq02nH2iCvNU88wT) | [Julia](https://open.spotify.com/album/6NtzL5k6Ao2GmSaKXTci6H) | 2:26 | 2022-07-01 | 2022-07-08 |
 | [Junto Boludeces](https://open.spotify.com/track/2i1PztLepuClGgWaNH3wec) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:25 | 2023-07-28 |  |
 | [L'ultimo Gesto Di Liberazzione](https://open.spotify.com/track/7L2wpUGXwANKyfloRG1Uen) | [She Devils](https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7) | [La Piel Dura](https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG) | 2:01 | 2022-07-15 | 2022-07-20 |
-| [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-01 |  |
+| [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-01 | 2024-02-04 |
 | [La Bruma](https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [La Bruma](https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp) | 2:53 | 2023-03-03 | 2023-08-26 |
 | [La Cascada de Tu Pelo Enredado](https://open.spotify.com/track/0WatuYSspFciyN3u60zJ76) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [Copia Viva](https://open.spotify.com/album/16Ds6fYMwSXXOlSEKHl8fg) | 3:16 | 2022-06-03 | 2023-06-10 |
 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 | 2022-06-03 |  |
@@ -388,6 +388,7 @@
 | [Otra Temporada](https://open.spotify.com/track/6QLWfSMC5xy7l3RN02IkdF) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE), [Santiago Palacios](https://open.spotify.com/artist/5qMJSUGULtqZMQ1nTXNB2I) | [Otra Temporada](https://open.spotify.com/album/7rhPutrEYnhtontH4puTpJ) | 4:01 | 2022-07-15 | 2022-09-03 |
 | [Otro Vals](https://open.spotify.com/track/3RhdFQClD67rNdX3MbqpRA) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Otro Vals](https://open.spotify.com/album/4VT3sDnEGPUFkgsy3k5kTm) | 3:42 | 2023-01-20 | 2023-03-03 |
 | [Ovbio](https://open.spotify.com/track/7w1oeRk6mx4SnvYH6GpPEK) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU) | [Ovbio](https://open.spotify.com/album/2zSH51juxxucmg3HuoUDyD) | 4:04 | 2022-07-01 | 2022-07-20 |
+| [Pagando de Más](https://open.spotify.com/track/4BMyL8QxN9W5jE4ia12l2G) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Barato Ideal](https://open.spotify.com/album/3vHJZa6kVgGjot5mgsjOUg) | 2:51 | 2024-02-02 |  |
 | [Pajarito](https://open.spotify.com/track/1ZmIvjlrjPBFJnWd8y0iTo) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [FRANCHI](https://open.spotify.com/artist/77xtGvM91PQToxdNiBFxom) | [Pajarito](https://open.spotify.com/album/1CMxNtkxsF3JS5KmOBVGrU) | 3:42 | 2022-06-03 |  |
 | [Pana](https://open.spotify.com/track/2DKrHjjGpq9mWY6iYRsbCW) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j), [Tom Tom](https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP) | [Remixes II](https://open.spotify.com/album/29UXysLuX1kpykutqConIc) | 3:48 | 2022-06-03 | 2022-07-29 |
 | [Pana](https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j), [Tom Tom](https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP) | [Remixes II](https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N) | 3:48 | 2022-07-15 | 2023-12-09 |

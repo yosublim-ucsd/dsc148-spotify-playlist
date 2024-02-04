@@ -1289,6 +1289,28 @@
     },
     {
       "album": {
+        "name": "UNA BACHATA",
+        "url": "https://open.spotify.com/album/2q1jdycseQd3319Y48b2Gh"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157846,
+      "name": "UNA BACHATA",
+      "url": "https://open.spotify.com/track/7psTzxo3Gyo7ZoCysM8fjc"
+    },
+    {
+      "album": {
         "name": "Ya No Quiero N\u00e1",
         "url": "https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob"
       },

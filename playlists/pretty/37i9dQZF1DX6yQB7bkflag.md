@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Rizky Febian
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,349 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,337 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 89 | [CLOSER](https://open.spotify.com/track/0jnNq7oQlbIt4Junfy1aHT) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ), [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [CLOSER](https://open.spotify.com/album/0z0LGO3fqevrJKVodLmLuG) | 2:22 |
 | 90 | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/track/1FOwWRFyJQh0EHthcdlcVE) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Big Mouth Cast](https://open.spotify.com/artist/1DqX6y6PeSke9Y3ojgq95w) | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/album/1BrbqpyUhXOquJzNd4rEza) | 2:21 |
 
-Snapshot ID: `MCxjNTA1YzhjYjk3ZDJkOWJlMmYzOTg3YmUwM2ViNmI0NjE1NGQ4YjU0`
+Snapshot ID: `MCwxNzcxODFiN2E4YTgxN2I3ODVjMGJmYzdiZmI1YTlmMTQ1MWY3ODkz`

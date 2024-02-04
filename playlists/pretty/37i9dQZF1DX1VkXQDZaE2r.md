@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 
 > Be welcome to the secret society of the midnight movie\-dwellers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,621 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,625 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 | 37 | [Jeunes Filles Impudiques](https://open.spotify.com/track/1JuxmF5la5W3cmx6QB6vYu) | [Pierre Raph](https://open.spotify.com/artist/5mvn4QDfC0rOICm4VKY3o7) | [The B\-Music of Jean Rollin 1968\-1975](https://open.spotify.com/album/0Cvuf8byWjIisbPzunLwAX) | 3:25 |
 | 38 | [Vertigo Suite: II\. Scene d'amour](https://open.spotify.com/track/4RqdSZ8auOpLJDAupVxwGb) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9), [Danish National Symphony Orchestra](https://open.spotify.com/artist/6kClxEibflIbA231B95OYX), [John Mauceri](https://open.spotify.com/artist/0aBCjuDMg4Bh7SU0ayu4ov) | [Music for Alfred Hitchcock](https://open.spotify.com/album/7fEaWe8sexwUG70CGdsadf) | 6:34 |
 | 39 | [Un posto per un addio](https://open.spotify.com/track/6Lo1htGEBfNHS4flEVwpKG) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [La morte bussa due volte \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/030uVaZuBa1MdMj1OsOhRT) | 2:32 |
-| 40 | [Le Frisson Des Vampires](https://open.spotify.com/track/5n0bkvLJL814wM4ox5wb1R) | [Acanthus](https://open.spotify.com/artist/3RPNmyPOIU0qvwDVkCcIba) | [The B\-Music of Jean Rollin 1968\-1975](https://open.spotify.com/album/0Cvuf8byWjIisbPzunLwAX) | 2:42 |
-| 41 | [Tema grottesco](https://open.spotify.com/track/0D7JFydpAJjmKrcI9j32Xh) | [Giovanni Fusco](https://open.spotify.com/artist/1F5SQQuwQRm2k2V43hiWXe) | [L'avventura \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cbi2bMqJyez75J1DA5iLx) | 1:43 |
+| 40 | [Tema grottesco](https://open.spotify.com/track/0D7JFydpAJjmKrcI9j32Xh) | [Giovanni Fusco](https://open.spotify.com/artist/1F5SQQuwQRm2k2V43hiWXe) | [L'avventura \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cbi2bMqJyez75J1DA5iLx) | 1:43 |
+| 41 | [Le Frisson Des Vampires](https://open.spotify.com/track/5n0bkvLJL814wM4ox5wb1R) | [Acanthus](https://open.spotify.com/artist/3RPNmyPOIU0qvwDVkCcIba) | [The B\-Music of Jean Rollin 1968\-1975](https://open.spotify.com/album/0Cvuf8byWjIisbPzunLwAX) | 2:42 |
 | 42 | [Extase](https://open.spotify.com/track/1PpyqHLJNBfwX4GKvr4u8s) | [Paul Bonneau](https://open.spotify.com/artist/0nhwbpIOp7m3GrBzXPhJI9) | [Further Nuggets \- Luke Vibert's Selection](https://open.spotify.com/album/54yBaur0EVEEj6O3yB0rQH) | 2:11 |
-| 43 | [Theme the Antwerp Killer](https://open.spotify.com/track/6SwFGskgBn4iUF8qvEeqPu) | [Eric Feremans](https://open.spotify.com/artist/1H8r19XbTTVokkSkSzdU5n) | [The Antwerp Killer](https://open.spotify.com/album/2GsxUBepjajK33wDJchQs1) | 11:26 |
-| 44 | [Tema di Andromeda \- Titoli](https://open.spotify.com/track/1sARq97rsSZCMnuO8oEOdd) | [Mario Migliardi](https://open.spotify.com/artist/4PQN5vllMoMffSTEjfvzpQ), [Edda Dell'Orso](https://open.spotify.com/artist/44oCA91Zsi73fzubIX6Sqh) | [A come Andromeda \(Original Television Soundtrack\) \[Remastered\]](https://open.spotify.com/album/3oCi1gzY2X4UdvI3LrEOp1) | 3:41 |
+| 43 | [Tema di Andromeda \- Titoli](https://open.spotify.com/track/1sARq97rsSZCMnuO8oEOdd) | [Mario Migliardi](https://open.spotify.com/artist/4PQN5vllMoMffSTEjfvzpQ), [Edda Dell'Orso](https://open.spotify.com/artist/44oCA91Zsi73fzubIX6Sqh) | [A come Andromeda \(Original Television Soundtrack\) \[Remastered\]](https://open.spotify.com/album/3oCi1gzY2X4UdvI3LrEOp1) | 3:41 |
+| 44 | [Theme the Antwerp Killer](https://open.spotify.com/track/6SwFGskgBn4iUF8qvEeqPu) | [Eric Feremans](https://open.spotify.com/artist/1H8r19XbTTVokkSkSzdU5n) | [The Antwerp Killer](https://open.spotify.com/album/2GsxUBepjajK33wDJchQs1) | 11:26 |
 | 45 | [Discossession](https://open.spotify.com/track/54MdRC5m9E5UiMnomyD0Z6) | [Pippo Caruso](https://open.spotify.com/artist/4aQ54nD9ENvCRKVJQwZ18o) | [L'occhio dietro la parete \(Colonna sonora del film "L'occhio dietro la parete"\)](https://open.spotify.com/album/1pSZrWLzy1PuT7uHy2k2Ch) | 4:55 |
 | 46 | [The Innocents Suite: I\. O Willow Waly \- Main Titles](https://open.spotify.com/track/04cdIzF30V7Yb5Q5r0MUkG) | [Georges Auric](https://open.spotify.com/artist/1OWxt3WxCvMwyOwfdQ20RK), [Rumon Gamba](https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy), [BBC Philharmonic Orchestra](https://open.spotify.com/artist/2os8ZaeBvYxyVgTKrHtnvK) | [The Film Music of Georges Auric](https://open.spotify.com/album/3u5Q5iuOy5BWTK8xA1B7zg) | 3:23 |
 | 47 | [The Letter \- Alternate Version](https://open.spotify.com/track/1QBdSz2Z7xhpuPu8oe66PR) | [Luboš Fišer](https://open.spotify.com/artist/4z6WcbsP0ZAw7UCEBuU6fk) | [Valerie and Her Week of Wonders](https://open.spotify.com/album/7kMA3RbOjYLJ2igWgihhPY) | 1:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VkXQDZaE2r.md) - [plain]
 | 49 | [Scarpe rotte](https://open.spotify.com/track/0y18MLJpA3iiLZ2ss2xNFi) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Uccellacci e uccellini \- The Hawks and the Sparrows \(Original Motion Picture Soundtrack\) \[Remastered\]](https://open.spotify.com/album/3F20sTbeXDmW3XOr3pWhW6) | 1:45 |
 | 50 | [Blue Doll Baroque](https://open.spotify.com/track/4rKq4truS2MWOVmDL4sFe7) | [Yvon Gerault](https://open.spotify.com/artist/2PHjcIbLK3QmQlPVxmeZBN) | [The B\-Music of Jean Rollin 1968\-1975](https://open.spotify.com/album/0Cvuf8byWjIisbPzunLwAX) | 1:43 |
 
-Snapshot ID: `MCxmMTZkNzM0Yzg3YmIwMjM1OTE1YjIzNDI2MzA2NjU0YTdkM2FjYzQ3`
+Snapshot ID: `MCxmYjhjMzk0OGZiODgxODBkMDlkZTRlZTQ5NDFiNWRkODFkZGRjMDli`

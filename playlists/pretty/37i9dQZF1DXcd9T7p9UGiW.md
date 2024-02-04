@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,221 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,301 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [Push \(feat\. Omah Lay\)](https://open.spotify.com/track/50EkygI3tkKMnD5e0MVNMF) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Push \(feat\. Omah Lay\)](https://open.spotify.com/album/0f0qfURHgJCrbUARPD1zZ6) | 2:42 |
 | 80 | [Attention](https://open.spotify.com/track/0FQmt8YjhSXx2KMvJSiHQ3) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Attention](https://open.spotify.com/album/2NHXAtrSy811tF6Jz99BXy) | 2:22 |
 
-Snapshot ID: `MCxhZjE2MzRmNmZhMDU4YmE2ODM1YTM0YjgwMWNiOTZhNDcyYzNlM2Iy`
+Snapshot ID: `MCwxMzhmNmFiMGM1ZTQyMmZhZDNlMzRkMjhmMjNkNGIzOTgzY2ZmNTMw`

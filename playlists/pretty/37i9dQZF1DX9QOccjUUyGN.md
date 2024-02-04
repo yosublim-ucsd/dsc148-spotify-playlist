@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Jamal KMG
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,657 likes - 83 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,658 likes - 83 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 12 | [Fã](https://open.spotify.com/track/6mmnvCgBr0CooXnauXDhyB) | [Dreeyzy](https://open.spotify.com/artist/33yIwB6RZp7iZalhELSaBS), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk), [FB PRIME](https://open.spotify.com/artist/0935s3YkDzPCqFBbjkq59o) | [Fã](https://open.spotify.com/album/6LcThFOEzDCz1SygNtz3na) | 3:00 |
 | 13 | [Esse Ano](https://open.spotify.com/track/7ohzrBQsERSGNHS4rLvlmD) | [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Esse Ano](https://open.spotify.com/album/6w9Ha6CNFIjaXFbTpqnHOw) | 2:37 |
 | 14 | [Bob Esponja](https://open.spotify.com/track/11fjWOUYDNN73ODJ4pC4cC) | [VN Nagamini](https://open.spotify.com/artist/10RwZmX3euIUHTxMqGUqJQ), [NóizProd](https://open.spotify.com/artist/3ww1Cvu2JnTEqxpRQwlGGZ), [Fláviop Beats](https://open.spotify.com/artist/5ha5f9Ri2dO50JM5lZm7RW) | [Bob Esponja](https://open.spotify.com/album/5uMRIGa7Isx3ZviWKL22Oa) | 3:17 |
-| 15 | [Festa Na Piscina](https://open.spotify.com/track/5QmIowtiQQMOHNQoOO0SQ1) | [JOTTAH](https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN) | [Festa Na Piscina](https://open.spotify.com/album/4zqmdCw88WxBSiP0BOB21R) | 2:01 |
+| 15 | [FESTA NA PISCINA](https://open.spotify.com/track/5QmIowtiQQMOHNQoOO0SQ1) | [JOTTAH](https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN) | [FESTA NA PISCINA](https://open.spotify.com/album/4zqmdCw88WxBSiP0BOB21R) | 2:01 |
 | 16 | [CASA NOVA](https://open.spotify.com/track/3G0e49CwPDrmzzkXYi4eO6) | [Koch Woody](https://open.spotify.com/artist/19s97YpRV9yAsmwwITqEA9), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [EarKid](https://open.spotify.com/artist/7HgyUDF9EbhOCBc0l29PD8) | [CASA NOVA](https://open.spotify.com/album/5sePgNynHlg4K2wpvNfXRx) | 3:23 |
 | 17 | [Sigilosa](https://open.spotify.com/track/6YsUhTls5Pl4CsmMDnT1tE) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg) | [Sigilosa](https://open.spotify.com/album/5hQZsw9cGurzQT1LuDKKpA) | 1:34 |
 | 18 | [Premeditado](https://open.spotify.com/track/5bmAnIu3tFE9nqPyi0JJET) | [JG Real](https://open.spotify.com/artist/6IqdPoGiCMjjsGOkxEdADa), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Premeditado](https://open.spotify.com/album/0uv3n7f6TFNWOaLVOEckdN) | 2:44 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 82 | [Fora Da Lei](https://open.spotify.com/track/25BYiqy7bqjLGuZammSgo1) | [Tito JV](https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao), [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Fora Da Lei](https://open.spotify.com/album/3zSA2HaW5dkplmPfWoX0Zu) | 2:12 |
 | 83 | [Manga Rosa](https://open.spotify.com/track/1ebggv45NciH0NoULmBVQC) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Manga Rosa](https://open.spotify.com/album/2G7cF9AfONIGOsOus4TawG) | 2:13 |
 
-Snapshot ID: `MCxiZjg2ZjVkZDgzMjBmZWM5NjhkYTU0MjQxNDNjZTExMGZlZjI5MGUx`
+Snapshot ID: `MCxmYzIzNDUzNTZiYmM5ZjIyYmRjM2RiMWY4ZDNkZjhiMzllYThjYmNl`

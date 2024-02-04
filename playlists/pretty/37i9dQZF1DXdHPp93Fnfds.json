@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Kirnbauer, Joaquina Mertz, Mar\u00eda Centeno & Noa Sainz.",
-  "num_followers": 144298,
+  "num_followers": 144257,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWU2YTczZjhkYWY2N2VlNDVhZTY1ODE0NTc0MTVjYTZkZmRiMDFh",
+  "snapshot_id": "MCw3YjQ5MmNmNzc1OWExMzdmZWE3MDk3NjhmZTkwYWRjY2EzYzMwMDE2",
   "tracks": [
     {
       "added_at": "2024-01-18 22:10:20",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
-        "name": "Entremundos",
-        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 205911,
-      "name": "Entremundos",
-      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
-    },
-    {
-      "added_at": "2024-01-18 22:10:20",
-      "album": {
         "name": "poco a poquito",
         "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 168320,
       "name": "poco a poquito",
       "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
+    },
+    {
+      "added_at": "2024-01-18 22:10:20",
+      "album": {
+        "name": "Entremundos",
+        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 205911,
+      "name": "Entremundos",
+      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
     },
     {
       "added_at": "2024-01-18 22:10:20",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
+        "name": "La Nieve",
+        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 211699,
+      "name": "La Nieve",
+      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
+    },
+    {
+      "added_at": "2024-01-18 22:10:20",
+      "album": {
         "name": "Todo Va A Cambiar",
         "url": "https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 147386,
       "name": "Todo Va A Cambiar",
       "url": "https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj"
-    },
-    {
-      "added_at": "2024-01-18 22:10:20",
-      "album": {
-        "name": "La Nieve",
-        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 211699,
-      "name": "La Nieve",
-      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
     },
     {
       "added_at": "2024-01-18 22:10:20",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
-        "name": "Male",
-        "url": "https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA"
-      },
-      "artists": [
-        {
-          "name": "Clara_mente",
-          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
-        }
-      ],
-      "duration_ms": 182903,
-      "name": "Male",
-      "url": "https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n"
-    },
-    {
-      "added_at": "2024-01-18 22:10:20",
-      "album": {
         "name": "Mango Negro",
         "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
-        "name": "Abril",
-        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
+        "name": "Male",
+        "url": "https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA"
       },
       "artists": [
         {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+          "name": "Clara_mente",
+          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
         }
       ],
-      "duration_ms": 229531,
-      "name": "Toda la Noche",
-      "url": "https://open.spotify.com/track/4JqzimmrHYg2yOXY37SfwV"
+      "duration_ms": 182903,
+      "name": "Male",
+      "url": "https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n"
     },
     {
       "added_at": "2024-01-18 22:10:20",
@@ -1007,6 +991,22 @@
       "duration_ms": 209746,
       "name": "Clandestina - Spotify Singles",
       "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
+    },
+    {
+      "added_at": "2024-01-18 22:10:20",
+      "album": {
+        "name": "Abril",
+        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
+      },
+      "artists": [
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+        }
+      ],
+      "duration_ms": 229531,
+      "name": "Toda la Noche",
+      "url": "https://open.spotify.com/track/4JqzimmrHYg2yOXY37SfwV"
     },
     {
       "added_at": "2024-01-18 22:10:20",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
+        "name": "El Valle Encantado",
+        "url": "https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 203483,
+      "name": "Aguatera",
+      "url": "https://open.spotify.com/track/7FR26rQuikSbhhNHf3HhX3"
+    },
+    {
+      "added_at": "2024-01-18 22:10:20",
+      "album": {
         "name": "Y vos dec\u00eds que me gust\u00e1s",
         "url": "https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q"
       },
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
-        "name": "Peque\u00f1as Esperanzas",
-        "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 200238,
-      "name": "Peque\u00f1as Esperanzas",
-      "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
-    },
-    {
-      "added_at": "2024-01-18 22:10:20",
-      "album": {
         "name": "AZ\u00daCAR",
         "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
       },
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
-        "name": "El Valle Encantado",
-        "url": "https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S"
+        "name": "Peque\u00f1as Esperanzas",
+        "url": "https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
         }
       ],
-      "duration_ms": 203483,
-      "name": "Aguatera",
-      "url": "https://open.spotify.com/track/7FR26rQuikSbhhNHf3HhX3"
+      "duration_ms": 200238,
+      "name": "Peque\u00f1as Esperanzas",
+      "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
     },
     {
       "added_at": "2024-01-18 22:10:20",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-01-18 22:10:20",
       "album": {
-        "name": "llorando en la luna",
-        "url": "https://open.spotify.com/album/4HMsUrIj0suIB94rokDgcj"
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/1oy4RCK3TYGSXVVh6iwqAp"
       },
       "artists": [
         {
-          "name": "Rebe",
-          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
+          "name": "Valsian",
+          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
         }
       ],
-      "duration_ms": 177265,
-      "name": "llorando en la luna",
-      "url": "https://open.spotify.com/track/35uMVgoVbnzg4Dn3PfUNLO"
+      "duration_ms": 205281,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0"
     }
   ],
   "unique_name": "Mujeres del Indie",

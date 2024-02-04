@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 15478,
+  "2024-02-04": 15496,
   "date_first_scraped": "2023-09-18",
   "description": "pra curtir o puro afrobeats feito no Brasil.",
   "name": "pique afrobeats",
@@ -825,6 +825,36 @@
       "duration_ms": 209471,
       "name": "Hipnose",
       "url": "https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU"
+    },
+    {
+      "album": {
+        "name": "Rom\u00e2ntico, Pt. 2",
+        "url": "https://open.spotify.com/album/4F9PbT5etwnfzSHuNmh8cS"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Hoje",
+      "url": "https://open.spotify.com/track/7ajsegzcb0VzobtfArvw4L"
     },
     {
       "album": {
@@ -2223,7 +2253,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 220000,
       "name": "S\u00f3 Olha - Ao Vivo",
       "url": "https://open.spotify.com/track/26OAbs5hQcTnIlk9nmo4FY"
@@ -2371,7 +2401,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 166438,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL"

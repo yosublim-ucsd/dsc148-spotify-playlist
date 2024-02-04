@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Smooth beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,583 likes - 190 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,635 likes - 190 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 18 | [Seven Hundred Fourteen 七百十四](https://open.spotify.com/track/12V1thgB2Hos7uSU4rOqro) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Seven Hundred Fourteen 七百十四](https://open.spotify.com/album/1NUA3c1HKGNj9Bl5uWh7x7) | 2:24 |
 | 19 | [see you tomorrow](https://open.spotify.com/track/190S9EQAuaAfqz0oaQF392) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [see you tomorrow](https://open.spotify.com/album/2be7X7Fmq8snlAbYf0eEtn) | 2:51 |
 | 20 | [Anti\-Gravity](https://open.spotify.com/track/7bzarmiobBm1oOCSBmTevV) | [Space Time](https://open.spotify.com/artist/357YQNXCYAKT5NLytqNLs0) | [Anti\-Gravity](https://open.spotify.com/album/1SfGFTKbHjoYkPVcdAbV3a) | 2:18 |
-| 21 | [graining](https://open.spotify.com/track/4AkNFW2EVDK3k4nmr7kdhA) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07) | [graining](https://open.spotify.com/album/7BNnuGbXLHHdM9CEw6vCqJ) | 2:12 |
+| 21 | [graining](https://open.spotify.com/track/4AkNFW2EVDK3k4nmr7kdhA) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [graining](https://open.spotify.com/album/7BNnuGbXLHHdM9CEw6vCqJ) | 2:12 |
 | 22 | [Fireplace](https://open.spotify.com/track/7kN7OZOVPZtm1HwxuwTLaG) | [Lo’Dale](https://open.spotify.com/artist/3c6G1pS0NjeUVxf0waoUIX) | [Fireplace](https://open.spotify.com/album/6zMhzh0lJuweW6orarEKnd) | 2:24 |
 | 23 | [shelter](https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [shelter](https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc) | 2:05 |
 | 24 | [gradual](https://open.spotify.com/track/2BsIIaj2hJ7rw8yFWMiL0A) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [gradual](https://open.spotify.com/album/22KxorNZHmgpoS6XOBgme2) | 2:37 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 189 | [Koya's adventure](https://open.spotify.com/track/3XSX6JQ403W9llQ1CHe9de) | [Kumo City](https://open.spotify.com/artist/0WLyZCjbiZcpPPfM73TtmA) | [Koya's adventure](https://open.spotify.com/album/0R3CHnVqDJdINqfgJDaVN7) | 1:58 |
 | 190 | [airless](https://open.spotify.com/track/6mQ7nxbrTeDirFw3wvdFyW) | [msnthrp](https://open.spotify.com/artist/3hNukJKdVdigIS2mbhHrP3), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [kidnapped lofigirl](https://open.spotify.com/album/0QRZoZCgMb4LPmE1ypHKpB) | 1:46 |
 
-Snapshot ID: `MCwwZDkyYmE5N2EzNmZjMWZjNGU3YTI5YzA2NGM5OTMxMjMyMWQ5ZTI4`
+Snapshot ID: `MCxhMDRhNDFhYzdjMzI4NWY3MjlkODRmZGE3MjZjMTE2OWM0MTBiZTdk`

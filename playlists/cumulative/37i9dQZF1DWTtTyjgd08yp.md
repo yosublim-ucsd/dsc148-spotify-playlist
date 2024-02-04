@@ -4,7 +4,7 @@
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-218 songs - 14 hr 41 min
+219 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Depraved](https://open.spotify.com/track/0V1YLLguekkTID9Jd89ww2) | [Mammals](https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3) | [Animalia](https://open.spotify.com/album/7E90fKPdXwRGjvaiEQU6m2) | 3:53 | 2021-10-08 |  |
 | [Depraved](https://open.spotify.com/track/0yxnp7SJtce7IeyKP53dsE) | [Mammals](https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3) | [Animalia](https://open.spotify.com/album/2lrQzGKTFCTK9QY7B1JNS8) | 3:53 | 2021-10-08 | 2022-07-29 |
 | [Devil Like Me](https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z) | 3:08 | 2021-10-08 | 2023-03-04 |
-| [Devil Like Me](https://open.spotify.com/track/6pSliMukEwAdpMPgCKTKDH) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/05WJ8XAD4QWV6mrM5NoguG) | 3:08 | 2023-03-03 |  |
+| [Devil Like Me](https://open.spotify.com/track/5VJe8OKFcPBBjNEAPUeDuJ) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/5krQbJqzCCOxCGOQ3W8Tr6) | 3:08 | 2023-09-15 |  |
+| [Devil Like Me](https://open.spotify.com/track/6pSliMukEwAdpMPgCKTKDH) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/05WJ8XAD4QWV6mrM5NoguG) | 3:08 | 2023-03-03 | 2024-02-04 |
 | [Devil's Resting Place](https://open.spotify.com/track/2X2UW3HyAvEcYGgt5HaTTr) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/2sys0w1WpiB1k6ZhfYCbBY) | 3:14 | 2021-10-08 | 2022-07-29 |
 | [Devil's Resting Place](https://open.spotify.com/track/1F75INpjPkOJwd1c1fHG40) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alternative Americana](https://open.spotify.com/album/5egEoLAKrRgFFZBZbiTAaU) | 3:14 | 2021-10-08 | 2022-11-13 |
 | [Devil's Resting Place](https://open.spotify.com/track/7mDFMh8pghY0MRToYb01eI) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:14 | 2021-10-08 |  |

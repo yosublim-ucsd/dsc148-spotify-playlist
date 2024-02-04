@@ -1,9 +1,27 @@
 {
-  "2024-02-03": 15441,
+  "2024-02-04": 15440,
   "date_first_scraped": "2022-04-19",
   "description": "Los ni\u00f1os se volver\u00e1n locos por estas canciones de fiesta.",
   "name": "Fiesta para Ni\u00f1os",
   "tracks": [
+    {
+      "album": {
+        "name": "Por Ti y Para Ti",
+        "url": "https://open.spotify.com/album/553Z8YDy0KOYGyh1BegVoH"
+      },
+      "artists": [
+        {
+          "name": "Payasitas Nifu Nifa",
+          "url": "https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T"
+        }
+      ],
+      "date_added": "2020-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204693,
+      "name": "A Bailar (Reggaeton)",
+      "url": "https://open.spotify.com/track/1o57FlJbOyZyg9f6ZZYR4W"
+    },
     {
       "album": {
         "name": "Por T\u00ed Y Para T\u00ed",
@@ -25,28 +43,6 @@
       "duration_ms": 204657,
       "name": "A Bailar (Reggaeton)",
       "url": "https://open.spotify.com/track/7eM0BD5TLtdGYtBpTR6StS"
-    },
-    {
-      "album": {
-        "name": "Por Ti y Para Ti",
-        "url": "https://open.spotify.com/album/553Z8YDy0KOYGyh1BegVoH"
-      },
-      "artists": [
-        {
-          "name": "Payasitas Nifu Nifa",
-          "url": "https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T"
-        },
-        {
-          "name": "Dj Checho",
-          "url": "https://open.spotify.com/artist/22x9PuTD1UCatt3pkPn8QZ"
-        }
-      ],
-      "date_added": "2020-04-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 204693,
-      "name": "A Bailar (Reggaeton)",
-      "url": "https://open.spotify.com/track/1o57FlJbOyZyg9f6ZZYR4W"
     },
     {
       "album": {

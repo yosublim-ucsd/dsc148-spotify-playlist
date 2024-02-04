@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,892 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,894 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 10 | [On A Bad Day](https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 2:51 |
 | 11 | [Good People](https://open.spotify.com/track/5kS79rn0ol9Ha8zyxCz8Z4) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Good People](https://open.spotify.com/album/5O1JpWoLxXK3IgxtxTYBmR) | 4:23 |
 | 12 | [True Colours](https://open.spotify.com/track/6aRJ3Z7TpCpj58CjOwSSh2) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [True Colours](https://open.spotify.com/album/2vlKm70T2lTLawrgDGaK7v) | 3:47 |
-| 13 | [Better Be Home Soon](https://open.spotify.com/track/1gVTqBN71D8imfxxq9gRxD) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [She Will Have Her Way \- The Songs Of Tim & Neil Finn](https://open.spotify.com/album/3V5T6sEl1VzExdSrEbsLDD) | 3:19 |
+| 13 | [Monkey On A Wire](https://open.spotify.com/track/7noOxZuNKyPn9mJCZFv3zr) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 3:06 |
 | 14 | [Runaway Train](https://open.spotify.com/track/70Iwjc7YiM12IUYDohUqIs) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 3:25 |
-| 15 | [Monkey On A Wire](https://open.spotify.com/track/7noOxZuNKyPn9mJCZFv3zr) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 3:06 |
+| 15 | [Better Be Home Soon](https://open.spotify.com/track/1gVTqBN71D8imfxxq9gRxD) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [She Will Have Her Way \- The Songs Of Tim & Neil Finn](https://open.spotify.com/album/3V5T6sEl1VzExdSrEbsLDD) | 3:19 |
 | 16 | [Bittersweet](https://open.spotify.com/track/0XeJjBlJ5RLoUkFutyN2K9) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Bittersweet](https://open.spotify.com/album/1myXD7yWPc0SXYhm7luUcj) | 4:00 |
 | 17 | [Lose Yourself \- Live at Civic Theater, Newcastle, Australia](https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Lose Yourself \- Live at Civic Theater, Newcastle, Australia](https://open.spotify.com/album/17Kt6yiwlPwzwiYesXk6wC) | 8:14 |
 | 18 | [A Little Bit Lonesome](https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 2:59 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 48 | [Freight Train](https://open.spotify.com/track/1ejDgThqS6BLWTVMKPahmX) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/7DFWFL8pqjsBdQiHlAtyvU) | 2:46 |
 | 49 | [Wreck and Ruin](https://open.spotify.com/track/5slMiUJ1oGDynQsTr0P05f) | [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wreck & Ruin](https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ) | 2:28 |
 
-Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDBhN2VmMGRjNjBlZWJkZmM3M2VhY2E5ZTk3NmI2NzBlYg==`
+Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBkZjcxMzI1OWY0NDk4MmJjMzQwNTI0ZjA0YWM2NTgzMQ==`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: 24kGoldn\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,556 likes - 88 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,535 likes - 88 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Clarity](https://open.spotify.com/track/54fIT6FB4H6z3BJXQai1hm) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Clarity](https://open.spotify.com/album/49WXECyPBx84Kw0E33sjCY) | 2:17 |
 | 2 | [Sensei](https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sensei](https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu) | 1:58 |
 | 3 | [Hunned Racks \(with MadeinTYO & Tkay Maidza\)](https://open.spotify.com/track/5vgtMKJsK1jGgSk21v1jKz) | [THE WHALES](https://open.spotify.com/artist/6eVFiaexVx7Lmt2G2ZAsOc), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Hunned Racks](https://open.spotify.com/album/7MQ4gXkIRxP91PjbBGH1bl) | 2:17 |
-| 4 | [Right Now \(feat\. Bossman Dlow\)](https://open.spotify.com/track/49jjnR1W3KVX3SHHM1GHOR) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Lil Wet](https://open.spotify.com/artist/71EPXRgyizFZBe54AlzCSn), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Right Now \(feat\. Bossman Dlow\)](https://open.spotify.com/album/154BzHnwn19x9GlItFYoqU) | 3:24 |
+| 4 | [Right Now \(feat\. Bossman Dlow & Lil Wet\)](https://open.spotify.com/track/49jjnR1W3KVX3SHHM1GHOR) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Lil Wet](https://open.spotify.com/artist/71EPXRgyizFZBe54AlzCSn) | [Right Now \(feat\. Bossman Dlow & Lil Wet\)](https://open.spotify.com/album/154BzHnwn19x9GlItFYoqU) | 3:24 |
 | 5 | [Foundation](https://open.spotify.com/track/4tSOSkAuzN1ITh2M2l1Z7Z) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Foundation](https://open.spotify.com/album/3kAaQtrPZY7KpO6Y9hywOP) | 2:31 |
 | 6 | [Gas Me Up \(Diligent\)](https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Gas Me Up \(Diligent\)](https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn) | 2:51 |
 | 7 | [HELIOT EMIL](https://open.spotify.com/track/2iSkLo11WjyzRVdxeSMkCf) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Wonderful Days](https://open.spotify.com/album/2N63pqJIn1Ro8yIbwV54Gh) | 2:18 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 87 | [Lemme See](https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:45 |
 | 88 | [Shawty](https://open.spotify.com/track/6jlBIo4lam4ZFso2PciGwU) | [Major Nine](https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Shawty](https://open.spotify.com/album/4Nq3jfA6ZwxT6KZ17F3kyC) | 2:58 |
 
-Snapshot ID: `MCxjZTJiZGM5YzNhOTQ5NTdmNDg1MDMxMjg0MTEyMjQ1YTQ0M2E4MDc5`
+Snapshot ID: `MCwzOTc3ODNjZWIzZjBmZTk2YzIxZmViYTNkZjIyYTAwNzBmMjMxNjEw`

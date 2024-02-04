@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Sister Sadie
 
-520 songs - 1 day 7 hr 6 min
+521 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Bozeman \- Clawhammer Version](https://open.spotify.com/track/2OKPFjbjURGrx8fSzKk8uM) | [Nick Dumas](https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab) | [Bozeman \(Clawhammer Version\)](https://open.spotify.com/album/4qBsC1P0Wsc3nTKWDj3gf2) | 4:16 | 2023-09-08 | 2023-09-20 |
 | [Brace for Impact \(Live a Little\)](https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Cuttin' Grass \- Vol\. 2 \(Cowboy Arms Sessions\)](https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U) | 4:18 | 2021-12-17 |  |
 | [Breaker's Bakedown](https://open.spotify.com/track/5Jjcq4cCtnJaPVmtEkClSl) | [Mr\. Sun](https://open.spotify.com/artist/4Wlui4zxadS5mmPOFbmd6u) | [Breaker's Bakedown](https://open.spotify.com/album/4S3ciUQdjtD2l3I3jcHJZl) | 3:41 | 2022-04-15 | 2022-04-17 |
-| [Bridge You're Gonna Burn](https://open.spotify.com/track/1JNopLLdrPqDljHPtAcwuj) | [Tina Adair](https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS) | [Bridge You're Gonna Burn](https://open.spotify.com/album/2jhtDobqNHp2sEPSiEJran) | 2:15 | 2022-05-27 |  |
+| [Bridge You're Gonna Burn](https://open.spotify.com/track/1JNopLLdrPqDljHPtAcwuj) | [Tina Adair](https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS) | [Bridge You're Gonna Burn](https://open.spotify.com/album/2jhtDobqNHp2sEPSiEJran) | 2:15 | 2022-05-27 | 2024-02-04 |
 | [Broken Glass](https://open.spotify.com/track/6imryh6uZsIVmYb2EfZ8Ym) | [Marija Droze](https://open.spotify.com/artist/0BbnQu7WSJhCsdvBxMq0um) | [Maria with a "J"](https://open.spotify.com/album/0Ly2w49tSOoIUOtdAzGsFk) | 3:59 | 2023-05-26 |  |
 | [Brown Paper Bag](https://open.spotify.com/track/5coNtASTgr4ECMpm6MzZdj) | [The Del McCoury Band](https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt) | [Almost Proud](https://open.spotify.com/album/3BtI26idKsGankLt7Sofaf) | 2:57 | 2022-02-18 | 2022-04-11 |
 | [Buck Creek Girls](https://open.spotify.com/track/29pFQh9n5R0wz3jlBgtlSC) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Cinnamon Tree](https://open.spotify.com/album/6v8OahRwkvsmxDJB4ZYljO) | 2:04 | 2023-11-24 | 2024-01-27 |
@@ -268,6 +268,7 @@
 | [Live the Dream](https://open.spotify.com/track/2f64sXdXeIZHKHtAdYcZ2p) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh), [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Live the Dream](https://open.spotify.com/album/0TxDZ0xlSYgwtS0Erao5iS) | 2:52 | 2022-08-11 | 2023-08-12 |
 | [Lonesome Old River Blues](https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 2:42 | 2021-12-17 |  |
 | [Lonesome State Of Mind](https://open.spotify.com/track/6Ve06auIooixlCcp145XKp) | [Blue Highway](https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd) | [Lonesome State Of Mind](https://open.spotify.com/album/1sJ8O9hq9wGYQP0jJtb2Xo) | 2:23 | 2023-11-24 |  |
+| [Long Gone](https://open.spotify.com/track/2Qgq33OeGVBY3FjZI3LxWc) | [Authentic Unlimited](https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO) | [Authentic Unlimited](https://open.spotify.com/album/4jAGbUaqVKU00V2JpV2Izn) | 3:00 | 2024-02-02 |  |
 | [Long Journey Home](https://open.spotify.com/track/1LSTsFWHtku4E76HlIAOYm) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Long Journey Home / Life To Go](https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C) | 2:57 | 2022-10-07 |  |
 | [Long Violent History](https://open.spotify.com/track/4Bu4aJ7xLdIeRnD69pFBXU) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Long Violent History](https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s) | 3:10 | 2021-12-17 | 2024-02-03 |
 | [Lookout Mountain](https://open.spotify.com/track/4z2nsV1z5gQU4UBXtUoOCG) | [Unspoken Tradition](https://open.spotify.com/artist/1ffmxtCun2OgtqJlvlanQv) | [Lookout Mountain](https://open.spotify.com/album/2po8HVjL3Nvvgehs0A8Nlp) | 3:48 | 2022-02-11 | 2022-06-01 |

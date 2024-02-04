@@ -4,7 +4,7 @@
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-125 songs - 10 hr 31 min
+126 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,8 +130,9 @@
 | [Will She Come Back](https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 5:00 | 2022-08-17 |  |
 | [Wind and Snow](https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 4:30 | 2022-08-09 |  |
 | [Woe Is the Transgression I](https://open.spotify.com/track/2zpTolaAqlsIauPX764rMs) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/63Gy5cxnjLWYpxbcjEezgj) | 8:44 | 2022-08-09 | 2023-04-29 |
-| [Woe Is the Transgression I](https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE) | 8:44 | 2022-12-30 |  |
+| [Woe Is the Transgression I](https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE) | 8:44 | 2022-12-30 | 2024-02-04 |
 | [Woe Is the Transgression I](https://open.spotify.com/track/549E9zf4YxHcUQ2R5oLZ1C) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Rifts](https://open.spotify.com/album/4elad9vD5Vz49Qb6ApvQu0) | 8:44 | 2022-10-04 | 2022-11-14 |
+| [Woe is the Transgression I](https://open.spotify.com/track/5f64HunynQvPdqsLFs2wcx) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/0ixr1lXtxFcj31ZGmtqjue) | 8:44 | 2023-08-04 |  |
 | [Your Guts Are Like Mine](https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Telegraphs in Negative / Mouths Trapped in Static](https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka) | 2:15 | 2022-08-09 |  |
 
 \*This playlist was first scraped on 2022-08-11. Prior content cannot be recovered.

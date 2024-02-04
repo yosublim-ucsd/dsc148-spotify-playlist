@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.  This month, we’re celebrating the essence of Black culture across the world\. Discover more Black artists and their contributions <a href="spotify:genre:0JQ5DAqbMKFF9bY76LXmfI">here.</a>  Cover:  <a href="spotify:artist:3qfrrrSO7utFdJkM2tvMRb">CeCe Winans</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,582,219 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,582,160 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 39 | [All Along](https://open.spotify.com/track/4AQ9Yz6qxhZhlyAbWbgsdI) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [All Along](https://open.spotify.com/album/77WsuRa6qXxutGWSW8RxT9) | 3:09 |
 | 40 | [Stay](https://open.spotify.com/track/0bfnMVh4LyPESDoXZcWfMz) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Stay](https://open.spotify.com/album/7rzmRYz4bw46oHvESwkTuv) | 3:47 |
 | 41 | [Mercy](https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 4:36 |
-| 42 | [PRAISES \- \(remix\)](https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [PRAISES \(remix\)](https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW) | 2:50 |
+| 42 | [PRAISES \(remix\)](https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [PRAISES \(remix\)](https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW) | 2:50 |
 | 43 | [Take It All Back](https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Davies](https://open.spotify.com/artist/3JX5OfBuVx3kqJjigmW4Jy) | [Take It All Back](https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt) | 3:13 |
 | 44 | [Miracles](https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:41 |
 | 45 | [Let Go Let God](https://open.spotify.com/track/0FaZTQqTrOOVp84K1aygmC) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | [Pray For Atlanta](https://open.spotify.com/album/3p4fL3jh9YxqEstKbz1Cfy) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [The Lord's Prayer \(It's Yours\) \- Acoustic](https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\) \[Acoustic\]](https://open.spotify.com/album/6smqQyvINcOFg13yRysvx6) | 3:44 |
 | 100 | [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 |
 
-Snapshot ID: `MCxhMDQ3ZjRmZDIyZTQ1MzgxOGJlMzZiZmQ3MmFjNjRmZmU0YmUzMGQz`
+Snapshot ID: `MCxkZTJhMDZjZTk5ZjQ4Y2I0OTM4ODc5YmM0YTZkM2Y3ODlkNjQ5OGUx`

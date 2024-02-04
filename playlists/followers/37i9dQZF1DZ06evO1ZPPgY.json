@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 213212,
+  "2024-02-04": 213250,
   "date_first_scraped": "2020-10-20",
   "description": "This is Barry White. The essential tracks, all in one playlist.",
   "name": "This Is Barry White",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 166346,
       "name": "All in the Run Of a Day",
       "url": "https://open.spotify.com/track/2Tl91oD7DVVhn2gbOKHdWv"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 274000,
       "name": "Can't Get Enough Of Your Love, Babe",
       "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 301440,
       "name": "I Only Want To Be With You",
       "url": "https://open.spotify.com/track/550wW69MCbtYYEAbKIwEnu"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 190333,
       "name": "I've Got So Much To Give",
       "url": "https://open.spotify.com/track/30BIQMWprmAlVae1W4BRBw"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 290666,
       "name": "Never, Never Gonna Give Ya Up",
       "url": "https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 262733,
       "name": "Rio De Janeiro",
       "url": "https://open.spotify.com/track/1UvpQB8F2riBElL5bxlD6Q"

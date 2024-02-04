@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,310 songs - 3 day 0 hr 4 min
+1,311 songs - 3 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,8 +587,9 @@
 | [Khaliji Westcoast](https://open.spotify.com/track/5oVcQLyEEJDiIoNPNi2pUQ) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Khaliji Westcoast](https://open.spotify.com/album/5atrvsizsJwUKs4Xn3i95t) | 2:34 | 2022-04-04 | 2022-04-07 |
 | [Khalini](https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/5vJBSloyi1CQjncMIykoHs) | 3:02 | 2022-02-18 | 2022-06-09 |
 | [Khouk \- Skit](https://open.spotify.com/track/5Qi4jFx9D2qfU7qChU7kWi) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 0:34 | 2023-06-24 | 2023-06-29 |
-| [Khssara](https://open.spotify.com/track/4ZZg7deE4lu08qr1aXnCTV) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Khssara](https://open.spotify.com/album/3OhQgzqTqTI71TnKR7R9pR) | 2:26 | 2024-01-01 |  |
+| [Khssara](https://open.spotify.com/track/4ZZg7deE4lu08qr1aXnCTV) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Khssara](https://open.spotify.com/album/3OhQgzqTqTI71TnKR7R9pR) | 2:26 | 2024-01-01 | 2024-02-04 |
 | [Khssara](https://open.spotify.com/track/1GDHRaUxihjkGMFESApltm) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Khssara](https://open.spotify.com/album/46ePq8td3sKropIMIV3ahj) | 2:32 | 2023-05-05 | 2023-12-06 |
+| [Khssara](https://open.spotify.com/track/3XouPSvnWkkepjdbjyFW8i) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Khssara](https://open.spotify.com/album/1svd34TFBJ8ZfDFtuJZqUJ) | 2:32 | 2024-02-03 |  |
 | [KIF KIF](https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [KIF KIF](https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF) | 3:47 | 2023-07-19 |  |
 | [KIFKIF](https://open.spotify.com/track/0Ssdb1vqoW6w2eRgZT1Itp) | [Ali S Music](https://open.spotify.com/artist/5eOPZ5faFYHymqWmpg7c6m), [PROFIT ZA3IM](https://open.spotify.com/artist/48bjrojtnj3wjC1cSvGX9z) | [KIFKIF](https://open.spotify.com/album/3jc1hsgXkElhSuud62MDDt) | 3:44 | 2022-06-22 | 2022-07-20 |
 | [KIFKIF \- Remixed by Ali S](https://open.spotify.com/track/3GoQSJXtzbDtejWNADev6f) | [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW), [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or), [Profit Za3im](https://open.spotify.com/artist/1lgjg7Ws1qm4jojTua1nrn) | [KIFKIF](https://open.spotify.com/album/2UhLGCTnNMxR2Eyv2RorkV) | 3:44 | 2022-07-19 | 2022-12-14 |
@@ -671,7 +672,7 @@
 | [Lili](https://open.spotify.com/track/049e2VlfYsfIRrZk1bfAqX) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Lili](https://open.spotify.com/album/2y1RmOXemgi3JpFQCtywRo) | 3:02 | 2022-02-18 | 2022-02-22 |
 | [Lili](https://open.spotify.com/track/7jXw9LPDWtOJO4cycQ9Wh1) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Lili](https://open.spotify.com/album/5UBFKS0W4dd1rxEk9psKwr) | 3:03 | 2021-04-19 | 2022-02-19 |
 | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/album/3jN1Hlw2BsZZJigsA2kgBA) | 3:00 | 2023-06-07 | 2023-06-16 |
-| [LILLAH](https://open.spotify.com/track/7wHBBddAaSSkIWpfwMhqdU) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 2:27 | 2023-11-25 |  |
+| [LILLAH](https://open.spotify.com/track/7wHBBddAaSSkIWpfwMhqdU) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 2:27 | 2023-11-25 | 2024-02-04 |
 | [Liyam](https://open.spotify.com/track/4tRUx2gflnuk7v0Uvic04X) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Liyam](https://open.spotify.com/album/56kMBEY2KFd8ua913PoSq4) | 3:21 | 2021-04-29 | 2021-05-22 |
 | [Liyem](https://open.spotify.com/track/38dFwM306LaXqnc4hGHpaB) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Liyem](https://open.spotify.com/album/4EqCG4W6zG8nhT1bMN6qAS) | 3:00 | 2022-03-30 | 2022-06-26 |
 | [Lmadi](https://open.spotify.com/track/5dFEs0UYNN8X05d6SzlPTC) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Lmadi](https://open.spotify.com/album/5BtOncH7szKPdItM1i7xJm) | 3:42 | 2021-04-26 | 2021-05-23 |
@@ -832,7 +833,7 @@
 | [Ne pleure pas](https://open.spotify.com/track/4SSF9Cs9AdMebHsBc4ar7E) | [Dame Civile](https://open.spotify.com/artist/2x3nZ4tXQJLAriCyhblQoG), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Ne pleure pas](https://open.spotify.com/album/6L9fjosMJDCIWqMjHlWz8C) | 3:36 | 2022-11-24 | 2022-11-27 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-08-04 | 2021-09-27 |
 | [Netflix](https://open.spotify.com/track/0wm3Tuie0LfHwRSNI1bqOn) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [8ird](https://open.spotify.com/artist/3QmZDh7Hz0zasHGHK6NZkw) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 3:46 | 2022-01-29 | 2022-02-12 |
-| [Nfss Lhala](https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Nfss Lhala](https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7) | 3:20 | 2023-09-10 | 2024-01-31 |
+| [Nfss Lhala](https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Nfss Lhala](https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7) | 3:20 | 2023-09-10 |  |
 | [Niagara Falls \(Foot or 2\) \[with Travis Scott & 21 Savage\]](https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:27 | 2022-12-03 | 2022-12-10 |
 | [Niagara Falls \(Foot or 2\) \[with Travis Scott & 21 Savage\]](https://open.spotify.com/track/5XJWEh8huqG0l9RgRyArtv) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:27 | 2022-12-04 | 2022-12-09 |
 | [NICHANE](https://open.spotify.com/track/5meK07pUTC30PBHWiNPTAX) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [BANDANA](https://open.spotify.com/album/4DBrAszM7FdWyblxrIKed3) | 3:47 | 2022-06-19 | 2022-06-23 |

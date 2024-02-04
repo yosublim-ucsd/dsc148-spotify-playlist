@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > أحدث الاغاني العراقية\. غلاف: مصطفى الربيعي
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,075 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,102 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 17 | [Al Aalam \- العالم](https://open.spotify.com/track/3eeuuyevY7qDLgkmXJ0jWQ) | [Ahmad Abdelsalam](https://open.spotify.com/artist/1QThzrcDgt4b9X8cUCqsbs) | [Al Aalam \(العالم\)](https://open.spotify.com/album/0F3f3ckOIpBXnLHhX1tAbm) | 3:08 |
 | 18 | [Mn Alakher](https://open.spotify.com/track/0iz6oJXP4bApFD0nx6PvZ6) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Mn Alakher](https://open.spotify.com/album/0j15pXdLFmY9Vuaxdsoe4Q) | 2:59 |
 | 19 | [Methl Eyounech](https://open.spotify.com/track/51fWcoMwz08PdFATIydFMi) | [Mahmood AlGhiath](https://open.spotify.com/artist/7L7OKjCuLFVhDc0tA0RmVi) | [Methl Eyounech](https://open.spotify.com/album/705X273FVbOrvXLU6mBhrU) | 4:05 |
-| 20 | [El Goumar](https://open.spotify.com/track/6TC2P6Nw8yn9fKKPTjjkM9) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [El Goumar](https://open.spotify.com/album/3xMJN5P46bFonTmWSbWteW) | 3:04 |
+| 20 | [El Goumar](https://open.spotify.com/track/4aRnftb6BwBRaEetiowhMu) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [El Goumar](https://open.spotify.com/album/6JcdtS4WeYrcM9UpXBstM0) | 3:04 |
 | 21 | [دخيلك ارجع](https://open.spotify.com/track/6KMMgPgvhpIssOttUciCpL) | [Karar Salah](https://open.spotify.com/artist/7rIhO4AYbAaZlGQeMAAFg5) | [دخيلك ارجع](https://open.spotify.com/album/3wCN6wClWNnN4wTuEgnLi4) | 3:11 |
 | 22 | [Helo Hal Shuur](https://open.spotify.com/track/3uISh70Fop6BaAEQTpfUSW) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Helo Hal Shuur](https://open.spotify.com/album/7JHeEldInEzQ2mWDDYeCWv) | 4:34 |
 | 23 | [Ya El Ghashash \- يالغشاش](https://open.spotify.com/track/69F05yNX2cTsQANGxub8Ph) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Ya El Ghashash \(يالغشاش\)](https://open.spotify.com/album/7DbmlwivNtglxYVWxQ807a) | 3:35 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 38 | [Lo Malkouni El Aalam](https://open.spotify.com/track/3XYOU8iPMJagw0PFwtmkxs) | [Sattar Saad](https://open.spotify.com/artist/2XwGAWUjz9JYas4QTq0lQN) | [Lo Malkouni El Aalam](https://open.spotify.com/album/4sIgAuFMuU2HPqkgJ3RLRj) | 3:08 |
 | 39 | [Ma Qasart](https://open.spotify.com/track/0Qpbsu4fszRrtc1g6NnSnm) | [Hamza Al Mahmdawi](https://open.spotify.com/artist/4fClSImakiSPnfxOa4NOiW) | [Ma Qasart](https://open.spotify.com/album/0wQ3ft7291KtIoQzPQEkqt) | 3:19 |
 | 40 | [Anti Awel Warda](https://open.spotify.com/track/57aiYKSUJwT9cJImesS6vz) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Anti Awel Warda](https://open.spotify.com/album/0NPFVsXdyZYaBleWP8aT2n) | 2:50 |
-| 41 | [Enta](https://open.spotify.com/track/0vdAd6VLdK6Ln606IuirH6) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Enta](https://open.spotify.com/album/4KMVSLQYqrR45A4lCRlkDJ) | 3:23 |
+| 41 | [Enta](https://open.spotify.com/track/2OfuMF4Sl6lTYPRb4sqOAL) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Enta](https://open.spotify.com/album/0tlQsB1cVlpn9ERL2eipmW) | 3:23 |
 | 42 | [الى من](https://open.spotify.com/track/2sT7usmmVUeFZjnSRSBWxD) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [الى من](https://open.spotify.com/album/2rlw0EdR9PfNaGCO2y02EP) | 3:19 |
 | 43 | [Met Bab](https://open.spotify.com/track/6GoaNwrdWjmSCjN5qIB77U) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j), [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Qalby Youhdthni](https://open.spotify.com/album/4ielaCNnKFHKcJk1umtPUH) | 4:06 |
 | 44 | [Echtaket Elak](https://open.spotify.com/track/7byRqI4ooaE0DYS63LLxrd) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Echtaket Elak](https://open.spotify.com/album/6OGqf6Dl8cKLUiqyldp1In) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 49 | [Rakaz Beya](https://open.spotify.com/track/7xFOwWuDpjBv5tsCiptmvS) | [Ali Alsalem](https://open.spotify.com/artist/1YH6doLlnZd6Vjd4ylnBjP) | [Rakaz Beya](https://open.spotify.com/album/6tcY9IBpcBHPLsITAtCERr) | 3:01 |
 | 50 | [Sabea Zaal](https://open.spotify.com/track/1eUSNfLLJfy6YGGmS2S2Bn) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK), [Zayed Al Saleh](https://open.spotify.com/artist/1l5hkQZj28djsCJWtN62wm) | [Faisal Abdulkareem Mini Album 2023](https://open.spotify.com/album/7CFVvOVCrfnfzj57WXWtFi) | 3:19 |
 
-Snapshot ID: `MCw4YjgyZDM0Y2RmYzA0ODUyYmNkN2I3MDg2ZmJiZmVkZGFlZDQwZTA0`
+Snapshot ID: `MCxjMGY2OWZmNjgxYTE0N2FjOWZhMjI5ZDU5NGQ3ZGNlNThkYWQ1ZTUz`

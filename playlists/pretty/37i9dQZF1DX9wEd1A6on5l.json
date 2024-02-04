@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 47940,
+  "num_followers": 48005,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjE2ODU1NGY1ZTk0YmU4NGE0NTdlMDQ5YTA1MTYzYWUyZTQ1Mjk0",
+  "snapshot_id": "MCxjMzVkMTUzMjkzY2E3YmY5Yjc4ZmExMTc3M2QwNzAxMGYxMjUxZDNm",
   "tracks": [
     {
       "added_at": "2024-02-02 06:29:14",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-02-02 06:29:14",
       "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 218657,
-      "name": "Pidgin & English",
-      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
-    },
-    {
-      "added_at": "2024-02-02 06:29:14",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 170000,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
+    },
+    {
+      "added_at": "2024-02-02 06:29:14",
+      "album": {
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 218657,
+      "name": "Pidgin & English",
+      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
     },
     {
       "added_at": "2024-02-02 06:29:14",
@@ -687,30 +687,6 @@
     {
       "added_at": "2024-02-02 06:29:14",
       "album": {
-        "name": "GWAGWALADA",
-        "url": "https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 188985,
-      "name": "GWAGWALADA",
-      "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
-    },
-    {
-      "added_at": "2024-02-02 06:29:14",
-      "album": {
         "name": "Carry Me Go",
         "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
@@ -767,6 +743,30 @@
       "duration_ms": 180512,
       "name": "Outside (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt"
+    },
+    {
+      "added_at": "2024-02-02 06:29:14",
+      "album": {
+        "name": "GWAGWALADA",
+        "url": "https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 188985,
+      "name": "GWAGWALADA",
+      "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
     },
     {
       "added_at": "2024-02-02 06:29:14",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-02-02 06:29:14",
       "album": {
+        "name": "Anabella",
+        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 124076,
+      "name": "Anabella",
+      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
+    },
+    {
+      "added_at": "2024-02-02 06:29:14",
+      "album": {
         "name": "Love Is Not Enough, Vol. 2",
         "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 139706,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c"
-    },
-    {
-      "added_at": "2024-02-02 06:29:14",
-      "album": {
-        "name": "Anabella",
-        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 124076,
-      "name": "Anabella",
-      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
     },
     {
       "added_at": "2024-02-02 06:29:14",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-02-02 06:29:14",
       "album": {
+        "name": "Like Ice Spice / Bezos",
+        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 123434,
+      "name": "LIKE ICE SPICE",
+      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
+    },
+    {
+      "added_at": "2024-02-02 06:29:14",
+      "album": {
         "name": "For Your Soul (Extended Edition)",
         "url": "https://open.spotify.com/album/04znRkeBi2rTFkBx7VR7sf"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2024-02-02 06:29:14",
       "album": {
-        "name": "Like Ice Spice / Bezos",
-        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
         }
       ],
-      "duration_ms": 123434,
-      "name": "LIKE ICE SPICE",
-      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
+      "duration_ms": 189015,
+      "name": "American Love",
+      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
     },
     {
       "added_at": "2024-02-02 06:29:14",
@@ -1063,22 +1079,6 @@
       "duration_ms": 155044,
       "name": "Do I",
       "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
-    },
-    {
-      "added_at": "2024-02-02 06:29:14",
-      "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 189015,
-      "name": "American Love",
-      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
     },
     {
       "added_at": "2024-02-02 06:29:14",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2024-02-02 06:29:14",
       "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 132912,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
+    },
+    {
+      "added_at": "2024-02-02 06:29:14",
+      "album": {
         "name": "Away",
         "url": "https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 172631,
       "name": "All of Us",
       "url": "https://open.spotify.com/track/66hwnejSDoMXppajTx1jc6"
-    },
-    {
-      "added_at": "2024-02-02 06:29:14",
-      "album": {
-        "name": "Electricity",
-        "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 132912,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
     },
     {
       "added_at": "2024-02-02 06:29:14",
@@ -1343,42 +1343,6 @@
     {
       "added_at": "2024-02-02 06:29:14",
       "album": {
-        "name": "Feeling Good",
-        "url": "https://open.spotify.com/album/5QNmhuFtLpsbwrJRechPZp"
-      },
-      "artists": [
-        {
-          "name": "Guchi",
-          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
-        },
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 137386,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5G6szsbEgDRHH975jPtMCf"
-    },
-    {
-      "added_at": "2024-02-02 06:29:14",
-      "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "Don't Leave",
-      "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
-    },
-    {
-      "added_at": "2024-02-02 06:29:14",
-      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
       },
@@ -1415,6 +1379,22 @@
     {
       "added_at": "2024-02-02 06:29:14",
       "album": {
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
+    },
+    {
+      "added_at": "2024-02-02 06:29:14",
+      "album": {
         "name": "Believe Me",
         "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
       },
@@ -1431,18 +1411,38 @@
     {
       "added_at": "2024-02-02 06:29:14",
       "album": {
-        "name": "Big Baller",
-        "url": "https://open.spotify.com/album/5ItnpIv7iT87QiTjLKDL4d"
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/5QNmhuFtLpsbwrJRechPZp"
       },
       "artists": [
         {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        },
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
         }
       ],
-      "duration_ms": 152595,
-      "name": "Big Baller",
-      "url": "https://open.spotify.com/track/3U0AYNEpt2cumbDILVFiBz"
+      "duration_ms": 137386,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5G6szsbEgDRHH975jPtMCf"
+    },
+    {
+      "added_at": "2024-02-02 06:29:14",
+      "album": {
+        "name": "Duffel Bag",
+        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 127067,
+      "name": "Duffel Bag",
+      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
     }
   ],
   "unique_name": "Party Dey!",

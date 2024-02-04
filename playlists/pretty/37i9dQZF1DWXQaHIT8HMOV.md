@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist\. Cover: $hyli
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,937 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,937 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 45 | [FAYA](https://open.spotify.com/track/2XfbFeYxN961nxtxUoepoM) | [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [FAYA](https://open.spotify.com/album/1gTXLyRPmEysl9i5CwQt0u) | 3:02 |
 | 46 | [Far Away](https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Far Away](https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE) | 2:59 |
 | 47 | [So](https://open.spotify.com/track/2hkp6EYhYTK2PsPudbVCln) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [So](https://open.spotify.com/album/4sfnKwliqQwTGUpmO3SM1l) | 3:01 |
-| 48 | [Dai](https://open.spotify.com/track/0Z0NfTjSEIv8REnMt8z7W6) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx) | [Sunflowers in Sahara \(SiS\)](https://open.spotify.com/album/6qtPTO6Ob7N3j59FV2AGb8) | 3:05 |
+| 48 | [Where You Are](https://open.spotify.com/track/1apSJXGmuUZliVfkdpKnXg) | [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny Beats](https://open.spotify.com/artist/593Mfhbg9mGoxnOtU9nzfP), [ZEUS BNM](https://open.spotify.com/artist/7f6OK6Hhaha76pJL0AjPr2) | [Where You Are](https://open.spotify.com/album/5gLYplsE0rg5935U23lvCH) | 3:22 |
 | 49 | [Local User](https://open.spotify.com/track/5AGCOTqQFkduMlmnnJ956F) | [Ratigan Era](https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0) | [Local User](https://open.spotify.com/album/4QRbdXprHRHrcjyJ3vONzK) | 2:32 |
-| 50 | [Where You Are](https://open.spotify.com/track/1apSJXGmuUZliVfkdpKnXg) | [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny Beats](https://open.spotify.com/artist/593Mfhbg9mGoxnOtU9nzfP), [ZEUS BNM](https://open.spotify.com/artist/7f6OK6Hhaha76pJL0AjPr2) | [Where You Are](https://open.spotify.com/album/5gLYplsE0rg5935U23lvCH) | 3:22 |
+| 50 | [Calamity](https://open.spotify.com/track/2ZaBPMbEwWnjm8FlFhEL2h) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Nita Nita](https://open.spotify.com/artist/7Igo15vDJK428W5K36dnFB) | [Calamity](https://open.spotify.com/album/3qHoFyU8txLp4UtvlUgElv) | 3:24 |
 
-Snapshot ID: `MCxhYTY4MDQ0Y2Q5MDUxNzgwNGZjZjI3ZDg2NWJkNWViMjEyMmIzYTM1`
+Snapshot ID: `MCw2MDQ3YjFlNTAyZjBjZDM2YjVmNTBiN2I2OTMyY2E4NDk1NWUwMGFm`

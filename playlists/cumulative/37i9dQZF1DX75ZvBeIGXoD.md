@@ -4,7 +4,7 @@
 
 > a perfect soundtrack for eating the Mariah Carey happy meal in your car
 
-78 songs - 3 hr 55 min
+79 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [All I Want For Christmas Is You \(SuperFestive!\) Duet with Mariah Carey](https://open.spotify.com/track/1IUtgwxLYzDVd41EgbKUjX) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 4:00 | 2023-12-01 |  |
 | [All I Want for Christmas Is You \- 2005](https://open.spotify.com/track/48wRnWDekEx5bCOA9oeVF4) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Gift Wrapped: 20 Songs That Keep On Giving](https://open.spotify.com/album/6VkWzNwwvmUfEBAzrBEIzY) | 3:44 | 2023-12-01 |  |
 | [All I Want for Xxxmas](https://open.spotify.com/track/6Q2udKuzufVpNCCb4cNbjw) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [All I Want for Xxxmas](https://open.spotify.com/album/0SLhoreqjeUbCA1ztwORWk) | 2:06 | 2023-12-01 |  |
-| [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 | 2023-12-01 |  |
+| [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 | 2023-12-01 | 2024-02-04 |
+| [Another Year](https://open.spotify.com/track/2PjhrIf3ro6skhdBHAUl1P) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/4QqbHVOhj56RKsBTHBxw9x) | 4:16 | 2023-12-01 |  |
 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 | 2023-12-01 |  |
 | [Baby It's Cold Outside](https://open.spotify.com/track/0etUoG9qgWJV136qG1d4nF) | [Toxxxic](https://open.spotify.com/artist/4BU3NGhPsbx7kochK8cziC), [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Baby It's Cold Outside](https://open.spotify.com/album/1EM5hvfQ3Y6mOovs0848K1) | 2:56 | 2023-12-01 |  |
 | [Baby It's Cold Outside \(with Michael Bublé\)](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Holiday Wishes](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) | 2:46 | 2023-12-01 |  |

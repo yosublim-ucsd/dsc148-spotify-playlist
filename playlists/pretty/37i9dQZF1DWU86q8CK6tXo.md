@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,624 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,646 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 9 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 |
 | 10 | [Circle With Me](https://open.spotify.com/track/3FI0iAAAjmR31xpZEwbdys) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:53 |
 | 11 | [Pensamientos Intrusivos](https://open.spotify.com/track/52x8HIGuk1gGTlvO8CuLNS) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:12 |
-| 12 | [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 |
+| 12 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 |
 | 13 | [club heaven \- Live from Spotify Green Screen](https://open.spotify.com/track/3AaRTY18Q5ETuYoQ2wLXDP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [club heaven \(Live from Spotify Green Screen\)](https://open.spotify.com/album/1fe3shDrSWQXIwf32qLFiY) | 2:28 |
-| 14 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 |
+| 14 | [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 |
 | 15 | [he loves me, he loves me not](https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [petals](https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb) | 2:37 |
 | 16 | [Can't Get Enough](https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Can't Get Enough](https://open.spotify.com/album/3w8ZxUWRMNv5uERVK3fLq1) | 3:06 |
 | 17 | [This Is My Life](https://open.spotify.com/track/5oOUGZNKsx5LEE1FYyLcoB) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [This Is My Life](https://open.spotify.com/album/65r6PbiURn3vzNaKkfgxF2) | 3:01 |
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 20 | [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 |
 | 21 | [Cutting Loose](https://open.spotify.com/track/6n34hL7CBdTVeekAeprHow) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Cutting Loose](https://open.spotify.com/album/1MQoCqxbLS7kf9xWUTxuRF) | 3:04 |
 | 22 | [I Tried A Ring On](https://open.spotify.com/track/6ouFl8UDdMc9zuzmzvmh7v) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [I Tried A Ring On](https://open.spotify.com/album/6R8KPrq6T7SpQFvJoEOlKI) | 3:31 |
-| 23 | [Blick](https://open.spotify.com/track/0ZCfZ4o34HQiFvJAW7HyG6) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [Blick](https://open.spotify.com/album/6JB6RYhuWSOOISlJ5sMfvq) | 2:14 |
-| 24 | [Dollar Bill Bar](https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Dollar Bill Bar](https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47) | 3:29 |
-| 25 | [SHOW ME OUT](https://open.spotify.com/track/6h0yJ8bTlpxfwiJ0aXbKxG) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [talking to the wind](https://open.spotify.com/album/1cVxRuTFcepbaLF1Tc1C47) | 2:13 |
+| 23 | [Dollar Bill Bar](https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Dollar Bill Bar](https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47) | 3:29 |
+| 24 | [SHOW ME OUT](https://open.spotify.com/track/6h0yJ8bTlpxfwiJ0aXbKxG) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [talking to the wind](https://open.spotify.com/album/1cVxRuTFcepbaLF1Tc1C47) | 2:13 |
+| 25 | [Blick](https://open.spotify.com/track/0ZCfZ4o34HQiFvJAW7HyG6) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [Blick](https://open.spotify.com/album/6JB6RYhuWSOOISlJ5sMfvq) | 2:14 |
 | 26 | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/track/5zHqXGQkZ1BSGePTAg6xSF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/album/1NUu71LKvnQJHfrMvrYfap) | 2:53 |
 | 27 | [You’re My Texas](https://open.spotify.com/track/6SaffSEZJMBX31dd3wLugm) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [You're My Texas](https://open.spotify.com/album/7sk2FcYfRPMEof4Ytknom5) | 3:19 |
 | 28 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 39 | [Polly Pocket](https://open.spotify.com/track/7uwYghkyYw9nGJPa39ruX7) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [LIVE, RAFF, LOVE \(Act II\)](https://open.spotify.com/album/1DuQMGJEdkhILvziIoJfai) | 2:15 |
 | 40 | [I've Changed a Lot](https://open.spotify.com/track/24nOWJI4FCRuAtMSGcDQxU) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [I've Changed a Lot](https://open.spotify.com/album/1mnDUOBwlCuibZOhb6lfs2) | 2:46 |
 
-Snapshot ID: `MCwwZTEyMWE5ZDM0ZWYyNzc5ZTFmNTM5ODYyNDYzZjE3ZTYyZDZkM2Yx`
+Snapshot ID: `MCw4OTQ5YzRlMjZlNmNiYjhkOTUwYjMxNWJmMWU2OGZiYTJiNzliMjU2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Where Sitar meets Guitar\. Cover \- Shakti
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,014 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,030 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 30 | [Aaj Rang Hai](https://open.spotify.com/track/60qVbVr6wm7yTOoj0s0a9z) | [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Aaj Rang Hai](https://open.spotify.com/album/5ANnHLbfSJXZMUjPQTX13W) | 3:25 |
 | 31 | [Making Music](https://open.spotify.com/track/6qqF3A8jjiS9k0Vpi8zcSa) | [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Making Music](https://open.spotify.com/album/6Z5RRaRtxckdDY9W9711lB) | 12:29 |
 | 32 | [Sargam Surge](https://open.spotify.com/track/0G9GqTdIsZTs3yQnmuQDeg) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Yogesh Samsi](https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck), [V\. Selvaganesh](https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf) | [Sargam Surge](https://open.spotify.com/album/3u6H2xQHCflSYqB2hkJoYa) | 2:21 |
-| 33 | [Raghupati](https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Raghupati](https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW) | 5:04 |
-| 34 | [Kinaray \- Coke Studio Season 8](https://open.spotify.com/track/0rLTPr8MuyUiJZqYfeyD83) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Kinaray \(Coke Studio Season 8\)](https://open.spotify.com/album/1kYjfNM4mmZjdnqOCTnjjX) | 4:21 |
+| 33 | [Kinaray \- Coke Studio Season 8](https://open.spotify.com/track/0rLTPr8MuyUiJZqYfeyD83) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Kinaray \(Coke Studio Season 8\)](https://open.spotify.com/album/1kYjfNM4mmZjdnqOCTnjjX) | 4:21 |
+| 34 | [Raghupati](https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Raghupati](https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW) | 5:04 |
 | 35 | [Chhap Tilak](https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Chhap Tilak](https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme) | 4:31 |
 | 36 | [Karpur Gauram](https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Karpur Gauram](https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l) | 4:29 |
 | 37 | [Natkhat Nadiya](https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Songs Of The River \- Ganga](https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn) | 5:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 49 | [Ithlati](https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Mann Bheetar](https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz) | 6:27 |
 | 50 | [Padharo Mhare Des \- Folk Fusion](https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx) | [Swaraag](https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey) | [Padharo Mhare Des \(Folk Fusion\)](https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N) | 5:48 |
 
-Snapshot ID: `MCxhNjU0Y2JmMWYwOTllYWYwOTc3NDE5MWM0MTUwODg1OGM5ZmM5ZDYy`
+Snapshot ID: `MCw1Y2JmYjU5OTcxYjA2MzRlZDQ1NjdmZDM1ZTY4NDM4ZDA4MTZlMTg0`

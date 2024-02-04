@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 279452,
+  "2024-02-04": 279506,
   "date_first_scraped": "2022-03-01",
   "description": "New songs from some of the latest and greatest Gospel music artists.  Cover: <a href=\"spotify:artist:3EDwVZensg15abkTt5zfTM\">Ricky Dillard</a>",
   "name": "Fresh Gospel",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 133500,
       "name": "Abba",
       "url": "https://open.spotify.com/track/66TFMpPLlYScG4RLUu6QzC"
@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 315600,
       "name": "Call on the Name",
       "url": "https://open.spotify.com/track/2oqgLDeDlMurQzhCJ7WQOa"
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 300653,
       "name": "Every Blessing - Live",
       "url": "https://open.spotify.com/track/2s3VW5hoQSBq1lyBhf1FkN"
@@ -1761,6 +1761,24 @@
       "duration_ms": 206103,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1shKF5bY5iUgCo01fmwSGc"
+    },
+    {
+      "album": {
+        "name": "Forever It Is Done",
+        "url": "https://open.spotify.com/album/7ll7f71ilVwO1TPVa8LAJ7"
+      },
+      "artists": [
+        {
+          "name": "Onos",
+          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315776,
+      "name": "Forever It Is Done",
+      "url": "https://open.spotify.com/track/5cavGaWguVUsTiOrWE7sgX"
     },
     {
       "album": {
@@ -1969,6 +1987,24 @@
       "duration_ms": 209572,
       "name": "GOD IS GOOD (feat. Karen Clark Sheard, Hezekiah Walker & Kierra Sheard)",
       "url": "https://open.spotify.com/track/1ratr1m5VSqRXB1zlboNzT"
+    },
+    {
+      "album": {
+        "name": "God Is In Control",
+        "url": "https://open.spotify.com/album/4C7meepdyNlG0wpTrtKVEv"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234296,
+      "name": "God Is In Control",
+      "url": "https://open.spotify.com/track/2Yd7rRnjUY83VkSLFaPL0k"
     },
     {
       "album": {
@@ -2929,7 +2965,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 362120,
       "name": "Here All the Time (feat. Maranda Curtis)",
       "url": "https://open.spotify.com/track/2vDMKTckSTQrdf01YjiaxO"
@@ -3097,7 +3133,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 204437,
       "name": "Holy Hands",
       "url": "https://open.spotify.com/track/0fBm16QCdtqEvrcT3b9H7E"
@@ -3329,7 +3365,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 325423,
       "name": "I Love to Call Him",
       "url": "https://open.spotify.com/track/3X2XCrzqrs1Wo8oEidcZMb"
@@ -4289,7 +4325,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 583300,
       "name": "Just Like Jesus",
       "url": "https://open.spotify.com/track/7nLN2zONJYTPHPEcEv6ohq"
@@ -5795,7 +5831,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 221013,
       "name": "One Day",
       "url": "https://open.spotify.com/track/1aWEgCat4z6MwWZHQEdwPT"
@@ -7369,7 +7405,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 271807,
       "name": "The Better Benediction (pt.2) (feat. Lisa Knowles-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze"
@@ -7731,7 +7767,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 224136,
       "name": "Transitions",
       "url": "https://open.spotify.com/track/1nboBaRhaDHuJ29ULkLQwH"
@@ -7873,6 +7909,24 @@
       "duration_ms": 234328,
       "name": "Vans X Adidas",
       "url": "https://open.spotify.com/track/0iKldjsTD0Z7eNZub4PAf5"
+    },
+    {
+      "album": {
+        "name": "Victor",
+        "url": "https://open.spotify.com/album/5ii16nGPR94ndCpuAJKkLS"
+      },
+      "artists": [
+        {
+          "name": "Uwa",
+          "url": "https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304718,
+      "name": "Victor",
+      "url": "https://open.spotify.com/track/11VPOKV4ufy6LwCdUsWlbw"
     },
     {
       "album": {
@@ -8824,6 +8878,24 @@
     },
     {
       "album": {
+        "name": "You Surround",
+        "url": "https://open.spotify.com/album/2i3gWt2j7kJH3XR12cDbbQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465365,
+      "name": "You Surround - Live",
+      "url": "https://open.spotify.com/track/3AAVe0VCll3cxytUkm3znV"
+    },
+    {
+      "album": {
         "name": "You're Coming Out",
         "url": "https://open.spotify.com/album/4MSwgp7O7CE2qSheIzb9OW"
       },
@@ -8853,7 +8925,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 288099,
       "name": "You're The Worthy One",
       "url": "https://open.spotify.com/track/66CzJlOG9NhQbwSX3ImhWp"
@@ -8893,7 +8965,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 283311,
       "name": "YOUR WILL",
       "url": "https://open.spotify.com/track/07sXGtDBXjna1aAc2Fq4QX"
@@ -8933,7 +9005,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 206048,
       "name": "Yours To Use",
       "url": "https://open.spotify.com/track/5mSNr3VTEa0JuILanLXLTp"

@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 2624,
+  "2024-02-04": 2655,
   "date_first_scraped": "2024-01-13",
   "description": "Listen to the soundtracks of the EXchange series. (\ud658\uc2b9\uc5f0\uc560 \uc2dc\ub9ac\uc988 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "EXchange3 (\ud658\uc2b9\uc5f0\uc5603)",
@@ -42,6 +42,96 @@
     },
     {
       "album": {
+        "name": "EXchange3, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
+      },
+      "artists": [
+        {
+          "name": "Yoon Chae Young",
+          "url": "https://open.spotify.com/artist/0t3SywnQ8PRZaJHvesFODh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142880,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/0ZGXdNkQ9tWwsC1aF8kbbM"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
+      },
+      "artists": [
+        {
+          "name": "Choi Jung In",
+          "url": "https://open.spotify.com/artist/6VwjJA0ZHVAJNQuQxrE9NR"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86826,
+      "name": "Competitor",
+      "url": "https://open.spotify.com/track/19ZwZEe3UzSEGeuPSHz6g6"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
+      },
+      "artists": [
+        {
+          "name": "Choi Jung In",
+          "url": "https://open.spotify.com/artist/6VwjJA0ZHVAJNQuQxrE9NR"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104386,
+      "name": "Decision",
+      "url": "https://open.spotify.com/track/7a22Dp25fnBTmbB9z4oSyy"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
+      },
+      "artists": [
+        {
+          "name": "INNI",
+          "url": "https://open.spotify.com/artist/1qQfQINzSzsK0o4TMJr426"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104293,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6YDAlZqFl2yuhxH87sXPD7"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
+      },
+      "artists": [
+        {
+          "name": "KIM YEON JEONG",
+          "url": "https://open.spotify.com/artist/0ROyBtDdk14K7j5JK9YcZi"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133386,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1WEAC5fYRWhsXleSZ91ePl"
+    },
+    {
+      "album": {
         "name": "EXchange3, Pt. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0IgxB341S7p4sTGH29uTg4"
       },
@@ -75,6 +165,24 @@
       "duration_ms": 164133,
       "name": "I WANNA KNOW - Instrumental",
       "url": "https://open.spotify.com/track/7FylkkBopzdD6eyK0NC0rF"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
+      },
+      "artists": [
+        {
+          "name": "Yoon Chae Young",
+          "url": "https://open.spotify.com/artist/0t3SywnQ8PRZaJHvesFODh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109720,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/73VoUZQUMRvsQKIdx47U6W"
     },
     {
       "album": {
@@ -219,6 +327,24 @@
       "duration_ms": 10133,
       "name": "Message from Paul Blanco",
       "url": "https://open.spotify.com/track/6vDz4cJhqmAnAAY27a3I9s"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
+      },
+      "artists": [
+        {
+          "name": "SHIN HYUN PILL",
+          "url": "https://open.spotify.com/artist/4YCwdmKppgtDkrS0c5rPE2"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130800,
+      "name": "My Ex-Girlfriend",
+      "url": "https://open.spotify.com/track/1Rm9jIS7FziUGn650nIrds"
     },
     {
       "album": {
@@ -371,6 +497,24 @@
       "duration_ms": 195250,
       "name": "Rewind - Instrumental",
       "url": "https://open.spotify.com/track/4jkD8ZzpZVQxad69mDkkvB"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
+      },
+      "artists": [
+        {
+          "name": "Park Jung Eun",
+          "url": "https://open.spotify.com/artist/6bZGVdgaRYOCpBdS8S6BMP"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116773,
+      "name": "Rookie",
+      "url": "https://open.spotify.com/track/2Kt6OyvahJsdE2iCPDGhu6"
     },
     {
       "album": {
@@ -554,6 +698,24 @@
     },
     {
       "album": {
+        "name": "EXchange3, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
+      },
+      "artists": [
+        {
+          "name": "Park Jung Eun",
+          "url": "https://open.spotify.com/artist/6bZGVdgaRYOCpBdS8S6BMP"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105346,
+      "name": "Tiki-Taka",
+      "url": "https://open.spotify.com/track/6RcHoISdZ8pEP1tMZJyU2x"
+    },
+    {
+      "album": {
         "name": "EXchange2, Pt. 4 'My Heart Flutter, Again' (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1KDWuCEliNwhGIZpzTWhrF"
       },
@@ -626,6 +788,140 @@
     },
     {
       "album": {
+        "name": "EXchange3, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
+      },
+      "artists": [
+        {
+          "name": "ABOPF",
+          "url": "https://open.spotify.com/artist/7Gwj5KpWl65BqwUiyUIAho"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137013,
+      "name": "Unpredictable",
+      "url": "https://open.spotify.com/track/0Gq2hTH64bxGh1FSVO9IE3"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
+      },
+      "artists": [
+        {
+          "name": "DEW",
+          "url": "https://open.spotify.com/artist/4r2Us41ZbkxQxAvVi86AMR"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "We\u2032re done - Female Version",
+      "url": "https://open.spotify.com/track/1vGB8HUVBeNOA6sc85mA9r"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
+      },
+      "artists": [
+        {
+          "name": "DEW",
+          "url": "https://open.spotify.com/artist/4r2Us41ZbkxQxAvVi86AMR"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219146,
+      "name": "We\u2032re done - Female Version [Instrumental]",
+      "url": "https://open.spotify.com/track/6qVUKzPl26tVWcF9pFuOhK"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
+      },
+      "artists": [
+        {
+          "name": "Choi Jung In",
+          "url": "https://open.spotify.com/artist/6VwjJA0ZHVAJNQuQxrE9NR"
+        },
+        {
+          "name": "SHIN HYUN PILL",
+          "url": "https://open.spotify.com/artist/4YCwdmKppgtDkrS0c5rPE2"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "We\u2032re done - Lo-Fi Version",
+      "url": "https://open.spotify.com/track/21zWHsDIOrfbxE0IbRu7Rp"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
+      },
+      "artists": [
+        {
+          "name": "4BOUT",
+          "url": "https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223733,
+      "name": "We\u2032re done - Male Version",
+      "url": "https://open.spotify.com/track/0UdRL0sybVncgyKWkxvs13"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
+      },
+      "artists": [
+        {
+          "name": "4BOUT",
+          "url": "https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223720,
+      "name": "We\u2032re done - Male Version [Instrumental]",
+      "url": "https://open.spotify.com/track/3lSwBtHxDPhuyrES2mReaa"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
+      },
+      "artists": [
+        {
+          "name": "Choi Jung In",
+          "url": "https://open.spotify.com/artist/6VwjJA0ZHVAJNQuQxrE9NR"
+        },
+        {
+          "name": "KIM YEON JEONG",
+          "url": "https://open.spotify.com/artist/0ROyBtDdk14K7j5JK9YcZi"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207933,
+      "name": "We\u2032re done - Pf Version",
+      "url": "https://open.spotify.com/track/7BV0t3hUod2WIK1mw3UP9L"
+    },
+    {
+      "album": {
         "name": "EXchange2, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0y5sj7HQRpnxRMsoNTLr7O"
       },
@@ -659,6 +955,24 @@
       "duration_ms": 200560,
       "name": "WHAT IF - Instrumental",
       "url": "https://open.spotify.com/track/0s6PI3y3HIadOqpTkQGcHw"
+    },
+    {
+      "album": {
+        "name": "EXchange3, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
+      },
+      "artists": [
+        {
+          "name": "INNI",
+          "url": "https://open.spotify.com/artist/1qQfQINzSzsK0o4TMJr426"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179040,
+      "name": "Word",
+      "url": "https://open.spotify.com/track/6Z0Sf6Xj2vaYmxPF5Qa8zk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7jyi24oHXJ6"

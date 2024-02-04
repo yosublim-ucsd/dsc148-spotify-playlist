@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 55 | [Control](https://open.spotify.com/track/4NLF0XgMRCT6ARMhuSIL1y) | [Pavarino](https://open.spotify.com/artist/2Fpae9iRbR4yJa3hScKIO2) | [Control](https://open.spotify.com/album/4zhVHvYUGAuyZnsSzZmtr2) | 2:51 |
 | 56 | [Nonstop](https://open.spotify.com/track/47tijquLiTrK9e88AqncdG) | [NUVZ](https://open.spotify.com/artist/4fpIbSptfUs03L8woqtSPE), [NETWERK](https://open.spotify.com/artist/5NcQH0KEEAwdMYKZr6o7Go) | [Nonstop](https://open.spotify.com/album/3wQhNBJyysFXnNeEnTZPC5) | 3:50 |
 
-Snapshot ID: `NjE0NyxlMjUzZThhMTYyYjQ4ZGIwNWQyOTliNmIzNTc0MzM5YjAwZDQwYjMz`
+Snapshot ID: `NjE0OSwyZGYwMjNlYjdhZGRmYzY0NGQzODVhNjJhNjg1N2Y3MTkwYTYzMjYy`

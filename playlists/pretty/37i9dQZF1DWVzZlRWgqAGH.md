@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: BADBADNOTGOOD
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,851 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,875 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 43 | [alone](https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [alone](https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660) | 2:07 |
 | 44 | [MARY](https://open.spotify.com/track/6WkvT8SlxAKqQsOLeqIMRB) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [MARY](https://open.spotify.com/album/1XlZFlRQgdLrup2RMq4Lol) | 3:26 |
 | 45 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 4:11 |
-| 46 | [Bad Intentions](https://open.spotify.com/track/0sSQFWw30ZjRLNnvoAclJT) | [Anees](https://open.spotify.com/artist/5GgPDBska9yM6X2fZ6MHXA), [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Bad Intentions](https://open.spotify.com/album/4iCW5UWJyFtC4YuTUTFNHs) | 4:19 |
+| 46 | [Bad Intentions](https://open.spotify.com/track/0sSQFWw30ZjRLNnvoAclJT) | [Anees](https://open.spotify.com/artist/5GgPDBska9yM6X2fZ6MHXA), [Alice Aera](https://open.spotify.com/artist/5PEKoFgE1EQj05Vak6zugr) | [Bad Intentions](https://open.spotify.com/album/4iCW5UWJyFtC4YuTUTFNHs) | 4:19 |
 | 47 | [Dopamine](https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Dopamine](https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI) | 2:55 |
 | 48 | [Tandem](https://open.spotify.com/track/73ypDYXaKLXgb69ja5J21D) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [sneek](https://open.spotify.com/artist/6O4EoU7wO1VU8yAEhbIii5) | [sneek](https://open.spotify.com/album/48KwaEx2y9uL0cHJBoKacx) | 3:13 |
 | 49 | [Asteroids](https://open.spotify.com/track/7vTTOzp0E9D04XJVdt5qP5) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Asteroids](https://open.spotify.com/album/5jPlekW4E787N4lgsC9G3w) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 | 100 | [drive ME crazy!](https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:49 |
 
-Snapshot ID: `MCxiYTM2YjkzNzI4OTliZTYwZTY1YTE3ZTA4MmZhODcxMWVjNThmNTA0`
+Snapshot ID: `MCwxNGVhNGJmODMwYWMyNjZjMWVkYTFkOWZkYmI4NWExNWU4YzNkZmNl`

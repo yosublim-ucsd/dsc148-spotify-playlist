@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,493 likes - 39 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,499 likes - 39 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d2pdS.md) - [plain]
 | 38 | [Reason](https://open.spotify.com/track/52hWMRYetR1B4qm2GtLPCY) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:45 |
 | 39 | [GOAT Talk](https://open.spotify.com/track/3pSPOHc63HxnuD2bzA4Qdd) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:03 |
 
-Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDBmYmRhNmM1YTAzODk5MzA2NTk2OWI5ZTFhMDU4YTRhMQ==`
+Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA0MDBiNDVmNTM0YjU4NzM3NGQ1NmFiMjVjNjQxZGU4Nw==`

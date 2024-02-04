@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Gary Clark Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,743 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,757 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Can't Judge a Book By It's Cover](https://open.spotify.com/track/3yRVKQ4QSXPenUU3xpABPo) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Can't Judge a Book By It's Cover](https://open.spotify.com/album/3Doi1QZvtbTwiV1e4eNv4R) | 2:42 |
 | 100 | [Biggest Little Secret](https://open.spotify.com/track/2AJmb5Lqh95kJqIKbc1WCw) | [Amber Woodhouse](https://open.spotify.com/artist/1stAB5sEtU4AD3MQ0cYOtJ), [Wilderwater](https://open.spotify.com/artist/7Jy5gvSozRdq1JCBIIksf4) | [Biggest Little Secret](https://open.spotify.com/album/6qq8yb9Xy2me2hh3VgcaSN) | 3:59 |
 
-Snapshot ID: `MCxkZjhjMjM3ZTJiODU4ZDI0ZGNiNmU3MTZmNGIyMDFkYTBlMTdkYjI1`
+Snapshot ID: `MCw2NjY5MDk2MTBiOWM4NjY0MTQ4ZDM2ZjVhODI1ZThhYmU2YTk0Y2Fj`

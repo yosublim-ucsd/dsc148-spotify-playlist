@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal\. Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,085 likes - 80 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,176 likes - 80 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 26 | [Pure Life Unfolds](https://open.spotify.com/track/0UGIbrYl917NPgAazPIOJ2) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J) | [Diamanti](https://open.spotify.com/album/0YFCj6Qvb78Ogj1NPZz1Cy) | 5:05 |
 | 27 | [Opus of the Night \(Ghost Requiem\) \(feat\. Tina Guo\)](https://open.spotify.com/track/08yNiukGEc21at2TakEvQT) | [Kamelot](https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [The Awakening](https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE) | 5:47 |
 | 28 | [On the Sea](https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [On the Sea](https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR) | 3:53 |
-| 29 | [Son of Vengeance](https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT) | [Rhapsody Of Fire](https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1) | [Glory for Salvation](https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i) | 5:46 |
-| 30 | [Reborn](https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [The Wonders Still Awaiting](https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc) | 5:12 |
+| 29 | [Reborn](https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [The Wonders Still Awaiting](https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc) | 5:12 |
+| 30 | [Son of Vengeance](https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT) | [Rhapsody Of Fire](https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1) | [Glory for Salvation](https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i) | 5:46 |
 | 31 | [Beneath \(feat\. Paolo Ribaldini\)](https://open.spotify.com/track/0OjnAYGA3uGCN5XbD53dA5) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Dark Waters](https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs) | 4:59 |
 | 32 | [Reincarnation](https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Reincarnation](https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ) | 4:09 |
 | 33 | [The Wicked Rule The Night](https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Ralf Scheepers](https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV) | [The Wicked Rule The Night](https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf) | 4:24 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 73 | [Altar Of Power](https://open.spotify.com/track/01rFkJESDeDWjmxTZvzNRx) | [Veonity](https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH) | [Elements Of Power](https://open.spotify.com/album/2xV7ybQdKDyETb6UmWpVg9) | 4:21 |
 | 74 | [Over the Horizon Radar](https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Over the Horizon Radar](https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss) | 5:23 |
 | 75 | [The Endless Shore](https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Ulli Perhonen](https://open.spotify.com/artist/5sVlAjN68bza0JFzEbagzH), [Nils Courbaron](https://open.spotify.com/artist/5TXDrJYFMZU5x7DqNnJcR4) | [The Endless Shore](https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7) | 4:58 |
-| 76 | [Hunt Me to the End of the World](https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5) | [The Ferrymen](https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7) | [One More River to Cross](https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN) | 4:54 |
-| 77 | [Call of the North](https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t) | 6:24 |
-| 78 | [Cicada](https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Cicada](https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x) | 4:31 |
+| 76 | [Call of the North](https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t) | 6:24 |
+| 77 | [Cicada](https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Cicada](https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x) | 4:31 |
+| 78 | [Hunt Me to the End of the World](https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5) | [The Ferrymen](https://open.spotify.com/artist/6THX1gyfwGIwiPSyU5ffL7) | [One More River to Cross](https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN) | 4:54 |
 | 79 | [The Beast Has Awoken](https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo) | [Hate World Hero](https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh) | [The Beast Has Awoken](https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc) | 3:33 |
 | 80 | [Lonely](https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D) | [After Forever](https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp) | [After Forever \(15th Anniversary Edition\)](https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE) | 3:26 |
 
-Snapshot ID: `MCwzNmYxMzA1YzkwMTVhMGIxYTA1OGU3NTQ3NTNiOGU2ZGVhY2IwM2Ix`
+Snapshot ID: `MCw4ZTFjMDQxZjFhZmU2NGJhNmU5ZmYxODEzNzM2MzExZTk1ODcyNzFk`

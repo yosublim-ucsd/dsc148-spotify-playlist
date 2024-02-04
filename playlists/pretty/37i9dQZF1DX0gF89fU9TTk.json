@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 128179,
+  "num_followers": 128229,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGJmYWY4ZjQ4MjBiNDRmY2I0YjM3MGQyNzkwNzRjMDY5ZGU0YmZm",
+  "snapshot_id": "MCw3NWVmMTZlOGU4NjU3YmQ4MDk0MWMxODYwZjZmYzY3MTY5NjQzMTU4",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Lionheart",
+        "url": "https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD"
+      },
+      "artists": [
+        {
+          "name": "Awaken Music",
+          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "White Noise",
         "url": "https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP"
       },
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Lionheart",
-        "url": "https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD"
+        "name": "Candid Heart",
+        "url": "https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT"
       },
       "artists": [
         {
-          "name": "Awaken Music",
-          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
         }
       ],
-      "duration_ms": 254026,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx"
+      "duration_ms": 175000,
+      "name": "Candid Heart",
+      "url": "https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1263,38 +1279,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Candid Heart",
-        "url": "https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT"
+        "name": "Hills & Horizons",
+        "url": "https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h"
       },
       "artists": [
         {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Candid Heart",
-      "url": "https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "All Glory (Live)",
-        "url": "https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR"
-      },
-      "artists": [
-        {
-          "name": "Equippers Worship",
-          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
-        },
-        {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Never Let You Go - Live",
-      "url": "https://open.spotify.com/track/4H2CQprlxfFnMvOyrZ0kRB"
+      "duration_ms": 181426,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/0ZLwiOjFDHVufIwDb5RBxI"
     }
   ],
   "unique_name": "Hits UP",

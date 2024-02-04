@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 146003,
+  "num_followers": 146056,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzA4MmIwNjkwM2Y2ZDk3NjkwZWI1NDgzNzRhNTlmODYzMDRiODYw",
+  "snapshot_id": "MCxjM2U5ODAwYzRiNjczZjc3NjVlZjc0ZjNkZWQ3Y2FhOGE1YmFkYTQ3",
   "tracks": [
     {
       "added_at": "2024-01-05 14:21:14",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Cure",
-        "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
-      },
-      "artists": [
-        {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Femme Studio",
         "url": "https://open.spotify.com/album/0RSn60sXgnT1Fql7G87P0q"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 237427,
       "name": "Laisse-moi t'aimer",
       "url": "https://open.spotify.com/track/2boYIpJVzkugP7BwAaVzGw"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Cure",
+        "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -755,6 +755,26 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
+        "name": "Amigo",
+        "url": "https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        },
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "duration_ms": 211106,
+      "name": "Que Dieu me pardonne",
+      "url": "https://open.spotify.com/track/0hHNjDAThUngWzegMB4YYU"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
         "name": "\u00c9ph\u00e9m\u00e8re",
         "url": "https://open.spotify.com/album/3THI8m0WtBsYrdxKsRuS3w"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 225240,
       "name": "Tailler la route",
       "url": "https://open.spotify.com/track/3G6gPn5Ux19JYSXkrK34A3"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
-        "name": "Amigo",
-        "url": "https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        },
-        {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
-        }
-      ],
-      "duration_ms": 211106,
-      "name": "Que Dieu me pardonne",
-      "url": "https://open.spotify.com/track/0hHNjDAThUngWzegMB4YYU"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
+        "name": "Histoires de",
+        "url": "https://open.spotify.com/album/2429EGI4W9DN926A6TNZKG"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Farmer",
+          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
+        }
+      ],
+      "duration_ms": 256693,
+      "name": "C'est une belle journ\u00e9e",
+      "url": "https://open.spotify.com/track/5nNIFYy5dDQo9s3hSOd7xX"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
         "name": "\u00e0 2 \u00e0 3",
         "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 201138,
       "name": "Call on me - feat. Ed Sheeran",
       "url": "https://open.spotify.com/track/2Hn8kSDjl8qAJ0BVgFYcnp"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
-        "name": "Histoires de",
-        "url": "https://open.spotify.com/album/2429EGI4W9DN926A6TNZKG"
-      },
-      "artists": [
-        {
-          "name": "Myl\u00e8ne Farmer",
-          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
-        }
-      ],
-      "duration_ms": 256693,
-      "name": "C'est une belle journ\u00e9e",
-      "url": "https://open.spotify.com/track/5nNIFYy5dDQo9s3hSOd7xX"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "La recette",
-        "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
-      },
-      "artists": [
-        {
-          "name": "Slimane",
-          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
-        }
-      ],
-      "duration_ms": 197691,
-      "name": "La recette",
-      "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Je sais pas si \u00e7a va",
         "url": "https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 166293,
       "name": "Mal barr\u00e9",
       "url": "https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "La recette",
+        "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "duration_ms": 197691,
+      "name": "La recette",
+      "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
     },
     {
       "added_at": "2024-01-05 14:21:14",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-01-05 14:21:14",
       "album": {
-        "name": "Charlotte",
-        "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
-      },
-      "artists": [
-        {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        }
-      ],
-      "duration_ms": 196693,
-      "name": "Les choses qu'on fait",
-      "url": "https://open.spotify.com/track/240tflmnpjIPLhT60svcaw"
-    },
-    {
-      "added_at": "2024-01-05 14:21:14",
-      "album": {
         "name": "Osez Josephine",
         "url": "https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 178173,
       "name": "Osez Jos\u00e9phine",
       "url": "https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1"
+    },
+    {
+      "added_at": "2024-01-05 14:21:14",
+      "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "Les choses qu'on fait",
+      "url": "https://open.spotify.com/track/240tflmnpjIPLhT60svcaw"
     },
     {
       "added_at": "2024-01-05 14:21:14",

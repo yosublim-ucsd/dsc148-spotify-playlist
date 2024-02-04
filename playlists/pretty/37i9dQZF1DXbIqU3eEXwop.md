@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIqU3eEXwop.md) - [plain]
 
 > Les indispensables de l'été.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,146 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,159 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jubel](https://open.spotify.com/track/6YLlHjowYdcrULkRk4r4Ga) | [Shamoryo](https://open.spotify.com/artist/5ypoEsxvCfwoM8dWqpRQhq), [Retrib](https://open.spotify.com/artist/2DnAk9208P5ppNeJcVqb4I), [krmd](https://open.spotify.com/artist/33hKWOTTkOaDrINMAlQtht) | [Jubel](https://open.spotify.com/album/4WCKZv9nNzJIHL8T7xVoqR) | 3:17 |
+| 1 | [Jubel \- Radio Edit](https://open.spotify.com/track/0D2VYiRlBv43asKUgieZaM) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Radio Edit\)](https://open.spotify.com/album/7fkrTTjzWHgZQj7vizhTza) | 3:21 |
 | 2 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 |
 | 3 | [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 |
 | 4 | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/track/1cYyZ1N98GyRS3cMcccFHd) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [I](https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIqU3eEXwop.md) - [plain]
 | 49 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 |
 | 50 | [Seve \- Radio Edit](https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb) | [Seve \(Radio Edit\)](https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4) | 3:30 |
 
-Snapshot ID: `MCw1ZjBjYWUwMTI1ZDU2NWU5MzA0ODIzMjhjNWVmODhjNDQ2OGYyZjIy`
+Snapshot ID: `MCw0M2RmNzYxMjQ0ODA3YmRlOTcxZjE0ODc2ZDk4NTQ5M2Y2YmUwMGM4`

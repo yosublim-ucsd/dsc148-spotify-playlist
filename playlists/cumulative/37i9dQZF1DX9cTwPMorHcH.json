@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Just Won't Burn (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3tUrmnZBBUN9ZCtdJh16xn"
+      },
+      "artists": [
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        }
+      ],
+      "date_added": "2021-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "It Hurt So Bad",
+      "url": "https://open.spotify.com/track/3RqsX9mUWAhkFeRESUs1e8"
+    },
+    {
+      "album": {
         "name": "Just Won't Burn",
         "url": "https://open.spotify.com/album/7eJp2Lh2s3QUePA9Vgno6I"
       },
@@ -2114,7 +2132,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 306533,
       "name": "This Man",
       "url": "https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg"

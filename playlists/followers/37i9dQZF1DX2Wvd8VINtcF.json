@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 130287,
+  "2024-02-04": 130293,
   "date_first_scraped": "2022-11-02",
   "description": "the pearls of an oyster. Cover: The Last Dinner Party",
   "name": "Oyster",
@@ -2886,6 +2886,24 @@
     },
     {
       "album": {
+        "name": "BULLSEYE",
+        "url": "https://open.spotify.com/album/1BgDxKB8upXtUxGlNoUp57"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216953,
+      "name": "BULLSEYE",
+      "url": "https://open.spotify.com/track/3OatXXexrQMaW6Hr3iQU4k"
+    },
+    {
+      "album": {
         "name": "ULTRAVIOLET",
         "url": "https://open.spotify.com/album/1Q4BFGy2pejAKq29Z13ZRT"
       },
@@ -3577,7 +3595,7 @@
       },
       "artists": [
         {
-          "name": "Bicep",
+          "name": "BICEP",
           "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],
@@ -7615,7 +7633,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 249410,
-      "name": "Gold Rush - Primum Mobil Mix",
+      "name": "Gold Rush - Primum Mobile Mix",
       "url": "https://open.spotify.com/track/5dAtzYqP0L1WKwrBmM4xhv"
     },
     {

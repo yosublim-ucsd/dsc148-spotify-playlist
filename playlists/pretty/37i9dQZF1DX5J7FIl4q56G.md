@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: ERRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,874 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,894 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [Kaygı](https://open.spotify.com/track/3f5ey1XR6CyQK1I1BxEwtF) | [Bipolar Architecture](https://open.spotify.com/artist/7nyzs8lB1RPo3grVKQjjly) | [Metaphysicize](https://open.spotify.com/album/16Zwgfek20P1B9EmuvxTyY) | 6:55 |
 | 50 | [Ikaath the Seven Horned](https://open.spotify.com/track/5vMydcJeGRDIWBzJCGsrwJ) | [Hasturian Vigil](https://open.spotify.com/artist/37h7JkfkSn8DoyZ7iSXoW4) | [Unveiling the Brac'thal](https://open.spotify.com/album/3k2PGWKUfLkwLjXFwO7z7t) | 10:07 |
 
-Snapshot ID: `MCw2NjU4YThmMmM2YTIwNzA0YzkyZDY3MmZmZGI1MTJlMTZhMGJhMzdl`
+Snapshot ID: `MCwwNDA2YmYwZWZjYjk2ZWU4Y2E4MjFkMWMzMWNjNjgyMDE2Y2ZiMWQ1`

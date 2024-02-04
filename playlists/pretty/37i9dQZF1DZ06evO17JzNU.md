@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 
 > This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,434 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,454 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 28 | [Bloody Steps](https://open.spotify.com/track/2GyX56BdtI4RVtqel2GSYY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bloody Steps](https://open.spotify.com/album/2sTR0JzsyiJ8vKRDZ4C3JY) | 3:15 |
 | 29 | [Sin Opción](https://open.spotify.com/track/5wpLKTFKmasEtUaWiZQWv1) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Sin Opción](https://open.spotify.com/album/3e5f1WJ8qp2tJJC5NOwmnd) | 1:56 |
 | 30 | [El Michoacano](https://open.spotify.com/track/1ltZxfoujP63Bp8RYFhgd5) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Michoacano](https://open.spotify.com/album/4H7g82BTMoAHZXCYYXQWNw) | 3:47 |
-| 31 | [No Creyeron](https://open.spotify.com/track/0RygZfsCKhBfZTj5RuKnsq) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [No Creyeron](https://open.spotify.com/album/7usrNQirwgYKaGzxEUkAAD) | 3:15 |
-| 32 | [La Vida Recia](https://open.spotify.com/track/5GswRJyyhV5shlbJzBG4Os) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos Chakalosos](https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l) | 3:08 |
+| 31 | [La Vida Recia](https://open.spotify.com/track/5GswRJyyhV5shlbJzBG4Os) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos Chakalosos](https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l) | 3:08 |
+| 32 | [No Creyeron](https://open.spotify.com/track/0RygZfsCKhBfZTj5RuKnsq) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [No Creyeron](https://open.spotify.com/album/7usrNQirwgYKaGzxEUkAAD) | 3:15 |
 | 33 | [El Muchachon](https://open.spotify.com/track/5AJ76ymr2po9eU3z9Kks1O) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Muchachon](https://open.spotify.com/album/16oNWUo02F6vehFx1VVfLN) | 3:21 |
 | 34 | [Vamos Recordando](https://open.spotify.com/track/6nSPt3xRvsWqOvTU8nx6kJ) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Agradecido](https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH) | 2:53 |
 | 35 | [Van Hablar](https://open.spotify.com/track/5h5rqA8YRL0gta5b4MbD8j) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Van Hablar](https://open.spotify.com/album/7HZDMGM4Mp7le8j321qYZs) | 3:00 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 42 | [Ya Extrano Mi Rancho](https://open.spotify.com/track/5qAzmxc7zqn5CD0eE3yckL) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Ya Extrano Mi Rancho](https://open.spotify.com/album/14X4dL52C10ejPsocWndY8) | 2:16 |
 | 43 | [Apellido Guzman](https://open.spotify.com/track/0CrErg58IbHXNzDqiMBTfT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos \(Vol 2\)](https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s) | 3:26 |
 | 44 | [Muerto En Vida](https://open.spotify.com/track/4fMr1S1jbrzCB4asN37Urt) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Muerto En Vida](https://open.spotify.com/album/3FpkV6IQ6MhG9H2Nz0BEEy) | 2:38 |
-| 45 | [Tragos De Alcohol](https://open.spotify.com/track/3Xr4yKrO1kL20V8YWFQwey) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Imperio Sinaloense Corridos](https://open.spotify.com/album/6V4Z8u9DtkWlarVXQY8oU3) | 2:38 |
-| 46 | [El Party](https://open.spotify.com/track/5d7HFkZcx09a2SGRCChAcL) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Party](https://open.spotify.com/album/4ca5L2W0DmQzOK0jPdoVmd) | 3:32 |
-| 47 | [Me Ven Relajado](https://open.spotify.com/track/0edZkEF6YykgzCCxiLcXKZ) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Ven Relajado](https://open.spotify.com/album/0vPgCXIkpy6V8j8U3zfvcN) | 2:18 |
+| 45 | [Me Ven Relajado](https://open.spotify.com/track/0edZkEF6YykgzCCxiLcXKZ) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Ven Relajado](https://open.spotify.com/album/0vPgCXIkpy6V8j8U3zfvcN) | 2:18 |
+| 46 | [Tragos De Alcohol](https://open.spotify.com/track/3Xr4yKrO1kL20V8YWFQwey) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Imperio Sinaloense Corridos](https://open.spotify.com/album/6V4Z8u9DtkWlarVXQY8oU3) | 2:38 |
+| 47 | [El Party](https://open.spotify.com/track/5d7HFkZcx09a2SGRCChAcL) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Party](https://open.spotify.com/album/4ca5L2W0DmQzOK0jPdoVmd) | 3:32 |
 | 48 | [Mi Credo](https://open.spotify.com/track/2JcmIVpA2TxH2mG2b25kCX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Adolorido \(Vol 1\)](https://open.spotify.com/album/7jxXwVsm7JTuG9j5mClYkO) | 3:05 |
 | 49 | [El Muchacho Criticado \(En Vivo\)](https://open.spotify.com/track/0Y5K54BJgAdZya152sOsnu) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Muchacho Criticado \(En Vivo\)](https://open.spotify.com/album/7dyB4yyX6WEP3P6Rm8kRnq) | 2:48 |
 | 50 | [Haciendo Mil Cosas](https://open.spotify.com/track/5MeC9hQFfXg8ZylieyMMzO) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Haciendo Mil Cosas](https://open.spotify.com/album/7vKfja3R6wFGwFos31XREP) | 4:50 |
 
-Snapshot ID: `Mjg0NDc5NDcsMDAwMDAwMDA3Y2Y2MWZlNmUzZGNmYTYyZjliNjA2Y2MwNGJlZWU0OA==`
+Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA4YjBlODU0Njg1NzU3N2U0ZTdlYTNjZGQ2OGZkNWVmNQ==`

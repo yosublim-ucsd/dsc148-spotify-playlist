@@ -1,12 +1,12 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 97456,
+  "num_followers": 97483,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjljYzM2ODMyNWMwZDU3ZDUyNzJiMWY3MmI2NDBjZjNmYThmZDg3",
+  "snapshot_id": "MCwxYTM0M2JiYmQxN2EwMjJlNjBlZGQ3ZjQxZGM3YTRkOWM1NDZjYWY4",
   "tracks": [
     {
       "added_at": "2023-07-14 16:56:11",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd"
+      },
+      "artists": [
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "duration_ms": 230878,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "\u00c0 Moda Antiga",
         "url": "https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 239933,
       "name": "Deus, Voc\u00ea e Eu",
       "url": "https://open.spotify.com/track/0WD0mcZTnBLhdHAvpSNy51"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd"
-      },
-      "artists": [
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 230878,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Aline Barros - Som Gospel",
-        "url": "https://open.spotify.com/album/3IJpPRPjIDDkNVgdrwvuoe"
+        "name": "Cabelo solto - Playback",
+        "url": "https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
         }
       ],
-      "duration_ms": 282308,
-      "name": "Meu Eterno Namorado",
-      "url": "https://open.spotify.com/track/6fCkIEUDpl8mBQKkQe5h9O"
+      "duration_ms": 236251,
+      "name": "Escolhi Te Esperar",
+      "url": "https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Cabelo solto - Playback",
-        "url": "https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg"
+        "name": "Aline Barros - Som Gospel",
+        "url": "https://open.spotify.com/album/3IJpPRPjIDDkNVgdrwvuoe"
       },
       "artists": [
         {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 236251,
-      "name": "Escolhi Te Esperar",
-      "url": "https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz"
+      "duration_ms": 282308,
+      "name": "Meu Eterno Namorado",
+      "url": "https://open.spotify.com/track/6fCkIEUDpl8mBQKkQe5h9O"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -511,26 +511,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "M\u00fasica Favorita (\u00c1gua)",
-        "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
+        "name": "Eyshila Falando de Amor",
+        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
       },
       "artists": [
         {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Jorginho Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 253636,
-      "name": "M\u00fasica Favorita \u267e",
-      "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
+      "duration_ms": 258345,
+      "name": "Meu Sonho",
+      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -555,18 +547,26 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Eyshila Falando de Amor",
-        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
+        "name": "M\u00fasica Favorita (\u00c1gua)",
+        "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
       },
       "artists": [
         {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Jorginho Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
         }
       ],
-      "duration_ms": 258345,
-      "name": "Meu Sonho",
-      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
+      "duration_ms": 253636,
+      "name": "M\u00fasica Favorita \u267e",
+      "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -779,18 +779,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Sobre o Amor",
-        "url": "https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn"
+        "name": "Onde Est\u00e1 Voc\u00ea",
+        "url": "https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW"
       },
       "artists": [
         {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
+        },
+        {
+          "name": "Sarah Renata",
+          "url": "https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY"
         }
       ],
-      "duration_ms": 172288,
-      "name": "Prometo",
-      "url": "https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx"
+      "duration_ms": 246444,
+      "name": "Onde Est\u00e1 Voc\u00ea",
+      "url": "https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -811,22 +815,38 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Onde Est\u00e1 Voc\u00ea",
-        "url": "https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW"
+        "name": "Sobre o Amor",
+        "url": "https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn"
       },
       "artists": [
         {
-          "name": "Alexandre Magnani",
-          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
-        },
-        {
-          "name": "Sarah Renata",
-          "url": "https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY"
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
         }
       ],
-      "duration_ms": 246444,
-      "name": "Onde Est\u00e1 Voc\u00ea",
-      "url": "https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL"
+      "duration_ms": 172288,
+      "name": "Prometo",
+      "url": "https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "do avesso",
+        "url": "https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu"
+      },
+      "artists": [
+        {
+          "name": "Marcos Martins",
+          "url": "https://open.spotify.com/artist/1G8AP45en0n7qFcFJQEmtM"
+        },
+        {
+          "name": "Paula Schneider",
+          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
+        }
+      ],
+      "duration_ms": 246917,
+      "name": "do avesso",
+      "url": "https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -863,26 +883,6 @@
       "duration_ms": 263997,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/6ejwDt9UHxTh2Teh17BgMG"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "do avesso",
-        "url": "https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu"
-      },
-      "artists": [
-        {
-          "name": "Marcos Martins",
-          "url": "https://open.spotify.com/artist/1G8AP45en0n7qFcFJQEmtM"
-        },
-        {
-          "name": "Paula Schneider",
-          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
-        }
-      ],
-      "duration_ms": 246917,
-      "name": "do avesso",
-      "url": "https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y"
     },
     {
       "added_at": "2023-07-14 16:56:11",

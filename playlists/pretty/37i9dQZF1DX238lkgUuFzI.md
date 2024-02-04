@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > Our editor’s picks for best songs from the misfits 2.0 universe in 2023\. Cover: Ashnikko
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,812 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,803 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 10 | [Inner Child](https://open.spotify.com/track/0ZRIrT707yPnVxWJFhwnt0) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [why am i like this??](https://open.spotify.com/album/7yHgre842ssDu7WWnvQjQM) | 2:54 |
 | 11 | [Don't Wait](https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [Don't Wait](https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO) | 2:08 |
 | 12 | [BOOM](https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [BOOM](https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7) | 2:22 |
-| 13 | [bLeSs uR hEaRt](https://open.spotify.com/track/4bjn7QMGA72zxqEfrm6fpE) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/16ybJSJV5vWOH4PjmnvWgO) | 3:11 |
+| 13 | [bLeSs uR hEaRt](https://open.spotify.com/track/5dUgbxgqNmCBSmpH5GqKbD) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/7GDQZo95yvUhGpYCeEWYuU) | 3:11 |
 | 14 | [I'm Normally Like This](https://open.spotify.com/track/7bm0WfGG6HRiuac1IdHBaL) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [I'm Normally Like This](https://open.spotify.com/album/0QOtYZy8AIqWx4khwFx3Nn) | 2:54 |
 | 15 | [JUNKIE](https://open.spotify.com/track/6azzQpelUGRtIQUfgR9R0J) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 2: the burn](https://open.spotify.com/album/4kDBAwGGcSpxs6d4FFdPYG) | 3:08 |
 | 16 | [HATE PARTY](https://open.spotify.com/track/2NoH5sopROxmX9qVm6h09z) | [bodyimage](https://open.spotify.com/artist/7pn8MYeH0VgKGDnYAiS7Pg), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [HATE PARTY](https://open.spotify.com/album/6L4voUmXNjOw6fTimrXJnn) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 49 | [LEAVE WIV ME \(FEAT\. ZAND + REMÉE\)](https://open.spotify.com/track/70rzwfKW74Dv6hzAXoTTaK) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury), [Remée](https://open.spotify.com/artist/1ozEVEKprToJtdXwPkalMT) | [CLOWN BLOOD](https://open.spotify.com/album/1SIukunLtMfZyi00Olbc5t) | 1:37 |
 | 50 | [Not Enough](https://open.spotify.com/track/5XHgv7lChS8EvqzwoTG4gB) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [Not Enough](https://open.spotify.com/album/1Hnn5WMNMYM7DBE1U9fdIR) | 2:41 |
 
-Snapshot ID: `MCxhNzBjYzEzOGIwYTQ3NmM5MjgxN2M2NzgwNTEwNDhhMWY4YjViNTll`
+Snapshot ID: `MCw4NTgzMjQ0NTdkZWQ3MDI0YTQxZjJkNTQ3MmU1MmJjYzlkY2VhZTk5`

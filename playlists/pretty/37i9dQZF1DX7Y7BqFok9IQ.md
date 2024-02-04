@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Rival Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,548 likes - 150 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,648 likes - 150 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 67 | [All Alone](https://open.spotify.com/track/0y4hx5uMm5RYImWtXVl21y) | [John The Conqueror](https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184) | [John The Conqueror](https://open.spotify.com/album/0HCt8hhIqeTaXrGpShR2J4) | 3:49 |
 | 68 | [Open Your Eyes](https://open.spotify.com/track/1HaJ3wcWeA8n7QVdqfagKx) | [Madison Galloway](https://open.spotify.com/artist/50J27BeJLo8Roh6QepeJBR) | [Open Your Eyes](https://open.spotify.com/album/3WxhJW0zQ4HQjqYxerjrmB) | 4:34 |
 | 69 | [Pick Your Poison](https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 3:45 |
-| 70 | [Stone's Throw](https://open.spotify.com/track/3yryKlZnD9rlmE8Vm2AOV1) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:20 |
+| 70 | [Stone's Throw](https://open.spotify.com/track/65BmUqyPuH4QLfQjcoJPFL) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:20 |
 | 71 | [All I See Is You](https://open.spotify.com/track/6dNvCU9OcpWbDTR47d1ECP) | [Wight Lighters](https://open.spotify.com/artist/1MekQ13GRqKYQYrcJCx988) | [All I See Is You](https://open.spotify.com/album/5wl0osC3IOVFcFoFO02FMD) | 4:20 |
 | 72 | [I'm Gone](https://open.spotify.com/track/1ZbVqL2ErCQH26Zj4JkHy0) | [Vision Arcade](https://open.spotify.com/artist/21tnncEE8gHj8B6C7iOCFX) | [I'm Gone](https://open.spotify.com/album/2mQCWFo3LOBpx66YqquzXr) | 4:42 |
 | 73 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Little Thing Gone Wild](https://open.spotify.com/track/3XGCZQTIl2AXccefEuJfeh) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Wrong Creatures](https://open.spotify.com/album/0rqC0UZ8kTGxIEI654LWhj) | 3:19 |
 | 150 | [Lie Lie Lie](https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Lie Lie Lie](https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk) | 3:35 |
 
-Snapshot ID: `MCw3ZjU3MzNlNmZiMDAxYmQ4M2I3ODUyY2EyODIzYWYzMjhhMmIwZDAz`
+Snapshot ID: `MCxhMmM1MWNhNWRkMzMwYjVkZDQyOTViZDMwMTRiMjFjMDc2ZTc1MDNh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,412,967 likes - 85 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,413,495 likes - 85 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Otowa](https://open.spotify.com/track/1zSDvAdbpQoSuVJ9jLHGJD) | [太陽と踊れ月夜に唄え](https://open.spotify.com/artist/6FD9cAv3nEw3sK6mSmIAjV) | [Otowa](https://open.spotify.com/album/2nYVX9H4mPqz2a8A9efxzW) | 3:56 |
 | 85 | [Easy? Hard? Shikashite Susume!](https://open.spotify.com/track/2rugT3UVSZsmmmat3ElLqP) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Easy? Hard? Shikashite Susume!](https://open.spotify.com/album/46OnDsJZsnWOArf7ZoDUsI) | 4:08 |
 
-Snapshot ID: `MCxjZjNkOWZhOTUyYTNlZjk0ZTg4MGI0Y2UxNmUwMjZiZDA1MDRkYWY1`
+Snapshot ID: `MCw2YzRkNWYxYTQ2ZTJkMmU2M2U3MzUzOTBkMjBkN2FiMTYxNmJkNTU1`

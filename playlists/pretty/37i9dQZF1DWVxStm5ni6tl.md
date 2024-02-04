@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Shaina Hayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,151 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,176 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 53 | [Pick A Side](https://open.spotify.com/track/0FxcWbSvTLzorJCgUg5m9H) | [Layla Hendryx](https://open.spotify.com/artist/3ZE7V0WdT5nFZAWSW7iDZR) | [See What happens When](https://open.spotify.com/album/0LL94xvM8jaBx2gKBTndiP) | 2:33 |
 | 54 | [Why's That?](https://open.spotify.com/track/1lqmJDMx3vMTYFOE5TLUaz) | [Amanda Movio](https://open.spotify.com/artist/1TaQZeViJGuwXVkQYihjE2) | [Why's That?](https://open.spotify.com/album/5Dm2uEEMngfTWcAfhOaFsY) | 3:37 |
 | 55 | [fairytales](https://open.spotify.com/track/2X1BrCQpbBlvczxml8jbEd) | [STORRY](https://open.spotify.com/artist/2B3DdwYxUSSrYdda9V2UL0) | [fairytales](https://open.spotify.com/album/5VX5yWc9NI6ytjUvx41k6c) | 3:58 |
-| 56 | [Nobody Will](https://open.spotify.com/track/5izdbn5ybVo1CNF6WwcQq0) | [Lucia Haze](https://open.spotify.com/artist/0XaqBRrpZ558f5voszoWeE), [Klash Rivera](https://open.spotify.com/artist/70YhPJjQu7tHBehcOCxEIP) | [Deepinside Remixed](https://open.spotify.com/album/2BB6rT9qu9owK55oviTKDr) | 5:50 |
+| 56 | [Nobody Will \- Klash Rivera Remix](https://open.spotify.com/track/5izdbn5ybVo1CNF6WwcQq0) | [Lucia Haze](https://open.spotify.com/artist/0XaqBRrpZ558f5voszoWeE), [Klash Rivera](https://open.spotify.com/artist/70YhPJjQu7tHBehcOCxEIP) | [Deepinside Remixed](https://open.spotify.com/album/2BB6rT9qu9owK55oviTKDr) | 5:50 |
 | 57 | [Spells and Power Thoughts](https://open.spotify.com/track/1ANBmw9cKZKaEptZpR1R2Y) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [Spells and Power Thoughts](https://open.spotify.com/album/3vFjzXDMFfRnhxRUTBN0CY) | 2:47 |
 | 58 | [Otherside](https://open.spotify.com/track/1gEI3oSPZQdmabcY4rlyQk) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock, Knock](https://open.spotify.com/album/7gUgtgNsrdWEwSzZzRntXC) | 3:34 |
 | 59 | [FTFO](https://open.spotify.com/track/2Ala6Q91tF9T6OLILurpgH) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE) | [FTFO](https://open.spotify.com/album/2GMWtZhxPhx3vWB1p5A2Sk) | 2:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [ON MY WAY](https://open.spotify.com/track/3yTFX1HE96ChTBh3zSTpbj) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [ON MY WAY](https://open.spotify.com/album/1pq94oLoPufKtOpJ3SKGMF) | 2:25 |
 | 75 | [Think About You](https://open.spotify.com/track/5sMNeg0MEPWlpbjwCg2gRH) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [Think About You](https://open.spotify.com/album/4L8dQDEmy0CCN0ZonRAthg) | 3:21 |
 
-Snapshot ID: `MCwxMDQ2OGViZTZiNzcwODM4ZjY5YWI2OGZjN2MwOWYyOWU2NThiOGMw`
+Snapshot ID: `MCw4NTY3NGQyZjExYjU4ODk3NDViNGE1NmRlZjkxZGJkMTJlMzlkNWIw`

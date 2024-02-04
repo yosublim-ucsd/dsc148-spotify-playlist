@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 465073,
+  "2024-02-04": 465741,
   "date_first_scraped": "2023-07-29",
   "description": "#fyp\n",
   "name": "t'as la ref ?",
@@ -672,6 +672,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "album": {
         "name": "Belle et S\u00e9bastien : L'aventure continue (Bande originale du film)",
         "url": "https://open.spotify.com/album/1viAIMkI82vG92WwHXZ7YD"
       },
@@ -987,7 +1005,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 157090,
       "name": "Ce que je vois",
       "url": "https://open.spotify.com/track/3DpXX9k8cPenGQ5hWST5Wo"
@@ -1213,7 +1231,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 219720,
       "name": "Chou wasabi (feat. Micky Green)",
       "url": "https://open.spotify.com/track/1mZbP5dp7CAU2qZI2I6OiV"
@@ -1395,7 +1413,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 238724,
       "name": "Corps - Sped Up",
       "url": "https://open.spotify.com/track/0lScTHrPbwAVIqaXgNJUpJ"
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 226103,
       "name": "Dubidubidu (Chipi Chipi Chapa Chapa)",
       "url": "https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ"
@@ -2312,6 +2330,24 @@
     },
     {
       "album": {
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
+    },
+    {
+      "album": {
         "name": "HRTBRK 2 (Ghenda Remix)",
         "url": "https://open.spotify.com/album/2w7rOS96WT19GY0thNwGyf"
       },
@@ -2371,6 +2407,24 @@
       "duration_ms": 208106,
       "name": "If It's Lovin' That You Want",
       "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
+    },
+    {
+      "album": {
+        "name": "if u think i'm pretty",
+        "url": "https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128205,
+      "name": "if u think i'm pretty",
+      "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
     },
     {
       "album": {
@@ -2517,7 +2571,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 219533,
       "name": "Je la connais",
       "url": "https://open.spotify.com/track/2bNtWTLdqUGhLZqWUGPNvK"
@@ -3459,7 +3513,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 169920,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/0KplBbjiVQ2oaPsx5TawwH"
@@ -3542,6 +3596,28 @@
     },
     {
       "album": {
+        "name": "Je ne me vois pas briller",
+        "url": "https://open.spotify.com/album/2AqF6O5Yk6w4j6Gzrpogls"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Norey Fz",
+          "url": "https://open.spotify.com/artist/2D8swU349pR0GOIpwBg4hy"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214146,
+      "name": "Mon tiek ti amo",
+      "url": "https://open.spotify.com/track/2HzJCYwtTXqrj72mE2hnEW"
+    },
+    {
+      "album": {
         "name": "Dans La Chambre / Money",
         "url": "https://open.spotify.com/album/1oqa08Osm4PvNyHNFVeULx"
       },
@@ -3583,6 +3659,24 @@
       "duration_ms": 166861,
       "name": "Moulaga - Sped up",
       "url": "https://open.spotify.com/track/42Af5vuvCRGC0t1ohkQlh8"
+    },
+    {
+      "album": {
+        "name": "Sinc\u00e8rement",
+        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164986,
+      "name": "Murder",
+      "url": "https://open.spotify.com/track/3LK81r3yptHlliNgLBo1UC"
     },
     {
       "album": {
@@ -4180,6 +4274,24 @@
     },
     {
       "album": {
+        "name": "Posa na bina",
+        "url": "https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8"
+      },
+      "artists": [
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Posa na bina",
+      "url": "https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr"
+    },
+    {
+      "album": {
         "name": "Enna",
         "url": "https://open.spotify.com/album/0IBVzjJxYn6o69T4FfXMLi"
       },
@@ -4447,7 +4559,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 189829,
       "name": "Saiyan",
       "url": "https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2"
@@ -4761,7 +4873,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 123000,
       "name": "Slowdown (girl what's up)",
       "url": "https://open.spotify.com/track/4xexPtg7VSPCf9hM3aZdfZ"
@@ -4827,6 +4939,24 @@
       "duration_ms": 175359,
       "name": "Sonner",
       "url": "https://open.spotify.com/track/0OoMMMYlXD9kQIAeB8h7Ti"
+    },
+    {
+      "album": {
+        "name": "M.I.L.S",
+        "url": "https://open.spotify.com/album/2KvyDaE0buWzzR8S4gCSsz"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307560,
+      "name": "Sourire",
+      "url": "https://open.spotify.com/track/3DkF5PzztACcDGdLWVFiyJ"
     },
     {
       "album": {
@@ -5030,6 +5160,28 @@
     },
     {
       "album": {
+        "name": "Temps en temps",
+        "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153649,
+      "name": "Temps en temps",
+      "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
+    },
+    {
+      "album": {
         "name": "texto",
         "url": "https://open.spotify.com/album/40Bso5re6Os8Xjz9MMb1pA"
       },
@@ -5121,7 +5273,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 183865,
       "name": "Trop parler",
       "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
@@ -5222,6 +5374,24 @@
     },
     {
       "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "album": {
         "name": "\u015eaheser",
         "url": "https://open.spotify.com/album/2cnnNsOeOthie068mjAnDG"
       },
@@ -5241,6 +5411,24 @@
       "duration_ms": 220506,
       "name": "Vermedin",
       "url": "https://open.spotify.com/track/2KhbRuWQmIRK9pKNqFk14F"
+    },
+    {
+      "album": {
+        "name": "Voil\u00e0",
+        "url": "https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pravi",
+          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176815,
+      "name": "Voil\u00e0",
+      "url": "https://open.spotify.com/track/1uAOCTevGnyKIDbgZdOCnE"
     },
     {
       "album": {
@@ -5273,7 +5461,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"

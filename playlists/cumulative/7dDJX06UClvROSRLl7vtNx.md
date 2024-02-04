@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-237 songs - 10 hr 25 min
+238 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Close Our Eyes](https://open.spotify.com/track/6fnXRuig1Qx8ofOMOFemXY) | [Lilly Bay](https://open.spotify.com/artist/638CAHfkNvK7AEpXSqWB31) | [Close Our Eyes](https://open.spotify.com/album/4yvZtT5VTLISNquQGWSoVo) | 2:15 | 2023-10-27 |  |
 | [Closer](https://open.spotify.com/track/3rBD8phZjb14NPblq35s77) | [Seazons](https://open.spotify.com/artist/0yO8jzH8NUwFbJqKfvrRnf), [houselife](https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h) | [Closer](https://open.spotify.com/album/1tmjTej23PLm4d9zJQvMNj) | 2:26 | 2023-12-10 | 2023-12-31 |
 | [Coming Home](https://open.spotify.com/track/25g3oz2lI2H9sUeFWfw4YA) | [Starzun](https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4), [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9) | [Coming Home](https://open.spotify.com/album/3jIi4BSJfVI0xbA15zJSs3) | 2:18 | 2023-10-20 |  |
+| [Contagious](https://open.spotify.com/track/0hnWAbE0pBpODu0geQpb2C) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Maike](https://open.spotify.com/artist/1CVoPwlZCLiNxVqLMJlR9G) | [Contagious](https://open.spotify.com/album/0xTPuaT0954KYgAY48GZon) | 2:59 | 2024-02-03 |  |
 | [Control](https://open.spotify.com/track/2kylyEHdOEwsvWzm3PnQIQ) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [Honas](https://open.spotify.com/artist/6NqnUmcBfI4tWK56ZC1Nkw) | [Control](https://open.spotify.com/album/2gOoME3JTw3QxNsRo257pG) | 2:49 | 2023-09-22 |  |
 | [Could You Be Loved](https://open.spotify.com/track/4iEmc19nHE8qXEbugWZDNv) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT) | [Could You Be Loved](https://open.spotify.com/album/7yZKEcKiKlXWXvA0ZOT5bW) | 2:33 | 2023-12-27 | 2024-01-15 |
 | [Could've Been Us](https://open.spotify.com/track/1oNFTQO0z6PuRH1wOOQXPe) | [ItsLee](https://open.spotify.com/artist/1dq0GAzGi7vIwvcREuVKiZ), [Dom Fricot](https://open.spotify.com/artist/4O4jSSDSarGDFwSNdq83Nr) | [Could've Been Us](https://open.spotify.com/album/2LLSwLZdGO0ADN1RlpVccS) | 2:12 | 2023-09-22 |  |

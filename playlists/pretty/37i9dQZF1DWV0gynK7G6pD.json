@@ -1,17 +1,17 @@
 {
   "description": "Updated every Friday with the very best classical new releases. Cover: Renaud Capu\u00e7on",
-  "num_followers": 702924,
+  "num_followers": 702923,
   "original_name": "Classical New Releases",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjE0NDQyYzQ4ODczNGY3NDEwYTA3M2ZjYzI5ZGIzMDQ3NGFjYjI3",
+  "snapshot_id": "MCxhNzUxYzljODVkNDcwZjI3Mzc5NDZjZGEwN2QyYmVkZGU4ZTVkNTU2",
   "tracks": [
     {
       "added_at": "2024-02-02 02:00:00",
       "album": {
-        "name": "La patiente du sans-souci",
+        "name": "La passante du Sans-Souci",
         "url": "https://open.spotify.com/album/5U3Q1jD2WhzAqOjEbK0yog"
       },
       "artists": [
@@ -1906,6 +1906,10 @@
         {
           "name": "Mario H\u00e4ring",
           "url": "https://open.spotify.com/artist/13LiPeJBdH4UmXsOXoTfYu"
+        },
+        {
+          "name": "Alexandre Castro-Balbi",
+          "url": "https://open.spotify.com/artist/5Zz6TmeDs9XHGlc1KiyPEq"
         }
       ],
       "duration_ms": 333274,

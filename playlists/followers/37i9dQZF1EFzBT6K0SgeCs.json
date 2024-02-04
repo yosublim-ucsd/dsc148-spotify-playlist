@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 5795,
+  "2024-02-04": 5795,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5TBp8FDzDLGbfSwadAIZiN\">Finneas O'Connell</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Finneas O'Connell",
@@ -129,10 +129,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 203389,
       "name": "American Clich\u00e9",
       "url": "https://open.spotify.com/track/18HE341ScgOOPOLWx1DSjG"
+    },
+    {
+      "album": {
+        "name": "American Clich\u00e9",
+        "url": "https://open.spotify.com/album/7B4QizmRASlZ4cq3rjADc2"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203389,
+      "name": "American Clich\u00e9",
+      "url": "https://open.spotify.com/track/5jxZBO1efg52vMEmiSjGXy"
     },
     {
       "album": {
@@ -147,10 +165,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 311152,
       "name": "Angel",
       "url": "https://open.spotify.com/track/2RhcsgW9N1GxUkUoCBvRkS"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/1uJ22Cx7LA5Y4rdoOziEnG"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311152,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/61lz8EfVQvYJmYbMhSDm3F"
     },
     {
       "album": {
@@ -165,10 +201,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 256648,
       "name": "Another Year",
       "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
+    },
+    {
+      "album": {
+        "name": "Another Year",
+        "url": "https://open.spotify.com/album/4QqbHVOhj56RKsBTHBxw9x"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256648,
+      "name": "Another Year",
+      "url": "https://open.spotify.com/track/2PjhrIf3ro6skhdBHAUl1P"
     },
     {
       "album": {
@@ -371,6 +425,24 @@
     {
       "album": {
         "name": "Blood Harmony (Deluxe)",
+        "url": "https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237979,
+      "name": "Break My Heart Again",
+      "url": "https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k"
+    },
+    {
+      "album": {
+        "name": "Blood Harmony (Deluxe)",
         "url": "https://open.spotify.com/album/1oX0tpdqOXCq3FqoPoQEnh"
       },
       "artists": [
@@ -381,7 +453,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 238012,
       "name": "Break My Heart Again",
       "url": "https://open.spotify.com/track/0DGh73t9eaZA3X3ZXHf4Qe"
@@ -399,7 +471,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 193143,
       "name": "bury a friend",
       "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
@@ -435,10 +507,46 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 175969,
       "name": "Can't Wait To Be Dead",
       "url": "https://open.spotify.com/track/3o6ctIW4jnoecAsec2KLn0"
+    },
+    {
+      "album": {
+        "name": "Can't Wait To Be Dead",
+        "url": "https://open.spotify.com/album/0wKWpWU5S5EwkLKsdcTRz1"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175969,
+      "name": "Can't Wait To Be Dead",
+      "url": "https://open.spotify.com/track/5dDSX2zoMVSDmz1TPxPMYO"
+    },
+    {
+      "album": {
+        "name": "Claudia",
+        "url": "https://open.spotify.com/album/386SMX8MlZVP5wica8k6SX"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161876,
+      "name": "Claudia",
+      "url": "https://open.spotify.com/track/61XKjaoYP146b27n8Z0mEJ"
     },
     {
       "album": {
@@ -453,7 +561,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 161876,
       "name": "Claudia",
       "url": "https://open.spotify.com/track/6qdJ4ahVagRfgg70kT37Ni"
@@ -507,7 +615,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 194746,
       "name": "Commander In Chief",
       "url": "https://open.spotify.com/track/3w6f34fBUXOvuko0Ihq7he"
@@ -551,6 +659,24 @@
     {
       "album": {
         "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261471,
+      "name": "Die Alone",
+      "url": "https://open.spotify.com/track/6Rc3aKjwfmGMcpcQnHx296"
+    },
+    {
+      "album": {
+        "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
       "artists": [
@@ -561,7 +687,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 261471,
       "name": "Die Alone",
       "url": "https://open.spotify.com/track/6q2MA87tphYrGm5Jr7xHMl"
@@ -597,7 +723,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 245425,
       "name": "everything i wanted",
       "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
@@ -725,7 +851,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 298410,
       "name": "Gangsta Art (Yo Gotti, Moneybagg Yo feat. 42 Dugg, EST Gee, Mozzy, Lehla Samia, Blac Youngsta)",
       "url": "https://open.spotify.com/track/63u4taM8CTklMQhrcV3via"
@@ -899,10 +1025,46 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 222664,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4Kaq5ru7CS1Ci6282M3z3R"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/4zShiUw6Qu4ucuoxbchnAO"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222664,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6o49fKWmUhQTwgTacJQO1j"
+    },
+    {
+      "album": {
+        "name": "Hollywood Forever",
+        "url": "https://open.spotify.com/album/6lZXJbxsk5IdnGqfHJr4RR"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251727,
+      "name": "Hollywood Forever",
+      "url": "https://open.spotify.com/track/0XBLfPaacvrxbn84yo5rTO"
     },
     {
       "album": {
@@ -917,7 +1079,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 251727,
       "name": "Hollywood Forever",
       "url": "https://open.spotify.com/track/48RzchUqmm7J1cNS6YWnAy"
@@ -953,7 +1115,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 229425,
       "name": "hostage",
       "url": "https://open.spotify.com/track/7hsI66hd2zDvcqDMOkGkfy"
@@ -1051,6 +1213,24 @@
     {
       "album": {
         "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237020,
+      "name": "I Lost a Friend",
+      "url": "https://open.spotify.com/track/3XwTKOAP8Syq2GAcKBCAmN"
+    },
+    {
+      "album": {
+        "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
       "artists": [
@@ -1061,7 +1241,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 237020,
       "name": "I Lost a Friend",
       "url": "https://open.spotify.com/track/5v1sPD1lu2wiPzi07tW8zm"
@@ -1177,6 +1357,24 @@
     {
       "album": {
         "name": "Landmine",
+        "url": "https://open.spotify.com/album/6w86BsSzhCiMJghOB4Vxs4"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208675,
+      "name": "Landmine",
+      "url": "https://open.spotify.com/track/4QPh2acwINnzg3Ohl0pyrM"
+    },
+    {
+      "album": {
+        "name": "Landmine",
         "url": "https://open.spotify.com/album/6EWLa8THXLPI250ttdUUjH"
       },
       "artists": [
@@ -1187,10 +1385,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 208675,
       "name": "Landmine",
       "url": "https://open.spotify.com/track/4j6dPZlojYwVLp3qevPdCW"
+    },
+    {
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190348,
+      "name": "Let's Fall in Love for the Night",
+      "url": "https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj"
     },
     {
       "album": {
@@ -1205,7 +1421,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 190348,
       "name": "Let's Fall in Love for the Night",
       "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
@@ -1223,10 +1439,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 251765,
       "name": "Life Moves On",
       "url": "https://open.spotify.com/track/3xTiTmSzoBwL8QYbJrwz56"
+    },
+    {
+      "album": {
+        "name": "Life Moves On",
+        "url": "https://open.spotify.com/album/1Tc5orxZ6YQSmjKH16tP6N"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251765,
+      "name": "Life Moves On",
+      "url": "https://open.spotify.com/track/62BQnLUbtX7MVdLPjGAHek"
     },
     {
       "album": {
@@ -1307,7 +1541,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 149189,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ"
@@ -1343,10 +1577,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 169765,
       "name": "Lost My Mind",
       "url": "https://open.spotify.com/track/4hXVTZRCy3cXUkv2jGF2Ty"
+    },
+    {
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169765,
+      "name": "Lost My Mind",
+      "url": "https://open.spotify.com/track/6MJvVTEytQhtCHsjSw7oEE"
     },
     {
       "album": {
@@ -1361,7 +1613,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 224278,
       "name": "Love is Pain",
       "url": "https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8"
@@ -1401,7 +1653,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 200185,
       "name": "lovely (with Khalid)",
       "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
@@ -1437,10 +1689,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 163410,
       "name": "Luck Pusher",
       "url": "https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI"
+    },
+    {
+      "album": {
+        "name": "Luck Pusher",
+        "url": "https://open.spotify.com/album/45XyVrQvEPeBWYZUQEELtD"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163410,
+      "name": "Luck Pusher",
+      "url": "https://open.spotify.com/track/54KEKpbtGRIcnpTqZS2kwR"
     },
     {
       "album": {
@@ -1617,7 +1887,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 167096,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ"
@@ -1827,6 +2097,24 @@
     {
       "album": {
         "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223283,
+      "name": "Partners in Crime",
+      "url": "https://open.spotify.com/track/2niETvNkIt86p4wuKTkMIl"
+    },
+    {
+      "album": {
+        "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
       "artists": [
@@ -1837,7 +2125,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 223283,
       "name": "Partners in Crime",
       "url": "https://open.spotify.com/track/64JUnQuiwGZZCs1LSkOevr"
@@ -1931,7 +2219,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 203573,
       "name": "Save Your Love",
       "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
@@ -1975,6 +2263,24 @@
     {
       "album": {
         "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187270,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/1jRkuYHyatBvDgWTGbJcIs"
+    },
+    {
+      "album": {
+        "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
       "artists": [
@@ -1985,7 +2291,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 187270,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/1l2K1SQv7qfMa8VGvsyJ0R"
@@ -2129,7 +2435,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 203258,
       "name": "The 90s",
       "url": "https://open.spotify.com/track/7pNcOZGxBHXuNKT2YUABzr"
@@ -2335,7 +2641,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 177523,
       "name": "watch",
       "url": "https://open.spotify.com/track/2WazybrAdTHvtwcfCAIlVj"
@@ -2433,6 +2739,24 @@
     {
       "album": {
         "name": "Where the Poison Is",
+        "url": "https://open.spotify.com/album/2lJK72MPLZG031lJ9xGy4Q"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194472,
+      "name": "Where the Poison Is",
+      "url": "https://open.spotify.com/track/0UTnTG899YM9lL9ZZnXuZd"
+    },
+    {
+      "album": {
+        "name": "Where the Poison Is",
         "url": "https://open.spotify.com/album/2I1Tadjt5P5r7aIyXKABDw"
       },
       "artists": [
@@ -2443,7 +2767,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 194472,
       "name": "Where the Poison Is",
       "url": "https://open.spotify.com/track/1SoM1cY0dpIz2U5GwSr0lT"

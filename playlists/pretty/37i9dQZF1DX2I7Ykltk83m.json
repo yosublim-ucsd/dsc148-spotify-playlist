@@ -1,12 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Haley Blais",
-  "num_followers": 357671,
+  "num_followers": 357738,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGJhMzlkMTc5NGY4MmM0MGM3NjZiZjQ4MDQ5MzVhMzc1ZTY3NzA1",
+  "snapshot_id": "MCw2NDUzNDQwMjNhY2RjNWEwNzMwZTRhZmU1MjhhY2ZiNDVkZmZhMTJi",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 263754,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd"
+        "name": "Jump Rope Gazers",
+        "url": "https://open.spotify.com/album/08RHgulG8GrXeC9Igz1Rcx"
       },
       "artists": [
         {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
         }
       ],
-      "duration_ms": 157616,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO"
+      "duration_ms": 312182,
+      "name": "Jump Rope Gazers",
+      "url": "https://open.spotify.com/track/5oyrl5VF5W6vu5vDNW57Kp"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Jump Rope Gazers",
-        "url": "https://open.spotify.com/album/08RHgulG8GrXeC9Igz1Rcx"
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd"
       },
       "artists": [
         {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
         }
       ],
-      "duration_ms": 312182,
-      "name": "Jump Rope Gazers",
-      "url": "https://open.spotify.com/track/5oyrl5VF5W6vu5vDNW57Kp"
+      "duration_ms": 157616,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1251,38 +1251,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Making It Through",
-        "url": "https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 282366,
-      "name": "Making It Through",
-      "url": "https://open.spotify.com/track/5gH0m1KstxQ1isPiw7CiYV"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Hypochondriac",
-        "url": "https://open.spotify.com/album/4Q0ZHIymPlc5zpNtYQQ5FK"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 192853,
-      "name": "Hypochondriac",
-      "url": "https://open.spotify.com/track/6EDAapFVNckXJuDvx59agU"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "New Person, Old Place",
         "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
       },
@@ -1311,6 +1279,38 @@
       "duration_ms": 248666,
       "name": "When You Know You Know",
       "url": "https://open.spotify.com/track/5LgpO5RdeHPEDSww4XP0WO"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Hypochondriac",
+        "url": "https://open.spotify.com/album/4Q0ZHIymPlc5zpNtYQQ5FK"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 192853,
+      "name": "Hypochondriac",
+      "url": "https://open.spotify.com/track/6EDAapFVNckXJuDvx59agU"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Making It Through",
+        "url": "https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 282366,
+      "name": "Making It Through",
+      "url": "https://open.spotify.com/track/5gH0m1KstxQ1isPiw7CiYV"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Song for Nick Drake",
-        "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 177387,
-      "name": "Song for Nick Drake",
-      "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "color theory",
         "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 337426,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Song for Nick Drake",
+        "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 177387,
+      "name": "Song for Nick Drake",
+      "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Vest & Boxers",
-        "url": "https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC"
-      },
-      "artists": [
-        {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
-        }
-      ],
-      "duration_ms": 177064,
-      "name": "Vest & Boxers",
-      "url": "https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "dirt",
         "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 176268,
       "name": "4th of july",
       "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Vest & Boxers",
+        "url": "https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "duration_ms": 177064,
+      "name": "Vest & Boxers",
+      "url": "https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Shotgun",
-        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 143493,
       "name": "Make Out",
       "url": "https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
     },
     {
       "added_at": "2023-10-27 04:00:00",

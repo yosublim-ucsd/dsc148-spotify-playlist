@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 331276,
+  "2024-02-04": 331312,
   "date_first_scraped": "2022-01-06",
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
   "name": "Deep Listening",
@@ -277,7 +277,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 347861,
       "name": "5D Dub",
       "url": "https://open.spotify.com/track/4DqoVq7KnfCguft72zY82M"
@@ -1099,6 +1099,24 @@
       "duration_ms": 460949,
       "name": "Atoms Song",
       "url": "https://open.spotify.com/track/5GkmYAsDo9mWAEBrxfQo5j"
+    },
+    {
+      "album": {
+        "name": "Everywhere at the End of Time (Stage 1)",
+        "url": "https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T"
+      },
+      "artists": [
+        {
+          "name": "The Caretaker",
+          "url": "https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244373,
+      "name": "B4 - The loves of my entire life",
+      "url": "https://open.spotify.com/track/6806PuNd2YyEuzjtBo1yMv"
     },
     {
       "album": {
@@ -2693,6 +2711,24 @@
       "duration_ms": 394386,
       "name": "discrete (the market)",
       "url": "https://open.spotify.com/track/6qUpvBSrrwlWogJR7kRYOo"
+    },
+    {
+      "album": {
+        "name": "Distant Solace",
+        "url": "https://open.spotify.com/album/7odaTvennSTNVuMLArV19i"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153559,
+      "name": "Distant Solace",
+      "url": "https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B"
     },
     {
       "album": {
@@ -6137,7 +6173,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 286986,
       "name": "No Step on Wing",
       "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
@@ -7021,7 +7057,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 143080,
       "name": "Requiem for CS70 and Strings",
       "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
@@ -7921,7 +7957,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 1052000,
       "name": "Space 8",
       "url": "https://open.spotify.com/track/6kpoN7Z1mahkMePKztQdHt"
@@ -9137,7 +9173,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 389625,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1lu4JpljcLFa6dRfkcRHsa"
@@ -9235,7 +9271,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 276000,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/2pcGfbhQXd0xbp3UCfsNuD"
@@ -9677,7 +9713,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 227640,
       "name": "Vesela",
       "url": "https://open.spotify.com/track/0rwadVw6XNDNWzHqL3V8Zs"
@@ -10023,7 +10059,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 152827,
       "name": "Wiegenmusik",
       "url": "https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA"

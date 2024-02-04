@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: Gioli & Assia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,089,647 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,089,554 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 24 | [Retail Therapy](https://open.spotify.com/track/6UvodWwiKAwVxXK2gfLru0) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Retail Therapy](https://open.spotify.com/album/6m0WgwY6xKMDwtDutoKgiI) | 2:28 |
 | 25 | [things change](https://open.spotify.com/track/6Syl25qHaep867UNxfCuzU) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [things change](https://open.spotify.com/album/4J1Vphf3QQ1P8gQmmcusNB) | 3:00 |
 | 26 | [Untidy Creature](https://open.spotify.com/track/5iFAQbY63p9Wbpc8XGU84a) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Untidy Creature](https://open.spotify.com/album/7iB1U6TK6DtjX7Jt69SEPB) | 3:28 |
-| 27 | [Hand to Hand](https://open.spotify.com/track/4AaVY4XuXeHJZwUBSRSoC6) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Hand to Hand](https://open.spotify.com/album/7HUM44SiRxsE6TXDjNF7wp) | 3:46 |
+| 27 | [Hand to Hand](https://open.spotify.com/track/7i4onkA2fRuV0viFNWINID) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 3:46 |
 | 28 | [Collect](https://open.spotify.com/track/10x6rkazWBJMWhJSEgMhOc) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Wake to flowers](https://open.spotify.com/album/76z55NJfoHhOLNSr2kpF8M) | 2:56 |
 | 29 | [Bad Man](https://open.spotify.com/track/1dE2RgTlKPGL0Pcr8OjgrV) | [FIGHTMASTER](https://open.spotify.com/artist/3ejIpQTvOb6XjUhX96RrMw) | [Violence](https://open.spotify.com/album/6sbuipZaNdrMC3egrQTIpE) | 4:26 |
 | 30 | [LA PATRONA](https://open.spotify.com/track/0C5Cerw31h3ldAikmNS18C) | [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [LA PATRONA](https://open.spotify.com/album/4s0aLS8EAEMwIdlsl0IX5K) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [SELF\-MADE](https://open.spotify.com/track/6OP2d5NErNuutQOEKqIUjx) | [Miss Petty](https://open.spotify.com/artist/6i7HuCW2HqaDIrw9DXDQAc) | [SELF\-MADE](https://open.spotify.com/album/42dtF2C7tfRHM6nTG8ZCO4) | 3:57 |
 | 50 | [cayó la noche \(madrid minecraft\)](https://open.spotify.com/track/6tuT64s0ZkQAkc5KTH9tWt) | [Cutter Cute](https://open.spotify.com/artist/72z72JMenShm382u8BgMLt) | [cayó la noche \(madrid minecraft\)](https://open.spotify.com/album/6BHvlgg6rHQVeFV86NpjC0) | 2:38 |
 
-Snapshot ID: `MCxiZGEyNDA2MWQ0ZGUyNzViODRkM2M3Yjk5M2M1NDBiMGMyNGExYjk3`
+Snapshot ID: `MCwwNTdhMzQxMDQxMGYyNTg5MDQ0ZDlmODU5YzEzNDBiM2E3ZmUwZjIw`

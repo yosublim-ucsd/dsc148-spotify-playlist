@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 700185,
+  "2024-02-04": 700289,
   "date_first_scraped": "2020-10-13",
   "description": "The anti pop archive: tracks added by our editors over the last year. Cover: Gorillaz",
   "name": "anti pop",
@@ -1390,6 +1390,24 @@
     },
     {
       "album": {
+        "name": "Apartment A",
+        "url": "https://open.spotify.com/album/3QZBxL6hF9ePj3qGJw6iPx"
+      },
+      "artists": [
+        {
+          "name": "Isaac Dunbar",
+          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "Apartment A",
+      "url": "https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM"
+    },
+    {
+      "album": {
         "name": "Ethos",
         "url": "https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK"
       },
@@ -2585,7 +2603,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 189338,
       "name": "Bender",
       "url": "https://open.spotify.com/track/0HOGhI5rJXiDaNI3DQ43dz"
@@ -2651,6 +2669,36 @@
       "duration_ms": 153204,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3ljga3HUiAH6jBZ6FTbSSp"
+    },
+    {
+      "album": {
+        "name": "Big Bank (feat. Billy Lemos)",
+        "url": "https://open.spotify.com/album/4dBkm25j36XB7a0669Shi6"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        },
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        },
+        {
+          "name": "See You Next Year",
+          "url": "https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv"
+        },
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Big Bank",
+      "url": "https://open.spotify.com/track/7onMcwREc7risUlE4mDhG4"
     },
     {
       "album": {
@@ -4045,7 +4093,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 180000,
       "name": "California Dream Girl",
       "url": "https://open.spotify.com/track/4luiQl18IztB9tmtn0ACV0"
@@ -8387,7 +8435,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 207486,
       "name": "Familiarity",
       "url": "https://open.spotify.com/track/6hB5O4G6L5xa4r3wKSisH3"
@@ -11985,6 +12033,28 @@
       "duration_ms": 160000,
       "name": "Hit Me Up",
       "url": "https://open.spotify.com/track/0Lhy1sDDdtUFY2pyq2ZVi9"
+    },
+    {
+      "album": {
+        "name": "HITA",
+        "url": "https://open.spotify.com/album/5mkxe82AB3MUJnejMTgYmM"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155498,
+      "name": "HITA",
+      "url": "https://open.spotify.com/track/3tNPtRyxl1bqSvA7X6n5qz"
     },
     {
       "album": {
@@ -19710,6 +19780,32 @@
     },
     {
       "album": {
+        "name": "peace of mind",
+        "url": "https://open.spotify.com/album/7eRDLcNVaoPLT6roRdjPlZ"
+      },
+      "artists": [
+        {
+          "name": "Swansea Skag",
+          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
+        },
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        },
+        {
+          "name": "Tommy Fleece",
+          "url": "https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170895,
+      "name": "peace of mind",
+      "url": "https://open.spotify.com/track/0hh5w9zgdzGcEEt9wZQhPy"
+    },
+    {
+      "album": {
         "name": "Peace Sounds",
         "url": "https://open.spotify.com/album/5PgUA3B3q8OSS4QG9zEFQv"
       },
@@ -20777,7 +20873,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 100714,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va"
@@ -23359,7 +23455,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 182307,
       "name": "Since September",
       "url": "https://open.spotify.com/track/1bB04geBJPO5dLx51CWj5V"
@@ -27619,7 +27715,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 147764,
       "name": "trix",
       "url": "https://open.spotify.com/track/1CwkW8d3LxrMdz99PfN8SQ"
@@ -28196,6 +28292,24 @@
     },
     {
       "album": {
+        "name": "How Do You Sleep At Night? With You",
+        "url": "https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184335,
+      "name": "Up And Down",
+      "url": "https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ"
+    },
+    {
+      "album": {
         "name": "Epochs",
         "url": "https://open.spotify.com/album/4F5BxxBPbLidRGBYdMsGug"
       },
@@ -28323,6 +28437,24 @@
       "duration_ms": 183906,
       "name": "Used To This",
       "url": "https://open.spotify.com/track/7sVIpbgOg5CmHlzRbfvg3u"
+    },
+    {
+      "album": {
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209053,
+      "name": "UUHH",
+      "url": "https://open.spotify.com/track/7sRWSZHTZNdd8cZ0EOSVyK"
     },
     {
       "album": {

@@ -2,14 +2,14 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro está aquí\. Foto: Yarea
+> El futuro está aquí\. Foto: Mushkaa
 
-193 songs - 9 hr 26 min
+195 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100tas](https://open.spotify.com/track/4Wdin6LVBOduIVlCKi8FYK) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [100tas](https://open.spotify.com/album/3UXz1qRHI73JmsNYvklh9W) | 2:28 | 2022-02-17 | 2022-09-09 |
-| [22:22](https://open.spotify.com/track/6sgvEizEWx78hraou2YH1t) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [En qué pienso cuando lloro](https://open.spotify.com/album/2IkrQhvVdddjOMbwiW77nI) | 3:21 | 2023-10-13 |  |
+| [22:22](https://open.spotify.com/track/6sgvEizEWx78hraou2YH1t) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [En qué pienso cuando lloro](https://open.spotify.com/album/2IkrQhvVdddjOMbwiW77nI) | 3:21 | 2023-10-13 | 2024-02-04 |
 | [3 AMIGAS TUYAS](https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa) | [3 AMIGAS TUYAS](https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv) | 3:04 | 2022-02-17 | 2022-09-09 |
 | [A Contraluz](https://open.spotify.com/track/5go70LzuMiSpKWlLn1SzVj) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN) | [A Contraluz](https://open.spotify.com/album/5VlLEWKCcPDWAJecwDeZE9) | 3:07 | 2022-06-06 | 2023-02-08 |
 | [A W](https://open.spotify.com/track/3EEnS8xkMxfvp3BB5xquQ4) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [A W](https://open.spotify.com/album/3n9FQ4ABfG6YRlSDuRadH9) | 2:15 | 2022-09-23 | 2023-03-01 |
@@ -66,6 +66,7 @@
 | [Duro](https://open.spotify.com/track/69v35PjrZ0YV6G2e46aDL9) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Duro](https://open.spotify.com/album/083xEEO2J9kKFQS7vAvxZ9) | 3:12 | 2022-09-22 | 2023-02-08 |
 | [Ego](https://open.spotify.com/track/63Tbdp0N66oYehT5YNhjDP) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Ego](https://open.spotify.com/album/0idabbOWN94aQoL7uwI7Gg) | 2:44 | 2022-06-06 | 2023-02-08 |
 | [Egoísta](https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Egoísta](https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu) | 3:19 | 2022-09-16 | 2023-09-16 |
+| [El Disfraz](https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:44 | 2024-02-03 |  |
 | [En Dos](https://open.spotify.com/track/13Pe624JlpZ8c7Ktjybzav) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [En Dos](https://open.spotify.com/album/7AMe9ECyROJ6z0mQCQUjQ2) | 3:07 | 2022-01-06 | 2022-06-07 |
 | [EN EL CIELO](https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [EN EL CIELO](https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW) | 2:28 | 2022-06-06 | 2023-02-22 |
 | [en ningún lugar](https://open.spotify.com/track/09fMLOWC1wK7DtHRRr1deO) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [en ningún lugar](https://open.spotify.com/album/7fo1vAt1nKL7jUOka8w1At) | 2:42 | 2022-02-17 | 2022-07-29 |
@@ -102,6 +103,7 @@
 | [limón y sal](https://open.spotify.com/track/34V5r1MyrcqpjCx97PI13x) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN), [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [limón y sal](https://open.spotify.com/album/4JN94nMRgfzhvdvJFTTIdh) | 3:26 | 2022-02-03 | 2022-07-15 |
 | [Lloraré por Ti](https://open.spotify.com/track/1fdRQRnVhW0To5a6dekPZr) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [Lloraré por Ti](https://open.spotify.com/album/79X7EqEj7YlMMZDJm6Ug5a) | 3:30 | 2021-12-31 | 2022-02-25 |
 | [loco x ti](https://open.spotify.com/track/4QrwmVAXlhQpNcKuzTXTXo) | [tommy 3 balas](https://open.spotify.com/artist/2toYLRPVyQ0VTBzja0WBBL) | [loco x ti](https://open.spotify.com/album/2kKVW6aAIkNelsKx10gwhW) | 2:27 | 2022-01-27 | 2022-06-07 |
+| [los chicos no lloran](https://open.spotify.com/track/2jD6X6gSLtynew2xj6qHRt) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [los chicos no lloran](https://open.spotify.com/album/7uKY4Ga9A9LDtaAWG7hV2H) | 3:18 | 2024-02-03 |  |
 | [Los niños del parque](https://open.spotify.com/track/3sunz9cdyI0xZI5Om6dHO8) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Los Niños del Parque](https://open.spotify.com/album/6hkJjr8eUF53zDqxXcc4Lf) | 3:17 | 2022-03-17 | 2022-11-12 |
 | [Luna](https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Luna](https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm) | 2:53 | 2022-01-27 | 2022-06-07 |
 | [mala pinta](https://open.spotify.com/track/6Z2peGnKnV0HfDYDcmnTDH) | [Ana Nieto](https://open.spotify.com/artist/7qWNbGsqKxguxCzk3Q7ibn) | [mala pinta](https://open.spotify.com/album/0faycCgPgBxPx6Yf4KYYWc) | 3:02 | 2022-02-03 | 2022-07-15 |
@@ -110,7 +112,7 @@
 | [Me da igual](https://open.spotify.com/track/4qMuAUOsR9JXjBY3bJozwg) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Me da igual](https://open.spotify.com/album/78oy8p5RHzJqSros5EcbVJ) | 2:27 | 2021-12-31 | 2022-02-05 |
 | [Me Enamora](https://open.spotify.com/track/6SPwsGI1IMrflIj83XglJX) | [Lorena Santos](https://open.spotify.com/artist/5ACW0L3lAgfRihTOhV8awe), [La Cebolla](https://open.spotify.com/artist/0UkT6v5uBVrNrDr5TdETq9), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Me Enamora](https://open.spotify.com/album/0J35hFeVvMTuRiklnGihyI) | 3:24 | 2022-01-27 | 2022-07-15 |
 | [me gustas mas que un bigmac](https://open.spotify.com/track/6y669iBVOzMyNG5MfXDMTY) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [me gustas mas que un bigmac](https://open.spotify.com/album/6c9lbnKP3L3RmrfJemWdvq) | 3:19 | 2022-03-31 | 2023-02-08 |
-| [Me Gustas Tanto](https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Me Gustas Tanto](https://open.spotify.com/album/51rmLgJi9VMG2IBqOxUJH2) | 2:01 | 2023-09-15 |  |
+| [Me Gustas Tanto](https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Me Gustas Tanto](https://open.spotify.com/album/51rmLgJi9VMG2IBqOxUJH2) | 2:01 | 2023-09-15 | 2024-02-04 |
 | [Me lo kiero imaginar](https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Belicemanu](https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv) | [Mientras Ando](https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN) | 3:18 | 2022-06-06 | 2023-03-01 |
 | [ME MATA\(S\)](https://open.spotify.com/track/6yFacR2XoribBixsZvXxvg) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [Alex Wall](https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp) | [ME MATA\(S\)](https://open.spotify.com/album/6uUM0HqOhv288VOY0gPvJR) | 3:04 | 2023-02-07 |  |
 | [me pide arder](https://open.spotify.com/track/5fC0z5cbGnSy1YYOvrwX4q) | [Claudia Allmang](https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh) | [me pide arder](https://open.spotify.com/album/59hmNLcpIFBXEq9fArKAJW) | 3:22 | 2021-12-31 | 2022-02-18 |

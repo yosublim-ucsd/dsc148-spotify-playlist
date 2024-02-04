@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kvBlhyEkb6.md) - [plain]
 
 > A thorough introduction to the world of Tchaikovsky, including: dancing swans, brave nutcrackers, enchanted snow maidens and several exploding cannons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,357 likes - 64 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,444 likes - 64 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,6 +71,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kvBlhyEkb6.md) - [plain]
 | 61 | [The Snow Maiden, Op\. 12: II\. Dance And Chorus Of Birds](https://open.spotify.com/track/0uVsdyIZylmtsSojRtEQaM) | [Moscow Symphony Orchestra](https://open.spotify.com/artist/0udLXDzunp4xQRWhMNQPci), [Moscow Capella](https://open.spotify.com/artist/2VND1nZaMhBd4wmmVfu6Mt), [Elena Okolysheva](https://open.spotify.com/artist/4X3ShM5cZAp6Z9bZCnVz8i), [Arkady Mishenkin](https://open.spotify.com/artist/2Y8n1REgBYq8UtrLxXVUR9), [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) | [Tchaikovsky: The Snow Maiden](https://open.spotify.com/album/31kmoS7Ju3ONDFnEBmA0b0) | 7:03 |
 | 62 | [Les saisons \(The Seasons\), Op\. 37b: II\. February: Carnival](https://open.spotify.com/track/7907V5EnTaXspYgFwbLHRA) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Ilya Rashkovsky](https://open.spotify.com/artist/76APdyE2oLl2XECAwSaISQ) | [Tchaikovsky, P.I.: Seasons \(The\) / Piano Sonata in C\-Sharp Minor](https://open.spotify.com/album/5w0XRUOh59yCh18eADG07s) | 2:56 |
 | 63 | [Manfred, Op\. 58: I\. Lento lugubre \- Moderato con moto](https://open.spotify.com/track/1fdUmt0sdFiEWp2utmsCEj) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [Vasily Petrenko](https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q) | [Tchaikovsky, P.I.: Manfred Symphony / Voyevoda](https://open.spotify.com/album/6Mrysf0SmofCn9eeMRQfjl) | 15:44 |
-| 64 | [Symphony No\. 1 in G Minor, Op\. 13 "Winter Daydreams": I\. Daydreams on a Winter Journey \(Allegro tranquillo\)](https://open.spotify.com/track/6pE5uWjUDTSiM338Gvi0Nx) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Mstislav Rostropovich](https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [Tchaikovsky \#violin](https://open.spotify.com/album/2IZ276bmTMJZaG9C9kKUwz) | 12:23 |
+| 64 | [Tchaikovsky: Symphony No\. 1, Op\. 13 "Winter Daydreams": I\. Daydreams on a Winter Journey\. Allegro tranquillo](https://open.spotify.com/track/2ZR3RxDORaaAIzX6eHKFG0) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Mstislav Rostropovich](https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [Tchaikovsky: Swan Lake and Other Masterpieces](https://open.spotify.com/album/7xwRw0xwWOCPVWN3NDg9uq) | 12:23 |
 
-Snapshot ID: `MCxmYmY4NjdmZTA4NTA0YjRjMTUyYzgwOWYyNTk2NDViYWJkZDMzYTRk`
+Snapshot ID: `MCwwZGRlMzczZTliNGUyODhiYzgzYzIyZmM2MzU0NTgwOWMyYzcwODQ5`

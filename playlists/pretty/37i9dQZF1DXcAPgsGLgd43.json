@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3869,
+  "num_followers": 3874,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODU4YjE1YTdkNWQ2YmJhOTc0NDBlZDYwMTE5YTgxMGFjNWE3NGRh",
+  "snapshot_id": "MCwxOWIxMzdkZWI0OGI2ZjMwMTMxMzFhM2ZmMjI3YTRhMDUxMDJmNDc4",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 116361,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Tranquilao",
-        "url": "https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Tranquilao",
-      "url": "https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Delante",
         "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 145908,
       "name": "Delante",
       "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Tranquilao",
+        "url": "https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Tranquilao",
+      "url": "https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1031,22 +1031,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "CKULO",
-        "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
+        "name": "Toma Que Toma",
+        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
       },
       "artists": [
         {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "INNDRIVE",
-          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
         }
       ],
-      "duration_ms": 152523,
-      "name": "CKULO",
-      "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
+      "duration_ms": 227076,
+      "name": "Toma Que Toma",
+      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1075,18 +1071,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Toma Que Toma",
-        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+        "name": "CKULO",
+        "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
         }
       ],
-      "duration_ms": 227076,
-      "name": "Toma Que Toma",
-      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
+      "duration_ms": 152523,
+      "name": "CKULO",
+      "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Labios (La Noche)",
-        "url": "https://open.spotify.com/album/3X8HllC0xAvaYMJ1TevzXG"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 161760,
-      "name": "Labios (La Noche)",
-      "url": "https://open.spotify.com/track/7IXMuwxUl31NmFfisypx7d"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/1P8rURJ1RIue0LD5k8iALc"
       },
@@ -1663,22 +1647,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Q' Pario",
-        "url": "https://open.spotify.com/album/2r5Q18MMpuhbEariH5zTJx"
+        "name": "Labios (La Noche)",
+        "url": "https://open.spotify.com/album/3X8HllC0xAvaYMJ1TevzXG"
       },
       "artists": [
         {
-          "name": "Sunday Noise",
-          "url": "https://open.spotify.com/artist/7GIGyQw9goHVF0MRV4bGRY"
-        },
-        {
-          "name": "Cris Ocana",
-          "url": "https://open.spotify.com/artist/2ZnHDfsIGvemWTMkvKAPuI"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 231562,
-      "name": "Q' Pario",
-      "url": "https://open.spotify.com/track/1WITm8WzXW6sTDvHGKQI4i"
+      "duration_ms": 161760,
+      "name": "Labios (La Noche)",
+      "url": "https://open.spotify.com/track/7IXMuwxUl31NmFfisypx7d"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1699,6 +1679,26 @@
       "duration_ms": 175040,
       "name": "Bandolera (feat. Buza)",
       "url": "https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Q' Pario",
+        "url": "https://open.spotify.com/album/2r5Q18MMpuhbEariH5zTJx"
+      },
+      "artists": [
+        {
+          "name": "Sunday Noise",
+          "url": "https://open.spotify.com/artist/7GIGyQw9goHVF0MRV4bGRY"
+        },
+        {
+          "name": "Cris Ocana",
+          "url": "https://open.spotify.com/artist/2ZnHDfsIGvemWTMkvKAPuI"
+        }
+      ],
+      "duration_ms": 231562,
+      "name": "Q' Pario",
+      "url": "https://open.spotify.com/track/1WITm8WzXW6sTDvHGKQI4i"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1775,22 +1775,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Baila Mi Gente",
-        "url": "https://open.spotify.com/album/0WwClPZncNg0Oqb25jB2q4"
+        "name": "Coraz\u00f3n Parti\u00f3 (feat. Dateless)",
+        "url": "https://open.spotify.com/album/5J1JjIlgMzcTvmR4OwYHH5"
       },
       "artists": [
         {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+          "name": "Franklyn Watts",
+          "url": "https://open.spotify.com/artist/4cS1RS2vIhO2NStH2ktLYn"
         },
         {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+          "name": "Dateless",
+          "url": "https://open.spotify.com/artist/03B64rAQB4s7ewgX3wWYty"
         }
       ],
-      "duration_ms": 160615,
-      "name": "Baila Mi Gente",
-      "url": "https://open.spotify.com/track/6TJvvAp8YA41ZAsZDonWUS"
+      "duration_ms": 370000,
+      "name": "Coraz\u00f3n Parti\u00f3 (feat. Dateless)",
+      "url": "https://open.spotify.com/track/2BCOH9nwaqUadJLOhSRBWP"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1811,22 +1811,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Coraz\u00f3n Parti\u00f3 (feat. Dateless)",
-        "url": "https://open.spotify.com/album/5J1JjIlgMzcTvmR4OwYHH5"
+        "name": "Baila Mi Gente",
+        "url": "https://open.spotify.com/album/0WwClPZncNg0Oqb25jB2q4"
       },
       "artists": [
         {
-          "name": "Franklyn Watts",
-          "url": "https://open.spotify.com/artist/4cS1RS2vIhO2NStH2ktLYn"
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
         },
         {
-          "name": "Dateless",
-          "url": "https://open.spotify.com/artist/03B64rAQB4s7ewgX3wWYty"
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
         }
       ],
-      "duration_ms": 370000,
-      "name": "Coraz\u00f3n Parti\u00f3 (feat. Dateless)",
-      "url": "https://open.spotify.com/track/2BCOH9nwaqUadJLOhSRBWP"
+      "duration_ms": 160615,
+      "name": "Baila Mi Gente",
+      "url": "https://open.spotify.com/track/6TJvvAp8YA41ZAsZDonWUS"
     },
     {
       "added_at": "2024-02-02 05:00:00",

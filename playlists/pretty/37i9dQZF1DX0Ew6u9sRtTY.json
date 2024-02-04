@@ -1,12 +1,12 @@
 {
   "description": "Remember these?",
-  "num_followers": 1239088,
+  "num_followers": 1239264,
   "original_name": "One-Hit Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjAxNzAzN2ExMjQ4OTBjZmY1ZTUyYTYzNDFmMzRjZTcyY2U0YmY3",
+  "snapshot_id": "MCw5ZDE5YjU2MTEzYjQ0MjJhZTgyZTA3NDNhYmMxM2FiYzhmZTIyOGFl",
   "tracks": [
     {
       "added_at": "2018-12-12 11:34:22",
@@ -227,22 +227,6 @@
     {
       "added_at": "2018-12-12 11:34:22",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
-      },
-      "artists": [
-        {
-          "name": "Rachel Platten",
-          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "Fight Song",
-      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
-    },
-    {
-      "added_at": "2018-12-12 11:34:22",
-      "album": {
         "name": "All The Little Lights",
         "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 252733,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
+    },
+    {
+      "added_at": "2018-12-12 11:34:22",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
+      },
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "Fight Song",
+      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
     },
     {
       "added_at": "2018-12-12 11:34:22",

@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 10632,
+  "2024-02-04": 10635,
   "date_first_scraped": "2022-09-09",
   "description": "Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz-helmi\u00e4.",
   "name": "Jazzia Suomesta",
@@ -359,6 +359,24 @@
       "duration_ms": 430533,
       "name": "Bebe",
       "url": "https://open.spotify.com/track/5l3ZxOyIznDtRYxTLFjJcl"
+    },
+    {
+      "album": {
+        "name": "Bem-Te-Vi",
+        "url": "https://open.spotify.com/album/08W5Lh7O9MPbi9HA7wLOS2"
+      },
+      "artists": [
+        {
+          "name": "Joonas Tuuri Quartet",
+          "url": "https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327808,
+      "name": "Bem-Te-Vi",
+      "url": "https://open.spotify.com/track/6kENuGyvjRVUoFtNUVox5F"
     },
     {
       "album": {
@@ -2590,6 +2608,40 @@
     },
     {
       "album": {
+        "name": "Pious Monk",
+        "url": "https://open.spotify.com/album/0xBExVX6he0vuS73oSdqRd"
+      },
+      "artists": [
+        {
+          "name": "Pasilians",
+          "url": "https://open.spotify.com/artist/7zSpcpgQ6nuYkUprUyKPuF"
+        },
+        {
+          "name": "Sami Leponiemi",
+          "url": "https://open.spotify.com/artist/5B0mj0AddmNVtt03xhfNJa"
+        },
+        {
+          "name": "Peter Gyarfas",
+          "url": "https://open.spotify.com/artist/71JSIhDvAIyoDOIRjffcZq"
+        },
+        {
+          "name": "Nathan Francis",
+          "url": "https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc"
+        },
+        {
+          "name": "Aleksi Heinola",
+          "url": "https://open.spotify.com/artist/5YghcykRpkLlLQYJgIQHh2"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267735,
+      "name": "Pious Monk",
+      "url": "https://open.spotify.com/track/3Hgl3ED7hqHxgJMMSvPxXl"
+    },
+    {
+      "album": {
         "name": "Poncho",
         "url": "https://open.spotify.com/album/7n4lTJfOOXLAb5QqkvdfR1"
       },
@@ -3261,6 +3313,28 @@
       "duration_ms": 282333,
       "name": "The Day",
       "url": "https://open.spotify.com/track/7MMdO6NliB7AtFjefzFPd4"
+    },
+    {
+      "album": {
+        "name": "The Duke of Bayou",
+        "url": "https://open.spotify.com/album/5eb2GnP63LvtYiC8MIh42g"
+      },
+      "artists": [
+        {
+          "name": "Timo Lassy",
+          "url": "https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq"
+        },
+        {
+          "name": "Jukka Eskola",
+          "url": "https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229520,
+      "name": "The Duke of Bayou",
+      "url": "https://open.spotify.com/track/3TbvOOIibIxHFJY3yOAC7b"
     },
     {
       "album": {

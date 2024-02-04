@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 742589,
+  "2024-02-04": 742458,
   "date_first_scraped": "2022-10-06",
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
   "name": "NCS Releases",
@@ -1135,6 +1135,28 @@
       "duration_ms": 129332,
       "name": "Burned",
       "url": "https://open.spotify.com/track/3XfD2WZJmaxPOffgQfe88R"
+    },
+    {
+      "album": {
+        "name": "Burning Wish",
+        "url": "https://open.spotify.com/album/6hYHHReXvw9Gv4Tt8JiL3L"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Roniit",
+          "url": "https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153557,
+      "name": "Burning Wish",
+      "url": "https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js"
     },
     {
       "album": {
@@ -4103,7 +4125,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 180000,
       "name": "Hate You",
       "url": "https://open.spotify.com/track/70t5RX4CuclyMt0ocbsUik"

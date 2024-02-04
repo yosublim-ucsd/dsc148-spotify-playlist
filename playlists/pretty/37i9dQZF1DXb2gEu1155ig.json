@@ -1,12 +1,12 @@
 {
   "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 74913,
+  "num_followers": 74963,
   "original_name": "Acapulco en la Azotea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWRjYTNjMDc5MGY3OTRmMWMyZmEzMjM5Mzc3NDExNzBlYWM0N2Fh",
+  "snapshot_id": "MCxiMjY3MGJjYzY3ZWI5ZTNlZGRlOWM3ZTMxOGJhODI1NmQ0YTllMWVh",
   "tracks": [
     {
       "added_at": "2024-01-04 23:44:23",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Album de Oro",
-        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
-      },
-      "artists": [
-        {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
-        }
-      ],
-      "duration_ms": 208640,
-      "name": "Voy a pintar un coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "De Mil Maneras",
         "url": "https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 246733,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Album de Oro",
+        "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Voy a pintar un coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "Lo Nuevo Y\u2026Lo Mejor",
-        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 216346,
-      "name": "El Gigante De Hierro",
-      "url": "https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Entre Nubes",
         "url": "https://open.spotify.com/album/0oFjmp6FMP0vKHrscRXSGc"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 200973,
       "name": "Nubes De Algod\u00f3n",
       "url": "https://open.spotify.com/track/6ix0BzodvL1XYM4tvWLIwn"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 216346,
+      "name": "El Gigante De Hierro",
+      "url": "https://open.spotify.com/track/4HswuCNDyzUiRFfb8DH5Ub"
     },
     {
       "added_at": "2024-01-04 23:44:23",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-01-04 23:44:23",
       "album": {
-        "name": "El Aut\u00e9ntico e Imbatible",
-        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Continental de Alberto Marav\u00ed",
-          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "Llorando Se Fue \"Lambada\"",
-      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
-    },
-    {
-      "added_at": "2024-01-04 23:44:23",
-      "album": {
         "name": "Se Nos Paso La Mano En Sabor",
         "url": "https://open.spotify.com/album/6oL9RVp9PRaVi7ldTgMErs"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 185306,
       "name": "Ag\u00fcita De Mel\u00f3n",
       "url": "https://open.spotify.com/track/67RNKBsqRiyMOtor2RxfWR"
+    },
+    {
+      "added_at": "2024-01-04 23:44:23",
+      "album": {
+        "name": "El Aut\u00e9ntico e Imbatible",
+        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Continental de Alberto Marav\u00ed",
+          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "Llorando Se Fue \"Lambada\"",
+      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
     },
     {
       "added_at": "2024-01-04 23:44:23",

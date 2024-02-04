@@ -1,12 +1,12 @@
 {
   "description": "Throwbacks for that emo kid in all of us. Cover: Paramore ",
-  "num_followers": 196720,
+  "num_followers": 196784,
   "original_name": "Emo Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjlhZWVlOTg1MTNiYzU5NzBkMGVkZjEwNDNiMTE2ODg3ZWIzMDI3",
+  "snapshot_id": "MCw2ZjI1M2QzNjQ4Y2ZlODI5NjQ5NGFkYmMxODRkMjEwN2E0OTA4YWE0",
   "tracks": [
     {
       "added_at": "2022-09-12 15:41:09",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-09-12 15:41:09",
       "album": {
-        "name": "American Idiot - The Original Broadway Cast Recording",
-        "url": "https://open.spotify.com/album/1wO2srr9om17YtEvouoBue"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 262386,
-      "name": "Boulevard of Broken Dreams (feat. John Gallagher Jr., Rebecca Naomi Jones, Stark Sands, The American Idiot Broadway Company)",
-      "url": "https://open.spotify.com/track/41pFyxOpS119Pb8JEzhx0w"
-    },
-    {
-      "added_at": "2022-09-12 15:41:09",
-      "album": {
         "name": "Leaving Through The Window",
         "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 232200,
       "name": "Punk Rock Princess",
       "url": "https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK"
+    },
+    {
+      "added_at": "2022-09-12 15:41:09",
+      "album": {
+        "name": "American Idiot - The Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/1wO2srr9om17YtEvouoBue"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 262386,
+      "name": "Boulevard of Broken Dreams (feat. John Gallagher Jr., Rebecca Naomi Jones, Stark Sands, The American Idiot Broadway Company)",
+      "url": "https://open.spotify.com/track/41pFyxOpS119Pb8JEzhx0w"
     },
     {
       "added_at": "2022-09-12 15:41:09",

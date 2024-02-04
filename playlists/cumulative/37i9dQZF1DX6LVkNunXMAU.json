@@ -3556,7 +3556,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 151653,
       "name": "Nuestras Formas",
       "url": "https://open.spotify.com/track/3FsYdqpzwud7ZRjLRHi21S"
@@ -5354,6 +5354,32 @@
       "duration_ms": 199946,
       "name": "Volar",
       "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
+    },
+    {
+      "album": {
+        "name": "Volc\u00e1n",
+        "url": "https://open.spotify.com/album/4ii6T1Fyt693umGZcYzhP3"
+      },
+      "artists": [
+        {
+          "name": "Agata Prisma",
+          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
+        },
+        {
+          "name": "Leo Salinas",
+          "url": "https://open.spotify.com/artist/3AyxootFsf60iAcaQlOawD"
+        },
+        {
+          "name": "Paula P\u00e1vez",
+          "url": "https://open.spotify.com/artist/2aJMvTqheNrisBUbV9zDPM"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236086,
+      "name": "Volc\u00e1n",
+      "url": "https://open.spotify.com/track/4GxXdJPyw9IPuhBw7wyTNM"
     },
     {
       "album": {

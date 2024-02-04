@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 124107,
+  "2024-02-04": 124107,
   "date_first_scraped": "2024-01-30",
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
   "name": "Chill Singer-Songwriter",
@@ -901,7 +901,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 266999,
       "name": "letting go",
       "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
@@ -1021,6 +1021,32 @@
       "duration_ms": 174489,
       "name": "Love Like That (Words from Her)",
       "url": "https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U"
+    },
+    {
+      "album": {
+        "name": "Strict Joy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6VuvqpeSGgdtJrrmPJFxld"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        },
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287186,
+      "name": "Low Rising",
+      "url": "https://open.spotify.com/track/3JCmCB7e1dazCO2hTEHL6a"
     },
     {
       "album": {

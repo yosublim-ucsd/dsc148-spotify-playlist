@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 7044,
+  "2024-02-04": 7044,
   "date_first_scraped": "2021-11-28",
   "description": "Deep Bass - Melodic Bass - Dubstep - 140 - Downtempo - Dance Music - Tribal Trap - Grime - Future Bass",
   "name": "Deep Bass / Melodic Bass / 140",
@@ -2533,6 +2533,32 @@
       "duration_ms": 291269,
       "name": "Love Conspiration",
       "url": "https://open.spotify.com/track/2ztafS9ba55k5K2pZFYiuQ"
+    },
+    {
+      "album": {
+        "name": "Love Drop",
+        "url": "https://open.spotify.com/album/1OQ8hIELW4uvg58cStDnSd"
+      },
+      "artists": [
+        {
+          "name": "Equanimous",
+          "url": "https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn"
+        },
+        {
+          "name": "HYPERLIGHT",
+          "url": "https://open.spotify.com/artist/6oehyzq3ivxXza1uoSoIi7"
+        },
+        {
+          "name": "K\u00c4T\u0112RI",
+          "url": "https://open.spotify.com/artist/3FUaWBUI4cDMcGItjAMEz7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213395,
+      "name": "Love Drop",
+      "url": "https://open.spotify.com/track/5kWiBobgYb9IHMbKAF14LH"
     },
     {
       "album": {

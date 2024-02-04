@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed no hay nostalgia, \u00a1se vino la pachanga!, y el <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM\">Rock S\u00f3nico</a> tambi\u00e9n!",
-  "num_followers": 373378,
+  "num_followers": 373445,
   "original_name": "Los 90 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjdhMTlhODUxZjVlNDlmZDhkOThmZmM5OGYwNjZmMTJlODk0NzI2",
+  "snapshot_id": "MCw1YmI5ZmVlODk2ZTE0ZmUwZTkxMjAxZTcxYzVkNTg0ZWU0YWU4NDFm",
   "tracks": [
     {
       "added_at": "2022-07-06 20:03:18",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-07-06 20:03:18",
       "album": {
-        "name": "No Me Arrepiento De Este Amor",
-        "url": "https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "No Me Arrepiento de Este Amor",
-      "url": "https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo"
-    },
-    {
-      "added_at": "2022-07-06 20:03:18",
-      "album": {
         "name": "La Mosca y la Sopa",
         "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 206200,
       "name": "Un Poco de Amor Franc\u00e9s",
       "url": "https://open.spotify.com/track/14rcLGX83RpsORAIzC4U4g"
+    },
+    {
+      "added_at": "2022-07-06 20:03:18",
+      "album": {
+        "name": "No Me Arrepiento De Este Amor",
+        "url": "https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "No Me Arrepiento de Este Amor",
+      "url": "https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo"
     },
     {
       "added_at": "2022-07-06 20:03:18",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-07-06 20:03:18",
       "album": {
-        "name": "La Paciencia De La Ara\u00f1a",
-        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 346800,
-      "name": "Avanti Morocha",
-      "url": "https://open.spotify.com/track/411J3pP54W1K9PMo72Fg2w"
-    },
-    {
-      "added_at": "2022-07-06 20:03:18",
-      "album": {
         "name": "Fondo Profundo",
         "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 224973,
       "name": "Fondo Profundo",
       "url": "https://open.spotify.com/track/2g229Q3Relqxkj5CDnTjeE"
+    },
+    {
+      "added_at": "2022-07-06 20:03:18",
+      "album": {
+        "name": "La Paciencia De La Ara\u00f1a",
+        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 346800,
+      "name": "Avanti Morocha",
+      "url": "https://open.spotify.com/track/411J3pP54W1K9PMo72Fg2w"
     },
     {
       "added_at": "2022-07-06 20:03:18",
@@ -619,8 +619,8 @@
     {
       "added_at": "2022-07-06 20:03:18",
       "album": {
-        "name": "Sue\u00f1o Stereo (Remastered)",
-        "url": "https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg"
+        "name": "Canci\u00f3n Animal (Remastered)",
+        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 269760,
-      "name": "Ella Us\u00f3 Mi Cabeza Como Un Rev\u00f3lver - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR"
+      "duration_ms": 246693,
+      "name": "Entre Can\u00edbales - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/0ePI3CMwhjRV3ZWas3gTU9"
     },
     {
       "added_at": "2022-07-06 20:03:18",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-07-06 20:03:18",
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 321173,
-      "name": "El Murguero",
-      "url": "https://open.spotify.com/track/2cDkpGaVD0rbZkUZ6m2mMk"
+      "duration_ms": 343440,
+      "name": "Voy a Vos",
+      "url": "https://open.spotify.com/track/0aWGzetUTb4lJqy2m2nl1i"
     },
     {
       "added_at": "2022-07-06 20:03:18",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-07-06 20:03:18",
       "album": {
-        "name": "Fondo Profundo",
-        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
       },
       "artists": [
         {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         }
       ],
-      "duration_ms": 343440,
-      "name": "Voy a Vos",
-      "url": "https://open.spotify.com/track/0aWGzetUTb4lJqy2m2nl1i"
+      "duration_ms": 321173,
+      "name": "El Murguero",
+      "url": "https://open.spotify.com/track/2cDkpGaVD0rbZkUZ6m2mMk"
     },
     {
       "added_at": "2022-07-06 20:03:18",
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-07-06 20:03:18",
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 261466,
-      "name": "El P\u00e1jaro Vio el Cielo y Se Vol\u00f3",
-      "url": "https://open.spotify.com/track/4smTDf8dKkZXxz66uv5w43"
+      "duration_ms": 349506,
+      "name": "Bye bye",
+      "url": "https://open.spotify.com/track/2mBpqtoVKLzgccfvqUVFpO"
     },
     {
       "added_at": "2022-07-06 20:03:18",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-07-06 20:03:18",
       "album": {
-        "name": "Lo Mejor de Vilma Palma",
-        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
       },
       "artists": [
         {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         }
       ],
-      "duration_ms": 349506,
-      "name": "Bye bye",
-      "url": "https://open.spotify.com/track/2mBpqtoVKLzgccfvqUVFpO"
+      "duration_ms": 261466,
+      "name": "El P\u00e1jaro Vio el Cielo y Se Vol\u00f3",
+      "url": "https://open.spotify.com/track/4smTDf8dKkZXxz66uv5w43"
     },
     {
       "added_at": "2022-07-06 20:03:18",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-07-06 20:03:18",
       "album": {
-        "name": "Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris",
-        "url": "https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn"
-      },
-      "artists": [
-        {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
-        }
-      ],
-      "duration_ms": 363120,
-      "name": "Mujer Amante",
-      "url": "https://open.spotify.com/track/0zLv81RNFByXTZ3wu91y1R"
-    },
-    {
-      "added_at": "2022-07-06 20:03:18",
-      "album": {
         "name": "La Vida Vale La Pena",
         "url": "https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2022-07-06 20:03:18",
       "album": {
+        "name": "Mensajes Del Alma",
+        "url": "https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 362240,
+      "name": "Los Salieris De Charly",
+      "url": "https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj"
+    },
+    {
+      "added_at": "2022-07-06 20:03:18",
+      "album": {
         "name": "Sol en Cinco",
         "url": "https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S"
       },
@@ -1171,22 +1171,6 @@
       "duration_ms": 328813,
       "name": "Nada es para siempre",
       "url": "https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV"
-    },
-    {
-      "added_at": "2022-07-06 20:03:18",
-      "album": {
-        "name": "Mensajes Del Alma",
-        "url": "https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        }
-      ],
-      "duration_ms": 362240,
-      "name": "Los Salieris De Charly",
-      "url": "https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj"
     },
     {
       "added_at": "2022-07-06 20:03:18",
@@ -1255,26 +1239,6 @@
     {
       "added_at": "2022-07-06 20:03:18",
       "album": {
-        "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
-        "url": "https://open.spotify.com/album/01hyoIUPxigjnhfreQOecH"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        },
-        {
-          "name": "Andy Summers",
-          "url": "https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr"
-        }
-      ],
-      "duration_ms": 283466,
-      "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
-      "url": "https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw"
-    },
-    {
-      "added_at": "2022-07-06 20:03:18",
-      "album": {
         "name": "Leche",
         "url": "https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU"
       },
@@ -1303,6 +1267,42 @@
       "duration_ms": 182440,
       "name": "La Yapa",
       "url": "https://open.spotify.com/track/6S7YzdhqrDEbZNGvvJQOqJ"
+    },
+    {
+      "added_at": "2022-07-06 20:03:18",
+      "album": {
+        "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
+        "url": "https://open.spotify.com/album/01hyoIUPxigjnhfreQOecH"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        },
+        {
+          "name": "Andy Summers",
+          "url": "https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr"
+        }
+      ],
+      "duration_ms": 283466,
+      "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
+      "url": "https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw"
+    },
+    {
+      "added_at": "2022-07-06 20:03:18",
+      "album": {
+        "name": "El Cielo Puede Esperar",
+        "url": "https://open.spotify.com/album/2Hq8YjDCJfynzmTgLGVkxJ"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 267760,
+      "name": "Espadas y Serpientes",
+      "url": "https://open.spotify.com/track/6DcmC2JG5bvJ0x2VvhUcKx"
     }
   ],
   "unique_name": "Los 90 Argentina",

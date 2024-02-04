@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 7306,
+  "2024-02-04": 7323,
   "date_first_scraped": "2022-10-04",
   "description": "Music from \"GOLDEN KAMUY\"! /\u30a2\u30cb\u30e1\u300c\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002",
   "name": "GOLDEN KAMUY \u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4",
@@ -72,9 +72,45 @@
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 145200,
+      "name": "Bakumatsu no Bourei",
+      "url": "https://open.spotify.com/track/6iApu8YijX2rYFo57lBNfb"
+    },
+    {
+      "album": {
+        "name": "GOLDEN KAMUY Original Soundtrack",
+        "url": "https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
       "duration_ms": 136400,
       "name": "Fuhai no Ushiyama",
       "url": "https://open.spotify.com/track/2g7hwCAAA8Bem7Wi8St33v"
+    },
+    {
+      "album": {
+        "name": "GOLDEN KAMUY ORIGINAL SOUNDTRACK (III)",
+        "url": "https://open.spotify.com/album/3NhgupAOdPjPFXCKbscWpO"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "Futari no Kyori",
+      "url": "https://open.spotify.com/track/6bsLRp4mkUr3tNpTWVs2Qa"
     },
     {
       "album": {
@@ -93,6 +129,24 @@
       "duration_ms": 160573,
       "name": "Grey",
       "url": "https://open.spotify.com/track/5NKLg5YJdaSfUGfSKbgdCI"
+    },
+    {
+      "album": {
+        "name": "GOLDEN KAMUY Original Soundtrack",
+        "url": "https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159733,
+      "name": "Hakaiyoku",
+      "url": "https://open.spotify.com/track/1cx8Ldxs0AQ1FFGPsjIx62"
     },
     {
       "album": {
@@ -360,6 +414,24 @@
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 141865,
+      "name": "Koroshino Nioi",
+      "url": "https://open.spotify.com/track/76vnbiygCUeFNj3cDqwePC"
+    },
+    {
+      "album": {
+        "name": "GOLDEN KAMUY Original Soundtrack",
+        "url": "https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
       "duration_ms": 105900,
       "name": "Mendoukusai",
       "url": "https://open.spotify.com/track/3jPvcW0ccbYv04ftnK6g01"
@@ -454,6 +526,24 @@
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 203800,
+      "name": "Onna no Kisetsu",
+      "url": "https://open.spotify.com/track/1ibrxfRdtbLGeH5J0MvOLA"
+    },
+    {
+      "album": {
+        "name": "GOLDEN KAMUY Original Soundtrack",
+        "url": "https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
       "duration_ms": 114500,
       "name": "Osoma",
       "url": "https://open.spotify.com/track/2eXotJpowzYBcip7QEBgvH"
@@ -511,6 +601,24 @@
       "duration_ms": 212400,
       "name": "Shingetu no Yoru ni",
       "url": "https://open.spotify.com/track/2Y5atAcF2cDhrLLrdRtym7"
+    },
+    {
+      "album": {
+        "name": "GOLDEN KAMUY Original Soundtrack",
+        "url": "https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269566,
+      "name": "Shukufuku sareta Michi",
+      "url": "https://open.spotify.com/track/7geCdtcCDHBgWVO1VmKtfR"
     },
     {
       "album": {
@@ -604,6 +712,24 @@
     },
     {
       "album": {
+        "name": "GOLDEN KAMUY Original Soundtrack",
+        "url": "https://open.spotify.com/album/0YBuX3TnGd5ncjWZXROdPv"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230300,
+      "name": "Ushinawareta Kinkai",
+      "url": "https://open.spotify.com/track/5Mzh6drZHNWitm8mpebSNf"
+    },
+    {
+      "album": {
         "name": "Take Me Under / Winding Road",
         "url": "https://open.spotify.com/album/0ucSy38HOq1jRTtbHVgtZV"
       },
@@ -687,7 +813,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 183666,
       "name": "\u3075\u305f\u308a\u306e\u8ddd\u96e2",
       "url": "https://open.spotify.com/track/323lf8m7iDbTRtMrQEzdcb"
@@ -925,7 +1051,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 230300,
       "name": "\u596a\u308f\u308c\u305f\u91d1\u584a",
       "url": "https://open.spotify.com/track/0958HJ9NWgZL3qLf40aNOf"
@@ -943,7 +1069,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 203800,
       "name": "\u5973\u306e\u5b63\u7bc0",
       "url": "https://open.spotify.com/track/06Jnpv5dz4m34ngvXlIEV9"
@@ -961,7 +1087,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 145200,
       "name": "\u5e55\u672b\u306e\u4ea1\u970a",
       "url": "https://open.spotify.com/track/44PSvZ6X3IS4reRgqhHJ37"
@@ -1069,7 +1195,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 141865,
       "name": "\u6bba\u3057\u306e\u5302\u3044",
       "url": "https://open.spotify.com/track/43sqLLmiiulez3cMoNZrY2"
@@ -1177,7 +1303,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 159733,
       "name": "\u7834\u58ca\u6b32",
       "url": "https://open.spotify.com/track/5A05RfYF8YNJjpPJl64l2M"
@@ -1195,7 +1321,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 269566,
       "name": "\u795d\u798f\u3055\u308c\u305f\u9053",
       "url": "https://open.spotify.com/track/0gn0PuJp28jvVVSLJG04rZ"

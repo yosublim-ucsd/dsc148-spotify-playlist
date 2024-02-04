@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 1862,
+  "2024-02-04": 1862,
   "date_first_scraped": "2021-12-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM\">Sarah Aarons</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Sarah Aarons",
@@ -481,7 +481,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 179213,
       "name": "distance",
       "url": "https://open.spotify.com/track/24zaoEGmRjgA0zt47uLgRF"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 182080,
       "name": "Free Spirit",
       "url": "https://open.spotify.com/track/2kAIpGWnlFLQh48iut6Zzq"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 250653,
       "name": "GIRL",
       "url": "https://open.spotify.com/track/0pGXe7umwkcCm01Ipoxp0U"
@@ -1543,7 +1543,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 185933,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/0LbZLBBZI1NfaDgb4dx0UD"
@@ -2307,7 +2307,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 238499,
       "name": "say it over (feat. Cautious Clay)",
       "url": "https://open.spotify.com/track/4jSE5cAaa5rwTyhDSXfwQN"
@@ -2561,7 +2561,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 210400,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0I20rLT2MJDhcF96AjbNYo"
@@ -2707,7 +2707,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
@@ -2887,7 +2887,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 218239,
       "name": "Tie Me Down (with Elley Duh\u00e9)",
       "url": "https://open.spotify.com/track/2zh01m4PiHaZz4BAm0NRxs"
@@ -3229,7 +3229,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 222320,
       "name": "Younger",
       "url": "https://open.spotify.com/track/2qXicQG06oT0ijKBznpgQv"

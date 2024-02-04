@@ -4,7 +4,7 @@
 
 > Conscious songs for everyday reflection.
 
-107 songs - 7 hr 42 min
+108 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Keep Running](https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Burn Right Through](https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em) | 4:11 | 2020-11-25 |  |
 | [Laps Around The Sun](https://open.spotify.com/track/4gf9Ka2doSbbVM2xygDhle) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/3Eb3PtLKMC4oP8BBdjByvR) | 3:24 | 2020-11-25 | 2022-07-28 |
 | [Laps Around The Sun](https://open.spotify.com/track/3U0UzEdzd45T81FHdPPbfC) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/6JYmn58l1Lj90pF1a9mdh5) | 3:26 | 2020-11-25 | 2024-02-03 |
+| [Laps Around The Sun](https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O) | 3:26 | 2023-01-03 |  |
 | [Letter to Lady J](https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Location 13 \(Deluxe Version\)](https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc) | 4:15 | 2020-11-25 |  |
 | [Letter to Lady J](https://open.spotify.com/track/7w8A5XvLWLVmeaVZIwa7Cn) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Location 13 \(Deluxe Version\)](https://open.spotify.com/album/79SDUqJy7ucLKD0nfXJaVB) | 4:15 | 2020-11-25 | 2022-10-14 |
 | [Lifeguard](https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [Take Your Power Back](https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT) | 3:27 | 2020-11-25 |  |
@@ -89,7 +90,7 @@
 | [Storm Boy](https://open.spotify.com/track/7J4GmvwgVBKMS6BAWnhLwB) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Storm Boy](https://open.spotify.com/album/1hVCb34MRa3jaxuah3HHT7) | 3:59 | 2020-11-25 |  |
 | [Storm Boy](https://open.spotify.com/track/1JLefnfRa3hBj16IXiR3bb) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Storm Boy \(Summer Mix\)](https://open.spotify.com/album/4IXIhA6aDUSE1L3duROdW6) | 3:59 | 2020-11-25 | 2022-07-26 |
 | [Strength In One](https://open.spotify.com/track/4P9FHUCbqSq3xxvQLf0HzV) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Strength In One](https://open.spotify.com/album/2xdVExzi5zrygsVIWkPvCu) | 4:00 | 2020-11-25 | 2023-01-04 |
-| [Stronger \(Acoustic\)](https://open.spotify.com/track/59pRM3QqvTJkiGmzgDU1Jk) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Stronger \(Acoustic\)](https://open.spotify.com/album/1ga7jpZ0eXUsXDq0ym9dbd) | 3:03 | 2020-11-25 |  |
+| [Stronger \(Acoustic\)](https://open.spotify.com/track/59pRM3QqvTJkiGmzgDU1Jk) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Stronger \(Acoustic\)](https://open.spotify.com/album/1ga7jpZ0eXUsXDq0ym9dbd) | 3:03 | 2020-11-25 | 2024-02-04 |
 | [Stronger \- Acoustic](https://open.spotify.com/track/4iip1qIgTsVQGNNXxpYV09) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Stronger \(Acoustic\)](https://open.spotify.com/album/6XcdZEX9Snsp4l2KHcSyl7) | 3:03 | 2020-11-25 | 2022-07-27 |
 | [Summertime \(feat\. Citizen Cope\)](https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 | 2020-11-25 |  |
 | [Summertime \(feat\. Citizen Cope\)](https://open.spotify.com/track/3gR5vEwHrvEntTYnzxZXEd) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [Summertime \(feat\. Citizen Cope\)](https://open.spotify.com/album/19EF3cr5bfiQFPGEg4Te8L) | 3:59 | 2020-11-25 | 2022-07-29 |

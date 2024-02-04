@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Latin Mafia y Humbe en portada.",
-  "num_followers": 110093,
+  "num_followers": 110131,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWVmMzE0YWNiYzQ5YzIyZjllYWQwNGZkNDIzYjk0NmMwODk4NjU4",
+  "snapshot_id": "MCw2MTI3NmZhMmQ5NjZkOGQ0NmJkMGFkYmMzMjc5ZWQxMDQ0NDdmYTc4",
   "tracks": [
     {
       "added_at": "2024-02-02 19:30:26",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-02-02 19:30:26",
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 188742,
+      "name": "DOM1NGO",
+      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
+    },
+    {
+      "added_at": "2024-02-02 19:30:26",
+      "album": {
         "name": "PARA AMARTE A TI",
         "url": "https://open.spotify.com/album/1tEOuO5jMejA2FyFr4lSlT"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 215156,
       "name": "PARA AMARTE A TI",
       "url": "https://open.spotify.com/track/5ZMucBMCG8iq0KuEZHLwYy"
-    },
-    {
-      "added_at": "2024-02-02 19:30:26",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 188742,
-      "name": "DOM1NGO",
-      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
     },
     {
       "added_at": "2024-02-02 19:30:26",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-02-02 19:30:26",
       "album": {
-        "name": "La Baby",
-        "url": "https://open.spotify.com/album/6sowfPq2DeL2VDArb7pUlj"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "La Baby",
-      "url": "https://open.spotify.com/track/460Zx6PCNYFHaA1A9rjiNL"
-    },
-    {
-      "added_at": "2024-02-02 19:30:26",
-      "album": {
         "name": "Qui\u00e9n Pudiera?",
         "url": "https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 186500,
       "name": "Parece un Sue\u00f1o",
       "url": "https://open.spotify.com/track/1DXAuCkxL3hdcLjBkvUxgN"
+    },
+    {
+      "added_at": "2024-02-02 19:30:26",
+      "album": {
+        "name": "La Baby",
+        "url": "https://open.spotify.com/album/6sowfPq2DeL2VDArb7pUlj"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "La Baby",
+      "url": "https://open.spotify.com/track/460Zx6PCNYFHaA1A9rjiNL"
     },
     {
       "added_at": "2024-02-02 19:30:26",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-02-02 19:30:26",
       "album": {
-        "name": "Dopamina",
-        "url": "https://open.spotify.com/album/0dEUjKmUXbLnRZUPfpnvVA"
-      },
-      "artists": [
-        {
-          "name": "Joonti",
-          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Dopamina",
-      "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
-    },
-    {
-      "added_at": "2024-02-02 19:30:26",
-      "album": {
         "name": "Wiken",
         "url": "https://open.spotify.com/album/1ox4d9yLgy7AURDHxO5ToP"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 223643,
       "name": "Wiken",
       "url": "https://open.spotify.com/track/3wiQHn5XtL4jSnIetSCGA8"
+    },
+    {
+      "added_at": "2024-02-02 19:30:26",
+      "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/0dEUjKmUXbLnRZUPfpnvVA"
+      },
+      "artists": [
+        {
+          "name": "Joonti",
+          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/4Y9SjgJOMppiqp7GwmW7LS"
     },
     {
       "added_at": "2024-02-02 19:30:26",
@@ -943,26 +943,18 @@
     {
       "added_at": "2024-02-02 19:30:26",
       "album": {
-        "name": "Curvas",
-        "url": "https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT"
+        "name": "1UNAMORSUPREMO",
+        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
       },
       "artists": [
         {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        },
-        {
-          "name": "Claruz",
-          "url": "https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv"
-        },
-        {
-          "name": "Floyd",
-          "url": "https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2"
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
         }
       ],
-      "duration_ms": 168004,
-      "name": "Curvas",
-      "url": "https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI"
+      "duration_ms": 240680,
+      "name": "SUFICIENTEPUNTOWAV",
+      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
     },
     {
       "added_at": "2024-02-02 19:30:26",
@@ -983,18 +975,26 @@
     {
       "added_at": "2024-02-02 19:30:26",
       "album": {
-        "name": "1UNAMORSUPREMO",
-        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
+        "name": "Curvas",
+        "url": "https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT"
       },
       "artists": [
         {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        },
+        {
+          "name": "Claruz",
+          "url": "https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv"
+        },
+        {
+          "name": "Floyd",
+          "url": "https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2"
         }
       ],
-      "duration_ms": 240680,
-      "name": "SUFICIENTEPUNTOWAV",
-      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+      "duration_ms": 168004,
+      "name": "Curvas",
+      "url": "https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI"
     },
     {
       "added_at": "2024-02-02 19:30:26",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-02-02 19:30:26",
       "album": {
-        "name": "Nervios de Acero",
-        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "Nervios de Acero",
-      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
-    },
-    {
-      "added_at": "2024-02-02 19:30:26",
-      "album": {
         "name": "VIL\u00c3",
         "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 192853,
       "name": "Vem Por Cima",
       "url": "https://open.spotify.com/track/1VeGot9OEjti5tUbd7VuLi"
+    },
+    {
+      "added_at": "2024-02-02 19:30:26",
+      "album": {
+        "name": "Nervios de Acero",
+        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "Nervios de Acero",
+      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
     },
     {
       "added_at": "2024-02-02 19:30:26",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-02-02 19:30:26",
       "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
-    },
-    {
-      "added_at": "2024-02-02 19:30:26",
-      "album": {
         "name": "Caliope",
         "url": "https://open.spotify.com/album/5DVrsMjDWl9a7xUGjIpYJa"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 202528,
       "name": "Caliope",
       "url": "https://open.spotify.com/track/7LS0dVaYiiVQcSRl3HDUxS"
+    },
+    {
+      "added_at": "2024-02-02 19:30:26",
+      "album": {
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     },
     {
       "added_at": "2024-02-02 19:30:26",
@@ -1831,22 +1831,18 @@
     {
       "added_at": "2024-02-02 19:30:26",
       "album": {
-        "name": "YNQNP",
-        "url": "https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa"
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD"
       },
       "artists": [
         {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
         }
       ],
-      "duration_ms": 150186,
-      "name": "YNQNP",
-      "url": "https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD"
+      "duration_ms": 158643,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP"
     }
   ],
   "unique_name": "R&B Latino",

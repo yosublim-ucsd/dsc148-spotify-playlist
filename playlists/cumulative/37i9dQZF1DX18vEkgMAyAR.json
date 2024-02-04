@@ -154,10 +154,32 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 197052,
       "name": "Belong",
       "url": "https://open.spotify.com/track/573RbecAqWAVbmMQXPjO1m"
+    },
+    {
+      "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/59EAaGnlNp2GVjnMB4MeGn"
+      },
+      "artists": [
+        {
+          "name": "Pascal & Pearce",
+          "url": "https://open.spotify.com/artist/05EUuIFVDSu6ZquGa7wSny"
+        },
+        {
+          "name": "Yoav",
+          "url": "https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/5lPf1wQtNQDq78Y2KvcDZA"
     },
     {
       "album": {

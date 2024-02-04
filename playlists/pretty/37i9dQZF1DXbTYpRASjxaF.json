@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Iza Sabino, Laura Sette",
-  "num_followers": 128285,
+  "num_followers": 128289,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2M2ZTc3YmM0N2FkNTIxMGQ0YmJjNjc1MGJkYWJiZTgzN2U3N2Ux",
+  "snapshot_id": "MCxiMDkwNTRkOTIyZjA5ZDk2NTI2ZTE3NmYwYzQ4NzAyMGNiMDEzODNi",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -967,6 +967,26 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Namora & Disfar\u00e7a (Bonus Track)",
+        "url": "https://open.spotify.com/album/3pGBkEvbU4alqs6dzJXeAS"
+      },
+      "artists": [
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "duration_ms": 102400,
+      "name": "Namora & Disfar\u00e7a - Bonus Track",
+      "url": "https://open.spotify.com/track/3qm36Zh1qGQC2PHDQNdify"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 166736,
       "name": "Copo de Bebida",
       "url": "https://open.spotify.com/track/19bPpmsrRlG5BJASqaqevf"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Namora & Disfar\u00e7a (Bonus Track)",
-        "url": "https://open.spotify.com/album/3pGBkEvbU4alqs6dzJXeAS"
-      },
-      "artists": [
-        {
-          "name": "Abbot",
-          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        }
-      ],
-      "duration_ms": 102400,
-      "name": "Namora & Disfar\u00e7a - Bonus Track",
-      "url": "https://open.spotify.com/track/3qm36Zh1qGQC2PHDQNdify"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1079,6 +1079,54 @@
       "duration_ms": 130369,
       "name": "Primeiro de Maio (Gostosas Inteligentes)",
       "url": "https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Diamante",
+        "url": "https://open.spotify.com/album/1yoIUirGVCs4WyqfkNYxCN"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Neo BXD",
+          "url": "https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73"
+        },
+        {
+          "name": "Oreozin",
+          "url": "https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG"
+        },
+        {
+          "name": "Lugu",
+          "url": "https://open.spotify.com/artist/2hZVWxeW8FEmNFN4T0uLBh"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "NGC Records",
+          "url": "https://open.spotify.com/artist/3t4E7kLWhNyO08VJRA5xx7"
+        }
+      ],
+      "duration_ms": 362602,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/407XSWc8UYwjp9BfGyMIcZ"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1163,70 +1211,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Diamante",
-        "url": "https://open.spotify.com/album/1yoIUirGVCs4WyqfkNYxCN"
-      },
-      "artists": [
-        {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Neo BXD",
-          "url": "https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73"
-        },
-        {
-          "name": "Oreozin",
-          "url": "https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG"
-        },
-        {
-          "name": "Lugu",
-          "url": "https://open.spotify.com/artist/2hZVWxeW8FEmNFN4T0uLBh"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "NGC Records",
-          "url": "https://open.spotify.com/artist/3t4E7kLWhNyO08VJRA5xx7"
-        }
-      ],
-      "duration_ms": 362602,
-      "name": "Diamante",
-      "url": "https://open.spotify.com/track/407XSWc8UYwjp9BfGyMIcZ"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Fontalis / N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
-        "url": "https://open.spotify.com/album/1zdNrq0tgTQLNFohKDBXQl"
-      },
-      "artists": [
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        }
-      ],
-      "duration_ms": 91890,
-      "name": "N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
-      "url": "https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Secretbox, Vol. 4",
         "url": "https://open.spotify.com/album/7yN4aGc9NRspnq0SfpI6BS"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 203968,
       "name": "BODY SPLASH",
       "url": "https://open.spotify.com/track/1Otda8Q4YEIF427qbsaF8m"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Fontalis / N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
+        "url": "https://open.spotify.com/album/1zdNrq0tgTQLNFohKDBXQl"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        }
+      ],
+      "duration_ms": 91890,
+      "name": "N\u00f3s \u00c9 Rei N\u00e3o Tem Jeito",
+      "url": "https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Naipe Vagabundo",
-        "url": "https://open.spotify.com/album/2EBo00f8mLpLWtZHdlaATT"
-      },
-      "artists": [
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
-        }
-      ],
-      "duration_ms": 136383,
-      "name": "Naipe Vagabundo",
-      "url": "https://open.spotify.com/track/0gUYr9h0KIYEDW3yZpKDm9"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Bem-vindo a Armadilha Brasileira",
         "url": "https://open.spotify.com/album/6djuaxmB22F71KPU0A7CrU"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 144003,
       "name": "VALENTINO",
       "url": "https://open.spotify.com/track/3GlI062UstXPkDZjSwAi4L"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Naipe Vagabundo",
+        "url": "https://open.spotify.com/album/2EBo00f8mLpLWtZHdlaATT"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        }
+      ],
+      "duration_ms": 136383,
+      "name": "Naipe Vagabundo",
+      "url": "https://open.spotify.com/track/0gUYr9h0KIYEDW3yZpKDm9"
     },
     {
       "added_at": "2024-02-02 03:01:00",

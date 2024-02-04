@@ -4,7 +4,7 @@
 
 > sensual roots & indie folk.
 
-125 songs - 8 hr 15 min
+126 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Everybody Here Wants You](https://open.spotify.com/track/76478Z6x3jH8SdSo18vP6k) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk](https://open.spotify.com/album/6xgKRIMW4HHGXUpfJ6aRuL) | 4:44 | 2021-03-19 | 2022-07-29 |
 | [Everybody Here Wants You](https://open.spotify.com/track/2bcvooA6HEmVUneEGJnNZD) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk \(Expanded Edition\)](https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng) | 4:46 | 2021-03-19 |  |
 | [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 | 2024-01-03 |  |
+| [Forever](https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Forever](https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt) | 3:28 | 2024-02-02 |  |
 | [Forget \- Live from Spotify, NYC](https://open.spotify.com/track/1gpyfbutOl79qgVjMrZQOe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Spotify Sessions](https://open.spotify.com/album/6YYarhAfY1nBoYsDichIts) | 4:38 | 2021-03-19 | 2022-11-13 |
 | [Graceland Too](https://open.spotify.com/track/1WCjhRs2WBgyeGaybCX2Po) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:56 | 2024-01-03 |  |
 | [Green Eyes](https://open.spotify.com/track/1FoCSrNyUVF00C8foohH2G) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:50 | 2021-03-19 |  |
@@ -105,7 +106,7 @@
 | [Strawberry Wine](https://open.spotify.com/track/66wJkV0KgbGSBHkHDd8tp2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 4:45 | 2024-01-19 |  |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2024-01-03 |  |
 | [The Wisp Sings](https://open.spotify.com/track/7nDXmx3FuyeX7FI7PFl2iX) | [Winter Aid](https://open.spotify.com/artist/15S89CUJtshT2P7WIa2M5l) | [The Wisp Sings: 10th Anniversary Edition](https://open.spotify.com/album/4VNB4ehPs8SKVVn6QAvHp2) | 5:13 | 2024-01-03 |  |
-| [Thirty](https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Weather Station](https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ) | 3:40 | 2021-03-19 |  |
+| [Thirty](https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Weather Station](https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ) | 3:40 | 2021-03-19 | 2024-02-04 |
 | [Thirty](https://open.spotify.com/track/4zP4mkNgtK75UsscbVsVyZ) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Thirty](https://open.spotify.com/album/4y3zrJympvQWVLfVGAe626) | 3:40 | 2021-03-19 | 2022-07-29 |
 | [This Love](https://open.spotify.com/track/3n8kBPX0lpVKYgD1yggXtx) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [The Memory Machine](https://open.spotify.com/album/75XyHNjHSXppcskLvbwmCc) | 3:31 | 2021-03-19 | 2022-07-28 |
 | [This Love](https://open.spotify.com/track/6QaZxL2jD5dzo58Q4tJuFz) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [The Memory Machine \(Bonus Track Version\)](https://open.spotify.com/album/7wbjHm0tJw1sp6zzlwUd41) | 3:31 | 2021-03-19 | 2022-11-13 |

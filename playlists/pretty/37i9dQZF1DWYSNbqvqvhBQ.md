@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: FRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,234 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,224 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 74 | [Higher Love](https://open.spotify.com/track/1fYN7EbQCFgz7rhy7zoUfU) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Higher Love](https://open.spotify.com/album/7MZZANSLtVsVBCXsXMdow9) | 3:00 |
 | 75 | [American Town](https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:17 |
 
-Snapshot ID: `MCw0OGM5MjAxZWEzNmE3ZWZjZTY0OWQwYWJlYWI3ZDk4YWRhMTI3MmI4`
+Snapshot ID: `MCwyMGYyMzI0ODRlZTA1M2E2MDdhMWI1NmM0MDFlNGU1OTc4NTZmZDQy`

@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Kelly Clarkson
 
-215 songs - 11 hr 44 min
+216 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/43hPyoE1vsz3VnvBDupq5B) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 3:20 | 2022-11-10 |  |
 | [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 | 2022-12-02 |  |
 | [christmas dream](https://open.spotify.com/track/5rXnCsVZqIajZ7iEGXExbv) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for christmas](https://open.spotify.com/album/0NenoS449ulgwbz6vGx3ui) | 2:30 | 2023-11-06 |  |
-| [Christmas Dreaming](https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:33 | 2023-11-15 |  |
+| [Christmas Dreaming](https://open.spotify.com/track/2IChCRHxRCVbo8i2zP4NVF) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3) | 2:33 | 2023-12-13 |  |
+| [Christmas Dreaming](https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:33 | 2023-11-15 | 2024-02-04 |
 | [Christmas Eve](https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:21 | 2021-12-12 |  |
 | [Christmas Eve](https://open.spotify.com/track/6Zztw1ERHqXAngHE8PfO6N) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:43 | 2021-12-12 | 2023-10-18 |
 | [Christmas Got Colder](https://open.spotify.com/track/5OOavrga0WgJlOei52P9h1) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [a heartfelt holiday](https://open.spotify.com/album/39RsW9bJUFYT8ena41A4P1) | 2:09 | 2021-12-12 | 2022-12-03 |

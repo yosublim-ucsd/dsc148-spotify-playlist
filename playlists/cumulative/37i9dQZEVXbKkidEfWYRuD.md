@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,373 songs - 2 day 15 hr 24 min
+1,374 songs - 2 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -752,7 +752,7 @@
 | [Азбука](https://open.spotify.com/track/6bqT9F2wP82zkBqMpIz0G5) | [Boulevard Depo](https://open.spotify.com/artist/7dH8w9flSy9w81ilr0xXWe), [SP4K](https://open.spotify.com/artist/1ju3JsvJuNAMjxoIqaSP7R) | [QWERTY LANG](https://open.spotify.com/album/4nQp6yhjeUyc2KDg5I6z1R) | 2:07 | 2021-12-12 | 2021-12-19 |
 | [Акид](https://open.spotify.com/track/79hOg2OcECgvRGGeX0XJuZ) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA), [Mnogoznaal](https://open.spotify.com/artist/16ZNqMkDZrzd8fTXeN2kUH) | [Акид](https://open.spotify.com/album/5Qcbacw3rlqaXFpbIL5Ys6) | 2:41 | 2021-12-18 | 2021-12-31 |
 | [АМИРИ](https://open.spotify.com/track/64hVeHHQqFy8TJSVA2LHP3) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [KRAZY](https://open.spotify.com/album/4qe8UTp8frpwXXUsHB2QB8) | 2:42 | 2021-08-29 | 2021-08-30 |
-| [Антидепрессант](https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 2:00 | 2023-02-20 |  |
+| [Антидепрессант](https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 2:00 | 2023-02-20 | 2024-02-04 |
 | [Антикобыла \(prod\. by SHEEPY\)](https://open.spotify.com/track/3Qef8ytrSaKyKFFHhULLdx) | [Daybe](https://open.spotify.com/artist/3kD7WYKPDrC4C9SwFh7XLD), [Tenderlybae](https://open.spotify.com/artist/1Z4CxuvNuVKnKrGQfRcEFl) | [Антикобыла \(prod\. by SHEEPY\)](https://open.spotify.com/album/68PYgNVBFk9xrSRLLwoMp1) | 2:32 | 2022-01-24 | 2022-02-03 |
 | [Апноэ](https://open.spotify.com/track/3yKY5Y679RcRQtkqvGOuie) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Апноэ](https://open.spotify.com/album/6XSUhrgB3jPfeWSqm03hqS) | 2:29 | 2023-05-27 | 2023-05-30 |
 | [Атомы](https://open.spotify.com/track/7y1WqPSwsFO26f8GtQz71M) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi) | [DIGITAL FANTAZY](https://open.spotify.com/album/5QtUYUoSG9HPhYnAro9GYj) | 1:45 | 2021-10-10 | 2021-10-16 |
@@ -1327,6 +1327,7 @@
 | [Чи разом?](https://open.spotify.com/track/7IRfUFRIarTp8a8Yxa83Nl) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Чи разом?](https://open.spotify.com/album/2Sz6c15TjlldLotq4jv3rd) | 2:38 | 2022-06-08 | 2022-10-02 |
 | [Чистый \- OST «Псих»](https://open.spotify.com/track/2Z0OcpA4i1KayJbXn800le) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Чистый \(OST «Псих»\)](https://open.spotify.com/album/6S3SHxve1g8S1v71Vlq3YP) | 3:13 | 2021-03-27\* | 2021-10-03 |
 | [Чорнобрива](https://open.spotify.com/track/4N822HhhcRrVKuX3Ni9L0T) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Чорнобрива](https://open.spotify.com/album/3myNezgi10ScmGwJ7hwBsx) | 2:13 | 2022-10-16 | 2023-07-18 |
+| [ЧСВ](https://open.spotify.com/track/05wSx129HwVCEpXpjAXn6X) | [Lida](https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV), [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [ЧСВ](https://open.spotify.com/album/7thnTMZ6YHfUgaARJIl0eG) | 3:20 | 2024-02-03 |  |
 | [Чувствую](https://open.spotify.com/track/6bxulgo5iAC3yK1haIXWhJ) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 3:35 | 2021-12-03 | 2021-12-09 |
 | [Чупа Чупс](https://open.spotify.com/track/5UtiZpBDi7Ikgic4QrhbO5) | [Eldzhey](https://open.spotify.com/artist/0Cm90jv892OeEegB3ELmvN), [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Чупа Чупс](https://open.spotify.com/album/0uNDcaG1JjXrknJUKRNtqb) | 2:16 | 2021-12-25 | 2021-12-27 |
 | [Чути гімн](https://open.spotify.com/track/4Yzlz45QgjUKZmN2KrK4AP) | [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [Чути гімн](https://open.spotify.com/album/4CDvAEwF29rYx7Jg2bpl22) | 2:28 | 2022-07-30 | 2023-10-29 |

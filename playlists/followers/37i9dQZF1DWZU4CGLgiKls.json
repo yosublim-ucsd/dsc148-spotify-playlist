@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 563998,
+  "2024-02-04": 563933,
   "date_first_scraped": "2023-08-25",
   "description": "Se viene el partido, la previa es con m\u00fasica!",
   "name": "Previa Futbolera",
@@ -961,7 +961,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 363120,
       "name": "Mujer Amante",
       "url": "https://open.spotify.com/track/4eCrF1FgVL4se3AkHOnLDL"
@@ -1211,6 +1211,24 @@
       "duration_ms": 151324,
       "name": "PUNTO G",
       "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
+    },
+    {
+      "album": {
+        "name": "Mystic Love",
+        "url": "https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
     },
     {
       "album": {

@@ -2517,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "I Don't Care Anymore (Acoustic)",
+        "url": "https://open.spotify.com/album/5HaLKxgY6mP43Rs1JNYbt7"
+      },
+      "artists": [
+        {
+          "name": "HELLYEAH",
+          "url": "https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247294,
+      "name": "I Don't Care Anymore - Acoustic",
+      "url": "https://open.spotify.com/track/5Je7sK7Fu1FteAEalxpQgv"
+    },
+    {
+      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -4726,7 +4744,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 242666,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/1NdfWHmjZkJDi1YpgoBZyS"

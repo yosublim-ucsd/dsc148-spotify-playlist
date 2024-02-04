@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 21486,
+  "num_followers": 21516,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTVmYzc5ZGRkNGM5ZjJiNTRkYmJjNDU1ZWM4ZWM0YWI4ZTI4Mjgz",
+  "snapshot_id": "MCwwN2JiNjllODVlM2ZlOWI0YmRhYWIyMGE2OWU0OGQyZmI4Njk0NmYx",
   "tracks": [
     {
       "added_at": "2024-02-02 05:52:59",
@@ -89,7 +89,7 @@
       "artists": [
         {
           "name": "KJ Spio",
-          "url": "https://open.spotify.com/artist/72Rav2u2DeRPJuA44Ng0n0"
+          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
         },
         {
           "name": "Oxlade",
@@ -691,26 +691,6 @@
     {
       "added_at": "2024-02-02 05:52:59",
       "album": {
-        "name": "AREA BOYZ",
-        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 250920,
-      "name": "AREA BOYZ PRAYER (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS"
-    },
-    {
-      "added_at": "2024-02-02 05:52:59",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/1BiQOEEHtZyvkY8gpjbxml"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 149457,
       "name": "Water",
       "url": "https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH"
+    },
+    {
+      "added_at": "2024-02-02 05:52:59",
+      "album": {
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "AREA BOYZ PRAYER (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS"
     },
     {
       "added_at": "2024-02-02 05:52:59",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-02-02 05:52:59",
       "album": {
-        "name": "Quick Question",
-        "url": "https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Quick Question",
-      "url": "https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb"
-    },
-    {
-      "added_at": "2024-02-02 05:52:59",
-      "album": {
         "name": "Wrist On Freeze",
         "url": "https://open.spotify.com/album/26WFXsghAL2Q78J83hIwjK"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 187500,
       "name": "Wrist On Freeze",
       "url": "https://open.spotify.com/track/0SQhNk3xObQHvq3NFpIbj4"
+    },
+    {
+      "added_at": "2024-02-02 05:52:59",
+      "album": {
+        "name": "Quick Question",
+        "url": "https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Quick Question",
+      "url": "https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb"
     },
     {
       "added_at": "2024-02-02 05:52:59",
@@ -859,6 +859,26 @@
     {
       "added_at": "2024-02-02 05:52:59",
       "album": {
+        "name": "Jowo",
+        "url": "https://open.spotify.com/album/0vtBtHGWGE1f6OwlWfA9V4"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 163130,
+      "name": "Jowo",
+      "url": "https://open.spotify.com/track/6x4Kpfpwx9Eld9qbexRiX2"
+    },
+    {
+      "added_at": "2024-02-02 05:52:59",
+      "album": {
         "name": "Rora",
         "url": "https://open.spotify.com/album/1uZCXiwB6JKI6Z9bSejdzC"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 143762,
       "name": "Rora",
       "url": "https://open.spotify.com/track/5Qj74EnGXZ0V2TGzUKlZuq"
-    },
-    {
-      "added_at": "2024-02-02 05:52:59",
-      "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 108823,
-      "name": "NAIJA SHAWTY (feat. Victony)",
-      "url": "https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr"
     },
     {
       "added_at": "2024-02-02 05:52:59",
@@ -939,6 +939,26 @@
       "duration_ms": 168480,
       "name": "Sa Me",
       "url": "https://open.spotify.com/track/0JHLFj7g5S6PVL0sBl7mxR"
+    },
+    {
+      "added_at": "2024-02-02 05:52:59",
+      "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 108823,
+      "name": "NAIJA SHAWTY (feat. Victony)",
+      "url": "https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr"
     },
     {
       "added_at": "2024-02-02 05:52:59",
@@ -999,26 +1019,6 @@
     {
       "added_at": "2024-02-02 05:52:59",
       "album": {
-        "name": "Make E No Cause Fight 3",
-        "url": "https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "42",
-      "url": "https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA"
-    },
-    {
-      "added_at": "2024-02-02 05:52:59",
-      "album": {
         "name": "Lemons (Lemonade)",
         "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
       },
@@ -1059,22 +1059,22 @@
     {
       "added_at": "2024-02-02 05:52:59",
       "album": {
-        "name": "Jowo",
-        "url": "https://open.spotify.com/album/0vtBtHGWGE1f6OwlWfA9V4"
+        "name": "Make E No Cause Fight 3",
+        "url": "https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56"
       },
       "artists": [
         {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
         }
       ],
-      "duration_ms": 163130,
-      "name": "Jowo",
-      "url": "https://open.spotify.com/track/6x4Kpfpwx9Eld9qbexRiX2"
+      "duration_ms": 171272,
+      "name": "42",
+      "url": "https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA"
     },
     {
       "added_at": "2024-02-02 05:52:59",
@@ -1139,30 +1139,6 @@
     {
       "added_at": "2024-02-02 05:52:59",
       "album": {
-        "name": "Sweet Life",
-        "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        },
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        }
-      ],
-      "duration_ms": 186401,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
-    },
-    {
-      "added_at": "2024-02-02 05:52:59",
-      "album": {
         "name": "Waka Jeje (feat. Bnxn)",
         "url": "https://open.spotify.com/album/1jGHHoZvMuag4ENa30G9F9"
       },
@@ -1203,26 +1179,6 @@
     {
       "added_at": "2024-02-02 05:52:59",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD"
-      },
-      "artists": [
-        {
-          "name": "Iyanya",
-          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 180745,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/1J12nWQKjodPf436e61Orp"
-    },
-    {
-      "added_at": "2024-02-02 05:52:59",
-      "album": {
         "name": "Breakfast in Lagos",
         "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
       },
@@ -1247,6 +1203,26 @@
     {
       "added_at": "2024-02-02 05:52:59",
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD"
+      },
+      "artists": [
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 180745,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/1J12nWQKjodPf436e61Orp"
+    },
+    {
+      "added_at": "2024-02-02 05:52:59",
+      "album": {
         "name": "Sundress",
         "url": "https://open.spotify.com/album/4l3mnirO3XZxLKHIQ0c3cK"
       },
@@ -1267,6 +1243,30 @@
       "duration_ms": 132837,
       "name": "Sundress",
       "url": "https://open.spotify.com/track/3UoasjQP4cTckRtun7sL3D"
+    },
+    {
+      "added_at": "2024-02-02 05:52:59",
+      "album": {
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        },
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        }
+      ],
+      "duration_ms": 186401,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
     },
     {
       "added_at": "2024-02-02 05:52:59",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2024-02-02 05:52:59",
       "album": {
+        "name": "L.I.T.A",
+        "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 228470,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj"
+    },
+    {
+      "added_at": "2024-02-02 05:52:59",
+      "album": {
         "name": "Permission - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1hUr66rPGJ5efTaN4qWLWC"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
-    },
-    {
-      "added_at": "2024-02-02 05:52:59",
-      "album": {
-        "name": "L.I.T.A",
-        "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
-      },
-      "artists": [
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 228470,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj"
     },
     {
       "added_at": "2024-02-02 05:52:59",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2024-02-02 05:52:59",
       "album": {
+        "name": "No Shame",
+        "url": "https://open.spotify.com/album/6nj9nvIsSYSezQPksr0cdj"
+      },
+      "artists": [
+        {
+          "name": "Sean Tizzle",
+          "url": "https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 165550,
+      "name": "No Shame",
+      "url": "https://open.spotify.com/track/3y9iCvODKvCNhJxOurBKMK"
+    },
+    {
+      "added_at": "2024-02-02 05:52:59",
+      "album": {
         "name": "BIG TIME (Deluxe)",
         "url": "https://open.spotify.com/album/6od58yWAflemDXwGLtzUWd"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 167355,
       "name": "Anticipate",
       "url": "https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA"
-    },
-    {
-      "added_at": "2024-02-02 05:52:59",
-      "album": {
-        "name": "AMEN",
-        "url": "https://open.spotify.com/album/1HNJe2oOOTJFm04zLVaOB5"
-      },
-      "artists": [
-        {
-          "name": "Moelogo",
-          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
-        },
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "AMEN",
-      "url": "https://open.spotify.com/track/3GGqmMO9i3fS3kONWUsSxE"
     }
   ],
   "unique_name": "Afro Chill",

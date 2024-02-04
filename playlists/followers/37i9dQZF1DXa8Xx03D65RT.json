@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 441651,
+  "2024-02-04": 441597,
   "date_first_scraped": "2022-07-19",
   "description": "La sutileza del piano para enriquecer tu espacio.",
   "name": "Piano de Fondo",
@@ -2607,7 +2607,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 151666,
       "name": "Dimman",
       "url": "https://open.spotify.com/track/0VCR5yJWXT3FQHuBFPhTm2"
@@ -6583,6 +6583,24 @@
       "duration_ms": 172750,
       "name": "Litany",
       "url": "https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9"
+    },
+    {
+      "album": {
+        "name": "Littoral",
+        "url": "https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC"
+      },
+      "artists": [
+        {
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141216,
+      "name": "Littoral",
+      "url": "https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd"
     },
     {
       "album": {
@@ -12085,7 +12103,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 128000,
       "name": "To You Again",
       "url": "https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu"
@@ -13281,6 +13299,24 @@
       "duration_ms": 163570,
       "name": "Whatever Begins, Also Ends",
       "url": "https://open.spotify.com/track/2rPnJ16EtULbPM6c3MeNhP"
+    },
+    {
+      "album": {
+        "name": "Whatever is left",
+        "url": "https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q"
+      },
+      "artists": [
+        {
+          "name": "Noemi Lucas",
+          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123628,
+      "name": "Whatever is left",
+      "url": "https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM"
     },
     {
       "album": {

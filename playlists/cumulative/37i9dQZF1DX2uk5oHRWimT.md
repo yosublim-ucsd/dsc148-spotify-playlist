@@ -4,7 +4,7 @@
 
 > Have yourself a little cozy Christmas.
 
-212 songs - 12 hr 45 min
+213 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [All Is Grace](https://open.spotify.com/track/7n8i5Srn6mjSZQhVHpUrJq) | [Gerard and the Watchmen](https://open.spotify.com/artist/1Zx6dcD3aCON2ch3IgVYNC) | [Wooden Castles](https://open.spotify.com/album/1ZfTOI23jmRq3CaJ8dtfhi) | 1:50 | 2021-11-09 |  |
 | [Angel \(Holiday\)](https://open.spotify.com/track/5mb6YQWIVJ44alLjCZmGTT) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 2:02 | 2022-11-21 |  |
 | [Angels We Have Heard on High](https://open.spotify.com/track/41acBwmsazBajcgBiJZtJP) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [The Songs the Season Brings, Vols\. 1\-4](https://open.spotify.com/album/6GLUn1i6c7EeyGemSgddOm) | 2:14 | 2021-11-09 |  |
-| [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 | 2023-11-20 |  |
+| [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 | 2023-11-20 | 2024-02-04 |
+| [Another Year](https://open.spotify.com/track/2PjhrIf3ro6skhdBHAUl1P) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/4QqbHVOhj56RKsBTHBxw9x) | 4:16 | 2023-12-01 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/3hpq8jEIKgTRQHSTjpsNZY) | [Betsy Phillips](https://open.spotify.com/artist/3m3VhgcmqGV93tHZiOFrId), [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Auld Lang Syne](https://open.spotify.com/album/1ks0JpE2S3GixJUdKsUJ67) | 2:19 | 2021-11-09 |  |
 | [Auld Lang Syne \(Acoustic Version\)](https://open.spotify.com/track/5jBQiN221tbZckBghFBNAD) | [Loving Caliber](https://open.spotify.com/artist/6psCCMHymYfQy6VvYRr6cs) | [Auld Lang Syne \(Acoustic Version\)](https://open.spotify.com/album/6QG2pi4v7LeDkYkeZ330Lf) | 3:18 | 2021-11-09 |  |
 | [Avalanche](https://open.spotify.com/track/0Kyxsaxjph9rfEru2uXIGu) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [Miles and Miles](https://open.spotify.com/album/16ZBD2rfhcmite2xZ4prJT) | 4:25 | 2021-11-09 |  |

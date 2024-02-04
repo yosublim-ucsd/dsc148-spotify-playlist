@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,828 songs - 2 day 21 hr 36 min
+1,829 songs - 2 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1673,6 +1673,7 @@
 | [Train Ride](https://open.spotify.com/track/1wHe3rj4X3t64ysy8s6iI1) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Train Ride](https://open.spotify.com/album/75LJ0BirgujfrO2VNXNSIh) | 1:52 | 2023-04-20 |  |
 | [Tranquil Tides](https://open.spotify.com/track/2FbdA2Akmxb66isZd5dXat) | [Driftwood](https://open.spotify.com/artist/3HG6BbRz8XH4DjjBBfrU3V) | [Tranquil Tides](https://open.spotify.com/album/2elUyyvaI5oUQx1D14na16) | 2:29 | 2023-08-03 | 2023-10-27 |
 | [Tranquil Twilight](https://open.spotify.com/track/22zMUlKVs4jOX5BBPrftUc) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Tranquil Twilight](https://open.spotify.com/album/3PZQWTZ50FwGQfJczPcDlA) | 2:00 | 2023-09-15 |  |
+| [Transformational](https://open.spotify.com/track/6ryGqXtiG3azBVqCFBHIM8) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [Transformational](https://open.spotify.com/album/33sLB9fqQdTsZTq572ROkz) | 3:31 | 2024-02-02 |  |
 | [transient beach](https://open.spotify.com/track/30eLFH6K8Dro6bUQ6hGvrl) | [gnerf](https://open.spotify.com/artist/74bY9Mn9CdYFwFSkoDDxmP) | [transient beach](https://open.spotify.com/album/1TVeo9z2FlgRQ0XuKXZpju) | 2:27 | 2022-09-09 |  |
 | [Treetop Sailing](https://open.spotify.com/track/6FuMCYsA26hstQJohldRQa) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Treetop Sailing](https://open.spotify.com/album/79DKmURpkKUELitlP23E8m) | 2:38 | 2022-04-15 | 2022-12-03 |
 | [Trick or beats?](https://open.spotify.com/track/52azPQfTvTNPnXlokpRisV) | [Quest!on? Mark](https://open.spotify.com/artist/0MV7n8tOF8J4xkyYEyKy9D) | [Trick or beats?](https://open.spotify.com/album/5AvPIh8bM06LUXbpj1UUTR) | 2:38 | 2022-04-15 | 2022-05-13 |
@@ -1749,7 +1750,7 @@
 | [Walking Through Rainbows](https://open.spotify.com/track/67zPAbFFnnVhQdfVhHDqTM) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM), [Ngyn](https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Walking Through Rainbows](https://open.spotify.com/album/5D9XTz50hVBrWmajZa4QGj) | 2:42 | 2022-09-16 | 2023-01-07 |
 | [Walking Through The Stars](https://open.spotify.com/track/0iTZSbxozdf64p3ozCo8d5) | [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX), [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6) | [Walking Through The Stars](https://open.spotify.com/album/7gqBpFvwPy7Ygkp62K0IpH) | 1:56 | 2022-12-02 | 2023-09-16 |
 | [wall colors.](https://open.spotify.com/track/3NcBc9qshhcySWH721OHWR) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [wall colors.](https://open.spotify.com/album/1x9txLbApbNCcc0Lx6F6GH) | 2:22 | 2022-04-15 | 2023-03-02 |
-| [Waltz of the Ancients](https://open.spotify.com/track/0v54Uruqd5UyzfifVVaHUK) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Runa](https://open.spotify.com/album/59m5jt7eZk4og1QhHT4YHf) | 2:03 | 2024-02-02 |  |
+| [Waltz of the Ancients](https://open.spotify.com/track/0v54Uruqd5UyzfifVVaHUK) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Runa](https://open.spotify.com/album/59m5jt7eZk4og1QhHT4YHf) | 2:03 | 2024-02-02 | 2024-02-04 |
 | [wanderlust](https://open.spotify.com/track/3H4uTtG1wEOaEgMt5TuTim) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [wanderlust](https://open.spotify.com/album/0Nf2gi4zB4TQ4PZme0xgZo) | 2:09 | 2023-06-06 | 2023-10-06 |
 | [warm & orange](https://open.spotify.com/track/6wXSZsRZ1vxooWZ4W9yWHG) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [warm & orange](https://open.spotify.com/album/4jvL1JGNrNs90TPPvE6iXW) | 3:06 | 2023-01-20 |  |
 | [Warm Breeze](https://open.spotify.com/track/39Sa33g3e6ILORXGjjQ6y0) | [gsky.](https://open.spotify.com/artist/2eOqRtl9EiC51P6KiUtIV3) | [Warm Breeze](https://open.spotify.com/album/2QmF2hYspOaGflrbUNKi7u) | 2:01 | 2022-04-15 | 2022-08-12 |

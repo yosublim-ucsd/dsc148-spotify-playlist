@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 246872,
+  "2024-02-04": 246994,
   "date_first_scraped": "2022-07-19",
   "description": "Una bella banda sonora que acompa\u00f1ar\u00e1 tu tiempo de lectura.",
   "name": "M\u00fasica para Leer",
@@ -1799,7 +1799,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 213904,
       "name": "Crystal Depths",
       "url": "https://open.spotify.com/track/1Yyi70Exy9YlfKn6o0ciSO"
@@ -2195,7 +2195,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 159139,
       "name": "Dijon",
       "url": "https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB"
@@ -2865,7 +2865,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 149250,
       "name": "Fable",
       "url": "https://open.spotify.com/track/5peqXtg8QfwrtkAVsX0hrf"
@@ -2905,6 +2905,24 @@
       "duration_ms": 162136,
       "name": "Fading Embers",
       "url": "https://open.spotify.com/track/2zlwHdQh0b72gUeMhkRwkR"
+    },
+    {
+      "album": {
+        "name": "Fading Memories",
+        "url": "https://open.spotify.com/album/7oGS56kXMWPPHV0wslzNPc"
+      },
+      "artists": [
+        {
+          "name": "Halgeir Nielsen",
+          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140977,
+      "name": "Fading Memories",
+      "url": "https://open.spotify.com/track/2Wl7eARO5COsvP4dNYDV9Q"
     },
     {
       "album": {
@@ -3261,7 +3279,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 139263,
       "name": "Forbidden Chords",
       "url": "https://open.spotify.com/track/22MdrHbM2paKQswcbjHEsR"
@@ -3459,7 +3477,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 163500,
       "name": "Free Ground",
       "url": "https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT"
@@ -4399,7 +4417,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 134000,
       "name": "Hymne d'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/1BMXuo67CPYuccFQO0r0v9"
@@ -4435,7 +4453,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 137226,
       "name": "I found you",
       "url": "https://open.spotify.com/track/53LdGm0FF9hIH4GY1aytqr"
@@ -4471,7 +4489,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 138126,
       "name": "I Rette Tid",
       "url": "https://open.spotify.com/track/0CIVRRNufQLSNuD0ODckGm"
@@ -4925,7 +4943,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 147186,
       "name": "Island",
       "url": "https://open.spotify.com/track/2qglfm0H0hUuL4SwQHtuWj"
@@ -5987,7 +6005,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 145313,
       "name": "Love Will Set Us Free",
       "url": "https://open.spotify.com/track/4vO8oT2rdWcCzHYTEcoJGl"
@@ -6023,7 +6041,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 156372,
       "name": "Luce Stellare",
       "url": "https://open.spotify.com/track/3JFkFQzyMjfZxhPneUDSsk"
@@ -6293,7 +6311,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 152000,
       "name": "Matria",
       "url": "https://open.spotify.com/track/03wyufh9uNomZdlKIcQ0E4"
@@ -6383,7 +6401,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Memories In Red",
       "url": "https://open.spotify.com/track/7oj0ajSBpsNjSZAL51fIAM"
@@ -6603,7 +6621,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 152374,
       "name": "Moon Song",
       "url": "https://open.spotify.com/track/2QBAV31pJ1kQZBQvNERwKZ"
@@ -7359,7 +7377,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 126476,
       "name": "One Step After Another",
       "url": "https://open.spotify.com/track/1zMF82eiy28XdnIpQeZc5t"
@@ -7413,7 +7431,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 133151,
       "name": "Oph\u00e9lia",
       "url": "https://open.spotify.com/track/6TgKautKqkRvvbaJcGCRxr"
@@ -7521,7 +7539,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 276250,
       "name": "Ornamental",
       "url": "https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm"
@@ -8637,7 +8655,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 123373,
       "name": "Restzeit",
       "url": "https://open.spotify.com/track/6LTRQ62pQFSr1OmmDYyzVy"
@@ -9321,7 +9339,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 151185,
       "name": "Shadow Lake",
       "url": "https://open.spotify.com/track/670ju7vreYMZdh22AfhQ9N"
@@ -9357,7 +9375,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 206956,
       "name": "Shapes of Shadows",
       "url": "https://open.spotify.com/track/2UxUFKb6Fo7zxrjQVNXEGz"
@@ -9609,7 +9627,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 159473,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/2tMIlCle6lIekbKOBtKxaT"
@@ -10369,7 +10387,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 142750,
       "name": "Symposium",
       "url": "https://open.spotify.com/track/2FJiWb3xZQmuZhNYZRK2bJ"
@@ -11089,7 +11107,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 136640,
       "name": "Tormenta De Oto\u00f1o",
       "url": "https://open.spotify.com/track/5WVCbYEPtvdQvf3orHgExh"
@@ -11183,6 +11201,24 @@
       "duration_ms": 121951,
       "name": "Traces",
       "url": "https://open.spotify.com/track/5F9n6BJytzN6kqEQR2wv05"
+    },
+    {
+      "album": {
+        "name": "Tranquil Landscape",
+        "url": "https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta"
+      },
+      "artists": [
+        {
+          "name": "Ametrine Skies",
+          "url": "https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Tranquil Landscape",
+      "url": "https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG"
     },
     {
       "album": {
@@ -11791,7 +11827,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 164009,
       "name": "Vibrio",
       "url": "https://open.spotify.com/track/41hbWopsUNj8lqbtOMDspW"
@@ -12083,7 +12119,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "Wednesday, Weaving",
       "url": "https://open.spotify.com/track/6JT1GBWsCgfhjkkzGwQ5so"
@@ -12461,7 +12497,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 143500,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu"

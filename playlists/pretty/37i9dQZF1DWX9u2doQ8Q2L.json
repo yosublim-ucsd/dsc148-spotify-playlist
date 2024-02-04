@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 384685,
+  "num_followers": 384682,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTA1MWI3OTI4MjdhY2M0YzkzNzI1NmNjNTlkNGVhNTY4MmYzZTQ1",
+  "snapshot_id": "MCwyOGIxYWVkZDcwYmVkZGYyNGIzNGNmYTNlOGVjNmY4NzI0MDkxMTE3",
   "tracks": [
     {
       "added_at": "2024-02-01 15:00:00",
@@ -76,7 +76,7 @@
           "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
         }
       ],
-      "duration_ms": 237122,
+      "duration_ms": 237106,
       "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa"
     },
@@ -1252,7 +1252,7 @@
       "added_at": "2024-02-01 15:00:00",
       "album": {
         "name": "Final Girl",
-        "url": "https://open.spotify.com/album/1Biax0BCWarMhtWhdsgAfm"
+        "url": "https://open.spotify.com/album/0GZZCnHOMUx134tHJqocIm"
       },
       "artists": [
         {
@@ -1262,7 +1262,7 @@
       ],
       "duration_ms": 210811,
       "name": "Final Girl",
-      "url": "https://open.spotify.com/track/7wpVsVWTKPUpgvaRQNrOVa"
+      "url": "https://open.spotify.com/track/3mNo6Wh3QfKh8yBymGumBA"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-        "url": "https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 203011,
-      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-      "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "ZERO",
         "url": "https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 266693,
       "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3067\u3088\u308d\u3057\u304f",
       "url": "https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+        "url": "https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 203011,
+      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+      "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "WE'LL DIE THIS WAY",
-        "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
-      },
-      "artists": [
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "PRO",
-      "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "OKACHIMACHI FRIDAY NIGHT",
         "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
       },
@@ -1543,38 +1527,6 @@
       "duration_ms": 198088,
       "name": "OKACHIMACHI FRIDAY NIGHT",
       "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
-        "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
-        "url": "https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq"
-      },
-      "artists": [
-        {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
-        }
-      ],
-      "duration_ms": 235814,
-      "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
-        "name": "PRIVATE",
-        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1595,6 +1547,54 @@
       "duration_ms": 253718,
       "name": "6 Years In The Game (feat. Awich)",
       "url": "https://open.spotify.com/track/5Xdkl9fc87XMF17yspWsdj"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "WE'LL DIE THIS WAY",
+        "url": "https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "PRO",
+      "url": "https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "PRIVATE",
+        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "duration_ms": 235814,
+      "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
     },
     {
       "added_at": "2024-02-01 15:00:00",

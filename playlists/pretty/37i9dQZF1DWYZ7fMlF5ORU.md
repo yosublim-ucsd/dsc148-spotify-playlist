@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,526 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,597 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 4 | [Te Agradeço](https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Cânticos I](https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm) | 4:26 |
 | 5 | [Estado De Graça \- Ao Vivo](https://open.spotify.com/track/5lDcuC16NaVZkjWRvAtTIe) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Preto No Branco 3 \(Ao Vivo\)](https://open.spotify.com/album/17f5CLg1zIf55tqhEjCV41) | 4:45 |
 | 6 | [Avante](https://open.spotify.com/track/3z9SRMvGQ0mr25ocM2LovO) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Avante](https://open.spotify.com/album/6UKKAW3dSSxUiegAUfRLqG) | 3:23 |
-| 7 | [Não Pare de Crer](https://open.spotify.com/track/5c9H63Ch7zPugB36knsHmc) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 2:46 |
-| 8 | [provérbios 16](https://open.spotify.com/track/4Te7CWux7EKyXmhBUZbpCU) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [o Dono do tempo](https://open.spotify.com/album/0d9lKsIyRHmeOhYisKGUGu) | 4:07 |
+| 7 | [provérbios 16](https://open.spotify.com/track/4Te7CWux7EKyXmhBUZbpCU) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [o Dono do tempo](https://open.spotify.com/album/0d9lKsIyRHmeOhYisKGUGu) | 4:07 |
+| 8 | [Não Pare de Crer](https://open.spotify.com/track/5c9H63Ch7zPugB36knsHmc) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 2:46 |
 | 9 | [Um Pouco do Que Deus Fez](https://open.spotify.com/track/1F2NsHxUk1qDckkHfPtEzp) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Essência](https://open.spotify.com/album/6gh1cKg6cQvjSSmJMKVPhm) | 3:22 |
 | 10 | [Os Anjos Te Louvam \- Ao Vivo](https://open.spotify.com/track/4tOew5u9pgzElc0RcH3bgy) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Luz Do Mundo \(Ao Vivo\)](https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj) | 4:13 |
 | 11 | [Permanecer](https://open.spotify.com/track/5Jrh9mDvWKTCWbUhyqKThN) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Ele Continua Sendo Deus](https://open.spotify.com/album/5gsyztW15tySbiLjc9OmkH) | 2:46 |
-| 12 | [Bem Perto](https://open.spotify.com/track/2QWC0k9TjXqyLrF1W8c8IJ) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Bem Perto](https://open.spotify.com/album/5rRpDFmpjetBCTQDTDRIZV) | 3:50 |
-| 13 | [Betel \- Ao Vivo](https://open.spotify.com/track/7eFlDGti9RtnzJ9OaWybjo) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Betel \(Ao Vivo\)](https://open.spotify.com/album/13DnNshXTWvEXoXpAeC9IE) | 4:24 |
+| 12 | [Betel \- Ao Vivo](https://open.spotify.com/track/7eFlDGti9RtnzJ9OaWybjo) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Betel \(Ao Vivo\)](https://open.spotify.com/album/13DnNshXTWvEXoXpAeC9IE) | 4:24 |
+| 13 | [Bem Perto](https://open.spotify.com/track/2QWC0k9TjXqyLrF1W8c8IJ) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Bem Perto](https://open.spotify.com/album/5rRpDFmpjetBCTQDTDRIZV) | 3:50 |
 | 14 | [Graça](https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 5:33 |
 | 15 | [Me Faz Viver](https://open.spotify.com/track/2RESyS5FZ5CUzkir51jQKT) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 1](https://open.spotify.com/album/7AJY52qnMHN6z1xn1F0isE) | 4:19 |
 | 16 | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/track/3GlzRz4Qwsv1Yyi5gK9wJu) | [Sync 3](https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ), [Ericka Nascimento](https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia) | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/album/34uPojzD7hB4Gq9wr0FRUP) | 4:03 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 42 | [O Céu É o Limite](https://open.spotify.com/track/7d3BPwhS1MLufNHPWhM7rD) | [FLG](https://open.spotify.com/artist/7xf7H8QcLCbhkCTBngAhFX), [Binhu](https://open.spotify.com/artist/2nHUTqOWnonUf8hmQBmAgE) | [O Céu É o Limite](https://open.spotify.com/album/4QX2r7tjScwYK7SGdEf1dn) | 4:43 |
 | 43 | [Vamos Celebrar](https://open.spotify.com/track/0ozg7GYG3shAiJuSzOQYBf) | [Riverson Vianna](https://open.spotify.com/artist/4DYzAMk5cxRH2EkavJqDhN) | [Vamos Celebrar](https://open.spotify.com/album/4ueLg77lcJouxNJkzpJM82) | 3:52 |
 | 44 | [Aleluia](https://open.spotify.com/track/14EMbN1HUrgQsXQInLmn94) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Aleluia](https://open.spotify.com/album/1nT9F98Aluuo222Nbh3ClI) | 2:51 |
-| 45 | [Eu Grito](https://open.spotify.com/track/3lS32PJ4mTSOUbj1VJsxbL) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Eu Grito](https://open.spotify.com/album/5NLoHON627RjW4wRiha4q1) | 4:33 |
-| 46 | [Oh Glória, Aleluia](https://open.spotify.com/track/7awaT6tbK6XztSx1UsAixR) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Tua Graça Me Basta](https://open.spotify.com/album/6YHWwYgIvDdXEs8x23x9a2) | 3:45 |
+| 45 | [Oh Glória, Aleluia](https://open.spotify.com/track/7awaT6tbK6XztSx1UsAixR) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Tua Graça Me Basta](https://open.spotify.com/album/6YHWwYgIvDdXEs8x23x9a2) | 3:45 |
+| 46 | [Eu Grito](https://open.spotify.com/track/3lS32PJ4mTSOUbj1VJsxbL) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Eu Grito](https://open.spotify.com/album/5NLoHON627RjW4wRiha4q1) | 4:33 |
 | 47 | [A Noiva \- Ao Vivo](https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [A Noiva \(Ao Vivo\)](https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o) | 5:43 |
 | 48 | [Brighter Day \- Kirk's Mix](https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [A Season Of Remixes](https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV) | 4:11 |
 | 49 | [Cântico Novo](https://open.spotify.com/track/2JwayPaEZNwn8qY3LoSotg) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Cântico Novo](https://open.spotify.com/album/4QdKBokUDI0dnm3nJ2FKPK) | 2:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 79 | [Viver O Amor \- Ao Vivo](https://open.spotify.com/track/1jKezE2CPZGiaywCIDFlpD) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Viver O Amor \(Ao Vivo\)](https://open.spotify.com/album/10DzETP5qOEaaDf98uuB39) | 3:50 |
 | 80 | [Todos São Iguais \- Ao Vivo](https://open.spotify.com/track/1nvQzQaL7lEOtyGz3W3jgi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [João Alexandre](https://open.spotify.com/artist/5kgQN9xPuWYGxVzsJb86Hx) | [Todos São Iguais \(Ao Vivo\)](https://open.spotify.com/album/7ejMECw1J8l2h7vv08H1JA) | 4:16 |
 
-Snapshot ID: `MCxhZjg0YWUyNDU1ZjE3YWMzNDllN2IxNmRmMDE0YmY0OWMxM2U4NjNk`
+Snapshot ID: `MCxkMjYyN2EwNWRmNmU5MzE1MjM0NmQ2NmQ5YzRhZDIyMWQ4MTk2NzAy`

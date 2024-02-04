@@ -994,7 +994,7 @@
     {
       "album": {
         "name": "Quand vient la nuit",
-        "url": "https://open.spotify.com/album/033hyagZK3RzlViVRIaW0f"
+        "url": "https://open.spotify.com/album/27TkfDjxPTD8vhzSzVdrtY"
       },
       "artists": [
         {
@@ -1005,6 +1005,24 @@
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 196133,
+      "name": "D\u00e9p\u00eache-toi",
+      "url": "https://open.spotify.com/track/0UTdvTTUauenSec2LiNuup"
+    },
+    {
+      "album": {
+        "name": "Quand vient la nuit",
+        "url": "https://open.spotify.com/album/033hyagZK3RzlViVRIaW0f"
+      },
+      "artists": [
+        {
+          "name": "Weekend Affair",
+          "url": "https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-04",
       "duration_ms": 196133,
       "name": "D\u00e9p\u00eache-toi",
       "url": "https://open.spotify.com/track/6tJz8gWCfs5amDvH7JTFyd"

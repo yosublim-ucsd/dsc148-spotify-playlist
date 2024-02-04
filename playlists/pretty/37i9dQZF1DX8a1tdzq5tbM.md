@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,475,627 likes - 120 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,476,130 likes - 120 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 21 | [Heaven](https://open.spotify.com/track/0KT6DLAELYSbgfUemzwGPX) | [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT), [Yanou](https://open.spotify.com/artist/5SWX583ExJOL7cv8572Crs), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Heaven](https://open.spotify.com/album/15UjVcCwrMwAEPzAoVrZ55) | 3:55 |
 | 22 | [Heads Will Roll \- A\-Trak Remix Radio Edit](https://open.spotify.com/track/0vBpyfpW2lARGh3AZFtWRi) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll](https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV) | 3:23 |
 | 23 | [Call On Me \- Radio Edit](https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me](https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587) | 2:49 |
-| 24 | [Toca's Miracle \- Radio Edit](https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Toca \(20th Anniversary Edition\)](https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH) | 3:20 |
-| 25 | [Insomnia \- Radio Edit](https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Headliners](https://open.spotify.com/album/6ptnlw9K2gpKuocxaO8F2N) | 3:35 |
+| 24 | [Insomnia \- Radio Edit](https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Headliners](https://open.spotify.com/album/6ptnlw9K2gpKuocxaO8F2N) | 3:35 |
+| 25 | [Toca's Miracle \- Radio Edit](https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Toca \(20th Anniversary Edition\)](https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH) | 3:20 |
 | 26 | [Adagio For Strings](https://open.spotify.com/track/3Q2M6sNKDwoqZGBvwdFqZr) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5) | 7:23 |
 | 27 | [Castles In The Sky \- Radio Mix](https://open.spotify.com/track/3KhoIbIPMmoGthbBAPxgOK) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ), [Marsha](https://open.spotify.com/artist/28Y5nsvbE8IdoUAGNgCk0Y) | [Castles In The Sky](https://open.spotify.com/album/4P5BZKgDIxksZu7Px0OhHL) | 3:47 |
 | 28 | [Rapture \(feat.Nadia Ali\)](https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7) | [iio](https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Poetica \(feat\. Nadia Ali\)](https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD) | 4:13 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 119 | [Me and Myself \(Wolfgang Gartner Radio Edit\)](https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV) | [Bendj Feat Sushy](https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 2:52 |
 | 120 | [Behind \- Callea Radio Mix](https://open.spotify.com/track/2hS4wCi2VAV8CdsLPnWIoD) | [Flanders](https://open.spotify.com/artist/70ZMFdCGEInTJ0z9KtXQ2u) | [Behind](https://open.spotify.com/album/2ZbVWuSdf3uR01YlBSH06M) | 3:40 |
 
-Snapshot ID: `MCw3YjgxNjFjYTNjMjUxMzZkY2I1NjIzYWEyNGY3YWZhOGU1NzdhYWQ3`
+Snapshot ID: `MCxhMDUzNGVmMWVlOWJkNGNjNWU3ZTQ5Y2ZmNmQwYzQ1YjZjMWRiNzc3`

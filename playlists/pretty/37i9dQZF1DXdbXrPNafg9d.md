@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Hovvdy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,217 likes - 175 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,093 likes - 175 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 22 | [Swat the Sun](https://open.spotify.com/track/5GhFhGtf3dPoBw1Nm0kx3z) | [The Hails](https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT) | [What's Your Motive \(Deluxe\)](https://open.spotify.com/album/6vGYaKO6jHEXl6YCu5FYjp) | 2:44 |
 | 23 | [MAGIC](https://open.spotify.com/track/4DtvQH0FFDHAqHrM8tTS5s) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [RECOVER \(Deluxe\)](https://open.spotify.com/album/41KBxe5xPK4LvoivmxhP5T) | 3:33 |
 | 24 | [Mess](https://open.spotify.com/track/66koXsgfF5kOi8tGM9ENHs) | [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [Red Honey](https://open.spotify.com/album/0txm5Pz3TMKCSZ2NJH8gHs) | 1:38 |
-| 25 | [Taste of Metal](https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Taste of Metal](https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N) | 2:53 |
+| 25 | [Taste of Metal](https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Taste of Metal](https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N) | 2:54 |
 | 26 | [I Wanna Go To The City](https://open.spotify.com/track/1VHNH9fVuA1oLbqFGMYo2t) | [The Thing](https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L) | [The Thing Is](https://open.spotify.com/album/03SfRIQRYUUWKjdXsXXy2v) | 3:49 |
 | 27 | [Swallow](https://open.spotify.com/track/2xtF0pR5YIroM6MzKUhJBy) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Swallow](https://open.spotify.com/album/1lF9N8KTJe8rEuCTVRwyV8) | 2:59 |
 | 28 | [Sand Dollars](https://open.spotify.com/track/1djse5LD9mJ9LW4RKwalTQ) | [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO) | [A Wake EP](https://open.spotify.com/album/6GBvGuiOtnV21QQRLNIp5r) | 3:51 |
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 131 | [effort in](https://open.spotify.com/track/45EMmryo2aQRD7HMDHlVzj) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [effort in](https://open.spotify.com/album/7rC7eOZPlaNImntVvrhRRi) | 2:25 |
 | 132 | [White Ribbons](https://open.spotify.com/track/0cPFPeNJVdhVFrzfxqnE3k) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [White Ribbons](https://open.spotify.com/album/6u9V40xxpugRbfvfMAsc06) | 4:24 |
 | 133 | [Moonlight](https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Moonlight](https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN) | 3:59 |
-| 134 | [take yr time](https://open.spotify.com/track/7lQbnpAD7WJj6MaPowEcwx) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [take yr time](https://open.spotify.com/album/1VH9FaS0iG8QiB5cE475b0) | 3:56 |
+| 134 | [take yr time](https://open.spotify.com/track/7lQbnpAD7WJj6MaPowEcwx) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [take yr time](https://open.spotify.com/album/1VH9FaS0iG8QiB5cE475b0) | 3:55 |
 | 135 | [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/track/5D4mRZsNbuJHUD4IyPWiTs) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Believe Me \(Even If I'm Lying\)](https://open.spotify.com/album/2J6zYvoCvBeZzBrA1WGybw) | 2:45 |
 | 136 | [Security Camera](https://open.spotify.com/track/3PsgBvZYuDB28d3V7JXNNd) | [Bridget Kearney](https://open.spotify.com/artist/04fJjgNu00TqqNolrDV0Z0) | [Security Camera](https://open.spotify.com/album/0M9sCAD6i8TG2AxZZq6Kyx) | 3:52 |
 | 137 | [Room For You](https://open.spotify.com/track/2Jpw6qQ4xh6YKSM1TiSqFk) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Room For You](https://open.spotify.com/album/59TUR6HGw91Q2GqgvubJqr) | 3:41 |
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 145 | [A Stitch In Time](https://open.spotify.com/track/3B66jk36KF24lpTAVukU9T) | [Midi Memory](https://open.spotify.com/artist/67c577KTE235yIneE18N6o) | [Far Gone and Out](https://open.spotify.com/album/5Gn8kDRcKggF0eVLhbkGA1) | 3:01 |
 | 146 | [Football](https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Football](https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h) | 3:24 |
 | 147 | [My Golden Years](https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [My Golden Years](https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj) | 3:13 |
-| 148 | [Hand to Hand](https://open.spotify.com/track/4AaVY4XuXeHJZwUBSRSoC6) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Hand to Hand](https://open.spotify.com/album/7HUM44SiRxsE6TXDjNF7wp) | 3:46 |
+| 148 | [Hand to Hand](https://open.spotify.com/track/7i4onkA2fRuV0viFNWINID) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 3:46 |
 | 149 | [Cuero Dudes](https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cuero Dudes / Beauty Opens Doors](https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr) | 4:58 |
 | 150 | [Pick At Your Face](https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Shoelace & A Knot](https://open.spotify.com/album/6Fe0luiVJPaPapmsVSeoOJ) | 4:29 |
 | 151 | [Portrait](https://open.spotify.com/track/373VRQ3zCZuABm0SSZ8OY4) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Portrait](https://open.spotify.com/album/7pB0gcQfxapoGF6Deslljs) | 3:02 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [don't let me take my time](https://open.spotify.com/track/0d0BCIa1gWViE3jZLNaMmq) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [don't let me take my time](https://open.spotify.com/album/6p013AhVt4sEjwz98LA6in) | 2:40 |
 | 175 | [I Saw You](https://open.spotify.com/track/1q0xqMfpiJlMgnvM0o95tz) | [Sonya](https://open.spotify.com/artist/1sxq3PHS2sb0jQhAQRv3TA) | [I Saw You](https://open.spotify.com/album/48rgxq8beswwmYtJIM2Zh8) | 2:21 |
 
-Snapshot ID: `MCwzMGE5N2IxNWE2MzBiODFiMWVkNzMzZGU0MGEyYzUxMjFiMmE0MjQ0`
+Snapshot ID: `MCwyNTBhOWMzZTU4YTllYjM0YzZjZDJjN2VjYjNmMGM4ZmEwMjU2MWUw`

@@ -2,9 +2,9 @@
 
 ### [Viral Hits NL](https://open.spotify.com/playlist/37i9dQZF1DX7br4y32b7L8)
 
-> songs voor je playlist!
+> songs voor je playlist! \#fyp
 
-332 songs - 16 hr 43 min
+334 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Blijf Nog Even](https://open.spotify.com/track/1HjMwU04KY9TEeNG4MRC3S) | [Irene Hin](https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej) | [Blijf Nog Even](https://open.spotify.com/album/51tulVCxklGWd6DXqAtmIZ) | 3:45 | 2023-03-03 | 2023-04-19 |
 | [Bongoloco](https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA) | 3:26 | 2023-07-04 | 2023-11-06 |
 | [Bongoloco](https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV) | 3:26 | 2023-10-30 | 2024-01-09 |
+| [Bonus](https://open.spotify.com/track/3KXeTMIdec8G6rclrOFKTL) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc), [Jantje](https://open.spotify.com/artist/4qkXUou0EQ56wmcais8uwJ) | [Bonus](https://open.spotify.com/album/78BcIlHd26IcfnBgOKK2jQ) | 2:10 | 2024-02-03 |  |
 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 | 2023-02-23 | 2023-03-04 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-03-03 | 2023-05-02 |
 | [Bruder + Schwester](https://open.spotify.com/track/5w0aZKZX1ICmjqHNcFWi87) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [gladde paling](https://open.spotify.com/artist/6GVd3327JY65jGWX4X3wHS) | [Bruder + Schwester](https://open.spotify.com/album/0AdOCPNJYVXoy3CTGkxkIu) | 1:42 | 2023-02-23 | 2023-04-19 |
@@ -145,6 +146,7 @@
 | [Jump Around](https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\)](https://open.spotify.com/album/0hWY4eSi2bZ8tWplgjO0ph) | 3:34 | 2023-04-14 | 2023-07-05 |
 | [Just Dance](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:01 | 2023-02-23 | 2023-03-28 |
 | [Kakkerlak Met Nagellak](https://open.spotify.com/track/0drZWSUbgDvb7vS9cnNhOU) | [Michella Kox](https://open.spotify.com/artist/4XWSfTxs3oLrtq2yqpmcHU) | [Kakkerlak Met Nagellak](https://open.spotify.com/album/6hmC6NuXWwQjdQYtY4PmLf) | 1:55 | 2023-04-29 | 2023-09-01 |
+| [Kenia](https://open.spotify.com/track/2X7rF1czlF3xh2V6oI92Qc) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Kenia](https://open.spotify.com/album/4Otz9RP2y3GE0CXaV2Vyf4) | 3:32 | 2024-02-03 |  |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-02-23 | 2023-03-02 |
 | [Kill Bill \- Sped Up Version](https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill](https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7) | 2:17 | 2023-03-15 | 2023-05-02 |
 | [Koekje Met Je Moeder](https://open.spotify.com/track/6LS9fogxPFK44XKwJeDPtM) | [Kalvijn](https://open.spotify.com/artist/11X2JfCZ9k1u9xMKTGkpdK), [Guy](https://open.spotify.com/artist/6flKo6gEeGkXDriW0feXYk) | [Koekje Met Je Moeder](https://open.spotify.com/album/5aC24MWtXJZpy3NhZJ6hNS) | 2:05 | 2023-07-04 | 2023-12-30 |

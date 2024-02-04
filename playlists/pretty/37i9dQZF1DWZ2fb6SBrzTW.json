@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 27441,
+  "num_followers": 27493,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTVhNDg3MGU5ZmE1MzYyNTE5NTI4NDM3ZjYxYTg4ZGM5MWIzMTUz",
+  "snapshot_id": "MCxjOWMxZDYyYTBhNTg0NzM5MjU3OGU1OWFjZDg5Mzc3Y2I0ZjIyNDc5",
   "tracks": [
     {
       "added_at": "2024-02-02 06:02:42",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-02-02 06:02:42",
       "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w"
+        "name": "The Second Wave (Deluxe)",
+        "url": "https://open.spotify.com/album/4C25f9CQZZmeXJeGcpXWFg"
       },
       "artists": [
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 137885,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
+      "duration_ms": 173617,
+      "name": "WeWe",
+      "url": "https://open.spotify.com/track/0cnxJjQ8T4GSz87TaIkwDY"
     },
     {
       "added_at": "2024-02-02 06:02:42",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-02-02 06:02:42",
       "album": {
-        "name": "The Second Wave (Deluxe)",
-        "url": "https://open.spotify.com/album/4C25f9CQZZmeXJeGcpXWFg"
+        "name": "Away",
+        "url": "https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         }
       ],
-      "duration_ms": 173617,
-      "name": "WeWe",
-      "url": "https://open.spotify.com/track/0cnxJjQ8T4GSz87TaIkwDY"
+      "duration_ms": 137885,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
     },
     {
       "added_at": "2024-02-02 06:02:42",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-02-02 06:02:42",
       "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153684,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ"
-    },
-    {
-      "added_at": "2024-02-02 06:02:42",
-      "album": {
         "name": "HALLELUJAH (feat. Blaqbonez)",
         "url": "https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 137142,
       "name": "HALLELUJAH (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS"
+    },
+    {
+      "added_at": "2024-02-02 06:02:42",
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153684,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ"
     },
     {
       "added_at": "2024-02-02 06:02:42",

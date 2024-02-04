@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 119684,
+  "num_followers": 119758,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmMyMmRiNThhOWRjMWNiYWNjMTY3ZGQxYTQyOGFmOGE1NjhiNDE0",
+  "snapshot_id": "MCw0OTNmOWJkYWE3ZjYwZWI2MTAyZTQ3MTAxNjNmZmViZjUyMzdhYjk3",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -803,6 +803,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Behold Him (feat. Kim Walker-Smith)",
         "url": "https://open.spotify.com/album/2hXOYMsF8fyrzR68hy6b2W"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 279000,
       "name": "Behold Him (feat. Kim Walker-Smith)",
       "url": "https://open.spotify.com/track/6Gj4kfHYdXw7Cl2xYja85Z"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 230220,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Spirit Of God",
         "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 289480,
       "name": "Jesus My Treasure",
       "url": "https://open.spotify.com/track/5gK1uutVAMPNMVNlFmrmjg"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 230220,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Exalt (Worship Version)",
-        "url": "https://open.spotify.com/album/4ox38ukgY3pm1J2kulIfNp"
-      },
-      "artists": [
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 292840,
-      "name": "Come Holy Spirit - Worship Version",
-      "url": "https://open.spotify.com/track/0hIJ2YyPWA3cAv82gsYMli"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "There\u2019s Nothing That Our God Can\u2019t Do (Radio Version)",
         "url": "https://open.spotify.com/album/6V9emQ8EpVc31AAL6uWrmt"
       },
@@ -1663,6 +1643,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Exalt (Worship Version)",
+        "url": "https://open.spotify.com/album/4ox38ukgY3pm1J2kulIfNp"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 292840,
+      "name": "Come Holy Spirit - Worship Version",
+      "url": "https://open.spotify.com/track/0hIJ2YyPWA3cAv82gsYMli"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Fear Not",
         "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
       },
@@ -1675,22 +1675,6 @@
       "duration_ms": 333890,
       "name": "Not a Chance",
       "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/1R5lvTHthuyn00I6ChzVJS"
-      },
-      "artists": [
-        {
-          "name": "LIFE Worship",
-          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
-        }
-      ],
-      "duration_ms": 219942,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/55Ux5CRmDRoT2jhFqIdzCH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1715,6 +1699,22 @@
       "duration_ms": 459120,
       "name": "My Worship - Live",
       "url": "https://open.spotify.com/track/0CaD1v9lFnjI5jc1Ao34Ju"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1R5lvTHthuyn00I6ChzVJS"
+      },
+      "artists": [
+        {
+          "name": "LIFE Worship",
+          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
+        }
+      ],
+      "duration_ms": 219942,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/55Ux5CRmDRoT2jhFqIdzCH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "I Stand Amazed",
-        "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
-      },
-      "artists": [
-        {
-          "name": "Reach City Worship",
-          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
-        },
-        {
-          "name": "John Wesley",
-          "url": "https://open.spotify.com/artist/5PQRezjw7uSnCQzNEgDBnq"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "I Stand Amazed",
-      "url": "https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "REBELS",
         "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 390579,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/20QaupcrbKIWLhkpXgKSu9"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "I Stand Amazed",
+        "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
+      },
+      "artists": [
+        {
+          "name": "Reach City Worship",
+          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
+        },
+        {
+          "name": "John Wesley",
+          "url": "https://open.spotify.com/artist/5PQRezjw7uSnCQzNEgDBnq"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "I Stand Amazed",
+      "url": "https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1863,22 +1863,6 @@
       "duration_ms": 186826,
       "name": "Only Have One",
       "url": "https://open.spotify.com/track/4SS5I07LIsF5REanttcAkV"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "YEAR OF VICTORY",
-        "url": "https://open.spotify.com/album/3XDpH7KDR7vtIGVPYMKBvx"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 230444,
-      "name": "YEAR OF VICTORY",
-      "url": "https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1919,6 +1903,22 @@
       "duration_ms": 314693,
       "name": "Never See the End",
       "url": "https://open.spotify.com/track/7rPewRYX89xFF9C64DrcZQ"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "YEAR OF VICTORY",
+        "url": "https://open.spotify.com/album/3XDpH7KDR7vtIGVPYMKBvx"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 230444,
+      "name": "YEAR OF VICTORY",
+      "url": "https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "King Jesus",
+        "url": "https://open.spotify.com/album/3nAiFMSj2879iSgUfeSoMb"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 414698,
+      "name": "King Jesus - Live",
+      "url": "https://open.spotify.com/track/7GojPuqt6CGdOhPvduuNJd"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Find a Reason",
         "url": "https://open.spotify.com/album/2UwgcxBU8Za9GheaWW25PZ"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 254310,
       "name": "Praise Your Name (feat. Desi Raines)",
       "url": "https://open.spotify.com/track/7wJgpOcsk9f4zMUd5RDSMX"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "King Jesus",
-        "url": "https://open.spotify.com/album/3nAiFMSj2879iSgUfeSoMb"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 414698,
-      "name": "King Jesus - Live",
-      "url": "https://open.spotify.com/track/7GojPuqt6CGdOhPvduuNJd"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2287,6 +2287,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Holy Holy Here With Me (Live)",
+        "url": "https://open.spotify.com/album/68TklNlinz7o8hKvHc8YxL"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Kirby Kaple",
+          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+        }
+      ],
+      "duration_ms": 297563,
+      "name": "Holy Holy Here With Me - Live",
+      "url": "https://open.spotify.com/track/6cHrjNno45mngfOIm2BGpn"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "The Blessing (feat. Maranda Curtis) [Song Session]",
         "url": "https://open.spotify.com/album/6AEDBghw44SvpsiMjDctNo"
       },
@@ -2307,26 +2327,6 @@
       "duration_ms": 409909,
       "name": "The Blessing (feat. Maranda Curtis) - Song Session",
       "url": "https://open.spotify.com/track/0bicWqcGF8HXaaBB1HqnxR"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Holy Holy Here With Me (Live)",
-        "url": "https://open.spotify.com/album/68TklNlinz7o8hKvHc8YxL"
-      },
-      "artists": [
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "Kirby Kaple",
-          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
-        }
-      ],
-      "duration_ms": 297563,
-      "name": "Holy Holy Here With Me - Live",
-      "url": "https://open.spotify.com/track/6cHrjNno45mngfOIm2BGpn"
     },
     {
       "added_at": "2021-06-12 04:00:40",

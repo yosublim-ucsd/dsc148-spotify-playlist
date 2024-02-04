@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,789 likes - 46 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,799 likes - 46 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 45 | [Fuck Euphemism](https://open.spotify.com/track/2GBrJjTBrCDY10chjDi4sJ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Single Album](https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL) | 2:14 |
 | 46 | [My Favorite Enemy](https://open.spotify.com/track/6pPQKiJ4UWzgNeTmJlo4dU) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Double Album](https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n) | 2:34 |
 
-Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDBlZGIxNTYxZGE4OTBmMDhhYmRlYTM0YThlYmIyNmMyYg==`
+Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDAyNzBhNDI4MDBlYTY3MzQyNGJlMDNmMGVjOTlmM2Q3OA==`

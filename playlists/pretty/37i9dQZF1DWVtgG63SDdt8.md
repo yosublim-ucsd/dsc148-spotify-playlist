@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:1q6xQXmuTccwh7gBR7ToUN">Common Hymnal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,044 likes - 95 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,076 likes - 95 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 25 | [Code of Conduct](https://open.spotify.com/track/3nUZLLaAR35vbn2VVnv42H) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Code of Conduct](https://open.spotify.com/album/6MAC46pMq1DpQNHf4sCnhW) | 2:18 |
 | 26 | [I WANNA SEE](https://open.spotify.com/track/0qJSVR2K8qH1bY0Vy4zfKI) | [Linga TheBoss](https://open.spotify.com/artist/5jCTpUeZQ61zaoSYgYV2cY) | [I WANNA SEE](https://open.spotify.com/album/76wzMlk9NVVZIwONYqvrPZ) | 1:54 |
 | 27 | [Your Hand](https://open.spotify.com/track/7oEel7up1PVk7cxkDLpQmu) | [Ruslan](https://open.spotify.com/artist/2GEXrCflKZ5S5ZHBM4LNcV) | [Your Hand](https://open.spotify.com/album/4l0ARkfZnFkdveF442wLs2) | 2:02 |
-| 28 | [PRAISES \- \(remix\)](https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [PRAISES \(remix\)](https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW) | 2:50 |
+| 28 | [PRAISES \(remix\)](https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [PRAISES \(remix\)](https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW) | 2:50 |
 | 29 | [Because Of Christ](https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [TEN](https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU) | 5:10 |
 | 30 | [The Lord Will Provide \- Live From Passion 2024](https://open.spotify.com/track/3uqLs8EuMOuCNxKtqUWElW) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Landon Wolfe](https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE) | [The Lord Will Provide \(Live From Passion 2024\)](https://open.spotify.com/album/7vj92osEZGcvAfQrOwDnMJ) | 5:36 |
 | 31 | [Todo Lo Cambias / Everything Changes](https://open.spotify.com/track/3P3j62lIIs9AyzrS6Tl9Hh) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF), [Abel Orta Jr](https://open.spotify.com/artist/5P09yH8mkX1ACFaGQnJfZK), [Luke Fredrickson](https://open.spotify.com/artist/4f0MyNltUZEQ9x2ha5ppfl) | [Todo Lo Cambias / Everything Changes](https://open.spotify.com/album/351s6u0KT8knNCMS1JH1Ya) | 5:18 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 94 | [Maybe The Miracle](https://open.spotify.com/track/3qejYy8TQRliyPGkJ7VoWb) | [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Maybe The Miracle](https://open.spotify.com/album/56eBR2KZileFy5Y6pPzozQ) | 4:12 |
 | 95 | [jesus song \(county line\)](https://open.spotify.com/track/0sfqrYeRPs5tJISfVGQscT) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [jesus song \(county line\)](https://open.spotify.com/album/39a2hRQJCgzJdZFVRQJIR5) | 3:08 |
 
-Snapshot ID: `MCxmZjE3ZGM2MDgwY2M5NGM2NjE2MTQ2YWQ1ZWI5ZmQ0YWE3ZWY5YWY2`
+Snapshot ID: `MCwwZTJlZDRhNjk2YjdjNWRiZmJjMjFiZDkwZTAxYmIyZWMyYjFhODBl`

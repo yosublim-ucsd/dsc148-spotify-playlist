@@ -1,12 +1,12 @@
 {
   "description": "Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago. Cover: DJ Manny",
-  "num_followers": 32509,
+  "num_followers": 32516,
   "original_name": "Footwork/Juke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2U0ODEwODZkYzUwYTY5Y2Q0Mzg3YWNhOWMyM2Q1ZjY2OTdlYzRl",
+  "snapshot_id": "MCxiMzA1YjhmZTJjNjBkOTQyOWY3MTdhNDI4OGE4N2FjZjE2M2ZkZmE5",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
-        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
-      },
-      "artists": [
-        {
-          "name": "Traxman",
-          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Get Down Lil Bit - Street Bangers Factory 16",
-      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Bangs & Works, Vol.1: A Chicago Footwork Compilation",
         "url": "https://open.spotify.com/album/3zM6n40Te2hywzxpj9k5tr"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 180453,
       "name": "Bangs & Works",
       "url": "https://open.spotify.com/track/5UMr3rsYiX6ajMaydiiluf"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/7rgcAQIrNsHCPRp8p7CWpM"
+      },
+      "artists": [
+        {
+          "name": "DJ FLP",
+          "url": "https://open.spotify.com/artist/7mcrgPUbytCnGDjt7PYXCA"
+        }
+      ],
+      "duration_ms": 363230,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/69L3zcmAXAW09qTz7HoQlX"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/7rgcAQIrNsHCPRp8p7CWpM"
+        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
+        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
       },
       "artists": [
         {
-          "name": "DJ FLP",
-          "url": "https://open.spotify.com/artist/7mcrgPUbytCnGDjt7PYXCA"
+          "name": "Traxman",
+          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
         }
       ],
-      "duration_ms": 363230,
-      "name": "Forgotten",
-      "url": "https://open.spotify.com/track/69L3zcmAXAW09qTz7HoQlX"
+      "duration_ms": 290813,
+      "name": "Get Down Lil Bit - Street Bangers Factory 16",
+      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Da Trak Genious",
-        "url": "https://open.spotify.com/album/5Ae4gsudmsRBqFiY6px4Xh"
-      },
-      "artists": [
-        {
-          "name": "DJ Nate",
-          "url": "https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "Below Zero",
-      "url": "https://open.spotify.com/track/2CuUS7ofCI8fmmVe2vyGqW"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Aspects",
         "url": "https://open.spotify.com/album/41TVmUMGU9ngfPb350XfwC"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 108000,
       "name": "Imma Dog",
       "url": "https://open.spotify.com/track/524AOf3Zmp93608e38RukD"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Da Trak Genious",
+        "url": "https://open.spotify.com/album/5Ae4gsudmsRBqFiY6px4Xh"
+      },
+      "artists": [
+        {
+          "name": "DJ Nate",
+          "url": "https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "Below Zero",
+      "url": "https://open.spotify.com/track/2CuUS7ofCI8fmmVe2vyGqW"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "VIP VAULTS",
-        "url": "https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz"
-      },
-      "artists": [
-        {
-          "name": "Slick Shoota",
-          "url": "https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR"
-        }
-      ],
-      "duration_ms": 271083,
-      "name": "147",
-      "url": "https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Some Pulp",
         "url": "https://open.spotify.com/album/55Xpv1aDSSliUo1nNQpdt5"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "VIP VAULTS",
+        "url": "https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz"
+      },
+      "artists": [
+        {
+          "name": "Slick Shoota",
+          "url": "https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR"
+        }
+      ],
+      "duration_ms": 271083,
+      "name": "147",
+      "url": "https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Juking For Live (I.C.T.W)",
         "url": "https://open.spotify.com/album/3k2t4ylBBWNH7ovwqceYHq"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 236571,
       "name": "Juking For Live (I.C.T.W)",
       "url": "https://open.spotify.com/track/65CmlkO3DCwB0ZQvU9vaZY"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Nowadays Pressure",
+        "url": "https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD"
+      },
+      "artists": [
+        {
+          "name": "NameBrandSound",
+          "url": "https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD"
+        }
+      ],
+      "duration_ms": 228002,
+      "name": "Hip Thruster",
+      "url": "https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -859,22 +875,6 @@
       "duration_ms": 316023,
       "name": "Burnin Shoes",
       "url": "https://open.spotify.com/track/4ap5hCK1x2EjMd6QyJFZiK"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Nowadays Pressure",
-        "url": "https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD"
-      },
-      "artists": [
-        {
-          "name": "NameBrandSound",
-          "url": "https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD"
-        }
-      ],
-      "duration_ms": 228002,
-      "name": "Hip Thruster",
-      "url": "https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Heavy on DA Footwork",
-        "url": "https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ"
-      },
-      "artists": [
-        {
-          "name": "Dj Spaldin",
-          "url": "https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj"
-        }
-      ],
-      "duration_ms": 246308,
-      "name": "Nycfw",
-      "url": "https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Trackaholic Vol. 1",
         "url": "https://open.spotify.com/album/52UUqChGfOm9g0Bn0UCZ8F"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 229013,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/4viGDGWnZJxlmGoB238yZ5"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Heavy on DA Footwork",
+        "url": "https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Spaldin",
+          "url": "https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj"
+        }
+      ],
+      "duration_ms": 246308,
+      "name": "Nycfw",
+      "url": "https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Da Trak Genious",
+        "url": "https://open.spotify.com/album/5Ae4gsudmsRBqFiY6px4Xh"
+      },
+      "artists": [
+        {
+          "name": "DJ Nate",
+          "url": "https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "Footwurk Homicide",
+      "url": "https://open.spotify.com/track/4Jf3hwDKlkpq9ze8gHCwHb"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Next Life",
         "url": "https://open.spotify.com/album/2fQc0PETxan4Q7P16aMsue"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 277348,
       "name": "8 Bit Shit",
       "url": "https://open.spotify.com/track/47kYzDNmceCNSzWdw2InRC"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Next Life",
-        "url": "https://open.spotify.com/album/2fQc0PETxan4Q7P16aMsue"
-      },
-      "artists": [
-        {
-          "name": "DJ Tre",
-          "url": "https://open.spotify.com/artist/6so1AgXg57ZYwyhe9dhhYS"
-        }
-      ],
-      "duration_ms": 193514,
-      "name": "DNB Spaceout",
-      "url": "https://open.spotify.com/track/7IqbtPJRMIMk0ZKg001RVV"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Da Trak Genious",
-        "url": "https://open.spotify.com/album/5Ae4gsudmsRBqFiY6px4Xh"
+        "name": "Next Life",
+        "url": "https://open.spotify.com/album/2fQc0PETxan4Q7P16aMsue"
       },
       "artists": [
         {
-          "name": "DJ Nate",
-          "url": "https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM"
+          "name": "DJ Tre",
+          "url": "https://open.spotify.com/artist/6so1AgXg57ZYwyhe9dhhYS"
         }
       ],
-      "duration_ms": 168520,
-      "name": "Footwurk Homicide",
-      "url": "https://open.spotify.com/track/4Jf3hwDKlkpq9ze8gHCwHb"
+      "duration_ms": 193514,
+      "name": "DNB Spaceout",
+      "url": "https://open.spotify.com/track/7IqbtPJRMIMk0ZKg001RVV"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1259,22 +1259,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Bounce That Booty (Jackmaster Werks Remix)",
-        "url": "https://open.spotify.com/album/77SNTASc4iAYl3y5WfAZOS"
+        "name": "Get Off Me (Betta Get Back) [Basic Rhythm Remix]",
+        "url": "https://open.spotify.com/album/3EEoCjUOkpme7oR3Pficlw"
       },
       "artists": [
         {
-          "name": "DJ Deeon",
-          "url": "https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH"
+          "name": "DJ Nate",
+          "url": "https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM"
         },
         {
-          "name": "Jackmaster Werks",
-          "url": "https://open.spotify.com/artist/2eRGQtdPsIbK1HwWdWMPJN"
+          "name": "Basic Rhythm",
+          "url": "https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2"
         }
       ],
-      "duration_ms": 164383,
-      "name": "Bounce That Booty - Jackmaster Werks Remix",
-      "url": "https://open.spotify.com/track/6Ta2yIK2q5GAs2tqTLRLX5"
+      "duration_ms": 186573,
+      "name": "Get Off Me (Betta Get Back) - Basic Rhythm Remix",
+      "url": "https://open.spotify.com/track/0eYWpBNVb4wwCccrzqfg28"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1299,22 +1299,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Get Off Me (Betta Get Back) [Basic Rhythm Remix]",
-        "url": "https://open.spotify.com/album/3EEoCjUOkpme7oR3Pficlw"
+        "name": "Bounce That Booty (Jackmaster Werks Remix)",
+        "url": "https://open.spotify.com/album/77SNTASc4iAYl3y5WfAZOS"
       },
       "artists": [
         {
-          "name": "DJ Nate",
-          "url": "https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM"
+          "name": "DJ Deeon",
+          "url": "https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH"
         },
         {
-          "name": "Basic Rhythm",
-          "url": "https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2"
+          "name": "Jackmaster Werks",
+          "url": "https://open.spotify.com/artist/2eRGQtdPsIbK1HwWdWMPJN"
         }
       ],
-      "duration_ms": 186573,
-      "name": "Get Off Me (Betta Get Back) - Basic Rhythm Remix",
-      "url": "https://open.spotify.com/track/0eYWpBNVb4wwCccrzqfg28"
+      "duration_ms": 164383,
+      "name": "Bounce That Booty - Jackmaster Werks Remix",
+      "url": "https://open.spotify.com/track/6Ta2yIK2q5GAs2tqTLRLX5"
     },
     {
       "added_at": "2023-06-30 04:00:00",

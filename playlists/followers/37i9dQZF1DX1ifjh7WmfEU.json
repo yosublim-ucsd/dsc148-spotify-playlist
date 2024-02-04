@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 75948,
+  "2024-02-04": 75988,
   "date_first_scraped": "2022-06-20",
   "description": "Affirmations. Intentions. Skin Care. Self Care. ",
   "name": "self care vibes",
@@ -960,6 +960,24 @@
     },
     {
       "album": {
+        "name": "Eridani",
+        "url": "https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV"
+      },
+      "artists": [
+        {
+          "name": "Flori Vivea",
+          "url": "https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Eridani",
+      "url": "https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0"
+    },
+    {
+      "album": {
         "name": "Evangeline",
         "url": "https://open.spotify.com/album/2GxIEfBPiuGksXQwRQO1Lm"
       },
@@ -1483,6 +1501,24 @@
       "duration_ms": 167624,
       "name": "Hiemalis",
       "url": "https://open.spotify.com/track/0UcRrIl4Ti4xSdp314ZASI"
+    },
+    {
+      "album": {
+        "name": "Highlands",
+        "url": "https://open.spotify.com/album/4fGBjm0G7Cr5tXeo2aHkn7"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 D\u00edvou",
+          "url": "https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180562,
+      "name": "Highlands",
+      "url": "https://open.spotify.com/track/23PYmOs15gQXHPEGQXJP8O"
     },
     {
       "album": {
@@ -3478,6 +3514,24 @@
     },
     {
       "album": {
+        "name": "The Whitening Fields",
+        "url": "https://open.spotify.com/album/5m4Wj9vFbucH4Iq7pLapu2"
+      },
+      "artists": [
+        {
+          "name": "Dean Caplan",
+          "url": "https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153374,
+      "name": "The Whitening Fields",
+      "url": "https://open.spotify.com/track/4MOy0eZpw1xoveN5S8stBC"
+    },
+    {
+      "album": {
         "name": "Theme from The Angel",
         "url": "https://open.spotify.com/album/15fvKVkNpLCtwHCXhlzhqG"
       },
@@ -3799,7 +3853,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 144334,
       "name": "Waves",
       "url": "https://open.spotify.com/track/4POl5mnK3ZDe6crPzkxW9L"

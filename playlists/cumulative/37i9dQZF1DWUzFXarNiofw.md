@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Usher
 
-1,996 songs - 4 day 10 hr 17 min
+1,997 songs - 4 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1436,6 +1436,7 @@
 | [Rose \- Stripped](https://open.spotify.com/track/6v7VKACk6oVhfX7vw4kVLo) | [Gemaine](https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Ymtk](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV), [Gregory Edwards](https://open.spotify.com/artist/6DZH1JLOEFPPxXUu5Gj1fD) | [Rose \(Stripped\)](https://open.spotify.com/album/5J7uK1xTiq5Osg6nNXOzwz) | 3:47 | 2022-07-29 | 2022-08-27 |
 | [Roster](https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:39 | 2022-02-11 | 2022-03-18 |
 | [Routine](https://open.spotify.com/track/06m1wls2R6KJoHMp8Fp3A0) | [Tonio Hall](https://open.spotify.com/artist/2qwtqP59pYwPsz0sI76ZHK) | [Routine](https://open.spotify.com/album/6bY78FolWq29MY5IuCBWp0) | 2:40 | 2023-07-14 | 2023-09-16 |
+| [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 | 2024-02-03 |  |
 | [Run](https://open.spotify.com/track/7Jtf2RpwDW654tbp6bbIA3) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e), [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 3:59 | 2023-05-12 | 2023-07-01 |
 | [RUN FOR YOUR LIFE](https://open.spotify.com/track/1Lxk8Z8V8M8G7xaDa9lTkq) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [RUN FOR YOUR LIFE](https://open.spotify.com/album/63IUx5eLzRNLPGqGZJHMBI) | 3:41 | 2023-10-13 | 2023-11-18 |
 | [Run It Back](https://open.spotify.com/track/2dSkLQLd2roPXtd8JePLqp) | [Ryan Leslie](https://open.spotify.com/artist/3aTMDZLtkFlYQfQL7bzccp) | [Run It Back](https://open.spotify.com/album/0tVOPNZO4KTdb03rWuXjYC) | 3:50 | 2023-12-15 | 2024-01-27 |

@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-1,345 songs - 2 day 11 hr 6 min
+1,346 songs - 2 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1352,6 +1352,7 @@
 | [Ögon \(Drillswitch, Pt\. 3\)](https://open.spotify.com/track/19tfm52X38ezYiFKaFHmfg) | [3qip](https://open.spotify.com/artist/0TXoplJ9nnY6ERSAwYEuRI) | [Ögon \(Drillswitch, Pt\. 3\)](https://open.spotify.com/album/7MrW0fbY2lVY7TCBErBIBy) | 2:04 | 2023-02-23 | 2023-03-10 |
 | [ögonen i spegeln \(dhbgmen\)](https://open.spotify.com/track/2bhAnxqVc1P9rkljnjYsfO) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [dom har bara gett mig ett namn](https://open.spotify.com/album/2UGjZtao246qmGucUYMAsL) | 2:41 | 2023-05-11 | 2023-05-26 |
 | [Öppet Hav \(feat\. Sandra Isabel\)](https://open.spotify.com/track/5UJmZgbI0jAEbNj6TzEiPk) | [Simon Emanuel](https://open.spotify.com/artist/2mKcKa9yFqXzcxTEGhvKaZ), [Sum Comfort](https://open.spotify.com/artist/5bGZv8x0se674jzkn0rnfP), [Sandra Isabel](https://open.spotify.com/artist/1uS3T1JFEw7W8yxDEgbfXt) | [10 Somrar Senare](https://open.spotify.com/album/5mxMBUII9sZLTvnVX02sZc) | 3:19 | 2023-06-01 | 2023-06-23 |
-| [Överallt](https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Överallt](https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM) | 2:05 | 2023-11-02 |  |
+| [Överallt](https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Bestämda Kliv](https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG) | 2:04 | 2024-02-01 |  |
+| [Överallt](https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Överallt](https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM) | 2:05 | 2023-11-02 | 2024-02-04 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

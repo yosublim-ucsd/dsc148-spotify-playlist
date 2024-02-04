@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj22UfTOtqz.md) - [plain]
 
 > Clásicos del Hip Hop para toda la familia a disfrutar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,549 likes - 43 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,569 likes - 43 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj22UfTOtqz.md) - [plain]
 | 29 | [We Got Our Own Thang](https://open.spotify.com/track/0yndiszlOMgxOu3y2vKZvB) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3) | [Big Tyme](https://open.spotify.com/album/2RDUJixbxpkSdNdDLR4LL8) | 3:52 |
 | 30 | [Rock Box](https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 5:30 |
 | 31 | [I Go To Work](https://open.spotify.com/track/6tGtBvK6DezcjbtUxXGyxe) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [Knowledge Is King](https://open.spotify.com/album/31WVLciVB5ffpco1dZ9vHz) | 4:42 |
-| 32 | [Si Señor](https://open.spotify.com/track/2KUuvz45mQcuNdyB2x196e) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/31fEHaKaTwJc7hPH2mc9k2) | 4:13 |
-| 33 | [Rock Dis Funky Joint](https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK) | [Poor Righteous Teachers](https://open.spotify.com/artist/1j6sK1bUYK36UNfLjdOfFy) | [Holy Intellect \(Expanded Edition\)](https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm) | 5:11 |
+| 32 | [Rock Dis Funky Joint](https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK) | [Poor Righteous Teachers](https://open.spotify.com/artist/1j6sK1bUYK36UNfLjdOfFy) | [Holy Intellect \(Expanded Edition\)](https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm) | 5:11 |
+| 33 | [Si Señor](https://open.spotify.com/track/2KUuvz45mQcuNdyB2x196e) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/31fEHaKaTwJc7hPH2mc9k2) | 4:13 |
 | 34 | [004](https://open.spotify.com/track/3WnAJRYtYY0qBX64WF98ah) | [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [Boomerang](https://open.spotify.com/album/2NlNxImbfaxJaj8Vg3Gkt0) | 3:54 |
 | 35 | [Monie in the Middle](https://open.spotify.com/track/6RiQpptxeHspavyW50JiEw) | [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu) | [Down to Earth](https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT) | 3:44 |
 | 36 | [It's Tricky](https://open.spotify.com/track/3C5b21hX1FePgFAGdzk3Uc) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Greatest Hits](https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF) | 3:03 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj22UfTOtqz.md) - [plain]
 | 42 | [My Adidas](https://open.spotify.com/track/64UQLXFp7Gs189kF3myYiq) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Greatest Hits](https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF) | 2:48 |
 | 43 | [Human Beat Box \(Re\-Recorded Version\)](https://open.spotify.com/track/4tYMaJMiv8DMRnP9tfCpR5) | [Fat Boys](https://open.spotify.com/artist/3537Phr9t8GWkY2GtxDpnt) | [Wipeout \(Re\-Recorded Versions\)](https://open.spotify.com/album/11r8tYGEUCtMwliUxFljCv) | 2:18 |
 
-Snapshot ID: `MCw1NGU3Yzk1ZDFlZDQ3Yzc1YzdiODgxN2Q2MjNhZGQ2YmQyYWEyODU5`
+Snapshot ID: `MCxhNmUzNzNlM2Y5MzlkZDI1NGFmY2ExNjBjOWVhOTBhNzI1MGFkNzE5`

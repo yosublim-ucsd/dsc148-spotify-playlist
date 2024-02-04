@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 64914,
+  "num_followers": 64905,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGZmMDAxZTRlNDdiOTBhYjRiNThkZDc4NjgwOTRhMGM2Yjk1MGFj",
+  "snapshot_id": "MCwyNWEwZTZmOGQyY2ZkNTM2NmE1OTZlNjJhMjI5ZTU0YmExNWEyYTJi",
   "tracks": [
     {
       "added_at": "2024-02-01 15:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "in my Time",
-        "url": "https://open.spotify.com/album/6UWrxLbfbJRIgyrbgghiMi"
-      },
-      "artists": [
-        {
-          "name": "Takahiro Kido",
-          "url": "https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI"
-        }
-      ],
-      "duration_ms": 86013,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/0VbuRai18mA0GtiCiKdqph"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "Kazahana",
         "url": "https://open.spotify.com/album/1U2IQ5PDO4lBlB7OS8fWyH"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 178255,
       "name": "Cinnamon - Rework",
       "url": "https://open.spotify.com/track/1hdqoVkC8nr2IZjsLUX1ic"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "in my Time",
+        "url": "https://open.spotify.com/album/6UWrxLbfbJRIgyrbgghiMi"
+      },
+      "artists": [
+        {
+          "name": "Takahiro Kido",
+          "url": "https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI"
+        }
+      ],
+      "duration_ms": 86013,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/0VbuRai18mA0GtiCiKdqph"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "Heavenly Me Last Days",
-        "url": "https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm"
-      },
-      "artists": [
-        {
-          "name": "Yasushi Yoshida",
-          "url": "https://open.spotify.com/artist/2u5s5wxfNszaIZwWknh3eB"
-        }
-      ],
-      "duration_ms": 599547,
-      "name": "Last Days",
-      "url": "https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "Ake",
         "url": "https://open.spotify.com/album/23LxyHwGGCHfwBcSVZyiuk"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 127120,
       "name": "Ake",
       "url": "https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "Heavenly Me Last Days",
+        "url": "https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm"
+      },
+      "artists": [
+        {
+          "name": "Yasushi Yoshida",
+          "url": "https://open.spotify.com/artist/2u5s5wxfNszaIZwWknh3eB"
+        }
+      ],
+      "duration_ms": 599547,
+      "name": "Last Days",
+      "url": "https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "Lasting Memories",
-        "url": "https://open.spotify.com/album/20k1KmdxOiXyQHhw7QyXby"
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/6b2Sqwcq4FXgRXLVsbIPdr"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
         }
       ],
-      "duration_ms": 214168,
-      "name": "Lasting Memories",
-      "url": "https://open.spotify.com/track/7zUsClREgMYQ5GqcnmioIF"
+      "duration_ms": 136124,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/5Zala3EsVj5ZLpQdvlIX2M"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -551,6 +551,22 @@
       "duration_ms": 319666,
       "name": "SHEEP",
       "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "Lasting Memories",
+        "url": "https://open.spotify.com/album/20k1KmdxOiXyQHhw7QyXby"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 214168,
+      "name": "Lasting Memories",
+      "url": "https://open.spotify.com/track/7zUsClREgMYQ5GqcnmioIF"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -587,22 +603,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/6b2Sqwcq4FXgRXLVsbIPdr"
-      },
-      "artists": [
-        {
-          "name": "Haruhisa Tanaka",
-          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
-        }
-      ],
-      "duration_ms": 136124,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/5Zala3EsVj5ZLpQdvlIX2M"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "Grinning Cat",
         "url": "https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "How My Heart Sings",
-        "url": "https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 289320,
-      "name": "Light Dance",
-      "url": "https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "Komachi",
         "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 264207,
       "name": "Ch\u014dchin",
       "url": "https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "How My Heart Sings",
+        "url": "https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 289320,
+      "name": "Light Dance",
+      "url": "https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "vi (almost equal to) ix",
-        "url": "https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf"
+        "name": "After the noise is gone",
+        "url": "https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "Rayons",
+          "url": "https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf"
         }
       ],
-      "duration_ms": 224298,
-      "name": "vi (almost equal to) ix",
-      "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
+      "duration_ms": 193640,
+      "name": "Love is a personal thing",
+      "url": "https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "After the noise is gone",
-        "url": "https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58"
-      },
-      "artists": [
-        {
-          "name": "Rayons",
-          "url": "https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf"
-        }
-      ],
-      "duration_ms": 193640,
-      "name": "Love is a personal thing",
-      "url": "https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "Transitoriness",
         "url": "https://open.spotify.com/album/166PUAhoTvxeEu0AbDYCYZ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 288000,
       "name": "One",
       "url": "https://open.spotify.com/track/2PlnuhLHxil9qZrkj7xz1G"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "vi (almost equal to) ix",
+        "url": "https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 224298,
+      "name": "vi (almost equal to) ix",
+      "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
     },
     {
       "added_at": "2024-02-01 15:00:00",

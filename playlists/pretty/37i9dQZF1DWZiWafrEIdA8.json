@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9385,
+  "num_followers": 9386,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWFlZWIzZmZiNTk1YzNjMjI3ODk0ZTA2MzU3ZjA5YWVlOGEzMWRm",
+  "snapshot_id": "MCxjMjg0NzU2NTQ0YWQ5MGE0ZjI1NTA3ZDdiYTczZTZlODM1NWFmMDE5",
   "tracks": [
     {
       "added_at": "2024-01-08 08:25:31",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
-        "name": "Future Boy",
-        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
-      },
-      "artists": [
-        {
-          "name": "Juju B. Goode",
-          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
-        }
-      ],
-      "duration_ms": 124263,
-      "name": "Future Boy",
-      "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
-    },
-    {
-      "added_at": "2024-01-08 08:25:31",
-      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/4NGWXJbwcdxnToRZccGnZs"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 193622,
       "name": "X (Butterfly)",
       "url": "https://open.spotify.com/track/4T1vIORq5H4VzaOyAPcA3J"
+    },
+    {
+      "added_at": "2024-01-08 08:25:31",
+      "album": {
+        "name": "Future Boy",
+        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
+      },
+      "artists": [
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        }
+      ],
+      "duration_ms": 124263,
+      "name": "Future Boy",
+      "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
     },
     {
       "added_at": "2024-01-08 08:25:31",
@@ -1059,18 +1059,26 @@
     {
       "added_at": "2024-01-08 08:25:31",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/3zCvTkjs4RaVAV5AF4LayZ"
+        "name": "School Rapper3 Final",
+        "url": "https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU"
       },
       "artists": [
+        {
+          "name": "Young Kay",
+          "url": "https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye"
+        },
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
         {
           "name": "VINXEN",
           "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
         }
       ],
-      "duration_ms": 215054,
-      "name": "Yoo Jae Suk",
-      "url": "https://open.spotify.com/track/3QglCjbhnoT7NPUOqU5zDK"
+      "duration_ms": 229467,
+      "name": "HERE (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG"
     }
   ],
   "unique_name": "\ud790\ub9c1 \ud799\ud569",

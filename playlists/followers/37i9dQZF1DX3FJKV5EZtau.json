@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 100817,
+  "2024-02-04": 100837,
   "date_first_scraped": "2022-01-17",
   "description": "Electronic tunes for your virtual world.",
   "name": "Pixel Garden",
@@ -191,6 +191,32 @@
       "duration_ms": 171021,
       "name": "All Too Much",
       "url": "https://open.spotify.com/track/2A9Vt5Mzf5kuqtkqikbsW9"
+    },
+    {
+      "album": {
+        "name": "All Ur Luv",
+        "url": "https://open.spotify.com/album/1KrS7daFwtHSyT5aPsI0so"
+      },
+      "artists": [
+        {
+          "name": "Wavedash",
+          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
+        },
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161771,
+      "name": "All Ur Luv",
+      "url": "https://open.spotify.com/track/3K1RnBxBkrMwoBE8gC63eY"
     },
     {
       "album": {
@@ -1229,7 +1255,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 229629,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/0zxAdvhHnewHweDFMquQd1"
@@ -3438,6 +3464,28 @@
     },
     {
       "album": {
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/3PAzkKA8BGbN95N1YKzBuB"
+      },
+      "artists": [
+        {
+          "name": "Synapson",
+          "url": "https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR"
+        },
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/6givmM5g4kxQD36lUC2H4E"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175337,
+      "name": "Hide Away (feat. Holly)",
+      "url": "https://open.spotify.com/track/1uthrZMPfRZ1kNcij4wB1K"
+    },
+    {
+      "album": {
         "name": "High Radiance",
         "url": "https://open.spotify.com/album/1oCtGA9V8tB2vPGrccHnz9"
       },
@@ -3769,7 +3817,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 213164,
       "name": "I Tried It",
       "url": "https://open.spotify.com/track/1aT90LrFdM4Nmosb0PxhhU"
@@ -4407,6 +4455,24 @@
       "duration_ms": 290181,
       "name": "Lune",
       "url": "https://open.spotify.com/track/09d3JszICFYeOsU6mjXxa7"
+    },
+    {
+      "album": {
+        "name": "LX-777 (Lunar Data)",
+        "url": "https://open.spotify.com/album/1CMFHMO78oM6fkDIknyUzN"
+      },
+      "artists": [
+        {
+          "name": "Starjunk 95",
+          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160235,
+      "name": "LX-777 (Lunar Data)",
+      "url": "https://open.spotify.com/track/2HYsPCvdZwBPT1FV7c8JGN"
     },
     {
       "album": {
@@ -7923,7 +7989,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 205935,
       "name": "When Everything is Grey",
       "url": "https://open.spotify.com/track/3h4gssEEpQZxfT9SKF9wD0"

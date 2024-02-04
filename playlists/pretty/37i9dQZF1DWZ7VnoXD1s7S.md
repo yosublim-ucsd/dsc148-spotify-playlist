@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,406 likes - 83 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 781,238 likes - 83 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 10 | [Oh Klahoma](https://open.spotify.com/track/6SZwj6cjc8JQbkrr8cbIUn) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:05 |
 | 11 | [drowning](https://open.spotify.com/track/32xjgqHt76Q8sipEop3Bci) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning](https://open.spotify.com/album/5FNQDzhZFLwzKyEOwDlmTp) | 1:57 |
 | 12 | [I feel like I'm losing you](https://open.spotify.com/track/4aJcJzcgU9popOg5qnsGMX) | [SØINS](https://open.spotify.com/artist/59NQ59Ln72fh95XTQJcWEg) | [I feel like I'm losing you](https://open.spotify.com/album/5qw5BHflKSmlFw6Mr28aXA) | 2:22 |
-| 13 | [Old Doll](https://open.spotify.com/track/0437ehxh1bw3yjVpL8hQ4c) | [Bluerra\-sai](https://open.spotify.com/artist/3WciAVM3DxjIWwV3aSugVa) | [Old Doll](https://open.spotify.com/album/4m2Mq71cJqhWwQT2eJoKZH) | 1:39 |
+| 13 | [Old Doll](https://open.spotify.com/track/1ROVIglc9HtF4v9q0AowOx) | [Bluerra\-sai](https://open.spotify.com/artist/3WciAVM3DxjIWwV3aSugVa) | [Old Doll](https://open.spotify.com/album/1GOpCUwzS3PRwWUHE8pPso) | 1:39 |
 | 14 | [Goodnight Dad I Love You](https://open.spotify.com/track/013L1ZodWo9Ax2g9LejC9O) | [Wishing](https://open.spotify.com/artist/4SPlQqq2yxd4ynKRnkWqy7) | [None of This Was Your Fault](https://open.spotify.com/album/4daTdHnYUgzEWuMrOkLvvM) | 2:43 |
 | 15 | [Hidden In the Sand](https://open.spotify.com/track/0RjG5JmdOWXAR68dGlKBA5) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 1:52 |
 | 16 | [Fika](https://open.spotify.com/track/2cMCreuGNlEP5zzxXIMQS2) | [Unjaps](https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi) | [Isolated](https://open.spotify.com/album/2tchNCm4dsnBTu3KaXCQy0) | 3:18 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 55 | [さむくてあったかい、ふゆ〜雪の世界〜](https://open.spotify.com/track/6DKY3Be7mWP65FodxRnNZ3) | [Kikiyama](https://open.spotify.com/artist/0dQ0dD0KCz1GVkTG55XXWc) | [ゆめにっき サウンドトラック ゆめのおと 1](https://open.spotify.com/album/21vq7ID9n1HoJkuq0c4UAT) | 1:00 |
 | 56 | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/track/0mlA1Y5ei8TNk4Fd1h4CJR) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/album/3jEWqAIIlHymIW7oVbRCME) | 1:46 |
 | 57 | [Introduction to the Snow](https://open.spotify.com/track/7qLs0IyUn6TrqgMzQ33SdH) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 1:41 |
-| 58 | [I J u s t W a n t t o B e t h e O n e Y o u L o v e e e e e](https://open.spotify.com/track/3HCvs4xIilim8FJeIGyqwb) | [leydown n chill](https://open.spotify.com/artist/5EKYmdWFCxbTsg2wGfgVtl) | [I J u s t W a n t t o B e t h e O n e Y o u L o v e e e e e](https://open.spotify.com/album/4kL7UqpdcxyO3L2iKtRU3T) | 1:20 |
+| 58 | [I Don't Want to Set the World on Fire](https://open.spotify.com/track/5nOtCX6H4CSGBAwRA8KGlv) | [DJ Michael Double](https://open.spotify.com/artist/1gUa5YmlS1QpYjQLJMdunM) | [I Don't Want to Set the World on Fire](https://open.spotify.com/album/1XKdk4y66NZ9XGvLaGkTxS) | 1:20 |
 | 59 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
 | 60 | [\~](https://open.spotify.com/track/0QWf3gtoyp5FwaKh43nMBf) | [Happy Trendy](https://open.spotify.com/artist/00YWLzRZ0M94JxM8j3ptjZ) | [Die Young](https://open.spotify.com/album/2FyZYXJoYsdHy6AN9iqfGs) | 2:06 |
 | 61 | [overpopulation at the end of everything is less of a worry, haha \('a letter to you' from mother 3\)](https://open.spotify.com/track/0NPajRRbTvnXppqfEU8qaW) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [atlantis part 2](https://open.spotify.com/album/1rgyl3sbS5ViSSuvnXU734) | 1:23 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 78 | [Main Title \(The Shining\)](https://open.spotify.com/track/4WnuHIJTLrFkAQdpryLDe7) | [Wendy Carlos](https://open.spotify.com/artist/5MmXZQUGs0eXP5PV79iKrB), [Rachel Elkind](https://open.spotify.com/artist/26WQwAYoinO6Cda6Gwy7yR) | [The Shining \(Selections from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7eA1RWzxtmV8x4DO1IKHfI) | 3:24 |
 | 79 | [White Noiz](https://open.spotify.com/track/3JjXYP1XVbcrFYwgbFsPCZ) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:23 |
 | 80 | [Best of Luck](https://open.spotify.com/track/3D0SDYQLsZFt3DK6iRiWs1) | [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Velocity \(Music from the Film\)](https://open.spotify.com/album/0YeQBgnX0wFRWNWoXPjmNR) | 1:51 |
-| 81 | [Submersible](https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA) | 3:50 |
+| 81 | [Submersible](https://open.spotify.com/track/0VLHVVJ67LemumV38DDb5b) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/7H6gso8aBfKK7mlouLCsW3) | 3:50 |
 | 82 | [Bye](https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 1:53 |
 | 83 | [Out](https://open.spotify.com/track/3XacRs7DmGzAb8auxz6Wnt) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [What We Do For Others](https://open.spotify.com/album/5k6G0HcMny4OCIIuwuVEJR) | 2:42 |
 
-Snapshot ID: `MCw1NzY3MmIzNDNhZWRlNzBjOThkYzk2YTIwZTAxYmZjMDUyM2Q2ZmEx`
+Snapshot ID: `MCw0NTliODc2ZDEzNjdiNTM5NmE5ZTVhYWQ1MWJhZWI2OGIzZWRmZjY1`

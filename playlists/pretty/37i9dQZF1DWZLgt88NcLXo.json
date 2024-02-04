@@ -1,29 +1,13 @@
 {
   "description": "Guitarra c\u00e1lida e instrumental para un agradable inicio de d\u00eda.",
-  "num_followers": 12018,
+  "num_followers": 12016,
   "original_name": "wuen dia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGQwZTAwNDdiZTgyYWI4NDJiMWNjYjkwYjM3NmE5NDhhMjFkYmRm",
+  "snapshot_id": "MCwwMGY4ODMyZThkNjk4Y2Y5Zjc5ZGY0YTU2OGVmOTkwYzcyNWM5MDdm",
   "tracks": [
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
-        "name": "The Airport",
-        "url": "https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c"
-      },
-      "artists": [
-        {
-          "name": "Kim Rodgers",
-          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
-        }
-      ],
-      "duration_ms": 150404,
-      "name": "The Airport",
-      "url": "https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG"
-    },
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 151308,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/27DodeB1seENJxnWojPa6G"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "The Airport",
+        "url": "https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "duration_ms": 150404,
+      "name": "The Airport",
+      "url": "https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Laguna",
-        "url": "https://open.spotify.com/album/7lBsRkafxyp9aUhvuiD1hF"
+        "name": "El Raval",
+        "url": "https://open.spotify.com/album/6ZDP9iCNBu05nZfeJQ2Ez4"
       },
       "artists": [
         {
@@ -1304,9 +1304,9 @@
           "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
         }
       ],
-      "duration_ms": 191250,
-      "name": "Laguna",
-      "url": "https://open.spotify.com/track/6v7vnohTh1WrGJznocVGdg"
+      "duration_ms": 187250,
+      "name": "El Raval",
+      "url": "https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Unforced",
-        "url": "https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ"
+        "name": "Whispering Layers",
+        "url": "https://open.spotify.com/album/1Xo3DXwlMHItplKwelQCMT"
       },
       "artists": [
         {
-          "name": "Toledo Heights",
-          "url": "https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q"
+          "name": "Pacific Strings",
+          "url": "https://open.spotify.com/artist/5rMCidkAPpXFooZbVUrbuZ"
         }
       ],
-      "duration_ms": 141310,
-      "name": "Unforced",
-      "url": "https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb"
+      "duration_ms": 154280,
+      "name": "Whispering Layers",
+      "url": "https://open.spotify.com/track/29HXSiNvjzOadUBozQ1wJC"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Whispering Layers",
-        "url": "https://open.spotify.com/album/1Xo3DXwlMHItplKwelQCMT"
+        "name": "Unforced",
+        "url": "https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ"
       },
       "artists": [
         {
-          "name": "Pacific Strings",
-          "url": "https://open.spotify.com/artist/5rMCidkAPpXFooZbVUrbuZ"
+          "name": "Toledo Heights",
+          "url": "https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q"
         }
       ],
-      "duration_ms": 154280,
-      "name": "Whispering Layers",
-      "url": "https://open.spotify.com/track/29HXSiNvjzOadUBozQ1wJC"
+      "duration_ms": 141310,
+      "name": "Unforced",
+      "url": "https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1423,8 +1423,8 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "El Raval",
-        "url": "https://open.spotify.com/album/6ZDP9iCNBu05nZfeJQ2Ez4"
+        "name": "Laguna",
+        "url": "https://open.spotify.com/album/7lBsRkafxyp9aUhvuiD1hF"
       },
       "artists": [
         {
@@ -1432,9 +1432,9 @@
           "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
         }
       ],
-      "duration_ms": 187250,
-      "name": "El Raval",
-      "url": "https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll"
+      "duration_ms": 191250,
+      "name": "Laguna",
+      "url": "https://open.spotify.com/track/6v7vnohTh1WrGJznocVGdg"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "The Bones (Acoustic Guitar)",
+        "url": "https://open.spotify.com/album/5uhCEyOokgbICmNE3f8iyh"
+      },
+      "artists": [
+        {
+          "name": "Teddy Knight",
+          "url": "https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "The Bones - Acoustic Guitar",
+      "url": "https://open.spotify.com/track/0feIKFDxL7dsgdHZRWbdb4"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/4bzztnTdgknIshVzOuYiwa"
       },
@@ -1835,22 +1851,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "The Bones (Acoustic Guitar)",
-        "url": "https://open.spotify.com/album/5uhCEyOokgbICmNE3f8iyh"
-      },
-      "artists": [
-        {
-          "name": "Teddy Knight",
-          "url": "https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "The Bones - Acoustic Guitar",
-      "url": "https://open.spotify.com/track/0feIKFDxL7dsgdHZRWbdb4"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Don't Save Me Yet",
         "url": "https://open.spotify.com/album/6CWY13gXDB3SDFjdMt4YLN"
       },
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Misty Midnight",
-        "url": "https://open.spotify.com/album/7JGiEcxXiPHjLEHH0eMzn1"
-      },
-      "artists": [
-        {
-          "name": "Alina Hussain",
-          "url": "https://open.spotify.com/artist/1J9m2S0qeC1r2n3BlvE61K"
-        }
-      ],
-      "duration_ms": 134498,
-      "name": "Misty Midnight",
-      "url": "https://open.spotify.com/track/3os1MjgOwLFIyvyP67JKaE"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "The Hidden Valley",
         "url": "https://open.spotify.com/album/3I5xEp9VFZkL52a0DbRKUs"
       },
@@ -1947,18 +1931,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "A New Strange Feeling",
-        "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
+        "name": "Misty Midnight",
+        "url": "https://open.spotify.com/album/7JGiEcxXiPHjLEHH0eMzn1"
       },
       "artists": [
         {
-          "name": "Aurelia",
-          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
+          "name": "Alina Hussain",
+          "url": "https://open.spotify.com/artist/1J9m2S0qeC1r2n3BlvE61K"
         }
       ],
-      "duration_ms": 199742,
-      "name": "A New Strange Feeling",
-      "url": "https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1"
+      "duration_ms": 134498,
+      "name": "Misty Midnight",
+      "url": "https://open.spotify.com/track/3os1MjgOwLFIyvyP67JKaE"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1979,6 +1963,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "A New Strange Feeling",
+        "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
+      },
+      "artists": [
+        {
+          "name": "Aurelia",
+          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
+        }
+      ],
+      "duration_ms": 199742,
+      "name": "A New Strange Feeling",
+      "url": "https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "Alloa",
         "url": "https://open.spotify.com/album/2hs44iF5KvsJbTBzEz87FS"
       },
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Canci\u00f3n A Solas",
-        "url": "https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ"
-      },
-      "artists": [
-        {
-          "name": "Marta Fiscovich",
-          "url": "https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7"
-        }
-      ],
-      "duration_ms": 146875,
-      "name": "Canci\u00f3n A Solas",
-      "url": "https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Breakwater",
         "url": "https://open.spotify.com/album/68E9Lnnt985nLpH08wu9Hr"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 151500,
       "name": "Breakwater",
       "url": "https://open.spotify.com/track/4QfaiapQkaoDfudzWAwYcK"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Canci\u00f3n A Solas",
+        "url": "https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ"
+      },
+      "artists": [
+        {
+          "name": "Marta Fiscovich",
+          "url": "https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7"
+        }
+      ],
+      "duration_ms": 146875,
+      "name": "Canci\u00f3n A Solas",
+      "url": "https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Solitaria",
-        "url": "https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF"
-      },
-      "artists": [
-        {
-          "name": "Julia Quir\u00f3s",
-          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
-        }
-      ],
-      "duration_ms": 136624,
-      "name": "Solitaria",
-      "url": "https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 150592,
       "name": "Pelotas",
       "url": "https://open.spotify.com/track/00lpRj2l4gBL7aex8kneAg"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Solitaria",
+        "url": "https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF"
+      },
+      "artists": [
+        {
+          "name": "Julia Quir\u00f3s",
+          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
+        }
+      ],
+      "duration_ms": 136624,
+      "name": "Solitaria",
+      "url": "https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Todo Es Mi Culpa",
-        "url": "https://open.spotify.com/album/44eI4HIrozxOlv4KKa8DYf"
-      },
-      "artists": [
-        {
-          "name": "Ringunguinja",
-          "url": "https://open.spotify.com/artist/1I2a9L3JSAla2s2DlBQppu"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Todo Es",
-      "url": "https://open.spotify.com/track/3kDWeQXbGzzeGVTvmLlpFy"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Assanhado (Arr. for Guitar by S\u00e9rgio Assad)",
         "url": "https://open.spotify.com/album/0Ozz2x6Ibmduz6OBTQeogr"
       },
@@ -2299,6 +2283,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Todo Es Mi Culpa",
+        "url": "https://open.spotify.com/album/44eI4HIrozxOlv4KKa8DYf"
+      },
+      "artists": [
+        {
+          "name": "Ringunguinja",
+          "url": "https://open.spotify.com/artist/1I2a9L3JSAla2s2DlBQppu"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Todo Es",
+      "url": "https://open.spotify.com/track/3kDWeQXbGzzeGVTvmLlpFy"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "The Dreams We Share",
         "url": "https://open.spotify.com/album/0Y4oF7iixVxQATzaMDZqcV"
       },
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Objects In The Mirror",
-        "url": "https://open.spotify.com/album/3Mt8dK78eAAHcK4xcXbyIk"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Objects In The Mirror",
-      "url": "https://open.spotify.com/track/5XrP5bTKvbFSOUiF7oRWwy"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Borealis",
         "url": "https://open.spotify.com/album/0k1jQLyYEcR3mNhzhusrdd"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 270000,
       "name": "Borealis",
       "url": "https://open.spotify.com/track/2ysFggjX4SCyNJET0h7d7r"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Objects In The Mirror",
+        "url": "https://open.spotify.com/album/3Mt8dK78eAAHcK4xcXbyIk"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Objects In The Mirror",
+      "url": "https://open.spotify.com/track/5XrP5bTKvbFSOUiF7oRWwy"
     },
     {
       "added_at": "2023-09-15 09:04:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 
 > Unforgettable songs from Iconic Arab women\. Cover: Umm Kulthum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,533 likes - 50 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,542 likes - 50 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 23 | [Khedni Maak Aa Darb Bi'ldi](https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x) | [Salwa El Katrib](https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX) | [Best of Salwa El Katrib, Vol\. 1](https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ) | 4:14 |
 | 24 | [Ya habibi taala \(Mon amour, viens vite\)](https://open.spotify.com/track/0tOQdr6q6NZFHrywSQSVJP) | [Asmahan](https://open.spotify.com/artist/2vFXOKUQ2uhI9D8vKozoK6) | [Le cœur a ses raisons \(The Voices of Maghreb 1935\-1944\)](https://open.spotify.com/album/3M7Ns6HMsPgSh71r9S6NJj) | 5:33 |
 | 25 | [Esaal Alaya](https://open.spotify.com/track/3w6LdvrXM4a8C4cJrBa6M9) | [Layla Mourad](https://open.spotify.com/artist/4XmfbuyoQBGIMMbDXdFZJZ) | [Laila Mourad](https://open.spotify.com/album/4kFNwqFKfPw3FGqBNcpbfc) | 6:23 |
-| 26 | [Asmar](https://open.spotify.com/track/0w1UvLilct9BzMVNWH2kkm) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Asmar](https://open.spotify.com/album/11g6WESfbVfC5wM14lb6L4) | 5:33 |
-| 27 | [Asfour](https://open.spotify.com/track/43S1gHGrrNbM8k7X1ir5Hn) | [Aida el Ayoubi](https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt) | [Ala Baly](https://open.spotify.com/album/3poHhpjVKN7zrzpF5TkE55) | 4:47 |
+| 26 | [Asfour](https://open.spotify.com/track/43S1gHGrrNbM8k7X1ir5Hn) | [Aida el Ayoubi](https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt) | [Ala Baly](https://open.spotify.com/album/3poHhpjVKN7zrzpF5TkE55) | 4:47 |
+| 27 | [Asmar](https://open.spotify.com/track/0w1UvLilct9BzMVNWH2kkm) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Asmar](https://open.spotify.com/album/11g6WESfbVfC5wM14lb6L4) | 5:33 |
 | 28 | [Mestaneyak](https://open.spotify.com/track/2JNaQTPcPdW0ycWhsSVQiY) | [Aziza Jalal](https://open.spotify.com/artist/1u0bf0elRZYy9vqjCNYpet) | [Mestaneyak Men Hakak Teatebny](https://open.spotify.com/album/1mZGb35WiLGv70EFtxIFLs) | 39:04 |
 | 29 | [Ana Alby Eleik Mayal](https://open.spotify.com/track/3Dkp2faqV2c5rWPSNySMZ6) | [Fayza Ahmed](https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG) | [Zekrayat](https://open.spotify.com/album/0ObwONWzQGdaIpQnoPvnB5) | 10:12 |
 | 30 | [Wehiat Eineik](https://open.spotify.com/track/3VrcD46eXNQ1l326guhmpC) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Shadya](https://open.spotify.com/album/2OqsCesiiN65QdUP1zNa4v) | 4:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 49 | [آه يالأسمر](https://open.spotify.com/track/4vsKmbyyWb3XfD2xf9Tcrz) | [صباح جزاذري](https://open.spotify.com/artist/0jlAMoyT04YA4nHi42lE1r) | [أجمل القديم منوعات كويتية و خليجية, Vol\. 2](https://open.spotify.com/album/2PuWGStIuMhn2NWM6RlrhP) | 6:00 |
 | 50 | [El Hob Ban Aliah](https://open.spotify.com/track/7lM7ZtFpxoPy0qUwyBQRdX) | [Rabab](https://open.spotify.com/artist/4KaSkNUbgoD4Ei3brZKP4z) | [El Hob Ban Aliah](https://open.spotify.com/album/3jHwxxyPfSmvoaxh1BnG9S) | 6:09 |
 
-Snapshot ID: `MCwwZmQ3ZDIzNTNiMjc4ZDRiYzk5MzIyNDEwNDg4MWIwNjMxYmIxOTgy`
+Snapshot ID: `MCw1MmUzMWJkNGY2ZTYzNTA2ODZmZWYwNTUyMTJlMGVkZjU4ODU4MTJh`

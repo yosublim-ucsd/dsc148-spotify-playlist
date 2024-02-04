@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 99371,
+  "2024-02-04": 99376,
   "date_first_scraped": "2022-05-09",
   "description": "Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.",
   "name": "Balkanista Circus",
@@ -1410,6 +1410,28 @@
     },
     {
       "album": {
+        "name": "Piloncillo y Bacanora",
+        "url": "https://open.spotify.com/album/1uliriDJ6RM4F7xUq049Zd"
+      },
+      "artists": [
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        },
+        {
+          "name": "Jonaz",
+          "url": "https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "La Gran Alianza del Norte",
+      "url": "https://open.spotify.com/track/3q8E4v1do4oENB7CYg9rkR"
+    },
+    {
+      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -2207,7 +2229,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 217346,
       "name": "Pa' Bailar (Siempre Quiero Mas)",
       "url": "https://open.spotify.com/track/33bj2sNF5xk3oeFnyMfc0s"

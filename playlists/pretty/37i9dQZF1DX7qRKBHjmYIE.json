@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Santi Muk.",
-  "num_followers": 752488,
+  "num_followers": 752361,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjNhZjZkMDY2MTQ3YjQ2OTliZDhlZDAzOTAwZWQ4N2Q0YjEzYjY1",
+  "snapshot_id": "MCw0NmMzMmE5ZWVjMDVhZTRlNWJhMjM1ZGY2Mjc3ODgzOGEyMTBkZjEy",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
-        "url": "https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 130602,
-      "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
-      "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "SUPERNOVA",
         "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 296250,
       "name": "Ganadora",
       "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
+        "url": "https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 130602,
+      "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
+      "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -895,26 +895,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "VUELTIANDO",
-        "url": "https://open.spotify.com/album/0ROCZQoKTnW6IcVw1vgmIh"
-      },
-      "artists": [
-        {
-          "name": "OMGisNEFF",
-          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
-        },
-        {
-          "name": "Neverknwn",
-          "url": "https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa"
-        }
-      ],
-      "duration_ms": 174085,
-      "name": "VUELTIANDO",
-      "url": "https://open.spotify.com/track/6P7pVqYGeMPmH7EjRFO7Un"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "OTRA BOSSA",
         "url": "https://open.spotify.com/album/5Pg1i15k9DDMb40Mwqa6Zx"
       },
@@ -935,6 +915,42 @@
       "duration_ms": 144000,
       "name": "OTRA BOSSA",
       "url": "https://open.spotify.com/track/4HLXfrsYOXi8ncZJbHaX6e"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "VUELTIANDO",
+        "url": "https://open.spotify.com/album/0ROCZQoKTnW6IcVw1vgmIh"
+      },
+      "artists": [
+        {
+          "name": "OMGisNEFF",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        },
+        {
+          "name": "Neverknwn",
+          "url": "https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa"
+        }
+      ],
+      "duration_ms": 174085,
+      "name": "VUELTIANDO",
+      "url": "https://open.spotify.com/track/6P7pVqYGeMPmH7EjRFO7Un"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Kafka",
+        "url": "https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Kafka",
+      "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Kafka",
-        "url": "https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Kafka",
-      "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "aqu\u00ed andamos",
         "url": "https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 158643,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "V\u00e1monos",
         "url": "https://open.spotify.com/album/0lIZplY0HUvE3jbBu8ZOQj"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 160824,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/008S9w7s1NF1O3GmtUR6PX"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 158643,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP"
     },
     {
       "added_at": "2024-02-02 05:00:00",

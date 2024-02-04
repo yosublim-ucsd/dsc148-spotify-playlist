@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: The War & Treaty
 
-533 songs - 1 day 8 hr 51 min
+534 songs - 1 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,7 +526,8 @@
 | [Winter's Come and Gone \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/7vN6yDVTOphQUXJ1leQgPB) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 2:49 | 2023-11-17 |  |
 | [Wishing I Was Wrong](https://open.spotify.com/track/2ovmeD1VIEPJu9Z8qibUks) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [Wishing I Was Wrong](https://open.spotify.com/album/3Pz8RqCxcBLkjKLHVgFIvY) | 3:08 | 2022-01-07 | 2022-03-18 |
 | [Wolves](https://open.spotify.com/track/48WgsmbLBu9emLSodjG0O5) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 4:32 | 2022-11-25 | 2023-04-15 |
-| [Wondering Why](https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wondering Why](https://open.spotify.com/album/5WtlaMCff9QS0I76EE7lge) | 3:52 | 2024-01-19 |  |
+| [Wondering Why](https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wondering Why](https://open.spotify.com/album/5WtlaMCff9QS0I76EE7lge) | 3:52 | 2024-01-19 | 2024-02-04 |
+| [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 | 2024-01-19 |  |
 | [Wool \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/4hoqP9dIAu2Nk6u5LvxOR4) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:49 | 2023-11-17 |  |
 | [Work All Day](https://open.spotify.com/track/6zJ8kfjXS7tQ6Cz25u4yWk) | [Matt Koziol](https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs) | [Work All Day](https://open.spotify.com/album/1VWeukpfBJ6LVJ68zXXhBP) | 4:17 | 2021-12-17 | 2022-09-10 |
 | [Working Man Blues](https://open.spotify.com/track/0KGCTdgtxawKhrNrbuT10z) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Down Every Road 1962\-1994](https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI) | 2:35 | 2022-11-25 | 2023-04-09 |

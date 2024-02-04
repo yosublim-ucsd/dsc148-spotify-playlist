@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Puppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,510 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,520 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 94 | [YES YES](https://open.spotify.com/track/4za2TeEktvREhFgsrntHFA) | [VY Jacko](https://open.spotify.com/artist/0mDoUba96VCtvihkndNxpU), [VY Nav](https://open.spotify.com/artist/2YVpAVFVOtnf61s8SlWxex), [Lowridaz](https://open.spotify.com/artist/7E6OYYKCJS3iTpepfJ50cy) | [YES YES](https://open.spotify.com/album/73xBtLjz4kAprFg3Qvbtja) | 3:02 |
 | 95 | [vẫn còn buồn](https://open.spotify.com/track/47LPfHZuLX0QUH2GCfiNv0) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [vẫn còn buồn](https://open.spotify.com/album/3SxS4SedPnhiPcJSPwriiJ) | 3:14 |
 | 96 | [Save Mah Life](https://open.spotify.com/track/5JIpRjlHLPVpP13zwQbJuO) | [Puppy](https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7), [SpideyBoy](https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF) | [Deva n Diamonds](https://open.spotify.com/album/1v8jALNcHtFJqrYwGY86FU) | 3:31 |
-| 97 | [Ổn Thôi Mà \(Gwenchana\)](https://open.spotify.com/track/3SBMoue4CeHUdCbvb8bh5u) | [Alex TKN](https://open.spotify.com/artist/2mF5v2VRxRAgRAuBb1LYL9) | [Ổn Thôi Mà \(Gwenchana\)](https://open.spotify.com/album/0oE1rOLxnokX9QuYL0XecD) | 4:57 |
+| 97 | [Ổn Thôi Mà \(Gwenchana\)](https://open.spotify.com/track/4Z0pQVOggxLvK1qbSDNDMj) | [Alex TKN](https://open.spotify.com/artist/2mF5v2VRxRAgRAuBb1LYL9) | [Ổn Thôi Mà \(Gwenchana\)](https://open.spotify.com/album/6NXNgfbcUqAGJMyLmWISnO) | 4:57 |
 | 98 | [Lần Sau Cuối](https://open.spotify.com/track/4pg2H704hhVrEpl2JRmDlF) | [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT) | [Lần Sau Cuối](https://open.spotify.com/album/20smZ2hpuyTEiJr6wZm0jz) | 3:54 |
 | 99 | [ĐÔI KHI](https://open.spotify.com/track/2fDOwtydvGtWNMXHwxLh8k) | [Tony D.](https://open.spotify.com/artist/0XqppHVqDhLwMDOUmE4rRK) | [RÃ ĐÔNG](https://open.spotify.com/album/69ojRgTcg8fCl18KxaPoGm) | 2:15 |
 | 100 | [Đón Xuân Sang](https://open.spotify.com/track/41EC5V76UvHzCskD60jefT) | [Sóc Nâu](https://open.spotify.com/artist/3bFCDFiTz8uVUhdaepE5Mo), [Tina Trang](https://open.spotify.com/artist/7jv6hci1anjena0fmOAvhy) | [Đón Xuân Sang](https://open.spotify.com/album/6hE1pfjFFGwIBUAhAYmDrJ) | 3:22 |
 
-Snapshot ID: `MCw3YzE0NDA0ZjhlZDQzNzhmNTgxODk1M2MyODJlNGJjYzMyMTQ0Mzgx`
+Snapshot ID: `MCxmMDJlOWNhMjM1ZDliYmNmYTIxMDhlZDU5OWMxMzhlZDMxZTNhNjU4`

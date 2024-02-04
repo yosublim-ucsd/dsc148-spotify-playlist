@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 200479,
+  "2024-02-04": 200468,
   "date_first_scraped": "2023-02-04",
   "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Jazzy",
   "name": "Electro Mix",
@@ -3501,6 +3501,28 @@
       "duration_ms": 151384,
       "name": "Do It to It",
       "url": "https://open.spotify.com/track/33c6ouH19o9Gdj1rcgBnTj"
+    },
+    {
+      "album": {
+        "name": "KINEMA",
+        "url": "https://open.spotify.com/album/5bikiolrxKPQiFfPt7bdv8"
+      },
+      "artists": [
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        },
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214226,
+      "name": "Do or Die (ft. DPR IAN)",
+      "url": "https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo"
     },
     {
       "album": {
@@ -17033,7 +17055,7 @@
     {
       "album": {
         "name": "We Ain't Here For Long",
-        "url": "https://open.spotify.com/album/1Mc6KVLxv3JsxeqfB16jAD"
+        "url": "https://open.spotify.com/album/574kAUsaWDdlVm8Fb2HfB9"
       },
       "artists": [
         {
@@ -17044,6 +17066,24 @@
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 175835,
+      "name": "We Ain't Here For Long",
+      "url": "https://open.spotify.com/track/427747J57kLmFjqk7PZrpp"
+    },
+    {
+      "album": {
+        "name": "We Ain't Here For Long",
+        "url": "https://open.spotify.com/album/1Mc6KVLxv3JsxeqfB16jAD"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-03",
       "duration_ms": 175835,
       "name": "We Ain't Here For Long",
       "url": "https://open.spotify.com/track/7La5MwfZp7t0oKCYbhIMXj"

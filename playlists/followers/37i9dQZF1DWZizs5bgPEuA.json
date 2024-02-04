@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 4527,
+  "2024-02-04": 4537,
   "date_first_scraped": "2023-07-15",
-  "description": "Music by our 2024 Artists To Watch. Cover: Saiko",
+  "description": "Music by our 2024 Artists To Watch. Cover: Bellakath",
   "name": "Viva Latino Artists To Watch",
   "tracks": [
     {
@@ -149,7 +149,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 148825,
       "name": "Climax",
       "url": "https://open.spotify.com/track/44rBnwPtuBSZTKUhjChFvI"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 246581,
       "name": "En Mi Mundo",
       "url": "https://open.spotify.com/track/46wSVrQx60Qmv4y4f4GIsq"
@@ -529,6 +529,24 @@
       "duration_ms": 187076,
       "name": "EXCESOS",
       "url": "https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7"
+    },
+    {
+      "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170089,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
     },
     {
       "album": {
@@ -623,6 +641,24 @@
       "duration_ms": 143327,
       "name": "HARLEY QUINN",
       "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
+    },
+    {
+      "album": {
+        "name": "Hielo",
+        "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184795,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
     },
     {
       "album": {
@@ -894,7 +930,7 @@
     },
     {
       "album": {
-        "name": "Mala Costumbre ft. Ovy On The Drums - Spotify Singles",
+        "name": "Mala Costumbre - Ovy On The Drums - Spotify Singles",
         "url": "https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly"
       },
       "artists": [
@@ -911,8 +947,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181894,
-      "name": "Mala Costumbre ft. Ovy On The Drums - Spotify Singles",
+      "name": "Mala Costumbre - Ovy On The Drums - Spotify Singles",
       "url": "https://open.spotify.com/track/30K54dQDikHIulypekVSZp"
+    },
+    {
+      "album": {
+        "name": "MAMI CHAKALOSA",
+        "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136843,
+      "name": "MAMI CHAKALOSA",
+      "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
     },
     {
       "album": {
@@ -1357,7 +1415,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 122119,
       "name": "Tuma",
       "url": "https://open.spotify.com/track/3bvzotYqI2zWVS05idDLQ7"

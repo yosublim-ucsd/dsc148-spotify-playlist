@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - France.",
-  "num_followers": 842039,
+  "num_followers": 841963,
   "original_name": "Top 50 - France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzYwMjM4NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzYwMzI0ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "Petit g\u00e9nie",
         "url": "https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
+      "album": {
+        "name": "6G",
+        "url": "https://open.spotify.com/album/54LK6dIRTx4gRYznkLdjzt"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "6G",
+      "url": "https://open.spotify.com/track/4MsOD2fBtHHIyyKY4acddP"
+    },
+    {
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "Chambre 140 (Part.1)",
         "url": "https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s"
@@ -61,7 +77,27 @@
       "url": "https://open.spotify.com/track/7GLtEcaxxQpdK63YsiG51g"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
+      "album": {
+        "name": "Chambre 140 (Part.3)",
+        "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 138933,
+      "name": "Faut pas",
+      "url": "https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts"
+    },
+    {
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "IL LE FALLAIT",
         "url": "https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S"
@@ -81,27 +117,7 @@
       "url": "https://open.spotify.com/track/2PWJx5FwMrMVEaTjwYait1"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
-      "album": {
-        "name": "Fr\u00e8res Ennemis",
-        "url": "https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
-        },
-        {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "Temps en temps",
-      "url": "https://open.spotify.com/track/2ZEzQtuXsSbFJrR9xhhiei"
-    },
-    {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
@@ -117,7 +133,7 @@
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "I love you",
         "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
@@ -137,27 +153,27 @@
       "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
-        "name": "Day One",
-        "url": "https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L"
+        "name": "Fr\u00e8res Ennemis",
+        "url": "https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh"
       },
       "artists": [
         {
-          "name": "Kaaris",
-          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
         },
         {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
         }
       ],
-      "duration_ms": 225733,
-      "name": "Panama",
-      "url": "https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m"
+      "duration_ms": 153653,
+      "name": "Temps en temps",
+      "url": "https://open.spotify.com/track/2ZEzQtuXsSbFJrR9xhhiei"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "LAISSE MOI",
         "url": "https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -209,7 +225,27 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
+      "album": {
+        "name": "Day One",
+        "url": "https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "Panama",
+      "url": "https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m"
+    },
+    {
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -225,39 +261,27 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+        "name": "La Cour des Miracles",
+        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
-    },
-    {
-      "added_at": "2024-02-02 10:01:04",
-      "album": {
-        "name": "Hyp\u00e9",
-        "url": "https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6"
-      },
-      "artists": [
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
+        },
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Nekfeu",
+          "url": "https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH"
         }
       ],
-      "duration_ms": 157053,
-      "name": "Hyp\u00e9",
-      "url": "https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J"
+      "duration_ms": 190813,
+      "name": "La Cour des Miracles",
+      "url": "https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "Telegram 2",
         "url": "https://open.spotify.com/album/2tHT02WkJ4Fqas0cuwWHCk"
@@ -273,43 +297,39 @@
       "url": "https://open.spotify.com/track/3rIX5DA9rUk89KUOZdGFaN"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
-        "name": "Carr\u00e9",
-        "url": "https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn"
+        "name": "Hyp\u00e9",
+        "url": "https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6"
       },
       "artists": [
         {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 212093,
-      "name": "Chemin d'or",
-      "url": "https://open.spotify.com/track/3rkyVQEgaDR5nZvW10QOrQ"
+      "duration_ms": 157053,
+      "name": "Hyp\u00e9",
+      "url": "https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
-        "name": "LA MELO EST GANGX",
-        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
       },
       "artists": [
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 216386,
-      "name": "NOTRE DAME",
-      "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "La route est longue",
         "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
@@ -329,7 +349,43 @@
       "url": "https://open.spotify.com/track/26Anqi86HCCG57L5CE0gTr"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
+      "album": {
+        "name": "Carr\u00e9",
+        "url": "https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Chemin d'or",
+      "url": "https://open.spotify.com/track/3rkyVQEgaDR5nZvW10QOrQ"
+    },
+    {
+      "added_at": "2024-02-03 09:33:46",
+      "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "NOTRE DAME",
+      "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
+    },
+    {
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "3 MAI 2025",
         "url": "https://open.spotify.com/album/0d8htTTZxOtwNGLB3wg3KG"
@@ -345,43 +401,7 @@
       "url": "https://open.spotify.com/track/4DgjfqlglUMebNAekQ0uQT"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
-      "album": {
-        "name": "LA MELO EST GANGX",
-        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 233240,
-      "name": "MAMI WATA",
-      "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
-    },
-    {
-      "added_at": "2024-02-02 10:01:04",
-      "album": {
-        "name": "Carr\u00e9",
-        "url": "https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn"
-      },
-      "artists": [
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "Laboratoire",
-      "url": "https://open.spotify.com/track/24JrEVHDfohup0ypuOV7os"
-    },
-    {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "Chef D'orchestre",
         "url": "https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7"
@@ -401,78 +421,30 @@
       "url": "https://open.spotify.com/track/2BvjmY4Mp5q1AHL0laetd6"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
-        "name": "Overdrive (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
       "artists": [
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         },
         {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 155905,
-      "name": "Overdrive (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+      "duration_ms": 233240,
+      "name": "MAMI WATA",
+      "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
-        "name": "Chambre 140 (Part.1)",
-        "url": "https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s"
-      },
-      "artists": [
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "Il pleut \u00e0 Paris",
-      "url": "https://open.spotify.com/track/441auDLfimQNr0e1yz0KDU"
-    },
-    {
-      "added_at": "2024-02-02 10:01:04",
-      "album": {
-        "name": "Liens du 100",
-        "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "Bolide allemand",
-      "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
-    },
-    {
-      "added_at": "2024-02-02 10:01:04",
-      "album": {
-        "name": "Popcorn Sal\u00e9",
-        "url": "https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V"
-      },
-      "artists": [
-        {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
-        }
-      ],
-      "duration_ms": 238653,
-      "name": "Popcorn Sal\u00e9",
-      "url": "https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH"
-    },
-    {
-      "added_at": "2024-02-02 10:01:04",
-      "album": {
-        "name": "La League",
-        "url": "https://open.spotify.com/album/4eXYDLQHtqHHdpAhNIDXUZ"
+        "name": "Carr\u00e9",
+        "url": "https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn"
       },
       "artists": [
         {
@@ -480,12 +452,32 @@
           "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
         }
       ],
-      "duration_ms": 173427,
-      "name": "La League",
-      "url": "https://open.spotify.com/track/38KQ5zKDeF3kUH18ZjzBbZ"
+      "duration_ms": 162840,
+      "name": "Laboratoire",
+      "url": "https://open.spotify.com/track/24JrEVHDfohup0ypuOV7os"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
+      "album": {
+        "name": "Mode Op\u00e9ratoire, vol. 1",
+        "url": "https://open.spotify.com/album/02JVLf0vhEoGxGmoWZn5lq"
+      },
+      "artists": [
+        {
+          "name": "Zkr",
+          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "Under Armour",
+      "url": "https://open.spotify.com/track/69Up5djN1jUKRVb2O8GwgU"
+    },
+    {
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "Chambre 140 (Part.2)",
         "url": "https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ"
@@ -505,43 +497,95 @@
       "url": "https://open.spotify.com/track/2bOILaj684WoqEbpWTswdL"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
-        "name": "Fr\u00e8res Ennemis",
-        "url": "https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh"
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
       },
       "artists": [
         {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
         },
         {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
         }
       ],
-      "duration_ms": 179280,
-      "name": "Amiri jeans",
-      "url": "https://open.spotify.com/track/2b0nACGnsNKVvJhmhOjewh"
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+        "name": "Chambre 140 (Part.1)",
+        "url": "https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s"
       },
       "artists": [
         {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
         }
       ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+      "duration_ms": 147373,
+      "name": "Il pleut \u00e0 Paris",
+      "url": "https://open.spotify.com/track/441auDLfimQNr0e1yz0KDU"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
+      "album": {
+        "name": "Liens du 100",
+        "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 176746,
+      "name": "Bolide allemand",
+      "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
+    },
+    {
+      "added_at": "2024-02-03 09:33:46",
+      "album": {
+        "name": "Popcorn Sal\u00e9",
+        "url": "https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V"
+      },
+      "artists": [
+        {
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+        }
+      ],
+      "duration_ms": 238653,
+      "name": "Popcorn Sal\u00e9",
+      "url": "https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH"
+    },
+    {
+      "added_at": "2024-02-03 09:33:46",
+      "album": {
+        "name": "Chambre 140 (Part.3)",
+        "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        },
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "Chouchou",
+      "url": "https://open.spotify.com/track/7ddAiJ1dvmdPjmCWu9uYsM"
+    },
+    {
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "Chambre 140 (Part.2)",
         "url": "https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ"
@@ -557,59 +601,55 @@
       "url": "https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
-        "name": "B\u00e9cane - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
+        "name": "La League",
+        "url": "https://open.spotify.com/album/4eXYDLQHtqHHdpAhNIDXUZ"
       },
       "artists": [
         {
-          "name": "Yam\u00ea",
-          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
         }
       ],
-      "duration_ms": 182440,
-      "name": "B\u00e9cane - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
+      "duration_ms": 173427,
+      "name": "La League",
+      "url": "https://open.spotify.com/track/38KQ5zKDeF3kUH18ZjzBbZ"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
-        "name": "Citadelle",
-        "url": "https://open.spotify.com/album/0Ff0OXWRPPlEe4z4dLSAIA"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
       },
       "artists": [
         {
-          "name": "Merveille",
-          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
         }
       ],
-      "duration_ms": 165728,
-      "name": "Citadelle",
-      "url": "https://open.spotify.com/track/6XzU4QX098kuPPe3OkMk8W"
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
-        "name": "Pourvu qu'il pleuve",
-        "url": "https://open.spotify.com/album/5mWeWmQXRp2w97i5IN3Wo8"
+        "name": "Chambre 140 (Part.3)",
+        "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
       },
       "artists": [
         {
-          "name": "Shay",
-          "url": "https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Sans Coeur",
-      "url": "https://open.spotify.com/track/13lEdYCC4iCm6cBi3qzBVV"
+      "duration_ms": 145173,
+      "name": "\u00c7a fait longtemps",
+      "url": "https://open.spotify.com/track/4NhPbSqVQjnwALTZrhXdfD"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "Chambre 140 (Part.1)",
         "url": "https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s"
@@ -625,7 +665,55 @@
       "url": "https://open.spotify.com/track/65w1B0wLPnEICOfSl7C4Op"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
+      "album": {
+        "name": "Citadelle",
+        "url": "https://open.spotify.com/album/0Ff0OXWRPPlEe4z4dLSAIA"
+      },
+      "artists": [
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+        }
+      ],
+      "duration_ms": 165728,
+      "name": "Citadelle",
+      "url": "https://open.spotify.com/track/6XzU4QX098kuPPe3OkMk8W"
+    },
+    {
+      "added_at": "2024-02-03 09:33:46",
+      "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "added_at": "2024-02-03 09:33:46",
+      "album": {
+        "name": "B\u00e9cane - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        }
+      ],
+      "duration_ms": 182440,
+      "name": "B\u00e9cane - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
+    },
+    {
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "Gimme Love",
         "url": "https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z"
@@ -641,7 +729,7 @@
       "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "LES DERNI\u00c8RES VOLONT\u00c9S DE MOZART (SYMPHONY)",
         "url": "https://open.spotify.com/album/3kODAAfimujT9QY8PaNgDn"
@@ -665,7 +753,7 @@
       "url": "https://open.spotify.com/track/3bdJXs70t2ybhfrDH6zyv4"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
@@ -685,39 +773,23 @@
       "url": "https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
-        "name": "Read My Lips",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+        "name": "Chambre 140 (Part.3)",
+        "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
       },
       "artists": [
         {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
         }
       ],
-      "duration_ms": 230013,
-      "name": "Murder On The Dancefloor",
-      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+      "duration_ms": 179306,
+      "name": "Onana",
+      "url": "https://open.spotify.com/track/6rQaeNuARKtmaMGM14PoHL"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
-      "album": {
-        "name": "Vois sur ton chemin (Techno Mix)",
-        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Vois sur ton chemin - Techno Mix",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
-    },
-    {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "When We Were Young (The Logical Song)",
         "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
@@ -737,55 +809,7 @@
       "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
-      "album": {
-        "name": "Telegram",
-        "url": "https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ"
-      },
-      "artists": [
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 146440,
-      "name": "Solitaire",
-      "url": "https://open.spotify.com/track/3kzXT2poHInDISrXOgT1PR"
-    },
-    {
-      "added_at": "2024-02-02 10:01:04",
-      "album": {
-        "name": "Chambre 140 (Part.1)",
-        "url": "https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s"
-      },
-      "artists": [
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 91000,
-      "name": "EA7",
-      "url": "https://open.spotify.com/track/5dIihMTZ5hoTjtSodbDTJj"
-    },
-    {
-      "added_at": "2024-02-02 10:01:04",
-      "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "Parapluie",
         "url": "https://open.spotify.com/album/1iA5D7sBXDGAITkSWPIqDF"
@@ -801,39 +825,43 @@
       "url": "https://open.spotify.com/track/4CkbzYcdIRJhrA9tzwFj0B"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
-        "name": "J.000.$",
-        "url": "https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w"
+        "name": "Fr\u00e8res Ennemis",
+        "url": "https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh"
       },
       "artists": [
         {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
         }
       ],
-      "duration_ms": 165506,
-      "name": "Ailleurs",
-      "url": "https://open.spotify.com/track/7ujxY1bqVRvMe1sR5iFmxt"
+      "duration_ms": 179280,
+      "name": "Amiri jeans",
+      "url": "https://open.spotify.com/track/2b0nACGnsNKVvJhmhOjewh"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
         }
       ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
         "name": "Chambre 140 (Part.1)",
         "url": "https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s"
@@ -842,71 +870,43 @@
         {
           "name": "PLK",
           "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        },
-        {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
         }
       ],
-      "duration_ms": 176973,
-      "name": "La nuit",
-      "url": "https://open.spotify.com/track/0EqzmPWtJPcFvJfsa9rga7"
+      "duration_ms": 91000,
+      "name": "EA7",
+      "url": "https://open.spotify.com/track/5dIihMTZ5hoTjtSodbDTJj"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+        "name": "Telegram",
+        "url": "https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
         }
       ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+      "duration_ms": 146440,
+      "name": "Solitaire",
+      "url": "https://open.spotify.com/track/3kzXT2poHInDISrXOgT1PR"
     },
     {
-      "added_at": "2024-02-02 10:01:04",
+      "added_at": "2024-02-03 09:33:46",
       "album": {
-        "name": "M\u00e9lo",
-        "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 152546,
-      "name": "Meuda",
-      "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
-    },
-    {
-      "added_at": "2024-02-02 10:01:04",
-      "album": {
-        "name": "Saison 2",
-        "url": "https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        },
-        {
-          "name": "Killemv",
-          "url": "https://open.spotify.com/artist/6CVrtiamrDDp2RWzSMzHNf"
-        },
-        {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
-        }
-      ],
-      "duration_ms": 153253,
-      "name": "T'aimerais (feat. Ziak)",
-      "url": "https://open.spotify.com/track/2Tm9ujeEWuBBsg6OPlRqvg"
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     }
   ],
   "unique_name": "Top 50 - France",

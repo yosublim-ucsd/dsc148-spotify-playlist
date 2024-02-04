@@ -4,7 +4,7 @@
 
 > Floor fillers and big streamers of 2012.
 
-64 songs - 4 hr 2 min
+65 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Latch](https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:15 | 2022-10-14 |  |
 | [Let's Go \(feat\. Ne\-Yo\)](https://open.spotify.com/track/4wkQmYpAaMe41Rc3sYZ7Vz) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:52 | 2022-10-14 |  |
 | [Live My Life](https://open.spotify.com/track/5MWx5bkuRauFJenpG1w5wt) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Dirty Bass](https://open.spotify.com/album/14H11tknOJqYyi3fD6BhMe) | 3:57 | 2022-10-14 |  |
-| [Love Is All I Got](https://open.spotify.com/track/3qLGSJpnDsK03FnT8tBO23) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Calamari Tuesday](https://open.spotify.com/album/1AHCElkEl3EKimlINxtGBP) | 3:05 | 2022-10-14 |  |
+| [Love Is All I Got](https://open.spotify.com/track/3INFQGizSgnmEJJlLIUJt1) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Calamari Tuesday](https://open.spotify.com/album/6eamRXvrKVz5VN1noerGMr) | 3:05 | 2022-10-14 |  |
+| [Love Is All I Got](https://open.spotify.com/track/3qLGSJpnDsK03FnT8tBO23) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Calamari Tuesday](https://open.spotify.com/album/1AHCElkEl3EKimlINxtGBP) | 3:05 | 2022-10-14 | 2024-02-04 |
 | [Make It Bun Dem](https://open.spotify.com/track/0mlf3yOGzVnIVxjybDQL3h) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Make It Bun Dem After Hours EP](https://open.spotify.com/album/3ipNtzV1LNGEBWu4VSsmjP) | 3:33 | 2022-10-14 |  |
 | [Mammoth \- Radio Version](https://open.spotify.com/track/1j5jW3sBFEWYMPkO5Tl1oX) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Mammoth](https://open.spotify.com/album/39vWIvcvAv0hEJrpaVieDg) | 2:40 | 2022-10-14 |  |
 | [Midnight City \- Eric Prydz Private Remix](https://open.spotify.com/track/53YYzXe4shE5FF13XBrhGz) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Midnight City \(Eric Prydz Private Remix\)](https://open.spotify.com/album/5oOaP8n5kFkbxQkzp86tlU) | 5:57 | 2022-10-14 |  |

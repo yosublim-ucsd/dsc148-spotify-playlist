@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 63593,
+  "num_followers": 63719,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWNhNjQxN2QwOTRlMDllOGE4NDQ0ZGEyYmYwMTY0NjdjZDFiZjg0",
+  "snapshot_id": "MCw3M2UwZDVkZmZhZGRmMWVhYzA3M2YzOTVlNzA4ZWQ5MTkwOTYzY2E1",
   "tracks": [
     {
       "added_at": "2024-01-26 10:05:52",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
+        "name": "Elva",
+        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
+      },
+      "artists": [
+        {
+          "name": "Doug Kaufman",
+          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
+        }
+      ],
+      "duration_ms": 176062,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
         "name": "The Turning Year",
         "url": "https://open.spotify.com/album/7qIBorzIVw58P2LWsSVqLX"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 160089,
       "name": "The Turning Year",
       "url": "https://open.spotify.com/track/53sR7EKIy3Yc2a3xPXMz9h"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
-        "name": "Elva",
-        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
-      },
-      "artists": [
-        {
-          "name": "Doug Kaufman",
-          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
-        }
-      ],
-      "duration_ms": 176062,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "Bylur",
-        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 251173,
-      "name": "Bylur",
-      "url": "https://open.spotify.com/track/3xjaaBf7ef5TWermNspKOM"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
         "name": "Coalescence",
         "url": "https://open.spotify.com/album/06sSRqpl8c9lp3JHx03i0M"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 146651,
       "name": "Coalescence",
       "url": "https://open.spotify.com/track/2VILtFKQp13gGUSHGM0INt"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
+        "name": "Bylur",
+        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 251173,
+      "name": "Bylur",
+      "url": "https://open.spotify.com/track/3xjaaBf7ef5TWermNspKOM"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -663,18 +663,18 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/3Amd5iGpGd9lv6hNAVwdA8"
+        "name": "Wandering II",
+        "url": "https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R"
       },
       "artists": [
         {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/3NABVjRtAZrbnmGNeoyCyN"
+      "duration_ms": 159747,
+      "name": "Wandering II",
+      "url": "https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "Wandering II",
-        "url": "https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R"
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/3Amd5iGpGd9lv6hNAVwdA8"
       },
       "artists": [
         {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
         }
       ],
-      "duration_ms": 159747,
-      "name": "Wandering II",
-      "url": "https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk"
+      "duration_ms": 194000,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/3NABVjRtAZrbnmGNeoyCyN"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
+        "name": "The Vasulka Effect: Music for the Motion Picture",
+        "url": "https://open.spotify.com/album/6BciCC7yejXpGpVE4oq4Bg"
+      },
+      "artists": [
+        {
+          "name": "Hugar",
+          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/5rmSiOcI7xPIOhMTakVxa0"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
         "name": "Footsteps",
         "url": "https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "The Vasulka Effect: Music for the Motion Picture",
-        "url": "https://open.spotify.com/album/6BciCC7yejXpGpVE4oq4Bg"
+        "name": "The Drifter",
+        "url": "https://open.spotify.com/album/4WMp8Iz1dogRcM9XaOlkxU"
       },
       "artists": [
         {
-          "name": "Hugar",
-          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 238333,
-      "name": "Enigma",
-      "url": "https://open.spotify.com/track/5rmSiOcI7xPIOhMTakVxa0"
+      "duration_ms": 168085,
+      "name": "The Drifter",
+      "url": "https://open.spotify.com/track/4u2Kn8DaYBEuB19AjWcMDn"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -791,22 +807,6 @@
       "duration_ms": 198323,
       "name": "Somnia",
       "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
-        "name": "The Drifter",
-        "url": "https://open.spotify.com/album/4WMp8Iz1dogRcM9XaOlkxU"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 168085,
-      "name": "The Drifter",
-      "url": "https://open.spotify.com/track/4u2Kn8DaYBEuB19AjWcMDn"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "CRISALIDE",
-        "url": "https://open.spotify.com/album/4jtWceBbJher3aLxTY9bl2"
-      },
-      "artists": [
-        {
-          "name": "Puppi",
-          "url": "https://open.spotify.com/artist/3w0occdi5ODOkZz1KYuwFc"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "CRISALIDE 6",
-      "url": "https://open.spotify.com/track/6F7cBxzxPOzrqP1Ry4z5Rb"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
         "name": "Spiritus Naturae Aeternus",
         "url": "https://open.spotify.com/album/4aKxCrnN63h8hri6rAHVRa"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 352213,
       "name": "Spiritus Naturae Aeternus - Single Edit",
       "url": "https://open.spotify.com/track/4lUNFLNSshaNIQs6CzpmJA"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
+        "name": "CRISALIDE",
+        "url": "https://open.spotify.com/album/4jtWceBbJher3aLxTY9bl2"
+      },
+      "artists": [
+        {
+          "name": "Puppi",
+          "url": "https://open.spotify.com/artist/3w0occdi5ODOkZz1KYuwFc"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "CRISALIDE 6",
+      "url": "https://open.spotify.com/track/6F7cBxzxPOzrqP1Ry4z5Rb"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
+        "name": "The Swimmer",
+        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
+      },
+      "artists": [
+        {
+          "name": "Phil France",
+          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "The Swimmer",
+      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
         "name": "Escape (Hania Rani Remix)",
         "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 295200,
       "name": "\u00c9closion",
       "url": "https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
-        "name": "The Swimmer",
-        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
-      },
-      "artists": [
-        {
-          "name": "Phil France",
-          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "The Swimmer",
-      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "Vitamin String Quartet Performs Bjork",
-        "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
         "name": "BLOMMA",
         "url": "https://open.spotify.com/album/3ZkfxERiMWA5EBPqZSLgEc"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 265872,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
+        "name": "Vitamin String Quartet Performs Bjork",
+        "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -1471,42 +1471,6 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "Svalbard",
-        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Andy Barlow",
-          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "Little Orc",
-      "url": "https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
-      },
-      "artists": [
-        {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
-        }
-      ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
         "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
         "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
       },
@@ -1535,6 +1499,42 @@
       "duration_ms": 309600,
       "name": "For Mark",
       "url": "https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
+        "name": "Svalbard",
+        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Andy Barlow",
+          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "Little Orc",
+      "url": "https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "Satori by the Sea",
-        "url": "https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh"
-      },
-      "artists": [
-        {
-          "name": "Ed Carlsen",
-          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Satori by the Sea",
-      "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
         "name": "Earnest Leslye",
         "url": "https://open.spotify.com/album/1A76Rz2tsAds0OQCYYrsAY"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 229000,
       "name": "Earnest Leslye",
       "url": "https://open.spotify.com/track/1Hc6eaCHZXbtUl8V8sVUre"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
+        "name": "Satori by the Sea",
+        "url": "https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh"
+      },
+      "artists": [
+        {
+          "name": "Ed Carlsen",
+          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Satori by the Sea",
+      "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 247600,
-      "name": "Ave",
-      "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
         "name": "Notes of Longing",
         "url": "https://open.spotify.com/album/603CzL6P2uvxqlsPunk53H"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 195019,
       "name": "The Young Weaver",
       "url": "https://open.spotify.com/track/7bimdtIK17l7y2b0Zy9kwy"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        }
+      ],
+      "duration_ms": 247600,
+      "name": "Ave",
+      "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
     },
     {
       "added_at": "2024-01-26 10:05:52",

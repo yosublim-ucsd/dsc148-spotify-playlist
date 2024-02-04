@@ -644,6 +644,28 @@
     {
       "album": {
         "name": "Bass Face",
+        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183014,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+    },
+    {
+      "album": {
+        "name": "Bass Face",
         "url": "https://open.spotify.com/album/3w7pSN07nFeY7fqlVEBkFc"
       },
       "artists": [
@@ -684,28 +706,6 @@
       "duration_ms": 144449,
       "name": "Bass Goes Down",
       "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
-    },
-    {
-      "album": {
-        "name": "Bassface",
-        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Young Lyxx",
-          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
-        }
-      ],
-      "date_added": "2024-02-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 183014,
-      "name": "Bassface",
-      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
       "album": {
@@ -8544,10 +8544,32 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 154672,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/1VdJthDXiTGmex8NA0SUtX"
+    },
+    {
+      "album": {
+        "name": "To The Beat",
+        "url": "https://open.spotify.com/album/34VdSaTKOFKlgj5UTwN6p7"
+      },
+      "artists": [
+        {
+          "name": "Dyro",
+          "url": "https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9"
+        },
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154672,
+      "name": "To The Beat",
+      "url": "https://open.spotify.com/track/3i5JPUScbykbkAOCLfk7Wo"
     },
     {
       "album": {

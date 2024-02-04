@@ -1,12 +1,12 @@
 {
   "description": "soundtrack those long, dark days with warm indie favourites",
-  "num_followers": 19061,
+  "num_followers": 19068,
   "original_name": "midwinter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTg1MmYyNTIyMjhlODM4Nzk5YWZmYmEzMmZlMjAwNGEzMDJiYmUw",
+  "snapshot_id": "MCxjOTQ3N2RhNjhhYWI3MDg4ZDE4NTUyYjk4NDJkOWM4YjNlOWI0YTBm",
   "tracks": [
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 165457,
-      "name": "Wintering",
-      "url": "https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/35KiiILklye1JRRctaLUb4"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 165457,
+      "name": "Wintering",
+      "url": "https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
+        "name": "MASSEDUCTION",
+        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
         "name": "M\u00e9lancolie",
         "url": "https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 162286,
       "name": "M\u00e9lancolie",
       "url": "https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
-        "name": "MASSEDUCTION",
-        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "Ribbons",
-      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
         "name": "Twin Solitude",
         "url": "https://open.spotify.com/album/64Yh7XkMmHan0qMmmYTcZj"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 324720,
       "name": "Elegy",
       "url": "https://open.spotify.com/track/41wel0JyLABRedko4XZLG1"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Younger & Dumber",
-        "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
+        "name": "You Forgot It In People",
+        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
         }
       ],
-      "duration_ms": 279040,
-      "name": "Younger & Dumber",
-      "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
+      "duration_ms": 382240,
+      "name": "Lover's Spit",
+      "url": "https://open.spotify.com/track/3Cl35xMXJUEhpPaYBeNUQR"
     }
   ],
   "unique_name": "midwinter",

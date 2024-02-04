@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 
 > This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,452 likes - 24 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,456 likes - 24 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 | 23 | [You Fit Me Perfectly](https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Manny Jacinto](https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz) | [Hailey's On It! \(Original Soundtrack\)](https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF) | 1:28 |
 | 24 | [This Christmas](https://open.spotify.com/track/4fUxmFLeAstWRQfcOi2uRL) | [Graham Phillips](https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Burt Bacharach](https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC), [Steven Sater](https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv) | [Burt Bacharach and Steven Sater's Some Lovers \(World Premiere Recording\)](https://open.spotify.com/album/32HtQlSGJdLv2e0lmBFPf2) | 3:27 |
 
-Snapshot ID: `Mjg0NDc5NDgsMDAwMDAwMDBhYTgyOTE1MTk4YTYyMWE4ZjI0NjFlNzlhZGNlNGFjNg==`
+Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA4ZmQ4ZTJlZjg0MjkwMjc2NWU5MGYwZGNkZGIyZjU5Mw==`

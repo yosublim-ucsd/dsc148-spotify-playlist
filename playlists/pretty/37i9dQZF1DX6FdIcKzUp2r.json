@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 224952,
+  "num_followers": 225004,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzFiYzU3NTQ0NWE0ZTY0N2RlMjdlMmQwMTAwY2E0Nzk3ZDJlZGYw",
+  "snapshot_id": "MCw5NDgzNjA4OWE4NzY0MmFmNWRkMGQzM2ZhMGU2ZmQyZmNlZTk0ODc5",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -271,22 +271,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "A Real Hero EP",
-        "url": "https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI"
-      },
-      "artists": [
-        {
-          "name": "College & Electric Youth",
-          "url": "https://open.spotify.com/artist/3moPFBjUsSSJAC92afLgOH"
-        }
-      ],
-      "duration_ms": 267859,
-      "name": "A Real Hero",
-      "url": "https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The End Of The Innocence",
         "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
       },
@@ -299,6 +283,26 @@
       "duration_ms": 315306,
       "name": "The End Of The Innocence",
       "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "A Real Hero EP",
+        "url": "https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI"
+      },
+      "artists": [
+        {
+          "name": "College",
+          "url": "https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6"
+        },
+        {
+          "name": "Electric Youth",
+          "url": "https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b"
+        }
+      ],
+      "duration_ms": 267859,
+      "name": "A Real Hero",
+      "url": "https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -719,22 +723,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Merry Christmas, Mr. Lawrence",
-        "url": "https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU"
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
       },
       "artists": [
         {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        },
-        {
-          "name": "David Sylvian",
-          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 282973,
-      "name": "Forbidden Colors",
-      "url": "https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf"
+      "duration_ms": 318773,
+      "name": "Live to Tell",
+      "url": "https://open.spotify.com/track/4osrEm2iY3QcTUcQuFUtfW"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -755,18 +755,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+        "name": "Merry Christmas, Mr. Lawrence",
+        "url": "https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "David Sylvian",
+          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
         }
       ],
-      "duration_ms": 318773,
-      "name": "Live to Tell",
-      "url": "https://open.spotify.com/track/4osrEm2iY3QcTUcQuFUtfW"
+      "duration_ms": 282973,
+      "name": "Forbidden Colors",
+      "url": "https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1127,6 +1131,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "White Eagle",
+        "url": "https://open.spotify.com/album/2A0SJoM4mCeUrnnahHLNOw"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 274906,
+      "name": "White Eagle - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5NNSddZXHgTFSbH2cUaH3Y"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "The Unforgettable Fire (Remastered)",
         "url": "https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3"
       },
@@ -1155,22 +1175,6 @@
       "duration_ms": 244066,
       "name": "Otterley",
       "url": "https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "White Eagle",
-        "url": "https://open.spotify.com/album/2A0SJoM4mCeUrnnahHLNOw"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 274906,
-      "name": "White Eagle - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5NNSddZXHgTFSbH2cUaH3Y"
     },
     {
       "added_at": "2018-12-12 11:36:39",

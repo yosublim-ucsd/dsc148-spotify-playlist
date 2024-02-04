@@ -4,7 +4,7 @@
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-82 songs - 4 hr 18 min
+83 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Gina Works At Hearts](https://open.spotify.com/track/1pmYyUaRadqP14vF2U4YjC) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/70EcL4uWQPwy6tXI5L2004) | 3:37 | 2023-04-02 | 2023-04-19 |
 | [Gina Works At Hearts](https://open.spotify.com/track/3kq7FM2Ot4S1y4Gh5IPpii) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:37 | 2022-09-16 |  |
 | [Golden Retriever](https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 2:21 | 2022-10-09 |  |
-| [Grounded or Dead](https://open.spotify.com/track/6M7nNhyPts6QFD7xaDu2On) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:53 | 2023-06-03 | 2023-06-30 |
+| [Grounded or Dead](https://open.spotify.com/track/6M7nNhyPts6QFD7xaDu2On) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:53 | 2023-06-03 |  |
 | [Guillotine](https://open.spotify.com/track/6EOm9UHVPvCjPUz4UxA9Xk) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 2:11 | 2022-09-28 |  |
 | [High](https://open.spotify.com/track/2lzezhXlYVSwah9ZVlZ5fg) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:24 | 2022-09-18 | 2022-10-08 |
 | [Hope for the Best](https://open.spotify.com/track/3nQI4mYa0NPQ89dK8OKHyW) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:07 | 2023-06-03 |  |
@@ -87,7 +87,8 @@
 | [The Mess Up](https://open.spotify.com/track/2l1DgrC0PobfxiFwtN8BEo) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Ruined My Life](https://open.spotify.com/album/6DmNm4kgQ8ImBla8OvEahZ) | 3:39 | 2022-09-16 |  |
 | [Total Meltdown](https://open.spotify.com/track/4FggQNqaC7ZVzfIWRLv2N5) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:04 | 2022-09-16 |  |
 | [Tuff Luck](https://open.spotify.com/track/1otWE0vpz7LDL0TH9qUMYx) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Tuff Luck](https://open.spotify.com/album/0EZ2P9Jnb1EyqL2EE3WSL9) | 2:15 | 2023-04-08 | 2023-06-28 |
-| [Tuff Luck](https://open.spotify.com/track/6QDUktkEmZNKOyFkfco3Ko) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 2:15 | 2023-06-29 |  |
+| [Tuff Luck](https://open.spotify.com/track/6QDUktkEmZNKOyFkfco3Ko) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 2:15 | 2023-06-29 | 2024-02-04 |
+| [Tuff Luck \- Blood Red Shoes Remix](https://open.spotify.com/track/7zi8IAXelULSGfbVSOv2i3) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [Tuff Luck \(Blood Red Shoes Remix\)](https://open.spotify.com/album/6pCvuLcfU1BnAK8KduO9T9) | 2:28 | 2024-02-03 |  |
 | [Witchcraft Pt\. II](https://open.spotify.com/track/19ZiwAWlBDsgmqLUiCejKL) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 5:36 | 2022-09-19 | 2022-10-13 |
 | [Year Of The Dog \(feat\. Matt Caughthran\)](https://open.spotify.com/track/0sUONUFb9ZgIoDXKVJgTZI) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Matt Caughthran](https://open.spotify.com/artist/36eJW9b5iJvlz5p6rk8MgX) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 3:39 | 2022-09-16 |  |
 

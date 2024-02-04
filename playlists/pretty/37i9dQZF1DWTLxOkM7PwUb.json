@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 39269,
+  "num_followers": 39331,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzc5NjQyMjY1OTExNjg2NjMxYWVkMjFlNTIxZjY0OTlhMzFjMDdh",
+  "snapshot_id": "MCxlMWE3NTMzYTQzZDRhMzE1ODZjOGE5NmQ1ZjBkZDljZDFkYzVhODYx",
   "tracks": [
     {
       "added_at": "2024-01-12 03:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Colocao",
-        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 179966,
-      "name": "Colocao",
-      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "La Trampa es Ley",
         "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 141864,
       "name": "La Trampa es Ley",
       "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Colocao",
+        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179966,
+      "name": "Colocao",
+      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Wake Me",
-        "url": "https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 174335,
-      "name": "Wake Me",
-      "url": "https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9"
-    },
-    {
-      "added_at": "2024-01-12 03:00:00",
-      "album": {
         "name": "L\u00e1grimas",
         "url": "https://open.spotify.com/album/4tX5TRvNHeHey4907K7qlF"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 165332,
       "name": "L\u00e1grimas",
       "url": "https://open.spotify.com/track/444OdOAcr6hl19xXSSNui6"
+    },
+    {
+      "added_at": "2024-01-12 03:00:00",
+      "album": {
+        "name": "Wake Me",
+        "url": "https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 174335,
+      "name": "Wake Me",
+      "url": "https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9"
     },
     {
       "added_at": "2024-01-12 03:00:00",

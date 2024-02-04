@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 20573,
+  "2024-02-04": 20826,
   "date_first_scraped": "2023-08-19",
-  "description": "That's that big energy. Cover: Bad Gyal",
+  "description": "That's that big energy. Discover more Black artists and their contributions <a href=\"spotify:genre:0JQ5DAqbMKFF9bY76LXmfI\">here</a>. Cover: <a href=\"spotify:artist:3LZZPxNDGDFVSIPqf4JuEf\">Ice Spice</a>\n",
   "name": "Bounce",
   "tracks": [
     {
@@ -115,7 +115,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 186943,
       "name": "Ambrosia",
       "url": "https://open.spotify.com/track/0t4XPmrCs5f9JWo26yQdPz"
@@ -466,6 +466,24 @@
     },
     {
       "album": {
+        "name": "Bonnet",
+        "url": "https://open.spotify.com/album/55bLssbfx1SFuMIWn6085s"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129007,
+      "name": "Bonnet",
+      "url": "https://open.spotify.com/track/5qSpFu6V7hBZHNw4dN6t2S"
+    },
+    {
+      "album": {
         "name": "Booty Drop",
         "url": "https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30"
       },
@@ -599,7 +617,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 148645,
       "name": "Can't Shut Us Down - Remix",
       "url": "https://open.spotify.com/track/6MLYKykZ8CHLolDmaYKCBZ"
@@ -961,7 +979,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 199746,
       "name": "Don't Get Me Started (feat. Coi Leray & Nija)",
       "url": "https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso"
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 153600,
       "name": "Forward From Trini (feat. Skillibeng & Skeng)",
       "url": "https://open.spotify.com/track/0llFq02Nqzra7ZRfSjBxan"
@@ -1445,6 +1463,28 @@
       "duration_ms": 170086,
       "name": "Gatando la Funda",
       "url": "https://open.spotify.com/track/3eadQDgUDkKCPy2TgfPvuc"
+    },
+    {
+      "album": {
+        "name": "GEEKALEEK (feat. Cash Kidd) [Spotify OUTSIDE Version]",
+        "url": "https://open.spotify.com/album/2AcsiMcYpsiL3wsZytd14m"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Cash Kidd",
+          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146972,
+      "name": "GEEKALEEK (feat. Cash Kidd) [Spotify OUTSIDE Version]",
+      "url": "https://open.spotify.com/track/2PRuqeZxJNYdnSdPym47kF"
     },
     {
       "album": {
@@ -1961,7 +2001,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 115725,
       "name": "Ick",
       "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
@@ -2049,6 +2089,32 @@
       "duration_ms": 207763,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/1CEVdjVIYLBShPyCIojtp5"
+    },
+    {
+      "album": {
+        "name": "Jump Off",
+        "url": "https://open.spotify.com/album/2MNQyEcTDvGJ0qXQ975dhK"
+      },
+      "artists": [
+        {
+          "name": "TOME",
+          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
+        },
+        {
+          "name": "Wave Montega",
+          "url": "https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs"
+        },
+        {
+          "name": "Godflow",
+          "url": "https://open.spotify.com/artist/0QsEQ9wcaW5ruKmXNWxUJC"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Jump Off",
+      "url": "https://open.spotify.com/track/6on03Tw14NWeIjumedTL71"
     },
     {
       "album": {
@@ -3374,6 +3440,24 @@
     },
     {
       "album": {
+        "name": "Sensei",
+        "url": "https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118973,
+      "name": "Sensei",
+      "url": "https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi"
+    },
+    {
+      "album": {
         "name": "SHAKE SUMN (with Sexyy Red) [REMIX]",
         "url": "https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS"
       },
@@ -3595,10 +3679,32 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 188666,
       "name": "Sovereignty",
       "url": "https://open.spotify.com/track/0VamvzBKHLbzIPVsNx1MPg"
+    },
+    {
+      "album": {
+        "name": "Spin Da Block",
+        "url": "https://open.spotify.com/album/7GstokPr5OSvXUpxM8uu2l"
+      },
+      "artists": [
+        {
+          "name": "Chinese Kitty",
+          "url": "https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156849,
+      "name": "Spin Da Block",
+      "url": "https://open.spotify.com/track/5eYmMQuKASmneHbtciIlgK"
     },
     {
       "album": {
@@ -3621,6 +3727,32 @@
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "album": {
+        "name": "Squad Up",
+        "url": "https://open.spotify.com/album/1S2JXFkTAuO1OYBF1uvwvj"
+      },
+      "artists": [
+        {
+          "name": "Thys",
+          "url": "https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR"
+        },
+        {
+          "name": "Big Dope P",
+          "url": "https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe"
+        },
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Squad Up",
+      "url": "https://open.spotify.com/track/1MNSnH2vMRV12gDZTGwFNN"
     },
     {
       "album": {
@@ -3905,7 +4037,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 158786,
       "name": "Trenchezzz (with Nemzzz)",
       "url": "https://open.spotify.com/track/3puypQeebjOFKb9FeKdgAA"
@@ -4267,6 +4399,32 @@
       "duration_ms": 213973,
       "name": "WICKED GYAL",
       "url": "https://open.spotify.com/track/1iwXGYb4uYrRxO9mErMcj6"
+    },
+    {
+      "album": {
+        "name": "Wiggle It (feat. Mura Masa & Big Freedia)",
+        "url": "https://open.spotify.com/album/0CEB3BMVJolbpLymxvXWDE"
+      },
+      "artists": [
+        {
+          "name": "Good Morning Kevin",
+          "url": "https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73846,
+      "name": "Wiggle It (feat. Mura Masa & Big Freedia)",
+      "url": "https://open.spotify.com/track/2bBphkvCo6Z0xhvnJhpgva"
     },
     {
       "album": {

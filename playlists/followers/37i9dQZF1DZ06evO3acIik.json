@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 51857,
+  "2024-02-04": 51891,
   "date_first_scraped": "2022-09-15",
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
   "name": "This Is Montell Fish",
@@ -297,7 +297,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 194509,
       "name": "Camp",
       "url": "https://open.spotify.com/track/1WIlQub0N2uENuLhKNuZ5o"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/3A1XomhhNVD16MmJ24nK1Q"

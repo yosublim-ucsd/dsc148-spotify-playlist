@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 485643,
+  "2024-02-04": 485870,
   "date_first_scraped": "2022-04-14",
   "description": "Sitar, flute, and sounds inspired by India.",
   "name": "Indian Chill",
@@ -1787,10 +1787,28 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 513546,
       "name": "Mother's Wingspan",
       "url": "https://open.spotify.com/track/2InC8TNlBd9N5E0leI2l8G"
+    },
+    {
+      "album": {
+        "name": "Devotion 1: Blessings of the Heart",
+        "url": "https://open.spotify.com/album/3JXXSLswIpf1GNoptaXXvx"
+      },
+      "artists": [
+        {
+          "name": "Ben Leinbach",
+          "url": "https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513546,
+      "name": "Mother's Wingspan",
+      "url": "https://open.spotify.com/track/3RqQ8kwJxeFehJozV6JGnh"
     },
     {
       "album": {
@@ -3267,6 +3285,24 @@
     {
       "album": {
         "name": "Your Daily Practice: Yoga",
+        "url": "https://open.spotify.com/album/1RdGnWH0TVXNfyJQc2FBY3"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297597,
+      "name": "Your Daily Practice: Yoga",
+      "url": "https://open.spotify.com/track/4f42PbUVLUTFCQfbmt2mTd"
+    },
+    {
+      "album": {
+        "name": "Your Daily Practice: Yoga",
         "url": "https://open.spotify.com/album/0AWIN3YskVXIa36vcNTQex"
       },
       "artists": [
@@ -3295,7 +3331,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 304594,
       "name": "Your Daily Practice: Yoga",
       "url": "https://open.spotify.com/track/7qrYHP8c8pmHUbgtk8LBGs"

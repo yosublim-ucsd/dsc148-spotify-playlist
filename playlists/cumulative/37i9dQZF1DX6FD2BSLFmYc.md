@@ -4,7 +4,7 @@
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-130 songs - 8 hr 31 min
+132 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Ethereal Harmony](https://open.spotify.com/track/2NAqFzi7h1xdcIV4XPNY5r) | [Ewa Delvina](https://open.spotify.com/artist/3WTCerCMGjap4tNkKlGjsD) | [Ethereal Harmony](https://open.spotify.com/album/7oTpJCJjf6q9QRPeT6Mow0) | 2:05 | 2023-08-10 |  |
 | [Everything is Yours](https://open.spotify.com/track/2CqJKQV1e1ii2ImqbXIljE) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Everything is Yours](https://open.spotify.com/album/701v34jqtD6Pt3o78pJ71c) | 3:18 | 2023-01-13 |  |
 | [fable](https://open.spotify.com/track/2x4JUfTNw6Ht4lUxtAS0OP) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [fable](https://open.spotify.com/album/0PgDvzkzNQ54WDXqmaGgmv) | 2:29 | 2023-03-08 |  |
-| [Fata Morgana](https://open.spotify.com/track/6zRvf3jurHHzJ1n0le2Sv9) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw), [Elise](https://open.spotify.com/artist/1s2FeB2te4ulS2txcWxWiT) | [Fata Morgana](https://open.spotify.com/album/505m8WKfTZiorTjwGvxZHX) | 8:29 | 2023-04-26 |  |
+| [Fata Morgana](https://open.spotify.com/track/0OlJvKTd4vZWjvN0xSO6Di) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw), [Elise](https://open.spotify.com/artist/1s2FeB2te4ulS2txcWxWiT) | [Phenomena](https://open.spotify.com/album/7KVOWJWzUvawq9Jj3iDEWc) | 8:29 | 2023-04-26 |  |
+| [Fata Morgana](https://open.spotify.com/track/6zRvf3jurHHzJ1n0le2Sv9) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw), [Elise](https://open.spotify.com/artist/1s2FeB2te4ulS2txcWxWiT) | [Fata Morgana](https://open.spotify.com/album/505m8WKfTZiorTjwGvxZHX) | 8:29 | 2023-04-26 | 2024-02-04 |
 | [Floating Forest](https://open.spotify.com/track/6VnjI1HG4vrnkqf8BdCwN1) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Ancient Analogue](https://open.spotify.com/album/7M37zkkLECmNsbpSh0gWHR) | 3:51 | 2023-01-13 |  |
 | [Flow](https://open.spotify.com/track/24S8iaidseXQRjB95t3P4E) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Flow](https://open.spotify.com/album/7zh4s3MKpQp4Rv878PH9J5) | 4:17 | 2023-08-10 |  |
 | [Flowery Paradise](https://open.spotify.com/track/1kpKBDxwtqUWvWc5bUA6V3) | [Marth](https://open.spotify.com/artist/4ra04l1rxEPVm8Hxx1P1I8) | [SHIZUKESA](https://open.spotify.com/album/6dBXn2a8EmM1w90ouCVnfV) | 7:40 | 2022-07-18 |  |
@@ -67,7 +68,8 @@
 | [Lamrim](https://open.spotify.com/track/0x8k5gECEEFCJV5x29S8z3) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/0Dg7fosaqmafdKYLWiDp0m) | 5:08 | 2022-07-18 |  |
 | [Lee Mah Bounce](https://open.spotify.com/track/3zFtkXK3AAUk6CpbmbBXyK) | [Lek\-Singh](https://open.spotify.com/artist/2xjXGjIknfLJXWsZ11MfvI) | [Lee Mah Bounce](https://open.spotify.com/album/6fkqGUSabCMvUSOsoJ6vl5) | 2:41 | 2023-08-10 |  |
 | [Lilac Dreams](https://open.spotify.com/track/3X71zGyeqaTLYnI1PO0yW7) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/0OOUG19z97HpHhoLIfMXlE) | 4:29 | 2022-07-18 | 2022-12-01 |
-| [Lilac Dreams](https://open.spotify.com/track/4GabGOCeMRKXL5saC9xGqa) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/5ZxXawZx4LSHdQtZvdj7pt) | 4:29 | 2022-08-10 |  |
+| [Lilac Dreams](https://open.spotify.com/track/4GabGOCeMRKXL5saC9xGqa) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/5ZxXawZx4LSHdQtZvdj7pt) | 4:29 | 2022-08-10 | 2024-02-04 |
+| [Lilac Dreams](https://open.spotify.com/track/5bdxHbc288MBWc2tOjfaxe) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/0ZGHDo3OIhjU40AwHByJRy) | 4:29 | 2023-04-26 |  |
 | [Lotus Out of Water](https://open.spotify.com/track/0mzjqpWYvFxqhlrxw2LmlB) | [Hong Ting](https://open.spotify.com/artist/136i0HoKRd7qt8CJz33VtT) | [Chinese Traditional Music](https://open.spotify.com/album/5cEeSw5a0Ec5NkAo1wccYp) | 4:29 | 2022-07-18 | 2023-04-27 |
 | [Luminous Depths](https://open.spotify.com/track/1iEM7p2gfVBNv7hLQTUl6t) | [Evenfall](https://open.spotify.com/artist/1ujz71O1avTM6auwv9aDdE) | [Luminous Depths](https://open.spotify.com/album/2xYVos6PVbNySOz7RkNk7s) | 5:06 | 2022-08-10 |  |
 | [Majestic Forests](https://open.spotify.com/track/6USq62ePHETvvtOBQQZ75e) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Majestic Forests](https://open.spotify.com/album/6uTuZsHJWqMu0xKCuJfdWL) | 3:49 | 2023-03-08 |  |

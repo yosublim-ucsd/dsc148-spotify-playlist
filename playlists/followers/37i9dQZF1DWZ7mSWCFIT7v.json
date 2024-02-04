@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 100655,
+  "2024-02-04": 100699,
   "date_first_scraped": "2022-02-17",
   "description": "time-stretching granular synthesis. ",
   "name": "bleeps ^ glitches",
@@ -1625,6 +1625,24 @@
       "duration_ms": 184000,
       "name": "Diamond Beach",
       "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
+    },
+    {
+      "album": {
+        "name": "Distant Solace",
+        "url": "https://open.spotify.com/album/7odaTvennSTNVuMLArV19i"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153559,
+      "name": "Distant Solace",
+      "url": "https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B"
     },
     {
       "album": {
@@ -5943,7 +5961,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 189960,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/7liCZGCeSyqcDRKhdlglHW"

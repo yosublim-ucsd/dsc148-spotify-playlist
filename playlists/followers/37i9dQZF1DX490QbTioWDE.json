@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 674468,
+  "2024-02-04": 674864,
   "date_first_scraped": "2022-01-02",
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno  & Migrantes.",
   "name": "100% Cuarteto",
@@ -675,7 +675,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 167843,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/6BaE9YFxMmXVeo8vm33pdH"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 178816,
       "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
       "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 232269,
       "name": "Chachach\u00e1",
       "url": "https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE"
@@ -1883,7 +1883,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 174292,
       "name": "El Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA"
@@ -4658,6 +4658,28 @@
     },
     {
       "album": {
+        "name": "OJAL\u00c1",
+        "url": "https://open.spotify.com/album/0b99hEVewxNJQnnuKH8zL4"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195789,
+      "name": "OJAL\u00c1",
+      "url": "https://open.spotify.com/track/2ItF9nFswLbhAaFiZ8sEst"
+    },
+    {
+      "album": {
         "name": "Olvidala",
         "url": "https://open.spotify.com/album/1fsAciAxlvZCyGxk1h08LX"
       },
@@ -7137,7 +7159,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 254053,
       "name": "Usted Se Me Llevo la Vida",
       "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
@@ -7314,6 +7336,24 @@
     },
     {
       "album": {
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148979,
+      "name": "Y TE VAS",
+      "url": "https://open.spotify.com/track/21RG4bCz6wb3iDCshmUGYT"
+    },
+    {
+      "album": {
         "name": "Cuarteteando",
         "url": "https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN"
       },
@@ -7445,7 +7485,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 204000,
       "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"

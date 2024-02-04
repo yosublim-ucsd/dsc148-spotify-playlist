@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 32398,
+  "2024-02-04": 32399,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Romania.",
   "name": "Top 50 - Romania",
@@ -3927,6 +3927,24 @@
     {
       "album": {
         "name": "BUGATTI",
+        "url": "https://open.spotify.com/album/3alZ4K8l2pTM93XnGR208l"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160551,
+      "name": "BUGATTI",
+      "url": "https://open.spotify.com/track/4Q6a7rd2NH1BmNld68FdGM"
+    },
+    {
+      "album": {
+        "name": "BUGATTI",
         "url": "https://open.spotify.com/album/5PBXhBuqnaIayYAuTWvYAb"
       },
       "artists": [
@@ -5605,7 +5623,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 145846,
       "name": "CONTACT FATAL 2",
       "url": "https://open.spotify.com/track/5h1Zucrq9PfrPdMBryoTW5"
@@ -5955,7 +5973,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 141333,
       "name": "Cum O Dai Tu",
       "url": "https://open.spotify.com/track/5TL2ui5tdet8DSvZTaHZbe"
@@ -8917,7 +8935,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 124316,
       "name": "Femeie In Vitrina",
       "url": "https://open.spotify.com/track/42uRnEhPHYppznVq3UiOFk"
@@ -9705,7 +9723,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -10589,7 +10607,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 166014,
       "name": "Griselda Freestyle",
       "url": "https://open.spotify.com/track/5JI1AUy209IxqFcrHYvT9X"
@@ -13835,7 +13853,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 135145,
       "name": "Lalele mentolate - From \"Romina VTM\" The Movie",
       "url": "https://open.spotify.com/track/7jOlpikiyyYEpPGeJQdcnM"
@@ -19323,7 +19341,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Pentru ca",
       "url": "https://open.spotify.com/track/6xAefOqCvDKEcOjPovAMc6"

@@ -1,12 +1,12 @@
 {
   "description": "A decade full of 00s country hits! Cover: Rascal Flatts",
-  "num_followers": 776947,
+  "num_followers": 777342,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWZhNjAwZDc3M2VjNjY0NmI2NzgwMGQ5YjU2ODlhNjc4ODM5NTYz",
+  "snapshot_id": "MCw1YTdjZWNjZDRmZDNlZDBiZDZhOGQ2ZDEzYzRiOWE0ZjAwZDI1MmM5",
   "tracks": [
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Anything Goes",
-        "url": "https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Boots On",
-      "url": "https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 301986,
       "name": "A Little Bit Stronger",
       "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Anything Goes",
+        "url": "https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Boots On",
+      "url": "https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "These Are My People",
+      "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
         "name": "I'll Stay Me",
         "url": "https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 183306,
       "name": "Don't Think I Don't Think About It",
       "url": "https://open.spotify.com/track/0XfFxeXzMkIy5SWAVpOQin"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 213653,
-      "name": "These Are My People",
-      "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
+        "name": "Keep On Loving You",
+        "url": "https://open.spotify.com/album/6CtjCtRQZXjTCDe3Jiy25W"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 220106,
+      "name": "Consider Me Gone",
+      "url": "https://open.spotify.com/track/3aPu8Pt9F18y7O7AbzsC02"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
         "name": "Old Things New",
         "url": "https://open.spotify.com/album/3zxEHlYXrIXseV7gTl3CQ0"
       },
@@ -1823,18 +1839,18 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Keep On Loving You",
-        "url": "https://open.spotify.com/album/6CtjCtRQZXjTCDe3Jiy25W"
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 220106,
-      "name": "Consider Me Gone",
-      "url": "https://open.spotify.com/track/3aPu8Pt9F18y7O7AbzsC02"
+      "duration_ms": 217733,
+      "name": "My Next Thirty Years",
+      "url": "https://open.spotify.com/track/7AHw9SfOITU9Q7sj3V5vxV"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1855,22 +1871,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "My Next Thirty Years",
-      "url": "https://open.spotify.com/track/7AHw9SfOITU9Q7sj3V5vxV"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "#1s ... and then some",
         "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
@@ -1883,6 +1883,22 @@
       "duration_ms": 195586,
       "name": "Play Something Country",
       "url": "https://open.spotify.com/track/7MevrbPAGEaw1IgkaBmv82"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Greatest Hits Volume III - I'm A Survivor",
+        "url": "https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "I'm A Survivor",
+      "url": "https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1919,22 +1935,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Greatest Hits Volume III - I'm A Survivor",
-        "url": "https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "I'm A Survivor",
-      "url": "https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Some People Change",
         "url": "https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m"
       },
@@ -1947,6 +1947,22 @@
       "duration_ms": 196706,
       "name": "Lucky Man",
       "url": "https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "34 Number Ones",
+        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/6ej1QJ8eIYmhsyTlvgDajy"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1967,22 +1983,6 @@
       "duration_ms": 248800,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/18wDkct4lkK046D6gcCASs"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
-        "name": "34 Number Ones",
-        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/6ej1QJ8eIYmhsyTlvgDajy"
     },
     {
       "added_at": "2024-02-01 22:20:44",

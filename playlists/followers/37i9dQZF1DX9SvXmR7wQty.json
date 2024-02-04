@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 39606,
+  "2024-02-04": 39610,
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Lara Fabian",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Valence",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -509,6 +509,24 @@
       "duration_ms": 162778,
       "name": "3 accords",
       "url": "https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ"
+    },
+    {
+      "album": {
+        "name": "3 MAI 2025",
+        "url": "https://open.spotify.com/album/0d8htTTZxOtwNGLB3wg3KG"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166143,
+      "name": "3 MAI 2025",
+      "url": "https://open.spotify.com/track/4DgjfqlglUMebNAekQ0uQT"
     },
     {
       "album": {
@@ -2032,6 +2050,24 @@
     },
     {
       "album": {
+        "name": "\u00c0 demain peut-\u00eatre",
+        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
+      },
+      "artists": [
+        {
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179706,
+      "name": "Anomie",
+      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
+    },
+    {
+      "album": {
         "name": "Vingt-deux",
         "url": "https://open.spotify.com/album/3fmOPx6xuF1RA9yPunOwis"
       },
@@ -2944,6 +2980,32 @@
     },
     {
       "album": {
+        "name": "Avec classe (feat. Aya Nakamura & Trinix)",
+        "url": "https://open.spotify.com/album/2PeOwsFqU4M5IabYcuMnAL"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        },
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186071,
+      "name": "Avec classe (feat. Aya Nakamura & Trinix)",
+      "url": "https://open.spotify.com/track/2RqZ8JUBXP4C0nzttGnTL1"
+    },
+    {
+      "album": {
         "name": "Avec elle",
         "url": "https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg"
       },
@@ -3313,6 +3375,24 @@
       "duration_ms": 265426,
       "name": "Baleine et moi (take 10)",
       "url": "https://open.spotify.com/track/1qKGgaZnRL3dQxJqFWrWE9"
+    },
+    {
+      "album": {
+        "name": "Balle Courbe",
+        "url": "https://open.spotify.com/album/3lIkAxv5KylJhSBoPXk5Dq"
+      },
+      "artists": [
+        {
+          "name": "Zagata",
+          "url": "https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "Balle Courbe",
+      "url": "https://open.spotify.com/track/0HBQUemZHQZdW3npRpKREc"
     },
     {
       "album": {
@@ -6273,7 +6353,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 236965,
       "name": "Ce qu'on aura",
       "url": "https://open.spotify.com/track/7hHXK4lcDDjgfR7hwPYhhl"
@@ -6605,7 +6685,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 148800,
       "name": "Chanson pour toi",
       "url": "https://open.spotify.com/track/7CcVagVQtlFQL5CiXsP159"
@@ -8135,7 +8215,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 175800,
       "name": "CONNEXION",
       "url": "https://open.spotify.com/track/75Dy7b1yzlIJ8YNFMrWpV4"
@@ -9610,6 +9690,24 @@
     },
     {
       "album": {
+        "name": "DBD",
+        "url": "https://open.spotify.com/album/2hbQVixIQE1V4kashw9Q2P"
+      },
+      "artists": [
+        {
+          "name": "Guessmi",
+          "url": "https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125714,
+      "name": "DBD",
+      "url": "https://open.spotify.com/track/56w3BkZjlr0KXzCqJiQkfm"
+    },
+    {
+      "album": {
         "name": "De l'air",
         "url": "https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV"
       },
@@ -9751,7 +9849,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 182037,
       "name": "DELLALI (feat. Hamza)",
       "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
@@ -10281,7 +10379,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 178213,
       "name": "Devenir vieux",
       "url": "https://open.spotify.com/track/3rYr3j4Wjhvg9W8gK7ek63"
@@ -15156,6 +15254,24 @@
     },
     {
       "album": {
+        "name": "Give It Up",
+        "url": "https://open.spotify.com/album/0Mzb4ZfQ20WBClaXY3rkmx"
+      },
+      "artists": [
+        {
+          "name": "20Some",
+          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183094,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/7i80uzQZleCTVD7231iWTk"
+    },
+    {
+      "album": {
         "name": "Glam",
         "url": "https://open.spotify.com/album/0limMkqQ5HILZa6E9zGMY2"
       },
@@ -16559,7 +16675,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 202886,
       "name": "I Got U (feat. Niska)",
       "url": "https://open.spotify.com/track/1jSJOq8PEYMnSdonuMz4eK"
@@ -17867,7 +17983,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 226666,
       "name": "J'fais des efforts",
       "url": "https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA"
@@ -18979,7 +19095,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 201641,
       "name": "Je Sais",
       "url": "https://open.spotify.com/track/6d3E2bDNH3nxanxCObVNPm"
@@ -19023,7 +19139,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 226726,
       "name": "Je suis fou",
       "url": "https://open.spotify.com/track/2u6z1c1TruNQeNVv0xw1HT"
@@ -19135,6 +19251,24 @@
       "duration_ms": 140368,
       "name": "Je t'haine",
       "url": "https://open.spotify.com/track/1Rn1zphLtXbGF436KG5Ft9"
+    },
+    {
+      "album": {
+        "name": "Je te dirai tout",
+        "url": "https://open.spotify.com/album/03IRytXE6d67O40ixx6Xa2"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Cossette",
+          "url": "https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170560,
+      "name": "Je te dirai tout",
+      "url": "https://open.spotify.com/track/7u6H9XrZXYVaRa09dnyhkK"
     },
     {
       "album": {
@@ -24409,7 +24543,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 172303,
       "name": "Liens de sang",
       "url": "https://open.spotify.com/track/31SWi3hoe6mC7hxQ4mK8eV"
@@ -24427,7 +24561,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 145525,
       "name": "Life Is Life (C'est la vie)",
       "url": "https://open.spotify.com/track/1ds4c5ehLBwn8PEghUMbTl"
@@ -28005,7 +28139,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 207922,
       "name": "Mourir Demain",
       "url": "https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp"
@@ -30195,7 +30329,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 197453,
       "name": "O\u00f9 es-tu Henri ?",
       "url": "https://open.spotify.com/track/3HFVdVdgGnZcAFfJGVC83W"
@@ -31039,7 +31173,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 154267,
       "name": "Pas tr\u00e8s perspicace",
       "url": "https://open.spotify.com/track/2KfzBQtWlCgDsMiHP4twzK"
@@ -31249,6 +31383,24 @@
       "duration_ms": 157893,
       "name": "Pena Duro",
       "url": "https://open.spotify.com/track/0Bqj2Umn6ft60B2pWXKnLF"
+    },
+    {
+      "album": {
+        "name": "La nuit s'ach\u00e8ve",
+        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213033,
+      "name": "Penchant",
+      "url": "https://open.spotify.com/track/0fXwyARl8s52pZZPeYArNj"
     },
     {
       "album": {
@@ -32016,6 +32168,24 @@
     },
     {
       "album": {
+        "name": "Alb\u00e9do",
+        "url": "https://open.spotify.com/album/36nNnyExlLDkLFYQAS3QkQ"
+      },
+      "artists": [
+        {
+          "name": "Totalement Sublime",
+          "url": "https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160874,
+      "name": "Plongeon vers le haut",
+      "url": "https://open.spotify.com/track/3Qwxigh8AYGVdtoCGpEzqf"
+    },
+    {
+      "album": {
         "name": "PLUS FORT",
         "url": "https://open.spotify.com/album/68N37Y1WWxgs9Px37a9Xuq"
       },
@@ -32183,7 +32353,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 189626,
       "name": "POISON",
       "url": "https://open.spotify.com/track/3Z29095berlRpJ3R31ZXmD"
@@ -35004,6 +35174,24 @@
     },
     {
       "album": {
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST"
+      },
+      "artists": [
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161213,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX"
+    },
+    {
+      "album": {
         "name": "Rom\u00e9o",
         "url": "https://open.spotify.com/album/7a7jB2FB6s7iGMCYusSxM2"
       },
@@ -36709,7 +36897,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 163013,
       "name": "Shooter",
       "url": "https://open.spotify.com/track/7l8gtKRBrpmHWChkwS0v1z"
@@ -37293,6 +37481,28 @@
       "duration_ms": 177204,
       "name": "Solo",
       "url": "https://open.spotify.com/track/7AbngawBVogPrrUtLKxXLu"
+    },
+    {
+      "album": {
+        "name": "Maestro",
+        "url": "https://open.spotify.com/album/4XXELNvJzTbvToKxjQLR1O"
+      },
+      "artists": [
+        {
+          "name": "Domeno",
+          "url": "https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y"
+        },
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196398,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/0SyxMkYIfwkWKyQxSqhxHe"
     },
     {
       "album": {
@@ -40875,7 +41085,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 178500,
       "name": "Tu connais mon nom",
       "url": "https://open.spotify.com/track/3yFvxH76jUG9LAPg0E6SbP"
@@ -42203,6 +42413,28 @@
       "duration_ms": 190815,
       "name": "Vautours",
       "url": "https://open.spotify.com/track/3Z6CZX1swZYFc4vInNQzIO"
+    },
+    {
+      "album": {
+        "name": "VDM (feat. Leto)",
+        "url": "https://open.spotify.com/album/3yC77NQtuhVxH0uLc8Jhvj"
+      },
+      "artists": [
+        {
+          "name": "Lamatrix",
+          "url": "https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211463,
+      "name": "VDM (feat. Leto)",
+      "url": "https://open.spotify.com/track/2Bgh9sUZDtRo43Z491TaBd"
     },
     {
       "album": {
@@ -43545,7 +43777,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 157625,
       "name": "Yemma",
       "url": "https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2"
@@ -43657,7 +43889,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 215652,
       "name": "Zen",
       "url": "https://open.spotify.com/track/5Mb0Te31hcc1koQ0jWZUwC"
@@ -43925,7 +44157,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 341560,
       "name": "\u00c0 La Faveur De L'automne",
       "url": "https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe"
@@ -44285,7 +44517,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 159299,
       "name": "\u00c7a c'est bien",
       "url": "https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX"
@@ -44729,7 +44961,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 193254,
       "name": "\u00catre moi",
       "url": "https://open.spotify.com/track/1fJA0kPVpENDuoeUuCfHwZ"

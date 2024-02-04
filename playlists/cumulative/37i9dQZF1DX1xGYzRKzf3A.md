@@ -4,7 +4,7 @@
 
 > 45 grados y un chingo de cerveza..\. ¡Así suena el noreste!
 
-157 songs - 9 hr 47 min
+158 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 | 2023-06-16 |  |
 | [Cumbia de la Sabana](https://open.spotify.com/track/46Y0KrTfL2yMKOk7tdJoOT) | [Poder Vallenato](https://open.spotify.com/artist/0I7Eh63ngnKYSkVzp2WHJ2) | [15 exitos pa'gozar](https://open.spotify.com/album/3fBX0WDMRmV09E5jg6TbhO) | 3:32 | 2023-11-08 |  |
 | [Cumbia De Las Velas](https://open.spotify.com/track/1F2HeaOVvxpdfYl4K0NajA) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA), [APV Passion Vallenata](https://open.spotify.com/artist/1GFNcjJzY32ZVEeP3gyu9X) | [Cumbia De Las Velas](https://open.spotify.com/album/4iB78CfVjDQUyOjY5GKmHF) | 4:53 | 2023-11-08 |  |
-| [Cumbia de Mis Amores \- Cover En Vivo](https://open.spotify.com/track/6ZHxgkTUjoXn8k58CjFdkP) | [Regio Cumbiero](https://open.spotify.com/artist/59jFbMnPvm9yO67bzIgShL) | [Cumbia de Mis Amores \(Cover En Vivo\)](https://open.spotify.com/album/5sXqioTLdE9dkwtXDcyjnt) | 5:22 | 2023-11-08 |  |
+| [Cumbia de Mis Amores \- Cover En Vivo](https://open.spotify.com/track/6ZHxgkTUjoXn8k58CjFdkP) | [Regio Cumbiero](https://open.spotify.com/artist/59jFbMnPvm9yO67bzIgShL) | [Cumbia de Mis Amores \(Cover En Vivo\)](https://open.spotify.com/album/5sXqioTLdE9dkwtXDcyjnt) | 5:22 | 2023-11-08 | 2024-02-04 |
 | [Cumbia de Nuevo León](https://open.spotify.com/track/4ibivMUDrnGixov6ca0FML) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Cumbia Embajadora](https://open.spotify.com/album/3UGYBi2lUmY2RaCKthRugd) | 3:38 | 2023-06-16 |  |
 | [Cumbia Del Corazón](https://open.spotify.com/track/4dURe03os9BAxIO0RThU28) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Cumbia Del Corazón](https://open.spotify.com/album/3mfwypID037UHlutwTYINo) | 3:17 | 2023-06-16 |  |
 | [Cumbia Del Monte](https://open.spotify.com/track/2NIaRMvGcnknZf7g9u2q54) | [La Tropa Colombiana](https://open.spotify.com/artist/1hMLdrvmciHDcdNsXGooHx) | [El Meneaito](https://open.spotify.com/album/0nWJ6HjXva47xU1TA3zxPl) | 3:25 | 2023-06-16 |  |
@@ -130,6 +130,7 @@
 | [Que Vuelva](https://open.spotify.com/track/4lplPo03pTF41laFOsu7xr) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Lenguaje Universal](https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc) | 4:22 | 2023-06-16 |  |
 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2023-06-16 |  |
 | [Quien Perdera](https://open.spotify.com/track/6UsPWRpytDo7qZUzqxO4fA) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Estan De Moda](https://open.spotify.com/album/1Fkn6Cz8jObUYOeDqk7OMQ) | 4:45 | 2023-06-16 |  |
+| [Quiero Volar](https://open.spotify.com/track/5eHBwnbKua85GTAOaSaMqn) | [Jorge Meza](https://open.spotify.com/artist/6tZZ41M87iMusAZqcEDqSt), [y Su Tropicolombia](https://open.spotify.com/artist/1j6CwJDQ5JAwZJsYuIS0Yc) | [Quiero Volar](https://open.spotify.com/album/4xe7zD2yjkpRElKHwT9eYW) | 4:46 | 2023-11-08 |  |
 | [Quiero Volar](https://open.spotify.com/track/4KjYJXjnkHfEtJtSNUX2CO) | [Jorge Meza Y Su Tropi Colombia](https://open.spotify.com/artist/745IcJOBUvnbNsDKAMyUVa) | [25 Exitos De Oro](https://open.spotify.com/album/4Jdm5lcAdUPVswN57HShNy) | 4:46 | 2023-06-16 | 2024-02-02 |
 | [Quiero Volar](https://open.spotify.com/track/4WU4Bliu90KAVOXymgmraL) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jr\. Santiago](https://open.spotify.com/artist/4VN2AdbQ4MoBdtix3JbA21), [Julián Rojas](https://open.spotify.com/artist/3TXxyYKiTBCD2kpenWIUCu) | [La Combinacion Vallenata Elite Vol\. 5](https://open.spotify.com/album/7dzVsV1IrlFyrEcYr2KIR6) | 4:57 | 2023-06-16 |  |
 | [Quisiera Ser Una Lágrima](https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:58 | 2023-06-16 |  |

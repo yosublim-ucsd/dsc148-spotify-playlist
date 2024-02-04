@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 34947,
+  "2024-02-04": 34944,
   "date_first_scraped": "2023-12-14",
   "description": "All your favourite Country songs in one place! Featuring: <a href=\"https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG?si=wKmxFkhFSnukEMGmNd8pSg\"> The Castellows</a>, Zach Bryan, Bailey Zimmerman, Warren Zeiders, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more",
   "name": "Complete Country",
@@ -234,6 +234,24 @@
     },
     {
       "album": {
+        "name": "Chapter & Verse",
+        "url": "https://open.spotify.com/album/4pfspuo0DUzho0hGtZHI9r"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "Dance Like No One\u2019s Watching",
+      "url": "https://open.spotify.com/track/5FpEdufuunZqzyQbyetevf"
+    },
+    {
+      "album": {
         "name": "Date Night (feat. Morgan Evans)",
         "url": "https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN"
       },
@@ -256,6 +274,24 @@
     },
     {
       "album": {
+        "name": "Devil You Know",
+        "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192693,
+      "name": "Devil You Know",
+      "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
+    },
+    {
+      "album": {
         "name": "Falls Into Place",
         "url": "https://open.spotify.com/album/7xmCM7jG3BDjQlPWiqgETl"
       },
@@ -267,7 +303,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 213443,
       "name": "Falls Into Place",
       "url": "https://open.spotify.com/track/3qGmFd9KeyjUv1D3BuSST5"
@@ -339,7 +375,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 206133,
       "name": "Friends",
       "url": "https://open.spotify.com/track/7yZxBR1o5HBbS40fV9KlWh"
@@ -418,6 +454,24 @@
     },
     {
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/3aDLPo5dzrgHUYJlmp2YBM"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222466,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/4k0pqjIpfO7WV3eFUTgL9m"
+    },
+    {
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -427,7 +481,7 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         },
         {
-          "name": "The War and Treaty",
+          "name": "The War And Treaty",
           "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
@@ -611,6 +665,24 @@
       "duration_ms": 188421,
       "name": "I\u2019ll Be Damned",
       "url": "https://open.spotify.com/track/69Asb7QVKn11cRDpbwPpcY"
+    },
+    {
+      "album": {
+        "name": "Just To Say We Did",
+        "url": "https://open.spotify.com/album/5BJeHSoN3NyGr3WGk4urF0"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155573,
+      "name": "Just To Say We Did",
+      "url": "https://open.spotify.com/track/3xq1nVP7GdWKaWsv0oZ4lT"
     },
     {
       "album": {
@@ -1063,7 +1135,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 182466,
       "name": "Take Her Home",
       "url": "https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ"
@@ -1427,7 +1499,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 149973,
       "name": "Worst In Me",
       "url": "https://open.spotify.com/track/2jMetr6nF6WLRPzRmGh1Pc"

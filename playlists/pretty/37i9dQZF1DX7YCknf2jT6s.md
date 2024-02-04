@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Yussef Dayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,914 likes - 100 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,005 likes - 100 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [The Junglist \- Bonus Track](https://open.spotify.com/track/0Ew7cCW9CQWEZX8KrOIiFk) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn \(10th Anniversary Remaster\)](https://open.spotify.com/album/6KPAS8bKufxqev7XFgg8ss) | 5:18 |
 | 100 | [Winter](https://open.spotify.com/track/3HlO9LOzWYtazt0URqky8r) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Matthew Sheens](https://open.spotify.com/artist/0JPXDx4VWAKMfFCVg2mw5E), [Matt Penman](https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k) | [Crisis & Opportunity, Vol.4 \- Meditations](https://open.spotify.com/album/4xl86Mx1lHtBaH2y6HrLMb) | 7:48 |
 
-Snapshot ID: `MCxkOTM1MWIwZDU0NGNmNTYzN2FlM2E1MjgxMTY4YWRkZmY4ZTFkOTIy`
+Snapshot ID: `MCw5ZmViM2JmMmZjOWJkNDA4YTI0MmJhNGEwMjhmNWMyMzZiZTk0ODBm`

@@ -1,12 +1,12 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 feat. Amara",
-  "num_followers": 27269,
+  "num_followers": 27279,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGE5YTMxYjNhNjMxODQxYTk5Y2JhMDU0NWRmNDgwODQ0ZTQ4YTE2",
+  "snapshot_id": "MCw4YzIzNmIxZTZiNzNmMGYzNDk1MTQwZTc1MTZkMTFhMTNlZThlYzRh",
   "tracks": [
     {
       "added_at": "2024-02-01 23:00:00",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "\u00d6verallt",
-        "url": "https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 125092,
-      "name": "\u00d6verallt",
-      "url": "https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Dans fr\u00e5n dig",
         "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
       },
@@ -155,22 +139,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "In Memory Of Some Stand Up Guys",
-        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/3RxlMZgbTxoiGFTaSjX2Hk"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "En g\u00e5ng till",
         "url": "https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD"
       },
@@ -187,6 +155,22 @@
       "duration_ms": 145000,
       "name": "En g\u00e5ng till",
       "url": "https://open.spotify.com/track/2vd8CskGdduZW0LvVvXW7f"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "In Memory Of Some Stand Up Guys",
+        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/3RxlMZgbTxoiGFTaSjX2Hk"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -335,6 +319,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/0Zpv2L3usXFp6RWzcGBKeI"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 138085,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3vFlpYjJgaTHe0B5LGNaBy"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "In Memory Of Some Stand Up Guys",
         "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
       },
@@ -367,18 +367,18 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/0Zpv2L3usXFp6RWzcGBKeI"
+        "name": "Sjunka",
+        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
       },
       "artists": [
         {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
         }
       ],
-      "duration_ms": 138085,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/3vFlpYjJgaTHe0B5LGNaBy"
+      "duration_ms": 133375,
+      "name": "Sjunka",
+      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -395,22 +395,6 @@
       "duration_ms": 132150,
       "name": "Du & Jag",
       "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Sjunka",
-        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 133375,
-      "name": "Sjunka",
-      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -523,6 +507,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "PRAPAPA",
+        "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 124812,
+      "name": "PRAPAPA",
+      "url": "https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Standard",
         "url": "https://open.spotify.com/album/3klHl3l7VxUautqwwQc678"
       },
@@ -539,26 +539,6 @@
       "duration_ms": 127209,
       "name": "Standard",
       "url": "https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Kod R\u00f6d",
-        "url": "https://open.spotify.com/album/6ghcTg1cb6We9GWZGOWOgH"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        },
-        {
-          "name": "Shenzi Beats",
-          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "We Lit",
-      "url": "https://open.spotify.com/track/48Cgrs2KhleyXMRtoOSbK5"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -619,18 +599,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "PRAPAPA",
-        "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
+        "name": "Kod R\u00f6d",
+        "url": "https://open.spotify.com/album/6ghcTg1cb6We9GWZGOWOgH"
       },
       "artists": [
         {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "Shenzi Beats",
+          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
         }
       ],
-      "duration_ms": 124812,
-      "name": "PRAPAPA",
-      "url": "https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq"
+      "duration_ms": 153600,
+      "name": "We Lit",
+      "url": "https://open.spotify.com/track/48Cgrs2KhleyXMRtoOSbK5"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -735,22 +719,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R"
-      },
-      "artists": [
-        {
-          "name": "Sarettii",
-          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
-        }
-      ],
-      "duration_ms": 166216,
-      "name": "WAKA WAKA",
-      "url": "https://open.spotify.com/track/2g6O4J9ktUjorMkgyhglYP"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Gata",
         "url": "https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs"
       },
@@ -763,6 +731,22 @@
       "duration_ms": 155825,
       "name": "Gata",
       "url": "https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R"
+      },
+      "artists": [
+        {
+          "name": "Sarettii",
+          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
+        }
+      ],
+      "duration_ms": 166216,
+      "name": "WAKA WAKA",
+      "url": "https://open.spotify.com/track/2g6O4J9ktUjorMkgyhglYP"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -787,22 +771,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "K\u00e4nslokall",
-        "url": "https://open.spotify.com/album/0by3vmltZZetCzPLg90D1p"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 123169,
-      "name": "K\u00e4nslokall",
-      "url": "https://open.spotify.com/track/4eamNeQdsYOWCxqm6s4r8w"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "WONDERLAND",
         "url": "https://open.spotify.com/album/7GDX1d31ZisU5CHDdMHyFy"
       },
@@ -819,22 +787,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Benzin",
-        "url": "https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 116420,
-      "name": "Benzin",
-      "url": "https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Feeling Myself",
         "url": "https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU"
       },
@@ -847,6 +799,22 @@
       "duration_ms": 182769,
       "name": "Feeling Myself",
       "url": "https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Benzin",
+        "url": "https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 116420,
+      "name": "Benzin",
+      "url": "https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -907,6 +875,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Palmerna",
+        "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "duration_ms": 147013,
+      "name": "Palmerna",
+      "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Dyra notor",
         "url": "https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL"
       },
@@ -931,22 +915,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Palmerna",
-        "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
-      },
-      "artists": [
-        {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        }
-      ],
-      "duration_ms": 147013,
-      "name": "Palmerna",
-      "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Hoodrich",
         "url": "https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9"
       },
@@ -959,22 +927,6 @@
       "duration_ms": 144890,
       "name": "Hoodrich",
       "url": "https://open.spotify.com/track/0xNm2tIbdqPfNUJhVfDHrO"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "MANDANA",
-        "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
-      },
-      "artists": [
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
-        }
-      ],
-      "duration_ms": 123149,
-      "name": "MANDANA",
-      "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -995,6 +947,22 @@
       "duration_ms": 161258,
       "name": "Ledare",
       "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "MANDANA",
+        "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
+      },
+      "artists": [
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "duration_ms": 123149,
+      "name": "MANDANA",
+      "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1067,22 +1035,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Top Notch",
-        "url": "https://open.spotify.com/album/4bc8UZIOPt9TIw4D9mnhki"
-      },
-      "artists": [
-        {
-          "name": "Mohel\u00e1",
-          "url": "https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ"
-        }
-      ],
-      "duration_ms": 148085,
-      "name": "Top Notch",
-      "url": "https://open.spotify.com/track/5QrHaI2f2gTwDLMvV14ecf"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Sprite",
         "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
       },
@@ -1099,18 +1051,18 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Salam",
-        "url": "https://open.spotify.com/album/56xgHK320guDeJaXou4VQu"
+        "name": "Top Notch",
+        "url": "https://open.spotify.com/album/4bc8UZIOPt9TIw4D9mnhki"
       },
       "artists": [
         {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+          "name": "Mohel\u00e1",
+          "url": "https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ"
         }
       ],
-      "duration_ms": 137861,
-      "name": "Salam",
-      "url": "https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz"
+      "duration_ms": 148085,
+      "name": "Top Notch",
+      "url": "https://open.spotify.com/track/5QrHaI2f2gTwDLMvV14ecf"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1131,22 +1083,18 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Seri\u00f8s (feat. Amara)",
-        "url": "https://open.spotify.com/album/680vIkkksZ7C7MOoLMNbwS"
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/56xgHK320guDeJaXou4VQu"
       },
       "artists": [
         {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        },
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
         }
       ],
-      "duration_ms": 156774,
-      "name": "Seri\u00f8s (feat. Amara)",
-      "url": "https://open.spotify.com/track/1sEYjmfPxDMS0tRxEqbWTy"
+      "duration_ms": 137861,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/2mHppKj9X1ixv9miy2cdoz"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1171,6 +1119,26 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Seri\u00f8s (feat. Amara)",
+        "url": "https://open.spotify.com/album/680vIkkksZ7C7MOoLMNbwS"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        },
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "Seri\u00f8s (feat. Amara)",
+      "url": "https://open.spotify.com/track/1sEYjmfPxDMS0tRxEqbWTy"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Det var aldri meg",
         "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
       },
@@ -1183,26 +1151,6 @@
       "duration_ms": 194526,
       "name": "Ment for hverandre",
       "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Boys I D Bl\u00e5",
-        "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        },
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        }
-      ],
-      "duration_ms": 133130,
-      "name": "Boys I D Bl\u00e5",
-      "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1227,6 +1175,26 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Boys I D Bl\u00e5",
+        "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        },
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        }
+      ],
+      "duration_ms": 133130,
+      "name": "Boys I D Bl\u00e5",
+      "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Vidunderbarn",
         "url": "https://open.spotify.com/album/1CKWqVN71ZYjeJLQfjUUT3"
       },
@@ -1239,6 +1207,22 @@
       "duration_ms": 187874,
       "name": "Vidunderbarn",
       "url": "https://open.spotify.com/track/4tF8PXK6pa5GkDUONmhVqN"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "N\u00e5nting i Luften",
+        "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "N\u00e5nting i Luften",
+      "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1283,22 +1267,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "N\u00e5nting i Luften",
-        "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "N\u00e5nting i Luften",
-      "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "LEVENDE LEGENDE",
         "url": "https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb"
       },
@@ -1315,22 +1283,6 @@
       "duration_ms": 250060,
       "name": "LEVENDE LEGENDE",
       "url": "https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Slipp deg l\u00f8s",
-        "url": "https://open.spotify.com/album/5FVmiogqIdetltYzFAj67K"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 123809,
-      "name": "Slipp deg l\u00f8s",
-      "url": "https://open.spotify.com/track/6xMpDmxF3jsTrBBKuYFmJq"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1355,26 +1307,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "SIPPER",
-        "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
-      },
-      "artists": [
-        {
-          "name": "Beathoven",
-          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
-        },
-        {
-          "name": "Dutty Dior",
-          "url": "https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg"
-        }
-      ],
-      "duration_ms": 135333,
-      "name": "SIPPER",
-      "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "El Capitan",
         "url": "https://open.spotify.com/album/25kQ3wHzvTx8jAYlRPwwpI"
       },
@@ -1391,6 +1323,42 @@
       "duration_ms": 179422,
       "name": "El Capitan",
       "url": "https://open.spotify.com/track/50pLigCzqMbGWECXW3P4yR"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Slipp deg l\u00f8s",
+        "url": "https://open.spotify.com/album/5FVmiogqIdetltYzFAj67K"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 123809,
+      "name": "Slipp deg l\u00f8s",
+      "url": "https://open.spotify.com/track/6xMpDmxF3jsTrBBKuYFmJq"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "SIPPER",
+        "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
+      },
+      "artists": [
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        },
+        {
+          "name": "Dutty Dior",
+          "url": "https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg"
+        }
+      ],
+      "duration_ms": 135333,
+      "name": "SIPPER",
+      "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1427,6 +1395,42 @@
       "duration_ms": 186123,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Har du glemt meg?",
+        "url": "https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY"
+      },
+      "artists": [
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "Har du glemt meg?",
+      "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Kvar - Spotify Studio 100 Recording",
+        "url": "https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL"
+      },
+      "artists": [
+        {
+          "name": "Alawee",
+          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
+        },
+        {
+          "name": "Youzie",
+          "url": "https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "Kvar - Spotify Studio 100 Recording",
+      "url": "https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi"
     }
   ],
   "unique_name": "100 (2)",

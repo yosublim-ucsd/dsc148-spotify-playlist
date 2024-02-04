@@ -4,7 +4,7 @@
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: Gioli & Assia
 
-1,061 songs - 2 day 9 hr 37 min
+1,062 songs - 2 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,8 @@
 | [guho](https://open.spotify.com/track/2TRzTQjxpMGr0pC4pFsGkF) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0) | [guho](https://open.spotify.com/album/7h3X5100yBreMGlOQFDswl) | 3:32 | 2023-03-07 | 2023-04-01 |
 | [Guilty Conscience](https://open.spotify.com/track/5f4O6EoPQRLjTY9waVSamq) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Analysis Paralysis](https://open.spotify.com/album/6jXVI1qo7iRCK8GrnMsjW7) | 1:58 | 2023-09-12 | 2023-10-11 |
 | [Hacia el Fondo \- En Vivo](https://open.spotify.com/track/5TBEXPwE9N1ewl0S9BioRi) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [La Explosión de los Pájaros \(En Vivo\)](https://open.spotify.com/album/1yb85mqcjKVMhtH6ArF6lr) | 4:03 | 2023-04-13 | 2023-05-10 |
-| [Hand to Hand](https://open.spotify.com/track/4AaVY4XuXeHJZwUBSRSoC6) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Hand to Hand](https://open.spotify.com/album/7HUM44SiRxsE6TXDjNF7wp) | 3:46 | 2024-01-10 |  |
+| [Hand to Hand](https://open.spotify.com/track/4AaVY4XuXeHJZwUBSRSoC6) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Hand to Hand](https://open.spotify.com/album/7HUM44SiRxsE6TXDjNF7wp) | 3:46 | 2024-01-10 | 2024-02-04 |
+| [Hand to Hand](https://open.spotify.com/track/7i4onkA2fRuV0viFNWINID) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 3:46 | 2024-01-10 |  |
 | [Hard 4 You](https://open.spotify.com/track/5p0St6b2WyviwA6jMsA5nG) | [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Hard 4 You](https://open.spotify.com/album/0RkfVEAdbTX0P0CRDHYjm5) | 2:59 | 2023-08-08 | 2023-10-11 |
 | [Hard To Be](https://open.spotify.com/track/325NzsIToV1028QGvUXBa1) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Hard To Be](https://open.spotify.com/album/66VsC4E6NmpkcMC03kraZz) | 3:24 | 2023-04-13 | 2023-06-02 |
 | [Hardcore](https://open.spotify.com/track/3gHOThR42dJBUnlbNoCQEF) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Hardcore](https://open.spotify.com/album/3EB8voAV8PNRicdD6KDtFV) | 4:08 | 2022-05-13 | 2022-05-20 |

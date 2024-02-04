@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 62918,
+  "2024-02-04": 62914,
   "date_first_scraped": "2023-07-23",
-  "description": "Ou\u00e7a as novidades da cena eletr\u00f4nica. Foto: RED\u00dcKT",
+  "description": "Ou\u00e7a as novidades da cena eletr\u00f4nica. Foto: ZAC",
   "name": "Novos Beats",
   "tracks": [
     {
@@ -2755,7 +2755,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 172000,
       "name": "Take Me Up",
       "url": "https://open.spotify.com/track/6BSqFOO1C1rwU6Wqg7kvhU"
@@ -3035,6 +3035,24 @@
       "duration_ms": 146666,
       "name": "Try",
       "url": "https://open.spotify.com/track/6SdMZ4jklZZNtuzNVQZPCY"
+    },
+    {
+      "album": {
+        "name": "TUCUPI",
+        "url": "https://open.spotify.com/album/5soWmdPeZdNOxuTLZ1Q2Mo"
+      },
+      "artists": [
+        {
+          "name": "ZAC",
+          "url": "https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376451,
+      "name": "TUCUPI",
+      "url": "https://open.spotify.com/track/6ZIAW5k9yTJZUvL7mbAJKq"
     },
     {
       "album": {

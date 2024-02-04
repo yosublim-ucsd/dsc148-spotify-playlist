@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 10065,
+  "2024-02-04": 10073,
   "date_first_scraped": "2023-04-05",
-  "description": "Pop para refrescarte los d\u00edas, featuring RENEE.",
+  "description": "Pop para refrescarte los d\u00edas, featuring Mariangela.",
   "name": "Crema Pop",
   "tracks": [
     {
@@ -221,6 +221,24 @@
       "duration_ms": 173893,
       "name": "Aceler\u00e9",
       "url": "https://open.spotify.com/track/0cZhddkRPufZYBkO4GxjZv"
+    },
+    {
+      "album": {
+        "name": "Sensible",
+        "url": "https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216389,
+      "name": "Acto Final",
+      "url": "https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6"
     },
     {
       "album": {
@@ -1087,7 +1105,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 144047,
       "name": "Est\u00e1 Cabron",
       "url": "https://open.spotify.com/track/25lNcYL6NRqbiRHkIlSrjU"

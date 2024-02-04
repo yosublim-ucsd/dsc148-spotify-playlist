@@ -1,12 +1,12 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2231604,
+  "num_followers": 2230953,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2ZjZjE0OWY4MjE5ZDdjNzdiMzY2OWFjNjY3M2ZhYzhmNTUzN2Fl",
+  "snapshot_id": "MCw5MzMwZWUwYWNiMzQyYzRlMDBmZjJkZDI3OTA3ODNkM2FhYThhM2Zh",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "The Woods (Acoustic)",
-        "url": "https://open.spotify.com/album/7HZod7ee2InRlQb8PRS3GI"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "The Woods - Acoustic",
-      "url": "https://open.spotify.com/track/7MIMNleq34UeRnlLRdPpGY"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 401413,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "The Woods (Acoustic)",
+        "url": "https://open.spotify.com/album/7HZod7ee2InRlQb8PRS3GI"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "The Woods - Acoustic",
+      "url": "https://open.spotify.com/track/7MIMNleq34UeRnlLRdPpGY"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Idle Mind",
-        "url": "https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW"
-      },
-      "artists": [
-        {
-          "name": "Anna Mieke",
-          "url": "https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL"
-        }
-      ],
-      "duration_ms": 295265,
-      "name": "Warped Window",
-      "url": "https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Colder Heavens - EP",
         "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 273893,
       "name": "Colder Heavens",
       "url": "https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Idle Mind",
+        "url": "https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW"
+      },
+      "artists": [
+        {
+          "name": "Anna Mieke",
+          "url": "https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL"
+        }
+      ],
+      "duration_ms": 295265,
+      "name": "Warped Window",
+      "url": "https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "You And I (Moon And Stars / Acoustic)",
-        "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "You And I - Moon And Stars / Acoustic",
-      "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "A Book Like This",
         "url": "https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 225666,
       "name": "Mango Tree",
       "url": "https://open.spotify.com/track/1zhUjkAPnvPvkKpwHB5qWT"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "You And I (Moon And Stars / Acoustic)",
+        "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "You And I - Moon And Stars / Acoustic",
+      "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -795,6 +795,22 @@
       "duration_ms": 238829,
       "name": "Faking My Own Death",
       "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/5NEitA75GDKDOET1k83LQw"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -867,18 +883,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Snow",
-        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
+        "name": "Colder Heavens - EP",
+        "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Nothing Else",
-      "url": "https://open.spotify.com/track/5NEitA75GDKDOET1k83LQw"
+      "duration_ms": 231706,
+      "name": "El B\u00faho",
+      "url": "https://open.spotify.com/track/0P52wuYOxOXkRioz4hFYzW"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -895,22 +911,6 @@
       "duration_ms": 250429,
       "name": "Resilient",
       "url": "https://open.spotify.com/track/2Nm0IGkliIwWjSBINf3KjG"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Colder Heavens - EP",
-        "url": "https://open.spotify.com/album/2Vtm2UF5puIkoaPl6CFdxA"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "El B\u00faho",
-      "url": "https://open.spotify.com/track/0P52wuYOxOXkRioz4hFYzW"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Hold Your Head Up High",
-        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Hold Your Head Up High",
-      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Song For The Thankful",
         "url": "https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 234799,
       "name": "Song For The Thankful",
       "url": "https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Hold Your Head Up High",
+        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Hold Your Head Up High",
+      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Fever To The Form",
-        "url": "https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 251184,
-      "name": "Fever To The Form",
-      "url": "https://open.spotify.com/track/7xbF5Nf1iKYmwvD9EWhJav"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "The Ghost and the Wall",
         "url": "https://open.spotify.com/album/5XY9DCBsTFRKm6EHhc2pGo"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 200893,
       "name": "You're My Home",
       "url": "https://open.spotify.com/track/2GbTLMvttdfKoz4YDjZJis"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Fever To The Form",
+        "url": "https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 251184,
+      "name": "Fever To The Form",
+      "url": "https://open.spotify.com/track/7xbF5Nf1iKYmwvD9EWhJav"
     },
     {
       "added_at": "2023-06-30 04:00:00",

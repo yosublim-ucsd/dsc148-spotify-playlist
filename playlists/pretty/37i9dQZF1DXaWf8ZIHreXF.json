@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 179820,
+  "num_followers": 179917,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjNhNTgxZjk3ODBlNGUwYTY5NDY0YzM4ODc2ZDM1ZGIxZDQyMzgz",
+  "snapshot_id": "MCwxOTE1NzMwZDBmNGZhZmZmMjhjNmIxYmZmOGNlNmE1MmUwODNhYmFh",
   "tracks": [
     {
       "added_at": "2023-08-25 09:30:35",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)",
-        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 214912,
-      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
-      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/4ZD1KnBqghtSAEyqrZAkU4"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 259933,
       "name": "My Love",
       "url": "https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)",
+        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 214912,
+      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
+      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Less Is More",
-        "url": "https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 138013,
-      "name": "Are You With Me - Radio Edit",
-      "url": "https://open.spotify.com/track/2glGP8kEfACgJdZ86kWxhN"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Intense",
         "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 204360,
       "name": "This Is What It Feels Like",
       "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 138013,
+      "name": "Are You With Me - Radio Edit",
+      "url": "https://open.spotify.com/track/2glGP8kEfACgJdZ86kWxhN"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1263,6 +1263,30 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Peace Is The Mission (Extended)",
+        "url": "https://open.spotify.com/album/1B5g6fUb4L7NnL6CCPQD6p"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Nyla",
+          "url": "https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy"
+        },
+        {
+          "name": "Fuse ODG",
+          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
+        }
+      ],
+      "duration_ms": 166138,
+      "name": "Light It Up (Remix)",
+      "url": "https://open.spotify.com/track/1qFSPn37zEeCyRiVpkW9dt"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Freaks",
         "url": "https://open.spotify.com/album/2XuqIiYNrr15UYsmll2B3z"
       },
@@ -1299,46 +1323,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Peace Is The Mission (Extended)",
-        "url": "https://open.spotify.com/album/1B5g6fUb4L7NnL6CCPQD6p"
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr"
       },
       "artists": [
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         },
         {
-          "name": "Nyla",
-          "url": "https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy"
-        },
-        {
-          "name": "Fuse ODG",
-          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
         }
       ],
-      "duration_ms": 166138,
-      "name": "Light It Up (Remix)",
-      "url": "https://open.spotify.com/track/1qFSPn37zEeCyRiVpkW9dt"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Jon Bellion",
-          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
-        }
-      ],
-      "duration_ms": 218293,
-      "name": "Beautiful Now",
-      "url": "https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL"
+      "duration_ms": 179960,
+      "name": "Sun Goes Down (feat. Jasmine Thompson) - Radio Mix",
+      "url": "https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1359,22 +1359,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr"
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         },
         {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
         }
       ],
-      "duration_ms": 179960,
-      "name": "Sun Goes Down (feat. Jasmine Thompson) - Radio Mix",
-      "url": "https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3"
+      "duration_ms": 218293,
+      "name": "Beautiful Now",
+      "url": "https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Gecko (Overdrive) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 165440,
+      "name": "Gecko (Overdrive) - Radio Edit",
+      "url": "https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Reload (Vocal Version / Radio Edit)",
         "url": "https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 221272,
       "name": "Reload - Radio Edit",
       "url": "https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Gecko (Overdrive) [Radio Edit]",
-        "url": "https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 165440,
-      "name": "Gecko (Overdrive) - Radio Edit",
-      "url": "https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Sound Of A Woman",
+        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
+      },
+      "artists": [
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 251986,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Prayer",
         "url": "https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 189399,
       "name": "Prayer in C - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/0uVyZywUNOp6S0dU5r8TS8"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Sound Of A Woman",
-        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
-      },
-      "artists": [
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 251986,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/51tUT1gHE30GQPhn1agudM"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Maty Noyes",
-          "url": "https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA"
-        }
-      ],
-      "duration_ms": 239465,
-      "name": "Stay (feat. Maty Noyes)",
-      "url": "https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "All Around The World (La La La)",
         "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 147840,
       "name": "All Around The World (La La La)",
       "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Maty Noyes",
+          "url": "https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA"
+        }
+      ],
+      "duration_ms": 239465,
+      "name": "Stay (feat. Maty Noyes)",
+      "url": "https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja"
     },
     {
       "added_at": "2023-08-25 09:30:35",

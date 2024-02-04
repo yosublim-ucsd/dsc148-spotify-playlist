@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 237073,
+  "num_followers": 237098,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWNiNzZmZmI2Yzc4MzlmMDdjNmY0MWNmM2IwYmFlZDNjMmZkNjhk",
+  "snapshot_id": "MCwzNDEyMDkyOGI5MzNhMWQzNjk3YmM4MTU2NGFlZjgzNGY2Y2UwOTU2",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Chrysaline",
-        "url": "https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 309354,
-      "name": "Closer Than a Brother",
-      "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Missing Piece",
         "url": "https://open.spotify.com/album/3cltdHvJPTK7hwtWCHgPz0"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 193007,
       "name": "Missing Piece",
       "url": "https://open.spotify.com/track/5qHg5XJtrqtHVvkkto4gYp"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Chrysaline",
+        "url": "https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 309354,
+      "name": "Closer Than a Brother",
+      "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Still Mighty",
-        "url": "https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "Still Mighty",
-      "url": "https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 252520,
       "name": "Love Over Religion",
       "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Still Mighty",
+        "url": "https://open.spotify.com/album/0fGqJjdvlODlS1d0clsMQs"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "Still Mighty",
+      "url": "https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Keep Your Head Up (Radio Version)",
-        "url": "https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r"
-      },
-      "artists": [
-        {
-          "name": "Fireflight",
-          "url": "https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy"
-        }
-      ],
-      "duration_ms": 215603,
-      "name": "Keep Your Head Up - Radio Version",
-      "url": "https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "HOPE OR NOSTALGIA LIVE",
         "url": "https://open.spotify.com/album/03mLh8NKcmNYxPW4mjIBz0"
       },
@@ -1147,6 +1131,38 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Keep Your Head Up (Radio Version)",
+        "url": "https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r"
+      },
+      "artists": [
+        {
+          "name": "Fireflight",
+          "url": "https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy"
+        }
+      ],
+      "duration_ms": 215603,
+      "name": "Keep Your Head Up - Radio Version",
+      "url": "https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Broken Places",
+        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
+      },
+      "artists": [
+        {
+          "name": "Jars Of Clay",
+          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Broken Places",
+      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/7xrtDbxo1Clr7M5YIDqJXw"
       },
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Broken Places",
-        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
-      },
-      "artists": [
-        {
-          "name": "Jars Of Clay",
-          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Broken Places",
-      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Stages Of A Breakdown",
         "url": "https://open.spotify.com/album/68BNGjFd975yYbcLvQh8oT"
       },
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "OLDER",
-        "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
-      },
-      "artists": [
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "OLDER",
-      "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Fighting Myself",
         "url": "https://open.spotify.com/album/22JJVIcCRz2yqjVH5WIZqx"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 218775,
       "name": "Fighting Myself",
       "url": "https://open.spotify.com/track/3W2UszPJ6jF0OYE5FTtetQ"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "OLDER",
+        "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
+      },
+      "artists": [
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "OLDER",
+      "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Pulp",
-        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
-      },
-      "artists": [
-        {
-          "name": "Love Ghost",
-          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
-        }
-      ],
-      "duration_ms": 239655,
-      "name": "Pulp",
-      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Mercy Shores",
         "url": "https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 206746,
       "name": "Mercy Shores",
       "url": "https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Pulp",
+        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
+      },
+      "artists": [
+        {
+          "name": "Love Ghost",
+          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+        }
+      ],
+      "duration_ms": 239655,
+      "name": "Pulp",
+      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
+      },
+      "artists": [
+        {
+          "name": "Whitefield",
+          "url": "https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP"
+        }
+      ],
+      "duration_ms": 269353,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 222108,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
-      },
-      "artists": [
-        {
-          "name": "Whitefield",
-          "url": "https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP"
-        }
-      ],
-      "duration_ms": 269353,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
     },
     {
       "added_at": "2022-12-16 05:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "for those who appreciate a curated mood \ud83e\udea9",
-  "num_followers": 830449,
+  "num_followers": 830606,
   "original_name": "aesthetic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjU4ZDMxNDBjNDE4NmUwOTg4NzgxZjA2OWUzNjI2MzMxNmVlZDE0",
+  "snapshot_id": "MCwxY2RjYzAxY2Y5Mzc4Yjc1ZDM5YWQzYjRlYmE3ZTYzMWM0NTE4MGMy",
   "tracks": [
     {
       "added_at": "2023-08-17 16:24:24",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "I Hope to Be Around",
-        "url": "https://open.spotify.com/album/34ozWQHlJCvhXmjBp7Db4M"
+        "name": "Forever Live Sessions",
+        "url": "https://open.spotify.com/album/4p73PcjJvWer7WDYXcGetn"
       },
       "artists": [
         {
-          "name": "Erica Sears",
-          "url": "https://open.spotify.com/artist/4Eom6otLBfeYp8vTs4vwhz"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
       "duration_ms": 226363,
-      "name": "I Hope to Be Around",
-      "url": "https://open.spotify.com/track/2nHgTV1nLGIjqlLxABJTHa"
+      "name": "I Hope to Be Around (Live)",
+      "url": "https://open.spotify.com/track/1EOC47ETkQCedpxemcJpal"
     },
     {
       "added_at": "2023-08-17 16:24:24",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-08-17 16:24:24",
       "album": {
-        "name": "She Likes Another Boy + Talk 2 U",
-        "url": "https://open.spotify.com/album/173xQWSgG3rzoNjJ7yskiA"
-      },
-      "artists": [
-        {
-          "name": "Oscar Lang",
-          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "She Likes Another Boy",
-      "url": "https://open.spotify.com/track/5W6BA8Wa8JZGKdliH2gkwO"
-    },
-    {
-      "added_at": "2023-08-17 16:24:24",
-      "album": {
         "name": "Morning Sex",
         "url": "https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 175312,
       "name": "Morning Sex",
       "url": "https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb"
+    },
+    {
+      "added_at": "2023-08-17 16:24:24",
+      "album": {
+        "name": "She Likes Another Boy + Talk 2 U",
+        "url": "https://open.spotify.com/album/173xQWSgG3rzoNjJ7yskiA"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lang",
+          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "She Likes Another Boy",
+      "url": "https://open.spotify.com/track/5W6BA8Wa8JZGKdliH2gkwO"
     },
     {
       "added_at": "2023-08-17 16:24:24",

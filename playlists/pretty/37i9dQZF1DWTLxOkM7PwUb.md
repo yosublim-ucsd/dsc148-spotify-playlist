@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,269 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,331 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 36 | [Romeo y Julieta](https://open.spotify.com/track/3lSfq8WiDcQXEn8sqHCTZZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:01 |
 | 37 | [ODIO](https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:30 |
 | 38 | [S.A.D](https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [S.A.D](https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm) | 2:08 |
-| 39 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 |
-| 40 | [La Trampa es Ley](https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Trampa es Ley](https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs) | 2:21 |
+| 39 | [La Trampa es Ley](https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Trampa es Ley](https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs) | 2:21 |
+| 40 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 |
 | 41 | [Bipolar](https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Bipolar](https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw) | 3:40 |
 | 42 | [Sol y Luna](https://open.spotify.com/track/1WMMrUKNFsnEG2csDURxhb) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sol y Luna](https://open.spotify.com/album/1El0UxIBwU3431TI9656dK) | 2:43 |
 | 43 | [Demasiado Tarde](https://open.spotify.com/track/5KFx45L84KmBINWLh6TEiL) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Demasiado Tarde](https://open.spotify.com/album/6ZWbDDl3KHIruXOq6rZxGa) | 4:31 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 84 | [Good Vibes](https://open.spotify.com/track/4TwIbmabI2R5XUhqptk6Ev) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Good Vibes](https://open.spotify.com/album/7iSkcdgLqXakbw8EazkZK7) | 3:55 |
 | 85 | [Slow](https://open.spotify.com/track/1x1KnF1LOtTQMZbI3XntnQ) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [KYOTTO](https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd) | [Slow](https://open.spotify.com/album/2k12JOTXBLjRdIeFSskitG) | 4:31 |
 | 86 | [CAPRICHOSO](https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [CAPRICHOSO](https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah) | 2:47 |
-| 87 | [Wake Me](https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Wake Me](https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m) | 2:54 |
-| 88 | [Lágrimas](https://open.spotify.com/track/444OdOAcr6hl19xXSSNui6) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [OCTO](https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw) | [Lágrimas](https://open.spotify.com/album/4tX5TRvNHeHey4907K7qlF) | 2:45 |
+| 87 | [Lágrimas](https://open.spotify.com/track/444OdOAcr6hl19xXSSNui6) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [OCTO](https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw) | [Lágrimas](https://open.spotify.com/album/4tX5TRvNHeHey4907K7qlF) | 2:45 |
+| 88 | [Wake Me](https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Wake Me](https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m) | 2:54 |
 | 89 | [CARAMELOS](https://open.spotify.com/track/4gC0DGimATZgd8lZW4n0aR) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [CARAMELOS](https://open.spotify.com/album/3xfXp5kKVbWTMvO7bmOGWQ) | 2:45 |
 | 90 | [Una Semana](https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Una Semana](https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY) | 3:03 |
 | 91 | [TU CINTURA](https://open.spotify.com/track/35rGCxanzxooL6R32BuMu6) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [PUNKDEMIA](https://open.spotify.com/album/0XMJsTzaZzW3AaztVZbb6f) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [Cubierto de Ti](https://open.spotify.com/track/4pN4icvWINm9uN3bElfbec) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78) | [Cubierto de Ti](https://open.spotify.com/album/6LFvjapGGToOCWwAz1CPQs) | 4:29 |
 | 100 | [Calle 2 \- Remix](https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Coscu](https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm) | [Calle 2 \(Remix\)](https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07) | 3:42 |
 
-Snapshot ID: `MCxjMzc5NjQyMjY1OTExNjg2NjMxYWVkMjFlNTIxZjY0OTlhMzFjMDdh`
+Snapshot ID: `MCxlMWE3NTMzYTQzZDRhMzE1ODZjOGE5NmQ1ZjBkZDljZDFkYzVhODYx`

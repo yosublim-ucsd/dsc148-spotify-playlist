@@ -1,7 +1,7 @@
 {
-  "2024-02-03": 306720,
+  "2024-02-04": 306698,
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: Kiesza",
+  "description": "The best of today's dance hits. Cover: Justice",
   "name": "mint Canada",
   "tracks": [
     {
@@ -509,6 +509,28 @@
       "duration_ms": 269752,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44"
+    },
+    {
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/7jLwbeWUr2NVz7fZmX6rRb"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "GIVVEN",
+          "url": "https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395500,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7"
     },
     {
       "album": {
@@ -1873,6 +1895,24 @@
       "duration_ms": 169852,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "album": {
+        "name": "BEATS FOR THE UNDERGROUND",
+        "url": "https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214527,
+      "name": "BEATS FOR THE UNDERGROUND",
+      "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
     },
     {
       "album": {
@@ -4496,6 +4536,28 @@
     },
     {
       "album": {
+        "name": "Dinosaurs From Outer Space",
+        "url": "https://open.spotify.com/album/5TY2VVHA8ocgtxYZWnrkeD"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164714,
+      "name": "Dinosaurs From Outer Space",
+      "url": "https://open.spotify.com/track/2WiYG2Dgfqft21PBbF4Lxm"
+    },
+    {
+      "album": {
         "name": "Disconnected",
         "url": "https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP"
       },
@@ -5881,10 +5943,32 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 143950,
       "name": "EX EX EX (Whoops)",
       "url": "https://open.spotify.com/track/2RzCQnxjPUTycRgUp1sZCm"
+    },
+    {
+      "album": {
+        "name": "exes (Regard Remix)",
+        "url": "https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182508,
+      "name": "exes - Regard Remix",
+      "url": "https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA"
     },
     {
       "album": {
@@ -6805,7 +6889,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 282701,
       "name": "Footloose",
       "url": "https://open.spotify.com/track/0Lda6MdzcQiDqihHBX7UAN"
@@ -7597,6 +7681,32 @@
       "duration_ms": 159995,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/6tPYz05avJHydJ4gv8JAmn"
+    },
+    {
+      "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Good For You",
+      "url": "https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i"
     },
     {
       "album": {
@@ -9717,7 +9827,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 151473,
       "name": "idgaf",
       "url": "https://open.spotify.com/track/4Ej0ob9L6wzurJsEvbYNjF"
@@ -12533,7 +12643,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 212250,
       "name": "Lover/Friend",
       "url": "https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP"
@@ -13317,7 +13427,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 190866,
       "name": "Miamimita - Edit",
       "url": "https://open.spotify.com/track/7C3BGwd7XLYt5u2E45Lbkr"
@@ -14599,7 +14709,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 199183,
       "name": "Nothing Lasts Forever (with Grimes)",
       "url": "https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h"
@@ -16415,7 +16525,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 123134,
       "name": "Potential - Lolo Zoua\u00ef Remix",
       "url": "https://open.spotify.com/track/3R4mUtY9p1yl5YHomb9ix4"
@@ -16893,6 +17003,28 @@
       "duration_ms": 204500,
       "name": "Ready To Fly - Sub Focus & Dimension",
       "url": "https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL"
+    },
+    {
+      "album": {
+        "name": "Star City",
+        "url": "https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192879,
+      "name": "Real Girls",
+      "url": "https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy"
     },
     {
       "album": {
@@ -18149,7 +18281,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 126023,
       "name": "Say Goodbye (feat. Billy Raffoul)",
       "url": "https://open.spotify.com/track/3IkdjPFThBcKciyAV94dYp"
@@ -23044,6 +23176,24 @@
     },
     {
       "album": {
+        "name": "We Ain't Here For Long",
+        "url": "https://open.spotify.com/album/574kAUsaWDdlVm8Fb2HfB9"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175835,
+      "name": "We Ain't Here For Long",
+      "url": "https://open.spotify.com/track/427747J57kLmFjqk7PZrpp"
+    },
+    {
+      "album": {
         "name": "We Are The People (southstar Remix)",
         "url": "https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb"
       },
@@ -23403,6 +23553,28 @@
       "duration_ms": 166597,
       "name": "What You've Done To Me (feat. Bemend\u00e9)",
       "url": "https://open.spotify.com/track/2k9kWgFLCiAeRBTmwlGbAv"
+    },
+    {
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178273,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
       "album": {

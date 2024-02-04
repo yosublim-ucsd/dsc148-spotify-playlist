@@ -2419,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147746,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+    },
+    {
+      "album": {
         "name": "Lengi lifum vi\u00f0",
         "url": "https://open.spotify.com/album/2CMdGmSXOv4k0k35t3u9Z6"
       },
@@ -4734,7 +4752,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 178000,
       "name": "Cold city",
       "url": "https://open.spotify.com/track/63ZIpQQxSPeAyYqSxY1v0J"
@@ -7830,6 +7848,28 @@
       "duration_ms": 243100,
       "name": "Englanna bor\u00f0dans",
       "url": "https://open.spotify.com/track/1QBEQS7ozVKaWY0JprbDsT"
+    },
+    {
+      "album": {
+        "name": "Englar alheimsins (feat. Huginn)",
+        "url": "https://open.spotify.com/album/4buVZ7yDldxdZFyTbt7UuE"
+      },
+      "artists": [
+        {
+          "name": "Logi Pedro",
+          "url": "https://open.spotify.com/artist/1FiwIhKqE7vKkRLj1Ict4H"
+        },
+        {
+          "name": "Huginn",
+          "url": "https://open.spotify.com/artist/7699UdGcD8ESAKxTcrwKvj"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178340,
+      "name": "Englar alheimsins (feat. Huginn)",
+      "url": "https://open.spotify.com/track/7sj3cfoVsqyticPqrvRAa3"
     },
     {
       "album": {
@@ -12769,6 +12809,28 @@
     },
     {
       "album": {
+        "name": "Hvert ertu a\u00f0 fara?",
+        "url": "https://open.spotify.com/album/7M7X7jtPfIlgbgWx72hvOZ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e1ski",
+          "url": "https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE"
+        },
+        {
+          "name": "PATRi!K",
+          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "Hvert ertu a\u00f0 fara?",
+      "url": "https://open.spotify.com/track/4xd8zI5KcGNtjt7WMNlmJJ"
+    },
+    {
+      "album": {
         "name": "T\u00edu \u00edslensk s\u00f6ngl\u00f6g",
         "url": "https://open.spotify.com/album/6HTSPl3aLjmfBZPhcpIMKb"
       },
@@ -13650,7 +13712,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 260111,
       "name": "IDGAF (feat. Yeat)",
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
@@ -20842,7 +20904,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 246884,
       "name": "One life",
       "url": "https://open.spotify.com/track/3Akr4VWv96Jq7VrBgmMCaw"

@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 465937,
+  "2024-02-04": 465888,
   "date_first_scraped": "2021-12-21",
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Immortal",
   "name": "Extreme Metal",
@@ -3824,6 +3824,24 @@
     },
     {
       "album": {
+        "name": "God Slayer",
+        "url": "https://open.spotify.com/album/1VznslY9UYg6TudKwIcESy"
+      },
+      "artists": [
+        {
+          "name": "Vredehammer",
+          "url": "https://open.spotify.com/artist/5ket6f4XIg8c3nT5gjQ6Io"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304173,
+      "name": "God Slayer",
+      "url": "https://open.spotify.com/track/6IsZqEzBmykazABHquLdjK"
+    },
+    {
+      "album": {
         "name": "Gods of Black Blood",
         "url": "https://open.spotify.com/album/0nH3459DWtSdBDRXr6Txbt"
       },
@@ -4527,7 +4545,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 419300,
       "name": "Hybrid Stigmata - The Apostasy - Remixed & Remastered",
       "url": "https://open.spotify.com/track/5XL4M20UHAGFD2c0k9rzvv"

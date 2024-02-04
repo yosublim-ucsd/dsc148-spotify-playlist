@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This month, we’re celebrating the essence of Black culture across the world\. Discover more Black artists and their contributions <a href="spotify:genre:0JQ5DAqbMKFF9bY76LXmfI">here</a>\. Cover: <a href="spotify:artist:5jxe5kzLkm5ICEy03BcLwo">ARDN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,767 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,811 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 43 | [Fall Over Me](https://open.spotify.com/track/3S6qc4YfeUI7fLTo7Vr1HT) | [Very Very](https://open.spotify.com/artist/0javh7fJTS6ShdIos7i9Lu) | [Strange Occasion](https://open.spotify.com/album/025BBaVNHim0G4CnvZWDqB) | 2:04 |
 | 44 | [Numb](https://open.spotify.com/track/16QA5YSRdPAvY9dokCh9Kk) | [SHEEZA](https://open.spotify.com/artist/2ZRILmVLOyHeGOB9eqELbN) | [Numb](https://open.spotify.com/album/2Fv8NoHelacLNoR3SZJKUs) | 1:47 |
 | 45 | [Lose My Mind](https://open.spotify.com/track/66mvDYqPiCwwA1x1W5OGfC) | [Emily Chambers](https://open.spotify.com/artist/1C06ksRGDW6ZsByvvmlIDI) | [Lose My Mind](https://open.spotify.com/album/7rEORstk1dUXO2RVBLZMr6) | 3:18 |
-| 46 | [Bad Intentions](https://open.spotify.com/track/0sSQFWw30ZjRLNnvoAclJT) | [Anees](https://open.spotify.com/artist/5GgPDBska9yM6X2fZ6MHXA), [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Bad Intentions](https://open.spotify.com/album/4iCW5UWJyFtC4YuTUTFNHs) | 4:19 |
+| 46 | [Bad Intentions](https://open.spotify.com/track/0sSQFWw30ZjRLNnvoAclJT) | [Anees](https://open.spotify.com/artist/5GgPDBska9yM6X2fZ6MHXA), [Alice Aera](https://open.spotify.com/artist/5PEKoFgE1EQj05Vak6zugr) | [Bad Intentions](https://open.spotify.com/album/4iCW5UWJyFtC4YuTUTFNHs) | 4:19 |
 | 47 | [Friday's Rain](https://open.spotify.com/track/76XC2zEGzxs570ShNvNfCU) | [Jahmal Padmore](https://open.spotify.com/artist/23Bcuvf8yPnEONduRdlIpD) | [The Wooz](https://open.spotify.com/album/31OaDoUiGLuU9ujaGVb9Zi) | 4:07 |
 | 48 | [Blues](https://open.spotify.com/track/4bL7x5w3KTsrV54qf2sFAo) | [Mariana Gueza](https://open.spotify.com/artist/4gajnjln5C1LrpbFpLwPkE), [Los Audio Kimikos](https://open.spotify.com/artist/4jS4FtPkA8eOSeXKlRz2dl), [YNG LGNDZ](https://open.spotify.com/artist/1w2oGzpOHgn6dzF6dW5zmT) | [Blues](https://open.spotify.com/album/1RhMBgwhccpfjVHuOU95Jo) | 2:37 |
 | 49 | [Your Biggest Fan](https://open.spotify.com/track/12zOYNZ9vqbKbRBRlC7jwr) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [Your Biggest Fan](https://open.spotify.com/album/7uzehpmU3qefejzvQqSXZn) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [CRUISE CONTROL](https://open.spotify.com/track/6u9t5hY9AhTREcorbRIvkY) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [CRUISE CONTROL](https://open.spotify.com/album/7Chy3P3zV9mSRQMtACbSSA) | 3:04 |
 | 100 | [Beach](https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 2:06 |
 
-Snapshot ID: `MCxmM2FhODlmMTliN2U0NGNhYTI0MTg3ZTgwNGVlYmY0ZmY2ODhlMjk0`
+Snapshot ID: `MCw3MmE0YjYxODIyYjQ4YzY4OTc2NGJjODllNzY1ZjFjZTU5ZTJkOTMz`

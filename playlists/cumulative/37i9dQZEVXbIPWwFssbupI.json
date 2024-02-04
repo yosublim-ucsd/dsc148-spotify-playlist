@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "6G",
+        "url": "https://open.spotify.com/album/54LK6dIRTx4gRYznkLdjzt"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "6G",
+      "url": "https://open.spotify.com/track/4MsOD2fBtHHIyyKY4acddP"
+    },
+    {
+      "album": {
         "name": "7/7",
         "url": "https://open.spotify.com/album/3gaIeLI062EL7svxxQQ2E4"
       },
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 165506,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/7ujxY1bqVRvMe1sR5iFmxt"
@@ -6357,6 +6375,28 @@
     },
     {
       "album": {
+        "name": "Chambre 140 (Part.3)",
+        "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        },
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172080,
+      "name": "Chouchou",
+      "url": "https://open.spotify.com/track/7ddAiJ1dvmdPjmCWu9uYsM"
+    },
+    {
+      "album": {
         "name": "17%",
         "url": "https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z"
       },
@@ -7680,7 +7720,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -10676,6 +10716,28 @@
       "duration_ms": 222497,
       "name": "Father Time (feat. Sampha)",
       "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
+    },
+    {
+      "album": {
+        "name": "Chambre 140 (Part.3)",
+        "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138933,
+      "name": "Faut pas",
+      "url": "https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts"
     },
     {
       "album": {
@@ -16205,6 +16267,28 @@
     },
     {
       "album": {
+        "name": "La Cour des Miracles",
+        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
+      },
+      "artists": [
+        {
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
+        },
+        {
+          "name": "Nekfeu",
+          "url": "https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190813,
+      "name": "La Cour des Miracles",
+      "url": "https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ"
+    },
+    {
+      "album": {
         "name": "Les mains faites pour l'or",
         "url": "https://open.spotify.com/album/3mLAiqAlaOd5KaVOLJLtYM"
       },
@@ -16728,7 +16812,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 176973,
       "name": "La nuit",
       "url": "https://open.spotify.com/track/0EqzmPWtJPcFvJfsa9rga7"
@@ -20648,7 +20732,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 152546,
       "name": "Meuda",
       "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
@@ -22884,6 +22968,24 @@
       "duration_ms": 158044,
       "name": "On s\u2019habitue",
       "url": "https://open.spotify.com/track/2ngapdDfxjdLtLykbu6Uv0"
+    },
+    {
+      "album": {
+        "name": "Chambre 140 (Part.3)",
+        "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179306,
+      "name": "Onana",
+      "url": "https://open.spotify.com/track/6rQaeNuARKtmaMGM14PoHL"
     },
     {
       "album": {
@@ -27066,7 +27168,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 176000,
       "name": "Sans Coeur",
       "url": "https://open.spotify.com/track/13lEdYCC4iCm6cBi3qzBVV"
@@ -29468,7 +29570,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 153253,
       "name": "T'aimerais (feat. Ziak)",
       "url": "https://open.spotify.com/track/2Tm9ujeEWuBBsg6OPlRqvg"
@@ -29700,7 +29802,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
@@ -31845,6 +31947,28 @@
     },
     {
       "album": {
+        "name": "Mode Op\u00e9ratoire, vol. 1",
+        "url": "https://open.spotify.com/album/02JVLf0vhEoGxGmoWZn5lq"
+      },
+      "artists": [
+        {
+          "name": "Zkr",
+          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193880,
+      "name": "Under Armour",
+      "url": "https://open.spotify.com/track/69Up5djN1jUKRVb2O8GwgU"
+    },
+    {
+      "album": {
         "name": "Indigo (Extended)",
         "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
       },
@@ -33422,6 +33546,24 @@
       "duration_ms": 198053,
       "name": "\u00c7a canarde",
       "url": "https://open.spotify.com/track/7r9KkTYiFYMuNcGR4aySxh"
+    },
+    {
+      "album": {
+        "name": "Chambre 140 (Part.3)",
+        "url": "https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145173,
+      "name": "\u00c7a fait longtemps",
+      "url": "https://open.spotify.com/track/4NhPbSqVQjnwALTZrhXdfD"
     },
     {
       "album": {

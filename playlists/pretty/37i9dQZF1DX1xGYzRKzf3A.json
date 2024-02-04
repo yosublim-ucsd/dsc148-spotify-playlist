@@ -1,12 +1,12 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 114540,
+  "num_followers": 114694,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjkyZTUwYTlkMjMxNjU0ZjM2M2VmNWE4MDBiMmNmMmY2YzM4Njky",
+  "snapshot_id": "MCw2NWIzZjY3N2RmNjRmODQ3NWJhOWIxNzU2OTY1ZTczNzI5Mjk4ZWM5",
   "tracks": [
     {
       "added_at": "2023-11-08 22:38:29",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "De Monterrey a Sinaloa",
         "url": "https://open.spotify.com/album/1RVvXaNvZedvPDVQfozH1I"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 198200,
       "name": "El Palomito",
       "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Vuelvo Contigo",
-        "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
+        "name": "La Banda Grande de la Sultana del Norte",
+        "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
         }
       ],
-      "duration_ms": 161493,
-      "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
-      "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
+      "duration_ms": 216226,
+      "name": "Broche de Oro",
+      "url": "https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "La Banda Grande de la Sultana del Norte",
-        "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
+        "name": "Vuelvo Contigo",
+        "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
       },
       "artists": [
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 216226,
-      "name": "Broche de Oro",
-      "url": "https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf"
+      "duration_ms": 161493,
+      "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
+      "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Me Hiciste un Borracho",
+        "url": "https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "F\u00edjate Que S\u00ed",
+      "url": "https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Necesito M\u00e1s De Ti",
         "url": "https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 169600,
       "name": "Sergio el Bailador",
       "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Me Hiciste un Borracho",
-        "url": "https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "F\u00edjate Que S\u00ed",
-      "url": "https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "De Parranda Lives Vol. 5",
-        "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 252888,
-      "name": "Te Vez Buena - En Vivo",
-      "url": "https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Y Por Esa Calle Vive",
         "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 218013,
       "name": "Y Por Esa Calle Vive",
       "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Libres Y Locos",
+        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 187493,
+      "name": "Dormir So\u00f1ando",
+      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Libres Y Locos",
-        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
+        "name": "De Parranda Lives Vol. 5",
+        "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
       },
       "artists": [
         {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
         }
       ],
-      "duration_ms": 187493,
-      "name": "Dormir So\u00f1ando",
-      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
+      "duration_ms": 252888,
+      "name": "Te Vez Buena - En Vivo",
+      "url": "https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -775,6 +775,22 @@
       "duration_ms": 235235,
       "name": "No Pude Quitarte las Espinas",
       "url": "https://open.spotify.com/track/13DlPBOKn753WqIu4qgq4Y"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 238747,
+      "name": "Ch\u00fantaros Style",
+      "url": "https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -892,9 +908,25 @@
           "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
         }
       ],
-      "duration_ms": 238747,
-      "name": "Ch\u00fantaros Style",
-      "url": "https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA"
+      "duration_ms": 245481,
+      "name": "C\u00edrculo De Amor",
+      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "M\u00e1s Cerca De Ti",
+        "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 280173,
+      "name": "Real\u00edzame mis sue\u00f1os",
+      "url": "https://open.spotify.com/track/5uFmiw2BfcTPmjXyLzkmRk"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -915,18 +947,18 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "M\u00e1s Cerca De Ti",
-        "url": "https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI"
+        "name": "Lives, Vol.1",
+        "url": "https://open.spotify.com/album/4cWhUcmMJdjiYA4FyKpCFQ"
       },
       "artists": [
         {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
         }
       ],
-      "duration_ms": 280173,
-      "name": "Real\u00edzame mis sue\u00f1os",
-      "url": "https://open.spotify.com/track/5uFmiw2BfcTPmjXyLzkmRk"
+      "duration_ms": 240416,
+      "name": "Le Hace Falta Un Beso",
+      "url": "https://open.spotify.com/track/0b601Fnoi2vTzGeSMippyu"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -951,38 +983,6 @@
       "duration_ms": 272533,
       "name": "A Pesar De Todo",
       "url": "https://open.spotify.com/track/6PJlqc0VY2xHVRpdG64O09"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Lives, Vol.1",
-        "url": "https://open.spotify.com/album/4cWhUcmMJdjiYA4FyKpCFQ"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 240416,
-      "name": "Le Hace Falta Un Beso",
-      "url": "https://open.spotify.com/track/0b601Fnoi2vTzGeSMippyu"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 245481,
-      "name": "C\u00edrculo De Amor",
-      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "63 A\u00f1os de Vida Art\u00edstica",
-        "url": "https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
-        }
-      ],
-      "duration_ms": 224182,
-      "name": "Lejan\u00eda",
-      "url": "https://open.spotify.com/track/526efTi8StSvD9I7P2K5UQ"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "El Meneaito",
         "url": "https://open.spotify.com/album/0nWJ6HjXva47xU1TA3zxPl"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 205026,
       "name": "Cumbia Del Monte",
       "url": "https://open.spotify.com/track/2NIaRMvGcnknZf7g9u2q54"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "63 A\u00f1os de Vida Art\u00edstica",
+        "url": "https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+        }
+      ],
+      "duration_ms": 224182,
+      "name": "Lejan\u00eda",
+      "url": "https://open.spotify.com/track/526efTi8StSvD9I7P2K5UQ"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Lenguaje Universal",
+        "url": "https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 262661,
+      "name": "Que Vuelva",
+      "url": "https://open.spotify.com/track/4lplPo03pTF41laFOsu7xr"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "La Sonora Santanera en Su 60 Aniversario",
         "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 164040,
       "name": "Bomboro Qui\u00f1\u00e1 Qui\u00f1\u00e1 (with Rub\u00e9n Albarr\u00e1n)",
       "url": "https://open.spotify.com/track/1rE3FOiSxAR0vmDg4Yntjy"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Lenguaje Universal",
-        "url": "https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 262661,
-      "name": "Que Vuelva",
-      "url": "https://open.spotify.com/track/4lplPo03pTF41laFOsu7xr"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Mucho Barato",
-        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 214693,
-      "name": "As\u00ed Son Mis D\u00edas",
-      "url": "https://open.spotify.com/track/4fb3Xk1LAfQoVk42LgD9Zn"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Estan De Moda",
         "url": "https://open.spotify.com/album/1Fkn6Cz8jObUYOeDqk7OMQ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 285600,
       "name": "Quien Perdera",
       "url": "https://open.spotify.com/track/6UsPWRpytDo7qZUzqxO4fA"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 214693,
+      "name": "As\u00ed Son Mis D\u00edas",
+      "url": "https://open.spotify.com/track/4fb3Xk1LAfQoVk42LgD9Zn"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "Hasta la Miel Amarga",
-      "url": "https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Tasty + B Sides",
         "url": "https://open.spotify.com/album/5IO0ppb7WMdyanUnnBCR0M"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 191000,
       "name": "Soun Tha Mi Primer Amor - Remastered",
       "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "Hasta la Miel Amarga",
+      "url": "https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Sin Limites",
+        "url": "https://open.spotify.com/album/1A9EiNUhd2D5cZb0ngaEeT"
+      },
+      "artists": [
+        {
+          "name": "KUMBIAMBEROS RS",
+          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
+        }
+      ],
+      "duration_ms": 211984,
+      "name": "Mira, Mira, M\u00edrala",
+      "url": "https://open.spotify.com/track/7jZYIqoVPZlvASe7s9cQID"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
         "url": "https://open.spotify.com/album/2irJrOSLxOnQJz6POcqJQF"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 190080,
       "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
       "url": "https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Sin Limites",
-        "url": "https://open.spotify.com/album/1A9EiNUhd2D5cZb0ngaEeT"
-      },
-      "artists": [
-        {
-          "name": "KUMBIAMBEROS RS",
-          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
-        }
-      ],
-      "duration_ms": 211984,
-      "name": "Mira, Mira, M\u00edrala",
-      "url": "https://open.spotify.com/track/7jZYIqoVPZlvASe7s9cQID"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "A D\u00edos Le Pido",
-        "url": "https://open.spotify.com/album/0O6hHTzapyPoPcn09EVQN3"
-      },
-      "artists": [
-        {
-          "name": "La Tropa Vallenata",
-          "url": "https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Cumbia Campesina",
-      "url": "https://open.spotify.com/track/48JvqQzKtUoICeU0X8tl8o"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/08L2rvAy7JXN1QbIERaEB0"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 375757,
       "name": "Solo T\u00fa Me Haces Feliz",
       "url": "https://open.spotify.com/track/5GTNnaqanXfnuBT0NZ2rlf"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "A D\u00edos Le Pido",
+        "url": "https://open.spotify.com/album/0O6hHTzapyPoPcn09EVQN3"
+      },
+      "artists": [
+        {
+          "name": "La Tropa Vallenata",
+          "url": "https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Cumbia Campesina",
+      "url": "https://open.spotify.com/track/48JvqQzKtUoICeU0X8tl8o"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2251,6 +2251,26 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Quiero Volar",
+        "url": "https://open.spotify.com/album/4xe7zD2yjkpRElKHwT9eYW"
+      },
+      "artists": [
+        {
+          "name": "Jorge Meza",
+          "url": "https://open.spotify.com/artist/6tZZ41M87iMusAZqcEDqSt"
+        },
+        {
+          "name": "y Su Tropicolombia",
+          "url": "https://open.spotify.com/artist/1j6CwJDQ5JAwZJsYuIS0Yc"
+        }
+      ],
+      "duration_ms": 286813,
+      "name": "Quiero Volar",
+      "url": "https://open.spotify.com/track/5eHBwnbKua85GTAOaSaMqn"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/0tKCqqv4jHow4pUvwFiUsj"
       },
@@ -2263,6 +2283,38 @@
       "duration_ms": 206069,
       "name": "Sobrenatural",
       "url": "https://open.spotify.com/track/5VtTEqT7UXNg1sN0HSdmjp"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/08L2rvAy7JXN1QbIERaEB0"
+      },
+      "artists": [
+        {
+          "name": "El Kombo Kolombia",
+          "url": "https://open.spotify.com/artist/3rtIjwhzCrcuShNmxeQcHu"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Va Que Va",
+      "url": "https://open.spotify.com/track/3o4cvLJP480RwmfQh135iO"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Lo Que Tengo",
+        "url": "https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq"
+      },
+      "artists": [
+        {
+          "name": "Javier Lopez y los Reyes Vallenatos",
+          "url": "https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "La Cervecita",
+      "url": "https://open.spotify.com/track/18pdCGBI0xDiJvKTBHFTlO"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2303,38 +2355,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Lo Que Tengo",
-        "url": "https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq"
-      },
-      "artists": [
-        {
-          "name": "Javier Lopez y los Reyes Vallenatos",
-          "url": "https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "La Cervecita",
-      "url": "https://open.spotify.com/track/18pdCGBI0xDiJvKTBHFTlO"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/08L2rvAy7JXN1QbIERaEB0"
-      },
-      "artists": [
-        {
-          "name": "El Kombo Kolombia",
-          "url": "https://open.spotify.com/artist/3rtIjwhzCrcuShNmxeQcHu"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Va Que Va",
-      "url": "https://open.spotify.com/track/3o4cvLJP480RwmfQh135iO"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Cumbia Explosiva",
         "url": "https://open.spotify.com/album/0b7TqoPbKfYlkqoLKsuXc1"
       },
@@ -2367,22 +2387,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Rafael Orozco El \u00cddolo de Siempre",
-        "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "Muere una Flor",
-      "url": "https://open.spotify.com/track/0Df14K1BlLhjb2DnIR1Qmi"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Amar o Morir",
         "url": "https://open.spotify.com/album/2q4m9TbU7rnvsC3thQ004u"
       },
@@ -2395,6 +2399,22 @@
       "duration_ms": 252266,
       "name": "Brindo por ti",
       "url": "https://open.spotify.com/track/4T2O4SWChk3uKN8Tvyxzic"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Rafael Orozco El \u00cddolo de Siempre",
+        "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "Muere una Flor",
+      "url": "https://open.spotify.com/track/0Df14K1BlLhjb2DnIR1Qmi"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2447,22 +2467,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "La Fiebre",
-        "url": "https://open.spotify.com/album/27PuzGwpMOxN0U9pnaqeoA"
-      },
-      "artists": [
-        {
-          "name": "Andres Landero Y Su Conjunto",
-          "url": "https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "La Pava Congona",
-      "url": "https://open.spotify.com/track/0F5nrRCz0Fzabqd6Xzss4h"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Lo Que Tengo",
         "url": "https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq"
       },
@@ -2479,6 +2483,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "La Fiebre",
+        "url": "https://open.spotify.com/album/27PuzGwpMOxN0U9pnaqeoA"
+      },
+      "artists": [
+        {
+          "name": "Andres Landero Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "La Pava Congona",
+      "url": "https://open.spotify.com/track/0F5nrRCz0Fzabqd6Xzss4h"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "15 exitos pa'gozar",
         "url": "https://open.spotify.com/album/3fBX0WDMRmV09E5jg6TbhO"
       },
@@ -2491,22 +2511,6 @@
       "duration_ms": 212386,
       "name": "Cumbia de la Sabana",
       "url": "https://open.spotify.com/track/46Y0KrTfL2yMKOk7tdJoOT"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Cumbia de Mis Amores (Cover En Vivo)",
-        "url": "https://open.spotify.com/album/5sXqioTLdE9dkwtXDcyjnt"
-      },
-      "artists": [
-        {
-          "name": "Regio Cumbiero",
-          "url": "https://open.spotify.com/artist/59jFbMnPvm9yO67bzIgShL"
-        }
-      ],
-      "duration_ms": 322720,
-      "name": "Cumbia de Mis Amores - Cover En Vivo",
-      "url": "https://open.spotify.com/track/6ZHxgkTUjoXn8k58CjFdkP"
     }
   ],
   "unique_name": "Coraz\u00f3n Regio ",

@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Sophie Faith
 
-514 songs - 1 day 12 hr 44 min
+515 songs - 1 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Badeep](https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Badeep](https://open.spotify.com/album/5L7xYEjvxVJqfWwf6SW3gA) | 6:03 | 2022-05-12 | 2023-03-13 |
 | [BC](https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 7:30 | 2023-04-28 |  |
 | [BC](https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [4th Feb \(Stay Awake\) / BC](https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw) | 7:30 | 2023-02-04 | 2023-04-30 |
+| [Be Myself](https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [Be Myself](https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW) | 3:47 | 2024-02-02 |  |
 | [Beetle Juice](https://open.spotify.com/track/5bXfImRd5EX482Gc3bdarK) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc), [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt) | [Beetle Juice](https://open.spotify.com/album/0BBeS3P56yDZnQEbB6RjaI) | 3:51 | 2021-12-17 | 2022-05-11 |
 | [Beggin' Man](https://open.spotify.com/track/5xb5LmpDzZqvthEfwX7uwU) | [Evil Genius](https://open.spotify.com/artist/60BHUa95k7tplx1kHjHfhF), [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH) | [Beggin' Man](https://open.spotify.com/album/3ruRVM6PyTJ0uwBXkxoQD3) | 3:22 | 2022-11-11 | 2023-09-02 |
 | [Begotten](https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU) | [J\-Fills](https://open.spotify.com/artist/1IG1876d05DNkNOHIc9wZC) | [It's All Relative](https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ) | 3:18 | 2022-02-04 | 2023-07-22 |
@@ -195,7 +196,7 @@
 | [Headstew](https://open.spotify.com/track/5IHZOZwnVgqMnFqw8K6pF4) | [Space Ghetto](https://open.spotify.com/artist/0bbw65s9B3DUieVNpBtcoG) | [Headstew](https://open.spotify.com/album/5AQyeygaG0MMPS0aZ90VmM) | 5:44 | 2021-12-17 | 2022-07-22 |
 | [HEAR ME](https://open.spotify.com/track/2v4DyAgIiGslu9EPPhiltW) | [ELWD](https://open.spotify.com/artist/3UIr0NbZyET0Dt7ErPmPGd) | [DANDELION](https://open.spotify.com/album/4tx2t5A7s34CUvBqD9XGnt) | 1:46 | 2022-01-07 | 2022-05-10 |
 | [Hello](https://open.spotify.com/track/26r5hoIx5hDUY9b4tDisHx) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Bad With Names](https://open.spotify.com/album/62MpaARdfMHnZEXL1Lsqt3) | 2:55 | 2023-10-05 | 2023-11-03 |
-| [Hide To Seek](https://open.spotify.com/track/14v0RznQuTisy9dHVoXcbI) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Hide To Seek](https://open.spotify.com/album/3PfYPUMLpfrmZSbCKz32v8) | 4:46 | 2023-11-10 |  |
+| [Hide To Seek](https://open.spotify.com/track/14v0RznQuTisy9dHVoXcbI) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Hide To Seek](https://open.spotify.com/album/3PfYPUMLpfrmZSbCKz32v8) | 4:46 | 2023-11-10 | 2024-02-04 |
 | [High](https://open.spotify.com/track/1x5hj8iVP3vGOcO1at3hEV) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [High](https://open.spotify.com/album/5RwQwvRgpHl2Ej7Q0wo4ik) | 2:56 | 2023-10-19 |  |
 | [High](https://open.spotify.com/track/7jYF5A0TprR297TCg9MEOO) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [High](https://open.spotify.com/album/6jqiIg0L9UdADNWA1sCTlu) | 2:56 | 2023-03-08 | 2023-03-09 |
 | [Hizuki](https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 4:10 | 2023-12-22 |  |

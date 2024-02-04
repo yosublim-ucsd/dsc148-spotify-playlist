@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-760 songs - 1 day 7 hr 57 min
+761 songs - 1 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,7 @@
 | [Open Wings To Fly](https://open.spotify.com/track/4cYaNAmm0gtwTVAZKmANUF) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Open Wings To Fly](https://open.spotify.com/album/5Jv2ENPuHQZ2d5Eq8w6FIF) | 2:18 | 2023-10-16 |  |
 | [Ophelia](https://open.spotify.com/track/4HrhGQ4kNxcvLahuCsf3na) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Ophelia](https://open.spotify.com/album/3ubhoB5TUsA9hae6cvn9y4) | 2:03 | 2022-05-27 | 2022-09-24 |
 | [Ophélia](https://open.spotify.com/track/6TgKautKqkRvvbaJcGCRxr) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Ophélia](https://open.spotify.com/album/5CJOzMHgVwXe1sjd0bQABe) | 2:13 | 2022-05-27 | 2023-03-28 |
-| [Ora Domani](https://open.spotify.com/track/3Hd21AmIE6MLzBR3C2lzdm) | [Dawn Weil](https://open.spotify.com/artist/0bsuksrO1OTfsSeIzNppax) | [Forests Overgrown](https://open.spotify.com/album/0X7B435jcoAU3g4SPnf4dD) | 2:23 | 2022-05-27 |  |
+| [Ora Domani](https://open.spotify.com/track/3Hd21AmIE6MLzBR3C2lzdm) | [Dawn Weil](https://open.spotify.com/artist/0bsuksrO1OTfsSeIzNppax) | [Forests Overgrown](https://open.spotify.com/album/0X7B435jcoAU3g4SPnf4dD) | 2:23 | 2022-05-27 | 2024-02-04 |
 | [Ornamental](https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Movement](https://open.spotify.com/album/5Mob5wTrlu4hFQUEL0Reb9) | 4:36 | 2022-05-27 | 2023-11-27 |
 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 | 2022-05-27 |  |
 | [Our Time Will Come](https://open.spotify.com/track/1z4bpvqPgnfUg9fkykQp0D) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Our Time Will Come](https://open.spotify.com/album/2CrrbexAFC9h2NUTLveyt5) | 2:34 | 2023-09-18 |  |
@@ -681,6 +681,7 @@
 | [Tomorrow](https://open.spotify.com/track/6S3uAaYflAG6653OxyJJ2Y) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Tomorrow](https://open.spotify.com/album/1lXQipR1KhZf5JRUwM5mDg) | 1:46 | 2023-04-12 | 2023-07-25 |
 | [Tournesol](https://open.spotify.com/track/322iMyBTTUhTCGRttDs6CY) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Tournesol](https://open.spotify.com/album/4kGelfnVHpsto9BChtOtXl) | 2:13 | 2022-05-27 | 2023-08-25 |
 | [Tout, sauf mon ombre](https://open.spotify.com/track/18gxWtwvPc7BtLfcL52K9i) | [Corrine Chloé](https://open.spotify.com/artist/1BjYghTaiPxeWiLObrvsyR) | [Tout, sauf mon ombre](https://open.spotify.com/album/3b2kYxC690HiyzFYxcgzYY) | 3:02 | 2022-05-27 | 2022-09-24 |
+| [Tranquil Landscape](https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Tranquil Landscape](https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta) | 3:07 | 2024-01-29 |  |
 | [Transitions](https://open.spotify.com/track/1RyR3YAoP3QmncfqslvRzh) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Transitions](https://open.spotify.com/album/7a5nBwmOCen69jQhzfuIy3) | 2:12 | 2023-02-06 | 2023-05-04 |
 | [Translucency](https://open.spotify.com/track/6SsnBkri7GaVza5JovLs4W) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Translucency](https://open.spotify.com/album/1ZGgON2VfHVFro56xDJINn) | 2:35 | 2022-05-27 | 2023-01-21 |
 | [Transpoetics](https://open.spotify.com/track/6EHIMV0VrceR9kSPZmXRe7) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Transpoetics](https://open.spotify.com/album/4f2Z28KbLMCYmr64Q53lWX) | 3:01 | 2022-05-27 | 2022-09-24 |

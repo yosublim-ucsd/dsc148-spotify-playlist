@@ -1,12 +1,12 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 192799,
+  "num_followers": 192803,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjlmMWYxNWVmMjhlMmRkOTYzNTY4YzI5MTIzOWVhNjBhMjEzZTRj",
+  "snapshot_id": "MCxhMzQxM2FhNjJjOTcyYTNlMTJlYmU5NzQ3MDljMjkxMTYyOGMzMzg1",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
@@ -83,22 +83,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "99 Lbs",
-        "url": "https://open.spotify.com/album/6tewGtDU5aaFwzMhCJIPKV"
-      },
-      "artists": [
-        {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
-        }
-      ],
-      "duration_ms": 139080,
-      "name": "99 Lbs",
-      "url": "https://open.spotify.com/track/6gCIPXJMKV9C036QkO9hzX"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Only The Strong Survive",
         "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 335613,
       "name": "Only the Strong Survive",
       "url": "https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "99 Lbs",
+        "url": "https://open.spotify.com/album/6tewGtDU5aaFwzMhCJIPKV"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "duration_ms": 139080,
+      "name": "99 Lbs",
+      "url": "https://open.spotify.com/track/6gCIPXJMKV9C036QkO9hzX"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -163,6 +163,26 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Tell Her b/w The Dance Got Old",
+        "url": "https://open.spotify.com/album/4EOK4w9FYlrqWQvK3rpIww"
+      },
+      "artists": [
+        {
+          "name": "Fred Williams",
+          "url": "https://open.spotify.com/artist/4bR7LiGTblv5N6Od7yu7yJ"
+        },
+        {
+          "name": "The Jewel Band",
+          "url": "https://open.spotify.com/artist/7thYdpZLbyFk4ceydyaSrv"
+        }
+      ],
+      "duration_ms": 145240,
+      "name": "Tell Her",
+      "url": "https://open.spotify.com/track/6EFxFbF6ZNCuE01gAd0xsN"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
         "url": "https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj"
       },
@@ -191,26 +211,6 @@
       "duration_ms": 333453,
       "name": "Cry Together",
       "url": "https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Tell Her b/w The Dance Got Old",
-        "url": "https://open.spotify.com/album/4EOK4w9FYlrqWQvK3rpIww"
-      },
-      "artists": [
-        {
-          "name": "Fred Williams",
-          "url": "https://open.spotify.com/artist/4bR7LiGTblv5N6Od7yu7yJ"
-        },
-        {
-          "name": "The Jewel Band",
-          "url": "https://open.spotify.com/artist/7thYdpZLbyFk4ceydyaSrv"
-        }
-      ],
-      "duration_ms": 145240,
-      "name": "Tell Her",
-      "url": "https://open.spotify.com/track/6EFxFbF6ZNCuE01gAd0xsN"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Motown Unreleased 1965: Marvin Gaye",
-        "url": "https://open.spotify.com/album/1L5IFq2w2ZtwvzOp3fXe9V"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 151880,
-      "name": "As Long As She Needs Me",
-      "url": "https://open.spotify.com/track/58suLi0CzmcVtmRDFJIfZi"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Roots Of A Revolution",
         "url": "https://open.spotify.com/album/6S0JoGYvVclOkz3zplzqT0"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 149866,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/61xfrjhEtN0jfYtcmzPY2F"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Motown Unreleased 1965: Marvin Gaye",
+        "url": "https://open.spotify.com/album/1L5IFq2w2ZtwvzOp3fXe9V"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 151880,
+      "name": "As Long As She Needs Me",
+      "url": "https://open.spotify.com/track/58suLi0CzmcVtmRDFJIfZi"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "That's How Heartaches Are Made",
-        "url": "https://open.spotify.com/album/1qg0TpPP1jwSiPlxhAYuPj"
-      },
-      "artists": [
-        {
-          "name": "Baby Washington",
-          "url": "https://open.spotify.com/artist/29afta7TiMlvY1fkgaFJcH"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "I've Got A Feeling",
-      "url": "https://open.spotify.com/track/6pVJiHCsqp5supHsm5GAJk"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Try It (You'll Like It) / Master Plan Intro",
         "url": "https://open.spotify.com/album/6mrjVdDJGh3WCyUUER7NSf"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 143612,
       "name": "Try It (You'll Like It)",
       "url": "https://open.spotify.com/track/73IPRs8Pj5NMtvpYGiShZN"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "That's How Heartaches Are Made",
+        "url": "https://open.spotify.com/album/1qg0TpPP1jwSiPlxhAYuPj"
+      },
+      "artists": [
+        {
+          "name": "Baby Washington",
+          "url": "https://open.spotify.com/artist/29afta7TiMlvY1fkgaFJcH"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "I've Got A Feeling",
+      "url": "https://open.spotify.com/track/6pVJiHCsqp5supHsm5GAJk"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Natural Four",
-        "url": "https://open.spotify.com/album/1o5tEsz53xrE0PoyQXMc9j"
-      },
-      "artists": [
-        {
-          "name": "The Natural Four",
-          "url": "https://open.spotify.com/artist/1p2l2eeZ7bmnpPfgpdZCmY"
-        }
-      ],
-      "duration_ms": 265040,
-      "name": "Try Love Again",
-      "url": "https://open.spotify.com/track/2tDQsXQCvipwjrsJMf4ZDf"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Essential MFSB",
         "url": "https://open.spotify.com/album/2tYYOj4epWYjUm2rCpVw6C"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 250773,
       "name": "My Mood",
       "url": "https://open.spotify.com/track/6MdCS3louSciZtWoE9tfVI"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Natural Four",
+        "url": "https://open.spotify.com/album/1o5tEsz53xrE0PoyQXMc9j"
+      },
+      "artists": [
+        {
+          "name": "The Natural Four",
+          "url": "https://open.spotify.com/artist/1p2l2eeZ7bmnpPfgpdZCmY"
+        }
+      ],
+      "duration_ms": 265040,
+      "name": "Try Love Again",
+      "url": "https://open.spotify.com/track/2tDQsXQCvipwjrsJMf4ZDf"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Eccentric Soul: The Saadia Label",
-        "url": "https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei"
-      },
-      "artists": [
-        {
-          "name": "Joey Gilmore",
-          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Somebody Done Took My Baby and Gone",
-      "url": "https://open.spotify.com/track/3K7yV1QR1KdbMfJZNplbZG"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Legendary Henry Stone Presents: Jimmy Bo Horne",
         "url": "https://open.spotify.com/album/4WDYgiypBayAeaGIPAzKiv"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 191203,
       "name": "I Can't Speak",
       "url": "https://open.spotify.com/track/2iPjHMgEegSGNbog4ujzkM"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Eccentric Soul: The Saadia Label",
+        "url": "https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei"
+      },
+      "artists": [
+        {
+          "name": "Joey Gilmore",
+          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Somebody Done Took My Baby and Gone",
+      "url": "https://open.spotify.com/track/3K7yV1QR1KdbMfJZNplbZG"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "My Wife Can't Cook b/w Something Old Something New",
-        "url": "https://open.spotify.com/album/0FUtfjgpMYHElf6Y8nYkj9"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Russ",
-          "url": "https://open.spotify.com/artist/2aM7izVFCeKxS9MvpOGUt1"
-        }
-      ],
-      "duration_ms": 147778,
-      "name": "Something Old Something New",
-      "url": "https://open.spotify.com/track/3J1ANxU5sLJM2CGg9A6U6S"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Lift This Hurt b/w You're Being Unfair",
         "url": "https://open.spotify.com/album/1aP4oSMDr2TqgC7nm6cLMj"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0s7w98Eoh1k8vbfwwFdRZj"
+        "name": "My Wife Can't Cook b/w Something Old Something New",
+        "url": "https://open.spotify.com/album/0FUtfjgpMYHElf6Y8nYkj9"
       },
       "artists": [
         {
-          "name": "The Incredibles",
-          "url": "https://open.spotify.com/artist/6DEbuJ3GYJy9NYknB1cqTj"
+          "name": "Lonnie Russ",
+          "url": "https://open.spotify.com/artist/2aM7izVFCeKxS9MvpOGUt1"
         }
       ],
-      "duration_ms": 158000,
-      "name": "I'll Make It Easy (If You'll Come On Home)",
-      "url": "https://open.spotify.com/track/1o8KRGewglNoPcAgZy3QTt"
+      "duration_ms": 147778,
+      "name": "Something Old Something New",
+      "url": "https://open.spotify.com/track/3J1ANxU5sLJM2CGg9A6U6S"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Maybe Tomorrow",
-        "url": "https://open.spotify.com/album/30gDRAWUg1hC8TYAtzr0i9"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0s7w98Eoh1k8vbfwwFdRZj"
       },
       "artists": [
         {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+          "name": "The Incredibles",
+          "url": "https://open.spotify.com/artist/6DEbuJ3GYJy9NYknB1cqTj"
         }
       ],
-      "duration_ms": 190666,
-      "name": "It's Great To Be Here",
-      "url": "https://open.spotify.com/track/78qHwCaeAn0VIQcFj1AyXk"
+      "duration_ms": 158000,
+      "name": "I'll Make It Easy (If You'll Come On Home)",
+      "url": "https://open.spotify.com/track/1o8KRGewglNoPcAgZy3QTt"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1419,6 +1403,22 @@
       "duration_ms": 279760,
       "name": "New Beginning",
       "url": "https://open.spotify.com/track/5UKkqgXRBlGMB5Lu3n2Zfb"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Maybe Tomorrow",
+        "url": "https://open.spotify.com/album/30gDRAWUg1hC8TYAtzr0i9"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "It's Great To Be Here",
+      "url": "https://open.spotify.com/track/78qHwCaeAn0VIQcFj1AyXk"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Complete Motown Singles Vol. 4: 1964",
-        "url": "https://open.spotify.com/album/2ZYIfXwJx1cPCZ1N53GEBk"
-      },
-      "artists": [
-        {
-          "name": "Carolyn Crawford",
-          "url": "https://open.spotify.com/artist/6xRUXZ0AibiIX4XbrTV2pS"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "I'll Come Running",
-      "url": "https://open.spotify.com/track/4UKbpcViNJl6KHlI5x0nVW"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Could It Be Magic",
         "url": "https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 182493,
       "name": "Never Let You Get Away From Me",
       "url": "https://open.spotify.com/track/0m8MqPpPsZv04ErFEi7JmV"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Complete Motown Singles Vol. 4: 1964",
+        "url": "https://open.spotify.com/album/2ZYIfXwJx1cPCZ1N53GEBk"
+      },
+      "artists": [
+        {
+          "name": "Carolyn Crawford",
+          "url": "https://open.spotify.com/artist/6xRUXZ0AibiIX4XbrTV2pS"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "I'll Come Running",
+      "url": "https://open.spotify.com/track/4UKbpcViNJl6KHlI5x0nVW"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Could It Be Magic",
+        "url": "https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9"
+      },
+      "artists": [
+        {
+          "name": "Anthony White",
+          "url": "https://open.spotify.com/artist/4uLJWWkpzgSb8BP3723f7o"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "Yes, You Need Love",
+      "url": "https://open.spotify.com/track/64JBsxyOVpGnlmdFkHQZc8"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Please Love Me",
         "url": "https://open.spotify.com/album/3rh2c9Vu2u7AJ5PJwKI75U"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 126106,
       "name": "Too Far Gone",
       "url": "https://open.spotify.com/track/1ZngL8YrMVSKTm3GR2Nbkm"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Could It Be Magic",
-        "url": "https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9"
-      },
-      "artists": [
-        {
-          "name": "Anthony White",
-          "url": "https://open.spotify.com/artist/4uLJWWkpzgSb8BP3723f7o"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Yes, You Need Love",
-      "url": "https://open.spotify.com/track/64JBsxyOVpGnlmdFkHQZc8"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Motown Unreleased 1967",
-        "url": "https://open.spotify.com/album/2r7vDzVoDH2Q8U5UKc0mZb"
-      },
-      "artists": [
-        {
-          "name": "Shorty Long",
-          "url": "https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ"
-        }
-      ],
-      "duration_ms": 164324,
-      "name": "Hi-Lili - Hi-Lo",
-      "url": "https://open.spotify.com/track/5jK3TegUNMon2hUiFqk0km"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Could It Be Magic",
         "url": "https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 262773,
       "name": "Stop & Think It Over",
       "url": "https://open.spotify.com/track/12y8RDhXX9Z2pPdcbWrjxd"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Motown Unreleased 1967",
+        "url": "https://open.spotify.com/album/2r7vDzVoDH2Q8U5UKc0mZb"
+      },
+      "artists": [
+        {
+          "name": "Shorty Long",
+          "url": "https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ"
+        }
+      ],
+      "duration_ms": 164324,
+      "name": "Hi-Lili - Hi-Lo",
+      "url": "https://open.spotify.com/track/5jK3TegUNMon2hUiFqk0km"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Spiritual Concept",
-        "url": "https://open.spotify.com/album/2AgmHr8EuZC82apIzn3V9t"
-      },
-      "artists": [
-        {
-          "name": "Spiritual Concept",
-          "url": "https://open.spotify.com/artist/3OZmcuypHy5h1VrA3okUTW"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Let's Take It All",
-      "url": "https://open.spotify.com/track/02JZTwhETBzgyov794DaNm"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Complete Motown Singles, Vol. 1: 1959-1961",
         "url": "https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 141333,
       "name": "The Day Will Come - Single Version",
       "url": "https://open.spotify.com/track/4dCwiFb6VNb3jhQpbI35lq"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Spiritual Concept",
+        "url": "https://open.spotify.com/album/2AgmHr8EuZC82apIzn3V9t"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Concept",
+          "url": "https://open.spotify.com/artist/3OZmcuypHy5h1VrA3okUTW"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "Let's Take It All",
+      "url": "https://open.spotify.com/track/02JZTwhETBzgyov794DaNm"
     },
     {
       "added_at": "2022-05-11 12:29:38",

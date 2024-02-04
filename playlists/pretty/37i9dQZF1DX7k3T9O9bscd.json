@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 405591,
+  "num_followers": 405756,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjZmMTUzYzU4MzYyY2Y0MDRkZDk1MjNmMDkzZjMzZTE3MjI3MDdm",
+  "snapshot_id": "MCxmYTEwN2M0NGE4MjExNGIwNjgzZjA0MDZiMWY1N2U4MTg0M2FlY2Zm",
   "tracks": [
     {
       "added_at": "2023-11-24 01:15:27",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Can't Get No",
-        "url": "https://open.spotify.com/album/3CR6BO7eoOV25e1m6bXkla"
-      },
-      "artists": [
-        {
-          "name": "Dead Ghosts",
-          "url": "https://open.spotify.com/artist/3p0vuGnsU3JN0ZVBLiJwmp"
-        }
-      ],
-      "duration_ms": 196053,
-      "name": "Roky Said",
-      "url": "https://open.spotify.com/track/2VDxMrYLnQy8NdsKCzbdnO"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Desert Island",
         "url": "https://open.spotify.com/album/7AZL0M9Hn8gwLw6RyUgxEB"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 252160,
       "name": "Bright Blue Day Haze",
       "url": "https://open.spotify.com/track/1RNybormZ5O0s3DCIRQWq4"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Can't Get No",
+        "url": "https://open.spotify.com/album/3CR6BO7eoOV25e1m6bXkla"
+      },
+      "artists": [
+        {
+          "name": "Dead Ghosts",
+          "url": "https://open.spotify.com/artist/3p0vuGnsU3JN0ZVBLiJwmp"
+        }
+      ],
+      "duration_ms": 196053,
+      "name": "Roky Said",
+      "url": "https://open.spotify.com/track/2VDxMrYLnQy8NdsKCzbdnO"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "A Song For Paul",
-        "url": "https://open.spotify.com/album/0w6knr7boQarN35qErXXeu"
-      },
-      "artists": [
-        {
-          "name": "Ghost Funk Orchestra",
-          "url": "https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Seven Eight",
-      "url": "https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Elwan",
         "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 303106,
       "name": "N\u00e0nnufl\u00e0y",
       "url": "https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "A Song For Paul",
+        "url": "https://open.spotify.com/album/0w6knr7boQarN35qErXXeu"
+      },
+      "artists": [
+        {
+          "name": "Ghost Funk Orchestra",
+          "url": "https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Seven Eight",
+      "url": "https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Fase Luna",
-        "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
-      },
-      "artists": [
-        {
-          "name": "LA Priest",
-          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
-        }
-      ],
-      "duration_ms": 285308,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Sleeping Through The War",
         "url": "https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 400853,
       "name": "Bulls",
       "url": "https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Fase Luna",
+        "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "duration_ms": 285308,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
-      },
-      "artists": [
-        {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
-        }
-      ],
-      "duration_ms": 221418,
-      "name": "Wading Out",
-      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Acid Crusher / Mount Swan",
         "url": "https://open.spotify.com/album/2tsErqQpgo0r7MdxtDysiq"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 896226,
       "name": "Acid Crusher",
       "url": "https://open.spotify.com/track/3JORo0UuJp17QF5A5EWwRX"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+      },
+      "artists": [
+        {
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+        }
+      ],
+      "duration_ms": 221418,
+      "name": "Wading Out",
+      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Guayabo de Agua Ardiente",
         "url": "https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9"
       },
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
         "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
         "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 250214,
       "name": "Meme City",
       "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
+    },
+    {
+      "added_at": "2023-11-24 01:15:27",
+      "album": {
+        "name": "Transporter",
+        "url": "https://open.spotify.com/album/6GSwsFG6B9fT0Ue7nnWuxe"
+      },
+      "artists": [
+        {
+          "name": "Ouzo Bazooka",
+          "url": "https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj"
+        }
+      ],
+      "duration_ms": 397813,
+      "name": "Space Camel",
+      "url": "https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt"
     },
     {
       "added_at": "2023-11-24 01:15:27",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "EL ELIXIR DE TUS LABIOS",
-        "url": "https://open.spotify.com/album/3IoZMNSHUsK6kSE80DLOZ4"
-      },
-      "artists": [
-        {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "EL ELIXIR DE TUS LABIOS",
-      "url": "https://open.spotify.com/track/6F1bYqnUYqkPEozNbERZQf"
-    },
-    {
-      "added_at": "2023-11-24 01:15:27",
-      "album": {
         "name": "Norfolk Hotel",
         "url": "https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ"
       },
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-11-24 01:15:27",
       "album": {
-        "name": "Transporter",
-        "url": "https://open.spotify.com/album/6GSwsFG6B9fT0Ue7nnWuxe"
+        "name": "EL ELIXIR DE TUS LABIOS",
+        "url": "https://open.spotify.com/album/3IoZMNSHUsK6kSE80DLOZ4"
       },
       "artists": [
         {
-          "name": "Ouzo Bazooka",
-          "url": "https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj"
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
         }
       ],
-      "duration_ms": 397813,
-      "name": "Space Camel",
-      "url": "https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt"
+      "duration_ms": 242000,
+      "name": "EL ELIXIR DE TUS LABIOS",
+      "url": "https://open.spotify.com/track/6F1bYqnUYqkPEozNbERZQf"
     },
     {
       "added_at": "2023-11-24 01:15:27",

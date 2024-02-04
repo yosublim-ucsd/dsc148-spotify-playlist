@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,808 likes - 110 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,847 likes - 110 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 47 | [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 |
 | 48 | [Canelo](https://open.spotify.com/track/1eaX4YyBMZCHMqz5kZvzBh) | [Arre](https://open.spotify.com/artist/0zthfMGI89IDEklrlkytLP) | [Canelo](https://open.spotify.com/album/7mDGaAs9Lg1gIRvAnbfkA3) | 2:03 |
 | 49 | [Kongo \(Hanî´s Remix\)](https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM), [HANÎ](https://open.spotify.com/artist/1M56F5uqrk6uA42Gmy6Vqv) | [Kongo \(Hanî 's Remix\)](https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119) | 3:53 |
-| 50 | [Crusade](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
+| 50 | [Crusade \- Club Edit](https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz) | 2:59 |
 | 51 | [Somebody New](https://open.spotify.com/track/6Se74aLQWLjOsVvg5GRQY7) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Somebody New](https://open.spotify.com/album/59PAAx06alV3da3WBAO1NK) | 2:23 |
 | 52 | [Gapa](https://open.spotify.com/track/6wdTLDD3oGOPjiPBXZD1qd) | [Sibille Attar](https://open.spotify.com/artist/4hCWXPfrkKQKDVVbRUmkTq), [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [Gapa](https://open.spotify.com/album/021910kkj1wghGMxCtXZKL) | 4:04 |
 | 53 | [Bambino](https://open.spotify.com/track/4DPcqZwNBBibhY2ZgXAmor) | [ISON](https://open.spotify.com/artist/7zJdWmVoGsqxaEl09XOvM5), [Daniel Boyacioglu](https://open.spotify.com/artist/6PRMHJ2Hs5eDWycajrl7fd), [Sarianna Cortes](https://open.spotify.com/artist/2PkGoqN8scDgpbUp5SBujK) | [Bambino](https://open.spotify.com/album/68FD3mw28AXAUc6NbD0UGk) | 3:17 |
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 100 | [01:45](https://open.spotify.com/track/0UpGmjPOYjFOCfWq9HIOup) | [Benjamin Krantz](https://open.spotify.com/artist/0WC4tfwdMsfXUqaQT5hjP2), [Oscar Ahlgren](https://open.spotify.com/artist/6oLsu8ooAijUGwF0Ed4fob), [Viktor Ahinko](https://open.spotify.com/artist/27b6GnWhyy6qX5TLOldh7z) | [01:45](https://open.spotify.com/album/4YInb6gdMAYDoAbZyeKFVR) | 2:51 |
 | 101 | [Hoping For Rain](https://open.spotify.com/track/6uPk7JCGSYxKqntPvZAaDG) | [Goss](https://open.spotify.com/artist/5ByZShASoFollJWvTjpfYz) | [Hoping For Rain](https://open.spotify.com/album/0h0OJs84kGRp24A2ds8c10) | 3:34 |
 | 102 | [Love Of My Life](https://open.spotify.com/track/31UeIfsxj5Bfb8WWQPbwPy) | [ALY](https://open.spotify.com/artist/7zVXJ9gnmh8fr40va63ujD) | [Love Of My Life](https://open.spotify.com/album/7h3dQEJNn7XE6J49Smqv0T) | 2:54 |
-| 103 | [Things Is 'Bout Comin' My Way](https://open.spotify.com/track/0hankmoITw2Ujkm2YUvqRs) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Things Is 'Bout Comin' My Way](https://open.spotify.com/album/2xmpiYdM4H5iCW54Pw0f00) | 3:36 |
+| 103 | [Things Is 'Bout Comin' My Way](https://open.spotify.com/track/0hankmoITw2Ujkm2YUvqRs) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Things Is 'Bout Comin' My Way](https://open.spotify.com/album/2xmpiYdM4H5iCW54Pw0f00) | 4:39 |
 | 104 | [Need you](https://open.spotify.com/track/72ezioGJGqEEpUWMsCBeil) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak) | [Need you](https://open.spotify.com/album/5MnrvjNLuy6hR13XJGcxxt) | 2:55 |
 | 105 | [Sunset Cigarette](https://open.spotify.com/track/3MGwYD6ndPkpmHfdAxXox7) | [Aleks Grey](https://open.spotify.com/artist/5ZDk9lPM0xUAZyzJqGZMn9) | [Sunset Cigarette](https://open.spotify.com/album/5s26NgP3dOzeNAdxQsN75Z) | 3:23 |
 | 106 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [Tyler Lewis](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 109 | [Gold Rush \- Primum Mobile Mix](https://open.spotify.com/track/5dAtzYqP0L1WKwrBmM4xhv) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Absolute Music 2/5](https://open.spotify.com/album/25bS2Xce1Dsjl2yaewiRhP) | 4:09 |
 | 110 | [Wiggle It \(feat\. Mura Masa & Big Freedia\)](https://open.spotify.com/track/2bBphkvCo6Z0xhvnJhpgva) | [Good Morning Kevin](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Wiggle It \(feat\. Mura Masa & Big Freedia\)](https://open.spotify.com/album/0CEB3BMVJolbpLymxvXWDE) | 1:13 |
 
-Snapshot ID: `MCxkMjc3OWQ3NmY3YThhMzQwZmJjOWIwZmQ4NjQwZTRlNWVjMWI3Y2Zj`
+Snapshot ID: `MCxjYmYyY2ExM2ExNGYzZTFjY2JjMTg5MzdjYjAxYjBmZjRmZjNhMDBj`

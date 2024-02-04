@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 207109,
+  "num_followers": 207232,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODY0OTY4YTExMjY1NWMwZGRkY2MzNTM5NzM2ZTc3MTA0ZTljOGVk",
+  "snapshot_id": "MCxlNTAwN2I4YTExYTBhNmI2OTI5MmJmMTY2ZTU2NTgxM2JhMzdjNDk2",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Nothing Is Still",
-        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
-      },
-      "artists": [
-        {
-          "name": "Leon Vynehall",
-          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Movements (Chapter III)",
-      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Love What Survives",
         "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 251356,
       "name": "Marilyn",
       "url": "https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Nothing Is Still",
+        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Movements (Chapter III)",
+      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Ardour",
-        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
-      },
-      "artists": [
-        {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
-        }
-      ],
-      "duration_ms": 91010,
-      "name": "While You Doooo",
-      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
         "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 195384,
       "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Ardour",
+        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
+      },
+      "artists": [
+        {
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+        }
+      ],
+      "duration_ms": 91010,
+      "name": "While You Doooo",
+      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "EARS",
-        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Stratus",
-      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Six Songs for Invisible Gardens",
         "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 328000,
       "name": "Soft Meadow",
       "url": "https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "EARS",
+        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Karma & Desire",
-        "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 250383,
-      "name": "Walking Flames",
-      "url": "https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Dissolvi",
         "url": "https://open.spotify.com/album/46fXKgkZzFICUthYxcf9Ie"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 249534,
       "name": "Saccade",
       "url": "https://open.spotify.com/track/4FY4aLVlOZbOs5y9W5LnEh"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Karma & Desire",
+        "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 250383,
+      "name": "Walking Flames",
+      "url": "https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Permanence",
-        "url": "https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3"
+        "name": "Far Away Trains Passing By",
+        "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
       },
       "artists": [
         {
-          "name": "Lomea",
-          "url": "https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx"
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
         }
       ],
-      "duration_ms": 229158,
-      "name": "Permanence",
-      "url": "https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC"
+      "duration_ms": 397986,
+      "name": "Passing By - 2019 remaster",
+      "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1579,22 +1579,6 @@
       "duration_ms": 246129,
       "name": "Love In The Time Of Lexapro",
       "url": "https://open.spotify.com/track/2C3ssFGH4NoGIUp9YkHK2Q"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Far Away Trains Passing By",
-        "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
-      },
-      "artists": [
-        {
-          "name": "Ulrich Schnauss",
-          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
-        }
-      ],
-      "duration_ms": 397986,
-      "name": "Passing By - 2019 remaster",
-      "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1687,6 +1671,22 @@
       "duration_ms": 247869,
       "name": "FTLOG",
       "url": "https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "I Lost My Body (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
+      },
+      "artists": [
+        {
+          "name": "S+C+A+R+R",
+          "url": "https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"
     }
   ],
   "unique_name": "Electronica Romantica",

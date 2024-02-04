@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDVhZGU3MTNlOGMxNTkwMDY2YzExNzZmM2M2YWI4NWU3YTVlYWRl",
+  "snapshot_id": "MCxjYTNkMTIyYjlkYjI5MTg2YjBjYTVmYTBkYWFkN2FhOTcyYjdjZGFl",
   "tracks": [
     {
       "added_at": "2024-01-24 18:24:48",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-01-24 18:24:48",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 346397,
-      "name": "Hallelujah - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
-    },
-    {
-      "added_at": "2024-01-24 18:24:48",
-      "album": {
         "name": "Carrying Your Love With Me (Spotify Singles)",
         "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 243920,
       "name": "Carrying Your Love With Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
+    },
+    {
+      "added_at": "2024-01-24 18:24:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 346397,
+      "name": "Hallelujah - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
     },
     {
       "added_at": "2024-01-24 18:24:48",
@@ -408,6 +408,22 @@
       "added_at": "2024-01-24 18:24:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 194480,
+      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
+      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
+    },
+    {
+      "added_at": "2024-01-24 18:24:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD"
       },
       "artists": [
@@ -423,22 +439,6 @@
       "duration_ms": 214655,
       "name": "House Fire (feat. The Travelin' McCourys)",
       "url": "https://open.spotify.com/track/0kD9ESXYhdNDYDDNq3MIjc"
-    },
-    {
-      "added_at": "2024-01-24 18:24:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 194480,
-      "name": "Million Reasons - Live Session at Sound Stage Studios, Nashville, TN",
-      "url": "https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK"
     },
     {
       "added_at": "2024-01-24 18:24:48",
@@ -768,22 +768,6 @@
       "added_at": "2024-01-24 18:24:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 155612,
-      "name": "Queen Of Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/1vNvMJO0RCSqrbxWhfEL8K"
-    },
-    {
-      "added_at": "2024-01-24 18:24:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
       },
       "artists": [
@@ -795,6 +779,22 @@
       "duration_ms": 234873,
       "name": "My Old Man - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6hJ7gAxu3QqYBfvaTV3ZOQ"
+    },
+    {
+      "added_at": "2024-01-24 18:24:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 155612,
+      "name": "Queen Of Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/1vNvMJO0RCSqrbxWhfEL8K"
     },
     {
       "added_at": "2024-01-24 18:24:48",
@@ -984,22 +984,6 @@
       "added_at": "2024-01-24 18:24:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi"
-      },
-      "artists": [
-        {
-          "name": "Michael Ray",
-          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
-        }
-      ],
-      "duration_ms": 247312,
-      "name": "Psycho - Recorded at Sound Stage Studios, Nashville",
-      "url": "https://open.spotify.com/track/33aoxwQiePZVRQtYuJz6IR"
-    },
-    {
-      "added_at": "2024-01-24 18:24:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
       },
       "artists": [
@@ -1011,6 +995,22 @@
       "duration_ms": 201332,
       "name": "Never Comin Down - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/3tucKgFqK4GbUCmQtHxnhA"
+    },
+    {
+      "added_at": "2024-01-24 18:24:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi"
+      },
+      "artists": [
+        {
+          "name": "Michael Ray",
+          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+        }
+      ],
+      "duration_ms": 247312,
+      "name": "Psycho - Recorded at Sound Stage Studios, Nashville",
+      "url": "https://open.spotify.com/track/33aoxwQiePZVRQtYuJz6IR"
     },
     {
       "added_at": "2024-01-24 18:24:48",

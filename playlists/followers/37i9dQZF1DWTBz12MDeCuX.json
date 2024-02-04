@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 454351,
+  "2024-02-04": 454415,
   "date_first_scraped": "2022-06-10",
   "description": "Die Playlist, die dich f\u00fchlt. Cover: Disclosure",
   "name": "me right now",
@@ -10069,6 +10069,24 @@
       "duration_ms": 153250,
       "name": "f\u00fcr immer aber nicht f\u00fcr jetzt (baumwall)",
       "url": "https://open.spotify.com/track/2BfqcEI98b5QSvZuYMP4H1"
+    },
+    {
+      "album": {
+        "name": "F\u00fcr immer Fr\u00fchling",
+        "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
+      },
+      "artists": [
+        {
+          "name": "soffie",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "F\u00fcr immer Fr\u00fchling",
+      "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
     },
     {
       "album": {
@@ -22641,7 +22659,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 164986,
       "name": "Problematic",
       "url": "https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF"

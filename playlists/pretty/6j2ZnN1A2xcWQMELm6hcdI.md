@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 
 > On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Tyla
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 339,079 likes - 225 songs - 11 hr 21 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 339,001 likes - 225 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 | 3 | [YA NO TE EXTRAÑO](https://open.spotify.com/track/70XGqzcK8c7GdVbr5begBH) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [YA NO TE EXTRAÑO](https://open.spotify.com/album/4RO9yfmO1QjZUklszKC4Ts) | 3:10 |
 | 4 | [serial recluse](https://open.spotify.com/track/7rR8q7eE0UKUaJt3xsOMSJ) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [serial recluse](https://open.spotify.com/album/30RN16wzgu4a8N9LvgUWQt) | 2:47 |
 | 5 | [Fresh Face](https://open.spotify.com/track/3ig9oCmDyIbjt2Rgq05DaZ) | [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC) | [Fresh Face](https://open.spotify.com/album/1kSQfWrluR91j2QEQk4AEz) | 3:10 |
-| 6 | [IT GIRL \(Fan Remix\) \(feat\. Ve'Ondre\)](https://open.spotify.com/track/2HonL5dY8y40KNoj1lnWTq) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545), [Ve'Ondre](https://open.spotify.com/artist/6AGiiymc14KiMOVzn0RBn6) | [IT GIRL \(Fan Remix\) \(feat\. Ve'Ondre\)](https://open.spotify.com/album/0TKw3hsXMgdr7t2pe0M8we) | 2:34 |
+| 6 | [IT GIRL \(Fan Remix\) \(feat\. Ve'ondre\)](https://open.spotify.com/track/2HonL5dY8y40KNoj1lnWTq) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545), [Ve'Ondre](https://open.spotify.com/artist/6AGiiymc14KiMOVzn0RBn6) | [IT GIRL \(Fan Remix\) \(feat\. Ve'ondre\)](https://open.spotify.com/album/0TKw3hsXMgdr7t2pe0M8we) | 2:34 |
 | 7 | [Armor](https://open.spotify.com/track/7mGwwtxzKB6ehgq6mcwB3N) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Armor](https://open.spotify.com/album/1zBqEegAnkQolF1pfCAjf4) | 2:42 |
 | 8 | [HOLLA](https://open.spotify.com/track/7olddX0hHcDyQnhySU6caA) | [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83) | [HOLLA](https://open.spotify.com/album/4ycMyOweF6LL67STCsFTc1) | 3:01 |
 | 9 | [In The End](https://open.spotify.com/track/09CLSLAHnRuFQUgoXeAiCz) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [In The End](https://open.spotify.com/album/4yKDRnMv0vIj5FlsREicz4) | 3:10 |

@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 178105,
+  "num_followers": 178343,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDVkMDA5ZDg1ODNmNThkNmU0ZDM0N2Y4Y2Q0NGQxN2MxM2NlNmUz",
+  "snapshot_id": "MCw1Y2EwZDI3YWM4YTRmNzI4ZDU4ODFlYjQ2NmI4NzU2NGEyM2UwZGQ1",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -279,18 +279,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Babysoul",
-        "url": "https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs"
+        "name": "Forever, For Always, For Luther",
+        "url": "https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN"
       },
       "artists": [
         {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        },
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
         }
       ],
-      "duration_ms": 284986,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc"
+      "duration_ms": 316026,
+      "name": "If Only For One Night",
+      "url": "https://open.spotify.com/track/6O4i4aMjDM7JVexa5hA3sk"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -331,22 +335,38 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Forever, For Always, For Luther",
-        "url": "https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN"
+        "name": "Babysoul",
+        "url": "https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs"
       },
       "artists": [
         {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        },
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
         }
       ],
-      "duration_ms": 316026,
-      "name": "If Only For One Night",
-      "url": "https://open.spotify.com/track/6O4i4aMjDM7JVexa5hA3sk"
+      "duration_ms": 284986,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Pearls",
+        "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
+      },
+      "artists": [
+        {
+          "name": "Gail Jhonson",
+          "url": "https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc"
+        },
+        {
+          "name": "Nelson Braxton",
+          "url": "https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Pacific Breeze",
+      "url": "https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -379,26 +399,6 @@
       "duration_ms": 267626,
       "name": "Boneyizm",
       "url": "https://open.spotify.com/track/4kUwH75A8Dc6PxA3Kl0Yif"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Pearls",
-        "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
-      },
-      "artists": [
-        {
-          "name": "Gail Jhonson",
-          "url": "https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc"
-        },
-        {
-          "name": "Nelson Braxton",
-          "url": "https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Pacific Breeze",
-      "url": "https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Find Someone Like You",
-        "url": "https://open.spotify.com/album/63okbbo4mM33XJt2DmYRgS"
-      },
-      "artists": [
-        {
-          "name": "Jonas Wall",
-          "url": "https://open.spotify.com/artist/2Fawi4h6lz8tvYaHRkq7fo"
-        },
-        {
-          "name": "Umbaji",
-          "url": "https://open.spotify.com/artist/6cMhraoNdQ4lybdCG6veYz"
-        }
-      ],
-      "duration_ms": 249230,
-      "name": "Find Someone Like You",
-      "url": "https://open.spotify.com/track/0Y2ILiQA9YbWev5YpkzOu9"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Perfect Moment",
         "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
       },
@@ -615,18 +595,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Chill Factor",
-        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
+        "name": "Find Someone Like You",
+        "url": "https://open.spotify.com/album/63okbbo4mM33XJt2DmYRgS"
       },
       "artists": [
         {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+          "name": "Jonas Wall",
+          "url": "https://open.spotify.com/artist/2Fawi4h6lz8tvYaHRkq7fo"
+        },
+        {
+          "name": "Umbaji",
+          "url": "https://open.spotify.com/artist/6cMhraoNdQ4lybdCG6veYz"
         }
       ],
-      "duration_ms": 276360,
-      "name": "Deep Touch",
-      "url": "https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW"
+      "duration_ms": 249230,
+      "name": "Find Someone Like You",
+      "url": "https://open.spotify.com/track/0Y2ILiQA9YbWev5YpkzOu9"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -647,6 +631,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Chill Factor",
+        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 276360,
+      "name": "Deep Touch",
+      "url": "https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Can't Stop Now",
         "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
@@ -659,22 +659,6 @@
       "duration_ms": 256853,
       "name": "If I Could Fly",
       "url": "https://open.spotify.com/track/6ZrF3FEq8MQd1CN9MXTHqa"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Melrose Avenue",
-        "url": "https://open.spotify.com/album/5E4dQbOoOdl3LQIKFWbuT0"
-      },
-      "artists": [
-        {
-          "name": "Melrose Avenue",
-          "url": "https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1"
-        }
-      ],
-      "duration_ms": 175930,
-      "name": "Melrose Avenue",
-      "url": "https://open.spotify.com/track/4uWBdsYOAqJhkfzpLWbEsA"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -711,18 +695,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Melody Drive",
-        "url": "https://open.spotify.com/album/7L9rZoOFPlkKy4g9Jclwft"
+        "name": "Melrose Avenue",
+        "url": "https://open.spotify.com/album/5E4dQbOoOdl3LQIKFWbuT0"
       },
       "artists": [
         {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5QKxN2fua4X7t8QfyojijI"
+          "name": "Melrose Avenue",
+          "url": "https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1"
         }
       ],
-      "duration_ms": 168811,
-      "name": "Melody Drive",
-      "url": "https://open.spotify.com/track/5WHfvETetU0Tu9DQ4iIwfq"
+      "duration_ms": 175930,
+      "name": "Melrose Avenue",
+      "url": "https://open.spotify.com/track/4uWBdsYOAqJhkfzpLWbEsA"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -743,6 +727,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Melody Drive",
+        "url": "https://open.spotify.com/album/7L9rZoOFPlkKy4g9Jclwft"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5QKxN2fua4X7t8QfyojijI"
+        }
+      ],
+      "duration_ms": 168811,
+      "name": "Melody Drive",
+      "url": "https://open.spotify.com/track/5WHfvETetU0Tu9DQ4iIwfq"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Nightlife",
         "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
       },
@@ -755,22 +755,6 @@
       "duration_ms": 299640,
       "name": "Always There (feat. Jeff Golub)",
       "url": "https://open.spotify.com/track/4o8cUnppGWSjA5gkZXi52N"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Next Journey",
-        "url": "https://open.spotify.com/album/3JOUNTko166Qtwt6hVdMsz"
-      },
-      "artists": [
-        {
-          "name": "robomoque",
-          "url": "https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v"
-        }
-      ],
-      "duration_ms": 183250,
-      "name": "Next Journey",
-      "url": "https://open.spotify.com/track/40ch36XYitWd7bL6Ih7Fyz"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -791,18 +775,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+        "name": "Next Journey",
+        "url": "https://open.spotify.com/album/3JOUNTko166Qtwt6hVdMsz"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+          "name": "robomoque",
+          "url": "https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v"
         }
       ],
-      "duration_ms": 255160,
-      "name": "Can't Stop Now",
-      "url": "https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV"
+      "duration_ms": 183250,
+      "name": "Next Journey",
+      "url": "https://open.spotify.com/track/40ch36XYitWd7bL6Ih7Fyz"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -835,6 +819,22 @@
       "duration_ms": 304453,
       "name": "Any Love",
       "url": "https://open.spotify.com/track/1uQnqFPN4Fzvn17DGX0eBj"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Can't Stop Now",
+      "url": "https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Send One Your Love",
+        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Emily",
         "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 269800,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Send One Your Love",
-        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Third Wish",
-        "url": "https://open.spotify.com/album/59rYARbQWHRi3wT19DwRA4"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cooling",
-          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
-        }
-      ],
-      "duration_ms": 280426,
-      "name": "Third Wish",
-      "url": "https://open.spotify.com/track/6nrafhMBvaXH9srTIk5Y6U"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "For Your Pleasure",
         "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Smooth Jazz Radio Hits Volume Two",
-        "url": "https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS"
+        "name": "Third Wish",
+        "url": "https://open.spotify.com/album/59rYARbQWHRi3wT19DwRA4"
       },
       "artists": [
         {
-          "name": "Gota",
-          "url": "https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ"
+          "name": "Joyce Cooling",
+          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
         }
       ],
-      "duration_ms": 216293,
-      "name": "In The City Life",
-      "url": "https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ"
+      "duration_ms": 280426,
+      "name": "Third Wish",
+      "url": "https://open.spotify.com/track/6nrafhMBvaXH9srTIk5Y6U"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Smooth Jazz Radio Hits Volume Two",
+        "url": "https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS"
+      },
+      "artists": [
+        {
+          "name": "Gota",
+          "url": "https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "In The City Life",
+      "url": "https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "My Inspiration",
         "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 266960,
       "name": "Old School",
       "url": "https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
-      },
-      "artists": [
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 308346,
-      "name": "Love To All",
-      "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1259,34 +1243,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
       },
       "artists": [
         {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
         }
       ],
-      "duration_ms": 279040,
-      "name": "Candlelight",
-      "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Big Jon",
-        "url": "https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo"
-      },
-      "artists": [
-        {
-          "name": "Lou Lizza",
-          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
-        }
-      ],
-      "duration_ms": 230886,
-      "name": "Big Jon",
-      "url": "https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a"
+      "duration_ms": 308346,
+      "name": "Love To All",
+      "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1311,18 +1279,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Urban Knights III",
-        "url": "https://open.spotify.com/album/1eFckepvnMBzHnqKaHFOGZ"
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
       },
       "artists": [
         {
-          "name": "Urban Knights",
-          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
         }
       ],
-      "duration_ms": 242333,
-      "name": "You're The One For Me",
-      "url": "https://open.spotify.com/track/6HtsA6ZSbdaLoYswmXfPiM"
+      "duration_ms": 279040,
+      "name": "Candlelight",
+      "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1343,6 +1311,38 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Big Jon",
+        "url": "https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo"
+      },
+      "artists": [
+        {
+          "name": "Lou Lizza",
+          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
+        }
+      ],
+      "duration_ms": 230886,
+      "name": "Big Jon",
+      "url": "https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Urban Knights III",
+        "url": "https://open.spotify.com/album/1eFckepvnMBzHnqKaHFOGZ"
+      },
+      "artists": [
+        {
+          "name": "Urban Knights",
+          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "You're The One For Me",
+      "url": "https://open.spotify.com/track/6HtsA6ZSbdaLoYswmXfPiM"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "White Sand",
         "url": "https://open.spotify.com/album/1rUIdXNTlE56EvLLsvyXy8"
       },
@@ -1359,22 +1359,6 @@
       "duration_ms": 279880,
       "name": "More Or Les Paul",
       "url": "https://open.spotify.com/track/3xOHBpfwg3oaRvgi6xZXCw"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 280866,
-      "name": "Lover For Life",
-      "url": "https://open.spotify.com/track/16FwzfpZJii63cnol8sDcA"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1403,6 +1387,22 @@
       "duration_ms": 322000,
       "name": "Brazil Chill",
       "url": "https://open.spotify.com/track/3UI2NlVimWCWOohTfyaP9v"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 280866,
+      "name": "Lover For Life",
+      "url": "https://open.spotify.com/track/16FwzfpZJii63cnol8sDcA"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Looking Up",
-        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 297493,
-      "name": "Show Me The Way",
-      "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Club 1600",
         "url": "https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z"
       },
@@ -1535,22 +1519,6 @@
       "duration_ms": 283000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 283266,
-      "name": "Eye 2 Eye",
-      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1571,18 +1539,34 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Another Door Opens",
-        "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
       },
       "artists": [
         {
-          "name": "Jeff Kashiwa",
-          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
         }
       ],
-      "duration_ms": 284200,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
+      "duration_ms": 297493,
+      "name": "Show Me The Way",
+      "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 283266,
+      "name": "Eye 2 Eye",
+      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1599,6 +1583,22 @@
       "duration_ms": 247746,
       "name": "Mallorca",
       "url": "https://open.spotify.com/track/5AJjIjpa2eFM7HH1IAlDoN"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Another Door Opens",
+        "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
+      },
+      "artists": [
+        {
+          "name": "Jeff Kashiwa",
+          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
     },
     {
       "added_at": "2024-02-02 00:01:00",

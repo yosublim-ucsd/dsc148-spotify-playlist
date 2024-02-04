@@ -1,12 +1,12 @@
 {
   "description": "Musiquita sabrosa que te hace bailar el coraz\u00f3n.",
-  "num_followers": 146853,
+  "num_followers": 146926,
   "original_name": "Amor Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjAyZjliYWVkZGZiYzAxNjZkYjM0ZGQ3MjhlNzczZmU0NzkyYWM4",
+  "snapshot_id": "MCxlYThmYjU1YTdiNTFmMDQ0MjhkNmNkNWY4YzgzZjIyZTMyYzc4NDRm",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1283,18 +1283,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "18",
-        "url": "https://open.spotify.com/album/6OJgwW8xB9bvJL5U5EK0Ui"
+        "name": "D\u00e9cimo Cuarto",
+        "url": "https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2"
       },
       "artists": [
         {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 231397,
-      "name": "18",
-      "url": "https://open.spotify.com/track/3QeUJezWTKjbkM4PegVqsg"
+      "duration_ms": 173796,
+      "name": "Le Viene Bien",
+      "url": "https://open.spotify.com/track/7r13JeH7jMKCrAJvtcfiL3"
     }
   ],
   "unique_name": "Amor Tropical",

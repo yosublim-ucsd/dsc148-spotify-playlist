@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 24731,
+  "2024-02-04": 24801,
   "date_first_scraped": "2022-02-25",
   "description": "Electronic + Dance making waves, every month. Cover: Kah-Lo and Jamie Jones",
   "name": "Electronic + Dance Frequency",
@@ -985,7 +985,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 190948,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 163298,
       "name": "Bubblegum",
       "url": "https://open.spotify.com/track/0amKnLMjFYK1cbsOLfUsQS"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 196880,
       "name": "Clumsy Dancer",
       "url": "https://open.spotify.com/track/6LuD2JSlTWmidYCxwoDwMw"
@@ -3452,6 +3452,24 @@
     },
     {
       "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224322,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj"
+    },
+    {
+      "album": {
         "name": "Little Things (Nia Archives Remix)",
         "url": "https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb"
       },
@@ -5252,6 +5270,40 @@
     },
     {
       "album": {
+        "name": "Sakila (feat. Mwamba & F\u00e9d\u00e9ration Internationale du Bruit)",
+        "url": "https://open.spotify.com/album/3Rt6Hr5epP4lKXhLI802l6"
+      },
+      "artists": [
+        {
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX"
+        },
+        {
+          "name": "Spilulu",
+          "url": "https://open.spotify.com/artist/0JXiPfPtSuON62oSTp4w7j"
+        },
+        {
+          "name": "Gafacci",
+          "url": "https://open.spotify.com/artist/72qc1S2CYJyPc1vpTBDJfG"
+        },
+        {
+          "name": "Mwamba",
+          "url": "https://open.spotify.com/artist/5VpE9q71Ar80HR6OpqSpSJ"
+        },
+        {
+          "name": "F\u00e9d\u00e9ration Internationale du Bruit",
+          "url": "https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201389,
+      "name": "Sakila (feat. Mwamba & F\u00e9d\u00e9ration Internationale du Bruit)",
+      "url": "https://open.spotify.com/track/7gV8ucFxnU0VR37gDg9MdT"
+    },
+    {
+      "album": {
         "name": "Save Myself EP",
         "url": "https://open.spotify.com/album/5mubRVmZs3ioryRdJfluVz"
       },
@@ -6093,7 +6145,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 176065,
       "name": "The Greatest Thing Alive",
       "url": "https://open.spotify.com/track/6As1zfxQHAgeQPBK2paaqh"
@@ -6123,6 +6175,28 @@
       "duration_ms": 417812,
       "name": "The Rapture Pt.III",
       "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
+    },
+    {
+      "album": {
+        "name": "The Way I\u2019m Wired (KILIMANJARO Remix)",
+        "url": "https://open.spotify.com/album/3qgBThQbCxS7uGURXOZMIV"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252203,
+      "name": "The Way I\u2019m Wired - KILIMANJARO Remix",
+      "url": "https://open.spotify.com/track/6iqy6H6CitkDAhSjwdEc0S"
     },
     {
       "album": {
@@ -6475,6 +6549,24 @@
       "duration_ms": 232122,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/2QZb1ps0j6TQAGIRbpYboE"
+    },
+    {
+      "album": {
+        "name": "U Got Me",
+        "url": "https://open.spotify.com/album/1XM4mIMDCHN8CIt6I1djBb"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201860,
+      "name": "U Got Me",
+      "url": "https://open.spotify.com/track/2FGxtHUsfE465RmOp0uM4g"
     },
     {
       "album": {

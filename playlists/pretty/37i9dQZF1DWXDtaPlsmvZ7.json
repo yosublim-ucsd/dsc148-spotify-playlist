@@ -1,12 +1,12 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 107801,
+  "num_followers": 107821,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTNjOGE3MzAzMzc0NWJjYzE1MDgzYWI1NmM1OTVlODAxMjM4NTZh",
+  "snapshot_id": "MCw4MjA2MDg2YjBlZjg1MjBlZWIxYzQ4MDBkZWQwMWZjODZjZmJhM2Ey",
   "tracks": [
     {
       "added_at": "2023-01-25 00:22:47",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/14jzo7RhjlL9LmfzYDkMUU"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 202226,
       "name": "Dr. Psiquiatra",
       "url": "https://open.spotify.com/track/5XcLKl8fG16ELgk5CpvZLn"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/14jzo7RhjlL9LmfzYDkMUU"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -551,26 +551,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Traicionero",
-        "url": "https://open.spotify.com/album/1HspaBXnlgh97QO7eIBqpD"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        },
-        {
-          "name": "Media Naranja",
-          "url": "https://open.spotify.com/artist/1CPCudqABxMYzF2PFEfQme"
-        }
-      ],
-      "duration_ms": 204216,
-      "name": "Traicionero",
-      "url": "https://open.spotify.com/track/7dAO2xy0K5tUqax8LthAml"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Baila Esta Cumbia",
         "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
       },
@@ -603,22 +583,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "El Color de Tus Ojos",
-        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        }
-      ],
-      "duration_ms": 156821,
-      "name": "El Color de Tus Ojos",
-      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Lo Siento",
         "url": "https://open.spotify.com/album/6N4GEhdNmY6Ip86tL02MDW"
       },
@@ -639,18 +603,38 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+        "name": "El Color de Tus Ojos",
+        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "duration_ms": 156821,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Traicionero",
+        "url": "https://open.spotify.com/album/1HspaBXnlgh97QO7eIBqpD"
       },
       "artists": [
         {
           "name": "Los del Fuego",
           "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        },
+        {
+          "name": "Media Naranja",
+          "url": "https://open.spotify.com/artist/1CPCudqABxMYzF2PFEfQme"
         }
       ],
-      "duration_ms": 197276,
-      "name": "Ji Ji Ji",
-      "url": "https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR"
+      "duration_ms": 204216,
+      "name": "Traicionero",
+      "url": "https://open.spotify.com/track/7dAO2xy0K5tUqax8LthAml"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -747,6 +731,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 197276,
+      "name": "Ji Ji Ji",
+      "url": "https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Lloviendo Estrellas",
         "url": "https://open.spotify.com/album/4ZQc6ZZUXLRs5A0a2mOMpw"
       },
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Si una Vez",
+        "url": "https://open.spotify.com/album/15911pYbJmbTWdRAbKeujH"
+      },
+      "artists": [
+        {
+          "name": "Jenny And The Mexicats",
+          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
+        }
+      ],
+      "duration_ms": 153960,
+      "name": "Si una Vez",
+      "url": "https://open.spotify.com/track/00bZhYk9fm4ZL5wNfRXocn"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Fuiste Tu",
         "url": "https://open.spotify.com/album/13qausPX6sj70dDe4lugZ9"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 230184,
       "name": "Fuiste Tu",
       "url": "https://open.spotify.com/track/0knrusP1Su928CMA9dMoIZ"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Si una Vez",
-        "url": "https://open.spotify.com/album/15911pYbJmbTWdRAbKeujH"
-      },
-      "artists": [
-        {
-          "name": "Jenny And The Mexicats",
-          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
-        }
-      ],
-      "duration_ms": 153960,
-      "name": "Si una Vez",
-      "url": "https://open.spotify.com/track/00bZhYk9fm4ZL5wNfRXocn"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Lemonchamp",
+        "url": "https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T"
+      },
+      "artists": [
+        {
+          "name": "LemonChamp",
+          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
+        }
+      ],
+      "duration_ms": 127128,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/4qgIw4wn24ZDVHSUs4a8J8"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Te Robar\u00e9",
         "url": "https://open.spotify.com/album/4art0k5sZUSkdS1aKaKJ5C"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 210050,
       "name": "Te Robare",
       "url": "https://open.spotify.com/track/36vJyCuqse0zidFibh1ybx"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Lemonchamp",
-        "url": "https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T"
-      },
-      "artists": [
-        {
-          "name": "LemonChamp",
-          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
-        }
-      ],
-      "duration_ms": 127128,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/4qgIw4wn24ZDVHSUs4a8J8"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1039,6 +1039,22 @@
       "duration_ms": 193736,
       "name": "Corazon, Perro Fiel, Echame La Culpa,",
       "url": "https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Lemonchamp",
+        "url": "https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T"
+      },
+      "artists": [
+        {
+          "name": "LemonChamp",
+          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
+        }
+      ],
+      "duration_ms": 140439,
+      "name": "Una Lady Como T\u00fa",
+      "url": "https://open.spotify.com/track/4cnac0Hd5P4nDPCB18yFUw"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Lemonchamp",
-        "url": "https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T"
-      },
-      "artists": [
-        {
-          "name": "LemonChamp",
-          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
-        }
-      ],
-      "duration_ms": 140439,
-      "name": "Una Lady Como T\u00fa",
-      "url": "https://open.spotify.com/track/4cnac0Hd5P4nDPCB18yFUw"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "2017 (#Veintediecisiete)",
         "url": "https://open.spotify.com/album/6cOefEIxlLxmiK3oz0OypE"
       },
@@ -1159,22 +1159,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Tropitango",
-        "url": "https://open.spotify.com/album/4dOlABdZn7dUJwrzJCX4pb"
+        "name": "Lemonchamp",
+        "url": "https://open.spotify.com/album/4Ie3Z2Ss3MPXX0OVjAnT9y"
       },
       "artists": [
         {
-          "name": "Las Culisueltas",
-          "url": "https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np"
-        },
-        {
-          "name": "La Sonora Master",
-          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+          "name": "LemonChamp",
+          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
         }
       ],
-      "duration_ms": 112274,
-      "name": "La Mejor Version de Mi",
-      "url": "https://open.spotify.com/track/6yBbgqbWxMVLqnzGwiiB8r"
+      "duration_ms": 156211,
+      "name": "Reggaeton Lento",
+      "url": "https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1191,22 +1187,6 @@
       "duration_ms": 170562,
       "name": "Puntos Suspensivos",
       "url": "https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Lemonchamp",
-        "url": "https://open.spotify.com/album/4Ie3Z2Ss3MPXX0OVjAnT9y"
-      },
-      "artists": [
-        {
-          "name": "LemonChamp",
-          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
-        }
-      ],
-      "duration_ms": 156211,
-      "name": "Reggaeton Lento",
-      "url": "https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1239,6 +1219,26 @@
       "duration_ms": 215200,
       "name": "\u00bfPor Qu\u00e9 Te Vas?",
       "url": "https://open.spotify.com/track/5MyvrPjiTEq8KgJWFfzT9y"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Tropitango",
+        "url": "https://open.spotify.com/album/4dOlABdZn7dUJwrzJCX4pb"
+      },
+      "artists": [
+        {
+          "name": "Las Culisueltas",
+          "url": "https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np"
+        },
+        {
+          "name": "La Sonora Master",
+          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+        }
+      ],
+      "duration_ms": 112274,
+      "name": "La Mejor Version de Mi",
+      "url": "https://open.spotify.com/track/6yBbgqbWxMVLqnzGwiiB8r"
     },
     {
       "added_at": "2022-05-06 18:26:25",

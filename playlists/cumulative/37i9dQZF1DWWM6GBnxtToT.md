@@ -4,13 +4,14 @@
 
 > Diese Songs zaubern dir ein Grinsen ins Gesicht.
 
-124 songs - 6 hr 58 min
+125 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2001](https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2001](https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX) | 4:26 | 2023-07-20 |  |
 | [3D Feelings](https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 3:17 | 2023-07-20 |  |
 | [A\-Train \- Edit](https://open.spotify.com/track/0WeLpRHrzZcmpMrppqPnnp) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [A\-Train](https://open.spotify.com/album/1b4ZTZJK7Ny6TxPkSUq3u1) | 3:35 | 2023-07-20 | 2024-01-13 |
+| [A\-Train \- Edit](https://open.spotify.com/track/3H7koEhZPWmhuBEXVrub04) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [A\-Train](https://open.spotify.com/album/7fJKR1Kv0kScy3nZHMmjN9) | 3:35 | 2024-01-25 |  |
 | [Acting My Age](https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Acting My Age](https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW) | 3:42 | 2023-07-20 |  |
 | [Adult Movies](https://open.spotify.com/track/1RPtMkfP5TfnlylnW6LIDd) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Adult Movies](https://open.spotify.com/album/7IWXZKQU9nUC3ae508E46p) | 3:15 | 2023-07-20 |  |
 | [All Of The Time](https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 3:02 | 2023-07-20 |  |
@@ -46,7 +47,7 @@
 | [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 | 2023-07-20 |  |
 | [Get High](https://open.spotify.com/track/2ZrCz6tDHMvzJSrJGVO3zT) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Get High](https://open.spotify.com/album/4NqTaiWEVCaEK4AXrPCgyn) | 3:42 | 2023-07-20 | 2023-11-18 |
 | [Get High](https://open.spotify.com/track/3q8bVATKAOwjc8C0jY3DRd) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq) | 3:42 | 2023-10-19 |  |
-| [Get Up!](https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Get Up!](https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao) | 3:15 | 2023-07-20 |  |
+| [Get Up!](https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Get Up!](https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao) | 3:15 | 2023-07-20 | 2024-02-04 |
 | [Go Out](https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Go Out](https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4) | 2:34 | 2023-07-20 |  |
 | [Going with You](https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Here, Right Now](https://open.spotify.com/album/0pz6QxOt98LbnryystoGza) | 2:55 | 2023-07-20 |  |
 | [Heartworks](https://open.spotify.com/track/2y0zJlae50VyzO7NCrQe06) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Heartworks](https://open.spotify.com/album/0WBpc7PSDbgRZIHZ4mAY0q) | 2:39 | 2023-07-20 |  |

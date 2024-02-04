@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,363 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,244 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 29 | [Christmas Don't Let Me Down \- Single Version](https://open.spotify.com/track/09XxwSW3nQpxngHcw6huo7) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Christmas Don’t Let Me Down](https://open.spotify.com/album/3eJgnDbAE2wDBvtAVQUrTy) | 3:20 |
 | 30 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/3nx7GD0euHYrWLzz1FJvcL) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 4:10 |
 | 31 | [Greensleeves](https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:29 |
-| 32 | [Christmas Dreaming](https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:33 |
+| 32 | [Christmas Dreaming](https://open.spotify.com/track/2IChCRHxRCVbo8i2zP4NVF) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3) | 2:33 |
 | 33 | [To Us Is Given](https://open.spotify.com/track/4425vuUQ6AXiaEtDfyFH4x) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Dave Brubeck Christmas](https://open.spotify.com/album/13Xwxp8icIpeRQhwdN7crn) | 3:32 |
 | 34 | [What Child Is This?](https://open.spotify.com/track/19Q3gmepDQVnPVCJRnIaDf) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC) | 4:46 |
 | 35 | [Carol Of The Bells](https://open.spotify.com/track/4s6oQ7wdy7jOv53weBiPli) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 4:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 99 | [O Little Town Of Bethlehem](https://open.spotify.com/track/7lFGTWPpGaBMxX8vjHLmLT) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC) | 3:16 |
 | 100 | [Mistletoe And Holly \- Remastered 1999](https://open.spotify.com/track/7faDzZnZYqTyYThx2sbHVQ) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:16 |
 
-Snapshot ID: `MCw3ZWY3ZTMxNTNjZmU1OGI3ZWE2Zjc3ZmNhMjllM2U3YThhMTc2YTBj`
+Snapshot ID: `MCxjMzA0YzFkNjdjNWM4NTc1MTQwYTAzYmYzMjQ3ZWVkOGQ2MWRjNjJi`

@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 726137,
+  "num_followers": 726213,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzc5ZmVjNmY5ODVjNGNlY2JmYTExNzM1YWJmYTEzYjEzMmVhYzBi",
+  "snapshot_id": "MCxjYWI3MTMwN2MyMjg2Mjc1OWIwZjQ0OTBhODM5ZDE4ZGRlMjVjZmFj",
   "tracks": [
     {
       "added_at": "2023-09-24 19:18:19",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
-    },
-    {
-      "added_at": "2023-09-24 19:18:19",
-      "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 153466,
       "name": "Good Riddance (Time of Your Life)",
       "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
+    },
+    {
+      "added_at": "2023-09-24 19:18:19",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
     },
     {
       "added_at": "2023-09-24 19:18:19",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "Into The Wild (Music For The Motion Picture)",
-        "url": "https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 236306,
-      "name": "Society",
-      "url": "https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5"
-    },
-    {
-      "added_at": "2023-09-24 19:18:19",
-      "album": {
         "name": "Siamese Dream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 196905,
       "name": "Disarm - 2011 Remaster",
       "url": "https://open.spotify.com/track/6YIggUJW3ttAAPRdnki8RM"
+    },
+    {
+      "added_at": "2023-09-24 19:18:19",
+      "album": {
+        "name": "Into The Wild (Music For The Motion Picture)",
+        "url": "https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "duration_ms": 236306,
+      "name": "Society",
+      "url": "https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5"
     },
     {
       "added_at": "2023-09-24 19:18:19",

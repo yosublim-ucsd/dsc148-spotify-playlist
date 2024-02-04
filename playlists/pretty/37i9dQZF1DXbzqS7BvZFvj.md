@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Lyrical Lemonade, The Kid LAROI, Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,179 likes - 78 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,174 likes - 78 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 54 | [You \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2XVP3DdkGwD4hizFF3x7SU) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [You \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/1Jwk84ITKfAo7FCfOk6DR7) | 3:04 |
 | 55 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
 | 56 | [Lil Rich](https://open.spotify.com/track/3tgcoa85EGp0zV88lFdhcr) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Soul Quake](https://open.spotify.com/album/55cvRjMBb8M1fq1xnTMm09) | 3:21 |
-| 57 | [Right Now \(feat\. Bossman Dlow\)](https://open.spotify.com/track/49jjnR1W3KVX3SHHM1GHOR) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Lil Wet](https://open.spotify.com/artist/71EPXRgyizFZBe54AlzCSn), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Right Now \(feat\. Bossman Dlow\)](https://open.spotify.com/album/154BzHnwn19x9GlItFYoqU) | 3:24 |
+| 57 | [Right Now \(feat\. Bossman Dlow & Lil Wet\)](https://open.spotify.com/track/49jjnR1W3KVX3SHHM1GHOR) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Lil Wet](https://open.spotify.com/artist/71EPXRgyizFZBe54AlzCSn) | [Right Now \(feat\. Bossman Dlow & Lil Wet\)](https://open.spotify.com/album/154BzHnwn19x9GlItFYoqU) | 3:24 |
 | 58 | [Don Who Leo](https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Don Who Leo](https://open.spotify.com/album/4DkigH1XDNwEBW3WHcdoEK) | 2:18 |
 | 59 | [Evil Ways \(feat\. J\. Cole\)](https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:47 |
 | 60 | [X\-GENE](https://open.spotify.com/track/4JDJdj7QuqHEqDuOeQzboZ) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 1:25 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 77 | [Bordeaux Flow feat\. Kidella](https://open.spotify.com/track/2zAjz5E07ehewy0T29Ycfp) | [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [THAITANIUM](https://open.spotify.com/artist/4Kdx0GZbfcNRIku5iM2Ug8), [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [Bordeaux Flow feat\. Kidella](https://open.spotify.com/album/78mcLwShUJkXR0O4AidcLU) | 3:20 |
 | 78 | [Endless Fashion \(feat\. Nicki Minaj\)](https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:36 |
 
-Snapshot ID: `MCxjNTVkNGVlYmY5ODVkOTU2ODBhOWJjY2YzMzFhMjM5NmEwNjIwZmVk`
+Snapshot ID: `MCxiYjc4ZmY1OGQwYWUxMmI5NTBmM2YwOWQ5YmQ3OGM3MTZjZWM4MTE1`

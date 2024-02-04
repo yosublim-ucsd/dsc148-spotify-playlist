@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 3403,
+  "2024-02-04": 3408,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl\">Ryan Tedder</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Ryan Tedder",
@@ -993,7 +993,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 231213,
       "name": "Burn",
       "url": "https://open.spotify.com/track/5lF0pHbsJ0QqyIrLweHJPW"
@@ -2827,7 +2827,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -4320,6 +4320,24 @@
     },
     {
       "album": {
+        "name": "Helios",
+        "url": "https://open.spotify.com/album/4Z1kH6bfeeMYtCuhnR4vEr"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "Love Don't Die",
+      "url": "https://open.spotify.com/track/6IDDwI0YOCAUDhMZltQekS"
+    },
+    {
+      "album": {
         "name": "Love Don't Die",
         "url": "https://open.spotify.com/album/7fVwxaWEw76nhRFcyBZd1Y"
       },
@@ -4371,7 +4389,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 222293,
       "name": "Love Like This (feat. Sean Kingston)",
       "url": "https://open.spotify.com/track/49ppqF73rOz5Nyt1paRxIF"
@@ -4411,7 +4429,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 203320,
       "name": "Love Looks Better",
       "url": "https://open.spotify.com/track/0HL5XOeVxgX1cEPY2KgRRa"
@@ -4501,7 +4519,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 229973,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/5H0ajL4EHsrcAEGESo2Lzx"
@@ -4681,7 +4699,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 189960,
       "name": "Maps",
       "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
@@ -4935,7 +4953,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 161028,
       "name": "Navy Blue",
       "url": "https://open.spotify.com/track/2V5YXks1lzRLR4qx4NTADJ"
@@ -5163,7 +5181,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 197494,
       "name": "Nights With You",
       "url": "https://open.spotify.com/track/5q5gzmbBS5yQzos2BvVr1t"
@@ -6247,7 +6265,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 237533,
       "name": "Selfish Love",
       "url": "https://open.spotify.com/track/6KgoUHakjLYPf7VrAVRfyS"
@@ -6728,6 +6746,24 @@
     },
     {
       "album": {
+        "name": "Some Kind of Trouble (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5b6T7m3DbNlWTwnaiuic2W"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Stay the Night",
+      "url": "https://open.spotify.com/track/7FFl1IHSsPWsfUCladsCl9"
+    },
+    {
+      "album": {
         "name": "Stay the Night",
         "url": "https://open.spotify.com/album/71uw3gF4VqTxqZQCNoESGD"
       },
@@ -6971,7 +7007,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 181026,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
@@ -8045,6 +8081,24 @@
     {
       "album": {
         "name": "What A Man Gotta Do",
+        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180644,
+      "name": "What A Man Gotta Do",
+      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
+    },
+    {
+      "album": {
+        "name": "What A Man Gotta Do",
         "url": "https://open.spotify.com/album/1d59Tys2IrD2ebugBuDfKd"
       },
       "artists": [
@@ -8409,6 +8463,24 @@
       "duration_ms": 233280,
       "name": "Words as Weapons",
       "url": "https://open.spotify.com/track/5dhVen8NZSxwjQuZAqU7Sa"
+    },
+    {
+      "album": {
+        "name": "Fire Within (Deluxe)",
+        "url": "https://open.spotify.com/album/6ig2k0oiH2AXm8MugikskB"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239320,
+      "name": "Words as Weapons",
+      "url": "https://open.spotify.com/track/2xYtuB16vJd4bMMHoku26H"
     },
     {
       "album": {

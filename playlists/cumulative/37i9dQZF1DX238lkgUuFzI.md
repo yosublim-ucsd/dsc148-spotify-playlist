@@ -4,7 +4,7 @@
 
 > Our editor’s picks for best songs from the misfits 2.0 universe in 2023\. Cover: Ashnikko
 
-166 songs - 7 hr 58 min
+167 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Believe the Hype](https://open.spotify.com/track/5LaT6csofzDEaFf8cmqoaQ) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Let's Hope Heteros Fail, Learn and Retire](https://open.spotify.com/album/5YjuPPmMZy5VGjlesAPbHG) | 2:47 | 2022-11-30 | 2023-11-30 |
 | [BIRTH OF VENUS](https://open.spotify.com/track/1Q98DdOmQlFrIaldR4MOVl) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [BIRTH OF VENUS](https://open.spotify.com/album/1VBKFrSZ7JSMAfBNz2nAcX) | 3:12 | 2023-11-29 |  |
 | [Black Punk](https://open.spotify.com/track/1irb49XkVPBjDpy0pckq5M) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:30 | 2022-11-30 | 2023-11-30 |
-| [bLeSs uR hEaRt](https://open.spotify.com/track/4bjn7QMGA72zxqEfrm6fpE) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/16ybJSJV5vWOH4PjmnvWgO) | 3:11 | 2023-11-29 |  |
+| [bLeSs uR hEaRt](https://open.spotify.com/track/4bjn7QMGA72zxqEfrm6fpE) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/16ybJSJV5vWOH4PjmnvWgO) | 3:11 | 2023-11-29 | 2024-02-04 |
+| [bLeSs uR hEaRt](https://open.spotify.com/track/5dUgbxgqNmCBSmpH5GqKbD) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/7GDQZo95yvUhGpYCeEWYuU) | 3:11 | 2023-11-29 |  |
 | [BOOM](https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [BOOM](https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7) | 2:22 | 2023-11-29 |  |
 | [boys wanna txt \(feat\. ericdoa\)](https://open.spotify.com/track/2xcu5xxg1eTtxuclknYYUN) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [boys wanna txt \(feat\. ericdoa\)](https://open.spotify.com/album/0p72ARimFcBGZshjCzfuFS) | 2:09 | 2021-12-01 | 2022-12-01 |
 | [break me!](https://open.spotify.com/track/2QcyULjo5eqJ0soQKHk3N4) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:33 | 2022-11-30 | 2023-11-30 |

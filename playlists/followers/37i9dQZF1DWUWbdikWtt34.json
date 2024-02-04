@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 191318,
+  "2024-02-04": 191248,
   "date_first_scraped": "2022-05-30",
   "description": "Dendang Dangdut teratas. Cover: Sridevi DA5, Kier King",
   "name": "Dangdut Top",
@@ -1687,6 +1687,24 @@
       "duration_ms": 318482,
       "name": "Ojo Dibandingke",
       "url": "https://open.spotify.com/track/2BIQGFkSLWl0SPRxaPR48Z"
+    },
+    {
+      "album": {
+        "name": "Ojo Dumeh",
+        "url": "https://open.spotify.com/album/0rEJIDYgNL6j5u7Or3omIC"
+      },
+      "artists": [
+        {
+          "name": "Ligea",
+          "url": "https://open.spotify.com/artist/7hLgy5SoxWG2nYanRBiouX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211900,
+      "name": "Ojo Dumeh",
+      "url": "https://open.spotify.com/track/5ZXe46rT8IRuuVsKlTPrtt"
     },
     {
       "album": {

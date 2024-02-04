@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Stuck in the Sound
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,023 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,026 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Welcome Back \- First Edit](https://open.spotify.com/track/4pLiJIhQYqKBmYukO7qVdU) | [EllSide](https://open.spotify.com/artist/6PxSIYmViSAALyISijBrW7) | [Welcome Back \(First Edit\)](https://open.spotify.com/album/595ts2ZuIpCoNaWNMdlRQQ) | 3:56 |
 | 50 | [State of Alert](https://open.spotify.com/track/3KNMZ6fGszA7LnhxsRvxHk) | [Frustration](https://open.spotify.com/artist/4OAmUQMp9sTuvo55MxGUq4) | [State of Alert](https://open.spotify.com/album/1DngFsP3tBPG8zS6umkCso) | 2:19 |
 
-Snapshot ID: `MCw5N2RhMTBmMzUxNjRjMTQ5YTVmYzZmY2IwYjlhNzUwNmM1MTAzNmZj`
+Snapshot ID: `MCxjNDFmNWE2ZDk5NjdjMTBlM2U2NDg1ZGRiMWQxN2FmMzY0OTE0ZjJi`

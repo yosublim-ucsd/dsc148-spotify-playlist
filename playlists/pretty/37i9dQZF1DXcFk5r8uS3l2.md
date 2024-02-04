@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Lizz Wright
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,216 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,195 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Your Love \(feat\. Meshell Ndegeocello & Brandee Younger\)](https://open.spotify.com/track/7gxUpscvq72a3LTkCbZ4Df) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Your Love \(feat\. Meshell Ndegeocello & Brandee Younger\)](https://open.spotify.com/album/7BC4W4KBXXK7oBceZyXzB9) | 3:29 |
-| 2 | [Things Is 'Bout Comin' My Way](https://open.spotify.com/track/0hankmoITw2Ujkm2YUvqRs) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Things Is 'Bout Comin' My Way](https://open.spotify.com/album/2xmpiYdM4H5iCW54Pw0f00) | 3:36 |
+| 2 | [Things Is 'Bout Comin' My Way](https://open.spotify.com/track/0hankmoITw2Ujkm2YUvqRs) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Things Is 'Bout Comin' My Way](https://open.spotify.com/album/2xmpiYdM4H5iCW54Pw0f00) | 4:39 |
 | 3 | [F\*ck My Life Up Again](https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [F\*ck My Life Up Again](https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g) | 4:18 |
 | 4 | [Oceans Of Emotions \- The Circle Sessions, 2023](https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Circle Sessions, 2023](https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs) | 3:36 |
 | 5 | [Love On My Brain](https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Love On My Brain](https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer) | 4:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [Roll With Me](https://open.spotify.com/track/5e8EPbTXBC9nnXctV4CWB3) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Roll With Me](https://open.spotify.com/album/4kh6j2obPW8dd5SxkCWjf7) | 4:20 |
 | 100 | [Rock & Roll](https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Rock & Roll](https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm) | 4:50 |
 
-Snapshot ID: `MCwwYTc5MTQzNGI3MDMwZDViMzBlMzQ0YWY5ZWUwZWZiYWQzZTlmMDc1`
+Snapshot ID: `MCxkNDYzODgzYzdjOGQ5MTljOTgzMGNhYmRmMzYzZGM0MTlhYzNkZjNj`

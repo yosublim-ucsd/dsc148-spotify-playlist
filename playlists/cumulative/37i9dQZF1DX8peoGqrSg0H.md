@@ -2,7 +2,7 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลง T\-Pop โดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PUN
+> เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PUN
 
 433 songs - 1 day 1 hr 58 min
 

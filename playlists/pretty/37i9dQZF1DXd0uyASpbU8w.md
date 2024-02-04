@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=O\-\_f\-EQ6SSCbRJgQvk6egQ">Ayra Starr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,879 likes - 63 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,942 likes - 63 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 62 | [Shona Khona \(feat\. TNK MusiQ, W4DE\)](https://open.spotify.com/track/4FjZ1wKbE03AXSVXkuHi16) | [Philharmonic](https://open.spotify.com/artist/5OLi7K8O3aYSV3GQRXdYmb), [TNK MusiQ](https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN), [W4DE](https://open.spotify.com/artist/0rkl0hmiFT3sfcRFm7gzHi) | [Big Fish](https://open.spotify.com/album/7H9iFcb6bPXc97IXojjZz5) | 5:51 |
 | 63 | [Tsotsi](https://open.spotify.com/track/0pkGttjbYWle2tn5RldOIt) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Tsotsi](https://open.spotify.com/album/6wXHDIz1HJ3uKy4jxzUOCe) | 3:05 |
 
-Snapshot ID: `MCw4OWZjNmQ2YzU3MmUzYmQ1OWU5MmZjNjgxZTczZjU5YWY0NWFmYzhj`
+Snapshot ID: `MCwyNDNiMTQ4ODEwNzI4Y2QxMjQ2YTk1ZGZlMTFjMzc4MDg4MDkxNTRi`

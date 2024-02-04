@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Norah Jones & Remi Wolf",
-  "num_followers": 465608,
+  "num_followers": 465534,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzgxZGI3YjNmNTFjZmVjMjllZWM5NTgxZmEyODMzNzRhNDZkZWQ3",
+  "snapshot_id": "MCwzOTgwY2QzZWUzZjkwOGVhMWUwMjBiOTFiNjVjNmVkMThmYjhhMDIz",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "The Show: The Encore",
-        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 242124,
-      "name": "Something In The Orange - Live From Spotify Studios",
-      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "If I Was (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 192053,
       "name": "I'm on Fire",
       "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "The Show: The Encore",
+        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 242124,
+      "name": "Something In The Orange - Live From Spotify Studios",
+      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 193671,
-      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "We Don't Eat EP",
         "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 214786,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/3rocTBn0NsGrVAHGOZNzH5"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 193671,
+      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1011,6 +1011,38 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 206796,
+      "name": "The Safety Dance",
+      "url": "https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Crossing Muddy Waters / Be My Husband",
         "url": "https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO"
       },
@@ -1035,38 +1067,6 @@
       "duration_ms": 228320,
       "name": "Crossing Muddy Waters",
       "url": "https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 206796,
-      "name": "The Safety Dance",
-      "url": "https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "1979",
+        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 290518,
+      "name": "1979",
+      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Listen To The Radio",
         "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 240386,
       "name": "Listen To The Radio",
       "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 290518,
-      "name": "1979",
-      "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 251760,
-      "name": "All the Best",
-      "url": "https://open.spotify.com/track/0fCpCpJbkcbN0Gxv68U6M0"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Singing Other People's Love Songs",
         "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 136891,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 251760,
+      "name": "All the Best",
+      "url": "https://open.spotify.com/track/0fCpCpJbkcbN0Gxv68U6M0"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 145280,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
         "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 239299,
       "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 145280,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Both Sides Now",
-        "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
-      },
-      "artists": [
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
-        }
-      ],
-      "duration_ms": 257941,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "I Still Haven't Found What I'm Looking For / my future",
         "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 191757,
       "name": "my future",
       "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 257941,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "The Bridge School Concerts 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
+        "name": "All We Grow (Ten Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5zOLes5VjZqy44W30zE6VJ"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
         }
       ],
-      "duration_ms": 223133,
-      "name": "Jesus, Etc.",
-      "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
+      "duration_ms": 299199,
+      "name": "Take It With Me",
+      "url": "https://open.spotify.com/track/5B0FqWcBm3TKdZVn6DcYnZ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "All We Grow (Ten Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5zOLes5VjZqy44W30zE6VJ"
+        "name": "The Bridge School Concerts 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
       },
       "artists": [
         {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 299199,
-      "name": "Take It With Me",
-      "url": "https://open.spotify.com/track/5B0FqWcBm3TKdZVn6DcYnZ"
+      "duration_ms": 223133,
+      "name": "Jesus, Etc.",
+      "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Mr. Bojangles",
-        "url": "https://open.spotify.com/album/1MjwfqR2h1WNd01VxPj0SC"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 243448,
-      "name": "Mr. Bojangles",
-      "url": "https://open.spotify.com/track/6bgcdWNmvjbWys5bJSO5uP"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Folkocracy",
         "url": "https://open.spotify.com/album/4FYVErCjwVvkO3XpDFtOQ2"
       },
@@ -1887,6 +1871,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Mr. Bojangles",
+        "url": "https://open.spotify.com/album/1MjwfqR2h1WNd01VxPj0SC"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 243448,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/6bgcdWNmvjbWys5bJSO5uP"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Songs 2003-2013",
         "url": "https://open.spotify.com/album/2JPIhBZ4GCqYrcQDOnbFNk"
       },
@@ -1899,22 +1899,6 @@
       "duration_ms": 185013,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/4uCXm0ydtmLqyBwVdpHLtW"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "A Long December",
-        "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 260812,
-      "name": "A Long December",
-      "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1967,18 +1951,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Live Forever: A Tribute To Billy Joe Shaver",
-        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
+        "name": "A Long December",
+        "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
         }
       ],
-      "duration_ms": 171480,
-      "name": "You Asked Me To",
-      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
+      "duration_ms": 260812,
+      "name": "A Long December",
+      "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1995,6 +1979,22 @@
       "duration_ms": 197540,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Live Forever: A Tribute To Billy Joe Shaver",
+        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "You Asked Me To",
+      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
     }
   ],
   "unique_name": "Folksy Covers",

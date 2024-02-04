@@ -1,12 +1,12 @@
 {
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
-  "num_followers": 217153,
+  "num_followers": 217114,
   "original_name": "Foco no Estudo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWE5ODBhODU4ZTE4YjJjM2M4NzFhMGY0NTc1Y2IwNGUxZTEwZjZm",
+  "snapshot_id": "MCw4NGEwMWYzOTcxOTg1MDUwYzg1MjQyY2RlMWY2MWM3MWE3OTgyMmMz",
   "tracks": [
     {
       "added_at": "2024-01-29 15:47:34",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S"
-      },
-      "artists": [
-        {
-          "name": "Catherine Peterson",
-          "url": "https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
         "name": "Spruces and pines",
         "url": "https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 142500,
       "name": "Spruces and pines",
       "url": "https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S"
+      },
+      "artists": [
+        {
+          "name": "Catherine Peterson",
+          "url": "https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Zephyr",
-        "url": "https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4"
-      },
-      "artists": [
-        {
-          "name": "Con Alma",
-          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
-        }
-      ],
-      "duration_ms": 160694,
-      "name": "Zephyr",
-      "url": "https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
         "name": "Flourish",
         "url": "https://open.spotify.com/album/3ZZa5qPd2XsANxEP7Aypnp"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 151124,
       "name": "Flourish",
       "url": "https://open.spotify.com/track/64FQyOZ9XEu8BOjSLdKSxP"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "Zephyr",
+        "url": "https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4"
+      },
+      "artists": [
+        {
+          "name": "Con Alma",
+          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
+        }
+      ],
+      "duration_ms": 160694,
+      "name": "Zephyr",
+      "url": "https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Chasing lights",
-        "url": "https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX"
-      },
-      "artists": [
-        {
-          "name": "Giles Garnier",
-          "url": "https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg"
-        }
-      ],
-      "duration_ms": 134109,
-      "name": "Chasing lights",
-      "url": "https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
         "name": "Au matin du magicien",
         "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 122560,
       "name": "Au matin du magicien",
       "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "Chasing lights",
+        "url": "https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX"
+      },
+      "artists": [
+        {
+          "name": "Giles Garnier",
+          "url": "https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg"
+        }
+      ],
+      "duration_ms": 134109,
+      "name": "Chasing lights",
+      "url": "https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2"
-      },
-      "artists": [
-        {
-          "name": "Hans Bukowski",
-          "url": "https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi"
-        }
-      ],
-      "duration_ms": 139250,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
         "name": "Morning Dance",
         "url": "https://open.spotify.com/album/3DD7atkh8NCnmAkRff4Qlt"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 145027,
       "name": "Morning Dance",
       "url": "https://open.spotify.com/track/1HNWHlc0OfRnCCeoLAwKzJ"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2"
+      },
+      "artists": [
+        {
+          "name": "Hans Bukowski",
+          "url": "https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi"
+        }
+      ],
+      "duration_ms": 139250,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Lugn",
-        "url": "https://open.spotify.com/album/32Di3Yyg05ysztLJV02oYh"
-      },
-      "artists": [
-        {
-          "name": "Ole-Bj\u00f8rn Talstad",
-          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
-        }
-      ],
-      "duration_ms": 138187,
-      "name": "Lugn",
-      "url": "https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
         "name": "Flock of birds",
         "url": "https://open.spotify.com/album/05KODFYK497NNmTs0ZW9xx"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Return To Le Berry",
-        "url": "https://open.spotify.com/album/6NSObXFjmErUsJ4FA5kGqM"
+        "name": "Lugn",
+        "url": "https://open.spotify.com/album/32Di3Yyg05ysztLJV02oYh"
       },
       "artists": [
         {
-          "name": "Jordi Forni\u00e9s",
-          "url": "https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x"
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
         }
       ],
-      "duration_ms": 165826,
-      "name": "Return To Le Berry",
-      "url": "https://open.spotify.com/track/5CLTDDnoA0QbcKKIwpEDDa"
+      "duration_ms": 138187,
+      "name": "Lugn",
+      "url": "https://open.spotify.com/track/1ClMqo1ZdAfFu5QMgF7hPB"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -1227,6 +1211,22 @@
       "duration_ms": 205269,
       "name": "Stilles Sehnen - Upright Reframings",
       "url": "https://open.spotify.com/track/0KJa9LQdtvIkg7m7lGiSQu"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "Return To Le Berry",
+        "url": "https://open.spotify.com/album/6NSObXFjmErUsJ4FA5kGqM"
+      },
+      "artists": [
+        {
+          "name": "Jordi Forni\u00e9s",
+          "url": "https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x"
+        }
+      ],
+      "duration_ms": 165826,
+      "name": "Return To Le Berry",
+      "url": "https://open.spotify.com/track/5CLTDDnoA0QbcKKIwpEDDa"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
+        "name": "Night Solace",
+        "url": "https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "duration_ms": 161469,
+      "name": "Night Solace",
+      "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
         "name": "Into the unknown",
         "url": "https://open.spotify.com/album/5YO98Sw6iNFqkabJMSWCo4"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 122159,
       "name": "Just Passing By",
       "url": "https://open.spotify.com/track/51zL0hF9UCIToxItCojCRP"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
-        "name": "Night Solace",
-        "url": "https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF"
-      },
-      "artists": [
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 161469,
-      "name": "Night Solace",
-      "url": "https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-01-29 15:47:34",
       "album": {
-        "name": "Chiral",
-        "url": "https://open.spotify.com/album/2GGXazjr151pmesoEHWst8"
-      },
-      "artists": [
-        {
-          "name": "Sven Grimm",
-          "url": "https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "Chiral",
-      "url": "https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
         "name": "Kalopsia",
         "url": "https://open.spotify.com/album/3kJJgfrEqoVMQkR9cHRsm8"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 178500,
       "name": "Kalopsia",
       "url": "https://open.spotify.com/track/3XebcloY8ola1VTGRm6aLP"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "Chiral",
+        "url": "https://open.spotify.com/album/2GGXazjr151pmesoEHWst8"
+      },
+      "artists": [
+        {
+          "name": "Sven Grimm",
+          "url": "https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Chiral",
+      "url": "https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -1531,6 +1531,22 @@
       "duration_ms": 125624,
       "name": "How It Is",
       "url": "https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR"
+    },
+    {
+      "added_at": "2024-01-29 15:47:34",
+      "album": {
+        "name": "Whatever is left",
+        "url": "https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q"
+      },
+      "artists": [
+        {
+          "name": "Noemi Lucas",
+          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+        }
+      ],
+      "duration_ms": 123628,
+      "name": "Whatever is left",
+      "url": "https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM"
     },
     {
       "added_at": "2024-01-29 15:47:34",
@@ -1603,22 +1619,6 @@
       "duration_ms": 144530,
       "name": "Secrets of the Earth",
       "url": "https://open.spotify.com/track/2ebLKk0oGuiVzJz9JCXnVs"
-    },
-    {
-      "added_at": "2024-01-29 15:47:34",
-      "album": {
-        "name": "Orpheus",
-        "url": "https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv"
-      },
-      "artists": [
-        {
-          "name": "Eric Sebastian",
-          "url": "https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp"
-        }
-      ],
-      "duration_ms": 171276,
-      "name": "Ballad",
-      "url": "https://open.spotify.com/track/0I3MZaEMddQfkUjRTEYWA2"
     }
   ],
   "unique_name": "Foco no Estudo",

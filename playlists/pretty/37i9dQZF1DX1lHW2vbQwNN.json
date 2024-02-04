@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Drake",
-  "num_followers": 169623,
+  "num_followers": 169972,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzYyNzczZWU1ZDY0ZTVlNTQyOGI2OWI3NGY3NGJhY2UxN2Q5YzRi",
+  "snapshot_id": "MCxhMjM5YjdjODg0ZDUzZGM0MWYwZWI0MzE0ZWIwZDgzYjI4ODFiNDg3",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "So Fresh, So Clean",
+      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 286906,
       "name": "Mrs. Officer",
       "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 240026,
-      "name": "So Fresh, So Clean",
-      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1451,22 +1451,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "The Documentary",
-        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
+        "name": "Crime Mob",
+        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
       },
       "artists": [
         {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          "name": "Crime Mob",
+          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
         },
         {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "Lil Scrappy",
+          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
         }
       ],
-      "duration_ms": 223066,
-      "name": "Westside Story",
-      "url": "https://open.spotify.com/track/0lOe1dR2TNkJMCjIcRuw6T"
+      "duration_ms": 205120,
+      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
+      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1511,22 +1511,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Crime Mob",
-        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
+        "name": "The Documentary",
+        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
       "artists": [
         {
-          "name": "Crime Mob",
-          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
         },
         {
-          "name": "Lil Scrappy",
-          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 205120,
-      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
-      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
+      "duration_ms": 223066,
+      "name": "Westside Story",
+      "url": "https://open.spotify.com/track/0lOe1dR2TNkJMCjIcRuw6T"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "...And Then There Was X",
-        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        },
-        {
-          "name": "Sisqo",
-          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
-        }
-      ],
-      "duration_ms": 253040,
-      "name": "What These Bitches Want",
-      "url": "https://open.spotify.com/track/57kdeoYzgGaKzRWj4XM1u8"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Me, Myself & I",
         "url": "https://open.spotify.com/album/7L3ybS1mQpWwAiZm4FuNwn"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 247413,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/4JPCdSaqs9dJd7RatFSHww"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "...And Then There Was X",
+        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        {
+          "name": "Sisqo",
+          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
+        }
+      ],
+      "duration_ms": 253040,
+      "name": "What These Bitches Want",
+      "url": "https://open.spotify.com/track/57kdeoYzgGaKzRWj4XM1u8"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "A Gangster And A Gentleman",
-        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
-      },
-      "artists": [
-        {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "The Inspiration",
         "url": "https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 240613,
       "name": "I Luv It",
       "url": "https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "A Gangster And A Gentleman",
+        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
+      },
+      "artists": [
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1707,6 +1707,30 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "On Top Of Our Game",
+        "url": "https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA"
+      },
+      "artists": [
+        {
+          "name": "Dem Franchize Boyz",
+          "url": "https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq"
+        },
+        {
+          "name": "Peanut",
+          "url": "https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP"
+        },
+        {
+          "name": "Charlay",
+          "url": "https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz"
+        }
+      ],
+      "duration_ms": 229813,
+      "name": "Lean Wit It, Rock Wit It",
+      "url": "https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Pain Is Love",
         "url": "https://open.spotify.com/album/2iIIgsaTEtVjDhrV7HKDJC"
       },
@@ -1739,30 +1763,6 @@
       "duration_ms": 246013,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/6rUcS9i07F6okIe8wujs5J"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "On Top Of Our Game",
-        "url": "https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA"
-      },
-      "artists": [
-        {
-          "name": "Dem Franchize Boyz",
-          "url": "https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq"
-        },
-        {
-          "name": "Peanut",
-          "url": "https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP"
-        },
-        {
-          "name": "Charlay",
-          "url": "https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz"
-        }
-      ],
-      "duration_ms": 229813,
-      "name": "Lean Wit It, Rock Wit It",
-      "url": "https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Blood In My Eye",
-        "url": "https://open.spotify.com/album/0O11EhdLUWCOErqA4Xm3b6"
-      },
-      "artists": [
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        }
-      ],
-      "duration_ms": 296466,
-      "name": "Clap Back",
-      "url": "https://open.spotify.com/track/1FK0sZfZzCAIDUn7htCemp"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "The People's Champ",
         "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 214960,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Blood In My Eye",
+        "url": "https://open.spotify.com/album/0O11EhdLUWCOErqA4Xm3b6"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        }
+      ],
+      "duration_ms": 296466,
+      "name": "Clap Back",
+      "url": "https://open.spotify.com/track/1FK0sZfZzCAIDUn7htCemp"
     }
   ],
   "unique_name": "I Love My 2000s Hip-Hop",

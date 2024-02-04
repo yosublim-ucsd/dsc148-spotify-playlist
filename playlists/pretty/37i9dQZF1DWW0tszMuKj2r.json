@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ca\u00f1onazos salseros para persignar la pista de baile!",
-  "num_followers": 54173,
+  "num_followers": 54221,
   "original_name": "Salsa Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzVmZWY3ZTdlMDAzNWNlMzk2MmQ1MWQzNzIxOGY0NWViN2Q4NWVh",
+  "snapshot_id": "MCxjY2M4YjJlMWE1ZDc1MmM1MWRjNDBiMGU4NDFkMWNmYzE5ZDc1MTQy",
   "tracks": [
     {
       "added_at": "2022-12-30 20:26:55",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Luchar\u00e9",
-        "url": "https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4"
-      },
-      "artists": [
-        {
-          "name": "Mickey Taveras",
-          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
-        }
-      ],
-      "duration_ms": 303306,
-      "name": "Y Qu\u00e9 Me Pasa - Salsa",
-      "url": "https://open.spotify.com/track/7E6LWDOm7duh7iXF3is22H"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Cara De Ni\u00f1o",
         "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 298640,
       "name": "Qu\u00e9 Hay de Malo",
       "url": "https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Luchar\u00e9",
+        "url": "https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4"
+      },
+      "artists": [
+        {
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+        }
+      ],
+      "duration_ms": 303306,
+      "name": "Y Qu\u00e9 Me Pasa - Salsa",
+      "url": "https://open.spotify.com/track/7E6LWDOm7duh7iXF3is22H"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "No Hay Quinto Malo",
-        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 310360,
-      "name": "Cali Pachanguero",
-      "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "10 De Coleccion",
         "url": "https://open.spotify.com/album/4l7BTfiKsjv1DoReRxxySR"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 302360,
       "name": "Amores Como el Nuestro",
       "url": "https://open.spotify.com/track/3WLXf7K7mIGEBtFq41afce"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "No Hay Quinto Malo",
+        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 310360,
+      "name": "Cali Pachanguero",
+      "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Nuevo Milenio - El Mismo Sabor",
-        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Me Liber\u00e9",
-      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 321200,
       "name": "Casi Te Envidio",
       "url": "https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Nuevo Milenio - El Mismo Sabor",
+        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Me Liber\u00e9",
+      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Memoria",
-        "url": "https://open.spotify.com/album/1GoscVGngfCuRuqRtv1hZP"
-      },
-      "artists": [
-        {
-          "name": "Polo Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
-        }
-      ],
-      "duration_ms": 364466,
-      "name": "Un Monton De Estrellas",
-      "url": "https://open.spotify.com/track/6aRaqc6pTMrm530rf7uL0S"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Aut\u00e9ntico",
         "url": "https://open.spotify.com/album/7cOFsHGVbn6SwAQwHC49ov"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 289706,
       "name": "Sombra Loca",
       "url": "https://open.spotify.com/track/7hqI73OXybfZ6FV9O4WrNs"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/1GoscVGngfCuRuqRtv1hZP"
+      },
+      "artists": [
+        {
+          "name": "Polo Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
+        }
+      ],
+      "duration_ms": 364466,
+      "name": "Un Monton De Estrellas",
+      "url": "https://open.spotify.com/track/6aRaqc6pTMrm530rf7uL0S"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
+        "name": "Mi Raz\u00f3n de Ser",
+        "url": "https://open.spotify.com/album/0CdhFwicPfGBbNQx7qdCx7"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Ricardo",
+          "url": "https://open.spotify.com/artist/0fbbEqifegSE79DPPgeg8f"
+        }
+      ],
+      "duration_ms": 261600,
+      "name": "Por Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/0vGGu88Cicm2MpV1MfMh8Z"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
         "name": "Hechizando",
         "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 253346,
       "name": "La Negra Tiene Tumbao",
       "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
-        "name": "Mi Raz\u00f3n de Ser",
-        "url": "https://open.spotify.com/album/0CdhFwicPfGBbNQx7qdCx7"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Ricardo",
-          "url": "https://open.spotify.com/artist/0fbbEqifegSE79DPPgeg8f"
-        }
-      ],
-      "duration_ms": 261600,
-      "name": "Por Qu\u00e9 Ser\u00e1?",
-      "url": "https://open.spotify.com/track/0vGGu88Cicm2MpV1MfMh8Z"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1259,6 +1259,26 @@
       "duration_ms": 310426,
       "name": "Me Vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/10OXEEbtNRaeiHeKHj25XB"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Hechizando",
+        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
+      },
+      "artists": [
+        {
+          "name": "Danny Daniel",
+          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
+        },
+        {
+          "name": "Prix 06",
+          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
+        }
+      ],
+      "duration_ms": 199862,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4Qr4M2eMQCLmpMdnLjDKYB"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1335,26 +1355,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Hechizando",
-        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
-      },
-      "artists": [
-        {
-          "name": "Danny Daniel",
-          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
-        },
-        {
-          "name": "Prix 06",
-          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
-        }
-      ],
-      "duration_ms": 199862,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4Qr4M2eMQCLmpMdnLjDKYB"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Solo Salsa",
         "url": "https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 215118,
       "name": "Como la Quiero Cuanto la Extra\u00f1o",
       "url": "https://open.spotify.com/track/4kkwiypjdscH8OgHQ36Jbw"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Soy Feliz",
+        "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Las Tumbas",
+      "url": "https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1419,54 +1435,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
-        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
-      },
-      "artists": [
-        {
-          "name": "Hildemaro",
-          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
-        }
-      ],
-      "duration_ms": 239397,
-      "name": "Agua Caliente",
-      "url": "https://open.spotify.com/track/5HmxRC7UzG9FxGYAm7EsXH"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
-        "name": "Soy Feliz",
-        "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Las Tumbas",
-      "url": "https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        }
-      ],
-      "duration_ms": 252826,
-      "name": "Sobredosis",
-      "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "Hechizando",
         "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
       },
@@ -1483,6 +1451,38 @@
       "duration_ms": 267311,
       "name": "Hechizo",
       "url": "https://open.spotify.com/track/6SDFIy0gtc8tLjVGWIJkxq"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
+        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
+      },
+      "artists": [
+        {
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
+        }
+      ],
+      "duration_ms": 239397,
+      "name": "Agua Caliente",
+      "url": "https://open.spotify.com/track/5HmxRC7UzG9FxGYAm7EsXH"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
     },
     {
       "added_at": "2022-12-30 20:26:55",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-12-30 20:26:55",
       "album": {
-        "name": "Viva Rosario",
-        "url": "https://open.spotify.com/album/68Gx7E0QgelZ6Uvpo9PWzB"
-      },
-      "artists": [
-        {
-          "name": "Willie Rosario",
-          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
-        }
-      ],
-      "duration_ms": 301010,
-      "name": "Anuncio Clasificado / D\u00e1melo",
-      "url": "https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u"
-    },
-    {
-      "added_at": "2022-12-30 20:26:55",
-      "album": {
         "name": "La Llave del Son",
         "url": "https://open.spotify.com/album/06uEnV3HMObiKgnRcA0f17"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 297882,
       "name": "Baila Contigo",
       "url": "https://open.spotify.com/track/0Iwydrdz8p2aGRmSIqaK3M"
+    },
+    {
+      "added_at": "2022-12-30 20:26:55",
+      "album": {
+        "name": "Viva Rosario",
+        "url": "https://open.spotify.com/album/68Gx7E0QgelZ6Uvpo9PWzB"
+      },
+      "artists": [
+        {
+          "name": "Willie Rosario",
+          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
+        }
+      ],
+      "duration_ms": 301010,
+      "name": "Anuncio Clasificado / D\u00e1melo",
+      "url": "https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u"
     },
     {
       "added_at": "2022-12-30 20:26:55",

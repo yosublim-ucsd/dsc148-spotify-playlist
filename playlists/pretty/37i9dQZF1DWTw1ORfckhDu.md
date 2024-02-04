@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Jami Faltin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,003 likes - 63 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,011 likes - 63 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 62 | [Just sillee](https://open.spotify.com/track/1qmWhud8dSCh1WxZnwaR2P) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Just sillee](https://open.spotify.com/album/2Dw5jml0SGkxUES45CrUFk) | 2:38 |
 | 63 | [Viimeinen ilta](https://open.spotify.com/track/1gAtV9FOe3LDju7KrQIEHn) | [Horse Attack Sqwad](https://open.spotify.com/artist/24LKxLWbV018hPbn5YQ34K) | [Viimeinen ilta](https://open.spotify.com/album/49aD6tSHjyoHEZwXGhale6) | 2:59 |
 
-Snapshot ID: `MCxkNGNjZjBhZTZkMjcxZWEwYjE1YmIxY2ZmMDYyODdmOTU1MDRhNmFj`
+Snapshot ID: `MCwzNjNiMTZlZDMwNjU1MjEzYTgwMWZjZGE1MWE2Y2Q1NmQzZjI5YWIy`

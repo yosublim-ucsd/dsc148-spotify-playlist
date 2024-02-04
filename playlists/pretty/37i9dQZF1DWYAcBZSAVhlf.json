@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 277262,
+  "num_followers": 277504,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTg0ZjA5NjVkZmZlZjY1ZTNlYzg4YTMwNjIyMTYyZWM0ZDM3YTA0",
+  "snapshot_id": "MCwxNjhlMGQ2MmE4YTBlNDczNzc2YTNhNGI1MGU1OGMyYTQ3Njc1ZWYy",
   "tracks": [
     {
       "added_at": "2023-01-03 15:06:17",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Sunshine on Leith",
         "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 219466,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
-    },
-    {
       "added_at": "2023-05-23 07:22:54",
       "album": {
         "name": "Building The Perfect Beast",
@@ -375,6 +359,22 @@
       "duration_ms": 288733,
       "name": "The Boys Of Summer",
       "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Living In The Background",
-        "url": "https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9"
-      },
-      "artists": [
-        {
-          "name": "Baltimora",
-          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
-        }
-      ],
-      "duration_ms": 378946,
-      "name": "Tarzan Boy",
-      "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Living In The Background",
+        "url": "https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9"
+      },
+      "artists": [
+        {
+          "name": "Baltimora",
+          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
+        }
+      ],
+      "duration_ms": 378946,
+      "name": "Tarzan Boy",
+      "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "What A Feeling",
-        "url": "https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 244533,
-      "name": "What A Feeling",
-      "url": "https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Tell It to My Heart (Expanded Edition)",
         "url": "https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 220880,
       "name": "Tell It to My Heart",
       "url": "https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "What A Feeling",
+        "url": "https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 244533,
+      "name": "What A Feeling",
+      "url": "https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+        "name": "Speak & Spell (2006 Remaster)",
+        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
       },
       "artists": [
         {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 229106,
-      "name": "Rhythm Of The Night",
-      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
+      "duration_ms": 222760,
+      "name": "Just Can't Get Enough - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Speak & Spell (2006 Remaster)",
-        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
         }
       ],
-      "duration_ms": 222760,
-      "name": "Just Can't Get Enough - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+      "duration_ms": 229106,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Frantic Romantic",
-        "url": "https://open.spotify.com/album/3OCmVGmewrfW3eZmLhRAIX"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Stewart",
-          "url": "https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3"
-        }
-      ],
-      "duration_ms": 293240,
-      "name": "We Don't Have To Take Our Clothes Off",
-      "url": "https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Kylie",
         "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 193540,
       "name": "The Loco-Motion",
       "url": "https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Frantic Romantic",
+        "url": "https://open.spotify.com/album/3OCmVGmewrfW3eZmLhRAIX"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Stewart",
+          "url": "https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3"
+        }
+      ],
+      "duration_ms": 293240,
+      "name": "We Don't Have To Take Our Clothes Off",
+      "url": "https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Break Out",
-        "url": "https://open.spotify.com/album/0Kmw2yUjTfdaN1son7GTp5"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 267226,
-      "name": "Jump (For My Love)",
-      "url": "https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 229200,
       "name": "Tell Her About It",
       "url": "https://open.spotify.com/track/6kCJMxv445L2okuTiou1fR"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Break Out",
+        "url": "https://open.spotify.com/album/0Kmw2yUjTfdaN1son7GTp5"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 267226,
+      "name": "Jump (For My Love)",
+      "url": "https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Arista Heritage Series: Ray Parker",
-        "url": "https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 244773,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Arista Heritage Series: Ray Parker",
+        "url": "https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Tarzan Boy: The World Of Baltimora",
-        "url": "https://open.spotify.com/album/3z0bIoLOQwn7CYOz0vUePj"
-      },
-      "artists": [
-        {
-          "name": "Baltimora",
-          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
-        }
-      ],
-      "duration_ms": 230026,
-      "name": "Tarzan Boy",
-      "url": "https://open.spotify.com/track/6FwMGM0Dtmf0vz6BdIc8uP"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Different Light (Expanded Edition)",
         "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 203226,
       "name": "Walk Like an Egyptian",
       "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Tarzan Boy: The World Of Baltimora",
+        "url": "https://open.spotify.com/album/3z0bIoLOQwn7CYOz0vUePj"
+      },
+      "artists": [
+        {
+          "name": "Baltimora",
+          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
+        }
+      ],
+      "duration_ms": 230026,
+      "name": "Tarzan Boy",
+      "url": "https://open.spotify.com/track/6FwMGM0Dtmf0vz6BdIc8uP"
     },
     {
       "added_at": "2023-01-03 15:06:17",

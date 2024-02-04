@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Nolan Taylor
 
-1,787 songs - 4 day 13 hr 6 min
+1,790 songs - 4 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,7 +595,8 @@
 | [hallow's eve](https://open.spotify.com/track/257WCspICXPffkvdEvVaIP) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F), [Timothy Edward Carpenter](https://open.spotify.com/artist/5Ey3CuclF1I1yTc1i0YDgc) | [hallow's eve](https://open.spotify.com/album/6LdgrA1mQmS4BfHVlqAPOU) | 2:13 | 2023-10-20 | 2024-01-20 |
 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 | 2023-08-04 | 2023-09-30 |
 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 | 2023-02-10 | 2023-05-13 |
-| [Hand to Hand](https://open.spotify.com/track/4AaVY4XuXeHJZwUBSRSoC6) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Hand to Hand](https://open.spotify.com/album/7HUM44SiRxsE6TXDjNF7wp) | 3:46 | 2024-01-05 |  |
+| [Hand to Hand](https://open.spotify.com/track/4AaVY4XuXeHJZwUBSRSoC6) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Hand to Hand](https://open.spotify.com/album/7HUM44SiRxsE6TXDjNF7wp) | 3:46 | 2024-01-05 | 2024-02-04 |
+| [Hand to Hand](https://open.spotify.com/track/7i4onkA2fRuV0viFNWINID) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 3:46 | 2024-01-05 |  |
 | [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 | 2023-05-05 | 2023-07-15 |
 | [Hands On The Wheel \(Feat\. Particle Kid\) \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli) | [Spotify Singles](https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu) | 4:17 | 2023-04-28 | 2023-07-08 |
 | [Hang On To Me](https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hang On To Me](https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL) | 3:22 | 2022-08-12 | 2023-01-14 |
@@ -1138,7 +1139,8 @@
 | [Parched](https://open.spotify.com/track/2HLx0fc5WDpKXxPY6IWJMC) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Parched](https://open.spotify.com/album/5I4W743nQNBUZ76wdpg5ov) | 4:02 | 2023-02-17 | 2023-04-29 |
 | [Part of Me](https://open.spotify.com/track/4Z8Q1ysqqdTYDr7yyP3ONx) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c), [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [Part of Me](https://open.spotify.com/album/0Xu17UGt6rn4ViWJTQnwTe) | 3:28 | 2023-12-15 |  |
 | [Part Time Lovers](https://open.spotify.com/track/5PSnffyT93zHiE23tRsL0O) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Part Time Lovers](https://open.spotify.com/album/0wcyQMBIXTuUJz3FokoVwp) | 3:10 | 2022-12-16 | 2023-04-29 |
-| [Party of the Century](https://open.spotify.com/track/1JEyp69tRjo7mjW6mPSvtb) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Party of the Century](https://open.spotify.com/album/2pC55Z6LUmN76r3HSzE9Av) | 2:40 | 2023-12-01 |  |
+| [Party of the Century](https://open.spotify.com/track/1JEyp69tRjo7mjW6mPSvtb) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Party of the Century](https://open.spotify.com/album/2pC55Z6LUmN76r3HSzE9Av) | 2:40 | 2023-12-01 | 2024-02-04 |
+| [Party of the Century](https://open.spotify.com/track/2IAEIzMfn4mZoDzkvtSz1G) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Blue Raspberry](https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj) | 2:40 | 2023-12-15 |  |
 | [Passengers](https://open.spotify.com/track/0j8tWZyD71TFLVBVLhvna5) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Passengers](https://open.spotify.com/album/5SosqlxeVmbp47asMuQlqi) | 3:32 | 2022-01-21 | 2022-04-23 |
 | [Patch](https://open.spotify.com/track/7s3vvSktFYNBsISc6toYIb) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Patch](https://open.spotify.com/album/1J3L6wTwNBV7Y7asZna1W5) | 2:52 | 2023-03-31 | 2023-06-03 |
 | [Path of Least Resistance](https://open.spotify.com/track/54nZbMoe196usom085LA0X) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Path of Least Resistance](https://open.spotify.com/album/6JXDyA1oQ7KETUndJDu6f2) | 2:50 | 2023-03-24 | 2023-06-03 |
@@ -1262,7 +1264,8 @@
 | [Samalaman Bay](https://open.spotify.com/track/07AYFRDZ0FVvq7sQHk8ERu) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Samalaman Bay](https://open.spotify.com/album/0dfjXx1pW6HZ3Ihf8qFuEs) | 3:55 | 2023-02-24 | 2023-03-25 |
 | [Same Page](https://open.spotify.com/track/39uCoYHGaI6ShUUBfqezNQ) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Same Page](https://open.spotify.com/album/7Hi0hHfhJL4q2g6aCq5b1l) | 3:23 | 2023-06-16 | 2023-08-26 |
 | [Same Risk](https://open.spotify.com/track/126NE8fqzYK9CA9tFpy5NK) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Same Risk](https://open.spotify.com/album/5pGZ0MJ3oEyr8S3AfwXmmT) | 3:28 | 2023-10-13 | 2024-01-20 |
-| [Same Water](https://open.spotify.com/track/5cP4ZjWFGgimzGJOKRwB9g) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Same Water](https://open.spotify.com/album/6V2dNmY5aFZND3ueCFIOOo) | 4:20 | 2024-01-12 |  |
+| [Same Water](https://open.spotify.com/track/5bmpMZDDkpOr2bGPptSruW) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Same Water](https://open.spotify.com/album/4Scuu3Z6gDXBg2N5yNNcVS) | 4:20 | 2024-01-12 |  |
+| [Same Water](https://open.spotify.com/track/5cP4ZjWFGgimzGJOKRwB9g) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Same Water](https://open.spotify.com/album/6V2dNmY5aFZND3ueCFIOOo) | 4:20 | 2024-01-12 | 2024-02-04 |
 | [Sammy Boy](https://open.spotify.com/track/2AlFhYEue4MjcsGEY5uy4D) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Swinging Stars](https://open.spotify.com/album/68hco7UD1lb80Sv7A80tAf) | 3:27 | 2023-08-18 | 2023-10-15 |
 | [SANTIAGO](https://open.spotify.com/track/54pOnSuyvx0bCy1TSfh84c) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [SANTIAGO](https://open.spotify.com/album/0fB1Ugol2nneWdA2ByQEUp) | 3:27 | 2023-06-16 | 2023-08-26 |
 | [Sapling \(feat\. Anderson East\)](https://open.spotify.com/track/62dlYm1sz64D1AST1dCLE2) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu), [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Sapling \(feat\. Anderson East\)](https://open.spotify.com/album/3hZo4OXyrw0NYHSDGW7FJx) | 3:13 | 2022-01-21 | 2022-04-23 |

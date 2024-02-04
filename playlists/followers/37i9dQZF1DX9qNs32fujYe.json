@@ -1,5 +1,5 @@
 {
-  "2024-02-03": 1203845,
+  "2024-02-04": 1204175,
   "date_first_scraped": "2021-12-21",
   "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Judas Priest",
   "name": "Heavy Metal",
@@ -3619,7 +3619,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-03",
       "duration_ms": 189105,
       "name": "Dying to Live",
       "url": "https://open.spotify.com/track/6IjwZM7myeMpb8CcZUGEv5"
@@ -10899,6 +10899,24 @@
       "duration_ms": 296213,
       "name": "Souleater",
       "url": "https://open.spotify.com/track/7KWCzqPg2WrritNTlYuQ4t"
+    },
+    {
+      "album": {
+        "name": "Speaking of the Devil",
+        "url": "https://open.spotify.com/album/2vaWy2D9cVuzWBJPNcCgOX"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225189,
+      "name": "Speaking of the Devil",
+      "url": "https://open.spotify.com/track/4GhsSMTgNDpY41NYpCgv5W"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,259 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,311 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 36 | [Be Sharp Say Nowt \- Edit](https://open.spotify.com/track/0j7O38949INodwi5ppDvFe) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Be Sharp Say Nowt](https://open.spotify.com/album/2Oc9mE5qOn4ft9hym2XJMw) | 3:48 |
 | 37 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
 | 38 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 |
-| 39 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 |
-| 40 | [Cash For Love](https://open.spotify.com/track/1QCjgRff7EzAtIUlOpWSJV) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Cash For Love](https://open.spotify.com/album/5kEP8s3hsep25m0yEJpfFo) | 4:36 |
+| 39 | [Cash For Love](https://open.spotify.com/track/1QCjgRff7EzAtIUlOpWSJV) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Cash For Love](https://open.spotify.com/album/5kEP8s3hsep25m0yEJpfFo) | 4:36 |
+| 40 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 |
 | 41 | [Talk to Me You'll Understand](https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [You'll Understand](https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE) | 6:57 |
 | 42 | [Promises](https://open.spotify.com/track/2LCCxYQ5dw1dz3Pu6APEUH) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:17 |
 | 43 | [Dance To The Music](https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Dance To The Music](https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Grey](https://open.spotify.com/track/1tNxprI7wf87blRuXUyEvC) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Speicher 93](https://open.spotify.com/album/3ynaPdzABzDYa71e6RSagL) | 4:53 |
 | 50 | [The Renegade](https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [The Renegade EP](https://open.spotify.com/album/2nFqzhDJO6HBSQHGpsYhw7) | 2:30 |
 
-Snapshot ID: `MCwxZTAyNjQ5Nzg3NGUxOTZjMGE1NTBhZWM4OTE1MWVmYTJkOTBjMTUy`
+Snapshot ID: `MCxhNmNjNDQyNjgxY2QzYmI0MzJjOTdjNjc0OTNlZWM5ODc1M2IzNzZm`

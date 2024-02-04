@@ -4,7 +4,7 @@
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 21 min
+96 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Dance](https://open.spotify.com/track/7nNrIS6JuS2YEhmfmZwEuf) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Dance](https://open.spotify.com/album/3LH7ME7Kjs9x6qDkbF5mWS) | 3:23 | 2021-12-28 |  |
 | [Dem Mama](https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:09 | 2021-12-28 |  |
 | [Dem Mama Anthem](https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [2Solo](https://open.spotify.com/artist/1VEt0NXNZxUhoEZLL0kVte), [Recoba](https://open.spotify.com/artist/2AFc4oxDKb1Jk0uSt8OS0U) | [Gift And Grace](https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb) | 4:32 | 2022-01-07 |  |
+| [Dey Your Dey](https://open.spotify.com/track/4X1Ae3Y9MEURgckWfrsrI9) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Dey Your Dey](https://open.spotify.com/album/2wo9Bti2902VdGyKANzIhq) | 2:35 | 2024-02-03 |  |
 | [Don Dada](https://open.spotify.com/track/7gReWQ16Qs5gtAkytHEKB8) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:28 | 2021-12-28 |  |
 | [Eff All Day](https://open.spotify.com/track/0ZhCxpwGscBQ3ay4Qa743X) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Eff All Day](https://open.spotify.com/album/3qQU6dnpM4ZsQx1ABxNZUy) | 3:17 | 2021-12-28 | 2022-03-02 |
 | [Ekoloma Demba \(Bonus\)](https://open.spotify.com/track/5uKbxMJk4Y8SFOV1lqtwsW) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:27 | 2022-01-08 | 2022-03-12 |
